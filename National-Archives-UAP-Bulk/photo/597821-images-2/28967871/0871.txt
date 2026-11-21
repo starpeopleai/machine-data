@@ -1,0 +1,50 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T16:02:06Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5360216, "source_ctime_ns": 1793378402975984270, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28967871/0871.jpg", "source_mtime_ns": 1785696521000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28967871/0871.jpg", "source_sha256": "a2e17dcd3b41d0f6db4b91428b2bd265cb547acb512172dffa7d3d9b283aeab5"}
+
+===== PAGE 1 =====
+{"alpha_words": 71, "chars": 635, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PAGE TWO RJEPNB 1
+
+il.
+
+ris
+
+iV
+
+V1
+
+RADIO ENGINEER
+
+Via
+
+A. RED GLOW.
+Be ESTIMATED ABOVE 13,449 FT | )
+C. NEG
+De STATIONARY WITH SLIGHT DRIFT
+E. FADED AWAY )
+F. THREE AND ONE HALF Hours
+PA. GROUND VISUAL
+B. BINOCULARS p
+C. NEG
+A. 13/2000E
+Be DAY
+A. 4% DEGREES 59° N 75 DEGREES 5a' W
+Be HJAL 43
+
+Ae MRe 38, , POTTSVILLE, PA
+
+B. NONE APPLICABLE
+
+A. HAZE TQ SIX THOUSAND FEET, CLEAR ABOVE. '
+Be 1. SURFACE 489 DEGREES 2 KNOTS
+
+2 6,302 35¢ DEGREES 7 KNOTS
+E3. 19,3990 323 DEGREES 11 KNOTS
+
+kh, 16,3922 359 DEGREES 135 KNOTS
+
+5e 29,335 549 DEGREES 12 KNOTS
+
+6. 33,240 34% DEGREES 23 KNOTS
+7. 50,902 333 DEGREES 24 KNOTS
+
+8. 8,999 UNKNCAN

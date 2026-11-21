@@ -1,0 +1,55 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T16:11:37Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7592935, "source_ctime_ns": 1793382086736664707, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28982620/1034.jpg", "source_mtime_ns": 1785701114000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28982620/1034.jpg", "source_sha256": "c351efce04bb3dd33f3673278a8dd1385d5f3ada4bf04f3fcbcd5dc175436868"}
+
+===== PAGE 1 =====
+{"alpha_words": 215, "chars": 1415, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+8. lf you saw the object at NIGHT, what did you notice concerning the STARS and MOON?
+
+3.1 STARS (Circle One): 8.2 MOON (Circle One):
+a, None a. Bright moonlight
+BDA few b. Dull moonlight
+c. Many Ce Ne moonlight—pitch dark
+4, Don’t remember >a Don't remember
+
+9, What were the weather conditions at the time you saw the object?
+
+CLOUDS (Circle One): WEATHER (Circle One):
+Ca. Lleor sky (a0ry
+b, Hazy b. Fog, mist, or light rain
+c. Scattered clouds c. Moderate or heavy rain
+d. Thick or heavy clouds d. Snow
+
+e. Don’t remember
+
+10. The object appeared: (Circle One):
+
+(6. Solid d. Asa light
+b. Transparent e. Don’t remember
+c. Vapor
+
+11, If it appeared asa light, was it brighter than the brightest stars? (Circle One):
+
+@ Brighter c. About the same
+‘ty, Dimmer d. Don’t know
+
+11.1 Compare brightness to some common object:
+
+A pe rbike sod Wurm
+‘ J
+
+12. The edges of the object were:
+
+(Circle One): Fuzzy or blurred e. Other of alae
+b. Like a bright star
+¢. Sharply outlined
+d. Don't remember
+
+13. Did the opiect: (Circle One for each question)
+
+a. Acpear te stand still at any time? C38 No Don't know
+b. Suddenly speed up and rush away at any time? No Don't know
+c. Brack uo into ports or explode? Yes fy Don’t know
+d. Give off smoke? Yes Qo Don’t know
+e. Change arightness? Yes ) Don’t know
+f. Chance shape? Yes (No) Don't know
+g. Flash or flicker? (E27 No Don’t know
+h. Disappear and reappear? Yes (9 Don't know

@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T15:48:18Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1760867, "source_ctime_ns": 1793388646674681243, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302530671/0499.jp2", "source_mtime_ns": 1785808489000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302530671/0499.jp2", "source_sha256": "764cdd3d205390ef5606731e9d09231ef2ccbaa0867a1ca6dd5749320e573429"}
+
+===== PAGE 1 =====
+{"alpha_words": 124, "chars": 931, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+1. DATE - 2. LOCATION 12. CONCLUSIONS '
+ee F OM Wos Balloon
+8 Oct 63 Charleston AFB. S.C. QO Probably Balloon
+3. DATE-TIME GROUP 1. TYPE OF OBSERVATION a Veen eee
+Local SQ Ground. Vi suol D Ground-Rodor O Wos Aiscraft
+nO Ian? Ql Probably Aircroft
+GMT VIfU NG a Ain Visual O Air-Interesp? Rudor GO Possibly Aircraft
+OYes 0 Probobly Astronomical
+Ne Military QO Possibly Astronomical
+7. LENGTH OF OBSERVATION 3. NUMBER OF OBJECTS | 9. COURSE O Other :
+1 Insufficient Dato for Evaluation
+ile ta m GO Unknown
+20 Seconds One NW
+10, BRIEF SUMMARY OF SIGHTING 11. COMMENTS
+a a a ee oY —~A > + f . $ . s . “
+i Goject = 8 pear aie aS orang? come’. (Meteor )with Although object gave impression of initial
+tall or emiauss 15k length of object. Appeared | climb, Duration,description and ell other
+in SS Horizon (145 deg az) and gave impression | carried as meteor
+disappeared in NW,
+
+ATIC FORM 329 (REV 25 S¥P 52)

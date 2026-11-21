@@ -1,0 +1,23 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T15:55:46Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4073461, "source_ctime_ns": 1793374568737631306, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28952202/1356.jpg", "source_mtime_ns": 1785696719000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28952202/1356.jpg", "source_sha256": "6686bbde46fe73e9ee097875e34dbafa8b9eb30c6752575748ba5afc9a6733cc"}
+
+===== PAGE 1 =====
+{"alpha_words": 63, "chars": 497, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+(Unclassified) Uaterial for Project Blus Zook
+
+Chief, Air Technical Intelligence Comaand 13 Jan 53
+vtightePatterson (ir Force Base 1
+Dayton, Chloe
+
+Capt Smabth/71014/ 2
+Department of the iir Force OTM=242
+Headquarters USAF = AFOIN
+
+inclosurs is for your information, retention and appropriate
+action.
+
+1 Incl (1/orig only) WILLIAM A. ADAMS
+Colonel, USAF
+FLYOBRET fre ' Chief, Topical bivision
+Holloman Ava Leputy Director for Ustiaates
+New Mexico Directorate of Intelligence 0163/0
+dtd 29 Dee 52

@@ -1,0 +1,50 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T15:44:28Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1448039, "source_ctime_ns": 1793390422874687567, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302549805/0945.jp2", "source_mtime_ns": 1785808113000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302549805/0945.jp2", "source_sha256": "04b02918da46a6cea1f85ff08c2b77c50c729f6dcb14535c1194737adf6378eb"}
+
+===== PAGE 1 =====
+{"alpha_words": 74, "chars": 655, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+| UNCLASSIFIED
+
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+INCOMING MESSAGE
+
+AFIN: 63762 (23 Apr 1966) | Pg 3 of 4
+
+PART F.
+
+PAGE 3 RUWHKPO824 UNCLAS |
+
+1. ALVIN HOCKEMA, ALSEA, OREGON, GRADER OPERATOR. VRS qua
+ALSEA, OREGON ALSO SAW IT AT SAME TINE, ‘
+PART Ge
+
+“m™,
+diate
+
+i. WX WAS CLEAR.-SOME FOG PATCHES.
+
+2. WINDS 359 DEGREES SURFACE #8 KTS : , \
+6M 928 DEGREES AT 11
+13M S48 AT 4h
+16M 318 AT 25
+20M 328 Ai 39
+
+|
+‘
+30M 363 AT 84 |
+4
+50M 329 AT 39 \
+80M 278 AT 14 |
+\
+
+CEILING = NO CLOUDS
+
+VISIBILITY - 15 PLUS
+
+reread (Ec aeale
+
+CLOUD COVER- 9/13
+
+THUNDERSTORMS - NONE |
+VERTICAL TEMPERATURE GRADIENT - SFC TO 4008
+SUNSET - 16/8302 - 17/03027

@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T15:54:43Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3979193, "source_ctime_ns": 1793375706567894332, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28957311/0404.jpg", "source_mtime_ns": 1785696568000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28957311/0404.jpg", "source_sha256": "6fa2ae6a90c57f25e6a8090e9223884b2dc5db599341d0a53c716ee98affea88"}
+
+===== PAGE 1 =====
+{"alpha_words": 106, "chars": 803, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ROP Se a 8 NL ETI LE PA ALCS NS A TN NES SA ETL TR ERAN b ONT ae ' _— ane bee
+
+PROJECT 10073 RECORD CARD
+
+2. LOCATION 12, CONCLUSIONS
+O Wos Ball
+WEST MINSTER, MD oO Probably Balloon
+Z. TYPE OF OBSERVATION - a
+Q Was Airerat
+EXGround- Vi suel © Ground-Rader Probably Aircraft
+0 Ain Vi suel O Air-Intercept Rader | Possibly Aircroft, 14.0.
+Was Astronomical 2 , r
+a Probably pyc
+O Possibly Astronomical
+7. NOTH OF CBSERVATION | % COURSE 0 Other
+l. seconds 1. East O Insufficient Date for Evaluation
+2.25 minutes 2. - —_
+10, BRIEF SUMMARY OF SIGHTING 11. COMMENTS
+le. R spinning ball with erratic though 1. Meteor
+atraight flight. Flight W to & snout 30 sec
+green & red fire. Exploded.
+2. At 4AM in West. Round, White, Blinked 2. Jupiter in West at 35°
+object stationary.
+|
+|
+
+Atte Form 329 (REV 26 SEP $2)

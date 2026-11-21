@@ -1,0 +1,109 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T15:43:12Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1329476, "source_ctime_ns": 1793356042715299590, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989300-001-0072.jpg", "source_mtime_ns": 1785564591000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989300-001-0072.jpg", "source_sha256": "54493f3ae993587b1562e0b4a65c6e1be9455ac8bc822b70f3ff0b358764bfa4"}
+
+===== PAGE 1 =====
+{"alpha_words": 204, "chars": 1946, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Controls, first use of (cont'd.)
+fixed needle-valve ballast leak,
+fixed orifice ballast leak, 43
+
+minimum-pressure switch with auto-
+
+matic ballast valve, 12
+rate-of-ascent ballast switch, 97
+rate-of-ascent ballast switch ~~
+
+combined with displacement
+
+switch, 102
+superpressure, 23
+
+lifter balloons, 5, 7
+solid ballast, 5, 7
+superpressure, 23, 38, 59, 63, 66,
+79, 87, 94
+typical flight with
+automatic ballast valve, 92
+fixed ballast leak, 82
+rate-of-ascent ballast switch
+combined with displacement
+switch, 102
+
+Deformation of air flow over mountain
+range, ll
+
+Destruction device
+first use of, 10
+first use of new design (rip-out
+principle), 41, (Fig. 16
+
+-Dewey and Almy, shrouded rubber
+balloons, 25, 38, 66, 87
+
+Dropsonde, 85
+Easterly winds at high levels, 60, 75
+
+Fixed-leak ballast control
+first use of, il
+typical flight with, 82
+
+Flight patterns, typical
+
+with polyethylene balloons and
+automatic ballast-valve control,
+92
+
+with polyethylene balloons and auto
+matic ballast-valve control
+thru a sunset, 90, 92
+
+with polyethylene balloons and
+fixed flow of ballast, 82
+
+Cc nt'd.
+creméent
+
+Flight tte ; ical
+with Phvber bel ieece an
+ballast loss, 5, 7
+
+Geostrpphic air flow, compared with
+balloon trajectories, 55, 58, 106, 110
+
+Lange barograph
+first use of, 52
+longest record of, 75
+
+Lifter balloons for altitude control, 5, 7
+
+Meteorograph, Fergusson, 35, 55, 39
+
+Minimum-pressure switch
+failures due to freezing of, 78, 80
+first use of, 12
+need for, demonstrated, 11
+
+Olland-cycle pressure modulator, use of,
+435, 52, 55, 58, 73, 97, 98
+
+Oscillations in the atmosphere, 10, 52,
+55, 58, 63, 71.
+
+Polyethylene balloons
+T*-diameter, 74, 76, 84, 86
+30'-diameter, 102
+15'-diameter, 10
+20'-diameter, 12, 17
+70'=diameter, 75
+
+Pressure-measuring instruments
+barograph, 33
+Lange barograph, 52
+Olland-cycle modulator, 43, 52, 55, 58,
+73, 97, 98
+
+Program switch, use of, 103
+
+Radar tracking, 75, 86
+
+Radio direction-finding
+airborne, 41, 103, 110

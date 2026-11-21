@@ -1,0 +1,52 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T15:44:38Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1625060, "source_ctime_ns": 1793356156979059100, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989305-001-0109.jpg", "source_mtime_ns": 1785564622000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989305-001-0109.jpg", "source_sha256": "63e936578a93b5fae9627eb92572d076f3611a414b946f656caac11daf1be917"}
+
+===== PAGE 1 =====
+{"alpha_words": 396, "chars": 2496, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Charles B. Moore
+1011 Cassity Street, N. W.
+P. O. Box 1333
+
+Socorro, NM 87801-1333
+505 835 0975
+
+July 1, 1994
+Lt. James McAndrew
+6502 Hansford Street
+Forrestville, MD 20747
+
+Dear Lt. McAndrew:
+
+Enclosed are eight, more-or-less pertinent photographs of the NYU Balloon Group activities
+during 1947 and 1948.1 would appreciate the return of seven of then when your need for them has
+been satisfied. The eighth, identified as "G-195(C) 4145 BU 7-22-48 E&A" of the inflation of
+a 72 foot General Mills balloon outside the North Hangar at Holloman, is an extra copy of the
+original print I gave to Mrs. Mildred Crary in December, 1993 for use in the Crary book she is
+trying to publish. I discovered this extra print after I left a message for you earlier today so, if this
+is a good enough copy for your use, you may not need to ask Mrs. Crary for the loan of the
+original (although it is a good, identifiable talking point to initiate further discussions such as
+information on some of Bert's correspondents).
+
+The significance of each photograph is described on the accompanying Xerox copies.
+
+Also included are copies of more correspondence that may be of passing interest. Some of this
+you may have already, so please ignore the duplicates. The correspondence with Irving Newton,
+the weather officer at Fort Worth AAF in 1947 who identified the debris, is interesting. The fact
+that Newton both remembered and thought noteworthy the pinkish-purple markings means to me
+that he was shown one or more targets of the type we flew AND he had not seen such markings
+on the earlier targets that he had flown in Okinawa. This supports my opinion that we were flying
+targets of a new design which few people, even in in the weather service, had seen before.
+
+I have mislaid my copy of Newton's response to Robert Todd's January 31, 1994 letter, but my
+memory of it is that he was unshaken in his identification and was very cooperative. You may
+want to talk directly to Irving Newton at 210 655 5829. To avoid any appearance of muddying
+the evidence, I have never contacted him but he comes forth as someone I would like to discuss
+the matter with, after it is settled (if that ever occurs).
+
+Robert Todd asks that none of his correspondence be distributed to anyone in the UFO
+community, however, he has told me that he is making all of the pertinent information available to
+Col. Weaver. To speed the communications, I am sending some of the related information that
+may be helpful.
+
+Regards,
+
+Charke

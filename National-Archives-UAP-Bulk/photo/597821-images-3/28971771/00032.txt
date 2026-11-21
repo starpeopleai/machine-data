@@ -1,0 +1,43 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T16:16:06Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8476844, "source_ctime_ns": 1793379249247005421, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28971771/00032.jpg", "source_mtime_ns": 1785701082000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28971771/00032.jpg", "source_sha256": "0a15de8aeef13d58283dc6be612cbf2ae239b87698276f11fce9423595df4066"}
+
+===== PAGE 1 =====
+{"alpha_words": 143, "chars": 1063, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ee PROJECT 10073 RECORD CARD
+
+1. DATE : 2. LOCATION 12. CONCLUSIONS
+\ 0 Was Balloon
+| 2 i) Havre AFS, Havre, Montana > Ae Sathonn
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION ee
+O Was Aireraf?
+Lecel 23/2140 N Xf Ground. Vi sual © Ground-Roder GQ Probobly Aircraft
+ony —24£04402— O Air Vi suel O Air-Intercept Rodar 0 Possibly Aireroft
+5S P os 6. SOURCE Qx Wes Astronomicel Star
+O Yes O Probably Astronomical
+x@ Ne Military © Possibly Astronomical
+7. LENGTH OF OBSERVATION 8. NUMBER OF OBJECTS | 9. COURSE S i ~ 5 = =
+¢ Dot votion
+irregular o Ve ida @ lg vaive
+45 minutes one motion
+
+10. BRIEF SUMMARY OF SIGHTING
+
+A round object, the size of a pea held
+at arm's length, was sighted in Havre
+AFS vicinity, was brighter than a star
+and had an irregular motion, Inversion
+present,
+
+11. COMMENTS
+
+Object moved from 15 dgr elevation
+down to 10 dgr elevation at head-
+ing of 265-270 dgr azimuth, Antare
+just set prior to sighting. No
+ephimirus, Venus or Jupiter in
+ecliptic at 17-19? Inversion,
+
+Case considered as astro,(star or
+
+planet.)
+
+ATIC FORM 329 (REV 26 SEP 52)

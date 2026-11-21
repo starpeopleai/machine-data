@@ -1,0 +1,54 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T15:50:43Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3484481, "source_ctime_ns": 1793374730988255096, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28952946/0567.jpg", "source_mtime_ns": 1785696804000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28952946/0567.jpg", "source_sha256": "ec0427b9f4490ce8618cc2ec2dbb6a98ffe312d3f9072ca7c0baa38a33e94bb6"}
+
+===== PAGE 1 =====
+{"alpha_words": 103, "chars": 909, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+(
+
+' ROJECT 10073 WEATHER DATA SHEE A aoc
+t.. DATE OF OBSERVATION [2. TINE OF OBSERVATION ]3. ee 10 | PBSERVING a,
+* os j ~) — ; A teyut? > baat
+et Nd be co C Aro y a ans ttl take ap ee AE At CAS.
+IR AR aR gg a
+ALTITUDE VELOCITY DIREGTION ALTITUDE VELOCITY DIREGTION |
+(feet) (knots) _ (degraes) (feat) CGmots) (devrees)
+1,000 30,000 90 2
+— fe) 329 a g6_ | 272
+- ? “> “=> , a '
+4,000 : - 3 oye 45,000 9 290
+5,000 vs 3 7) 50,000
+6,000 on 55,000
+| a ai
+| 8,000 Z| ayy, 65,000
+9,000 Ly 2F ¢ 70,000
+| 10,000 i 22¢ 75,000
+12,000 LO 290 80,000
+14,000 Ff PA 85,000
+| 18,000 35° 29) 95,000
+20,000 = ZO 100,000
+5. WAS AN INVERSION LAYER NOTED? LtYes No
+(If yas, at what altitude?
+>, WERE ANY THUNDERSTORMS NOTED IN ARSA? OYes CI No
+
+| (If yes, at what quadrant?
+
+r, CLOUD COVER:
+
+tentnas at
+tenths at
+
+feet.
+a feet,
+
+tenths at
+tenths at
+
+feet.
+fest.
+
+8. VISIBILITY was
+
+MILES,
+
+', GOMMENTSs
+
+TIC Form 333 (13 Aug 52)

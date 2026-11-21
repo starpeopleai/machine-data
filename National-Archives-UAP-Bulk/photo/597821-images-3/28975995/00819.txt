@@ -1,0 +1,23 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T15:57:39Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4424261, "source_ctime_ns": 1793380448979649069, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28975995/00819.jpg", "source_mtime_ns": 1785700986000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28975995/00819.jpg", "source_sha256": "09aabb48d84124d46d8b0763522cae012c7a2147ec95237b51b4646bbc9c63f9"}
+
+===== PAGE 1 =====
+{"alpha_words": 76, "chars": 521, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+2
+
+me
+
+Request for Copy - oo
+AFCIN-hDOe APCTI-hB a’ 38
+Sead —_
+hig pests 4g
+1. In accordance with a recently released A? Policy, all UFO filn,
+negatives, prints and other photographic material mist be returned to the
+owners a8 soon as possible, Reference AVR 200-2 dated 5 Feb 1958,
+
+2. As a copy of all photographs and film is required in the Air Force |
+“UFO Case Files," request a copy of attached film be made and returned to
+
+this office as expeditiously as possible,
+
+2 incl: NICHOLAS POST
+(50 Ft., Colored, Kotak)

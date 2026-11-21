@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T16:15:51Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8399337, "source_ctime_ns": 1793379869869714295, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28973713/0283.jpg", "source_mtime_ns": 1785700956000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28973713/0283.jpg", "source_sha256": "5abc8c262dca1265c3672831e300febd64654445244a742ae518317397c41de7"}
+
+===== PAGE 1 =====
+{"alpha_words": 56, "chars": 463, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+- PAGE THREE RJEPNY 28
+
+in ; a -
+
+(B) N/A Plt Ciel? GC dave”, 4
+(7) WEATHER Lace cual ta i Aart
+CA) CLR : - Hee t atanat 8 Cee Siete
+(B) SURFACE 220 oe 12 KT tee ce ae OE weir :
+19,999 35@ DEG 30 KT eragt
+
+16,999 Sta" pee 4@ KT
+20,000 349 DEC 50 KT
+38,390 $28 DEG 75 KT
+50,090 29 DEG 45 KT |
+69,008 270 DEG 20 KT
+(C) CLR : .
+(D) 15 NM
+CE) @
+(F) NONE
+(8) NORTHERN LIGHTS _
+(9) NONE
+€1@) USUAL COMMERCIAL
+(11) INTELLIGENCE OFFICER
+(12) NONE
+BT
+98/1542Z NOV RJEPNY

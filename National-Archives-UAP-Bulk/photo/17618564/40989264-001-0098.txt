@@ -1,0 +1,182 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T16:26:35Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 19160652, "source_ctime_ns": 1793355266497146490, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989264-001-0098.jpg", "source_mtime_ns": 1785564423000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989264-001-0098.jpg", "source_sha256": "5db50ad1a0e141eaa564682a1a28fc70c139dd6344101022a63251d42359d6b8"}
+
+===== PAGE 1 =====
+{"alpha_words": 1090, "chars": 7851, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+188
+
+other interested physicians. Certain of the maneuvers,
+particularly those which _ test cortical integrative
+function, are extremely important in the evaluation
+of an eye-witness. This is because they will indicate
+the ability of the observer’s cerebral cortex to proc-
+ess what his visual apparatus has fed in—to differ-
+entiate various kinds of sensory input, process detail,
+make associations, and integrate spatial relationships.
+More specifically, those tests that reflect cortical sen-
+sory status are particularly pertinent for eye-witness
+assessment. This is because there are numerous medical
+disorders that cause neurologic disruption at the cor-
+tical sensory level, resulting in hallucinations, delu-
+sions, distortions, and confabulations [6].
+
+“Organic” hallucinations and distortions often seem
+very real, even afterwards, to one only transiently
+afflicted and are apt to be reported as witnessed events.
+They can occur in people suffering from acute infec-
+tions, adrenal insufficiency, brain tumors, chronic
+pulmonary disorders (respiratory acidosis), compli-
+cations from vitamin deficiences and alcoholism, ab-
+normal calcium metabolism, low blood magnesium
+levels, epilepsy (for several reasons), and Sydenham’s
+chorea. In addition, there are scores of commonly used
+drugs which will produce hallucinations if taken in
+toxic quantities or, by certain people, in prescribed
+amounts. These include antihistamines, meprobamate
+(“Milltown”), dephenylhydantoins (antiepileptic
+agents), atropine (found in many non-prescription sleep-
+ing pills), and bromides (as in Bromoselzer). The re-
+port of an eye-witness who has been scrutinized for
+these possibilities alone (by history, examination, and
+necessary laboratory data) will understandably assume
+more creditability.
+
+The possibility that an observation may have been
+influenced by an “organic” delusion should also be
+investigated. Frequently, as with the hallucinations,
+there will be clues to this situation from the observer’s
+history or from some examination findings. Among
+the underlying medical causes of delusions are trichi-
+nosis, syphilis, hypothyroidism, calcium disorders,
+various blood disorders, encephalitis, and _pellegra.
+Some of these same disorders can, of course, also in-
+ruence observational reporting through other channels.
+
+Confabulation, as a neurologic sign, is particularly
+important to rule out in the eye-witness report because
+it can be so deceiving. In fact, it serves as a cover-up
+for memory impairment by filling in the gaps with
+sundry (but inaccurate) details. Typically, confabula-
+tion is seen in association with peripheral neuropathy
+(careful examination is thus apt to alert the physician)
+and is the result of either a blood disorder or, more
+commonly, exposure to toxins [7].
+
+Many gross mental aberrations, such as hallucina-
+tions and delusions, are not associated with abnormal
+physical or neurologic signs and can be causally traced
+to underlying psychologic disorders. These are likely
+to be recognized and so labelled in the neurologic
+
+phase of the assessment where, as in psychiatry a stand-
+ard mental status examination is used for ferreting out
+emotional disorders, as well as memory and other in-
+tellectual impairment. For example, the schizophrenias
+and psychotic depression. (which are the more frequent
+functional disorders associated with hallucinations and
+delusions) usually have well known clinical char-
+acteristics and will be obvious to physicians doing
+formal mental status testing [8].
+
+It is because of the less florid kinds of psychopa-
+thology that a thorough psychiatric evaluation should
+be part of an observer creditability assessment. The
+complexities and vagaries of the human personality
+ean lead to some gross distortions and fabrications
+around an event, particularly when witnessed by people
+who are borderline psychotic, paranoid, sociopathic,
+hysterical or inadequate personalities. Some of these
+people, when stressed, have brief, episodic breaks. with
+reality in which they are frankly psychotic and halluci-
+nate, yet then resume previous functioning. During a
+sophisticated psychiatric evaluation, the physician
+would be likely to recognize a propensity for such
+episodes. His main job, however, would be to gather
+enough information about the observer as a person to
+be able to check him out generally, psychologically, for
+creditability. This would involve complete develop-
+mental and psychosexual history, studying family
+relationships (past and present), assessing intellectual
+ability, elaborating on areas of major conflict, assessing
+for characterologic make-up and evaluating for ego-
+strength or weakness. In instances where an observer is
+being retrospectively evaluated (i.e., he has already
+reported an event) there should be an intensive effort
+made to explore the observer’s feelings about what
+he has seen and described. Such discussion, when
+properly guided, is likely to uncover inconsistencies
+and other helpful clues, in the case of the noncreditable
+observer. Unconscious motivational forces that have
+led to inaccurate reporting can sometimes be un-
+covered by exploring the observer’s fantasy life, listen-
+ing for slips of the tongue, or attempting free associ-
+ation. In an occasional observer, where substantiation
+of his creditability is crucial and there is vague reason
+to suspect it, a pentathol interview may be indicated.
+
+In instances where frank lying about an event is
+suspected, the observer can be questioned while moni-
+tored by a polygraph. This machine measures some of
+those bodily responses that are under the control of
+the autonomic nervous system which is, in turn,
+partly regulated by cortical centers. If the observer
+being studied is truly sociopathic and has never de-
+veloped a super-ego, or conscience, the polygraph will
+not be able to pick up his lie, since he will have no
+associated conflict on telling it. The lying will be picked
+up, however, when the polygraph is used on other
+personality types.
+
+Up to this point, this paper has focused on the many
+factors that interfere with observer creditability. There
+
+189
+
+is as well, an obvious positive application for these
+assessments. The psychiatric evaluation, for example,
+can be useful for further screening for the strengths of
+observer candidates who have already been ruled
+medically and neurologically intact. In addition to
+making some sound predictions about accuracy of
+reported observations, the psychiatrist could also
+explore the candidate’s ability to appropriately re-
+spond, under stress, to what he has seen. This aspect of
+an individual’s make-up is of grave importance (as
+implied earlier) in some military, security, and other
+
+key positions.
+
+Bibliography
+
+1, Bakers Mer Jin, “Observational Evidence of Anoma-
+listic Phenomena,” and ‘Future Experiments on Anom-
+alistic Observational -. Phenomena,” Journal of the
+
+Astronautical Sciences, January-February 1968. An Intro-
+duction to Astrodynamics, Academic Press, 1967, pp.
+319-333.
+
+2. Dr Waetr, J. P., ‘An Experimental Critique of Testi-
+mony,” Revue de Proit Penal et de Criminologic, 44: 955-
+980, 1963-65.
+
+3. Bratnerp, H., Current Diagnosis and Treatment, Lange
+Medical Publ. Los Altos, Calif., 1968.
+
+4. Wausu, F. B., Clinical Neuro-ophthalmology, 3rd Ed.,
+Williams and Wilkins, Baltimore, Md. 1957. _
+
+5. Smiru, J. L., Opticokinetic Nystagmus, C. C. Thomas,
+Springfield, Ill. 1966.
+
+6. Merritt, H.H., A Tertbook of Neurology, 4th Ed., Lea and
+Febiger, Philadelphia, Pa. 1967.
+
+7. Watxer, S., III, Psychiatric Signs and Symptoms Due to
+Medical Problems, C. C. Thomas, Springfield, Ill., 1967.
+
+8. Cameron, N., Personality Development and Psychopathology.
+A Dynamic Approach, Houghton, Mifflin, Boston, Mass.
+
+1963.
+9. Wavxer, S., III, “The Neuropsychiatric Evaluation of
+the Eye Witness,” To be published.

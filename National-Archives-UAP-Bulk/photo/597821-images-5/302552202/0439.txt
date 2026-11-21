@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T15:40:24Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 996094, "source_ctime_ns": 1793390661324216180, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302552202/0439.jp2", "source_mtime_ns": 1785808454000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302552202/0439.jp2", "source_sha256": "b45c2ee7329a5a0a38d7c138f3c9653d42ca4e79cea8c47635c6126581736d68"}
+
+===== PAGE 1 =====
+{"alpha_words": 62, "chars": 461, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+lee
+
+& ¢
+
+FTD (TDETR)
+Wright-Patterson AFB, Ohio 45433
+11 July 1966
+
+Northlake, Illinois 60164
+—
+
+Reference your recent unidentified observation. The
+information in your letter was not sufficient for
+evaluation. Request you complete the attached FID
+Form 16h and return it inthe envelope provided.
+
+We wish to thank you for reporting your observation
+to the Air Force.
+
+Sincerely,
+
+HECTOR Q@JINTANILLA, Jr, Major, USAF ;
+Chief, Project Blue Book
+
+a RRR 26. at

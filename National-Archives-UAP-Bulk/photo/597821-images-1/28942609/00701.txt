@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T15:57:50Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4500976, "source_ctime_ns": 1793372409362521760, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28942609/00701.jpg", "source_mtime_ns": 1785688503000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28942609/00701.jpg", "source_sha256": "3d79b0b78c01c1efd9a53bd2e5519145337a9ce07a53c8cc97ebf6f58e39a501"}
+
+===== PAGE 1 =====
+{"alpha_words": 110, "chars": 799, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+i, : ‘ ihe :
+ee C™ UNCLASSIFIED
+a 2-0 ! 11 July 1992
+Subjects Findings of Unconventional
+Airborne Objects, San Diego,
+California, March to June 1952,
+
+All of the above reports, along with the computations of Hr.
+GARR and his colleaguos, are inclosed in the attachod envelope as Inclos-
+ure #1 to this report, for the Commanding General, Air Materiel Command,
+Wright-Patterson Air Force Base, Dayton, Ohio, Attention: MCIS.
+
+3. ACTION: No furthor action in this matter is contemplated; however,
+4f and when additional reports are received from Mr they will be
+promptly forwarded for evaluation. ’
+
+« ‘
+1
+
+KEETE O'KESTE
+Colonel, USAF
+District Conunander
+
+or Co;manding General
+Air Materiel Comnand
+. Wright-Patterson Air Force Base
+‘ Dayton, Ohio
+ATTN: MCIS,
+ wfinel as listed in above letter
+
+@,;’.

@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T15:36:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 587965, "source_ctime_ns": 1793356090918413393, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989302-001-0019.jpg", "source_mtime_ns": 1785564605000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989302-001-0019.jpg", "source_sha256": "3d1259fe6d838e28e40ddfd0ceb7b0684686168f62e342c86ed2ec43b6ba64c4"}
+
+===== PAGE 1 =====
+{"alpha_words": 89, "chars": 543, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+GENERAL COUNSEL OF THE DEPARTMENT OF DEFENSE
+WASHINGTON 25, D.C.
+
+2), January 1958
+
+MEMORANDUM FOR HON. JOHN A. JOHNSON
+General Counsel of the Air Force
+
+I return herewith your draft of the matter which had been
+considered by Secretary Douglas and was discussed with Sec-
+retary McElroy.
+
+Our understanding is that this is to be kept for further
+consideration during the next three or four weeks and brought
+up at the end of that time in order to see if a decision
+
+can then be made.
+
+a
+
+ROBERT DECHERT
+RD:eps
+encl.
+
+Ww eke—
+
+Pon wee
+Q4S-S4%

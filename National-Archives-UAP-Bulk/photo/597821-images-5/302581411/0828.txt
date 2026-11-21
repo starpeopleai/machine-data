@@ -1,0 +1,24 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T15:40:12Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 990517, "source_ctime_ns": 1793393856999694815, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302581411/0828.jp2", "source_mtime_ns": 1785808011000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302581411/0828.jp2", "source_sha256": "be000e3a7b5ae8c723a6ef412de36f723ec96a058c02190e1c022d6928f0fbe2"}
+
+===== PAGE 1 =====
+{"alpha_words": 41, "chars": 221, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ws
+
+GA
+
+NAG
+
+pial ae an DY F#
+
+"oF i aagal Loy Mn, 4 fat 1/13/66
+A Wisre bnrformalion?
+
+PRON aegis
+
+WI ae tail poi! evra (Ma “ie Ni
+ty ers Wares (4 ae a ws :
+ake eave ore oe tie aang ver) is ‘spite meee et i Mace
+
+=
+
+#>

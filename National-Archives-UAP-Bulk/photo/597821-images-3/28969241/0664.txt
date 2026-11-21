@@ -1,0 +1,55 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T16:06:03Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6402651, "source_ctime_ns": 1793378781826135414, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28969241/0664.jpg", "source_mtime_ns": 1785700769000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28969241/0664.jpg", "source_sha256": "00e7da93977a9116b7fd24825c033d090eb809752f6f1fe01eaf9a575946584c"}
+
+===== PAGE 1 =====
+{"alpha_words": 111, "chars": 886, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+l DATE aa ' 12. LOCATION
+
+CONCLUSIONS
+
+~
+ND
+°
+
+Wos Balloon
+Probably Balloon
+
+—1i March 1957 Glynco NAS, Georgia
+Possibly Balloon
+
+‘3. DATE-TIME GROUP ‘| 4 TYPE OF OBSERVATION
+Local Q Ground. Vi sual 0 Ground-Redar
+
+GM 12/0100 x8 Air Visual ; O Air-Intercept Radar
+3. SHOTSS aia &. SOURCE
+OYes
+
+Was Aircraft
+Probably Aircraft
+Possibly Aircroft
+
+Was Astronomicol
+Probably Astronomical
+Possibly Astronomical
+
+O00 aog ooo
+
+_._ BNo Military
+
+7.. LENGTH OF. OBSERVATION 8 NUMBER OF OBJECTS | 9. COURSE GUXOtherFlare gq LOD
+
+- O Insufficient Data for Evaluation
+0
+
+Unknown
+
+unknown . at ieast two failing
+10. BRIEF SUMMARY OF SIGHTING 11. COMMENTS
+At least two white round lights which Description indicates bossible
+appeared to have been dropped in train;drop, Military a/c in area,
+Objects were seen both ground and
+
+.air visually.
+
+ATIC FORM 329 (REV 26 SEP 52)

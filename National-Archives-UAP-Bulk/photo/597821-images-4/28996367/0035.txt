@@ -1,0 +1,17 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T15:55:14Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4029955, "source_ctime_ns": 1793386494426663855, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28996367/0035.jpg", "source_mtime_ns": 1785748152000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28996367/0035.jpg", "source_sha256": "ef329e09b5c773c3db9613e3a0090b62bc4daed0249f23a8e79999bca9243d20"}
+
+===== PAGE 1 =====
+{"alpha_words": 40, "chars": 296, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+1, DATE - Time GROUP 2. LOCATION
+3. SOURCE 10. CONCLUSION
+7 4, NUMBER OF OBJECTS
+5. LENGTH OF O3SERVATION 11. SRIEF SUMMARY AND ANALYSIS
+& TYPE OF CS5ERVATION
+; 7. COURSE
+3. PHOTOS
+LY es
+Q No
+9. PHYSICAL EVIDENCE
+-LLNo
+2 FORM
+j FTD sep 63 0-329 (TDE) Previous editions of this form may be used,

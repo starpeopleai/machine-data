@@ -1,0 +1,52 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T16:15:05Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8324470, "source_ctime_ns": 1793379755305586094, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28973330/01434.jpg", "source_mtime_ns": 1785700819000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28973330/01434.jpg", "source_sha256": "38b8a449bce590d50eb659ee9ab10bfdb7ecc4e00af74520b139d3ccc1dd53c1"}
+
+===== PAGE 1 =====
+{"alpha_words": 77, "chars": 524, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+| 18 NONE
+
+41 NONE
+
+| 12 NONE,
+
+‘THIS REPORT IS FROM A DETROIT MAN
+DETROIT. THE ABOVE INDIVIDUAL®@ CLAIMS TO HAVE SPOTTED A SATELLITE
+
+Ae,
+: er Se
+4 oH
+
+$
+= .
+
+¥ gets!
+
+er “7
+:
+
+¥ *
+i en
+.
++ i .
+Nie
+eit
+
+ae de
+
+apa v boy 3
+: -
+b oes awl ety Bt
+teks fp a We de ;
+= Zz
+
+boa
+
+PAGE FOUR RJEDBW 4&6 ‘ a >
+a a" Se my Miewp
+
+THE TIME, THE OBJECT APPEARED™?O’ BE 2@ DEGREES ABOVE THE HORI >
+
+TRAVELING SSW TO NNE IN A STRAIGHT LINE, OBJECT WAS OBSERVED FOR ©
+
+" | 77 SFCONNC APPFARED TO RF A RRIGHT AS A -SFCONN MAGINTUDF STAR.
+
+a

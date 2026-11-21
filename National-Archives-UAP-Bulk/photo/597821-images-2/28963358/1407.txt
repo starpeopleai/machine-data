@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T16:05:54Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6393532, "source_ctime_ns": 1793377367506236463, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28963358/1407.jpg", "source_mtime_ns": 1785696891000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28963358/1407.jpg", "source_sha256": "5691159dfcd5a3676b0d5d8a2d30d816ec94dd8f45b025eac63c0e35c387826b"}
+
+===== PAGE 1 =====
+{"alpha_words": 121, "chars": 826, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+er 4
+Captain Gregory September 10, 1358
+J. A. Hynek
+ae Hopkinsville Case
+: | ‘The Chief foiog 3 Hopkins 5 AEE. it was he
+, | who statedthat the affaix was investigated by Air Force officers
+from For{ C erstand that MP's and a Pfc from Fort
+
+lished in the e Vennessee Leaf: Chronicle.
+
+Chief @SURGNEMP also stated that the affair had been investigated by
+two men from an unidentified agency at Standiford Field in Louisville,
+a commercial field. The Kentucky State Police investigated the case
+and their report and available sketches are on file with Trooper
+Riley's case report at Frankfort, oe Attached is a list of
+
+all people concexned in the case.
+
+y
+a
+i
+
+\ A Miss Isabelle Davis is preparing a full-scaled report, of which I
+\ shall receive a copy, after it has been cross-checked by the people
+\ involved.
+
+a
+
+x
+
+13 Ma

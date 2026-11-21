@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T16:06:46Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6554113, "source_ctime_ns": 1793376742440570868, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28961872/0131.jpg", "source_mtime_ns": 1785696852000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28961872/0131.jpg", "source_sha256": "8df5657e554df2c4ebe8ab40abed0e4a285c8667662cc43285090033eecf65b2"}
+
+===== PAGE 1 =====
+{"alpha_words": 149, "chars": 1097, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+( UFOB INDEX CARD
+
+1. DATE ; 2. LOCATION aa. 12. CONCLUSIONS
+2% fr? oil O Was Balloon
+“ratte 1955 Rome, Georgia 0 Probably Balloon
+3. DATETIME GROUP 4. TYPE OF OBSERVATION ol Fi hdctlel dacchadb bcd
+QO Was Aircraft
+Local B Ground-Vi sual G Ground-Radar eg Probably Airerate
+GMT OM 01102 May 1955 0 Air- Visual 0 Air-Intercept Radar O Possibly Aircroft
+5. PHOTOS 6. SOURCE O Was Astronomical
+O Yes O Probably Astronomical
+O Possibly Astronomical
+7. LENGTH OF OBSERVATION 8. NUMBER OF OBJECTS | 9. COURSE O Other
+; ; Oo i ahi Deta for Evaluation
+; ‘ Oo U
+Aporox.e. two (2) Minutes Taw (2) NYorth=west fal
+19. BRIEF SUMMARY OF SIGHTING 11. COMMENTS
+Father and nine (9) year old son observed Investigation by Flizht %C reveals
+aircraft of conventional type passing over= there was a flight of four (1) a/c
+head. As the plane flew away two (2) practicing breakeups over Rome during
+flaming objects appeared to separate from the time of sighting. Probably the
+the a/c, one in each direction from the obsexvers noted the above mentioned
+wing tips. afte
+
+AISOP Form 5 (15 Oct 54) sec sdec bans bienth oo

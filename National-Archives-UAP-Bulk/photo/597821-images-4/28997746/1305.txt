@@ -1,0 +1,42 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T15:54:32Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3951852, "source_ctime_ns": 1793386900411814836, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28997746/1305.jpg", "source_mtime_ns": 1785748452000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28997746/1305.jpg", "source_sha256": "45abfb99b7bdf8e3433e6e6780d84135d4469a0045530c2e46b10b35229b9e98"}
+
+===== PAGE 1 =====
+{"alpha_words": 82, "chars": 567, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+AF IN:
+
+BLRARHAAEINT OF THE At PORCE
+UNCLASSIFED AABSSAGE
+
+INCOMING
+
+15338 (20 Jun 62) X/ldb pg
+RUAUAZ/COMUSJAPAN FUCHU AS JAPAN
+
+PO
+fe)
+Fy
+nm
+
+FUAMNCR/COMUSKOREA SEOIL KOREA
+
+FUAGFL/COMISTDC TAIPEI TAIWAN
+
+RGHPD/CONA WFORPAC FORD ISLAND HAWAII
+
+RJYXSP/eINCSAC OFFUTT AFB NEBR
+
+FBEPY/CNO WASHINGTON DC
+
+RBEPW/SECNAV WASHINGTON DCN
+
+AF GRNC
+
+BI
+
+UNCLAS/C I RV I S/WV-2 V43185 VISUAL SIGHTING OBJECT SIMILAR
+TO DIM STAR GLOWING INTERMITTENTLY S6-22N174-41Y @825Z
+sé CUS VERY HIGH VERY FAST.
+
+UNABLE TO EVALUATE.
+
+or NOTE: DVANCE COPY DELIVERED TO CIN, OOP-CP AND DIA,

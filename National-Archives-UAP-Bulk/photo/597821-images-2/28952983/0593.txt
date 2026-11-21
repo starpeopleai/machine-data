@@ -1,0 +1,60 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T15:54:23Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3940425, "source_ctime_ns": 1793374737066208398, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28952983/0593.jpg", "source_mtime_ns": 1785696729000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28952983/0593.jpg", "source_sha256": "7d7897c4649fdd7be5a7c28ee1263b7e57a1cf08b4db1a9d47dc9d95accc9695"}
+
+===== PAGE 1 =====
+{"alpha_words": 96, "chars": 592, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+os x
+a f
+- .
+'s TI Wreat
+Wha Oh Das
+
+. 4 om
+ots 6 bm
+a aye
+* ‘
+ee an
+
+j ba .
+
+'T 1953 FEB 13
+
+he
+
+“ . '
+« Od be
+me oO
+
+? nn
+
+NCTASSIFIE
+
+y% | i volte EE tat = 2s
+Pp Jin PH Pe Fre Fe |
+
+BYG MITCHEL AF6 NY
+
+TEL Has
+
+ie
+
+AFS3
+
+ZEN/CE: CONAC MITCHEL AFB NY
+
+io (ee OI oe , ~ -, salir wis ik ae mre oan ers "4h 7
+
+it #92 DO ATTN ATIAAweC PD REF TWX THIS HAS Mil wien RITTEN
+on rT , -y t9T ‘ . . r . Ate te ee rs ~ : rN '
+
+Pl De LAYED DUE TO DIFFICULTY IN CONTACTING OBSERVERS PD EXPECT
+
+11/2339@7
+
+DOWNGRADED AT 3 YEAR INTERVALS;
+
+SCLASSIFIED AFTER 12 YEARS.
+” UNCLASSIF | DOD DLR 5200.10
+
+}
+
+oe)

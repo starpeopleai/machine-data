@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T15:47:35Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1749153, "source_ctime_ns": 1793393223891959772, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302575300/0665.jp2", "source_mtime_ns": 1785808081000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302575300/0665.jp2", "source_sha256": "5da508bf699516084f01f70d4c7eb4dfade7922fc9fe6e41bfd10c22203b5c8f"}
+
+===== PAGE 1 =====
+{"alpha_words": 40, "chars": 277, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+oe &
+| | UNCLASSIFIED
+
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+INCOMING MESSAGE
+
+AFIN: 41759 Pg 2 of 2
+
+PEARANCE TO DISAPPEARANCE ABOUT 69 SECONDS STOP OBSERVED BY TWO
+3 FER SONS: OU Y OFFICER AND OUTLOOW AB
+
+BT
+
+MASTER
+
+BT
+
+NNNN
+
+FORM
+
+AFHQ snes O-309C UNCLASSIFIED

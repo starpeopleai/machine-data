@@ -1,0 +1,40 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T16:04:56Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5943066, "source_ctime_ns": 1793370411703108348, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28934502/0392.jpg", "source_mtime_ns": 1785688717000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28934502/0392.jpg", "source_sha256": "ed7fba0f9f8243a339cac3fb552573090330e194f33e6155a5dade95e49fcb52"}
+
+===== PAGE 1 =====
+{"alpha_words": 21, "chars": 142, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+low Me:cico
+
+?
+:
+-
+
+USTYULy
+
+AUinz
+
+Se
+7 @
+
+hobbis:
+
+5]
+
+and
+
+‘Aimner
+
+a)
+re
+
+lent
+
+wLtn cis
+
+see
+mas
+
+929 ordvinal kevort in file
+
+e
+lie
+we

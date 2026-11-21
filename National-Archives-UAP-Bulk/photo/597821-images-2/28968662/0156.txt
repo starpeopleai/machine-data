@@ -1,0 +1,88 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T15:59:51Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4873319, "source_ctime_ns": 1793378635728503663, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28968662/0156.jpg", "source_mtime_ns": 1785696462000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28968662/0156.jpg", "source_sha256": "ae4203b95176c73f258adf5044d3c94d74a84b11de01e08b60f6566cdb458abc"}
+
+===== PAGE 1 =====
+{"alpha_words": 128, "chars": 1000, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+1. DATE
+
+18 December 1956
+
+2. LOCATION
+
+Miami, Florida
+
+3. DATE-TIME GROUP
+
+4. TYPE OF OBSERVATION
+
+Local BAGround- Vi sual O Ground-Radar
+cmMT__L8/0615Z DO Air- Visual O Air-Intercept Radar
+5. PHOTOS 6. SOURCE
+O Yes
+2XNo Civijian
+
+7. LENGTH OF OBSERVATION
+
+five minutes
+
+8. NUMBER OF OBJECTS | 9. COURSE
+
+one
+
+stationary
+then SSW
+
+12. CONCLUSIONS
+
+Was Balloon
+Probably Balloon
+Possibly Balloon
+
+(aa)
+
+a]
+
+aa]
+
+O Was Aircraft
+94
+
+Probably Aircroft
+Possibly Aircraft
+
+0
+O Was Astronomical
+
+O Probably Astronomical
+O Possibly Astroromicoal
+0
+0
+Q
+
+, Other
+Insufficient Data for Evaluation
+nknow:
+
+10. BRIEF SUMMARY OF SIGHTING
+
+One red and green blinking light.
+When first seen, object was station-
+ary in the South, but suddenly it
+veered to SSW at a very high rate
+
+of speed. Object was seen visually
+
+and through binoculars for five
+
+minutes,
+
+11. COMMENTS
+
+/
+
+Concur with reporting officer
+that sighting was probably
+caused by an aircraft.
+
+ATIC FORM 329 (REV 26 SEP 52)

@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T16:08:19Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6881643, "source_ctime_ns": 1793379995951978836, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28974148/0681.jpg", "source_mtime_ns": 1785701083000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28974148/0681.jpg", "source_sha256": "66bbc078a7b399bcfed511ccc981fe3d2e4d6688e102ec1bd2fabdc85a45963c"}
+
+===== PAGE 1 =====
+{"alpha_words": 44, "chars": 458, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+CA) THIN SCATTERED CIRRUS, CONTRAILS HAZY
+€B) SURFACE 208 DEG 4 KT |
+"6,008 270 DEG 25 KT (
+19,000 288 DEG 35 KT
+16,909 298 DEG 35 KT
+20,908 298 DEG 35 KT C
+38,988 308 DEG 59 KT
+
+59,098 309 DEG 45 KT | .
+88,908 289 DEG 39 KT C
+
+(C) NONE
+
+(D) 4 MILES IN HAZE |
+
+CESCATTERED ; C
+
+¢F) NONE —
+
+(8) NONE :
+
+(9) NONE | |
+' (19) LOCAL MILITARY & CIVILIAN TRAFFIC _ |
+| €11) SENIOR CONTROLLER 1/LTWEN P, LYNCH. _. |
+
+(12) NONE aoe |
+
+Br |
+
+/ (
+
+98/1543Z NOV RJEPNY

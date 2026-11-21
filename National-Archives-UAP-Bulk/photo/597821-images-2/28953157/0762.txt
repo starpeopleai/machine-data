@@ -1,0 +1,24 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T16:03:27Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5588114, "source_ctime_ns": 1793374774494125999, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28953157/0762.jpg", "source_mtime_ns": 1785696543000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28953157/0762.jpg", "source_sha256": "b73d075481ef3b4a517d76093c2a056bcf1675c2b900d0f9168556286f23c8f0"}
+
+===== PAGE 1 =====
+{"alpha_words": 22, "chars": 112, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+te
+ae OST,
+
+ey
+
+ry
+<2! Sa ee ee
+tS eat st
+
+% | i ae
+
+Poke.
+SSR
+
+rt, #
+
+: Peay
+hance ed HART L
+¥ we haere
+rer 3

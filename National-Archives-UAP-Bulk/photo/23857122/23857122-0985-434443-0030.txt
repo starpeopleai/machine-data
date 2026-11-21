@@ -1,0 +1,10 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T16:27:39Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 24456444, "source_ctime_ns": 1793356859665686101, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-0985-434443-0030.tif", "source_mtime_ns": 1785564776000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-0985-434443-0030.tif", "source_sha256": "ea5ac89256572425d954782db83803b68f5053c59d7600e281008f3f920a46b4"}
+
+===== PAGE 1 =====
+{"alpha_words": 11, "chars": 79, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ich AACE 540
+‘ We Needs
+
+Sp. ast Ya Ost
+
+Declassification Authority: NND 57565

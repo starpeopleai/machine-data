@@ -1,0 +1,21 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T15:53:50Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3852364, "source_ctime_ns": 1793374151253819346, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28950460/1135.jpg", "source_mtime_ns": 1785696432000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28950460/1135.jpg", "source_sha256": "0298ee0974090944786b9dd954ad524e6ea82fa74032941f025c524b7f4f5a73"}
+
+===== PAGE 1 =====
+{"alpha_words": 77, "chars": 490, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Washington
+
+10 November
+Dear
+
+The inclosed report of an unidentified object has been
+presented to me with an unusual degree of fervor by the
+author. He states that up until the time he saw the
+danned thing he was an unalloyed sceptic, but that now
+he is a thorough-going convert.
+
+His qualifications for unbiassed observation are considerably
+higher than most people's, He further makes the point that
+he had co-cbservers with qualifications and prior attitudes
+similar to his.
+
+Sincerely

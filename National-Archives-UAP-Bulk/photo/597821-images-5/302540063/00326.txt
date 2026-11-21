@@ -1,0 +1,15 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T15:41:16Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1032450, "source_ctime_ns": 1793389392260222572, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302540063/00326.jp2", "source_mtime_ns": 1785808203000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302540063/00326.jp2", "source_sha256": "a30d80430889d85f4cb953433f3922e5788d188680975a7401be67941ef8a32e"}
+
+===== PAGE 1 =====
+{"alpha_words": 81, "chars": 503, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ph POLITE one
+
+“es NEWS BRIEFS (Continued) : Among the several other recent fleps in various
+
+perts of the United States. was:one in Ohio, Pennsylvania, West Virginia, .. and
+Maryland, on the night of July 12th. Thousands of people in that four-state |
+
+ares phohed news media, police, and sheriffs’ offices to report a huge object
+at very nigh altitude. It may have been a weather balloon, although a spokes-
+man for Wright-Patterson Air Force Base stated that he "had no idea what the
+object was." :

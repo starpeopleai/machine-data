@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T16:09:31Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7041322, "source_ctime_ns": 1793380907022777016, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28978803/0478.jpg", "source_mtime_ns": 1785700925000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28978803/0478.jpg", "source_sha256": "e8eec8efce6c3106919e749221f1a3e5d9b2b681aa74afdbf3aca09acd6cd577"}
+
+===== PAGE 1 =====
+{"alpha_words": 86, "chars": 732, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+1. DATE 2. LOCATION 12. CONCLUSIONS
+: 8 x Wes Balloon
+3 Jul 58 5 Mi N of White Cjoud, Mich, Probably Balloon
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION anny erreen
+O Was Aircraft
+Local *%XGround- Vi sual 0 Ground-Redar a Prob abl “s Aircraft
+GmT__03/1900Z D Air Visual O Air-Intercept Radar | 2. Possibly Aircroft
+5. PHOTOS 6. SOURCE — O Was Astronomical
+O Yes O Probably Astronomical
+DWNo Civilian O Possibly Astronomical
+7. LENGTH OF attri’ i. : 8. NUMBER OF OBJECTS | 9. COURSE O Other
+35 mins stil] in view : ; O Insufficient Data for Evaluation
+one stationary 7
+10, BRIEF SUMMARY OF SIGHTING 11. COMMENTS
+Rnd, silver obj, size of dime. Undoubtedly a balloon,
+
+ATIC FORM 329 (REV 26 SEP 52) :
+
+q
+
+; j

@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T15:52:30Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3732364, "source_ctime_ns": 1793375956619851789, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28958503/00121.jpg", "source_mtime_ns": 1785696771000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28958503/00121.jpg", "source_sha256": "2808c058ac0a2fe2e1f1246f6642c773f01e39f967cc1193600799b985ceaef4"}
+
+===== PAGE 1 =====
+{"alpha_words": 24, "chars": 163, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+VS
+
+ic
+
+aor oe
+
+Fit I nen oe LN ee nn ee
+
+~~
+
+\
+
+a
+
+TECENICAL ANALYSIS DIVISION
+AIR TECHIWICAL INTELLIGENCE
+
+ae
+nief L. (*) Information
+
+fro} Control
+
+ATILW
+
+See

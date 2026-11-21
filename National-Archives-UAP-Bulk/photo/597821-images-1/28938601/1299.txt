@@ -1,0 +1,16 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T15:52:54Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3743978, "source_ctime_ns": 1793371512617297809, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28938601/1299.jpg", "source_mtime_ns": 1785688985000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28938601/1299.jpg", "source_sha256": "8aa90055b7c98d01739e68abec0cb771fe0cfb4463f7d13a53d52393086f5a21"}
+
+===== PAGE 1 =====
+{"alpha_words": 24, "chars": 132, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ol ONLY BK Oo
+ees GRAPHS OF MAPS of
+
+CHARTS OR GRAPHS
+OF CouksSEe of Ufo
+
+SIGATED AT
+Riser? | ENGLAN)
+
+(Oo No 199)
+
+UNSCLASS (Fred

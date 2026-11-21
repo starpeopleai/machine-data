@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T15:38:14Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 835241, "source_ctime_ns": 1793390194035493069, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302547530/0147.jp2", "source_mtime_ns": 1785808205000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302547530/0147.jp2", "source_sha256": "211dbbf240d521c071084d8f16c36afabd05e4a6ff52d703abc8a06a006fe9e4"}
+
+===== PAGE 1 =====
+{"alpha_words": 75, "chars": 492, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ba, 7 WHITES Tet E
+
+oe ie Much — _ 7
+
+DEPARTMENT OF THE AIR FORCE
+WASHINGTON
+
+OFFICE OF THE SECRETARY March 25 1966
+
+i {
+
+P Attached is FTD Form 164 which is vsed for
+
+a reporting observations of unidentified flying objects
+
+to the Air Force. In order for the Air Force to
+evaluate these reports, tais form should be completed
+as fully as possible and returned to this office.
+
+Sincerely,
+
+olsen! led
+
+SARA HUNT
+Community Relations Division
+Office of Information
+
+al 1 Atch
+FTD Form 164
+
+ee

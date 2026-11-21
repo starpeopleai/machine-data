@@ -1,0 +1,55 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T16:17:18Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8736426, "source_ctime_ns": 1793363624301837499, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785674/45484701-005-006-0085.jpg", "source_mtime_ns": 1785684938000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785674/45484701-005-006-0085.jpg", "source_sha256": "17083101a1841954d768324a1e3861ab52172a7e8f04fc4a5cc17ca1b0d4d32a"}
+
+===== PAGE 1 =====
+{"alpha_words": 338, "chars": 2324, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+11D 24-42
+DETAILS:
+
+l. This investigation requested by District Commander, 17th OSI District
+(IG) USAF, Kirtland Air Force Base, New Mexico, by teletype OSI=5=15C, con-
+cerning aerial phenomena which allegedly landed at Amarillo Airport, Amarillo,
+Texas on 12 May 1950.
+
+AT AMARILLO, TEXAS
+
+2. BOBBY GENE HUNTER, night service man employed at Tradewind Airport,
+Amarillo, Randall Coimty, Texas, accomplisted the following signed statement
+describing the object alleged to have landed at the Tradewind Airport between
+0100 and 0300 hours, 13 May 1950:
+
+"STATEMENT
+
+"STATE OF TEXAS )
+COUNTY OF RANDALL )
+
+18 May 1950
+
+"I, BOBBY GENE HUNTER, residing at 809 Georgia Street, Amarillo,
+Potter County, Texas having been duly advised of my rights under the
+5th Amendment of the Constitution of the United States by Dale W.
+Dawson, who has identified himself to me as a Special Agent of the Office
+of Special Investigations, (IG) USAF, do make the following statement.
+I make the following statement freely and voluntarily, without promise of
+reward or immunity.
+
+"Tl, BOBBY GENE HUNTER, was born 16 May 1930 at Wichita Falls, Texas.
+I was working at the "Tradewind™ Airport, Randall County, Texas, where
+I am regularly employed as “service-man" on the night of 12 - 13 May 1950.
+Between approximately 0100 and 0300 hours, 13 May 1950 I was in the
+vicinity of the intersection of the North = South, and East - West runways
+of the Tradewinds Airport changing the water sprinklers on the runways.
+I first heard a rumbling sound, similar to a deisel switch-engine or jet
+engine, and glanced in the direction of the Santa Fe Railroad tracks,
+approximately 1/4 mile distant. Being unable to see any activity in the
+Santa Fe Railway Yards, I glanced aloft, and saw what appeared to be an
+exhaust flame approaching from the West-South-West. Iwatched the approach
+of the flame until it passed overhead, and judge it's altitude to have
+been approximately 500 to 700 feet. I was mainly interested in it because
+it did not have any navigation lights and until then supposed it to be a
+plane.
+
+"After the object passed overhead I immediately returned to the main
+hangar, went inside. and tried to awaken AUDREY HARE, a pilot employed
+by Tradewind Airport, who was sleeping in the hangar. Being unable to
+
+Declassification Authority: NND 923007

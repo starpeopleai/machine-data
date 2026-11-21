@@ -1,0 +1,44 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T15:58:24Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4622570, "source_ctime_ns": 1793380516853903372, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28976507/01257.jpg", "source_mtime_ns": 1785701087000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28976507/01257.jpg", "source_sha256": "476dce4c8649ab56f5823e6afaffc7ff74ce862fdf8b4d65eb55e0f6400f19d1"}
+
+===== PAGE 1 =====
+{"alpha_words": 108, "chars": 818, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+pee
+
+SAFIS-3/Maj Tacker/ jma/74966/2
+
+24 February 1958
+
+Dear Mr.
+
+This is to aclmowledge and thank you for your
+letter of 20 January 1958 addressed to Wright-Patterson
+Air Force Base, Ohio, concerning an unidentified flying
+object.
+
+The object you observed was probably one of the
+new radar-search aircraft desigated WRe2. This aircraft
+has the same general configuration of a strato-cruiser,
+as mentioned in your letter.
+
+For your information illustrations of this type
+aireraft are inclosed, together with latest Department
+of Defense Pact Sheet on this subject, dated 5 November
+1957.
+
+Thank you again for your interest in this subject.
+Sincerely,
+
+LAWRENCE J. TACKER
+
+Major, USAF
+
+Executive Officer
+
+Public Information Division
+Officecf Information Services
+
+-COMEBACK-SAFIS-3
+READER-SAFIS-1
+STAYBACK-SAFIS-3
+
+58

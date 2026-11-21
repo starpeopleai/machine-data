@@ -1,0 +1,62 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T15:52:12Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3707354, "source_ctime_ns": 1793373452814080655, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28946988/0810.jpg", "source_mtime_ns": 1785688720000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28946988/0810.jpg", "source_sha256": "2f906f730e1745dc2c029683c7706efc60866f26cd4d59bc3c104e5a9e1841c8"}
+
+===== PAGE 1 =====
+{"alpha_words": 87, "chars": 678, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+we
+rf
+|
+: ’
+— ‘
+
+HQ..SaAM Ss FORM NO. 2
+(REV. 2 MAY 1949)
+
+N REPLY ADDRESS BOTH
+COMMUNICATION AND EN .
+VELOPE TO ATTENTION OF
+a
+
+SUBSBCT:
+
+THRU:
+
+HEADQUARTERS
+SAN ANTONIO AIR MATERIEL AREA
+
+KELLY AIR FOOTE BASE, TEXAS
+
+1 August 1952
+
+(UNCLASSIFIED) FLYOBRPT
+
+Commanding General
+
+ATIN: Intelligence Division
+Air Materiel Command
+Wreightecatberson AP Base, Ohio
+
+Director of Intelligence
+deadguarters, USAF
+Washington 25, 0, G.
+
+In compliance with AP Letter 200-5, dated 29 April 1952, the
+attached AF Form 112 is forwarded.
+
+a
+
+POR THE COMMANDING GENERAL:
+
+1 Inel:
+
+As noted —
+
+RO W. FOX
+‘Asst Air Frovost Marshal
+
+co: Chief, ATIC
+
+ATTN:
+
+ATIAA-2¢°
+
+Wright-Patterson. AFB, Ohio

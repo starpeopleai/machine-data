@@ -1,0 +1,66 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T16:20:04Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10632752, "source_ctime_ns": 1793363836679031034, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330786161/45484701-006-002-0023.jpg", "source_mtime_ns": 1785685025000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330786161/45484701-006-002-0023.jpg", "source_sha256": "d34b000ac4162f221d56cba9a09f859c2bc5c9f3c539135d02c7edb3b40dcdee"}
+
+===== PAGE 1 =====
+{"alpha_words": 202, "chars": 1538, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Or
+
+Investigative Detachment
+
+14th District OSI (IG) USAF
+Francis E, Warren AFB, Wyoming
+28 August 1956
+
+vd 8)
+MEMORANDUM FOR: Commander
+
+NY9450th Te Training Wing
+Francis ¢. Sioren Air Foree Bese,
+Wyoming
+
+SUBJECT: N\itunident its (Piying Object fepok 720 SEEN Py
+PIES WKS THOM , foufe Ff , Por etl,
+Cheyenne, YOMING on A7 Ceeg 5 °
+
+1, Reference is made to AFR 200<-2 dated 12 August 1954, rye ject as
+
+above. On 28 August 1956 thia office was advised by Alfred J,’ Nennisen,
+
+T/Set, AP12184735, 3450th Air Police Squadron, Francis E. Warren Air Force
+
+Base, Wyoming, that he hed received a rt of an unidentified flying
+
+object on 27 August 1956 from Mrs Jerry Wickstrom, Route 1, Box 687,
+
+Cheyenne, Wyoming, Mre Wickstrom reported that her son, David, hed
+
+observed the unidentified flying object at approximately 1815 hours
+
+26 August 1956, The Wickstrom ranch is located approximately four (4)
+
+miles north of Round-Top Reservoir on State Route 220.
+
+2- At approximately 0845 hours, 28 August 1956 David Lee Wickstrom,
+age 16 years, wee interviewed and the following information was obtained:
+
+(1) Deseription of the objects
+
+a. Shape. Object appeared round with convex tep and
+bottom, No visible protrusions,
+
+b. Size, Object appeared to be approximately fifteen (15)
+feet in diameter when viewed from the ground,
+
+6.- Color. Silver
+
+d,. Number, One (1)
+
+e. B/A
+
+£, Any discernable features, Object appeared smooth
+@. Tail, trail or exhaust, None
+
+h. Sound, None
+
+a. Other pertinent features
+
+Declassification Authority: NND 923007

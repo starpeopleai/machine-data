@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T15:46:06Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1708419, "source_ctime_ns": 1793389065897562440, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302535990/01267.jp2", "source_mtime_ns": 1785808151000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302535990/01267.jp2", "source_sha256": "06f681ab0bf9c71d870f84a1b128ba752c6fb97fbdfae6073408d3e67e73b649"}
+
+===== PAGE 1 =====
+{"alpha_words": 95, "chars": 650, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+INCOMING DEPARTMENT OF THE AiR FORCE
+
+MESSAGE STAFF MESSAGE BRANCH UNCLASSIFIED
+
+-— ee
+
+PAGE 4 RUWHKP 12 UNCLAS CORRECTED COPY B) a7 , ,
+AF IN : 38898 (13 Oct 64) S/hk Pg 4 of
+PART H. UNKNOWN. opal
+
+PART I. NONE, |
+PART J. NO UNUSUAL AIR ACTIVITY NOTED BY KENO AFS RADRON. TWO F-101
+AIRCRAFT AIRBORNE AT 81002 ENROUTE TO BOISE, IDAHO. UsS. WX BUREAU
+Es pe TAT OR MEDFORD, EGON. RELEASES RADAR OBSERVATION BALOOW 90002
+Rs DAILY. ee )
+
+PART Ke MAJOR ARTHUR F., SHIFLETT, STAFF INTEL OFFICER, PORTLAND AIR
+DEFENSE SECT OR. POSSIBILITY EXISTS THAT THIS SIGHTING COULD HAyE
+BEEN A MEDFORD WX BALLOON.
+
+BT NOTE: CORRECTED COPY OF AF IN 38835 (13 Oct 64).

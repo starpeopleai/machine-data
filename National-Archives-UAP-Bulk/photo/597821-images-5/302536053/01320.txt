@@ -1,0 +1,48 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T15:45:51Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1702994, "source_ctime_ns": 1793389071836516562, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302536053/01320.jp2", "source_mtime_ns": 1785808097000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302536053/01320.jp2", "source_sha256": "64c004ba7db2b6a944882fdc36ed1557eb0085fae4c76ed554aeef7b319f0695"}
+
+===== PAGE 1 =====
+{"alpha_words": 104, "chars": 692, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ee ta ae pxJo67/2 | 23. 2h...
+NNN la
+
+Re MING DEPARTMMERMT @F THE AIR FORCE
+MESSAGE STAPF NAHGG.AGE BRANCH UNCLASS#F FED
+AF IN : "58827 (24 Oct 64) D/ie Page 1 of 2
+
+INFO : NIN-7, XOP- i, “ XOPX-6, SAFOS- 3, scs- OsD-50 (68)
+
+SMB B177
+HQBI41ZCEJD554
+CO RUEAHQ dj bi
+DE: -RUHPF BS 24/0700 4 ie
+ZN R. fe one cae laa
+O 2.49 700Z
+FM COM BARFORP AC
+
+TO RUHPHH/C C1 HAWSEAFRON
+RUHLKM/C INCP AC AF
+RUHLKH/HADD KUNIA
+
+ZEN/C INCNOR AD
+
+INFO RUECW/CNO
+RUEAHQ/COFS USAF
+RUHLHQ/C INCP AC
+RUHLHL/C INCP ACFLT
+RUHLHS/C INC USARPAC
+RUHLK SA/P ACAF BASECOM COMMAND CENTER HICKAM AFB
+RUECW/SECNAV ie
+
+BT! i: }
+
+UNCL AS
+
+-* JANAP 146D
+
+1. CIRVIS REPORT
+
+2. V43205
+
+Pie
+
+UFO, ONE ROUND SHAPE.SSTAR MAGNITUDE ©

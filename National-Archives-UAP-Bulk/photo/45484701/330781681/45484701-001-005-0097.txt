@@ -1,0 +1,44 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T16:09:02Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7009468, "source_ctime_ns": 1793361901917539975, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330781681/45484701-001-005-0097.jpg", "source_mtime_ns": 1785684792000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330781681/45484701-001-005-0097.jpg", "source_sha256": "cb648e70f2641bcc3bbc87756e9b6c0ef52ce8df24c9029e85ef990cb69e246b"}
+
+===== PAGE 1 =====
+{"alpha_words": 233, "chars": 1460, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+%% April 1949
+1050 ~ 10355
+
+It was Sunday, 24 April 1949, around 1030 to 1056, about ? miles
+West of Caballo Dam. While we were tracking a balloon at about 40,000
+feet, true bearing wis around 210°, I ws tracking the balloon at the
+time, when Moore and Akers saw an object sailing toward the Kast about
+that time, Moore said, "Get on that object.” Moore took over the
+scope, and when he did that, that was when I saw the object, at about
+Bast-Soutie~Zast, elevation about $8° as shown on the drawing, traveling
+North, I took over the open sight on the Theedolite to try to put Moore
+on the object. We got on the objeot for a second about Yorth-Hact, and
+lost it again, anc could never get on it again because when it got
+almost North, we ran inte a whirlwind of dust, tt right before I lost
+it, the object ws rising plenty fast. I lost it about 36°, After about
+15 minutos we put up another balloon that went due South about 15 miles,
+at about 95,000 feet, after 88 mimtes flight
+
+The object locked to be about 1/4” ic diameter at arm length, ‘The
+eoler wise white to me.
+
+/o/ RICHARD G, DAVIDSON,
+FG2, UGH
+
+\
+|
+
+A. Where we were,
+
+B. Theodolite
+
+Ce Balloon about 40,000 feet elev. 60
+
+D. Where I first saw it, elev. about 36°.
+Elev. 25° and then it went straight up. I lost it about 35°,
+Caballo Bam, Hew Mexico, we were about two (2) miles West of there.
+
+WOTR: 14 Bo clouds. 2. Quiet, and "Stee Bake ASABE, 2° twail,
+
+Declassification Authority: NND 923007

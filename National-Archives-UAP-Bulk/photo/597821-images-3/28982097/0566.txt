@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T16:00:11Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5019949, "source_ctime_ns": 1793381909959513683, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28982097/0566.jpg", "source_mtime_ns": 1785700688000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28982097/0566.jpg", "source_sha256": "e14432086da85657aafa911c9806e57fa8f6a1d403d4e635a796325f59f193d6"}
+
+===== PAGE 1 =====
+{"alpha_words": 52, "chars": 408, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+= | SECURITY CLASSIFICAT!
+
+| JOINT MESSAGEFORM - CONTINUATION SHEET icine
+
+FROM:
+
+ATIC
+
+WERE THOSE USED BY A/C DURING REFUELING OPERATIONS.
+
+COORDINATION:
+
+AFCINe, EA - DATR /CAVH2 SP
+
+Col Glaser
+
+wom MET? scx ofp
+
+Col Gilbert
+
+[SHE SAGE [NGF | SEGIRIY CLASSIFICATION’
+NR PAGES | |
+AFPCDN-4Eh 2 ig UNCLASSIFIED
+5D, yY 55 173-] : : TY U. 5. GOVERN SENT PRINTING OFFICE: 1965-08229
+
+reaeih caveat Meat ol Tic

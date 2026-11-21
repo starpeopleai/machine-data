@@ -1,0 +1,37 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T15:38:05Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 835017, "source_ctime_ns": 1793390216274046921, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302547792/0451.jp2", "source_mtime_ns": 1785808498000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302547792/0451.jp2", "source_sha256": "b63bae1d636cb5192e1ca77374828393cdcaf667a08e2fad8d7ed67b95d531fb"}
+
+===== PAGE 1 =====
+{"alpha_words": 314, "chars": 1855, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+DR. THOMAS HEALVY, UNIVERSITY OF FLORIDA 898-7411 - TAMPA - He is
+interestedinUFOs, from the scientific view. He is planning to go up to Washington,
+DC in two or three weeks and would like to come to Dayton. He would like to
+generate tne first scientific conference on UFOs on each case, presenting the
+vest meteorologists to talk about investigations, and look through the cases
+with a scientific viewpoint. He feels if tne academic community would look
+at the cases with a scientfic viewpoint it would show that the Air Force is
+doing the 5est job they can. He felt that by generating a conference with the
+aid of our office that he would be doing a service not only to the Air Force
+but to the scientific community as well. Major Quintanilla told him he had
+a very good thought and thought it was a tremendous idea. Gave him Col
+Spaulding's address to go through.
+
+PHIL DONARUE - WHIO, Dayton - The investigation is still being conducted.
+
+JACK JONES, DAYTON DAILY NewS, Dayton - nope to have results tomorrow
+
+afternoon.
+
+FRED STIR, ANN ARBOR = regarding statement oy AP - with collection of
+information and investigation is proceeding nicely, we nope to have an explana-
+tion, hopefully sometime tomorrow. it depends on now fast Dr. Hynek and Moody
+can check it out the we can work it out and go over the data. Hope to have a
+press conference tomorrow at Selfridge, etc.
+
+JOHN WEENEY - 223-111L,JOURNAL HERALD - wanted to know 2bout the Michigan
+ease. Told him nothing new except what had been given to Jones that morning at
+the Dayton Daily News, about 1 hour ago. He said I couldn't have-talked to
+Jones Lhour ago and surely there was some news. I told him that if he didn't
+want what we had to say he could go over and ask Jack Jones at Dayton Daily
+News (other side of building). He said he wouldn't do that because they were
+
+their competitor.

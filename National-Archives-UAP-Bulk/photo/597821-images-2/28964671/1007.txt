@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T15:55:02Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4021585, "source_ctime_ns": 1793377630356566885, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28964671/1007.jpg", "source_mtime_ns": 1785696660000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28964671/1007.jpg", "source_sha256": "3272bc6ddf765be9b38875ce964d83e36cb53587c68a30d4c8cc6d1c5a9d2d5a"}
+
+===== PAGE 1 =====
+{"alpha_words": 111, "chars": 893, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+4 - &
+eee
+b
+‘ ~»
+Lane “i
+y ; as o
+, a . oy oe,
+2 Pies ioe iat ‘PROJECT 10073 RECORD CARD -
+1. DATE "2. LOCATION 12, CONCLUSIONS
+i ets we ‘ Q Was Balloon
+25 January 1956 Edison, Washington a] Hick atalk- ap traa
+3. DATE-TIME GROUP & TYPE OF OBSERVATION QO Possibly Balloon
+Loca ' 3 "MKGround-Vi sual O Ground-Radar eS abie Aiceeare
+GMT_# '2670400- 04202 O Air Visual O Air-Intercept Radar | 7 Possibly Aircraft }
+5. PHOTOS: a ‘SOURCE O Was Astronemi col
+0 Yes Nees ; Q Probably Astronomical
+me ot Civilian. 0 CG Passibly Astronomical
+7. LENOTH OF OBSERVATION ™ [NUMBER OF OBJECTS | 9. COURSE O, Other
+. : ee oath fe Fig ‘ i Q Insufficient Data for Evaluctian|
+
+20 minutes one
+
+ehknown
+
+10. BRIEF SUMMARY OF SIGHTING: Hea ge
+ound, size of. pea, ye. @llowish red, _
+noted about 500° ft "above skyline.
+and glided down similar to a/c and
+Slowly faded-out.. © “98H
+
+ATIC FORM 329 (REV 26 SEP 52}:

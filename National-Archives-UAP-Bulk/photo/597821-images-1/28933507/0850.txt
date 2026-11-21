@@ -1,0 +1,45 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T16:02:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5526521, "source_ctime_ns": 1793370005276731638, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28933507/0850.jpg", "source_mtime_ns": 1785688918000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28933507/0850.jpg", "source_sha256": "27acb9d402b6f42e555e636e62b9b301376f53298f5985ca2fee9e0ac512f996"}
+
+===== PAGE 1 =====
+{"alpha_words": 130, "chars": 858, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+DEPARTMENT OF THE AIR FORCE
+
+HEADQUARTERS UNITED STATES AIR FORCE 5D-031/JaM/Pmn
+WASHINGTON
+
+THE INSPECTOR GENERAL, USAF
+
+~ —
+a i rm ae ye Se Te | STH DISTRICT OFFICE OF SPECIAL INVESTIGATIONS
+a Kr 7 : Phase my i eo
+MF Se deme Th et ee eo WRIGHT-PATTERSON AIR FORCE BASE, DAYTON, OHIO
+ee 7
+iN REPLY REFER TO. 5D 22} Oy 15 June 1 os)
+
+SUBJECT: PROJSCT GHUDGS
+SPECIAL INQUIRY
+
+a3
+©
+ae
+
+Comnanmling General
+
+Air Materiel Comnand
+Wright-Patterson Air Force Base
+Dayton, Ohio
+
+ATTN: MCLAXS
+
+Le Inclosed for your informetion, and any action deemed necessary,
+is report of Lnovestigasion by Special Agent GEORGE E, SWINFORD of this
+
+office, dated 19 J ung 1949.
+
+2. With the submission of this report the files of this office
+are being closed in instant case»
+
+1 Inel ff
+R/i dtd 10 Jun 49 (/ Captain, USAF
+(in dup) / Acting District Commander
+Cy to: Hq OS1/w Incl

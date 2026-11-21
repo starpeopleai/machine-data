@@ -1,0 +1,63 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T16:09:21Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7036075, "source_ctime_ns": 1793384864460171583, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28991236/0917.jpg", "source_mtime_ns": 1785748283000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28991236/0917.jpg", "source_sha256": "5ec175b5c99b6faddb6ec3c4296ac17058b9d01ae799417ab365601af8080a5c"}
+
+===== PAGE 1 =====
+{"alpha_words": 100, "chars": 695, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+sess FSET Sh ec eae
+ry bs , : f\y ah
+‘* : eat ale | f ang o~ ; .
+q iF ti Hi Hy pesitte ss _
+CZCSQA2 26 ZCJYFS52 Aran
+es | 3 P
+
+CO RJEDSG
+DE RBUPF ¢33 ~
+
+ZNR
+
+OP 2g2%4sz _
+
+FM COMBARPAC ~~
+
+TO RJHPEM/CINCPACAF HICKAM
+RBHPQ/COMMAWSEAFRON |
+RBHPHH/COMHANSEAFRON CCC
+RJHPKAZADCC WHEELER ATB
+
+RBWPPG/COMVESTSEAFRON
+
+RUWFALB/CINCHORAD
+RBHPA/CINCPAC
+
+RUHPFS/CINCUSARPAC FT SHAFTER
+RBHPB/CINCPACFLT
+
+RJAPAA/COMUSJAPAN FUCHU
+RUAMC/COMUSKOREA SEOUL
+RUAGFL/COMUSTDC TAIPEI
+
+RJEDSQ/ATIC WRIGHT=PATTERSON AFB -
+RJAPAA/ATIC DET FOUR TOKYO
+
+~
+
+tl
+
+RBEPW/CNO
+
+RBEPW/SECNAV
+
+RBHPY/CTU 32.4.1
+
+SAVY CRNEC
+
+Bt
+
+UNCLAS
+
+CIRVIS EVALUATION 282113Z- NO FURTHER INFO. NO THREAT
+
+Sta . - "
+
+i te tia bea! Sa in ade
+
+NE
