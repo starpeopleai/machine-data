@@ -1,0 +1,7 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T17:25:03Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 15807876, "source_ctime_ns": 1793365778505202534, "source_file": "National-Archives-UAP-Bulk/photo/542184/341-PBB-528-Roll1-0098.jpg", "source_mtime_ns": 1785565427000000000, "source_rel": "National-Archives-UAP-Bulk/photo/542184/341-PBB-528-Roll1-0098.jpg", "source_sha256": "dc10ff8d9f5e61415a911d947b3ade1e3e50882547d6762fff6cead1a05fd4a3"}
+
+===== PAGE 1 =====
+{"alpha_words": 3, "chars": 11, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 1, "variant": "plain-psm3"}
+ae
+
+Be MR

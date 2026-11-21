@@ -1,0 +1,76 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T16:51:08Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1716779, "source_ctime_ns": 1793389033208487188, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302535663/00972.jp2", "source_mtime_ns": 1785808552000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302535663/00972.jp2", "source_sha256": "6e8adb0e917b975549c9cd110d12f73e1b7d427db362313b8e046dbacd966fbd"}
+
+===== PAGE 1 =====
+{"alpha_words": 303, "chars": 2905, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+entificotion COLUMBIA MO U.S. DEPARTMENT OF COMMERCE Year | Month} Day | Time ‘ox
+88° Be . . WEATHER BUREAU
+y S s° 8 N g2e 29" W . * Actual ce as
+STG > a : . F ¥ % sme ! D r} i
+ite Oth Meridian El. 238 WINDS-ALOFT COMPUTATION SHEET epee 1954 gk Oo D'6
+‘2Winsonde WBRT-57 (LAND STATION FORM) (G.M.T. at PAbee G 2 ) Pao!
+WBAN-20 Ascension No. an: -
+, Pibol Elovation anglo®? Wind a Ba
+co ager Rawin : = Distance from Azimuth °G
+Slant ronge Sy ht. above Ob d | Smoothed observation za = _| & [Direction®| Speed oa
+(M.) yds.) | yoo. [3] surface rn point angle "1 2 | 3600=N | (mops) | |” €
+on (r.) (m.) = | a
+4 of 2 a a} a yr 6z
+14570 [51] / 7 ce Re / is Bp 57S 22 24 o-Z151 2.
+= “: sd = =F e vo
+ae Te 17/8] Z£G- S82] of] 3 0)) gg
+15145 ‘SOBA AIDGIS LILO O foods 450 ‘ 2”
+ae kd eee 725 fo Zi 2'& emuw! S|S| 5) 5/2) =ji2 (2 \x)] 2
+1825 154] / 3 2hO| /2. 717 S3SOO |255.7 || 260) 950 on ds S&S Bi ee Se :
+18705 Iss} sz HID | /5.5S Leesan ZC <¢ 133 +. aa
+- c "i ee 2 : ES a
+issas [56] / 3 +77 1/643 JEYIO a c¢Kjyr 156] 96 6 | 74 = e° 1. Nome o!
+16265 | 57 )b-20 ? € ty 57 Station
+A tf @ 47 - ie “> ’ am a 4) ~ 2. Lat. an
+16545 [58} //L «~~? 9 [500 “Lf AH D/A 2s foe-|S8i~/, 3 | oe {.0 e_£ long.
+= — ~ _ ° e™—=
+16625 | 59 Vee, ‘1 22 GI 59 es 3. bee
+a 2: er os P= r —_—~ = eo andor
+17105 {60} AY FI 91S 75 SIY¥OD \2FS7A7 || JC4) f£ 4S es time,
+ane > os -— one oem my a om = - ee Pi [2] ° . « OF o
+17670 | ga}. tA 0/7) SI 300 |ItS57 fF \62) 9-7 | [34 = 5. Method }
+; " —— obs., ¢
+17950 | 63 saan Vb DO — 2. CF 2| 63 —-_ ° : rowinsoe
+18235 | 64] /¢ PED 13,72) Eas a 7 |3 SG 2 | 64 Rs 4 S49 = 3 rawin, j})
+- Py r ' -
+18515 | 65 16.25 2 Coes | 65 rs 4 ; pn
+18795 166) /. ODD | 15,45 En @aled) 7 §C-< | 66] #75 Y-O : ~ WBRT-4
+19080 | 67 Jin» %\ 7té.k | 67 é 4 —
+=a ee y, eed wo. GMD-1, |
+19360 168} / 72.06 1/4, 70 456 4D Div. £\ 68} I, 6) %, 3S SCR-55.
+is6as [69 TZ LES | a —
+wy - _— a . ge ©) ra ff 7 E
+19928 | 701/77 YS IT. JD Z2rL0?8 | } sein IY S| 6. or
+ae ou
+20210 | 71 17,32 2 feEL¥ ITN : a 22
+= 3 a oe ro : mF in a £5
+ot 20490 | 72 185 0O 17,50 vo O POO 24272) 72| 7) 5S “
+20775 |73 WASS DIF. p 173 emu S/S)S/S)S/=/=/2/= |-
+2105s }74| /P S20) |) 7,22 SESOGO |25¢. ) || DVY| £0
+21340 | 75 BACs 2? (&./|75 « 0%
+yr cy Ta f? . so ; ae ‘ a = sid oe
+21620 | 76} / </ 7&4 O nmoae SY 02 > £7". 0! % 2 4 | O so] wicca
+’ 4 = a ae E # Altitude:
+21905 | 77 : Sh: 3) v j cil 77 Bid in ay
+22185 |78 EF, 420 V8. 2? SI 50d V0. ,
+
+22470 |79 Sk: G f 9b ff 79
+
+22750 feo! Jy SPO VWs Z9G23¢0 26,9 | 80 3) 4 0
+
+(pre he A oe
+
+< A / i O
+conte LP OD 24 LT {81 Punched Card Data
+~ p pe «) * re. ~ fhe
+i aaa “ er v ~ “i olUW -~
+i 23600 | 83 7. f> eH DTé-/ 183 3| = es e 2 a a
+: j are c ce |} so] Salr5ltileal| Sa
+23880 |g4l_ J) TIO] a 30 OGASFZOl2 54288] 52 12H S)esl Sel89e\53 | bE
+“) + et) rd “ b~d es ie a
+24160 85 ‘ 4 Po 24 “ S 85 . Card No. 3 15 Card No. 4
+: ee eT, Ae ES Oe LP 4 on ps > csteTm esl LAG ae Type of | «< te Type of é

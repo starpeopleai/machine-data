@@ -1,0 +1,61 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T17:00:54Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4482131, "source_ctime_ns": 1793374358680344647, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28951332/0547.jpg", "source_mtime_ns": 1785696774000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28951332/0547.jpg", "source_sha256": "93177c83b8f584d95400d739cab0be96f69e92e5bcb112a030aa3f543b8077a7"}
+
+===== PAGE 1 =====
+{"alpha_words": 216, "chars": 1338, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+19.
+
+Page 5
+
+18.2 Move in front of something? (Circle One) Yes (9) Don't know
+IF you answered YES, then tell what it moved in front of.
+
+18.3 Blend with the background? (Circle One) Yes) No Don't know
+
+Which of the following objects is about the same actual size as the object
+you saw? (Circle One):
+
+@ Pea f. Automobile
+
+} Baseball ge Small airplane
+
+Ce) Basketball he Large airplane
+« Bicycle wheel i. Dirigible
+
+ee Office desk je Other
+
+19.1 Circle one of the following to indicate how certain you are of your
+answer to Question 19.
+
+a) Certain ce Not very sure
+« Fairly certain dad. Uncertain
+
+Try to tell the following things about the object:
+
+20.1 How high above the earth was it? = /(/0 .) 200 feet.
+
+20.2 How far was it from you? feet or £,.54'7)
+
+20.3 How fast was it going? miles pe
+
+20.4 Circle one of the following to indicate how certain you are of your
+answer the above questions:
+
+2 Certain c. Not very sure
+(bs Fairly certain d. Just a guess
+21. How did the object disappear from view?
+(Circle One): €) Suddenly c. Other
+e Gradually ad. Don't remember
+
+226
+
+In the following sketch, imagine your eye at the point shown. Place an "A"
+on the curved line to show how high the object was above the horizon
+(skyline) when you first saw it. Place a "B" to show where it was when
+you last saw it. Overhe aa
+
+2
+
+Horizon
+
+a’
+You

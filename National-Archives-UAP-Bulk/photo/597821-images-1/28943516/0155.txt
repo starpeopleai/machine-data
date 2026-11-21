@@ -1,0 +1,54 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T16:55:48Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3620217, "source_ctime_ns": 1793372639028113039, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28943516/0155.jpg", "source_mtime_ns": 1785689043000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28943516/0155.jpg", "source_sha256": "bb2206e81f85cc533b9116dc372ab589f1a8937ab0b04774f856df5d9ad77636"}
+
+===== PAGE 1 =====
+{"alpha_words": 458, "chars": 2700, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+6 July 1952
+
+Subject: Investigation of Revort of Sighting Near Hanford, Washington
+
+1. ‘The first mention of this incident appeared in the Dayton Daily News
+on Sunday, 6 July 1952, The article entitled “Flyers Report Saucers Near Atomic
+Plant" was featured on the front page of the Dayton paper, About 10:30 EST on
+6 July the ATIC Duty Officer was contacted to see if ATIC had had any word on
+this sighting, ‘The results were negative, About 1500 on the 6th, the United
+Press representative of the Vayton Daily News called Capt Kuppelt and wanted to
+know if the Air Force had any comment to make on this, He was told that Cant
+iuppelt was not authorized to make any statement and that all that we lmew about
+the sighting was what we had read in the paper.
+
+2, At 1725 SST, a call by Capt Ruppelt to the Controller of the 25th Air
+“izision at McChord AFB was made (Telephone Lakewood 2121, Ext 571). A Cant
+Fisher, Controller on Duty for 25th Air Division, took the call at McChord AFB,
+
+He stated that he personally was not familiar with the incident since he was
+
+not on duty at the time it occurred, however, he did have a note in the Controller's
+log and an info copy of a wire message that had been sent out by McChord Flight
+Service, As far as he knew the sighting had been reported to CAA Radio facility
+
+at cllensourg, Washington, and relaid to McChord Flight Service. He also believed
+that there were actually two sightings. One made from 0545 to 0553 PST by a
+
+pilot of a C46 type aircraft over Ellensburg, Washington. ‘he pilot of the
+
+C-45, which was numbered MC 1837M, was baldwin.
+
+3. The second sighting occurred at 0600 PST. It was also an airborne
+sighting over Hanford, 75 miles from Ellensburg. This sighting was by a pilot
+of a Conneis Airliner, This is a non-scheduled airline base in Florida, The
+‘aircraft was at 9,000 ft. at the time of sighting.
+
+4. The Controller at 25th Air Division was queried as to whether or not
+they had scrambled any aircraft or whether or not there were any radar contacts
+in this incident, The answer in both cases was negative.
+
+5. The controller was requested to have the Intelligence Officer of the
+25*h Air Division make sure a complete report had been filed on this and to
+clarify whether or not this was two sightings or one sighting revorted to two
+different agencies, He stated that he would do this and as far as he knew a
+wire had already been dispatched to ATIC telling of the incident,
+
+6, Shortly after the call, Col Bower of ATIA was contacted % see what we
+should do about the newspapers that had been calling, Gol cower stated that we
+could continue to stall them off with a no comment answer and if they got
+insistent to call hin,

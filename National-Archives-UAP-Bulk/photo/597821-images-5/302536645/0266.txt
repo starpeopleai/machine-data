@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T16:41:56Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1000010, "source_ctime_ns": 1793389120097266511, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302536645/0266.jp2", "source_mtime_ns": 1785808359000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302536645/0266.jp2", "source_sha256": "1da78cbd625e57c434128895e804ff0cb7727e329ba67f1e848d30877a23d849"}
+
+===== PAGE 1 =====
+{"alpha_words": 129, "chars": 878, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+1, DATE « TIMC' GROUP 2. LOCATION
+19 November 64 19/1109Z 34.55N 164.05E (Pacific)
+3, SOURCE 10. CONCLUSION
+
+Military UNIDENTIFIED
+Object blinking and in flight from horizon to horizon in 20 secods
+» NUMBER OF OBJECTS at speed of over 10,000 mph and at low altitinde does not comform| |
+with any known object or phenomena, Case regarded and unidentifjed
+
+One
+- LENGTH OF OBSERVATION V1. BRIEF SUMMARY AND ANALYSIS
+10 Seconds Bright white flashing light at low position angle of 15 deg |
+
+. TYPE OF OSSERVATION in flizht on course of 020 degrees at speed in excess of
+10,000 mph. Object appeared to be in level flight and was in
+
+Ground=Visual sight for 10 seconds. Would take abowk 20 seconds to go from
+. COURSE horizon to horizon,
+
+020 Degrees
+. PHOTOS
+
+OG Yes
+
+XE No
+9. PHYSICAL EVIDENCE
+
+O Yes
+XX.Ne
+
+FORM
+FTD sep 63 0-329 (TDE) Proviaue editions of this form may be used,

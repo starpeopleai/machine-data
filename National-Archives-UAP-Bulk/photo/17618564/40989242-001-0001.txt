@@ -1,0 +1,49 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T17:11:20Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6488878, "source_ctime_ns": 1793354928368009605, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989242-001-0001.jpg", "source_mtime_ns": 1785564364000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989242-001-0001.jpg", "source_sha256": "1cd455fcf843883910d1ba1e84f6cce680209a7123a5686e01af844cc75434c9"}
+
+===== PAGE 1 =====
+{"alpha_words": 435, "chars": 2940, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+STATEMENT OF WITNESS
+
+Place : Tularosa, NM Date: 28 May 95
+
+L, Bernard D. Gildenberg, GS-14, (Ret), hereby state that James McAndrew was identified
+as a Licutenant, USAFR on this date at my home and do hereby, voluntarily and of my
+own iree will, make the following statement. This was done without having been subjected
+to any coercion, unlawful influence or unlawful inducement.
+
+I became involved in high altitude balloon development while an undergraduate student at
+New York University (NYU). Following graduation I was hired by the Air Force at
+Holloman AFB and worked continuously as both a meteorologist and aerospace engineer
+at the Balloon Branch from 1951 until my retirement in 1981. My job responsibilities were
+to forecast the weather and fly by remote control, high altitude balloons for many different
+scientific projects. During this time, I became internationally recognized as an authority on
+high altitude balloon trajectory forecasting. I have published numerous technical reports
+and articles.
+
+The first project in which I was involved, while still an undergraduate student at NYU, was
+the acoustical detection of nuclear explosions. The name of the project, Mogul, was
+classified and I didn’t know this name until several years ago. Based on my experience with
+this project Iam certain project Mogul was responsible for some portions of what has
+become to be known as the “Roswell Incident”.
+
+Following project Mogul I was involved in perfecting high altitude balloon technology and
+made many test flights with large polyethylene balloons from Holloman AFB. I worked
+extensively on atmospheric sampling projects and biological flights in which the balloons
+lifted small animals to altitude for cosmic ray experiments. I also worked on the Moby Dick
+Project that collected meteorological data and the classified Gopher (119L) reconnaissance
+project.
+
+I was relied upon to forecast the weather, conduct climatological studies, predict balloon
+trajectories, and to hit with precision, ground targets both on and off the White Sands
+Missile Range. Balloon trajectories in New Mexico below the tropopause, are
+predominantly towards the east-northeast, when launched from Holloman AFB with the
+exception of July and August when balloons remained over the Holloman area. At high
+altitude, above the tropopause, trajectories are generally westerly during the summer and
+easterly during the spring, fall, and winter. As a result these winds, the Holloman balloon
+branch recovered many, probably hundreds, of balloons and scientific payloads from the
+Roswell, NM area over the years.
+
+During the time of the year when trajectories were to the east I attempted to drop the
+equipment near accessible non mountainous areas and paved roads. The main target area
+was the first large north-south road on the other side of the Sacramento Mountains from
+Holloman AFB, Highway 285. This road goes north and south through Roswell. The

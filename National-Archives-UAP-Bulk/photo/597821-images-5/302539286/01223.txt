@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T16:45:17Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1253228, "source_ctime_ns": 1793389330499151576, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302539286/01223.jp2", "source_mtime_ns": 1785808156000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302539286/01223.jp2", "source_sha256": "904e03196af7d7b727b5ca380978545b645829e69f0b7a15b2e3e606b76f215b"}
+
+===== PAGE 1 =====
+{"alpha_words": 71, "chars": 555, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+1. DATE -.TIME GROUP 2. LOCATION
+
+28 June ‘55° 29/04002 Sacramento, Califomia pees
+3, SOURCE 10. CONCLUSION
+Civilian Astronomical (ISTEOR) Wa
+4. NUMBER OF OBJECTS
+Cne Probable meteor observation.
+5. LENGTH OF OBSERVATION /|11. BRIEP SUMMARY ANO ANALYSIS
+2=- 5 Seconds Bright object like a shooting star in flight to the est.
+Ground=Visual sharply at disappearance, Reported because of excessive durbti
+7. COURSE
+Westerly
+8. PHOTOS
+O Yes
+XXNe
+9. PHYSICAL EVIDENCE
+O Yes
+XKNe
+
+FORM saree:
+FTD sep 63 0-329 (TDE) previous editions of thie form may be used,

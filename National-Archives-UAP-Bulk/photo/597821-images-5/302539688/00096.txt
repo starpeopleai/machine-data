@@ -1,0 +1,8 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T16:43:54Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1052904, "source_ctime_ns": 1793389363810977403, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302539688/00096.jp2", "source_mtime_ns": 1785808379000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302539688/00096.jp2", "source_sha256": "18275ec98ce136aae13dd9504be8f74938f09ae4deceb2bb91ff639bd6ad5bea"}
+
+===== PAGE 1 =====
+{"alpha_words": 7, "chars": 43, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 1, "variant": "plain-psm3"}
+Wp /allerernS clce. Feces Mee
+
+~ ma
+4 AX)

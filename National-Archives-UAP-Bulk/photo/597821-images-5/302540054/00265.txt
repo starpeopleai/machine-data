@@ -1,0 +1,48 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T16:42:54Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1034721, "source_ctime_ns": 1793389389023446467, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302540054/00265.jp2", "source_mtime_ns": 1785808667000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302540054/00265.jp2", "source_sha256": "2e52430ce081f95bfff373da819d5d5faf673c5f7573bc79cfeee56939ca4655"}
+
+===== PAGE 1 =====
+{"alpha_words": 73, "chars": 561, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+1. ‘DATE - TIME GROUP
+12 July 1%5 12/19702Z
+
+2. LOCATION
+
+Taiwan
+3. SOURCE 10. CONCLUSION
+Military SATELLITES
+
+4. NUMBER OF OBJECTS
+Three
+
+Description and flizht indicates Satellite sichtings)?
+
+5. LENGTH OF OBSERVATION
+2- 5 Minutes
+
+V1. GRIEF SUMMARY AND ANALYSIS
+
+6. TYPE OF OBSERVATION
+
+Ground=-Visual
+
+Three round cjects resembling stars, brighter than normel1
+an flight at high speed,
+
+7. COURSE
+
+Morth, South, Hast
+
+8. PHOTOS
+
+O Yes
+
+XK Ne
+
+{9% PHYSICAL EVIDENCE
+
+GO Yes
+
+XK Ne
+
+FORM ae
+FTO sep 63 0-329 (TDE) previous cditions of thie feom may be weed.

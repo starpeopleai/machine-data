@@ -1,0 +1,17 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T16:53:36Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 2289562, "source_ctime_ns": 1793394311214115170, "source_file": "National-Archives-UAP-Bulk/photo/733667/733667-002-005-0043.jpg", "source_mtime_ns": 1785567352000000000, "source_rel": "National-Archives-UAP-Bulk/photo/733667/733667-002-005-0043.jpg", "source_sha256": "d3a6ae1997e1d86d29418c7889186b3d3358cbe80061726b93136b05effa2fde"}
+
+===== PAGE 1 =====
+{"alpha_words": 63, "chars": 319, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Dear Sirs,
+
+XY xed Qn Sde, Wy AWE.
+Logie Day \ QS PQPer AHv Qu
+DW mone UFO SQHing Yo, a Toqanesi
+Qar oe SH. Dovtinbty ¥7 \Q8o vn Q\asra.
+X wssvld ler \o LQQUeS) QNY MOF
+Worm “Y AoW Avian asso We
+gpg Ss Yo hase a Ewa Gea
+Ok am\arsi an YAU Sob yees OY
+\sndax sland asders of \ess Yoan BS
+Gre Cree, Spank YOu
+Moana aagons

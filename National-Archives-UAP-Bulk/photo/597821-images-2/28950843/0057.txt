@@ -1,0 +1,37 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T16:57:19Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4021786, "source_ctime_ns": 1793374232385598024, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28950843/0057.jpg", "source_mtime_ns": 1785696459000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28950843/0057.jpg", "source_sha256": "295093137fe744865094885286b489ed4fbbf7da1bfdd4ff1137e7b3484439ae"}
+
+===== PAGE 1 =====
+{"alpha_words": 108, "chars": 621, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Page 6
+
+SECTION D
+
+In the following sketch, imagine your eye eat the point shown. Place an
+"A" on the curved line to show how high the object was above the horizon
+when you first saw it. Place a "B" to show where it was when when you
+
+last saw it.
+Overhead
+
+22
+
+¢ Horizon
+
+a
+
+Your eye
+
+23. In the following sketch place an "A" at the position the object was
+when you first saw it, and a "B" at its position when you last saw it,
+
+Overhead
+
+Horizon Horizon
+O 23!
+
+Your eye
+
+24. Draw a picture that will show the motion that the object made. Place
+an "A" at the beginning of its path and a "B" at the end of its path,
+
+we

@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T17:11:29Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6500426, "source_ctime_ns": 1793380073520955227, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28974443/0923.jpg", "source_mtime_ns": 1785701085000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28974443/0923.jpg", "source_sha256": "a65b1bee9bbad1e0d9c82209415409008590d2183bc5423755148d11ab8e12ee"}
+
+===== PAGE 1 =====
+{"alpha_words": 42, "chars": 376, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+g  10)0 34%
+
+RAZIY ie
+
+3. wpasia YDAS14 VY C325. VMAS4SKBAD 19 aioli
+| . } a
+
+wim RJEDDN e JEDUP RJEPHQ RJEPNB
+
+DE RJESKB 59
+
+on :
+
+ke M AGOT15Z - “ole
+
+5. CA) GJFD3949 (jo42 9) cS
+a ea. >
+oe : ’ MLITHONIA, GAs a
+SERVICE STATION OPERATOR ee ee
+
+Te CA) CLEAR
+(B) 299/88, 328/25, 29:
+vt pe 320/25, 298/40 28/50 » 280/78 273/83 4273/45
+(Dd) 15 MILES
+-€E) CLEAR
+(F) NONE
+8, NONE

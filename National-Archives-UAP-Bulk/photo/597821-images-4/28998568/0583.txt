@@ -1,0 +1,80 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T17:15:34Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7801277, "source_ctime_ns": 1793387347789548633, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28998568/0583.jpg", "source_mtime_ns": 1785747842000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28998568/0583.jpg", "source_sha256": "a92565d7eff2c977c867338b7846cbe926646a9d43c9651b647f6e285e26a77c"}
+
+===== PAGE 1 =====
+{"alpha_words": 111, "chars": 766, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+as
+6,
+te
+Be
+
+9s
+
+Se
+45
+
+c
+
+Ye
+
+6.
+
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+UNCLASSIFIED MESSAGE
+
+INCOMING
+
+AF IN : 50345 (6 Sep 62)
+
+PAGE TWO RUKDJA 534
+
+NONE
+
+NONE
+
+ened
+
+Page 2 of 4
+
+RED AND BLUE EXHAUST SIMILAR TO 4TH OF JULY SKYROCKET
+
+NONE
+NONE
+DESCRIPTION OF COURSE OF
+
+Oo
+
+CLOSE AT FIRST, THEN FAR AWA
+
+5@ DEGREE ANGLE ABOVE ~OR
+
+OBJECT
+
+Ve
+
+IZON;
+
+DR
+BJECT WAS EXTREMELY BRIGHT AND APPEARED TO BE VERY
+
+AZIMUTH 255 DEGREES,
+
+29 DEGREES 5@ MINUTES ABOVE HORIZON; AZIMUTH 255 DEGREES,
+
+NOT DISCERNIBLE
+
+STREAKED OBJECTS APPEARED TO BE DROPPING FROM THE SKY
+
+APPROXIMATELY 4 SECONDS,
+MANNER OF OBSERVATION
+GROUND - VISUAL
+
+N/A
+
+N/A
+
+TIME AND DATE OF SIGHTING
+
+OBJECT DISAPPEARED IN THE CLOUDS.
+
+AND HEADING TOWARD OBSERVER WHEN THEY DISAPPEARED. MAIN

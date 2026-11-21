@@ -1,0 +1,128 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T17:25:28Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 16235473, "source_ctime_ns": 1793355467517217334, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0049.jpg", "source_mtime_ns": 1785564460000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0049.jpg", "source_sha256": "35b2593a14f4866d1b0a519692998cc11b3a9ab0eef3dea2ab74e6c87c89e141"}
+
+===== PAGE 1 =====
+{"alpha_words": 893, "chars": 5877, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+200, 000 ft. - the sphere is inflated to a superpressure of 10 to 12 mbs by the
+
+vaporization of 35 cc of isopentane liquid contained in a capsule within. As it falls
+the one meter diameter, half-mil mylar ROBIN, weighing about 100 gms, is tracked
+by ground radar. Accurate space-time data permit the calculation of wind, density,
+temperature and pressure as a function of height through use of the basic equations
+of motion, gas laws and hydrostatic relationship. The sphere has a built-in metal-
+lized mylar corner reflector for radar tracking although a simpler metallized skin
+has also been successfully flown.
+
+This rather radical technique for atmospheric sensing is currently being stan-
+dardized for Air Force operational use. It is also being used to obtain high altitude
+meteorological data by the Navy and NASA. When tracked by an extremely high
+precision radar such as the C-band AN/FPS-16 wind accuracies of the order of a
+few knots and density accuracies of about 2 to 3% are obtainable. Temperature and
+pressure data, also computed from the ROBIN flight, are somewhat less accurate
+than the density. An error analysis of the ROBIN system shows that these accuracies
+are essentially dependent on three factors: the sphere drag coefficient, the measure-
+ment of fall velocity and acceleration, and the tolerance to which the sphere is
+fabricated. The first of these, that of drag, has been the subject of a very com-
+prehensive program in the high-speed variable-density wind tunnel of the University
+of Minnesota where tests of small spheres ranging from 3/4 to 2 in. in diameter
+were performed over a wide range of Mach and Reynolds Numbers that the falling
+ROBIN experiences. In this region (M = 0.9 and below and R = 1000 to 40, 000), a
+good part of the data represents spherical drag information never before obtained,
+
+a sizable contribution to aerodynamic state-of-the-art. Velocity and acceleration
+measurements are a function of the tracking accuracy. In the case of the FPS-16
+its angular accuracy is about 0.1 mil and range about 3 yards. As for fabrication
+the required ROBIN dimensional tolerance and weight measurement is 1/ 2% - no
+problem has been experienced in attaining this.
+
+The advantages of the passive ROBIN technique are its simplicity (no mechanical
+parts, no electronics) and its cost, currently about $100. On the debit side are its
+need for a high precision radar and a fairly good-sized computer. As for the latter
+problem, it appears that anIBM 1620 might be Satisfactory. In any case the opera-
+tional use of the ROBIN system is restricted mainly to the various missile ranges
+where the required facilities exist. For general weather service rocket applications
+AFCRL is developing a rocketsonde telemetering payload similar to the balloon-borne
+
+radiosonde - in fact, both systems will use the same basic ground equipment.
+
+89
+
+One of the more serious problems that has been encountered in the ROBIN
+development has been that of premature balloon deflation. This problem is gradually
+being overcome by redesign of the inflation capsule, improved fabricating and
+packing techniques and elimination of powder burn holes on the film from the rocket
+separation charge. A technique has been built into the computer program to analyze
+the fall rate curve to detect the occurrence of the deflation. Print-out of the ther-
+modynamic data then automatically stops. Wind data, however, are still valid -
+although the accuracy in tracking a deflated sphere is only slightly less than a fully
+inflated one.
+
+In addition to the deflation investigation current efforts are arrived at getting
+ROBIN data to higher altitudes. Using a vehicle such as sidewinder - ARCAS, we
+believe it is feasible to eject the ROBIN at 450, 000 ft. and make useful measurements
+from about 330, 000 ft. down. The program encompasses a study of the sphere
+configuration for optimum performance in that rarefied atmosphere as well as a
+
+continuation of the Minnesota drag work to cover the added height.
+
+1.4 ROSE System
+The other plastic balloon application, that of the ROSE rising rigid sphere,
+
+evolved from an Air Force requirement for more detailed information on the struc-
+
+ture of the wind field in the region from the surface to at least 65, 000 ft. for the
+While generally good wind data can
+
+design and test of missile and rocket systems.
+winds averaged
+
+be obtained from the standard rawinsonde flights, these are actually
+
+over a two minute time interval (approximately 2000 ft.). Much more detailed in-
+
+formation was needed for certain uses in missile design and testing. Various wind
+
+shear probes under investigation, including a rocket-smoke trail technique, appeared
+
+to be too complex and costly for operational use.
+
+The ROSE balloon is similar to the ROBIN in |
+ecurate space-time data. Itis solely
+
+that it is a superpressured sphere
+
+and is tracked by a high precision radar to get a
+
+a ind sensor however, whose accuracy 1S a function of the IPACIAIO BYOCUUPELC yy Elal
+3
+
+i encountered in gusts. Preliminary
+response to extreme wind shears such as are gu
+
+analyses of the ROSE performance indicate that it is capable of measuring wind data
+
+through a layer of 100 ft. to an accuracy of about 1 m/sec.
+
+In its current configuration the ROSE balloon has a diameter of 2 meters and is
+
+fabricated of 1/2 mil metallized mylar.
+h that the sphere is statically balanced. In
+
+Upon
+
+It has two exhaust valves and an inflation
+
+valve made of teflon, positioned suc
+
+i He i lium oO
+operation it is inflated with he | | :
+release from the ground it exhausts enough gas to maintain approximately Le over
+ge ascension rate of 1000 ft. /min. to a maximum
+
+It costs about $55 in
+
+r hydrogen to an overpressure Oto tbe,
+
+pressure, as it rises at an avera
+height of 75,000 ft. The weight of the balloon 1s 280 gms.
+
+relatively small procurement quantities.

@@ -1,0 +1,34 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T16:55:23Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3576937, "source_ctime_ns": 1793382523138636541, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28984348/1162.jpg", "source_mtime_ns": 1785700682000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28984348/1162.jpg", "source_sha256": "d575b73de648dbcaba7eb596172375bc089c4f67fa50701e086593724a75e1ec"}
+
+===== PAGE 1 =====
+{"alpha_words": 97, "chars": 658, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+| bey SAFOI-3a/Col Tacker/ka/77466/24 Jun 60
+
+Dear Mrs “See
+
+This is to acknowledge your letter of 28 May 1960 and the
+photographic print inclosed therewith.
+
+The Air Force is unable to evaluate this print and needs
+the original negative in order to make a complete analysis.
+Therefore, will you please send the negative to the Aerospace
+Technical Intelligence Center, Wright-Patterson AFB, Ohio for
+evaluation. The Air Force will be happy to inform you of the
+results of this.
+
+Sincerely,
+
+LAWRENCE J. TACKER
+
+i Lt. Colonel, USAF
+
+Public Information Division
+Orfice of Information
+
+Mrs.
+
+Sioux Falls, South Dakota
+
+ie
+SAFOI-34 - Comeback
+SAFOI-1 - Reading

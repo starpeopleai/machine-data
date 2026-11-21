@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T16:55:57Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3646650, "source_ctime_ns": 1793373459151370817, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28947009/0836.jpg", "source_mtime_ns": 1785688743000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28947009/0836.jpg", "source_sha256": "9be8bc0fb9e98b86d6c8bd7d21dacd66f43bc8e625f53b97afcc8d9fbeb773a3"}
+
+===== PAGE 1 =====
+{"alpha_words": 144, "chars": 907, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+3 ( Yr ATIas
+RE@S4 Af on
+uPFO72
+~ “ypBigad PT
+WAISS ee
+JESDB 08 7 > , poy
+PP JEPHQ JEDWP JEDEN 335 ae 4
+DE JESDB 36 | < "7 sa9
+
+P_ 3100133.
+
+TO JEPHOQ/DIR OF INTEL HQ USAF WASH 25, De Ce
+
+INFO JEDWP/AIR TECH INTEL CENT WRIGHT-PATTERSON AFB OHIO
+JEDEN/CG ENT AFB COLORADO SPRINGS COLO
+
+2 CITE COC71028 XREFERENCE TO 1827/
+
+FORS ATIAA~2C -FLYOBRPT PDg RESULTS OF INTERVIEW WITH PILOT OF JET
+
+AF 4399 PD PILOT CLAIMED HE WAS ADVISED BY SPARTANSBURG RADIO TO
+LOOK FOR OBJECTS IN VICINITY OF ATLANTAs WHEN HE FIRST SPOTTED
+OBJECT IT APPEARED TO BE ABOUT 49 MILES W OF ATLANTA PARALLELING
+HIS COURSE OF 22@ DEGREES. PILOT WAS AT 40,39 FEET AND SIGHTED
+SBJECT AT 42,39@ FEET WHICH APPEARED TO CHANGE ALTITUDE 2008 FEET
+INTERMITTENTLY» THEN CHANGING COLOR BLUE TO AMBER BACK TO BLUE AT
+REGULAR INTERVALS. AT 2295 EST ACFT REPORTED THE SAME OBJECT WAS
+
+LODFARTNS TO PULL AWAY FROM HIM AND BECOMING LESS BRIGHTER AND

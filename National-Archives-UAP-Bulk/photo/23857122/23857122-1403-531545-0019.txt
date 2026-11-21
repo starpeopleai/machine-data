@@ -1,0 +1,19 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T17:27:16Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 17719172, "source_ctime_ns": 1793357485421238865, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1403-531545-0019.tif", "source_mtime_ns": 1785564909000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1403-531545-0019.tif", "source_sha256": "ba18e8c1d60103c565619fbc5e3bf8ee041e3f618921e8c47b6c8c0a0f028b9f"}
+
+===== PAGE 1 =====
+{"alpha_words": 105, "chars": 618, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+RESTRICTED
+
+In the following sketch, imagine that you are at the point shown. Place an “A” on the curved line to show how
+high the object was above the horizon (skyline) when you first saw it. Place a “B” on the same curved line to
+show how high the object was above the horizon (skyline) when you /ast saw it.
+
+Page 6
+
+33. In the following larger sketch place an “A” at the position the object was when you first saw it, and a “B” at its
+position when you /ast saw it. Refer to smaller sketch as an example of how to complete the larger sketch.
+
+RESTRICTED
+SECURITY INFORMATION
+
+Declassification Authority: NND 57565

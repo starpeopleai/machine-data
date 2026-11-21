@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T16:52:14Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1746781, "source_ctime_ns": 1793388949702616574, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302534833/00169.jp2", "source_mtime_ns": 1785808074000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302534833/00169.jp2", "source_sha256": "483ceaca5fba7835dfb6a8270c9ce59c3880b0bb88f351c50a21ad96cf9af626"}
+
+===== PAGE 1 =====
+{"alpha_words": 45, "chars": 333, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD
+
+1. DATE - TIME GROUP 2. LOCATION
+3, SOURCE 10. CONCLUSION
+4. NUMBER OF D3JECTS
+5. LENGTH OF D3SSERYVATION jt. BRIS SUMMARY AND ANALYSIS
+§. TYPE OF OS3ER2VATION ,
+7. COURSE . ;
+8.. PHOTOS
+
+G Yas .
+scl
+%. PHYSICAL EVIDENCE
+
+QO Yos
+
+LANo
+
+FORM
+FTD sep 63 9-329 (TDE) Previous editions of this form may be used,
+s

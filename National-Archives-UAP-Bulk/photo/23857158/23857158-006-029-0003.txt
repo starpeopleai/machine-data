@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T16:53:52Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 2998504, "source_ctime_ns": 1793359177619590614, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-006-029-0003.tif", "source_mtime_ns": 1785681337000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-006-029-0003.tif", "source_sha256": "55d4fd556b78d02fc7b2ad3264f90bfdc5af1fe4671b30c5de14e826baf557e4"}
+
+===== PAGE 1 =====
+{"alpha_words": 33, "chars": 423, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Declassification Authority NND 923007
+
+“PAGE THREE JEPQW 8
+(7)
+
+A) HPN 2139E 200-015 193/57/44/CALM.
+B) CALM, 333/17, 328/23, 319/35, 298/52, 309/89, 299/68, 319/24.
+C) NEGATIVE.
+
+D> 15
+EY. NILL
+F). NEGATIVE.
+(3) NEGATIVE. .
+
+(9) NSGATIVE. ;
+
+(12) UNDETERMINED. | a
+
+(11) AIRDROME OFFICER, DANIEL F. GROB 1/LT; POSSIBLE CAUSE: awa
+AF TER-BURNER EQUIPTED AIRCRAFT; F-94, F86, ETC. : |
+(12) NEGATIVE. | i
+
+12/8534Z MAY JEPQW

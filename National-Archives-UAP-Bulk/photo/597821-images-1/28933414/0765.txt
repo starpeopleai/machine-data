@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T17:05:55Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5419233, "source_ctime_ns": 1793369975332404133, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28933414/0765.jpg", "source_mtime_ns": 1785688964000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28933414/0765.jpg", "source_sha256": "71c037f116e73f0d4856797be061dd9bffba602c369cff2e02635b3ebc644d35"}
+
+===== PAGE 1 =====
+{"alpha_words": 124, "chars": 753, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+a OT a ea se ae Te et ee ee
+
+-
+
+( |
+
+_ : T+ | ar Sah
++VeC = Boba’ e034 me
+= 1
+ASC Los Alamos, New Vemiso
+'W*~oteaw wad KA KS at
+Joo eb Ge & ats bs Cie ilLJuULoTvOe
+: z Inspector AESS, Los Alamosa, Neu.
+Jomments of Interrogztor relative to intelligence end cnaraeter of
+Requisite for employment with AzC
+
+At approximately 0010, @ March 1949, while making ZEA a foot patrol
+
+at station 103, { observed a lizht low in the sky. Ib apvearsad quite
+dim and constant in intensity. It was travgling nearly in a horizonal
+plane from north to south. I saw it for about two seconds when tha
+
+trees out off my view. It appsared to be traveling very fast as it s0es¢
+crossed one haif my iine of Yision during the time I observed it.
+
+AESS8 Inspeetor
+Los Alamos, NU.

@@ -1,0 +1,21 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T17:06:19Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5457268, "source_ctime_ns": 1793369145769172255, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28930782/1050.jpg", "source_mtime_ns": 1785689033000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28930782/1050.jpg", "source_sha256": "cb20f88315e3103bea3ce45ca478fba4ccfa495236f634686f6107af3d3d08b3"}
+
+===== PAGE 1 =====
+{"alpha_words": 61, "chars": 445, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+|g eh. }
+eg |
+ons, ° s
+. * .
+) ) ~ Spey a
+S Seat . ~~ i ae
+‘ P > 7 fie « id * Ag
+Incident 170 <= adapazari, Turkey -- ¢. 5 lay 1948
+| It is uxtromoly anlikely that thore is ary astrono=-
+mical exslanation for this incidente “he information sivea is
+. . 1 . . ‘ . . 7 . ;
+the object or objects sigshtod were rockotSe ‘he report indicates
+t-> - ve) enn! re 5 te, ‘ rat ‘ve 4 yer sAworad
+vi AL OTlLo ro 1400 ain’ Ov, 2t5u WAS LVUU Vs Ve
+“™y
+
+eee)

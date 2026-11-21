@@ -1,0 +1,37 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T16:49:26Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1685453, "source_ctime_ns": 1793390908980993677, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302554204/1352.jp2", "source_mtime_ns": 1785808270000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302554204/1352.jp2", "source_sha256": "91c73a157924e00aa8a40a85b70b7295321b513408f016123a439e74aca3f60e"}
+
+===== PAGE 1 =====
+{"alpha_words": 114, "chars": 786, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+"Tie Fe
+
+ee
+
+Office of
+
+FTD (TDBTRY/ ZC
+Wright-Patterson AFB, Ohio 45433
+2h August: wines
+
+465 North 3rd Street
+Bardstown, Kentucky 40004
+
+ene.
+
+of the Project Blue Book Office, spent a most,
+interesting afternoon conversing with of the Air
+Force Museum concerning the unidentified lights over Bards-
+town, Kentucky on the night of 17 August. He suggested. I
+contact you for further information on this sighting. Ge
+@@® has provided me with a fair amount of facts to substan-
+tiate a valid explanation; however, I would appreciate your -
+comments on the sighting.
+
+Enclosed is FTD Form 164 which I would appreciate your con-
+pleteing. This information is needed to aid our eee
+in making a firm evaluation. |
+
+Sincerely,
+VA
+
+HECTOR QUINTANILLA, Jr, Major, USA?
+Chief, Project Blue Book

@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T16:53:07Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1781392, "source_ctime_ns": 1793391901883262869, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302562469/01415.jp2", "source_mtime_ns": 1785808053000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302562469/01415.jp2", "source_sha256": "571e83ec68532428c131b4b3ac07282bcc1b2114a945941aa74adff7c40d09ae"}
+
+===== PAGE 1 =====
+{"alpha_words": 152, "chars": 883, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Page 5
+
+“ 27. In the folluswing sketch, imagine that you are at the point shown. Place an “A”
+
+was above the horizon (skyline) when you first saw it. Place a “B”
+above the horizon (skyline) when you last saw it. Place an “A”
+Pass when you last saw the object.
+
+on the curved line to show how high the object
+on the same curved line to show how high the object was
+
+on the compass when you first saw it. Place a "3" on the com.
+
+4 90° 75°
+}
+F ‘
+‘tf 45
+q s
+q 30°
+15°
+: Ts a en gags
+pO A OP =2 PRET 0°
+23. Drew a sicture that will show the motion thet the object or objects made. Place an “A” at the beginning of the path, a "Bat
+
+4 the end of the path, and show any changes in direction during the course.
+
+29, IF there wes MORE THAN ONE object, then how many were there?
+Drow 2 picture of how they were arranged,
+
+ond pul an arrow to show the direction that they were traveling.
+
+$9

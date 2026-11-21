@@ -1,4 +1,4 @@
-{"created_utc": "2026-10-02T21:11:00Z", "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "embedded-text", "pages": 0, "schema": "ufo-files-archive-ocr/v1", "source_bytes": 897322, "source_ctime_ns": 1788505662176907168, "source_file": "Chile-SEFAA/documents/CASO-N--1988-29042024-1.pdf", "source_mtime_ns": 1788505662150990440, "source_rel": "Chile-SEFAA/documents/CASO-N--1988-29042024-1.pdf", "source_sha256": "7465efc4d0e51c09858bbed13f45d2b944353ae21ce148cb7f045da0d0e1cd15"}
+{"created_utc": "2026-11-21T16:38:03Z", "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "embedded-text", "pages": 0, "schema": "ufo-files-archive-ocr/v1", "source_bytes": 897322, "source_ctime_ns": 1793354195957230790, "source_file": "Chile-SEFAA/documents/CASO-N--1988-29042024-1.pdf", "source_mtime_ns": 1788505662000000000, "source_rel": "Chile-SEFAA/documents/CASO-N--1988-29042024-1.pdf", "source_sha256": "7465efc4d0e51c09858bbed13f45d2b944353ae21ce148cb7f045da0d0e1cd15"}
 
 Fecha                         Fecha
   Caso N°:             1988                       29-04-2024                       20-05-2024

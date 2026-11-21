@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T17:19:27Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9243315, "source_ctime_ns": 1793364698766827277, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787490/45484701-007-003-0156.jpg", "source_mtime_ns": 1785684893000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787490/45484701-007-003-0156.jpg", "source_sha256": "5f4316b3f0f26cec03d8e7d1b32d0c2470b83a21e9e232ff8c2f3747f1aad5fa"}
+
+===== PAGE 1 =====
+{"alpha_words": 24, "chars": 190, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+whe te
+
+Counter Intelligence
+
+Investizations, The
+
+PANT SAT He
+
+concerning captioned Subject
+
+or
+
+1 Inei
+Ltr {fr sounter
+
+CLASSIFICATION Ci
+
+BY
+
+AFCS
+
+Declassification Authority: NND 923007

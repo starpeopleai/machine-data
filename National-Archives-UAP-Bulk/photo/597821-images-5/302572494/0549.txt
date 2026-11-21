@@ -1,0 +1,23 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T16:47:35Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1420090, "source_ctime_ns": 1793392968765157688, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302572494/0549.jp2", "source_mtime_ns": 1785808397000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302572494/0549.jp2", "source_sha256": "5ee834cea423cf74caa32c9f473e4ee720e235cb825420d1b0b3d5555daa5d21"}
+
+===== PAGE 1 =====
+{"alpha_words": 60, "chars": 463, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+DEPARTMENT OF THE AIR FORCE
+HEADQUARTERS 432ND TACTICAL RECONNAISSANCE WING (PAC4F)
+| APO SAN FRANCISCO 96237
+
+Attn of: © \
+
+suaitct: UFO Investigation Report
+
+to Foreign Technology Division (TDETR)
+Wright Patterson AFB, Ohio 45443
+
+The attached investigation report of a UFO sighting which occurred
+on 9 November 1967 is forwarded in accordance with AFR 80-17.
+
+AY CRs aFS
+VICTOR N, CABAS, Colonel, USAF 1 Atch
+Commander Investigation of UFO
+
+Sighting w/3 Atch

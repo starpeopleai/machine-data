@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T16:48:58Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1654129, "source_ctime_ns": 1793389254253782972, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302538522/00504.jp2", "source_mtime_ns": 1785807999000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302538522/00504.jp2", "source_sha256": "68a3caaba3cb63785ef0ec0abfd0f68519849e0588af569d16150d1ecaa9caaa"}
+
+===== PAGE 1 =====
+{"alpha_words": 102, "chars": 888, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+‘ INZOMING DEDPAMART GF THE Al” FORCE
+
+" MESSAGE A MiBEABE BANC) UNCLASSIFIED
+
+<—
+
+eee ot one
+
+PAGE 2 RUCDDUN 2 UNCLAS pF In : 34847 (10 Apr 65) Page 2 of 2
+KNOTS (2) 6,800-240-9,10,000-290-14, 16,000-300-25, 20,000-280-4v
+5&2 yO00-280-61, 50,002-270-°37, 82,202 NOT AVAILABLE
+
+(3) 17602 CLEAR 12 MILES (4) CLEAR (5) NONE (6) NONE (7) 6,000-2,
+le yO00-40, 16,000-17, 20,000-24, 30, 000-49, 50,000-55, 80,600
+
+NOT AVAILABLE ¢H) NONE (1) AIRCRAFT MAINTAINED SURVEILLANCE BUT WaS
+UNABLE TO REACH ALTITUDE OF OBJECT. (J) ST CLOUD, MINN WEATHER
+STATION HAD A BALLOON RELEASE DURING THIS PERIOD OF TIME AND
+MINNEAPOLIS WEATHER STATION HAD A BALLOON RELEASE DURING THIS
+PERIOD = EACK RELEASED ONF. (K) INTERCEPT DIRECTOR - THE PREPARING
+OFFICER HAS NO COMMENTS EXCEPT THOSE OF THE PILOT WHICH WERE THAT
+
+THE OBJECT LOOKED SIMILAR TO A BALLOON.
+
+* NOTE: ADVANCE COPIES DELIVERED TO NIN AND DIA.

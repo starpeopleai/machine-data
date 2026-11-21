@@ -1,0 +1,47 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T17:14:37Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7494681, "source_ctime_ns": 1793363137695847186, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330784594/45484701-004-005-0080.jpg", "source_mtime_ns": 1785684740000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330784594/45484701-004-005-0080.jpg", "source_sha256": "25f07a238d5c4af99f7dd1f6f68f08ea80a9afc8a46808f04af0f7f490eea20b"}
+
+===== PAGE 1 =====
+{"alpha_words": 134, "chars": 1007, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+INFORMATION COPY
+“TO m Sth Dis trict 0 Sl
+Wright-Patters on Air Force Base
+OHIO
+
+or
+
+5D-24-21-180 , y-[% “i 13 September 1956
+
+SUBJECT: (Unclassified)
+Report of Unidentified Flying Object as seen by
+KENT HAHOLD’BITTEL, Civilian, 11215 Snow Road,
+Parma Heights, Ohio, on 4 September 1956, in the
+Vicinity of Doxmere and Snow Roads, Parma Heights,
+Ohio, Approximately Four (4) Miles East of Cleveland
+Hopkins Airport
+
+Commander
+
+Air Technical Intelligence Center
+ATTN: AFOIN,EL
+
+Wright-Patterson Air Force Base
+Ohio
+
+1. Transmitted herewith for your information is one (1) copy of
+Spot Intelligence Report, dated 12 September 1956, by this District
+Office, subject and file as above.
+
+2. Your attention is invited to the provisions of AFR 12\-1l,
+which prohibit the release of investigative information to unauthor-
+
+ized persons.
+[fsa 1d MAX A
+
+1 Incl Wm G. HINES
+Spot Rpt dtd 12 Sep 56 Colonel, USAF
+District Commander
+
+Cepy furnished:
+bir ost w/o Inel —__—__—__—_—-
+
+Declassification Authority: NND 923007

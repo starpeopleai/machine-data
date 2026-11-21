@@ -1,0 +1,137 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T16:55:15Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3542101, "source_ctime_ns": 1793355954820598906, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989293-001-0109.jpg", "source_mtime_ns": 1785564567000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989293-001-0109.jpg", "source_sha256": "10282e0fe1152073e1ed2ab8400631463f7b852f596a47c108fbf371eeb1717f"}
+
+===== PAGE 1 =====
+{"alpha_words": 768, "chars": 5007, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ADMINISTRATIVE HISTORY OF THE AEROMEDICAL FIELD LABORATORY
+
+Davis submitted to higher headquarters a
+plan that could be initiated “within the pre-
+sent manning resources of the center’ but
+would prepare the way for major expan-
+sion as soon as funds and manpower be-
+came available. General Davis proposed
+separate Divisions for Administration;
+Plans; Services; Biodynamics; and Human
+Factors Development. The Human Factors
+Development Division was to be essentially
+an outgrowth of the current Space Biology
+Branch, with special emphasis on prob-
+lems of true space flight including those
+involved in preparation of a manned satel-
+lite. It was also proposed that the new
+directorate might offer resident training
+to candidates seeking certification by the
+Aviation Medicine Board.22
+
+The proposal to create a Directorate
+of Space Biomedical Sciences at Holloman
+was in line with recommendations made
+by a number of high-level Air Force plan-
+ning committees, including the Long-Range
+Planning Committee for Guided Missiles
+and Space Vehicles of the Air Research
+and Development Command, which is us-
+ually referred to as the Yates Committee.
+At the same time, it should be noted that
+the exact timing of the proposal was prob-
+ably influenced by the fact that John Paul
+Stapp had just been promoted from Lieu-
+tenant Colonel to Colonel, effective April
+1957. As head of the Aeromedical Field
+Laboratory, he was technically subordin-
+ate to the Center’s Directorate of Research
+and Development, which was then headed
+by a lieutenant colonel. However, the new
+directorate was ultimately rejected at com-
+mand headquarters. Brigadier General
+Don R. Ostrander, Deputy Commander for
+Resources, Air Research and Development
+Command, explained that the proposal was
+unacceptable because it entailed an in-
+crease in the number of administrative
+spaces and because it went against the
+command effort to “consolidate func-
+tions.”’23
+
+Despite the unfavorable decision in
+this instance, the steady expansion in the
+work of the Aeromedical Field Laboratory
+inevitably brought with it an increase in
+both assigned personnel and facilities. Per-
+sonnel strength has not kept pace with the
+increase in project work, but has risen
+gradually from the mere handful present in
+January 1953 to a total in June 1958 of
+thirteen officers, eighteen airmen, and six-
+teen civilians.24 All of the officers hold
+college degrees in some scientific field, and
+eight of the thirteen (plus one civilian
+scientist) have the doctor’s degree. This
+last is a fairly remarkable proportion, in-
+
+96
+
+dicative of a small but exceptionally qual-
+ified corps of scientists.
+
+New buildings were added in the same
+period. As of January 1953, there were
+two in use (Buildings 1201 and 1203, one
+permanent and the other a converted war-
+time “temporary” structure), but since
+then two more permanent structures
+(Buildings 1200 and 1202) have been add-
+ed to the aeromedical laboratory complex
+in the Holloman “North Area” along with
+a converted wartime barracks to serve as
+supply warehouse (Building 1240). A fine
+new warehouse is to be started in the im-
+mediate future, but the special medical
+science laboratory that was to have been
+included in fiscal year 1959 building plans
+has been put off for another year. This
+is especially unfortunate, since the build-
+ings that exist in the present laboratory
+complex are cramped, one-story, and in
+some cases rather dingy structures. The
+one exception is a portion of the more
+spacious Building 1265, chiefly housing of-
+fices of the Center’s Directorate of Ballistic
+Missile Test, which has been made avail-
+able to staff members of the Space Biology
+Branch.25
+
+A number of specialized test facilities,
+too, have been created at Holloman either
+expressly for the Aeromedical Field Lab-
+oratory or under the jurisdiction of some
+other unit but available for biomedical re-
+search. Most of these facilities can best
+be discussed in other monographs related
+to the particular fields of research for
+which they are used. The one “test fa-
+cility” that it is more convenient to de-
+scribe at this point, because of its use for
+both biodynamics and space biology re-
+search, is the Holloman ‘‘z00” of test ani-
+mals. This dates back to the period before
+1953, but has greatly expanded from that
+year to the present.
+
+Unlike the “zoo” which Colonel Stapp
+had formerly used for research at Ed-
+wards Air Force Base, managed under
+contract by a private animal trainer, the
+Holloman facility was always run by train-
+ed personnel of the Aeromedical Field Lab-
+oratory. The result has been better care
+for the animals, along with considerable
+savings for the government. From August
+1954 to July 1956, the animals were en-
+trusted to Lieutenant (later Captain) Clin-
+ton D. Hughes, a member of the Air Force
+Veterinary Corps, and Holloman officials
+were therefore alarmed when, about May
+1956, the Defense Department suddenly
+moved to disband the entire Corps. Gen-
+eral Davis, as Center commander, submit-

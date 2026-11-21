@@ -1,0 +1,19 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T17:12:43Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6845089, "source_ctime_ns": 1793379896417545519, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28973796/0359.jpg", "source_mtime_ns": 1785700801000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28973796/0359.jpg", "source_sha256": "8522d64b24d9cfa4c5f33808b41d76ed72e2c7648021c54c90a5fa11443da311"}
+
+===== PAGE 1 =====
+{"alpha_words": 156, "chars": 953, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Near Knoxville, Tennessee, early on the morning of November 6th, 12-year-
+old Everett Clark Said two men and two women, normally dressed, talking "like
+German soldiers in war movies," emerged from a grounded cigar-shaped object and
+tried to make off.with his dog; he claimed that he hadn't heard of the Schmidt
+case. <An imprint in the grassy field where the object had rested was found by
+Knoxville reporters; the boy maintained that this discovery was as new to him as
+it was to the reporters,
+
+Curiously enough, the Tennessee report from the schoolboy Everett Clark (page h)
+resembles Schmidt's story in several important respects; but, so far as we know, the
+Clark report aroused no official investigation at all. We have asked our Knoxville
+
+memoer, James KicAshan, to find out more about this case if possible. But the attempt-
+ed dognapping in the Clark story is weirdly echoed in the following extraordinary re-
+port from'New Jersey (page 1h).

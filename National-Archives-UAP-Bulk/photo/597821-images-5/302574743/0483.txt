@@ -1,0 +1,20 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T16:48:30Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1461380, "source_ctime_ns": 1793393196605808205, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302574743/0483.jp2", "source_mtime_ns": 1785808393000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302574743/0483.jp2", "source_sha256": "85a3b8fe360b658f7987708fed8298a48c5ea53decd248947cafd3f30973ae48"}
+
+===== PAGE 1 =====
+{"alpha_words": 39, "chars": 223, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+aT eaeetd akrapnschs teal eaeaee
+
+Thiy 20 mot A Poayx ONL SD howe
+Um weno: shan Lo ay aor foe OU |
+Hf 4fou wold pt ancr anes |
+|
+
+yous acltineso 10.
+
+Ay
+
+a tr th he glad Lis fer —
+
+RaatgtLavch COVINA 7G thio AMES .
+
+Thamb

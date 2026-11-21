@@ -1,0 +1,44 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T17:06:32Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5568349, "source_ctime_ns": 1793378015279286434, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28966415/1055.jpg", "source_mtime_ns": 1785696504000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28966415/1055.jpg", "source_sha256": "f315d0f510ed838933cfc4fd873ba812e73091560810eefb68368cbddce8cd53"}
+
+===== PAGE 1 =====
+{"alpha_words": 124, "chars": 932, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+eo tic £ a aaa Beata at tt ae
+
+PROJECT 10073 RECORD CARD
+
+1, DATE 2. LOCATION 12. CONCLUSIONS
+2 Wos Balloon
+26 Juliv 1956 Macon, Georgia O Probably Balloon
+O Possibly Balloon
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION
+O Was Aircraft
+
+Local BxGround- Vi sual O Ground-Radar Q Probcbly Aircraft
+GMT 27 /02302Z sig aera tnt 0D Air- Vi sual O Air-Intercept Radar QO Possibly Aircraft
+MS Wes Astronomical Metcor
+
+5. PHOTOS é. SOURCE
+O Yes _ ,|0 Probably Astronomical
+“ER No Civilian O Possibly Astronomical
+7, LENGTH OF OBSERVATION - NUMBER GF OBJECTS | 9. COURSE 0 , Other
+O Insufficient Data for Evaluation
+Q Unknown
+
+eo
+
+three to five seconds |. one NE to SW
+1a: COMMENTS
+
+10, BRIEF SUMMARY OF SIGHTING :
+One round ball of fire with twe long | initial report received fron
+
+Commander, J5th ADD, Dobbins |
+
+1
+POBtoOroof prLent, orange Witn white in AFB, Georgia on 7 Ai 06 via
+|
+No Report In File.
+|
+. i
+
+ATIC FORM 329 (REY 26 SEP 52)

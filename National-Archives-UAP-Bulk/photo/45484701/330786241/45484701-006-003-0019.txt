@@ -1,0 +1,34 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T17:18:17Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9150405, "source_ctime_ns": 1793363882342309460, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330786241/45484701-006-003-0019.jpg", "source_mtime_ns": 1785684661000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330786241/45484701-006-003-0019.jpg", "source_sha256": "c102b16476eb0f8affa790a82764edf40f17dbd3c67ccf1b3663f84dce6d5330"}
+
+===== PAGE 1 =====
+{"alpha_words": 72, "chars": 468, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+7, When questioned as to whether the black cardboard box had
+actually contained one or two 8-day clocks, Sheriff TEMPLE
+contained only one and that he (TEMP!
+spoke with the General Mills Rese
+further stated the clock which had be
+found stopped at 0200 hours, 5 July 1
+
+AL Ws
+
+stated it had
+
+“i had verified this when he
+are ch eu anes official, Sheriff TEMPLE
+1d b
+
+e perating when the balloon was
+9
+
+Caw
+
+n
+50.
+
+‘o
+
+CLOSED
+
+iF
+
+Declassification Authority: NND 923007

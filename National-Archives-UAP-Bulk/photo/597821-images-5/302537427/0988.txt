@@ -1,0 +1,67 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T16:42:04Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1001113, "source_ctime_ns": 1793389166389800126, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302537427/0988.jp2", "source_mtime_ns": 1785808484000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302537427/0988.jp2", "source_sha256": "81dacc0c6ecd603fd8fc28398b5b09fd0006abf56451b487efab40734637abaf"}
+
+===== PAGE 1 =====
+{"alpha_words": 161, "chars": 1116, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+monet
+
+/
+1, DATE - TIME GROUP
+{
+
+27-28 Jmuary 65 27/04
+
+2. LOCATION
+
+35Z-28/0635Z Altavista, Virginia
+
+3. SOURCE
+Civi lian
+
+4. NUMBER OF OBJECTS
+Multi ple
+
+10. CONCLUSION
+
+AIRCRAFT (REFUSLIG OPERATION)
+
+. LENGTH OF OBSERVATION
+One Hour, Period
+
+. TYPE OF OBSERVATION
+
+Ground-Visual
+
+» COURSE
+
+Varied
+
+. PHOTOS
+
+O Yes
+
+XK No
+
+9. PHYSICAL EVIDENCE
+
+O Yes
+
+EC Ne
+
+1). BRIEF SUMMARY AND ANALYSIS
+
+Objects observed in erratic patter manuvering in and around
+3 A/C. Up ami down wer and atove. 2 A/C first night, 1 A/t
+secom night. Objects visible for 3-10 seconds internitantl;
+Would flac and then reappear at a different location.
+Observed as bright lights only, no shape etc. Appeared to bs
+only one object. At least seven differmt sightings of this
+one object.
+
+COMMENTS: "Border Tow", Refuel Area, 11th ARS at Dover Contro
+this area in use only at 1700Z on 27th By 305-376th from Lock-
+borne. ARTCC Watch supervisor reported that on coth nights
+light to moderate air traffic in area and that tw refueling
+zones are in the approximate location.
+
+FORM
+FTD sep 63 0-329 (TBE) Previous editions of this form may be used,

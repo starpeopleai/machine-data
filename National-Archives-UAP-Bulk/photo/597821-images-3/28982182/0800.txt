@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T17:05:09Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5064808, "source_ctime_ns": 1793382002975455250, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28982182/0800.jpg", "source_mtime_ns": 1785700914000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28982182/0800.jpg", "source_sha256": "a3873692a9b4fa40e65c70495c11ba51ab65528a8333b38465213a1e022c7103"}
+
+===== PAGE 1 =====
+{"alpha_words": 117, "chars": 723, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+~ ee
+. $ q ¥ ‘oe ea!
+a
+
+14, ‘Toll ino few words the following things about the odject,
+
+}
+;
+
+a, Sound
+
+17. Drow a picture that will show the shope of the object or objects, Lobel ond Include in your skeich ony detoils
+af the object the? you sow such as wings, protrusions, ete., and especially exhaust trails of vapor trails, Place
+an arrow beside the drawing to show the direction the object wos moving,
+
+18, The adges of the object were:
+(Circle One): o. Fuzzy or blurred
+b. Like a bright ster
+“a. Sharply outlined |
+d. Don’t remember
+
+e@. Other
+
+‘9, IF there was MORE THAN ONE object, then how many were there?
+Draw 3 picture of how they were arranged, ond put on arrow te show the direction that they were travel ing.

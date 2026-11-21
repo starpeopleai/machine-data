@@ -1,0 +1,51 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T17:13:20Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7060673, "source_ctime_ns": 1793384590066173719, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28990639/0372.jpg", "source_mtime_ns": 1785747949000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28990639/0372.jpg", "source_sha256": "4e5abcf6b813cba1761d9abff0fe9344282145481974031fd6ac3f347eaeea3e"}
+
+===== PAGE 1 =====
+{"alpha_words": 146, "chars": 1123, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+MILITARY |
+1. DATE 2. LOCATION 12, CONCLUSIONS
+690 +O00N 175008 GQ Was Balloon
+17 Dee N of Midway Island 0 Probably Balloon
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION O Possibly Balloon
+1915 4 QO Wos Aircrafs
+Local . suaatinnine 0 Ground- Vi sual 0 Ground-Rodar a Probabl y Aireroft
+GmT__10/07152, 0.) ia D Air Visual D Air-Intercapt Radar |9 Possibly Aircrafs
+nh
+5. PHOTOS ee 6. SOURCE O Was Astronomical
+es oe 0 Probably Astronomicol
+0 Ne Military 0 Possibly Astronomical
+7. LENGTH OF OBSERVATION 8. NUMBER OF OBJECTS | 9. Course QO Other
+Insufticient Data for Evaluation
+4k min one ESE 0 Unknown
+
+10. BRIEF SUMMARY OF SIGHTING
+
+Bright yellow shining light. Appeared WNW
+horizon traveling ESE. Resemblea Echo I.
+Reached maxionm height of 30° above horizon,
+
+1}. COMMENTS
+
+information repo
+
+The cbject was in view for hk minutes,
+rising to 30°above horizon. The object
+appeared to move to the E,
+
+tion for an astro
+——
+
+a
+
+wrong direc-
+
+nomical body. The
+ed is limited in
+precluding an evaluation, Therefore, this
+report is classified as insu?ficient data
+
+nature,
+
+ATIC FORM 329 (REV 26 SEP 52)

@@ -1,0 +1,46 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T16:40:25Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 822149, "source_ctime_ns": 1793391595117490042, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302559934/0339.jp2", "source_mtime_ns": 1785808330000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302559934/0339.jp2", "source_sha256": "3b453808783d6f07a2c1d8cb6fe20e45b275a8c4b2af84655689a72682d8dda6"}
+
+===== PAGE 1 =====
+{"alpha_words": 78, "chars": 657, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+| UNCLASSIFIED | |
+
+DEPARTMENT OF THE AIR FORCE
+| STAFF MESSAGE BRANCH
+THCOMING PAESSAGE
+
+AF IN : 30750 (17 Jan 67) pg 20f 4
+
+_ (5) SPACED APPROXIMATELY 428-508 YARDS APART
+
+PAGE 2 2 WIFAAd@53 UNCLAS
+
+‘
+?
+4
+é
+ye
+v
+a
+&
+
+(8) NONE HEARD
+
+(9) ASCENT AND DESCENT APPEARED TO BE IN THE VERTICAL PLANE.
+
+C7) THE OBJECTS APPEARED SEVERAL TIMES
+
+(2) ALTITWE 52-260 FT. FIRST OBSERVED SOUTHWEST,
+
+SECOND OSSERVATION DUE SOUT A AND THIRD SIGHTING NORTHWEST.
+
+(4) MOSTLY IMMOBILE ATITUDE GLOWING ON AND OFF LIKE LIGHT
+BEING TURNED ON AND OFF. |
+
+(6) 4ST OBSERVATION 5 MINUTES, 2ND OBSERVATION 1 MINUTES,
+C,
+
+(1) GROUND VISUAL
+
+€2) NONE
+
+a AFHO 2". 0-309C UNCLASSIFIED

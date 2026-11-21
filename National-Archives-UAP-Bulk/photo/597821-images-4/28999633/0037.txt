@@ -1,0 +1,19 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T17:05:46Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5406484, "source_ctime_ns": 1793388003619153034, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28999633/0037.jpg", "source_mtime_ns": 1785747991000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28999633/0037.jpg", "source_sha256": "825e13c9513a8b5828b7969c5c23670ea8e53b90464d24479b4c1728bbd172fe"}
+
+===== PAGE 1 =====
+{"alpha_words": 51, "chars": 383, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+thea chenieal composition and low melting temperature confirm
+Chat the seuple is a “bottleraisss” forulsticon.
+
+Solomon 7. irc
+Majoe, U. Gs Ae F.
+
+PUBLICATION xEVIEW
+This report hes been reviewed and is opproved.
+
+OLSTAISUT IOs PREMMAN FY. SENTLEY
+LS. Gol. 2. J. Friend Shieé, Analytical Branch -
+
+Astaey Physics Laboratory
+Asacya (5 cys) Bir of materials & Processes
+ASACE Library

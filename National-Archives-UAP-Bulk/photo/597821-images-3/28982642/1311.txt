@@ -1,0 +1,20 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T17:14:53Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7508625, "source_ctime_ns": 1793382234690337415, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28982642/1311.jpg", "source_mtime_ns": 1785701040000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28982642/1311.jpg", "source_sha256": "91e8156c3a485bf65b20ea0bf5eb5b24e51f6a3530ed01e21cfd9bc492222886"}
+
+===== PAGE 1 =====
+{"alpha_words": 150, "chars": 919, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ware va
+34, iow did the object or obj obs airnpy any from views Aa rae eee ree
+37. What direction were you looking when you first saw the object?, (Circle orc)
+a. North c. East e. South ge West
+b. Northeast d. Southeast f. Southwest h. Northvest
+38, what direction were you looking when you last saw the object? (Circle one)
+a. North c, East e. South fe West
+b. Northeast d. Southeast £. Southvest he Northwest
+39. Draw a picture that will show the shape of the object or objects. Isbel and
+include in your sketch eny details of the object that you saw such es wings,
+protrusions, etc., and especially exhsust trails or vapor trails. Plsce en
+arrow beside the drawing to show the direction the object was moving.
+40. Draw e picture that will show the motion that the object or objects made.
+
+Place en "A" at the beginning of the path, a "B" at the end of the path,
+and show any changes in direction during the course.

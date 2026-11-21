@@ -1,0 +1,61 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T17:08:31Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5914055, "source_ctime_ns": 1793379790991959524, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28973465/0064.jpg", "source_mtime_ns": 1785700952000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28973465/0064.jpg", "source_sha256": "fe40cd653997b0821f26af3aac83fd9f9cdd8ff42cf5e2edeb267de829d54b85"}
+
+===== PAGE 1 =====
+{"alpha_words": 480, "chars": 3007, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+SUBJECT: Request for Analysis - UFO Photography
+
+TO: AFCIN=-4E4 FROM: AFCIN-bA2f DATE: 15 Nov 57 COMMENT NR 2
+Maj Re Me Bucknaster/11
+Ext 5-9196/Bldg 263/E-N
+
+1. In analyzing the attached photograph and report of incident by the source,
+' the following facts are evident from a photographic viewpoint:
+
+a. The photograph in question is believed to have been composed or made
+up by some sort of trick technique requiring two or more exposures or else was a
+transparent plastic or florescent painted balloon or was a combination of the two.
+The latter is less apparent due to the spotting irregular tone of the cigar shaped
+object especially noticeable in front. It is extremely unlikely that the bright
+light with halo effect (top rear of object) was physically a part of the cigar
+shape because any light as bright as that on top of an object would have reflected
+light from the objects top surface; therefore, it is believed this light was made
+by another example of a similar halo effect photographed of a street
+light by Mr. er of LA2f staff, is attached as inclosure 5. Attached
+as inclosure 6 is an example shot by Muagagiiiat the moon and effect created when
+camera was moved.
+
+be. It is not believed that the object in question was created by light
+reflection from clouds or sky as concluded by investigators but before the inference
+that object might have been connected with Disneyland is wirlled out, an investigation
+Should be made to see if any of the rides in Disneyland are similar in shape to the
+cigar shape because thru a trick technique a space ship in Disneyland could have pro-
+vided the peculiar shape.
+
+c. The sky produced in the photograph gives it an unrealistic appearance
+because of the exposure received below the object and the fact that it does not look
+like the normal sky exposure. An exposure of 1/10 of a second at £/4.5 when camera
+is pointed at the sky will reproduce the stars unless there was a cloud cover; also,
+this exposure will normally not produce an extremely dense negative as stated by
+source. Mr.@@exocsed inclosure 5 (street light) at 1/10 at f£/4.5 and inclosure 6
+(moon) at 5 seconds, t/ 3.5. These exposures tend to disprove exposure data statements
+made by source.
+
+ad. In the report of incideut, it is very apparent that the source had
+either a good working knowledge of photography or else received very experienced
+coaching when making the report oecause he has attempted to eliminate all possible
+questions that might be asked by persons in the photographic profession. Example:
+In the first paragraph he stated that he advanced film as precaution against double
+exposure. After reading tue report, the reader is left with the impression that the
+photographer was attempt’ng to cover all inferences that might lead to tne thought
+of trick photography.
+
+e. Also irclosed are copy prints and negative print as requested.
+
+Y #
+
+7 Incl ROBERT M, BUCKMASTER
+1-4 n/c ADDED 3 Incl Major, USAF
+5. Photo of utr Light
+
+6. Photo of moon
+7. Cy prints & neg print

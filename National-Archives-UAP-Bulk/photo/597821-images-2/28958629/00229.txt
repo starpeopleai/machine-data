@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T16:54:59Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3465001, "source_ctime_ns": 1793375977898979153, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28958629/00229.jpg", "source_mtime_ns": 1785696582000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28958629/00229.jpg", "source_sha256": "845f06a72119e0423119f4a2eed7ff6f2bfd389d344bd07e83e1197b454fb3bb"}
+
+===== PAGE 1 =====
+{"alpha_words": 109, "chars": 860, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+1. DATE 2 LOCATION 12. CONCLUSIONS
+21 June 1952 Saye wos 0 Was Bailoon
+ne 1954 javannah, Georgia SB -Prababiy Balleen
+3. DATE-TIME GROUP a. TYPE OF OBSERVATION Baer Heures
+221,7 5 Q Was Aircroft
+Local 7 P 2) Greund- Vi sual 0D Ground-Reder G Probably Aircraft
+"yO } aod :
+GM Te See 03272 O Aire Visa O Air-Intercep? Rader © Possibly Aircrots
+5. PHOTOS 4. SOURCE D Was Astronomical
+OG Yes 0 Probably Astronomicol
+Ne Civilian O Possibly Astronomical
+7. LENGTH OF OBSERVATION 8. MUMBER OF OBJECTS | 9. COURSE 0 Other ‘
+SL insufficient Dota fer Evaluation
+o
+Not Revorted alk ot Reported
+10, BRIEF SUMMARY OF SIGHTING 11. COMMENTS
+Similar to acft with glass bottom with orange 'ssential elements missing. Insuffici n
+extremely high speeds. Object appeared as point
+of Jdagnt only like a star igh altitude,
+
+ATIC FORM 329 (REV 26 SEP $2)

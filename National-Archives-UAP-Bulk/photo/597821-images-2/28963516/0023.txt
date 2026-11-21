@@ -1,0 +1,60 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T16:57:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4010014, "source_ctime_ns": 1793377395348238576, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28963516/0023.jpg", "source_mtime_ns": 1785696741000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28963516/0023.jpg", "source_sha256": "13b5554256abb53f30e449fadb1030ddc18ac7fa3de5cc8199a787b0ea004a36"}
+
+===== PAGE 1 =====
+{"alpha_words": 74, "chars": 612, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+mB 4A,
+:
+3
+me 6.
+4
+
+Te
+
+Be 45,235,
+D. OBJECT MOVED DIRECTLY NCRTH AT CONSTANT ALTITUDE.
+
+E. FADED GRADUALLY FROM VIEW,
+
+“F. 32° TO 9% SECONDS,
+
+A. GROUND-VISUAL
+
+B. NONE
+
+CG. NZA
+
+A. 25/91552
+
+B. NIGHT
+
+A.@: 39% EAST 57TH STREET, NEW YORK CITY. 19TH FLOOR.
+
+Aaa MRS , <i oes 67TH STREET, NEW YORK CITY, HOUSE
+WIFE “ )
+
+WT NEW YORK CITY, HOUS
+WIFE,
+B. NONE
+
+m PAGE THEREE RJEPNY 6 ‘
+
+A. CLEAR NIGHT, GCOD VISIBILITY.
+B, SURFACE --- CALM
+620, ---- 32GDEG, 14 KTS
+16200, -~- 280DEG, 12 KTS
+
+16570, --- 27GDEG, 2°KTS
+
+5
+
+od fat ‘ ~~
+
+Bem nie J
+
+m
+
+cf
+
+30692, --~ 25aDEG, 5¢KTS
+5ONGE, ~a- 25GDEG, 39KTS
+C. UNLIMITED

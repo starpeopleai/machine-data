@@ -1,0 +1,67 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T16:53:29Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 2247513, "source_ctime_ns": 1793356182446015884, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989306-001-0183.jpg", "source_mtime_ns": 1785564629000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989306-001-0183.jpg", "source_sha256": "c1e850c7355dad17c9228a40f54e53001c0ce137d696c32bb40448528699c86c"}
+
+===== PAGE 1 =====
+{"alpha_words": 431, "chars": 4941, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+CONFIDENTIAL "sano.
+) | G AUTHORI
+INDEX ZED
+
+Page Page
+Aerograph Calibration Set TS—407/AMQ-2......./. 57 Hose ML-81______...__.. 2-2 eee 60
+Aerograph Calibration Set TS—643/AMQ-2A_____... 57 Hose ML-216_....------------------------------ 64
+Aerograph Equipment AN/AMQ-2(*)____.-----.--- 1 Humidity Element ML-880/AM_--__- BS eB SOS Se 66
+Aerograph Recorder ML-320/AMQ-— 2 ----------. 164 Hydrogen Generator Set AN/TMQ-3..._.__-_--- . 18
+Air Speed Calculator ML-824/UM___.-..-------.- 64 Hydrogen Regulator ML-1938____- --.------.. 62
+Amplifier AM-7( )/FMQ-1_.-------------------. 60 Hygrograph ML-16__._.-..----2 22 24
+Anemometer ML-62__-_-----..------------------ 27 . i F
+Anemometer ML-80-(*) _ _ ~~ - - - - ..-.--.... 80 Teac AT a) eee es ae ae
+Antenna Assembly AS-11(_ )/F MQ- 1... 60 Junction Box ML-169___....----..------2------- 62
+Antenna Assembly AS-389/FMQ-2_............-.. 60 Lantern ML-91.._._... er |
+Balloon ML-64-(_ )__.-.---.----------- 60 Launching Reel ML-367/AM_._. Sen OG
+Balloon ML-155____.---------------- Sees = Oz Meteorological Observation Set SCM-12__.____- _.. 67
+Balloons Mij=)56 Samana ean e a eee Oe Meteorological Station AN/TMQ-1__....-......... 17
+Balloon Mi-'57 222 3s ae See ee eee eee 62 Meteorological Station Set AN/TMQ-4__..__..-.... 19
+Balloon ML-158__-..-.-----------------------.-. 62 Mixing Ratio Calculator ML-326/UM_._...-.__--- 64
+Balloon ML-159-(_)_--------------------- wa aeee 62 Mobile Meteorological Station SCM-1_....._-___-_- 55
+Balloon ML-160__-.-----------.------ ~~) 62 Mounting ML-178___...---.---- Joes Seeccececns, O02
+Balloon ML~-161___.-------.---- Ce ee 62 Mounting MT-321/AMQ-2____..______-.________- 66
+Balloon M1162... .-- pes ese we Nozzle MI.-186_..._-- Be ee Se ee Bae eis 62
+Balloon ML-391/AM__2_.-~---- eee eeoteeee=es 166 Nozzle ML-196 63
+Balloon Nozzle ML-873/GM_________- : scone (id a a —
+Balloon Shroud MC-573___......_.....__-.__-_.. 20 Pilot Balloon Target: ML-307(*)/AP____._..--_-__- 48
+Battery Tester TS-287( )/GM__._.-_..-_._-. 68 Plotting» BoardyMils— 1222 seen eee 61
+Barograph ML-3-(*)__---------- ole. _— _. 22 Plotting Set AN/GMQ-3.__._.__....---_------- ee 15
+Barometer ML-2-(*)____.--. rn) | Pressure-Air Speed Transmitter ML-319 /AMQ-2.. 64
+Barometer ML-9______._..-...-_.-.--._-_-.__-__. 24 Pressure Calculator ML—323/UM__._.....-----_--- 64
+Barometer ML—-102-(*)__......-.--.-.-.....----. 381 Pressure-Height Slide Rule ML-315/GM___.-_____- 64
+Barometer ML-330/FM_..........-..-..-.------. 52 Psychrometer ML-24___...-....-.---------------- 46
+Barometer ML-331/TM_._....._........--------. 58 Psychrometer ML-224__...-...-.--------------- 46
+Barometer ML-332/TM___._._____._- _....-..)~ «(BB Psychrometer Equipment ML-313/AM___________- 50
+Barometer ML-333/TM___._._..-_---- _... 58 Psychrometric Calculator ML-322/UM___________- 51
+Bearing ML-129-(_ )__...-.._----- ee | | Psychrometric Calculator ML-419/UM__._-_--_--- 66
+Calcium Hydride Charge ML-304A/TM_-_______- _. 64 Rack Assembly MT-47(_ )/FMQ-1___.--.------.-- 66
+Calcium Hydride Charge ML-805A/TM_._........ 64 Rack Assembly MT:-678/F MQ-2__...........----- 66
+Calibrator ML-211____._..-------------.--. _.. 63 Radio Set SCR-658__...------. 2.2.2 - + -- 56
+Candle ML-90..._.._- ee. __... 60 Radiosonde AN/AMT-=1_......-..-.-2- 222... . 8
+Case CY-295/UM___..--- oo) (60 Radiosonde AN/AMT-2(*)_.. 2-2 ee 5
+Case ML-48________________ 2 | Radiosonde AN/AMT-3__-... 2 22 eee 6
+Ceiling Light Projector ML-121- Ce nen 3) Radiosonde AN/AMT-4__--..--2-.---- 2-8 7
+Ceilometer Set AN/GMQ-2_______-_.............. 14 Radiosonde Receiver R-17( y/F MQ- | ne 66
+Chart ML-106__._._._._._.__._.______.. «CB L Radiosonde Receiver R-228-F MQ-2____.__._..2--- 66
+Chart Roll ML-182___.._______________...__._._. 62 Radiosonde Receptor AN/FMQ-1(*)___..-...------ 8
+Chart Roll ML-325/UM_____._...-.-_--._.-_.__- 64 Radiosonde Receptor AN/FMQ-2_._......---.----- 9
+Clinometer ML-119-(*)__...--.-_--------.----- _.. 84 Radiosonde Recorder RD-3( )/FMQ-1____-.----- 66
+Control Panel ML—-170__....-..--.------- ae 62 Rawin Set AN/GMD-1__..--..-.---------------- 10
+Control Set ML-212___.___--.--.-------- 2. 63 Register ML-27__..--.----. Bo ctee ae ae ae eeeereeiee 60
+Coupling ML-187_______-.-..---.-.---2- ee 62 Register MI tO3— (%) eyes s sae eae ee ee 32
+Expendable Hardware Items MK-27/FMQ-1....... 60 pOON Na? Aenea en
+Frequency Meter TS-29 /FMQ-1__-_-_.______- -. 67 Seale ML-125................................... 61
+Frequency Standard TS-65 /FMQ-1-.----_-- Soca 68 Seale ML-177.__................................ 62
+Gauge ML-80__------------------------ ee eee 60 Scale ML-321/AMQ-2__.__- Be be San See meee cee 64
+Gatige MU-2 (2 ee ee eee eee 45 Scale ML-866/UM__..-_..--.2- 22 ee 65
+Generator ML—185-(*)__..-.--------- ee eee 44 Shelter ML-41__.2222-2------0-- 208 a 28
+sraphing Board ML-312/TM_____......-----.---- 49 Static Direction Finder AN/GRD-1A___.---------- 16
+
+69
+
+E<3.°ED HANDLING ‘AUTHORIZED

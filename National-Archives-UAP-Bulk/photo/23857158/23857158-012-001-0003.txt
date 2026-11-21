@@ -1,0 +1,17 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T16:54:25Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3194302, "source_ctime_ns": 1793360004843995822, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-012-001-0003.tif", "source_mtime_ns": 1785681598000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-012-001-0003.tif", "source_sha256": "8df36c206608a17825573126d96ce0cfe5f05893ec9d19bdd18b1022b9a3b2f9"}
+
+===== PAGE 1 =====
+{"alpha_words": 34, "chars": 257, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Declassification Authority NND 923007
+
+(
+UFOG Repoers Reyne Bons Gserreae nana, Mey USAFE
+——$<——— Dave Mies uT.C USA
+@/e(22 — S{2l/77 )
+( — 3/23)/97
+4)
+oO
+Box Reocr (Q0 Poet fe Locptiota
+Ho Date .
+Rug. Ay SG @825¢ W.Oek, Dela mace
+Des. 1}, PSE WKSe Via chy

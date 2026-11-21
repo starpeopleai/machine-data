@@ -1,0 +1,50 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T17:00:44Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4469338, "source_ctime_ns": 1793374290914879900, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28951089/0279.jpg", "source_mtime_ns": 1785696551000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28951089/0279.jpg", "source_sha256": "cc0fcad6eaf3e605d3ed2105bd3eba3f3a2fa06b4af068d99fa2937ceea7faa6"}
+
+===== PAGE 1 =====
+{"alpha_words": 98, "chars": 882, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+| “ «PROJECT 10073 WEATHER DATA SHEET ey
+fl. DATE OF oe Nii OF OBSERVATION | a apa
+
+' o c. ~
+ha, WINDS ieee ise ai tae a yy ae
+
+}
+Vkatae ere AHMET Cruel
+
+&
+
+ALTITUDE VELOCITY DIRECTION “ALTITUDE “[ 7 “iiuools? 2 nana 1
+4) (xnote) | ___ (degre ___(feet) —(cnots)__}__ (degrees) _!
+0 25,000
+1,000 30,000
+2,000 35,000
+3,000 40,000
+4000 45,000
+5,000 at) 4 a y° 50,000
+6,000 55, 000
+7,000 60,000
+8,000 65,000
+9,000 70,000
+10,000 Aho 330° 75,000
+12,000 80,000
+14,000 85,000
+16,000 90,000
+18,000 95,000
+20,000 100,000
+5. WAS AN INVERSION LAYER NOTED? ClYes : J No
+__(If yes, at what altitude?
+6. WERS ANY THUNDERSTORMS NOTED IN AREA? C Yes CJ No
+(If yes, at what quadrant?
+
+7. CLOUD COVER: 8. VISIBILITY WAS
+tenths at feet. tenths at _. feet. MILES.
+tenzns et _ feet. tenths at feet. ae
+
+9, CONSENTS:
+4 is ? 4 Y ee
+
+Lur-4 Py rr
+
+Afic Tost Form 333 (13 Aug 52)
+
+Fic le edule aus che ohana
