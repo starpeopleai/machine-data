@@ -1,0 +1,45 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T20:20:52Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8185445, "source_ctime_ns": 1793362477831413846, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330783011/45484701-003-001-0017.jpg", "source_mtime_ns": 1785685146000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330783011/45484701-003-001-0017.jpg", "source_sha256": "643366371a1d386a05279a7e5ce599937f47eec5192231ff00f8e88466049fa7"}
+
+===== PAGE 1 =====
+{"alpha_words": 75, "chars": 626, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+: . \ ay X
+| i be :
+| /) / . y, Che i)
+f ~ P > pis a4 y tea 4 j SG ’
+A NMI DENT 4 F/E®D) AT CR IAL fs CMOAME NUN
+|
+v Bey t fi *t <
+| ritt B} G, t
+|
+| Se ; ‘ c : : , m hb
+ND ale Vi K WILK LAM SOU (Cre; ICs t € ri e Fitts DRG “ae BM
+- ,
+|
+| t , ‘A : “> ' i a) ae tic
+WIMOOW ~- CLEA I?
+| f fA é , ‘ 4 .
+IACUL DER ¢ HEAN OF Man VISIOCG
+; ‘ : Af HL ¢ 4 CCH j {
+| Megium DARw Dive Lieut lo Intenica A :
+ATs RANE CSE UNH ENE % j ( ' 4 ~ ft a | j
+|
+i]
+| en omen - - —
+|
+| j Mery
+| Frat
+\
+\
+a "
+4
+4 fy
+a tt / ¥ fi j fr) a \
+oe, 4 ’ j 4 «
+; 4
+| \
+j \
+| shinies : —e t
+f if
+} a 4 ri Ux baz ‘ : ’
+
+Declassification Authority: NND 923007

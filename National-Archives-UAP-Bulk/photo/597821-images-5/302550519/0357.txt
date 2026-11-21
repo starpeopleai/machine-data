@@ -1,0 +1,47 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T19:47:20Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1263399, "source_ctime_ns": 1793390504515694480, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302550519/0357.jp2", "source_mtime_ns": 1785808122000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302550519/0357.jp2", "source_sha256": "d5a3f9bf365c4727b2e4e82c9228c409003d578a12d5b25b8ba5d2c05441091e"}
+
+===== PAGE 1 =====
+{"alpha_words": 108, "chars": 879, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+UNCLASSIFIED
+
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+INCOMING MESSAGE
+
+AFIN: 24647 (11May66) M/bgt _ Page 1 of 2
+ACTION: NIN-7 INFO: XOP- a3 XOPX=25 “SAFOS-3,-D1A- A -RDC- 4 (19)
+ADV CY DIAZ
+
+SMB A135RTTU ZYY RUEDGMAS348 1262029-UUUU--RUEDHGA,
+ZNR UUUUU
+
+R 0620092
+
+FM 52FTRWG SUFFOLK COUNTY AFB NY
+TO RUEDHQA/ CS AF
+
+RUEOHQM/ SECRETARY OF THE AF WASH OC
+RUWMFVA/ ADC
+
+RUEDMAA/1AF STEWART AFB NY
+RYEDBOM21AIRDIV MCGUIRE AFB NJ
+RUEEBAA/ AFSC
+
+BT
+
+UNCLAS 520DC 90128 MAY 66.
+
+FOR AFSC FTD-TDEW-UFO, USAF CAFNIND, 21AIRDIV (21ADOIN). UFO
+[AW AFR 290-2 INFO SUBMITTED ON UFO SIGHTING AT 92302 4 MAY 66.
+Ae (1) CIRCULAR (2) BASKETBALL (3) GLUE-WHITE (4) ONE (5) (6) N/A
+(7) NONE (8) NONE (9) WA. :
+B €1) N/A (2) OVERHEAD (3) HEADING SSE (4) N/A (5) VERY FAST (6)
+APRX 2-3 MIN,
+
+C. €1) GROUND-VISUAL (2) NONE (3) NWA
+
+D. (1) 02302 4 MAY 66 (2) NIGHT
+
+FORM
+
+a | UNCLASSIFIED

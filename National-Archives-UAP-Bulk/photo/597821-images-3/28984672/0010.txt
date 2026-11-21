@@ -1,0 +1,23 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T20:01:59Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4552016, "source_ctime_ns": 1793382581340076091, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28984672/0010.jpg", "source_mtime_ns": 1785701089000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28984672/0010.jpg", "source_sha256": "8e2a9aa5707cd6cb66550e6071a56a01df3db125326cdd4757db71c9c92f6914"}
+
+===== PAGE 1 =====
+{"alpha_words": 140, "chars": 841, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Ie ica chee RIESE i Sat Di hen eta a ate Rn A caret ear ae oe 2 CORI Werth 19, SPA aM EEO Ye LR Mert T2y Ne AMD Ra weMraB Heal eet 4 el abtias vabeliisly yemonetion hee 4 Hier pnt chy
+
+(2) There are numerous airline flights along airways that pass
+overhead and 15 miles Fast of the observer's position. As stated in
+paregraph 1j, three airline flights are known to have been in this area
+between O700Z and 0730Z from records retained by Portland FAA Tower on
+IFR traffic routings. There are no records to indicate the number or
+position of aircraft on VFR flights in this vicinity.
+
+(3) Although there is no evidence as to what the observer saw,
+it is believed that it could have seen lights from a commercial
+aircraft and mistook them for un!mown flying objects.
+
+FOR THE COMMANDER:
+Cc
+
+VARY C. HYRDEINA
+Major, USAF
+Adwinistrative 0fPToas

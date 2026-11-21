@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T19:46:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1097784, "source_ctime_ns": 1793355859101093287, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989281-001-0041.jpg", "source_mtime_ns": 1785564543000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989281-001-0041.jpg", "source_sha256": "ccd5a5960f5b87fcc55c0891623294fe96f7dde6e34ecd02fa77088b72cd98f8"}
+
+===== PAGE 1 =====
+{"alpha_words": 197, "chars": 1526, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+For Official Use Only
+
+DRAFT
+*° Research Division, College of Engineering, New York University, Technical Report
+No. 93.02, Constant Level Balloons, Section 3, Summary of Flights, July 15, 1949.
+3! Capt Vincent Mazza and Capt Richard V. Wheeler, High Altitude Bailouts, MCREXD-
+695-66M (Wright-Patterson AFB, OH: USAF Air Materiel Command, September 18,
+1950), 10-11.
+Ist Lt Raymond A. Madson, High Altitude Balloon Dummy Drops, Part I. The
+Unstabilized Dummy Drops, WADC Technical Report 57-477, (Wright Patterson AFB,
+OH: Wright Air Development Center, Oct 1957) (hereafter High Altitude Balloon Dummy
+Drops Part I), 27, and 1st Lt Raymond A. Madson, High Altitude Balloon Dummy Drops,
+II. The Stabilized Dummy Drops, WADC Technical Report 57-477 (I) (Wright Patterson
+AFB, OH: Aeronautical Systems Division, Air Force Systems Command, August 1961)
+(hereafter High Altitude Balloon Dummy Drops Part II), 18.
+8 High Altitude Balloon Dummy Drops Part I, 1.
+a High Altitude Balloon Dummy Drops Part I, 3-6, and High Altitude Balloon Dummy
+Drops Part IT, 18.
+32 Capt Joseph W. Kittinger, Jr, “The Long, Lonely Leap,” National Geographic 118, no.
+6 (December 1960): 854-873.
+28 Maj John P. Stapp, Human Tolerance to Linear Deceleration, Part I. Preliminary
+Survey of the Aft Facing Seated Position, Air Force Technical Report 5915, (Wright
+Patterson AFB, OH: Wright Air Development Center, 1949) and Maj John P. Stapp, Part
+
+II. The Aft Facing Position and the Development of a Crash Harness, Air Force
+
+For Official Use Only 37

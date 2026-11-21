@@ -1,0 +1,43 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T20:14:56Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6548113, "source_ctime_ns": 1793370876134101585, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28935601/1406.jpg", "source_mtime_ns": 1785688640000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28935601/1406.jpg", "source_sha256": "6ed33e58765c78488d0de19192a4c84f924e758cf503cd84dcccf4cd64bdd415"}
+
+===== PAGE 1 =====
+{"alpha_words": 114, "chars": 843, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+UNC. DEPARTMENT OF THE AIR FORCE
+
+HEADQUARTERS UNITED STATES AIR FORCE
+WASHINGTON 5D-O0SI/JEM/vz
+
+THE INSPECTOR GENERAL, USAF
+STH DISTRICT OFFICE OF SPECIAL INVESTIGATIONS
+WRIGHT-PATTERSON AIR FORCE BASE, DAYTON, OHIO
+
+inreptyrererto: 5D 2y=21 6 October 1949
+
+SUBJECT: PROJECT GRUDGE - Incident of Flying Discs
+Mesa, Arizona - 24 June 1919
+
+SPECIAL INQUIRY
+
+TOs Commanding General
+Air Materiel Command
+Wright=—Patterson Air Force Base
+Dayton, Ohio
+ATTN: MCIAXS
+
+1. Forwarded for your information and necessary action is
+report of investigation of Special Agent ELMER M. NEVILLE, DO #18,
+
+dated 27 September 19,9.
+
+2. This investigation is continuing and reports of investi-
+gation will be forwarded to your oftice upon receipt in this office.
+
+1 Incl
+
+Rpt dtd 27 Sep 49 (dup) Major, USAF
+
+Acting District Commander
+
+PY eee
+
+WE-O-5 OCT 48 15M

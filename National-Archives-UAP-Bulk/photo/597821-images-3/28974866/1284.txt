@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T20:24:36Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8605051, "source_ctime_ns": 1793380194403611101, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28974866/1284.jpg", "source_mtime_ns": 1785700966000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28974866/1284.jpg", "source_sha256": "8dc8387d68e77df682f29cf831e7128a1113b364d7c019d9873095df0069f772"}
+
+===== PAGE 1 =====
+{"alpha_words": 44, "chars": 314, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+“No Case (Information Only) ae November 1957
+
+/ Calhoun, Georgia
+
+Pogo 10
+
+"
+
+Las. lie
+
+VERLOOK ING THE. TOWN.
+
+CALHOUN, GAs, NOVe 15.-~¢ IP) =-STRANGE RED LIGHTS NO LONGER FLASHED |
+cere oe INVESTIGATORS FOUND A PRANKSTER SWITCHING HIS RED
+HANE=COVERED AUTOMOBILE none re ON: AND OFF FROM A HILLTOP
+
+-J-
+
+|
+
+|
+\

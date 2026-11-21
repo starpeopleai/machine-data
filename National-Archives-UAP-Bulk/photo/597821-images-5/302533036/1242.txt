@@ -1,0 +1,60 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T19:43:37Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 927358, "source_ctime_ns": 1793388817825041360, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302533036/1242.jp2", "source_mtime_ns": 1785808513000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302533036/1242.jp2", "source_sha256": "c78785d31fe2e1051698bdfba066a618f692a338f7c3de1eeaa0e7912dc853fd"}
+
+===== PAGE 1 =====
+{"alpha_words": 196, "chars": 1570, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+6 BP niente o m4 ?
+
+C(1) GROUND-VISUAL, (2) NONE, (3) N/A; D(1) G459Z 21 MAY 64, - NG feats
+(2) NIGHT; E. ADJACENT TO FASE THEATER, GLASGOW AF=,_
+
+| MONT3 Fe (1) NONE, (2) JOHN A. FROEMHA, AZC, AF16755792,
+
+| 861 MED GP, GLASGOW AFi, X-RAY TECHNICIAN, GOOD;
+
+| ROLERT E. MACKAY, AL, AF15684959, S1FOOD SERV SQ,
+
+| GLASGOW AFB, GOOD. MACKAY STATES HE OS3SERVED LICHT
+
+| FOR ONLY 20 MINUTES AND LIGHT APPEARED TO HAVE A .0=
+
+| BING MOTION. OTHER INFO IDENTICAL TO THAT PROVIDED BY
+
+| FROEMKA. G(1) FAIR SKIES, (2) SURFACE 99 DEGREES AT 14
+
+| KNOTS$ 6,22, 320 AT 423 10,092, 270 AT 253 16,590, 250 AT 6@3
+20,028, 250 AT S53 34,802, 240 AT 723 50,000 232 AT 19, 82,000,
+q 89 AT 153 (3) HIGH THIN BROKEN, (4) 15 MILES (5) NINE-TENTHS}
+| (6) AT 95952 21 NAY THUNDERSTORMS NW MOVING TO NE,
+
+| OCCASIONAL LIGHTENING (7) TWO DEGREES C PER THOUSAND
+
+| FEET EELOW 38, 92%. He NONE, I. NONE, J. UNK, Ke ASE
+
+~
+
+PAGE 3 RUSHND 15 UNCLAS
+
+| COMDR, GLASGOW AFB COMME.TS ARE QUOTE APPEARS TO
+
+BE NATURAL PHENOMENON UNQUOTE. PART II. SECOND GRP
+
+WAS ON ROOF OF SARRACKS APPROXIMATELY ONE-GUARTER
+
+MILE NE OF FIRST GROUP. A(1) IRREGULAR OVAL SIMILAR TO
+
+1 WALNUT (2) SIZE SIMILAR TO AUTOMOSILE HEADLIGHT AT
+
+| ONE-HALF HILE, (3) COLOR VARIED AS LIGHT INTESSITY VARIED.
+
+| LIGHT WHEN 2RIGHT WAS WHITE AND SO INTENSE IT COULD
+NOT LE WATCHED COMFORTABLY THROUGH SIOCULARS.
+
+WHEN LIGHT DECREASED IT APPEARED TANISK-ORANGE. (4)
+
+ONE (5) N/A (6) NONE, (7) NONE (8) NOJE(9) NONE. BUD
+
+O-SERVERS WERE WATCHING LIGHTENING FLASHES WHEN A
+
+”
+
+| MUCH BRIGHTER FLASH SLIGETLY TO THE SOUTH OF WHERE hte

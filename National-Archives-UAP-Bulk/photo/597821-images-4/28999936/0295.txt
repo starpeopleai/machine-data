@@ -1,0 +1,59 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T20:02:17Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4570659, "source_ctime_ns": 1793388082378396018, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28999936/0295.jpg", "source_mtime_ns": 1785748095000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28999936/0295.jpg", "source_sha256": "f7deb2d795b90197736af1944bd04a52a29f9bb4308a217a1643c55471727b12"}
+
+===== PAGE 1 =====
+{"alpha_words": 129, "chars": 969, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+en ee ot, OEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+
+UNCLASSIFIED MESSAG?
+
+. INCOMING
+SMB C 988 AF IN : 44701 (4 Dec 62)C/joe
+
+reves YY RUEAHQ |
+INFO: OOP-1, OOP-CP-2, SAFS-3, ARM-2
+' NAVY-2, CMC-8, JCS-35, OSD-15, CIA-11
+UCKYN 2,
+OR Ss NSA-7, DIA-10, DIA-CItc-3 (117)
+ZNR
+Y B40605Z .
+
+FM CCGDEIGHT ;
+
+TO RUWGHW/THIRTY SECOND ADDIV SAGE OKLAHOMA CITY AFSZA
+RUWGALB/ CINCNORAD
+
+RUEGUY/ COMEASTSEAFR ON
+
+RUEAHQ/COFS USAF
+
+RUCSBRB/CINCSAC
+
+RCCSC/ CANAIRDEF
+
+RCEOM/ CANCOMARLANT
+
+INFO RUECJD/COMDT COGARD
+
+RUEGUF/ COMEASTAREA
+
+RUCKKC/ COMSIX
+
+RUCKYC/ COMEIGHT
+
+RUCKSH/COMFAIRWING ELEVEN
+
+USCG GRNC
+
+BT
+
+UNCLAS |
+
+CIRVIS. THE SSSESSO LIMA REPORTED SIGHTING AN UFO IN POSITION
+
+25.5N, g5 4W AT @49345Z. BBJECT DISCRIBEDSAS POSSIBLE ROCKET WITH
+BRIGHT VAPOR TRAIL SHOOTING UPWARD. BEARING 345 DEGREESSFROM
+ABOVE POSIT AND 15 DEGREES ABOV THE HORIZON. OBJECT DISAPPEARED
+BEARING 338 DEGREES AND 38 DEGREESSABOVE THE HORIZON.
+
+BT NOTE: ADV CY DEL TO DIA, CIN AND OOP-CP

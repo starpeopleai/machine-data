@@ -1,0 +1,53 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T19:57:57Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3851304, "source_ctime_ns": 1793375439422894648, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28956257/0911.jpg", "source_mtime_ns": 1785696901000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28956257/0911.jpg", "source_sha256": "80929c75b07544bc3cd80260d7bde5502153d64a81bbf95678971cdd18f46a50"}
+
+===== PAGE 1 =====
+{"alpha_words": 186, "chars": 1155, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+bi ad nee Diey haw Pea ee oP yen cay
+pre M ceria ERI NO TT yin carn iy
+
+Page 7
+
+34. What were the weather conditions at the »:me you saw the object?
+
+34,1 CLOUDS (Circle One) 34.2 WIND (Circle One)
+a. Clear sky > e. Nowind
+b. Hazy b. Slight breeze >
+c. Scattered clouds ¢. Strong wind
+d. Thick or heavy clouds d. Don’t remember
+e. Don't remember
+
+34,3 WEATHER (Circle One) 34.4 TEMPERATURE (Circle One)
+a, Ory. a. Cold
+b. Fog, mist, of light rain b. Coal
+¢. Moderate orheavy rain ¢. Warm
+d. Snow d. Hot
+e. Don't remember @. Don’t remember
+
+35. When did you report to some official that you had seen the object?
+
+ae ; ,
+0 é ee.
+
+$ * ee
+Day Month Yeor
+
+oo ee
+
+———
+
+36. Was anyone olse with you at the time you saw the object?
+
+(Circle One) _ Yes No
+36.1 IF you answered YES, i+ hey see the object too?
+(Circle One) — Yes No
+
+36.2 Pleese list thelr names ond addresses:
+
+37. Was this the first time thet you hed seen an object or objects like this?
+(Circle One) (“Yeo No
+
+es
+
+37.1 IF yeu enswered NO, then when, where, and under what circumstances did you see other ones?
+
+33. 'n your opinion what do you think the object was and whet might have caused it?

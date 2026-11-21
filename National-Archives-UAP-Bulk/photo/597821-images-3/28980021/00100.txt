@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T20:02:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4605437, "source_ctime_ns": 1793381369522935693, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28980021/00100.jpg", "source_mtime_ns": 1785700950000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28980021/00100.jpg", "source_sha256": "8939276ff82daa3ea119e9390bf7de20680499cc373745681e3637fe3dc504b7"}
+
+===== PAGE 1 =====
+{"alpha_words": 78, "chars": 546, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+girs est
+
+aS Be
+
+HEADQUARTERS Bison les
+
+57TH ALR DIVISION (SiC)
+United States Air Force
+Westover Air Force base, liass .
+
+| 99DOI
+
+NO4 TO NALS
+SUBJECT: UFO Investization Report Te ul
+: Com:ander, Air Technical Intelli; nce Center
+WrichteFatterson AFP,
+Dayton, Ohio
+
+1. The attached report has been prepared and formrded in ac-
+cordance with AFR 200-2, Dated 5 February 1958.
+
+2. The report is UNCLASSIFI "SD.
+FOR THES CO MANDER:
+
+I Incl
+Sealed Envelope Containines
+4 cys UFO Rerort, 1 sketch,
+1 4"x5" color trensparancy, :
+1 35 MM Color slide,

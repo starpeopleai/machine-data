@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T20:12:09Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6018458, "source_ctime_ns": 1793359067947322154, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-005-026-0005.tif", "source_mtime_ns": 1785681308000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-005-026-0005.tif", "source_sha256": "f3eea5f64f550bd9ef3f85d3aa7e7f053a5cb737e68c292e1328a06527b9ba04"}
+
+===== PAGE 1 =====
+{"alpha_words": 136, "chars": 1066, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Declassification Authority NND 923007
+
+It pall eae
+1. The above-mentioned discrepencies in AF Form 112° (sm-wrce--55) have been
+corrected’ as requested,
+2. The AF Form 112 (3H-UFOB-8-55) is hereby resubmitted,
+CHESTER B, HANSON, Captain, USAF
+Officer in Charge, Fit 3-H
+
+war. ae : i. SECURITY CLASSIFICATION (Jf any) .
+-FILENO. SUBJECT ;
+ATSOP : He Correction of AF Form Aa he (UFOR Report
+.'° OIG, Flt 3-H, 26024 arsg FROM -Condr, 46024 AISS PATE’ 19 Sep 55... COMMENT NO.1
+4a : Lt. McEntee/4498
+Dee ‘Avtachioa AP Foew 12 »(st-wose-s5) returned 4 for. correction of Sisoreps:
+ncies indicated ao ; as See ac emremeirere a pens
+ne i ‘Daragrash ‘IL, ‘times of sightings ‘possibly averted.
+; be Page 4, paragraph 5, blink mare of Venting systens on subject .
+aircraft, ;
+Ce Typoreaniical errors. . ut T
+_i1.Inecl on RICHARD B. RANDL3, Maj, USAF
+a/s oe Assistant Adjutant
+L-T03 Comdr, 4602a AISS FROM: OIC, Flt 3-H, 46024 AISS DATE: 22 Sept 55 COMMEM 2
+
+DD ; FORM - 9 6 . REPLACES NME FORM 96, | OCT 48, WHICH MAY BE USED. 16—54801-3 w U. S. GOVERNMENT PRINTING OFFICE

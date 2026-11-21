@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T20:15:08Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6625503, "source_ctime_ns": 1793380131584525123, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28974656/1100.jpg", "source_mtime_ns": 1785700680000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28974656/1100.jpg", "source_sha256": "e7c41845d7d06fb582523a0b764d082812fa9ba0c9930541fdd847522af760e5"}
+
+===== PAGE 1 =====
+{"alpha_words": 84, "chars": 713, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+1. DATE 2. LOCATION 12. CONCLUSIONS
+: i O Was Balloon
+1Z November 1957 Akron, Ohio 0 Probably Balloon
+3. DATE-TIME GROUP 4, TYPE OF OBSERVATION O Possibly Balloon
+: O Was Aireroft
+Local O Ground- Vi sual O Ground-Radar (2 Probably Aircraft
+GMT L2Z17232 XOXAi nr Vi sual OD Air-Intercept Rador GO Possibly Aircraft
+5. PHOTOS 6. SOURCE 9 Was Astronomical
+O Yes 0 Probably Astronomical
+ENo Civilian 0 Possibly Astronomical
+7. LENGTH OF OBSERVATION 8. NUMBER OF OBJECTS | 9. COURSE O  Other___
+O.“Insufficient Data for Evaluation
+‘ Q Unknown
+unknown Ons unknown
+10. BRIEF SUMMARY OF SIGHTING 11. COMMENTS
+
+One odject, insufficient data
+
+hog ne pencé F8 FICE
+
+ATIC FORM 329 (REY 24 5EP 52)

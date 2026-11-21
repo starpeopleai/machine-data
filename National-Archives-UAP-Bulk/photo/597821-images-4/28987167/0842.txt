@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T20:19:39Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7589189, "source_ctime_ns": 1793383510920485717, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28987167/0842.jpg", "source_mtime_ns": 1785748494000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28987167/0842.jpg", "source_sha256": "431a509eb03ea01b61a42418c4e49eb1931bb8267af3a4535d2821c522ff7e6d"}
+
+===== PAGE 1 =====
+{"alpha_words": 117, "chars": 823, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+™“
+
+( DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE DIVISION
+UNCLASSIFIED MESSAGE
+
+INCOMING
+
+AF IN : 8210 (5 Jun 60)
+
+531,920 FEET HAD TWO LARGE UNIDENT IF IED RADAR CONTACTS IN POSITION.
+144-25 33- SQN AT @50635Z X ONE TARGET OF FIVE MILE DIAMETER ONE
+
+TARGET OF TWO MILE DIAMETER X REPORT ING OF F I CE moana aoe
+X UNQUOTE. TELEPHONE DISCUSSION WIT SOQ YeSTATES TARGETS
+
+2-3 MILES APART X NOT ROUND CMM BUT APPEARED APPROX 2 SHIP WIDTHS
+WIDE CMM ONE 5 MILES LONG THE OTHER 2 MILES LONG ON RADAR SCOPE X
+QesT ATES EMPHATICALLY NOT CLOUDS X HELD TARGETS FROM 90
+MILES AHEAD ON STARBOARD BOW AT FIRST CONTACT TO 130 DEGREES ©
+RELATIVE STARBOARD SIDE RADAR LIMIT X CONTACT BEING INVESTIGATED
+BY ENROUTE TRAFFIC X TENTATIVE EVALUATION WEATHER PHENOMENON
+
+BT
+
+D5/1114Z
+
+NOTE : Advance copies delivered to CIN & OOP-CP
+Page 2 of 2

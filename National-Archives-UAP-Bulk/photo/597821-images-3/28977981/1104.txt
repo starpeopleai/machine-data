@@ -1,0 +1,77 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T19:56:20Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3688169, "source_ctime_ns": 1793380717596339324, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28977981/1104.jpg", "source_mtime_ns": 1785701107000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28977981/1104.jpg", "source_sha256": "0e4f0a1d23d39a20b243059ebc316d267c48c9f1837be7bf8e178455d1e99f2f"}
+
+===== PAGE 1 =====
+{"alpha_words": 67, "chars": 521, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+1. DATE
+
+Bell]
+
+Jor
+
+1 T No
+
+LENGTH OF ODSER\
+
+RVATION | 8 NUMBER OF OBJECTS |
+
+9. COURSE
+
+3 2V
+
+10, BRIEF SUMMARY OF Si SIGHTING _
+7 on j t } 12 8 r
+
+rnd
+
+TiC FORM 329 (REV 25 SEP 52)
+
+Pa CO! NCLUSIONS:
+Q
+C
+
+[
+}
+|
+ae (f2
+|
+|
+
+Was Balloon
+Probably Balloon
+Possibly Balloon
+
+he
+
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+
+bite
+
+Was 3 A stronomi cal
+
+grees
+
+ooo Sat
+
+|
+|
+|
+
+Q
+
+Other
+Cc Insufficient Data for
+QO Unknown
+
+= ie
+
+uw
+
+x ase ci I }
+2 se By; 10Nn : ror
+
+bly Astronoimica
+Possibly Astronomical
+
+Evaluation

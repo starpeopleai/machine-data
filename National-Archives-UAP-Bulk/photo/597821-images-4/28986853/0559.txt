@@ -1,0 +1,45 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T20:17:15Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7200715, "source_ctime_ns": 1793383373884859299, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28986853/0559.jpg", "source_mtime_ns": 1785748495000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28986853/0559.jpg", "source_sha256": "ce88f12eda7beeba0f4d29788d85f8f0f553853f1269d24660940ffda325cc7d"}
+
+===== PAGE 1 =====
+{"alpha_words": 170, "chars": 1189, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+r
+
+1. DATE 2. LOCATION 12. CONCLUSIONS
+0 Was Balloon
+9 May 60 vata Waco, Texas B fkens beitem
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION O Possibly Balloon
+O Was Aircraft
+Local f mm fi Ground-Vi sual a re Q Probably Aireroft
+GMT 1000222 May D Air Visual O Air-Intercept Radar sd Possibly Aircroft
+5. PHOTOS | - 6. SOURCE 0 Was Astronomical
+QO Yes O Probably Astronomical
+BD Ne | Civilian O Possibly Astronomical
+7. LENGTH OF OBSERVATION 6. NUMBER OF OBJECTS | 9. COURSE O Orher
+Q Insufficient Data for Evaluation
+4 sec one E then N Q Unknown
+
+10, BRIEF SUMMARY OF SIGHTING
+
+visible d
+as a B47, vighting
+
+11. COMMENTS
+
+Long, possibly pointed object, no wings or tail] Since there was but one witness this
+
+appeared to be aprox 20 times as large| report is classified as insufficient data
+at dusk. Color not determ-
+
+ined due to sun reflecting off object. Haze
+layer present. Witness heard jet and looked up.
+
+The object was possibly an » 2ilthough
+none were reported in the area. Witness
+claimed to hear sound of jet. Any object
+20 times the size of a s-47 would have
+no doubt been witnesses by others over a
+city the size of Waco.
+
+ATIC FORM 329 (REV 26 SEP 52)

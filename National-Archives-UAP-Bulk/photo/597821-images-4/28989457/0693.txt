@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T19:54:27Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3245476, "source_ctime_ns": 1793384202122952333, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28989457/0693.jpg", "source_mtime_ns": 1785747855000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28989457/0693.jpg", "source_sha256": "4a103f03eb8d988144df9ccd1a2550ce5980b95fa556a77b93fc6b79fa9cc5f8"}
+
+===== PAGE 1 =====
+{"alpha_words": 28, "chars": 238, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+(5) Thunderstorms: None
+
+i
+i
+|
+|
+}
+|
+}
+|
+
+(6) Temperature gradient: 78 deg
+(7) Vertical lapse rate: Not available
+
+FOR THE COMMANDER
+
+ins eae ae 1 Atch
+
+JOHN E. BARR, JR. Sketch, Location of UFO's
+2d Lt., USAF
+Administrative Officer
+
+{~

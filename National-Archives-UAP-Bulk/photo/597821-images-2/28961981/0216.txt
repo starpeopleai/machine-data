@@ -1,0 +1,45 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T20:15:18Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6666487, "source_ctime_ns": 1793376789253401912, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28961981/0216.jpg", "source_mtime_ns": 1785696485000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28961981/0216.jpg", "source_sha256": "d928000777ce74ef0a857351a0f4f10829462a1cbae116f552c40c5c22167fd0"}
+
+===== PAGE 1 =====
+{"alpha_words": 130, "chars": 906, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+sm PHATE IRAE aT I Be I
+
+AIR TECHNICAL. INTELLIGENCE CENTER
+WRIGHT-PATTERSON AIR FORCE BASE
+OHIG
+
+SUBJECT: (Uncl) Request for Additional Information
+
+TO: Commander
+
+515th Air Defense Group be 9 Vi hia
+Duluth Municipal Airport
+
+Duluth, Minnesota ee hd ie / A
+
+1. Reference AF Form 112, subject: UFOB, dated 17 May 1955
+
+and originated by the Intelligence Officer, llth Fighter Interceptor
+Squadron.
+
+2. In order to facilitate an accurate analysis of the report,
+request the crew of aircraft 32525 be re-interrogated as to whether
+or not the target return was intermittent or steady.
+
+FOR THE COMMANDER
+
+MARY
+Ist Lt. USAF
+
+FISeI (17 Mey 1955) 1st Ind 24 JUN 1955
+
+-ionesota
+
+TO; Commander, Air Technical Intelligence Oenter, JIright-Patterson Air
+Force Base, Onio
+
+Grew of aircraft 732525 report that target return was steady for full
+period of scope coverage.
+
+RO? THE COLMA THI e
+PUM dot OUstua bivtore $

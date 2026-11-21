@@ -1,0 +1,15 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T19:48:43Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1414059, "source_ctime_ns": 1793393019658400480, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302572956/1241.jp2", "source_mtime_ns": 1785808640000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302572956/1241.jp2", "source_sha256": "0d9b813096118be3bba114b4628ed09f2ae6289e5fac8580532a0831d5c0944b"}
+
+===== PAGE 1 =====
+{"alpha_words": 40, "chars": 246, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Page #2
+
+looking at the sun, visability was unlimited, I was not tired, the lenses
+I imagined the altitude of these objects
+
+of my glasses are and were clean.
+were in the neighborhood of 4 to 5 thousand feet or less.
+
+: Sincerely yours,
+
+LGM/sm

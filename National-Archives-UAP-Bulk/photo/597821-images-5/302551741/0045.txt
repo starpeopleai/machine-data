@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T19:45:04Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 992132, "source_ctime_ns": 1793390623195699582, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302551741/0045.jp2", "source_mtime_ns": 1785808210000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302551741/0045.jp2", "source_sha256": "0d5d5079c7151a1cf19ecbccdb90c9501b82809bc4d44920f25684e59e4e0818"}
+
+===== PAGE 1 =====
+{"alpha_words": 139, "chars": 892, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+| UNCLASSIFIED |
+
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+INCOMING MESSAGE
+
+AF IN: 2253 (9 Jun 66) Pe 4 of 4
+
+SIGHTING TO THE INOIANA STATE POLICE ANDO LATER WAS
+ADVISED BY THE POLICE THE OBJECT WAS A B-58 TYPE
+
+AIRCRAFT. B-58 AIRCRAFT WERE AIRBORNE AND IN THE
+BUNKER HILL AFB TRAFFIC PATTERN AT THE TIME OF THE
+
+PAGE 4 RUCDNJ 58 UNCLAS “|
+SIGHTING, HOWEVER, THE TRAFFIC PATTERN WAS SOUTH OF |
+THE BASE USING RUNWAY TWO TWO ZERO WITH A LEFT TURN 7
+AFTER TAKE OFF. CONVERSELY, ENROUTE PENETRATIONS ARE
+
+. | NOT UNCOMMON AND COULD HAVE PLACED ONE OF THE AIRCRAFT
+| IN THE SIGHTING AREA. ALSO, THE USE OF AFTERBURNERS
+OVER ISOLATED AREAS IS PRESCRIBED FOR FUEL WEIGHT |
+REDUCTION PRIOR TO LANDING. PRELIMINARY ANALYSIS
+
+INDICATES THE CAUSE OF THE SIGHTING WAS A B-58 AIRCRAFT
+
+USING THE AFTERBURNER JUST PRIOR TO LANDING-AT BUNKER 3 4
+HILL AFB. :
+q Le NONE
+BT
+
+NNNN i
+
+a coe CT UNREAD

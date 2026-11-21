@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T20:02:58Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4663283, "source_ctime_ns": 1793388166182810934, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/29000265/0580.jpg", "source_mtime_ns": 1785748445000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/29000265/0580.jpg", "source_sha256": "5c788e1363c77143c987c0bca144d1ebc3748473e35ab2a6bd71bb98658b7702"}
+
+===== PAGE 1 =====
+{"alpha_words": 101, "chars": 800, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+DEPARTMENT OF THE AIR FORCE
+
+STAFF MESSAGE BRANCH
+UNCLASSIBED MESSAGE
+
+INCOMING
+
+AF IN: 12014 (14 Feb 63) Pg 3 of 3
+PAGE THREE RUEAAMQ 6
+G ¢1) CLEAR
+(2) SURFACE WINDS: 12 KNOTS
+5,228 - 278 -6 DEGREES
+10,2929 - 270 -13 DEGREES
+15,929 -19 DEGREES
+20,022 -29 DEGREES
+25,220 -39 DEGREES
+(3) CLEAR
+(4) 12 MILES
+€5) NONE
+(6) NONE
+(7)
+H €1) NONE
+I C1) NONE
+J €1) NONE
+K (1) MR, QM IS MOST FAMILIAR YITH THE APPEARANCE OF
+JET TRAFFIC AND CONTRAILS. THE SKIES OF THIS AREA
+ARE FREQUENTLY MARKED WITH CONTRAILS FROM COMMERCIAL
+AIRLINES AND HIGH FLYING MILITARY AIRCRAFT.
+HE CLAIMED THIS OBJECT EXTREMELY HIGHER.
+‘THE REPORTED BRIGHTNESS (BRIGHTER THAN THE FULL
+MOON), THE SIZE, MOTION AND DIRECTION OF TRAVEL
+INDICATE POLAR ORBITAL SATELITE, PROBABLY ONE OF
+NOTE. RE VANGE GOMYDEEIVERED POcDIRL BALLOONS.
+
+ST

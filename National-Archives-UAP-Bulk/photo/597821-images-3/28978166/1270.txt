@@ -1,0 +1,41 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T19:55:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3602454, "source_ctime_ns": 1793380736181791169, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28978166/1270.jpg", "source_mtime_ns": 1785700888000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28978166/1270.jpg", "source_sha256": "e309b8f69b8b498aaa1ad036d58147a5f0884fb6e9ac114ddde9d688bcc2182b"}
+
+===== PAGE 1 =====
+{"alpha_words": 88, "chars": 569, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+B SURFACE .
+one" = DEG B%% KT de
+Wo,cee - DEG 26g KT 50 —
+15,80¢4 - DEG 294 KT 35_
+Oc, fou! = DEG 28% KT 45
+30,he6' = DEG 28, KT 85
+siyuue' - DEG 27% KT 75
+Siycue" - DEG UNK KT UNK
+CLEAR
+
+Lo EEA
+
+FIFTEEN
+E NOKE
+} NONE
+g, NONE
+5¢ AIRCRAFT FLYING LOCAL FN LAKEKURST NAS NiJER PROCEEDING
+TO SCENE
+
+12-6 UNKNOWN
+
+~
+
+PAGE FOUR RJEDLS 534
+
+44, OBJECT IDENTIFIED AS RADIOSOND BALLOON REPORTED BY
+Aa rt a ce PED VSL Te 2 aeeeeamommermy
+
+NAVY JET NE OF WILLOW GROVE PENNA HEADING SE
+a8 /
+BT ey eae
+/ fe
+OY ae , Ber f- Vs
+4. /4435Z MAY RJEDLS AOE NL EL Te > BILE
+' a
+
+7 | le ON

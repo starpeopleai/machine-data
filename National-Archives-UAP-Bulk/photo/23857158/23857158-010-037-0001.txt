@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T20:03:28Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4763340, "source_ctime_ns": 1793359747569337527, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-010-037-0001.tif", "source_mtime_ns": 1785681510000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-010-037-0001.tif", "source_sha256": "62510ddeaddfa0368645e642ecce4991fabf8a43a93f3585591483b8a8970284"}
+
+===== PAGE 1 =====
+{"alpha_words": 67, "chars": 562, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Declassification Authority NND 923007
+
+4602D AISS UFOB LOG -
+
+| REPORT NUMBER DATE/TIME OF STICHTING RECD ATSOP ;
+|_ATSS-UF0R276-86 22/05302 March 1986 23 Mar 56
+TOORTLGH OF STICHTING | LOGGED BY i
+| Sioux City, Towa S/Sgt DeRudder _|
+
+TT Msg
+
+MEANS RECD
+
+ACTION TAKEN
+
+_No investi agesien = authorized
+
+—
+
+DATE INVES ASSIGNE ASSIGNING OFFICE
+
+: Eee Conclusion -
+
+N/A N/A |
+{DATE IR RECD HO DATS IR APPROVED ‘DATE IR TO ATIC !
+N/A | N/A a | n/n
+tpate FORM 5 ] i }
+23 Maren 1986 |
+COMMENTS
+
+CONCLUSIONS
+
+CNSUFFICIENT DATA FOR EVALUATTON
+
+AISOP FORM 7 (2 APR 55)

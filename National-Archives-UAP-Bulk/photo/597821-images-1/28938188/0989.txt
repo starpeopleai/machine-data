@@ -1,0 +1,50 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T19:59:07Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4000983, "source_ctime_ns": 1793371440661702560, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28938188/0989.jpg", "source_mtime_ns": 1785688955000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28938188/0989.jpg", "source_sha256": "d53d60b9dcdc97199e150809e9f99acf1043569b518b607e518056048fccda00"}
+
+===== PAGE 1 =====
+{"alpha_words": 97, "chars": 661, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Analysis of Phot(. aphie
+Material
+
+Figure 9
+
+Serial Ol
+
+Englarged frames taken from l6ma Daylight Kodachroae film eat f/22 16fps. *
+
+* All frames are of the same magnification
+
+itt
+
+a)
+
+b)
+
+ec)
+
+die
+
+Reflection from a cyl-
+inder corresponding to
+the reflection from a
+50 foot airplane fuse-
+lage at scaled distance
+of two miles using 3"
+telephoto lens.
+
+Actual shopt taken from
+2kth frame of Montana
+film of tne UFO system.
+
+Three-inch telephoto lens.
+
+(Earlier frames show
+Slightly larger images
+but did not reproduce as
+well. )
+
+Reflection from four jet
+planes. Estimated dis
+tance is 2 1/2 miles.
+Three-inch telephoto lens.
+Note the trails behind
+the jets.

@@ -1,0 +1,20 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T20:12:04Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5964120, "source_ctime_ns": 1793375611596684156, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28956998/0136.jpg", "source_mtime_ns": 1785696806000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28956998/0136.jpg", "source_sha256": "5cdaedf449a8a89807e2788b05c27d69dd216fe7f1a4b9d1a88fdcf27d3b9c64"}
+
+===== PAGE 1 =====
+{"alpha_words": 16, "chars": 100, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ae
+
+- tect 0
+vs aa ai) ‘
+
+ar TECINEAIAE 28:
+] taiudes
+BT: SS ee
+
+¢
+i Lad edie sind Ai
+
+.
+p
+
+—s-- =

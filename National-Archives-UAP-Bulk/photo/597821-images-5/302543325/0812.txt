@@ -1,0 +1,56 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T19:44:43Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 985206, "source_ctime_ns": 1793389735950504935, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302543325/0812.jp2", "source_mtime_ns": 1785808303000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302543325/0812.jp2", "source_sha256": "ea6b85a4081d9dd0c679cdf54700042e46f4dc3d669fe23084b2e69ff61f6c2f"}
+
+===== PAGE 1 =====
+{"alpha_words": 124, "chars": 844, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Ah ocr cents Gone acto maaan nts eee ree
+
+Ses ( DEP Caer, ror |
+
+aa
+MEOOAUL
+
+AF IN: 47356 (4 aug 65)
+
+WL SIZE3 CANNOT SAYD
+
+(3) COLOR: YELLOW TO WHITE
+
+(4) NUMBER: ONE
+
+(5) FORMATION: NONE
+
+(6) DISCERNABLE FEATURES OR DETAILS: NONE
+
+(7) TAIL TRAIL, OR EXHAUST: NONE
+
+PAGE TWO RUWGNPO 3 UNCLAS
+
+€8) SBUND; NONE
+
+OL OTHER FEATURES: OTHERS SAW FLASHING RED LITE
+Bo DESCRIPTION OF COURSE OF OBJECTS
+
+C1) ATTENTION OF OBSERVER FIRST CALLED BY OUTSIDE WORKER
+
+Page 2 of 4
+
+(2) FIRST OBSERVEED AT ELEVATION OF 39 DEGREES AT AZIMUTH 278 DEGREES
+
+(3) LAST OBSERVED AT ELEVATION OF 3@ DEGREES AT AZIMUTH 279 DEGREES
+
+C4) OBJECT SEEM TO BE HOVER ING
+
+G) OBJECT FADED OUT SLOWLY
+
+€6) OBJECT WAS VISIBLE FOR A FIFTEEN MINUTE PERIOD
+Ce MAFNER OF OBSERVATIOM
+
+€1) GROUNG=V ISUAL
+
+(2) NO OPTICAL AIDS USED
+
+(3) NOT APPLICABELE
+
+se” ns Se 2s ae
+
+SERS” ode Sas

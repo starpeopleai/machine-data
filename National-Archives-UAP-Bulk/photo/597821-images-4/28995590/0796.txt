@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T19:55:59Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3614163, "source_ctime_ns": 1793386294824413541, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28995590/0796.jpg", "source_mtime_ns": 1785748083000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28995590/0796.jpg", "source_sha256": "7f299f9af961995c641899a56d47052bfc80771d9c9c749307b3c88bf9b42f90"}
+
+===== PAGE 1 =====
+{"alpha_words": 126, "chars": 972, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+1. DATE 2. LOCATION 12, CONCLUSIONS
+‘ a 2 y nt 0D Was Balloon
+L5 Nov 61 28 UN 69.05% QO Probably Bolloon
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION a. Seley Sateen
+raed 2 O Was Aircraft
+Local *“-Ground- Vi sual 0 Ground-Rador Q Probobly Aireroft
+GMT 25 /22322 D Air Visual D Air-Intercept Rador |2 Possibly Aircroft
+5. PHOTOS 6. SOURCE O Was Astronomical
+O Yes D Probably Astronomical
+(7 No Civilian D Possibly Astronomical
+7. LENGTH OF OBSERVATION 8. NUMBER OF OBJECTS | % COURSE DB Other Missile
+O Insufficient Dota for Evaluation
+' - on o
++ min a pore :
+10. BRIEF SUMMARY OF SIGHTING Ropers of cone shaped 11, COMMENTS Launcn of transit 4B was 22062.
+objt of extreme ce e with comet like Missile would be tisible in area of ob-
+tail executing slow parabolic curve heading servers at time reported for sighting.
+LOD. aning in SD ecnutee. Continuous sparks Evaluated as missile.
+emmiztea fm below objt. In + Min,
+
+ATIC FORM 329 (REV 26 SEP 52)

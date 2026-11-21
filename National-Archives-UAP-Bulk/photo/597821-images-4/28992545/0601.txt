@@ -1,0 +1,24 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T19:54:03Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3211052, "source_ctime_ns": 1793385272512917299, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28992545/0601.jpg", "source_mtime_ns": 1785748086000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28992545/0601.jpg", "source_sha256": "f15c97afba59d04b9873f36d94bfcd915c1db30e5b721cb3938d612bbabcfc13"}
+
+===== PAGE 1 =====
+{"alpha_words": 129, "chars": 814, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+uae
+
+6:00 in the evening.
+
+i.
+
+It was a case of an object of cylindrical form like a cigar.
+which remained suspended,without budging over the village of
+Gadisk Mouseveski (?) situated at 40 kilometers to the west of
+Warsaw. ‘The object was very brilliant, blinding, After a tine,
+it began to move slowly. It changed its position to horizontal (ly)
+and shifted towards the west. The observation lasted about a
+half an hour and it took place over the center of the railroad
+switching yards.//This report was edited by one of my acquaintances,
+Madam Stenestava Roslovits who was a witness to this observation
+along with a number of other persons.
+
+As far as I know the Astronomic Observatory of Warsaw has some
+details concerning this object, but I do not know what tweddle
+they invented to explain this apparition.

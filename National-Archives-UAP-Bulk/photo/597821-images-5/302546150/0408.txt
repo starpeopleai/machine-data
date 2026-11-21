@@ -1,0 +1,49 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T19:46:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1030638, "source_ctime_ns": 1793390068837697527, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302546150/0408.jp2", "source_mtime_ns": 1785808330000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302546150/0408.jp2", "source_sha256": "078a7252e42dca1c46cfc0abdda79d2b97613071329ff2f4ba72faabd6fb0acf"}
+
+===== PAGE 1 =====
+{"alpha_words": 91, "chars": 636, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+a UNCLASSIFIED
+
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE -BRANCH
+INCOMING. MESSAGE
+
+AF IN°: 30354 (17 Nov 65) C/ade Pg lof 2
+“INFO : NIN-7, XOP-1, XOPX-2, SAF-0S-3, NSA-7, -JCS/OSD/DI4—=1 (22)
+
+MB BLOM CVX 933
+00 RUEANS
+
+DE RUHLYH 4 3211736
+
+ZNR UUUUU
+
+0 1717352
+
+PM 326 AIR DIV KUNIA FACILITY HaVALI
+TO RUHL /2QCAF HIGKAY AB HANAII
+RIMU/SOMUANSEAPRON PEARL HARBOR HAWAII
+INFO RUEAHI/CSAF USAF WASH DC
+RUECH/ONO
+
+RUEQU/SECNAV WASH DC
+
+RUNGALB/CINCNORAD
+
+RUMLHO/CINCPACS
+
+-RUPLHS/SINCUSAR PAC
+
+RUMLHL/CINCPACTLT
+
+RUAUAZ/COMUSJAPAN
+
+RUAMC/COMUSYORE 8
+
+RUAGFL /CO¥USTD Ox
+
+RUCSC/SI CSAl
+
+RUHPE/CO ASI FORPA
+
+AFHQ aves 0-309 UNCLASSIFIED

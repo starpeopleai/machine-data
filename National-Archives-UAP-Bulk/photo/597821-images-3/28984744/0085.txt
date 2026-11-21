@@ -1,0 +1,46 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T20:07:46Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5343433, "source_ctime_ns": 1793382601325964717, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28984744/0085.jpg", "source_mtime_ns": 1785700868000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28984744/0085.jpg", "source_sha256": "50996197be6f67a3c5f9450370d2e97d43e675ad3c7ad318735d08ef602a327c"}
+
+===== PAGE 1 =====
+{"alpha_words": 103, "chars": 692, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+LY sAESSAGI
+
+' ‘ ; Ae . ’ 2
+
+54154 (24 Sep 59) B/A/cs
+IN
+
+au OP, SAFS
+
+MD C 166.
+
+>
+Q
+|
+tw
+oO
+Spe
+Og
+
+czcHoce72ZcasA095
+00 RJEZHO
+DE ROWZEG 1548
+0 2413262Z.
+FM 1902 AACSRON HAMILTON AFB CALIFORNIA
+TO RJWFAL/ADC ENT AFB
+RUZ SB/28ADLV HAMILTON AFB
+RJEDSO/ ATIC WRIGH PATTERSON AFB
+RJEZHQ/OFS USAF .
+nsuZDM/25TH DIV MCCORD AFB
+BT pyc Leh
+“UNCLAS 1 FROM FLT svc SIE NUMBER ONE ACION ADC 28 ADIV ATIC AFCIN AFOIS.
+UFO. Ene
+ie LIGHT SUCH AS LANDING LIGHS
+(2) AT ARMS LENGTH SIZE OF CIGARETE
+(3) WHITE LIGHT CHANGING TO ORANGISH
+(4) ONE | |
+(5) N/A
+(6) SEE M 6
+(7) N/A
+(8) N/A
+(9) FOUR PROTRUDING LIGHTS RED GREEN YELLOW AND WHITE
+B, FALLING WHITE LIGHT THEN HOVERED AT 8OOFT THEN RISING TO 3000FT

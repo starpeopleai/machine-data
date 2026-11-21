@@ -1,0 +1,44 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T20:17:23Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7283122, "source_ctime_ns": 1793361775885327748, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330781368/45484701-001-003-0079.jpg", "source_mtime_ns": 1785685139000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330781368/45484701-001-003-0079.jpg", "source_sha256": "b39f9107b8560e68d914ce40d84f80c43cff8785cd9c8a470b0640d41734c493"}
+
+===== PAGE 1 =====
+{"alpha_words": 246, "chars": 1612, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+In his summary of the above interviews Dr. LA PAZ finds that the
+sounds were unlike normal aircraft sounds, that a Cub could not have operated
+at the altitude needed t conform with the figures given by the transit read-
+ings, that no heavy machinery or tanks had been operating, and two other
+Inspectors had heard similar scunds on the morning of $1 December at about
+05406
+
+Calculations based on the transit readings indicate that the sound
+originated at a point with coordinates 106 degrees 17 minutes, 35 degrees 52
+minutese
+
+5. AACS at Kirtland Air Force Base was checked by the writer and so far
+
+as their records show no aircraft were near Los Alamos during the times of
+the sound observations.
+
+AT WALKER AIR FORCE BASE:
+6. AACS at Walker Air Force Base was checked by Special Agent SHERIDAN
+
+We. CAVITT, and reported that no aircraft were shown near Los Alamos by their
+log during the critical time.
+
+INCLO SURES
+FOR FULL DISrRIsuTION:
+
+1, Copy of report from Lt. EARLE D. HIGHTOWER, Operations Officer, Pro-
+tective Force, ASS, Los Alamos, New Mexico, to Lt. Gal. JOHN A. CARROLL,
+
+Chief Inspector, re sighting by Inspector BARL WILLIS, dated 7 January 1949,
+(Duplicate. )
+
+2. Copy of réport from MATTHEW J, DOYLE, Chief, Physical Security
+Branch, Sandia Base, New Mexico, to Director, Intelligence and Security Di-
+vision, resighting by pfc MERIDETH J, EVERITT, Hq 450th MP Group, dated
+7 January 1949, (Duplicate. )
+
+3. Gopy of letter, Dr, LINCOLN LA PAZ, to Lt. Gol. DOYLE REES, re
+sound phenomena at Log Alamos, New Mexico, dated 6 Jamary 1949. (Duplicate. )
+
+Declassification Authority: NND 923007
