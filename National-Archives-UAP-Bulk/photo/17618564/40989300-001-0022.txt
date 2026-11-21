@@ -1,0 +1,46 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T18:38:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 711224, "source_ctime_ns": 1793356039244488566, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989300-001-0022.jpg", "source_mtime_ns": 1785564590000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989300-001-0022.jpg", "source_sha256": "77c1871356454bb73856c5bf4b2071af451895d14d925716e9008abbb0abca79"}
+
+===== PAGE 1 =====
+{"alpha_words": 100, "chars": 634, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Knots Agove
+Awo Betow Cannons
+
+34' Re Line—> m4 APPENDIX
+Or |00* Test
+Braioeo NYLon
+
+With 2' Stack
+
+3' Line
+
+2. Sauw Firinc Cannons To 6€
+rineo aT 20, OOO Fr ay
+FUGHT TERMINATION SwiTcH
+
+cn
+
+AceTaTe
+
+IOswueLive (coiLeo up) To TAKE
+Figer
+
+PLACE OF IFT UNE, WHICH HAS
+
+BEEN CUT(BOUND WITH THREAD)
+Rip Line (IOO#tEst YS Fist TERMINATION Switch RIPS
+oR LossTER lmine ) BALLOON ON FINAL DESCENT To
+6" SLACK
+IneiDe BALLOON 2Q000 Ft, mus REDUCING
+Battoon WALL FLOATING TIME IN THEAIR LANES,
+
+|'
+
+ME HALF DEFLATED BALLOON THE!
+ACTS ASICS OWN PARACHUTE
+
+DaTai OF Rie Line
+Iwseéart InTd ALLOON
+
+Figure 14: Rip-out line in place on balloon
+
+2].

@@ -1,0 +1,20 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T19:02:01Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4908478, "source_ctime_ns": 1793378950172041572, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28970192/0067.jpg", "source_mtime_ns": 1785700870000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28970192/0067.jpg", "source_sha256": "c61f5aa599fcecc7fa85bd3138bb9e076dd883a4c4d15b2cf32482be2cdf8b32"}
+
+===== PAGE 1 =====
+{"alpha_words": 123, "chars": 738, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+eJoue 14S /
+
+We have this case on three distinct data: 1) solid appearance;
+2) round and squashed shape; 3) the affirmation that it was a metallic
+object.
+
+Also it had something unusual: the sound, it was described as a
+long whistle, very high. The previous data on this is very scarce, In
+our country CIOVI studied the case presented in Canelones on the ranch of
+Mrs. Amalia Lacondeguy de Lescoumes, who said that she saw something that
+had a loud high frequency vibration. Probably the object was very high
+this time and the noise was muffled. We also have the statement of
+Mr, Juan Ramén Mora who describes it as the humming of a bee (see case
+of 30 January 1958).
+
+According to all this data we must conclude it was a Plying saucer.

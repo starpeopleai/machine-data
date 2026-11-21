@@ -1,0 +1,54 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T19:15:54Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8479493, "source_ctime_ns": 1793362759017507203, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330783681/45484701-003-005-0044.jpg", "source_mtime_ns": 1785684552000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330783681/45484701-003-005-0044.jpg", "source_sha256": "5d54822c937378214e12bf2156b924c6dc75dd188c88939231e01ae11ff5865e"}
+
+===== PAGE 1 =====
+{"alpha_words": 314, "chars": 1863, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+544 Brook Ave.
+Bronx 55, N Y.
+June 27, 1960
+
+Federal Bureau of Investigation
+Washington, D. C.
+
+To Whom It May Concern; Dear Sir;
+
+It has come to my attention lately, that Russia may be
+sending the so-called "flying saucers,” the magnetic image
+given off by these saucers is in many ways similar as that
+of the moon. The moon is now possessed by the Russians and
+they understand about it, similating the magnetic pull of
+the moon is not hard for them as they know about it.
+Somewhat of a flying saucer has been observed by me several
+years ago at a beach together with some other people who
+were also watching. We all looked at it so long, it is
+almost unbelievable that none of us would phone some bureau
+or agency of investigation. Yet we all just sat there and
+stared (I did not have a dime on me, nor did my gentleman
+Sriend). These objects give off a magnetic perception and
+they look as they are looking at us. To understand the moon
+and to copy it is not hard if one can also get there. fPeople
+are magnetized and somewhat immobilized by looking at them.
+
+A doctor and I had been studying the moon and I know mich
+about it. An article was published on the moon several
+years ago by us, the psychological aspects of it.
+
+They probably similate it with a strong platinum composition,
+four to six inches thick frame. The perceptual lighting
+
+that they give forth in the air like a slight mercury
+quivering back and forth, moving like gliding, the perceptual
+lighting is helped somewhat when in the air by the atmosphere
+(or environment), and is not on the ship when it moves, as
+
+if shooting slowly straight forward, encompassed now ina
+dull platinum finished body.
+
+Some years ago I wrote to you about this, but it was not
+detailed.
+
+Hoping you will take my suggestion, I remain,
+Respectfully yours,
+
+/s/ Ruth Ruhland
+
+Declassification Authority: NND 923007

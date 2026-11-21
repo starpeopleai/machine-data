@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T19:02:15Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4941661, "source_ctime_ns": 1793370852604954161, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28935536/1345.jpg", "source_mtime_ns": 1785688917000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28935536/1345.jpg", "source_sha256": "a974988661fbde5179422c2af492d7be675c71493d64b7d8c922d95e6b76fda5"}
+
+===== PAGE 1 =====
+{"alpha_words": 46, "chars": 361, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ri | UNCLASSIFIER | ons
+
+en :
+
+Page 2 Btry,
+l2th AAA Group, Fort lise, Texas |
+
+Name and address of observer;
+
+|
+|
+|
+
+army Officer (Battery Conmandor).
+Occupation and hobbics;
+
+Appears reasonably intelligent and reliable.
+
+Comments of Interrogator relative te intelligence and character of observer(s) +3
+
+TS a aR cee coe a a
+
+NARRATIVE SUMMARY:
+
+UNCLASSIFIED

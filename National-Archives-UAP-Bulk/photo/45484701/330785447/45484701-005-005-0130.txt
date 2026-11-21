@@ -1,0 +1,45 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T19:17:11Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8658919, "source_ctime_ns": 1793363545331416306, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785447/45484701-005-005-0130.jpg", "source_mtime_ns": 1785684626000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785447/45484701-005-005-0130.jpg", "source_sha256": "007be8ccfc92cdff847e6d66309f32951021ac48888059c2bce64320ebb85ebf"}
+
+===== PAGE 1 =====
+{"alpha_words": 233, "chars": 1532, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+j R 4
+2 - A
+
+DISTRICT GF PICK P17, KIRTLAND AvB
+AT SANTA FE, WES WEXICO
+
+W411 interview Mra. MADBLING Ge WERCHANT, Sox 243, reference reporte
+made by hor to Mire FLOGK, Forest Supervisor, Santa ie Netional forest, during
+the gumer of 1947. Any recent activities concerning serial phenomenon obe
+served by Mra. WERCHANT will be obtained.
+
+Will duterview the Chief ef the Seourity Section, Loe Alawos Atomic
+nergy Commission installation reference reports made to that organisation by
+Meee MADELINE MERCHANT 4m 1047 and posibly in 1940. 411 further ascertain
+from the Chief ef Seeurity if any other reports of unusual serial phenomenon
+have been reported to the Los Alamos Ateuie Snergy Coumiosion installations
+
+AT WALKER AIR FOROER BASE
+
+Whll determine Af that base has been engaged in any maneuvers involve
+ing the use of any serial flares or similar devices.
+
+AT HOLLAMAN AIR PORCH BASE
+
+Will determine Af that base has been engaged in any maneuvers invelv-
+ing the use of any serial flares or similar devices.
+
+AT SAN ANTONIO, TSXAS
+
+W112 interview Captain Coade, Major Carter and M/Sgt Walton concern-
+ing the flares, meteors or phenomenon observed by then at Las Vegas and on
+the eastern slope of the Sandia Mountaine, New “exieo, on 6 Decender 1946,
+while enroute from Lowry 4/3, Denver, Colorado, to Willians AYB, Chandler,
+Ari sone
+
+AT Si, PASO, TEXAS
+
+W411 determine whether or not Mgga AYS has been engaged in serial
+maneuvers involving the use of aerial flares or similar devices.
+
+Declassification Authority: NND 923007

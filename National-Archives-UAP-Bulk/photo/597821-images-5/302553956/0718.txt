@@ -1,0 +1,15 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T18:49:40Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1753938, "source_ctime_ns": 1793390866935176372, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302553956/0718.jp2", "source_mtime_ns": 1785808117000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302553956/0718.jp2", "source_sha256": "ea268eeb15c320e3ee5dfca38ae3aab40bac65f1449de9841c862635a6d3d8ca"}
+
+===== PAGE 1 =====
+{"alpha_words": 70, "chars": 452, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+20 Sept. 66
+
+Contact with Sulphur Grove balloon launch center, Dayton, Ohio
+about balloons being released on 3 August 66. There was a balloon
+released at 1815 3 August 66, however, personel at Sulphur Grove
+did not believe their ba]loon was responsible for the sighting.
+Thetr balloons are in the air for bout 1 hour. A balloon launched
+at 1815 would have been not in the Dayton area unless under
+very unusual conditions.
+
+ptr eal a MK iii uaa pia oi

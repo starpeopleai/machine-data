@@ -1,0 +1,40 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T18:55:41Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4021012, "source_ctime_ns": 1793385400264352090, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28993108/1103.jpg", "source_mtime_ns": 1785748057000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28993108/1103.jpg", "source_sha256": "bf2937746025a5eae5b606163b5c9827ec2bf867e6eb06f3fb2dfb5c61cf9cdb"}
+
+===== PAGE 1 =====
+{"alpha_words": 96, "chars": 719, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+FE 1. DATE 2. LOCATION 12. CONCLUSIONS
+0 Was Balloon
+
+;O Probably Bulloon
+Sea eT ere {2 Possibly Balloon
+
+3. DATE-TIME GROUP —~”~—”—”——CO | & TYPE OF OBSERVATION
+Ol Wos Aircraft
+
+1 Probably Aircraft
+" § Possibly Aircraft
+
+Local ‘i ta 9) Ground- Visual 0 Ground-Radar
+
+}
+OS RES 2 oon ©) Ee ey __F Air-intorcept Redar_|
+
+O Air Visual
+“5. PHOTOS” he SOUMG ose oe
+OG Yes
+
+O Wos Astronomical
+O Probubly A stronomical
+0 Possibly Astronomical
+
+oS No Sa ae , see AE SENS Me Me CME RDC aT Sramns nen rT
+7. LENGTH OF OBSERVATION (3. NUMBER OF OBJECTS | 9% COURSE ee eer eee
+0 Insufficient Dara for Evaluation
+lo Unknown
+{
+
+10, BRIEF SUMMARY OF SIGHTING 5. © 1. COMMENTS
+
+ATIC FORM 329 (REV 26 SEP 52)

@@ -1,0 +1,23 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T19:11:23Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7436281, "source_ctime_ns": 1793354531245504092, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989217-001-0007.jpg", "source_mtime_ns": 1785564301000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989217-001-0007.jpg", "source_sha256": "7af4ae27e75b4e46b7d1cb9229ec257addeff29be285bad9c59645d872f8a3b3"}
+
+===== PAGE 1 =====
+{"alpha_words": 67, "chars": 498, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+DE RJWFLK: 20a.
+
+R 14231 4Z
+FM COMATRDIV 47 WALKER AFB NMEX
+TO RJEPHQ!HEDUSAF WASH DC
+INFO RJEDMHICINCSAC OFFUTT AFB NEB
+RJWPRH/COMAF 15 NARCH AFB CALIF
+BT
+UNCLAS FROM BJA 7-15489. FOR THE
+JUDGE ADVOCATE GENERAL, SUBJECT: PROGRESS OF
+-COURT=MARTIAL ACTION, RE: LTICOL GEORGE F. ADAMS,
+A0257543. TRIAL COMMENCED 13 AUGUST 1957 AND IS
+PRESENTLY IN PROGRESS, ESTIMATED COMPLETION DATE
+IS 15 AUGUST 1957. FURTHER NOTIFICATION WILL BE
+MADE.
+BT
+14/2345Z AUG RJWFLK
+ACTION: CJA
+AF IN : 19147 (15 Aug 57)

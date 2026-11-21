@@ -1,0 +1,48 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T19:11:55Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8030430, "source_ctime_ns": 1793385501194403179, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28993512/0021.jpg", "source_mtime_ns": 1785748239000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28993512/0021.jpg", "source_sha256": "861a4b68458f35f4d4bf7be6feeff9f648dd6bd88fb7034a17c2ea56ee9c43cf"}
+
+===== PAGE 1 =====
+{"alpha_words": 52, "chars": 324, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PRUE PEA By ee REDE POHL
+EL TN ae aT ERE ENS TI ete : pa
+
+ne
+:
+. .
+'
+‘ }
+t !
+'
+> + ry se : wAm Ad, oP ~
+“3, Bh 49 8 eared 6 ig Papiasy out ¢
+“a \ atte: hy 5 ah ii :
+BS Fonte, =, sss ne ee -apeaochs ah rigstdd aid
+BF J Pe ae ee)
+i
+}
+j
+,
+i
+<1
+;
+1
+}
+,
+ns Ont EN ‘ +
+i
+‘
+i
+| é :
+i
+3,
+;
+ig Fj bs
+a ae f
+Bi :
+/
+F
+g ¥
+ie
+3
+4
+‘a
+;

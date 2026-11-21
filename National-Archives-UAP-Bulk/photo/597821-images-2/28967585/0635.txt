@@ -1,0 +1,46 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T19:09:42Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6929018, "source_ctime_ns": 1793378318672757381, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28967585/0635.jpg", "source_mtime_ns": 1785696736000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28967585/0635.jpg", "source_sha256": "0907066bc222d27c629ebb141c27c4ca692e9d4e1c849754b9da94f971bd1168"}
+
+===== PAGE 1 =====
+{"alpha_words": 54, "chars": 324, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PAGE TWO OF RJEDFL AP
+
+Ge
+He
+Ie
+ITEM Ile
+
+ITEM IIL.
+Ae
+Be
+Ce
+
+ITEM IVe
+Ae
+Be
+
+ITEM Ve
+A.
+ITEM Vi.
+
+NONE
+NONE
+NONE
+
+GROUND OBSERVER CoRPS
+
+THREE MILES EAST AT 5,208 FEET
+THREE MILES SOUTH AT 5,999 FEET
+SOUTHWEST COUSE
+
+“LOST VISUAL SIGHTING
+
+FIVE MINUTES
+GROUND VISUAL
+NOT APPLICABLE
+
+NOT APPPLICABLE
+
+1539292
+DUSK
+
+CJ-2742

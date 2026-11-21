@@ -1,0 +1,57 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T19:06:04Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6186574, "source_ctime_ns": 1793361793361012587, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330781368/45484701-001-003-0124.jpg", "source_mtime_ns": 1785685141000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330781368/45484701-001-003-0124.jpg", "source_sha256": "c8656198974bc8278960d120e742eda929fba96eeec6dcc4538a007862f2a801"}
+
+===== PAGE 1 =====
+{"alpha_words": 427, "chars": 2758, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+o Ber a
+
+fo: Colonel Doyle Rees ; December 20, 1948
+
+35° 45t, longitude 107° 5%, traversing a nearly or exactly horizontal path
+with a length of very nearly twenty-five (25) miles at an altitude above
+the surface of the earth of approximately § to 10 miles, depending on the
+estimate of angular altitude employed in the reduction; the velocity with
+respect to the earth works out at between § and 12 miles a second, depend
+ing on the duration estimate used, It should be observed that the above
+results are obtained under the assumption that the points of appearance
+and disappearance of the fireball were seen simul taneously by both the
+Bernal and Los Alamos groups, In case this assumption is not fulfilled,
+the real path could very easily be no more than 10 % 12 miles long, the
+velocity with respect to the earth then working out at between 3 and 6
+miles a second. While there is thus considerable uncertainty because of
+the lack of confirming azimth observations fxm a third station, the con=
+cordance in the five (5) different estimates of angular elevation make it
+most unlikely that the linear height of the fireball was much less than &
+miles and much more than 10 miles, It is interesting to observe that the
+backward extension of the 2>—mile path first given passes almost centrally
+across the Los Alamos reservation,
+
+3. Significant Differences Between the Fireballs Observed in the In
+terval December 5-13 and Typical Meteors,
+
+3.1 The horizontal nature of the paths of most of the December
+fireballs is most unusual, Geniune meteors are rarely observed to move in
+horizontal paths,
+
+3.2 Again the very low height of the December fireball discussed
+in section 2 above sets it off in sharp contrast from the geniune meteors
+for which heights of the order of 40 or more miles are normally observed,
+
+3.3 The velocity determined for the fireball of December 12 is
+much less than the velocities determined from typical meteors (and yet is
+considerably greater than the speeds of the V2 Rockets or jet planes or of
+conventional flares),
+
+3.4 In the case of meteorites that penetrate to as low levels as
+that determined for the fireball of December 12, the observed luminous phe-
+nomena are always accompanied by very violent noises. No noises whatever
+have been observed in connection with the various December fireballs so
+far investigated,
+
+3.5 Geniune meteors normally. show remarkable variations in
+brightness, beginning as fine thin hair lines, which are scarcely visible
+to the observer, and then brightening up to flash out near the end of their
+paths, In the case of the December fireballs most of the observers have
+reported that the green balls appeared almost instantly at their full
+bri gh tness,
+
+Declassification Authority: NND 923007

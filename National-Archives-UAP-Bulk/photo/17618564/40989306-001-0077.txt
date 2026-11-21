@@ -1,0 +1,57 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T18:52:05Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 2669895, "source_ctime_ns": 1793356167176078157, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989306-001-0077.jpg", "source_mtime_ns": 1785564626000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989306-001-0077.jpg", "source_sha256": "2ba9a01b15b83c308e7df6dcd960d60d10b2b3591640306dad7f37cda4fa6837"}
+
+===== PAGE 1 =====
+{"alpha_words": 249, "chars": 1819, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+C0 TAA ee et eee Ht ee i ene eit ee
+
+HANDLING AUTHORIZED
+
+Figure 8. Rawin Set A N/GMD-1, outdoor, over-all view of main assembly.
+
+Status: Standard. Stock No. 7A1332. Reference:
+TM 11-271.
+
+Rawin Set AN/GMD-1 is a radio direction
+finder which is designed to track, automatically, a
+balloon-borne radiosonde to altitudes in excess of
+100,000 feet, over horizontal distances up to 125
+miles. The set indicates and records the azimuth
+and clevation angles of the radiosonde, and
+receives, amplifies, and passes to a recorder the
+radiosonde amplitude-modulated signals from
+which temperature, relative humidity, and at-
+mospheric pressure are computed. Wind direction
+and speed are determined by plotting the azimuth
+and elevation angles with the altitude (computed
+from the temperature and pressure data). The
+equipment consists of a main assembly and control
+recorder; the main assembly is composed of a sup-
+porting pedestal, a radio receiver equipped with a
+servo’ system, an elevation unit assembly, an
+
+~ CONFIDENTIAL
+
+antenna assembly, and an antenna control. Rawin
+Set AN/GMD-1 is part of a rawinsonde system
+which obtains meteorological information used to
+make weather forecasts and to make corrections
+for the effects of atmospheric conditions on the
+trajectory of projectiles.
+
+TECHNICAL CHARACTERISTICS
+
+EFFECTIVE ALTITUDE: 100,000 ft (when used with
+Radiosonde AN/AMT-4),
+EFFECTIVE HORIZONTAL DISTANGE: 125 mi.
+TYPES OF SIGNALS RECEIVED: A-m and f-m.
+FREQUENCY RANGE: 1,660 to 1,700 me.
+POWER INPUT: 115-v, 60-cye ac; 1,500 w.
+POWER SUPPLY: Provides 105-v de, regulated; 6.3-v
+ac; and 180-v de for tise in various systems.
+ANTENNA SYSTEM
+TYPE OF ANTENNA: Vertical dipole; 2 sections,
+each 4 wavelength long at 1,680 me.
+TYPE OF REFLECTOR: Parabolic.
+‘TYPE OF SCANNING: Conical.
+
+MODIFIED HANDLING NUTHORIZES

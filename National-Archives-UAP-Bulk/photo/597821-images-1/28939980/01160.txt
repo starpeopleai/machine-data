@@ -1,0 +1,84 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T19:02:50Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5125036, "source_ctime_ns": 1793371843730446386, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28939980/01160.jpg", "source_mtime_ns": 1785688590000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28939980/01160.jpg", "source_sha256": "1885571d99933cc90af5687b5db723a9d5a755ef0a68b4db91d9cae40b51c06d"}
+
+===== PAGE 1 =====
+{"alpha_words": 746, "chars": 4635, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+AF FORM 112—PART I!
+
+s
+
+AIR INTELLIGENCE INFORMATION REPORT
+ATIL Office, nt FEAF  raeos-JUNCLASSIFIED ie te oe
+
+‘radar sites to detect the missile is readily seen. Site #51 uses the AN/CPS-1
+
+number of studies by various resgarch organizations, including Vatson Labs and
+
+tha Hughes Aircraft Company, tend to discredit the probability of proposition
+
+(a), so the theory outlined in (bd), of the signal originating within the missile,
+would seem the more valid of the two, Since there was no apparent change in echo
+intensity, or detectable fluctuation in echo size, which would be the case for an
+echo returnad from a very high spsed object, dw to the well established frequency
+shift or "Doppler Effect", it becomes increasingly apparent that the most probable
+source of target signal was not di to a radar echo return but was emitted fror
+the target {tsels. Assuming that the target carried a sel f-contained, directiona.
+or semi=di recticnal signal soures, which, in view of the above, is not beyond the
+verge of logic, it then must naturally £ollon that in all probabilit y the target
+was a man=raca missile, possibly guided, and equipped with sone form of a radio
+or radar beacon of the. transponder type. That the signal was emitted from a trans-
+ponder type beacon is further borne out by the fact that the target sicnal ap-
+peared at a definite range anda definite azimuth, and did not cause "rabbits" to
+appear on the radar scope, as would have been true in the case of a fremrunning
+or random triggered signal source,
+
+b. With the above in mind, the reason for failure of the other two
+
+radar equipment, which cperates in the "S" band, while Sites #52 and #55, which
+were both physically closer to the missile, but cid not detect it, operate in the
+"L" and/or "P" bands, If tha missile radiated enercy in the "Ss" band, the radlat=-
+ed signal would, of course, not be detectable by equiprents in either’ the "L" or
+"Pp" bands.
+
+h. <A further point.of consideration is the fact that the , An /cPs-l: height
+fincar equipment at Site #51 did not detect the target, although this radar “set
+also operates in the "S" band. There are threa prob: vile reasons for this. (a)
+The equipment was not operating or was not operating properly. (b) Tha frequency -
+of the AN/CPS— and the target signal were substantially different, or (c) the
+nissile waa at such an altituce as to be out of the range of the equipment. In |
+the case where the AN/CPS-/, was operating, it is felt that a combination of (b)
+and (c) vould be the most likely cause of failure to detect the target. Item
+(c) is further substantiated by the fact that at compari'tively closa ranges the
+targat was cetaected by only tha AN/CPS-1 high beam and at longer ranges by only
+the low beam.
+
+5. Another item requiring evaluation is the frequency dispersion of the
+AN/CPS=1 high and low beam transmitters. The report sives these frequencies as
+2&60 magacycles and 2700 megacycles raspectively, or, a frequency dispersion of
+160 megacyeles, With such a wide differance in operating frequencies existing
+between the AY/CPS-1 high and low beams, it becomes apparent that either the mis-
+sile transmitted a frequency modulated signal of extrere deviation, or, possible,
+that the high and low beam scopes were being fed a signal from a single narrow
+frequency source. The latter case is considered possible gince the AN/CPS-1 rack
+ar at Site #51 is presently equippad with a "Rosebud" beacon receiver, '-533/CP3-
+1, which, by direction of Headquarters FSAF, is tuned to a fraquency of 2.07 mega-
+cyclas, the stancard "S$" band radar beacon frequency, in use by the USAF and other
+Averican military agencies.
+
+6. A recapitulation of the above data definitely points to the possibility
+of the unidentified object reported by Site #5] as being a manufactured missile,
+possibly guided, and carrying a radar beacon transponder opera ting in the "S" band
+reg sion.
+
+7. VWhie it is understood that the abova assumptions, though based on the
+
+fact3 civen, are peralyvy pasumttonss 4% is felt that tha poss sit bilities outl ined
+MOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITE! D STATES WITHIN THE ME EAN NG OF THE ES} lONAG E ACT, S0U.S.C.-
+31 AND 22, AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF mc ONTER NTS Wa NY MANN ER TO AN UNAUTHO®.ZED PERSON IS PROHIB ITED BY L
+IT MAY Nor BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FO: CE AGENCIES, EY ‘CPT GY PERMISSION OF THE DIRECTO
+INTELLIGENCE, USAF, ee ete: P
+
+Nt LASSI: 2%
+meee ee vhs es 3S : 4 Mes
+' Pers pat dre bite.
+
+om C— 555702 YU. 8. COVER m MENT Printing OFFice

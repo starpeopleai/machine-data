@@ -1,0 +1,53 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T19:13:20Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8108777, "source_ctime_ns": 1793362112532554777, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330782241/45484701-002-003-0046.jpg", "source_mtime_ns": 1785684711000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330782241/45484701-002-003-0046.jpg", "source_sha256": "b7d5fbff27825adccaa517bfce2efb89f28e39755627e7e202edeb3c155727c8"}
+
+===== PAGE 1 =====
+{"alpha_words": 200, "chars": 1361, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+peu a oe eee we 8 Oe
+
+CRU OEe " - 1500 1b.
+ishanber. pressure, §c, : - 3090 nsl
+Pepanific impuice, t,- { 193 se@Ce
+aie s 6200 ft./sece
+Nuration 45 sec.
+Motor woimht.— 50 1b.
+Chanter. commperature, to} =000° F. |
+Coolant is , Aniline
+
+Hroat. Jiemetor Ban ats EC TNE
+
+‘
+-_—--
+
+Tan @ Rs
+
+Tata on Acid--Arii.ng Rocket Motor
+
+Stainless ct22. with 2 hich ‘thermal conductivity 18 often ~used
+in the rocket -moto: Ctsen, stainiess steel is curemium vlated. Al-
+
+uminum and conver alloy2 ar? “leo used to some extent for. snecial
+nurposes. a Ei ar ae
+Factors of De3irn : | re ea
+
+There are many factors cf design, among +hen being thrust, dur-
+ation, the tyve of operation, 41-9., exvendable or non -expendable,al-
+titude, and permissible motor welant. '
+
+The amount of thrust, a3 hes decn seen, is quite 4mportant as
+
+a factor of design in the rocket sne.ne. In the smaller motors ‘of
+leas than 100 lbs. of thrust, fle motcr 1s sub,ect to clogging of
+injection orfices. Above 1000 ite. of thnust the ratio of-.°~ length.
+
+over dlameter-decreases as 195 irixcated in Figure i <
+
+Interplanet-
+ary rocket
+
+Reletive Dimeneicns of Various Rocks t Motors
+
+The average rocket motcr ~ocches thermal ecuilibrium in about
+30 seconds; runs shorter thin tus need no cooling. Table III ‘giver
+the range of duration of v™.!cu3 recket motors.
+
+Declassification Authority: NND 923007

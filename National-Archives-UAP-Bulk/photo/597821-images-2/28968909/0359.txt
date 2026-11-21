@@ -1,0 +1,34 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T18:59:22Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4653357, "source_ctime_ns": 1793378697774644779, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28968909/0359.jpg", "source_mtime_ns": 1785696605000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28968909/0359.jpg", "source_sha256": "3b26c2e64695a69ed82bb5a80e5b2a01c344db5416ce2cc176fd243be4cd9e53"}
+
+===== PAGE 1 =====
+{"alpha_words": 139, "chars": 1075, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+.,§- Below a/c. and Beading in the opposite
+
+; ; PROJECT 10073 RECORD CARD
+
+1 OATE.§ , 2. LOCATION 12. CONCLUSIONS
+aes O- Was Balloon
+i February 1957 Qver Utah e emeany Barieee
+3. DATE-Time GROUP 4. TYPE ‘OF OBSERVATION ial Bla a
+i592 i QO Was Aircraf?
+- Leee! _ 0345-0200 oO Ground: Vi sual | © Ground Reger O Probably Aircraft
+GMT Q4 £07 49Z | XOKAlr Vi sual - 0 Alr-Intercept Radar O Possibly Aircraft
+3. PHOTOS (6. SOURCE QO Was Astronomical
+O Yes A OQ. ‘Probebly Astronomical
+Wo Civilian o Possibly Astronomical
+2. LENGTH OF OBSERVATION 8. NUMBER OF OBJECTS | 9. COURSE a] ‘Other
+I i feamarevant Dota for Evaluation
+i : : nknown
+"3-4 seconds ; one West
+1, BRIBE SUMMARY OF SIGHTING. 11. COMMENTS
+
+1 object reported in 1962 that observer | Object could have been passing
+Fwitnessed in 1957 while on flight jet. Case is old and evaluated as
+from San Francisco to St Louis. Obj insufficient data.
+
+‘direction. Just red light. Speed of.
+‘passing a/c. No windows or other lights
+Estimated 1,000 ft below. Bigger than
+the’ tailpipe of a jet.
+
+“ad awe RORM 329 (REV 26 SEP 52)

@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T18:54:40Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3939122, "source_ctime_ns": 1793371073193391691, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28936509/0823.jpg", "source_mtime_ns": 1785689010000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28936509/0823.jpg", "source_sha256": "a8485ef97866fd6e6545f97a24e82a646cfaeef81d584d83fe6145fc7d66519c"}
+
+===== PAGE 1 =====
+{"alpha_words": 46, "chars": 438, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+a
+
+‘
+f
+:
+i
+
+UNCLASSIMEN
+
+{a
+jo
+has
+
+é
+
+”
+
+B/L Office of the Base Operations O%ficer, 3415th Tech Ing “g . Lowry ArB-
+° ;
+
+§ Aug 49. Subj: Aeport of Aircraft
+
+Gilchrist, 7. T. Captain C-47-9956 University
+Godfrey, =. 0. Captain C-47-9956 University
+Crosland, R. T. Yaptain C-47=2073 University
+Mickish, W. J. Vaptain C=47-2072 University
+
+/s/ KILLIAN A. PARRISH
+Captain, USAF
+Asst Bese Onerations Ufficer
+
+Student
+-tudent
+Student
+~tudent

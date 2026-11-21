@@ -1,0 +1,66 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T19:10:00Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6997677, "source_ctime_ns": 1793365589108284769, "source_file": "National-Archives-UAP-Bulk/photo/47323287/38222946-001-005-0095.tif", "source_mtime_ns": 1785565392000000000, "source_rel": "National-Archives-UAP-Bulk/photo/47323287/38222946-001-005-0095.tif", "source_sha256": "cd4bd8b7e54e11ef51fcaea6cf8b169482471e515f2fb2ce0f36fe21f2e7aee5"}
+
+===== PAGE 1 =====
+{"alpha_words": 245, "chars": 1610, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Form 90-Adm. 168
+
+State of New York
+Department of Mental Hygiene
+
+S-DIFE-2
+
+MAIN GROUNDS-——800 S. WILBUR AVE.
+
+Sere a SYRACUSE STATE SCHOOL | GROUNDS—a00 5. WILBUR
+
+DIRECTOR
+(DATE OF OPENING—OCTOBER 1851)
+LLOYD E. WATTS, M.D.
+ASSISTANT DIRECTOR P.O. Box 1035
+PERCY V. CAMPFIELD
+BUSINESS OFFICER Syracuse, N. Y. 13201
+
+March 6, 1970
+
+Air Force Base
+
+Office of Information
+Hancock Field
+Syracuse, New York
+
+Gentlemen:
+
+On behalf of the residents and employees, I would
+like to thank you sincerely for the wonderful parachute
+you so generously donated to the school.
+
+The Recreation and Volunteer Departments are using
+the parachute in play therapy for the residents. The
+children enjoy their new "toy" very much, and many crea-
+tive type of games and activities are being developed
+through the use of the parachute.
+
+We feel that this piece of apparatus will further
+develop a child's finger and hand coordination when he
+grasps hold of it with his fellow students and raises
+and lowers the billowing parachute through the air. It
+is also a great exercisor for their arm, shoulder, ab-
+dominal and back muscles. It has many infinite uses,
+and will be one of the most interesting and important
+pieces of equipment we have for the residents.
+
+We appreciate your interest in, and support of,
+the mentally retarded, and hope it will continue in the
+
+future.
+Very truly ry
+YY} ty
+Ya LOM | OZ — Mt,
+George ie as we D.
+Director
+KMC/bh
+
+me iM
+
+TELEPHONE INQUIRIES—-PHYSICIANS WILL BE AVAILABLE BETWEEN 9 A.M. AND 10 A.M. MONDAY THROUGH FRIDAY
+VISITING DAYS ARE ONLY ON SUNDAYS AND LEGAL HOLIDAYS FROM 10 A.M. TO 4 P.M.

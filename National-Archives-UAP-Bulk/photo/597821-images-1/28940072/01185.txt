@@ -1,0 +1,43 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T18:53:32Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3778195, "source_ctime_ns": 1793371850804071198, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28940072/01185.jpg", "source_mtime_ns": 1785688644000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28940072/01185.jpg", "source_sha256": "496901c2376806d9f7148f6a1a95f69efb71adf8a195bfd9112e8ecf4b66fea5"}
+
+===== PAGE 1 =====
+{"alpha_words": 153, "chars": 1015, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+: [INGLASSIFIED
+
+Anpendix V
+
+TERRE. HAUTE, INDIANA = 9 October 1961
+
+} DISCUSSION OF Titi, INCIDENT
+
+On 9 October 1951 at 1342 CST, a CAA Chief Aircraft Cowwmnicator observed
+a silver object puss directly overhead while he was et fulmen Municipal Airport,
+five miles east of Terre Heute, Indiana, The object wes judced to be approxi-
+mately the same size as a 50 cent niece held at arm's length, ‘The object passed
+overhead at a very high rate of speed going in a southeasterly direction, passing
+from. directly overhead to the horizon in about 15 secomis, there was no sound or
+vapor trails, whe shape and poneral form of the object could be seen as the object
+passed over the horizon and out of sirht.
+
+(For related incident, see Appencix VI.)
+ac. Wiehe
+Clear, bright sun, no clouds or haze.
+
+oT..TUS OF INVESTICATION
+
+Further investication revesled no additional information,
+IV. CONCLUSIONS
+
+None.
+
+VNGRADED AT 3 YEAR INTERVALS;
+pO MECLASSIFIED AFTER 12 YEARS.
+DOD DIR 5200.10
+
+Se
+
+Stadee (Re pene Gy
+
+od a
+
+‘

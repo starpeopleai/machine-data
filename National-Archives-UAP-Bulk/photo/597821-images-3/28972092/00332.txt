@@ -1,0 +1,19 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T19:19:31Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9090682, "source_ctime_ns": 1793379375784906608, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28972092/00332.jpg", "source_mtime_ns": 1785700674000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28972092/00332.jpg", "source_sha256": "251a717adc070a39b5b3bd8e7ff671c1cb1ce15dd425a5dfe609ad5a71f24e06"}
+
+===== PAGE 1 =====
+{"alpha_words": 103, "chars": 659, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+WAISA
+_""""FoL0 FIREBALL) DENVER _
+WASHINGTON, OCTs 10e--CUP)=-A HUGE FIREBALL SEEN OVER DENVER AT
+) 7905 Ae Me EDT TODAY WAS NOT. SPUTNIK.
+7X qq RADLo TRACKERS HERE CLOCKED THE Savict SATELLITE OVER. MID-UNITED
+STATES AT 7338 Ac Me EDTe AT THAT MOMENT IT WAS FLYING IN A NORTHWEST-
+SOUTHEAST DIRECTLON WEST..OF A LINE BETWEEN DETROIT AND CLEVELAND. >.
+“THE RADIO TRACKING CONTROL CENTER HERE SAID SPUTNIK WOULD PASS..
+VEST OF DENVER AT-9$34A Me EDT.
+gh OFFICIALS HAD NO WAY OF KNOWING IMMEDIATELY WHETHER THE FIREBALL
+WAS ONE OF SPUTNIK'S COMPANIONS=-THE THIRD STAGE ROCKET AND NOSE
+" CONE=-WHICH ALSO WERE REPORTED TO BE CIRCLING THE ETH ara,
+a ! ee
+
+2ace

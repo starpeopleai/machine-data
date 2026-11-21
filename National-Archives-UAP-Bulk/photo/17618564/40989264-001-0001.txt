@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T19:28:19Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 17199695, "source_ctime_ns": 1793355147242253927, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989264-001-0001.jpg", "source_mtime_ns": 1785564401000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989264-001-0001.jpg", "source_sha256": "1fcc2869cfe5e3d501512ca29ae33151bfaa434645a6a5c575c378a918d05420"}
+
+===== PAGE 1 =====
+{"alpha_words": 45, "chars": 349, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+SYMPOSIUM ON UNIDENTIFIED
+FLYING OBJECTS
+
+Ge Moore
+Pos Oe ake >< aks) SiS
+
+“HEARINGS e SrSxSeoueiae ,  INIM S77 © AL
+
+ BEFrTORE THE
+
+-  SOOMMIPERE ON. <2205°
+‘SCIENCE AND ASTRONAUTICS
+U.S. HOUSE OF REPRESENTATIVES
+
+alasy H’Tink’ TEE CONGRESS
+SECOND SESSION
+
+JULY 29, 1968
+[No. 7]
+
+\/ Printed for the use of the Committee on Science and Astronautics

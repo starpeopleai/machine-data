@@ -1,0 +1,83 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T19:07:45Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6635122, "source_ctime_ns": 1793376750112831082, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28961892/0143.jpg", "source_mtime_ns": 1785696420000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28961892/0143.jpg", "source_sha256": "0162deb4d997354652ac0a5b26fbda0fad5a08cc5d91206fe85e3479261920cb"}
+
+===== PAGE 1 =====
+{"alpha_words": 281, "chars": 1758, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Page 2
+
+8. IF you saw the object ot NIGHT, what did you notica concerning the STARS ond MOON?
+8.1 STARS (Circle One): 8.2 MOON (Circls Ons):
+
+a. None a,_ Bright moonlight
+b A few cb Dull moonlight:
+
+& ‘Many C. NO moonlight — pitch dork
+d. sat reine
+
+d. Don't ramember
+9, What were the weather conditions at the time you saw the object?
+
+CLOUDS (Circle One): WEATHER (Circle One):
+«. “a Cloar aky> eo. Dry
+
+b. Hazy b. Fog, mis?, or light rain
+
+c. Scattered clouds c. Moderate er heavy rain
+
+d. Thick of heavy clouds d. Snow
+
+o. Don't ramember
+
+10. The object appeared; (Circle One):
+<a. Solid d, Aso light
+
+b. Transparent e. Don’t remember
+“@. Vapor
+
+WW. Af i appeared as a light, was it brightsr than the brightest stars? (Circle One):
+
+c. About the same
+d. Don’? know
+
+Ca. Brighter ” >
+
+b. Dimmer
+
+11.1 Compare brightness to some common object:
+
+Ha), ; PSP. he oy ’
+GQ ft Cyne AA Af fer Lot Crewe a a fusiir. = me Ce et ee te
+7 oe
+
+12. The edges of the object were:
+
+) ow, pe
+(Circle One): a, Fuzzy or diurred » Other A 16) LH Lyi
+7 ». Like a bright stor Baa | peracid lard Wee OD che
+<eu. Sharply outlined> | Che Katy 7 663) ON‘ $73 Ce
+d. Don’t remember fd eg bed Abt, hiwt 2de2-
+
+¢ ra «
+-~gr @ , al /
+AI hee het Le CEL ALY i
+
+b\e
+
+“ts ae
+
+ta 4
+ve ry)
+
+os pe yet. IG vox
+
+enn bebe hk a The py) oO
+:
+
+13. Did the object: (Circle One for each question)
+a. Appear to stand still at any time? C ‘Yos. No Don't know t
+b, Suddenly speed up and rush away at any time? arg No Don’t know if
+c. Break up into parts or explode? eae “No: Don’t know
+d. Give off smoke? You C Ho. Don’t know i
+e, Chonge brightness? Yes Co; Don't know 4
+f. Change shape? CYes? ‘No Don’t know |
+g- Flash or flicker? Yos  No> Don’t know f
+h. Disappear and reappeor? Yos ~ Ho” Don’t know )

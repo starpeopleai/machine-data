@@ -1,0 +1,10 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T19:14:31Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8268099, "source_ctime_ns": 1793363428673703167, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785292/45484701-005-004-0036.jpg", "source_mtime_ns": 1785684652000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785292/45484701-005-004-0036.jpg", "source_sha256": "84b1e57cb594db3af09620812d970f7a798bc0615a36040376c2701409b62e88"}
+
+===== PAGE 1 =====
+{"alpha_words": 11, "chars": 83, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+)
+
+PP 1 ee nei suey
+f aor Wits & be @ ugha
+
+Declassification Authority: NND 923007

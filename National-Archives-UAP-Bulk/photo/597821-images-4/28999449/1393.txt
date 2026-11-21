@@ -1,0 +1,24 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T19:21:34Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10157659, "source_ctime_ns": 1793387938245939145, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28999449/1393.jpg", "source_mtime_ns": 1785748051000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28999449/1393.jpg", "source_sha256": "48419075c6f78c1679472bef75c56249aa58a9956a64c532baa0d95d7815e553"}
+
+===== PAGE 1 =====
+{"alpha_words": 14, "chars": 73, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+————
+
+wee.
+
+agen
+
+CE OT IO OE ID
+
+:
+Le
+
+pe
+
+a we ¢
+i
+
+pn
+we
+
+Nga) Sats,

@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T19:09:53Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6976954, "source_ctime_ns": 1793384941840261830, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28991418/1084.jpg", "source_mtime_ns": 1785748400000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28991418/1084.jpg", "source_sha256": "aeb41dc7de38f0a517530c28c060918c9b246b7828b465cd0ee2199aab355a6b"}
+
+===== PAGE 1 =====
+{"alpha_words": 107, "chars": 707, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+AEROSPACE TECHNICAL INTELLIGENCE CENTER
+UNITED STATES AIR FORCE
+WRIGHT-PATTERSON AIR FORCE BASE
+
+OHIO
+REPLY TO
+atm of: «= AFCIN-4X2
+SUBJECT: ixtract' from Duty Officers' Report 23 Feb 61
+
+To: §=60AFCIN-4E2
+Attn: Maj Friend
+
+The following, extracted from Capt Fisher's report dated 21 Feb 61,
+is quoted for your information:
+
+1700 hours, received phone call from a Mr. ,
+CR 44410, wanting to know what action we were taking on a .
+UFO sighting he had made and reported last Wednesday. Called
+Maj Friead, who asked me to call Sst Bolieu. Sgt Bolieu said
+he would call Mr. Yates. I called Q@@g@Mock am told him
+Bolieu would call.
+
+ee
+
+“y a
+my de
+
+MICHAEL . STROFY, JR. |
+Major, USAF / !
+ATCIN-4K2
+
+PEE ncn ea

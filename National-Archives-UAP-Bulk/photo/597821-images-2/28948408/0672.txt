@@ -1,0 +1,52 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T18:53:54Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3835220, "source_ctime_ns": 1793373734856134755, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28948408/0672.jpg", "source_mtime_ns": 1785696674000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28948408/0672.jpg", "source_sha256": "70bdaeb541e1cd868e6d029fa45d945ddceff344118b8a756cd4b63f5ecc2977"}
+
+===== PAGE 1 =====
+{"alpha_words": 186, "chars": 1248, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+9.
+
+Page 3
+
+8.1 What direction were you looking when the object disappeared?
+
+(Circle One): ae North C 2) South
+b. Northeast Southwest
+c. East - West
+a. Southeast he Northwest
+
+8.2 Circle one of the following to indicate how certain you are of
+your answer to the above question and preceding question (8 and
+
+el)e
+@ Certain c. ilot very sure
+
+Fairly certain d. dust a guess
+
+Were you wearing eye glasses when you saw the object? (Circle One):
+
+xX r "ito)
+oe Se ee
+
+10. How was the object seen? Ub ye co (40a. ox
+(Circle One): a. Throvgh window glass e. Through theodolite
+b. Through windshield f. Through sunglasses
+c. Through binoculars ge ‘Through open space
+a. Through telescope he. Other
+11. What do you remember about the weather conditions at the time you saw the
+object?
+11.1 CLOUDS (Circle One) 11.3 WEATHER (Circle One)
+Cd Clear sky ae Dry
+Hazy be Fog, Mist, or light rain
+ce. Scattered clouds ce Moderate or heavy rain
+ad. Thick or heavy clouds a Snow
+e. Don't remember ee Don't remember
+11.2 WIND (Circle One) 11.) TEMPERATURE (Circle One)
+G® io wind a. Cold
+- Slight breeze b. Cool
+c. Strong wind 6) Varn
+de Don't remember « Hot
+e» Don't remember
+SECTION C af
+4S blew }
+12. Estimate how long you saw the object?
+
+Hours liinutes seconds

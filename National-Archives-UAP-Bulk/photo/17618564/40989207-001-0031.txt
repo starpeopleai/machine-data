@@ -1,0 +1,62 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T19:18:03Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8745140, "source_ctime_ns": 1793354415443306115, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989207-001-0031.jpg", "source_mtime_ns": 1785564281000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989207-001-0031.jpg", "source_sha256": "457684cc19f888341ad09ad4803e70c9b70667f348b63550f6775c46baa01812"}
+
+===== PAGE 1 =====
+{"alpha_words": 392, "chars": 2781, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+4.3 PL/GP THRUST ANALYSIS
+
+The final analysis is by GP thrusts (Appendix D). PL/GP markets its
+
+technology under five major thrusts:
+
+Ionospheric Impact on Air Force Systems, wate’ SS Ce wae  weowel
+
+contributions, made the most contributions to geophysics technology transitions
+in FY92. This thrust defines the physical and chemical characteristics of the
+ionosphere and develops an understanding of how the ionosphere affects the
+propagation of electromagnetic radiation used by AF communication and
+surveillance systems. Contributions were mainly in the areas of specifications
+and predictive models of the effects of the ionosphere and upper atmospheric
+density on current and planned Air Force command, control, communications, and
+
+intelligence systems, and other systems.
+
+Optics and infrared Technology had the next highest contribution (24%).
+The objective of this thrust is to measure and predict the optical and infrared
+properties of the environment and its effects on Air Force and DoD surveillance,
+reconnaissance, and weapons guidance systems. The technology transitions
+consisted primarily of specifications of infrared signatures of targets and
+
+backgrounds, and radiation propagation codes.
+
+Weather Impact on Air Force Systems had 16% of the contributions. This
+
+thrust develops improved instrumentation and techniques for measuring,
+processing, analyzing, modeling, and predicting meteorological properties which
+impact the Air Force mission. The contributions this year were mainly in the
+areas of weather specification and prediction software.
+
+12
+
+Space Effects on Air Force Systems also provided 16% of the contributions.
+This thrust defines the impact of the Earth's space environment on Air Force
+space systems to achieve a capability for specifying, predicting, mitigating,
+and exploiting the effects of the space environment. The contributions were
+mainly in the areas of specifications (software and hardware) used to define the
+
+space environment and its effect on space systems.
+
+Terrestrial Effects on Air Force Systems produced 11% of the contributions.
+Its objective is to advance technology in the areas of geodesy, gravity,
+seismology, and geodynamics to resolve Air Force problems in navigation,
+guidance, inertial testing, motion-sensitive instrumentation, and nuclear test
+monitoring. This year's contributions were mainly in the areas of seismic studies
+as well as gravity studies for improved navigation.
+
+Two new thrusts were added in FY92. They are Geophysics for Synthetic
+Environments and Geophysics for Environmental Quality. Personnel supporting these
+thrusts are located in the various divisions supporting the major thrusts and
+any transitions emanating from the new thrusts in FY92 are reported under the
+
+five major thrusts.
+
+ES

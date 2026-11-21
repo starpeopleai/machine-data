@@ -1,0 +1,60 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T18:52:47Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3698598, "source_ctime_ns": 1793373731179141930, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28948393/0655.jpg", "source_mtime_ns": 1785696681000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28948393/0655.jpg", "source_sha256": "ffe8b0d2efd9a74ac3b53e25b5c79c44a80b8a4f885f045eb37ca8bd910e5246"}
+
+===== PAGE 1 =====
+{"alpha_words": 225, "chars": 1568, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+——
+
+‘ PROJECL 16073 WORKSHESLT —
+
+I, GeNeRAL
+
+ie “pris 2. LOCATION — ae
+local: / 70D
+(7 Ke cy oa D Lat (> a p, ee. éobras LI2D.
+Lh. WAS OBIKGT OBSERVED FROM tik GOUT (/ Uy Yos “ET ito
+fertaked Eye
+i.) Binoculars
+CI) telescope
+A eI MI Theodolite
+15. WAS OBIECE OBSERVED BY GROUND RADAR? (J tus (No
+‘ LIBy Ons Sot
+Cl By Two Seta |
+' [|By Three Sets
+f6,. WAS OSJECY OBSERVED FROM THE AIK? OC) Yos | (aio
+: ___.A/C Observed Object
+{(_]Interception Attempted
+; CINo Intercopt Attempted
+7. Wikis AIRCRAFT SCRAMBLED TO INTERCEPT? {-) Yes (iio
+A/C Scraubled
+Cl Visual Contact Made
+Ci A/I Contact Made
+{_}No Contact Mads
+&. Did OBIECT CHANGE DIRECTION AY ANY TIME? Cl Yes fbNo
+(-) Normal
+_ [VViolent
+9, IF OBJECT WAS A "LIGHT", WAS LT: (_) blinking
+[] Stondy
+“iO. LENGTH OF TIME IN SIGAT: { | 1-15 Seconds y
+() 1-5 Minutes bow fh
+on ” [| Over 10 Mnutes )
+JI. REPORTING AGENCY (Unit Number and Halling Address)
+5 -- an . }
+If. ASTRONOMICAL DATA
+12, WHAT ASTRONOMICAL ACTIVITY WAS nuticD?
+45, DID OBJECE APPEAR TO ARCH DOWNAAKD? { } Yes Tcthiia |
+bib, DLP OBJECT HAVE A ‘TALL? 7 Yes - [eho
++25. DID OBJECT APPEAR TO DISINTEGRAT«? “i Yes [pttHio |
+16. TINE OF SIGHTING RECATIVE TO SUNRISE OR SUNSET (bate From Aly Almanac)
+aa Night ;
+ne>Day
+3 Sunrise ;
+{ ' Sunset
+I1lI. ATRCRAFT DATA
+fi7> WERE AIRCRAFT NOTeD IN AREA? =) Yos Pee [:Jiio |
+' !One Aircraft
+(.}More Than One Aireraft cd
+TEL WAS ANY SOUND HEAD? “Ty Yea The ~
+‘et 5. WERE VERE INDICATICKS OF HICH EACKGROUKD NOISE” ~ Yes, (rio
+[S0.% WaS WHE OBSHCT VIEWED ALOVE L560 ELEVATION? = Yos bao
+
+ATIC Tast Form 334 (1% Aug 52)

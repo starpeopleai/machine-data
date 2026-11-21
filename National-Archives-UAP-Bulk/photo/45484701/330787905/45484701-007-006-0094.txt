@@ -1,0 +1,43 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T19:16:28Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8543463, "source_ctime_ns": 1793364910566346687, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787905/45484701-007-006-0094.jpg", "source_mtime_ns": 1785684683000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787905/45484701-007-006-0094.jpg", "source_sha256": "0cdc332731a6f4195072fd0c5c0a5c3fd19aa94b50b00c5caef723ab62e45e3e"}
+
+===== PAGE 1 =====
+{"alpha_words": 117, "chars": 872, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+21st District OSI (IG) File No: 24-147
+
+Subj: Unidentified Flying Object, Salem, Va., 12 January 1956 11 Feb 1958
+
+(5) Location of Observer:
+
+a. Residence, Rt 3, Salem, Virginia.
+
+ro
+| z
+A
+
++
+
+(6) Identifying Information on Observer:
+
+a. HENRY E, BRUGH, age 27, Route 3, Salem, Virginia;
+occupation — Buyer of scrap metal for Roanoke Scrap Iron and Metal Company,
+Roanoke, Virginia,
+
+(7) Weather and Windsealoft Conditions at Time and Place of
+
+Sightings
+Clear weather.
+No report from nearest weather station.
+Ceiling = very clear, visibility unlimited.
+Visibility unlimited.
+No cloud formations noted at time of sighting.
+No thunderstorms in area at time of sighting.
+
+air traffic noted in area at time.
+
+1 Incl: RICHARD G, COX
+Drawing of BRUGH's version Lt Coleriel, USAF
+of object sighted District Commander
+
+Sy SE Dir OSI, USAF
+
+Declassification Authority: NND 923007

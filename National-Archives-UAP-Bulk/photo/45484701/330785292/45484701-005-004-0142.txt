@@ -1,0 +1,47 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T19:11:12Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7099277, "source_ctime_ns": 1793363477311071953, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785292/45484701-005-004-0142.jpg", "source_mtime_ns": 1785684659000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785292/45484701-005-004-0142.jpg", "source_sha256": "f3e1ae7dddf60f411de7dd75a4198a46e67dd05d968352f6cfef17c5e0c52c9d"}
+
+===== PAGE 1 =====
+{"alpha_words": 93, "chars": 720, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+‘Page 3
+
+Essential Elements of Info
+Project "SIGN"
+
+12, Support MO VISDALS |
+
+Wings
+Aerodynamic lift of fusclage
+Vertical jet
+Rotating cylinder or cone
+Aerostatic lift (balloon or dirigible)
+
+Propulsion OMe GRSERY
+
+a, Propellor or jet
+
+bs Rotor
+
+c. ferodynamic vanes (flapping qr oscillating)
+(Katz Mayer effect)
+
+d,; Visible exhaust or jet openings
+Control and stability No attechments of any kind observed.
+a. Fine
+b. Stabilizers (horizontal or vertical)
+(1) Give
+(2) Shape
+(3) Location
+hir ducts
+a, Slots
+b. Duct openings ©
+Speed ~ M.P.H. Supergonic~too fast for eye te follow.
+
+Sound fo sound whatsoever
+
+&. ontinuous whine ar buzz
+
+b. Roar, whistle, whoosh
+
+ec. Intermittent
+
+Declassification Authority: NND 923007

@@ -1,0 +1,80 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T19:28:56Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 17616086, "source_ctime_ns": 1793355777298747877, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0221.jpg", "source_mtime_ns": 1785564521000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0221.jpg", "source_sha256": "d6f9803783bc7edb2508b40a7b1341b458b36b376951d41667100011f8b527f5"}
+
+===== PAGE 1 =====
+{"alpha_words": 635, "chars": 3975, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+430
+
+brought to a theoretical confluence at the envelope apex, the structure in this area
+must be reinforced without creating load-path discontinuities. To do this, the re-
+designed envelope incorporated a method of construction, developed by Raven
+Industries, Inc., designated as Simulated Variable Thickness (SVT). Its purpose
+was to better carry the meridional load on each gore across the envelope apex to
+its diametrically-opposite gore without abrupt changes in fabric thickness. This is
+achieved as is shown in Figure 4 by shaping each gore with a minimum constant
+width at its upper end, overlapping the excess material progressively and thus
+creating the equivalent of a gradual buildup of fabric thickness toward the apex of
+
+the envelope.
+
+OVERLAP
+LAST GORE OF GORES
+
+GORES OVERLAP
+
+AND TERMINATE
+
+IN ROSE PETAL
+
+FASHION AT APEX DOUBLE STITCH
+FINAL CLOSURE
+
+TOP VIEW WITH LAST
+
+GORE TERMINATED R_APEX AND
+AT APEX ON NADIR
+
+Figure 4, Envelope Configuration with Simulated Variable Thickness Top
+
+431
+
+In addition to simulating a payload, the flight-test vehicle made possible the
+necessary test mechanics to accomplish the basic program objectives. The vehicle
+used was a 30-inch-diameter by 60-inch hemisphere cylinder of 1/4-inch steel.
+Prior to event, the deployment bag was stowed in the smooth cylindrical aft section
+of the vehicle, and the balloon load lines were attached around an external load ring
+at the aft edge. This compartment was closed by a rear closure plate to which the
+drogue parachute was attached. A pair of semicircular clamp bands which fit over
+the matching beveled edges of the closure plate and the aft ring were used to hold
+the rear closure plate in position and transmit the drogue parachute loads to the
+vehicle. The bands were in turn secured by a pair of explosive bolts. The deploy-
+ment bag was attached to the underside of the closure plate. Hence, to produce the
+deployment event, the explosive bolts were fired, the clamp bands parted and re-
+leased the rear closure plate, and the drogue parachute lifted the then-freed closure
+plate away from the vehicle and thus extracted the attached deployment bag. This
+design provided a jerk-free transfer of the drogue parachute suspension loads from
+the flight test vehicle to the bag. Static tests demonstrated that if either of the
+explosive bolts fired, the rear closure plate could not fail to separate.
+
+In this deployment scheme, as shown in Figure 3, the deployment bag must lift
+the packed envelope from the vehicle; and then in turn, as it separates from the
+vehicle, must open to allow the envelope to stream freely to its full length. Since
+this action is so crucial to deployment success, considerable design and experimental
+attention was given to the deployment bag design. The final design is shown in
+Figure 5, suspended from the rear closure plate in the extracted position above the
+flight test vehicle just prior to the opening of the bottom of the bag. The design
+consisted of a clamp arrangement to attach the 2.2-0z-per-yd™ nylon fabric bag
+reinforced by a 1-1/2-inch nylon webbing to the bottom of the closure plate. This
+bag was actually an overlength tapered cylinder lined with Teflon-coated gloss
+fabric whose excess length formed the bottom of the bag when it was closed. A
+four-piece aluminum breakaway spool locked by a nylon strap and pull pin was used
+to close the base of the bag. After the bag and the vehicle had separated about six
+feet, the pull pin was extracted by a steel cable attached to one of the load lines.
+Since the bag was designed overlong, the breakaway spool quadrants ended up on the
+outside of the bag after opening. This provided a completely smooth passage for
+the streaming envelope to leave the bag.
+
+In addition to the timers and circuitry to initiate the explosive bolts, on-board
+equipment on the vehicle included an accelerometer and telemetry system to meas-
+
+fs . 4 W
+ure axial loads on the vehicle,and an up camera .

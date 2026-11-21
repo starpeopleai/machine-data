@@ -1,0 +1,43 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T18:45:26Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1479560, "source_ctime_ns": 1793391979368507463, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302563070/0331.jp2", "source_mtime_ns": 1785808051000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302563070/0331.jp2", "source_sha256": "9f7724ee047ec4277d7de773ca0dd85fd759b7b7ace63ca2cf8363c64d6ccf67"}
+
+===== PAGE 1 =====
+{"alpha_words": 111, "chars": 775, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+s
+—
+
+“AP IN: 73878 (15 Mar 67) Q/wnr Pg 1 of 4
+
+5 ACTION: RDC-4 INFO: XOP-1, XOPX-2, SAFOS-3, NIN-7, DIA/JCS-1 (19)
+a8 AO30RQ -s ADV CY DIA | 2
+
+> pTTU Jaw RUWMBDA00S9 0732225-UUUU--RUEDHOA } \
+NR. UUUUL ‘
+
+\]
+
+P 1422282 MAR 67 i :
+FM 26 AIR DIV ADAIR AFS OREG | J ee
+
+TO RUWMFV ADC ENT AFB COLO
+" RUEDF IF/FOREI GN TECHNOLOGY DIV WRIGHTPATTERSON AFB OHIO |
+RUEDPVIWHQ USAF WASH DC | .
+RJECHQW SECRETARY OF THE AIR FORCE WASH DC S
+
+PUWSOV UF O UNIV OF COLO BOULDER COLO
+
+ate |
+
+UNCLAS 26 01N 13132 MAR 67.
+
+FOR AFROC-HQ USAF: SAF OL - SECRETARY. OF THE AIR FORCE
+
+FOR BOB LOW AT UFQ, UFOB REPORT, THE FOLLOWING 5
+
+UFOB REPORT 1S SUBMITTED, PART I. :
+PART A, | ,
+
+abet Ge ee
+2 SIXE OF AN ORANG ae | ;
+3, BLACK SMOKE AND ORANGE C(LORED FLAME |
+
+AFHO w. 0-309C. 3 UNCLASSIFIED

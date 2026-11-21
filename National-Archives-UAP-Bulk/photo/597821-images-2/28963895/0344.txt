@@ -1,0 +1,42 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T18:57:45Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4291258, "source_ctime_ns": 1793377470739085202, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28963895/0344.jpg", "source_mtime_ns": 1785696877000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28963895/0344.jpg", "source_sha256": "a9a59d9344d326ad90243c782634c05cdb9f59cd0c95b18de31879095ce0e92c"}
+
+===== PAGE 1 =====
+{"alpha_words": 113, "chars": 710, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Ce) 3 HE
+
+Bo AY
+
+3 fy a ' T{ re r
+
+T tant te!
+f
+
+‘ ! t a fe, ae ae ot 8 we ; = ne spree,
+
+Ae Re bene me > ~ ee ee FE Re Pe ee ee eo eee er ——
+
+RAD 94 | Be :
+! i pF stp | 79 i
+WPRZ95 YMA@ 64HRAQ 11 Ja?
+
+HRH 293 We a7 oth. 4
+
+a
+MM RJEDEN RJEDBW RJEDWP RJEP RJEPNB re) 4 x
+, rat
+DE RJEDHR SH -—~ ; 4
+M 14 D9Z
+
+FM COMDR 755TH AC&W SQ WILLIAMS BAY WISC |
+
+TO RJEDEN/COMDR ADC ENT AFB COLORADO SPRINGS COLORADO
+
+INFO RJEDBW/COMDR 38TH ADIV WILLOW RUN AFS BELLEVILLE MICH
+RJEDWP/COMDR AIR TECHNICAL INTELLIGENCE CENTER WRIGHT PATTERSON OHIO
+RJEP/DIRECTOR OF INTELLIGENCE HQ USAF WASHINGTON 25 D. C.
+
+RJEPNB/COMDR EADF STEWART AF8 NEWBURGH NEW YORK
+
+BT
+
+/Unmc LAS SIF IE D/ WBOOT 3562 PD UNUSUAL FLYING OBJECT REPORT

@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T19:06:21Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6226471, "source_ctime_ns": 1793376727287746687, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28961850/0105.jpg", "source_mtime_ns": 1785696747000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28961850/0105.jpg", "source_sha256": "86cdcd2930b241502b1b9a0f78185c8a431f84e77105d9daf920e0ce36f0afb2"}
+
+===== PAGE 1 =====
+{"alpha_words": 90, "chars": 721, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+TR ey hts
+
+PROJECT 10073 RECORD CARD
+
+1. DATE 2. LOCATION 12. CONCLUSIONS
+QO Was Balloon
+__28 April 1955 Pendleton, Oregon 3 Abell aR to tha
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION Se ae
+Local NXGround- Vi sual 0 Ground-Radar cl Probably Aireroh
+GMT 29/0430Z _ ; oO Air- Vi sual OD Air-Intercept Radar K&S Possibly Aircraft
+5. PHOTOS 6. SOURCE 0 Was Astronomical
+0 Yes O Probably Astronomical
+T3N0 Civilian D Possibly Astronomical
+7. LENGTH OF OBSERVATION 8. NUMBER OF OBJECTS | 9% COURSE D , Other
+OD Insufficient Data for Evaluation
+Q Unknown
+1-2 seconds one North
+
+10. BRIEF SUMMARY OF SIGHTING
+
+White. Described as saucer and plate.
+
+Vapor trails.
+
+V1. COMMENTS
+
+Meteor observation.
+
+ATIC FORM 329 (REV 26 SEP 52)

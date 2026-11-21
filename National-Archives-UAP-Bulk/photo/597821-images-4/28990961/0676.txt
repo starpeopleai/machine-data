@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T19:15:38Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8422960, "source_ctime_ns": 1793384744279941449, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28990961/0676.jpg", "source_mtime_ns": 1785748581000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28990961/0676.jpg", "source_sha256": "980829d903052c933fddf3173cba3b9593cc70fae2ab33cae35b148b0cd08b74"}
+
+===== PAGE 1 =====
+{"alpha_words": 136, "chars": 850, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+FO. rly LENA SU Nb dike ba a ae Nt TAREE Ne
+
+RBZ32 ~
+2CSQHE5S3ZCJYC629~ iw
+MM RJEDSO. h
+Te oe
+DE RJWZGP 34 (
+ZNR \ \ =
+M 2801252 \ a oo
+VM COMBOMYG 92 FAIRCHILD AFB WASH —# Son et ae |
+er, fa ri a B//
+TO AIR TECHNICAL INTELLIGENCE CTR WPAFB OHTO/ —— \/ zt
+T sae (mf ta
+GW
+©
+
+UNCLAS DCOIC 7449.
+
+FOR AFCIN, ATTN’ SGT BOLIEUe UFO.» RE OUR UNCL MSG DCOIC
+7222, 17 MAR 61.6 AFTER FURTHER INVESTIGATION, IT WAS F OUND
+THAT ONE OF THE PRIVATELY OWNED HELICOPTERS IN THE SPOKANE AREA
+WAS FLYING IN THE VICINITY OF REARDON, WASHINGTON, ON 14 AND 15
+JAN 61. THIS HELICOPTER WAS RETURNING HOME AFTER DARK ABOUT
+
+TWO TO THREE EUNDRED FEET ALTITUDE. THE HELICOPTER IN QUESTION
+HAS ALTERNATING FLASHING RED BEACONS MOUNTED FORE AND AFT +
+PILOT STATED THAT WHEN THE HELICOPTER WAS CRUSING, A PERSON ON
+
+THE GROUND TWO OR THREE HUNDRED YARDS AWAY WOULD NOT HEAR A

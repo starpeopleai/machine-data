@@ -1,0 +1,17 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T19:03:23Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5207128, "source_ctime_ns": 1793359006858998948, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-005-007-0015.tif", "source_mtime_ns": 1785681291000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-005-007-0015.tif", "source_sha256": "92bc4459dfa35825db795b58f3762342bf872ead8ad83ecc9729f680fd4aec3c"}
+
+===== PAGE 1 =====
+{"alpha_words": 48, "chars": 314, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Declassification Authority NND 923007
+
+ENT AFB COLO.
+‘svc CNTR MAXWELL AFB ALA -
+
+- ONCLASSIFI D) ALSOP 356 PD REF UR EMERGENCY CIRVIS so 212286Z__ ae
+‘pt -AREJYOU ABLE TO SUPPLY INFO REQUIRED BY PAR 7D CMM AFR 292-2
+
+AES.
+
+Ae: ‘NOT Con: ARE.YOU ABLE. TO SUPPLY NAME AND ADDRESS OF PILOT QUES
+2» ST. i ;
+22/99 Ox

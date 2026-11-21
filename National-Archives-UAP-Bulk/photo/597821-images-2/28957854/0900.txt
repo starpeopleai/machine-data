@@ -1,0 +1,43 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T18:56:34Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4121485, "source_ctime_ns": 1793375824148570246, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28957854/0900.jpg", "source_mtime_ns": 1785696722000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28957854/0900.jpg", "source_sha256": "2b42f76c57971f0550bc62c1b5d73954dbd4ae6a3654db24d18e903bb6af8618"}
+
+===== PAGE 1 =====
+{"alpha_words": 67, "chars": 574, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+". PAGE TWO JESKS 21
+
+Leounwavweraweuwnvase wou:
+
+NEG
+
+A OBJ DISTRACTED OBSERVER WHO WAS ATTENDING AN OPEN-AIR MOVIE
+ELEV - 4&5 DEGREES, A2UINITH - APPROX 200 DEGREES
+
+ELEV - 98 DEGREES, AZUINITH - APPROX 20: DEGREES
+
+STRAIGHT LINE
+
+LOST VISION ALMOST DIR OVERHEAD DUE TO LIGHTS AND OBSTRUCTIONS
+APPROX 3 SECONDS
+
+A GROUND VISUAL
+
+N/A .
+
+N7A
+
+A 1200052 MAR 54
+
+Dusk
+
+APPROX 88 DEGREES - 4&6 MINUTES W, 36 DEGREES - 24 MINUTES N
+A wsA | |
+
+GEMM $/SCTs 11TH WEA Sas WEA ANALYSTS RELIABLE
+A CLEAR | |
+
+NEG
+
+4596 FT SCATTERED
+
+19 MILES PLUS
+
+4/18 AT 1506 FTg 1/16 AT 30,008 FT
