@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T17:45:17Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1049442, "source_ctime_ns": 1793355846987103403, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989280-001-0035.jpg", "source_mtime_ns": 1785564540000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989280-001-0035.jpg", "source_sha256": "1d94dceed8c7e92df64dd1d32b0a72fb2e920360ca23d6eddc4a770e97e8b0d5"}
+
+===== PAGE 1 =====
+{"alpha_words": 223, "chars": 1445, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+20
+
+Holloman as part of the same project effort. This technique
+is "being developed to satisfy a broad spectrum of Air Force
+requirements, both in the developmental support and operational
+areas." The principal application discussed so far is to use
+air-launched balloons for floating and gathering data in the
+“Neye" of severe tropical storms. The balloon is packed
+together with its own cylinder of lifting gas and is carried and
+released in about the same manner as an ordinary bomb, After
+release, it inflates itself, and the fas cylinder then drops
+
+Li
+awaye
+
+Not all flight testing of balloon techniques is carried on
+under Project 6665, Often a particular research and development
+project will have some special requirement for launching awkward
+or unusual payloads, for an unusually long or complex trajectory,
+or for some other technical innovation. In that case, the
+Balloon Branch may need to conduct preliminary test flights,
+perhaps with dummy loads, in order to perfect or merely check out
+the required new techniques; and such flights may simply be
+charged against the project in question. Furthermore, numerous
+flights have been made in connection with the development of
+balloon-borne missile targets and balloon-rocket combinations,
+two topics that will be discussed in detail in a later chapter.
+
+A project that has required a great number of balloon launch-
+
+ings for the testing and improvement of flight techniques is one

@@ -1,0 +1,68 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T17:52:21Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1719878, "source_ctime_ns": 1793391488295769233, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302559005/01045.jp2", "source_mtime_ns": 1785808365000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302559005/01045.jp2", "source_sha256": "30a3ad21ec26494bedbc65b1cfcbc22faf4d9e2fe7a5d0a92989eb2804a5e6ce"}
+
+===== PAGE 1 =====
+{"alpha_words": 234, "chars": 1576, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Page 2
+yi 8. 1F you saw the object of NIGHT, what did you notice concerning tha STARS and MOON?
+4 8.1 STARS (Circle One): 8.2 MOON (Circle One):
+b,_A few b. Dull moonlight
+c. Many» ¢. No moonlight — pitch dork
+
+. Don't remember d. Don't remember
+
+; 9. What were the weather conditions at the time you saw the object?
+q CLOUDS (Circle One): WEATHER (Circle One):
+AP OEE. ae
+(a. Clear sky) Ca. Ory)
+b. Hazy b. Fog, mist, of light rain
+c. Scattered clouds ©. Moderate or heavy rain
+
+d. Thick o heavy clouds d. Snow
+
+e. Don’t remember
+
+tens ome
+
+10. The object appeared: (Circle One):
+
+a. Solid Cd. Asa light)
+b, Transparent e. Don't remember
+c. Vapur
+
+a 11. 1f it appeared os a light, was it brighter than the brightest stars? (Circle One):
+a a, Brighter Cé. About the same
+. b. Dimmer d. Don't know
+
+11.1 Compare brightness to some common object:
+
+~— * ; f« ; ; i . : j ¢ * fos Z
+CoO ee Cee )8§ Li aking fed € Greew Alferwahvde Lig
+
+nt
+
+12. The edges of the object were:
+
+a (Circle Gam) a. Fuzzy or blurred e. Other Php
+a tz Like a bright stor?
+
+c. Sharply outlined
+d. Don’t remember
+
+oe em ee . ——
+
+13. Did the object:
+
+<2 eoredis £1.23
+
+(Circle One for each question)
+
+ee TT eet
+
+a. Appear to stand still at any time? cYes> No Don’t know
+b. Suddenly speed up and rush away at ony time? Yos No’ Don’? know ;
+c. Break up into parts or explode? Yes (Noe’ Don’t know F
+d. Give off smoke? Yes (Noe Don’t know i
+e. Change brightness? (Yes) No Don't know q
+f. Change shape? Yes CNX Don’t know
+g- Flash or flicker? (Yes) No Don’t know
+h. Disappear ond reappear? (Vesey No Don't know

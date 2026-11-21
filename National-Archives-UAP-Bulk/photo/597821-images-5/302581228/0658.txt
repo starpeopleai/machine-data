@@ -1,0 +1,16 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T17:38:43Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 655664, "source_ctime_ns": 1793393845300756370, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302581228/0658.jp2", "source_mtime_ns": 1785808205000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302581228/0658.jp2", "source_sha256": "df5674a5039ebb839dd6f82a68284ec941bfaa18fc1c5e1f67839aff9948202a"}
+
+===== PAGE 1 =====
+{"alpha_words": 12, "chars": 62, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+aN
+
+2
+often
+tant
+
+TIF NE at
+PUR by Oa ‘
+
+\ Rives vi,
+
+bathe}

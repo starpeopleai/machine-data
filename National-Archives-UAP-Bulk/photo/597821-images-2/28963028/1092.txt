@@ -1,0 +1,17 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T18:13:32Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6570012, "source_ctime_ns": 1793377242700863135, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28963028/1092.jpg", "source_mtime_ns": 1785696784000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28963028/1092.jpg", "source_sha256": "1b145ab73c5cf4927f3a965677b59283ead6521dbcae35891a6449bd734f5672"}
+
+===== PAGE 1 =====
+{"alpha_words": 16, "chars": 122, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+D> MANE MARY
+
+KA. 6O\a—-\
+
+=
+
+RETURN TO:
+
+Ni--n'cr
+A-::9: co Stvdies Inst
+
+Aitih. * chiv:s Branch .
+Maawell AFB, Alabama

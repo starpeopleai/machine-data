@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T17:56:59Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3539392, "source_ctime_ns": 1793358297679285881, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-002-001-0087.tif", "source_mtime_ns": 1785681048000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-002-001-0087.tif", "source_sha256": "3ef667803590bc08a100764a97c8f262eb535ab7b73d409ba03236a363e6880e"}
+
+===== PAGE 1 =====
+{"alpha_words": 176, "chars": 1050, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Declassification Authority NND 923007
+
+34. What were the weather conditions at the time you saw the object?
+3.1 CLOUDS (Circle One) 34.2 WIND (Circle One)
+(aan Clear sly : ,
+b. laay: : be Slight breeze
+ea Scattered clouds = c.-Strong wind...”
+d. Thick or heavy clouds d,. Don't remember
+e. Don't remember _
+34.3 WEATHER (Circle One) 3.4. TEMPERATURE (Circle One)
+(Co Dry ae gCold
+». Fog, mist, or light r b. Caol”
+c. “oderate-or heavy rain SS c- ern ey
+d, Snow 5 ole Rot
+35. When did you report to some” offiéial that yoti had seen the object?
+AA Ching md
+Day Cionth . , Year
+36. Was anyone else with you at the time you saw.the cb ject?
+(Circle One) No = .
+36-1 IF you aswered YES, did they see the object too?
+Circle One) (tes _ No
+oe Please list their names and addresses
+37. Was this the first time that you had seen an object or objects like this?
+(Circle One) Cxes No
+37.1 IF you answered NO, then when WHBES and under what AGERE es
+did you see other ones
+38. In your opinion what do you think the object was end wi hat might have
+
+caused it?

@@ -1,0 +1,48 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T18:09:17Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5707919, "source_ctime_ns": 1793378164724682730, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28967017/0136.jpg", "source_mtime_ns": 1785696570000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28967017/0136.jpg", "source_sha256": "8501fb6a504f1604e9fe5bf59856ba17430da5329682a157990b21768cbf87f9"}
+
+===== PAGE 1 =====
+{"alpha_words": 145, "chars": 959, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+fe gt a oe
+( i ee ae Nala Se “ nes
+Tee , Pd
+
+ates a
+
+t
+Ns
+"(U) Request for UFO Report Analysis
+
+FROM: AFOIN-4E1 COMMENT NR 2
+
+DATE: 25 Sep 56ft
+AFOIN-bEfa/Mf. Bryant/mkh
+72131/Bldg 263/Post D-12
+
+TO: AFOIN-4E4
+ATIN: Capt Gregory
+
+1. Although this report is more thoroughly documented than most, it is impossible
+to make a positive identification of the source of the radar signals. The fact that
+the radar return was as large as a formation of 2 aircraft, (or 1 large aircraft) at
+12 miles, yet was not observed visually at 4000 yards in daylight under good conditions,
+tends to indicate either equipment malfunction or some other source rather than a mater-
+
+ial target.
+
+2. The fact that the radar operator's scope and the pilot's scope displayed’ two
+different sets of conditions, according to their accounts, would also indicate possible
+
+malfunction of the AI radar.
+he GORDON C HOFFMAN, Col, USAF
+
+Chief, AFOIN-4E1
+
+“i
+
+1 Incl
+n/c
+
+: ™ Rae Wee ts
+
+t
+'

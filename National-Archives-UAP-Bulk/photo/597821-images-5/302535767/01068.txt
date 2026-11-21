@@ -1,0 +1,9 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T17:50:15Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1702990, "source_ctime_ns": 1793389043764857837, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302535767/01068.jp2", "source_mtime_ns": 1785808704000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302535767/01068.jp2", "source_sha256": "ed72449390be4ee646374d119a01aec560f61e45d50feffd8f5e6875a406e20b"}
+
+===== PAGE 1 =====
+{"alpha_words": 9, "chars": 66, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+LOUISIANA, peels dap 64
+2 slides , photos, 4
+
+ne
+pATWES OF STARS

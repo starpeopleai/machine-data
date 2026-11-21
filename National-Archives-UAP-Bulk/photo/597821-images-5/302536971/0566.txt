@@ -1,0 +1,57 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T17:42:09Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 963561, "source_ctime_ns": 1793389139605895045, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302536971/0566.jp2", "source_mtime_ns": 1785808669000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302536971/0566.jp2", "source_sha256": "d89416300ee1585d02d7c7fafb1b7288fa2a626784c6c98166cf8f4daa4381ee"}
+
+===== PAGE 1 =====
+{"alpha_words": 152, "chars": 1038, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Gaens Falls, N. Y. 12801
+
+January 10, 1965
+
+UFO Investigation Office
+Wright-Patterson Air Force Base
+Dayton, Ohio
+
+Dear Sirs:
+
+On December 30, 1964, a small article in the local
+Paper reported the Sighting of a UFO over our city. I
+contacted the observers and have the following report,
+the original of which is on tape in my possession.
+
+The form of the interview for both observers is the
+U. S. Air Force Technical Information Sheet as described
+in Appendix 111 in Ma jor' Donald Keynoe's book Flying
+Saucers from Outer Space.
+
+1. 29 December 1964
+ee. 2%30. Dims
+3- Eastern Standard
+
+4. Glens Falls, N. Y,.
+5e one minute to a minute and a half
+i+ 1. Certain
+6. Bright daylight
+7e TO your left
+S. Does not apply
+5S. Yes
+10. No more than a block away
+ll. a. Don't know
+be No
+ce No
+d. No
+e. No
+f. No
+g. No
+12. No ‘
+13. No
+14. Solid
+15. a. Both with and without eyeglasses
+b. No
+Cc. No
+d. Both through window glass and in the open
+e. No
+ft. No
+&- No
+16. a."No sound, absolutely soundless"
+
+‘ "ee bet oe i iow a eh |)
+bd. "Sliver, metallia

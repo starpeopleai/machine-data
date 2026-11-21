@@ -1,0 +1,45 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T18:02:31Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4688029, "source_ctime_ns": 1793388007847401074, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28999655/0050.jpg", "source_mtime_ns": 1785748329000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28999655/0050.jpg", "source_sha256": "5e965e3fe96c3e98792bf9acdfbb588cfe0d33c436b49e7b52a5f97f05ab1260"}
+
+===== PAGE 1 =====
+{"alpha_words": 158, "chars": 1136, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD ae
+
+1. DATE 2. LOCATION 12. CONCLUSIONS
+QO Was Balloon
+29 October 1962 oorehead, Mé@nnesota a Probably Balloon
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION i see Aber rataady
+Local {X Ground. Vi sual G Ground-Radar 4 BRebaup Alsezaet
+GMT 29/2200Z D Air Visual DO Air-intercept Radar 0 Possibly Aircraft
+5. PHOTOS 6. SOURCE OD Was Astronomical
+0 Yes O Probably Astronomical
+i; Civilian O Possibly Astronomical
+7. LENGTH OF OBSERVATION 8. NUMBER OF OBJECTS | 9. COURSE O Other
+WX Insufficient Data for Evaluation
+QO
+1-2 minutes one ENE
+
+10. BRIEF SUMMARY OF SIGHTING
+
+Witness coujd not describe obj, only
+that it was comparable to a small
+a/c in size, had blue white flames
+and a lot of smoke. Obj was believed
+to hit ground in the ENE flight had
+slow descent,
+
+11. COMMENTS.
+
+Total duration assumed to includg«
+
+the obsvation of the smoke. Beligd
+
+to be meteor or decay by the
+investigating officers. No decays
+for this date associated with
+the time of sighting. Possibly
+a daylight meteor; however, the
+data is not sufficient for this
+evaluation. Case listed as
+insufficient data.
+
+ATIC FORM 329 (REV 26 SEP 52)

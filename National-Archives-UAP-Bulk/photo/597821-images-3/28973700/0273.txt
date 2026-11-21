@@ -1,0 +1,40 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T18:19:32Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8294908, "source_ctime_ns": 1793379866674226164, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28973700/0273.jpg", "source_mtime_ns": 1785700874000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28973700/0273.jpg", "source_sha256": "62dc49aabf2c70b13edd53284405d16de78a737b30362398d0ba6cd0100cde20"}
+
+===== PAGE 1 =====
+{"alpha_words": 81, "chars": 632, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+batVavtceats wa’ eS bs ae Vi r Vis
+
+(A) GROUND VISUAL
+(2) FIELD CLASS=S © | .
+CO) NAA
+Ch) TIE & DATZ OF SIGHTING
+CA) G6/2250 — saga ar: | |
+(5) D4-1 67! FAST MEADOY LONG ISLAND HY | |
+(6) IDENVIFYING INFO OF ALL OBSERVrRS
+(7) WEATHER |
+(A) CLEAR
+(3) SURFACE 345 DEG 7 KT GUSTS 12
+6,000" 330 DEG 20KT '
+10,000" 350 DEG SOXT
+
+lé,oon 777) 3 (
+4,200, 340 . DIG 4&OXT
+
+20,000° 340 DEG SOKT ) ba
+6,000" 386.-DiG 7527
+
+cn ANA
+
+CS) NZA
+
+A
+
+Co? Pavaniae LOCAL FLiGe! iO iVESTiIGATE*
+
+ae at VM cede Sb tsi Bs
+C109) LOCAL TaADFICelOTi COMMERCIAL AND NILITARY
+———ee Net ere pe
+
+C242 O/72i6 Gder Pe LYNCH SENIO CONTROLLER
+
+C7T/22532 NOV RJEPHY

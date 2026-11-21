@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T17:47:14Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1380371, "source_ctime_ns": 1793356063106441021, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989301-001-0019.jpg", "source_mtime_ns": 1785564597000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989301-001-0019.jpg", "source_sha256": "ffa7698815b5d4782d13ab676b0e710e89dce6f5d633ef1671c716042f58e06b"}
+
+===== PAGE 1 =====
+{"alpha_words": 153, "chars": 983, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+It is believed that with present equipment the Alamogordo,
+New Mexico, area is the most suitable available for launching
+purposes, since calm winds are consistently present at dawn, and
+there are a minimum of clouds to impair ground observation of the
+balloons in flight.
+
+Future Work
+
+It is hoped that in the immediate future satisfactory
+techniques for the launching and floating of cluster flights may be
+developed under optimum conditions, and tests made on small plastic
+balloons to be furnished by H.A. Smith, Coatings, Inc., of Mamaroneck,
+New York.
+
+Arrangements have been completed with the Vulcan Proofing
+Co. of Brooklyn, N.Y. to test various balloon fabrics and films
+available. These tests will probably be conducted in the near future.
+
+As soon as arrangements can be completed to obtain Navy
+clearance we plan to obtain non-extensible balloons from General Mills
+in sufficient quantity to make flight tests and commence work on the
+ultimate objective of this project.

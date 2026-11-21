@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T18:21:05Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8576902, "source_ctime_ns": 1793364914065017535, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787905/45484701-007-006-0101.jpg", "source_mtime_ns": 1785684683000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787905/45484701-007-006-0101.jpg", "source_sha256": "024bdd13a92b1e48829f8cc72befcec176a7cdd25926c0d193c4b94ab7df4b38"}
+
+===== PAGE 1 =====
+{"alpha_words": 102, "chars": 704, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+2ist District OSI (IG) File Nor 24-145
+fubi: Unidentified Flying Object 20 November 1957
+
+5S, Gpeelal Agent Little, CIC, elaseified the information as
+being received from an usuatly reliable source in reference to
+Mr. CHARLES BOOTH.
+
+6 Inagauch ag all logical leads have been accomplished, thia
+ease ig considered closed in the files of this District Offiee.
+
+% Thie letter is classified CONFIDENTIAL pursuant to authority
+contained in paragraph 30¢(2)(a), AFR 205~1.
+
+a VUNA ek eal pA,
+aa ay \ & MURREL Ley il
+% Major USAF
+41 tion of cited object !
+ak T y ie
+Dir : Ria a RHE ABSENCE OF
+
+ee: Det ret LA Colonel,. USAF
+Cos  Dett 2103 District Commalder
+
+af
+
+Ee Rip
+
+Declassification Authority: NND 923007

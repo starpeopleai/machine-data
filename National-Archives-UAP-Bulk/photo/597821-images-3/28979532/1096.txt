@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T18:20:53Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8561605, "source_ctime_ns": 1793381183190873108, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28979532/1096.jpg", "source_mtime_ns": 1785700858000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28979532/1096.jpg", "source_sha256": "9d8b6c77984abe2b19b04b952f7776985a57c8d831d4c3401a000093b7a72e3d"}
+
+===== PAGE 1 =====
+{"alpha_words": 23, "chars": 180, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+WYiix
+
+SO221'5 Oye HMESHS
+
+oe ox
+‘
+
+=
+
+&-.
+
+CZCSQE8S5 ZCJYC67S
+vane RJEDSO——
+1 RJEZHO sot
+22190512
+WM HEDUSAF
+INFO COMATIC
+
+—Beeitez* °°
+
+te \
+
+ee ee ree eee |
+
+TELEPHONED
+
+4
+“ 5

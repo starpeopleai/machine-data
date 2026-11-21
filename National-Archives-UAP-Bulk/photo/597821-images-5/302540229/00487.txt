@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T17:45:29Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1060980, "source_ctime_ns": 1793389400628700127, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302540229/00487.jp2", "source_mtime_ns": 1785808311000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302540229/00487.jp2", "source_sha256": "ea6e1bd724bdf68a6fce1a14950368add3d9f97742a75495e5b7de840161a70d"}
+
+===== PAGE 1 =====
+{"alpha_words": 196, "chars": 1260, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+‘HEERENVEEN NTH UI MT I RNB RA
+
+* ‘S
+1. CATE - TIME GROUP 2. LOCATION
+13 July 65° 14/05402 Smyrdna, Tennessee )—-
+3. SOURCE 10. CONCLUSION
+Military SATELLITE Pen : re
+pes nh e :
+
+4. NUMBER OF OBJECTS
+
+One ‘
+5. LENGTH OF OBSERVATION 11. BRIEF SUMMARY AND ANALYSIS
+
+Licht that looked exactly like a bright star in flight to Sq?
+6 - 7 Minutes from position overhead. Disappeared at about 3% deg elevatibr
+6. TYPE OF OBSERVATION | after straight flight. No deviation in flight. ‘Witness
+thoumt cbject was Satellite. Object passed a star am tus
+Groum—-Visia sare ragnitude. This was the brizhtest star in the sky.
+7. COURSE
+CODSNTS: Altair is the bright star almost overhead from the
+South observer at the reported time of observation. This star is
+8. PHOTOS slightly to the East of South ard the possintit cists thet
+coe the flight of the object was SSE rather tha, VGA is alap
+one overhead but slig tly to the North - oaCHO Ales over Tenesseq
+9. PHYSICAL EVIDENCE at the reported tim of observation, harever it wes low near thp
+horizon and moving to the iH, =E@iO I was over Tennessee at 72499C5T
+OD Yes one hour befor the reported time. Object is regarded as a
+Xi Ne possible Satellite.
+
+FORM
+FTD sep 63 0-329 (TDE)  rreviccs editions of thie form may be weed.

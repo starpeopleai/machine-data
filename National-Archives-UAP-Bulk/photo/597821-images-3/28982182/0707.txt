@@ -1,0 +1,20 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T18:05:30Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5247248, "source_ctime_ns": 1793381970604377797, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28982182/0707.jpg", "source_mtime_ns": 1785700905000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28982182/0707.jpg", "source_sha256": "fbc65dea0316c0c1961562ff6cb57921c9382c7085e040fee0d4ff7e3aa7c815"}
+
+===== PAGE 1 =====
+{"alpha_words": 113, "chars": 632, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+a] Tr. ¥ = ” ” j
+STATEMENT oF RS Qa
+
+Coeburn, Vae
+
+Was with Mr. rd and fanily on Caney Ridge when she saw an object
+above the trees. It appeared to be red-yellow and an approximate
+size of six inches. The object did not move, but anveared to flicker
+off and on. The date is not certain but approximately 5 April,
+Sunday. The object was seen for approximately fifteen minutes. There
+was no wind and it was cold. There were no clouds in sight. The
+object was round, approximately the size of a basketball. it was i
+
+about 1-2 miles away. On way back Mrs gage 3aw an object below
+
+the road but this object was not seen by the others.

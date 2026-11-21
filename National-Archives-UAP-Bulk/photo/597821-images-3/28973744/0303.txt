@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T18:19:45Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8411008, "source_ctime_ns": 1793379875820025575, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28973744/0303.jpg", "source_mtime_ns": 1785700726000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28973744/0303.jpg", "source_sha256": "00ee605bea60e2a200abf7cf5a22afd9c59e9660ae2838c07825a75cb9fb7652"}
+
+===== PAGE 1 =====
+{"alpha_words": 143, "chars": 964, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD |
+1. OATE 2 LOCATION 12. CONCLUSIONS
+G Wes Balloon
+ORTH ROL Sea Me ee a Boerne, Texas GC Probebly Balicon
+3. DATE-TIME GROUP 4 TYPE OF OBSERVATION een ee |
+. GO Wes Aireroft
+Local —______ {ZGround- Vi sual O Ground-Redar GQ Probably Aireroft
+GMT_____z: 2 vb D Air Vi suel C Air-intereept Redar | 2 Possibly Aircroft
+0 Yes ee G Probebly Astronomical
+Neo Ron heptane Givilias O Pessibly Astronomical
+7. LENGTH OF OBSERVATION 8. NUMBER OF OBJECTS | 9. COURSE pO: Other ii
+| O Insufficient Data for Evaluction
+Bra. One Siac aOiead:y '
+10. BRIEF SUMMARY OF sbenieleuneade 11. COMMENTS
+see Ot LO0C2uLt ehape, Britiiant orange
+Stoves. NO: tai ss Crab OF: BSANaAaUSt, NO
+Sound, Object appeared to be lighted,
+yi iP LL SRt wae rer.ectéed from <¢round
+Lat SA cb CO TR OL searchlight
+trained.o ie@tal suriace, Object was
+HOVE? approx i2 It above ground,
+ten a Lip € a TS -4 34
+Try ecco si ph Ry Sicde Sogee raise bee)
+ATIC FORM 329 (REV 26 SEP $2)

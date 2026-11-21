@@ -1,0 +1,21 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T17:49:11Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1675998, "source_ctime_ns": 1793372638832080796, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28943516/0154.jpg", "source_mtime_ns": 1785689043000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28943516/0154.jpg", "source_sha256": "848e446451bfc54d7a5589a0f34b34a9e840715a01110b91b302db8aa1a5aa52"}
+
+===== PAGE 1 =====
+{"alpha_words": 53, "chars": 377, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+3
+ream TP I f ICLASSITIE 2? 100
+TO ATIAA-6 RUPPELT FROM AFOIN-2C5 FOURNST Te
+
+AEF YOUR INQUIRY RF CONNFR AIRLINFS,
+
+CAB INFORMS IT IS NON-SCHFD WHICH OPFRATES
+
+) OR 3 C-46 AND POSSIBLY A DC-3.
+
+DEFINITE INFO NOT RFADILY AVAILABLE BUT
+
+CAN DETPRMINE IT IF YOU CONSIDER IT
+SUFFICIENTLY IMPORTANT. ADDRESS 15 qi
+\IRLINES, MOMMRtanit sprincs, ria.
+
+TMD CSAF ITEM 4 /UNCLASSIFIED/

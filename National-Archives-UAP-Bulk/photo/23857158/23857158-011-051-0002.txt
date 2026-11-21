@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T18:28:20Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 13655364, "source_ctime_ns": 1793359944446748063, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-011-051-0002.tif", "source_mtime_ns": 1785681576000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-011-051-0002.tif", "source_sha256": "ccc91d0bbd4b1a70390b9ab7576aada2cbff55e544e8493b2ea40c409a5affbe"}
+
+===== PAGE 1 =====
+{"alpha_words": 122, "chars": 756, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Declassification Authority NND 923007
+
+PAGE Two - eS Goa'k
+
+(3) 278/28 cumz6a/115c1m240/19 CMM 250/85CMN 258/22 CMM 268/25 PD
+oO) UNLIMITED. PD «D) FIFTEEN PD: CE) ZERO PD CF) NONE PD
+pa) NONE Sy 9) NONE: PD €13) NONE PD CL) aw NONE BY GOC OR ‘RADAR
+
+PD ¢12)» Ay RICHARD. Ht ERICSON t/LT OPNS. OFFICER No PROBABLE.
+UBAUSE: AT. ET HIS) TIMEPD: CIS Stata OBSERVER. ony MR SUTTON REPORTED.
+
+THIS TO ‘HEADQUARTERS MICH CIVIL DEFENSE. PD MR JOHN GRIFFIN
+DBD HE WAS. POSITIVE IT WAS NOT THE AURORA BOREALES PHENOMENON: HE
+SIGHTED PD” HIS SIGHTINGS HAVE BEEN CONF IRNED BY Art LEAST FOURP
+
+“sous IN THE BENZIE ‘COUNTY AREA PD.
+
+PROCEDE IN ACCORDANCE vit INSTRUCTIONS ‘RECEIVED BY TELEPHONE PD
+
+END
+BT
+
+39/1756 OCT RJEDEN
+
+GR MATE I GOT IF FIVE BY
+
+RGR ANT THNKS

@@ -1,0 +1,61 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T18:05:39Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5292716, "source_ctime_ns": 1793381975551693316, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28982182/0720.jpg", "source_mtime_ns": 1785700905000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28982182/0720.jpg", "source_sha256": "53e77a871f1cdd6eb4e1fc3f0aae13c3580a24ead0fa88fedd0d0ef748d9a3c5"}
+
+===== PAGE 1 =====
+{"alpha_words": 265, "chars": 1751, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+‘ ; Page ?
+
+3, 1F you saw the ovject at NIGHT, TWILIGHT, or DAWN, whot did you notice concerning the STARS and MOON?
+
+"g.1 STARS (Circle One): 8.2 MOON (Circle One): |
+a. ‘Nene a, Bright moonlight |
+— so b. Dull moonlight
+¢. Many 2 _ £3 No moonlight — pitch dark =<
+d. Don't remember
+
+d, Don't remember
+
+. 9, Wes the object brighter than the background of the sky?
+a:
+{Cirele One): ar Yes ~~ b. No c. Don't remember
+
+10, IF it wes BRIGHTER THAN the sky background, was the brightness lika that of an automobile headlight?:
+
+(Circle One) a. A mile or more away (a distant car)?
+b. Several blocks away?
+
+ar
+
+d. Several yards away?
+
+e, Other
+11, Did the object: (Circle One for each question)
+a. Appear to stand still at ony time? Yes * No © ~ ~ Don’t Know
+b. Suddenly speed up and rush away at ony time? Yes _ No * Don’t Know
+¢. Break up inte ports or explode? Yes © No » Don’t Know
+d. Give off smoke? Yos No» ° Don’t Know
+a. Change brightness? Yes ( No» Don’t Know
+*, Change shape? Yes ‘ Not Don’t Know
+g, Flicker, throb, or pulsate? Yes No Don’t Know
+
+12, Did the object move behind something at anytime, particularly a cloud?
+{ Cirele One): Yes> ‘ « Neo Don’t Know. IF you answered YES, then tell what
+
+qj ‘I Te S,s/
+
+it moved behind: = ve = —
+
+ee Bat
+
+/
+~"
+
+13, Did the ebiect move in front of something at anytime, particularly a cloud?
+
+‘Cirele One): Yes . Ne Don't Know. IF you answered YES, than tell whet
+it moved in front of;
+., Did the object cppecr: (Circle One): <o. Solid? * _ b. Transporent? ce. Don’t Know.
+5. Did you eoserve the object through any of the following? ; x
+o, Eyeglasses Yas No | 8. Binceviers Yes ~ Ne
+>, Sun glasses Yas No - *, Telescope Yes No
+Vindshiald Yas No g. Theedolite Yes No
+d, Windew glass ~Yes'>\ Ne h, Other

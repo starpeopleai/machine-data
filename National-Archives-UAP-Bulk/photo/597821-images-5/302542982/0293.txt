@@ -1,0 +1,58 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T17:44:01Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1015701, "source_ctime_ns": 1793389696580178505, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302542982/0293.jp2", "source_mtime_ns": 1785808712000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302542982/0293.jp2", "source_sha256": "909936f49df855f721f3057d287d60989ec222c83bb536269542263102d63bae"}
+
+===== PAGE 1 =====
+{"alpha_words": 126, "chars": 817, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+9 December 1965
+
+Mrs Hunt/sh/SAFOICC/72842/9 Dec 65
+
+Dear Mr .<—piailllll,
+his is in reply to your report of tvo aerial objects
+which you were unable to identify on 23 Avgust 1965-
+
+Tt is possible that you observed two of the satellites,
+satellite consent or space debris which are visible to
+the naked eye. Since the objects vere on the same course,
+it is also possible that two high flying aircraft vere ob-
+
+served.
+hank you for reporting to the Air Force.
+Sincerely,
+
+Lei Colones? , USAF
+
+pee Civil Branch
+
+Omanm i ti face
+
+Gu ee Relations Divisio;
+ce of ‘nformation
+
+Los Angeles, Californis, 90034
+
+neers
+
+COORDINATED By (Office Symbol, Name, Grade, Date)
+
+a ae ay a ,
+SAF-OL &< | SaF-0r €/
+|
+
+|
+
+-
+
+aaa as |
+
+|
+
+aa
+
+:
+
+“€vord-cy - SAFOI-2
+Comebk cy - SAFOI-2
+Reader cy - SAFOI-1
+Activity cy - SAFOI-2
+
+bere ir

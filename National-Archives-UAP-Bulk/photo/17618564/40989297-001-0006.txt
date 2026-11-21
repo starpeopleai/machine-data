@@ -1,0 +1,53 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T17:54:24Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 2432408, "source_ctime_ns": 1793355994173159090, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989297-001-0006.jpg", "source_mtime_ns": 1785564577000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989297-001-0006.jpg", "source_sha256": "7089004aafc3408d847e62b7d9a98b1ea3614be45ba4ff5107ea3c8c790012c3"}
+
+===== PAGE 1 =====
+{"alpha_words": 564, "chars": 3645, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Once back at Roswell AAF, it is generally alleged that special measures were taken to
+notify higher headquarters and arrangements made to have recovered materials shipped
+to other locations for analysis. These locations include Fort Worth, Texas, the home of
+the Eighth Air Force Headquarters; possibly Sandia Base (now Kirtland AFB), New
+Mexico; possibly Andrews AAF, Maryland; and always to Wright Field, now known as
+Wright-Patterson AFB, Ohio. The latter location was the home of “T-2” which later
+became known as the Air Technical Intelligence Center (ATIC) and the Air Materiel
+Command (AMC), and would, in fact, be a logical location to study unknown materials
+from whatever origin. Most of the Roswell stories that contain the recovery of alien
+bodies also show them being shipped to Wright Field. Once the material and bodies
+were dispersed for further analysis and/or exploitation, the government in general, and
+the Army Air Forces in particular, engaged in covering up all information relating to the
+alleged crash and recovery, including the use of security oaths to military persons and
+the use of coercion (including alleged death threats) to others. This, as theorized by some
+UFO researchers, has allowed the government to keep the fact that there is intelligent
+extraterrestrial life from the American public for 47 years. It also supposedly allowed the
+US Government to exploit recovered extraterrestrial materials by reverse engineering
+them, ultimately providing such things as fiber optic and stealth technology. The “death
+threats,” oaths, and other forms of coercion alleged to have been meted out by the AAF
+personnel to keep people from talking have apparently not been very effective, as several
+hundred people are claimed to have come forward (without harm) with some knowl-
+edge of the “Roswell Incident” during interviews with nongovernment researchers and
+the media.
+
+Adding some measure of credibility to the claims that have arisen since 1978 is the
+apparent depth of research of some of the authors and the extent of their efforts. Their
+claims are lessened somewhat, however, by the fact that almost all their information
+came from verbal reports many years after the alleged incident occurred. Many of the
+persons interviewed were, in fact, stationed at, or lived near Roswell during the time in
+question, and a number of them claim military service. Most, however, related their
+stories in their older years, well after the fact. In other cases, the information provided
+is second or thirdhand, having been passed through a friend or relative after the
+principal had died. What is uniquely lacking in the entire exploration and exploitation
+of the “Roswell Incident” is official positive documentary or physical evidence of any
+kind that supports the claims of those who allege that something unusual happened.
+Conversely, there has never been any previous documentary evidence produced by those
+who would debunk the incident to show that something did not happen; although logic
+dictates that bureaucracies do not spend time documenting nonevents.
+
+SEARCH STRATEGY AND METHODOLOGY
+
+To insure senior Air Force leadership that there were no hidden or overlooked files that
+might relate to the “Roswell Incident,” and to provide the GAO with the best and most
+complete information available, SAF/AAZ constructed a strategy based on direct tasking
+from the Office of the Secretary, to elicit information from those functional offices and
+organizations where such information might logically be contained. This included
+directing searches at current offices where special or unusual projects might be carried
+
+6

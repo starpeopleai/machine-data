@@ -1,0 +1,52 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T18:02:37Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4732974, "source_ctime_ns": 1793359129412950464, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-006-009-0004.tif", "source_mtime_ns": 1785681324000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-006-009-0004.tif", "source_sha256": "c44ae5279d0b7c128cacbbb142193c32dcf3b6d2b2404c01a29d95d858f7e227"}
+
+===== PAGE 1 =====
+{"alpha_words": 151, "chars": 1060, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Declassification Authority NND 923007
+
+ter
+ie POMS AT vere Sue
+Mag 2 5 Fai
+MBO44 XYAO7?7? XMBG43RHAD22 : Ae. POOLT ~~
+: “EMERGENCY JGHEN JEPHQ BUPi ,
+iM_FLT $vG CENTER MARCH AFB CALIF , |
+
+= JWPRH FE MERC ENCY law bh feo. C ws. |
+TO JEDEN/COMDR ADC ENT AFB- COLO /b o4 —
+
+Y G3GO244Z
+PIVCOMDR COMWES TSEAFRON ; ?
+
+JEPHQ/C/S USAF WASH 25 DC
+
+-AF GRNC .
+
+4 9 CIRVIS REPORT
+
+2, AMERICAN AIRLINES FLIGHT NBR 657
+%, LONG OBJECT NO CONTRAILS --.-. ..,
+' OBJECT SIGHTED-FROM AMERICAN AIRLINE ACFT FLIGH
+EAST MCCARRAN ARPT, LAS VEGAS, NEVADA 1881°, 3
+FROM ACFT TO UNIDENTIFIED OBJECT+45 TO, 58. MILES
+5, DIRECTION OF TRAVEL AND SPEED NOT GIVEN
+
+60 CHANGED POSITION WITHOUT APPARENT CHANGE OF FLIGH
+7¢. REPORTED TO NELLIS AFB TOWER FOR RELAY TO MARCHA #:
+CENTER REPORTED BY AIRDROME OFFICER CAPT LESTER A
+
+T 636 -6MILES
+“RING 21@ DEGRESS
+
+ALTITUDE.
+HT SERVICE
+NELLIS AFB
+
+PAGE TWO JWPRH 1F
+
+NEVADA-X CAPT LESTER ADVISED HE TALKED TU ©
+WAS JUST PRIOR TO SUNSET AT THAT ALTITUDE REPOR
+WARREN Re GREENLEE, MARCH FLIGHT SERVICE CENTER Sao”
+
+93/9255Z MAR JWPRH
+
+Ales (PT 7h

@@ -1,0 +1,41 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T17:42:51Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 989828, "source_ctime_ns": 1793392813258287556, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302571326/1145.jp2", "source_mtime_ns": 1785808113000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302571326/1145.jp2", "source_sha256": "08e5da9ca35fb083d49dc12ed0bc1caa4bf936e80fbb3c2a7445c44e60a38f9c"}
+
+===== PAGE 1 =====
+{"alpha_words": 84, "chars": 593, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+REPLY TO
+ATTN OF:
+
+SUBJECT:
+
+DEPARTMENT OF THE AIR FORCE
+5 (AFSC)
+
+HEADQUARTERS FOREIGN TECHNOLOGY DIVISION
+BASE, OHIO 45433
+
+WRIGHT-PATTERSON AIR FORCE
+
+TDPT/UFO
+
+Observation .
+@.
+
+t unidentified flying object sighting which
+The information which we have
+Reguest
+
+ference your recen
+reported to the Air Force.
+ient for a scientific investigation.
+
+2ceived is not suffici
+‘Su complete the attached AF Form 117 and return it in the self-
+idressed envelope. ‘Thank you for reporting your observation to
+
+the Air Force.
+
+“28S C. MANATT, Colonel, USAF 1 Atch
+AF Form 117
+
+O ser of Production
+yi,

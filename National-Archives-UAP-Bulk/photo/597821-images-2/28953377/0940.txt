@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T17:58:20Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3861668, "source_ctime_ns": 1793374814953821899, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28953377/0940.jpg", "source_mtime_ns": 1785696928000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28953377/0940.jpg", "source_sha256": "4ca7a5ec1f15fb8f362dfa4d5a212075860f5bb4c8a0a93e96113a882234192d"}
+
+===== PAGE 1 =====
+{"alpha_words": 59, "chars": 424, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+- DATE - TIME GROUP
+
+2. LOCATION
+
+3. SOURCE 10, CONCLUSION
+Soldier Possibly Astro (!ETEOR)
+4. NUMBER OF OBJECTS
+ileteer
+5. LENGTH OF OBSERVATION /|11. BRIER SUMMARY AND ANALYSIS
+2~3 Seconds und reddish sreen, blue obj il travel
+6. TYPE OF OBSERVATION ta hig rate of speed, Objec iree S
+7, COURSE
+8. PHOTOS
+O Yee
+“J No
+9. PHYSICAL EVIDENCE
+O Yes
+
+@ Ne
+
+FORM
+FTD sep 63 0-329 (TDE) Prowieus ditions of this form may be used.

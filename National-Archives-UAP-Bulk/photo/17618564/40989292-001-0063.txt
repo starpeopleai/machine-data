@@ -1,0 +1,50 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T17:48:50Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1561199, "source_ctime_ns": 1793355935378067247, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989292-001-0063.jpg", "source_mtime_ns": 1785564562000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989292-001-0063.jpg", "source_sha256": "6f3c816811d99f0e947c527ec67e0a837538df1e13d07c20985dd775ec9ea10c"}
+
+===== PAGE 1 =====
+{"alpha_words": 224, "chars": 1801, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+NOTES
+
+1. Major Achievements in Biocynamics: Escape Physiology at the
+Air Force Missile Development Center, Holloman Air Force
+Base, New Mexico, 1953-1958. (Holloman AFB: ATMDC Historical
+Office, June 1958).
+
+20 RDB Project Card, Biodynamics of Human Factors in Aviation,
+23 April 1954; R & D Project Card (DD Form 613), Biodynamics
+of Space Flight, 19 March 1958.
+
+30 Center briefing, by Lt. Col. Rufus R. Hessberg, Jr., Chief,
+Aeromedical Field Laboratory, 8 September 1958; interview,
+Col. John Pe Stapp, Chief, Aero Medical Laboratory, WADC,
+by Dr. James S, Hanrahan, Center Historian, AFMDC, 9
+September 1958,
+
+he "Project 91 - MK-981 = Aero Med Sled Run Data-~-Holloman
+Track," Issue III, 1 May 1957.
+
+oO. praaarranin cee eS Hort on Pocepe from
+ircraft at High Speed an itude, No. 2, une
+19556
+
+6.  Ibid.3 Project MX-981, Weekly Test Status Report, 26 April,
+3 and 2h May, 21 dune 1955: R & D Project Card, Biodynamics
+of Human Factors For [sic] Aviation, 8 February 1957, pe 7e
+
+72 Ite Sidney T. Lewis and Col. John P, Stapp, A Crash-Restraint
+Demonstrator (HADC Technical Note 57-9, June 1957); "Abstracts
+of Scientific Papers...," Journal of Aviation Medicine Vol,
+27, pe 173 (April 1956); Aviation Week, 13 May 1957.
+
+8, RDB Project Card, Biodynamics of Human Factors in Aviation,
+23 April 195; ltr., Mr. Alan C. Morgan, Director, Customer
+Relations, Northrop Aircraft, Incorporated, Hawthorne,
+
+Calif., to Hqey HADC, subjo: “Aircraft Crash Force Program,"
+20 July 1954; R & D Project Card, Biodynamics of Space
+Flight, 19 March 1958, po l.
+
+96 Major Achievements in Biodynamics: Escape Physiolo 9 passim.
+
+10. “Project 91, Performance Data," 5 July 1957, chart in library
+of Aeromedical Field Laboratory; ltr., Lt. Cole John P.
+Stapp, Chief, Aeromedical Field Laboratory, to Maj. Rufus Re

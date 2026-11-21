@@ -1,0 +1,34 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T17:47:04Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1306582, "source_ctime_ns": 1793355926340125738, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989291-001-0011.jpg", "source_mtime_ns": 1785564560000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989291-001-0011.jpg", "source_sha256": "fec02e9fe0785fc1e8c904ef611c392e7de97f5aa1732f03800cd690860b5bd9"}
+
+===== PAGE 1 =====
+{"alpha_words": 229, "chars": 1442, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+the upper atmosphere above the New Mexicandesert. The labo-
+ratory at Wright Field was the parent organization of the labo-
+ratory now part of the Air Force Missile Development Center,
+and many of the Wright Field aeromedical officers and civilian
+scientists involved in the V-2 research flights have alsoplayed
+a role inthe origin and development of the Holloman unit. Sim-
+ilarly, the experiments themselves laid the groundwork for
+some of the space biology research accomplished later at Hol-
+loman Air Force Base.
+
+The objective of the AeroMedical Laboratory's animal ex-
+periments at White Sands was clearly stated by the same David
+G. Simons, then a captain at the Wright Field establishment,
+who was the project engineer until after the second V-2 launch-
+ing of the series:”
+
+Today there is no place on the earth's surface
+more than 40 hours travel from any other place so
+the question of the feasibility of travel beyond the
+reaches of the atmosphere inevitably arises. But
+what are the problems of space flight in a rocket?
+By theorizing, the various possible dangers and
+limiting factors can be appraised and appropriate
+means of protection against each surmised. How-
+ever, only by actually performing the experiment
+can one prove or disprove the validity of the hypo-
+thesis, learn better ways of protecting against known
+
+hazards and realize for the first time, the existence
+of unsuspected dangers. Only the recovery of a live

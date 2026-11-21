@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T18:10:53Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5810083, "source_ctime_ns": 1793361897392970242, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330781681/45484701-001-005-0085.jpg", "source_mtime_ns": 1785684791000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330781681/45484701-001-005-0085.jpg", "source_sha256": "8888968e97a8c48d97cd50917a86df82f846798d6b28d965e3de5ffdfe0e5da1"}
+
+===== PAGE 1 =====
+{"alpha_words": 208, "chars": 1401, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+oSkeRET
+
+Letter, Hq 17th District OSI (Ic) USAF, dated 12 May 199,
+file number 2-8, subject, “UNKNOWN (Aerial Phenomena )"
+
+Mr B. 0. Wells, Director of Security
+
+Mr Sidney Newberger, of the Security Office
+Mr John A. Carroll, AEC Security Service
+
+Mr Earle D. Hightower, of the Security Office
+Mr Henry &. Hoyt, University of California
+Mr Abner Schreiber, AEC Security Service
+
+This conference was held at the request of Dr Kaplan in order that he
+might ascertain the nature of the observations made by members of the
+Atomic Energy Commission and the AEC Security Service Inspectors at
+
+Los Alamos, and that he might personally determine the degree of con-
+cern felt by the Security and scientific personnel at the installation.
+Dr Kaplan personally interviewed a number of University of California
+personnel and AEC Security Service Inspectors, who had personally ob-
+served anomolous luminous aerial phenomena. No further recommendations
+were made at this conference. Dr Kaplan stated that he would immediately
+submit his report to Dr Von Karman, setting out his findings and make
+the recommendations set forth above.
+
+7. Iv Kaplan expressed a great concern, as these occurrences relate
+to the National Defense of the United States. He advised that he felt
+that this was of extreme importance and should be investigated scien-
+tifically.
+
+District Commander
+
+Declassification Authority: NND 923007

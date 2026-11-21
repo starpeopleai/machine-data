@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T18:12:54Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6567763, "source_ctime_ns": 1793376867995314437, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28962154/0369.jpg", "source_mtime_ns": 1785696743000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28962154/0369.jpg", "source_sha256": "120e80f3bb1ab35fb1ce5f052d6dede55b331d92e929ab190544cdc754b6c546"}
+
+===== PAGE 1 =====
+{"alpha_words": 94, "chars": 778, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+1. DATE
+
+2. LOCATION 12. CONCLUSIONS
+‘ 1 Was Balloon
+19 May 1955 Kentfield, California R Bccetne eaieon
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION eiduiliclt Aas diabetes
+: ; QO Was Aircraft
+Local : XG round- Vi sual Ul Grounashagar  Probobly Aircraft
+GMT 20/0350Z 0 Air- Visual © Air-Intercept Radar |[ Possibly Aircraft
+5. PHOTOS 6. SOURCE QO Was Astronomical M@toor
+O Yes QO Probably Astronomical
+ET HYo Civilian IX Possibly Astronomical
+7. LENGTH OF OBSERVATION 8. NUMBER OF OBJECTS | 9. COURSE 0 , Other
+D Insufficient Dota for Evaluation
+Q Unknown
+___.10 seconds one down. .
+
+10. BRIEF SUMMARY OF SIGHTING
+
+Round. Yellow. Moving very fast.
+Heading straight downward,
+
+11. COMMENTS
+
+Possible meteor,
+
+ATIC FORM 329 (REV 26 SEP 52)
+
+eR RETRY OPEL

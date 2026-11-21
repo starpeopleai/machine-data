@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T18:15:21Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6871411, "source_ctime_ns": 1793377008372657112, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28962456/0619.jpg", "source_mtime_ns": 1785696567000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28962456/0619.jpg", "source_sha256": "9ccae7dff28ca351eb9a06114f1076dd50e35b61e6e3e62ccd20591a80143a21"}
+
+===== PAGE 1 =====
+{"alpha_words": 92, "chars": 549, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+{ |
+(
+(
+
+> JHU
+
+RCL7t Judes Aa C4
+: | ATIC-1N
+WPBISS YDAL72 XYAQS4 XMBL45IBALSL9L8 Ae
+a LAL Oe
+MM RJEPHQ RJUPIB RJEDUP RSEDEN 2
+DE RJWPJB pa Li eae ee
+M 2223992 : fof pa Ad : |
+she ‘ f,: i Fa pis
+FM COC 678TH ACWROW SPEDRO CALIF gee
+TO RJEPHO/COMDR DIR OF INT HQ USAF WASHINGTON 25 DC ~~
+RJYPIB/COC 27TH AIR DIV (DEF)NORTONAFE CALIF -
+RJEDUP/CMDR AIR TECH INT CEN HIGHT PATTERSON AFB ONIO |
+2
+
+RJEDE/COMDR ENT AFB COLO
+BT
+/SNCLASSIFIED/ 67TAC C-15 PD IN ACCORD WITH AFR 204-2 PAR 7D CLIN
+
+\ ; ‘
+R] OF UNID FLY OBJ THE FOLG IS SUBM CLN
+
+a Sites Wee

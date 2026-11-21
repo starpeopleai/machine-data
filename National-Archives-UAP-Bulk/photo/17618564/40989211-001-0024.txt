@@ -1,0 +1,17 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T17:58:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3899336, "source_ctime_ns": 1793354481175111702, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989211-001-0024.jpg", "source_mtime_ns": 1785564292000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989211-001-0024.jpg", "source_sha256": "354debd562e1ef4955a7c578504b3aaebf6012a3f080eaf6b587478bd428a20e"}
+
+===== PAGE 1 =====
+{"alpha_words": 90, "chars": 608, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+August 6, 1991
+
+odically. Ultimately it would be discharged (after several rota-
+tions around the ocean) through the Greenland Sea. Coast Guard
+admirals, on hearing of the proposal, badgered the Executive
+constantly for support. However, Odishaw was adamant and
+would not raise it at either national or international levels.
+
+A second proposal called for trans-arctic flights from such
+locations as Fairbanks to Murmansk, and Thule to the New Sibe-
+rian Islands, respectively, to survey the pack ice status. Flights
+would be made alternately by Soviet and U.S. aircraft. This pro-
+posal also never surfaced.

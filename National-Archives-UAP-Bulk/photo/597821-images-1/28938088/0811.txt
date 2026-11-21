@@ -1,0 +1,50 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T17:55:51Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3412493, "source_ctime_ns": 1793371397488667956, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28938088/0811.jpg", "source_mtime_ns": 1785688528000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28938088/0811.jpg", "source_sha256": "44173eab0abffbb564220978f9e726ffb09a6a179cd5f58f26725220f807b002"}
+
+===== PAGE 1 =====
+{"alpha_words": 139, "chars": 863, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+VMBOL AND
+
+.tG On DEP CO | «CO«‘ Rev, 2 er 48) Bourne) > eve ale an
+
+INTELLIGENCE
+
+HO. IM YF
+
+(T-2)
+
+(T-3)
+
+MCTAXA/JIR/peg
+
+a Se
+
+Dear Sire
+
+Reference is made to your letter of , August 1950 —
+concerning an object which you could not identify.
+
+From the information presented in your letter, it is
+apparent that the object in question is a pilot balloon
+target which is carried aloft by a free rising balloon so
+that it can be tracked by electronic means for the purpose
+of determining wind speed and direction. This particular
+balloon target is expendible and unclassified and may be
+
+disposed of in any manner which you see fit.
+
+Your forwarding the information in question to this
+headquarters is appreciated.
+
+Yours truly,
+
+BRYAW L. DAVIS
+Colonel, USAF
+Air Adjutant General
+
+!
+
+SESCILE “EL 3:
+
+WP-L-8 NOV 45 SOOM CENTRAL FILE COPY
+
+i. hill tare Oi elke roms

@@ -1,0 +1,15 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T18:03:36Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4958742, "source_ctime_ns": 1793377538798532115, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28964191/0597.jpg", "source_mtime_ns": 1785696460000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28964191/0597.jpg", "source_sha256": "f5fa9c65f30dacfb68747fbefcaa0da75a493abd2341e93d0ab5ea931c875dd6"}
+
+===== PAGE 1 =====
+{"alpha_words": 36, "chars": 245, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PAGE TWO. RJWPJB 2D
+
+19 KNOTS 3 ANGELS 2@ AT 30 KNTS C. 1,000 BKN De. 14 MILES E. 8/2
+
+Fe. N/A
+
+8s As NONE 9. As NONE 13. Ae NONE VISIBLE 14. Ae CAUSE OF SIGHTING UNK
+CMA 1ST LT DONALD Ke. PETERSON INT OFF USAF 12. NONE
+
+BT
+44/1755Z Nov RJWPJB
