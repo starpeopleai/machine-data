@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T23:28:13Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9930790, "source_ctime_ns": 1793364787103442505, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787691/45484701-007-004-0100.jpg", "source_mtime_ns": 1785684930000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787691/45484701-007-004-0100.jpg", "source_sha256": "9b13d4bd053447aa255435e98631095860f1e8a999168a20a8b3d47477382ab5"}
+
+===== PAGE 1 =====
+{"alpha_words": 33, "chars": 212, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+rn Ca” os z
+ha 4a a Ow
+
+AERIS OS PELL LLOYDS LS BOAT >
+
+the truth
+
+ye
+
+A
+
+Wi LCOSeSBCG SLOVeeMsy
+
+mecial Investi ¢atio:
+
+Ge tek tee ead ian 5
+
+we reached
+
+>
++
+
+abe ly
+this
+
+Declassification Authority: NND 923007

@@ -1,0 +1,42 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T23:12:13Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6250369, "source_ctime_ns": 1793394148875601295, "source_file": "National-Archives-UAP-Bulk/photo/68875395/41049902-002-058-0004.tif", "source_mtime_ns": 1785567326000000000, "source_rel": "National-Archives-UAP-Bulk/photo/68875395/41049902-002-058-0004.tif", "source_sha256": "9fdfd8ed1f87f02e9c43aa9167bca1cdae1bff7a3dbb06d53d8d79513a9604a5"}
+
+===== PAGE 1 =====
+{"alpha_words": 172, "chars": 1241, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+AFR 80-17/4600th AB Wg Sup 1
+h600th AB Wg SUPPLEMENT 1 HEADQUARTERS 4.600th AIR BASE WING
+TO: AFR 80-17 Ent Air Force Base, Colorado
+
+10 January 1967
+Research and Development
+UNIDENTIFIED FLYING OBJECTS (UFO)
+AFR 80-17, 19 September 1966, is supplemented as follows:
+-1 UFO Reports. The office of the Base Operations Officer is delegated
+
+the over-all l responsibility for investigating and reporting unidentified
+flying objects (UFO) sightings, as required by paragraph 3c.
+
+a. Als ULO reports/sighting will be referred to Base Operations Dispatch
+Section, telephone extensions 4778/4779.
+
+b. The office of the Base Operations Officer will publish a detailed
+office instruction prescribing the handling and processing of UFO reports.
+
+8b(1). Report will be addressed to Hq ADC (ADOCP) and will be forwarded by
+messenger.
+
+8b(6) (Added). Hq NORAD (NOOP-A). Report will be forwarded by messenger.
+8b(7) (Added). 4600th AB We (WGOOT). Report will be forwarded by messenger.
+
+8c. Information copies will be forwarded to Hq ADC (ADOCP) by messenger,
+Hq NORAD (NOOP-A) by messenger, and 4600th AB Wg (WGOOT) by messenger.
+
+eee FREDERICK C ROBERTS, JR
+Colonel, USAF
+Commander
+
+[the R ae
+Ist Lt, USAF
+Chief Admin Sves
+
+OPR: WGOOT-B
+DISTRIBUTION: §

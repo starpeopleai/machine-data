@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T23:20:23Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8290380, "source_ctime_ns": 1793379880702097364, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28973755/0314.jpg", "source_mtime_ns": 1785701086000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28973755/0314.jpg", "source_sha256": "4eb352546cbf040c6c77e99f07829c25f52bc6d3861369800f3ae9c51844ac09"}
+
+===== PAGE 1 =====
+{"alpha_words": 115, "chars": 946, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+UFOB INDEX CARD AIS9=!"F0B-4,99-57
+
+G&ne round blue-green object the size of
+a basketball. Object moved in a “csounter-_.
+clekkwise"™ motion and was insight for 5 mins.
+
+1. DATE Siar 2. LOCATION 12, CONCLUSIONS
+a. lee : 4 © Was Balloon
+24-Jan-56 Cleveland, Ohio OQ Probably Balloon
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION G Possibly Balloon
+" O Was Aireraft
+07/001.0Z Nov 57 3 Ground-Vi sual GO Greund-Rader a Probably Aircraft
+0 Air Visual © Air-Intercept Radar | 7 Possibly Aircraft
+5. PHOTOS 6. SOURCE O Was Astronomical
+O Yes O Probably Astronomical
+XNo Civilian O Possibly Astronomical
+7. LENGTH OF OBSERVATION @. NUMBER OF OBJECTS | 9. COURSE % Other Prob Reflections
+5 aga Data for Evaluation
+Five minutes One Counterclockwise> U*rew
+10. BRIEF SUMMARY OF SIGHTING 11. COMMENTS
+
+Concur with Reporting Officer that
+this sighting was probably reflections
+of the searchlights from Cleveland off
+scattered clouds.
+
+AISNP Farm §& (15 Oct 54)

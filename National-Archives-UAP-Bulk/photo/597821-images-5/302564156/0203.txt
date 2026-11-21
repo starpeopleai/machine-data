@@ -1,0 +1,48 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T22:40:09Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 777139, "source_ctime_ns": 1793392108382320277, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302564156/0203.jp2", "source_mtime_ns": 1785808057000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302564156/0203.jp2", "source_sha256": "f12fdad3d02ab97be93137fc3719b4a1dd7abfc417e67857264cefb11ede0d3d"}
+
+===== PAGE 1 =====
+{"alpha_words": 91, "chars": 603, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ard ee mG
+sa earn Ge po
+DEPARTMENT OF THE AJR FORCE OT Ty ED
+WRIGHT-PATTERSON AIR FORCE BASE, OHO 454353 a all
+ae
+REPLY TO m
+teen ae LDBL/URO
+
+SUBJECT
+
+UFO Observation Ayes 3 ——
+3
+
+Fairborn, Ohio 4532h
+
+Reference your unidentified observation. The information which
+we have received is not sufficient for a scientific evaluation.
+Ra
+
+complete the attached FTD Form 164 and return it in
+= Thank you for reporting your observation
+to the Air Force.
+
+i)
+3
+4)
+ol
+(e)
+4 © |
+Y)
+42,
+ry
+ie)
+<2
+tt
+fy
+re)
+
+JAMES C. MANATT, Colonel, USAF 1 Atch
+Director of Technology and Sub
+
+bsystems FTD Form 164 w/envel
+
+ope

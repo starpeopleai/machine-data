@@ -1,0 +1,15 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T22:41:32Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 960672, "source_ctime_ns": 1793393555596548312, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302578771/0321.jp2", "source_mtime_ns": 1785808113000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302578771/0321.jp2", "source_sha256": "9db7db246018c8cb72d5be10c7e514f3ba1e6733c28cadc5f2428d8731dd688b"}
+
+===== PAGE 1 =====
+{"alpha_words": 48, "chars": 288, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+MEMO FOR THE RSCORD Hrie
+5 July 1968
+
+Shes ne eye
+JUL 2 1969
+
+On 3 July at 1155 hrs I made a Watts line call to Port Erie Control
+Tower (814 833-0841). Mr Gilmore said that there was nothing in the
+log, but that if I would call back after 4:00 pm the night shift might
+
+know of someone.

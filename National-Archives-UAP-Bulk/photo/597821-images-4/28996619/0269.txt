@@ -1,0 +1,7 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T23:00:58Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4117227, "source_ctime_ns": 1793386573490144581, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28996619/0269.jpg", "source_mtime_ns": 1785748078000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28996619/0269.jpg", "source_sha256": "45b10747bd9d39393d8d5377c102f970d06b2306838833e92ff1099b492d892c"}
+
+===== PAGE 1 =====
+{"alpha_words": 6, "chars": 53, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 1, "variant": "plain-psm3"}
+Aarifacd # 3Y41-l6-14§O
+
+LOCA ted sv flren'Cre7 POM

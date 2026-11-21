@@ -1,0 +1,60 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T23:17:42Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7826243, "source_ctime_ns": 1793364555952132509, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787368/45484701-007-002-0021.jpg", "source_mtime_ns": 1785685192000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787368/45484701-007-002-0021.jpg", "source_sha256": "c25d0296659e8f88da822a410a577921a9adb54dd7c535c11bd7b4c55f90ec05"}
+
+===== PAGE 1 =====
+{"alpha_words": 503, "chars": 3195, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+From a wooden scaffold a cylindrical brass weight & inches long and 4 inches
+in diameter was hung with axis vertical by means of about 5 feet of No. 14
+copper wire (0.06408 in. diameter). A similar wire about six inches away
+suspended a similar weight level with the first. By means of the wires the
+weights were electrified to a measured voltage; the corona current was not
+measured. An optical projection system provided on the wall an image of a
+scale and insulated pointers attached to the weights. The weights were either
+hollow (5 1b.) or solid (30 1d.). In certain of the observations the weights
+were linked by an insulating bar.
+
+4.3. AN examination of the data makes it clear that the inequality in deflec-
+tions reported by Brown is still present here, though only to the extent of
+10-30 percent, (Tests 2-4) and less than that under conditions where the
+corona discharge is reduced (of Tests 1 and 5).
+
+When cigarette smoke was drifted into the vicinity of the wires it showed the
+existence of a wind. Just above the weights the wind blew fron negative to
+positive, while higher on the wires the wind was opposite.
+
++
+
+5. THE BROWN ELECTROMETER
+LEELA I TEC TE NN RAR
+
+In a small thermostated room in the second basement of the Banks-Huntley
+Building, 634% South Spring Street, Los Angeles, there is a continuing experi-
+ment which shows an extension of the basic phenomenon, This aoparatus is the
+Brown Electrometer. This device is housed in an oil-filled tank of half-inch
+steel, perhaps two feet in diameter and a foot deep, with a half-inch steel
+cover. In the tank there is suspended a horizontal disc twelve inches in
+diameter and one inch thick, made of six segments of pine wood alternating with
+six of marble around an &-inch hub of Bakelite. The sections are separated
+by 1 x 2 x 1/l6-inch copver strips. Alternate strips are grounded to a cen-
+tral metal stem supporting the disc which is attached to a music wire suspension
+0.018 inch in diameter and 6-3/8 inches long; the remaining copper strips con-
+nect to a central iron tit at the center of the hub, which dips into a cup of
+mercury. The disc is surrounded by a grounded metal shield which is attached
+to the tank and which stands at a clearance of 1/2-inch above and below the
+dise and 1-1/2 inch radially; this shield is centrally perforated at the top
+and bottom for the suspension and the tit.
+
+A sequencing device in a cabinet delow the tank causes a half-wave smoothed de
+power supply to impress upon the mercury cuo a well-regulated negative potential
+of 11.1 kw resulting in a leakage current of 0.45 ma. The secuencer leaves the
+voltage on for thirty seconds, Causing the disc to rotate several degrees.
+After thirty seconds a short svark is made to jump from a point projecting about
+9 inches horizontally in air from the stem of the disc, and verforates a rice-
+paper strip wound on a drum which rotates once each day. The voltage is then
+turned off and the disc returns to its relaxed position, which ig reco rded by
+
+a@ separate spark. The cycle Fepeats every three mimtes. The apparatus apvears
+to be well engineered and extremely reliable.
+
+SHEUAIEESTEPORMTION
+
+Declassification Authority: NND 923007

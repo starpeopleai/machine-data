@@ -1,0 +1,65 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T22:53:05Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1742453, "source_ctime_ns": 1793392398144366898, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302567714/0851.jp2", "source_mtime_ns": 1785808288000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302567714/0851.jp2", "source_sha256": "a205e012fa3105d046d7093c99ae13d9d5c4483362b5fbdb8f029c87b839bde8"}
+
+===== PAGE 1 =====
+{"alpha_words": 234, "chars": 1554, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+=. " PE Wee RD ae Mtoe ez:
+eee wa % nay ea baal " PRR “ane 5
+
+A=-2
+
+8. IF you saw the object at NIGHT, what did you notice concerning the STARS and MOON?
+
+8.1 STARS (Circle One): 8.2 MOON (Circle One):
+a. None a. Bright moonlight
+b. A few b. Dull moonlight
+c. Many c. No moonlight — pitch dark
+d. Don't remember d. Don’t remember
+
+9. What were the weather conditions at the time you saw the object?
+
+CLOUDS (Circle One): WEATHER (Circle One):
+of Clear sky ) o£ Dry.)
+
+b. Hazy b. Fog, mist, or light rain
+c. Scattered clouds ¢. Moderate or heavy rain
+d. Thick or heavy clouds d. Snow
+
+e. Don’t remember
+
+10. The object appeared: (Circle One):
+
+a. Solid d. ‘Asa lighD
+b. Transparent e. Don’t remember
+c. Vapor
+
+Tl. {f it appeared as a light, was it brighter than the brightest stars? (Circle One):
+
+a. Brighter c. About the same
+b.\ Dimmer d. Don't know
+
+11.1 Compare brightness to some common object:
+
+4 4
+Ly :
+
+12. The edges of the object were:
+
+(Circle One): a. Fuzzy or blurred e. Other
+b. Like a bright star
+c. ‘Sharply outlined’ ea Se) ea
+
+d. Don’t remember
+‘ciesiiesApeiatiiiecpcaeccc ne nee ee eee
+
+13. Did the object: (Circle One for each question)
+
+a. Appear to stand still at any time? Yes} No Don’t know
+b. Suddenly speed up and rush away at any time? (Yes) No Don’t know
+c. Break up into parts or explode? Yes {No} Don't know
+2 » ae i
+d. Give off smoke’ Yes No > Don’t know
+e. Change brightness? Yes No } Don’t know
+f. Change shape? Yes ‘ Nos Don't know
+g. Flash or flicker? Yes No > Don’t know
+
+h. Disappear and reappear? Yes No» Don't know

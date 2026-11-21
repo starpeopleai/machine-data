@@ -1,0 +1,88 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T22:39:30Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 583835, "source_ctime_ns": 1793365597569377888, "source_file": "National-Archives-UAP-Bulk/photo/5011500/5011500_VolumeI_Page_221.jpg", "source_mtime_ns": 1785565397000000000, "source_rel": "National-Archives-UAP-Bulk/photo/5011500/5011500_VolumeI_Page_221.jpg", "source_sha256": "03fe178b42260d55024fd0aed793b7d93d43a8d8196218c31087a9f40665482f"}
+
+===== PAGE 1 =====
+{"alpha_words": 137, "chars": 1017, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+74:18:20
+74:18; 22
+74:18: 23
+74:18: 27
+
+74:18: 30
+74:18: 32
+
+74:41:12
+Ths 41: 26
+Th: 41: 27
+74: 41; 28
+74: 41:29
+74s 41: 31
+
+74341: 36
+
+74: 413 39
+Th: 41: 49
+Th: 42: 54
+
+TU: 43: 27
+
+74: 43:28
+
+74: 46: 58
+
+CC
+
+CC
+
+cc
+
+cc
+
+CC
+
+CC
+
+cc
+
+CONFIDENTIAL
+
+Down here? Negative.
+Okay
+eee Gown to Houston. He just came on.
+
+I thought maybe he took a good deal and went to
+Australia.
+
+No. He's not.
+
+Okay e
+HAWAITL
+
+Gemini VII, Hawaii CAP COM,
+
+Gemini VII, Hawaii CAP COM.
+
+Did you get a picture of that program?
+Yes. I got a picture ee.
+
+Go ahead, Hawaii. Gemini VII.
+
+Okay. We're GO here on the ground. We're ready
+for your fuel cell purge.
+
+Roger. Stand by just one. We're taking an S-6
+picture now.
+
+All right.
+Okaye Temp of 59, relative humidity ...
+
+Okay. Take a pencil and mark "used", or something
+
+Okay. We just took some pictures. 30 through 36.
+The temperature ...e and cloud... Gemini VII.
+
+You took a picture of S-6 at 74:51:13. Cloud for-
+mation over the Pacific.
+
+Hawaii, Gemini VII. Purge complete.
+
+CONFIDENTIAL)

@@ -1,0 +1,41 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T23:08:28Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5450085, "source_ctime_ns": 1793388325183941098, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/29000873/0008.jpg", "source_mtime_ns": 1785747854000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/29000873/0008.jpg", "source_sha256": "3a322d0302a3f02953a9bdc6f4fe4a42170420d5923cf1c6416ca63752990076"}
+
+===== PAGE 1 =====
+{"alpha_words": 76, "chars": 562, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Se
+/ :
+' J 7 .
+
+‘
+
+19 June 1963
+
+Your sighting of 23 May 1s similar to
+many reported observations of aircraft
+contratls with the sun reflecting on them
+at dusk,
+
+Statistics for years 1957-1962 are
+inclosed.
+
+‘The facet that any aircraft disappears
+nas no bearing on unidentified aerial
+onenomena.
+
+Photographs of sightings are not
+availatile.
+
+The movie "UFO" was a Green-Rouse
+oreduction. The Air Force nad no connection
+vith its oroduction or release,
+
+oe i ‘
+Sincerely,
+
+WTLLIAM J. LOOKADOO
+Lt. Colonel, USAF
+Puolic Information Div
+
+>
+
+Offiee of Information

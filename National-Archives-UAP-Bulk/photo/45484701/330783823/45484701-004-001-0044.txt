@@ -1,0 +1,59 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T23:12:26Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6328644, "source_ctime_ns": 1793362815879891940, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330783823/45484701-004-001-0044.jpg", "source_mtime_ns": 1785685058000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330783823/45484701-004-001-0044.jpg", "source_sha256": "415699d89b57f7adf9887b6baa3a28b1fe13bdf35c942effd84cf51cdbb78675"}
+
+===== PAGE 1 =====
+{"alpha_words": 186, "chars": 1448, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+DEPARTMENT OF THE AIR FORCE
+HEADQUARTERS UNITED STATES AIR FORCE
+WASHINGTON
+
+THE INSPECTOR GENERAL
+Ist District Office of Special Investigations
+
+Westover Air Force Base, Massachusetts
+
+1D-OSI 24-156 S47 lit aor
+
+SPOT INTELLIGENCE REPORT
+
+SUBJECT: (Unclassified) UNKNOWN SUBJECT(S):
+Sighting of Unidentified Object,
+Springfield, Mass., 0020 hours,
+
+23 Jul 52
+
+Director of Special Investigations
+Headcguarters USAF
+Washington 25, D. C,.
+
+SYNOPSIS:
+
+Mr, and Mrs, SaMPSON, Springfield, Mass., advised that they
+saw an unidentified airborne object at 0020 hours on 23 July 1952,
+Object described as oval, orange glow, speed, distance, or size could
+not be estimated, Object was observed for approximately 40 minutes,
+Maneuvers of object formed a "I", Fireworks display occurred approxi-
+mately 12 miles away,
+DETAILS:
+
+1. On 23 July 1952 the Public Information Officer, Westover
+Air Force Base, Mass,, notified the Office of Special Investigations that
+Mr, EVERETT T, SAMPSON, 915 Worthington St., Springfield, Mass., had
+reported the sighting of an unidentified airborne object during the evening
+of 22 July 1952.
+
+2e On 24 July 1952, Mr. SAMPSON furnished the following infor-
+mation to Special Agent RAWORTH D, TILSON,
+
+a. The object was oval shaped, size is estimated to be
+about ; the size as the moon appears, orange glow, no aerodynamic features
+
+UAT K. KURZE, Cant, USAF:
+Historian
+
+or
+
+‘UNCLASSIFIED
+
+J
+
+Declassification Authority: NND 923007

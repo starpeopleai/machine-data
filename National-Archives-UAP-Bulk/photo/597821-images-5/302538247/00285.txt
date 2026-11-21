@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T22:54:13Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1770103, "source_ctime_ns": 1793389227377298111, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302538247/00285.jp2", "source_mtime_ns": 1785808361000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302538247/00285.jp2", "source_sha256": "f4b58943b3e7dfcc37faf4778efcf53d99b7c91e083882f98347dfc4977847cd"}
+
+===== PAGE 1 =====
+{"alpha_words": 133, "chars": 896, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+TDEW/UFO
+
+UFO Sighting, Brooksville, Florida 2 Mar 65 23 Mar 65
+
+Hq USAF SAFOI-CC (Mrs Hunt)
+Wash DC 20330
+
+1. Attached is the report of investigation by Dr C W Bemiss, of
+the alleged Brooksville Flying Saucer Sighting. As you can see,
+Dr Bemisa’ report is what I needed in the way of radioactive
+measurements and measurements of the alleged hole spacings. Dr
+Bemiss's report further confirms my suspicicns about this whole .
+case. We will discuss this further prior to issuing the press
+release.
+
+2. I agree with Colonel Manierre’s recommendation with regards
+to reimbursing Dr Bemiss for his transportation, lodging, and
+the standard consultant fee. If you can come up with the money,
+please commuimicate direct!y with Colonel Manierre and give him
+the appropriations number which he should use.
+
+FOR THE COMMANDER
+
+HECTOR QUINTANILLA, Jr 1 Atch
+Major, USAF a/s
+Chief, Aerial Phenomena Branch

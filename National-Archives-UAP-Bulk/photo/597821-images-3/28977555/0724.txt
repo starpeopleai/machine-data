@@ -1,0 +1,44 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T22:56:27Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3462363, "source_ctime_ns": 1793380659804052499, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28977555/0724.jpg", "source_mtime_ns": 1785700682000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28977555/0724.jpg", "source_sha256": "4d9099adfd53e2f98930f977008c299b4e6a1fba0c51d2b222f01389c0563a3f"}
+
+===== PAGE 1 =====
+{"alpha_words": 60, "chars": 429, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RO CARD
+1. DAT 2. LOCATION
+
+OOO eee rena ene e CAMS Poa | C2 (Ground. |
+
+Air’ Vi swal i
+OURGE Beers pease yi
+
+7 | 8 NUMBER OF OaJECTS | 9.
+19. on
+
+ee nN te ns nan Sens
+
+CO. MAE
+
+21a ol
+
+[NTS
+
+USIONS
+
+rodaaly Balloon
+Passibly Balloon
+Was Aircraft
+
+Probably Aircraft
+ossibly Aircraft
+
+De
+
+stronomical
+
+Unknown
+
+abl y Astronomico: 1
+bly Astronomical
+
+Insufficient Wea ih for Evaluation
+
+ATIC FORM 329 (REV 26 SEP 52)

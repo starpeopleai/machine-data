@@ -1,0 +1,66 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T23:22:04Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8513638, "source_ctime_ns": 1793385533236830589, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28993593/0082.jpg", "source_mtime_ns": 1785748087000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28993593/0082.jpg", "source_sha256": "bb5510163ae575166eb89a82e7bf2777376d151f89a6e1d95df073c16988097f"}
+
+===== PAGE 1 =====
+{"alpha_words": 149, "chars": 1088, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+8 RY EP EPP SPS —
+
+PROJECT 10073 RECORD CARD
+
+1. DATE
+
+2. LOCATION
+
+Local
+
+3. DATE-TIME GROU 4. TYPE OF OBSERVATION
+Losy 1G: Ground- Vi sual 0 Ground-Redar
+
+Q Air Visual ) Air-elntarcent Radar
+
+12, CONCLUSIONS
+
+QO Was Balloon
+O Probably Balloon
+OM Possibly Balloon
+
+O Was Aircraft
+Q Probably Aircraft
+El° Possibly Aircraft
+
+5. PHOTOS
+G Yes
+G:No
+
+§ SOURCE
+
+{ } LV 8 yk an
+
+O Was Astronomical
+0 Probubly Astronomical
+GO Possibly Astronomical
+
+7. LENGTH OF OSSERVATION
+
+,
+
+8. NUMSER OF OBJECTS | 9% COURSE
+
+QO Other
+
+QO Unknown
+
+O Insufficient Data far Evaluation
+
+\S) Se H i ‘
+. } ‘ ’ } RG £ 4
+10, BRIEF SUMMA2Y OF SIGHTING ound, > Obgb, fav |. COMMENTS att Wins pina ten .
+AWAY, iN S1ENy.O Man, moving dire: , . Premed LI 4 Rigs Fe gf
+334 ° o be -. ; rm 2 ES i adie +c * were ws + ~ * { tA KH oy
+eS od 4 SS Lica a ae 4 x ¢ ich 2 ? ‘ x ated ds “9% ik ae Fat mye we :
+wey ¥ te faa iS 4 ~~ Fa} ‘ ‘ 4 4
+L058 J ¥ dis O Bo LOW ps e AL CULE . ~ a A 5 G hh Ee Og Ss 3 de = Ly at
+14 ¢ b f 4 > — 6 5 l 3 Be he w G
+YM 7 Tr Vv > eg 12 Ob }
+% ~ a5 more is L 2 oh E zt ‘
+
+ATIC FORM 329 (REY 26 SEP 52)

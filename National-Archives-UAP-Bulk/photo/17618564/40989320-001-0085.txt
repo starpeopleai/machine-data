@@ -1,0 +1,45 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T22:57:48Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3840885, "source_ctime_ns": 1793356376433534737, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989320-001-0085.jpg", "source_mtime_ns": 1785564690000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989320-001-0085.jpg", "source_sha256": "7aeb3e6b7a3cc271ae42d4e88862cd9b554068a31b707c03397549dcadb7a0e3"}
+
+===== PAGE 1 =====
+{"alpha_words": 27, "chars": 275, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+SOUMD VELOCITY PROFILE
+
+- October 1946
+
+Arco Idabo
+
+urwe of
+nd wind)
+
+October 1946
+
+ted from Arco data
+(Composite c
+
+Compu’
+temperature &
+
+2 3 &
+
+(es8ewory) LH13H
+
+80 40 50
+
+10 20
+
+40 50 60 70 80 930 400
+
+Oo 2 30
+
+80 90 300
+
+260 70
+
+}V meterp/sec
+
+4
+
+FIGURE WZ
+APPENDIX E
+
+a

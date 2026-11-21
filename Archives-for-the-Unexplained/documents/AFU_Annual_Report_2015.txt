@@ -1,4 +1,4 @@
-{"schema": "ufo-files-archive-ocr/v1", "engine": "source-text-extraction/v1", "engine_mode": "embedded-text", "source_file": "Archives-for-the-Unexplained/documents/AFU_Annual_Report_2015.pdf", "source_sha256": "b50e4210ca592c564d3101a8e35de1309dc103a0c8876d903a04e415fde03126", "source_bytes": 1547784, "created_utc": "2026-10-13T03:05:19.750265+00:00"}
+{"created_utc": "2026-11-21T22:39:04Z", "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "embedded-text", "pages": 0, "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1547784, "source_ctime_ns": 1793566271620610379, "source_file": "Archives-for-the-Unexplained/documents/AFU_Annual_Report_2015.pdf", "source_mtime_ns": 1793566271566746720, "source_rel": "Archives-for-the-Unexplained/documents/AFU_Annual_Report_2015.pdf", "source_sha256": "b50e4210ca592c564d3101a8e35de1309dc103a0c8876d903a04e415fde03126"}
 
 Archives for UFO Research - Archives for the Unexplained
 (AFU)
@@ -343,8 +343,6 @@ international literature running his own book shop.                 researcher M
                                                                     Sweden.
 
 
-
-
 Veteran Danish ufologist Per Andersen turned over large parts
 of his private collection in Copenhagen while meeting the
 Swedish team as they passed through Denmark on their way to
@@ -354,7 +352,6 @@ the Continent and the UK.
 The tour throughout Britain had Bob Rickard’s                       BVM, George Adamski and the Belgian wave of triangles in the
 home at its base and included visits to Frances and                 early 1990s. Clas Svahn & Carl-Anton Mattsson have just
 Alan Copeland and Geoff Ambler (of Contact                          brought the files to the archives.
-
 
 
                                                                 6
@@ -503,13 +500,9 @@ never seen by some former co-workers.                                On August 2
                                                                      former US astronaut Charles Duke.
 
 
-
-
 Documentary film makers Michael Cavanagh and Kerstin
 Übelacker have been following Clas Svahn, UFO-Sweden and the
 work at AFU for years.
-
-
 
 
                                                                      Christmas approaching, December 11. Annual Xmas dinner, this
@@ -537,15 +530,11 @@ during the press conference at AFU.
                                                                      aimed at the true collector.
 
 
-
-
 Meeting colleagues, October 22. From a visit at the Air Force
 Museum’s library and archive. From left to right: Irene
 Remberger (AFU employee), Annette Nykvist (archivist at
 Norrköpings Föreningsarkiv, NFA) and Sofia Svalmark (archivist
 at the Air Force Museum).
-
-
 
 
                                                                  9

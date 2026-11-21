@@ -1,0 +1,44 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T23:21:41Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8427114, "source_ctime_ns": 1793380249190462231, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28975016/1410.jpg", "source_mtime_ns": 1785700634000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28975016/1410.jpg", "source_sha256": "2fb7013f731c53a6917c25bfdf87ddf0fa517ab8c0c44efd1f5883c22410d08e"}
+
+===== PAGE 1 =====
+{"alpha_words": 76, "chars": 631, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PAGE THREE RJWFOB 29
+
+As 32 DEGREES 19 MINUTES, 97 DEGREES 24 MINUTES, TWO
+
+MILES SOUTH OF CLEBURNE
+
+S$. ADDRESS:
+
+A, SN, 33, Qo CROWLEY, TEXAS,
+CONVALR SERVICE ENGINEER.
+
+7. WEATHERS
+
+A. CLEAR AND UNLIMITED
+
+B, 945/11-12, @88/11, 272/38, 278/55, 270/190, 278/86
+
+C. UNLIMITED
+
+De 19 MILES
+
+E,- NONE
+
+F. NONE
+
+8. NONE
+
+9. NONE
+
+13. B36, C-47, 2 JETS
+
+ti. INTELLIGENCE OFFICER. BEHAVIOR OF OBJECT WITH RESPECT
+TO SPEED AND MANEUVERS DOES NOT CORRELATE WITH AIRCRAFT IN
+AREA AT TIME OF SIGHTING. BALLOON RELEASED 9629 C2@ NOV 57
+FROM GOODFELLOW AFB PROBABLY NOT IN AREA. OBSERVER IS AN AIR
+FORCE RESERVIST.
+
+BT
+
+26/1615Z NOV RJWFOB

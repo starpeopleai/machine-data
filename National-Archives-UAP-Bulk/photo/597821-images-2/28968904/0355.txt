@@ -1,0 +1,88 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T23:11:18Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6023659, "source_ctime_ns": 1793378696607642852, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28968904/0355.jpg", "source_mtime_ns": 1785696932000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28968904/0355.jpg", "source_sha256": "5e47c3df12764c8b0f1bae27a54ff9243f6474c12b296a7276b8a2924b1781d0"}
+
+===== PAGE 1 =====
+{"alpha_words": 143, "chars": 1037, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+1. OATE
+
+2. LOCATION
+
+3 February 1957 High Springs Florida
+Te eee ees Florida.
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION
+
+15 Es?
+
+Local AX Ground- Vi sua}
+GMT__04/02157 0 Air- Vi sual
+5. PHOTOS
+
+O Yes
+
+*OKNo GOC Obs
+RES dO
+
+3h
+
+mee ae ya Te can et nteetee Sh
+7. LENGTH OF OBSERVATION 8. NUMBER OF OBJECTS
+
+rs, 2 mins, _ one
+
+10, BRIEF
+Brigh
+down,
+
+3/3 broken cloud coverage for sky
+condition,
+
+SUMMARY OF SIGHTING
+t lights observed moving up and
+right and left for Over 3 hours,
+
+6. SOURCE
+
+_
+N
+
+» CONCLUSIONS
+
+Was Balloon
+Probably Balloon
+Possibly Balloon
+
+00G
+
+Was Aircraft?
+Probably Aircraft
+Possibly Aircraft
+
+0 Ground-Radar
+
+D Air-intercept Radar
+
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+
+Other_Se 2
+
+Insufficient Data for Evatuation
+Unknown
+
+9. COURSE
+bearing
+2+U0 der an
+
+O08 ooo ooo
+
+ST a ED athe ad = ha Sp ee ore MR
+13. COMMENTS
+
+Concur with reporting officer
+that light was Searchlight or
+ground light for measuring ceiji-
+ing at nearby airport,
+
+ATIC FORM 329 (REV 26 SEP $2)

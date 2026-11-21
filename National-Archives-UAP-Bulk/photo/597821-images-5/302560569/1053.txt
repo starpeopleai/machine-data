@@ -1,0 +1,51 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T22:41:56Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 993718, "source_ctime_ns": 1793391643629901729, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302560569/1053.jp2", "source_mtime_ns": 1785808170000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302560569/1053.jp2", "source_sha256": "22684a750ae09352d57406fd9ee3ad9cf1968a5afd934b8dc935c07e1f2b3082"}
+
+===== PAGE 1 =====
+{"alpha_words": 87, "chars": 635, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Vy
+tf
+
+VF Lt
+
+on
+
+ar
+
+REPLY TO
+ATTN OF
+
+DEPARTMENT OF THE AIR
+
+HEADQUARTERS FOREIGN TECHNOLOGY
+
+WRIGHT-PATTERSON AIR FORCE BASE, OHIO 454535
+
+TDET/UFO
+
+UFO Observation » February 1967
+
+Glendale, California 91203
+
+Reference your unidentified observation.
+
+ene
+
+FORCE
+
+DIVISIOM CAFSC)
+
+14 April 1967
+
+The information which
+
+we have received is not suffictent for a sclentific evaluation.
+Request you complete the attached FTD Form 164 and return it in
+the envelope provided. Thank you for reporting your observation
+
+to the Air Force.
+
+JAMES C. MANATT, Colonel, USAF
+Director of Technology and Subsystems
+
+L Atch
+TD Form 164 w/envelope

@@ -1,0 +1,81 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T23:24:31Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9077165, "source_ctime_ns": 1793362122115827396, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330782241/45484701-002-003-0065.jpg", "source_mtime_ns": 1785684713000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330782241/45484701-002-003-0065.jpg", "source_sha256": "5d6da513543592a560fbe21b98a61ab6637d9f4f97cd67d7d972f1471fec0d92"}
+
+===== PAGE 1 =====
+{"alpha_words": 133, "chars": 1020, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+é \
+
+UNITED STATES AIR FORCE
+THE INSPECTOR GENERAL
+OFFICE OF SPECIAL INVESTIGATIONS
+
+FILE NO.
+
+REPORT MADE BY
+
+REPORT OF INVESTIGATION
+
+_ARPHOR J.
+REPORT MADE AT
+MIDENEIFIED Fi LYING OBJEOR
+Ree ee Lee ee ae 19,21 September 1949
+‘ ‘SMOG Nand MR. IX x" q Ley OFFICE OF ORIGIN
+DO #®, Maxwell AFB, Alabama
+
+PERIOD
+
+STA’ TUS
+
+Les.
+
+CHARACTER
+
+Rpt of Invest by 8/4 ARTHUR J, DALE, DO #8, dtd (12 September
+
+REFERENCE
+
+1949 Pile 24=¢5
+
+SYNOPSIS
+
+Winds aloft aml other weather data was secured
+at U. S&S. Neather Bureau, NoGee-fTygon Airport,
+Knoxville, Tennessee, and at the Weather Records
+Processing Center, Federal Building, Chattanooga,
+Tennessee.
+
+Bt At +?
+> i th
+
+we) Wa Ma 3 Ss.
+
+DISTRIBUTION FILE STAMP
+
+ACTION COPY FORWARDED TO
+
+A Commanding General
+Air Materiel Command
+
+Wright-Patterson AFB, Ohio
+
+CG, AMC
+Hg O31
+File
+
+ATTN: MCIAKO#%$
+
+APPROVED -
+
+Lts Colonel,
+
+District Commander.
+
+‘eo
+
+_2 O 3 Replaces noe &
+
+16—57744-4 U..S, GOVERNMENT PRINTING OFFICE
+
+AFHQ FORM
+15 JAN 49
+
+Declassification Authority: NND 923007

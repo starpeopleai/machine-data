@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T23:02:05Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4448671, "source_ctime_ns": 1793377788814230619, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28965411/0195.jpg", "source_mtime_ns": 1785696677000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28965411/0195.jpg", "source_sha256": "706c4eec6c2d8e9655bb9b3e24ca852d3cff1a4c8953ff642afca2b240346934"}
+
+===== PAGE 1 =====
+{"alpha_words": 108, "chars": 729, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+| REICE | { |
+WPF1G5 YMBeSSNCAC26 a | ihe . |
+| PP_RJEDEN RJEDUP RJEPHO pie C
+| DE RJEDNG 1D ~ a Ap |
+P 1905362 ZEX oe EE Pee
+FM COMDR S74TH ACW S@ OSCECLA Wig ~~ C
+§ TC RJEDEN/CCNDR ADC ENT AFP CCLO hee
+| RJEDWP/COMDR AIR TACTICAL INTELLIGENCE CENTER WRIGHT-PATTERSON AFE iia |
+| RJEPHQ/CONDR DIR INTEL HO USAF WASH D.C. © |
+q ET !
+B /UNCLAS/674-15-D-1/UFOE PD FOR DIR INTEL PD THE FOL Is SUEN IN : |
+| ACCORDANCE WITH AFR 209-2 PD ay cr
+| 1 DESCRIPTICN OF OPJECT. |
+7 SHAPES POINT CF LIGHT
+BL. SIZE: SNALLER THAN A PINHEAD. c
+(C. CLOR: CHANGE COLOR ALL CCLORS OF RAINECY
+PD. NUMBER ONE :
+Ee KZA | C
+fF. FEATURES OR DETAILS: MOVED ZRRATICLY FRCM SIDE TO SIDE. 5 :
+'G. TAIL, TRAIL, OR EXHAUST: NEGATIVE
+:
+(
+B PAGE TWO RJEDNG 1D

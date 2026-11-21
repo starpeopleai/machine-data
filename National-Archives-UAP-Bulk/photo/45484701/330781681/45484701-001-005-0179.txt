@@ -1,0 +1,20 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T23:12:34Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6438804, "source_ctime_ns": 1793361928938183172, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330781681/45484701-001-005-0179.jpg", "source_mtime_ns": 1785684797000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330781681/45484701-001-005-0179.jpg", "source_sha256": "08bdf683bd3f3ccfb80e72b499bd895cd1a65e71cea33d12f3445fb672d6fb71"}
+
+===== PAGE 1 =====
+{"alpha_words": 62, "chars": 473, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+5D 2hn2iE
+PROJECT GRUDGE
+
+UNDEVELOPED LEADS
+FOR DISTRICT OFFICE NO. 3, HARRISBURG, PA
+BE MORGANTOWN : WEST VIRGINIA
+le Will interview MERIL D. WRIGHT, 328 Cobun Avemue, Morgantown, West
+Virginia, regarding the alleged sightings and will report to this office using
+the completed guide to investigation as inolosures,
+
+2, Will attempt to locate and interview other sources of information
+concerning the alleged sightings,
+
+NFIDENTIAL
+
+Declassification Authority: NND 923007

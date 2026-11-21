@@ -1,0 +1,58 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T23:10:35Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5903206, "source_ctime_ns": 1793381636582659555, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28981004/01048.jpg", "source_mtime_ns": 1785701103000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28981004/01048.jpg", "source_sha256": "894c2ca1250081ffdcabc04d88dc24695d76335fa4a842edcb5dfa2a994537f0"}
+
+===== PAGE 1 =====
+{"alpha_words": 220, "chars": 2260, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+sOme” Daibet...---——--e oF Seattle, Washington
+* Howard DaSilva.-.--.-----------r _ Hollywood, California
+Mildred Davis ..------------------ Chicago, Illinois
+William J. Davis go Chicago, Illinois
+B, W, Deason---—--------- Salt Lake City, Utah
+*paula DeLuca. Oakland, California
+*Cecile B. DeMille....-.-------------------0 Hollywood, California
+Paul DEROSS..—--- =< _Los Angeles, California
+*Leonard DesRosiet———-------—- A _Ely, Minnesota
+*George Diack...-.-.-------- Los Angeles, California
+*A. R, DiPaolo__----------------- __Pittsburgh, Pennsylvania
+*Mrs. A. R. DiPaolo......-.---------- ____.. Pittsburgh, Pennsylvania
+
+Frank B. Dodge---------------------" Honolulu, Hawaiian Islands
+«Dr. David B. Dolese-.---—----- Norfolk, Virginia
+&Mrs, Peter Dolese..------------- _____...... Detroit, Michigan
+*Roger Dolese...-—----- Tulsa, Oklahoma
+*William B. Done_..------------ San Diego, California
+*Gov. James Duff —.--------------- ___ Pittsburgh, Pennsylvania
+*Mrs. James Peete ccd pe SREB Pennsylvania
+
+*Blbert Edwards ...----------- Boulder City, Nevada
+* Mahlon Edwards.....--.------------ 0007 Boulder City, Nevada
+y
+
+William H. Edwards* ** _....-------------- 977 Compton, California
+Lilian Egleston... Santa Barbara, California
+
+*Arthur C. Ekker_-.------- ------ Robbers Roost Ranch, Utah
+*Arthur C. Ekker, Jr. “Robbers Roost Ranch, Utah
+*Gay Ekker-..----.-:----------000-7 Robbers Roost Ranch, Utah
+*Mrs. Arthur Bh ae eee ebuets Roost Ranch, Utah
+*Horace Ekket...—-—-----—- ____. Hanksville, Utah
+
+Malcolm Piston oe eee ee Lake City, Utah
+
+*Murl Emery-------------------~ Eldorado Canyon, Nevada
+*Dr. Robert Eshelman_.--------- _______.....Pacific Palisades, California
+*Joe] Evans..2---------- ___Wernal, Utah
+
+William Everson Hibbing, Minnesota
+
+“"Nyedoe Ind. Res., California
+
+*Dr. Reed Farnsworth....--.-------------0 00777 Cedar City, Utah
+*John Henry Ferguson AAT ct escenarate= Baltimore, Maryland
+*Charles E, Fetznet_..------ fe Po Pasadena, California
+*Lou Fetzner—..-------------- Pasadena, California
+Fearl Filet...----------- _ Fullerton, California
+Florence Filer ee LILES PRL Se Beton te Fullerton, California
+*Chris Filler. .-.--------------- 5 Chicago, Illinois
+*Harry Fitch.....-----------~ _Pierces Ferry Landing, Arizona
+
+pea <Emn

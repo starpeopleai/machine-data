@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T22:41:47Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 990432, "source_ctime_ns": 1793389112027437871, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302536501/0143.jp2", "source_mtime_ns": 1785808521000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302536501/0143.jp2", "source_sha256": "f6ce3d4228575d36309ab951e487b21f528bbbb66d914aeaf09557f0b07be2aa"}
+
+===== PAGE 1 =====
+{"alpha_words": 55, "chars": 360, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+BT
+
+WY Senge DERART MET GF THE AR RORCE
+
+AF IN : 24458 (8 Nov 64) Peo eo .ot.e
+1. CIRVIS REPORTV
+
+2. V43217
+3 JED ELAM ING. GREEN OBJECT WHICH BROKE UP AND
+BURNED OUT WITHIN THREE SECONDS.
+
+a
+e
+
+39-98N 175-8532
+De udis572
+
+6. UNK
+
+7. WEST TO EAST
+
+8. UNK
+
+9. NONE
+
+NOTE: Adv copy del to XOPX, NIN and DIA, Ratraneutthad to CIA per
+AFHQ Form 1392 #184
+
+)
+
+ae,

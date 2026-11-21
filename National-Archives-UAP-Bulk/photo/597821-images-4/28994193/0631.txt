@@ -1,0 +1,55 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T23:24:05Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8898743, "source_ctime_ns": 1793385821026028380, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28994193/0631.jpg", "source_mtime_ns": 1785747940000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28994193/0631.jpg", "source_sha256": "65898369e5916507e56f103568b0ddebadb1b443e006639972e6834e71314b23"}
+
+===== PAGE 1 =====
+{"alpha_words": 282, "chars": 1841, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Satie eeeta alieniennadataadaieeniaiaisienmcenenrenaadiameaeneanmanaaaeneeneel ‘ x —— i bts idence ote eens eneersrngraper = -
+= ? ew: ry oa pave ae in “= x eu i =r i a rrr x
+
+COPY Silverside Heights
+
+Wilmington 9, Del, .
+April 8, 1963
+
+'?.
+
+Air Technical Intelligence Center
+Wright-Patterson AFB
+Dayton, Ohio
+
+Dear Sirs:
+
+About a year and a half ago I reported seeing a white,
+partly transparent globe with a red dot near it through my six
+inch reflecting telescope. It appeared to the naked eye as a star,
+although it wasn't dark enough to see stars yet. It was above the
+clouds which were being blown across the sky. This was the night
+of the August 25, 1961, lunar eclipse. I filled out one of your
+forms and mailed it back. If you still have the reoords, I sould
+like to know your evaluation, Although I have never seen a wea-
+ther balloon through a telescope, there might not have been any
+visible in the sky at the time. As you probably can find out
+if a balloon could have caused what I saw*, I would like to find
+out what it was since a balloon is the only explanation [I
+Know that would fit.
+
+* J was taking a prture with my camera-which doesn't have
+
+| 2nd page
+time exposure and thus I obtained no picture- when the object
+apparently exploded. I say this because when I next looked in-
+to the telescope, I saw the glittering specks, which, I suppose,
+were part of the formerly round object, and also some "smoke."
+(My brother and a friend say that they saw the object "explode" with
+their naked eyes).
+
+I am writing my ninth-grade theme on flying saucers
+and I would like to get one of your questionairres if you will
+please send me one - I would like to display it as part of the Air
+Force saucer * investigation project. Thank you.
+
+* perhaps I should say unidentified flying object instead of saucer,
+
+}
+Sincerely yours
+
+(s)

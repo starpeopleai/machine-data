@@ -1,0 +1,45 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T22:58:08Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3883215, "source_ctime_ns": 1793373929837896590, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28949359/0123.jpg", "source_mtime_ns": 1785696690000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28949359/0123.jpg", "source_sha256": "3b01f70b4167b55a3b750688b9e9cede4b7251df30e5b6a04526e728e12f3d93"}
+
+===== PAGE 1 =====
+{"alpha_words": 104, "chars": 813, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+IV. BALLOON DATA
+2. WERE BALLOONS RELEASED IN AREA? CiYes_ tho
+32. TYME SINC SCHEDULED BALLOON RELEASE? anon
+' G Ge ee nn wmeee
+siti one ii icaamanendl Describe
+location Type __}_Launc Agency! Yes} No Lighting
+a. 7 nd
+
+tA BAL?
+~  g a
+wnt BY Vii 4g)
+
+. ‘ ; - wy F
+' 2 de Pia? ied <2
+é
+
+Ce if 4
+de . a
+aa (attach over so a
+a V. EVALUATION ees
+21. ? 22. DETAILS OF REPORT?
+
+C) Excellent (—] Good
+C1) Good (_) Fair
+(J Fair (_] Poor
+(Poor (__] Insufficient to Evaluate
+C_) Unreliable
+C) Extremely Doubtful
+(CC) Hoax f
+
+"23. FINAL EVALUATION:
+(Was Balloon ("] Was Astronomical
+C bly Balloon (—] Probably As: .--nomical
+
+ibly Balloon (_] Possibly Azt.aomical
+Was Airoraft (_) Other:
+Probably Aircraft
+()Possibly Aircraft (J Insufficient Data For Evaluation
+(J Unknown
+oh. COMMENTS:
+“RTC Test Form 33), (13 Aug 52) reer

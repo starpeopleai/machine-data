@@ -1,0 +1,55 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T22:46:05Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1438734, "source_ctime_ns": 1793356323677689524, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989317-001-0111.jpg", "source_mtime_ns": 1785564674000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989317-001-0111.jpg", "source_sha256": "6471946c659dc6664bca0ade25f92e56eef020bcc7695e235242227c09d8ddff"}
+
+===== PAGE 1 =====
+{"alpha_words": 315, "chars": 2060, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+. oer
+
+des‘rnebtive amplitude, end « high 4 ecree of correlatio: has been found be=
+tween the oceurrsnce of tsunami and the appearance of the Tewave on
+seismograns from coastal stations. Since the tsunami travels with the
+much lower velocity of gravity surface waves, it is possible thet
+seismometcrs or hydrophones designed for ready identivication of the T
+wave coule be used as a tsunami warnin,: system. The warnin: time would
+anounS to #:out one hour for every 480 nautical miles from the earthquake
+enicentor to the point of reception.
+
+Anothor seismic projecs that is under consideration is a study of
+explosion-excited vibrations of the ice of the artic Oceane Small scale
+experiments on lake ice by “ein; end Crary a number of years ajo showed
+that certain flexural nodes of vibration ar~ transmitted with low atten=
+vation in a floatin,; ice sheet, and can be usec to estinate the stiffness
+of the ice sheet. this iasig it is shought that larger Soale exver=-
+iments might lead to a practicale seismic method for determining the
+ability of the Artic ice to support venicles or landin; aiveraft.
+
+Complementary Contracts;
+
+ae California ‘Institute of Technolo y
+Noe 128-09S-ac-426
+‘ieroseisms Connected with Storms other then
+Hurricanes Detected at Single Staticns."
+
+be Golumbia (miversity
+NOe Vi2B-099-ac~-596
+"Seismic ave Prova, ation”
+
+Project titles
+4, Research in Geodetics and Isostacy
+
+Project scientists: Dre James A. Peoples, dre, Dre Norman
+iaskell
+
+Surmary of In=Laboratory «ork;
+
+Active consideration is being given, and back: round researeh is
+in. provress on a 2rogram in greodetics and isostacy. The pro: ran is
+intended to be directed toward determining the gravitational anomalies
+which affect precise location of points upon the surface of earth. The
+necessity for this work is evident in application to precise naviasation
+and guidin: of umaanned vehicles. As yet there is no action on this
+research othcr than compilation of backrround material and formula bicn
+of a program of activity.
+
+CGowplenentary Contracts : Nose
+
+oe see

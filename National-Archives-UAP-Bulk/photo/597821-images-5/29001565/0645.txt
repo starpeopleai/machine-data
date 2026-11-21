@@ -1,0 +1,34 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T23:09:53Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5741902, "source_ctime_ns": 1793388566678315151, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/29001565/0645.jpg", "source_mtime_ns": 1785808631000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/29001565/0645.jpg", "source_sha256": "6ed3bf3287314463ea31fedd82368648aa36c4a0e8c049d64a649a09f5fbace9"}
+
+===== PAGE 1 =====
+{"alpha_words": 106, "chars": 706, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+HEADQUARTERS
+FOREIGN TECHNOLOGY DIVISION
+AIR FORCE SYSTEMS COMMAND
+UNITED STATES AIR FORCE
+WRIGHT-PATTERSON AIR FORCE BASE, OHIO
+
+REPLY TO
+atty of: TDEW
+
+suevecl UFO Sighting (28 Jun 64, North Branford, Connecticut) 15 Jul 64
+
+to: Hq USAF SAFOI PB (Mrs Gaiser)
+Wash DC 20330
+
+This office has received an unidentified flying object report
+ep Drive, North Branford, Connecticut
+and of Lea Road, North Branford, Connecticut.
+Request your office send an FID Form 164 to each of the witnesses
+for additional information, such as time of observation and how
+long the object was observed.
+
+FOR THE COMMANDER
+
+Ic T de JO Coottye
+Colonel, USAF
+Deputy for Technology
+
+and Subsystems
+
+YOU - THE NUCLEUS OF SECURITY!

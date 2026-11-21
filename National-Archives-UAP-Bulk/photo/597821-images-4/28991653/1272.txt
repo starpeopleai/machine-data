@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T23:14:39Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6868895, "source_ctime_ns": 1793385029626641991, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28991653/1272.jpg", "source_mtime_ns": 1785747997000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28991653/1272.jpg", "source_sha256": "0180a6409585f68a616415d07aeac264de0eedd3707284785d72233a7cc5815a"}
+
+===== PAGE 1 =====
+{"alpha_words": 85, "chars": 623, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+AEROSPACE TECHNICAL INTELLIGENCE CENTER
+UNITED STATES AIR FORCE
+WRIGHT-PATTERSON AIR FORCE BASE
+
+OHIO |
+REPLY TO |
+ATTN OF: AFC IN-4X2 |
+SUBJECT: Extract from Duty Officers' Report
+
+TO: AFCIN-4E2 (Maj Friend) ©
+
+The following, extracted from Capt Smith's report dated 28 Feb 61,
+is quoted for your information:
+
+By telecon from AF Warning Center in Washington around 0530;
+message relayed from PACAF 01/0537Z. "Three pilots noticed fine
+contrail over Honolulu, Hawaii followed by breakup into three
+parts and burnout", Thought to be satellite burnout.
+
+7T
+
+)
+
+Mucky L ! TG? ‘A
+MICHAEL/J. STROFF, JR.
+Major, USAF
+AFCIN-4X2

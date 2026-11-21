@@ -1,0 +1,20 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T22:50:42Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1710601, "source_ctime_ns": 1793391201729705139, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302556203/1389.jp2", "source_mtime_ns": 1785808644000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302556203/1389.jp2", "source_sha256": "6261821043c70ff5161b1333f84cff82af2e3d211a7197997d3391dd13e55b75"}
+
+===== PAGE 1 =====
+{"alpha_words": 91, "chars": 548, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+pitOeley ear e each aa mR TC MRRE DCCs eres HH Loe eR
+
+28 Sept. 6&6
+
+Contact was made with Base Operations Clinten County AFB, Ohie
+(Mr, Statler -dispatcher). There was no recerd ef any unusual
+type of aircraft operating in the area. There was one aircraft |
+in the area at about 1535 local, but net three, Contact was made
+
+with the centrel towe r; negative results were obtained on any
+
+unusual ebservations. Contact was made with GCA (3231) Sgt.
+
+Stanley whe said that there was nothing unusual noted by his
+
+Dersbnnel on the date in question.

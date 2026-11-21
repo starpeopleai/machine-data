@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T23:15:32Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7095884, "source_ctime_ns": 1793354617872154264, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989217-001-0162.jpg", "source_mtime_ns": 1785564313000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989217-001-0162.jpg", "source_sha256": "19e9a57df162a375f36fe20ba792edb68f6ae1df37259dc78a32074f54cef98e"}
+
+===== PAGE 1 =====
+{"alpha_words": 151, "chars": 1062, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Headquarters
+96TH AIR BASE GROUP (SAC)
+Office of the Staff Judge Advocate
+Altus Air Force Base, Oklahoma
+
+BIA 8 August 1957
+SUBJECT: Psychiatric Examination
+
+TO: Staff Judge Advocate
+Headquerters Fifteenth Air Force
+March Air Force Base, California
+
+1. Confirmation is hereby made of my request for examination by
+a member of the American Board of Psychiatrists of First Lieutenant
+Charleen Goodnaugh, AN 223350, 509th Tactical Hospital, 509th Bom-
+bardment Wing, Walker Air Force Base, New Mexico.
+
+2. This examination is deemed necessary because the previous
+examiner, Major Charles R. Rosewall, is not a member of the American
+Board of Psychiatrists. His report, however, casts serious doubt on
+the competency of Lieutenant Goodnaugh as a witness in the case of
+Lieutenant Colonel George F. Adams.
+
+3. My original request of about 2) July 1957 was for an exam-
+ination of Lieutenant Goodnaugh by a board of psychiatrists. fhis
+request resulted in an examination by Dr. Rosewall conducted during
+a 2) hour period.
+
+DAVID E. ELLS
+Captain, USAF
+Defense Counsel

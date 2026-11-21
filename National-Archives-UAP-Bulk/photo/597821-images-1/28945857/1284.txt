@@ -1,0 +1,66 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T23:00:02Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4045415, "source_ctime_ns": 1793373243510099471, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28945857/1284.jpg", "source_mtime_ns": 1785688738000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28945857/1284.jpg", "source_sha256": "e22cb09215e35d7bd2330e67afd227d55e94aa5779de795c4afd7ace095ff6ce"}
+
+===== PAGE 1 =====
+{"alpha_words": 183, "chars": 1297, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+8.
+
+9.
+
+10.
+
+il.
+
+ie 3 ° ’
+
+Page 3
+
+What direction were you facing when you first saw the object?
+
+(Circle One): a. North e. South
+b. Northeast £. Southwest
+c. East ge West
+
+ad. Southeast’ h. Northwest
+
+8,1 What direction were you facing when the object disappeared?
+
+(Circle One): a. North e. South
+b. Northeast £. Southwest
+c. East g. West
+
+<: o Southeast) h. Northwest
+
+8.2 Circle one of the following to indicate how certain you are of
+your answer to the above two questions, (8 and 8.1).
+
+a. Certa c. Not very sure
+e Fairly certain> ad. Just a guess
+
+Were you wearing eye glasses when you saw the object? (Circle One):
+
+Yes or (ilo)
+
+How was the object seen?
+
+(Circle One): a. Thr ss e. Through thecdolite
+h windshie f. Through sun glasses
+c. Through binoculars ge Through open space
+
+ad. Through telescope h. Other
+
+What do you remember about the weather conditions at the time you saw
+the object?
+
+11.1 CLOUDS (Circle One) 11.3 WEATHER (Circle One)
+<a, Clear sky D <a. Dry)
+b. Hazy “Db. Og, Mist, or light rain
+c. Scattered clouds c. Moderate or heavy rain
+ad. Thick or heavy clouds ad. Snow
+e. Don't remember e. Don't remember
+11.2 WIMD (Circle One) 11,4 TEMPERATURE (Circle One)
+“aq Nowind > a. Cold
+b. eeze b. Cool
+c. Strong wind c. Warm
+ad. Don't remenber Ca. Hot 7
+
+e. Don't remember

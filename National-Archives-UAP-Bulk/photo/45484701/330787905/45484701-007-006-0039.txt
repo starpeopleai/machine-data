@@ -1,0 +1,40 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T23:15:45Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7179574, "source_ctime_ns": 1793364875716518176, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787905/45484701-007-006-0039.jpg", "source_mtime_ns": 1785684679000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787905/45484701-007-006-0039.jpg", "source_sha256": "4a0b459a565d52349edf842e827c0a480f7be769327b390d59fad3a168e41d30"}
+
+===== PAGE 1 =====
+{"alpha_words": 90, "chars": 683, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+0
+Nie BS a2 AFCSI~6D/Capt ct tome Mar 5
+
+Cy
+ae
+
+MEMORANDUM FOR ASSISTANT OF STAFF, INTELLIGENCE
+
+SUBJECT: Transmittal of Information
+
+1. Transmitted is information considered of interest to
+your office. The inclosure is for your retention.
+
+Ze Remarks ~
+
+02%3 13/3 [59
+1 Incl ‘ \\ HOMER L. MOORE, 13/ Ofer USAF
+
+Ltr fr FBI dtd 9 Feb 59 ni pe
+w/l inel (2 cys) Chief, Sabotage and Espionage Branch
+
+Counterintelligence Division
+\\ Directorate of Special Investigations
+The Inspector General
+
+UPON WITHDRAWAL OF THE INCLOSURES,
+THE CLASSIFICATION OF THIS CORRE-
+SPONDENCE WILL BE CANCELLED © yews
+
+cape 7 Lue “3, Ols
+ee Maj Re M. Arentson
+
+\
+VU
+
+Declassification Authority: NND 923007
