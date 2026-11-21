@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T21:57:11Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3861979, "source_ctime_ns": 1793375414689654697, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28956134/0798.jpg", "source_mtime_ns": 1785696735000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28956134/0798.jpg", "source_sha256": "1c893f9022829b656e04a1ea16fee7a5ca92a1bf27303de2ec4c7dc15dfdcd87"}
+
+===== PAGE 1 =====
+{"alpha_words": 117, "chars": 867, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+‘ AIR INTELLIGENCE INFORMATION REPORT
+
+APPROVED 1 JUNE 1948
+
+"Slag Intelligence Section ae
+Hq 3505th Plt Tng Wg GARB, Miss Ai he ~The -3F-F3 pce 9 or 9 PAGES
+
+COMMENTS OF APPROVING OFFICER:
+
+Forwarded for infromation is copy of Wright-Patterson message
+31 August 1953:
+
+TO COMDR GREENVILLE AFB MISS
+/RESTRICTED/ FROM AFOIN-ATIAE~6=15-5, FOR INTELLIGENCE OFFICER
+REFERENCE SIGHTING OF UNIDENTIFIED AERIAL OBJECT ON 27 AUG 53
+
+BY M/SGT T O COOPER CAPT W D LEHMAN AIRMAN H H MACDONELL AND AIRMAN
+A B ARCENBAUX, RMQUEST THAT YOUR OFFICE PERFORM AN INVESTIGATION
+ACCORDING TO AIR FORCB LETTER 200-5. IN REPLY CITE PROJECT BLUE
+
+BOOK.
+
+No electrical report, was submitted from this headquarters, However
+Memphis Flight Servics waa votified immediately of the aighting by telephon.
+
+WN a
+
+Oo ; iGR AYN J ’ , heen
+DECLASSir IED AF ean
+ID DIR =209 2
+
+& Incite,
+
+UNCLASSIFIED

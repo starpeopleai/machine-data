@@ -1,0 +1,24 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T22:08:50Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5797667, "source_ctime_ns": 1793369359487248654, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28931546/0296.jpg", "source_mtime_ns": 1785688606000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28931546/0296.jpg", "source_sha256": "adad19a436ab4bbbf93f80986ddb8859fda85abf558c1d5518f2cde57e1b82ca"}
+
+===== PAGE 1 =====
+{"alpha_words": 30, "chars": 289, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+|
+oN
+~ ’ Py
+. inl
+TIAA. .
+, " vy ‘> a , o . ‘ P
+Jnsidoent 175 <- Suravevort, lowa e— 13 suptenver 1943
+shore is no astronomical exnlanation for this incident.
+e
+wn _ b | 3 » tao 5 ‘ * @ ys70 <7 ‘ +r
+{t a pears oroballe that a balloon was under observations
+‘
+td
+tly
+S
+
+4}
+; ete < :. j
+
+J

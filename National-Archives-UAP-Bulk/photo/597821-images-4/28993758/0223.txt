@@ -1,0 +1,21 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T22:18:53Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8398134, "source_ctime_ns": 1793385607340827219, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28993758/0223.jpg", "source_mtime_ns": 1785748079000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28993758/0223.jpg", "source_sha256": "6692807a5a0b324abca6eebaa4c2254b3d32ebc929e8bb815739db3055e6b573"}
+
+===== PAGE 1 =====
+{"alpha_words": 117, "chars": 823, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+/ PROJECT 10073 RECORD CARD
+1. DATE 2. LOCATION 12. CONCLUSIONS
+PS Ne aie et age r. 5434 Weed aes "eR ne OM Wos Balloon
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION eee seneen
+¥OLE, BOO ix O Was Airceaft
+PAN ds Mahe bret he . ° oO und- * f
+Local : Ground. Vi sual Gro Rodar iE UX Probebly Aireroft
+GMT O1004 45 O2OLLOZ O Air Visual O Air-Intercept Radar O Possibly Aircraft ts
+5. PHOTOS &. SOURCE i Wan Aubronomtedl (OVE ft Die
+Q Yes a |S Probably Astronomical
+ZENS Civilian D Possibly Astronomical
+7. LENGTH OF OBSERVATION 8. NUMBER OF OBJECTS | 9. COURSE O Other
+4 pis seconds OD Insufficient Data for Evaluctian
+ssid ra ve ; rae 0 Unknown
+4 . . Sh ieee) ’ ryt ah" styece meeryp 7) cle weet py - yy {-
+No. BRIEF SUMMARY OF SIGHTING Obgt coing NNE at 1. COMMENTSOOServers saw 2 separate signt-
+ATIC FORM 329 (REV 26 SEP 52)

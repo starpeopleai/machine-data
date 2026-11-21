@@ -1,0 +1,46 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T22:15:01Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7171259, "source_ctime_ns": 1793381260990083787, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28979678/1246.jpg", "source_mtime_ns": 1785701114000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28979678/1246.jpg", "source_sha256": "de0d4ee33e757e82312ad861838707c33f80bc25ec944e02584358d976233fd9"}
+
+===== PAGE 1 =====
+{"alpha_words": 142, "chars": 920, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+-
+
+Cher —— _
+
+SAFLI-1/Maj Van Dyk/m1f/78692/31 Oct 58
+; SAFLL = 69313
+
+* le
+MY, 195
+ite
+Deer Senator Lausches
+
+The Secretary of Defense has asked that I | |
+reply to your inquiry relative to the interest of . |
+ic. of Cleveland, thio, concerning
+
+5 st flights of unconventional aircraft
+
+B
+or nissiles in the Cleveland area on or about
+18 Auguat 1958,
+
+The Air Force has no knowledge of flichts of
+YR: this nature in the Cleveland area on that date.
+
+Red LL 3 Oct/Fwded 6 Oct to SAFIS
+Draft reply red fr Maj Tacker. Retrna = 1noerely yours, cc: coorp
+
+to SAFIS for more responsive reply, on Signed: COMBK
+27 Oct w/ss 31 Oct 58. SAF
+Finl ltr prep/fwded 31 Oct based on sug- OSD = 3A948
+gested reply frm Maj Tacker per RS dd 28 YW. P. FISKE STAYBACK
+Oct 58. CORRES: RS fr Sen to OSD dd Fb A
+
+26 Sept 58. Major General, USAF
+
+Legislative Liaison
+
+Inclosure
+Honorafie Pink 3. ‘Eaischs °° 0) * S°P* en
+
+United Stetes Senate

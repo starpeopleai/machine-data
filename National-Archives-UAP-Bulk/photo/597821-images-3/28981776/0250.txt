@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T22:13:30Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6931401, "source_ctime_ns": 1793381835091869335, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28981776/0250.jpg", "source_mtime_ns": 1785701074000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28981776/0250.jpg", "source_sha256": "49874fdafefaec0bad7bae71baffa932f5b2c02fb76030849c90b3f042cfc3a4"}
+
+===== PAGE 1 =====
+{"alpha_words": 97, "chars": 766, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+edt PROJECT 10073 RECORD CARD
+
+1. DATE 2 LOCATION 12, CONCLUSIONS
+O Was Balloon
+2h Jan 59 Brooklyn TY. 5 ier = te Ma
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION ee
+O Was Aireroft
+Local : [&Ground- Vi sual O Ground-Rader O Probably Aircr oft
+GMT 24/1202 O Air Visvel O Air-Intercept Rador |2 Possibly Aircroft
+S. PHOTOS & SOURCE O Was Astronomical
+O Yes O Probebly Astronomical
+Ne Civilian O Possibly Astronomical
+7. LENGTM OF OBSERVATION 8. NUMBER OF OBJECTS | 9. COURSE OcxOrher_ Prob Reflection
+O Insvufficiens Dete for Evaluotion | .
+nknown
+125 secs one stationary
+10. BRIEF SUMMARY OF SIGHTING 11. COMMENTS
+Oval, bright silver obj, size of dime. Probably sun reflecting from
+Obj viewed twice, third observation it was an ac.
+
+gone.
+
+ATIC FORM 329 (REV 26 SEP 57)

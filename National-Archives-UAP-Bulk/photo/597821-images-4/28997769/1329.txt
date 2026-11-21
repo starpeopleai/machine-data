@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T21:57:41Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3963133, "source_ctime_ns": 1793386907874004093, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28997769/1329.jpg", "source_mtime_ns": 1785748008000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28997769/1329.jpg", "source_sha256": "cb46e0d50f17801f56a610f87d5727d4b21b8c62519a691fbc2b2fd3aef0dc49"}
+
+===== PAGE 1 =====
+{"alpha_words": 104, "chars": 807, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+1. DATE | 2. LOCATION 12. CONCLUSIONS
+} Was Balloon
+> : Dayton, Ohio Q Probably Balloon
+i ee cn
+3. DATE-TImM= GROUP a TYPz OF OBSERVATION Cede My Bareon
+. OI ia 5 Q Was Aircraft
+: i Gr - ¢ ie} und- a
+Local 3 : G Ground: Vi sual Ground-Redar O Probably Aircraft
+CMT Feds: | G Air Visual O Air-intercept Radar 0 Possibly Aircraft
+3. PHOTOS | 6 SOURCE s O Was Astronomical
+0 Yes OQ Probably Astronomical
+“= Ne | ‘vwilian O Possibly Astronomical
+7. LENGTH OF OBSERVATION i$. NUM3ER OF OBJECTS | 9. COURSE O Other
+fr Insufficient Data for Evaluation
+by i pa O Unknown
+10. BRIEF SUmMARY OF SIGHTING 1. COMMENTS
+sy { Aa 3 i oO ! yor l 2 § l . ‘ 7,
+} josacor iy} 1 Ro , 1 ‘ht! he on
+i ed r *h in a: St a) } ‘ ; Ls t " Pa as if
+ii yt we) ay J , ' , ) i
+tad
+
+ATIC FORM 329 (REV 25 SEP 52)

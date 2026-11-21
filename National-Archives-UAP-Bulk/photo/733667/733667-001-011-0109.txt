@@ -1,0 +1,51 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T21:54:30Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3147274, "source_ctime_ns": 1793394204772409262, "source_file": "National-Archives-UAP-Bulk/photo/733667/733667-001-011-0109.jpg", "source_mtime_ns": 1785567336000000000, "source_rel": "National-Archives-UAP-Bulk/photo/733667/733667-001-011-0109.jpg", "source_sha256": "3e628d1795d767bf516239f68da4540f3453d8fa10651c98ead2970c91b5961f"}
+
+===== PAGE 1 =====
+{"alpha_words": 343, "chars": 2231, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Federal Agencies Digitization Initiative Still Image Working Group — August 2010
+
+Table of Contents
+
+SN CLOSES 2
+ee OA 4,
+Raster Image Characteristics ...... 4
+jennie Msc, 61 011011 MOC CANONICAL 4
+Soe ee i es CICA UMNO NIUNUNNNNNIIUUUNNNONNNONNUUNNNNUIINQIIINIUIUI 4
+So eee OOO AMON ONCOL ANNINCINNNNIINIONNNANINNOIINUIIMNNAINICIUUINU m
+Digitization Environment...... 5
+bee ee ee ee ee MCN AC CAM CMCU UMMC MAMOMUUCNNNUIIINNNOIQUONOUNIIINU 6
+Peon Sette Meer Ane Nieto 6
+Ce eT ee AON OOMN MIMO OMWOIOOAN OCMC ONION 6
+Ee eg ne le eee re sr cc CCM OSMIUM QMO 6
+Wifosnitcral Bcitlor eta MOO ff;
+Quantifying Scanner/Digital Camera Performance. ..... IREREEAYASS TERED SEREE SaRANSERRLESEHARTE vj
+TE ee CALC ONC fj
+oon et elite tirnre Ol otic lel Ne.
+Pee ilnieciapstesslen acini aot iaile cdot CC OM 14
+FD ee oe net are ee re tel Te A 15
+Pie eve emer Cite iS 29
+Dy kate) ghee nen eho Keita all Ga nebo a alle C96) 2 1 AMOS ONA OC NOHO UNOL UUM CO MOU OUN ONICHA OOO UOMO 34
+Reference Targets.......... L 34
+Targets — Device-level and Object level... eee eee eee che)
+nese. a Fe ll BL rag ig 9 (68 Co ty ee ore Ll eee eee ec er ee CAA at
+Peigccicwge di Manco thal onl ce etree UMA Bie
+PICU sah 220 eee ec ee |
+veel rl bs to S62 0 a eee ee Le eT ee OKC 38
+Pigtocion kien be City UN se oh OCC CMON TN UA OOOO COACH CHOU 38
+lI. Ce ed en ee eee ce ee ee eee eC 39
+Adjusting Image Filles..............csccsescsseesoees a seeseseeesconscessesssesscccesssesonees sessseresscososocescoesssoosesoessococcooces 39
+OT eee error ee NCCC MMU COCO HOUMA UU 39
+SCANS ATO GIN ee eee see CU shes a8 TT My 40
+Aimpoints for Photographic Gray Serileel Se 42
+Atenas Ano inicOn Ct en otto l ete a
+ce.) ee a ee ee ee 4.4
+heaves honk td ube eect Mle OIC AAMC NCCAA MILONIC ULOQMIEONUQOIUUOCNUUUON COCO OOPUUNMUM UO 44
+
+|
+Seen ED te ee eee oe Oe Eee CT eer rec rrricc cece cece s ee esr dsr ee NNN 44
+Intennahene Conn th nee ver 45
+SE COOOL OBCON TUN CMIAUDUCSOCCN CCNA VOUOUCCUNUNUOINCIGANCMUACCMAOI UC IQAUNMPAUNNOCUNGONKONULOUOCCAUINUINIUUUNNNAU.IUIGMUNNIINUNNUI 45
+Pacrcrerssmiet aN) AMON NCONU MCCAMMON CSUN 46
+de ee eT Te ee OCCU CACO CCC MU COICO 46
+
+Technical Guidelines for Digitizing Cultural Heritage Materials: Creation of Raster Image Master Files

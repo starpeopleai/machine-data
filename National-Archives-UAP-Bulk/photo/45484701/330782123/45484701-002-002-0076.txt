@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T22:20:44Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8992509, "source_ctime_ns": 1793362070618901596, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330782123/45484701-002-002-0076.jpg", "source_mtime_ns": 1785684946000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330782123/45484701-002-002-0076.jpg", "source_sha256": "440950726dec7c85b6b35004be971b866ebcc6e42bbac7209c89c48fedde1a25"}
+
+===== PAGE 1 =====
+{"alpha_words": 95, "chars": 576, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ae we ae cm
+April 15, 1939
+
+undersigned, Wil: 1 As Driggera, do hereby employ
+John W. Loeber, 809 Calvert Building, Baltimore, Maryland, as
+
+lawful attorney in the matter of my claim against the Gray
+
+Goose Airways, ince, in the amount of 7149.63 and
+
+om
+
+agree to pay my said attorney as his fee, 40% of any and all
+
+anounts of money paid to me in settlement of this claim
+against the & Goose Airways as his fee for services
+rendered,
+
+‘4
+
+s/ Willard A. Drig
+
+RN RE LT AN A AO NR AAD 9 I Maat ME DENS CM ABORT, Mane oR NAR AIE
+
+LLeors
+
+Declassification Authority: NND 923007

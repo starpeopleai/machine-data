@@ -1,0 +1,45 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T21:49:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1706516, "source_ctime_ns": 1793391051611883251, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302555216/0345.jp2", "source_mtime_ns": 1785808363000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302555216/0345.jp2", "source_sha256": "db0dba97f5899db77eee930787104a1f7ac37b126d756b23e95cb13b4cf36d32"}
+
+===== PAGE 1 =====
+{"alpha_words": 96, "chars": 652, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+[ [ caper jae &
+ee ‘OCT 9 tgs7
+
+2 ppeT/uro . (Maj. Quintenilla/70916/jaf/9 Oct 67) eta
+
+UFO Observation of 25 August 1966
+
+a
+.. Oakland, California 94611 ‘
+
+ee a a |
+Mas Dear te
+
+Pa Inclosed are the negatives of your 25 August 1966 sighting.
+Because the negatives of the UFO are so underexposed,photo analysis
+is impossible.
+
+However, we thank you for reporting your sighting to the Air
+Force. ee
+Ree
+
+Sincerely,
+
+£
+
+|
+
+é
+
+TOR QUINTANILLA, Jr, Major, USAF 1 Atch
+lef, Project Blue Book Negatives
+
+TDET/UFO OFFICIAL FILE CY
+
+r
+
+-
+i
+rye Is ‘
+al . —_— rt peepee erp Pty Raber ana eee AP BAT Coe 2 Pa i “ vere ies
+‘ ‘ Wye , : , v's ’ ase ¢ . . a Mi ad “*

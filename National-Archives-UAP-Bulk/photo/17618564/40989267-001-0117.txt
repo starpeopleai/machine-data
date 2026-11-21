@@ -1,0 +1,62 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T22:28:07Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 14836175, "source_ctime_ns": 1793355533034252226, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0117.jpg", "source_mtime_ns": 1785564472000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0117.jpg", "source_sha256": "40770ec05c873ecc0ec81c61a3dbd3effeea9e873b2c81c40ed708d4968606c1"}
+
+===== PAGE 1 =====
+{"alpha_words": 72, "chars": 654, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+EE
+
+224
+225
+
+(IDEAL
+
+FABRIC )
+
+40,000 FEET
+30,000 FEET
+
+4 20,000 FEET
+
+0,000 FEET
+
+SEA LEVEL
+
+———|
+
+TI pana ETER
+PACK FACTOR: 2
+
+(CUBIC FEET)
+
+(FT3)
+
+PACKED VOLUME
+
+rok
+
+VOLUME
+
+ENVELOPE
+
+PARAMETERS (pada onthe
+
+5 | METALIZED ENVELOPE MATERIAL. | —+——J
+fi] /| BALLOON AVERAGE INTERNAL oc.
+
+‘ TEMPERATURE (T,) = 250° F. |
+
+A.R.D.C, MODEL ATMOSPHERE. | |
+
+i | FUEL ALLOWANCE IS FOR IHR.
+OF LEVEL FLIGHT.
+i - eae cachialialaianii a adcaceilainaits
+
+0 100 200 300
+B
+ALLOON OIAMETER (FEET) BALLOON DIAMETER (FEET)
+
+Figure 11
+| Tankage Volume Vs Balloon Diameter
+
+Einvelo 2) .
+740DS I qacke ‘ ex i 4
+| icked Volume Vis Diameter Figure I PAe Burner, Fuel, and

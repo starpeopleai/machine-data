@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T21:55:53Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3627454, "source_ctime_ns": 1793372122990054597, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28941423/1021.jpg", "source_mtime_ns": 1785688520000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28941423/1021.jpg", "source_sha256": "747fc080835bb113c822ea9037f8a95a9793c5a80519c9a41779328829fc0b3c"}
+
+===== PAGE 1 =====
+{"alpha_words": 100, "chars": 724, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+is <a Ks
+MEADQUARTERS SIXTH ARMY
+
+PRESIDIO OF SAN FRANCISCO, CALIFORNIA (
+Office of the Assistant Chief of Staff, G«2
+
+SUBJECT: Intelligence Spot Roport
+
+TO: Commanding General \
+Air Tocanical Intelligence Conter \
+Wright-Patterson Air For ce Base
+
+Dayton, Ohio
+
+1. Roferense your masago APOLINATIAA-“S235E. Porwardsd herowith
+is copy of htaaandiad report received from Ywra Tost Station.
+
+2- A copy of this correspondence was sont to AC of Sy G2, Departe-
+
+mont of the Army and Wostern Air Defouse Forces, Hontlton Air Fores Pase,
+Hawilton, CUslifornia.
+
+wee Ce
+1. Ltr dtd 25 Apr 52 Colonel, GS
+2. Statement AC of S, G~2
+
+$3. List of rans , pi
+
+DOWNGRADED AT 3 YRAR INTENVETS:
+DECLASSHISD AVTER 12 YEARS.
+
+DOD Dik 6200.10

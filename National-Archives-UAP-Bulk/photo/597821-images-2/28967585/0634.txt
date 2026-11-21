@@ -1,0 +1,51 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T22:13:55Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7022947, "source_ctime_ns": 1793378318304270010, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28967585/0634.jpg", "source_mtime_ns": 1785696736000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28967585/0634.jpg", "source_sha256": "21d370925d6a9bae33cafad91ef47bfb65099379b69d8607f3c9e9a20d244494"}
+
+===== PAGE 1 =====
+{"alpha_words": 87, "chars": 637, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+W
+JEDWVP H249PE239 YMC358FLA956
+RR RJEDEN RJEDWP RJEPHQ
+
+19 Szp ke 09°20.
+
+DE RJEDFL 4P
+
+R 4817252
+
+Nude
+
+‘
+
+¥M CMDR 782ND ACWRON ROCKVILLE AFS IN
+
+TO RJEDEN/CMDR ADC ENT AFB COLORADO SPRINGS COLO
+
+INFO RJEDFL/CMDR 58TH AIR DIV /DEF/ WPAFB DAYTON OHIO
+RJEDWP/CMDR AIR TECHNICAL INTELLIGENCE CENTER WPAFB OHIO
+RJEPHQ/DIRECTOR INTELLIGENCE HQ USAF WASHINGTON 25 Dc
+
+BT
+
+/ UNCLASSIFIED/ INTEL 587. SUBJECT s UNIDENTIFIED FLYING OBJECT REPORT.
+IN ACCORDANCE WITH AIR FORCE REGULATION 289-2 , DATED 12 AUGUST 1954,
+
+THE FOLLOWING IS SUBMITTEDS
+
+ITEM Ie Ae
+Be
+C.
+D.
+Ee
+F,
+
+EGG
+
+NICKEL
+
+SILVER
+
+ONE
+
+NOT APPLICABLE
+
+ESTIMATED 59 FEET DIAMETER

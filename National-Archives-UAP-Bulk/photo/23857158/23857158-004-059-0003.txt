@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T22:24:54Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 11379794, "source_ctime_ns": 1793358860801003205, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-059-0003.tif", "source_mtime_ns": 1785681241000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-059-0003.tif", "source_sha256": "01a72f129d76fadcdd0ab6e876c68a788a492ca2126ae561d522fb672994934b"}
+
+===== PAGE 1 =====
+{"alpha_words": 129, "chars": 893, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Declassification Authority NND 923007
+
+ATSOP . Long Distance (TLesLine) Telephone Call
+Comar, 602d ATSS ATSOP : 28 Nov 55
+0930 hours
+
+Tie-Line Call
+8/Sgb DeRudder/ksh98
+
+ese UB FOR RECORD:
+
+le Telephone conversation between S/Sgt R. DeRudder, nesammerters, and Capt.
+Hens Rischofs, Det 2, 6024 AISS,
+
+2, The undersigned called Det 2 with respect to a limited follow-up investigation
+of a UFOB sighted at Lomax, Tllinois, on 25 Nov 55.
+
+3. It was requested that Det 2 obtain the negatives or prints of three pictures
+taken of the UPOB, It was also requested that Det 2 utilize ATIC Porm 15h while
+questioning the observers as to the location and availability of the pictures,
+
+he AP Fo mm 112 will not be submitted on this sighting but any ATIC Forms 1S)
+which are co mole ed by the telephonic investigation will be forwarded to headmarters.
+
+Ronald D, DeRudder, S/Sgt, USAF
+ATG, UFOB Program

@@ -1,0 +1,37 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T22:11:12Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6118315, "source_ctime_ns": 1793355001080717102, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989256-001-0080.jpg", "source_mtime_ns": 1785564375000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989256-001-0080.jpg", "source_sha256": "e3ddb689dc3c5a9e4f6f2c9b1fa37be641df45bc0c6d6ef59ed090156eccea2e"}
+
+===== PAGE 1 =====
+{"alpha_words": 138, "chars": 1034, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+|
+
+BALLOON MISSION
+
+PUBLIC INFORMATION RELEASE
+
+1. Balloon flight //7&-/ $_____was launched from_ HAF.
+“PGP3_» /Bn0R TE. The launch was accomplished by
+
+personnel attached to the Air Force Cambridge Research Laboratories,
+Detachment 1, which is located at Holloman AFB, NM.
+
+-
+
+The balloon, which is made of this plastic material, has an inflated
+
+volume SID Mcft
+
+The flight, which reached an altitude of _ (4.5 kepees conducted in
+
+port of a Government sponsored high ae meteorological research
+proses in Cone ance with Federal Aviation Administration regulations.
+4, The balloon is tracked and controlled by AFCRL personnel using radio
+telemetry and direction oe equipment.
+If additional information is required concerning the balloon flight,
+contact: dolloman AFB, NM Public Information Office, Autovon 867-4406 or
+(505) 479-6511, Ext 4406; = Det 1, Air Force Cambridge Research Labor-
+
+atories, Holloman AFB, NM, Autovon See. ore. (50594:479-651 1 5. Bxe 442k.
+
+6. This information was called sae on SEHAR ZL by
+
+WMsat F hipelg

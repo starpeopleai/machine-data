@@ -1,0 +1,52 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T21:49:18Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1705520, "source_ctime_ns": 1793389491093212004, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302541366/0202.jp2", "source_mtime_ns": 1785808314000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302541366/0202.jp2", "source_sha256": "2996d084000ce73ee73e975bb435e5cd5a930cc9b1d403a26be9faa1640f2891"}
+
+===== PAGE 1 =====
+{"alpha_words": 230, "chars": 1478, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Page 2
+
+8. IF you saw the object at NIGHT, what did you notice concerning the STARS and MOON?
+
+8.1 STARS (Circle One}: 8.2 MOON (Circle One):
+a. None a. Bright moonlight
+b. A few b, Dull moonlight
+¢. Many _ €. No moonlight — pitch dark
+
+as NSs. FP EREERS RMR Bane . AEA oo, SRLS PR ee .
+a “d. Don’t remember>  - Gd, Don't remember,
+
+ames - a
+9. What were the weather conditions at the time you saw the object?
+CLOUDS (Circle One): WEATHER (Circle One}:
+b. Hazy: ’ bh. Fog, hist, or light rain
+c. Scattered clouds c. Moderate or heavy rain
+d. Thick or heavy clouds d. Snow
+@, Don’t ramember
+
+10. The object appeared: (Circle One):
+
+tT ae
+a. Solid <d. As a light>
+b, Transparent e. Don’t remember
+c. Vapor
+
+1]. {f it appesred as a light, was it brighter than the brightest stars? (Circle One):
+
+cae “Bri ghter > c. About the same
+b. Dimmer d. Don’t know
+5 ieee a tig Aer ¥ sees!
+12. The edges of the object were:
+(Circle One}: a. Fuzzy or blurred e. Other
+b. Like a bright star
+c. Sharoly outlined Reet Wea
+(a. Don't remember” oe Pe Oe
+= en reese
+13. Did the object: (Circle One for each question)
+a, Apoear to stand still at any time? Yes Ne Don't know
+b. Suddenly speed up and rush away at any time? Yes No < Don’t know)
+c. Break up into parts or explode? ayes No Don’t know
+d. Give off smoke? Yes No (Don’t know
+e, Change >rightness? (Yes) No Don't know
+f. Change shape? Yes No (Don’t know”
+g. Flash or flicker? Yes Mo Don’? know
+
+h, Disappecr and reappear? Yes No Don’t know

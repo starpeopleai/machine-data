@@ -1,0 +1,7 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T22:22:48Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10415867, "source_ctime_ns": 1793364089101536338, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330786509/45484701-006-006-0083.jpg", "source_mtime_ns": 1785684583000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330786509/45484701-006-006-0083.jpg", "source_sha256": "57aa6db14d4ff13e117ed071e560d841a536a2db7318da40399b9df2152ab67a"}
+
+===== PAGE 1 =====
+{"alpha_words": 10, "chars": 69, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+TONER SAS BR Racy ar roe Ora
+
+Declassification Authority: NND 923007

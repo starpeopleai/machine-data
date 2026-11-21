@@ -1,0 +1,72 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T21:50:20Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1712784, "source_ctime_ns": 1793391486067002824, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302558989/01030.jp2", "source_mtime_ns": 1785808697000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302558989/01030.jp2", "source_sha256": "79768a05e6943b0995d9e78284383c56e16dd10ee1203a5d56895199a24e8c56"}
+
+===== PAGE 1 =====
+{"alpha_words": 93, "chars": 671, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+*. s PROSECT 10073 RECORD
+
+i DATE - TIME GROUP 2. LOCATION
+
+9 Dec $6 10/01102 Johnson City, Tennesses
+
+1)
+
+» SOURCE 10. CONCLUSION
+
+uw!
+
+Civilian
+
+Looe
+A
++
+2
+ry
+re
+
+Fy
+cr
+ce
+iM @
+4
+G
+
+$4
+wy
+at
+Ye
+
+~
+
+<\.
+
+4. NUMBER OF OBJECTS
+
+One
+
+wn
+
+« LENGTH OF O8SERVATION 11. BRIEF SUMMARY AND ANALYSIS
+
+N/A
+
+Observer watched a blight flashin-
+6. TYPE OF OBSERVATION eastern sky and move slowly towaorc
+vround Visual 1x a round thing that gave oft «4
+approximately one second interva.e.
+he - e ee pe a ye me ee
+vyunne Several things in the past Tew coulis
+Si
+‘
+
+a
+
+PHOTOS
+
+9. PHYSICAL EVIDENCE
+
+O Yes
+
+fF} No
+
+FORM
+FTD sep 63 0-329 (TDE) Previous editions of this form may be used.

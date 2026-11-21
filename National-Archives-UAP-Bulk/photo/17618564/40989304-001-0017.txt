@@ -1,0 +1,59 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T21:53:55Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 2218950, "source_ctime_ns": 1793356130490473615, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989304-001-0017.jpg", "source_mtime_ns": 1785564615000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989304-001-0017.jpg", "source_sha256": "e1085ad8da7bfb40d071b83dcc0030cba54b540d3fb3d61a5bbc4b874fcd1a8e"}
+
+===== PAGE 1 =====
+{"alpha_words": 418, "chars": 2931, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+SPILL ORDEPS HE/DUURTERS ROSWELL NY IR FIELD
+IU DER 115 ‘  NOS"ELL PST NEXICO =: 12 «JUNE 19h:7
+
+16. CFT (2120) LOUIS SCHAFFER, 037330 is rold from asgd Sq
+ngn, L27th J.FBU (Sif). Off prosontly on ordinary lv ‘at Lavis Courts, Boute #3 °
+Bex 103, Sm'’-ntenio, Tox. WP from address on lv o/n 22 June hi? to 2532nd LAFBU,
+Randolph Fld, Tex (AC) for epee undergoing Primary Pilot Tng Course, to rom
+port not later tien 23 Juno 7 roporting to the CO thoraat. (Basic 4/S-iC) (Dy
+B/S!) (Rietion rrtod) Mm (Cat RA) (Oversoas sv: 11 Nos) (Rot 20 dug U6). iuths
+Hq 82F TK 2.103 1630, 6 duno h73 adF Reg 35-59 deted 22 ‘pr h73 84F Reg 35-7
+al 7’Jon 7. EDC!Ms 23 Juno tv. POS TP’, TO 701-52 P L31-02-03-07-08 £,2170h25
+599-9996 :
+
+17. T/Sgt (800) Erncst Thomas, 10635305 4c (‘f) is rold from
+atehd mnased Det of Patients this stn on! trfd in er to Det of Pationts, .rmny
+and Yovy Gi, Yot Springs, ‘yk, UP 0/2 13 Jno 17 reporting to the CO thereat for
+hospitalization and treatment. Upon conol of hospit lizntion’ and troatment :
+roquest EI! bo rot to Sq """ L28th AAFRU, Kirtland JAFld, Albuquerque, !" (0x6
+Tvl by cdr Evacuation is directod, ‘uth: TX, CG hth Army, Ft Sam Housten, TcXey
+drted 10 dmoli7s 8.F Reg 35-7 dated’7 Jon h73 °D Cir 87519L65 /.LF Rog 35459!
+drted 22 ipr 7, EDsINs 14 June h7. FOS TM! 701-52 P 131-02203-07=08 42170125
+$99=999 6 '
+
+; 18, Fol named off '6 (2) aro rold from aged 715th Bon Sq,
+Yodth Bomb Gp, RAFld, Rosmll, MN Nox (S/S) and trfd to 2532hd'AAFBU, Randolph
+Fld, Tox (10). “iP o/n 18 Juno 7? roporting te the CO thoroat not“later than —
+23 duno L7 for purp7se of undorgoing Princry Pilots Tne Course. Off avth three
+(3) day dolsy onroute,in accordance with “Pf 600-115. Juths Ha BAF, T’X 4.105,
+1639 6 Juno ‘hs “OF Kop 35-59 datod 22 Jpr hi7s3_ O.F Reg 35-7 dated 7 Jan 7.
+TOT TPL THe, FOS 701-82 P31-02-03-07-08 1.217025 '$99=999. EDC!N: 23 Juno Lr
+
+C!FT (103) Pons” B MOKAY, 0-71721;7 (Basic ../S='C)(Dy h/S=!C) (Saved flying
+atotus) (2) (nt I)(Oversons svt 15 ‘09, ); July 4)
+
+CFT (103k) YBTETH R VM ZMDT, 9-2065858 (nrsic 4/S-iC) (Dy A/S-'C) (AUSNav On
+fbvine ntatuc)(") (Ont 1)(ovorsuns sv: 18 "0s, 25 May 1:6)
+
+19, Fol named EN /0 (‘7) sro‘rold from atchd unis Dot of Patly
+dents this sia and trfd in cr to Det of Pationts, “Alliam Boaumon GH, EL Paso,
+Tox, "PD ofa 13 Jeno hi? reporting to tho CO thcroat for hospitalization snd
+treatments Upon comnl of hospitaliasttion and troatmont roquost EM be rot to
+3q "Bp" 128th |.FBU, Kirtland «Fld, */lbuquorque, N Mox, Tlv by Air Svacuation
+43 d4roctod, snth: TK, CO Lth ‘rmy, Ft Sam ‘ouaton, Tox, dated 10 Juno a LiF
+Rag 25=59 dntod 22 ‘pr L7s BAF Rog 3847 dutod 7 Jan 47. POS TDN 701-52 P 31-02
+03207208 1.2170L25 399-9996 MOMs 16 Juno li7e
+
+Pfc (000) Albort V Howard; 1.19293250
+Pfo (800) John B Dongyp ily T1213 219
+RESTRICT aD
+
+We wa A Adi aliet Vas ; CPLA Rr Lt Peak Oh es
+fib Ad pAb ee ty dah AL ( ap Ob Bae 4
+
+¥, haha fr AN 4 Vas Mad rat
+iA oy ‘

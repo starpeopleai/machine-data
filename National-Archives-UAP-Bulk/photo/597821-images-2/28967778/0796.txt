@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T22:09:22Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5854081, "source_ctime_ns": 1793378377757728889, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28967778/0796.jpg", "source_mtime_ns": 1785696600000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28967778/0796.jpg", "source_sha256": "08dd0247e9ca768b1f640e425a5e1a8ebfe8aa8488ad3a3efb1838b2d96a1504"}
+
+===== PAGE 1 =====
+{"alpha_words": 119, "chars": 932, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD :
+
+1. DATE 2. LOCATION 12. CONCLUSIONS
+; 0 Was Balloon
+October (7?) 1956 Newington, Connecticut Q Probably Bolloon
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION O Possibly Balloon
+, O Was Aircraft
+Local XIMGround- Vi sual QO Ground-Radar OQ Probably Aircraft
+GMT 0 Air- Vi sual QO Air-Intercept Radar O Possibly Aircraft
+5. PHOTOS 6. SOURCE 0 Was Astron>mical
+x Yes 0 Probably Astronomical
+0 No Civilian 0D Possibly Astronomicol
+7. LENGTH OF OBSERVATION 8. NUMBER OF OBJECTS | 9.. COURSE D , Other.
+igre ih i7 oo thee Data for Evaluction
+not reported one not reported ee ean
+10. BRIEF SUMMARY OF SIGHTING 11. COMMENTS
+Letter from youth with photos of UFO Photos too old and information
+| taken two years previously. provided was insufficient to
+DIOP C Tpke tiene testes nticendininnim leh, ©
+mm ta O yor
+a Ooh j
+ie ~ O }
+4 EE 3] es
+B32 F
+5 a
+ ° % ‘. w"
+to tg 2
+f . |
+ATIC FORM 329 (REV 26 SEP 52) »e* ste a |

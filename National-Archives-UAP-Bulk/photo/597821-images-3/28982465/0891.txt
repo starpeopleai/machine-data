@@ -1,0 +1,48 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T22:08:03Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5713357, "source_ctime_ns": 1793382030554757112, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28982465/0891.jpg", "source_mtime_ns": 1785700658000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28982465/0891.jpg", "source_sha256": "1f71743a46238a02990c4409da40a0d74d242d31a72aa74522413dfa4caa92a6"}
+
+===== PAGE 1 =====
+{"alpha_words": 63, "chars": 498, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Wap ebayer ai -
+
+9 NONE :
+1 LICHT ON GLASS :
+2 CROSSING FORT TO STARTOARD HICH
+5 SOUTH
+
+|
+
+4h HEADING 19° ON STRAIGHT COURSE
+5 PASSED OUT OF RANGE (
+§ TWO SECONDS
+
+Ce
+
+1 EYESIGHT .
+2 MONE USED
+
+3 ABD, 18,°6%, 497, 384, NORTH ISLAND NAS CVAH4S) SAN DIFCO, CALIT.
+
+De
+
+1 134738
+
+2 NIGHT/CLEAR
+
+Fe 33 20N, 128 1¢W OR 37 MI SOUTH OF OCEANSIDE, CALIF
+
+Fe
+4 NZA
+2 COMMANDER MOORE, VAH4S, NORTH ISLAND@RELIARILITYS EXCELLENT
+
+Ge
+
+PAGE THREE RJWZJRPS
+1 CLEAR
+
+2 CALM
+
+30° 76
+
+260 /E
+
+2677S ae | alee nf |

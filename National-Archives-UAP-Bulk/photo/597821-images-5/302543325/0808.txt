@@ -1,0 +1,22 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T21:43:40Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 980553, "source_ctime_ns": 1793389735570556283, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302543325/0808.jp2", "source_mtime_ns": 1785808303000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302543325/0808.jp2", "source_sha256": "eeba80d5e7444d47a808cfe44f976b44f2705f4047693835f407e32f0efea816"}
+
+===== PAGE 1 =====
+{"alpha_words": 84, "chars": 557, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+TDEW
+Request for Radar Analysis, Wichita, Kansas ons ts
+
+TDEED/Mr Kalinyak 2,-» » v20/
+hed radar scope pictures on
+
+a) Request radar analysis of the attac
+Coed 35 mm microfilm reels 65-26 and 65-27 frm IcT Wichita, Kansas.
+er Also request that this analysis be completed as soon as possible
+ep: | as ‘the Secretary of the Air Force, Office of Information is
+
+me waiting for the results.
+
+aay oat QUINTANILLA, Jr 3 Atchs |
+
+‘ra Major, USAP 1. Ltr fm ETAC/DPD, 12 Aug 65
+snp Chief, Aerial PHenomena Branch 2. Reel 65-26, Wichita, Kansas
+Stas 38 65-27, " ‘ee

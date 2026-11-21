@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T21:55:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3367390, "source_ctime_ns": 1793380687463238873, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28977766/0919.jpg", "source_mtime_ns": 1785701086000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28977766/0919.jpg", "source_sha256": "316d81f3bc59d6ffea59b0759bb5359167ba6a336c2bee44513f80a74128c1b9"}
+
+===== PAGE 1 =====
+{"alpha_words": 46, "chars": 372, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+(AFR 190-16) \@sAA
+
+AFCIN-lE, ATIC, 21 May 58, Subject: Request for UFO Investigation,
+
+ley
+
+Manitowoc, Wisconsin Incident - 12 April 1958
+ATHLS lst Ind
+
+1006th Air Intelligence Service Squadron, Ent Air Force Base,
+Colorado, 26 May 1958
+
+TO: Commander, Detachment 7, l006th AISS, Snelling Air Force S
+Minnesota
+
+<_~
+1 Incl ( Me
+
+n/c ie Pe re ay ——e
+p ras
+
+~. —
+
+tation,

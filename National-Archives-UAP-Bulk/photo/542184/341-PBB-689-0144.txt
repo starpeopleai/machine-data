@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T22:25:32Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 12174869, "source_ctime_ns": 1793366731642564840, "source_file": "National-Archives-UAP-Bulk/photo/542184/341-PBB-689-0144.jpg", "source_mtime_ns": 1785565583000000000, "source_rel": "National-Archives-UAP-Bulk/photo/542184/341-PBB-689-0144.jpg", "source_sha256": "65a9a1d559f3c8d32dbaf2dc585c52314e52f811ec0cd70cdfd9883b83e989f7"}
+
+===== PAGE 1 =====
+{"alpha_words": 7, "chars": 111, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 1, "variant": "plain-psm3"}
+fs V1)
+
+| /
+
+“PALANAN
+
+-
+"
+,
+‘
+° A ad
+5
+*
+*
+‘ : ! -” #
+%
+¥
+« . .
+ote ’
++ my >» ~
+5 ~e ~ . wiht F
+« ae ®
+‘
+2 ‘

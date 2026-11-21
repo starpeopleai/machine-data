@@ -1,0 +1,53 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T21:53:01Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1755364, "source_ctime_ns": 1793390377963102671, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302549439/0545.jp2", "source_mtime_ns": 1785808105000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302549439/0545.jp2", "source_sha256": "5bf64c5d7cfc5a268582dc641b3424f1d9829ede1c44663898752085312e61a3"}
+
+===== PAGE 1 =====
+{"alpha_words": 126, "chars": 880, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+per ' Aes ek 4 ISNA Ne NOH MANDY ARO AT ‘ ee
+
+ee
+
+PROJECT 10073 RECORD
+
+F .
+
+[|. DATE - TIME GROUP 2, LOCATION
+
+8 April 66 09/0200-05002 Colorado Springs, Colorado (1 Witness)
+3. SOURCE 10. CONCLUSION
+
+Civilian Astro (STARS/PLANETS)
+
+4. NUMBER OF OBJECTS
+
+Three to Six
+5, LENGTH OF OBSERVATION |11. BRIEF SUMMARY AND ANALYSIS
+
++
+
+3 Hours Objects were round, about the size of a half dollar, red, gre
+
+and white in color. White haze surroundiny the objects. Moti
+was erratic and seemed to bounce around. Objects were visabl
+Ground-Visual for at least 3 hours. Slow change of position, length of time
+
+of sighting and white haze sndicates a bright group of stars
+seen through a thin cloud layer.
+
+é TYPE OF OBSERVATION
+
+7. COURSE
+
+Erratic, Bouncing
+
+6. PHOTOS
+
+O Yes
+BIXNo
+9. PHYSICAL EV!DENCE
+
+O Yes
+
+§RxNo
+
+FORM
+FTD sep 63 0-329 (7DE) Previous editions of this form may be used.

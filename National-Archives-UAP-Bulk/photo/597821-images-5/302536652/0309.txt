@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T21:44:09Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1001060, "source_ctime_ns": 1793389122918682219, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302536652/0309.jp2", "source_mtime_ns": 1785808110000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302536652/0309.jp2", "source_sha256": "e37b3d1bc4c9e19e1afd2b4117ef6edbf125bc2fea3f1046de017c0712c2b927"}
+
+===== PAGE 1 =====
+{"alpha_words": 76, "chars": 541, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+SEQURITY CLASSIFICATION
+
+JOWNT MESSASEPORM - CONTINGATION GIRT UNCLASSIFIb_
+
+FROMM
+
+FID, W PAFB, OHIO
+
+UNCLASSIFIED/TDEW(UFO) a / ewe 3 VE ;
+SAPoL , RENIN, as
+INFQ/CINCONAD FOR COL SMITH, AFNIN-C FOR MAJ SMITH. REFERENCE
+UNCLAS MSG, DCOI 34799, RAMEY AFB, PR. PRELIMINARY ANALYSIS
+OF UFO REPORT INDICATES THAT OBJ TRACKED BY RADAR AND
+* SIGHTED VISUALLY BY COMMANDER WOODBURY IS NOT A UFO BUT AN
+
+/ UNIDENTIFIED A/c.
+
+SYMBOL PAGE N® OF | SEQURITY CLASSIFICATION INITIALS
+
+TDEW( UFO) 2 2 UNCLASSIFIS HO
+
+‘
+a JAR AS
+
+DD ara 79-1 SS me mee aac
