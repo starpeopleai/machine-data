@@ -1,0 +1,49 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T21:21:44Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7430727, "source_ctime_ns": 1793362910532349088, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330784024/45484701-004-002-0073.jpg", "source_mtime_ns": 1785685042000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330784024/45484701-004-002-0073.jpg", "source_sha256": "ef6f306ff217f55b069a6aa41848b09496bfbe00899a466cdbdf6a5c5e1c3701"}
+
+===== PAGE 1 =====
+{"alpha_words": 73, "chars": 592, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+10 June 1955
+
+5D 24<21-175
+
+SUBJECT: (Unclassified)
+May 1955
+Li
+
+Pa aes ce he tony
+
+I
+
+Comnander
+Air Technical Intelligence Centgr.,
+
+Wright-Patterson Air Foprce-Base—
+Ohio
+
+a) ra)
+ATTA A-26
+
+Transmitted herewith for your information and retention
+
+1.
+eport of Investigation by Special
+33, dated 7 June 1955,
+
+one (1) copy of R
+THRODORAKIS, 1. ' a No. ye file 214-43 .
+concerning sub/
+attention is invited to |
+
+estigative information to unauthor-
+
+Your att
+rohibit the release of inve
+
+i . a AY es
+the provisions of AFR 124-1,
+
+Re
+which
+ized persons.
+
+Declassification Authority: NND 923007

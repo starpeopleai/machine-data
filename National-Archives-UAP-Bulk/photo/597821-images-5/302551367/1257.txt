@@ -1,0 +1,60 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T20:42:15Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1007121, "source_ctime_ns": 1793390590421789185, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302551367/1257.jp2", "source_mtime_ns": 1785808427000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302551367/1257.jp2", "source_sha256": "aa8b4ff9fd9bc818a203d4f96fde4a69ce459f9c7348a1e3acb15e8de267dee1"}
+
+===== PAGE 1 =====
+{"alpha_words": 200, "chars": 1766, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+4 es : aoe
+VS, eae 1 - 12 JUNE 1966 SIGHTINGS
+' 7 DATE LOCATION 7 OBSERVER EVALUATION
+= “June Denver, Colorado INSUFFICIENT DATA
+ey “June , Columbus, Ohio INSUFFICIENT DATA
+a ~June Easton, Penn. INSUFFICIENT DATA
+4 “June Hartford, Wisconsin INSUFFICIENT DATA
+| = DY Dayton, Ohio AIRCRAFT
+3 ord Dayton, Ohio SATELLITE ~f-
+] 2 Colorado Springs, Colorado AIRCRAFT ce
+& =. teal Claremont, California INSUFFICIENT DATA as
+q 3 Houston, Texas - AIRCRAFT
+a 53 Lycoming, New York Astro (VENUS)
+a 53 Huntington, New York INSUFFICIENT DATA
+£ *3 Northport, New York BALLOON
+4 -3 Colorado Springs, Colorado SATELLITE
+: ~4 ' Colorado Springs, Colorado se) (CONFLICTING =
+es DATA Ak
+3 ~4 Colorado Springs, Colorado INSUFFICIENT DATA
+3 4 Dayton, Ohio SATELLITE
+# 45 Baker, Oregon Astro (CAPELLA) f
+i S5 Condon, Oregon Astro (METEOR ) :
+a <5 Dexter, Ohio AIRCRAFT
+Fi : Gahanna, Ohio Astro (ALTAIR) as
+= " Tyler, Texas AIRCRAFT “
+; ‘6 Polar, Wisconsin SATELLITE B83
+i “6 Spooner,,.Wisconsin UNIDENTIFIED e
+a 8 Amarillo, Texas SATELLITE =
+fi “8 Kansas, Ohio UNIDENTIFIED oe
+a 8 Fayetteville, North Carolina Other ee OF |=
+a g GROUND LIGHTS es
+z 8 Duluth, Minnesota SATELLITE a
+& fox “o) Cleveland, Ohio Other (REFLECTION) Es
+3 10 King of Prussia, Penn. SATELLITS 2
+3 ~10 Medway, Ohio AIRCRAFT =
+3 SOR Marietta, Ohio AIRCRAFT y
+4 lu Kalat, Afghanistan Astro (Genua)., ‘
+5 a3: Vineland, New Jersey SATELLITES a
+; saa! Lynchburg, Virginia SATELLITES 2
+: “11 Mesquite, Texas INSUFFICIENT DATA
+y ~11 Dayton, Ohio SATSLLITS
+§ “12 Peterson, Virginia SATELLITES
+"12 York, Pennsylvania Astro (ARCTURUS)
+- 12 Columbus, Ohio AIRCRAFT
+~12 Columbus, Ohio AIRCRAFT
+‘1e Columbus, Ohio SATELLITS
+~12 Columbus, Ohio SATSLLITE
+“22 Beavercreek, Ohio Astro (ALTAIR)
+
+eae,
+
+Caneolien id Vue Minds
+|
+|
+'
+!

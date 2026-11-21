@@ -1,0 +1,15 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T20:38:21Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 538732, "source_ctime_ns": 1793356041530687600, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989300-001-0054.jpg", "source_mtime_ns": 1785564591000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989300-001-0054.jpg", "source_sha256": "2085d7d625aafbdc371634c90b2cf88eaf1b5e31dbddf8bd1e49fa459c923867"}
+
+===== PAGE 1 =====
+{"alpha_words": 109, "chars": 671, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+The sunset effect resulted in a rise of about 500 feet (5 mb) in
+the floating level of the balloon at 1830 MST, This seems to be due to a
+change in the effective seal-off pressure of the aneroid capsule of the auto-
+matic ballast valve which was the consequence of a decrease in the temperature
+of the trapped air inside. The rise in altitude experienced corresponds to
+a decrease of temperature of about 6°C, the superheat of the aneroid, which
+was lost at sunset. This valve may be compared with the 30°C found on
+Flight 10. On the earlier flight a black valve was used while on this flight
+the equipment was polished aluminum, with a highly reflective surface.
+
+-5le

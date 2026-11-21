@@ -1,0 +1,80 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T20:42:04Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1002481, "source_ctime_ns": 1793390657553731313, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302552153/0384.jp2", "source_mtime_ns": 1785808349000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302552153/0384.jp2", "source_sha256": "b504ed2fd612234854affd99aa3506baa80676590b0436bf204517480d9ca67a"}
+
+===== PAGE 1 =====
+{"alpha_words": 212, "chars": 1351, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+U.S. AIR FORCE TECHNICAL INFORMATION
+
+This questionnaire has been prepared so that you can give the U.S. Air Force as much
+information as possible concerning the unidentified aerial phenomsnon that you have observed.
+Please try to answer as many questions as you possibly can, The information that you give will
+be used for research purposes. Your name will mot be usad in connection with any statements,
+conclusions, or publications without your permission, We request this personal information so
+that if it is deemed necessary, we may contact you for further details.
+
+When did you see the object?
+
+TU MS. 196 6
+
+Month Yeor
+
+10 10
+
+2. Time of day:
+
+Hour Minutes
+
+(Circle One):
+
+Eastern
+Central
+Mountain
+Pacific
+Other
+
+(Circle One): a. Daylight Saving
+b. Standard
+
+the object’
+
+Naaras! Posto) Accress
+
+ity of Town State or County
+
+How long was object in s
+
+>
+Hours Minutes Seconds
+Not very sure
+
+Just a guess
+
+5.1. How was time in sicnt determined?
+
+be
+
+5.2 Was object in signt continuously? Viesise/eu
+
+What was the condition of the sky?
+
+DAY
+a. Bright
+b. Cloudy
+
+NIGHT
+Gy Bright
+
+b, Cloudy
+
+IF you saw the object during DAYLIGHT, where was the SUN located as you looked at the object?
+
+(Circle One); a. In front of you
+b, In back of you
+c. To your right
+
+d. To your left
+e. Overhead
+f,
+
+Don't remember
+
+tis form supersedes FE TD 164, Jul 5 which

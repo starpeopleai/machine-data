@@ -1,0 +1,80 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T20:58:25Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3945530, "source_ctime_ns": 1793386597861342871, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28996717/0351.jpg", "source_mtime_ns": 1785748248000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28996717/0351.jpg", "source_sha256": "4602ba0c6e925cd9f7db9717c2a4c141e0eae83585554ce05ce718069c196b93"}
+
+===== PAGE 1 =====
+{"alpha_words": 145, "chars": 1092, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+SYRGAY CoP esaAnae FEDER REC ED a AaAge
+VU ALE ee N\A aoe bi ruil NAVY 7 TRENT |
+SIVAN BESO Gi Geirwdy EPAR adideay |
+é ;
+
+RECEOENCE. : (ACTION) | RELEASED BY ee
+J
+
+FLASH uNeos
+AP IN : 48018 (11 Apr 62) R/cwm
+
+Z 120100Z
+Fi USS MALOY
+
+J
+
+TO RBEXHC/CINCLANTFLT
+
+RIWFAL S/CINCONAD
+
+RJAFSL3//32ND NORAD REGION Ha USAF
+RBEP W/CNG
+
+RBEGUH/ COMEAST SEAFRON
+
+RUWFA ALB/SPADAT ENT AFB COLO
+
+~ UNCLAS a
+
+« LOCATING he
+e SINGLE UF
+
+* ts 31-11N, LONG §5-43y
+
+« 12059452
+
+‘ CSE 510 SPEED 1000
+
+e VISUAL
+
+e ALTITUDE 20 ESTIMATE
+
+» BRIGHT WHITE OBJECT WHICK APPARE NTLY BURNED UP IN AP» fOSPHIRE.
+TWO UNXNOWN A/C IN VICINITY.
+
+~
+1
+
+}
+
+S
+3
+L
+2
+
+eS
+w
+rf
+&
+4
+
+AF DIST: CIN-14, OOP-CP-1, SAFS-3, DIA-2, OOP-2 (22)
+
+wm 92.0e2ACT
+SECNAV. .UNSECNAV. .ASTSECNAV (R8D),.00..09..09%.,098.,08 Do o DA. . 34
+OrecuteeGecOlss Tove 16.594. IP..NAVAIDE. CMC eedS SesCSA.s CSAP ‘pe
+CiA..NIC..COGARD..FLAGPLOT..BFR... ine, Ol
+
+ADVANCED COPIES DELIVERED
+
+ih CONTROL NO, / {CIRCUIT NO. [PAGE oF PAGES] TIME OF RECEIPT DATE Time GROUP
+Z “~ OMe OF RECEI VATE TIME oOue
+
+A 032 | i | O206Z2/12 APR 1201002 APR €&2
+
+II5TS/JH/CL/2

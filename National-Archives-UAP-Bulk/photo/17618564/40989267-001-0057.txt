@@ -1,0 +1,91 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T20:29:08Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 14809249, "source_ctime_ns": 1793355475527894735, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0057.jpg", "source_mtime_ns": 1785564462000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0057.jpg", "source_sha256": "3ef12cb4e81c9b659abf2a9b710437fdfa582278c078d4379721c15e36d88987"}
+
+===== PAGE 1 =====
+{"alpha_words": 453, "chars": 3221, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+104 105
+
+of submicron particles in the stratosphere. Under contract to the National Aero-
+nautics and Space Administration (NASA) our organization also has developed an
+autoclavable, large-volume air sampler to collect, detect, and identify viable micro-
+organisms in the stratosphere. Scientists are interested in this field for several
+
+reasons: because of information that could be gained about life in hostile environ-
+
+Intake
+
+ments; because such information is needed to determine the probability of contam-
+inating sterile vehicles destined to be landed on other planets; because quantitative
+and qualitative biological data would help elucidate unknown facts about global air
+
+AU AWAWAWAWAWANN movements and long-range, long-time dispersal of terrestrial organisms; and,
+
+ow ao oS eS ee
+
+above all, because studies of the microbiology of our own stratosphere would help
+
+in the design of experiments to detect life on other planets.
+
+AAA A A AA
+
+o
+Ee: To our knowledge, only one serious attempt had been made, prior to our work,
+He 9 si to detect the viable flora in the stratosphere. This was performed 30 years ago by
+‘ £ 8 & a Rogers and Meier* who released a sterile-tube sampler from the balloon, Explorer
+¢ = 2 No. II, at about 70,000 ft. Although these investigators found organisms in their
+aime fx H Py sampler, the lack of adequate controls, the absence of quantitative air-flow mea-
+wn Ea surements, and the nonreplication of the work has permitted reasonable doubt con-
+A, 3 cerning the validity of their findings.
+
+In 1962, our group undertook a comprehensive study of this subject for NASA.
+Our objectives were to design and fabricate several large-volume air samplers
+capable of withstanding autoclaving; to test this equipment for reliability and contam-
+
+ination control; and to fly these samplers by balloon and acquire samples of the
+
+Butterfly Closure
+Door
+
+PR-2
+Flow Meter
+
+viable microflora in the stratosphere for subsequent laboratory enumeration and
+identification.
+
+The major problems faced in this study were the following:
+
+1) Design of a sampler that would efficiently trap 1-micron particles under
+
+stratospheric conditions of temperature and pressure, without interfering with the
+
+AEC Air-Ejector-Powered Impactor Sampler (Balloon Borne)
+
+viability of living cells it entrapped.
+2) Acquisition of large and known volumes of stratospheric air.
+3) Design and fabrication of a piece of equipment capable of being autoclaved
+
+at 120 C under 15 psi for 1 hr, that would then operate at -50 C and 0.01 atmosphere;
+0 ft? of ambient air
+
+Figure 8,
+
+such an instrument should be sufficiently large to sample 100,00
+
+in a short time, and sufficiently refined to exclude 1 microgram of extraneous dust
+
+while impacting at 1000 ft/min on the ground upon recovery.
+d assay the collectedmicro-
+
++)
+Yn
+3
+%
+as)
+*
+fx)
+
+4) Development of an analytic technique which reve (vill
+organisms and simultaneously exclude extraneous contamination.
+*Rogers, L.A. and Meier, F. C. The collection of microorganisms above
+36,000 ft. In National Geographic Society -- U. 5. Army Air Corps strato-
+sphere flight of 1935 in the balloon, Explorer IJ. Washington, 1 Ed
+National Geographic Society, 1936. pp. 146-51

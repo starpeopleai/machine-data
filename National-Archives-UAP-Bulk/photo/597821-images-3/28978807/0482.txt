@@ -1,0 +1,63 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T21:20:00Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6885538, "source_ctime_ns": 1793380908512215418, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28978807/0482.jpg", "source_mtime_ns": 1785700897000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28978807/0482.jpg", "source_sha256": "5558b4c4d80304d4d5421ebf5383d4a28b5bd8ea1fca2eaebd02ff582a4e9a23"}
+
+===== PAGE 1 =====
+{"alpha_words": 63, "chars": 407, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+2BESK/COMMANDER
+ST
+3130 7175)
+
+SCOMMARBER ABC af
+
+STAFY USAF
+
+AF AS AD ee 7S APS Ub
+
+AFE
+
+' SEA FRONTIER
+
+Time . Oo Gos
+57 TAGLLING OEJECT WAS
+
+ POSITICH ATS@ OBJECT. BURST ITO 2
+
+ALTITUDE OEJECT 15) ISHTED
+
+5A 64872 JUL RJ:
+
+Pidiay’ da tied A
+wLisn
+
+OSSE
+
+GREE] :
+
+Wires ti jek a
+
+QC? >
+
+VEL TO RIGHT
+vALL AT A
+
+? SPARKS
+
+NO.
+
+Dale
+Ay:
+
+n=
+Py
+
+10 ope ©
+
+2 , .
+TIME = ®
+
+or a al
+
+Ne ey
+
+eB Ri tat Ae:
+
+———

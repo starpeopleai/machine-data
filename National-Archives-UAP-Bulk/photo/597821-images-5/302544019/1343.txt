@@ -1,0 +1,40 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T20:41:52Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 985977, "source_ctime_ns": 1793389786153771597, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302544019/1343.jp2", "source_mtime_ns": 1785808016000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302544019/1343.jp2", "source_sha256": "df30a44755d40f2273cb2eb9bd22683f8caf5160b7730d8fa4c4154506d133e9"}
+
+===== PAGE 1 =====
+{"alpha_words": 290, "chars": 1738, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+20. Do you think you can estimate the speed of the object?
+a
+7 (Circie One) Yes
+; IF you answered YES, then what spead would you estimate?
+4 21. Do you think you can estimate how far away from you the object was?
+4 (Circle One) Yas
+iW
+| IF you answered YES, then how far away would you say ii was? i
+q 22. Where were you located when you saw the object? 23, Were you (Circle One)
+7 (Circle One):
+q a. in the business section of a city?
+4 2.. inside a building b, In the residential section of a city?
+; 'b. ina car c. In open countryside?
+: ¢, Outdoors d. Near an airfield?
+d. In an airplane (type) ea. Flying over a city?
+’ 2. At sea f, Flying over open country?
+4 ' Cyirar : Pawns Rigencss ; Bi: Othar Verret Ar ees! as fees ed ed ee a
+7 ws Peek ccna Stic EMA arte be Nasa ba er Ror PATE A BN ET STs SESS INE Bh LARGO ae ASI “SER Loe ae ae ats ei oan oo eT
+a 24. (F you were MOVING IN AN AUTOMOBILE or other venicle at the time, ther complete the following questions:
+4 id.) Whar direction were you noving? (Circla One)
+4 H a, Narth c. East a, South yg West
+b. Northeast d. Southeast +, Southwest h. Northwest
+q 24.2 How fast were you moving? dente tiles per hour.
+3 24.3 Did you srop ot any time while you wars looking at the obiact?
+3 +
+4 (Circle One) Yos No
+25. Did you cbserve the object through any of tha fsilowing?
+" c. Eyeglasses Yos No e, Binoculars Yes No
+4 b, Sun gicsses Yes No f. Telescope Yas No
+; c. Windshield Yas No g. Thaodolite Yes No
+q d, Window glass Yas No h. Other rie eee
+i a
+26. In order that you can give as clear a picture as possible of what you saw, describe in your own words a commor
+iy abdiect or objects which, when placed up in tha sky, would give the same oopearance os the objsct which you sow
+
+Ree

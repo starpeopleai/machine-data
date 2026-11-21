@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T20:44:06Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1056649, "source_ctime_ns": 1793355847711342317, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989280-001-0046.jpg", "source_mtime_ns": 1785564540000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989280-001-0046.jpg", "source_sha256": "f16d4b6c2ef7a935131e80b961a00200b476a0d97c686aa0221f3cb752f886d2"}
+
+===== PAGE 1 =====
+{"alpha_words": 219, "chars": 1412, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+31
+
+average as the same services performed by the local Balloon Franch,
+In this calculation allowance is made for the pay of Balloon Branch
+airmen, for aircraft and ground vehicle operation, but not for
+the fixed costs and overhead of a specialized test center such
+as Holloman, which would be virtually as creat even if the
+Balloon Branch did not existe
+
+One more Air Force organization with a special mission in
+the field of balloon operations is the 1110th Balloon Activities
+Groupe Formerly known as the 1110th Air Support Group, this
+unit is a dependency of Headquarters Command but is centered at
+Lowry Air Force Base, Colorado, where it inaintains a plotting
+and control facility for "coordinating Air Force balloon
+activities." It also has its own detachments "to conduct
+independent balloon operations" as anu where directed. Among
+other things, it finally took over the Moby Dick program, and
+it has comtinued down to the present to conduct Moby Dick-type
+balloon operaticns for long-range weather reconnaissance and
+similar purposes.. But it does not perform specialized balloon
+support of research and development testing, and thus in
+practice its functions do not seriously overlap those of the
+Holloman Balloon Branche
+
+The precise relationship between the local Balloon branch
+and the balloon specialists of Air Force Cambridge Research
+
+Center is somewhat more complex. There hac been close and

@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T20:56:20Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3640466, "source_ctime_ns": 1793360298751088052, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-014-007-0001.tif", "source_mtime_ns": 1785681683000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-014-007-0001.tif", "source_sha256": "84be43b1e1298b5f0af962b815b36a27648dc971b0dda9431693f907d8c837b3"}
+
+===== PAGE 1 =====
+{"alpha_words": 83, "chars": 598, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Declassification Authority NND 923007
+
+602D AISS UFOB L0G
+
+REPORT NUMBER {DATE/TIME OF SIGHT IN IRECD AtTSEP
+ATSS<UFOB=137=56 23/00352 May 56 125 May 56
+LOCATION OF SIGHTING iLOGGED BY
+}
+
+Amarillo, Texas | 8/Sgt DeRudder
+MEANS RECD .. .. [ACTION TAKEN
+TESTER No invesitation authorized
+INVES UNIT DATE INVES ASSIGNED TASSIGNED BY
+N/A . na 'y/A
+DATE IR RECD HQ ;DATE IR APPROVED DATE IR TO ATIC
+
+‘
+aA jN/A N/a
+
+DETE AISOP FORM § |
+25 May 56 ed
+
+COMMENTS
+Concur with the opinion of the reporting officer that. this sighting
+
+was Caused bya balloon,
+
+CONCLUSIONS
+WAS BALLOON
+
+AISOP FORM 7 (2 APR 55)

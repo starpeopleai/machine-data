@@ -1,0 +1,47 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T21:18:55Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6726419, "source_ctime_ns": 1793380094229030002, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28974506/0979.jpg", "source_mtime_ns": 1785700725000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28974506/0979.jpg", "source_sha256": "e109e79d6f52edb3c3aecfbd57db176de0856111daa64303d6a6b80dda5168a7"}
+
+===== PAGE 1 =====
+{"alpha_words": 62, "chars": 403, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+“ @ ROW AS he
+
+N/A
+ach ae ee She aa IY
+3 «NIGHT:
+
+5. WELLSVILLE, N.Y. GJ NN $297
+
+CM cenasec, PA. . VR LL tad MYERS
+yoo iM MYER:
+
+OBSERVERS (GOCy WELLSVILLE, N.Y.
+
+N/A
+
+A. NOT GIVEN
+
+. NOT GIVEN
+
+E 25 SCATTERED, 7@ BROKEN
+
+10 MILES
+
+NOT GIVEN
+
+N/A
+
+_ N/A ; .
+
+, NONE
+
+@ NONE
+
+es,
+
+SR DIRECTOR, ESTIMATE OF CAUSE, BRIGHT STAR OR VENUS
+NONE PD
+
+12/1629Z NOV RJEDBW
+
+ee een oe
+
+ce ag gt eR yy one rr ormnr

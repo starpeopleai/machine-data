@@ -1,0 +1,46 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T21:05:11Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4728101, "source_ctime_ns": 1793381646701332100, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28981098/01092.jpg", "source_mtime_ns": 1785700829000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28981098/01092.jpg", "source_sha256": "753935510ca00ff4e83a2cb447e5921ae86cfff5e7c3710b1525d4ff0c17b871"}
+
+===== PAGE 1 =====
+{"alpha_words": 96, "chars": 589, "method": "ocr", "page": 1, "variant": "plain-psm3"}
++ igen a Nee, 2 Heed) Boke Rene fH ma * fie a ha
+( ronal i 147 Ven We A | ie
+
+ar ) [fa
+NN iN yas / & x
+10 Ay
+OCZCSQG2ISZCFVAG 94 i. Ss
+
+FM ECP TCC MATS MCGUIRE
+TO RJEDDN/COMADC
+
+RJEYNH/COMDR 28TH AD a
+SQ/COMDR AIR TECH INTELLIGENCE CENTER
+
+RJEZHQ/DIR OF INTELLIGENCE HEDUSAF
+
+as
+
+INCLAS/ECP/TCC-41-747 Pp
+
+UNIDENTIFIED FLYING OBJECT SIGHTED BY
+
+nm.
+
+a i MPF OBJECT YAS SIGHTED AT TRENTON,
+Na AT 24/855 302 NOVEMBER 1958 PD OBJECT WAS SIGHTED TO RIGHT OF
+MOON MOVING FROM THE NORTH AT A SLOW STEADY PACE PD
+
+MCGUIRE AFB OFFICER OF THE DAY, LTe CeFe DEMOS
+
+—
+je
+Re
+N
+feed
+w
+G
+MN
+tt}
+>
+a
+U3

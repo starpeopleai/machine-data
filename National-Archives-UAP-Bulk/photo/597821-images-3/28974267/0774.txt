@@ -1,0 +1,44 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T21:19:30Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6773852, "source_ctime_ns": 1793380027045998333, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28974267/0774.jpg", "source_mtime_ns": 1785700840000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28974267/0774.jpg", "source_sha256": "144e504454c1f8ab117768578cf2229366ffdeab1f67d2783ffcfdbc4981706f"}
+
+===== PAGE 1 =====
+{"alpha_words": 77, "chars": 509, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Yat we
+* ys
+
+Uh
+
+OF
+
+AC 124
+
+AV WPDI33 YDBAGSSXYBI6'SXXAGB9BXAIMAMEWD B442BWDK551
+
+PP RUWPNF RUJWPSB RJEDEN RJEDWP RJEPHQ "eee
+Bf RBWDKY 17 * ee
+
+PR g91s992 0 <<
+
+FM COMARFC 2347
+
+TO RJEDEN/COM ADC
+
+|RJUPNF/COM 27 ADIV DEF
+
+|RJEDUP/COM AIR TECH INTEL CEN -———o
+RJEPHQ/DER OF INTEL HQ USAF
+
+) INFO -RJWPSB/COMAF~4--- oe —
+AF GRNC .
+
+BT
+
+|UNCLAS FROM DO-K @115 4AF YOR INTELLIGENCE OFFICER UFOB
+Tha FOLLOWING REPORT IS SUBMITTED IN ACCORDANCE WITH PARA 7D
+
+AF REG 20-2, 12 AUGUST 1954.
+
+CF) fone
+
+CG) None
+
+my

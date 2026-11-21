@@ -1,0 +1,41 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T20:51:07Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1699974, "source_ctime_ns": 1793389966796845646, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302545246/1011.jp2", "source_mtime_ns": 1785808043000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302545246/1011.jp2", "source_sha256": "3eaea6f6382d0b858ff8b7430f96328523fe260131d25830d8e8aa722f3976fb"}
+
+===== PAGE 1 =====
+{"alpha_words": 63, "chars": 572, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Ho Rem greenery rer - Serene een
+
+JNCLASSIFIED
+
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE SRANCH
+INCOMING MESSAGE
+
+PART C
+
+PAG! 3 RUNMBWA3923 UNCLAS
+[to GROUND V 1SuAL }
+25 NONE
+
+So NOT APPL ICAGLE
+
+PART 0
+
+20° DAWN
+
+PART E. 42 DEGREES 11° N, 122 DEGREES 99° w CAprR ox ocVEN MILES NW OF ENO AFS
+
+1, NONE
+
+2o WHLL IAM T HALL , SGT, AF 17911233, FIRST SGT, 448 COMBAT SUPPORT
+
+$0; fas
+PART Go
+
+} to GEAR - |
+20 SFC = CALM$ 6,929", 200/243 12,999" - 194/25: 16,099, 294/37
+
+23,999" = 247513 39,990; = 210/69; 28,989" = 249/393 89,999 -
+
+FORM
+
+AFHQ umes 0-309C UNCLASSIFIED

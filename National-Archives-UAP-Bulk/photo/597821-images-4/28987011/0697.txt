@@ -1,0 +1,37 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T21:24:39Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8726927, "source_ctime_ns": 1793383436518760357, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28987011/0697.jpg", "source_mtime_ns": 1785748420000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28987011/0697.jpg", "source_sha256": "966c6d86f6e8064a0ec4fd25d586fedcdfa3ce2e9d38adcd1932857d1268eba2"}
+
+===== PAGE 1 =====
+{"alpha_words": 145, "chars": 993, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ease AME (UPON EER RANA MN TRF OMB TA ACS Ae NRETS
+
+qa _ PROJECT 10073 RECORD CARD , .
+
+1. DATE 2. LOCATION 12. CONCLUSIONS
+May igan 0 Was Balloon
+28 60 : Bently, Mich O Probably Balloon
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION G Posey Belteen
+t3 Was Aircraft
+Local Y Ground- Vi sual O Ground-Radar Q Probably Aireroft
+GMT... DO Air Vi sual D Air-Intereept Radar ed Possibly Airerafe
+OEY es 0 robably Astronomica'
+0 Ne Civilian 0D Possibly Astronomical
+7. LENGTH OF OBSERVATION @. NUMBER OF OBJECTS | 9. COURSE Hie OOthe
+| cen’. Dota for Evaluation
+Not given one Falling dir eney
+
+10. BRIEF SUMMARY OF SIGHTING
+
+Farmers son plowing in field, noticed flaming
+object falling from SW at angle of 75° from
+ground. Landed 5 ft from tractor. Scorched
+ground upon impact. Object recovered after it
+cooled.
+
+11. COMMENTS
+
+Piece of metal analyzed and found to be
+iron (soft) with zinc pigment. Metal at
+one time had been subjected to extreme
+heat and had been painted.
+
+ATIC FORM 329 (REV 26 SEP 52)

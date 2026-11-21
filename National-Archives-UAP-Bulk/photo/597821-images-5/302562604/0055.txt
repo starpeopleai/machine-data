@@ -1,0 +1,17 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T20:50:06Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1463298, "source_ctime_ns": 1793391916976145583, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302562604/0055.jp2", "source_mtime_ns": 1785808200000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302562604/0055.jp2", "source_sha256": "2f539170452c48b69a1b591128381a30a6e76c24c6a347acb6734fd15645dbbd"}
+
+===== PAGE 1 =====
+{"alpha_words": 59, "chars": 700, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+sate eater npaten saitaaes
+ee ee fe eo ae pe eR ae ee og cic e: aan, es 2 Es 5
+PNT. TT 72637 1 179. 65443. 5é654_ ogs2s.. 10944. 4635 52740. 50544
+248872 02852740700 “90/74 "02853. 3 30ast DIL KO8 Wee e tease Shes
+te hee ce oh aa werte. Olay S C2773 (iGsua oh
+o LhlGé-922335 53774. 72987 eR Mine eee ‘i p cece:
+Alii 7OSSO525085C _ tee ee ee ¢ a
+““TT12 72637 $3555 00993 s0s33 pr ee $1 53610 22532 59394 33890. |
+2995u 44012 57692 55749 $1631 45787 62710 TTMN2 $3636 83657 4
+$7735 93614 67777 11534 74052 22417 33925 66666 357970 - |
+PP 72687 12941 2011 geacs5 2427 apdce 2527 §2530 2536 32640. 4
+2745 GZ6460 oie 2542 SETAS BEc5% 02554 32365 52363 OD964 f|
+92664 C2774 52768 625652 02742 5287-0 aa")

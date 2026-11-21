@@ -1,0 +1,22 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T21:26:24Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8921074, "source_ctime_ns": 1793362729131817404, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330783376/45484701-003-004-0273.jpg", "source_mtime_ns": 1785685019000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330783376/45484701-003-004-0273.jpg", "source_sha256": "9fbc73e46ad3a3558cb1c542a6bf5fc4ad97f2f7f582fc3f9db92efbb041ca73"}
+
+===== PAGE 1 =====
+{"alpha_words": 18, "chars": 148, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+WreEENTIAL = SEGUE Y UVF OR A | 1(/,
+
+we
+7
+2
+fy
+=
+ey
+7 J
+i]
+“3
+—~
+
+‘ ~
+
+oe Phat me a naa Brett edd tabi heh
+
+Declassification Authority: NND 923007

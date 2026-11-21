@@ -1,0 +1,12 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T21:19:16Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6757394, "source_ctime_ns": 1793361808275109855, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330781368/45484701-001-003-0161.jpg", "source_mtime_ns": 1785685143000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330781368/45484701-001-003-0161.jpg", "source_sha256": "8e2df19878d464d761cb8096505a294fbea93db3c7173229d37c3bc1847f3df4"}
+
+===== PAGE 1 =====
+{"alpha_words": 20, "chars": 163, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+IDAY, JANUARY 21, 1949 THE KENTUCKIAN-CITIZEN
+
+YSIS Strikes, it comes quietly
+are children who cannot walk
+
+erOU FOR HELP.
+
+Declassification Authority: NND 923007

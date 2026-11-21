@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T21:05:57Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4783761, "source_ctime_ns": 1793373821490922413, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28948830/1073.jpg", "source_mtime_ns": 1785696643000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28948830/1073.jpg", "source_sha256": "ba647db50e4eab5ed32c6f709be94ce896cade2c8fb19fae7b0a4a62627d1542"}
+
+===== PAGE 1 =====
+{"alpha_words": 97, "chars": 884, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+(| PROJECT 10073 WEATHER DATA SH
+
+|
+1. DATE OF OBSERVATION ]2, TINE OF CBSERVETION [3 STATION GHSERVING ; oe
+"OF. este eae ane aaa emanmaN ee er a oe |
+F ALTITUDE VELOCITY DIRECTION a | ALTITUDE VELOCITY DUCTION
+(feet) (knots) (degrees) _(feot) ae Ne (knots ) (deyre 5)
+0 ie CeO |
+1,000 30, 000 |
+2,000 35,000
+ren Soils tinciatideiniiioson
+3,000 40, 000
+4,000 45,000
+5,000 50,000
+6,000 55,000
+7,000 60,000
+‘ nosed
+8,000 65,006
+9,000 70,000
+10,000 75,000
+| 12,000 80, 000
+14,000 85,000
+16,000 90,000
+18,000 95,000
+20,000 100, 000
+5. WAS AN INVERSION LAYER NOTED? C3 Yas L § No
+ety _yes, at what altitude? __ Jes sa
+6. WoRE ANY THUNDERSTORMS NOTED IN ARE AREA? C) Yes [J No
+(If yes, at what quadrant? ee
+7. CLOUD COVER: 8. VISIBILITY WAS
+tenths at feet. wentas at..i‘;$ cfgOt. CAy+) MILES
+tenths at _ feet. __ tenths at feet. id
+9. COMANTS: a ahaa Ua :
+
+ATIC Tout Form 333 (13 Aug 52)

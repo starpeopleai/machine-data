@@ -1,0 +1,42 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T20:51:48Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1719569, "source_ctime_ns": 1793390945371102849, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302554504/1156.jp2", "source_mtime_ns": 1785808364000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302554504/1156.jp2", "source_sha256": "0adfec88ef43b1d51632dafa721754123aa95461a2fddf6376f51d25e0e86c32"}
+
+===== PAGE 1 =====
+{"alpha_words": 60, "chars": 442, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Se
+‘a .
+Pe |
+pi
+pes
+tot
+a
+Va
+2
+=
+2
+i
+9
+
+(6, omitted) |
+
+7. ONE TO SEVEN DEGREES C PER 1000 FEET
+
+REFERENCE PARA 14 H
+
+None oT
+
+REFERENCE PARA 14 I
+
+NONE
+
+REFERENCE PARA 14 J
+
+N/A
+
+REFERENCE PARA 14 K
+
+NEVILLE C. HERBERT, 1ST LT, USAF, INTELLIGENCE OFFICER, 30TH AIR DIVISION
+Sioux CITY, IOWA. THISS OFFICER HAS NO EXPLANATION OF SUBJECT SIGHTING.
+
+End of quoted messaze.
+
+Major Pokluda advise he would have the message retransmitted to FTD.

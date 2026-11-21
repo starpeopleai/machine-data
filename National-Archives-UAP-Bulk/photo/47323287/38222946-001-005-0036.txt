@@ -1,0 +1,51 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T21:18:20Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6401001, "source_ctime_ns": 1793365570345084115, "source_file": "National-Archives-UAP-Bulk/photo/47323287/38222946-001-005-0036.tif", "source_mtime_ns": 1785565390000000000, "source_rel": "National-Archives-UAP-Bulk/photo/47323287/38222946-001-005-0036.tif", "source_sha256": "070669b101197d027f64f0cbbee80688b706c093f5259f4b8ead2e955c7a34f0"}
+
+===== PAGE 1 =====
+{"alpha_words": 70, "chars": 515, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+m
+i)
+zg
+S
+
+TT TTITIIT
+
+Y C. Other than personal side arms, does your Number an
+
+department have:
+
+Rifles (manual or semi-automatic)
+Pistols
+
+Full automatic weapons
+
+Shotguns or riot guns
+
+Gas guns or cannisters
+
+z Gas grenades
+
+i Special weapons (please specify type)
+
+D. Protective Gear
+
+: Gas masks
+
+Helmets (riot style)
+
+Protective clothing (gas)
+
+Protective clothing (small arms fire or assault
+and milliles)
+
+Other (give type)
+
+|
+
+E. Portable Radios
+
+e Frequenc How Man
+arequency How Many
+
+F. Other
+
+SURC LE-3

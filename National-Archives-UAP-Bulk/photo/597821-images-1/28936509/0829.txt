@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T20:57:59Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3901585, "source_ctime_ns": 1793371074876824815, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28936509/0829.jpg", "source_mtime_ns": 1785689010000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28936509/0829.jpg", "source_sha256": "dfb5ee3a460d39c8cdeac0222045a861c1f927a5fe91a1b8aa1638beb2ee60f5"}
+
+===== PAGE 1 =====
+{"alpha_words": 87, "chars": 655, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+DEPARTMENT OF THE AIR FORCE
+HEADQUARTERS UNITED STATES AIR FORCE
+
+WASHINGTON
+
+ecitne
+UNCLAS3:: THE INSPECTOR GENERAL USAF
+
+14TH DISTRICT OFFICE OF SPECIAL INVESTIGATIONS
+LOWRY AIR FORCE BASE, DENVER, COLORADO
+
+24-28 7 September 1949 dl
+
+SUBJECT: SIGHTING OF UNCONVE’TICNAL ATRCRAFT AT DENVER,
+COLORADO, on 20 AUGUST 1949 BY iR.
+
+TO: Commanding -veneral
+Air kateriel Command
+wright-Patterson AF Bese
+Dayton, Ohio
+
+Forwarded herewith for your information and any action deemed
+
+advisable is OSI Renrort of Investigation, 24-38, 6 September 1949,
+
+subject as above.
+
+Buderih F Hamaen
+
+Le Je SESIBSERT
+
+Major, USAF
+
+District Commander
+1 Incl - Inv Rpt (dup)

@@ -1,0 +1,71 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T20:52:20Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1730599, "source_ctime_ns": 1793391088252432271, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302555452/0659.jp2", "source_mtime_ns": 1785808454000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302555452/0659.jp2", "source_sha256": "072a1371f1f2fed37cf53ab7aa008c17b1bfcd7a6dc24e9ca90cf08c80360baf"}
+
+===== PAGE 1 =====
+{"alpha_words": 210, "chars": 1369, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Poge 2
+
+8. IF you saw the object at NIGHT, what did you notice co-cerning the STARS and MOON?
+8.1 STARS (Circle Ore): 8.2 MOON (Circle Qne):
+a. None a. Bright moonlight
+b. A few b. Dull! moonlight
+
+(c. Many } ¢¢ No moonlight ) pitch dark
+. Don't ramember d. “Don't remambar
+
+9. What were the weather conditions at the time you saw the object?
+
++ ee ee
+
+CLOUDS (Circle Gre): WEATHER (Circle One):
+
+fa. Clear sky} a
+
+b. Hazy b> Foa, ist, or light rain
+c. Scattered cl ouds Cc. Moderate or heavy rain
+d. Thick of heovy clouds d. Snow
+
+e. Don’! remember
+
+10. The object comeared: (Circle One): :
+
+b, Transporect
+ec. Yesoor
+
+7 emeee bres ow tow
+
+ct, About ihe sane :
+dé, Dan’t know
+
+11.1 Compare brichtnsss td seine common odjnct:
+
+12. The edges of the ob:ect were:
+
++ ow... ..
+
+(Circle Ore}: o. Furezy or blurred ©. Other
+dD. Lee bright star ‘
+ee eS a4
+
+it. Sharply outlined)
+
+eerer we
+
+‘
+ean Sanna Wlananar nde
+c. one + pemermber
+
+73. Did the object: (Circle One for each question) |
+a, Appear to stand still at any time? Yes @is) Don't know ,
+b. Suddenly speed up and rush awoy ct any time? Yes acy Don't know |
+
+c. Break up into aarts 4 explode? Yrs ra) Don't know
+
+de Give off smawn? Yas (No) Don't know
+
+e. Change briontress? (Yes (No) Don’t know
+
+f. Change shope? Yas F} Don’t know
+
+ge Flash or flicke:? No Don't know
+
+h. Disappear erd reeppecr? Yes: (i> Don't know

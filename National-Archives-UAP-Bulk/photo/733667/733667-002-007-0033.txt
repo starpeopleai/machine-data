@@ -1,0 +1,13 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T20:44:25Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1173420, "source_ctime_ns": 1793394350311094494, "source_file": "National-Archives-UAP-Bulk/photo/733667/733667-002-007-0033.jpg", "source_mtime_ns": 1785567358000000000, "source_rel": "National-Archives-UAP-Bulk/photo/733667/733667-002-007-0033.jpg", "source_sha256": "36bb1266b5bab1f15016bc7c6e1d0a19ae5a78b0f6af3d4f15bacac13f723596"}
+
+===== PAGE 1 =====
+{"alpha_words": 14, "chars": 100, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+— was
+o« =
+
+227 GROVE CIRCLE BREVARD, NORTH CAROLINA 28712
+
+Bex jy
+
+EN Hoe AGE, e Cy
+O) ) \ was pri

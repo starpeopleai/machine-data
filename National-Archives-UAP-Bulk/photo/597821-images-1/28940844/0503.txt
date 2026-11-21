@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T21:00:37Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4143526, "source_ctime_ns": 1793372010503831696, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28940844/0503.jpg", "source_mtime_ns": 1785688716000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28940844/0503.jpg", "source_sha256": "bb0d11d5b5720569f8b281e2c507723addb18ec808af2f5675fcc98670b650f1"}
+
+===== PAGE 1 =====
+{"alpha_words": 20, "chars": 130, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+cr ders a ey
+
+a se Ee
+
+Fore
+
+VAL( ier « P G° of Aee ‘4 eae | IAS FAA SE?
+
+‘
+
+oops kteverp says
+
+a}
+
+~
+~
+NJ
+~.
+-
+OA
+
+SO, 67 t/t...

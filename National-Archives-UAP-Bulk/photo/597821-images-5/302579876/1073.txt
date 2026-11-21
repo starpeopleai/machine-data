@@ -1,0 +1,15 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T20:46:34Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1377003, "source_ctime_ns": 1793393700247736838, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302579876/1073.jp2", "source_mtime_ns": 1785808679000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302579876/1073.jp2", "source_sha256": "359bc9d6d537a7d2344b31ebecbd9c615d21b2a5f4d322a085964bc120e11715"}
+
+===== PAGE 1 =====
+{"alpha_words": 13, "chars": 63, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+SEE ef ompee
+
+EMPERATURES
+
+TT
+
+/
+
+se
+
+ee eh See tn ee one «ee

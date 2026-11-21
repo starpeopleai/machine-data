@@ -1,0 +1,24 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T20:57:01Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3763825, "source_ctime_ns": 1793372620088409066, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28943418/0073.jpg", "source_mtime_ns": 1785688967000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28943418/0073.jpg", "source_sha256": "ee8d9895521a6e4e5d78d4b99cf5ba1faa666bef01a37323983b776ace26224d"}
+
+===== PAGE 1 =====
+{"alpha_words": 100, "chars": 611, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Memo to D/I {OIN-X), (UJ) UFO Movie, 1 Sua 36
+
+A vecent analysis of the Newhouse film, male by Air
+Sorce photo specialists totally unaware of the previous history
+of this case, yielded the opinion that the ‘right spota of light
+on the film were bird reflections in the strong sunlight.
+
+The unanimity of opinion present in all evaluations
+made in this case leaves little reasonable doubt that the Uros
+in the QRMMMMBBilra wers indeed seagulls.
+
+i)
+2. Attached is atopy ot this mero to be given to Mr. M. A.
+Monts in the Air Force Presa Room in the Pentagon.
+
+JOHN G. ERIKSEN
+Colonel, USAF
+Denuty Commander
+
+iv

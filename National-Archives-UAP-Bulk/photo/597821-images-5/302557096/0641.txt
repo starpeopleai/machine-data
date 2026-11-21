@@ -1,0 +1,19 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T20:39:43Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 778709, "source_ctime_ns": 1793391270629943903, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302557096/0641.jp2", "source_mtime_ns": 1785808395000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302557096/0641.jp2", "source_sha256": "24a650b461a228938a557ee0137762dd062ef83a8d6b69125e23ee3f620fd7db"}
+
+===== PAGE 1 =====
+{"alpha_words": 39, "chars": 295, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+k. Position title and comments of the preparing officer, including
+preliminary analysis of the possible cause of sighting(s):
+
+None.
+
+l. Existence of physical evidence, such as materials and photographs:
+
+None,
+
+FOR THE COMMANDER
+
+¢
+
+EUGENE I. HALBACH, Capt, USAF
+Chief, Operations Plans Branch

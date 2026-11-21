@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T20:57:36Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3857824, "source_ctime_ns": 1793372764971689146, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28944012/0717.jpg", "source_mtime_ns": 1785688978000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28944012/0717.jpg", "source_sha256": "824183183b8240c24714c8e11701a71c2e41ea6a46bd876cfbebd4f0affdc3f6"}
+
+===== PAGE 1 =====
+{"alpha_words": 137, "chars": 870, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+tne Bra re rs) Ow | 5 ls July po Spe:
+Dolutiow: Possibl due to ae Sa .
+: Oc ved HIS PIRES sep Lhe VV esseocues
+Wether Coc ,
+
+ee : ae
+DOuKee } Wet feik ‘
+
+Ground Radar Sichtin-s
+
+1. Kirksville, Missouri - 13 July 1952
+
+At 03004 on 13 Jul 52, the 790th AC/\l Sa. picked up an unidenti- |
+fied object traveling S! at a speed of 1500 Imots, ‘the object was
+observed by controllers, electronic officers and the operntor crew
+of this squadron with experience ranging from 1 to 5 years, Object
+painted on every other sweep of the radar, Stendard electronics
+equipment was used, The blip presentation was the same as that of
+a B=-36 or a B-50, No know air traffic in the vicinity. Thunder-
+heads moving SE in the area,
+
+No interception recuested because of the short time the object
+was tracked, Radar scope photos were obtained,
+
+Solutions Possibly due to weather conditions,

@@ -1,0 +1,51 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T20:50:40Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1673061, "source_ctime_ns": 1793390937851206993, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302554452/1095.jp2", "source_mtime_ns": 1785808608000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302554452/1095.jp2", "source_sha256": "06422c28f9fc9aba9083984933e233aeaf84dde5ca5455f653a343701f13a85b"}
+
+===== PAGE 1 =====
+{"alpha_words": 106, "chars": 823, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+AF IN: 40818 (13 Aug 66)
+
+AFHQ sue 0-309C UNCLASSIFIED
+
+UNCLASSIFIED
+
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+INCOMING MESSAGE
+
+Pe 3 of 4!
+
+(1) 02402 13 AUGUST 66
+(2) NIGHT
+
+PACE 3 RUWTPDA 9923 UNCLAS
+
+E. LOCATION OF OBSERVER:
+
+(1) APPROK IMATELY 500 YARDS NNY FROM NORTH GATE
+
+OF GOODFELL GY AFB.
+
+F, 1DENTIFYING INFORMATION ON OBSERVER s
+
+C1) CIVILIAN = MR, GID, AcE 39, a>
+
+GUID 20 worker, BELIEVED TO BE soBER AND
+RELIABLE, OBSERVER DOES NOT WEAR CLASSES AND
+
+CLAIMS TO HAVE 20/20 VISION,
+
+G. WEATHER ANDO WINDs
+
+(1) PARTLY G& QUDY
+
+(2) WIND DIRECTION AND VELOCITY AT SURFACEs 160 DEGREES
+AT O7 KNOTS, UPPER WIND COND IT 1ONS UNAVAILABLE.
+
+(3) CEILING: 4000 FEET
+
+CH) VISIBIL'TY: 15 MILES PLUS
+
+(5) AMOUNT OF @ OUD COVER: 2/10 CUMLLUS AT 4000 FEET
+
+(6) NO THUNDERSTORMS IN AREA AND QUADRANT IN WHICH
+LOCATED.

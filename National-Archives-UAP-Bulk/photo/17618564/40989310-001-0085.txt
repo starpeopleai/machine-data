@@ -1,0 +1,52 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T20:50:55Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1683301, "source_ctime_ns": 1793356235069122486, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989310-001-0085.jpg", "source_mtime_ns": 1785564646000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989310-001-0085.jpg", "source_sha256": "ac7e25127f98c475a2c52fffc6b0d926e358e5e4a8aa9c8197c4670849bba310"}
+
+===== PAGE 1 =====
+{"alpha_words": 261, "chars": 2033, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+58. Sappho Henderson, Robert Shirkey, affidavits, Appendix H. I am
+seeking to obtain official documentation of this and other alleged flights.
+
+59. Rickett as attributed in Moore, “Crashed Saucers. ..," op. cit.
+60. Robert E. Smith, affidavit, Appendix H; "Recollections."
+
+61. Smith as cited in note GO above. When the Los Alamos airport began
+operations on September 1, 1947, it was nothing more than an unlighted
+4950-foot dirt airstrip with a tar paper shack for a terminal; at its elevation of
+7150 feet, the strip was far too short for a C-54 (James Rickman, Office of
+Public Affairs, Los Alamos National Laboratory, Klass, Philip J., “Roswell UFO:
+Coverups and Credulity," Skeptical Inquirer, Fall 1991, p. 73).
+
+‘62. Stringfield, Leonard H., UFO Crash/Retrievals The Inner Sanctum
+Status Report VI (Cincinnati, Ohio: the author, 1991), pp. 13-18.
+Unfortunately, Tim has insisted on anonymity, citing a series of alleged
+mysterious, sometimes threatening telephone calls. Given that it was Tim
+who provided the leads which directed researchers to Slusher, and that
+Slusher is quite willing to talk publicly and has never had even a hint of a
+threat, Tim's fears strike me as contrived and call into question his credibility,
+although his diary cannot be ignored.
+
+63. Personal interview with Robert A. Slusher, May 23, 1993; Slusher
+affidavit, Appendix H.
+
+64. Stringfield, as cited in note 62 above. I am seeking to obtain official
+records of this flight.
+
+65. See “Tales of Kaufmann" in chapter 2.
+
+66. Audiotaped personal interview with Frank Joyce, November 3, 1992.
+67. Ibid
+
+68. Haut, November 2, 1992.
+
+69. Joyce, November 3, 1992.
+
+70. As quoted in Moore, William L., "The Roswell Investigation. New
+Evidence in the Search for a Crashed UFO," MUFON Symposium Proceedings,
+1982 (Seguin, Texas: Mutual UFO Network, 1982), p. 94.
+
+71. = Ibid, p. 92
+
+72. Ibid, pp. 89-94; Joyce, November 3, 1992; presentation before New
+Mexico MUFON, spring 1993.
+
+73. Audiotaped interview conducted by Mark Rodeghier, January 1990.
+100

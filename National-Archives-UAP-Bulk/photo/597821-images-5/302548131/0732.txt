@@ -1,0 +1,50 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T20:40:25Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 834760, "source_ctime_ns": 1793390237860380697, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302548131/0732.jp2", "source_mtime_ns": 1785808247000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302548131/0732.jp2", "source_sha256": "d8becd374eb14d7666e5cbbdbc1e0789398b6f2beff91dc5c56f6dee85af30f4"}
+
+===== PAGE 1 =====
+{"alpha_words": 107, "chars": 725, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+UNCLASSIFIED |
+
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+INCOMING MESSAGE
+
+‘
+
+ACTION : :NIN-7 INFO: XOP-1, XOPX-2, FOS 3 DIA-1 (15)
+\
+
+AF IN: 5342 (18 Apr 66) ax Pg 1 of 3
+
+SMB C@ISRITU JAW RUEDHBA@@23 1612057-UUUU--RUEDHQ
+ZNR UUUUU
+
+R 11184@Z ZEX
+
+FM SG6AIRDIV TOPSHAM AFS ME
+TO RUW1IFVA/ADC
+
+RUEDM AA/1AF STEWART AFB NY
+
+RUEDHQA/USAF WASH DC
+
+BI
+
+UNCLAS 360IN 00017 APR &
+FOR: USAF (AFCIN) AND (SAFIS)
+
+SUBJ: UFO. THE FOLLOWING REPORT WAS RECEIVED BY MAIL ON~7\APR:
+& AND INESTIGATED BY TELEPHONE ON 8 APR &. REF: AFR
+Ao DESCRIPTION OF THE OBJECT:
+
+1. SHAPE: LOOKED LIKE A STAR
+
+2. SIZE: SIZE OF A STAR
+
+5. COLOR: WHITE
+
+4. NUMBER: ONE
+
+Do FORMATION: NONE
+PAGE 2 RUEFHBA@@23 UNCLAS
+
+AFHQ sumcs O-309C UNCLASSIFIED

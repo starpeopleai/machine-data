@@ -1,0 +1,142 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T21:21:16Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7061079, "source_ctime_ns": 1793380963611768865, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28978952/0612.jpg", "source_mtime_ns": 1785700798000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28978952/0612.jpg", "source_sha256": "c8de3334cd5984157aec01a9d31d9ab766dcdf588b0eee798419f797d2b230f5"}
+
+===== PAGE 1 =====
+{"alpha_words": 187, "chars": 1482, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+wae aS ee ee ”
+
+: “ Jul-Aug
+
+16 - 30 JULY 1958 SIGHTINGS
+
+LOCATION
+
+Spanaway, Wast:ington
+Oregon City, Oregon
+16.00N 76.5W (Atlantic)
+Miami, Florida |
+Dayton, Ohio
+
+Oklahoma City, Oklahoma
+Detroit, Michigan
+
+_ Midwest City,. Oklahoma
+Brooklyn, New York :
+
+, Dayton; Ohio + sis
+
+- 100-135 Mi SE of Azores -
+
+Nuncia, Michigan -
+Glennie, Michigan
+N of Hamar, -Norway aang
+
+Gryder Euff, New York
+Midwest City, Oklahoma
+
+Riga, USSR
+
+Vest Nyack, New York
+Las Cruces, New Mexico
+Portland, Oregon
+Alexandria, Loutstfeus
+
+Mt Yolly, Riverside, New Jersey
+
+La Mesa, Californie
+Duncanville, Texas
+Raytown, Missouri
+
+W of Boreland, Mictige=
+Elmont, New York
+
+San Antonio, Texas
+Zahl, North Dakota
+Udine, Italy
+
+ADDITIONAL REPORTED SIGPTINGS (NOT CASES)
+
+LOCATION
+
+Universe
+Des Plaines, Illinois
+
+Japan
+
+i,
+:
+
+* NW of Chicago, Crystal Lake, Illinois
+
+=
+
+OBSERVER
+
+oast Guard
+see
+
+Multi
+Military Air/Vis
+Vis
+
+Military
+Civilien
+
+Multi
+
+Military
+
+Multi
+
+Multi (P70TOS/mR)
+
+SOURCE
+
+Science News <%
+r
+
+Insufficient Dats
+
+Military
+
+EVALUATION
+
+Insufficient Pata
+Insufficient Data
+Insufficient Lata
+Astro (ALDSESRAN)
+Other (+OAX)
+
+Balloon
+
+Balloon
+Insufficient Data
+Other (PRANKSTER)
+Astro (MSTEZOR) .
+Insufficient Data
+Otter (UNDERWATER DISTUR)
+Astro (ME&TSOR)
+Balloon
+Insufficient Tata
+Astro (JUPIT22)
+Astre. (} BT s0R)
+Astro (MeTSOR)
+Astro (MsTROR)
+Aircraft
+Aircraft
+
+Balloon
+
+Astro (METTOR)
+Astro (MARS)
+Aircraft
+
+Astro (METEOR)
+Insufficient Data
+Aircreft
+
+Astro (VENUS)
+Satellite |
+
+EVALUATION
+
+/
