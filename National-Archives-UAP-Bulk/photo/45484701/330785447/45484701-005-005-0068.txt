@@ -1,0 +1,16 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T16:02:15Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7052234, "source_ctime_ns": 1793363514216910164, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785447/45484701-005-005-0068.jpg", "source_mtime_ns": 1785684622000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785447/45484701-005-005-0068.jpg", "source_sha256": "c97931cfd97d01b6f67d63a95b770f6fa388ed0030a8fff0bf069e0f240fd383"}
+
+===== PAGE 1 =====
+{"alpha_words": 75, "chars": 507, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+by br. LaPaz and his colleagues, but inasmuch as complete data is
+not available, these interviews are not taken into account in this
+summary. In addition, numerous reports have been received from
+individuals who could not provide sufficient information to warrant
+inclusion of such facts as they did possess. Any interview where
+the veracity of the interviewee was doubted was discounted in the
+preparation of reports for transmittal.
+
+L Ined
+Tabular Summary w/notes
+
+Declassification Authority: NND 923007

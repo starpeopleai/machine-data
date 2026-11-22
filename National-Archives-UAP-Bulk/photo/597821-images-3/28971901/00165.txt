@@ -1,0 +1,19 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T16:13:13Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9390190, "source_ctime_ns": 1793379304790434278, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28971901/00165.jpg", "source_mtime_ns": 1785700751000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28971901/00165.jpg", "source_sha256": "a5572e6f630075183e5234f7f51c07ab2c7931ffa630a1354de2a46bdeadfaaa"}
+
+===== PAGE 1 =====
+{"alpha_words": 38, "chars": 188, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PRA SEL Sg FREE: MPS PR SMa Side am hg Nae he PEM RD ERE ae BPR cee oeseescrsene
+
+PAGER FOUR RJEPND gg
+Se NEG
+
+Se NES
+
+*
+: eae
+
+Ba
+
+PAST, INVAPIASLY ON MOOMLIT NICHTS,
+
+> Sr eae en oneal

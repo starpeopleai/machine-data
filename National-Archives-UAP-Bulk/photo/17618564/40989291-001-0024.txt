@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T15:35:30Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1169379, "source_ctime_ns": 1793355927241125231, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989291-001-0024.jpg", "source_mtime_ns": 1785564561000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989291-001-0024.jpg", "source_sha256": "9935c86f1b01b11c87c38b3c88f187cacb32c9bf5dbe0b3d2c6a8170f59754da"}
+
+===== PAGE 1 =====
+{"alpha_words": 187, "chars": 1297, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+18
+
+space biology, since the plastic surfaces, glistening in the sun,
+led to frequent confusion with flying saucers. Av
+
+Furthermore, much of the post-war development in balloon
+research had actually taken place at Holloman Air ForceBase,
+which was therefore well qualified to handle the series of aero-
+medical flights. Holloman's first polyethylene research bal-
+loon was launched 3 July 1947 by a New York University re-
+search team. This was twenty days before the historic first of
+Holloman's missiles climbed high over the vast test range. 18
+
+From this first Holloman balloon launch until August 1950,
+numerous research flights were undertaken at Holloman obtain-
+ing physical data on the upper atmosphere in support of a wide
+variety of projects. Some of these balloon-transported experi-
+ments, notably those exposing cosmic ray track plates to high-
+altitude radiation, contributed to the research groundwork for
+the later biological experiments, but apparently none were de-
+signed expressly for biophysical research. Also, part of this
+early balloon activity used old-style extensible balloons made
+of rubber or similar material. Yet every flight, regardless
+
+of research objectives or balloon material, contributedin some
+
+way to build up a remarkable launch and recovery capability

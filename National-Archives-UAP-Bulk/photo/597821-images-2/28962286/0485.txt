@@ -1,0 +1,24 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T16:00:56Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6838149, "source_ctime_ns": 1793376933340362196, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28962286/0485.jpg", "source_mtime_ns": 1785696430000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28962286/0485.jpg", "source_sha256": "1c311a361234abcf02c9419a72d8d130ce654544e61f046fef2effbd11d8a6f6"}
+
+===== PAGE 1 =====
+{"alpha_words": 57, "chars": 419, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Incl # 2
+
+Hq USAF, 20D OST 2h-0-232, 23 Oct 55, Subject: Unidentified Flying
+Objects
+Headquarters, 25th Air Division (Defense), McChord AFB, Washington
+
+TO: Commander, Flight 1-A, 602d Air Intelligence Service Squadron,
+McChord Air Force Base, Washington
+
+Forwarded for your information and necessary action.
+
+FOR THE COMMANDER :
+
+{
+rg ¢ aieane fe econ hh
+roa
+1 Incl opi
+n/c ( ne
+
+MENUS Oba a mem a VaR ey. Hee eae et

@@ -1,0 +1,21 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T16:01:20Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6918643, "source_ctime_ns": 1793383916449981600, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28988281/0390.jpg", "source_mtime_ns": 1785748480000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28988281/0390.jpg", "source_sha256": "15dd24231ebf91e1ec19ba2e9553222117574820ca57bc69b632329677e90af6"}
+
+===== PAGE 1 =====
+{"alpha_words": 56, "chars": 448, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ie
+rr
+
+PAGE TWO RJWZGUM 1
+
+(7) NEGATIVE
+(8) NEGATIVE
+(9) OBJECT SEEMED TO GLOW FROM AN INTERNAL SOURCE.
+Be (1) OBSERVERS HAD GATHERED AT 21/@2@@Z TO WATCH ECHO 1, DUE AT
+- 217@2@52 IN THE LITTLETON, COLO. AREA.
+(2) 45 DEGREES ABOVE HORIZON, 122 DEGREES FROM OBSERVER.
+(3) N/A
+(4) OBJECT SEEMED TO BE DESCENDING VERY SLOWLY
+(5) N/A
+| (6) TWENTY TO THIRTY MINUTES
+| Ce4) GROUND VISUAL
+: (2) BINOCULARS, JAPANESE, 6X3@ POWER, 763 DEGREES COATED LENS

@@ -1,0 +1,16 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T16:05:38Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8025322, "source_ctime_ns": 1793359124910582293, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-006-006-0003.tif", "source_mtime_ns": 1785681323000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-006-006-0003.tif", "source_sha256": "a312fd7fa1a9345aefa42469196628a6127cfd36f7bfe252c5894245f1e05264"}
+
+===== PAGE 1 =====
+{"alpha_words": 18, "chars": 139, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+DA
+
+“SURFACE WINDS STRONG VISis!
+15A-278-39 35A-392-39K 29
+
+12 THERE WERE
+BALOON os
+
+Ota CITY HOUSEWIFE
+
+Blely CLEAR
+A-273-49K oo 267- 79K

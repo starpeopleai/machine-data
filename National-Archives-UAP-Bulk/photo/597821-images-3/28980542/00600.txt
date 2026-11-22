@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T15:55:23Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5563563, "source_ctime_ns": 1793381519802652320, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28980542/00600.jpg", "source_mtime_ns": 1785701107000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28980542/00600.jpg", "source_sha256": "778ae1c6a9f8cc4129de02db30d40cf2d3b15551b93b46f75bbd3288162e5cd4"}
+
+===== PAGE 1 =====
+{"alpha_words": 82, "chars": 561, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+4 NEVEK ‘FOR APPROVALS, DISAPPROVALS,
+ME M0 ROUTING SLIP | CON. _.XRENCES, OR SIMILAR ACTIONS
+1 NAME OR TITLE INITIALS CIRCULATE
+ATIC oN E
+ORGANIZATION AND LOCATION A / DATE COORDINATION
+\ : INFORMATION
+3 i NECESSARY
+ACTION
+NOTE AND
+RETURN
+4 SEE ME
+SIGNATURE
+REMARKS
+Do you have this??
+FROM NAME OR TITLE ey DATE
+or Lawrence Tack sy 18 Mar
+ORGANIZATION AND LOCATION TELEPHONE
+74966
+newer rae REE eee LEE De
+FORM Replaces DA AGO Form 895, 1 Apr 48, and AFH —16—74067-1 °
+D D 1 FEB 60 9 5 Form 12, 10 Nov 47, which may be used. So adil sil
+
+ARRAN lees ai ted ce

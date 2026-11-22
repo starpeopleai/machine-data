@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T15:36:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1489359, "source_ctime_ns": 1793355971041036292, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989295-001-0054.jpg", "source_mtime_ns": 1785564572000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989295-001-0054.jpg", "source_sha256": "a20b17680d1f9dfd5b251e5f2a590cb4622a6b31c18843427755b7c9ef6f829d"}
+
+===== PAGE 1 =====
+{"alpha_words": 307, "chars": 1879, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Tah
+
+attached it could be used to test the effectiveness of interception radar
+units on the ground, The 0Q-19 was, in short, a rather versatile drone
+aircraft, for which many new applications were proposed and evaluated
+during the years of testing at conten
+
+The specific occasion that brought the 0Q-19 to the Holloman track was
+a series of tests designed to explore the feasibility of a video link for
+terminal guidance in short-range support missiles. It appeared that the
+usual launch methods would not be quite suitable for the television-equipped
+OQ-19, or TV-0Q-19 as it was called, The rotary launcher, for example,
+could handle neither the weight nor the clearance required by installation
+of the new equipment. Thus as early as the spring of 1952, when plans were
+being laid for the TV-0Q-19 test series, consideration was given to launch-
+ing the drone Snark-style from a sled on the high-speed track, 9
+
+Once it was decided to try track launching, the necessary sled was
+fabricated in the base machine shops at Holloman, at an estimated cost of
+$800. Sled weight was 1200 pounds. Work on the sled began in September
+1952, and it was ready in TCeieverpers | The initial track run took place
+on 25 November, using a standard unloaded 0Q-19, with ribbon frame cameras
+for instrumentation, The sled was accelerated by a single 9600-pound~thrust
+booster to about 165 miles an hour, on around ]50 feet of track and in
+slightly over two seconds, The sled then hit the water brake, a pin holding
+the drone in place was sheared, and the drone lifted free to commence its
+flight. As this test proved successful, a second 0Q-19 track launching was
+conducted on 2 December, in which the drone was equipped with light-weight
+pods to simulate the drag but not the weight of the television pods that were
+
+destined to be flown on the TV-0Q-19, And a third preliminary run was held

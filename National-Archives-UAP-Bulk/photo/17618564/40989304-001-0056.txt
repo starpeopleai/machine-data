@@ -1,0 +1,37 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T15:36:57Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1561723, "source_ctime_ns": 1793356134945029616, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989304-001-0056.jpg", "source_mtime_ns": 1785564616000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989304-001-0056.jpg", "source_sha256": "33841c5133f19b190439af12a5bf5bdcbdeed95bf1a7d20812c18a7f76c550d9"}
+
+===== PAGE 1 =====
+{"alpha_words": 79, "chars": 536, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+8TH AIR FORCE tc ADQUARTERS ORGA.A ATION CHART
+
+COMMANDING GENERAL
+
+E CHIEF OF STAFF | as.
+
+3 AIR INSPECTOR PUBLIC INFORMATION OFFICE
+HEADQUARTERS _
+COMMANDANT :
+
+COMBAT COUNTER ; PLANS if
+paw | SUPPLY F TRANS. pISTORICAY STH AF MULTILITH PLANT =
+1 5
+a
+| AIR | L 18TH COMM. SQ.(W6) =
+OSE:A r lie -
+: | AIR
+ato AP DEPOT :
+; ARM.& ORD ! ise STH AF M
+rer) a 5385 TH AAF BAND FP
+
+S8TH BOMB WINS r
+
+1ST ORD. SQ. fF
+
+t
+
+AND BY . ATUS
+
+: * ’
+OG ROSWELL KEARNEY DAVIS- MONTHAN CLOVIS FORT WORTH
+
+This document is part of an unclassified series

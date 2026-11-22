@@ -1,0 +1,53 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T15:34:12Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1009385, "source_ctime_ns": 1793389711501074298, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302543167/0512.jp2", "source_mtime_ns": 1785808354000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302543167/0512.jp2", "source_sha256": "6abd8ef1a916de1f5fbac94da263736e5f0c1064e6645f501ff928f05670f7ed"}
+
+===== PAGE 1 =====
+{"alpha_words": 136, "chars": 1019, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Z
+
+| UNCLASSIFIED |
+
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+INCOMING MESSAGE
+
+AF IN: 32139 (2 Sep 65) J/ap
+
+ACTION: NIN
+
+INFO: XOP-1, XOPX-8, SAF-OS-3, DIA-1 (21)
+SMB A178RTTU JAW RUCIBWA6726 244 14 14-UUUU-- RUEBHQA
+
+ZNR UUYUUU
+
+R 9112282
+
+FM S2FTRWG SUFFOLK COUNTY AFB NY
+
+TO RUEBHQA/CSAF
+
+RUEBHQA/SECRETARY OF THE AIR FORCE
+
+RUWMFVA/ADC
+
+RUCIFHA/26AIRDIV STEWART AFB NY
+
+RUCDSQ/AFSC WRIGHT PATTERSON AFB OHIO
+
+RUEAUR/NYADS MCGUIRE AFB NJ
+
+BT
+
+UNCLAS 520DC/20111 SEP 65. FOR AFSC FOREIGN TECHNOLOGY
+
+DIV, HQS USAF CAFNIND, NYADS CNYOIN). UFO REPT. IAW AFR
+Marae ee 4
+200-2 INFO IS SUMBITTED ON A UFO SIGHTING AT 33002 27 AUG 65.
+Ae (1) ROUND (2) SIZE OF A STAR (3) WHITE (4) ONE (5) N/A (6) N/A
+(7) N/A (8) N/A (9) MOVING FASTER THAN STAR.
+B. €1) OBJECT WAS MOVING APPROXIMATELY AS FAST AS A PLANE
+() 35 DEGREES ANGLE FROM HORIZON (3) APPROX 15-20 DEGREES ABOVE HORIZON
+(4) FROM SOUTH TURN IN ZIG-ZAG PATH AND PROCEED IN
+
+NORTHEAST DIRCTION AT 93002 (5) LOST FROM LINE OF
+
+AFHO %.  0-300¢ | UNCLASSIFIED |

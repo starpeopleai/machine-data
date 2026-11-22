@@ -1,0 +1,70 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T15:52:40Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5021731, "source_ctime_ns": 1793388202886435468, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/29000408/0701.jpg", "source_mtime_ns": 1785748328000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/29000408/0701.jpg", "source_sha256": "7c2dc202b38200ae825bde49bbc4aa3dc7e068f1ea614e124c084516b2defaf5"}
+
+===== PAGE 1 =====
+{"alpha_words": 109, "chars": 900, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+1. DATE 2. LOCATION
+
+15 March 1963 36.32N 174,02wW (Pacific)
+
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION
+Locol _ O Ground-Vi sual
+cMt_16/0730Z | AK Ain Visuol
+
+0 Ground-Radar
+
+D Air-Intercept Rador
+
+~
+nN
+
+- CONCLUSIONS
+
+Was Balloon
+Probably Balloon
+Possibly Balloon
+
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+
+O Yes
+
+5S. PHOTOS P SOURCE
+2KNo
+
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+
+0O0G aoo ooo
+
+7. LENGTH OF OBSERVATION 8. NUMBER OF OBJECTS
+
+9. COURSE
+
+us not reported Bo One
+10, BRIEF SUMMARY OF SIGHTING
+
+Space object, small and circular,
+resembling bright star tracked
+through 30 dgr arc fm 150 dgr to
+{20 dgr at 30 dgr elevation,
+Altitude & speed unknown, but
+Speed 4stimated very fast,
+
+Northerly
+
+SX Other__Sa j
+
+O Insufficient Dota for Evaluation
+O Unknown
+
+11. COMMENTS
+
+Possible Satellite Sighting,
+
+t
+
+ATIC FORM 329 (REV 26 SEP 52)

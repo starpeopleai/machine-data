@@ -1,0 +1,92 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T16:17:59Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 16501386, "source_ctime_ns": 1793355718125453982, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0156.jpg", "source_mtime_ns": 1785564509000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0156.jpg", "source_sha256": "9d6ded106e05249ab9a0a1b7b7c576b9639de7303ba38681a6d41753bd6f000a"}
+
+===== PAGE 1 =====
+{"alpha_words": 500, "chars": 3226, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+mo
+op
+ps
+z
+Z,
+<
+an
+fa]
+J
+Ay
+Ay
+O
+A
+ea
+Z,
+<
+J
+:
+
+SALONA
+
++6 db
+
+25 August 1960
+Piston Aircraft Signature
+
+Airplane from Flight 2420
+
+0-300 ~
+
+Figure 2.
+
+299
+
+It was decided to take advantage of the time-steady property of the lower f
+quency data. Accordingly, some tape loops were made and processed through an
+accurately- calibrated spectrum analyzer. Tape recordings from over 30 instru-
+mented flights were analyzed. The highest, the lowest, and two typical inter
+
+diate levels of recorded background noise are shown in Figure 3
+
+fre-
+
+eats.
+These curves
+show acoustic pressure level per cycle plotted against frequency. Note that each
+of these curves has a spectrum that falls off with frequency at about 6 db/octave.
+But the most dramatic point of Figure 3 is that it shows a 30-lb db diurnal
+
+variation in acoustic noise level. In the 1-cps region the diurnal variation in
+acoustic pressure is from 0.03 to 1 dyne/cm?, Assuming the noise was produced
+
+by turbulence, there must have been either large diurnal Changes in nearby
+turbulent activity or large changes in distance between an acoustic probe and
+
+the turbulence detected.
+
+Up to this point acoustic monitoring was done with a single, balloon-borne
+microphone and transmitter. The stability of an inexpensive, free-floating balloon
+at altitudes of 60,000 feet was questioned, and it was suggested that the microphone
+might be sensing air flowing past its diaphragm rather than a true acoustic signal,
+
+It was decided to settle this matter by launching two widely-separated acoustic
+probes on a single balloon system. If the same signal were detected by both probes
+it would mean that a legitimate acoustic signal was present. Noncorrelating sig-
+nals, on the other hand, would indicate localized flow noise occurring independently
+at each microphone.
+
+The approach was simply to use two of everything. As shown in Figure 4, two
+balloons were tied together to one of the payloads and were played out with several
+hundred feet of string. The second payload, tied to the bottom end of the string,
+was then released. The whole assemblage was supposed to rise gently from the
+earth and ascend to 60,000 feet. This became known as the worst method of launch-
+ing. It never worked because the balloons drifted so far downwind that when the
+lower payload was released it swung to the ground and was destroyed. Subsequently,
+several attempted launches were made using the almost-as-bad method of standing
+300 feet upwind with the balloons and one payload, while the final release man stood
+downwind on the rim of a deep gravel quarry with the other payload. The giant
+arc described by the lower payload at takeoff was almost as breathtaking as the
+involuntary descent into the quarry made by the final release man. Although two
+successful launches were made inthis manner, the method was soon discarded in
+favor of a safer and more reliable technique.
+
+Figures 5 and 6 show an inexpensive, commercially-available launching reel
+that was modified so that it would hold several hundred feet of number 18 braided
+Nylon cord, The reel, in its original form, is sometimes used for launching
+
+radiosondes in strong winds. It normally holds only 50 feet of string which deploys

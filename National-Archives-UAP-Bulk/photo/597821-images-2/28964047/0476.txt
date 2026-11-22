@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T15:52:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5041846, "source_ctime_ns": 1793377504378809507, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28964047/0476.jpg", "source_mtime_ns": 1785696503000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28964047/0476.jpg", "source_sha256": "34646cddd344b37b551f5d427fdf33518b9ab5c8a7c5c1c7b029b224e1e3563b"}
+
+===== PAGE 1 =====
+{"alpha_words": 52, "chars": 388, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+r Wnt Mor We ial WT NY
+BROKEN 2526 BROKEN
+
+Copoere OC Lo.
+
+NIGHT
+
+GJEN 4821 NONE
+A Viiememggee ace 35 @ UNK
+a, BATTLE FREDERICK CHEFFY 1/LT USAF
+CREEK MICH PURCHASING AGENT SENIOR DIRECTOR
+N/A NO COMMENT
+WEATHER THIN OVERCAST VISIBILITY EXCELLENT
+SURFACE SE 4 12 NONE
+$20@ FT 229 DEGREES 28 KTS
+FT 24@ DEGREES 28 KTS
+
+FT 26@ DEGREES 35 KTS
+
+FT 28@ DEGREES 4% KTS
+
+a
+
+23/8454Z OCT RJEDFJ

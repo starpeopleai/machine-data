@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T16:07:11Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8227961, "source_ctime_ns": 1793362701309641447, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330783376/45484701-003-004-0207.jpg", "source_mtime_ns": 1785685014000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330783376/45484701-003-004-0207.jpg", "source_sha256": "ed1a0649d48d00f6bafc8827d2bfab0947bbe3c3416b4dfb44bd767e64e2016f"}
+
+===== PAGE 1 =====
+{"alpha_words": 66, "chars": 509, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+TREN T/\jz
+
+AIABB-S 290441 4 May 1954
+
+SUBJECT: Unidentified Illuminated Aerial Object,
+Fort George Ge Meade, Maryland
+
+Assistant Chief of Staff, G2, Intelligence
+Department of the Army
+
+Washington 25, De Ce
+
+ATM: Collection and Dissemination Division
+
+The attached inclosures regarding the above Subject is forwarded
+
+for your informations
+
+le AR dtd 30 Apr 54 Colonel G&S
+2e AR dtd 30 Apr 54 AC of S G2
+Se AR dtd 30 Apr 54
+
+4. AR dtd 3 May 54
+
+5. Cy D/F dtd 4 May 54
+
+Declassification Authority: NND 923007

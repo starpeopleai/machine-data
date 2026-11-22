@@ -1,0 +1,49 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T16:11:19Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8910014, "source_ctime_ns": 1793383660872021795, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28987533/1170.jpg", "source_mtime_ns": 1785748399000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28987533/1170.jpg", "source_sha256": "5e2f8dde70240e09c63241cf97ac5dbb307c882776cb9f83a4b309347bb5be5a"}
+
+===== PAGE 1 =====
+{"alpha_words": 65, "chars": 502, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+NNNN
+
+.
+
+Ss OY
+re —
+Fn.
+SS
+—
+
+ZCZCSQPG4SCZCSAGEASZCVYB259 J g
+
+RR RJEDSQ |
+‘DE RJESKBP 5 oN
+“R 2218302
+
+FM 783 ACWRON GUTHRIE AFS CHARLESTON WVA
+
+TO ATIC WPAFB OHIO |
+
+BT : ; ‘
+
+UNCLAS FROM 783 CIS 27-832. ATINs AFCIN, SUBJECT: "UFO"
+
+| |
+REPORT Spas :.:\', es. OAK HILL, 8
+
+W.VA). INVESTIGATION WAS CONDUCTED 21 JUL 62 IAW PARA 4B,
+
+AFR 222-2, DTD 14 SEP 59, AS AMENDED. RECOMMEND NO FURTHER
+ACTION BE TAKEN. A WRITTEN REPORT WILL FOLLOW.
+
+BT
+
+22/1847Z2 JUL RJESKBP a:
+oS
+te >
+= =
+
+A es
+
+. g
+>
+
+NNNN

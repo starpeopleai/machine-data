@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T16:07:52Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8384285, "source_ctime_ns": 1793385574740545061, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28993681/0159.jpg", "source_mtime_ns": 1785748463000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28993681/0159.jpg", "source_sha256": "d7de91b245853a06640d4a4c196efbbc434cc243094fe5abffa65fe563096b17"}
+
+===== PAGE 1 =====
+{"alpha_words": 64, "chars": 558, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+86) $5552 10 44102 27 JULY 61.
+
+PAGE THREE RJAPAAK 5
+€2) NIGHT= FULL MOON.
+Be OD 42N, 359 24 E EAST SIDE OF
+
+,r. RTT
+
+UNWAY CENTER TACHIKAWA AB, APO 323.
+
+2
+
+»
+r
+
+(2) SMITH, C.N. A/iC AF 13599592 612 CAMRON
+BINGHAM, DeLe SSGT AF 14548298 6190 CAMRON
+HONEA, TeO. A/1C AF 14498489 $148 CAMRON
+ALL OBSERVERS ARE A&£ MECHANICS
+AND FAMILIAR WITH AIRCRAFT IN FLIGHT,
+RELIABILITY ESTIMATED TO BE GOOD.
+
+Gs (1) CLEAR, NO CLOUD COVER, FULL MOON, VISIBILITY
+
+TRICTED STRAIGHT UP.
+
+20 M-239/95
+
+34 M-is3/19 2 DEGREES PER 1M
+
+ieneenetinaeggconcnsitcsenaasasias sina ct

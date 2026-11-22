@@ -1,0 +1,78 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T15:41:37Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3079555, "source_ctime_ns": 1793376079510871586, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28959124/00665.jpg", "source_mtime_ns": 1785696868000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28959124/00665.jpg", "source_sha256": "ee511db51a50574ccba793d58a1b8f250b9027d056d08d9e9838d283b7eae4fe"}
+
+===== PAGE 1 =====
+{"alpha_words": 101, "chars": 828, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+4
+
+_
+.
+
+DATE
+
+28 July 1954
+
+2. LOCATION
+
+Mami, Florid
+
+a
+
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION
+9
+Local EL, 3B Ground-Vi sual O Ground-Radaor
+59/02
+GMT ere C3408 D Air Visual D Air-Intercept Radar
+5. PHOTOS 6. SOURCE
+O Yes
+"No MILITARY
+
+7. LENGTH OF OBSERVATION
+
+6 Seconds
+
+8. NUMBER OF OBJECTS
+
+one
+
+9. COURSE
+
+NE
+
+_~
+NO
+
+, ofo ooo
+
+poo oo8
+
+- CONCLUSIONS
+
+Was Balloon
+Probably Balloon
+Possibly Balloon
+
+Was Aircraft
+Probobly Aircraft
+Possibly Aircrafr
+
+Was Astronomical METEOR
+Probably Astronomical
+Possibly Astronomical
+
+Other
+Insufficient Data for Evaluction
+Unknown
+
+10. BRIEF SUMMARY OF SIGHTING
+
+Brilliant pale blue object, rapid speed - 4
+cones of light. No sound. Very large, passed
+near vessel. Flight paralell to horizon,
+
+11, COMMENTS
+
+Meteor sighting.
+
+ATIC FORM 329 (REV 26 SEP 52)

@@ -1,0 +1,16 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T16:01:51Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6924584, "source_ctime_ns": 1793362501804099096, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330783011/45484701-003-001-0069.jpg", "source_mtime_ns": 1785685150000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330783011/45484701-003-001-0069.jpg", "source_sha256": "54e81fb1f42152d6e3f8cee166f6f13819291d9f44919bd8c477147b265f1366"}
+
+===== PAGE 1 =====
+{"alpha_words": 19, "chars": 145, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+bene neem ao eennremrnomenst
+
+ae pe val ¥! nore
+
+Uniti STATES AIR FORCE
+rad
+
+(OR GENERAL
+
+tug 5 42 00782
+
+Declassification Authority: NND 923007

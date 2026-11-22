@@ -1,0 +1,43 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T15:43:18Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3806395, "source_ctime_ns": 1793373528379454365, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28947383/1174.jpg", "source_mtime_ns": 1785688662000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28947383/1174.jpg", "source_sha256": "27c51e53ba05ff66856fde59d066896e786e63cbc34e82de7bdd75e78192124a"}
+
+===== PAGE 1 =====
+{"alpha_words": 188, "chars": 1192, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Page 5
+
+18, Did the object at any time:
+18.1 Move behind something? (Circle One) Yes (ip) Don't know
+IF you answered YES, then tell what it moved behind.
+
+18.2 Move in front of something? (Circle One) Yes ‘flo } Don't knw
+IF you answered YES, then tell what it moved in front of.
+
+18.3 Blend with the background? (Circle One) es (Bio) Don't know
+
+19. Which of the following objects is about the same actual size as the
+object you saw? (Circle One):
+
+a. Pea f. Automobile
+be Baseball g. Small airplane
+e Basketball h. Large airplane
+@ Bicycle wheel i. Dirigible
+19.1 one of the following to indicate how certain you are
+of your answer to Question 19.
+Certain c. Not very sure
+Veirly certain d. Uncertain
+
+20. Try to tell the following things about the object:
+
+20.1 How high above the earth was it? FOZ feet.
+20.2 How far was it from you? feetor $47 __ miles
+20.3 How fast was it going? Wo sOéA__ miles per hour.
+
+20.4 eirole one of the following to indicate how certain you are
+your answer to the above questions:
+
+a. Certain ¢. Not very sure
+(oy; Fairly certain a4. Just a guess
+
+21. How did the object disappear fran view?
+
+(Circle One): @ Suddenly c. Other
+~ Gradually ad. Don't remember

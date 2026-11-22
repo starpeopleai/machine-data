@@ -1,0 +1,14 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T15:59:11Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6137403, "source_ctime_ns": 1793354981027143843, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989256-001-0032.jpg", "source_mtime_ns": 1785564373000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989256-001-0032.jpg", "source_sha256": "c8b8b6dc89c23ae36c7c68033d0093646875c171ed8964add50974db4e407d99"}
+
+===== PAGE 1 =====
+{"alpha_words": 42, "chars": 201, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+OS DELS et OF r= CCG. COIN US SE
+
+° » ° ° e e ca ° ° e ° ° e °
+Laat MS RA SO QP RO SSD yr COC Cre
+: ‘ inn hos eS CS ee NH
+
+Rr Ce seg 44
+
+eset) edited Feet Pert et teeny nee feet CR
+eV EMiOD UO OMS Se

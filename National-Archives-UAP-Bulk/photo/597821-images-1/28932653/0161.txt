@@ -1,0 +1,7 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T15:55:54Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5596948, "source_ctime_ns": 1793369773176636891, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28932653/0161.jpg", "source_mtime_ns": 1785688901000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28932653/0161.jpg", "source_sha256": "5bafdd45165578be3bbbe06056f2af1b5434f6c86b1a3bf8d55dbce85c08c0dc"}
+
+===== PAGE 1 =====
+{"alpha_words": 30, "chars": 175, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Yo. 226: Sighted ore hour after release at Albuaueruue; same
+ereen MTare appeararce as in previous five or six cases, and moving
+into the wind from East to Weat. No balloon.

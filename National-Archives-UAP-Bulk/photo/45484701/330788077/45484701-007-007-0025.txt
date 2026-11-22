@@ -1,0 +1,54 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T16:15:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10463825, "source_ctime_ns": 1793364970149112589, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330788077/45484701-007-007-0025.jpg", "source_mtime_ns": 1785684952000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330788077/45484701-007-007-0025.jpg", "source_sha256": "5663a6a1f045e5214cd3c8974874055ee8ebe996b54cf261ef1d55632f9b3744"}
+
+===== PAGE 1 =====
+{"alpha_words": 427, "chars": 2712, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+DETAILS #
+
+le This investigation is predicated upon a report from Trooper
+SULLIVAN of the New York State Police at Camden, New York, on 6 duly 1950,
+to the effect that a balloon, approximately twenty~five (25) feet in diameter
+was discovered on the farm of ENO J. LABELL, approximately thirty-five (35)
+miles northwest of Griffiss Air Force Base. According to the State Police
+the balloon was known not to have been there on the 3rd of duly 1950 but was
+found by LABELL on July 1950, |
+
+AT GRIFFISS AIR FoRcE BASE, ROME, NEW YORK
+
+2. The balloon was picked up by OSI Agent WALTER J. LUBIEJEWSKI and
+brought to the 22nd OSI District Office. It ig composed of an envelope,
+approximately twenty-five (25) feet in diameter with three (3) non-inflatable
+fins composed of a fabric covered collapsible wooden frame. The entire en«
+velope and fin material is estimated to be between .005 and .015 inches thick.
+It is black on the inside and silver om the outside. Wires are attached to the
+fins, apparently for the purpose of keeping them in place while the balloon is
+in flight. It is equipped with numerous cords and a heavy lacing about two (2)
+feet wide, of sponge rubber cord, The lacing extends from one end of the bal»
+doon to the other. The balloon, when found was ripped through its entire
+Length. Markings on the balloon are indicated belows
+
+The Firestone Tire and Rubber Company, Akron, Ohio
+
+The wooden frame of the fing and the thin fabric contained the insignia of the
+Corp of Engineers with markings "U. 5. - 3, Buffalo, New York", A check with
+the Flight Service at Olmsted Air Force Base, Middletown, Pennsylvania, failed
+to furnish any information which would indicate that the balloon originated from
+that Locality.
+
+3+ Both Major STANLEY C. LEWIS, 1OS@;-A and M/Sgt. JAMES F. OLSSON, A=
+6983697, of the 317lst Electronics Research and Development Squadron, Griffiss
+Air Foree Base, inspected the remants of the balloon. ‘They advised that they
+were both in a good position to know whether a balloon of this type was in use
+by any activity at Griffiss Air Force Base and advised that they had no knowe
+ledge of this type of balloon having been lamehed in the vicinity of Griffiss
+Air Force Base.
+
+AT WATERTOWN, NEW YORK
+
+he & & 1950, M/Sgt. WILLIAM E, RICHMOND, 6885533 and Captain
+LUTHER M, HART, 12525, Sergeant Major and Duty Officer, respectively, were
+interviewed at Pine Camp, Watertown, New York by 8/A D. C. CARPENTER. Both
+indicated their belief that they probably would have mow if such a balloon
+had been launched in the Pine Camp area and advised that they had no informa~
+tion to indicate that such a balloon had béen launched in that area. Major
+
+Declassification Authority: NND 923007

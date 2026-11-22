@@ -1,0 +1,52 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T16:08:50Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8446281, "source_ctime_ns": 1793385937938662812, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28994445/0851.jpg", "source_mtime_ns": 1785747958000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28994445/0851.jpg", "source_sha256": "2463c4dc3cc6ba6155b2a02a05c73f7771e40368108e2d93784b18260e2bf03c"}
+
+===== PAGE 1 =====
+{"alpha_words": 98, "chars": 624, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PAE OER AEN IP HEAR RING GGT: Mew tty ye it
+
+i DEPARTMENT OF THE AIR FORCE
+
+ts
+INFO , :' 00P-2, O0P-cP-1,] ree 8. M | (Aug
+
+nl
+
+SMB C 107
+CZCHQC462ZCQJ
+
+PP RJEZHQ
+
+ZNR ZFH-1
+
+COZC SUB938ZCGSA312
+
+PP RJWZBH RIWF AL, RIWFALB RJEDSO RJEZHO
+DE RUWZGS 3A
+ZNR
+P 060655Z
+FM SPOKANE AIRDEFSEC LARSON AFB WASH
+TO RUWFAL/H@ ADC ENT AFB COLORADO
+RJWZBH/ HO 25 AIRDIV MCCHORD AFB WASH
+-RJEDSQ/H@ ATIC WRIGHT PATTERSON AFB OHIO
+RJEZHQ/HQ USAF AFCIN WASH 25SDC
+RJWFALB/CINCNORAD MINT ENT AFB COLORADO
+BT.
+UNCLAS FROM SPOTN 1757
+FOR INTELLIGENCE, SUBJECT UFO REPORT
+le As UNK
+
+B. DIME
+
+C. RED
+
+De ONE
+
+E. N/A
+
+F. NONE
+
+G. UNK
+
+H. NONE
+
+(

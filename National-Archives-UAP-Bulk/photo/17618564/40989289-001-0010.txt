@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T15:33:06Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 934925, "source_ctime_ns": 1793355914120420651, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989289-001-0010.jpg", "source_mtime_ns": 1785564557000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989289-001-0010.jpg", "source_sha256": "2163f1d0a6f57d9cb9e045daaf6b83274ec79304e4637453a7d4cf6938e1f3b6"}
+
+===== PAGE 1 =====
+{"alpha_words": 200, "chars": 1265, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+per week of the V-2 and Ordnance developed guided missiles.
+The Navy, although at the time operating on a limited scale,
+had plans made for the firing of rockets designed to reach
+an altitude of 200 miles sometime during the autumn of 198.
+Both Ordnance and Naval units at White Sands expected an in-
+crease in the frequency of missile launchings.
+
+The Air Force was using its range for the testing of
+air-to-air, air-to-surface, surface-to-air, and surface-to-
+surface guided missiles under the direction of research and
+development units. Firings were averaging approximately
+50 per month with a rapid growth in future testing sche-
+dules foreseen. Future programming included the launch=
+ing and testing of missiles during the autumn of 19)8 which
+would require the use of the full length of the combined
+rangesSo
+
+Sometime in November or December of 197, while the
+Secretary of the Air Force was visiting the Holloman-
+
+White Sands area, a conference was held at White Sands at
+which it was agreed that a need existed for "certain
+decisions to be made locally," and that the senior officer
+was the proper person to make heme Consequently, the
+Secretary decided that it was "agreeable to the Air Force
+
+for the Senior Army Ordnance Officer permanently assigned

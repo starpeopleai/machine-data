@@ -1,0 +1,37 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T15:35:54Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1266388, "source_ctime_ns": 1793392065475086468, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302563776/1193.jp2", "source_mtime_ns": 1785808544000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302563776/1193.jp2", "source_sha256": "929c8be4a098f5a01f8c6965f006d4e7a4a2b14539c36854d7b1fb42f8246051"}
+
+===== PAGE 1 =====
+{"alpha_words": 61, "chars": 464, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+III. CONCLUSIONS: | :
+
+The sample material is fused and semi fused sand,Mresulting from the contact
+of a high-voltage wire and sand.
+
+IV. RECOMMENDATION:
+
+None.
+
+PREPARED BY:
+
+CHARLES D. HOUSTON
+ae
+
+WILLIAM L. BAUN
+
+CONRAD M. PHILLIPPI ~
+
+PUBLICATION REVIEW
+
+This report has been reviewed and is approved.
+
+FREEMAN F. BENTLEY ‘)
+Chief, Analytical Branch }
+Materials Physics Division
+
+Air Force Materials Laboratory
+
+DISTRIBUTION:
+TDET/UFO
+MAYA
+MAY
+MAAM (Library)

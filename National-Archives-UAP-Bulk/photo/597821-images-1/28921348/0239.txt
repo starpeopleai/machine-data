@@ -1,0 +1,44 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T15:57:48Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5967813, "source_ctime_ns": 1793368570996916301, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28921348/0239.jpg", "source_mtime_ns": 1785688704000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28921348/0239.jpg", "source_sha256": "351e52efc0b9df407c3357637bd2f594f623d631ee83bc6d2c2efe233bb0cd3b"}
+
+===== PAGE 1 =====
+{"alpha_words": 205, "chars": 1879, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+1 - 20 AUGUST 1960 SIGHTINGS
+DATE LOCATION OBSERVER EVALUATION
+O8SO Aug Essex, Illinois (PHYSICAL S) Other (CHAFF) |
+oon Glover, Vermont Astro (METEOR) |
+G33 "i NOrva Concord AFS, Vezxmont. Astro (METEOR) |
+C884 1). Dexter, Maine Astro (METEOR) |
+eee» Plattsburg AFB, New York Other (PARACHUTE FLARE)
+oe Dayton, Ohio Other (UNRELIABLE REPORT)
+G8d6 5 Lewisburg, West Virginia Astro (METEOR)
+C87 6 29.57N 79.40W (Atlantic) oast Guard Other (SONOBUOY ) |
+©8SS 6 Sandersville, Georgia Insufficient Data :
+C85‘) 10 Cleveland, Ohio —_—. Insufficient Data
+G3I0 10 24.10N 49.14W (Atlantic) SN Other (MISSILE) |
+©84/ 11 E of Kyushu Island, Japan Military Air Astro (METEOR)
+O82 11 Madison, Wisconsin “eee Insufficient Data |
+©894 11 Sious Falls, South Dakota Multiple Insufficient Data
+E38i¢4 12 Quincy, Massachusetts ate Aircraft
+CIC) 12-20 ~=—s- Red Bluff Ares, California gale Multi Other (INVERSION)
+689513 Virginia old @ + usN (PEYSICAL S) Other (WATER BEACON)
+C896 13 Terre Haute, Indiana eee... Aircraft
+6397 14 30 Mi S of Ketchikan, Alaska Pecific NW Airlines Astro (METEOR)
+C8978 14 Tobago Island, Fort Cleyt ton, 6.2. Hates Astro (ARCTURUS )
+©8979 16 Fairborn, Onio = Astro (ALTAIR) |
+G9G0O 16 Takeland, Florids Aircraft
+@xO/ 17 E of Corpus Christi, Texas Coast Guard Satellite (ECHO I)
+6902 Le Melbdourne, Florida dingy. Insufficient Data
+€903 18 Fairfield, California | Astro (METEOR)
+O47 19 Nome, Alesks Satellite
+(905 “20 Galena, Alaska Satellite
+E906 20 Concord, California Astro (V5GA)
+E707 29 Littleton. Colorado Insufficient Data
+ADDITIONAL REPORTED SIGHTINGS (NOT CASES)
+DATE LOCATION : SOURCE EVALUATION
+\5 Maull ® Lille, France jowsclipping
+p San Francisco, California (Ltr)
+G9UO§ 211 Boulder, Colorado Newsclipping
+\i2 Port Washington, Wisconsin Newsclipping
+Ls Holmdei, New Jersey Newsclipping
+13 Cape Canaveral, Florida Newsclipping
+[a3 Dayton. Ohio Newsclipping

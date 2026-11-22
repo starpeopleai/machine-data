@@ -1,0 +1,72 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T16:04:01Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7359513, "source_ctime_ns": 1793363132850777297, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330784594/45484701-004-005-0067.jpg", "source_mtime_ns": 1785684740000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330784594/45484701-004-005-0067.jpg", "source_sha256": "e62f3539c936b0d924c00d41080e92a2be58bae1bd3977e3c063cf1626600d83"}
+
+===== PAGE 1 =====
+{"alpha_words": 152, "chars": 1248, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+(3) Angle or elevation and azimuth of object upon
+
+disappearance. Approximately 15° above horizon in West.
+
+(4) Deseription of flight path and maneuvers of object.
+
+Traveled in straight line from Fast to West.
+
+Ce
+
+a.
+
+e.
+
+(5) How did object disappear - instantaneously to the West.
+
+(6) How long was object visible - Approximately 4 to 7 seconds.
+Manner of Observation:
+
+(1) Ground - Visual
+
+(2) No optical aids used.
+
+(3) Sighting made from auto.
+
+Time and Date of Sighting:
+
+(1) 2021 hours - 16 November 1960.
+
+(2) Light conditions - Night.
+
+Location of Observer:
+
+(1) Traveling West on Fairmont Avenue, Cinginnati, Ohio,
+
+approximately 2 miles N.W. of downtown Cincinnati, Ohio.
+
+ft.
+
+Be
+ceiling
+
+Identifying Information on Observer:
+
+Name: MIROSLAV UROSHEVICH
+Home Address & Phone: 2880 Harrison Ave., Cineinnati, Ohio,
+
+MO 21805,
+Business Address & Phone: 1964 Fairmont Ave., Cincinnati,
+
+Ohio, WA 10676.
+Business: Vice-President, Alpha Designs, Inc., Design Engineer.
+
+Observer's account of weather conditions - clear, unlimited
+and visibility, with no cloud cover.
+
+DOYLE REES 2 Atch
+
+Colonel,
+
+USAF 1. Drawing by UROSHEVICH
+
+Commander 2. Newspaper Clipping
+
+Copy to:
+/_ HQ USAF (AFCSI-6D) w/ateh 2.
+
+Declassification Authority: NND 923007

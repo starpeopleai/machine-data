@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T15:56:52Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5740565, "source_ctime_ns": 1793388533989848024, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/29001460/0561.jpg", "source_mtime_ns": 1785808576000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/29001460/0561.jpg", "source_sha256": "2adc138b71b1d05f2fa38d5d982bbcaee38f26ccadfc61ac5f94a775209d4273"}
+
+===== PAGE 1 =====
+{"alpha_words": 146, "chars": 969, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+DO YOU THINK YOU CAN ESTIMATE THe SPEED OF THY OBJECT?
+
+vs) :
+C
+
+: (CIRCLE ONZE): Yas Oo
+EE IF YOU ANSWERED YES, THON WiAT SPEED WOULD YOU ESTIMATE: MPH.
+q 39, DO YOU TINK YOU CAN ESTIMATES HOW FAR AWAY FROM YOU THE
+OBJECT WAS?
+:: (CIRCLE. ONE) NO
+IF YOU ANSWERED YES, TIEN HOW FAR AWAY WOULD vou say rz was 2p
+1 40, PLEASE GIVE THE FOLLOWING INFORMATION ADOU? YOURSELF:
+| MRS. (in) —ana — , :
+ADDRESS_@@M COMMERCIAL STR} |
+EAST WEYMOUTH, MA SSACHOSETTS
+TSLEPHONE NUrR Se
+PRESENT JOB?_CARINET MAEE
+he AGE_Z4 Sex MALS
+q PLEASE INDICATE ANY SPECIAL EDUCATIONAL TRAINING THAT YOU HAVE
+HAD:
+me. GRADB SCHOOL a e. TECHNICAL SCHOOL
+! | b. HIGH SCHOOL i (TYPE) >
+oe ¢, COLLEGE é
+; d. POST GRADUATE | f£, OTHER SPECIAL TRANING |
+' DO YOU BELONG TO NICAPND 2 APRO M0 2 opum?: NY 3
+1 HAVE YOU READ ANY BOOKS oN Urots? NO
+hl. DATE YOU COMPLETED THIS QUESTIONNAIRE: 28 wuLY F768
+= a pes Q DAY MONTH YEAR.
+_~ INTERVIEWER: RAYMOND BE, FOWLER
+
+13 FRIEND COURT,
+WENHAM, MASSACHUSETTS

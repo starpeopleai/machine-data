@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T15:41:09Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1824694, "source_ctime_ns": 1793359658716240296, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-009-068-0003.tif", "source_mtime_ns": 1785681484000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-009-068-0003.tif", "source_sha256": "a17b61ac35719ebfdc46c45b5dabd775962d24be90844b963c38f97b31fc4a02"}
+
+===== PAGE 1 =====
+{"alpha_words": 66, "chars": 506, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+SUBJECT:
+
+TOxz
+
+Declassification Authority NND 923007
+
+660TH AIRCRAFT CONTROL AND WARNING SQUADRON
+MacDill Air Force Base
+Tampa, Florida
+
+27 September 1956 —
+Report of Unidentified Flying Objects
+
+Connandezs::
+
+ns Sen a3.
+Aster
+
+ee eee m Qo. Aes
+
+. Colorade-Springs ,: Colorado”
+
+ATINe~ “Int Officer”
+
+Inclesed are venacts of unidentified flying objects by this squadron,
+and Director/Intelligence 305th Bomb Wing (M), MacDill Air Force Base,
+fampa, Florida.
+
+Y DD. EAM
+PAUL A. SASS
+end Lt. USAF
+Adjutant

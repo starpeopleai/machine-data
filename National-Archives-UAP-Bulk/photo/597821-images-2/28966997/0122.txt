@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T15:56:30Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5728605, "source_ctime_ns": 1793378159971921647, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28966997/0122.jpg", "source_mtime_ns": 1785696458000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28966997/0122.jpg", "source_sha256": "d08a583f12c483a3c04af2d0d56db9ae618ba8ce8f172aa988a8b5cb454f08f9"}
+
+===== PAGE 1 =====
+{"alpha_words": 59, "chars": 381, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+o Rew gy
+f $
+
+RASG 1
+
+M WPBOS4 YMB@41XLSCB43 EBAGZ )-BDAETS /\
+
+00 RJEDEN RJEDWP RJEPNY RJEPHQ RBEGK avo.
+
+DE RJEDLS 75H —— ay iv ay
+
+0 47630320 ” — mer
+/
+
+FM FSC OLMSTED AFB PA
+
+TO RJEDEN/COMDR ADC ENT AFB COLORADO
+RJEDWP/COMDR AIR TECHNICAL INTEL CEN, WRIGHT@PATTERSON AFS, OHIO
+IRJEPNY/COMDR 26TH AD (DEF) Ny
+
+RJEPHQ/DIR OF INTE! HO USAF WASH 25 DC
+
+RBEGK/COMEASTSEA FRON
+
+i3T

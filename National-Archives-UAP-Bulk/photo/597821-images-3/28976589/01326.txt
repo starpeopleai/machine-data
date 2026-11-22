@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T15:49:14Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4716282, "source_ctime_ns": 1793380519467050567, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28976589/01326.jpg", "source_mtime_ns": 1785700732000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28976589/01326.jpg", "source_sha256": "f32550ea1f3cc8e1066fb7981daa0d9cf22627be0508cdff2e6c3ed2b613f744"}
+
+===== PAGE 1 =====
+{"alpha_words": 97, "chars": 808, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+1. DATE 2. LOCATION 12. CONCLUSIONS
+; 3 O Was Balloon
+9 Jan Ss 6 Mi NE over Itazuf@ AB, Jap fe prersery Balloon
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION ome
+: Q Was Aircraft
+Local -O Ground- Vj sual O Ground-Radar a Probably Aircraft
+GMT_._ 05 /09.:57 KAI Vi sual O Air-Intereept Radar G Possibly Aircroft
+5. PHOTOS 6. SOURCE & Was Astronomical Meteor
+0 Yes O Probably Astronomical
+B No Militar y O Possibly Astronomical
+7. LENGTH OF OBSERVATION 8. NUMBER OF OBJECTS | 9. COURSE O Other
+Q Insufficient Data for Evaluatian
+; Q nknown
+3 - i secs ane Westorly
+1c. BRIEF SUMMARY OF SIGHTING 11. COMMENTS
+Flaming, light blue ball, leaving trail Typical fireball characteris-~- '
+»f flaming pieces which were apparently tics,
+‘oaking off, Disintoegrated,
+
+ATIC FORM 329 (REY 26 SEP $2)

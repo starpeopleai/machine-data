@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T16:09:26Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8511822, "source_ctime_ns": 1793361116508396695, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-004-0127.tif", "source_mtime_ns": 1785565234000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-004-0127.tif", "source_sha256": "b147d6655db46d764a599acc82d041f5f426e3d6fd5315526f398c17a18f6973"}
+
+===== PAGE 1 =====
+{"alpha_words": 37, "chars": 286, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+. AFCIN-IBI PHOTOSTAT REPRODUCTION
+Routing Inst Cont'd REQUIREMENT ;
+
+«
+
+NUMBER OF
+
+ORIGINALS RE PRODUCTIONS
+
+SIZE PRINTS NEGS SETS PRINTS
+TOTAL
+
+OPERATOR NO/DATE
+
+OPERATOR NO/DATE (S/C)
+{ABR okS
+OPERATOR NO/DATE ~
+
+[eae
+APRI958 «7
+
+COLLATOR NO/DATE
+
+DECLASSIFIED
+Authority NND 9237007

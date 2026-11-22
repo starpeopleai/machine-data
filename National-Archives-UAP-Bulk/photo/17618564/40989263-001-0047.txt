@@ -1,0 +1,45 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T15:54:43Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5381557, "source_ctime_ns": 1793355124123491017, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989263-001-0047.jpg", "source_mtime_ns": 1785564397000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989263-001-0047.jpg", "source_sha256": "89e61ee3e1aa838cca113cea13b22236cae788b4042d957fe543c02060fbbe2c"}
+
+===== PAGE 1 =====
+{"alpha_words": 38, "chars": 400, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+STATION ALTITUDE 4060.15 FEET MSL
+24 APRs 75 RS MST
+ASCENSION NOe 242
+
+PRESSURE GEOMETRIC
+ALSO TED &
+MILLIBARS MSL FEET
+
+3040 7851322
+29e¢e0 8717602
+16e0 89437 «4
+FOe 0-1 225557
+Le TrOSUb 69
+Se3 11671 Nes
+
+SIGNIFICANT
+
+LEVEL DATA
+
+1140010242
+
+HOLLOMAN
+
+TEMPERATURE
+AIR DEWROYNT
+DEGREES CERTIGRADE
+
+“54.3
+-50e8
+"52Ze/7
+"3702
+
+RELeHUM,
+PERCENT
+
+973176072 FEET
+350771+53 FEET
+
+WSTM SITE COORGINATES
+
+N

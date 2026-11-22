@@ -1,0 +1,54 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T15:46:46Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4326069, "source_ctime_ns": 1793371019425279903, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28936219/0571.jpg", "source_mtime_ns": 1785688608000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28936219/0571.jpg", "source_sha256": "fedd716d22ed8ac28c214d5e4d78179a084f238d36105483941ff5a5590732a6"}
+
+===== PAGE 1 =====
+{"alpha_words": 158, "chars": 1153, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+DEPARTMENT OF THE AIR FORCE
+HEADQUARTERS UNITED STATES AIR FORCE 5p-0S1 /DML/fmn
+
+r WASHINGTON
+
+‘ THE INSPECTOR GENERAL, USAF
+STH DISTRICT OFFICE OF SPECIAL INVESTIGATIONS
+WBYUANT-PATTERSON AIR FORCE BASE. DAYTON. OHIO
+
+JMC &SGON 1H
+IN nepLy RereR To: 5D 2=<2144;7 UM 26 October 199
+
+SUBJECT: PROJECT GRIJDGE, Inoident at San Francisco, California
+SPECIAL INQIRY
+
+a ee
+
+TOs Commanding General
+Air Materiel Communi
+: Wright-Patterson Air Force Base
+4 Dayton, Ohio
+ATTN: MCIAXS
+
+JAX FF
+
+' 1. Reference is made to letters from this office, subject and
+file as above, dated 30 September and 5 October 1949, ami reports of
+: investigation inolosed therewith
+
+2e Inclosed for your informtion and necessary action is another
+pemling report of investigation by Special Agent JACK S. MARTIN, DO #19,
+subject and file as above, dated 21 October 1919.
+
+3e This investigation is continuing and additional reports will
+be forwarded your office upon receipt by this office.
+
+1 Inol AMES F. X, O'CONNELL
+R/I dtd 21 Oct hg Lt Colonel, USAF
+(in dup) District Commnier
+
+x 2 xen batt et sti.
+gow sch seth 4 ae
+per ;
+
+UNCLASSIFIED : }
+. a
+<i Reo | U
+na
+
+WF-O-5 OCT 48 15M

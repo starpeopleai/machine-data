@@ -1,0 +1,23 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T15:42:21Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3545508, "source_ctime_ns": 1793371465095104899, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28938391/1094.jpg", "source_mtime_ns": 1785688599000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28938391/1094.jpg", "source_sha256": "4c58413721e0ddb5c07bd7f434823c366b908df715a0907565a2c9987f16ae56"}
+
+===== PAGE 1 =====
+{"alpha_words": 49, "chars": 325, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+' 4
+AF FORM.112—PART Ul
+APPROVED 1 JUNE 1048
+
+AIR INTELLIGENCE INFORMATION REPORT
+‘Intell Agence Division, Hq MATS ae
+
+o | WR291-50 a i so
+ised that it was Possible there was no connection between
+the desert and the lights seen after dark.*
+
+PERCY ®% SUTTON
+Captain, USAF
+
+ED
+= BORADED T 3 Yeap
+Dep> ATER
+
+Eiri MND pace pric

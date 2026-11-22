@@ -1,0 +1,168 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T15:58:00Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5972487, "source_ctime_ns": 1793378902554493089, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28969735/1105.jpg", "source_mtime_ns": 1785700933000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28969735/1105.jpg", "source_sha256": "25821cd1da20504befdb071c3889d1dd3b4c6f16c6c182e819958c277f43ee48"}
+
+===== PAGE 1 =====
+{"alpha_words": 819, "chars": 5225, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+la these preliminary orbit calculations,
+in is asstamed that the path around the
+sun isa parabola — always a good ap-
+proxitnation for the time being. The
+parabola can be specifies! exaculy by five
+muinbers, which may be illustrated by
+Comet Kearns-Rwee 10638d:
+
+‘Thus abject was closest to the sun on
+October 28, 1963, at a distance of 2.5
+astronomical units, Its orbit is in a plane
+inclined 9° to that of the earth’s orbit.
+‘The intersection line of these two planes
+points toward heliocentric longitude 322°,
+marking the ascending node, or passage
+of the comet northward across the eclip-
+tic. Finally, the angle in) the comet's
+orbital plane is 113° from the ascending
+node toa perihelion, ’
+
+Nowadays, it is common for a comet
+1o remain under observation for several
+months before it becomes too faint to
+follow. (Comet Stearns 19271V was
+tracked for four years before it was lost.)
+It is then possible to compute a definitive
+orbit, which utilizes all the positional
+measurcments, In this calculation the
+shape of the orbit is determined, instead
+of being assumed parabolic.
+
+Almost always, the orbit is highly clon-
+gated, with only a small are covered by
+our observations. Halley's Comet, for
+instance, has a period of 76 years, but
+during its last return (perihelion was
+April 20, 1910) it could be observed only
+from September, 1909, to July, 1911. The
+path of Halley's Comet is an ellipse of
+eccentricity 0.967, so its distance from the
+sun ranges from 0.59 to 35.3 astronomical
+units. At present this famous object is
+still outside Neptune's orbit, but is travel-
+ing inward on its next return to the sun’s
+vicinity in 1986.
+
+Encke's Comet is notable for its short
+period of 3.3 years. Its perihelion point
+
+4
+
+Bd ences oe
+
+‘
+
+oO tether: bev: 0ns oomentnereenne Riana te
+
+The main tail of a comet pointy away from the sun. Radiation pressure of sua-
+light, as well as the solar wind, drives gases and dust outward from the head.
+Diagram from “Astronomic,” by L. Rudaux and G. de Vaucouleurs.
+
+is near the orbit of Mercury, while at
+aphelion it is nearly as distant as Jupiter
+from the sun, Tt just attains naked-eye
+visibility at) favorable returns. Often
+eneke’s Comet is said to have the shortest
+known period. However, the faint ob-
+ject 1949 TIE (Wilson-Harrington) has been
+assigned a period of 2.3 years, This poor-
+ly observed comet has never been seen
+since its discovery year.
+
+Cometary orbital motions are greatly
+disturbed by the gravitational attractions
+of the planets, especially Jupiter. We
+may Visualize a comet orbit as an ellipse
+that is constantly changing slightly in
+size, shape, and orientation; on the oc-
+casion of a near approach to Jupiter the
+alteration can be large and rapid. Very
+lengthy calculations are needed to follow
+the course of the comet step by step.
+
+Nowadays electronic computers have
+made the large-scale calculation of comet
+
+The head of Galley’s
+Comet, ina four-minute
+exposure with the
+Mount Wilson 60-inch
+reflector on May 5,
+1910, In this large-scale
+view, the small, bright
+nucleus is surrounded
+by several diffuse asym-
+metric envelopes. The
+coma appeared densest
+on the side facing the
+sun. This famous comet
+has been seen on at
+i least 29 returns. One
+i of the earliest extant
+comet pictures is con-
+tained in the famous
+Bayeux tapestry, show-
+ing the 1066 apparition
+of Halley’s Comet.
+
+January, 1964, Sky anv Triescope 23
+
+perturbations a much less formidable task,
+It is now feasible to trace the motion of
+a comet during miny revolutions and
+through complex transformations. The
+results of one such study are reported on
+page 16 of this issue,
+
+An important question is whether the
+comets that we observe have all originated
+within the solar system, or whether some
+are interlopers from interstellar space,
+There are, indeed, a small fraction of
+comets whose orbits appear to be hyper-
+bolic rather than closed curves, but in
+any particular instance it is conceivable
+that the observed hyperbolic shape could
+have been imparted by planetary pertur-
+bations,
+
+Hence it is necessary to compute back-
+ward, step by step, the path along which
+the comet approached the sun, tiking ac-
+curate account of planetary perturbations.
+At a distance of, say, 100 astronomical
+units, before planetary perturbations haye
+had an opportunity to act appreciably,
+the original shape of the orbit is found.
+Without any significant exceptions, it
+turns out that the original orbits are
+ellipses. Vhus, all comets, or nearly all,
+are permanent members of our. solar
+system,
+
+An earlier attempt to setde this ques-
+tion failed for an interesting reason. Since
+the sun is moving about 12 miles a second
+toward Hercules, then more interstellar
+comets should tend to approach us from
+that direction than the opposite. More
+discoverics should take place in that half
+of the sky.
+
+The catch to this idea is the nonran-
+dom nature of comet discoveries, “There
+are many more astronomers in the North
+ern Efemisphere than the Southern; comet
+hunters favor warm spring nights to win
+ter ones; and the evening sky is better
+patrolled than the morning. In fact, the
+distribution of discovery points over the
+sky is almost entirely determined by these
+accidental factors.
+
+(Lo be continued)

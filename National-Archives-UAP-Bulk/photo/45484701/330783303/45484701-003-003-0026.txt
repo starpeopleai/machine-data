@@ -1,0 +1,37 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T15:57:35Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5965858, "source_ctime_ns": 1793362587424457136, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330783303/45484701-003-003-0026.jpg", "source_mtime_ns": 1785684974000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330783303/45484701-003-003-0026.jpg", "source_sha256": "02c9f83ced29cd5375e9a5a3a5fc8589cfef8118c5b2db6c365205a96eebd9d5"}
+
+===== PAGE 1 =====
+{"alpha_words": 66, "chars": 536, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+2hi-O
+
+7 October 1950
+SUBJECT: « UNCONVENTIONAL
+
+Director of Special Investigations
+Headquarters United States Air
+Yashington 25, D.C
+
+we
+
+Ferce
+
+1. Reference is made to letter, Sth District OSI, subject
+as above, dated 26 September 1950, file 5D 2},-0.
+
+>i}
+pe
+
+rad
+ma] 57
+P= F he
+
+Transmitted herewith for your files are copies o
+
+this District Office, in compliance with request
+ntained in referenced letter,
+
+inci, JOHN. P. BRYNILDSEN
+cc. ltr dtd 5 Oct 50 Captal
+as above, District Commander
+
+Declassification Authority: NND 923007

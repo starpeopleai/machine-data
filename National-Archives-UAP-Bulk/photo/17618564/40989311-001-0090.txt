@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T15:30:40Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 502761, "source_ctime_ns": 1793356269227871833, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989311-001-0090.jpg", "source_mtime_ns": 1785564655000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989311-001-0090.jpg", "source_sha256": "f79256a20ed6145ccdc2d57547b36d5eb448599cb7afa21bc8d6d8b261b05416"}
+
+===== PAGE 1 =====
+{"alpha_words": 62, "chars": 512, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+NAME: SPILHAUS, ATHELSTAN F. SSAN: 578-44-2631
+
+RANK: GS-16 (RET) SERVICE #:
+
+BRANCH:
+
+DATE OF BIRTH: 10/25/11
+
+PLACE OF BIRTH: CAPE TOWN, SOUTH AFRICA,
+
+CAREER FIELD: METEROLOGIST, OCEANOGRAPHER
+
+ROSWELL DATA: NONE
+
+DECEASED - DATE/PLACE: N/A
+
+LAST KNOWN ADDRESS: PO BOX 1063 MIDDLEBURG, VA 22117 (703
+
+NOTES: DIRECTOR OF NYU PROJECT 1947. USAAF 1943-1946, WORKED
+REGULARLY FOR CAMBRIDGE LABS, WATSON LABS, SIGNAL
+CORPS, WEATHER BUREAU, NOAA. RETIRED CIVIL SERVICE 1984.
+SEE ATTACHED BIOGRAPHICAL DATA.
+
+ID: 18

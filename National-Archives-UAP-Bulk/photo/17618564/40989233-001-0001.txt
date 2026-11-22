@@ -1,0 +1,47 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T16:00:21Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6491605, "source_ctime_ns": 1793354874373699648, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989233-001-0001.jpg", "source_mtime_ns": 1785564355000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989233-001-0001.jpg", "source_sha256": "8abe78d512b36ac22e452a27ca64d5eb1dccb3f8753884400eca6d996d4a137d"}
+
+===== PAGE 1 =====
+{"alpha_words": 464, "chars": 2898, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+STATEMENT OF WITNESS
+
+Place: Mary Ester, FL Date: 31 May 95
+
+I, Roland H. Lutz, CMSet, USAF, (Ret), hereby state that James McAndrew was
+identified as a Lieutenant, USAFR on this date at my home and do hereby, voluntarily and
+of my own free will, make the following statement. This was done without having been
+subjected to any coercion, unlawful influence or unlawful inducement.
+
+I enlisted in the U.S. Navy in 1947 and transferred to the U.S. Air Force in 1958. In June,
+1958 I was assigned to the flight surgeon’s office at Holloman AFB, NM as an Aero
+Medical Technician. I served several tours in Southeast Asia and retired from the Air
+Force in 1974 as an Aero Medical Superintendent.
+
+On May 20-21, 1959 I was assigned to provide medical coverage for a balloon training
+mission that took off from Holloman AFB and ended with a crash near Roswell, NM.
+Capt Joe Kittinger was training two other pilots, Capt Fulgham and Capt Kaufman. I
+followed the balloon in an ambulance during the night and at daybreak I followed the
+balloon in an H-21 helicopter. Just after daybreak I saw the balloon crash and the three
+pilots were dumped form the gondola. I immediately informed the helicopter pilot and we
+landed in a field on which catile were grazing. I recall the rancher was upset because the
+
+helicopter was frightening his cattle and some cattle had gotten out of the field.
+
+I assesed the injuries to the pilots and recommended they be taken immediately to the
+closest hospital which was at Walker AFB, apprximately 5 to 10 minutes away by
+helicopter. Capt Fulgham’s head was swelling due to a hemotoma he received when the
+gondola struck him. Capt Kittinger was cut on the face and was bleeding, Capt Kaufman
+was uninjured. At Walker I remember a telephone conversation with a flight surgeon who
+told me to “go home and sleep it off’. He apparently did not believe my story of three Air
+Force pilots that were victims of a balloon crash. However, I was able to convince him and
+he treated Capt Fulgham and Capt Kittinger. While at the hospital Capt Fulgham’s head
+had swelled enormously and his eyes were beginning to turn black.
+
+I do not recall that anything unusual occurred at the hospital at Walker. I remember the
+three pilots sitting on a bench in the hallway waiting to be treated. I do not remember that
+Capt Kittinger was involved in an altercation with anyone while at the hospital, if he had , I
+would have known about it. Capt Kittinger was concerned with getting medical treatment
+for his injured crew member, Capt Fulgham, and returning to Holloman. I also do not
+recall a black NCO accompanying Capt Kittinger while we were at the hospital. I do not
+remember a nurse assisting in the treatment of Capt Fulgham or Capt Kittinger. I also do
+not remember a male civilian or any personnel or vehicles from a mortuary, and I do not
+recall any remains in body bags in the hospital.

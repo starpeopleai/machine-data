@@ -1,0 +1,34 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T16:10:31Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8781906, "source_ctime_ns": 1793382236974274831, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28982642/1316.jpg", "source_mtime_ns": 1785701040000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28982642/1316.jpg", "source_sha256": "b2d936f437b3c930c6acce90689160478e12a7fb5333c98cfddb772ec80b95a7"}
+
+===== PAGE 1 =====
+{"alpha_words": 82, "chars": 589, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+( Parse twelve
+44, Please give the following tnforravion abous yourselfs
+Last Name First Name Middle Name
+ADDRESS Fed Bloomington 20 Mann
+Street City Aone State
+
+estepHoun wie | SR
+
+Airline Pilot
+
+What is your present job?
+
+Age 28 . : Sex Male
+
+Pleass indicate any specisl educational training that you have had.
+& Mf
+
+a. Grade School 8 e. Technical School _USAM and
+
+b. High School My (Type) Airline #lying Training
+ec. College 2 f. Flying School USAF
+
+a. Post graduate e. ther special training SRS
+
+48. Date you completed this questionaire?:
+
+18 . March 1959
+Day Month Year
+
+At 7%, Ae.
