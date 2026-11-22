@@ -1,0 +1,16 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T05:16:44Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7387109, "source_ctime_ns": 1793376111511818536, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28959297/00814.jpg", "source_mtime_ns": 1785696709000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28959297/00814.jpg", "source_sha256": "6f2722d2069072d232490b53a5ab25f6c3479a43ca0af89c1e9378f308a40699"}
+
+===== PAGE 1 =====
+{"alpha_words": 24, "chars": 181, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+20th Air Force, ARO :239
+
+-such that the observers:
+
+Location of Observers: .
+
+=: Coservers* Téentéf ying Information ‘
+a.~ Civilian ‘ nae
+
+com Naha. Okinaam «. os
+
+5 Ss Seis a ee

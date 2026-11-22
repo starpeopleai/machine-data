@@ -1,0 +1,18 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T05:17:21Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7677786, "source_ctime_ns": 1793365118142559737, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330788259/45484701-007-009-0110.jpg", "source_mtime_ns": 1785684993000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330788259/45484701-007-009-0110.jpg", "source_sha256": "8a23adfe60b3500ebf1d502fbf3ba4adf3ee2d65eb89b578db35a9970cf5c0bf"}
+
+===== PAGE 1 =====
+{"alpha_words": 52, "chars": 259, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+npr ae as AG fee
+what Loy Loge hab Pn wer
+on £1 A LA Od uy” Maar ae
+706 4 jw Apineh—
+py bapel yak Aneel wtF Or peeks
+
+ae bas ee hence AP ‘he
+race
+
+Zadlgl J i, at) Ay cal we Or. na ae
+
+lon! Vi es ig Aflac A cers FAN LMA
+
+Declassification Authority: NND 923007

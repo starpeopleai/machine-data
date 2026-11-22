@@ -1,0 +1,44 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T05:00:03Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4380094, "source_ctime_ns": 1793358481025205844, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-003-003-0003.tif", "source_mtime_ns": 1785681105000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-003-003-0003.tif", "source_sha256": "afe000271c1716ac39d95d9744cb11e4ed637f33debc9047b4d64a20dffe204e"}
+
+===== PAGE 1 =====
+{"alpha_words": 170, "chars": 1245, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Declassification Authority NND 923007
+
+==" JOINT MESSAGEFORM [===
+ae RTEDEV Q22P
+we 5B /ib00 Z oe OA
+
+: mut SPACE ABOVE FOR COMMUNICATIONS CENTER ONLY
+FROM: (Originatory ; DATE-TIME GROUP SECURITY CLASSIFICATION
+
+| 08/2600Z June UN
+es PRECEDENCE | ACTION INFORMATION
+COMDR 1,602D ATSS ENT AFB CCLO FOR: ROU TINE ROUTINE
+Ta: ore FL? 1-C bart & AISS NORTON AFB CALIF |. (J s00k messace [yf ontcinat. messace
+k ati op i ; _. | CRYPTOPRECAUTION
+i oO MULTIPLE ADORESS — Oyvess ESE No
+
+REFERS TO MESSAGE:
+
+FICATION cL
+
+ate per oD ASS N AEB Pi. aye:
+iNFO: 7 L ko a HAR CAL ATSIC-086 UNCLASSIFIED ~.}.
+
+Br :
+/UNCLASSIFIED/ AISOP $23 PD REURMSG AISLC 86 PD HQ CQNCURS WITH UR PROPOSED
+
+PRO YOR INVES UFOB DT 050810Z JUN 55 PD 9" FWD AF FM 112 ASAP AFTER COMPL OF
+
+INVES PD END
+Br
+[bas =
+: SECURITY CLASSIFICATION > me Jao a sc yi 23
+7 “UNCLASSIFIED / a tans a _
+DRAFTER’S NAME (and jgnetare, when ee + RELEASING a Onn RISSIGNATURE 7 ff i
+oe ene BRONSTEIN CAPT USAF | RAK CECA
+SYMBOL TELEPHONE OFFICIAL TITLE aie L JON<S MAJ USAF :
+_ATSOP 1):98 ADJUTANT.
+
+2D 7. 3s REPLACES NME FORM 173, | MAY 49, c9—16—58923-4 U. S. GOVERNMENT PRINTING OFFICE
+i ocr 49- / neers WHICHEMAY BE USED. sommes trecer p24 ie@tenionh ite mt ene nee cere ees mut pum See teen :

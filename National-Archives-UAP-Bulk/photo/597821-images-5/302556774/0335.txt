@@ -1,0 +1,46 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T04:42:01Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 785136, "source_ctime_ns": 1793391248130105548, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302556774/0335.jp2", "source_mtime_ns": 1785808362000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302556774/0335.jp2", "source_sha256": "856d91dda46d075a73f2e6f06e46f8f08d99ce906daea376f2d8553b8c0d5189"}
+
+===== PAGE 1 =====
+{"alpha_words": 189, "chars": 1296, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+UNCLASSIFIED a
+
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+INCOMING MESSAGE
+
+AF IN +..7005 (14 Oct 66) © Pg 2 of 3
+
+76
+
+DISAP: SUBLECISDID NOT SEE OB.DCT DISAPPEAR. 4. ALL THREE
+MOVING NORTH, THE TWO SMALLER ONES MOVING IN A StpaqguT LINE
+PACE 2 RUCIFVF9@7 UNCLAS
+
+AND THE LARGE ONE MOVING ERATICALLY AND ALL THREE THEN CHANGE
+POSIT ION. THE STALL ONES DISPAPPEARING IN THE WEST. THE LARGE
+WHITE ONE MOVING NCRTH STOPPED THEN MOVED ON AGAIN AT A FAST RATE
+OF SPEED THEN STOPPED AGAIN AND DID NOT MOVE AGAIN DURING THE
+PERIOD OF TIME IT WAS OBSERVED :N5. THE OVSERVERSDID NOT SEE THE
+LARGE ONE DISAPPEAR, BUT WHEN IT SOPPED IT CHANGED FROM WHITE
+
+IN COL(R TO A FLICKERING RED. 6 OBJECT OBSERVED FOR 4 HOLRS
+PART C, MANNER OF OBSERVATION; 1. GROUND VISUAL; 2. N/A;
+
+3, N/A PART D. TIM@ &ND RATE OF SIGHTING. 1. 10 0CT 66, B1O@;
+
+2. NIGHT. PART E. LOCAT JON OF OBSERVERS. 1. ADDRES.
+CREE, 4 ATERLOO, IQWA.NPART F. IDENTIFYING INFO ON OBSERVERS
+
+1, i. SMITE , WATERLOO, IOWA,
+
+CIV LIAN HOUSEWIVE, AGE 27; RELIABILITY UNKNOWN. 2. IRS.
+
+ioe: ::/ pape wet RL00, t0va. HoUSEWIVE
+
+RELIABILITY UNKNOWN, AGE 32. PART G. WEATHER AND WINDS. LI,
+
+OBSERVERS ACCOT OF WEATHER CLEAR NIGHT; CEILING 6202" SCATTERED
+RALTLE ARDY G3HB Ik SDIS IDEM RCESNBIGH SMES: GROUND
+
+Form {
+AFHO sss O-309C UNCLASSIFIED |

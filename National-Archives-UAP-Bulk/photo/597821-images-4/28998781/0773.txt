@@ -1,0 +1,44 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T05:20:41Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9502365, "source_ctime_ns": 1793387510491613478, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28998781/0773.jpg", "source_mtime_ns": 1785748185000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28998781/0773.jpg", "source_sha256": "7ae2d3a70574723a5a489663ce50a4e7aee2ef8896b093ec112268a9e80c8d93"}
+
+===== PAGE 1 =====
+{"alpha_words": 95, "chars": 592, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+HEPARTMENT Oe THE AIR FORGE
+
+STAFR MESSAGE SRANCY
+
+US GLUASSIA UD MESS atqa
+
+iINGOMING
+
+AF IN : 39161 (28 Aug 62)
+
+PAGE TWO RUWHNL 9
+
+be 2 Gs 2
+
+€2) DAY CAFTERNOON)$ E. HARVEY NOUNTAIN LOOKOUT, TOWNSHIP
+
+33N, RANGE 8, EAST, NW QUARTER OF SECTION 12,
+
+C46 MI NU OF
+
+SUSANVILLE, CALIF). Fe €1) UNKNOWN. G. HIGH SCATTERED AND
+
+THIN. RENARKS: ONE FOURTH INCH BY SIX INCH TINFOIL FOUND
+
+SCATTZ2ED IN WIDE AREA. SAMPLES OF THE TIN
+
+REQUESTED TO BE FORWARDED TO THIS BASE.
+BT
+
+23/1528Z AUG RUWHNL
+
+FOIL
+
+HAVE BEEN
+
+a AAD nn
+
+ARI AIN ON ey WL SSH a MR ALL MU PROPOR RL ATE
+
+eg Geib 3 Sree enee acae

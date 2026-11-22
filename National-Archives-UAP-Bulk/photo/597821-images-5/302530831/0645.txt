@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T04:52:24Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1764534, "source_ctime_ns": 1793388663005656287, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302530831/0645.jp2", "source_mtime_ns": 1785808561000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302530831/0645.jp2", "source_sha256": "56869887ff13fec17832c146c0c1ca6dd4b5bc1a1e736b6f3d73552fb2198f11"}
+
+===== PAGE 1 =====
+{"alpha_words": 114, "chars": 715, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+(vem Sox shipoing
+
+“SMU /Me Narold Shaw
+
+- ti you ship the attached rock tog oz
+
+Yairfleld, Iliinois.
+
+5 2, This rock was turned over to representatives of the Air force
+
+ab Seott ASS, IlLinois, and flown to Wright-Patterson A‘B vor
+
+wnalysia, with the understanding that remanents, if any, be re-
+
+burned as soon as the analysis was completed.
+
+3, This item is to be shipped by whatever mieana you ceem neces-
+
+sary. Vowever, the object should oe packed in a wooden crate
+3 or box, packed so as not to incur further damage.
+Se
+
+’
+
+: = : sg + a aa + 4 rate © ae, |
+= 4. The cost of shipping may be funded by Project 6601-01.
+
+j
+BRIS T de JONCKHESRE L Atch
+Colonel, USAP tock |
+Deputy ror Technology
+and Subsy3tens

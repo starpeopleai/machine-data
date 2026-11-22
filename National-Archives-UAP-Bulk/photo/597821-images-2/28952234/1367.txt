@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T05:02:37Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4768750, "source_ctime_ns": 1793374571329189762, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28952234/1367.jpg", "source_mtime_ns": 1785696411000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28952234/1367.jpg", "source_sha256": "99c70db3553ebb8a2c65b2f371854d0a63b1008bd3f32bc2cf25a997161611d4"}
+
+===== PAGE 1 =====
+{"alpha_words": 128, "chars": 785, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+‘ ;
+
+‘Mamepanoem tos
+t 1230 PA on 15 Jammary. 1953, Lt Selle, called WADC for Lt @mgm
+to set up a possible interrogation. |.
+Lt@QP was advised that Lt CGRP would be at Convair, Ft. Worth,
+Texas, until the latter part of Jamary. Told his office to have him call
+me as soon as he arrived.
+
+Was the weather good or bad? Certain areas around Dallas had bad weather
+on 21, Dec 52.
+
+Weather records from 0900% at Ft. Worth will be requested from Asheville
+Weather Central to determine if temperature inversions or any distrubing
+weather phenomenon could have affected the radar sets on the B-36.
+
+An explanation of scope photo can be obtained from WADC = indicated in
+inclosed TWX.
+
+Two radar sets were:
+1. AN/APG-1 = gun laying radar = frorbty PO weeks ee sae ;
+
+2, AN/APS=23 = navigation

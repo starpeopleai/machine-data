@@ -1,0 +1,49 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T04:49:20Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1660675, "source_ctime_ns": 1793390799518380145, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302553563/0301.jp2", "source_mtime_ns": 1785808618000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302553563/0301.jp2", "source_sha256": "e14cef40aaeda5146108137eb8bec45d5a0234a2060be0a952df4a8633fcbd56"}
+
+===== PAGE 1 =====
+{"alpha_words": 79, "chars": 634, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+UNCLASSIFIED
+
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+INCOMING MESSAGE
+
+AF IN: 20301 (2 Aug 66) : Page 3 of 4
+
+TM N/A
+
+6. APPROX TWENTY MINUTES.
+C1. GROUND VISUAL
+
+PAGE 3 RUEB3A4A7801 UNCLAS
+
+20 NONE
+
+Je N/A
+
+Di. SUNDAY At 31 JULY 66, 69697
+
+2. DAWN
+E1%2 19 MILES NW OF MARTINSBURG AT HEDGESVILLE, . VA.
+
+F (Re, HOUSE YF SAAS 7 ON,
+Ah. gM st oF RELIABILITY = EXCELLENT.
+
+G1. CLEAR re |
+
+2, SFC350%3 6M-92163 10M-02153 16M-81153 204-0127; 3OM-
+3534s 52-2623; 89M-9923. bi
+
+30 CLEAR
+
+he 7 MI
+
+5. FEW ALT4OUSH CUMULUS
+
+6. NONE
+
+T. 269 DECREES C/THOUSAND (AVERAGE) SFC INVERSION PRESENT.
+
+He NONE
+
+AFHQ umes O-309C UNCLASSIFIED

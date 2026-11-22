@@ -1,0 +1,34 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T05:04:38Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5098769, "source_ctime_ns": 1793372326515893221, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28942310/00416.jpg", "source_mtime_ns": 1785688946000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28942310/00416.jpg", "source_sha256": "4a6d73e8e03d2fabbd3e1e5a43beb037a734d9454437854a5a0ddbd5831486de"}
+
+===== PAGE 1 =====
+{"alpha_words": 169, "chars": 1050, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Ee Te Te eee ro rene - 7 rman gee oe oe
+
+Inform ation Ovl | IG Wie y FD
+
+Dolutwv: Possible nt alfunedioe ot (
+Je th Ko REO.
+Cheborneé Rida Set. (Uer k
+
+f
+
+hi pec e. $ VI Ls Fe ‘
+
+1. North Korea - 26 May 1952 ee 7 |
+
+An F~94 flying ea mission was told by ground radar that there was
+an unidentified object on its tail. The interceptor aircraft turned
+into the unknown and locked on with its radar at 7000 yds, and started
+to close, Both the pilot and the R.O. observed a brilliant white
+light straight ahead, ‘The unidentified performed a steady clinbing
+
+turn and accelerated at a tremendous speed drawing away from the F-~94
+which now had cut in its after-burner, The pilot was unable to close
+and the R.0. lost the object at 2600 yds. after 15 seconds of contact,
+
+The airborne radar was checked for malfunction before and after
+the mission and found to be in perfect condition, No exhaust patterns
+from the unknown were noticed, Pilot - Lt ~_iaiinane, Radar Oper=
+
+ator = Lt rience ~ 1 year.
+Solution: Possible malfunction of airborne rader set,

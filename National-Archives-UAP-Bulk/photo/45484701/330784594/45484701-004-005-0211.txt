@@ -1,0 +1,58 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T05:15:37Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7266704, "source_ctime_ns": 1793363189898269264, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330784594/45484701-004-005-0211.jpg", "source_mtime_ns": 1785684751000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330784594/45484701-004-005-0211.jpg", "source_sha256": "52ecda07705bdeeb05b4d97b96ee59457e230241a6b5e3fbbbb7ae863a1d1d63"}
+
+===== PAGE 1 =====
+{"alpha_words": 401, "chars": 2726, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+@ parE TRE ye pes
+
+5D 2h-21DD
+FLYING DISCS
+
+7e On 1 November 1919, lst Lt H. W. SMITH, Project Officer of
+"PROJECT GRUDGE", personally appeared in this office bearing in hand
+a copy of a letter, dated 25 October 1949, from one, "CHESTER B. BAHN",
+Editor of "The Film Daily", 1501 Broadway, New York 18, wherein "BAHN"
+made reference to a suggestion of a Lt Commander BEVERLY L. BRITTON,
+Magazine and Book Branch, Office of Public Information, Department of
+Defense, Washington, that he contact Public Information Officer, AMC,
+because "it is my understanding at the present time that the Office of
+Special Investigation at Wright-Patterson does have some knowledge of
+Mre KONRAD's claims" and further that "BAHN" was anxious to establish
+whether claims made by Mr. "KONRAD" were valid. Lt H. W. SMITH advised
+this office that he had received cited letter from the Public Information
+Office, Headquarters, AMC with request that he recommend appropriate answer
+to letter of "CHESTER B. BAHN", dated 25 October 1949, and that it was
+his purpose in contacting Headquarters, 5th District Office of Special
+Investigations to secure recommendations on contents of a reply to afore-
+mentioned letter of "CHESTER B. BAHN". Lt H. W. SMITH was advised, with
+regret, by this headquarters that it was not the policy of Office of
+Special Investigations (IG) to make such recommendationse Upon being ad~
+vised of the latter, Lt SMITH advised this headquarters that it was his
+intent to convey to the Public Information Officer that he was unable to
+release any information regarding subject matter for purpose intended.
+A copy of letter from "CHESTER B. BAHN" to the Public Information Office,
+AMC, dated 25 October 1949 is inclosed herewith as Inclosure No. Te
+
+&. In the conductaea of this investigation, this district is operating
+on the premise that "MICHAEL CONTRAD", "MIKEL CONRAD", "MICHAEL CONRAD"
+and "MIKEL KONRAD" are one and the same individual; further, that "CHESTER
+BOND" and "CHESTER B. BAHN" are also one and the same individuals
+
+9. At the present time, this headquarters contemplates no additional
+action other than furnishing 18th District OSI a copy of "CHESTER B. BAHN's"
+letter dated 25 October 1949 to the Public Information Office, AMC, for
+information and any action deemed necessary by that district.
+
+Kine Fixe Oram ete
+7 Incls __AAMES F. X. O'CONNELL
+1. Corres dtd 20 Sep 19 to Lt Colonel, USAF
+5D OSI frm MCTAXS District Commander
+TWX frm CSAF-1 to PROJECT
+
+GRUDGE Memo to 5D OSI file dtd 1% oct lg
+Facsimile-clipping frm Ltr, 5D OSI to 18D OSI dtd
+Dayton, 0. "Journal-Herald" 2 oct 9
+
+Ltr, 5D OSI to 18D OSI dtd Ltr, CHESTER B. BAHN to PIO, AMC
+27 sep 9 dtd 25 oct hy ‘
+
+Declassification Authority: NND 923007

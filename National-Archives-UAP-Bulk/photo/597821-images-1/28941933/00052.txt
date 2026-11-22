@@ -1,0 +1,40 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T04:56:42Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3948425, "source_ctime_ns": 1793372224455376711, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28941933/00052.jpg", "source_mtime_ns": 1785688866000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28941933/00052.jpg", "source_sha256": "f59a1bf75b3ca7c15ac2513313955472670d2228314656d7bc3f96e659a580a4"}
+
+===== PAGE 1 =====
+{"alpha_words": 74, "chars": 641, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PAGE TWO BWDKW 15
+
+DOWNGRADED A’ $ YRAR INTER
+DECLASSIFIED AFTER 12 YEAme
+
+IR 5200.10
+
++
+
+ALTITUDE OF BALLOON 129232 FEET
+BALLOON BURST TIME 16312 |
+
+9 MAY 1952 AT 21002
+
+BEARING FROM STATION 10% DEGREES
+DISTANCE FROM STATION 107850 FEET
+ALTITUDE OF BALLOON 111021 FEET
+BALLOON BURST TIME 22227
+
+11 MAY 1952 AT 15022
+
+BEARING FROM STATION 8@ DEGREES
+DISTANCE FROM STATION 92693 FEET
+ALTITUDE OF BALLOON 75765 FEET
+BALLOON BURST TIME 16982
+
+13 MAY 1952 AT 21002 —
+
+BEARING FROM STATION 7% DEGREES
+DISTANCE FROM STATION 84909 FEET
+ALTITUDE OF BALLOON 74922 FEET
+BALLOON BURST TIME 21512
+
+14 MAY 1952 AT 21692
+
+BEARING FROM STATION 92 DEGREES

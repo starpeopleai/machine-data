@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T04:50:32Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1728242, "source_ctime_ns": 1793389812067754225, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302544170/0497.jp2", "source_mtime_ns": 1785808301000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302544170/0497.jp2", "source_sha256": "6b775caefed473f83f6f2f5086d4f802aa37f46cd292a9d20519fbcb745727d5"}
+
+===== PAGE 1 =====
+{"alpha_words": 107, "chars": 679, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+i
+i
+i
+
+‘
+
+NC CASE: Information Only
+SOURCE: Flying Saucer Review
+Nov-Dec 65
+
+~ ~ = Two mysteries i
+The Rand Daily Mail of September
+20 reports that on the evening of
+Scpremoce 19 several residents
+*phoned about an object like a balloon
+on fire and about the size of a full
+moon seen to be making its way
+towards the southern end of the city.
+A former stock car racing cham-
+pion and qualified pilot P. van
+Niekerk, reported a blazing object
+streaking low over the Brakpan-
+icidelberg road. He was unable to
+make out the shape of the object
+because of the “blinding light’”’ from
+6 ft. flames spurting from the under-
+side of the thing.
+(Credit: P. Human.) ik
+
+19 Sep 65
+England

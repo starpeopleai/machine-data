@@ -1,0 +1,37 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T05:18:01Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7984207, "source_ctime_ns": 1793379250206676966, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28971771/00034.jpg", "source_mtime_ns": 1785701082000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28971771/00034.jpg", "source_sha256": "bf345aaea92ad772918726f811b9ceefce3ec6f0f0b98d8e27cea310bbe8f192"}
+
+===== PAGE 1 =====
+{"alpha_words": 119, "chars": 824, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+/ i Zia
+/ te yf
+i ae ‘a 2° Yar
+ome,
+
+fhe "ee wT a Fe OQ
+PAGE TWO RJWPGU 1E
+OF ALL OBSERVERS A. N/A, 3. ( Sc A/SC 778TH ACW
+SQDN RADAR OPERATOR-GOOD (2) qQUMAST LT, 778TH ACW
+SQDN, DIRECTOR, VERY GOOD, (3 SUQRUMMRS2 LT, 77eTH |
+ACW SQDN, DIRECTOR, VERY GOOD, (4) aii aoc 778TH acw e |
+
+SQDN, RADAR OPEATOR, GOOD, am, A/3C 778TH |
+
+ACW SQ RADAR OPERATOR, coop, | a, A/iC, 178TH
+SQDN RADAR OPERATOR, GOOD, ¢ 7 A/2C 778TH ACW SQDN
+
+RADAR OPERATOR, GOOD, IS 51, 7738Ti ‘ACW SODN
+OPERATOR, GOOD: PD apne ee irene RE sa
+
+semi anc OR
+
+es
+Te WEATHE AND WINDS ALOFT CONDITIONS3 A CLEAR, Be. NEGATIVE (REPORT
+" FOR ‘THE TIME OF OBSERVATION DID NOT COME ™, G8 CLEAR, D. UNLIMITED,
+
+im Ma, F. M/A PD g, NEGATIVE PD 9, N/A 10. NEGATIVE PD 24.
+
+INTELICENCE OFFICER. POSTeLe TEMPERATURE - -INVERSION_ PD. 430°"
+N/
+
+BT
+24/18492Z SEP RJWPGU

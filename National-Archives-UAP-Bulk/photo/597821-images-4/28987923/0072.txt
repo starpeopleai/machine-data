@@ -1,0 +1,72 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T05:08:39Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6105143, "source_ctime_ns": 1793383799853059154, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28987923/0072.jpg", "source_mtime_ns": 1785748076000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28987923/0072.jpg", "source_sha256": "be627bae7589689e681bb9321cf3a0297682dfabbaa52c9bfd8089009abb2531"}
+
+===== PAGE 1 =====
+{"alpha_words": 119, "chars": 939, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+1. DATE
+
+21 July 1960
+
+2. LOCATION
+Hyattsville, Maryland
+Patuxent River, Maryland
+
+3. OATE-TIME GROUP
+3
+
+4. TYPE OF OBSERVATION
+
+-
+nw
+
+000
+
+Lecel B Sround- Vi sual O Ground-Roder
+GMT 22/0130Z 0129Z _ BMir Vi sual O Air-Intereept Radar
+‘| 5. PHOTOS 6. SOURCE
+O Yes
+X8 No Civilian & Military
+
+7. LENGTH OF OBSERVATION
+
+5S seconds
+
+6. NUMBER OF OBJECTS | 9 COURSE
+
+one falling
+
+00 cog coo
+
+- CONCLUSIONS
+
+Wes Balloon
+Probably Balloon
+Possibly Balloon
+
+Was Aireroft
+Probobly Aircraft
+Possibly Aircraft
+
+Wes Astronomicel Meteor
+Probably Astronomical
+Possibly Astronomical
+
+Other
+Insufficient Date fer Evaluation
+no wn
+
+10, BRIEF SUMMARY OF SIGHTING
+
+Three or four sightings from same
+
+general area of falling object. No
+tail or trail. Color varied with wit-/a meteor.
+ness as did other characteristics,
+
+11. COMMENTS
+
+Brief duration and area of sight-
+ing indicate that the object was
+
+ATIC FORM 329 (RKV 26 SEP $2)

@@ -1,0 +1,20 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T05:24:17Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 13368928, "source_ctime_ns": 1793366898627415841, "source_file": "National-Archives-UAP-Bulk/photo/542184/341-PBB-689-0352.jpg", "source_mtime_ns": 1785565614000000000, "source_rel": "National-Archives-UAP-Bulk/photo/542184/341-PBB-689-0352.jpg", "source_sha256": "4053a2ac7b6f3bec1043a052c9e58e4edb14481182aba877df1cc14535606f52"}
+
+===== PAGE 1 =====
+{"alpha_words": 29, "chars": 316, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+— ————— 7 ” _ = aaieitaateall _ _ TS a ceeneitinmmien catheter
+‘ a t b $ #« ‘ :
+- r * * As , +
+mm is * ‘ ‘ “ a |
+% 4 - wad ‘ & * Mae on ie,
+a ae ‘ : 4 *, 2 % ®t * 5
+t : ¥ yy a : é \ ey a
+; ' f 4 . 0 ale . . = 5
+" * oe. eos - * % io
+: a Ms x
+4 f moe 4
+: oe by ; 4 , % ie re
+
+a oor . ” 5 ee ~ : ~ «
+
+a J ST TTT TTT 0)

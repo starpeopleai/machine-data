@@ -1,0 +1,44 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T04:54:57Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3761463, "source_ctime_ns": 1793371625965961671, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28939183/00352.jpg", "source_mtime_ns": 1785688526000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28939183/00352.jpg", "source_sha256": "de534932f3ce00f61baadeada0e2e46366d72d7174c659cd11708c0f0b7a4a03"}
+
+===== PAGE 1 =====
+{"alpha_words": 173, "chars": 1273, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+Object 290 deg azimth,
+
+trange light or object in sight in NW at elevatipn
+of 15 degrees alowly descending below horizon
+after observation of more than 10 minutes,
+
+Light or object changes colors from yellowish
+white to brilliant red, Observed on other occa;
+in same location, Thought by observer to be star
+close to horizon with peculiar atmospheric
+conditions causing change in color. Object des:
+spherical, Color change every six seconds,
+
+1, DATE 2. LOCATION 12, CONCLUSIONS
+Q Was Balloon
+25 March 1951 Presque Isle, Maine O Probably Balloon
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION O Possibly Balloon
+Locel 2017 EST EX round- Vi sual 0 Ground-Redor - on Cesoras
+26 /01172 Pro ay Aircroft
+GMT__* 0 Air Vi sual 0 Air-intercept Rodor Possibly Aircraft
+S. PHOTOS 6. SOURCE S& Was AstronomicdVe
+O Yes QO Probobly Astronomic
+ONe Military O Possibly Astronemicel
+7. LENGTH OF OBSERVATION 6. NUMBER OF OBJECTS | 9. COURSE ia} ape
+O Insufficient Oote fer Eveluati
+10 minutes one Falling O Unknown chica wears
+10. BRIEF SUMMARY OF SIGHTING 11. COMMENTS
+
+Venus at 2h 8' 11" on or slightly
+below horizon at the reported
+time of observation, Sighting
+attributed to refraction of this
+
+sions Astronomical Body.
+
+bribed as
+
+ATIC FORM 329 (REV 26 SEP 52)

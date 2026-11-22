@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T04:45:30Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1059744, "source_ctime_ns": 1793355846123415170, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989280-001-0023.jpg", "source_mtime_ns": 1785564540000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989280-001-0023.jpg", "source_sha256": "60c282a06774618f53aff21892afcbc31ef738516be971bb041a74dc3709cfd2"}
+
+===== PAGE 1 =====
+{"alpha_words": 214, "chars": 1442, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+16
+
+seeds, and other specimens (even including excised sesments of
+human skin) to hich altitude, for exposure to cosmic rays.
+These flishts were originally conducted for the Aero Medical
+Laboratory of Wright Air Development Center, but direction of
+the research prorram was later transferred to the Aeromedical
+Field Laboratory established at Holloman Air Force Bases.
+
+The first really successful animal flight took place on
+28 September 1950, when eight mice journeyed by balloon to
+97,000 feet, remained aloft for three hours and forty minutes,
+and were recovered alive at the end of the flight. On later
+experiments the flight duration increased substantially. Even
+so, it was found that flights at the latitude of Holloman
+Air Force Base did not provide a sufficient exposure to primary
+cosmic ray particles at balloon altitudes for the study of
+possible biological hazards. Accordingly, in the spring and
+summer of 1953 personnel of both the Balloon branch and the
+Aeromedical Field Laboratory--naturally including Major
+(Doctor and later Lieutenant Colonel) David G. Simons, who
+served as space biology project officer--moved off from
+Holloman to Oregon and Montana, to launch biological flights
+in northern latitudes where cosmic rays suffer less deflection
+by the earth's magnetic field, From that point on, space
+biology balloon flights were made from Holloman principally
+
+to test equipment and techniques and to expose "control"

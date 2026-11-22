@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T04:58:36Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4094443, "source_ctime_ns": 1793375735601812708, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28957454/0531.jpg", "source_mtime_ns": 1785696592000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28957454/0531.jpg", "source_sha256": "10f4d62b39d6f37574e86fa494b066f81022515c032799b3f3de8d427ab557a1"}
+
+===== PAGE 1 =====
+{"alpha_words": 74, "chars": 519, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+oP REE oR has I (EL TLE GCI OR THANE RTI FREY IE) SS REE NMR mR
+
+PAGE TWO JESYO 91B
+
+(1) NONE
+(2) BESCRIPTION OF COURSE OF OBJECT
+(A) UNK
+€B) APPR
+(C) UNK EST 14998 FT.
+€D) ENE OF BROOKLEY AFB MOBILE ALA 65 DEGREES MOVING SSE
+(£) DISAPPEARED DUE TO DARKNESS
+€F) 3% MINUTES
+(3) MANNFR OF OBSERVATION
+(A) GROUND VISUAL AND AIR VISUAL
+%B) NONE
+¢c)
+(4) TIME AND DATE OF cicuTING
+(A) 6123392
+¢B) DUSK
+(5) LOCATIONS OF OBS.) 52
+BROOKLEY AIR FOKCé SASE ALA
+(6) IDENTIFYING INFO?maTION OF ALL OBSERVERS
+
+€A) CIVILIAN N/A
+
+, °

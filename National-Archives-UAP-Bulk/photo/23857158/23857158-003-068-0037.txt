@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T04:52:54Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 2882844, "source_ctime_ns": 1793358581893447208, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-003-068-0037.tif", "source_mtime_ns": 1785681136000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-003-068-0037.tif", "source_sha256": "9f9bba868454e204ae07db4eeb86746b4471e2be7e589ebc31c7db387c4e3a4e"}
+
+===== PAGE 1 =====
+{"alpha_words": 127, "chars": 926, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Declassification Authority NND 923007
+
+AF FORM 112—PART UNCLASS I FIEP
+
+. . (CLASSIFICATION)
+APPROVED 1 JUNE 1948
+
+AIR INTELLIGENCE INFORMATION REPORT
+FROM (.lgency) REPORT NO. P ; oe
+Plight 1-C, 602d AIss LC-UFOS-11-55 ALE Ene
+— _ : _ ce [3 OF 20 PAGES
+Incl #1 PART THREE, Rept 1C-UFOB-11-55
+SOURS &''s Memory Sketch of flight path
+or object.
+
+dis appea re df
+
+"att indicates point of initial sighting
+"B" indicates point of disappearance
+
+MUTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S. C.—
+31 AND 32, AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW,
+IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF
+INTELLIGENCE, USAF.
+
+106—55570-1] U. 3S. GOVERNMENT PRINTING OFFICE

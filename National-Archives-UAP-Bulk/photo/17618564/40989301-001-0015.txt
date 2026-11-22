@@ -1,0 +1,84 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T04:47:28Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1348984, "source_ctime_ns": 1793356062651383352, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989301-001-0015.jpg", "source_mtime_ns": 1785564597000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989301-001-0015.jpg", "source_sha256": "4c99826a2a78e2a6fc5584545c259029bf379c3f1d29bab09959f1d0af03a2d7"}
+
+===== PAGE 1 =====
+{"alpha_words": 128, "chars": 1009, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+5/7/57
+
+5/6/47
+
+5/13/47
+
+5/14/47
+
+5/14/47
+
+5/15/47
+
+5/27/47
+
+WIRE
+Barney Frank
+Hightstown, N.J.
+
+General Mills
+Minneapolis, Minn.
+Atts Mr. 0. C. Winzen
+
+Dewey & Almy Chem. Co.
+Cambridge, Mass.
+Att: Mr. Isom
+
+Mr. C.P. Clare
+4719 W. Sunnyside Ave.
+Chicago, 30, Ill.
+
+Goodyear Tire & Rubber
+Akron, Ohio
+Att: Leonard M. Harb
+
+Office of the Secretary
+Fort Worth Sub-Committee
+on Air Space
+
+Civil Aeronautics Auth-
+ority, (4th Region)
+Fort Worth, Texas
+
+General Mills
+Minneapolis, Minn.
+Atts Mr. 0.C. Winzen
+
+Samples of parachute Furnished.
+shroud lines requested.
+Request for quotation Awaiting
+
+on sample balloons shown Navy clearance.
+to C.B. Moore on visit.
+
+Request delivery date Given.
+
+on 1000 gm balloons.
+
+Request for information Furnished.
+and catalogues on rot-
+ary switches.
+
+Seay See A ee
+
+Scans
+
+Delaying action in
+Goodyear's quotation
+
+for balloons.
+
+Request clearance for Given. . “d
+flight of Balloons
+from Alamogordo.
+
+Repeat request for Awaiting
+
+quotation on plastic
+balloons.
+
+Navy clearance.

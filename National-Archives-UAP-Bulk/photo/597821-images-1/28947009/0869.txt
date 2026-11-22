@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T04:54:46Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3753129, "source_ctime_ns": 1793373466064162258, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28947009/0869.jpg", "source_mtime_ns": 1785688744000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28947009/0869.jpg", "source_sha256": "95291921703a45f2c40b070db9f34294c58fc300ce0d69fbe904ac6dab6e61a9"}
+
+===== PAGE 1 =====
+{"alpha_words": 82, "chars": 671, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+I cartifty that the following deneriotion of sizhted object
+to be aecurate to the bast of sy mowledge. Information submitted
+. 4m aeeordance with Air ‘ores Letter: #0. 200=§ dated 279 Avril
+
+1952, parsgrarh 74.
+
+(1) Teardrop sha-ed, sit (6) feet Alemeser, white, one (2)
+veather balloon.
+
+{2) “ire sizhted: 19292, observed for fifteen (15) rinutes.
+(3) Viousl sbservation from P-44A.
+
+7
+
+(4) Pregone Tale Adie Sores Mase, flret sichted at 15 angels
+Swenty (90) miles Crom base after take=nt?.
+
+(5) Odjeeh smmoeared so a vhite a-eakt, ao other commenta.
+(6) CAV, wodarmmte winds aloftewesterly.
+
+(7) Yona.
+
+(3) “Isne.
+
+{9) Balloon aheerved from 2 ancels slow.
+
+(19) None

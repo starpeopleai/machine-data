@@ -1,0 +1,11 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T04:58:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4072629, "source_ctime_ns": 1793374950912831462, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28954052/0142.jpg", "source_mtime_ns": 1785696629000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28954052/0142.jpg", "source_sha256": "1b5000ac81c80378cf5ddbb763927f10f1f033df32117a0e8d15c7b423d2574c"}
+
+===== PAGE 1 =====
+{"alpha_words": 39, "chars": 219, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+L rover ted the tighss to the Kelly 403 control tower amd Cowad Ghukb
+
+tha porsonnel on duty thera ab the tine also saw the Lightee
+
+T cortify that the above otateaent ia true ani correo’ to the best
+
+cf ny inowledaes

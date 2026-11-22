@@ -1,0 +1,34 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T04:49:06Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1466849, "source_ctime_ns": 1793390457887271767, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302550087/1193.jp2", "source_mtime_ns": 1785808358000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302550087/1193.jp2", "source_sha256": "f6ae5950858b103783d1ae8418c7ae45b9ee270e9572a7f969fd973fe9e42dcb"}
+
+===== PAGE 1 =====
+{"alpha_words": 83, "chars": 563, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+_ eee
+Belchertown, Massschusetts
+
+Dear vir Rae :
+
+Reference your recent unidentified observ»tion of 22 April 1966.
+The information which we have received was not aufficient for
+
+ev-luation. Request. you complete the sttached FID Form 164 and
+return it in the envelope provided.
+
+We wish to thenk you for reporting your observ*tion to the Air
+Force.
+
+Sincerely,
+
+_. HECTOR aepanee Jr, Mejor, USAF
+
+Chief, om eh Blue Book” ; : ch es | a Sac Fe
+
+BEL CMERTiwes MASS 22 APREE  _ Stitebionm
+
+beg
+sty,
+i
+Ws
+
+FID (TEN) | K
+Wri ght-Pettersen AFB, Ohio 45433 |
+Mey 1966 ©

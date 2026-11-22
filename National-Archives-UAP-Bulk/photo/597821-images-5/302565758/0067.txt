@@ -1,0 +1,13 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T04:42:20Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 788106, "source_ctime_ns": 1793392217554115625, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302565758/0067.jp2", "source_mtime_ns": 1785808571000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302565758/0067.jp2", "source_sha256": "9a1b52fee4a99dda08bd270f983a6f1fa12de28949d5d20b5974f826631fce00"}
+
+===== PAGE 1 =====
+{"alpha_words": 30, "chars": 146, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+LST, VE tt CORK UB Cy
+
+DPs scr Te een ig
+
+ai AN dy Hf i? ; é ra - z re en
+{ fh S ’ {7} At aad A lLywy Se x? Ao oy LE
+WP1G i - PALTE Rsoa/ LER
+
+é

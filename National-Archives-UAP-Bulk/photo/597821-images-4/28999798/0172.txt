@@ -1,0 +1,49 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T05:02:20Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4698037, "source_ctime_ns": 1793388044202203098, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28999798/0172.jpg", "source_mtime_ns": 1785748461000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28999798/0172.jpg", "source_sha256": "86b5d87ad71f4d7ce0918663a8466c969d181daae12612ef25fbc56b86c1f016"}
+
+===== PAGE 1 =====
+{"alpha_words": 110, "chars": 812, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+
+UNCLASSIFIED MESSAGe
+
+INCOMING
+
+AF IN : 26779 (17 NOV 62) D/chs
+
+INFO : CIN-17, OOP-2, OOP-CP-2, SAFS-3, ARMY-2, NAVY-2, CMC-8,
+
+JCS-35, DIA- 10, OSD-15, NSA-7, CIA-11
+
+SMB B 147
+
+ZCHOC85 9ZCQJC591 i
+
+PP RUEAHG |
+
+DE RUHLKH 6
+
+ZNR
+
+P 172184Z
+
+FM 326 AIR DIV KUNIA FACILITY HAWAII
+
+TO RUHLKM/PACAF HICKAM AFB HAWAII
+RUKAC/COMALSEAFRON KODIAK ALASKA
+RUWSPG/COMWESTSEAFRON SAN FRANCISCO CALIF
+RUHPQ/ COMHAWSEAF RON PEARL HARBOR HAWAII
+INFO RUEAHQ/COFS USAF WASHINGTON DC
+RUWGALB/CINCNORAD ENT AFB COLO
+RUHPA/CINCPAC CAMP H M SMITH HAWWBF
+RUHAFS/CINCUSARPAC FT SHAFTER HAWAII
+RUHPB/CINCPACFLT PEARL HARBOR HAWAII
+RUAUAZ/COMUSJAPAF FUCHU AS JAPAN
+RUAMCR/COMUSKOREA SEOUL KOREA
+RUAGFL/COMUSTDC TAIPEI TAIWAF
+
+RUHPD/ COMASWFORPAC FORD ISLAFD HAWAII
+
+Ae Othe ee
+
+(115)

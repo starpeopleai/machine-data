@@ -1,0 +1,47 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T05:25:31Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 17134134, "source_ctime_ns": 1793366348279316906, "source_file": "National-Archives-UAP-Bulk/photo/542184/341-PBB-538-0190.jpg", "source_mtime_ns": 1785565520000000000, "source_rel": "National-Archives-UAP-Bulk/photo/542184/341-PBB-538-0190.jpg", "source_sha256": "ce16bd0b0546a38f30d8c427004b2a60232846680336ac89cc7d110cf1aa7088"}
+
+===== PAGE 1 =====
+{"alpha_words": 25, "chars": 189, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+*
+y Na eerie
+
+PP erage coe
+
+.
+se
+rd
+4
+: &
+my ig: :
+a 4
+me:
+aes
+F
+<
+i. Bi
+vi seats :
+i
+: £
+i y PE ee ree
+a
+- ad |
+: %
+‘
+e
+a ip ova Searels bs
+, ~
+‘
+at i 5 :
+-
+-
+“
+E
+ave:
+y
+.
+i
+’
+; t
+i
+
+tac

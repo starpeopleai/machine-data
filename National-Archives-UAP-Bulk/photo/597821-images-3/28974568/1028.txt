@@ -1,0 +1,41 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T05:12:16Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6669962, "source_ctime_ns": 1793380112031040875, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28974568/1028.jpg", "source_mtime_ns": 1785700964000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28974568/1028.jpg", "source_sha256": "799b4779dc6f280455113aca3d6a03084daa4af50baba84cecbe16678437066a"}
+
+===== PAGE 1 =====
+{"alpha_words": 149, "chars": 1128, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+8 PROJECT 10073 RECORD CARD ; . \
+
+1. DATE 2. LOCATION 12. CONCLUSIONS
+
+1° ‘ \ i 2 : © Wos Balloon
+
+Lt November 1997 Loveland, Ohio sj QX Probably Balloon
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION G Possitty Satteon
+
+oD: _V; - QO Wes Aircroft
+Local iy aanne Ground- Vi sual OD Ground-Radar QO Probably Aircroft
+GMT bA/ aoa 0 Aire Visual OC) Air-Intercept Rador DO Possibly Aircraft
+S PHOTOS 6. SOURCE O Was Astronomical
+O Yes 0 Probably Astronomical
+O Ne Civilian 0D Possibly Astronomical
+7. LENGTH OF OBSERVATION 8. NUMBER OF OBJECTS | 9. COURSE DO Other
+0 Insufficient Dota for Evaluation
+, ‘ 0 nknown
+$2 minutes one risinz in West
+
+10, BRIEF SUMMARY OF SIGHTING 11, COMMENTS
+
+Orange colored object in Western sky Bailoon released just prior to
+
+about 10 degrees above horizon, Rose Sighting SW of observer, Balloon
+
+for about 7 minutes at which time the carried running lights. Sun set-
+
+orange part disappeared and a black ting at time of observation &
+
+cylindrical object was visible, observer looking to SW. A balloon
+
+Continued, to rise tintil 12 minutes Sighting,
+
+later it disappeared,
+
+ATIC FORM 329 (REV 726 SEP 52)

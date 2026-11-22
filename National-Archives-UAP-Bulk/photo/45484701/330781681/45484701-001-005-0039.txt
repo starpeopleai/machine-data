@@ -1,0 +1,17 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T05:10:13Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6261818, "source_ctime_ns": 1793361879223408730, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330781681/45484701-001-005-0039.jpg", "source_mtime_ns": 1785684788000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330781681/45484701-001-005-0039.jpg", "source_sha256": "9557121589740fea879f4888e23ffb08257c2374e352edcd084152e481ae4362"}
+
+===== PAGE 1 =====
+{"alpha_words": 42, "chars": 322, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Tent ATT
+
+interview Mr. HENRY H, VARNER, & South = hio
+
+Phonet Blackstone 2767, Room #2, and obtain detailed signed statement refar
+
+ence Sighting using inelosed guide for reference. Obtain names of any other
+
+7]
+
+witnesses and further information as to exact location of sighting.
+
+Declassification Authority: NND 923007

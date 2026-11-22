@@ -1,0 +1,72 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T05:00:46Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4553910, "source_ctime_ns": 1793359073924389037, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-005-031-0001.tif", "source_mtime_ns": 1785681309000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-005-031-0001.tif", "source_sha256": "8ba63d851b8d31baef5e539c8e5e8c406ae23af77a93fb7a17a79ccfa25e4225"}
+
+===== PAGE 1 =====
+{"alpha_words": 135, "chars": 931, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Declassification Authority NND 923007
+
+1602D ATSS UFOB LOG
+
+[ REPORT NO. |
+
+AISS-UFO BZ 74<55
+
+DATE/TLE OF SIGHTING
+
+05/13582 Jul 55
+
+!RECD HQ 1,602D
+
+17 Aug 55
+
+rot
+
+LOCATION OF SicrT HG
+
+LOGGED BY
+
+Georgetown, Masse A/C DeRudder
+(| REINS FECD ACTION
+{AP Form 112 No investigation authorized by 4602da AISS
+
+(INVES UNIT
+
+DATE INVES ASSIGNED
+
+Ht/a
+
+ASSIGNING OFFICER
+
+N/a
+
+DATE IR RECD HO
+
+hu /a
+
+/DATE IR APPROVED
+
+N/a
+
+DATE IR TO ATIC
+
+N/a
+
+| DATE OF FORM 5
+
+‘17 August 1955
+
+) COMMENTS
+
+by this organizations
+
+Due to the delay in receiving the initial report on this sighting
+‘and the failing of the other points to meet the criteria for a
+follow-up investigation, this sighting is mt to be investigated
+The four (4) trails left by the object
+could be that of comtrails and the speed could be accounted for
+by a Pefleotion of the aircraft in the early morning sumlighte
+
+CONCLUSIONS
+
+POSSIBLY AIRCRAFT
+
+AISOP FORM 7 (2 APR 55)

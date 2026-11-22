@@ -1,0 +1,51 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T05:10:24Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6368431, "source_ctime_ns": 1793361650367865442, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330781006/45484701-001-001-0116.jpg", "source_mtime_ns": 1785684844000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330781006/45484701-001-001-0116.jpg", "source_sha256": "01267d3809f0a3bc2a3de0e8c49f485570c1cd1253b99f026510f1e683f71658"}
+
+===== PAGE 1 =====
+{"alpha_words": 107, "chars": 847, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Page ,2
+Guide to Investigation Incident Nee _ Seats
+
+sigs Trail (color, length, width, persistance, etc.)
+
+One
+
+Luminosity (visible by reflection, incandescent, other - degree cof
+brilliance):
+
+3
+
+Projections (fins, wings, rods, antennae, canopies, etc.):
+
+es)
+
+Maneuvers (turns, climbs, dives, etc. - sketch of flight path):
+
+: , 1448 .
+
+lew lesers altitude
+
+Manner of disappearance:
+
+Effect on clouds:
+
+bet Obeerrec
+
+Additional information concerning object:
+
+- 2
+
+24.  #Weather conditions and light at time of sightins:
+elear vicibility unmliaite
+
+Name and address of observer:
+
+Occupation and hobbies:
+
+ok Yeree Coosa
+
+Comments of Interrogator relative to intelligence and character of observer
+(Check neighbors, police dept., FBI records, employer, etc.):
+
+ject was views: red wre, field clasves «@ Se
+
+Declassification Authority: NND 923007

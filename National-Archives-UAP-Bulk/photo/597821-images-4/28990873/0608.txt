@@ -1,0 +1,43 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T05:14:26Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7053659, "source_ctime_ns": 1793384711170805847, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28990873/0608.jpg", "source_mtime_ns": 1785748500000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28990873/0608.jpg", "source_sha256": "bc8d072c54e462551c2ac74a59d8795b89fb9527e2cf9b3b0078f15c3a280706"}
+
+===== PAGE 1 =====
+{"alpha_words": 248, "chars": 1575, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Pags 2
+8. IF you saw.the object at NIGHT, what did you notice concerning the STARS. and MOON?
+8.1 STARS (Circle One): 8.2 MOON (Circle One):
+c. None a. Bright moonlight
+sia b, A tow ‘bs Dull moonlight
+c. Many c. No moonlight — pitch dark
+d. Don't remember d. Don’t remember
+9. The object appeared:
+(Circle One): Ka As a light b, Shiny c. Dark d. Don't remember
+10. {fit appeored as a light, was it brighter than the brightest stars?
+\
+1. Did the object: (Circle One for each question)
+a. Avopear to stand still at any time? Yes Ne Don't Know
+b. Suddenly speed up and rush away at any time? Yos “No. Don’t Know
+¢. Break up into parts or explode? Yas * No Don't Know -
+d, Give off smoke? Yes CNo Don't Know
+@, Change brightness? Yes ¢ No Don't Know
+f, Change shape? Yes No Don't Know
+9. Flash or Hicker? Yes .No Don’t Know
+h. Disappear.and reappear 7 Yes ‘§ No Don’t Know
+12. Did the object move behind something at any time, particularly a cloud?
+(Circle One): Yes ‘< No Don't Know. IF you answered YES, then tell what
+
+it moved behind:
+
+13. Did the object move in front of something at cny time, particularly a cloud?
+(Circle One}: Yes ‘¢ No Don't Know. IF you answered YES, then tell what
+in front of: Se
+14. Did the object appacr: (Circle One): o * Solid b. Transparent c. Vapor d. Don’t Know
+15, Did you observe the object through any of the following?
+
+a. Eyeglasses ‘Yes No e. Binoculars Yos “ No
+b. Sun glasses Yes (No f. Telescope Yes No
+c. Windshield “Yes No g. Theodolite : Yes , No
+
+come “ ,
+Window glass \ Yes No h. Other 2.0.5 LS N28
+
+yee: Sula alent a tl ek as

@@ -1,0 +1,21 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T04:44:12Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 979917, "source_ctime_ns": 1793390679600471103, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302552366/0706.jp2", "source_mtime_ns": 1785808298000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302552366/0706.jp2", "source_sha256": "bc4f8338cfe27a19b4935d5e5b7faa5fdd9bde581cc36b90b40a69ce88a1f5a8"}
+
+===== PAGE 1 =====
+{"alpha_words": 79, "chars": 549, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+TDET/UFO OFFICIAL FILE COPY
+
+Provosed reply to letter from 26 Jamunary 1967
+- < 3
+
+Dear gggiier
+
+Reference your letter of 26 Jamuery 1967 reporting your obser-
+vation of approximately 800 alleged unidentified flying objects on
+the night of 16 June 1966. At this late date, a meaningful compre-
+hensive analysis is not possible; however, the information will be
+filed for information purposes only. A check of our files did not
+wevyeal a similar sighting on the night of 16 June 1966.
+
+Thank you for reporting your observation to the Air Foree.
+
+ae

@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T05:08:16Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6001761, "source_ctime_ns": 1793378497985000028, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28968186/1145.jpg", "source_mtime_ns": 1785696650000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28968186/1145.jpg", "source_sha256": "fd89048c515078728b4ed792b1a954ffd272f37b7fc4295bbbd1990743f8f708"}
+
+===== PAGE 1 =====
+{"alpha_words": 115, "chars": 851, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+“UFOB INDEX CARD arcs croBehshos6 ;
+
+1. DATE ik 2 LOCATION 12, CONCLUSIONS
+; 64 Now 56 | Columbus, Ohio © Wes Balloon
+ aiaieii ilies | O Probably Ballcon
+|S DATE-Time GRouP 4. TYPE OF OBSERVATION 7 ee ee
+05/23192 Nev 56 FF Ground-Vi sued © Ground-Reder E Pe cae taveraht
+O AirVieud O Aimtntercept Reder |O Possibly Aircroft
+eT as . | G fradty novenmied
+es
+Eno Civilian D Possibly Astronomical
+7. LENGTH OF OBSERVATION . @. NUMBER OF OBJECTS | 9. COURSE Q Other _—__-
+One mi : One Nort) , 4 tga ota for Evaluation
+10. BRIEF SUMMARY OF SIGHTING 11. COMMENTS
+One round brilliant white object, the sise Coneur with Reporting Officer that
+
+of a Gime at arn's length. Object was noted this sighting was caused ty an aircraft.
+very high heading northwest. Object was ob-
+served visually for one minute. :
+
+fhe Letrtr IT wd tree”
+
+| AISOP Form 5 (15 Oct 54)

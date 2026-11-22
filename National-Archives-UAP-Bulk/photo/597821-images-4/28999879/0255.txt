@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T05:02:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4652009, "source_ctime_ns": 1793388068577963607, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28999879/0255.jpg", "source_mtime_ns": 1785748118000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28999879/0255.jpg", "source_sha256": "75b67047ec9afeb1d179559d27c47f50d0fe8d714bd79e8d8ce2a891b7f7f12a"}
+
+===== PAGE 1 =====
+{"alpha_words": 118, "chars": 867, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Mex Las LMESANATE ON On AY BRE ER TOMAR
+Oe Oa
+
+divi? 02 04 |
+NNN on
+| ss BPAGQS.. bassZCCMASS9 Be (
+Fone Rvepse :
+| DE RUEHBASS
+i ZNR C. ;
+h 2113202
+D FM USAIRA BUENOS ATRES ARGENTINA ( |
+B to RUEAHQ/COFS USAF WASH DC ou
+eee USAF FAG FT BELVOIR VA ae |
+i RUCDSQ/FTD UPAFB OHIO < 3
+‘ ee
+| RUFGWA/USAIRA PARIS FRANCE Gy |
+4 BT ‘|
+| UNCLAS U-s62. REFERENCE USAIRA PARIS ESSAGE U-783- PRESS REPORTS ee |
+_ ARGENTINA LAUNHED FIVE ¢5) GAMMA CENTAURO (CENTAURE) ROCKET |
+| SETWEEN 19-15 NOV 1962, PROJECT SPONSORED BY NATIONAL AIRCRAFT =f |
+INDUSTRY PLANT (DINFIA), ROCKETS LAUNCHED AT CHAMICAL, PROVICE Co
+| OF LA RIGJA AND REPORTEDLY REACHED ALTITUDE OF 99 TO 1¢a |
+| THOUSAND METERS, AND THAT ALL TESTS WERE SUCCESSFUL. ARGENTINES
+| : ASSISTED BY TEAM OF TEN (10) FRENCH TECHNICIANS BEADED Ey Co
+| PROFESSOR JACQUES BLAMONT.
+
+Bcrua6s 785 5 19 15 1962 99 199 10
+21/15252

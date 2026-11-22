@@ -1,0 +1,51 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T05:12:42Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6776253, "source_ctime_ns": 1793383722490890823, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28987691/1319.jpg", "source_mtime_ns": 1785748487000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28987691/1319.jpg", "source_sha256": "2df3d5708a2e69f24e1c2faaa6124cb27cfde4e8b4064475e10906ed84f65b8c"}
+
+===== PAGE 1 =====
+{"alpha_words": 261, "chars": 1728, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+U.S. AIR FORCE TECHNICAL INFORMATION SHEET
+j ?
+This questionnaire has been prepared so that you can give the U.S. Air Force as much
+information as possible concerning the unidentified -aerial phenomenon that you have observed.
+Please try to answer as many questions as you possibly can. The information that you give will
+be used for research purposes, and will be regarded as confidential material. Your name will not
+_ be used in connection with any statements, conclusions, or publications without your permission.
+We request this personal information so that, if it is deemed necessary, we may contact you for
+further details.
+ony P oe - e ra
+1, When did you see the object? 2. -Time of day: <= { 4 gel a ft (4
+per te 2 ‘ . Hour Minutes
+“* 4 : , a rte
+' _———-— a a ! : Xf ye aed x wf 3
+4 Be Month You .- (Circle One): A.M. or ( P.M.”
+! 3. Time Zone: ey
+(Circle One): ax Eostern’ (Circle One): . +t ving
+b. Central -b. Standard
+: ¢. Mountain tt ccna
+d. Pacific :
+Rae 2. Other -
+t, Where were you when you saw the object? 5 , . \ en
+‘Near ity or Town State or Country
+‘ ; by. "ele ed ' « . - ;
+Additional remarks: ——--=-—— :
+wee : oi rz. : ;
+Mow tong was cbject in sight? sansa moet : :
+Hours Minutes Seconds ;
+5.1 How was time in sight determined?
+G. Certain... c. Not very sure ‘
+b> Fairly certain d. Just o guess
+6. What was the condition of the sky?
+DAY NIGHT
+a. Bright a. Bright . Py
+b, Cloudy b. Cloudy <= ~ Oa ae OE ha oO
+
+™~
+
+IF you sow the object during DAYLIGHT, where was the SUN located as you looked at the ooject? =
+
+‘Circle One): a. In front of you d. To your left
+b. In back of you e. Overhead
+c. To your right f. Don't remember
+
+AT} C FEB 60 164 This form supersedes ATIC 164, 13 Oct 54.
+
+STs OES Se eee = ae

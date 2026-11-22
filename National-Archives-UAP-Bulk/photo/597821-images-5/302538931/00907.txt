@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T04:49:47Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1712457, "source_ctime_ns": 1793389295638896313, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302538931/00907.jp2", "source_mtime_ns": 1785808521000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302538931/00907.jp2", "source_sha256": "cdbe9cf0c557db6a0300134554437634dbeea3319e0f800d47628d655baa7d7d"}
+
+===== PAGE 1 =====
+{"alpha_words": 120, "chars": 854, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+OFFICa OF ASSISTANT CHIEF OF STAFF, INTELLIGENCE
+JOINT UNITED STATES MILITARY ADVISORY GROUP TO THAILAND
+APO 146, San Francieco, California
+
+25 May 1965
+
+SUBJECT: Unidentified Flying Object
+
+TO: . Conmanding Officer
++s Ady Force System Command
+ATIN: Foreign Technology Division
+Wright Patterson, Air Force Base, Ohio
+
+21, Reference: AFR 200-2, 20 Jul 62, Subject: ‘ Unidentified Flying
+2. The inclosed object was recovered in Sisaket Province, Thailand
+
+and turned over to the Royal Thai Air Force by the province governor. _
+It was reported that the object "Fell From the Sky", however, no infér—
+
+mation concerning sightings or eye witnesses to the falling is available.
+
+eS Request identification of object in order that reply to Royal
+Thai Air Force request for identification may be made.
+
+1 Incl: | B. B. BECK
+ee : Colonel, GS
+ACofS, Intelligence

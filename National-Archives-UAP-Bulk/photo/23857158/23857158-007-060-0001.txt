@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T05:06:05Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5495052, "source_ctime_ns": 1793359386788373949, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-007-060-0001.tif", "source_mtime_ns": 1785681398000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-007-060-0001.tif", "source_sha256": "0388535f3fd19ecb82f37fc57b4a5a555e07d25c169b3ae7b8d5378d6a89399e"}
+
+===== PAGE 1 =====
+{"alpha_words": 130, "chars": 905, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Declassification Authority NND 923007
+
+“46020 AISS UFOB LCG-
+
+.P.RSPORT NO. [2 ae ~~ 13 RECD HO 6020
+| ATSS UP CR229-55 duly 1955 22 duly 1955
+
+iy LOCATION OF SIGHTING
+| Riebland, Washington Ceoref AB 1N28
+
+5 MEANS RECD 6 ACTION
+1% Mag No investigation authorized — .
+7 INVES UNIT 8 DATE INVES ASSIGNED 9 ASSIGNING OFFICER
+w/a _ M/A N/A -
+
+10 DATE IR RWCD iQ $11 DATE IR APPROVED 12 DATE IR TO ATIC
+fa )) aa | w/a
+13 AISOP FORM 5
+
+} Uy, COMMENTS
+
+Tha deseription of the sighting indicates that of a balloon. (ne
+pllot who tried to interrept the object stated it was far over
+60,000 feet and stated that the object appeared to bea balloon.
+
+A cheek with COC Weather indicated that thera was a balloon over
+the area at the time of the sighting at 80,000 feet. Inview of the
+above it is the opintion of this hezdavarbérs that the object was
+
+a. balloon.
+
+15. CONCLUSTONS
+WAS BALLOON
+
+ATSOP FORM 7 (2Ack 95)

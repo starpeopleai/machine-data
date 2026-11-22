@@ -1,0 +1,46 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T05:10:07Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6231058, "source_ctime_ns": 1793378500909310655, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28968197/1154.jpg", "source_mtime_ns": 1785696671000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28968197/1154.jpg", "source_sha256": "01b93d30033fc00fc7b671317e987d75fb0dc50db6afcacc26eaa988575665f8"}
+
+===== PAGE 1 =====
+{"alpha_words": 191, "chars": 1231, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+RR RJEPHQ RJEDWP — vawres A al
+
+DE RJWPUB 72 (ftw Wess och ee
+
+R #617152 BN eG 1S TE fon
+
+FM COMDR 669 ACWRON PORHUR CALIF oy
+
+TO RJEDEN/COMDR ADC ENT AFB COLO |
+
+RJWPJB/COMDR 27 ADIV DEF NORTON AFB CALIF ag
+
+RJEDWP/COMDR AIR TECH INTELL CENTER WRIGHT PATTERSON AFB OHIO
+INFO RJEPHQ/DIR OF INTELL HQ USAF WASH 27 DC
+
+BT a :
+
+UNCLAS 6690PS S2d-¥ PD UFOB PD 1. As TRIANGLE. Be JET PLANE. Ce
+
+GRAY BLACK. D. ONE. E, NONE. F. NONE. G. SEs He NONE. I. NONF. WM
+
+A. LOCKING FOR AIRCRAFT WHEN IT WAS SPOTTED. Be 45 DEG. Cy 45 DEG.
+D. TRAVELING SE IN A STRAIGHT LINE. Ee FADED. Fe 4 MINUTE. Se As
+GROUND=VISUAL. Be. NONE. Ce. N/As &e As 86/824382 B. NIGHT. 5. BE
+
+4166 CMM HOLLYWOOD POST CiiM 118.49W 34.06 Ne 6s Ae EDITH FRISBY,
+
+4, 2539 N. JVAR AVE CHM HOLLYWOOD CALIF CMM HOUS? WIFE. Be N/Ae
+7. Ae CLEAR. B. WSW 1 C, CLEAR. D. UNLIMITED. E. NONE. F. NONE. &
+NONE. OM N/A. 13. NONE. 14. RALPH T JARVIS, iST LT, SENIOR DIRECTOR
+ALPHA CREW, AO 3839755, ALL LOCAL TOWERS WERE CHECKED FORNINFORMATION
+
+PAGE TWO RJWPUB 7E
+ON LOW FLYING AIRCRAFT WITH NO RESULTS. THE POSSIBILITY OF OBJECT
+BeiiG AN AgF. JET IS EXTRAMELY THIN DUE TO THE ABSENCE OF SOUND.
+“42. NONE,
+
+-
+
+86/17332 NOV RJWPJB
+
+wRM75WPD173 YDAL87 XYDi32 XDFIs9JBAGS2UBESE7 Wi, ye

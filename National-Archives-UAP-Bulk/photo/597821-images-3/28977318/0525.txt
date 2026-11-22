@@ -1,0 +1,44 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T04:59:58Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4370731, "source_ctime_ns": 1793380628433483008, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28977318/0525.jpg", "source_mtime_ns": 1785700754000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28977318/0525.jpg", "source_sha256": "f8ca2f3276bbb99bea127b183a5cbe0a6df0ba952746e8ec609f62d40cb351bb"}
+
+===== PAGE 1 =====
+{"alpha_words": 83, "chars": 645, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+| 2. LOCATION 112. CONCLUSIONS
+
+C Was Balloon
+war 5 rT Probably Salloon
+Possibly Balloon
+
+OATE-TIME GROUP 4. TYPE OF OBSERVATION
+
+Local ‘8 Ground- Vi sual O Ground-Radar F Ber auentre sti
+
+Possibly Aircraft
+
+GMT macile 0 Air Visual O Air-Intercept Radar
+PHOTOS 6. SOURCE fey Wi ar Adtiad opi eal
+
+O Yes Probably Astronomical
+sadatetng :
+No Ee ee Possibly Astronomical
+
+LENGTH OF OBSERVATION 8. NUMBER OF OBJECTS 9. COURSE Se Other LGNELCULaY C30!
+
+f Insufficient Data for Evaluation
+Unknown * |
+me
+
+“ Nir =) “ } West
+F BRIEF SUMMARY OF SIGHTING 11, COMMENTS
+
+ES) Mis
+
+M1 7
+Lek irg LO<ce
+yoy
+
+d
+?
+
+329 (REV 26 SEP 52)

@@ -1,0 +1,53 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T04:55:29Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3808672, "source_ctime_ns": 1793394220787348262, "source_file": "National-Archives-UAP-Bulk/photo/733667/733667-001-017-0001.jpg", "source_mtime_ns": 1785567339000000000, "source_rel": "National-Archives-UAP-Bulk/photo/733667/733667-001-017-0001.jpg", "source_sha256": "6ff8ba2350c617200e1e309ce1363041d8342be82e82929b06dba64e8e052ba4"}
+
+===== PAGE 1 =====
+{"alpha_words": 191, "chars": 1498, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+4 ee a or
+
+FAA FORM 7230-10 6-43) xy U-5.G.P.0. 1906266 10677/20151
+
+Anchorage Air Route Traffic Control Center
+
+NOV 18 1986
+
+POSITION LOG . POSITION LOG
+aT PORE aCe Ire ’ — , — — ve OCS a — 7
+ZAMS & Cust b  1A786 ' (24rd secs] Diy 17 FC
+Var 2) 2) ee re fee ae ae » [OLD ISHES3 El dC
+763916 74 TIC =n | [276 oleelaczoal ll.
+iI4IYApeasel, |, ap Jt Ge2¢ el.
+ISOSKEV SS VIcClsctS | WR WA: = doe3sild. |
+ZOOF/IAFIZS0C7] CC, SS BilGelog cole |
+ne |S. ([.. | 7 a
+nov AlZLiacd | os
+Z// 2 fil2zA2Za3glCc a re ee .
+29 69\T#IZZIC!, .. I, | od, a a
+22 34 PPIQAAQE] | — t,t. aT
+Daral |. | |S ees le _ __ .
+CovO IS2bitSeicl,., ,{, — _|. .,,
+OL Spc loz 32 tl, is a
+C ATCS of FOS « resporemee tor possaon A or @ retoorectce tor posan
+FAA FORM TZ30-10 7-42) PAGE} FAA FORM 7230-10 1-42) gy U.5.C.P.0, 1906=661-677/20181 PAGE 2
+POSITION LOG _ POSITION LOG ;
+ZAniSzee 5) PIO 2A spMceles| Mliliv vice
+retom motes | veo eden frccncm cnmrowa [US] eter lets sekoe delstecesnesaneues Pare
+qooles|.s33{/Cl 230 |#C 42k | DLE
+IS 3916 Fl/> FS Gilet, . :
+esilssr7e7c7iel rr a — —
+LI4AKAIIYS EL. LL, fp |
+IAIfSaZ/skl |, a ee __.
+/ (4 R«AT/7 Sy \s . — — ——
+17 39131203214... I, —— a
+£0, 3AI\T, Ale oY/Kl.. ll | ,
+zadl| [| [szer,7 1) | ,
+9/2 6223710 a ee
+AzsvipAasosicl Td PT =a
+LxosiRsD3aN Cl | TT LL
+352.33 Pwlc03 Fic : nn —_ ;
+0033 BOIO4 As... |, ! 1 .
+OoxAaL TT ec a | = _ _
+C ATCS of FOS « rescoratee tor posacn ' .
+coor es ee eel eae : coor § | Seowor Sit Sones, mara 4 moor Soton
+FAA FORM 7230-10 1-43) PAGE 1 | PAGE 2
+
+>

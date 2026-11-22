@@ -1,0 +1,101 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T04:40:43Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 563197, "source_ctime_ns": 1793365590219456883, "source_file": "National-Archives-UAP-Bulk/photo/5011500/5011500_VolumeI_Page_032.jpg", "source_mtime_ns": 1785565396000000000, "source_rel": "National-Archives-UAP-Bulk/photo/5011500/5011500_VolumeI_Page_032.jpg", "source_sha256": "31a604406d7616907b233c4e9b0578d8c9349580413fe71a95d4f35e484ee363"}
+
+===== PAGE 1 =====
+{"alpha_words": 239, "chars": 1556, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+01:33:25
+
+01:33:37
+01:33:40
+
+01:33:46
+
+01:33 359
+
+01:34:04
+01:34:07
+
+01:34:14
+
+01:34:17
+
+01:34:27
+
+01:34:37
+
+01:34:45
+
+01:35:10
+
+01:35:37
+01:37:16
+
+cc
+
+cc
+
+cc
+
+cc
+
+Cc
+
+cc
+
+cc
+
+cc
+
+CONFIDENTIAL 31
+
+--. Roger. We are staying within about 50 feet
+
+of it. It was venting excessively and this required
+a little more maneuvering fuel than we had antici-
+pated ...
+
+Roger.
+
+We had difficulty getting a good glimpse of it
+because it was almost directly in front.
+
+Roger. And was there any particular direction that
+this excessive venting caused you to have to man-
+euver? Was it left, right or up, down or back and
+forth, or just what did it cause?
+
+It was initially up and we had to maneuver up and
+then to the left.
+
+Primarily up and to the left initially?
+
+That's affirmative. The ... looked like an...
+and down the side of the booster.
+
+Roger.
+
+eee The platform mode did not help much. I went
+out of platform because we were - we got too far
+above it for a while.
+
+Roger. Understand. Did you actually terminate
+the stationkeeping on your OAMS cutoff point?
+
+Roger. We terminated and started our separation
+early because we got to 88 percent vent.
+
+Roger.
+
+Gemini VII, Houston. For your information, on the
+Fuel Cell light, we think the problem is probably
+the regulator. Irritator water regulator. And we -
+incidentally, in case you haven't been informed,
+
+we do have an indication on the ground that your
+light is due to an Op HoO pressure being out of ...
+
+Gemini VII, Roger.
+
+Gemini VII, Houston. I have a node update if you're
+ready to copy.
+
+CONFIDENTIAL

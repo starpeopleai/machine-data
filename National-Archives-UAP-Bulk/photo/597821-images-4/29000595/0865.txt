@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T04:59:48Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4352134, "source_ctime_ns": 1793388251779696615, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/29000595/0865.jpg", "source_mtime_ns": 1785748182000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/29000595/0865.jpg", "source_sha256": "12b983960a485b0d1a272388f5d0d61c3673aca7e2b318f091ec5d8f34fc7170"}
+
+===== PAGE 1 =====
+{"alpha_words": 131, "chars": 992, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+1. DATE 2. LOCATION 12. CONCLUSIONS
+: Q Was Balloon
+alvils April 1963 0O2.N 168.37W (Pacific) oO Probably Balloon
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION BU em alery. eatenon
+Local O Ground- Vi sual O Ground-Rodar a BP erisulo acceuty
+GMT__ 11/1620Z AKA re Vi sual O Air-Intercept Radar 0 Passibly Aircraft
+5. PHOTOS 6. SOURCE QO Was Astronomical
+OG Yes 0 Abad lieag Astronomicoai
+tates ‘ i Oo ossibly Ast ical
+XEKNo Civilian Airline Quantas a RE at cles
+7. LENGTH OF OBSERVATION 8. NUMBER OF OBJECTS | 9. COURSE XIX Other_satellito
+. QO Insufficient Data for Evaluation
+QO Unknown
+not reported one not reporte
+10. BRIEF SUMMARY OF SIGHTING 11, COMMENTS
+CIRVIS report of object that appeared Only that object resembling
+4 to be a satellite observed at 20 dgr satellite was reported, #@HO-
+| elevation bearing 260 dgr magnetic datauotavailabde, object
+from reporting a/c. assumed to be satellite,
+ar? Ce Cocky ek Aten. cf 28 lé 4) 2
+
+ATIC FORM 329 (REV 26 SEP $2)

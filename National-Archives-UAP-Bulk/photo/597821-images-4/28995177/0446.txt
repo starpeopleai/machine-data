@@ -1,0 +1,17 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T05:09:35Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6149653, "source_ctime_ns": 1793386204046566478, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28995177/0446.jpg", "source_mtime_ns": 1785748099000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28995177/0446.jpg", "source_sha256": "6791696a6cc32b237d9919d7b52b2ba3c6311d2e22306ee0cf574b25ae163271"}
+
+===== PAGE 1 =====
+{"alpha_words": 34, "chars": 161, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+BU pes Fe ge
+Eee ites
+
+ecient ie ke ca
+AU,
+
+stetta ast Tae ;
+RSENS SAS Seas A sues ueees ie
+SENEEREHC EER EE Deer nre eis
+
+otaeti ae ©
+
+Ret Po cartes SO te Nee

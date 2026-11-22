@@ -1,0 +1,52 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T05:19:17Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8507575, "source_ctime_ns": 1793385546248518673, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28993618/0106.jpg", "source_mtime_ns": 1785748462000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28993618/0106.jpg", "source_sha256": "c43f15485e08b3e09cfca9e33e9f1e887f2ef141ea31a151b06930e80b30854a"}
+
+===== PAGE 1 =====
+{"alpha_words": 138, "chars": 1100, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+POE Brn hed
+
+DEPARTMENT OF THE AIR PORGE
+
+STAFF MESSAGE BRANCM |
+UNCLASSIFIED MESS ASE |
+INCOMING |
+AF IN ; 4841 (26 Jul 61) Page 3 of 4
+
+PAGE THREE RJWZJBK 1
+
+DEGREES, 35,006 FEET, SPEED 430 KNOTS, ENROUTE FROM LOS ANGELES TO
+
+——————
+ee
+
+DALLAS’ SECOND AIRCRAFT DELTA 82@ BOEING 720, HEADING 875 DEGREES
+
+27,900, SPEED 43@ KNOTS, ENROUTE FROM LOS ANGELES TO DALLAS.
+
+D. TIME AND DATE OF SIGHTING:
+
+C1) 25/1980Z TO 25/1100Z.
+
+(2) NIGHT.
+
+Eo LOCATION OF OBSERVER(S):
+
+C1) 35 SiN, 110 44, S@4TH ACWRON, WINSLOW AFS, ARIZ, 10 MILES
+WEST OF CITY OF WINSLO'. AIRCRAFT POSITION 34 58N, 109 91", OVE]
+ZUNI, NEW MEXICO.
+
+F, IDENTIFYING INFORMATION ON OBSERVERCS):
+(1) PILOTS = UNKNOWN.
+(2) SSGT JERDON, RUSSELL T. - 9@4TH ACWRON - AC&WY OPERATOR
+RELIABILITY - EXCELLENT. A/iC PHILMORE, RICHARD A. = 994TH ACYRON -
+AC&W) OPERATOR - RELIABILITY - EXCELLENT. A/1C SHIPP, CHARLES E.
+SO4TH ACWRON - AC&Y OPERATOR ~ RELIABILITY - EXCELLENT.
+Go WEATHER AND WINDS - ALOFT CONDITIONS AT TIME AND PLACE OF
+SIGHT ING(S)
+
+“\ «
+IJ @
+
+ay)
+
+(1) SCATTERED CLOUDS IN LOCAL AREA AT 10,600 FEET, WINDS SSE LIGHT
+AND VARIABLE.

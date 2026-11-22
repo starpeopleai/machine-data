@@ -1,0 +1,122 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T05:20:15Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9292029, "source_ctime_ns": 1793362678872669853, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330783376/45484701-003-004-0158.jpg", "source_mtime_ns": 1785685011000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330783376/45484701-003-004-0158.jpg", "source_sha256": "920053d20aea142c315e5f51f22bc1122cbf7bf0ac59cf7f613e886f1a5100bf"}
+
+===== PAGE 1 =====
+{"alpha_words": 244, "chars": 1851, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Cover Painting by
+JIM BENTLEY
+
+Business Manager:
+
+MONROE FROEHLICH, Jr.
+
+Editorial Director:
+NOAH SARLAT
+
+Art Director:
+MEL BLUM
+
+Executive Editor:
+MARV KARP
+
+Managing Editor:
+K. T. MEYER
+
+Photo Editor:
+DAN MERRIN
+
+Associate Editors:
+R. GALLAGHER
+V. A. JIRSA
+P. H. NORWORTH
+T. R. POL
+
+Book Editor:
+PAT UNTERMEYER
+
+Art Editor:
+BILL GAHAN
+
+Art Associates:
+L. GRABER
+A. JAMEISON
+
+Circulation Director:
+ARTHUR MARCHAND
+
+‘MAL
+
+July, 1955
+
+CONTENTS
+
+ADVENTURE
+WE FOUND A SPANISH GALLEON........____. Professor John Storr
+tCRASHED WITHEVUKOVICH ie ee eee, Verne Houle
+LOCK PE KILLERS. or gr coe ae nee Ray Catherly
+MANS OVERBOARD Ia isc ag enn Sate Richard H. Murphy
+
+WHITEOUT ON THE ICE CAP....._._.. .S/Sgt. Robert H. Christensen
+FIRE IN TRE OMOLE. SC iile facia Saat cain: .Edward Deland
+
+CRIME AND EXPOSE
+
+MADAMS OF THE OLD WEST. ... ._ Richard Carter and Glenn Kittler
+
+. THE CONS HELD ME HOSTAGE: 2... 20 Eugene Wills
+
+AUTOPST. FOR: A: RUM-DUM tose a a R. J. Levin
+
+BOOK BONUS
+
+LAY: MY: CIFE-ON THE LINE oe John D. Craig
+OFF TRAIL
+BLACK AND: WHITE2 2000 tee, Photo Feature by Ed Lettau
+THE WEST VIRGINIA MONSTER........... ..George Snitowsky
+FICTION
+FOR TWO: LOUSY: CENTS i ei es pen tis Richard Gallagher
+INE COR PIORSE hic a eae ean Rey ak aR ey Ralph Towsend
+DEPARTMENTS
+
+Vol. 5, No. 7
+Martin Goodman, publisher
+
+16
+18
+26
+32
+36
+42
+
+iI
+20
+35
+
+82
+
+28
+39
+
+24
+
+80
+
+———
+
+ADVERTISING OFFICES
+Sid Kalish, Advertising Director William R. Stewart, Midwes
+655 Madison Avenue, New York 21, N. Y.
+Loyd B. Chappell, West Coast
+810 So. Robertson
+Los Angeles 35, Calif.
+
+9 South Clinton Street, thteons 6, tL.
+
+UE
+Additional
+21; M¥:
+25¢ per copy. Subscription rate $3. 25 for {2 issues including phat A Not
+
+responsible for peas manuscripts, and all manuscripts must be accompanied by stamped, self-addressed envelopes.
+U.
+
+Declassification Authority: NND 923007
