@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T10:11:50Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1016669, "source_ctime_ns": 1793388779246647937, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302532358/0476.jp2", "source_mtime_ns": 1785808443000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302532358/0476.jp2", "source_sha256": "93e97b66f5818f116d0a9e8ebbe24fc2e52cd97d0f1fd18f948edee05b28065b"}
+
+===== PAGE 1 =====
+{"alpha_words": 248, "chars": 1509, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+. Do you think you can estimate the speed of the object?
+
+(Circle One) Yes No
+
+!F you answered YES, then what speed would you estimate?
+
+object or objects which, when placed up in the sky, would give the same appearance as the object which you as-0,
+
+21. Do you think you can estimate how far away from you the object was?
+(Circle One) Yes “No i
+iF you answered YES, then how far away would you say it was?
+22. Where were you located when you saw the object? 23. Were you (Circle One}
+(Circle One):
+a. In the business section of a city?
+a, Inside a building Lb In the residential! section of a city?
+b. Ina car c. In open countryside?
+¢. Outdoors d. Near an airfield?
+d. jn an airplane (type) 2. Flying over a city?
+a. At sea f, Flying over op2n country?
+*, Other g. Gther
+po L
+24. |F you were MOVING IN AN AUTOMOBILE or other vehicle at the tits. then comp!ate the foliowing questions:
+24.1 What direction were you moving? (Circle One)
+a. North c. East . e. South gy. West 5
+b. Northeast d. Southeast $, Southwest hb. Northwest
+24.2 How fast were you moving? iniles per hour,
+24.3 Did you stop az any time while you were looking at the object?
+(Circle One) Yes No
+25. Did you observe the object through any of the following?
+a, Eyeglasses Yes No e. Binoculars Yes No
+b. Sun glasses Yes No f. Telescope Yes No
+ce. Windshield Yes No g. Theodolite Yes No i
+d. Window glass Yes / No h. Other
+j
+26. in order that you can give as clear a picture as possible of what you saw, describe iis your awn worcs vu commer:

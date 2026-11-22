@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T10:26:21Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4580909, "source_ctime_ns": 1793388282218517699, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/29000711/0967.jpg", "source_mtime_ns": 1785748375000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/29000711/0967.jpg", "source_sha256": "ac690bf6c8be3bcb9ce98bc61774d1c69d971e593f665247c6702850bd237c5f"}
+
+===== PAGE 1 =====
+{"alpha_words": 175, "chars": 1332, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+: Fad
+PROJECT 10073 RECORD CARD
+1. DATE 2. LOCATION 12. CONCLUSIONS
+XIX Was Balloon
+27 April 1963 Pearl Beach, Michigan Q Probably Balloon
+O Possibly Balloon
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION
+Local 19590 WxGround- Visual TX O Ground-Radar q SKCUIy Miveoti
+GMT__ 28/0050Z O Air Vi sual O Air-Intercept Radar 0D Possibly Aircraft
+5. PHOTOS 6. SOURCE O Was Astronomical
+ee O Yes O Probably Astronomical
+oe area ete: O Possibly Astronomical
+| _ENo Civilian
+q fe EERE eae arte FD ane e ne [kee ree a etre Deto for Evaluation
+o
+4+ ninutes one not rpotd
+. 10. BRIEF SUMMARY OF SIGHTING S V1. COMMENTS ;
+: Object viewed through TX at 15 dgr N Balloon sighting, Principal
+7 declination w/right ascension of 7 hr witness contacted on Friday
+. 32 min 00 sec, Object flying NE, mag- May Sl by phone. Satellites
+a nitude -2, Diameter of 1/15 to 1/20 were misinterpretation of
+a of a dgr, Viewed through 41X telescope reflectors on Rawinsonde
+a w/focal length of 3/4 inch. Moving balloons. Balloons of this
+q 2 dgrs every minute. Four red satellitles type are launched at 00002
+a Total duration 4 minutes. Object from Green Bay Wisconsin &
+appeared to be moving outward, Letter Flint, Michigan. Wind infor-
+4 sent to Menzel, mation not obtained; however,
+_ upper air currents are uauall
+: ¥
+: to the East,
+
+ATIC FORM 329 (REV 26 SEP 52)

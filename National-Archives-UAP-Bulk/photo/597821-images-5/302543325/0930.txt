@@ -1,0 +1,45 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T10:10:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 947361, "source_ctime_ns": 1793389745532787852, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302543325/0930.jp2", "source_mtime_ns": 1785808304000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302543325/0930.jp2", "source_sha256": "7e4bc1b506cac469d0a810180b51de100580b2ca915c22deab7f93c813cdb845"}
+
+===== PAGE 1 =====
+{"alpha_words": 84, "chars": 697, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+| UNCLASSIFIED |
+
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+INCOMING MESSAGE
+
+AF IN : 45118 (3 Aug 65) Page 5 of 6
+
+A1C ROOD, STEVEN Bey 2829 COMM SQ, ACFT CONTROLLER CRAPCON)
+AGE 23
+SSGT HERMES, JOSEPH Goy 2229 COMM SQ 5 ACFT CONTROLLER CRAPCON)
+
+AGE 39
+Ge WEATHER AND WINDS:
+
+Jo OBSERVER DESCRIBES WEATHER AS EXCELLENT - CLEAR AND 49
+
+MILES VISIBILITY, HIGH THIN BROKEN CIRRUS,
+
+2 WINDS: |
+
+ALTITUDE DIRECTION VEL |
+YSURF ACE 280 4KN |
+6228 173 SKN |
+19029 298 T2KN
+
+16220 329 19KN |
+39200 349 22KN
+
+5 2200 322 36KN
+
+62282 330 34N
+
+89a NOT AVAILABLE
+
+NOTE: WINDS FROM SURFACE TO 29080 WERE MEASURED AT 82/9697
+FROM 32989 UP AT 22 /80G 12
+
+Jo CEILING: NONE
+
+AFHQ sire 0-309C UNCLASSIFIED

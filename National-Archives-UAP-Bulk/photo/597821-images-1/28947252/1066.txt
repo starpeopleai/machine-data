@@ -1,0 +1,41 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T10:21:59Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3467045, "source_ctime_ns": 1793373507759676408, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28947252/1066.jpg", "source_mtime_ns": 1785688575000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28947252/1066.jpg", "source_sha256": "28cbfaf6173a76aee88929e8ae92ce97affdfb6bf9667ef63b93cf5fc18ca989"}
+
+===== PAGE 1 =====
+{"alpha_words": 206, "chars": 1382, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+UNCLASSIFIED
+FLYOBRPT = 1 Aug 52 = Bellefontaine, Ohio
+
+I, Interrogation of Maj Smith and Lt Hemmer by Lts Flues and Olsson revealed
+following:
+
+’ A. F=86"s climbed to 48,000 ft., then fell off, then made a second climb
+to 48,000 ft. Maj Smith made a camera run the second time and received a weak
+return on his radar gunsight. Hemner's sight was "caged*, go he received no
+returns, Smith estimated object at 12-20,000 ft. above him at 48,000 ft. This )
+
+estimate is substantiated by range capability of rader gunsight.
+
+B. Objects sise, accepting Smith's estimate of distance, is 24-40 ft. in
+diameter, as computed from the fact that the gunsight is two mile in diameter and
+Smith said pip just covered object.
+
+C. The films were not sufficiently clear. Object appeared as fuzzy small
+image in upper right hand corner with discernable motion to lower left,
+
+II, The object is not:
+
+A. Balloon speed too fast. 15002 radgéfonde release moved off to east.
+Object moves against the winds. Blip sise is that of normal aircraft.
+
+b. Known aircraft. Altitude too high.
+c. Astro. cual radar returns eliminate this.
+d. Electronic or visual mirage or meteorological phenomena. Rader set
+
+is on high beam. Both would not occur simultaneously in same place, Sighting
+occurs “above the weather",
+
+J?
+
+CLAS WNGRADED AT 3 YEAR INTERVALS;
+um SIFIED ” DECLASSIFIED AFTER 12 YEARS,
+DOD DIR 5200.10

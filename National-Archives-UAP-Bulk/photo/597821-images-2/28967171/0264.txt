@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T09:45:54Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7325786, "source_ctime_ns": 1793378203879266252, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28967171/0264.jpg", "source_mtime_ns": 1785696634000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28967171/0264.jpg", "source_sha256": "be8fd2f313082ac29631f13fc780b1bae9f2cb7573456d02efb790732d7b0e6a"}
+
+===== PAGE 1 =====
+{"alpha_words": 100, "chars": 818, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Reece HONE HEEMRUIMO EE ae ”"
+
+i> a PROJECT 10073 RECORD CARD
+1. DATE : 2. LOCATION 12. CONCLUSIONS
+et , ‘ - O Was Bolloon
+23/26 August 1956 Tangier, Morocco © Probably Balloon
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION 0 Possibly Beileon
+anal night , ¥ O Was Aireraft
+Locel Soe : £2Ground- Vi sual DB Ground-Roder OQ Probably Aireroft
+ouy— QO Air Visuol © Airtnereapt Roter |& Peseilly Arwen
+5. PHOTOS $. SOURCE : . 0 Wes Astronomico!
+O Yes News Paper 0 Probobly Astronomicol
+*~0 Ne LeProvencal Marseilles, Trand® Pessibly Astronomical
+7. LENGTM OF OBSERVATION 8. NUMBER OF OBJECTS | 9. COURSE 0 Other
+ls coteanggal Dete fer Evaluotion
+10 seconds unknown unknown —
+10. BRIEF SUMMARY OF SIGHTING 11. COMMENTS
+Radiant flying discs were sighted
+over the Port of Tangier. After 10
+
+seconds
+
+ATIC FORM 329 (REV 26 SEP 52)

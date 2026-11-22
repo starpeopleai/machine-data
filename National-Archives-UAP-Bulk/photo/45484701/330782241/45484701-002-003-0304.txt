@@ -1,0 +1,43 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T09:51:22Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10133681, "source_ctime_ns": 1793362242001397944, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330782241/45484701-002-003-0304.jpg", "source_mtime_ns": 1785684731000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330782241/45484701-002-003-0304.jpg", "source_sha256": "8a695443a2a1ebd85be403b7997ea020e71d60b7bc4ed3b9dd645e241b2182e6"}
+
+===== PAGE 1 =====
+{"alpha_words": 37, "chars": 226, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+STL The ny iad
+
+» bre
+
+te baie
+
+*
+aos nel
+re om? FS
+
+ay
+MDa B
+
+he
+
+> ele
+
+"LO Bilis
+
+aerial [NLC 0 BP ON.
+
+oe es
+
+flash ing
+
+= em 4
+
+elevation
+‘. inne 9
+
+ae
+
+‘ -— g :
+
+fy
+
+twice as fast
+
+Declassification Authority: NND 923007

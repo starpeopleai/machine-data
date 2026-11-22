@@ -1,0 +1,63 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T09:56:40Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 19558252, "source_ctime_ns": 1793356775172037364, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0398.tif", "source_mtime_ns": 1785564756000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0398.tif", "source_sha256": "6cd5f9739693be624d050467239b3cd89a15988c2c54a6419b44760375372b6b"}
+
+===== PAGE 1 =====
+{"alpha_words": 286, "chars": 1928, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ships as "flying objects". The distribution of flying objects is
+peculiar, to say the least. As far as this writer knows, all inci-
+dents have occurred within the United States, whereas visiting space-
+men could be expected to scatter their visits more or less uniformly
+over the globe. The small area covered indicates strongly that the
+flyinsz objects are of Farthly origin, whether physical orpsycholovical,
+
+One or two additional general remarks may be relevant to space
+
+The lack of purpose apparent in the various episodes is also
+puzzling. Only one motive can Se assigned; that the space-men are
+"feeling out" our defenses without wanting to be belligerent. If
+they must have been satisfied long ago that we can't catch them,
+It seems fruitless for them to keep repeating the same experiment.
+
+SO,
+
+Conclusions:
+
+Although visits from outer space are oelieved to be possible,
+they are believed to be very improbable. In particular, the actions
+attributed to the "flying objects" reported during 1947 and 1948
+seem inconsistent with the requirements for space travel.
+
+Very truly yours,
+
+ie 6 LO
+Missiles Division
+
+4
+JEL: sp \
+References
+1. “Earth, Moon and Planets", by *.L.Whipple, Harvard Books on
+Astronomy, Blakiston, 1941.
+
+2. "Atoms, Stars and Nebulae", by Goldber:, Alter; Harvard Books
+on Astronomy, Blakiston, 1943,
+
+3. "The Story of Variable Stars”, by Campbell and Jacochia, Har-
+vard Books on Astronomy, Blakiston, 1945.
+
+4, "The Milky Way", by Bok and Bok, Harvard Books on Astronomy,
+Blakiston 1941,
+
+SS. Calculated Properties of Hydrogen Propellant at High Temper
+
+atures. Data provided to RAND by Dr. Altman, then at JPL. Unpublished.
+
+6. "The Use of Atomic Power for Rockets", by R. Serber, Appendix
+LV Second Quarterly Report, RA-15004, Douglas Aircraft Co., Inc.,Project
+Rand.
+
+7. "Galaxies", by Shapley, Harlow; Harvard Books on Astronomy,
+Blakiston 1943,
+
+WN
+WI
+
+Declassification Authority: NND 57565

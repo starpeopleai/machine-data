@@ -1,0 +1,44 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T09:42:01Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6745587, "source_ctime_ns": 1793380152704215521, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28974752/1181.jpg", "source_mtime_ns": 1785700703000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28974752/1181.jpg", "source_sha256": "e13c3a1db2c84b441894362490b40e9eff8858ab6500cef29ccf3de5b29418c6"}
+
+===== PAGE 1 =====
+{"alpha_words": 58, "chars": 345, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ec SCR ure ra Tae pit Ce crea | RCM AOE Ree oka ery eh
+ne ; we é ip a Cad OR TR
+
+3) MANNER OF OBSERVATIBN:
+
+het |tnto
+
+Corder
+
+Prot
+
+O1s
+
+Surg
+
+Chap
+
+SJA
+
+D/O
+
+r
+bod —
+—— -—4
+— i
+
+ADV-COPY
+
+CADJ-TOR
+
+CADJ-NUMBER
+
+SUSPENS&
+
+INCOMING MESSAGEFORM
+FEAF FORM 162 1 January 1957
+
+Pe EES SOP hd eg gt Oe Te eG BEN Foy, Sey VATS Te gree Pa
+
+ogs0e HO F

@@ -1,0 +1,94 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T10:08:50Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 582313, "source_ctime_ns": 1793365593441439199, "source_file": "National-Archives-UAP-Bulk/photo/5011500/5011500_VolumeI_Page_117.jpg", "source_mtime_ns": 1785565397000000000, "source_rel": "National-Archives-UAP-Bulk/photo/5011500/5011500_VolumeI_Page_117.jpg", "source_sha256": "0476680380269ce5a2cba266fe2e156d8ed99845cd19279e7660df4b3f22466f"}
+
+===== PAGE 1 =====
+{"alpha_words": 178, "chars": 1279, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+116
+
+4:01:06
+4:01:07
+44:01:32
+44 301:32
+
+44:03:06
+4:03:09
+4:03:18
+43:03:20
+4203 :21
+
+yt 303 24
+
+44:04 0k
+
+44:04:07
+
+44304318
+
+4304219
+
+4h :04 227
+
+cc
+
+cc
+
+cc
+
+cc
+
+cc
+
+cc
+
+CC
+
+cc
+
+CONFIDENTIAL
+
+Just a minute.
+Roger.
+Ready for the block update.
+
+Roger. Area 30-1: 46:04:12; 15 plus 28. Area
+31-1: 47:39:40; 14 plus 38. Area 32-4: 50:27:35;
+16 plus 40. Area 33-4: 52:03:30; 15 plus 20.
+Area 34-4: 53:29:02; 14 plus 37. Area 35-3:
+54:55:18; 17 plus 03. Area 36-Delta: 55:46:25;
+
+23 plus 24. The weather in all areas is good.
+These are for reentry. Do you copy?
+
+Gemini VII, Roger. Thank you.
+
+Roger.
+
+Carnarvon, this is VII.
+
+Go ahead, VII.
+
+We've had enother D-4 photometer check, as requested
+by Houston. I noted that we alined on a star and
+used it to calibrate, using the A-9 switch at night
+to turn her off, but the reticle would not go out
+
+of the RED. There were four low gains; there were
+four high gains.
+
+Roger. We copy that it would not go out of the
+RED,
+
+Houston copied it as being opposite during the
+last time that you used it.
+
+Roger. The first time we attempted to do the
+experiment with the same settings it appeared
+that the reticle stayed GREEN.
+
+Roger.
+
+Now the reticle does turn GREEN with the calibrate
+switch up, but not with it down.
+
+Roger.
+
+~ CONFIDENTIAL

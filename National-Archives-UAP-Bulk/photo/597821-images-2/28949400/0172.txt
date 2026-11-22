@@ -1,0 +1,56 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T10:22:37Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3735260, "source_ctime_ns": 1793373940765865797, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28949400/0172.jpg", "source_mtime_ns": 1785696438000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28949400/0172.jpg", "source_sha256": "2b1134d27c66cb37c22e62f3b82361a0e2e5c803db34e66934bc93a67c9acc3d"}
+
+===== PAGE 1 =====
+{"alpha_words": 134, "chars": 906, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+4
+'
+
+TENTATIVE
+OBSERVERS QUESTIONNAIRE
+
+SECTION A
+
+1. When did you see the object:
+
+1.1 Dates “I of re a
+
+1.2 Time of tor Fe, —(f- A.M. or P.M. (Circle One)
+oom
+
+1.3 Time Zone: (Circle One):
+
+e. Eastern a.
+b. Central e. Other
+
+Cc. Mountain
+
+(Cirele One).
+
+r) ° Inga} e
+
+1.4 Circle one of the following to indicate how certain you are of
+your answer to the above question 1.2:
+
+Qe n ce. Not very sure
+b. (Fairly cert ad. Just a guess
+
+2. Where were you when i eaw the object:
+
+Additional Remarks: pag © of £6 mo “4
+
+3. Where were you located when you saw the object:
+(Cirele One): a. Inside a building 4. In an airplane
+
+b. In acar e. At sea
+Ce Outdoors f. Other LL of Tau Bly
+a cecal i
+(Circle One): a» In the business section of a cityD
+b. In the residential section of a city?
+Ce In open countryside?
+d. Flying near an airfield?
+
+@. Flying over a city?
+f. Flying over open country?
+Other
+
+3.1 Were you:

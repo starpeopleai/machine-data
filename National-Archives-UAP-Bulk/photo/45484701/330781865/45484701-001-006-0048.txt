@@ -1,0 +1,68 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T09:38:43Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6051582, "source_ctime_ns": 1793361947724906202, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330781865/45484701-001-006-0048.jpg", "source_mtime_ns": 1785685163000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330781865/45484701-001-006-0048.jpg", "source_sha256": "d7d5e5ae46e548271719e360a72cb62770fdfae06191a72640a93964056c25b5"}
+
+===== PAGE 1 =====
+{"alpha_words": 227, "chars": 1565, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+S/I, Office of the AC of S, G-2, Headquarters Fourth Army, Fort Sam Houston, Texas,
+16 March 1949: Subd, "Unusual Lights"
+
+d. Object sighted:
+
+Number: 1
+
+Shape: Roundish head with hazy smoke trail.
+Size: Not known
+
+Color: Pale white light at head
+
+Speeds not known
+
+Direction: From S 58 to S 54° E
+Maneuverability: No deviation
+
+Altitude: From 58° above horizon to 5l;° above
+Sound: None
+
+Exhaust trail: Left hazy white smoke trail
+Remarks: Travelled in are and visible "long enough to
+snap your fingers."
+
+From observation point # (see attached overlay).
+a. Location: 914.6 = $56.7; Time: About 0103.
+
+b. Weather: Clear (see attached weather report).
+
+Witness: Cpl Luke Burke Sims, RA 387536
+Company A, 2nd AIB
+Camp Hood, Texas
+
+Object sighted:
+
+Number: 1
+
+Shape: Lemon with tail
+
+Size: Not known
+
+Color: Pale reddish nose, whitish red trail
+
+Speed: Not known, but very fast
+
+Direction: From N 56° Wto S 44° w
+
+Maneuverability: No deviation
+
+Altitude: From 15 above horizon at beginning and end of arc.
+Sound: None
+
+Exhaust trail: Whitish red trail
+
+Remarks: Good observer. Stated that "light" started from
+point above horizon then arced upward and down to 15° when it
+disappeared. Was perfect arc. He was able to run 10 paces
+toward field telephone to report light before it vanished.
+
+The following incident may or may not be connected. At about 1930 hours on
+7 March 1949, a flashlight was seen moving about the "Q" Area fence line near the
+air strip. It could not be told by the observer whether the light was within or
+
+Declassification Authority: NND 923007

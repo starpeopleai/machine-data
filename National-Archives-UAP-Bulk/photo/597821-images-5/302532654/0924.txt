@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T10:10:40Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 919084, "source_ctime_ns": 1793388797183167244, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302532654/0924.jp2", "source_mtime_ns": 1785808274000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302532654/0924.jp2", "source_sha256": "ae76780abc5bca9f00b1533ee3147925892f65e47ab874f209526fd0c7393a3d"}
+
+===== PAGE 1 =====
+{"alpha_words": 113, "chars": 901, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+. ] PROJECT 10073 RECORD CARD
+
+1. DATE * i 2. LOCATION 12, CONCLUSIONS
+O Was Ball
+3 May 64 35-10N 174.40w (Pacific) OQ Probably Balloon
+3. DATE-TINE GROUP 4. TYPE OF OBSERVATION 0. Possibly Balloon
+Local 0 Ground- Vi sual O Ground-Rador : Bebe Ly rcrati
+GMT 03/ 1419Z 8 Air Vi suol D Air-Intercept Radar | 2 Possibly Aircroft
+5. PHOTOS 6. SOURCE O Was Astronomical
+O Yes QO Probably Astronomical
+D No military O Possibly Astronomical
+7. LENGTH OF OBSERVATION 8. NUMBER OF OBJECTS | 9. COURSE a OtheGatellite (EcsoZ)
+O Insufficient Dota for Evaluction
+QO Unknown
+noté reported one East
+
+10. BRIEF SUMMARY OF SIGHTING .
+
+Object described as: possbie Satellite with
+brightness of lst mag star. Flight to East at
+speed of 10 deg of arc per minute. Very high.
+
+11. COMMENTS
+ECHO schedule not available. Description
+conforms with Satellite obsérvation.
+
+Ed¢xho L C evFiRMeED
+
+ATIC FORM 329 (REV 26 SEP 52)

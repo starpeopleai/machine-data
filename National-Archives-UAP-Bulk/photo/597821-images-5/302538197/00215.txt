@@ -1,0 +1,72 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T10:20:18Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1784085, "source_ctime_ns": 1793389219391917917, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302538197/00215.jp2", "source_mtime_ns": 1785808455000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302538197/00215.jp2", "source_sha256": "29d728d4adf2cbd335a43c86400ba5edc02fb4dd32db7c1e2b78d9a6fd072ee4"}
+
+===== PAGE 1 =====
+{"alpha_words": 113, "chars": 895, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+TO:
+
+DCOI
+
+UFO Report
+
+ore rn poreerrra
+
+HEADQUARTERS
+92D STRATEGIC AEROSPACE WING (SAC)
+UNITEO STATES AIR FORCE
+
+FAIRCHILD AIR FORCE BASE, WASHINGTON 99011
+
+9 April 1965
+
+AFSC(FTD) “right-Patterson AFB, Ohio
+
+1. In accordance with Paragraphs 1) through 16, Section C, AFR 200-2,
+the following information is submitted.
+
+2. General required data: (paragraph 1h.)
+
+a. Description of the object:
+
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+
+Ball of fire trailing a solid light tail.
+2/3 the size of the sun.
+
+Brilliant Green-‘hite and then Orange.
+One
+
+N/A
+
+ee
+
+Tail of light.
+
+None.
+
+Looked like a meteor.
+
+b. Description of course of object:
+
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+
+Area filled with bright light.
+
+Approximately 30 degrees above horizon facing West.
+
+Zero and O00 degrees (North).
+
+Appeared in WN and disappeared in the North.
+
+Instaneously to the North with a bright flash of light.
+
+Approximately 15 seconds.

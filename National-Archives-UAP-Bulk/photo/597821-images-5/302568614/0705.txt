@@ -1,0 +1,40 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T10:14:24Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1362558, "source_ctime_ns": 1793392535075314775, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302568614/0705.jp2", "source_mtime_ns": 1785808086000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302568614/0705.jp2", "source_sha256": "3fc878bb5b1ae60ef4e0b1a925ec8a2b4be27f1875f38ff15f7823567a90968b"}
+
+===== PAGE 1 =====
+{"alpha_words": 112, "chars": 694, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Page 6
+
+eee RD Or 8 rite
+
+30. Have you evar seen this, or a similar object before. If 20 give date or dates and location.
+
+AQ,
+31, Was anyone else with you at the time you saw the object? (Circle One) Yes No
+31.1 IF you answered YES, did they see the object too? (Circle One) Cas No
+
+31.2 Please List their names and addresses:
+
+Berceroote OYRO
+
+Y
+
+32. Please give the following information about yourself:
+
+i . ame
+ADDRESS ae KEN if
+5 ree ? City
+TELEPHONE — os ace 1%
+
+indicate any additional information about yourself, including any special experience, which might be pertinent.
+
+First Name
+
+33. When and to whom did you report that you had seen the object?
+
+He 7 En
+
+a
+
+Day Month Year
+
+ad

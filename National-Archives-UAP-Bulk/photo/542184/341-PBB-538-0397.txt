@@ -1,0 +1,48 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T09:58:27Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 20328242, "source_ctime_ns": 1793366573501819839, "source_file": "National-Archives-UAP-Bulk/photo/542184/341-PBB-538-0397.jpg", "source_mtime_ns": 1785565554000000000, "source_rel": "National-Archives-UAP-Bulk/photo/542184/341-PBB-538-0397.jpg", "source_sha256": "3026e264bc4607e6ae3cdb9c6f451b324b38bda6ca4163a0e3ba331c1b2d6f6d"}
+
+===== PAGE 1 =====
+{"alpha_words": 13, "chars": 132, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+*
+
+i cee ln seman hai
+
+a
+#
+
+‘
+5
+
+ih im a lt St te
+
+i
+|
+|
+} {
+San ts |
+és
+| +,
+\
+{
+i
+<
+‘as
+i
+‘
+‘
+it
+q
+:
+%
+$
+b3
+e
+2
+$
+f
+i
+¥
+?
+
+}
+|
+}

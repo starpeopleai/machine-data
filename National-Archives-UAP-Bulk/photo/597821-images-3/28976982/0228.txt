@@ -1,0 +1,52 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T10:24:41Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4046281, "source_ctime_ns": 1793380585196985305, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28976982/0228.jpg", "source_mtime_ns": 1785700686000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28976982/0228.jpg", "source_sha256": "2efd129d5bd1baa545e938ed40c84131c112d6e0123cefe8e93b4e51fa4aa2f4"}
+
+===== PAGE 1 =====
+{"alpha_words": 150, "chars": 1054, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Ste Pas gi,
+
+Yrom: Commanding Officer, U.S. Naval Air Station Glynce, Brunswick,
+
+Georgia
+
+To: Director of Intelligence, cae cae U. S&. Air Force,
+
+_ Washington 25 9 DexGe
+
+Subj sy ‘Unidentified flying objects report of
+
+. Refs. (a) Commander Eastern Sea Frontier Instruction 3820.2
+
+aes (Q) Copy ‘of letter from Hr. ——— ee
+et ee . Brunswick, Gales pene Pe unidentified ying one
+
+ne ‘rickosare (1) is Poe iel for possible Shvehitpalcan or
+evaluation as an unidentified flying omuect report, as provided in
+’ reference (ajo
+
+: pet “Phe town of Hortense; cgoreia, deneiened in gS rea (1) is 3
+
+located on a bearing of 290°T fran NAS Glynco at a distance of about
+
+26 miles. Exact weather data at the scene of sighting is unknown,
+
+but, weather at NAS Glynco at OFCOR on 3 February was as follows:
+
+“SNE si bility = 12 mic
+
+Clouds - Scattered, 3500!
+
+ALBER? B, FURER
+
+Cony to: Po.
+AIRTECHINTELCEN, Wright-Patterson AFB (Attn: ATIAA-2¢)2
+Cdr. ADC, Ent AFB, Colorado Springs, Colo. ;
+
+Cdr, EADP, Stewart AFB, Newburch, N.Y.
+
+DNI
+
+COMRASTSEAFRON
+
+THe
+
+ROE yt

@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T09:53:20Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 15589368, "source_ctime_ns": 1793360033617374592, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-012-017-0002.tif", "source_mtime_ns": 1785681607000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-012-017-0002.tif", "source_sha256": "dd0d5721de159ead7e18cff656e26da20ea00a1bf29a6757a347f42451437181"}
+
+===== PAGE 1 =====
+{"alpha_words": 50, "chars": 424, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Declassification Authority NND 923007
+
+RPT PAGE THREE.
+‘PAGE. HREE. RJEPNB 4M
+
+B.«. VERNON L. LOVEJOY S/SGT DETACHMENT 10 4672 OS
+
+7s WEATHER:
+_ Ae CLEAR
+-. .Bs SURFACE. 278: DEG. 11 KT
+6998 320 DEG 39 KT
+12090 3080 DEG 25 KT
+
+aaa 2 Sf
+Pe Satie $3e 58 KT
+SN 20980- DEG 62 KT
+\. . SOB da 85 a
+
+0 ' 80998
+©. UNLIMITED
+D. EXCELLENT
+
+ZF.
+
+E. NONE
+_ F.- NONE
+8. NONE «
+9 NONE
+13, NONE
+Al. NONE:
+I2« NONE
+
+BT.
+
+A sal DEC -RJEPNB

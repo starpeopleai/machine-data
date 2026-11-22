@@ -1,4 +1,4 @@
-{"created_utc": "2026-10-11T19:10:02Z", "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "embedded-text", "pages": 0, "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1387074, "source_ctime_ns": 1788505041489003602, "source_file": "Chile-SEFAA/documents/Informe-de-Publicacion-de-caso-N--1338-21112020.pdf", "source_mtime_ns": 1788505041446220626, "source_rel": "Chile-SEFAA/documents/Informe-de-Publicacion-de-caso-N--1338-21112020.pdf", "source_sha256": "a9ef37e58ca7b76f72593d9b2e1d3bee9cfc6ea92eabb15268106b1c688338fe"}
+{"created_utc": "2026-11-22T10:08:45Z", "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "embedded-text", "pages": 0, "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1387074, "source_ctime_ns": 1793354236929032309, "source_file": "Chile-SEFAA/documents/Informe-de-Publicacion-de-caso-N--1338-21112020.pdf", "source_mtime_ns": 1788505041000000000, "source_rel": "Chile-SEFAA/documents/Informe-de-Publicacion-de-caso-N--1338-21112020.pdf", "source_sha256": "a9ef37e58ca7b76f72593d9b2e1d3bee9cfc6ea92eabb15268106b1c688338fe"}
 
 Caso N° 1338 21112020
 

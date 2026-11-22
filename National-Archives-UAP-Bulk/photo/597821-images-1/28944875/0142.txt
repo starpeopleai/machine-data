@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T09:33:54Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5192723, "source_ctime_ns": 1793372945722604979, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28944875/0142.jpg", "source_mtime_ns": 1785688805000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28944875/0142.jpg", "source_sha256": "cd1955cdc1adb759d42db84bace0b5945be7f743cbc064f28ada45a8eea8ed3b"}
+
+===== PAGE 1 =====
+{"alpha_words": 68, "chars": 711, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Cl ASSIFIED
+Director of Intelligence: UN
+Hgs, Tenth Air Force AFXOL FLYOBRPT -52 2 2
+
+5. Weather and winds at time of sightings
+a. Weathors
+en Visibility - six (6) to twelve (12) miles
+
+2) Clouds = scattered cirus at 18,000 feet 3
+(3) Moon = dark
+
+be VWindss
+(2 Surface = 280°/03 knots |
+2) 5,000 = 270°/13 knots
+(3) 10,000" = 290°/13 Imots
+( 15,000" = 290°/20 knots
+(5) 20,000' = 270°/27 knots
+
+(6) 25,000 = 2909/6 knots
+{2 30,000' = 300°/39 knots
+35,000* = 310°/60 imots
+3 10,000" = 300°/61 knots
+45,000* = 3009/47 knots
+11) 50,000! = 300°/,0 knots
+
+6. The preparing officer can offer no explanation for this reported
+phenomenon.
+
+aM.
+GEORGE H. JANCZEWSKI
+
+and Lt USAF
+Director of Intelligence
+
+UNCLASSIFIED

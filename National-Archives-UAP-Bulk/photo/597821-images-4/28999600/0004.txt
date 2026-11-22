@@ -1,0 +1,45 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T10:27:22Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4826592, "source_ctime_ns": 1793387993404322757, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28999600/0004.jpg", "source_mtime_ns": 1785748553000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28999600/0004.jpg", "source_sha256": "b4f9c573ab22f3df3447f5cc837e004474c8358e2100511794ce81370a71df09"}
+
+===== PAGE 1 =====
+{"alpha_words": 109, "chars": 921, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+pis +2
+} or \
+
+PROJECT 10073 RECORD CARD
+
+# 1. DATE 2. LOCATION 12, CONCLUSIONS
+
+i \3 0 Was Balloon
+
+q 23 Octoher 1962 60, 14N 30 36w (Atlantic) |0 Frebobly Balloon
+
+4 3. DATE-TIME GROUP 4. TYPE OF OBSERVATION 4 y
+
+Locol [¢Ground- Vi sual O Ground-Rador S Probably Alfér as
+
+a GMT 23/2025Z OQ Air Vi sual O Air-Intercept Radar O Possibly Aircroft
+
+‘ 5. PHOTOS 6. SOURCE 6 Wek Ravnomicsl
+
+; 0 Yes DO Probobly Astronomical
+
+4 Ne iii tary 0D Possibly Astronomicol
+
+: 7. LENGTH OF .OBSERVATION 8. NUMBER OF OBJECTS | 9. COURSE +4 Other Satellite
+
+. O Insufficient Dota for Evaluation
+O Unknown
+10 minutes one SE
+10. BRIEF SUMMARY OF SIGHTING 11. COMMENTS
+
+Bright light with magnitude equal to
+lst magnitude star observed moving
+SE. Speed unknown, Tracked through
+65 dgr arc in 10 minutes,
+
+Object has characteristics of
+orbital element. Case evaluated
+as a Satellite, ECHO data not
+available.
+
+ATIC FORM 329 (REV 26 SEP 52)

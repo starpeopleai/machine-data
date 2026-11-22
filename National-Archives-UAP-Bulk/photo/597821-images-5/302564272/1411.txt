@@ -1,0 +1,53 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T10:09:19Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 764871, "source_ctime_ns": 1793392115951970301, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302564272/1411.jp2", "source_mtime_ns": 1785808082000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302564272/1411.jp2", "source_sha256": "a4f0fc5c2db8f5d17d0345b0afe1d285f52327fac70f61c3619b5a865b0ab313"}
+
+===== PAGE 1 =====
+{"alpha_words": 112, "chars": 769, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+naan |
+
+é ' DEPARTMENT OF YE AIR FORCE
+STAFF PAESSAGE BRANCH
+INCOMING PASSAGE
+
+AF IN : 22797 (27 Apr 67) Q/al pg 1 of 3
+
+ACTION: RDC-4 INFO: XOP-1, XOPX-2, SAFOS-3, NIN-7, DIA-1 (19)
+ADV CY : DIA 7
+
+SHB EQUSRTTU JAY RUNMFVA6388. 1173843 WJUU--RUED HOA,
+ZNR WUUUE
+
+R 2718432
+
+M4600 ABNS ENT AFB CLO
+
+“ry
+
+TO RUEDHQA/ D8aF WASHDC
+ROEDHQA/C SAF |
+RUEOF IF/FTD WPAFB OHIO
+RUVTEMA/ TOAF RICHARDS GEBALR AFB MO
+
+Co id ae
+
+ZEN/C INCNOR AD
+
+ZEN/ UNIVERSITY OF C@O BOLDER CMO ATTN OR DONDON
+BY ,
+
+UNCLAS WGO OT~3 00878 APR 67.
+
+co
+
+FOR: OSAF CSAF=O1)3 CSAF CAFROC);- FTD CIDETR)I; NRAD
+
+(CH OOP-Ads ABC CAD CCP) AND CADCIO-P>3 UNIVERSITY OF
+
+CA2CRABS COR CONDON). WFO, WIDENTIFIED FLYING OB ECT
+P
+
+ARA 11, AFR 80-17.
+
+(2) STAR SIZE
+(5) WHITE
+
+AFHO ines 0-309C | UNCLASSIFIED |

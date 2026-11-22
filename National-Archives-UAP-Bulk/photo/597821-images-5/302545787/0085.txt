@@ -1,0 +1,37 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T10:12:28Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1051738, "source_ctime_ns": 1793390038145629353, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302545787/0085.jp2", "source_mtime_ns": 1785808162000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302545787/0085.jp2", "source_sha256": "d9b90ab3568d0e9dfd9576a7ac671f8f5215d48b30cf880f445cb4334c1d9bd0"}
+
+===== PAGE 1 =====
+{"alpha_words": 80, "chars": 526, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ESET ta =
+
+January 13, 1966
+Mrs Hunt/sh/SaFOIcc/723h2/13 Jan 46
+| oe wekereing Wietiie wat oe Gk on. ‘the nicht of
+Qetober 31, 1965, in Zfiand,: Moth carolina. The fiim wes
+' vlewed by photo analysis personnels “Phe lt ght depicted fa.
+consistent with photogrs pas of 2 brizht atar or planet. The.
+star Capella ws in. the pocstica descrined ia your ictter at ~ Fo
+ao eee Sas ee |
+ie ai : [samantt
+2 Ateh 7
+
+COORD INATED B7 (Office Symtol. Name,
+
+| SAP-O ew SAP-OF OY
+
+'
+}
+
+Za
+
+Ae '
+
+Sage. = i
+
+; i
+: '
+.
+: !
+: +
+. x ah
+the f

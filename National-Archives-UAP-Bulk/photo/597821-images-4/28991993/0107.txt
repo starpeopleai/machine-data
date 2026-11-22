@@ -1,0 +1,22 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T10:23:54Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3919271, "source_ctime_ns": 1793385146890386152, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28991993/0107.jpg", "source_mtime_ns": 1785748104000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28991993/0107.jpg", "source_sha256": "d9e68eea38ec76f99e44fb61cc3d711b8768d573b634da98c61a41d69274c242"}
+
+===== PAGE 1 =====
+{"alpha_words": 36, "chars": 269, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+VEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE DIVISION
+INCLASSHED MESSAGE
+
+AFIN: 7540(1 Apr 61) INC Q M 1 G Page 3 of 3
+
+PAGE THREE RJWZSBA 9
+
+BY ETHAN 29 AND ETHAN 46 PREVIOUSLY REPORTED IN MY MSG
+220IN 2646 AND 520IN 9647.
+
+Le NEGATIVE.
+
+BT
+
+01/1745Z APR RJWZSBaA
+
+NNNN

@@ -1,0 +1,65 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T10:25:19Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4161245, "source_ctime_ns": 1793379200240266802, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28971500/1222.jpg", "source_mtime_ns": 1785701056000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28971500/1222.jpg", "source_sha256": "1a2228e6293987dc98d666e76743112d57f8ec8a5b5dcf928d4f8400443422af"}
+
+===== PAGE 1 =====
+{"alpha_words": 316, "chars": 2293, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+gee
+
+SUrFLCINCINI tu ar runim tice
+
+ORIGINATING AGENCY REPORT NO,
+
+5th AF ATILO IR-23~57 PAGE 2 oF 3 PAGES
+
+1. In accordance with AFR 200~2 the following information is submitted:
+(1) a. Elliptical shape.
+b.. Size indefinite due to short duration of observation.
+c. Dark Color or black.
+d. Number observed was ones
+e.-i, Negative. ees
+(2) a.-f. Object appeared in camera viewfinder while Airrangiye
+was photographing flag poles at Chitose Air Base, Japan. Object appeared as a
+shadow moving from left to right. Duration of observation estimated to be two-
+
+three seconds during which photograph was taken. When camera was moved to per-=
+mit viewing directly by eye the object had disappeared.
+
+(3) Observation ground visual through camera viewfinder.
+(4) a. ‘Time 0430Z or 0530Z on 1 September 1957.
+
+b. Direct sunlight during day.
+(5) Chitose Air Base, Japan.
+
+(6) a/2c Ly EN, eaaeney AACS Yamato
+Air Station, Japan. Education; school graduate,
+
+(7) 0300Z 2500 scattered, 4500 broken, 9000 broken, visibility 25
+miles, wind caln,
+
+0400Z 4000 broken, 11000 broken, visibility 25 miles, wind
+north 5 knots.
+
+0500Z 4000 broken, visibility 25 miles, wind west 10 knots,
+06002 4000 broken, visibility 25 miles, wind west 5 knots.
+
+At 24,00Z on 31 September 1957 a slizht temperature inversion
+existed at the surface to possibly 200 ft. altitude. This is normal for the
+tine and location.
+
+(8) Negative. —
+(9) Not applicable.
+
+(10) Local area aircraft flights were present in the reported time
+period of 0300Z to 06002,
+
+CMIENTS OF THE PREPARING OFFICER:
+
+2, Airman Q§#BMerecorted the chotograrh and observation was made by the
+flagpols at Base Headquarters, Chitose Air Base, Japan, The sun was to the
+side and rear of Airman at the time, Airmang§§@Pwas facing a southeast
+direction at the time. The flagpoles were estimated to be approximately 50
+feet from the camera. Object distance was estimated at one-half to one mile
+at 1000 feet altitude.
+
+WARNING: This document contains information affecting the national defense of the United States within the meaning of the
+Espionage Laws, Title 18, U.S. C., Sections 793 and 794. Its issi or the lati of its contentsinany manner toan
+aock 2 ait aot hihited be tow Tt maw mnt he eanendiicad in whole or in part, by other than United States Air Force

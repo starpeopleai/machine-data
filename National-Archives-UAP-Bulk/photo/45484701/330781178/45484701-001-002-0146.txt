@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T09:42:20Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6748988, "source_ctime_ns": 1793361728354291547, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330781178/45484701-001-002-0146.jpg", "source_mtime_ns": 1785684763000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330781178/45484701-001-002-0146.jpg", "source_sha256": "13bdf9d99648a9ef6295352bd5565458fa6319fd2c3f283ccdc742fd59f46054"}
+
+===== PAGE 1 =====
+{"alpha_words": 27, "chars": 203, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+w/S
+Green
+
+White— BES Co 2e9
+Greenish
+Note 7
+Greenish=
+White
+
+Tote .6
+
+Green oN Los lame ABSS Inspector
+
+Les Alemo AHSS Inspector
+
+Alames
+
+Los Alamcs
+
+Sandia Base
+
+Declassification Authority: NND 923007

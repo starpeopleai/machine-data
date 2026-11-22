@@ -1,0 +1,46 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T09:44:57Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7059035, "source_ctime_ns": 1793376868511511440, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28962154/0370.jpg", "source_mtime_ns": 1785696743000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28962154/0370.jpg", "source_sha256": "2f8ccac386264e690031eeb5c313e9518390b78626e8c36dde3f216eef5cf02d"}
+
+===== PAGE 1 =====
+{"alpha_words": 150, "chars": 1289, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+int?” LO
+| Y rk —— an
+De i | ‘ ni a ‘VTS 7 n a, 4
+
+Q WPFL14 YDD1249 XYAL172 XDCOSSKLASSERLIMT 5
+
+rT ee
+MM JEDEN JEDWP JEPHO JWPKL
+
+we
+
+/
+~
+| DE JUPKL 490" a IN
+
+PM COMAIRDIVDEF 28 HAMILTON AFB CALIF ~~ A
+TO JEDEN/COMDR ADC ENT AFB COLO SPGS COLO. /
+JEDUP/COMDR AITC WRIGHT-PATTERSON AFB OHIO --~ ~~
+
+| JEPHQ/DIR OF INTEL HQ USAF WASH D.C.
+
+| JWPKL/COMDR 4692ND AIR INTELLIGENCE SERVICE SQ HAMILTON AFB, CALIF
+
+/UNCLASSIFIED/2S501D 55M-fle2. UFO. Ci) CAD ROUND. €12)¢€B)
+
+GRAPEFRUIT. (€1)¢€C) YELLOW. (€1)¢D) ONE. C1)¢0F) NONE. (1906) NZA,
+
+(To. NONE. ¢1)¢1) MOVING VERY FAST. €2)¢A) COME INTO VIEW WHILE
+OBSERVER WAS SITTING ON BACK PORCH OF HOWE. (€2)¢5) SOUTHWEST OF HOUSE
+(2)(C) N/A. €2)0D) HEADING STRAIGHT DOWNWARD. €2)(E) WENT BEHIND THEM
+HILL. (2) (F) TEN SECONDS. €3)¢A) GROUND-VISUAL. (€3)¢B) NONE. €3)¢0)
+N/A. €4)CA) 2893532 MAY 55. €4C0B) DUSK. €5) KENTFIELD, CALIFORNIA.
+GEOREF NH 2558. 122 DEGREES AND 35 MIN WEST, AND 37 DEGREES AND 53 MIN
+NORTH. (6) CA) ns oi arena 2:0: 12.0, CALIFORNIA,
+HOUSEWIFE. €7)C€A) CAVU. (7)(B) 6,900 FT - 120 DEGREES/@3 KTS. 19,999 FT
+149 DEGREES/&@5 KTS. 29,909 FT - 238 DEGREES/24 KTS. 39,926 FT -9S79
+DEGREES/S9 KTS. ©8) NONE. €9) NONE. €12) NONE. (11) DIRECTOR OF INTELL
+IGENCE PROBABLY A SHOOTING STAR. (¢412) NONE.
+
+BY
+
+2E/2259Z2 MAY JWPKL

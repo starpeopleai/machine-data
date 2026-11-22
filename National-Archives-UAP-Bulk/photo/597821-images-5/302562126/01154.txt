@@ -1,0 +1,46 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T10:19:54Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1774778, "source_ctime_ns": 1793391846585694282, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302562126/01154.jp2", "source_mtime_ns": 1785808379000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302562126/01154.jp2", "source_sha256": "6319424fa0de8d47f2b3018ad88da24525867b8e5c9365717bb1ada9e376216b"}
+
+===== PAGE 1 =====
+{"alpha_words": 143, "chars": 996, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+UNCLASSIFIED ae /
+
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+INCOMING MESSAGE
+
+AF IN: 60904 (9 Mar 67) F/eom : Pg 1 of 2
+
+ACTION RDXC-4, INFO: XOP-1,X0P%-2, SAFOS-3, NIN-7, JCS/DIA-1 ADV CY JCS/DIA
+SMB 8948 : (19)
+
+PITU JAW PR UNTEMA2348 96722 11-UUUUS-R LED HOAs
+
+ZR WUUU
+
+P 96220@ Max 67
+
+FM 32TRWS RICHARDS GEBALR AF3 x0
+
+TO RUWMFVA/ADC
+
+RUEDFIF/FOREIGN TECH DIV WRIGHT PATTERSON AFB OHIO
+RUEDHOA/CSAF
+
+See Fy:
+
+RUCISKA/3A RD IV SIOUX CITY MUNI APRT IOWA
+
+[NFO ZEN/19AF RICHARDS GEBALR AFB MO |
+ZEN/UNIVERSITY OF COLORADO BOLDER COLO a
+BT |
+UNOLAS S25°WODC 33991MAR 67,
+FOR ADOIN, TOETR, AFROC, SAF-O!, 390IN. INFO® 100IN & DR CONDON AT a
+UNIVERSITY OF COLORADO. SUBJ: UFD REPORTING. ALL PARA NUMBERS |
+REFER TO AFR G3-*7, PARA 747A. (1) SAUCER. (2) BASEBALL CAP. sl
+(3) WHITE IN THE #ODLE, RED ON THE BOTTOM AND GREEN ON TOP. (4)
+
+TWO. (5) NOME. (D AO. (PD NO. (8) NO SOUND. (9) APPEARED,
+
+DISAPPEARED AN) REAPPEARED. 1B. (1D BRIGHT LIGHT. (2) 58 TO
+
+AFHQ js: 0-309C UNCLASSIFIED | |

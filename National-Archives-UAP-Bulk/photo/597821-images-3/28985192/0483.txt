@@ -1,0 +1,52 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T10:28:00Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4860032, "source_ctime_ns": 1793382719488868198, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28985192/0483.jpg", "source_mtime_ns": 1785700712000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28985192/0483.jpg", "source_sha256": "514818d0d79e78e205447e13bcaacf6085bf082d6d3621555aa5244c8d4dcf91"}
+
+===== PAGE 1 =====
+{"alpha_words": 123, "chars": 900, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+> ORPARTNSNT Of THE AIR FORCE eR Se REID
+STA MBISAGE SIVIZION i) :
+
+AOTION: CIN “t =
+
+TNFO.: OOP, SAFS , y
+
+SMD B93 23:
+
+CZCHSC721ZCVJC793
+
+PP RJEZHO
+
+DE RUJESBA 126D
+
+> 291649Z: ZEX
+
+FM BROOKLEY AFB ALA :
+TO RUWFAL/ADC - 3
+23=SKB/32ND AIR DIV |
+
+2JEDS9/AIR TECHNICAL INTELLIGENCE CEN WPAFB
+RJEZHO/ Ha USAF
+
+2JEZHO/ SECRETARY OF RHE A F
+
+NCLAS FROM MOSS-12-13-E FOR USAFUAFCIN FOR SAFIS
+
+ST 1717 HRS 26 OCT 59 UNIDENTIFIEE FLYING OBJECT WAS REPORTED
+SIGHTED. FOLLOWING INFORMATION IS SUBMITTED IN ACCORDANCE WITH
+72 220-2. A. DESCRIPTION OF OBJECT /1/ LARGE ROUND OBJECT WITH
+TAIL LIKE COMET ON END. /2/ ABOUT THE SIZE OF A HALF DOLLAR.
+
+S/ SILVER WITH A WHITISH GLOW. /4/ ONE. /5/ NOT APPLICABLE.
+
+6/ GLOWING WHITE CINCULAR OBJECT WITH A TRAILING TAIL BUT NO VIVID
+
+GO
+4
+1)
+to
+m4
+
+ABOUT 3 MILES AWAY. /7/ GLOWING WHITE
+
+ITLINE. APPEARE
+
+“RAILING TAIL ABOUT 19-TIMES LENGTH OF OBJECT.. /8/ NONE /9/

@@ -1,0 +1,20 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T09:33:45Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5181033, "source_ctime_ns": 1793375071642877854, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28954574/0618.jpg", "source_mtime_ns": 1785696903000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28954574/0618.jpg", "source_sha256": "d96c448bdabfd579d1b0d11651454f4f997bf21fac8376698a7df526b3c9e558"}
+
+===== PAGE 1 =====
+{"alpha_words": 39, "chars": 282, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ae _ WNCLCASSIFIED
+NML XW 1AR Date:__15 vey , Q:
+PSP CR FGA | 4.6.7.26:05 om ae
+0 PO ca : 2
+pla b min. | Location: shadan, Tehran ate vi
+
+REMARKS :
+
+Daytime fireball complete with trail
+
+(ONCCASSIFIED,
+
+DOWNGRADED AT 8 eng
+YEAR INTE
+DECLASSIFIED AFTER 12 yp ARalss
+DOD DIR 5200.10

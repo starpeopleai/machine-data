@@ -1,0 +1,10 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T09:37:32Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5713690, "source_ctime_ns": 1793369526196624920, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28931965/0790.jpg", "source_mtime_ns": 1785688675000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28931965/0790.jpg", "source_sha256": "b9b550129cd0eb6685a2bf4e896ff680f42056d4183538963ffd0c7fd4e48a7e"}
+
+===== PAGE 1 =====
+{"alpha_words": 11, "chars": 55, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+OQ
+
+PS ee ae
+Ud VOVErBEe
+
+Dw point temp Wind Directior

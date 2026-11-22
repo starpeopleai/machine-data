@@ -1,0 +1,45 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T09:53:30Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 16091510, "source_ctime_ns": 1793361427539607655, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-005-0121.tif", "source_mtime_ns": 1785565335000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-005-0121.tif", "source_sha256": "46866ad606a5e4e7d414e292900609f1abcc67b3682bc3b4a3af2c6bf2f9f6e1"}
+
+===== PAGE 1 =====
+{"alpha_words": 183, "chars": 1110, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+COPY
+
+1008 W. Chloe Street
+
+Perryville, Missouri
+
+March 5, 1960
+Commander
+798th AC&W Sqdn
+Belleville, Illinois
+Dear Sir:
+
+This morning at 6:30 we watched two shiny streaks of light in
+the eastern sky over the sunrise, They were not clouds nor planes, They
+were slanted at a 40° angle with the lower tip towards the north, They
+remained in this slanting position and seemed to be traveling towards
+the northeast. They moved very ot ty. sometimes stopping, always
+keeping the same distance between them, one higher and in back of the
+other one, The highest one seemed to be larger, but this may have been
+due to the distance between them. At first they appeared to be bits of
+vapor trail with the sun shining on them, but they did not get longer and
+they were moving differently than anything I've ever seen. It was their
+strange movement that kept us facinated.
+Could you please inform us what they were? Also were there others
+
+who saw them and did they appear on the scopes?
+
+Sincerely,
+
+/s/ Mrs, Ralph Thompson
+
+MRS, RALPH THOMPSON
+
+CoP Y i)
+
+jb
+
+flil ‘vi {YO 7/0 Atch *!
+
+DECLASSIFIED
+Authority NND 9237007

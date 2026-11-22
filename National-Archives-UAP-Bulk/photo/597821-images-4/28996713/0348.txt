@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T10:21:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3319279, "source_ctime_ns": 1793386596806543472, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28996713/0348.jpg", "source_mtime_ns": 1785748122000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28996713/0348.jpg", "source_sha256": "ae9daadb6d78dc1332d4cf0003c8c733b618bf5536d170408092bbc18315c623"}
+
+===== PAGE 1 =====
+{"alpha_words": 149, "chars": 1068, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+, : DEPARTMENT OF THE AIR FORCE
+sesh ME pe BR ANCH
+
+CLASSIFIED SAG
+
+AF IN : 58470 (20 Apr 62)% 1 G/M | G Pg 1 of 2 Pgs
+ACTION: CIN-17
+
+INFO : OOP-2, OOP-CP-1, SAFS-3, DIA-7 (31)
+
+NNNNVSMB AQ72
+
+CHQB 44 4Z CY JB637
+RR RJEZH9
+DE RJWFKF 139A
+ZNR
+R 192 159Z
+FM 328 FIGHTER WING AD ADC RICHARDS GEBAYR AFB M9
+TO RJWFAL/ADC ENT AFB COLORADO
+ZEN/29 AIR DIVISION, RICHARDS GEBAUR AFB MO
+RJEDSQ/AIR TECHNICAL INTELLIGENCE CENTER WRIGHT PATTERSON AFB OHIO
+RJEZHQ/COFS
+RJEZHQ/ SECRETARY OF THE AIR FORCE WASHINGTON D C
+BT
+UNCLAS S28FWCVC-0 43802,
+
+-FOR ADOIN, 29NINT, ATIC, AFCIN AND SAFIS. FOR INTELLIGENCE
+OFFICERS. UFO REPORT. UFO REPORT SUBMITTED IAW AFR 202-2,
+PARAGRAPH 158. (1) NOT REPORTED. (2) SIZE NOT J'DGED, BT
+SUBJSTANTIALLY LESS THAN AN AIRCRAFT. (5) D'ILL RED GLOW (4)
+ONE (5) NOT APPLICABLE (6) SEE (15A 7) €7) TAIL CONSISTED
+OF A SERIES OF BRIGHT WHITE DOTS AND LENGTH OF TAILHCQ'JALLED
+THE FULL 1@ DEGREES OF A 20-18 DEGREE ARC (8) NOT REPORTED
+€9) APPEARED TO BE A FALLING OBJECT.SPARAGRAPH 15B. (1)
+MOVENENT OF OBJECT. (2) SLIGHT ARC FROM WEST SOUTH WEST TO

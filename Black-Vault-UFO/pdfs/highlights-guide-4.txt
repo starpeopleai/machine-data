@@ -1,4 +1,4 @@
-{"created_utc": "2026-09-14T01:20:16Z", "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "embedded-text", "pages": 0, "schema": "ufo-files-archive-ocr/v1", "source_bytes": 327624, "source_ctime_ns": 1788303066926572133, "source_file": "Black-Vault-UFO/pdfs/highlights-guide-4.pdf", "source_mtime_ns": 1785546949460000000, "source_rel": "Black-Vault-UFO/pdfs/highlights-guide-4.pdf", "source_sha256": "ae86173e7e4242aeb4d1b83be8237056c30b8260963eed3e40541b1d42b9b5a4"}
+{"created_utc": "2026-11-22T10:08:19Z", "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "embedded-text", "pages": 0, "schema": "ufo-files-archive-ocr/v1", "source_bytes": 327624, "source_ctime_ns": 1793560406332444145, "source_file": "Black-Vault-UFO/pdfs/highlights-guide-4.pdf", "source_mtime_ns": 1793560406317473593, "source_rel": "Black-Vault-UFO/pdfs/highlights-guide-4.pdf", "source_sha256": "ae86173e7e4242aeb4d1b83be8237056c30b8260963eed3e40541b1d42b9b5a4"}
 
 Highlights Guide
 

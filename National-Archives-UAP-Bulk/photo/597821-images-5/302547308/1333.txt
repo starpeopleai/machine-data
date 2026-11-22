@@ -1,0 +1,21 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T10:12:46Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1057874, "source_ctime_ns": 1793390178824437050, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302547308/1333.jp2", "source_mtime_ns": 1785808412000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302547308/1333.jp2", "source_sha256": "6a050470e591ddbbba56a62c54f019894147f39536c5287684b1f1a3e529ff94"}
+
+===== PAGE 1 =====
+{"alpha_words": 24, "chars": 182, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+FOREIGN TECHNOLOGY DIVISION, AFSC UNCLASSIFIED
+
+ee re 2
+
+Sa aah ae a te “oe:
+
+tet ee
+
+UNCLASSIFIED
+
+FOREIGN TECHNOLOGY DIVISION, AFSC UNCLASSIFIED
+
+ene oniyreneay
+
+NN
+
+UNCLASSIFIED
