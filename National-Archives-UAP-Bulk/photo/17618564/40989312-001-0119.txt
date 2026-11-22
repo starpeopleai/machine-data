@@ -1,0 +1,49 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T01:46:54Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1634487, "source_ctime_ns": 1793356285197741207, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989312-001-0119.jpg", "source_mtime_ns": 1785564660000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989312-001-0119.jpg", "source_sha256": "d17b8be39d6bd4f463029785e03566b813ea38c35b3a3307ff21170da19deae4"}
+
+===== PAGE 1 =====
+{"alpha_words": 551, "chars": 3171, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+“If we use these various things, we are going to have to pay a great deal of attention to
+storage. Have you ever thought, that we make more than we can use for a time, and we
+need to store it so we can invest it in making more energy? Animals do this very well.
+The real difference between humans and animals is that humans don’t learn from
+experience. We must learn to store, and must learn to store energy like nature has done
+for us in fossil fuels. We are generally not short of things, except brains.
+
+“I always look at agriculture as being the first real engineering. When you begin to think
+that air and water are now becoming commodities, I wonder if we can’t extend ourselves
+and think about the atmo-culture and hydro-culture in the same way as agriculture.
+
+“Agriculture essentially grows things, we use them, we extract energy from them, and the
+same mass must return to the ground for other purposes. The proper use of air and water
+entails the dirtying of them—so the nonsense about zero effluents from industry is silly.
+Nevertheless, we have to recognize that we must dirty this water, dirty this air, and then
+reclean it for reuse, just as we grow, use, and regrow our food. I don’t suggest that air
+and water will be futures on the commodity exchange; but, I think we ought to think of
+them as commodities with real costing and pricing. Anything that is thought of tradition-
+ally as free, costs everybody more, and air and water are generally under priced.
+
+“We have problems now of waste heat. It is called low grade heat which we must put
+somewhere. Why are we afraid of reengineering the general circulation of the atmo-
+sphere or of the ocean? Why don’t we try it?
+
+“We have heard a lot about solar power, and of course the first engineering of solar
+power was again agriculture. Agriculture has been using solar power more and more
+efficiently for a very long time. It is still the best use of sunshine, and this means bio-
+mass energy farms, farming energy, growing energy on farms is not out of the question.
+We are certainly going to see it in the future. We will be lighting and heating and cooling
+and cooking with fastgrowing things like eucalyptus on poor land, giant kelp in the sea,
+water hyacinths, or waste such as manure and urban refuse, turning them into different
+kinds of fuel like alcohol, methane, and so forth—again keeping a balance between what
+can be best done by biological engineering, and what can be best done by physical
+engineering.
+
+“Instead of slaughtering whales, and then inventing machines to harvest krill, why don’t
+we start breeding whales and use them to do that job. Then take the renewable harvest
+when they are well established, as has been done by animal husbandry for years.
+
+“Energy as a fundamental currency is a good thing because we can’t juggle the exchange
+of energy. The ministers of finance get together and juggle the money around, and they
+arrange inflation and deflation. You can’t do that with the laws of nature.
+
+“We have talked about food, pollution, and cities. Now, let’s talk about individual
+shelter. I think that in the future, we will all come to lifetime costing of shelter, I mean

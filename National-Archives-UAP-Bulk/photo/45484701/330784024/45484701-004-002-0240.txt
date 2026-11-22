@@ -1,0 +1,51 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T02:18:26Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7698914, "source_ctime_ns": 1793362978952124108, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330784024/45484701-004-002-0240.jpg", "source_mtime_ns": 1785685053000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330784024/45484701-004-002-0240.jpg", "source_sha256": "ed0bae4b1e612e546cf99b68c8750d32a976d58ee58b0a6bc7bf4e416fb63705"}
+
+===== PAGE 1 =====
+{"alpha_words": 387, "chars": 2575, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+KRAKER, James Le, Lt, Aw3 L USNR #2635421 ee
+
+Le The investigation reported herein was predicated upon newse
+paper item (enclosure (1)) appearing in the Watertowm (N.Y,) Times of
+7 April 1950, wherein subject reportedly deseribed his observation of
+“flying dises" at Naval Air Station, Alameda, California, and quoted
+excerpts of his interview with an Air Corps Intelligence officer sub
+Sequent to his observations,
+
+Ze The New York State Police at Gouverneur, New York, (Cpl.
+Larkin) report thet LOIS C, VAN ARSDEL, loeal correspondent for the
+Watertown (N.Y.) Times, contimmlly exaggerates nows items and was
+transferred from Carthage, New York, her previous bailiwick, because
+
+of overly enthusiastic reporting, However, it has been determined that
+in addition to the information subject furnished to Miss VAN ARSDEL, he
+also described his observations of the "flying dise" to LYMAN MANGER,
+announcer for radio station WiMY, Watertown, New York, who shortly there-
+after referred to subject's experience in his radio broadcasts, Subject
+admitted that Miss VAN ARSDEL's item in the Watertown (N.Y.) Times quoted
+him with reasonable accuracy.
+
+36 terviewed on 26 April 1950, subject stated that he was an
+instructor at Pensacola, Florida, and later at Alameda, California, during
+World War ITz that he was on his third annual tour of training duty at
+Naval Air Station, Alameda, California, when his observation of the "flying
+dise" occurred, He was attached to the MARS squadron at the time and in~
+dicated that he was the only Reserve officor so attached. He attributed
+the special orders he received for that tour of duty to requests made by
+Admixal RADFORD and Admiral SHERMAN that he receive such duty orders.
+
+Le He reported for duty at Naval Air Station, Alameda, California,
+
+on or about 4 February 1950 and observed the "flying dise" while returning
+
+to the Bachelor Officers’ Quarters, Naval Air Station, Alameda, California,
+on the following Tuesday (7 February 1950), Subject's deseription of what
+
+he observed and of what occurred subsequent te his observation is almost
+identical with the item carried in the Wetertow (N.Y,) Times of 7 April 1950
+(enclosure (1)), with the exception of a few minor inaccuracies, The news~
+paper item's indication that the "flying dise" was seen by three other
+officers is not quite correct. Subject stated that a mte ct the Bachelor
+Officers! Quarters informed him there had been three other euch reports of
+the "flying dise," but that he understood such reports were made by civilians,
+
+Declassification Authority: NND 923007

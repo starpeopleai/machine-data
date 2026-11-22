@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T01:41:29Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 935786, "source_ctime_ns": 1793356369923497430, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989319-001-0113.jpg", "source_mtime_ns": 1785564688000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989319-001-0113.jpg", "source_sha256": "028fcbb02e10d00cd1a3abd2420e45dd8c98c5ac3b1af746d11c695440e8e2ae"}
+
+===== PAGE 1 =====
+{"alpha_words": 175, "chars": 1138, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+these arrivals were so widely spaced in time that no interference occur-
+red. Signals recorded by NEL personnel at shorter ranges during SAND-
+STONE tests were of the second type described above, indicating consider-
+able destructive interference. It is therefore possible that failure to
+record the SANDSTONE tests at greater ranges may have been due to a com-
+bination of propagation conditions which favored transmission along sul-
+tiple, closely adjacent paths.
+
+e. The possibility should not be completely ruled out that
+signals recorded during the CROSSROADS tests were background noise peaks
+and not sound arrivals. As only one microphone covering each frequency
+band was used at a given location, the corroborative evidence which
+would have been furnished by an additional microphone was lacking. How-
+ever, the travel velocities of the direct waves recorded at San Francis-
+co and at Fort Monmouth, although somewhat high, were in good agreement.
+This factor, together with the excellent match of wave forms, led to the
+decision that the signals were bona fide sowd arrivals.
+
+17
+
+This document is part of an unclassified series

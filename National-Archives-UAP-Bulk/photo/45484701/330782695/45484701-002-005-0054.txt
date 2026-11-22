@@ -1,0 +1,55 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T02:18:14Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7673026, "source_ctime_ns": 1793362341061298684, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330782695/45484701-002-005-0054.jpg", "source_mtime_ns": 1785684770000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330782695/45484701-002-005-0054.jpg", "source_sha256": "c62f9924bfcefe8107f134421bc57ee439cd391b1565525770a9fd472495ce55"}
+
+===== PAGE 1 =====
+{"alpha_words": 176, "chars": 1268, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+2
+Sound and odor:
+None
+
+Trail (color, length, width, persistence, ctc.)
+None
+
+Luminosity (visible by reflection, incandescence, other - degree
+
+of brilliance):
+Fairly dull until it burst.
+
+19, ‘rejections (fins, wings, rods, antennae, canopies, etc.):
+one,
+
+20. Maneuvers (turns, climbs dives, ctc. - sketch
+vel § ; fl it burst parts went up
+
+f. flight path):
+Level flight? When ia Gaak® Peth)
+
+21. Manner of disanpesrance:
+it. appeared to burst and Faded out.
+
+22. Effect on clouds:
+Undetermined,
+
+£3, Additional information concerning object:
+Cbject burst after approx 2 minutes of observation, OP # 2 made
+observation at same time but at Az. of 2771 mils.
+
+24- Weather conditions and light at time of sighting:
+Overcast sky, no stars or monn,
+
+Name and address of observer:
+Lt Bernard G, RAFTERY Lt Alfred H, JONES
+"BY Bory, 92d AFA Bn "C" Btry, 92d AFA Ba
+Occupation and hobbies: Camp Hood, Texas
+Officer, U.S. Army
+
+Comments of Interrogator relative to intédtigence and character of
+observer (Check neighbors, police dept., FBI records, employer, ctc.):
+txcellent
+
+Did observer wear glasses, especially polariod glasses at time of
+sighting, or was object viewed through canopy, window, or other
+transparent material?
+
+None
+
+Declassification Authority: NND 923007

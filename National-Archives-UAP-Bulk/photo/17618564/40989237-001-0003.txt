@@ -1,0 +1,50 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T02:10:46Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6737016, "source_ctime_ns": 1793354890457069077, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989237-001-0003.jpg", "source_mtime_ns": 1785564358000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989237-001-0003.jpg", "source_sha256": "a70e417d7cdc402174098c3a1ec323503e550a538af7d579fa16b3b93bbbc665"}
+
+===== PAGE 1 =====
+{"alpha_words": 578, "chars": 3511, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+was injured and Kaufman and I raised the gondola. Fulgham had been struck in the head
+by the edge of the gondola and I could see the blood rapidly accumulating under his scalp
+in the forehead area. We treated him for shock and soon the recovery vehicles and the
+chase helicopter arrived. I decided to transport Fulgham by helicopter to the hospital at
+nearby Walker AFB.
+
+When we arrived at Walker I remember that security was tight, as it was at all Strategic Air
+Command bases, and we were closely scrutinized by security personnel due to the unusual
+circumstances and early hour of our arrival. I had two concerns once we arrived at the
+hospital, first to get treatment for Fulgham and second to leave as soon as possible. After I
+was assured that Fulgham’s injuries were not serious I wanted to quickly leave the base
+before the Walker AFB Flying Safety Officer arrived to fill out an accident report. I didn’t
+want a report filed because an accident investigation would bring unwanted scrutiny to the
+project. Even though the project was unclassified I did not want any publicity or
+premature releases of information.
+
+Although Fulgham’s injuries were not serious, his head had swollen considerably— both
+eyes were black and his face had swollen so much you could barely see his nose. I believe
+that if someone saw him while we wete at Walker they would have been startled. When his
+treatment was completed we all three returned to Holloman on the helicopter. At
+Holloman, Fulgham was admitted to the hospital and I made preparations for him to return
+to his duty station at Wright-Patterson AFB. Due to his grotesque appearance, I did not
+want Fulgham to fly on a commercial airline. I made arrangements for all of us to fly to
+Wright-Patterson on a C-131 a few days later. When we arrived at Wright-Patterson, I
+assisted Fulgham down the steps of the aircraft because his eyes were swollen shut and he
+could not see. His wife was waiting at the bottom of the steps of the aircraft and she asked
+me where her husband was. I replied “this is your husband” and she screamed and began
+to cry.
+
+While I was at the Walker AFB hospital, I do not recall any contact with a male civilian. I
+certainly did not call anyone an “SOB” or speak to anyone in a disrespectful manner. I did
+not make any threats or instruct anyone else to make threats. I recall nurses in the hospital
+but I am not certain if they participated in the treatment of Capt Fulgham. I was not
+accompanied by a black NCO at the hospital, but there may have been a black NCO on the
+balloon recovery team. I recall no body bags in the hospital and I am sure there were no
+“aliens” at the hospital, just Dan Fulgham with a very odd looking head injury.
+
+I was also involved in the joint Air Force, Navy, and Massachusetts Institute of Technology
+astronomical observation project, Project Stargazer. The object of this project was to
+make observations via a stabilized telescope mounted atop of a gondola suspended from a
+high altitude balloon. I was the USAF project officer and Dr J. Allen Hynek was the
+scientific advisor. I worked very closely with Dr Hynek over a period of five years from
+1958 to 1963. Dr Hynek would typically spend a half day working on Stargazer and then
+the rest of the day participating as one of the consultants on the UFO study, Project
+Bluebook, that was also conducted at Wright-Patterson AFB. Dr Hynek, as the scientific
+advisor to Stargazer, was very familiar with the techniques and capabilities of the Air Force

@@ -1,4 +1,4 @@
-{"created_utc": "2026-09-08T09:51:37Z", "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "embedded-text", "pages": 0, "schema": "ufo-files-archive-ocr/v1", "source_bytes": 176331, "source_ctime_ns": 1788502800062697271, "source_file": "Chile-SEFAA/documents/INFORME-CASO-N--1668.pdf", "source_mtime_ns": 1788502800053916684, "source_rel": "Chile-SEFAA/documents/INFORME-CASO-N--1668.pdf", "source_sha256": "82647cc675387cf01410ebdbdce1736dcbf88983f2d86b170ef6f5cd0c2ca2ad"}
+{"created_utc": "2026-11-22T01:39:02Z", "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "embedded-text", "pages": 0, "schema": "ufo-files-archive-ocr/v1", "source_bytes": 176331, "source_ctime_ns": 1793354229800456559, "source_file": "Chile-SEFAA/documents/INFORME-CASO-N--1668.pdf", "source_mtime_ns": 1788502800000000000, "source_rel": "Chile-SEFAA/documents/INFORME-CASO-N--1668.pdf", "source_sha256": "82647cc675387cf01410ebdbdce1736dcbf88983f2d86b170ef6f5cd0c2ca2ad"}
 
 Caso N° 1668 14092021
 

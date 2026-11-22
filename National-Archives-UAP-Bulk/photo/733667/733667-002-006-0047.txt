@@ -1,0 +1,12 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T01:43:42Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1154718, "source_ctime_ns": 1793394330837038901, "source_file": "National-Archives-UAP-Bulk/photo/733667/733667-002-006-0047.jpg", "source_mtime_ns": 1785567354000000000, "source_rel": "National-Archives-UAP-Bulk/photo/733667/733667-002-006-0047.jpg", "source_sha256": "f792c1ad8b95c75ddc1415c2497a7b60b346f38c4b9b3acc58edd29be7122113"}
+
+===== PAGE 1 =====
+{"alpha_words": 10, "chars": 66, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ESTHER a OSS
+
+TOD 62.— Wb;
+WASH, ‘BLUD.
+
+CULVER CIT4.
+(CA,
+MAZ <A

@@ -1,0 +1,37 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T02:22:27Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8795019, "source_ctime_ns": 1793380195843892548, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28974876/1287.jpg", "source_mtime_ns": 1785700988000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28974876/1287.jpg", "source_sha256": "af4814cdef6ac0ef5352ffe7988266adc93cf1645334bdc818cabe76f9ec480b"}
+
+===== PAGE 1 =====
+{"alpha_words": 159, "chars": 1072, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+TTT SY TT a eT eT Tee
+TARR AE WRENS LS
+
+PROJECT 10073 RECORD CARD |
+DATE 2. LOCATION 12. CONCLUSIONS ol
+
+O YWos Balloon
+
+ae 16 November 1957 ) Oa dt TOM, Kent Roky 0 Probably Balloon
+3. DATETIME GROUP a TYPE OF OBSERVATION GQ Possibly Balloon
+Local Se Aa) Ground- Vi sual D Ground-Rader rl Beas Laveriht
+GMT. = a oO Air Vis sual : oO Air-Intercept | Rodar Possibly Aircraft
+5- HoTos | 4 - SOURCE DO Was Astronomical Yenus
+O Yes 1), Prabobly Astronomical
+x0 No | ao aay: vali Lap O Possibly Astronomical
+7. LENGTH OF OBSERVATION \3. NUMBER OF F OBJECTS. “9. COURSE a Other...
+0 insufficient Data for Evaluation
+; 0 Unknown
+a one nour B25), Maar onreen stationary
+10. BRIEF S SUMMARY OF ——" 11. COMMENTS
+Jne round siiver obyect the size ofr Descrij ee on, duration, fiigie path
+a naif dollar. O15 fect was Seen sta- GNU CAE Cgedenbintinds ae we Be apo)
+tionary ror one ao rs Q Star. ". i bes ge
+oe wv aaragniee Mae
+yas Oo ea
+4 2e 8 Ns
+rma” ae
+au Fae va, “Y Ow ’ of
+3 2) ef, ee
+Be? A
+ee aeenmenmenmnmennennn ee a a er a ec umee ee. ree ent
+ATIC FORM 329 (REV 26 SEP 52) {
+‘

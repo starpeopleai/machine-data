@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T02:08:43Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6466697, "source_ctime_ns": 1793376869501076368, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28962158/0372.jpg", "source_mtime_ns": 1785696559000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28962158/0372.jpg", "source_sha256": "048514f70a1b3d72850e953af888bcaf8e730ba6dc2bb6161c26f6565f0cd102"}
+
+===== PAGE 1 =====
+{"alpha_words": 87, "chars": 727, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+1. DATE 2. LOCATION 12. CONCLUSIONS
+
+MHX Was Balloon
+
+a DEY Helieen
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION wciddlacah i chrha i
+Local ——— XM Ground: Visual 0 Ground-Redar a Peabauly Aiverah
+owe O£04404__ ESO ERO MP a) Air- Visual Ci Air-Intercept Radar 0 Possibly Aircraft
+5. PHOTOS 6. SOURCE 0D Was Astronomical
+0 Yes D Probably Astronomical
+(KNo Civilian OD Possibly Astronomical
+on ects | CORE
+J. LENGTH OF OBSERVATION 8. NUMBER OF OBJECTS | 9. COURSE OD , Other__—_—__________-
+0 Insufficient Data for Evaluotion
+Pa : QO Unknown
+5 minutes _ one West .
+10, BRIEF SUMMARY OF SIGHTING 11, COMMENTS
+Round/white/faded waway/gaining Definitely a balloon.
+altitude. .
+
+ATIC FORM 329 (REV 26 SEP 52)

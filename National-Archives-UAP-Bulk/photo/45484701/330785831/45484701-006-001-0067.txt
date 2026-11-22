@@ -1,0 +1,60 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T02:28:15Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 11090612, "source_ctime_ns": 1793363691055441333, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785831/45484701-006-001-0067.jpg", "source_mtime_ns": 1785684857000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785831/45484701-006-001-0067.jpg", "source_sha256": "e9ec42e24dbec09476e075ca409faefe98bf7396a2701ded1303e3c6d4a1242d"}
+
+===== PAGE 1 =====
+{"alpha_words": 318, "chars": 2225, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+OFFICE OF SPECIAL INVESTIGATIONS
+THE INSPSCTOR GENERAL
+
+eum, Chl B5—13
+UR Beer en
+SUBJECT: (Unclassified) Reporting of Information on Unconventional
+Aircraft and Unidentified Flying Objects
+SPECIAL INWUIRY
+
+BY AUTHORITY OF tis ii
+
+Offutt Air Foree/Base ‘Historian Oh Ve
+Omaha, Nebraska Dite ~ ~~ 4 DEC
+
+AF ee mY SR
+
+1. Reference is made to your letter, file 24-00, dated 13 fugu
+1952, in regard to the above subject. For your information, an AFCSI
+Letter, superseding reporting procedures of AFCSI Letter No, 85, dated
+23 October 1950, is being prepared and will be distributed in the im
+
+2. With respect to paragraphs 2 and 3 of your letter, the proposed
+AFCSI Letter referred to above states:
+
+"Those District and Detachment Offices physically located on an
+fir Force Base will immediately report. all details pertaining to the
+sighting to the installation commander, or his designated representative,
+in order that the commander may render the reports required in par 7, AFL
+200—5. Reports by OSI to installation commanders in such instances will
+be confirmed in writing, setting forth details of the information initially
+furnished. A copy of the confirmatory letter will be designated for this
+office,"
+
+Further reports will not be necessary except where further investi-
+gation is subsequently requested by the Air Technical Intelligence Center,
+the installation commander, or this office.
+
+3. By agreement with the Directorate of intelligence, Headquarters
+USAF, AF Form 112 (Air Intelligence Report) will not be utilized by Ost Ls s
+in reporting incidents of wmidentified flying objects, instead, a Spot ‘~
+
+4. Reports reflecting the results offequested OsI investigations /-/ /)
+will be forwarded to this office for transmittal, to the Directorate of  /
+intelligence. An information copy will be foiwa directly. to the Va
+Chief, Air Technical Intelligence Center, ATIN]\ AMAA-2c, Wright-Pattergoh”
+Air Force Base, Ohio, the Air Force activity which been designated’ |
+responsible for conducting analyses of all information and material re-
+ceived. Copies of these reporte aay > Longer be designated for the
+Air Materiel Command, UNCLA wea
+
+si a CS h> 7 ao NY
+
+: * ¥
+oo ea SR:
+
+Declassification Authority: NND 923007

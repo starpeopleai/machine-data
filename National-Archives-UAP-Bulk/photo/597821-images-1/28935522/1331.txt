@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T02:00:11Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5241002, "source_ctime_ns": 1793370847105958214, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28935522/1331.jpg", "source_mtime_ns": 1785688917000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28935522/1331.jpg", "source_sha256": "9d1b43b455d27f62f8351ef30915bd999c5f2eb5800727b0ac9d0ea83cf573c8"}
+
+===== PAGE 1 =====
+{"alpha_words": 168, "chars": 1101, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Fe:
+
+9 waning: sqatnus
+APU 656 c/e Postmaster, MB. Y.
+
+27 June 199
+
+ID 3
+fO : Satelligence Officer BBC
+
+1. Using firet degree ap :rozmiations, I have computed the
+probvablg traverse of the radiosonde release of 2021002 June 1949
+end, without benefit of protractor, indicated same on the attached
+ehart. The dalek figures ehagg the traveree are an approximatioa
+ef the altitude of the instrument at that particular point.
+
+2. The dlack *X® just east of Hawkins Island in the Great
+Seund is my estimate of the place where the instrument should have
+etruek the water after the balloon burst. Since the errors involved
+fa the problem are compeneating, the point of impact eould
+we farther from the point indicated (X) than the mile and one half
+Girele surrounding it.
+
+3. %¢ will be noted therefor, that the instrument fellet «
+peint between one and four miles from, and on a dearing between west
+end northwest from the point of alleged observation.
+
+& With reference to the valloen released from BOB, observation
+frem Paget would have been impossible.
+
+/e/ B. A. Landie
+. Usa
+Bet § Vea Sq
+
+et gr ee ree

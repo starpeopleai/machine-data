@@ -1,0 +1,46 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T02:15:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7311306, "source_ctime_ns": 1793377244675204551, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28963048/1096.jpg", "source_mtime_ns": 1785696500000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28963048/1096.jpg", "source_sha256": "3e95068535051826aa51ef6c962eaeef44e4745ae02bfaac465d9af52d54f873"}
+
+===== PAGE 1 =====
+{"alpha_words": 34, "chars": 295, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+fs /° eee re Pe, far i” an eee
+| ; eo 8
+‘
+.
+ase
+. }
+¢ :
+is
+af a
+pani ae SPOR @ USP ort 3 pet op
+7 ous, -J £ ~~ ! cr © - . wey
+Leyte’ $ s a Cerf
+J (
+‘
+é f é |
+“aad bes
+Dae ee
+Pad = ¢
+}
+}
+! : : ,
+; ,
+P ;
+’
+Ps
+:
+°
+“
+o
+: :
+nd e
+. : .
+3 |
+s
+= .
+} a:
+; oy e |
+. : : ; |
+i 5
+ce
+‘i ‘ 9
+re * - wr ; : :

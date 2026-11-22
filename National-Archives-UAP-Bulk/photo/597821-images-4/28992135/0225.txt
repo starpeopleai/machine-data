@@ -1,0 +1,73 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T01:55:02Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4069952, "source_ctime_ns": 1793385176681568678, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28992135/0225.jpg", "source_mtime_ns": 1785748462000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28992135/0225.jpg", "source_sha256": "bc5d7dd0cf7def97636e8f0ef9dfc2c0388e693c7f73e821e90a43f7a53820aa"}
+
+===== PAGE 1 =====
+{"alpha_words": 81, "chars": 661, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+rr |
+) apr OL
+
+2 LOCATION
+
+Jleveland, Unio
+
+. DATE-TIME GROUP
+1130 _B
+
+Loca
+
+20/15302 apr &
+PT an haat tcl
+
+4. TYPE OF OBSERVATION
+44 Ground-Vi sual
+D Air Visual
+
+O Ground-Radar
+
+D Air-Intercept Radar
+
+. PHOTOS
+
+Yes
+
+"Ne
+
+~ SOURCE
+
+. LENGTH OF OBSERVATION
+
+NUMBER OF OBJECTS | 9. COURSE
+
+-
+
+ooo ooo ano ooo
+
+- Other VESTAS
+
+CONCLUSIONS
+
+Was Balloon
+Probably Balloon
+Possibly Balloon
+
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+
+wan s |
+Wind
+
+Loe ok
+Insufficient Data for Evaluation
+Unknown
+
+BRIEF SUMMARY OF SIGHTING
+
+11. COMMENTS /©
+
+ATIC FORM 329 (REV 26 SEP 52)

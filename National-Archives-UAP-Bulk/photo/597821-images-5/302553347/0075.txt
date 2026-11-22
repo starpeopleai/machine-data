@@ -1,0 +1,17 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T01:47:41Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1703598, "source_ctime_ns": 1793390768586246594, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302553347/0075.jp2", "source_mtime_ns": 1785808333000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302553347/0075.jp2", "source_sha256": "89897355750c5b9f005c625f20c22d40aa44ee6083a7c2565d31166527ab62ee"}
+
+===== PAGE 1 =====
+{"alpha_words": 100, "chars": 663, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Rerort of an unidentified flying object sightin g. Thinks its either an
+unidentified or a satellite. Watts to know which satellite he was observing.
+Observation occured at 947pm CDT, 21 Jul 66 by eae ;
+Johnston, City, Illinois. Estimated to be 37.8 deg North Latitude ’ angle 3
+elevation was approximately 45° - 60°, one iinute observation, flight to the
+
+SE. Appeared as bright object, comparable to ECHO II, similar in flight,
+
+it appeared to have a constant brightness. Coming from North to SE. Thinks
+its a satellite but wants to know which - one. (Mr. @@jp said he had some
+official status with the government. (DO NOT RELEASE HIS NAME) WANTS AN -
+
+ANSWER.

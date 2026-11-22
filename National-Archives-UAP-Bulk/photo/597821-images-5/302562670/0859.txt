@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T01:45:07Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1398442, "source_ctime_ns": 1793391942858057450, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302562670/0859.jp2", "source_mtime_ns": 1785808701000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302562670/0859.jp2", "source_sha256": "aed80165458bb919bdfff4cff046e3b5d9a11ec2e250d2091ba1a8ba1f988afe"}
+
+===== PAGE 1 =====
+{"alpha_words": 152, "chars": 876, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+legeu
+
+27, In the following sketch, imagine thet you ere at the peint shown. Place on ‘A’ on the curves line to show how
+high the object wes above the horizon (skyline) when yuu first saw It. Place a “B’’ on the same curved line tc
+show how high the object wos above the horizon (skyline) when you /ast suw it. Place an ''A’’ on the compass
+when you first sew it. Pleee o ‘'B’’ on the compase where you /ast saw the object.
+
+a 7s°
+60°
+
+45°
+
+Se 1s°
+
+\
+EEE the heats ah 0°
+
+4 lh :
+
+28. .Draw a picture that will show the motion that the object or objects made. Place an '‘A*’ at the beginning of the |
+path, a ‘'B"’ at the end of the path, and show any changes in direction during the course,
+
+ae
+
+29. IF there was MORE THAN ONE object, then how many were there?
+Draw a picture of how they were orranged, and put on orrow to show the direction that they were traveling.
+
+pr’ /

@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T01:53:08Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3684075, "source_ctime_ns": 1793372129143220294, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28941452/1048.jpg", "source_mtime_ns": 1785688845000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28941452/1048.jpg", "source_sha256": "6137a2a776a45e2426d745b03fcaa0923efc8497dbd4efb42e6533b80b0b0395"}
+
+===== PAGE 1 =====
+{"alpha_words": 55, "chars": 474, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ADCC
+
+| UNG
+
+AIR DEFENSE OPERATIONS CENTER
+
+REPORT OF UNIDENTIFIED AIRCRAFT
+
+“SSIFIED
+
+paTe _ 2 April 52
+
+TRACK | GEOREF TIME NO. OF A/G SPEED(MPH) SITE NO.
+NO. COORDINATES
+Ttauvke OL WIRE G002 1207/5 Mabe 2,706 es.
+" ts WS 5206
+" " IKE 5115
+t f WIKE 1,523
+" " WIG E25
+tt n SKE 11.33 1208/Z
+" n WINE BOSS
+.. ° VSKE 3337
+* » WIRE 2643 .
+" id WIE 12:6
+" 4 WiSKE 021,46 1209/E
+DOWNGRADED AT 3 YEAR INTERVALS:
+FADED ~ ~ DECLASSUNED APTE, 12 YEARS,
+DOD Diu,-§20p,29
+BRCLASOF ne

@@ -1,0 +1,11 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T01:46:40Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1594384, "source_ctime_ns": 1793392342435783544, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302567288/0194.jp2", "source_mtime_ns": 1785808168000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302567288/0194.jp2", "source_sha256": "f8f81000632327c2a41b81cea803ac2cab9cbcd11df4430d6dd265c7b8f28b44"}
+
+===== PAGE 1 =====
+{"alpha_words": 9, "chars": 62, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ee Loca
+T/O
+<i OF o&8S
+— ERVER x
+
+Hy / Feat ON
+| yoret ait \

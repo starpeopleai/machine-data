@@ -1,0 +1,34 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T01:51:55Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3110574, "source_ctime_ns": 1793372432960889213, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28942715/00798.jpg", "source_mtime_ns": 1785688523000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28942715/00798.jpg", "source_sha256": "35be9e70866d13390946c2e3f5cccf50a198a600532bbdc490971431b18333e8"}
+
+===== PAGE 1 =====
+{"alpha_words": 70, "chars": 486, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+“$20 {289
+
+WPAi94 c ve
+TYDi76 “acto re \
+‘SEPFF B20
+
+aR JEDWP”
+
+DE JEPEF 30 0
+
+R 1913552 | oo
+
+FMCi USAF WEA CENTRAL AWS ANDREWS AFB MD ~ -
+
+TO CH TECH ANALYSIS DIV ATIC WRIGHT PAT AFB OHIO . -
+
+AWS USAF WC 2@9 REUR R 1715302 RE. PROJECT BLUE BOOK CMA PILOT.
+BALOON RELEASED ANDREWS’ AFB 1521302 WAS LOST IN. HAZE AT wLTATUDE
+| s5an FT PD WIND DIRECTION EAST MAXINUM VELOCITY. 18° ‘ANOTS PD.
+‘NO RECORD OF BURST PD = = == ret
+19/14222 JUN JEPFF
+
+e ve wees
+
+: ”
+
+a
+
+; ay
+-O@ -@.@ © 6.8

@@ -1,0 +1,20 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T02:12:22Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7028065, "source_ctime_ns": 1793354734709090792, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989219-001-0063.jpg", "source_mtime_ns": 1785564332000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989219-001-0063.jpg", "source_sha256": "84b390d36a82fa1b6b4c5d585e5ec9b4dc5d43c6ca67843bc65f126dfbb66b1b"}
+
+===== PAGE 1 =====
+{"alpha_words": 24, "chars": 135, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ee 4 Lee, — ray 5
+of f L fee fae f
+
+Fas Cee ik.
+
+tectfe pu oe — av 7 Ths whe
+
+ou Ss - y 7 ee - j “as
+
+Se Q¢ arh Q
+
+J
+
+Tena ve Calm
+
+a

@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T01:51:38Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1804455, "source_ctime_ns": 1793394153611707813, "source_file": "National-Archives-UAP-Bulk/photo/733667/733667-001-003-0009.jpg", "source_mtime_ns": 1785567330000000000, "source_rel": "National-Archives-UAP-Bulk/photo/733667/733667-001-003-0009.jpg", "source_sha256": "2826f207456130c241c7d4ecc81e984f6e6f0cd449e9258c563b3a885f03d8ae"}
+
+===== PAGE 1 =====
+{"alpha_words": 165, "chars": 1091, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Op
+4p
+It spoke to Mr. Klass on February 18, 1987, regarding this v
+Subject and he informed me thet he had "a chance to see a
+transcript, a certified transcript" of the voice
+transcriptions between the flight crew and the controllers
+at the Anchorage Air Route Traffic Control Center. When I
+askea him who provided him that opportunity he said " a good
+corespondene never reveals his sources, I'm sure you
+understand that." This conversation was on a speaker
+
+telephone and was overheard by several people in our office.
+
+On February 20, 1987, I was called by Mr. Bruce Maccabee,
+Naval Surface Weapons Center, Silver Spring, Maryland,
+requesting the status of the JAL1628 investigation and the
+release of materials. He also informed me tnat he "and
+several other people had been invited by Mr. Jonn Callahan
+(FAA-AAT-63) to see the (UFO Air Traffic) material." This
+occurred, he thought in late January, 1987. He said the
+material was "thick, contained the transcript, color photos
+of the radar screen, interview of Captain Terauchi,
+
+controiler statements, some maps and other material." He

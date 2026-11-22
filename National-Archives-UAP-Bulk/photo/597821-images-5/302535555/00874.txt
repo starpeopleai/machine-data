@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T01:47:25Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1694348, "source_ctime_ns": 1793389022638736376, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302535555/00874.jp2", "source_mtime_ns": 1785808356000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302535555/00874.jp2", "source_sha256": "4e31c36fc0c302acc0db182d38139bbd163ddc10444660ef8296e9bf5b85dd0d"}
+
+===== PAGE 1 =====
+{"alpha_words": 80, "chars": 535, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ee eae ae ee ae
+
+\- CAP Hulton
+A aaa
+HEADQUARTERS
+
+FOREIGN TECHNOLOGY DIVISION.
+
+AIR FORCE SYSTEMS COMMAND
+UNITED STATES AIR FORCE
+WRIGHT-PATTERSON AIR FORCE BASE, OHIO
+
+REPLY TO
+ATTW OF: TDEW
+
+susvect: Request for UFO Information @ag)
+
+to: Hq USAF SAFOI PB (Mrs. Gaiser) 18 AUG 1964
+
+Reference the attached letter requesting information on unidentified
+flying objects. This letter is forwarded to your office for whatever
+action you deem necessary.
+
+e
+FOR THE COMMANDER
+
+and Subsystems
+
+YOU - THE NUCLEUS OF SECURITY!
+
+oS eaten nent

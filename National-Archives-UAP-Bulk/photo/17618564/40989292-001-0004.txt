@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T01:43:17Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1049001, "source_ctime_ns": 1793355930481578070, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989292-001-0004.jpg", "source_mtime_ns": 1785564561000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989292-001-0004.jpg", "source_sha256": "584fbe89c458076067ed93fb0bbeb5f85a4c7b5a0e3f22d27fef88c0b6ceedd7"}
+
+===== PAGE 1 =====
+{"alpha_words": 161, "chars": 1135, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+FOREWORD
+
+Scientists and technicians of the Aeromedical Field
+Laboratory at the Air Force Missile Development Center have
+made important contributions in many fields of biodynamics
+research, In addition to their achievements related to escape
+physiology, such as establishing the limits of human toleration
+to the windblast and deceEration forces experienced in emergency
+escape from high-performance aircraft, they have probed deeply
+into.a variety of other biodynamics problems. Some of these
+concern aircraft and automotive crash forces, the stresses to
+be encountered in the atmospheric re-entry of manned space
+vehicles and satellites, and pure unapplied research in bio-
+dynamics designed to advance the sum of knowledge related to
+human reaction to various physical forces.
+
+In the monograph here presented, Dr, David Bushnell, of
+_the Air Force Missile Development Center's Historical Office,
+presents a carefully documented account of the successes and
+failures encountered in biodynamics research programs other
+than escape physiology. He has endeavored to place these
+
+accomplishments within the larger context of such work

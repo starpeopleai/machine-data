@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T02:11:30Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6892494, "source_ctime_ns": 1793380757709353767, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28978279/0014.jpg", "source_mtime_ns": 1785700702000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28978279/0014.jpg", "source_sha256": "66d527d7316410b2f3c0c9b5ed419f7494a0560afd9408a938aec0fb3fa4d942"}
+
+===== PAGE 1 =====
+{"alpha_words": 70, "chars": 484, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+yr
+
+July 30, 1959
+
+Miss Maribelle Cormack
+Museum Director
+
+Roger Williams Planetarium
+Roger Williams Park Museum
+Providence 5, R.I.
+
+Dear Miss Cormack:
+
+In Dr. Menzel's absence from the Observatory,on an
+extended European trip,I wish to acknowledge and thank you for
+your letter of July 24. When he returns, on approximately
+September 11, I know he will be interested to read your in-
+
+formative note and its enclosure.
+
+Sincerely yours,
+
+db 3 Doris Beaudoin
+Secretary to Dr. Menzel

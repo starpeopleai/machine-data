@@ -1,0 +1,64 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T01:48:12Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1728117, "source_ctime_ns": 1793389235906505559, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302538247/00364.jp2", "source_mtime_ns": 1785808362000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302538247/00364.jp2", "source_sha256": "edbd94005e88d57f849eb851a7696febe0a968cf1a2e466341b42aaa2c8e95f0"}
+
+===== PAGE 1 =====
+{"alpha_words": 326, "chars": 2133, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+merry 10
+ATTN OF
+
+SuBs)JECT
+
+1O
+
+( (
+AIR FORCE FLIGHT DYNAMICS LABORATORY
+
+Research and Technology Division
+Air Force Systems Command
+UNITED STATES AIR FORCE
+Wright-Patterson Air Force Base, Ohio 45433
+
+FDFM/P.M. Wagner/20227 29 Mar 65
+
+Comments on UFO Landing Gear, Dr. C.W. Bemiss Memo
+
+TDEW (Sgt. Moody)
+
+1. Reference is made to discussion between Sgt. Moody, TDEW, and
+FDFM personnel, on 24 Mar 65.
+
+2. It was requested that FDFM comment on the landing gear of a
+reported UFO, as referenced in the Dr. C.W. Bemiss Memo, dated
+12 Mar 65. The following comments are submitted,
+
+3. Studies on landing gear systems for a lunar landing vehicle,
+
+have considered a four=leg system with unsymmetrical geometry.
+
+The footpad radius (distance between the centerline of the vehicle
+and the center of the footpad) for the two rear legs is ten feet,
+whereas that for the two front legs is 20 feet. Also, due to
+varying gear stroke and articulate actuation, the footpad spacings
+will differ between each side dimension,
+
+4, Another explanation of the unequal footprint spacing is that
+the landing gears are flexible enough to allow variable lateral
+displacement. Unsymmetrical landings (one or two leg impact) due
+to vehicle tilt with respect to the vertical, landing on a sloped
+surface, or landing with a horizontal velocity component, can
+cause side loads which tend to deflect each flexible gear leg
+differently. However, at least one of these conditions would
+have to be present to cause unequal pad spacings,
+
+5. At unequal spacings, with reasons stated above, it is possible
+that landing gear footpads could leave indentations in the surface,
+as shown in the photos. There is a probability that an unsymmetrical
+landing occurred, causing each gear to impact consecutively. Upon
+impact, a probe (free to pivot to maintain a vertical position)
+plunges into the ground. The purpose of the probe would be to
+restrain the footpads from sliding, thus stabilizing the vehicle,
+
+If the holes were not made by soil compaction; but bored out, then
+
+it is assumed that some kind of a tube type probe was utilized.
+
+Refer to the attached sketch,

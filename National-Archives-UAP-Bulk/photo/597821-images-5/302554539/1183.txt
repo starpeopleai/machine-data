@@ -1,0 +1,42 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T01:47:58Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1726391, "source_ctime_ns": 1793390949689843701, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302554539/1183.jp2", "source_mtime_ns": 1785808305000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302554539/1183.jp2", "source_sha256": "16edda2ef58607052f622c58012d6148f9498df729b19d1b84376d8585d76352"}
+
+===== PAGE 1 =====
+{"alpha_words": 75, "chars": 519, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+a aa
+
+7 DE
+
+——
+
+_-
+
+fice of Record
+
+O
+
+TT anafertel thd SO thea bb
+
+FID (TDETR)/AL
+Wright-Patterson AFB, Onis bi:
+19 August Sicad
+
+: —. Ohio 44903
+
+Dear SPP
+
+Reference your unidentified observation of 16 August 1966.
+The information in your letter was not sufficient for
+evaluation. Request you complete the attached FID Form
+164 and return it in the envelope provided.
+
+We wish to thank you fOr reporting your observation to
+
+_ the Air Force.
+
+Sincerely,
+
+!
+i
+
+R QUINTANILLA, Jr, Major, UBAR
+Chief, Project Blue Book

@@ -1,0 +1,42 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T02:26:54Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9666130, "source_ctime_ns": 1793381167792150825, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28979481/1055.jpg", "source_mtime_ns": 1785700769000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28979481/1055.jpg", "source_sha256": "12b4f9041c59e7fff21c07604eae00c075ca830ba53eeeae41f63af3b2872171"}
+
+===== PAGE 1 =====
+{"alpha_words": 49, "chars": 260, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+eth
+he:
+
+RECEIVED
+
+TAU
+
+SAE AEN TERT ere
+
+—
+1
+é
+
+WUBIN,
+
+hig
+
+RJEDBW/COM
+nde ZHOSASSI
+
+T) Pigew AP ix 6 95 he is andl od (vi:
+Ru ehs dit i ae TC
+
+'
+:
+
+qc fat ar 4
+SAGE 17
+
+LXT ISIS A .
+
+ye . 7
+
+knw mate
+
+spe Gia Ee
+
+ai ei 2 oe * he Mee sine an < top: gee Ns”

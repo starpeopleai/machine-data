@@ -1,0 +1,34 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T02:02:30Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5562091, "source_ctime_ns": 1793380332961880310, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28975415/00314.jpg", "source_mtime_ns": 1785700992000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28975415/00314.jpg", "source_sha256": "1512955fc4d43c7c603d77e6ad66c50b9f8d28fa84eab7c981bbe733bd20c877"}
+
+===== PAGE 1 =====
+{"alpha_words": 56, "chars": 334, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+270430 ) ey, oy ie
+C. 25,099 fo ee La Wee,
+
+oe / :
+De 1D . ad is
+
+Ee 9/12 Ge ye A
+
+_ Fe NONE a oe
+
+Ss Ae NONE | ne |
+Be NONE |] |
+Ce NONE (r.zte4 go>)
+
+9, NONE |
+
+19. NZA
+
+rr -
+
+441. CAPTe SENIOR CONTROLLER 3@TH ALR DIV. (DEF) NONE
+Ae NONE
+12. Ae NONE
+Be NONE
+13, NONE
+BT
+
+| 287939672 NOV RJEDBY
+
+PN cu ea ence aur ae REPEATERS SPAY

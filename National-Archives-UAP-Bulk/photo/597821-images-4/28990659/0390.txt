@@ -1,0 +1,50 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T02:14:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7260811, "source_ctime_ns": 1793384600148441317, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28990659/0390.jpg", "source_mtime_ns": 1785747846000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28990659/0390.jpg", "source_sha256": "05be06c65ddcf0e9eb7f295909c4dcc7668217e5f2c6c982ed415f08acac3676"}
+
+===== PAGE 1 =====
+{"alpha_words": 102, "chars": 915, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PAGE TWO RJDLHDA 23
+BABSREING FROM OBJECT. MCCY
+ET HAVE WELL DENINED EDGE.
+(7) NZA : (
+(3) N/A
+(9) APPEARED TO MOVE AT HIGH RATE OF UPEED.
+Be 4) THE BRIGHT COLOT. |
+-(2) 55DEGREES-S@DEGREES ELEVATION, 319 DEGREES AZIMUTH.
+(3) Q25DEGREES-39DEGREES ELEVATION, 310 DEGREES AZIMUTH.
+(4) STRAIGHT FLIGHT PATH. OBJECT APPEARED TO HAVE ROTATING
+MOTION.
+(5) DISAPPEARED BEHING CLOUD DECK.
+(S) 3 SECONDS.
+Ce 1) GROUND-VISUAL
+(2) NONE
+(3) N/A
+De(1) 2271531
+(2) DAY.
+E, 52Q3SN-S3127£ 1209'NW OF BENTWATERS CONTROL TOWER,
+Fe¢1) NGXA
+(2) ALBERT M, RIES, CAPTAIN, HQ 61ST TAC FIR WG, APO 755,NeY.
+NeY. , RELIABLE SOURCE.
+
+PACE THREE RJDLHDA .25
+
+-
+
+GeC1) HIGH DECK OF THIN ALTO CUMULOUS IN NW. LOWER DECK OF
+
+BROKEN HIG
+F
+
+Ls
+
+4 STRATUS. NO HAZE. NO OBSCURATION.
+
+(2) SURFACE 329/98 22,992 369/85
+6,208 359/308 32.902 359/120
+13,992 3460/30 59,990 342/22
+16,922 362/88 88,3092 352/29
+
+(3) 2080" SCATTERED.
+
+(4) 3 MILES IN i
+
+48

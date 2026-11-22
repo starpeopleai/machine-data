@@ -1,0 +1,81 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T02:00:42Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5352665, "source_ctime_ns": 1793377530345591094, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28964155/0567.jpg", "source_mtime_ns": 1785696746000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28964155/0567.jpg", "source_sha256": "66b728f1ab501f3f01d02e2027805072d1f85d5acc6d06cfcd4aaafacc580938"}
+
+===== PAGE 1 =====
+{"alpha_words": 98, "chars": 809, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+1. DATE
+
+4 Nov 55
+
+2. LOCATION
+
+Beatrice, Nebraska
+
+3. DATE-TIME GROUP
+
+.Loca
+
+!
+cm 02/0001Z_
+
+4. TYPE GF OBSERVATION
+x
+XZ Ground- Vi sual
+0 Air Visual
+
+D Ground-Rador
+
+O Air-Intercept Radar
+
+5. PHOTOS
+O Yes
+1 No
+
+$ SOURCE
+
+civilian
+
+7. LENGTH OF OBSERVATION
+
+30 min still in sight
+
+f. HUMBER OF OBJECTS | 9. COURSE
+
+1 stationary
+
+_
+'N
+
+o00 800 ano ooo
+
+- CONCLUSIONS
+
+Was Balloon
+Probably Balloon
+Possibly Balloon
+
+Was Aircraft
+Probably Aircraft
+Possibly Aircroft
+
+Was Astronomical
+Probably Astronom Star/Plax
+
+Possibly Astronomical
+
+Other
+Insufficient Data for Evaluation
+
+10. BRIEF SUMMARY OF SIGHTING
+
+Very bright light, no shape, no sound, yellow
+
+and blue flickering.
+
+i. COMMENTS
+
+Probably star/planet. Positional data
+not included in report.
+
+ATIC FORM 329 (REV 26 SEP 52)

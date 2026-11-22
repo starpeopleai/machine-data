@@ -1,0 +1,61 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T01:52:37Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3484633, "source_ctime_ns": 1793373306396319997, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28946298/0124.jpg", "source_mtime_ns": 1785688798000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28946298/0124.jpg", "source_sha256": "e36a188e8a4aed00694033e3359811b25d2cda2178ccb0632fb331b5ed3985df"}
+
+===== PAGE 1 =====
+{"alpha_words": 219, "chars": 1458, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+- . -
+
+PROJECT 10073 WORKSHEET (
+
+ORM PHS eMErt Te apt ME pe
+
+, I. GENERAL
+» DAL é 2, LOCATION C ee oe eT
+Te OF Ushi npg ny Biey, MY Wwoars 17/9 5)
+h eh RO ate ian hea Zebrar Yo
+. WAS CBIECT OBSERVED FROM THE GROUND? Ce Tos = EC) vo
+: Tir Naked Eye
+i_.) Binoculars
+CI telescope
+1 Tneedolite .|
+1. WAS OBIECT OBSERVED BY GROUND RADAR? (J Yes (jie
+Liky Ons Sot
+Cl By Two Sets
+{18y Three Sets
+WAS GBIsCT OBSERVED FROM THe ATR C) You Cy
+—..A/C Observed Object
+(“JInterception Attenpted
+CiNo Intorcopt Attempted
+. Wishes REE SORES WI (_) Yes {} No
+A/C Scrambled
+(") Visual Contact Made
+(“TA/I Contact Made
+{_jNo Contact Mads
+> DED OBIECT CHANGE DIRECTION AT ANY TILE? CJ Yos (_] No
+[) Normal
+[1 Violent
+~T OBTECT WAS ALIGHT", WAS IT: _) Blinking
+Fi} Stondy
+O. TENG OF TIME IN SIGHT: ~ (1 L=L5-Soconds
+fi}ics Minutes
+[ ) Over 10 Mimtes
+. pcan ag Number scale sai Address}
+¢ | (
+II. ASTRONOMICAL DATA
+‘ oe . }
+. 32> DID OBJECT APPEAR 10 ARCH DOWNAARD? ") Yes filo |
+‘): 7 TD OBJECT HAVE A TAIL? | Yea ~~) No
+pe Pit OBJECT APPEAR TO DISINTEGRATE? “| Yes P| No
+%, Pius OF SIGHTING RELATIVE TO SUNRISE On SUNSET (Data from Air Almanac)
+> Night
+i) Day
+Ci Sunrise
+{Sunset
+III. AIRCRAFT DATA
+ofS WERE AIRCRAFT NOTcD IN AREA? =} Yes [cyto
+{!One Aircraft
+(.}More Than One Alreraft
+3, WES ANT SOUND HEARD? T¥es “Vio”
+2) WE GF WHERE INDYCAVTCRS Oy" HIGH FACKCKOURU NOISE” 2 You — Tho
+1, WAS tHE OBJECT Vike D ALOVE 5° ELEVATICN? =) Yas [1 No
+
+TLC Test Form 33), (13 Aug 52)

@@ -1,0 +1,55 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T01:49:03Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1736672, "source_ctime_ns": 1793356371306483916, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989320-001-0012.jpg", "source_mtime_ns": 1785564688000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989320-001-0012.jpg", "source_sha256": "41dfb82e435cdaa3336c46f79cad6fdc68c756044e39d41bf3c6507acd369330"}
+
+===== PAGE 1 =====
+{"alpha_words": 389, "chars": 2481, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+are operated approximately Class "B" and the neces-
+sary bias is obtained from the resistor in the coa-
+mon cathode circuit. A balance control is provided
+to equalize the two plate voltages wder zero sig-
+nal conditions. The recording meter is connected
+directly from plate to plate of the two tubes. Bi-
+ased (3V) rectifier mits are placed across this out-
+put circuit to limit the maximum voltage output to
+
++ 3V in order to protect the meter. An agitation
+circuit which produces a signal of approximately 10
+eps is incorporated in each amplifier channel and agi-
+tates the pen movement of the corresponding recording
+meter. This increases linearity of response, particu-
+larly for low amplitude signals. A meon lamp relaxa-
+tion oscillator forms the agitation circuit, the out-
+put of which is applied as a push-pull voltage to the
+grids of the amplifier tubes.
+
+c. Power Supply (see Figure 3): The power supply is ac-
+tually a dual wit, operating normelly from LLOV AC
+and, in case of interruption of service, from a 6V
+storage battery. The switch over from 1LOV AC to 6V
+DC is accomplished automatically by a relay in the
+110V AC line when a failure occurs in AC power. When
+operating on lI1OV AC power, the line voltage is step-
+ped up by means of a transformer, rectified and fil-
+tered. When a power failure occurs, the relay connects
+the input of a vibrator power supply to a 6V storage
+battery, and the output of the vibrator is connected to
+the filter. When operating on 6V, the filter operates
+with condenser input, whereas when operating om 110V
+AC, a choke input filter is used. A 0.1 mfd condenser
+is connected across the relay contacts to prevent exces—-
+sive arcing when switchover from DC to AC occurs.
+
+2. Recording Meters: Four Esterline-Angus 1 ma recording meters
+ere used to record the signals from the four amplifier channels. The
+meters are coupled mechanically to insure synchronization. Two chrono-
+graph pens have been added to each of these meters to enable time marks
+to be recorded. These pens are located one on either side of the record
+chart.
+
+3. Timing Device: The timing device consists of a 6 volt
+DC battery-driven electric motor geared to a cam which closes a switch
+approximately every 5 seconds, omitting every 12th pulse to indicate
+the one minute intervals. A separate battery is provided for this
+motor. The circuits controlled by this switch apply voltage pulses
+to the left hand chronograph pens on the recording meters.
+
+Appendix B 4

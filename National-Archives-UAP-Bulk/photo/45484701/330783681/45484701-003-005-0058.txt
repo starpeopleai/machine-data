@@ -1,0 +1,7 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T02:01:28Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5407108, "source_ctime_ns": 1793362762878738195, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330783681/45484701-003-005-0058.jpg", "source_mtime_ns": 1785684552000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330783681/45484701-003-005-0058.jpg", "source_sha256": "b8d7ed0376cec6f801586592723293ca81495d1dde20b3ac4e0b8e2db964abd0"}
+
+===== PAGE 1 =====
+{"alpha_words": 9, "chars": 86, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+4+ published by the PACIFIC LEMURIAN SOCIETY
+
+Declassification Authority: NND 923007

@@ -1,0 +1,12 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T01:41:42Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 974968, "source_ctime_ns": 1793390152439754062, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302547038/1226.jp2", "source_mtime_ns": 1785808266000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302547038/1226.jp2", "source_sha256": "77fa7544320c7ce7240137ce916d42c800289a03f0b7b0b0b4cfdb5325c42a69"}
+
+===== PAGE 1 =====
+{"alpha_words": 40, "chars": 221, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+oar a oe
+mee
+
+om your sighting wes insufficient for. us. to reach s° conclusion
+as.to: the nature of ths object, « Request: syou_comple tee sae
+attached FT Form 164 and return. it ain the. bee ne ahateis aed
+
+voae ee ee

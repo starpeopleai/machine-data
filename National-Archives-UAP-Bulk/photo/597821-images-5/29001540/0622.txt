@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T02:05:36Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5862474, "source_ctime_ns": 1793388558094144169, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/29001540/0622.jpg", "source_mtime_ns": 1785808453000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/29001540/0622.jpg", "source_sha256": "5c4dccc1b517e306457336c91d2a4f04b9107c058bd3ad2e42faf8200e9c5557"}
+
+===== PAGE 1 =====
+{"alpha_words": 226, "chars": 1475, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Page 2
+
+8. IF you saw the object.at NIGHT, what did you notice concerning the STARS. and MOON?
+8.1 STARS (Circle One): 8.2 MOON (Circle One):
+a. None a, Bright moonlight
+© A few b. Dull:moonlight
+c. Many e(No =a irs pitch dark -
+d. Don't remember d. Don't remember
+‘9, The object appeared:
+(Circle One): o. Asa tight c. Dork d. Don’t remember
+10. If it oppeared as a light, wos it brighter than the brightest :stors?
+11. Did the object: (Circle One for each dueation)
+a. Appear to stand still at any time? Yes ~ Don't Know
+b. Suddenly speed.up and rush away at any time? Yes Don’t Know
+¢. Break up Into ports or explode? Yes Don’t Know
+d. Give off smoke? Yes Don't Know
+e. Change brightness? Yos Don’t Know
+f, Change shape? Don't Know
+ge Flosh or flicker? Don't Know
+h. Disoppear. and reoppecr ? Don’t Know
+12. Did the odject move behind something ot ony time, portieviarly © cloud?
+(Circle One jt Yes hua Don't Know. IF you answered Y&S,.then tell whet
+'t moved beninds .
+13. Did the object.move in front of something at any time, partieviorly.a.cloud? ; /
+(Cirele One): Yos Don’t Know. IF you answered YES, then tell what
+In front of
+14, Did the object.cppecr: - (Cirele One): G, ‘Solid } b, Transparent ¢- Vapor de, Don't Know\
+15. Did you observe the object through any of the following?
+a, Eyaglosses Yes (Ne e, Binoculars Yes “No
+4, Sun glasses ‘Yas (Ne) ?, Tolescove Yoa (Nel
+| ¢, Windshield -/ pe Yes No g. Theodelite Yes Ne |
+| d, Window glass Yos [No ) h, Other i

@@ -1,0 +1,62 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T02:19:37Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8330955, "source_ctime_ns": 1793365347729522615, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330788691/45484701-008-005-0110.jpg", "source_mtime_ns": 1785684613000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330788691/45484701-008-005-0110.jpg", "source_sha256": "ae4eeaab65fa0185d9f4961018bb476e2b6f89d5fe81540ee13a78b6b1544622"}
+
+===== PAGE 1 =====
+{"alpha_words": 250, "chars": 1719, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+TYPE OF CAMERAS
+
+35 Mii Meroury Candid, Model Cx
+
+Lenss F8:7 Tricor, Fe 55M, No. 45250
+Manufactured by: Universal Camera Corp.,
+New York, New York
+
+TYPE OF FILMs (as reported by Pisher)
+
+Kodak 35 MM, (Black & White)
+Panatomic A, 36 exposures
+Purchased from PX, Dhahran Airfield
+
+TYPP OF DEVELOPER USED:
+
+According to Fisher, developer was already
+prepared and available at the Photo Hobby
+
+Shop, and is unable to furnish information
+as to mixutre, etc.
+
+LOCAL WEATHER CONDITIONS: (10 = 15 April 1960)(1900 to 2000 hours)
+DATE VISIBILITY WIND & DIRECTION
+
+10 Apr 10 wiles 12 miles NN®
+
+ll Apr 12 miles Calm to 22 mi, &
+
+12 Apr & 10 miles 7 to 12 mi, BE to WW
+13 Apr * to 8 miles 1/ to 45 mi, N, (gusts to 52 mi)
+
+a
+14 Apr 15 miles 9 to 11 mi, NNF
+16 Apr 15 miles 8 to 15 mi, NNE
+
+Above information received from official records, 29=2 Weather
+Detachment, 29th Weather Squadron, Dhahran Airfield, Dhahran, Saudi Arabia.
+
+In spite of the information furnished by Sgt Fisher in paragraph
+2b above, it is very likely that this unknown object can very possibly be
+a hoax for the following reasons:
+
+1. The slide or film, after developing, would show up white,
+since photograph was allegedly snapped after darkness had
+set in.
+
+2. Attempts wore made at the base Photo laboratory to enlarge
+the "negative" and produce a print therefrom, but results
+were negative. Had slide been a black & white negative
+instead of a positive, a print would have been possible,
+
+Slide in question was examined under a microscope and in=-
+dicates that the elongated saucer-like object has a definent
+dent upon the emulsion of the film, therefore it is possible
+that there exsists an artifact on the film.
+
+Declassification Authority: NND 923007
