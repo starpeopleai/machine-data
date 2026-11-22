@@ -1,0 +1,83 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T05:56:00Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6865196, "source_ctime_ns": 1793377064585068650, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28962604/0740.jpg", "source_mtime_ns": 1785696691000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28962604/0740.jpg", "source_sha256": "dc735f9a6ad4a5fb3d799c84a3f84e2f9908f8845e2b4b058197cfcd970277b2"}
+
+===== PAGE 1 =====
+{"alpha_words": 175, "chars": 1288, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+:
+
+1. DATE
+
+5 Jul 55
+
+2. LOCATION
+
+he
+rcorgetown, Massachusetts
+
+3. DATE-TIME GROUP
+05/0958 EDT
+
+4. TYPE OF OBSERVATION
+
+Local "A Ground-Vi sual OQ Ground-Redor
+O5/ 13587,
+nearest O Air Visual DO Air-Intercept Radar
+5. PHOTOS. 6 SOURCE
+0 Yes
+20 No civilian (coc)
+
+7. LENGTH OF OBSERVATION
+six seconds
+
+8. NUMBER OF OBJECTS | 9. COURSE
+
+one Circular EB to N
+
+12.
+
+Hoo00 000 gn0 ooo :
+
+4
+
+CONCLUSIONS
+
+Was Balloon
+Probably Balloon
+Possibly Balloon
+
+Was Aircraft
+Probobly Aircroft
+Possibly Aircroft
+
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+
+Other
+Insufficient Data for Evaluation
+Unknown
+
+10, BRIEF SUMMARY OF SIGHTING
+
+One, disk=shaped object, like anenery wheel,
+Slivery-white incolor, appeared to the obser~
+ver for a period of six secotids. Object tra-
+veled a circular flight path from F to N at.
+an extremely fast rate of speed. The obj was
+estimated to be approximately 230 ft in diam.
+
+V1. COMMENTS
+
+Four trails could
+the speed of object wuld be attributed
+to reflection of sunlight. A check with
+COC Weather at ADC revealed there were
+no temperature inversins at time of
+Sighting. Observer possibly saw the re-
+flection of sun off a high flying jet
+a/c and contrails of jet a/c.
+
+possibly contrils and
+
+ATIC FORM 329 (REV 26 SEP 52)

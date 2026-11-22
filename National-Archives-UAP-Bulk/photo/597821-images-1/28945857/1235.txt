@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T05:44:36Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4132724, "source_ctime_ns": 1793373230489954853, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28945857/1235.jpg", "source_mtime_ns": 1785688737000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28945857/1235.jpg", "source_sha256": "e7a0b79956e148dc304a42b819898dab18568cde1f67d997cd3cd2c95f2f24bd"}
+
+===== PAGE 1 =====
+{"alpha_words": 71, "chars": 523, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Se : “os : e : SECURI? FICATION (df ony)
+
+DISPOSITION FORM
+
+FILE NO, susiéct (Uncl) Transmittal of Conclusions on cape
+> of Unidentified Aerial Objects =>
+TO APOIN=242 FROM ATIC ; DATE 22 Sept 52 COMMENT NO. 1
+Attn: liej Fournet
+| Capt Rupnelt
+65305/22630/? D=28
+
+Attached is a carbon copy of the conclusions on the sighting of unidentified
+aerial objects at Washington National Airport on 20 and 26 July 1952.
+
+OBERT &, atl ‘ajor, USAF
+
+Air Adjutant. General
+Air Technical Intelligence Center
+
+CO DF dta 8/29/52
+
+DDB, 96

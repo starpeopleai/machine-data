@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T06:20:35Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 975257, "source_ctime_ns": 1793356002210855191, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989297-001-0118.jpg", "source_mtime_ns": 1785564579000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989297-001-0118.jpg", "source_sha256": "de5886a9ddd9a59d5ee98eea18d34f41c9b8a9aca1ab3bffb6a47bb4336fd878"}
+
+===== PAGE 1 =====
+{"alpha_words": 9, "chars": 140, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+‘4.
+eo
+
+i
+8:00
+8:30
+9:00
+: 9:30
+10:30
+
+| ATE,
+
+an00 2a Cesee Lead dew
+
+11300¢@€2~C~*—“‘CSC
+12:00 PUA Cowell
+
+10:00
+
+3:00
+
+3:30
+
+4:30
+
+5:00

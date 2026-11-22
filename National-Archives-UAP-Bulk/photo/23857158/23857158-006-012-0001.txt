@@ -1,0 +1,34 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T05:47:18Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4692170, "source_ctime_ns": 1793359135187552214, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-006-012-0001.tif", "source_mtime_ns": 1785681325000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-006-012-0001.tif", "source_sha256": "0e31f82ae5b0579e5d792ec10f91015cb1693e22c2dfa476dcd15d9d057e35ec"}
+
+===== PAGE 1 =====
+{"alpha_words": 106, "chars": 772, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Declassification Authority NND 923007
+
+1602D AISS UFOB LOG
+
+REPORT NO. ‘DATE/PEE OF SYCHTING iRECD HQ 602D
+
+| ATSS-UROB=386=55 | 23/00252 Oct 55 3 Nov 55
+| LOCATION OF SSPE LG LOGGED BY
+‘Exeter, New Hampshire S/Sgt DeRudder
+MEANS Rasp ACTION
+
+| Letter Mo investigation authorized
+TENVES UNIT DATE INVES ASSIGNED ASSIGNING OFFICER
+N/A | N/A H/A
+DATE IR RECD HO DATE TR APPROVED DATS IR TO ATIC
+[w/a Wa W/A
+DATE OF FORM 5
+
+{hk November 1955 : «
+
+Due to the delay in receiving the original repeft and the failure»
+af the report to meet the other criteria for invesitgation, no
+investigation authorized. In the opinton of this headquarters the
+sighting was possibly astrondmical in nature, is@e, a star.
+
+I CONCLUSIONS
+
+‘POSSIBLY ASTRONOMICAL: STAR
+
+_SISOP FORM 7 (2 APR 55)

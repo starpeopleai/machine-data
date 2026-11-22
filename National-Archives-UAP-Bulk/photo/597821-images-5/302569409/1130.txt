@@ -1,0 +1,23 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T06:24:17Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1399684, "source_ctime_ns": 1793392643288064499, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302569409/1130.jp2", "source_mtime_ns": 1785808430000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302569409/1130.jp2", "source_sha256": "5afd1b7eeefb4078b75227a139093bb54d8dab31f334d80ca11f7acd308ac417"}
+
+===== PAGE 1 =====
+{"alpha_words": 142, "chars": 820, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+MMO FOR THh nECOn)
+
+Talked to Maj. Moler Phelps Collins Airport (551-3744). He says
+that Sgt. Deigle at Phelps Collins prepared the report . He (Sgt
+Deigle} has no autovon no but could be reached by comercial
+
+Noe 356-2141 ex. 273 « No identification action was taken by
+Phelps Collins because they are not tasked to do it. They passed
+the info. on to the 34th Air Division at Custer AF station who
+he says are responcible for findin., if any aircraft etc. were
+in the area at the time of the sighting.
+
+Called Custer AF Station (551-3360) and talked to Lt. Doney who
+is the UrO orficer at Cuater. He doesn’t Know anything about
+the sighting but promaised to find out exavtly what goes.
+
+21 Sept. 1967
+Lt. Doney Called. He found his copy of the report and is going
+to investigate sighting. Will call us on his findings.

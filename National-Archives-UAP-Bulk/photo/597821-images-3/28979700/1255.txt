@@ -1,0 +1,67 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T05:58:18Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7177178, "source_ctime_ns": 1793381266073719716, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28979700/1255.jpg", "source_mtime_ns": 1785700767000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28979700/1255.jpg", "source_sha256": "3966250171a6e884f85d39f4a65d9cadd6fee359a0bc519ea2038912ea3cc4a0"}
+
+===== PAGE 1 =====
+{"alpha_words": 262, "chars": 1683, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Pege 2
+
+8. IF you saw the object at NIGHT, what did you notice conceming the STARS and MOON?
+
+8.1 STARS (Circle One): 8.2 MOON (Circle One):
+@. None a. Bright moonlight
+A few b, Dull moonlight
+@. Many G) No moonlight = pitch dark
+d. Don’t remember d. Don't remember
+
+9. What were the weather conditions at the time you saw the object?
+
+CLOUDS (Circle One): . WEATHER (Circle One):
+@ Clear sky @.) Dry
+. Hazy Fog, mist, or light rain
+c. Scattered clouds c. Moderate or heavy rain
+d. Thick or heavy clouds d. Snow
+
+e. Don’t remember
+
+10. The object appeared: (Circle One):
+
+a. Solid (ayas @ light
+b. Transparent or: remember
+
+c. Vapor
+
+—
+
+11. If it appeared as a light, was it brighter than the brightest stors? (Circle One):
+
+a. Brighter : Ce) About the same
+b. Dimmer d. Don’t know
+
+11.1 Compare brightness to some common object; Like a star when first sighted, then as it
+approached more like a small lamp of the kind used by railway men to signal.
+
+12. The edges of the object were:
+(Circle One): a. Fuzzy or blurred e. Other
+
+GD Like a bright stor
+
+c. Sharply outlined
+
+d. Don’t remember ati
+
+13. Did the cbject: (Circle One for each question)
+-~ fiwhen first sighted only.)
+o. Appear to stand still at anv time? Yes No Son’t know
+*b. Suddenly 2 ot any time? Cen’ No Don’t know
+¢. Break up into parts or explode? Yes 0 Don’t know
+d. Give off smoke? Yes ° Don’t know
+e. Change brightness? Geb No Don’t know
+f. Change shape? cy @> Don’t know
+g- Flash or flicker? Yes Don’t know
+h. Disappeor and reappeor? : Yes Ge) Don’t know
+
+* It just moved away from the star cluster - the words"speed up and rush" aren't
+appropriate as I first saw it.
+
+ae Sa ica RIA i heii ict de cae MMR.
+
+rT

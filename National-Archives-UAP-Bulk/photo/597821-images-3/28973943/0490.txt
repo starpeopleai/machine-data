@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T06:03:00Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8311548, "source_ctime_ns": 1793379957674813329, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28973943/0490.jpg", "source_mtime_ns": 1785700799000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28973943/0490.jpg", "source_sha256": "cb0731896baecf445dcfe372bf6f218b6c26ea95a631ff5eb3aa505302d1da18"}
+
+===== PAGE 1 =====
+{"alpha_words": 101, "chars": 777, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+1 OATE 2. LOCATION 12. CONCLUSIONS
+O Wes Bealleen
+_6 November 1957 Artesia, New Mexico . Sees Sanus
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION eseiy Devteen
+| QO Wes Aircroft
+Lecel MX Greund- Vi sual O Ground-Reder CG Probobly Airereft
+OMT LON O Air Visuel © Air-Intereept Roeder DB Possibly Aircraft
+S$. PHOTOS 6. SOURCE @&X Wes Astronomicel Meteor
+GO Yes O Prebebly Astronomicel
+| 3KNe Civilian 0 Pessibly Astronomical
+7. LENGTH OF OBSERVATION 8. NUMBER OF OBJECTS | 9. COURSE D0 Other
+0 Insufficient Dete for Evaluction
+: Oo nknown
+10 seconds one not given
+
+10. BRIEF SUMMARY OF SIGHTING
+Oblong object, size of 25 cent piece,
+red, tail of fire like meteor, Disap-
+peared all at once,
+
+11. COMMENTS
+
+Meteor sighting.
+
+ATIC FORM 329 (REV 26 SEP 52)

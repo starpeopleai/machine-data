@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T05:38:11Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1711898, "source_ctime_ns": 1793393675190135055, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302579710/0990.jp2", "source_mtime_ns": 1785808296000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302579710/0990.jp2", "source_sha256": "fc65ae8aabaf0dbc4d4e5b6fb569fd490897ecda2a7ebc65661591d00c7eef93"}
+
+===== PAGE 1 =====
+{"alpha_words": 99, "chars": 728, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+REPLY TO
+ATTN OF:
+
+SUBJECT:
+
+TO:
+
+DEPARTMENT OF THE AIR FORCE
+HEADQUARTERS FOREIGN TECHNOLOGY DIVISION (AFSC)
+WRIGHT-PATTERSON AIR FORCE BASE. OHIO 45433
+
+TDPT (UFO) 1 OCT 1904
+
+UFO Observation, 27 September 1968
+
+Reference your recent unidentified flying object sighting which
+
+you reported to the Air Force. The information which we have
+received is not sufficient for 4 scientific investigation. Request
+you complete the attached AF Form 117 and return it in the self-
+addressed envelope. Thank you for reporting your observation to
+the Air Force.
+
+Ya
+J
+
+5 5
+
+“HECTOR ‘QUINTANILLA, Jr; Lt Colonel, USAF 1 Atch
+Chiet, Aerial Phenomena Office AF Form 117 w/envelope
+Aerospace Technologies Division
+
+Production Directorate
+
+aa

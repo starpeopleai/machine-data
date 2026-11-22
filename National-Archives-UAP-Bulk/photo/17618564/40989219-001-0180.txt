@@ -1,0 +1,24 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T06:05:21Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8579621, "source_ctime_ns": 1793354797109712350, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989219-001-0180.jpg", "source_mtime_ns": 1785564341000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989219-001-0180.jpg", "source_sha256": "36863d37d29ac0d2c1ec58c1c00309d6f3e0ef8969b2c3d9b901ddeff938dcde"}
+
+===== PAGE 1 =====
+{"alpha_words": 144, "chars": 902, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PRES; it is my duty as president of this court to advise you
+that the court In closed session and upon secret written ballot has found you not
+guilty of (the) (all) Specification(s) and Charge(s). The court will adjourn to
+meet at my call.
+
+PRES » it is my duty as president of this court to inform you that
+the court in closed session and upon secret written ballot, (twoethirds) (all)
+
+of the members present at the time the vote was taken concurring in each finding
+of guilty, finds you: /Of (all) the Specification(s) and Charge(s): Guilty /
+/Of Specification » Charge s (Guilty) (Not guilty). Of Charge” 3
+
+(Guilty) (Not guilty).
+
+Of Specification » Charge :; Guilty, except the words " ty
+and * * (, substituting therefor, respectively, the words "
+and ™ »" of the excepted words, not guilty, of the substituted words,
+guilty). Of Charge : (Guilty) (Not guilty, but guilty of a violation of
+
+te

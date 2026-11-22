@@ -1,0 +1,52 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T06:05:32Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8627179, "source_ctime_ns": 1793387985502459679, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28999582/1481.jpg", "source_mtime_ns": 1785748262000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28999582/1481.jpg", "source_sha256": "dbc2a485d4440bfbd5afa5a33bb3c16f3629873e172239e66c8107f99602ef66"}
+
+===== PAGE 1 =====
+{"alpha_words": 175, "chars": 1238, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+L 4
+
+1. DATE 2. LOCATION 12. CONCLUSIONS
+0 Was Balloon
+20 October 1962 Wells, Maine . Pooubl? he et
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION
+O Woes Aireraft
+Local X@ Ground. Vi sual OD Ground-Roder oO Probably Airér oft
+GMT 21/04302Z 0 Air Visual O Air-Intercept Radar |2 Possibly Aircroft
+5. PHOTOS 6. SOURCE DX Wos Astronomicel ME teor
+O Yes 0 et hd doncraias
+: Oo ossibly Astronomico
+Ho Civilian
+. ECTS | 9% COURSE O Other
+7. LENGTH OF OBSERVATION 6. NUMBER OF OBJ ES tc moran, ag sy me pate
+' 0 Unknown
+3 seconds 6 seconds one NE_
+10, BRIEF SUMMARY OF SIGHTING 11. COMMENTS
+
+Object that appeared to be a meteor
+leaving a trail, or two trails - one
+from each side, Suddenly increased
+ins ize and became circular. Had points
+of light. Object dimmed after about
+
+2 seconds. Sparks trailing, Alsmost
+disappeared three times during flight.
+Trail appearing to glow remained for
+about 5-8 minutes after object was
+sone. Dogs barked and howled although
+sound not audible to witness.
+
+Witness indicates object was like
+meteor or decay; however, was
+curious at the persistance of the
+trail. No reported decay for this
+date, Case considered as possible
+meteor observation,
+
+ATIC FORM 329 (REV 26 SEP 52)
+
+i
+}
+}
+le
+j

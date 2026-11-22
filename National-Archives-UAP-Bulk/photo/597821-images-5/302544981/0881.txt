@@ -1,0 +1,52 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T06:26:02Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1697923, "source_ctime_ns": 1793389939317515248, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302544981/0881.jp2", "source_mtime_ns": 1785808595000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302544981/0881.jp2", "source_sha256": "2b5bb032b0e3f7b9d566aafc7779a67ae67b12a0e37ef7c17d91b21bfd232012"}
+
+===== PAGE 1 =====
+{"alpha_words": 121, "chars": 950, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ae IEA APR INI Pepa
+
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+INCOMING MESSAGE
+
+ay
+Sj2
+La
+&,
+|
+
+AF IN: 50143 (5 Aug 65) |
+(5) HOW 01D OBJECT DISAPPEAR? = HAD NOT DISAPPEARED AT
+PAGE 3 RUWTABA2922 UNCLAS
+LAST LOOK.
+(6) HOW LONG OBJECT VISIBILE - 1 1/2 HOURS.
+C. MANNER OF OBSERVATION: |
+C1) CONTROL TOWER TO AIR VISIBILITY.
+
+=
+
+eS
+
+(2) OPTICAL AIDS - BINOCULARS, 7 X 5% POWER, MARK 28,
+BAUSCH ANO LOMB MANUFACTURE.
+
+(3) SIGHTING DID NOT OCCUR WHILE AIR-BORNE.
+D, TIME AND DATE OF SIGHTING:
+
+(1) FIRST OBSERVED 2239 ZULU HOURS, 2 AUG 19653 LAST
+OBSERVED G49QZ, 2 AUG 1965. es
+
+(2) LIGHT CONDITIONS - NIGHT.
+E, LOCATION OF OBSERVERCS) s
+
+LATITUDE 35 DEG, 23 MIN - 20 SEC NORTHs LONGITUDE 97 DEGREES,
+22 MIN - 54 SEC WEST.
+F, IDENTIFYING INFORMATION ON OBSERVERCS):
+
+C1) CIVILIAN = NOT APPLICABLE.
+
+(2) MILITARY - TSGT JOHN R. LANG, AF 13289448, 34 YEARS OF AGE,
+Se"
+
+WATCH SUPERVISOR, TINKER AFB CONTROL TOWER, 3 RD MOBILE COMMUN FCAT SONS
+
+ON

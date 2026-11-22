@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T06:25:51Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1695070, "source_ctime_ns": 1793389053130723827, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302535850/01152.jp2", "source_mtime_ns": 1785808325000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302535850/01152.jp2", "source_sha256": "e482c9c9a740a399d0c0eca36abc52af63d7dae9eb685a4c2ee8b6b2667a224d"}
+
+===== PAGE 1 =====
+{"alpha_words": 98, "chars": 617, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+EASE RNRATE NEL TS
+RSA LaTePre, that ce cf ne ub as ck phi, Sie Mh cits SOA LE
+PR tr eae hoon tmnt te Ap RII YT 2
+
+eit Re Teneo
+
+No Case (Information Only) 3 September 6)
+Source: Sky & Telescope, March 1965 Visalia, California
+
+on
+
+THE FIREBALL OF SEPTEMBER. 3,|
+1964, by Ronald A. Oriti, Griffith Ob-
+server, January, 1965. “The. probable
+area of fall. . . turned out to be about
+fifty miles east of Visalia, California, |
+and covered more than 1,000 square!
+miles, . . . There has never been 4
+meteorite recovered from an observed
+fall in the State of California. This was'
+
+* our best opportunity, we thought.” :

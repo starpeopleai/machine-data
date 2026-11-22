@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T05:56:34Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6873179, "source_ctime_ns": 1793378137121460880, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28966873/0057.jpg", "source_mtime_ns": 1785696587000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28966873/0057.jpg", "source_sha256": "2ee71bb777ef3279a3b55c4c9befd66e1c825244e95e491e5891b2cf7a918e78"}
+
+===== PAGE 1 =====
+{"alpha_words": 31, "chars": 188, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+L AWK EUNER Te =“ “Seu wi A ret » Ge Trigg
+ee
+>] A
+x IX
+J
+a le f
+LS 4 ¥ ear Jy fs aaa
+
+} Pe
+: 7
+r
+\
+‘ a
+\
+\ ‘ oe
+‘
+
+\
+
+e. sere - f pte .
+
+cms & te Resta,
+
+es Mow & Ke as. SS
+
++ ee eet ae

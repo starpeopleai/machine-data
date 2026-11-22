@@ -1,0 +1,101 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T06:12:13Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 17828130, "source_ctime_ns": 1793355707433607773, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0144.jpg", "source_mtime_ns": 1785564507000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0144.jpg", "source_sha256": "0e2d5fcfea758d56213cfe8dfb5e642e49c9a0b725c550621ec19d8d3233eda6"}
+
+===== PAGE 1 =====
+{"alpha_words": 858, "chars": 5893, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+274
+
+the use of communications is paramount. This suggests sharing facilities among
+
+several users and preferably serving several users simultaneously. This again
+calls for greater bandwidth and therefore higher frequencies,
+
+Fourth, there is a standing need for circuit reliability. We cannot tolerate,
+for example, the dropouts on high-frequency radio circuits caused by magnetic storms
+storms and their associated high background noise. Line-of-sight networ]
+
+KS should
+improve this situation. Fifth, improved survivability stands high on any list of
+communication needs. To reduce the number of stations in a line-of-sight network
+should numerically reduce the odds of system failure. Here we can easily go off
+the deep end, however, unless we remember a balloon is not as sturdy as a stee]
+tower.
+
+Sixth, any changes in the communications system should be readily adaptable
+to present plant. In this way growth can be realized by expansion of existing
+facilities. Seventh, the communications that we install now and plan for the future
+should be compatible with the Communication Master Plan of the Department of
+Defense. This means the ability to handle multichannel voice, low- and high-speed
+digital data, unusual modulation techniques like enciphered voice and video trans-
+missions. Eighth, and perhaps to repeat in part, whatever communication facilities
+or approaches we use, they must possess suitable growth potential to adjust to
+changing requirements.
+
+The requirements for greater bandwidth, hence higher frequencies, and for
+spanning greater line-of-sight distances places a premium on very-high- altitude
+platforms. Perhaps one of the simplest and most direct applications would be the
+use of a balloon to support an echo type passive repeater in the ''scatter volume"
+zone of a tropospheric radio transmission link. This establishes a common line-
+of-sight point and transmission path computations indicate recovery of 70 percent
+of the 57-db loss normally attributed to the tropospheric scatter mode in compari-
+son with free space. Based ond = 2h, where d is in miles and h in feet, it works
+out the smooth earth line-of-sight distance of a balloon tethered at 20, 000 feet as
+200 miles, that is, two tropospheric scatter radio stations separated 400 miles
+can be brought within effective line-of-sight. If a pseudo passive repeater con-
+sisting of an array of helical antennas and suitably biased tunnel diodes were used
+an additional 20 db can be realized above the passive configuration.
+
+There are several other possible configurations as will be described briefly.
+One is a balloon- Supported active repeater. Such a repeater can of course be
+narrow band or broad band. It can be located at midpoint between stations or
+directly over a central or command location. Such supporting balloons can be
+either tethered or free floating as best serves the operational requirement. A
+tethered balloon at 10, 000 feet centrally located could provide line-of-sight
+
+coverage in an area of 130 mile radius about this center. By means of one of the
+
+275
+
+several random access, discreet address techniques now under consideration, user
+to user communications can be provided between all parties in this area of coverage.
+
+Another application that appears attractive, referred to above as "narrow band",
+is extending the range of ground-to-aircraft command and control coverage by the
+use of a tethered or a free floating balloon. Inthe first case we are thinking of
+10,000 feet; in the latter of 70 to 90,000 feet. If an aircraft under control were
+flying at 30, 000 feet the maximum range of line-of-sight under optimum conditions
+would be of the order of 1,000 miles. Such a repeater could be launched from
+ground, from aircraft, or by means of a rocket, depending on position, time,
+operational requirement and acceptable cost.
+
+Another application of airborne communications equipment is in the area of
+survivable communications and communications restoration. Here we are thinking
+of large manned platforms similar to the Navy dirigibles of World War II. This
+could include multiple frequency, broad band radio terminals, a switching and
+traffic routing capability and emergency Command Post facilities of the type adapted
+to limited war operations. Initially such a device operating as a flying laboratory
+would facilitate solution of many problems related to the use of balloons as commun-
+ication platforms. A small, lightweight, well streamlined, ''drone'' version of
+such a dirigible capable of hovering in a specified zone for two or three days at
+90 to 30,000 feet as a live-radio-repeater platform holds some interesting possibilities.
+Electric power derived from the propelling power plant would permit radio-fre-
+quency energy levels sufficient to assure reliable propagation over line-of-sight
+distances involved and perhaps without the use of highly-directional antennas
+
+required to compensate prime power restrictions of a tethered balloon platform.
+
+9. GENERAL CONSIDERATIONS
+
+As a point of philosophy it may be well to note that in the military, commun-
+ications have virtually always the nature of a support function and receive second-
+ary consideration with respect to weapons and weapon detection and neutralizing
+devices. On the other hand, without the cohesive aspect of a communication net-
+work, organization as such does not even exist, let alone function in the specialty
+for which it was conceived and established. It is customary therefore to take
+communications for granted to such an extent that any acceptable communication
+complex must function on a ''no break'' basis, 24 hours per day, 365 days per
+year,
+
+There are other areas of general considerations that are more or less self
+explanatory. As in the case of any equipment considered for military use, certain
+
+basic criteria must be met. It must be technically feasible, economically

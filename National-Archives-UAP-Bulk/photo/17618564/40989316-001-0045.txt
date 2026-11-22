@@ -1,0 +1,50 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T05:33:56Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 911091, "source_ctime_ns": 1793356311742079978, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989316-001-0045.jpg", "source_mtime_ns": 1785564670000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989316-001-0045.jpg", "source_sha256": "8e1d2bd865647ab5d0239378659ea51bcacd9a1676f6bb532bff5657d800164a"}
+
+===== PAGE 1 =====
+{"alpha_words": 199, "chars": 1240, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+2:30 P.M.
+4:10 P.M,
+
+43:15 P.M.
+
+4:20 P.M.
+
+4:20 P.M,
+
+4:30 P.M.
+
+5:00 P.M.
+
+5215 P.M.
+
+July 7, 1947 (Cont'd)
+
+To airport to meet Mr. Symington and then to Mr. Symington's office.
+Returned.
+
+General O'Donnell.
+General LeMay
+
+Col. Warren called back re Gen. Vandenberg's directive that
+
+he run down the story about the flying discs, Col, W. finally
+located the reporter who picked up the story from another man.
+This man lives in Goose Creek. He now says that it was entirely
+a figment of his imagination ani that he just made it up. Col.
+W. talked to a Mr. Evans who is handling this thing at the
+Chronicle —- and they took it up with somebody up at the Air
+Depot at Spokane. - - - - He said to them that he just made the
+thing up. Col. Warren said that the Chronicle seemed to be
+satisfied that the thing was just a cock and bull story.
+
+Col. W. is going to check with the local F.B.I. and possibly
+drive over to see the man at Goose Creek. If anything further
+develops he will ca.1 Gen. Vandenberg.
+
+Nr. Leo on phone - Gen. Van told him the above story. A civilian,
+Joe Shipman, who works with Col. Hackett is reported to have told
+the Chronicle to contact Gen. Twining.
+
+To see Mr. Symington
+
+Departed far office of Congressman Hoffman,

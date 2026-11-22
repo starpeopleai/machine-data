@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T06:10:20Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10358290, "source_ctime_ns": 1793364133019790458, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330786509/45484701-006-006-0156.jpg", "source_mtime_ns": 1785684588000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330786509/45484701-006-006-0156.jpg", "source_sha256": "37bf3851f819a3b63a5a14da26a81620e0a1a1744caaa23455b72bb9d6cdee52"}
+
+===== PAGE 1 =====
+{"alpha_words": 114, "chars": 893, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+. Nold/amb/71776
+9 Mar 50
+
+O#fFICE OF SPECIAL INVESTIGATIONS
+
+(Unclassified) Unidentified Aerial Object, 1955 hours,
+7 February 1950, Sichted at Albuquerque, UM. by: (See
+SPBUIAL INQUIRY
+
+District Commander, 17th OSI District 446
+Kirtland Air Force Base, Albuquerque, New Mexico
+
+Ps
+
+ie to report of investigation your
+concerning captioned Subject.
+
+2, Attention is inyi ted to AFCSI Letter % : 2ub ject
+Unconventional Aircraft, dated 8 February 1950 whic ssid that
+active investigation of incidents concerning "Uneonventional Aircraft"
+will not be conduct ed unless a specific request is Bae by scuba
+authority, Otherwise, information received on this Subject will
+reported to Headquarters, OS! through the media « “Sot Intelligence
+Reports.
+
+compliance with referred to AFCSI Letter.
+
+UNCLASSIFIED
+
+Actg Chief, Counter Intelligence Div
+
+OSI, IG, USAF
+
+Declassification Authority: NND 923007

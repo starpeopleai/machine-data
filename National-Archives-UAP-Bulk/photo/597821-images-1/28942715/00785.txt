@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T06:23:47Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1362749, "source_ctime_ns": 1793372430213952420, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28942715/00785.jpg", "source_mtime_ns": 1785688523000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28942715/00785.jpg", "source_sha256": "9fedf2943bfffb772c727f5b7b04b80c8347f64f636e54571076f46805fbbc6f"}
+
+===== PAGE 1 =====
+{"alpha_words": 73, "chars": 573, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+UNCLASSIFIED | ‘ Tg |e
+FROM LT FJ pom AAS5 ry 7 1am 24
+TO CAPT FOURNET AFOIN-233
+
+SECURITY INFORMATION WFORMATON,
+REFERENCE CSAF ITEM 7, TT 147, 17 JUNE 52. :
+ATIC HAS RECEIVED REPORT. paetiunnoee |
+
+ATION-INBICATES-OBJLCTS-MIGHT-HAVE——————--— :
+
+_ BEEN BALLOON. WASHINGTON D.Ca,y AND PITTSBURGH
+
+BALLOON LAUNCHES ARE BEING CHECKED. WIND re oe
+| DIRECTION, TIME, AND DISTANCE SETYEEN TyO 3 Y | pak
+. SIGHTINGS FAVORABLE TO BALLOON, Vd O
+as . { °
+- END ITEM 6 AMC bonne
+1 DOWNGR.+ n= 4Tv " wr 4% RY aL
+
+“ DECLA:. eee | SSIFIED
+Be... DOW Lui oewsu |
+
+NOTHING FURTHER HERE .

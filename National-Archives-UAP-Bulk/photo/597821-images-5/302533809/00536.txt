@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T05:36:11Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1275565, "source_ctime_ns": 1793388872461315658, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302533809/00536.jp2", "source_mtime_ns": 1785808137000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302533809/00536.jp2", "source_sha256": "507bf7e79053db49669ecf838fff1c077284d779089569e4aab27c7c68dcd7d8"}
+
+===== PAGE 1 =====
+{"alpha_words": 88, "chars": 568, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+rep (TDEw)
+Vrigot-Patterson A¥3, Ohio 45433
+
+Dy J Allen Hynex
+pearoorn Observatory
+Nortawestern University
+Svanston, Illinois
+
+Dear Allen,
+Reference the attached letter from QMmmer revorting an
+unidenti?ied flying object. He states that the sighting was
+However, his letter was mailed on 1 July 1965. The
+bL LO 13
+
+tails presented dces not lend to an apparent solution.
+
+Vn
+
+oticy
+requested that your opinion on this report be made.
+
+Pa tat:
+
+HBCTOR' QUINTANILLA, Jr
+
+Major, USAF
+Chier, Aerial Phenomena Branch
+
+5
+PALS er yT lop ae at rece ate
+Fie Nae eran ota ol Se

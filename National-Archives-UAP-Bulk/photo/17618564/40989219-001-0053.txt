@@ -1,0 +1,42 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T06:00:16Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7633853, "source_ctime_ns": 1793354729747653658, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989219-001-0053.jpg", "source_mtime_ns": 1785564331000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989219-001-0053.jpg", "source_sha256": "85eaf49df631847f9a80abcc38b823b68a698add5a670da55fd66d404ce52702"}
+
+===== PAGE 1 =====
+{"alpha_words": 97, "chars": 470, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+(F
+: ch Da de Mane 5 = ae, Bt eset hat
+oi = go 3" oe Kamrctcl — Epps.
+ee a. vee pt ome a5”
+shit pars pase te ppall, (Gi ager
+
+Oe core at. a a es ae ie | ae
+é ees ¢ jock’ Le
+
+ee gl? may, see Deir
+df AJ Ate HOO ey: oti’ ug
+
+cf | wbark ner ¢ eee Li be & QR
+
+a pas -
+/
+"
+
+h Lm 5
+ere,
+J
+S
+oa
+TQ
+x
+
+i.
+
+i
+
+6 titre ee eat ce ll Hg,
+die ALG we ee ae fre apes Ct afk '
+qin oo et joe —eoLU Hck rte —
+3 A. oy & oom ek BO HQ.
+gi 2 Oe Bc
+A frend Che A =O. ase Cke bag
+
+en ee ae Ros

@@ -1,0 +1,41 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T06:03:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8320449, "source_ctime_ns": 1793362358988729073, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330782695/45484701-002-005-0092.jpg", "source_mtime_ns": 1785684773000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330782695/45484701-002-005-0092.jpg", "source_sha256": "eef4100a9669571b00e07d562886295d65a9764c0f9c3facafcfed8dbbf38a64"}
+
+===== PAGE 1 =====
+{"alpha_words": 57, "chars": 454, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+UNITED STATES AIR FORCE “=| FILE NO.
+
+THE INSPECTOR GENERAL aby wom dh
+OFFICE OF SPECIAL INVESTIGATIONS
+
+REPORT OF INVESTIGATION
+
+ny
+
+REPORT MADE BY
+
+REPORT MADE AT
+
+PERIOD
+
+OFFICE OF ORIGIN
+
+STATUS
+
+CHARACTER
+
+REFERENCE
+Ley frm
+
+SYNOPSIS
+
+DISTRIBUTION ACTION COPY FORWARDED TO FILE STAMP
+
+é
+
+APPROVED
+
+District Commander.
+
+AFHQ FORM 208 Replaces AFCSLForm 4 ii z , " a 16—57744-4 U. 5. GOVERNMENT PRINTING OFFICE
+
+Declassification Authority: NND 923007

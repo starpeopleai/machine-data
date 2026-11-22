@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T06:21:36Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1009893, "source_ctime_ns": 1793389714312267716, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302543206/0562.jp2", "source_mtime_ns": 1785808661000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302543206/0562.jp2", "source_sha256": "5c00f663d94818e8477b7459cb379df481b6d281e867b44c7c90a9e1f82b700a"}
+
+===== PAGE 1 =====
+{"alpha_words": 86, "chars": 731, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+| UNCLASSIFIED |
+
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+INCOMING MESSAGE
+
+AF IN: 40441 (8 Sep 65) Page 30f5
+
+3, NO AIRBORNE SIGHTING.
+D. TIME ANO DATE OF SIGHTING:
+PAGE 3 RUWHBH 7714 UNCLAS
+1. 93302 28 AUG 65.
+2. DUSK.
+EF, LOCATION OF OBSERVER:
+ee co, yaSHINGTON, 45 15N, 122 38M
+F. IDENTIFYING JNFOGMATION ON OBSERVER?
+REVEREND Si’ , 5) , gia, TACOMA
+VASHINGTON, MINISTER, FAIR RELIABILITY. ,
+G. WEATHER AND YINOS = ALOFT CONDITIONS AT TIME AND PLACE OF
+SIGHTINGS:
+
+4. OBSERVERS NOTED THAT THERE WERE BLACK CLOUDS PRESENT
+
+A GOOD DISTANCE BELOW OBJECT, REST OF SKY WAS CLEAR.
+
+9, ALTITUCE WIND DIRECTION WIND VELOCITY
+SURFACE 269 DEGREES 6 KTS
+6398 299 15
+13309 269 15
+16999 269 38
+
+29083 269 Ly)
+
+oe | UNCLASSIFIED |

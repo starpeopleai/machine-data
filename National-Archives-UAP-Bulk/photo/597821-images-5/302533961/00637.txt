@@ -1,0 +1,49 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T06:23:16Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1249858, "source_ctime_ns": 1793388883723799619, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302533961/00637.jp2", "source_mtime_ns": 1785808547000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302533961/00637.jp2", "source_sha256": "7aa717f9c9f2a19be4cb4b4c5971e0d2eb9ec20d16130953cc1eb4293b405edd"}
+
+===== PAGE 1 =====
+{"alpha_words": 80, "chars": 565, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+i EAC OMING DSPARTMENT OF THE AIR FORCE
+fi COOL  « STASF PARSSAGE BRANCH eee aS
+
+en we nad
+
+AF IN : 56707 (5 Jul 64) X/rsg reget Oe
+
+INFO : NIN-7, XOPX-5, XOP-1, SAFOS-3, ARMY-2, CMC-9, JC 1-35, OSD-15,
+
+NSA-7, DIA-15 (190)
+
+DE RUHLKH 3 @5/1738Z
+
+ZNR : |
+
+P @517352
+
+5
+
+(i S26ATRDIV KUNIA FACILITY HA
+TO RUALAN/ PACAF
+RUHPHH/ COMH AWSE AFRON
+
+INFO RUEAHQ/ CSAF
+
+RUECW/CNO
+RUECW/SECNAV
+RUWGALB/ CI NCNORAD
+
+RUHLHQ/ CINCPAC
+
+RUHLHS/ CINCUSAR
+
+RU AUAZ/ COMUSJAPAN
+RUAMC/ COMUKOREA
+RUAGFL/COMUSTDC
+
+RUCSBR/ CINCSAC
+
+UNOLAG. GO Pe Rove LE Se DOsCo -¢
+
+, Sere
+~)}
+ON
+~}

@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T06:22:55Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1096536, "source_ctime_ns": 1793355861024699277, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989282-001-0013.jpg", "source_mtime_ns": 1785564544000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989282-001-0013.jpg", "source_sha256": "fc441ac35aac38f70fb11702aea809142fbe7afebaddbc1c785d5c6703b358cb"}
+
+===== PAGE 1 =====
+{"alpha_words": 157, "chars": 1038, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Air Force, Integrated Range Mission; Mr. F. D. Moore, Range
+Facilities Control Officer; Mr. Samuel Re Cooper, Chief,
+Scheduling Section, Systems Test Division, WSPG; Commander
+
+T, C. Buell, Executive Officer, and Mr. G. Harry Stine, General
+Engineer, Naval Ordnance Missile Test Facility.
+
+One more officer must be mentioned here since he answered
+mumerous questions by mail and in parson on topics entirely
+outside the scope of the duties he was fulfilling at the
+time: Colonel William He Baynes, former Commander of Holloman
+Air Force Base, an? only recently retired as Deputy for Missiles,
+Directorate of Systems Management, Air Research and Development
+Command Detechmsnt 1. This still does not complete the list of
+persons who have helped in, the gathering of data for the
+present volume. However, of those who cannot be included here,
+a few more (though admittedly not all) will be duly cited in
+the footnote references. In every case, once again, the
+Historical Branch wishes to express its appreciation for
+
+assistance rencerede

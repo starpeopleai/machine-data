@@ -1,0 +1,23 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T05:38:51Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1729081, "source_ctime_ns": 1793389859809910418, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302544536/0303.jp2", "source_mtime_ns": 1785808204000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302544536/0303.jp2", "source_sha256": "20703b1921e8d7d401ccd0288f72c30c26287c8718f50904add34a3ba9478932"}
+
+===== PAGE 1 =====
+{"alpha_words": 60, "chars": 392, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+“a ®
+
+he, moe |
+NAVAL MESSAGE : NAVY DEPARTMENT |
+B,. NAKED EYE |
+Ce. NA
+4, TIME AND ‘DATE:
+a,.08/0 r4
+B» DARK NEF Men, cok eigen
+S.. LOCATION OF OBSERVERS
+8 hie nehated cohabit etd MENLO PARK, CALIF,
+
+pai. PARK. PD peat Leen kn Sa lige
+7 WE OS eee. Pe SA
+As. NUQ’ CLEAR: SKIES ste ILE. “yisietLity
+4 >
+
+CONTROL NO. PAGE OF PAGE Time OF RECEIPT ‘a Te Time GROUP
+c08761/2 2 2 |0918442 SE? 43

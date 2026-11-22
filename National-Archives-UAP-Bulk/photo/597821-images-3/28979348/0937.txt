@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T05:59:43Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7546325, "source_ctime_ns": 1793381122351030878, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28979348/0937.jpg", "source_mtime_ns": 1785701078000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28979348/0937.jpg", "source_sha256": "54d3fffbd7d6f6d2ce321c40f3fee60097c9d09dca6edfabcfaa8f64f8b4ed93"}
+
+===== PAGE 1 =====
+{"alpha_words": 85, "chars": 491, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+a or
+
+oo
+CZCSQCO47 ZCWYB5S71 ean
+PP RJEDSO
+DE RUWFHW 60
+P 1329402
+
+FM COMDR 745TH ACWRON DUNCANVILLE AFS TEX
+TO RJEDDN/COMDR ADC ENT AFB COLOO
+
+INFO RJEDDN/COMDR 1@@6TH APSS ENT AFB COLO
+
+RJUFHU/COMDR 33RD ADIV OKCTY AFS OKLA Peat
+
+RJEDSQ/COMDR ATPC WP AFB OHIQ-—
+
+RJEPHQ/COMDR INTEL HQ USAF WASH DC
+
+"RJEPHQ/COMDR OIS HQ USAF WASH DC
+
+BT |
+
+UNCLAS FM OPS @8-G¢8 ATTN 33RD DOI HO ASST CHPEF OF STAFF. SUBJ: UFO
+
+hel (OBLONG >
+4. ONEO
+Se NWA
+Se NEGATIVE
+7, NEGATPVE
+
+| (lab freey La : 4 a ee

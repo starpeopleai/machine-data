@@ -1,0 +1,9 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T05:40:30Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 2710748, "source_ctime_ns": 1793375829059910811, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28957859/0930.jpg", "source_mtime_ns": 1785696937000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28957859/0930.jpg", "source_sha256": "3375e4576e696b30930c46cc109799fa7c75a6a73e25883f16e8c95ef752ca91"}
+
+===== PAGE 1 =====
+{"alpha_words": 13, "chars": 74, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ATH S-2.
+Rscsepaalys leas at es : ae Fi & 4 See abet whe ‘esi
+
+i a
+¢ “He

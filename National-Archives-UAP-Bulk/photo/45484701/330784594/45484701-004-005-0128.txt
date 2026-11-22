@@ -1,0 +1,22 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T06:05:00Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8505574, "source_ctime_ns": 1793363156809717834, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330784594/45484701-004-005-0128.jpg", "source_mtime_ns": 1785684744000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330784594/45484701-004-005-0128.jpg", "source_sha256": "f75d0ae939f3b0f7756d278ba997b04ee745ee48c63999509c2221ba75fba81d"}
+
+===== PAGE 1 =====
+{"alpha_words": 57, "chars": 435, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+5De24°21
+
+SUBJ: Sighting of Unidentified Object in Sky
+Near Wright Air Development Center,
+Wright-Patterson Air Force Base, Ohio
+
+3, Attention is invited to Paragraph 7, AFR 2051, dated 14 March
+1949, which prohibits the disclosure of classified information to un-
+authorized personnel,
+
+L Inel D. Ge NORTH
+Transeript of phone Lt Colonel, USAF
+conversation District Commander
+
+TT ar
+ate | Of hy
+
+Declassification Authority: NND 923007

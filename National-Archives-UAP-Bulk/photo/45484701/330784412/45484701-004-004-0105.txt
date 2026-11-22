@@ -1,0 +1,17 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T05:57:18Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7008841, "source_ctime_ns": 1793363077034275354, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330784412/45484701-004-004-0105.jpg", "source_mtime_ns": 1785684806000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330784412/45484701-004-004-0105.jpg", "source_sha256": "385727cb54fe16a22cbd7e4b5f626cf56f7ec61f7f0b9c25d7803ca335cb7462"}
+
+===== PAGE 1 =====
+{"alpha_words": 19, "chars": 196, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+DEPARTMENTCOF THSCAd
+STAFF MESSAGE DIVISION
+
+—TNCOMING' ELEAR MESSAGE
+(
+
+UNCLASSIFIED
+
+AFHQ FORM 0-309 D -55689-5 US. GOVERNMENT PRINTING OFFICE
+
+15 APR 49
+
+Declassification Authority: NND 923007

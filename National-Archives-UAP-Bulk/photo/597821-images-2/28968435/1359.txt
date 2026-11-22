@@ -1,0 +1,91 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T05:55:20Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6681966, "source_ctime_ns": 1793378571432359472, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28968435/1359.jpg", "source_mtime_ns": 1785696703000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28968435/1359.jpg", "source_sha256": "8476da1325a8a496992717a82267c7656305962f014d0d6484b21e2a57dcf6bc"}
+
+===== PAGE 1 =====
+{"alpha_words": 221, "chars": 1568, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+-
+me ehins eet FE NRE EE Rete
+wv . wre
+e
+
+Oe eee eens ee
+
+"MA ION when Alled on
+
+Nha (CLASSIFICATION)
+santenteamn iiiietniaiadline acai
+COUNTitY OF ORIGIN
+
+GSRMANY
+
+~ (Leave dbiank)
+
+06 079-9
+
+| REPORT NO.
+
+IR-3448-56
+AIR INTELLIGENCE INFORMATION REPORT ;
+
+AREA REPORT CONCERNS
+
+Date of Collection
+
+WkST GSRMANY a
+AGENCY OF ORIGIN OATE OF REPORT P G
+
+Bad Soden Team (lhe GF
+7050th Air INTSERGRU (USAFE) 27 Nov 56 F/3 5 j
+
+‘DATE OF INFORMATION
+
+SOURCE
+PREPARING OFFICER EVALUATION 8 1957 a
+-| GE0KGS UREKE, Major, USAP. soy ta AC cB eit daa
+ REPERENCES (Control number, directive, preriona report, etc,, aa applicable)
+}
+| BAIR - 3E, 5P
+SUBJECT ,
+WEST GERiAN PEDESTRIAN SEES MYSTSRIOUS STATIONARY LIGHT IN GREAT BEAR
+CONSTELLATION.
+é SUMMARY. (Enter concise suinmary of report. Give siynificance in final one-sentence paragraph, Liat inclosures at lower left. Begin tezt of report on AF Form 1124.)
+
+On 21 November 1956 ‘at 2105 hours a stationary orange colored light
+
+l.
+It looked similar tc the planet
+
+was seen in the Great Bear-Constellution.
+MARS in color and size. The light stayed fo onds after which it
+blinked two to three times and disappeared. The observer at MUEHLHEIM
+(4802N-0853E) did not believe that it was an aircraft.
+Editor: Francis licGuire
+
+II. Translator: Ernst Bollmeyer (FN)
+
+APPROVED:
+
+RERBERT L CRISLER
+Colonel, USAF
+Commander
+
+’ ‘
+DISTRIBLTION BY ORIGINATOR
+
+ee a oa ha
+
+GEORGE UREKE
+Team Commander
+
+Bad Soden Tean, 7050th AISG
+
+Claselfication Cancefled
+OP Changed to devs
+t
+
+Classuication Cancelled
+
+Auth: AEA
+Aun: Pag
+By ey
+
+UNCLASSIFIED

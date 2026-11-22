@@ -1,4 +1,4 @@
-{"created_utc": "2026-10-12T03:36:00Z", "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "embedded-text", "pages": 0, "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1111740, "source_ctime_ns": 1788505754073207259, "source_file": "Chile-SEFAA/documents/INFORME-CASO-N--1473.pdf", "source_mtime_ns": 1788505754042437625, "source_rel": "Chile-SEFAA/documents/INFORME-CASO-N--1473.pdf", "source_sha256": "41e65c403cb76c42f322822fae80d4b544c7324e0f8aab5371a2f1b88f9c0b82"}
+{"created_utc": "2026-11-22T05:32:13Z", "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "embedded-text", "pages": 0, "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1111740, "source_ctime_ns": 1793354225746326043, "source_file": "Chile-SEFAA/documents/INFORME-CASO-N--1473.pdf", "source_mtime_ns": 1788505754000000000, "source_rel": "Chile-SEFAA/documents/INFORME-CASO-N--1473.pdf", "source_sha256": "41e65c403cb76c42f322822fae80d4b544c7324e0f8aab5371a2f1b88f9c0b82"}
 
 Caso N° 1473 03032021
 

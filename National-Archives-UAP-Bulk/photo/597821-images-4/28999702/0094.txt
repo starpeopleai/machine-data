@@ -1,0 +1,69 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T05:47:06Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4685841, "source_ctime_ns": 1793388021369066402, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28999702/0094.jpg", "source_mtime_ns": 1785748033000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28999702/0094.jpg", "source_sha256": "8eb4902cab686a39883e097d275ff11769903a9e633c4a53230d968b444bdf15"}
+
+===== PAGE 1 =====
+{"alpha_words": 235, "chars": 1523, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+8. IF you saw the object at NIGHT, what did you notice concerming the STARS and MOON?
+8.1 STARS (Circle One): 8.2 MOON (Circle One):
+
+a. None ; a. Bright moonlight
+
+b. A few b, Dull moonlight
+
+c. Many c. No moonlight — pitch dark
+d. Don’t remember d. Don’t remember
+
+9. What were the weather conditions at the time you saw the object?
+
+,. CLOUDS (Circle One): WEATHER (Circle One):
+
+; a. Dry
+b. Hazy : b. Fog, mist, or light rain
+c. Scattered clouds c. Moderate or heavy rain
+d. Thick or heavy clouds d. Snow
+e. Don’t remember
+
+The object appeared; (Circle One):
+a, Solid d, Asa light
+
+b. Transparent e. Don’t remember
+c. Vapor
+
+Site ip eh wyrth av brig ht ty okt Coming Likom obpect
+o 7 o
+If it appeared as a light, was it brighter than the brightest stars? (Circle One):
+
+a. Brighter c. About the same
+b, Dimmer d. Don’t know
+
+11.1 Compare brightness to some common object:
+
+Sy eee fe be vishter 1 Fa! boy Fant eras Si done:
+a a eet if
+
+. The edges of the objec? were:
+
+(Circle One): a, Fuzzy or blurred
+b. Like a bright star
+c. ‘Sharply outlined
+d. Don’t remember
+
+. Did the object: (Circle One for acch question)
+
+eameare
+
+a. Appear to stand still at any time? {Yes No Don’t know
+b. Suddenly speed up and rush away at any time? Yes Don't know
+c. Break up into parts or explode? Yes Ne Don’t know
+d. Give off smoke? Yes : Don't know
+. Change brightness? Yes ‘Ng Don't know
+. Change shape? Yes “No Don’t know
+: C Don’: know
+. Disapoear and reappear? Yes N9) Don't know
+
+RM A ET lg Ta
+
+“AT ws
+
+. Flasn or flicker? Yes
+
+-

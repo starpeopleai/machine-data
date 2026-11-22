@@ -1,0 +1,42 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T05:43:57Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4068511, "source_ctime_ns": 1793379153960441475, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28971298/1042.jpg", "source_mtime_ns": 1785700922000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28971298/1042.jpg", "source_sha256": "e53094d0c9a8f2906ca62a97dfdceae882079fe0f81d1b642022db7914d578f4"}
+
+===== PAGE 1 =====
+{"alpha_words": 94, "chars": 612, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Ve typed 3 Pp
+WPH@38 WPD1@2 YDBS71 TYC en 1 ASMA L47NBM976
+RR RJEDEN RJ EDWP RJ EPHQ RJEP NY’ :
+
+LL!
+
+DE RJEPNB 4M
+_R 2299582 © <
+FM COMDR 762D ACWRON NO TRURO AFS MASS > COAX
+TO RJEDEN/COMDR ADC ENT AFB COLORADO ap
+
+RJEDWP/COMDR ATIC WRIGHT-PATTERSON AFB OHIO
+
+RJEPHQ/DIR INTEL HQ USAF WASH 25 D. C.
+_ RJEPNY/COMDR 26 AD ROSLYN AFS ROSLYN NY
+INFO ZEN/COMDR DET 3 46%2D AISS STEWART AFB NY
+ZEN/COMDR EADF STEWART AFB NY
+BT
+- /UNCLASSIFIED/SQOP 98074, ATINs CIC. SUBJECT UFOB
+(1) DESCRIPTION:
+SCA) OVAL
+(B) LARGE
+WHITE RED & GREEN
+(D) 1
+CE) NONE
+¢F) LARGE LIGHT
+(G) NONE
+¢€H) NONE
+
+cc
+
+‘— t?
+
+(1) NONE
+
+ry
+
+“o-~

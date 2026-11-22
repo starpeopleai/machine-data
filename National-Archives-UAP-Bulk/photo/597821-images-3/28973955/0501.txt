@@ -1,0 +1,46 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T06:02:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8280535, "source_ctime_ns": 1793379962514562229, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28973955/0501.jpg", "source_mtime_ns": 1785701070000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28973955/0501.jpg", "source_sha256": "623e2042e30a8aaec67e9a8759d797994c82182ffc007afa1828ef1d9d0bfb01"}
+
+===== PAGE 1 =====
+{"alpha_words": 198, "chars": 1289, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+/
+
+-
+SREP TINY SRMTS © - + (CRE Ure sere teregeen ay ee —
+f Raku st CHaf,
+
+~—_"
+
+| Als
+
+Baltimore 10, hid.
+November 13, 1958
+
+U.F.O. Committee of the Air Force
+The Pentagon
+Washington, D.C.
+
+‘Dear sirs,
+
+| I received the enclosed letter in reply to my previous letter in
+which I requested information concerning the conclusion you have come
+to in regard to the UFO report I had sent you on December 15, 1957.
+Unfortunately due to some misunderstanding, December 15 was not the
+date of the sighting, The unusual aerial object which I saw over
+Baltiszore appeared on the night of November 6,1957 at 9:43-9:47 P.M.,
+E.S.T.
+
+Would you please search your records for the night of November 6th,
+igaf end let me know into which of the six general catagories my report
+has been placed. I would very much appreciate any details accounting
+for the object's most unusual appearance and whether: or not your files
+indicate any other sishtings in the Baltimore ares on the night of Nov-
+
+ember 6, 1957. |
+
+I am anxious to know what the unusual aerial object I sew on Nov. 6
+was, because in the hundreds of hours I have spent in observing the
+night sky as an amateur astronomer I have never seen the likes of it.
+
+In closing, I wish to thank you for your trouble and consideration.
+
+Sincerely yours, ©

@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T06:06:39Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8679716, "source_ctime_ns": 1793362639836107914, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330783376/45484701-003-004-0085.jpg", "source_mtime_ns": 1785685003000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330783376/45484701-003-004-0085.jpg", "source_sha256": "2c26012bff4371dcb81df6e33af9e9f08b2b142632e86120ded9b75f2f39d624"}
+
+===== PAGE 1 =====
+{"alpha_words": 56, "chars": 458, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ntified Airborne Object
+G2-SPR Ag6liston Ordnance Works (U)
+
+AFCSI 7 April 1955
+Maj Heaven/53715/mjm
+
+The inclosed is forwarded for your information and action deemed appropriate.
+
+FOR THE ASSISTANT CHIEF OF STAFF, G~-2:
+
+2 Incl M. A. QUINTO, Colonel, GS
+1. ey S/I 4Mer55 Chief, Security Division
+2. photocy Memo 10Feb55
+
+THE AUBPECTOR OENEF
+
+.
+
+p
+\D)
+
+q
+
+ded UNCKASSIFIED wheat
+
+we
+_- ¥
+
+Regra
+separates trom Classil
+
+Declassification Authority: NND 923007

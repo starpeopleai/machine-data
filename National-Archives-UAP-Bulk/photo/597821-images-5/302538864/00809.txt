@@ -1,0 +1,48 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T05:38:24Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1725978, "source_ctime_ns": 1793389288294085773, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302538864/00809.jp2", "source_mtime_ns": 1785808083000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302538864/00809.jp2", "source_sha256": "2666f8166af68b627e78449b5d3cd8248a31c2292a24b5c710625e091525eb1f"}
+
+===== PAGE 1 =====
+{"alpha_words": 113, "chars": 814, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+1]
+“gd ¢ « o J.
+
+PY . ey ay §
+
+1. DATE - TIME GROUP 2. LOCATION ie ‘|
+9 May 1965 10/03302 Mequon, ‘fisconsin
+3. SOURCE 10. CONCLUSION
+
+Civilian AIRCRAFT
+
+Lisht of 3d magnitude in flint to North along Eastern horizon.
+Possible a/c at distance at hich altitude. Mo association with
+Cne LASER tests. Visible cha. racteristics of LASER beams tend to fish:
+
+wal - e Al
+
+~
+°
+
+NUMBER OF OBJECTS
+
+5. LENGTH OF OBSERVATION |11. SRIEP SUaARY ARS AHACYEIE? ae
+99 Seconds. Object in flight to North alonz Eastern ners izon. Portion of
+flight obscured by clouds. No sound. 3d magnitude. No flibn
+being carried by FAA in that sector. |
+
+6. TYPE OF OBSERVATION
+
+Ground-Visual
+7. COURSE
+J Worth
+4 8. PHOTOS
+
+O Yes
+
+FitNe
+9. PHYSICAL EVIDENCE
+
+O Yes
+itNe
+
+FORM :
+FTD sep 63 0-329 (TDE) previous editions of thie form may be used.

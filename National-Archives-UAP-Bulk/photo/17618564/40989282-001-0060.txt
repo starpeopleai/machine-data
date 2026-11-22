@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T06:24:52Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1553820, "source_ctime_ns": 1793355865211480125, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989282-001-0060.jpg", "source_mtime_ns": 1785564545000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989282-001-0060.jpg", "source_sha256": "42337570194347cf557222138ba71c4b6b48be759845cc05b686201527670308"}
+
+===== PAGE 1 =====
+{"alpha_words": 235, "chars": 1459, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+38
+
+entirely happy with the limitation, feeling that on Q-2 missions,
+at least, their own unit would often be better qualified to pro-
+vide chase support. "Unofficially," in fact, Drone Squadron
+pilots on a few occasions have flown safety chase of the obser-
+vation-monitoring variety though not the "hot gun" variety. The
+latter is actually the less. important of the twos for it is
+seldom necessary to shoot: down an errant or ‘crippled drone and
+there is no guarantee of success even whan the maneuver is
+attempted; as experience has shown, a drone may plunge off-range
+even after it is shot at? Hence the original requirement that
+an armed fighter be airborne throughout a QB-17 or QF-80 nullo
+mission was modified in October 1955 to require "hot gun" |
+coverage only for the “hot runt iteelf,°° Latex still, the
+requirement for an armed fishter to be airborne at least at
+firing time on all drone missions was quietly altered to permit
+
+the firing to take place even if for some reason no chase aircraft
+
+is available wt
+
+The Drone Squadron, too, has steadily increased its aircraft
+inventory, which rose from modest beginnings to twenty-seven in
+May 1955 (when the Utility Squadron-was ready to bow out) and
+thirty-seven in December 1956. This last total included
+fifteen B-17 drones and directors; nine QF=80 drones; two B-26's
+for Q-2 launching; ten T-33's for both training and director
+use (with the QF=-80); and a single 1-20,7° Although it has a

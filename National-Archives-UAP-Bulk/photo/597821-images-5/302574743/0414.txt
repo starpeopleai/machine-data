@@ -1,0 +1,46 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T06:24:39Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1415027, "source_ctime_ns": 1793393187876328613, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302574743/0414.jp2", "source_mtime_ns": 1785808393000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302574743/0414.jp2", "source_sha256": "8b4d1ac3cf07a635eb106bcdb116eda19c5216492b9b91dab6f59e31b6122353"}
+
+===== PAGE 1 =====
+{"alpha_words": 200, "chars": 1190, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+(
+\
+
+- Flower and Cook Observatory
+
+UNIVERSITY of PENNSYLVANIA
+
+1968-528 me
+Dear Col. Quintanilla:
+
+Very many thanks for
+the 'Transletion on Chinese tieteor Showers"
+“oy hes juct come and hurridly looked
+over. I do not have it and am most heppy to
+aca it to our A.M.S. Meteor Library. It is
+
+very interesting.
+
+Incidentally, it is too bed that their
+so-called government is so hostile to us,as
+Lem quite old enouch to remember how efter
+1900 the U.S. was the best friend China had
+and geve them back all the money they paid
+Tor dameares. ;
+
+I have a path worked out for the ilerch
+3/4 object, on which you sent me a large
+file of velusble reports. But for the first
+time in my life I cennot off<hend decide if
+it -as o meteor of reentry of a satellite.
+It came at 9:46 E.3.T. March 3. If you heve
+a reentry listed for that date, please let
+me have the deta, Also I am at vork on the
+fireball of 1968 March 19/20, seen at 8:55,
+0.8.7. over general rerion Lone .44'W lnt. 37N-
+Three reports came in from pilots, sent by
+Roth in Denver. Do you by cnence have any
+Tzpoys(s) on that? 22 so,they would be most
+valu: ble. .
+Again thanking you for the Chines; Trans-
+lateio, ,
+ost sincerely yours

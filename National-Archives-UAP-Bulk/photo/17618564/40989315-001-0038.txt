@@ -1,0 +1,56 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T06:28:43Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1765896, "source_ctime_ns": 1793356308148567151, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989315-001-0038.jpg", "source_mtime_ns": 1785564669000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989315-001-0038.jpg", "source_sha256": "35f4486c9c5f55aeb46d088e46312b41fcbe45ea233708337acfdd520e774737"}
+
+===== PAGE 1 =====
+{"alpha_words": 336, "chars": 2139, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+D.
+
+Work Accomplished:
+(1) General
+
+Field tests were conducted at the Alamogordo Army Air Base
+during the period from July 1 to July 9, using a three sta-
+tion network for tracking and recovery purposes. Three
+full scale flights used plastic balloons and afforded an
+opportunity to evaluate their characteristics. The inher-
+ent stability of these balloons was demonstrated. Although
+the flights were not generally of unusual duration, one
+flight passed out of range of the tracking net, still under
+ballast control influences, and was reported over Pueblo,
+Colorado on the following day. The technical reports will
+be prepared to cover the details of these flights.
+
+After the return from Alamogordo, the remainder of the month
+was spent in analysis of flight data, development of new
+equipment, looking for office and work space, ordering sup-
+pliew, and preparing for a launching to be made early in
+August from the Lakehurst Naval Air Station.
+
+Cold tests were made on battery packs and explosives. It
+was found that the batteries successfully fired squibs when
+both batteries and caps had been held at -50°C. for over an
+hour.
+
+(2) Specific Problems
+
+The flights made with plastic balloons from Alamogordo
+gave rise to several special problems.
+
+a. The loss of lift due to mixing and escape of gas
+throrgh the open balloon appendix caused flights to go
+to a lower ceiling than was expected. To counteract
+this, a minimm pressure switch was devised as a
+means of activating the ballast release even though
+the desired hight was not obtained. Seal-off methods
+for the appendix are essential.
+
+b. The problem of very slow descent through air-traffic
+lanes was increased with the use of plastic balloons.
+To speed up descent when the balloons begin to fall, a
+pressure activated squib was designed to rupture the
+cell below the equator and thus permit a high rate of
+gas leak, whenever a balloon descends below2,000 ft.
+
+c. When plastic balloons were flown ina cluster, it
+was found that those individual cells with a relatively
+slow rate of rise and an open appendix were deflated as
+they were towed upward. Individually, such balloons

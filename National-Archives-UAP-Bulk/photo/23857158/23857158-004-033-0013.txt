@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T06:10:50Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 11430532, "source_ctime_ns": 1793358731237049489, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-033-0013.tif", "source_mtime_ns": 1785681184000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-033-0013.tif", "source_sha256": "7019f45dbafd4b896e9d417b86bf5f011ab826b913e3a457fbc33f90b143e05d"}
+
+===== PAGE 1 =====
+{"alpha_words": 79, "chars": 591, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Declassification Authority NND 923007
+
+HEADQUARTERS
+4602d AIR INTELLIGENCE SERVICE SQUADRON (ADC)
+
+ENT AIR FORCE BASE :
+COLORADO SPRINGS, COLORADO
+
+ba Delray Beach, orida
+Dear Ure
+
+Thia. organization appreciates your cooperation in reporting
+the Unidentified Flying Object; howaver additional informat ion is
+needed for analysis of this sighting.
+
+The inelosed ATIC Forn Noe 164 is inclosed for your convenience
+in supplying this squadron with the needed information. Again
+our thanks for your Cooperation.
+
+Sincerely,
+ink RAY L JONSS
+Fora 164 Major, USar
+Belf addressed Adjutant
+
+envelope

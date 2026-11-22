@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T06:24:50Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1421622, "source_ctime_ns": 1793393192952659732, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302574743/0454.jp2", "source_mtime_ns": 1785808393000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302574743/0454.jp2", "source_sha256": "fe15b39f34602398c459b2ef2a575aaaafe24540fd5c9863d72062c0212416b2"}
+
+===== PAGE 1 =====
+{"alpha_words": 136, "chars": 877, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Oo RR YMC Oe amg ores ote obs bi = . Shorts EIer aprnre
+
+MEMO FOR RECORD Kwon ville
+1050 hrs
+
+SUBJECT: UFO Observation, 3 March 1968
+
+Called: Knoxville, Tenn., Control Tower
+Bhone: 615#577-7717
+
+Talked ‘om the tower, a controller, who saw the objects.
+
+Duration: 1 minute ro 14 minutes
+
+Opject: one at first, then resembled a jet aircraft with afterburners.
+
+Thought that the objects mak have passed directly over Knox-
+ville or pass a little south of Knoxville going NE. The objects seemed
+to be south and East of Knoxville.
+
+Color: Bright and fiery tail. One piece tht broke up as it went.
+
+Brighter than Venus. The object just disappeared. Nothing painted
+on radar. Linchburgh tower said they saw it:
+
+Lane
+
+9
+
+Also a couple of pilots. Does not have names only flight numbsers.
+Which were given to Atanta Center.
+
+Delta Flight 644 of 3 March
+Southern Flight 894 of 3 March

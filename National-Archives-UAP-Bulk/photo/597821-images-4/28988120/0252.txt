@@ -1,0 +1,41 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T05:57:31Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7032592, "source_ctime_ns": 1793383865022382872, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28988120/0252.jpg", "source_mtime_ns": 1785748058000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28988120/0252.jpg", "source_sha256": "924aedfd933e3f4f543c23554f63f84c7d2565e3dd38fcdfde42af9c72924867"}
+
+===== PAGE 1 =====
+{"alpha_words": 60, "chars": 495, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+es
+
+RE104
+CZCSQE298ZCVYA514
+RR RJEDSO
+
+ZDK
+
+HX3A004
+
+RR RJEDSQ _—
+
+DE RJESKBP 4
+
+R 0919352
+
+1960 SEP 10 18 53 = &
+
+FM 783D ACWRON GUTHRIE AFS CMQRGESTON W VA —
+TO AIR TECHNICAW INTEWLIGENCE CENTEJWRIGHT PATTERSON AFB OHIO
+
+BT
+
+UNCLAS FROM 7830CO CS-3025. UFO. SUBJECTS SIGHTING UFO OVER
+
+LEWIURG, Ws VA-1% gif inna nennentOiiinanaaiiniaiy
+
+AFR 2CO-2 THE FOLLOWING ADDITIGNAL INFORMATION IS SUBMITTED:
+
+Ge
+€1) CLEAR
+€2) UNKNOWN
+€3) UNLIMITED
+€4) 10 MILES PLUS
+€5) SCATTERED
+(6) NONE
+€7) UNKNOWN

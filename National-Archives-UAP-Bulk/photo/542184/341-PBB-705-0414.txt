@@ -1,0 +1,23 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T06:00:36Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7658648, "source_ctime_ns": 1793367803605343670, "source_file": "National-Archives-UAP-Bulk/photo/542184/341-PBB-705-0414.jpg", "source_mtime_ns": 1785565781000000000, "source_rel": "National-Archives-UAP-Bulk/photo/542184/341-PBB-705-0414.jpg", "source_sha256": "eb3ae8a454665858ba8e31f52a8d4c9a275976c4982fc30a50a3ae9e25fbe7a4"}
+
+===== PAGE 1 =====
+{"alpha_words": 17, "chars": 121, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+*
+*
+Me .
+Be thy we
+iS) rem
+~~ te om
+oh, ™ % so a
+€ s ae a nad
+es a ale se ie
+~ ~ “" a i
+* *
+*
+. *
+.
+* * =
+‘ Pa
+*
+* &
+e.

@@ -1,0 +1,72 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T06:25:39Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1691343, "source_ctime_ns": 1793356107899967951, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989303-001-0070.jpg", "source_mtime_ns": 1785564609000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989303-001-0070.jpg", "source_sha256": "f3496608be5a18089a9d5b7b575931998bc7ddf445d97cec0cb0c96b7afe66bb"}
+
+===== PAGE 1 =====
+{"alpha_words": 277, "chars": 2035, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+11 July 19h7 =
+Uy, July 1947 =
+
+14 July 1947 =
+16 July 1947 -
+16 July 1947 =
+17 July 1947 =
+21 July 197 =
+
+22 July 197 =
+
+23 July 19h7 =
+
+2), July 1947 =
+
+2h July 1947 =
+
+25 July 1947 =
+
+RESTRICTED
+
+Kr, R. W. Truitt, Cost Analyst, Eighth Air Force, co-
+ordinated with Budget and Fiscal Officer on cost analysis.
+
+Colonel Sager, Surgeon, Eighth Air Force, arrived to coordi-
+nate with Station Hospital and Base Commanding Officer.
+
+Captain R. R. Showalter, Jr., and Major L. A. Boatright,
+Headquarters, Eighth Air Force, arrived to coordinate with
+Statistical Control on cost analysis.
+
+Brigadier Goneral Roger WM. Ramey arrived from Ft Worth on
+an official visit.
+
+Lt Colonel J. P. Hines, Major Louis R, Fimian, Major Howard
+A. Beck, and Lt Colonel John H. Bell arrived from Headquar—
+ters, Strategic Air Command, for inspection and coordination
+of Sl; Section. ;
+
+Brigadier Ceneral Roger M, Ramoy departed this station en-
+route to Tucson, Arizona.
+
+ir, W, L, Wilson, SAAMA, arrived to coordi:ato with the
+Air Installation Officer and AACS » Tegarding Headquarters
+AMC projects.
+
+Dr. E, M. Townsend, PHS, Ft Stanton, New Mexico, arrived
+for a visit with the Commanding Officer or Executive
+Officer. He is Chief Surgeon, Public Health Service,
+Ft Stanton.
+
+19 VIP consisting of sevaral college presidents and deans,
+also CAP and National Guard notables from the western states
+arrived from Hamilton Field to spend the night. They were
+enroute to Eglin Field, Florida, to witness demonstration
+of latest army air force equipment.
+
+The above mentioned VIP departed this base after a short
+courtesy tour, including a sample briefing.
+
+Major R. J. D. Johnson and’ Captain W. A. Hartzop, Jr.,
+Army Air Forces, Washington, D, C., arrived for investi-
+gation of the B=29 crash which occurred 20 May 197.
+
+Governor Thomas J. Mabry of New Mexico, and party, were the
+guests of honor of Roswell Army Air Field. Brigadier General
+Roger M, Ramey, Commanding General, Eighth Air Force, was one
+of the visiting dignitaries to welcome the Governor,

@@ -1,4 +1,4 @@
-{"created_utc": "2026-10-07T18:00:08Z", "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "embedded-text", "pages": 0, "schema": "ufo-files-archive-ocr/v1", "source_bytes": 645976, "source_ctime_ns": 1788505764930044248, "source_file": "Chile-SEFAA/documents/INFORME-CASO-N--1728.pdf", "source_mtime_ns": 1788505764910764544, "source_rel": "Chile-SEFAA/documents/INFORME-CASO-N--1728.pdf", "source_sha256": "154c604b90b3aa825ee7940dc3cc8ec250ce7c3db42302b486cca0c55f58cc23"}
+{"created_utc": "2026-11-22T06:19:04Z", "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "embedded-text", "pages": 0, "schema": "ufo-files-archive-ocr/v1", "source_bytes": 645976, "source_ctime_ns": 1793354231932254641, "source_file": "Chile-SEFAA/documents/INFORME-CASO-N--1728.pdf", "source_mtime_ns": 1788505764000000000, "source_rel": "Chile-SEFAA/documents/INFORME-CASO-N--1728.pdf", "source_sha256": "154c604b90b3aa825ee7940dc3cc8ec250ce7c3db42302b486cca0c55f58cc23"}
 
 Caso N° 1728 21122021
 

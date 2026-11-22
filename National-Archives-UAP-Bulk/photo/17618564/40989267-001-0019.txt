@@ -1,0 +1,23 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T06:11:07Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 13739311, "source_ctime_ns": 1793355437677820281, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0019.jpg", "source_mtime_ns": 1785564455000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0019.jpg", "source_sha256": "1caeac0987137f75125b9ae86608d1e2cfcdd7381b6dbdfbad4f61dd3ce5f549"}
+
+===== PAGE 1 =====
+{"alpha_words": 92, "chars": 669, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+lll Stresses and Configurations
+of Natural-Shaped Balloons
+
+Justin H. Smalley
+Applied Science Division
+Litton Systems, Inc.
+
+Abstract
+
+The equations derived in the early work by the University of Minnesota for the
+stresses in free balloons have been verified. The coordinates for natural-shaped
+balloons as determined by the University on an analog computer have been refined
+by digital computer techniques. In addition, a larger class of balloon shapes have
+been computed, including larger sigma values, both super- and sub-pressures, non-
+zero circumferential stresses, and other than ''flat-top'' balloons. The meridional
+
+stresses have also been investigated.
+
+29

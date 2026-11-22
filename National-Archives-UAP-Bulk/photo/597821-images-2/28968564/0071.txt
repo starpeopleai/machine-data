@@ -1,0 +1,57 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T05:48:23Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5005206, "source_ctime_ns": 1793378612906892142, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28968564/0071.jpg", "source_mtime_ns": 1785696812000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28968564/0071.jpg", "source_sha256": "a3e1173cd372b44aac1634df30e7c96a128b47818fbaf73a77b13793cd156e76"}
+
+===== PAGE 1 =====
+{"alpha_words": 48, "chars": 343, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Co HORTZONAL
+De STRAIGHT DOWN
+
+Ee DISSAPPEARED AT GROUND LEVEL
+Fe 39SECONDS
+
+Se.
+
+Ae GROUND VISUAL
+
+B. NONE
+
+C. N/A
+
+4
+
+As @8/9615Z
+
+Be NIGHT
+
+5. KM 1693
+
+6s :
+
+A, Cis IN POST OFFICE <a GLENWOOD, IOWA
+
+PAGE THREE RJEDKF 6GM
+BR/A
+
+C. APPOX 14,999
+
+De. 1S:
+
+Ze NA -
+
+F. NONE
+
+Z N/A
+
+7"
+
+Pa
+
++
+
+BR att RT
+
+eS eT es
+
+oS
+
+LEVITT
+- aon i | Aoeinss

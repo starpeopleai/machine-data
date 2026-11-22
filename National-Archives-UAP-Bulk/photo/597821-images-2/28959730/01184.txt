@@ -1,0 +1,61 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T05:41:48Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3521295, "source_ctime_ns": 1793376211595022747, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28959730/01184.jpg", "source_mtime_ns": 1785696932000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28959730/01184.jpg", "source_sha256": "07c7607bce716e7b5d83e42ad9f911568b243b10051a3ffbd3d2d473603eb8a2"}
+
+===== PAGE 1 =====
+{"alpha_words": 93, "chars": 720, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD
+
+DATE - TIME GROUP
+26 September 1954
+27/02042 (Nizht)
+
+~_
+.
+
+2. LOCATION
+
+Altoona, Penna
+
+3. SOURCE
+
+Civilian
+
+4. NUMBER OF OBJECTS
+
+1
+
+10. CONCLUSION
+
+INSUFFICIENT DATA FOR EVALUATION
+
+5. LENGTH OF OBSERVATION
+
+3 Minutes
+
+6. TYPE OF OBSERVATION
+Air Visual
+
+7. COURSE
+
+Bast
+
+8. PHOTOS
+
+O Yes
+Qo No
+
+9. PHYSICAL EVIDENCE
+
+O Yes
+230 No
+
+11, BRIEF SUMMARY AND ANALYSIS
+
+Round on top, flat on bottom. Object flew parallel with acft
+for one minute, then pulled forward at tremendous speed,
+Observers a/c at 19,000 ft, 382MPH.
+
+Possible jet.a/c, however information did not include manner of
+disappearance or description of object
+
+FORM
+FTD sep 63 0-329 (TDE) Previous editions of this form may be used.

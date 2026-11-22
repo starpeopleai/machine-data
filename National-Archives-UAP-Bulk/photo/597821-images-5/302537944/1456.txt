@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T05:32:37Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 788110, "source_ctime_ns": 1793389194579904835, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302537944/1456.jp2", "source_mtime_ns": 1785808612000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302537944/1456.jp2", "source_sha256": "3e6f3240656c88a1ff14aad0c3d9f5ebb5e432b3ef2775ffb4405677235e1ffa"}
+
+===== PAGE 1 =====
+{"alpha_words": 84, "chars": 800, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+INCOMING aR TENE Be > :
+MESSAGE DEPARTMENT OF THE AIR FORCE
+WLS STAFF MESSAGE BRANCH
+
+AFIN: 9149 (27 Mar 65)
+
+D) THUNDERSTORMS: NONE
+CE) WINDS: NO BALOON RUNS MADE DUE TO LOW CLOUDS
+(2) SECOND SIGHTING: @908Z 11 MAR 65
+A) CEILING: 2290FT
+PAGE 4 RUCDSQ 47C UNCLAS
+(B) VISIBILITY: 18 MILES
+(©) CLOUD COVER, BROKEN
+D) THUNDERSTORMS: NONE
+CE) WINDS: SURFACE, 3306: ,000 FT: 3114: 5,000 FT
+3120: 7,000 FT, 3224, 106,009 FT: 3127: 12000 FT
+3131: 15,008 FT, 3149.
+3) THIRD SIGHTING: 81082, 13 MAR 65
+A) CEILINGS CLEAR -
+B) VISIBILITY: 12 MILES
+C) CLOUD COVER, NONE
+0) THUNDERSTORMS: NONE
+E) WINDS: SURFACE, 3610: 3,000 FT, 0110: 5000 FT,
+35103 7,000 FT, 3409s 10,000 FT, 3214: 14,000 FT,
+3319: 18,080 FT, 3052: 21,008 FT, 2969
+
+THE ABOVE IS THE ONLY WEATHER INFORMATION AVAILABLE)
+
+PG 4 of 6
+
+UNCLASSIFIFE

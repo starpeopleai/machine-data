@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T05:48:01Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4897531, "source_ctime_ns": 1793375635278122367, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28957084/0212.jpg", "source_mtime_ns": 1785696433000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28957084/0212.jpg", "source_sha256": "9249806cf249fa60f91ebed738c1b27d42e2ce8f7ab15f7c91516b7524cb0ffb"}
+
+===== PAGE 1 =====
+{"alpha_words": 48, "chars": 385, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+. 2900-299 DEGREE 45 KTS
+
+4202-302 DEGREE 113 KTS |
+
+C. CLEAR
+
+D. Good |
+E. NEGATIVE
+
+F. NEGATIVE
+
+8. NEGATIVE :
+9, NEGATIVE
+
+. 149. NEGATIVE
+
+41, NO AIR TRAFFIC REPORTED BY SALT LAKE CITY ARTC THAT COULD BE IN
+
+AREA AT THAT TIME.
+
+PAGE FOUR JWPMC 916
+
+12, CLEARANCE OFFICER, HAMILTON FLIGHT SERVICE CENTER UNABLE TO CORRELA
+SIGHTING
+
+WITH ANY KNOWN AIR TRAFFIC
+
+15/15152 DEC JWPHC |

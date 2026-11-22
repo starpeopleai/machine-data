@@ -1,0 +1,48 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T05:54:13Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6408504, "source_ctime_ns": 1793378554579629330, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28968381/1312.jpg", "source_mtime_ns": 1785696803000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28968381/1312.jpg", "source_sha256": "04e920bfb492c945f8838aa6b743ed2c1b2d1427c6b0481101f8016da5282962"}
+
+===== PAGE 1 =====
+{"alpha_words": 151, "chars": 1091, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+1. DATE 2. LOCATION 12. CONCLUSIONS
+0 Was Balloon
+16 November 1956 Newport, Oregon QO Probably Belloon
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION O Possibly Balloon
+‘ 3 O Was Aircraft
+Local 2X Ground- Vi sual D Ground-Rodor Q Probobly Aircraft
+GMT O Air Visual D Air-Intercept Radar O Possibly Aircraft
+5. PHOTOS 6. 50 E Was Astronomical
+0 Yes §* probotl y loaner
+XONo Civilian & Military O Possibly Astronomical
+7. LENGTH OF OBSERVATION 8. NUMBER OF OBJECTS | 9. COURSE O , Other
+D' Insufficient Date for Evaluation
+QO Unknown :
+ne hour one see below ;
+
+10. BRIEF SUMMARY OF SIGHTING
+One round red objec
+a pillow at arm's 1
+tail like a comet. Object was first s
+in a reflection in the lake, Object
+moved straight up then 90 dgr to the
+Northwest. Object slowly faded in the
+sky after having been seen visually fa
+one hour.
+
+t the size of
+ength, Object had
+
+11, COMMENTS
+
+In order to obtain more info,
+ATIC Forms 164 sent to Source on
+
+len // 19 Nov 56. Results will be
+
+on monthly UFOB Summary. Mars in
+
+west at 20 dgr elevation.
+
+r
+
+ATIC FORM 329 (REV 26 SEP 52)

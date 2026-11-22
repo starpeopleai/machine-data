@@ -1,0 +1,52 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T06:05:43Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8646140, "source_ctime_ns": 1793385549506782578, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28993628/0112.jpg", "source_mtime_ns": 1785748371000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28993628/0112.jpg", "source_sha256": "6e68536b68f6d1fdd71847460f77c71cc236fc69cdd41672556c004181d685cd"}
+
+===== PAGE 1 =====
+{"alpha_words": 157, "chars": 1022, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+- DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+UNCLASSIFIED MESSAGE
+
+INCOMING
+AF IN : 6779 (27 July 61) G/dfe
+fe)
+
+ACTION: CIN-17
+
+INFO : SAFS-3, OOP=2, OOP-~CP-1 (24)
+
+SMB B P23
+
+CZCHQE951 ZCWJA153
+
+PP RJEZHQ
+
+DE RJWFKH 37
+
+ZNR
+
+P 2722062
+
+FM 68BW CHENNAULT AFB LA
+
+TO RJWFAL/ADC ENT AFB COLORADO
+
+RJWFHW/32ND AIR DIVISION OKLAHOMA CITY OKLA
+RJEDSQ/ATIC WPAFB OHIO
+
+RJEZHQ/HQ USAF WASH DC
+
+KINFO RJEBKF/2AF BARKSDALE AFB LA
+
+BT
+
+UNCLAS 68DCOI 224378. UFO. USAF FOR AFCIN.,
+SECRETARY OF THE AIR FORCE FOR SAFIS. AF FOR DI. FOLLOWING
+FINRINGS ARE REPORTED IN ACCORD WITH AFR 2@@-2. PART AND SUB-
+PART NUMBERS CORRESPOND TO THE FORMAT OF THE REGULATION. THIS
+MESSAGE IN EIGHT PARTS. PART I. DESCRIPTION OF OBJECT. A
+CIRCULAR. B. NOT AVAILABLE FROM OBSERVER. C. BRIGHT ORANGE,
+SHONE THRU CLOUDS WHICH PASSED IN FRONT OF IT. D. ONE. E. NOT
+APPLICABLE. F. OBJECT WAS THE SIZE OF PING PONG BALL WITH SMALL
+WINGS, G. EMITTED SMOKE OF VAPOR AT ONE TIME. H, NO SOUN
+
+I. NOT APPLICABLE. PART II. DESCRIPTION OF COURSE. A. MRS,

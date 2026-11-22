@@ -1,0 +1,55 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T05:59:54Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7599429, "source_ctime_ns": 1793364559930784870, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787368/45484701-007-002-0029.jpg", "source_mtime_ns": 1785685193000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787368/45484701-007-002-0029.jpg", "source_sha256": "9a004048a2d660211b2d74040bcd69501772aaceb69830de6c10e49002171d7b"}
+
+===== PAGE 1 =====
+{"alpha_words": 455, "chars": 2959, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Brown electrometer shows abnormal deflections during magnetic storvs.
+
+i.4 ithe writer proposes that the origin of the observed phenomens is the
+electric wind. The effects described above all relate to the forces upon
+electrically charged bodies or upon adjacent insulating material. Such
+forces have long been the subject of observation and mathematical theory,
+
+and are discussed accordingly in such works as W. R. Smythe's "Static and
+Dynastic Electricity". It is commonly held by physicists that no practical
+discrepancies exist between theory and exveriment in static electricity, if
+the experiments are conducted in the mamer contemplated in the theory, It
+mist be emphasized in this connection that the theory of electrostetics is
+written around the assumption that the insulators in the apparatus are per-
+fect non~conductors, and that the fluid (e.g. air or oil) in which the apva-
+Tratue is immersed is also a perfect non-conductor. For an exveriment performed
+in a non-conducting medium the verdict of electrostatics is quite plain: the
+Townsend Brown effects should not exist.
+
+The experiments by Mr. Brown, including all those described in Pars. 4, 5 and
+6 were carried out in a oartially conducting medium, i.e. air or 011, In such
+a medium the simple laws of electrostatics are not applicable. It is true the.
+in air or oil the conduction of electricity is usually so slight that the de-
+partures from the laws of electrostatics are quite negligible. When, however,
+large voltage gradients are involved, the density of jong is 7ery greatly in-
+creased for well-known reasons, and the conductivity of the medium increases
+commensurately. If the voltage is high enough the vassage of the ions throug”
+the air causes the crackling sound and b?.uish glow characteristic o” the coro-
+discharge. In the presence of such a discharge the laws of electrostatics ar
+not expected to hold. We will show that. 90 far from being forbidden. the
+Townsend Brown effects are actually predicted in the presence of a coron: dis
+charge.
+
+7.5. We will adapt the treatment of J. J. and G. P. Thompson ("Conduction of
+Electricity Through Gases", 3rd Ed. Vol. It. 1933, page 544) in considering
+the force on a charged conductor brought about by the ionic conductivity in a
+gas. Consider a positively charged fine wire in air, parallel to a negative
+conductor. The well known concentration of the electric field near the fine
+Wire will then produce a corona discharge; vositive ions are generated at the
+wire. These move toward the negative electrode and therefore are ai une side
+of the wire. The wire being positively charged repele the ions. The force on
+the wire is roughly equal and opposite to that on the ions. If E ie the field
+intensity and C the snace charge density, the force on the ion is
+
+Ee = (ep Ox | 7 :
+
+where the integration covers the region cecupied by the space charge.
+
+COMPIDENPE.AL
+SROURT?Y “taFermat ion
+
+Declassification Authority: NND 923007
