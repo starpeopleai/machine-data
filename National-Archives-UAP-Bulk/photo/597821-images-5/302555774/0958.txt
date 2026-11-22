@@ -1,0 +1,50 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T17:30:36Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1687544, "source_ctime_ns": 1793391136458099900, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302555774/0958.jp2", "source_mtime_ns": 1785808055000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302555774/0958.jp2", "source_sha256": "9d6b9a08849c4bdc2621490d37b28a35d4d7714c9187e059e18baf5360a679ce"}
+
+===== PAGE 1 =====
+{"alpha_words": 197, "chars": 1384, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Oftiie ‘of yea
+
+-
+
+oan ere
+
+_. phenomena to observe as I am sure you will attest.
+
+FID (TDETR) 4)
+Wright-Patterson AFB, Ohio 45433 .
+5 Octover 1966 .
+
+d
+
+Chisholm, Minnesota . 55719
+
+Dear Mr tain
+
+After investigating your most unusual observation in the north-
+ern sky 13 September 1966, I felt you might be interested to
+learn of Project Blue Book's findings.
+
+Having considered the available information and having reference
+to the recent upper atmospheric research studies at For Churchill,
+Canada, contact was made with a Mr. Mc Bay of Goddard Space Flight
+Center, Greenbelt, Maryland. Conversation with Mr. McBay provided
+the following information.
+
+"At 0135Z, 14 September 1966, there was a Nike-Apache. rocket
+launched from Fort Churchill. The rocket reached an altitude of
+approximately 102 statute miles before releasing a cloud that
+would have been visible for up to 900 miles from the Fort Churchill
+area. The objectives of these cloud releases is to obtain measue-
+ments of electric fields and wind motion in the upper atmosphere
+by photographing and tracking the movement of the lonized clouds."
+
+Although there were several different cloud releases during a two
+
+Gay period, I feel that this launch at 0135Z was the culprit in
+your observation. These cloud releases are a truly fascinating
+
+Sincerely,
+
+As | ese
+Cl QUINTANILLA, Jr, Major, USAF
+Chie?, Project Blue Book

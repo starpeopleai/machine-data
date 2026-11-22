@@ -1,0 +1,20 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T17:45:15Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4777418, "source_ctime_ns": 1793386671096906978, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28996972/0592.jpg", "source_mtime_ns": 1785748347000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28996972/0592.jpg", "source_sha256": "bcb45cd2657241cc778489c9ae9220859d57df05e88a8db392e801fc1a4d7427"}
+
+===== PAGE 1 =====
+{"alpha_words": 95, "chars": 588, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+FOLLOWING FOR INFO ATC SUPVR
+
+REQ TO KNOW IF ANY SOUND CONNECTED WITH OBJECT
+
+ALSO NAME OF OBSERVER AND WITNESS AND WX AT PRESENT TIME
+
+FIRST OSSERVED BY @EMMMMBMB MECHANIC FROM BACK DOOR WITNESSES
+V Sows TURP DO OPR WX SKY CLR WIND NW 2 MPH APPROX
+
+i 5 DEGREES AURORA BOREALIS DIRECTLY OVER STATION NO THEDOLITE BEARING
+; TAKEN BUT FIRST SIGHTED BY MECH AT APPROX O.140GMT AND APPROX THEOD
+j BRG WOULD BE AZIMUTH 300 DEGS ELEV iz DEGS THEODOLITE WAS USED TO
+q HXAMINE OBJECT AFTER ABT MINS FOR SIGHTING WOULD BE FOR 02552
+4 CORRa»s W/A ABT MINS FROM EIGHTING
+\ } Z QSL
+DP 93242 160 i ;

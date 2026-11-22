@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T18:06:43Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 13803088, "source_ctime_ns": 1793355659616989445, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0098.jpg", "source_mtime_ns": 1785564498000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0098.jpg", "source_sha256": "a76cb1186ec127dd419b6a52c5a751c160cadd83aa70e1e3e2371d94bfdd0071"}
+
+===== PAGE 1 =====
+{"alpha_words": 28, "chars": 226, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+UKIAH,
+CALIFORNIA
+
+O
+Hl2.3mec
+
+O NAPA
+H2.imec
+
+SAN FRANCISCO
+
+Figure 15.
+
+LAKEVIEW, OREGON
+
+PY 112.0
+
+TEST. RESULSS
+
+LOCATION OF
+BALLOON
+
+FRESNO, CALIFORNIA
+O 1W2.9me
+
+Test Results
+
+nemaae)
+
+Figure 16.
+
+VOR Bench
+
+Test Setup

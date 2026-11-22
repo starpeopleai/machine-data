@@ -1,4 +1,4 @@
-{"created_utc": "2026-09-16T15:24:21Z", "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "embedded-text", "pages": 0, "schema": "ufo-files-archive-ocr/v1", "source_bytes": 414221, "source_ctime_ns": 1788302459356855690, "source_file": "Black-Vault-UFO/pdfs/c05516775-pdf-2.pdf", "source_mtime_ns": 1785543143300000000, "source_rel": "Black-Vault-UFO/pdfs/c05516775-pdf-2.pdf", "source_sha256": "58077e6e61beb7a38716ea252cf87ee49006fc38bb54d0380d87c045b097450d"}
+{"created_utc": "2026-11-22T18:20:57Z", "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "embedded-text", "pages": 0, "schema": "ufo-files-archive-ocr/v1", "source_bytes": 414221, "source_ctime_ns": 1793558567937231886, "source_file": "Black-Vault-UFO/pdfs/c05516775-pdf-2.pdf", "source_mtime_ns": 1793558567919894574, "source_rel": "Black-Vault-UFO/pdfs/c05516775-pdf-2.pdf", "source_sha256": "58077e6e61beb7a38716ea252cf87ee49006fc38bb54d0380d87c045b097450d"}
 
 ----- ------ -------- --- -------------
 -C00175530

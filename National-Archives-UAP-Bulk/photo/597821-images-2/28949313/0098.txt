@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T17:40:04Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3840777, "source_ctime_ns": 1793373923976344914, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28949313/0098.jpg", "source_mtime_ns": 1785696999000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28949313/0098.jpg", "source_sha256": "b0d6019fddabb587916f15068804deb40e4d05af090f2045ccb49f451b73ab70"}
+
+===== PAGE 1 =====
+{"alpha_words": 117, "chars": 703, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+° SEP 2 204 Fs
+
+JSDBY eT =4 3A “ ,
+
+* 2219462 ZNS | ee ar
+
+! CG EADF STSYART AFB NEWBURGH NY , j
+43A/CO Ga7TA ACAY SQ NANASEAS VA
+
+INFO JEPIQ/HQ USAF YASH DC
+
+‘sDUP/CHIEF ATIC WRIGHT PATTERSON AF3 O10
+_——
+
+-2DEN/CG ADC ENT AFS COLO SPRINGS CCLO
+SU/CG 26TH ADIV DEF ROSLYN ily
+
+ce 51139, ATTN CLN ATIAA-2¢ PD 4, REFERENCE
+
+-SSAGE ACC#251 CNA FROM CO CMA 647TH AC&iW SO CMA MANASSAS cMA A CMA
+
+a“
+os
+
+'3 CLN 2713222 AUG 52 CLN cuBJ mee HAS DEEN UPGRADED TO SECRET pp
+
+s eke se nn
+
+on @e INFO CONTAINED IN PAR 3 CMA: SUBJ MS G CMA REQUIRES A CLASSIFICATION '
+
+° SECRET IN ACCORDAN ICE WITS PAR SA /3/ CMA AFR 235-4, Pan Se REQUIRED
+-tiG.. WILL BE IN ACCORDANCE WITH Pap i5 CMA AFR 295-1 AS AMENDED
+
+wULU®

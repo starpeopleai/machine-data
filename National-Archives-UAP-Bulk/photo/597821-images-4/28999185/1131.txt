@@ -1,0 +1,46 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T18:01:46Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8739955, "source_ctime_ns": 1793387794302931117, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28999185/1131.jpg", "source_mtime_ns": 1785748576000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28999185/1131.jpg", "source_sha256": "f3b7089db279c7ecb4bdb96c2ebf8a043d4c269b5ebb5796ddfdd8de9895c56a"}
+
+===== PAGE 1 =====
+{"alpha_words": 115, "chars": 858, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+
+UNCLASSIFIED MESSAGE
+
+AF IN: 4768 (18 sep 62) yy ar
+
+“ee ae pe 2 of e
+
+RUHPD/COMASYFORPAC FORD ISLAFD HAWATI |
+RUCSBR/CINCSAC OFFUTT AFB NEBR |
+RUECY/CNO WASHINGTON DC
+
+RUECW/SECNAV WASHINGTON DC
+
+AF GRNC
+
+BT
+
+UNCLAS/SLICK 682, POSITION APPROXIMATELY 1925N 16159E REPORTS
+
+SIGHTIMG FALLING OBJZCT AT ABOUT 13819552 LEARIMG 939 MAGNETIC
+
+FROM HIS POSITION. PILOT REPORTS OBJECT FIRST SIGHTED IN ONE
+
+PIECE THEN BROKE UP. AIRCRAFT ALTITUDE 19 THOUSAND. REPORT
+
+OBJECT EXTGEMELY BRIGHT.
+
+WAKE TOWER CONTROLLER SIGHTED FALLING INCADESECENTHOBJECTS AT
+
+181955Z ON BEARING 319 DEGREES FROM WAKE ISLAND. HNUMEROURS
+
+CLOSELY GROUPED OBJECT OF VARIOUS SIZES OBYERVED FALLING AT
+
+ACUTE ANGLZ. APPARENTLY ENTERED ATOMOSPHERE FROM SSW,
+
+NO INTELLIGENCE EVALUATION.
+
+BT38/1319Z SEP RUHLKH
+
+NOTE: ADV CY TO DIA & OOP-CP,

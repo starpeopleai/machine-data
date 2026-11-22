@@ -1,0 +1,116 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T18:28:50Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1385039, "source_ctime_ns": 1793356308044432499, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989315-001-0037.jpg", "source_mtime_ns": 1785564669000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989315-001-0037.jpg", "source_sha256": "b11a17923748a7876fe1d79a282651b38bb5cfed7a55060a1f645a6d01ced726"}
+
+===== PAGE 1 =====
+{"alpha_words": 175, "chars": 1276, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+1/11/47
+
+1/22/41
+
+1 2def 47
+
+1/28/47
+
+1/30/47
+
+(a) Conferences:
+
+The following conferences were held during the month of July:
+
+People Present
+
+Lt. H. F. Smith, USNRS
+Prof. A. F. Spilhaus
+Mr. C. Be Moore
+
+Mr. Paul Goudy
+Mr. Martin Pepper
+
+of Kollsman Instr.
+Messrs. Moore,
+Hackman and Smith
+
+Dr. Peoples
+Mr. Ireland
+Mr. Johnstone
+Mr. Mears
+Mr. Alden and
+Capt. Trakowski
+of Watson Labs.
+Messrs. Moore,
+Schneider and Hackman
+
+Mr. Seyfang
+Mr. Schneider
+Mr. Moore
+
+Dr. Peoples
+Capt. Trakowski
+Mr. Schneider
+
+Where Held
+New York University
+
+Kollsman Instrument
+Division, Square D
+
+Company, Elmhurst,
+
+L. I., N. Y.
+
+Watson Laboratories,
+Red Bank, N. J.
+
+Seyfang Labs.,
+
+Watson Laboratories,
+
+Red Bank, N. J.
+
+Discussed
+
+Cooperative flight
+program
+
+Modification of ballast
+reservoirs and design
+of minimum pressure
+switch
+
+Analysis of second
+Alamogordo field trip.
+Preparations for next
+launching from Lake-
+hurst, N. J.
+
+Plastic and man-
+carrying fabric
+balloons
+
+Detail of Lakehurst
+flight
+
+Conclusions
+
+Should be presen-
+ted in writing to
+the Navy Dept.
+
+Bid will be sub-
+mitted by Kolls-
+man
+
+Lakehurst flight
+date set:
+5 August 1947
+
+Bid on manufac-
+ture of plastic
+balloon will be
+submitted by Mr.
+Seyfang.
+
+Watson Lab. would
+request work
+
+space equipment,
+etc. from the Navy.

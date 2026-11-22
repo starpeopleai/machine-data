@@ -1,0 +1,139 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T17:39:01Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3630953, "source_ctime_ns": 1793355944474137722, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989293-001-0049.jpg", "source_mtime_ns": 1785564565000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989293-001-0049.jpg", "source_sha256": "0787072b667559872ba27fad7d6c8e6f09856618d1b8ed2f3fe56855bee1fd71"}
+
+===== PAGE 1 =====
+{"alpha_words": 818, "chars": 5215, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+HISTORY OF RESEARCH IN SUBGRAVITY AND ZERO-G
+
+ly enjoyed the gravity-free state, while
+others have on occasion felt extreme mo-
+tion sickness with nausea and vomiting.
+Among the former can be included Ser-
+geant Conniff, the original task scientist,
+and Captain Druey P. Parks, who has
+participated in this as in all other pro-
+grams of the Space Biology Branch. A-
+mong those who have suffered varying
+amounts of discomfort, Captain Schock
+definitely includes himself. It is perhaps
+significant that one who professes no dis-
+taste for subgravity is Captain Joseph W.
+Kittinger, Jr., better known as the test pi-
+lot for the Man-High (I) balloon flight,
+who piloted a great many subgravity tra-
+jectories at Holloman before his recent
+transfer to Wright Air Development Cen-
+ter. In his case, it is likely that a broad
+previous flying career helped prepare him
+for the experience, although no number of
+flying hours is any guarantee in itself a-
+gainst feeling ill at ease during a subgrav-
+ity exposure.22
+
+The apparent existence of wide vari-
+ations in human tolerance suggests that
+one criterion for selection of crews in space
+travel may well be a comparison of moni-
+tored responses during experimental sub-
+gravity exposures. However, still more in-
+formation is needed on these varying per-
+sonal sensations. The sickness felt by some
+may be related to the rapidly changing
+g-forces encountered in a complete test
+flight, including the high acceleration and
+deceleration that sometimes mark the
+plane’s entry to and exit from the subgrav-
+ity parabola. In that case, the same symp-
+toms might not be associated with long-
+duration, continuous subgravity exposures.
+On the other hand, those who easily en-
+dure thirty seconds of subgravity might
+conceivably do less well with a three-min-
+ute--or three-month--dose of the same
+thing. Laika’s experience is encouraging in
+this respect, but hardly conclusive.
+
+The Holloman subgravity flights have
+also featured a variety of sensomotor per-
+formance tests. These indicate that sub-
+gravity need not seriously impair a sub-
+ject’s ability to touch his nose with his fing-
+er tip, mark x’s in a row of squares, or per-
+form other similar operations--provided al-
+ways that he retains a visual frame of re-
+ference, and provided also, of course, that
+he has not first become violently ill with
+motion sickness. This conclusion closely
+parallels those tentatively drawn from the
+earlier test programs of Ballinger, Von
+Beckh and others. Neither does eating
+peanut brittle offer major problems during
+weightless trajectory, as long as the food is
+first well masticated and then forced to the
+
+38
+
+back of the mouth where the swallowing
+reflex goes into action without regard to
+gravity. Drinking seems to require use of a
+squeeze bottle, cups and glasses being quite
+useless during weightlessness. Water must
+be forced to the back of the mouth by the
+tongue, but again the swallowing reflex is
+unimpaired.23
+
+A somewhat different variety of ex-
+periment has demonstrated that human
+subjects, deprived of normal visual refer-
+ences, will perceive oculogravic illusions
+such as “apparent linear motion of a fixed
+‘target’ during a ballistic [Keplerian] tra-
+jectory.” For these tests both the subject’s
+head and the “target’’--a small luminous
+cross--were placed under a large and omin-
+ous-looking black hood. The illusion was
+always most pronounced during the per-
+iods of increased g-forces on entering and
+leaving the subgravity parabola. The tar-
+get appeared to stabilize--though at a high-
+er than normal position--during the weight-
+less phase itself, except for certain oscil-
+lations that were attributed to the failure
+of the test aircraft to maintain an even
+weightless trajectory.24
+
+When Doctor von Beckh joined the
+Holloman program, he brought with him as
+a carryover from his work in Argentina a
+special interest in the effects of subgrav-
+ity on ease of recovery from acceleration-
+induced blackout or greyout. At Holloman,
+he has initiated flights designed to produce
+subgravity either just after or just before
+exposure to a force of roughly four g’s,
+with a peak of five or six. This procedure
+duplicates the type of conditions to be met
+in takeoff and re-entry of manned space
+vehicles, The test services has only recently
+started, but when further advanced it
+should yield important research data.25
+
+Nor have animal subjects been for-
+gotten in the Holloman test flights. The
+current pet of subgravity research--at least
+in the Free World--is the familiar cat,
+which is of interest for its highly developed
+vestibular function. It is actually more re-
+liant on this function for balance and or-
+ientation than are human beings. The cat
+is also noted for its reflex ability to land
+squarely on all fours even after being drop-
+ped upside down, and tests were conducted
+to determine how this righting reflex op-
+erates during subgravity. Judging by the
+test results, it does not work very well.
+In order to examine the matter more close-
+ly, Captain Schock obtained certain cats
+that had undergone operations removing
+the vestibular apparatus wholly or partial-
+ly. When these cats were tested in the
+same manner, it appeared that animals still

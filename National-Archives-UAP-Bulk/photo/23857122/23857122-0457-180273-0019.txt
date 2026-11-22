@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T18:09:44Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 15625876, "source_ctime_ns": 1793356417925508845, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0019.tif", "source_mtime_ns": 1785564701000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0019.tif", "source_sha256": "c35cdd571ff9a98ba01c2315dd2896570e88893e1d8079ac060fb12e8f2ab92d"}
+
+===== PAGE 1 =====
+{"alpha_words": 144, "chars": 985, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+incident (Incident No. 17). Most were distributed without pattern
+throughout the United States. A few were outsice the U.S. No two
+Cescriptions of appearance or performance were exactly alike. The re=
+ported sightings occurred at various times of day and yeare
+
+VIII. Relationship Between Publicity and lates of Reports
+
+The following graph (Fig. 1) illustrates an apparent relation
+Ship between reports which received wide publicity and the total number
+of reports. It is believed this has been carried to a sufficient degree
+to allow the conclusion that many reports are the direct result of such
+publicity.
+
+This was further illustrated recently, when this Command re«
+ceived i; reports of sightings and 51 possible solutions following a
+
+Saturcay Evening Post article and an official press release on the sub
+
+ject of flying objects. Virtually all of the reporters and correspon-
+dents made reference to one of the above mentioned articles,
+
+Declassification Authority: NND 57565

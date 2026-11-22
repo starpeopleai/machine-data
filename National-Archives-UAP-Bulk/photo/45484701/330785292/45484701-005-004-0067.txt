@@ -1,0 +1,58 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T17:59:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7848750, "source_ctime_ns": 1793363443425145781, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785292/45484701-005-004-0067.jpg", "source_mtime_ns": 1785684654000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785292/45484701-005-004-0067.jpg", "source_sha256": "9a3619582f5ecdcb0152bf357fcb9011577ce0d877e37f317959599405e5ec42"}
+
+===== PAGE 1 =====
+{"alpha_words": 269, "chars": 1715, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+%
+
+Spot Intelligence Report, DO #9, 25 Nov 50, Subj: Report of Unconventional
+Aircraft
+
+Stephens, of the 15ard Fighter Squadron of the
+Mississippi Air National Guard, said the object was
+reported in Jackson, McComb and Meridian. He said
+he fles 300 miles per hour and reached an altitude
+of 21,000 feet in his pursuit.
+
+Stephens said the object resembled the edge of a
+bright tilted plate and could have been the vapor
+effect of a hich-flying B-36."
+
+i. The Jackson DAILY NEWS, (Jackson, Mississippi), 14 November
+
+(6 ere
+
+1950, carried the following account of a "Mysterious streak of light,"
+reportedly sighted by local citizens:
+
+"'Could Be,' Jacksonians Say, Seeing Vapor’ Trail"
+
+"A ‘Mysterious streak of light' in the sky here late
+Monday startled local citizens and cavse newspapers,
+radio stations and the Weather Bureau to be swamped
+with calls.
+
+Officials at the control tower at the airport said it
+probably was a vapor trail from a jet plane, but
+Jacksonians who saw it thought otherwise, with many of
+them saying it had a 'burnihg tail.‘
+
+The same light was reported seen in Florence and Vicksburg
+also.
+
+It was described as changing in color from orange to
+lemon and then to white as it disappeared toward the
+horizon.
+
+An the Weather Bureau, officials, said the light first
+was seen directly over the city and that it moved from
+east to west at a height of ‘well above 30,000 feet.!
+They said they didn't know what it was.
+
+West Jackson residents reported they watched the light
+for some time before it disappeared. Their guesses as
+to what it was ranged from 'a flying saucer! to 'some-
+thing from another world.'
+
+It was described as having an oblong shape.
+
+Declassification Authority: NND 923007

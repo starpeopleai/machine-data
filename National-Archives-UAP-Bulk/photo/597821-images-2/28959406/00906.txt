@@ -1,0 +1,10 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T17:43:06Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4228861, "source_ctime_ns": 1793376137898096300, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28959406/00906.jpg", "source_mtime_ns": 1785696502000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28959406/00906.jpg", "source_sha256": "a5d0ba71ff6aa414f992b89c8aaea382cfc38d0a6343d5ab299f8ee9973a32e1"}
+
+===== PAGE 1 =====
+{"alpha_words": 33, "chars": 159, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ane shomenate es Sp helicenin te too Ce es 84 Nip, anemia ee en ge hen ao RS a em NRE ni lye EA iS > rete 2 cs
+
+ae
+~
+
+GL JEPHO JEDWP JEDEN JEPNE TEP SECC. 66

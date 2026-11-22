@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T17:46:52Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4891499, "source_ctime_ns": 1793370578773369608, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28934933/0779.jpg", "source_mtime_ns": 1785688993000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28934933/0779.jpg", "source_sha256": "c863a5e7bba81d17246c60128c67327fd79ebb28dd5798e717f79044b13e8813"}
+
+===== PAGE 1 =====
+{"alpha_words": 30, "chars": 306, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+nets inal -
+EL PASO SHES?
+H 3000 < W 10200/120 x 360
+| 1/500,000
+0° 10° 20° 50°
+i... -— ae]... 8 61 ace
+33 | i 3
+“ie “ty
+| 600 “AS pane
+7 oe - wike xy 4
+e { ge,” es 3!
+wo | Ft Bliss ge ths
+| te :
+) 110° Sighted = yung a
+32 a (app) it Te G
+130° 4 2
+1409 ALT
+1
+160®
+1 e
+180° ”
+8 59 8 60 8 61 8 62
+
+so -~ oo.

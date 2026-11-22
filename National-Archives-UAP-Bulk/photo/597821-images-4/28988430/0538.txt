@@ -1,0 +1,45 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T17:58:31Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7559773, "source_ctime_ns": 1793383970966281959, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28988430/0538.jpg", "source_mtime_ns": 1785747992000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28988430/0538.jpg", "source_sha256": "6de83230abe5fe487a0245c1b6e73e7175d3d17f0f1458cc5b5e40506378c779"}
+
+===== PAGE 1 =====
+{"alpha_words": 157, "chars": 1022, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+; Rea ¥ te
+at Bea th a Be aie a
+4 ed tas
+
+, nat on in) } Kh vty “
+AS LARS AGF AY D 67
+
+oy
+
+-7) PLUS 18 DEGREES "c*
+
+(S$) OBJECT EXPLODED IN A BRILLIANT FLASH AT ESTIMATED ALTITUDE
+
+29,000 TO 30,000 FEET AFTER FOUR SECONDS OBSERVATION ON ITS COURSE.
+
+SIZE OF FLASH WAS AT LEAST TWO FEET IN DIAMETER AT ARMS LENGHT.
+
+°FTER EXPLOSION A BLUISH GREEN TRAIL WAS OBSERVED IN AN ARC OF
+‘PPORXIMATELY TWENTY DEGREES WHICH LASTED APPROXIMATELY TWO
+
+| SECONDS AND CHANGED INTO A WHITISH GREY THLXZR ICPXATED CLOUD
+
+| <STIMATED FIVE FEET LONG AND ONE FOOT HIGH WHEN HELD AT ARMS
+
+| .INGTH. OBSERVATION OF THIS CLOUD WAS OBSERVED BEING DISAPATED
+
+S 2y THE WINDS ALOFT. THIS CLOUD LASTED FOR A PERIOD OF NINE
+
+‘INUTES. POSITION OF THE FLASH AND CLOUD FORMATION WAS ESTIMATED
+
+> 5QNM FROM OBSERVERS POSITION.
+
+3,) DESCRIPTION OF COURSE OF OBJECT
+
+1) AIRCRAFT COMMANDER FIRST OBSERVED OBJECT IN SKY DUE TO
+
+“wee
+
+-SITION, COLOR AND SIZE AND SPEED OF OBJECT FROM DIRECTLY IN
+
+= ©.ONT TO APPROZIMATELY A TEN O'CLOCK POSITION IN A DOWNWARD

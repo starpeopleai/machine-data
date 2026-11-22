@@ -1,0 +1,67 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T18:00:23Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8166441, "source_ctime_ns": 1793354587072421971, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989217-001-0102.jpg", "source_mtime_ns": 1785564309000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989217-001-0102.jpg", "source_sha256": "edff5be9b6fb48ae3eea75721b95f4403601f8982e8af9d9f8471692ec0e2e73"}
+
+===== PAGE 1 =====
+{"alpha_words": 316, "chars": 1751, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Q&S sf y .
+
+TESTIMONY OF 1ST LT CHARLENE GOODNAUGH
+Qe Stete your name, grade and organization,
+Ae First Lieutenant Charlene Goodnaugh.
+
+Q@- Member of the United States Air Force?
+
+@e Do you know Colonel Adams?
+
+ge What was the first occasion on which you met Colonel Adams?
+Ae In Montgomery, Alabama when I was getting indoctrinated in November 1955.
+
+Qe You were attending school there?
+Ae Yes.
+
+Q. What lead up to your meeting him?
+A. Somebody called me and told me that Colonel Adams was going back to
+Walker and that I was welcome to go back with him.
+
+@e How did you first meet him?
+Ae He called me in my ouarters.
+
+Qe About when was this?
+A. This was on the following Saturday.
+
+Qe Do you rember what date that was?
+Ae The 22nd of November 1955,
+
+Q- When did you have occasion to meet him personally?
+A. He came over that same daye
+
+Qe And did you have occasion to meet him after that?
+
+Ae Yes-
+
+Qe Would you explain?
+Ae ‘ie would go to lunch together every day, and in the 6vening we would
+go to dinner and to the club or something like thate
+
+Q@- You said you were attending school, so other than the time spentin
+class, would you say you spent the rest of your time with him?
+Ae Three-fourths of ite
+
+Q- This was spent in going to lunch and other social engagements?
+Ae Yes.
+
+&e During the time you were in Montgomery, did Colonel Adams ever show
+you any pictures?
+Ae Once, yes.
+
+Qe Where was this?
+Ae We were in the car and were taling about it and he gave me the picture
+to look at at my place and I was to give them back to him.
+
+je What were you taking about at that time?
+Ae dust a general discussion on love, sex and marriage--nothing in parti+
+cular.
+
+Q@.- I show you exhibit 1 and ask if you recognize these piecturese
+Ae I do.
+
+———

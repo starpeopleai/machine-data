@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T17:43:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4249419, "source_ctime_ns": 1793373623991613598, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28947874/0171.jpg", "source_mtime_ns": 1785688514000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28947874/0171.jpg", "source_sha256": "613d794c9c19b2c1a497ae093d30b8b257f07d3827d46c605811d7f62ef3e54c"}
+
+===== PAGE 1 =====
+{"alpha_words": 24, "chars": 193, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ve
+oe : m
+“tue *. >
+¢ PE A :
+‘ ad “spa”
+re 5 €
+
+J
+
+INGTR OF TASERVATI ICN
+
+-
+= * - . = «
+s36¢e¢ Left a thin
+a
+
+sistines oojccts
+
+»
+~
+
+wOulars by &n exp
+
+< ee  eee
+
+IC FORM 329 (REV 26 SEP 92)

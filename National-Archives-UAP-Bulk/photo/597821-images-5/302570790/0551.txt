@@ -1,0 +1,43 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T18:22:08Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 658445, "source_ctime_ns": 1793392776151215026, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302570790/0551.jp2", "source_mtime_ns": 1785808378000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302570790/0551.jp2", "source_sha256": "c11d91cdace7cdd83d4f5ee3e6b895f0a619dcc16de2baa89a2cc7ca202a8f2f"}
+
+===== PAGE 1 =====
+{"alpha_words": 68, "chars": 606, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+| UNCLASSITED |
+
+| sf
+
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSASE BRANCH
+INCOMING MESSAGE
+
+APPIN -55320
+
+(2) NONE.
+(3) NOT APPLICABLE
+D. TIME/DATE OF SIGHT ING:
+(1) 93902 - 93102, 6 OCT 67.
+(2) NIGHT.
+Fe. INFORMATION ON OBSERVER: .
+PAGE 3 RUWTFNAQ357 UNCLAS :
+(1) Qi ite 52, peer... :
+COLO, 88222, JUDGE OF DENVER SUPERIOR COURT, RETIRED
+NAVY LT. COMMANDER.
+(2) NOT APPLICABLE.
+G. WEATHER AND WINDS:
+€1) CLEAR AND CALM.
+(2) WINDS VARIABLE AT 15 KNOTS,
+
+noeoc
+
+(3) 19,998 SCATTERED, 25,089 SCATTERED. 56 DEGREES.
+C4) CLEAR AND 28 MILES.
+
+(5) NONE.
+
+(6) NONE.
+
+H. NONE
+
+e
+
+PHO. saues 0-309C | UNCLASSIFIED |

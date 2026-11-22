@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T17:52:22Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6057948, "source_ctime_ns": 1793361877205850583, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330781681/45484701-001-005-0033.jpg", "source_mtime_ns": 1785684787000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330781681/45484701-001-005-0033.jpg", "source_sha256": "cc3841c591fc70ec67bc91526a4df7059c10fb4fdb2a12f4ad70d4074e57ddb0"}
+
+===== PAGE 1 =====
+{"alpha_words": 54, "chars": 389, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+® é
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE DIVISION
+
+INCOMING CLASSIFIED MESSAGE
+
+TELL DIV AND
+
+oe ff. . . <_< tk a 4 “ z +
+C/S USAF WASH Dt (ATTN s LN AN D aid
+
+CLASSIFICATION CANCEL LED } MOE SO Aa
+THORITY OF THE DIRECT
+
+2, ob a
+
+THE MAKING OF AN EXACT COPY OF THIS MESSAGE IS FORBIDDEN
+
+U. 5. GOVERNMENT PRINTING OFFICE 16-—56692-1
+
+Declassification Authority: NND 923007
+
+wre heen

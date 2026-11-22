@@ -1,0 +1,23 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T17:55:57Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7132327, "source_ctime_ns": 1793364792860981631, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787691/45484701-007-004-0110.jpg", "source_mtime_ns": 1785684931000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787691/45484701-007-004-0110.jpg", "source_sha256": "cd91f1ec2bccb1e830aefe93d1344e68b5124801e58a0f208afa72590c479975"}
+
+===== PAGE 1 =====
+{"alpha_words": 27, "chars": 258, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Q |
+
+{
+
+|
+| |
+| |
+;
+i}
+
+—— ee =
+
+Sketch submitted by SGT RICHARD W. MILLAR, AF-14291295, f
+of unconventional aircraft sighted on 5 September 1949
+| } at 1200 hours near Camp Oak Flat, California. |
+
+Sot Kichaed (7 Var
+
+Declassification Authority: NND 923007

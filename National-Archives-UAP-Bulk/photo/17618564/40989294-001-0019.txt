@@ -1,0 +1,41 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T18:29:24Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1390010, "source_ctime_ns": 1793355960067120761, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989294-001-0019.jpg", "source_mtime_ns": 1785564569000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989294-001-0019.jpg", "source_sha256": "d7a9afa480821336122bc1fcfb3238c918e0430f83cd22e9d6a278397c9c5598"}
+
+===== PAGE 1 =====
+{"alpha_words": 276, "chars": 1830, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+13
+
+called in practice, which was headed by Capt. (Dr.) James E.
+Cook and had immediate charge of the Holloman "zoo" of test
+animale. °° After 1 September 1958, the Aeromedical Field
+Laboratory belonged to the new Directorate of Advanced Techno-
+logy (the former directorate having been abolished) and had
+not three branches but four. One of these, the Veterinary
+Services Branch, was really the same as the former Research
+and Development (Laboratory] Services Branch and was still
+headed by Dr. Cook. An Administration Branch headed by
+Capt. Druey P. Parks and a Satellite Operations Branch under
+Dr. Mosely were. innovations, although the first of these two
+represented a new organizational subdivision rather than a
+brand new function. The Satellite Operations Branch was
+created expressly for the new biosatellite-support workload,
+including Project 6892 (whose project officer is again Dr.
+Mosely).
+
+The Biodynamics Branch gave not only its chief but
+also, at the outset, all its other staff members to the
+Satellite Operations Branch. It continued to exist on
+paper, but with no formally assigned personnel. The situ-
+ation reflected deemphasis. on the research program of Project
+7850, which had been the prime function. of the Biodynamics
+Branch. But at least this branch fared better than the
+Space Biology Branch, which was abolished outright along
+with Projects 7851 and 7857. Dr. Simons remained to wind
+up such unfinished business as the Man High III balloon
+flight and to work on final project reports; but in January
+1959 he was transferred to the School of Aviation Medicine.
+Most other branch personnel moved to Satellite Operations.
+
+As of 1 April 1959, the Satellite Operations Branch was
+renamed Bio-Astronautics Branch, This change met the objec=-
+
+tions of Dr. Mosely and others to the former title, which

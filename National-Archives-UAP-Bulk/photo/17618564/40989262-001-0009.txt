@@ -1,0 +1,13 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T17:47:50Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4920013, "source_ctime_ns": 1793355096552923995, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989262-001-0009.jpg", "source_mtime_ns": 1785564393000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989262-001-0009.jpg", "source_sha256": "212ef32ed5098f1669322e9b2fb2b52d37dbc2140a7b9a6810b22e619418688d"}
+
+===== PAGE 1 =====
+{"alpha_words": 13, "chars": 95, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Figure 2
+Page 29
+
+TARGET
+ACCURACIES
+
+CREH ==: JULY '56 to MA
+
+Cases, 1 to 5 hours Flight Time

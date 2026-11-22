@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T18:01:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8691452, "source_ctime_ns": 1793380207338906517, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28974899/1313.jpg", "source_mtime_ns": 1785700644000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28974899/1313.jpg", "source_sha256": "a52bc0121772439ae862cdfdc052755e69aee6e56fbfdf859e3ab4820fcf7af2"}
+
+===== PAGE 1 =====
+{"alpha_words": 65, "chars": 513, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PAGE TWO-ROWQBG 6B (
+2e Ae BRIGHTNESS
+Be OVERHEAD. )
+Ce OVERHEAD
+Ee FADED LEAVING TRAIL. OF SMOKE
+Se Ae GROUND<“VISUAL |
+Be NONE |
+Ce NONE on
+4 Ae APPROX 43692 17 NOV 57
+55 Ae NORTON AFB, CALIF. : |
+
+Se Ao ClV. Src. 3: ONE, | -@
+RIVERSIDE CALIF A/C MECH
+Be NONE | oo]
+
+Be SURFACE CALM 6S09FT O30/15 10009FT. 360/14
+
+1SC@BIT. 352/26 2GLSOFT. 340/5G 39900 FT 350/14
+
+59220 FT 310/43 89908 FT/ MISC.
+
+8» NONE
+
+9, NONE 7 ;
+
+id. NONE -
+
+11, OPERATIONS OFFICER - FLIGHT SERVICE.
+
+i2. NONE
+
+BT / !
+
+£7/1355Z NOV ROWQBG

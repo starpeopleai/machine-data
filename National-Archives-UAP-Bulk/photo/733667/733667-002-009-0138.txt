@@ -1,0 +1,19 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T17:37:48Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 2231636, "source_ctime_ns": 1793394399048324571, "source_file": "National-Archives-UAP-Bulk/photo/733667/733667-002-009-0138.jpg", "source_mtime_ns": 1785567364000000000, "source_rel": "National-Archives-UAP-Bulk/photo/733667/733667-002-009-0138.jpg", "source_sha256": "d938a216d1a0078c56d42c6297e3f313984598c76aeed3bc924931bf53a605a7"}
+
+===== PAGE 1 =====
+{"alpha_words": 33, "chars": 242, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+APEX CONSTRUCTION & MANAGEMENT
+P.O. BOX 21038
+FT. WORTH, TEXAS 76121
+
+(Memo
+
+TO: FAA DATE: 3/4 | 7]
+Boy Ia | SUBJECT: :
+FINCHORAGE, ALASKA ANCHORAGE jo |CELAND
+AEWIAL PhoTes
+
+THE ViGULE TAKEN ON A REEST FLIGlet
+awe de avovt LOLA Le i>—
+
+tu.

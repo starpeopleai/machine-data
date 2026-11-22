@@ -1,0 +1,70 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T18:27:53Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1277764, "source_ctime_ns": 1793355917283301452, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989289-001-0061.jpg", "source_mtime_ns": 1785564558000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989289-001-0061.jpg", "source_sha256": "564e37cf6a0dae73d9c62cdd1d1b4846454e8604d7b1addd3e4e988b7d30463d"}
+
+===== PAGE 1 =====
+{"alpha_words": 210, "chars": 1605, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+LO.
+
+he
+h2.
+
+U36
+hhe
+Se
+6.
+
+fe
+
+8.
+
+9
+
+50.6
+
+55
+
+and Services, 9 June 198, File 3, War Department,
+
+Memorandum from James Forrestal, Secretary of Defense,
+to General Mark W. Clarks; Secretaries of the Army,
+Navy and Air Forces Chairman, Munitions Board and
+Director, Joint Staff, sube: Utilization of Facilities
+and Services, 29 July 1918. File 3, War Department,
+
+Ibid.
+
+Research and Development in the United States Air Force,
+Report of a Special Committee of the Scientific Advisory
+Board to the Chief of Staff, USAF. (Hereinafter referred
+
+to as the Ridenour Report).
+
+Ibid., VIII, 11.
+Ibid.
+Memorandum, Alamogordo-White Sands-Fort Bliss Facilities.
+
+For elaboration of this point, see Mary R. Self, Histor
+of the Development of Guided Missiles, 196 - 1950.
+(Historical Office, Air Materiel Command, December 1951),
+ppe 100-08. (Hereinafter referred to as Self, Guided
+
+Missile Development).
+
+Address by Brigadier General W. L. Richardson before the
+Ordnance Technology Conference, los Angeles, California,
+26 April 1919. Cited in Self, Guided Missile Development,
+
+Memorandum from Admiral W. D. Leahy to Secretaries of War
+and Navy, 23 March 196. Cited in Self, Guided Missile
+
+Development, ppe 103-0h.
+
+R & R-l, Brigadier General W. L. Richardson, Chief, Guided
+Missiles Group, DCS/0, to DCS/O, circa 1 June 198,
+
+152.1 Radio Controlled Target Planes, 198, Vol. II, AAG
+Files, Hq, USAF. Cited in Self, Guided Missile Develop-
+ment, pe 105.
+
+Ltr., CG, AM to Chief of Staff, USAF, subs: U. S. Air
+Force Guided Missile Test Range Requirements, 27 May 199.
+File of Colonel William H. Baynes, Hq, HADC.

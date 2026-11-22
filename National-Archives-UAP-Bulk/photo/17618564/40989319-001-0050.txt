@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T18:28:43Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1322256, "source_ctime_ns": 1793356364159104954, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989319-001-0050.jpg", "source_mtime_ns": 1785564686000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989319-001-0050.jpg", "source_sha256": "5c08861e21725e689ad7c2d82b2a3d57bb88522382880e5e38508a150280de84"}
+
+===== PAGE 1 =====
+{"alpha_words": 271, "chars": 1766, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+side, The recording altimeter lost about 15 minutes, the first half of
+the operation, through failure of the recorder to print legibly.
+
+Because average velocities for the signals received at Kwaja-
+lein were from 9 to 10 great-circle degrees per hour, recordings at Guam
+for Test Y were made especially to cover this period, The recordings
+from Guam are shown in Figures 20, 21 and 22, No triangulation signals
+were obtained on the GR-8, It is believed that the frequency response
+of this equipment was too high to be effective for the longer distances.
+Consequently, although same signal-like impulses were received on other
+equipment, they cannct be positively identified. Correlation between
+airbarne and ground equipment is not conclusive. Positive identifica-
+tion of reception of the compressional wave from the source was obtained
+on the low-frequency ground array operated by the Navy Electronics
+Laboratory on Guam for this test. It is probable that the disturbances
+indicated on the balloon-borne record for a velocity of 9.2 degrees/hour
+are of the same origin, but since at that time the radio signal-to-
+noise ratio was poor, this part of the record is not considered reli-
+able. The recording altimeter for this test shows nothing above general
+noise level at the lower frequencies. |
+
+4. Test Y at Alamogordo, New Mexico
+- Because of the security situation, it was impractical to com
+pare the results of the two field parties between tests, and, therefore,
+modifications in prodedure for subsequent tests were based only upon the
+information gained by each party. It was first strongly suspected that
+the high-amplitude high-velocity signals wessived at Alamogordo on Test
+
+X were due to the explosion; and the plans for Test Y were modified to
+
+27

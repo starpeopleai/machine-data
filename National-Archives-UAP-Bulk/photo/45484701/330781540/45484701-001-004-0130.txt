@@ -1,0 +1,9 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T17:54:35Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6927156, "source_ctime_ns": 1793361861803770842, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330781540/45484701-001-004-0130.jpg", "source_mtime_ns": 1785685078000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330781540/45484701-001-004-0130.jpg", "source_sha256": "bf75c7c31a7997c80733a99494c1700d67cee5083c7b99f445d1162edac3eeaf"}
+
+===== PAGE 1 =====
+{"alpha_words": 5, "chars": 66, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 1, "variant": "plain-psm3"}
+- ¢c
+
+Mag t € é A Galileo
+
+Declassification Authority: NND 923007

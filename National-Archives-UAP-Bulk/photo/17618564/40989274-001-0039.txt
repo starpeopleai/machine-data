@@ -1,0 +1,43 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T18:24:21Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 938807, "source_ctime_ns": 1793355803419712456, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989274-001-0039.jpg", "source_mtime_ns": 1785564530000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989274-001-0039.jpg", "source_sha256": "805e62003f618f8b13a714f03086d02a81d5f9631bf3dadee2546261c0d00650"}
+
+===== PAGE 1 =====
+{"alpha_words": 239, "chars": 1555, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Schwetke, Cathy, , SAF/AAZD
+
+From: Lallemont, Brian, , SAF/AADF
+
+To: Schwetke, Cathy, , SAF/AAZD
+
+Ce: Washington, Phillip, SAF/AADDQ
+Subject: Roswell Follow-On Job
+
+Date: Tuesday, December 03, 1996 12:26PM
+Cathy,
+
+Please pass this information on to Capt. McAndrew.
+
+| spoke with Ms. Carlie, AF Graphics regarding the Roswell Follow-On job. | told her that we would like to use 3
+colors on the cover plus varnish and black ink on the inside text so that we may use an existing GPO contract.
+This is for cost savings and time savings. Please give her a call to go ahead and convert the 4-color photos to
+halftones. Ms. Carlie will also use two duotones on the cover (one-blue/back, one-yellow/back for rubberstamp)
+as well as a yellow PMS color for the text on the cover.
+
+For your information, | came up with a couple of estimates for the job.
+
+500 copies - $3,200 ($6.40 per book)
+3,000 copies - $6,500 ($2.16 per book)
+5,000 copies - $9,000 ($1.80 per book)
+
+Please give Mr. Washington (767-4899) a call about the distribution and projected audience. He can help with
+determining the printed quantity. On The Roswell Report, we procured 3,000 copies and still have over 1,000
+copies in the AFPDC (Warehouse) in Baltimore.
+
+When the job is ready, I'll need the diskette, sample, GPO Form 3868 (Intent to Publish), GPO Form 952 (AF
+Graphics will prepare. This form states what files are on the disk), and a memo requesting the job. The memo
+should include, purpose, how many, when needed.
+
+Give me a call if you have any questions. 767-4602
+
+Brian
+
+Page 1

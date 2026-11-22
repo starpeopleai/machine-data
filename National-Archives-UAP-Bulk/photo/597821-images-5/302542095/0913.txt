@@ -1,0 +1,63 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T17:30:21Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1677048, "source_ctime_ns": 1793389593826318527, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302542095/0913.jp2", "source_mtime_ns": 1785808202000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302542095/0913.jp2", "source_sha256": "c72fe0fbb485c2675a9c3c2a70e59e5f8da6db6891950abc2e537553297c1127"}
+
+===== PAGE 1 =====
+{"alpha_words": 104, "chars": 753, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD
+
+1. DATE). Tim GROUP
+
+_7 August 65 07/11002
+
+2. LOCATION
+
+Andrews ,’ Texas
+
+3. SOURCE
+| Civilian
+
+4. NUMBER OF OBJECTS
+
+One
+
+10. CONCLUSION
+
+Astro (METEOR) vA
+
+Speed and duration consistant with meteor flight,
+
+5. LENGTH OF OBSERVATION
+10 = 15 Seoonds
+
+6. TYPE OF OBSERVATION
+Gro urnd-VYisual
+
+7. COURSE
+
+SE
+8. P
+
+HOTaS
+
+cl Yes
+
+XXNe
+
+9. PHYSICAL EYIDENCE
+
+0 Yes
+
+“SXNo
+
+11, BRIEF SUMMARY AND ANALYSIS
+
+Object in flight from NW to SE. Described ag a white blinking
+light travelling over most of the sky in 10-15 secoms. The
+witress indicated that the blinking might have been caused by
+
+the heavy clowl cover,
+cloud bank,
+
+Final disappearance was to SZ in a
+
+FORM
+FID sep 63 0-329 (TDE) Previous editions of this form may be used,

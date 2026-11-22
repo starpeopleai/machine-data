@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T17:44:41Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4657317, "source_ctime_ns": 1793371513692998966, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28938601/1303.jpg", "source_mtime_ns": 1785688985000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28938601/1303.jpg", "source_sha256": "97d999a0e9bbb462e563604ef196ad6a57780b6340058ff95368eab2f9dbc237"}
+
+===== PAGE 1 =====
+{"alpha_words": 49, "chars": 371, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+6 ’
+
+t ’ {SU ERAR Rs tee aR Sy
+age UNUCLASS HES
+
+.. ey — a2 i! ',
+r Uc: Ae
+UNCLASSIFIED
+io PROJECT TWINKLE .
+‘ FINAL REPORT
+“Fae at ; ; ee : ;
+27 November 1951
+_ APPROVED:
+P. H. WYCKOFF i
+Chief, Atmospheric Physics Laboratory
+\
+f
+~}
+; YOWNGRADED AT 3 yp | OL
+mee a DECLASSIFIED AFTER 12 GE RN aS WW
+ae D DIR 6200.10 . mie iS)
+’ :, p
+UNCLASSIFIED Ny
+oe x ‘ae i a
+
+PS eee

@@ -1,0 +1,43 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T17:46:08Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4856816, "source_ctime_ns": 1793377452124358386, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28963805/0270.jpg", "source_mtime_ns": 1785696867000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28963805/0270.jpg", "source_sha256": "94a7b0fbfa86eb6430f08caa85db5eca0ad96c21e3038267ff1f9ab945b934d4"}
+
+===== PAGE 1 =====
+{"alpha_words": 36, "chars": 290, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+L
+Sade Sub,
+G
+ree ) 4,
+“ ee
+ty g
+3) pe
+c.,
+=A
+a. =
+= 73 KP
+a my
+=] ps
+C ee
+3:
+= =
+Lc ~i
+N Why—
+fe AS
+ye Ee
+~ ~
+PATTON 1, GHid 1
+
+Fie DR 662 ACWRON SRCOKFIELD -OHTO
+
+STANDARD hEBISTER
+
+SEE a/couyr ADC ENT AFB--COLO
+
+7 heADIY
+
+een 08
+
+;
+ea) : r -
+i ‘aarasag2 ocr. RJEDFY a !
+F .4%
+> ~w
+<d |

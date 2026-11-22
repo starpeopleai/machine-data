@@ -1,0 +1,72 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T17:39:09Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3694030, "source_ctime_ns": 1793375458555380966, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28956351/0998.jpg", "source_mtime_ns": 1785696442000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28956351/0998.jpg", "source_sha256": "7241ee8cfe4cdabd96e9dfb73581949104329c356342be7f1e52185595a63bf3"}
+
+===== PAGE 1 =====
+{"alpha_words": 292, "chars": 2149, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Soma ERE Tarte ne we
+
+AERONAUTICAL SYMBOLS
+
+AERODROMES
+Aerodromes with facilities Aerodromes with emergency or no facilities
+LAND WATER LANO WATER
+© rey) Civil oO Landing Area
+© @  soine Civil and Military & Sheltered Anchorage
+
+) @ Miltary
+
+AERODROME DATA
+AND LANDING FACILITIES INFORMATION
+
+LAND WATER
+| 38 4 90e Elevation in feet 00 = Elevation in feet [NAS ANACOSTIA
+; quot ote! t Minimum lighting L Minimum lighting Ba |
+4 he 4 Hard surfaced runway $ Normal sheltered take-off area ~
+. 41 Length of longest runway 62 Length of longest runway
+
+in hundreds of feet in hundreds of feet
+
+The facility code character ia replaced by a dash if specific
+information is not available or if the facility itself is not available.
+aca system - Ground Control Approach System. Other controlled
+approach systems by appropriate abbreviation.
+74 196.148 2870 - Control tower transmitting frequencies
+
+AIR NAVIGATION LIGHTS
+
+SAORI RAR aga NE Ene On ae mmRRG EUR
+
+Obstruction, leas than 500 feet above ground ...:- A ER OOD
+
+Rotating Light....... ‘ 7 Flashing Light (With code) il
+Rotating Light (With fasmms «te lights)....... -..% FS | ee ee
+Rotating Light (with oovree Vehts and......... Nn a ocewRG®
+Flashing Light................-.- Fit
+
+* — Fixed Qh Fim Quick “aehing Oce — Occulting Go—Group Ww— White 8— Blue StC— Sector
+
+Fi—Flashing (Qkfim intercepted Quick Flashing Ait— Alternating R—Red G—Green (U)—Unwatched sec — Seeond
+
+Marine lights ase +> "> aries colors are indicated; alternating lights are red and white uniess otherwise indicated
+MISCELLANEOUS
+1219
+
+Crepes aes Nghe ohare ome a
+
+rca dS
+
+. assawe of vircralt _ —y
+Values for 1950 axceve econ air corridor!
+
+Restricted areas are numbered, and are indicated on the charts as follows:
+
+a gt at de of
+
+r, Srouimited Anta /A/, me
+fh dt ee (army / Y, J PY weereresese9 --Prohibited Area — Flight of aircraft pronibited excent oy specife authority of using agency
+L/S? AA tLL,
+
+Group Obstruction... A Reporting Point Nan. pul .
+Prominent Transmission YESS oe digmenecintiaes
+
+; Ocean Station Vessel (Normal position). ........ i
+GEES + sca he ne ae Sreayastionst Boundary. __..._._.- Pere” Oy Seis

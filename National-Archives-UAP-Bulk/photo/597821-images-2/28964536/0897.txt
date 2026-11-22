@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T17:39:56Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3830163, "source_ctime_ns": 1793377604883449110, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28964536/0897.jpg", "source_mtime_ns": 1785696794000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28964536/0897.jpg", "source_sha256": "af339a251dbeaa19badc36fb7578a4466bac9449bff2f3aa3d9d3d2953d85d1f"}
+
+===== PAGE 1 =====
+{"alpha_words": 87, "chars": 580, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Viam
+
+? 24 Lo j
+Ny ul Pte 3 awa ® j A
+
+_ RFOTS : oe he
+
+ WPAGAS TUAGSHRAGDBHRL GDS ee ic
+
+(9M RJEDEN RJEDBW RJEDWP RJEPHO RJEDHR 4 (LEY:
+
+[> RJEDHR 81 2]
+“wee Pe Got oe
+7 COMDR 782D ACW SQ ROCKVILLE AFS ROCKVILLE IND a
+
+- 70 RJEDEN/COMDR- anc ENT AFB. COLO PRINGS COLO —
+ RJEDBW/COHDR soTH ‘ADIV /DEF/ WILLOW RUN AFB BELLEVILLE MICH
+
+. RJEDWP/COMDR AIR TECH INTEL CENTER WRIGHTT PATTERSON AFB OHIO C—
+
+: preeeerescton GF INTELLIGENCE HQ USAF WASHINGTON DC
+
+es RJEDHR/COMDR A796TH DEF WG OHARE INTL APRT PARK RIDGE ILL
+
+‘hie
+td
+
+4 NCLASSIFIE D/RVOPS 2518. UFOB IN ACCORDANCE WITH

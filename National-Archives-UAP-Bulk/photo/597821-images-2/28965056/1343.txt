@@ -1,0 +1,60 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T17:46:22Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4889952, "source_ctime_ns": 1793377709978845982, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28965056/1343.jpg", "source_mtime_ns": 1785696870000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28965056/1343.jpg", "source_sha256": "de88c3701cf57a722f9a1823296704dd1d0dfd71156d412dc8ed7b7a9abf2d80"}
+
+===== PAGE 1 =====
+{"alpha_words": 169, "chars": 1172, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+He ae mee eee ete IM crisis CS
+
+1 DE RJEPJM 9 -— 4
+
+| TO RJEDEN/COMDR ADC ENT AFB COLO SPRINGS COLO Se aa
+
+' RJEPNB/COMDR EADF STEWART AFB NEWBURGH NY ATTN CIC
+ON CLASS IFI E D/85 ADOIN 359 UFoB
+
+| 00 RJEDEN RJEDWP RJEPHQ RJEPNB RJEPNY Sy
+
+0 9603092 ae Ie
+¥M COMDR 85 ADIV ANDREWS AFB WASH DC oe ae
+
+RJEDWP/AIR TECHNICAL INTELLIGENCE CENTER WPAFB OHIO oes
+
+ie
+ET
+
+,
+por J, ~ en wee a
+A) ee \ oo
+bs 2 a \ het Ae ah {
+
+Paced
+
+| T WPF973 YDBO58 TYDS6S TMAG33IMABB7 Pee s
+
+RJEPHQ/DIR OF INTELLIGENCE HQ USAF WASH DC
+INFO RJEPNY/2STH JOINT AIR DEFENCE DIV ROSLYN AFS NY
+
+2 A ROUND B 41/2 DOLLAR C RED DI E N/A F RED LIGHT BLINKING ON AND
+
+: OFF REGULARLY THEN STOPPED G NEG H NEG I NEG
+_ 2A GOC OBS B NEG C NEG D OBJ STATIONARY WHEN ISTHRPTD THEN NE WHEN
+
+“ND RPTD E LIGHT DISAPPEARED AND SEEN AT DIF LOCATIONS AT VAR
+INTVLS F 39 MIN
+A GD VIS B BINOCS C N/A
+
+3
+—& A @5/2359Z B6/9915Z B6/99257 36/9939Z
+: ie |
+
+NIGHT
+5 A 79DEGREES 393 MIN E 36 DEGREES $9 MINN B GJLG 5735
+
+PAGE TWO RJEPJM 9
+§ WILLIAM H EDWARDS JR AGE 44 1744 PIEDMONT WAY BURLINGTON STUDENT
+MRS FRANCES WATSON 527 ARDEN BURLINGTON HOUSEWIFE
+6 BNZA
+7 A CLEAR
+8B SURFACE WIND DEGREES KNOTS
+133 10
+258 23
+273 et)

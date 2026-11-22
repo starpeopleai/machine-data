@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T17:56:28Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7302576, "source_ctime_ns": 1793384805916507727, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28991115/0803.jpg", "source_mtime_ns": 1785748272000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28991115/0803.jpg", "source_sha256": "eafb2ac450b363f9f347f7d27e7edb67ffe615fc53e64f71634cdf0cd1dc6dfa"}
+
+===== PAGE 1 =====
+{"alpha_words": 185, "chars": 1322, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+2. LOCATION 12. CONCLUSIONS
+QO Was Balloon
+17 Jan 61 2 1/2 mi N of Troy, Ohio 0 Probably Balloon
+- DATE-TIME GROUP 4. TYPE OF OBSERVATION haben Aird pista
+Leeal 2040 CI Ground- Vi sual O Ground-Roder a Probebly Aircraft
+cmt_180140Z D Air Visual O Air-Intercept Rader |2 Possibly Aircraft
+5. PHOTOS ay 6. SOURCE 0 Was Astronomical
+QO Yes O Probably Astronomical
+%1 No Civilian O Possibly Astronomical
+7. LENGTH OF OBSERVATION 8. NUMBER OF OBJECTS | 9. COURSE O Other
+; EX Insufficient Data for Evaluation
+0 Unknown
+5. SCC. L N-S the S-NE
+
+10. BRIEF SUMMARY OF SIGHTING Light traveled across 1. COMMENTSWitness reported shape of objedt
+sky. Came from N; disappeared to S; reappeared] as that of lightning with no color. It
+jtraveling NE; returned about half way; then must have had some light color for him to
+expladéd.vbNo sound. Gave appearance of jet see it. Object was reported to have dis-
+exhaust, but much faster. appear, then returned and exploded.
+Blevation of object when in view was not
+reported. Attempts to contact witnesses
+by analyst were in vain. Although duratilon
+and explosion is characteristic of a bo-
+lide, the other information reported is
+too general to permit a valid conclusior.
+Therefore, this report is categorized aa
+Insufficient Data.
+
+ATIC FORM 329 (REV 26 SEP 52)

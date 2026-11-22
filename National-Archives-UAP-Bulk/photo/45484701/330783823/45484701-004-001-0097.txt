@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T17:59:01Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7826269, "source_ctime_ns": 1793362835550932995, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330783823/45484701-004-001-0097.jpg", "source_mtime_ns": 1785685061000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330783823/45484701-004-001-0097.jpg", "source_sha256": "890ec32819cc221097d73abbfa00890dbb41eeae1072434de507dc3bf6c4fc15"}
+
+===== PAGE 1 =====
+{"alpha_words": 49, "chars": 333, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+yee a aes Y
+
+AFCSI/It' Col Free/fjim/Arrtn 21}
+
+- id 7. = 1 # 2
+sYywaren Of wy er » 4 mde Ems
+INe Cr al TIVE SULrauLons
+
+LPO
+
+AFCSI=6
+Col Fre
+
+CLASSIFICATION CANCELLED @@ pein cerns fy
+
+BY AUTHORITY OF THE DIRECTOR OF b2cu INV
+
+URT K.
+BY _“ Capt, USAF
+
+cit 3 pEC 1975.
+
+DATE
+
+oe
+
+UNCLASSIFIED
+
+Declassification Authority: NND 923007

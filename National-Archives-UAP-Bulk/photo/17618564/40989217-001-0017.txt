@@ -1,0 +1,46 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T18:00:03Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8108644, "source_ctime_ns": 1793354536679276954, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989217-001-0017.jpg", "source_mtime_ns": 1785564302000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989217-001-0017.jpg", "source_sha256": "35f237d4ad3eae90d8114b778c5aa0e7c555fbff90c660eab8169a7f628fcde0"}
+
+===== PAGE 1 =====
+{"alpha_words": 102, "chars": 709, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+: & DEPARTMENT .OF THE AIR FORCE Sine
+. “STAFF MESSAGE DIVISION @&
+
+SMD C9 UNCLASSIFIED MESSAGE
+
+HQBIG3WIB135 WWD@25LKAZ15
+
+RR RJEPHQ
+
+DE RJWFLK 21A
+
+R 192211Z
+
+FM COMDR 47 WALKER AFB NMEX
+
+TO RJEPHQ/HEADUSAF WACH DC
+
+INFO RJEDMH/CINCSAC OFFUTT AFB NEBR
+
+RJWPRH/COMAF 15 MARCH AFB CALIF
+
+BT
+
+UNCLAS FROM BJA 7-12925. FOR THE JUDGE ADVOCATE GENERAL. SUBJECT?
+ARTICLE 32 INVESTIGATION. ARTICLE 32 INVESTIGATION ON LTCOL GEORGE
+F. ADAMS, 49257543, WAS FORWARDED TO THE STAFF JUDGE ADVOCATE,
+HEADQUARTERS 15TH AIR FORCE ON 1@ JUNE 1957 FOR NECESSARY ACTION.
+BT
+
+20/0042Z JUN RJWFLK
+
+ACTION: CJA
+
+AF IN : 7782 (20 Jun 57)
+
+Ss tie,
+Bab oor Reeds Rewrw Br .ucA nF
+
+ies ZA
+
+ha worl
+bod Benth: et iecaeaiarent ee ee:

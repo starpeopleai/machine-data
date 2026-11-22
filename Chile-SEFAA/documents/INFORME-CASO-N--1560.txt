@@ -1,4 +1,4 @@
-{"created_utc": "2026-10-01T09:48:21Z", "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "embedded-text", "pages": 0, "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1143428, "source_ctime_ns": 1788505425817063430, "source_file": "Chile-SEFAA/documents/INFORME-CASO-N--1560.pdf", "source_mtime_ns": 1788505425784203093, "source_rel": "Chile-SEFAA/documents/INFORME-CASO-N--1560.pdf", "source_sha256": "549ee06c55e7b1be7b047cd31565630f32c62c9abd80c812c7ce96148535c666"}
+{"created_utc": "2026-11-22T18:21:11Z", "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "embedded-text", "pages": 0, "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1143428, "source_ctime_ns": 1793354227528835556, "source_file": "Chile-SEFAA/documents/INFORME-CASO-N--1560.pdf", "source_mtime_ns": 1788505425000000000, "source_rel": "Chile-SEFAA/documents/INFORME-CASO-N--1560.pdf", "source_sha256": "549ee06c55e7b1be7b047cd31565630f32c62c9abd80c812c7ce96148535c666"}
 
 Caso N° 1560 12062021
 

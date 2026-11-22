@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T17:50:58Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5329217, "source_ctime_ns": 1793383788495828498, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28987870/0035.jpg", "source_mtime_ns": 1785747886000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28987870/0035.jpg", "source_sha256": "7bf0066528a2d0badd571f4214d3c89ca246c7464335b18c291dde3cc30fb050"}
+
+===== PAGE 1 =====
+{"alpha_words": 11, "chars": 76, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+abt,
+
+BY al
+
+eae peor appt
+
+/
+_
+’
+¢
+.
+Hi
+‘ «
+”
+de
+-
+‘
+1 ,
+.
+‘
+AS aaa eC %,

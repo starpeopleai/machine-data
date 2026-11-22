@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T17:30:05Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1585085, "source_ctime_ns": 1793372117480829252, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28941394/0991.jpg", "source_mtime_ns": 1785688552000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28941394/0991.jpg", "source_sha256": "252e8f9e610ab1e2545a79b180dc004c9cbfafe37011df0a2258c854ab66fdcd"}
+
+===== PAGE 1 =====
+{"alpha_words": 98, "chars": 799, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+alan.
+
+aS Oe a a - o-
+
+PROJECT 10073 RECORD CARD '
+
+1. DATE ( 2. LOCATION ( 12, CONCLUSIONS
+2 Longmeadow, Mass O Wos Balloon
+en Ae , ; O Probobly Balloon
+‘3. DATE-TIME GROUP 4. TYPE OF OBSERVATION DO Possibly Balloon
+Local ; ; 2030 { Ground: Vi sual O Ground-Rodar g Probobly Aiveratt
+cut_.____// 013 D Air Vi sul D Air-Intercept Rador GO Possibly Aircraft
+‘$. PHOTOS 6. SOURCE ® Wee Acvenenied
+O Yes ‘ O Probobly Astronomical
+1 No 2 engineers 0 Possibly Astronomico!
+7. LENGTH OF OBSERVATION 8. NUMBER OF OBJECTS | 9. COURSE D Other.
+D Insufficient Data for Evaluation
+LO minutes 1 erratic & Unknown
+10. BRIEF SUMMARY OF SIGHTING 11. COMMENTS
+Star color. Star shape. Rapid climbs Very erratic. 4x as bright as star.
+and dives. Changed shape as it changed altitude..
+
+ATIC FORM 329 (REV 26 SEP $2)

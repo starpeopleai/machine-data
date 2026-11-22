@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T17:49:32Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5022627, "source_ctime_ns": 1793372374344357658, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28942475/00574.jpg", "source_mtime_ns": 1785689049000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28942475/00574.jpg", "source_sha256": "0d032834247dee46a7544da0f8c1dc351d0c212dc6ddf5cca3e7e3658638eeeb"}
+
+===== PAGE 1 =====
+{"alpha_words": 65, "chars": 445, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+‘ 7 |
+ITEM 5 AMC’ /UNCL/ ( i vo eae |
+ROM LT £ J RUPPELT AC AA-5 | my
+TO CAPT FOURNET AFOIN-283
+
+We MAVE BEEN ADVISED THAT THE 6 JUNE 52 NEAE |
+\EWSPAPER IN FLORIDA CARRIED A REPORT OF INFORMATION
+A COMBINATION VISUAL-RADAR SIGHTING-FROM- =
+THE BOCA CHICA NAVAL AIR STATION IN FLORIDA.
+
+I) YOU HAVE ANYONE IN THE NAVY THAT COULD ‘se
+CONFIRM AND GIVE DETAILS? : fh
+
+END ITEM 5 AMC /UNCL/ 7 ae
+
+—
+a none
+
+i aS :
+
+© i manmabeewetsTantntnte se.
+se

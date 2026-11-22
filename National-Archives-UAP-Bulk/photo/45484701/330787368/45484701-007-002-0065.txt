@@ -1,0 +1,63 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T18:02:44Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9206744, "source_ctime_ns": 1793364581741070662, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787368/45484701-007-002-0065.jpg", "source_mtime_ns": 1785685195000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787368/45484701-007-002-0065.jpg", "source_sha256": "81a62ef7c07896b02c81bca540591e23b878b6fe5ac75a51f449e52a3d1d5a3f"}
+
+===== PAGE 1 =====
+{"alpha_words": 369, "chars": 2508, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+de The investigation of this mtter was predicated upon a lstter
+‘rom the Commanding General, Headquarters, 27th Air Division, Norton AF,
+jermardino, California, dated 22 October 1951, requesting this District
+ice to make an investigation concerning the sighting of an unidentified
+ject over Long Seach, California, on 23 September 1951.
+
+be ‘| the time this matter was referred to this office, the 27th
+Vivielon fumished an Intelligence Report which sets forth the follow
+if Ormation.
+
+"At 1610Z, 23 September 1951, an object was sighted and reported
+
+over Long Beach, California, at 50,000 feet, Four (4) F-86 were dis-
+patehed to investigate and sighted object over Muroc, California.
+Mttaining an altitude of 43,000 feet, F~86 sighted object to be in 4
+constant orbit in the vicinity of March Air Force Base, California,
+
+at an altitude between 50,000 feet and 55,000 feet. Object appeared to
+be & swept-wing, fighter-type aircraft.
+
+"Santa Maria, San Diego and Long Beach are regularly scheduled to
+release weather balloons which can easily rise to 50,000 feet, may have
+& kite attached that can give off reflection, and can expand greatly if
+they are 350 gram balloons.
+
+"The inclosed report was received by Captain J. R. STEELE, Chief
+Vontroller, ADCC, from Major LE) MELZER, Operations Officer, 750th
+
+et
+
+iUGW Squadron. The report was read back and verified by Major MELZUR.
+“Major MELZER checked Edwards AFB Flight Dispatcher and Control
+
+Tower Operator concerning aireraft from Edwards AFB in flight. Wo jet
+
+or conventional aircraft had taken off from Edwards AFB. The Operations
+
+Ufficer confirmed that no experimental aireraft to his knowledge were
+
+scheduled for flight. Edwards AFB Flight Dispatcher checked Nellis
+
+AYR, Imyokern, and George AFB Operations and reported that no flight
+
+had been airborne at the time that would approximate descriptions
+
+fii, ote ®
+
+"Major MANUSSIER, CO of the 750th AC&W Squadron, asked General
+
+BOTD, GG of Edwards AFB, whether he knew of any flight te which Genera]
+BOYD replied in the negative. General BOYD suggested that North Ameri~
+can Company at Logs Angeles International Airport be checked. Major
+MELZER ¢hecked Bell Aircraft, N.A.C.A., Douglas, North American and
+Northrup, but only an MP at Northrup answered any of these calls and
+reported that there had been no activity all morning. Sell has been
+experimenting with X<-] and X-5; N.A.C.A. with the XF-92; Doulas with
+the D 556; and Northrup with the X-3.
+
+Declassification Authority: NND 923007

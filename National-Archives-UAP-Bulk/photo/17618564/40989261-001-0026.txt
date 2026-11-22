@@ -1,0 +1,18 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T17:52:47Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6109438, "source_ctime_ns": 1793355086779643065, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989261-001-0026.jpg", "source_mtime_ns": 1785564391000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989261-001-0026.jpg", "source_sha256": "d216806b10fdca2fa3c0c521ffc7bef4c31d9a25b877aa076830adb62a19d28d"}
+
+===== PAGE 1 =====
+{"alpha_words": 12, "chars": 90, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+“TRUTH or
+
+~
+
+oo
+
+U
+OTT RAO
+aod i
+
+M4
+LY iw
+
+Probalility Drajectaory Dispersic Patterns.

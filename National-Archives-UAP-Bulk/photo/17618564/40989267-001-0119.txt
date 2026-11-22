@@ -1,0 +1,66 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T18:10:27Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 17304367, "source_ctime_ns": 1793355535015701764, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0119.jpg", "source_mtime_ns": 1785564473000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0119.jpg", "source_sha256": "377fb795d39eaa9dd494985043eef14f2cc58383be7c01ef237e96a4ab9aeb9f"}
+
+===== PAGE 1 =====
+{"alpha_words": 341, "chars": 2328, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+in the crown, and complete deflation takes place in a few seconds. This aperture is
+
+readily closed, and the balloon is easily prepared for re-use.
+
+3. APPLICATION
+
+3.1 General
+
+The present day hot air balloon has a wide range of applications which include:
+
+a. Manned hot air balloons
+
+b. Flare support systems
+
+c. . Mid-air’recovery systems
+
+d. Heavy-load transport systems
+
+e. Captive hot air balloons
+
+These application fall into two broad categories.
+
+The first category includes those flights wherein the balloon is initially inflated
+on the ground by auxiliary equipment. The manned flights and the unwieldy load
+transportation flights fall into this category. The hot air balloon system has distinct
+advantages for applications of this category in the fields of logistics of ground launch
+equipment, cost of lifting gas, and reusability of the balloon envelope.
+
+The second category includes those flights wherein the balloon in initially infla-
+ted in the air by airborne auxiliary equipment. Small, unmanned systems for sup-
+porting a light payload for 5 to 45 minutes, as well as systems for recovery of
+devices returning from outer space fall into this category. The hot air balloon sys-
+tem has distinct advantages for applications of this category in the logistics of air-
+
+borne envelope inflation equipment and the maneuverability of the balloon system.
+
+3.2 Specific
+3.2.1 MANNED HOT AIR BALLOONS
+
+The modern Montgolfiers which have been most used to date are piloted, re-
+usable, manned balloons called VULCOONS. These are used for pilot training,
+scientific investigation, and sports purposes, Figure 14 illustrates such a Raven
+Industries balloon. This particular balloon is 50 feet in diameter and has a volume
+of 61,000 cubic feet. The material is 1.1 ounce nylon impregnated with an acrylic
+resin, It has a gross capacity of approximately 1130 pounds and a flight duration
+up to 6 hours with two persons aboard.
+
+In April 1963, P. E. Yost and D. L. Piccard made the first successful crossing
+of the English Channel by hot air balloon. On other flights, durations of six hours and
+altitudes of 13,000 feet MSL have been achieved.
+
+The amount of fuel required for a four hour flight is approximately 230 pounds
+
+Figure 14, Fifty Foot Diameter,
+
+61, 000 Cubic Foot Hot Air Balloon
+
+229
+
+aeons
+
+A Caen Se ee

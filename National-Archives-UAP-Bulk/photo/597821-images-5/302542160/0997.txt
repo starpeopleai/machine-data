@@ -1,0 +1,47 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T17:32:35Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1703999, "source_ctime_ns": 1793389602872084940, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302542160/0997.jp2", "source_mtime_ns": 1785808714000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302542160/0997.jp2", "source_sha256": "60086a97e062e7291a1b089101511fc28d2dabc2c24601f84a10ea83232e0b3d"}
+
+===== PAGE 1 =====
+{"alpha_words": 124, "chars": 828, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD
+
+1, DATE - TIME GROUP
+
+8 August $5 09/06002
+
+2. LOCATION : |
+- Minot, North Dakota
+
+i
+
+3. SOURCE 10, CONCLUSION
+Military Satellite (HCHO IT)
+Bis byte “edb
+ee ar ECHO IL over the area at 06102 heading NE at && deg elevation.
+ One> Probably over estimation.on duration.
+>. LENGTH OF C3SERVATION |11, 8R!EF SUMMARY AND ANALYSIS _
+20Minutes "Round object liek a star in flight from South to North zig-za;
+
+& TYPE OF CBSERVATION
+Ground=Yisual (BX)
+
+7. COURSE
+North
+
+1 Yas
+Re NO
+
+9. PHYSICAL EVIDENCE
+
+ao Yes
+
+KX Ne
+
+across sky. Cbser#ed on previous occasions, Faded before it
+sot to horimn. WX included varying amounts of clog over.
+tar in flight is usual description of Satellite, o attempt
+at specific object, ”
+
+FORM
+FTD sep 63 0-329 (TDE) Previous editions of this form may be used.
+
+pk nde Dc oi ae r ti g

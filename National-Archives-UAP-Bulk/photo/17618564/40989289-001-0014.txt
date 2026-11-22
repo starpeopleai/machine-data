@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T18:24:24Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 947012, "source_ctime_ns": 1793355914357234790, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989289-001-0014.jpg", "source_mtime_ns": 1785564557000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989289-001-0014.jpg", "source_sha256": "6f044fd826ca29f37fd4e7a7229809c6b99a8187eef1071ebb75f0ea783d66db"}
+
+===== PAGE 1 =====
+{"alpha_words": 211, "chars": 1311, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+23
+
+recommended, that "no further action be taken at this time,"
+
+Despite the opposition of the Air Force and the Navy to
+his proposed action, the Commanding General of Fort Bliss,
+the following month, issued. the order-establishing ‘the! Area
+and Facilities Committee which was to "coordinate the use of
+areas and facilities, which are the responsibility of the
+Commanding General, AAA and GM Center, and which are commonly
+used by White Sands Proving Ground and Holloman Air Force
+Base.#-4 The following day, 3 March 199, Fort Bliss! Com-
+mander reasserted his powers of command over the areas in
+argument by remarking that "since the CG, AAA and GM Center,
+is responsible for the areas commonly used by WSPG, HAFB,
+and the AAA and GM Center, and for many of the facilities,
+it is considered necessary that the use of these areas and
+facilities be coordinated by a committee appointed by the
+responsible officer.” The committee, he continued, would
+not interfere with technical activities, but would be
+limited "in its scope to the control of those areas and
+facilities which are the responsibility of the CG, AAA and
+GM Geiver,e°”
+
+The Air Force regarded unfavorably these assertions of
+authority by the Army and their implementation by the Fort
+
+Bliss Commander, In forwarding the letter of 3 February 199

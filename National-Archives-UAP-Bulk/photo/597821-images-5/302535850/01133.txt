@@ -1,0 +1,42 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T17:31:30Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1693453, "source_ctime_ns": 1793389051050270010, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302535850/01133.jp2", "source_mtime_ns": 1785808325000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302535850/01133.jp2", "source_sha256": "9f528c0fee5ec05fc0f01338ba4227b6351394f802e34d6bda7f6a9f0586efd0"}
+
+===== PAGE 1 =====
+{"alpha_words": 67, "chars": 555, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+E. le 47°46°N = 92°10'W
+
+2. FKNC 5046
+Fe 1. Mr. JOO nEy; Eveleth, Minnesota
+2. N/A
+
+G. 1. Overcast, light rain, 2,000, wind calm.
+2. Surface- 340°@ 5 kts.
+3. 5,000 scattered, high broken eed
+
+4. 15 Miles
+
+; > :
+
+6. None |
+
+H. None :
+I. None |
+Je None |
+
+Ke NORAD Intelligence Officer
+1. Unknown
+Le None '
+
+Me See attached letter.
+
+Remarkss A letter has been written requestina further clarification
+On items left blank and will be forwarded when received.
+
+FOR THE COMMANDER 1 attch: Ltr from lir.
+
+—
+
+G.8. SMITH
+F/L, RCAF
+NORAD Intelligence Officer
+
+nN

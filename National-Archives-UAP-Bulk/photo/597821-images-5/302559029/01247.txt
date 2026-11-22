@@ -1,0 +1,57 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T17:36:46Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1762506, "source_ctime_ns": 1793391519991329699, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302559029/01247.jp2", "source_mtime_ns": 1785807999000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302559029/01247.jp2", "source_sha256": "107f1639a03edd46b5851eb626cd78fcb58fea626947cba9f212e3e8c6d8c19c"}
+
+===== PAGE 1 =====
+{"alpha_words": 240, "chars": 1576, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+a aw a = SORT |
+
+U.S. AJR FORCE TECHNICAL INFORMATION
+
+-
+. a
+
+This questionnaire has been prepared so that you can give the U.S. Air Force as much
+information as possible concerning the unidentified aerial phenomenon that you have oliserver.
+‘ Please try to answer as many questions as you possibly can, The information that ycu give will
+be used for research purposes. Your name will no? be used in connaction with any statements,
+conclusions, or publications without your permission. We request this personal Information sc
+that if it is deemed necessary, we may contact you for further details.
+
+1. When did you see the object? 2. Sime of day:
+Hour Minutes
+ae es a Jee... A A {Circle One): A.M. or
+Doy Month Your
+3. Time Zone:
+(Circle One); a. Eastern (Circle One); a. Daylight Saving
+b. Central b. Stondard
+c. Mountain
+d. Pacific
+e. Other
+
+4, Where were you when you sow the object?
+
+Ny bbls Rapids teed tml
+
+Neorest Postal Address City or Town Stotea w Counry
+5. How long was object in sight? (Total Durotion) A
+Hours Minutes Seconds
+a. Certain c. Not very sure
+b. Fairly certain d. Justo guess
+
+5.1 How was time in sight determined?
+
+5.2 Was object in sight continuously? Yes na No
+
+6. What was the condition of the sky?
+
+DAY NIGHT
+a. Bright Bright
+b. Cloudy » Cloudy
+
+7, IF you sow the objact during DAYLIGHT, where was the SUN locoted as you looked at the objext?
+
+(Circla One): a. In front of you d. To your left
+» In back of you e. Overhead
+¢. To your right f, Don’t remember
+
+— — FORM
+© \. *TD oct 62 164 = Thie form eupereedes FTD 164, Jul 61, which le obsolete.

@@ -1,0 +1,13 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T17:38:07Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3208608, "source_ctime_ns": 1793361621896369238, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330781006/45484701-001-001-0039.jpg", "source_mtime_ns": 1785684840000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330781006/45484701-001-001-0039.jpg", "source_sha256": "91406c646003250e308bcdb398ec17323ed0034aa2682282425dd7db7a4853e0"}
+
+===== PAGE 1 =====
+{"alpha_words": 46, "chars": 300, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+YOUR FILE REFERENCE:
+
+IN REPLY REFER TO:
+
+An inquiry by or concerning an ex-service man or woman should, if possible, give veteran’s name and file num ber, whether
+C, XC, K, N, or V. If such file number is unknown, service or serial number should be given.
+g
+
+Declassification Authority: NND 923007

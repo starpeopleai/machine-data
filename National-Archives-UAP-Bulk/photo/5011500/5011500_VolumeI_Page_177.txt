@@ -1,0 +1,100 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T18:21:58Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 613477, "source_ctime_ns": 1793365595725235869, "source_file": "National-Archives-UAP-Bulk/photo/5011500/5011500_VolumeI_Page_177.jpg", "source_mtime_ns": 1785565397000000000, "source_rel": "National-Archives-UAP-Bulk/photo/5011500/5011500_VolumeI_Page_177.jpg", "source_sha256": "b3baa6124d126aa33396eb9fe5e87c7a6ca780c515dd637cbc0f2e8e935f47e4"}
+
+===== PAGE 1 =====
+{"alpha_words": 174, "chars": 1244, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+176
+
+56:02:56
+56:02:58
+
+56:03:02
+56:03:07
+56:03:12
+
+56:03: 38
+56:04:05
+
+56:04; 12
+56:04:19
+56:04; 24
+56:04: 38
+56:04; he
+
+56:04: 46
+56:04: 49
+56:04: 50
+56:04: 53
+56:05: 14
+
+56:05:23
+56:05:49
+56:06:00
+
+cc
+
+cc
+
+CC
+
+cc
+
+cc
+
+ce
+
+cc
+
+cc
+
+cc
+
+cc
+
+CONFIDENTIAL
+
+This is Gemini. Read you loud and clear.
+
+Roger. We're standing by for your purge. All your
+systems are GO.
+
+Rogere All systems GO.
+
+RKV. The cabin pressure eee
+
+Roger, we'd like for you to leave Fuel Cell 02,
+750, Fuel Cell H2, 500. The minimums for Fuel Cell
+O02 are 170; the minimum for Fuel Cell H2, 330. Do
+you copy?
+
+Stand by, please.
+
+Understand the spread for RSS oxygen is 750 to 150
+and I need the hydrogen spread.
+
+The hydrogen spread is 500; the minimum is 330.
+Hydrogen 500 to 330. How about ECS 02?
+
+ESC 02, 580 to 230, 233.
+
+That's 580, 233.
+
+Roger. Will you all please ask the network to wake
+us up if we get within range of these minimuns?
+
+Rogere Will do.
+
+Thank you.
+
+Will you place your Quantity Read switch to ECS 02?
+There you are.
+
+Your next fuel cell purge after sleep period will be
+over Carnarvon at an elapsed time of 66 plus 20.
+
+Thank you.
+Would you place Quantity Read to FUEL CELL 02?
+
+I have a map update for you when you are ready to
+COPY e
+
+‘CONFIDENTIAL

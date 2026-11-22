@@ -1,0 +1,21 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T17:53:47Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6795278, "source_ctime_ns": 1793354622359578785, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989218-001-0003.jpg", "source_mtime_ns": 1785564315000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989218-001-0003.jpg", "source_sha256": "e8c976b0513d433fad227fae461d60b5c8881d4a2ec994c3c821e0e3266a4724"}
+
+===== PAGE 1 =====
+{"alpha_words": 42, "chars": 271, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+FOR DELAY
+Walker Air Force Base
+New Mexico
+
+28 June 1957
+
+I hereby request delay in the case of the United States against
+
+Pp
+
+Lieutenant Colonel George F. Adams until on or about 1 August 1957,
+
+due to previous commitments as Law Office:
+
+DA
+Capt, USAF
+Defense Counsel

@@ -1,0 +1,104 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T17:37:18Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1794526, "source_ctime_ns": 1793392479458562327, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302568149/0377.jp2", "source_mtime_ns": 1785808535000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302568149/0377.jp2", "source_sha256": "f6740cc471756f04d7ab1b543287dc077ca383f293a0338e525273c92252eb34"}
+
+===== PAGE 1 =====
+{"alpha_words": 264, "chars": 1678, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+pane Rees 5
+
+" SSG A eee Oe NIRS ty
+
+8.
+
+8.1 STARS (Circle One): 8.2
+
+a. None
+6) A few
+c. Many
+d. Don't remember
+
+eee
+
+IF you saw the object at NIGHT, what did you notice concerning the STARS and MOON?
+
+MOON (Circle One):
+
+~~
+
+Peal a a 4
+
+a. Bright moonlight
+
+CB Dull moonlight
+c. No moonlight — pitch dark
+d. Don’t remember
+
+9. What were the weather conditions at the time you saw the object?
+
+CLOUDS (Cirele One):
+
+(a) Clear, sky
+
+WEATHER (Circle One):
+
+Ca) Dry
+
+b. Hazy b. Fog, mist, or light rain
+‘c. Scattered clouds c. Moderate or heavy rain
+d. Thick or heavy clouds d. Snow
+
+; e. Don’t remember
+
+10. The object appeared; (Circle One}
+
+a. Solid d) Asa light
+b, Transparent e. Don’t remember
+c. Vapor
+
+11. If it appeared as a light, was it brighter than the brightest stars? (Circle One):
+
+a. Brighter Cc.
+
+b. Dimmer
+
+11.1 Compare brightness to some common object:
+
+About the same
+d. Don’t know
+
+Ob ject Kad Tuas blinking red lights S Under oy. Gig A CAMMEPIDNI
+Pas CEN dame. On To Ne it appear td To be buna gen es Anew bt
+12. The edges of the object were:
+(Circle One)£ a.) Fuzzy or biucred e. Other Avo _ degin Wt She sn Engen
+Like a bright star Dur DL PL agro _d Lo. Jae Pro us 1a
+
+c. Sharoly outlined
+d. Don’t remember
+
+13. Did the object:
+
+c. Appear to stand still at any time?
+
+b, Suddenly speed up and rush away at any time?
+c. Break up into parts or exolode?
+
+d. Give off smoke?
+
+e. Change brightness?
+
+f, Change shape?
+
+g- Flash or flicker?
+
+h. Disappear and reappear?
+
+(Circle One for each auestion)
+
+WYesD Don’t know
+
+No
+“Les No Don’t know
+Yes WNe> Don’t know
+Yes ( Wo) Don’t know
+Yes flo} Don’t know
+Yes ‘NOS Don’t know
+“YesD No Don’t know
+CYeD No Don't know

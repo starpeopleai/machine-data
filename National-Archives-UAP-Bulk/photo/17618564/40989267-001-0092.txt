@@ -1,0 +1,89 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T18:07:53Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 15118747, "source_ctime_ns": 1793355509370941145, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0092.jpg", "source_mtime_ns": 1785564467000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0092.jpg", "source_sha256": "63d2f9d6072ffb40be7b34e07c582f410dd7891ec7a434198eec850adebbd59c"}
+
+===== PAGE 1 =====
+{"alpha_words": 625, "chars": 3961, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+oars?
+
+174
+
+create major problems for neoprene type balloons. In order to stand strong wind
+shears in transit of the tropopause the design should have a large degree of struc-
+tural capacity. Lastly, there was a strong desire to create a balloon that had
+launching ease for the untrained user.
+
+In reference to previous balloon history, it is a well established fact that
+balloon launching is quite a problem. Thus, one of the major objectives was to pro-
+vide a balloon that a scientist could take in the back of his truck or station wagon,
+quickly set it up and launch by pulling a lever. His efforts, then would not be
+expended on the support train for the balloon or launching equipment but rather he
+could concern himself primarily with the scientific experiment. Thus, the design
+must generate a launching technique that can accommodate a reasonable amount of
+wind, has a flexible mobile launching capability, and can be launched by one man if
+necessary.
+
+The design point of 150,000 feet and a 3.5 pound payload is shown on the perfor-
+mance graph, Figure 2. The curve gives the general operational effectiveness of
+the MER-H-3 design. If the balloon performance capability is examined, it is seen
+that a 12 pound payload can be lofted to 140,000 feet.
+
+MER-H-3 Balloon specifications are presented in Figure 3, The size of thesea
+level bubble is 10 feet in diameter with the top 9.5 feet above the ground. Consider-
+ing that there is probably quite a long line associated with the payload in order to
+remove it from the air stream perturbations caused by the balloon, a launch train of
+approximately 200 feet results. It should be noted that this is a fairly lengthy train
+for a one man launch. The balloon at 150,000 feet will have a 79 foot diameter, At
+launch it requires 534 cubic feet of lifting gas,
+
+In operational launches, it has been demonstrated that one man can prepare
+and fill the balloon in approximately 30 minutes; launching is effected by a lever
+release. The latter, in addition to creating one man feasibility, is extremely effec-
+tive in situations where the launch has to be coordinated with another operation with
+release on the zero countdown. For some cases a reasonable amount of acceleration
+control has been included to limit the high "'g'' dynamic launch loads,
+
+In terms of the balloon launching hardware, Figure 4 represents a complete
+system including a radiosonde payload and associated parachute. The balloon is
+packed in a box, which sits in a foldable launcher. The gas requirement can be
+effected with three standard bottles. Figure 5 shows the launcher set up for opera-
+tion and the balloon protective covering folded out. Attention must be given to the
+protection of the balloon material because it cannot be handled in the conventional
+manner, It is relatively fragile and if pulled with the fingers, stress concentrations
+can result with the possibility of gas leakage. Thus, the protective system is design-
+
+ed to prevent the user from actually grasping the balloon itself with his hand.
+
+175
+
+160
+|
+(Leys
+150+
+te
+(<>)
+Cc
+©
+as
+145+ 6
+aD
+—
+a
+<
+140 -
+135
+' a Ae oe ae a ote 5 6 7 8 9 10 11 2
+
+PAYLOAD (POUNDS)
+
+Figure 2. Payload vs Altitude for MER-H-3 Design
+
+The balloon is contained in its transportation box with the balloon never emerging
+from the box until the actual launch. The section that is inflated for the initial bub-
+ble fill is protected by an outside sheath covering which comes off after launch.
+
+In Figure 6 the bubble is fully inflated, ready for launch. It should be noticed
+that the launcher has two arms to the front, and one arm to the rear. This configu-
+ration allows orientation of the twin arms into the wind in such a way as to resist
+the wind forces. There is a tab arrangement to hold the bubble secure and shield
+the balloon from wind gusts. The taut bubble installation can sit in a reasonable
+
+amount of wind, then, with a man to the rear holding the payload in one hand, the
