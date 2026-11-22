@@ -1,0 +1,72 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T00:23:42Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9665563, "source_ctime_ns": 1793363547393172763, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785447/45484701-005-005-0134.jpg", "source_mtime_ns": 1785684626000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785447/45484701-005-005-0134.jpg", "source_sha256": "f835af01ac34d91a04ae6147cb675fb748a2967eb3f40f114410626baf1cfd1d"}
+
+===== PAGE 1 =====
+{"alpha_words": 352, "chars": 2288, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+@
+
+AFISIIC/Maj Campeny/av/68060/17 Jun 65
+
+18 JUN 1965
+
+AFISIIC 24-185-10
+
+Mrs. Trudy Rogers, 205 C Street, Kerrville, Texas
+
+OSI Dist 66
+
+1. Im February 1965, Mra. Trudy Rogers, Kerrville, Texas informed the
+FSI that she had read a book about flying saucers which she had obtained
+from the local library. ‘The book contained scribbling which Mrs. Rogers
+claimed she “deciphered” and subsequently furnished ‘to the FBI. A copy
+of Mra. Rogers' deciphered manuscript is included as an attachment to
+this letter.
+
+2. In June 1965, Mrs. Rogers furnished ea 50 foot reel of Sum film to
+the FBI which allegedly contained a picture of an unidentified flying
+object taken by her husband in Libya. Included with the film was a
+letter from her husband explaining how and where he observed the object.
+Fron statements made in the letter, her husband is possibly a civilian
+ox military aircraft tower operator in Iibya.
+
+3e An examination of the film by Directorate photographic personnel
+failed to disclose the exact identification of the object. It is possible,
+however, that the object is a weather balloon or other similar object.
+
+4, In her letter, Mrs. Rogers indicated that she was due to return to
+lfdbya on 11 June 1965 and requested that the film of Tripoli, which was
+@iso on the reel, be returned to her.
+
+¢ 2
+b
+
+« It is requested that Mrs. Rogers’ husband be identified and interviewed
+| geoncerning the alleged flying object which is contained on the film, If
+4 4% is determined that Mr. Rogers believes that the object is a UFO, this
+- information along with that portion of the film, ghould be furnished to
+the local intelligence officer for appropriate action. Iniany event,
+the remainder of the film should be returned to Mr. Rogers.
+
+FOR THE DIRECTOR ee ee Eee ‘18 JUN ve
+
+__yncuassinic <= aaa
+
+BR 1202
+i # 2\
+at orm hk Atchs (2.U- 13 EE
+
+ip él Snect ‘octions Uk i, ltr tH Hrs. “Rogers ata: 2 Jun
+
+; Special Investigations 65 w/l Atéh, Roll of Guid /#1Im.
+
+| ae as Ltr fm Mrs" Rogers' to ‘Mrs.’ Rogers
+CLASSIFICATION CANCELLED Sam sata ‘het ,
+BY AUTHORIT pil capita eS dapge tra Mire. Rogers to FI dtd
+Kut Koz, Cat USAF ra reso
+
+BY. Historian. He.“ Deciphered Manuscript prepared
+
+Rogers.
+not, tig or 4 DEC 1975
+ad Cy - Maj Bampany w/o Atch
+
+Declassification Authority: NND 923007

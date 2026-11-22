@@ -1,0 +1,51 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T23:40:36Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 697843, "source_ctime_ns": 1793392744870231777, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302570335/0201.jp2", "source_mtime_ns": 1785808145000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302570335/0201.jp2", "source_sha256": "809bfafeb283755bed3664ee29b1de9ca551276c5c4d1b3b1776d20614d9e744"}
+
+===== PAGE 1 =====
+{"alpha_words": 92, "chars": 651, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+| UNCLASSIFIED |
+
+DEPARTMENT OF THE AIR FORGE
+STAFF MESSAGE BRANCH
+INCOMING MESSAGE
+
+APIN: 36193 : Pg 20f 5
+
+PAGE 2 RUCLALAGS5S3 UNCLAS ie unfit :
+©) RELATIVE NOTION SLOW AND TO RIGHT OF FIELD TAKING OFF :
+
+FINWAY 21.
+
+B, €1) CO7PILOT OF CREW.
+
+©) APPROX 1@ DEG ELEVATION AND 2@0 DEGREES AZIMUTH, ay 28%
+@B} SAME ELEVATIONG1G DEGREES) HOWEVER LIGHTD WENT
+
+GUT AS IF TURNED OFF.
+
+4) APPREARD TO BE APPROACHING TOWARD AIRPORT ABOUT
+
+=»
+
+B DEGREES OFF RUNWAY HEADING AT APPROX 19 DEGREES
+
+ELEVAT JON.
+
+S) LIGHTS WENT SUDDENLY DIM AND THEN OUT.
+(8) THREE TO FOLR MINUTES.
+
+a ee re eae
+
+9
+oN
+pw
+Ve
+>
+Prey
+ou
+<=
+eee
+Uy
+e
+i
+
+AEHO iss C-3060 | UNGLASSIFED |

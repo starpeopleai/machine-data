@@ -1,0 +1,56 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T00:19:32Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7686592, "source_ctime_ns": 1793365362889177310, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330788691/45484701-008-005-0135.jpg", "source_mtime_ns": 1785684614000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330788691/45484701-008-005-0135.jpg", "source_sha256": "e9a38ddfad42edb76c87c5427b98b9a4cfe0096c8e25fdaa9a51c3b0b787c6f0"}
+
+===== PAGE 1 =====
+{"alpha_words": 209, "chars": 1437, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+HEADQUARTERS I/PFO'D/ego
+PACIFIC DIVISION
+MILITARY AIR TRANSPORT SERVICE
+APO 953
+
+2hm2h SPOT INTELLIGENCE REPORT li April 1950
+
+SUBJECT: Unconventional Aircraft
+
+Commander Slap kan
+Military Air Transport Service ~—_“”
+Andrews Air Force Base
+
+Washington 25, DeCe
+
+ATTENTION: Inspector General (OSI)
+
+Director of Special Investigations
+Headquarters United States Air Force
+Washington 25, DeS.
+
+1. SYNOPSIS: Press reports unidentified green object in sky
+over Pearl City, Oahu, T.H., Sunday night, 2 April 1950,
+
+Re DETAILS: The 6 April 1950, "Home edition of the Honolulu
+Star-Bulletin, a daily English language afternoon newspaper carried
+the following storys
+
+"WAHIAWA BUS DRIVER THINKS HE SAW A FLYING SAUCER WITH TAIL
+
+Special Star-Bulletin Correspondence ,
+
+Lo
+
+WAHIAWA, Oahu, April 6—-Marcos R./Pascua of Wahiawa reports
+that he saw what he believes to be a flying saucer on Sunday
+night. Mr. Pascua, who is employed by the Wahiawa Transport
+as a bus driver, says that as he was driving his bus between
+Pearl City and Aiea he sew a bright green object traveling
+through the sky.
+
+According to Mr. Pascua, he pointed out the object to the pas~
+sengers seated at the front of the bus,
+
+# # it
+
+The "saucer" at first appearance seemed to be very small. As
+it traveled earthward and disappeared over the horizon, it grew
+to the size of six feet in diameter with a tail similar to a
+shooting star.
+
+Declassification Authority: NND 923007

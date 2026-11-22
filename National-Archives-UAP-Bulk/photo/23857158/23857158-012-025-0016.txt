@@ -1,0 +1,40 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T23:56:07Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3614064, "source_ctime_ns": 1793360052675224548, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-012-025-0016.tif", "source_mtime_ns": 1785681612000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-012-025-0016.tif", "source_sha256": "2a256bcc70cf5f82c62bb7f5df9595080801048b772cc5a62fcb2a5a688a654f"}
+
+===== PAGE 1 =====
+{"alpha_words": 86, "chars": 634, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Declassification Authority NND 923007
+
+a
+a
+
+“AF FORM 112—PART II ___UNCGLASSIFTED _
+
+(CLASSIFICATION)
+
+AIR INTELLIGENCE INFORMATION REPORT
+
+APPROVED 1 JUNE 1948
+
+FROM (Agency) REPORT NO.
+
+Det 3, 602d AISS - D3-UFOB-1-56 PAGE 6 OF 6 PAGES
+
+B_ (Balloon)
+
+22,000
+
+a & A (Location of SOURCE)
+42,240"
+
+£2,000 _
+TAN* = 22H = -3208
+
+a = 27°3)
+
+The. SOURCE estimated the object to be at an angle of elevation of 30°.
+
+d. At the time of the sighting the sun was located low in the west, with
+the object being between the observer and the sun, creating the effects as seen in
+the SOURCE'S sketch of the object on page 3 of this report.
+
+So ey

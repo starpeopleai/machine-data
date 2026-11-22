@@ -1,0 +1,24 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T23:45:56Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1276663, "source_ctime_ns": 1793388868250167072, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302533750/00485.jp2", "source_mtime_ns": 1785808151000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302533750/00485.jp2", "source_sha256": "3d1468063612fcd868773e3dccf7185fcf5428e4c02e8a6f26e74b3eaf6c5e30"}
+
+===== PAGE 1 =====
+{"alpha_words": 82, "chars": 533, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+see gt ye
+
+UNO Sighting, Pittsburgh, Pa, 22 May & 26 jun o4 9 Ped 65
+
+Yq USAP SAFOI PB (Mrs Sunt)
+Vash 2° 20330
+
+ReYerence the attached letter and photoerapa from 1
+
+saquesting evaluation of a photo taken on 26 Jun 64. ‘The negative
+is necessary berore evalvation on prints of this nature can be
+made. Should Meal desire an evaluation of his sixhting request
+he forward the negative to SAPOI. The negative will be returned
+
+co him upon completion.
+
+FOR THES COMMANDER
+
+Major, USA? Dir Sng with Photo
+Chie’, Aerial Phenomena Eranchk

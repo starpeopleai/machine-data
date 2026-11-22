@@ -1,0 +1,41 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T23:44:44Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1202470, "source_ctime_ns": 1793356327776141687, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989318-001-0021.jpg", "source_mtime_ns": 1785564676000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989318-001-0021.jpg", "source_sha256": "804e25185a93fd325955f6ea69d147b86970f53c4ecca0708646f10dac368898"}
+
+===== PAGE 1 =====
+{"alpha_words": 157, "chars": 1149, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+RD WEEELY RTPA? FNDING 28 May 1949
+GEBREYSLLLL RESEARCH DIVISION
+NEGOTIATOR: ROSFMIFR
+
+nn ee ne ee ens NE A AD ot ee ere Ee. RE oe et A et PRE eR I a GOT gree ee oe ow .
+ARNE SRO OR Ee OE Get 6 ee OR pe ne at em me
+
+PR NG. EQUIPMENT SOURCES E.0. NO. EST. AMT. EES
+, 7
+104761 Research in Physi- | Univ of Michigen| 116-11 {$147,500.00 |Bid Req sent 3/17
+‘esl Properties of | Bid Req due 5 Apr 49
+Recd 3/16 ‘Upper Ltmosphere | ; Obligeted F&D sent - To be signed by CO
+i {9147 ,000.00
+GRD | 7 Apr 49 Permission to use Cost heimbursement
+| Contrect 3/28. Approved 4/21 by phone.
+i } i iContrect being prepered for distribu-
+i i ition. Held up pending Washington eppro-
+: | | . pwal.
+; ;
+H i : : |
+——— cuts ECE ESTEE EEA Er
+i ; 4
+; i
+95100 : Experimental Model | Penn State College 114-11 $40,000.00 {Bid Req sent 5/2/49
+of Celestial Spec- | { iBid Req due 5/22/49
+Necd 2 Mey i:trophotometer - Engr- Gerson \ iF&D sent - Tobbe signed by CO
+i + i
+FRYE | “yo lguotétion recd ¢42,447.00. Additional
+GRD ‘ i lfunds to be provided by CFS as per
+| telephone conversétion with Gerson 5/21
+| : Expect to obligate week of 6/6/49.
+; i
+i i ;
+3 , 5 4
+: : i
+|
+| H }

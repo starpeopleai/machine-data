@@ -1,0 +1,14 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T00:16:38Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7002550, "source_ctime_ns": 1793384660529889494, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28990775/0499.jpg", "source_mtime_ns": 1785748492000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28990775/0499.jpg", "source_sha256": "6b108b496c98f9cbed3e55b23c1c48f38296d169f3ab5f830bf3ca2f0168bd50"}
+
+===== PAGE 1 =====
+{"alpha_words": 104, "chars": 593, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Pages 6
+
+22. In the following sketch, imagine that you are at tha point shown. Place an “A” on the curved line to show how
+Ligh tha object was above the horizon (skyline) when you first saw it, Place a “B* on the same curved line to
+show how high tha object was above the horizon (skyline) when you last sow It.
+
+33, In the following larger sketch place on “A” at the position the object wos when you first saw It, ond a “8” at Its
+position when you last sow It. Refer to smaller skatch as an example of how to complete the larger sketch,
+
+j 4 ~~ i ol few A, j , aA an }* a i oo " — ye S ‘ ;

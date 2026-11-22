@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T00:10:02Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5690072, "source_ctime_ns": 1793382685380324180, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28985044/0363.jpg", "source_mtime_ns": 1785700929000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28985044/0363.jpg", "source_sha256": "6c8484a938fd2f9d7b5c2b265252fd9f9541fabc075893d4ed8251e18f561437"}
+
+===== PAGE 1 =====
+{"alpha_words": 80, "chars": 561, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Unidentified Flying Object (UFO) Reported by Mr. A. L. Bryant
+
+TAC (TOI) Lt Colonel Meranda
+
+attached are resumés of the interrogation of
+and | - concerning their sighting of an unidentified
+flying object on 19 October 1959.
+fy ) y
+i PALL Roeens. 2 Atch
+Major, USAF linterview:
+UFO Investigation Officer
+2interview:
+Ist Ind (TOI) 25 May 1960
+
+Hq TAC, Langley AFB, Va.
+
+TO: .OSAF (SAFOI-3d)
+
+The attached UFO report is forwarded for your information as requested
+
+FOR THE eg es
+
+Cau s Hut 7
+A JOSEPH’
+
+se ey IR. 2 Atch - n/c
+
+Colonel, USAF
+‘Information Officer

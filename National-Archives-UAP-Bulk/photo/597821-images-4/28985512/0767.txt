@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T00:04:09Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4690720, "source_ctime_ns": 1793382802312727248, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28985512/0767.jpg", "source_mtime_ns": 1785747978000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28985512/0767.jpg", "source_sha256": "e3cb5390c226ea8ecc2e67674fb5f22ec3ac77610a99b29f1096b89f2b93c95d"}
+
+===== PAGE 1 =====
+{"alpha_words": 122, "chars": 869, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+1 DATE 2. LOCATION 12. CONCLUSIONS
+: O Was Balloon
+3 Dec 59 Alpha, Ohio 7 Lake td eaieen
+3. DATE-TiME GROUP 4. TYPE OF OBSERVATION eh ial oii Airhead
+1915 be 2% Was Aircraft
+Lecel XX Ground-Vi sual GO Ground-Rodar GQ Probably Aircraft
+GMT_Y /0015Z 0 Air Visual O Air-Intercept Redar GO Possibly Aircroft
+5. PHOTOS 6. SOURCE G Was Astronomical
+O Yes O Probably Astronomical
+=D No Civilian 0 Possibly Astronomical
+‘7. LENGTH OF OBSERVATION & NUMBER OF OBJECTS | 9. COURSE v2 ther
+O Insufficient Data for Evaluation
+: QO Unknown
+lL min 30 secs one WSwW
+
+10, BRIEF SUMMARY OF SIGHTING
+
+Rnd, yellow-white cbj, pulsating, size of pea
+
+No sound.
+
+11. COMMENTS
+
+Balloon could not have moved fm NW at
+
+30° elev to the WSW at 40° elev in 1
+min 30 secs. Probably the F-101 or T-33
+in the air at the time cf the signting.
+
+ATIC FORM 329 (REV 26 SEP 52)

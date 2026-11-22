@@ -1,0 +1,47 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T23:43:16Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 984407, "source_ctime_ns": 1793356041051735125, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989300-001-0047.jpg", "source_mtime_ns": 1785564591000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989300-001-0047.jpg", "source_sha256": "268a65b296ef473dc57d071f1926a790224962f13ba76a54a8e31cd50a84baa4"}
+
+===== PAGE 1 =====
+{"alpha_words": 189, "chars": 1293, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Flight 85: Released at Alamogordo, New Mexico, 1542 MST, August 17, 1948
+Not recovered
+
+The objective of this flight was to carry a standard radiosonde to a
+high level; there it was to be released on a parachute and, at the moment
+of release, the batteries for the transmitter were to be activated. To
+accomplish this a pressure-triggered switch was rigged on a .001", 20-foot
+polyethylene balloon. Below the baroswitch a standard T-69 radiosonde was
+supported with a parachute stuffed into a case also harging from the parent
+balloon (Figure 36). ‘Two plugs were set to keep the transmitter circuit
+
+~+G.M.20' BALLOON
+
+—=——- ApPEeNnoix
+
++ — BaroswitcuH \
+
+CLroruH ae
+
+Foro£0 /
+
+CunuTte-Crotu
+
+_—— CANNON
+
+Pu_t-OuT PLruGs-
+fe Close Cet. WHEN
+T-69 Fats
+
++ STANDARD T-69 |
+
+HM |
+
+Figure 36: Equipment train, Flight 85
+
+open until the baroswitch fired the "cannon" which severed the supporting line.
+Then the circuit plugs were to be pulled rrom their stops, and the parachute
+was to be pulled from its sock, supporting the radiosonde on its descent.
+
+The failure of this system to act may be attributed to the use of a squib
+to fire the line-cutter cannon. Subsequent tests at lower levels (where the
+squibs work better) were made with a satisiactory release and activation of
+the "dropsonde."

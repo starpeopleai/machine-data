@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T00:15:24Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6765921, "source_ctime_ns": 1793379993257412630, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28974135/0674.jpg", "source_mtime_ns": 1785700814000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28974135/0674.jpg", "source_sha256": "02924c537ea61f448de75ba2e7fa7982b8f1e72e983c98720c50b2c99a1b4a00"}
+
+===== PAGE 1 =====
+{"alpha_words": 150, "chars": 1002, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+SUBJECT: Request - Analysis and Comments, Electronic UFO Reports
+
+4.  Inelosure $9: Since no confirming evidence wes presented, it is
+assumed that anomolous propagation of some sort caused the reported track.
+
+g.  Inclosure #10: Radar range of the reported target is not given.
+Thus, @ possible important clue is missing. The possibility of a balloon or an
+unidentiviea aircraft cannot be ruled out completely.
+
+k.  Inelosure #11: Thie reported UFOB possibly could have been one
+object or two objects one at & time: Both sightings were of such @ nature as to
+andicate unidentified aircraft. High rate of speed was mentioned in the report,
+but no attempt was made to estimate the speed. The object seemed to reverse
+direction at times, but so can an aircraft, especially @ light aircraft of &
+helicopter. Suggestion is made that the radar station should have made every
+possible attempt to didentify the object at the tine of sighting.
+
+GORDON C. HOFFMAN
+
+1 Incl
+Incl Nr. 2 w/a Colonel, USAF
+APCHH-421

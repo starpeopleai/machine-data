@@ -1,0 +1,40 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T00:23:21Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9310601, "source_ctime_ns": 1793365338818200701, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330788691/45484701-008-005-0093.jpg", "source_mtime_ns": 1785684612000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330788691/45484701-008-005-0093.jpg", "source_sha256": "f2650512613e32e421d42f723341341bb59f4918e94b974ac20d6537947efe7e"}
+
+===== PAGE 1 =====
+{"alpha_words": 145, "chars": 1061, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+“AF & 33.(20May 44) “
+
+SUBJECT:
+
+TO:
+
+(Unclassified) UNKNOWN OBJECT, Dhahran Airfield, Dhahran, Arabia
+uy TC 18)
+Directorate of ea ae Des/0 } f whstAf vated
+ATIN: Documents & Dissemination Br A/S (
+( COMMENT NO. __1
+Counter Intelligence Div, Office of Bestar Maj Nold/dr-53623
+Investigations, The Inspector General AFCSI
+
+* Attached is a Spot Intelligence Report with inclosures concerning
+captioned subject, dated 25 June 1950, received from Dhahran Airfield, Saudi
+Arabia, through Hq. MATS,
+
+Re Attention is invited to Par 3 of the report which requests proper
+evaluation of the information contained therein,
+
+3. Request this correspondence be returned to this Directorate with
+comments which may be used as basis for reply to the Commanding General,
+1414th Air Base Group, MATS.
+
+i Re ee | DAVID By Obed JR. i/
+Spot Ingvel Rpt, Lt. Colonel, USAF
+25 Jun 50, re Actgz Chief, Counter Intelligence Div
+aby subj Office of Special Investigations
+The Inspector General
+
+CLA LR RL EA EN RRR Patt stntrtesttteenes
+
+16—54288-1
+
+Declassification Authority: NND 923007

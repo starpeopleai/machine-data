@@ -1,4 +1,4 @@
-{"created_utc": "2026-10-01T01:17:59Z", "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "embedded-text", "pages": 0, "schema": "ufo-files-archive-ocr/v1", "source_bytes": 810571, "source_ctime_ns": 1788505239334303017, "source_file": "Chile-SEFAA/documents/CASO-N-1138-11072020.pdf", "source_mtime_ns": 1788505239312265695, "source_rel": "Chile-SEFAA/documents/CASO-N-1138-11072020.pdf", "source_sha256": "c70cc0b32ffcfdb7fa2d2e5b334103af3c050312ce447c380149960bc229fa7b"}
+{"created_utc": "2026-11-21T23:40:04Z", "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "embedded-text", "pages": 0, "schema": "ufo-files-archive-ocr/v1", "source_bytes": 810571, "source_ctime_ns": 1793354209910705440, "source_file": "Chile-SEFAA/documents/CASO-N-1138-11072020.pdf", "source_mtime_ns": 1788505239000000000, "source_rel": "Chile-SEFAA/documents/CASO-N-1138-11072020.pdf", "source_sha256": "c70cc0b32ffcfdb7fa2d2e5b334103af3c050312ce447c380149960bc229fa7b"}
 
 Fecha                            Fecha
   Caso N°:       1138 23052020                     11-07-2020                          13-10-2023

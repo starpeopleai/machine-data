@@ -1,0 +1,50 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T23:52:57Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1740949, "source_ctime_ns": 1793390320860737794, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302549039/0229.jp2", "source_mtime_ns": 1785808176000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302549039/0229.jp2", "source_sha256": "e32fa8f6f4d03bc9a4d965f1ca54d2fc07ff7caf29ec5b11f33e0a0d9431aa58"}
+
+===== PAGE 1 =====
+{"alpha_words": 102, "chars": 849, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+UNCLASSIFIED
+
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+INCOMING MESSAGE
+
+AF IN : 32822 (6 Apr 66)
+
+PAGE 2 RUCIS&AL131 UNCLAS
+
+(83) NO SOUND EMITTED.
+
+(9) NA
+
+B (1) WITNESS SIGHTED A ERIGHT RED LIGHT WING SWIHEAST
+FROM HIS POSITION.
+
+(2) APPROXIMATELY 752 FEET.
+
+(3) DISAPPEARED ON ThE HORIZUN
+
+(4) OBJECT FLEW SQUTHEASI, APPEARED 10 STOP IN WIDAIR,
+REVERSED DIRECTION AND PROCEEDED IG 1He NURTHWEST.
+
+(3) DISAPPEARED GRADUALLY TO Ine NORTHWEST.
+
+(6) APPROXIMATELY 12 MINUTES.
+
+C. (1) GROUND VISUAL CONiACI
+
+(2) NA |
+
+(3) NA
+
+D, (1) 0550Z, 2 APRIL 1966
+
+(2) NIGHT
+
+E, (1) GESERVERS WERE LOCATED 89 DEGREES, o2 MINUTES WEST -
+39 DEGREES 43 MINUTES NCRTh TO 39 DEGREES 38 MINUTES NORTH ON
+THE STATE ACCESS ROAD FRU. ROCHESTER, ILLINUIS 10 RI 104 wEoT
+CN TAYLCAVILLE, ILLINOis.
+
+AFHQ iss O-309C UNCLASSIFIED
+
+padiy IPNRA RUMI Mysarspe tee VISE

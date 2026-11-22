@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T00:17:47Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7174762, "source_ctime_ns": 1793375091797471501, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28954638/0696.jpg", "source_mtime_ns": 1785696523000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28954638/0696.jpg", "source_sha256": "44e4eb7e9bce3979e76feb6e54a1ef99baea4596aee866c45f84052ead3ba368"}
+
+===== PAGE 1 =====
+{"alpha_words": 17, "chars": 134, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Pies
+
+27.
+ee erie
+
+S,2TaSTS Rass
+
+oh i I 4aW,
+aS 2F.N
+
+vv
+
+= .
+a.
+: v
+ea
+.3
+Ht
+*
+=
+@
+2
+-
+“a
+—E
+=
+=
+“
+ay
+~ 4 ,
+
+ve
+Guzen a
+oe pie ppp

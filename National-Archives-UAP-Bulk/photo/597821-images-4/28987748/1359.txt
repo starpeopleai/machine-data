@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T00:22:20Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9056164, "source_ctime_ns": 1793383739966894201, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28987748/1359.jpg", "source_mtime_ns": 1785748424000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28987748/1359.jpg", "source_sha256": "e26433f37e548220f913d551b96916876c340b458b6a6aa2d127ed15cf2ff2be"}
+
+===== PAGE 1 =====
+{"alpha_words": 54, "chars": 389, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+REPLY TO
+ATTN OF:
+
+SUBJECT.
+
+TO:
+
+HEADQUARTERS
+
+PACIFIC AIR FORCES
+UNITED STATES AIR FORCE
+APO 953, San Francisco. Calif.
+
+PFICO
+
+(U) Report of Unidentified Flying Object
+USAF (AFCIN-1)
+
+Forwarded in accordance with AFR 200-2.
+
+cies THE COMMANDER IN CHIEF
+
+foie cy é inky 1 Atch
+
+LCol, US F Ltr, COMNAVFORCES
+Acting Director of Collection Marianas, 22Aug60,
+; subj as above, w/1 atch (U)

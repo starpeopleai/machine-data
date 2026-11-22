@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T00:24:08Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9685719, "source_ctime_ns": 1793364627700041651, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787490/45484701-007-003-0020.jpg", "source_mtime_ns": 1785684881000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787490/45484701-007-003-0020.jpg", "source_sha256": "f498f49dd8611cfbe5022ada049fe6502914d881cbcc4629d907d22edefbc5c1"}
+
+===== PAGE 1 =====
+{"alpha_words": 26, "chars": 219, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+COORDINATION
+
+co
+UNCLASSIFIED
+DEPUTY CO
+EX OFFICER
+
+CHIEF AGENT
+
+FILE CLERK
+
+~ ORIGINATOR
+
+CHIEF CLERK
+
+CLASSIFICATION CAN
+
+BY AUTHORITY 01
+
+WY Hister vas
+
+OSI 124-10
+(25 Aug 48)
+
+Declassification Authority: NND 923007

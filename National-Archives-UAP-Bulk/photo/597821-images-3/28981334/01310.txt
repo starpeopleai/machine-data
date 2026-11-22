@@ -1,0 +1,12 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T00:06:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5197076, "source_ctime_ns": 1793381704588520370, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28981334/01310.jpg", "source_mtime_ns": 1785700998000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28981334/01310.jpg", "source_sha256": "9633662add12407de71a2eee6b15b0b517a5d12e6e9bcd74046869f2419d5aba"}
+
+===== PAGE 1 =====
+{"alpha_words": 22, "chars": 111, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Tyre ease wcinret
+
+| , bye so
+fj MeeA 7 VE —
+
+po enere amy x 34h
+
+Sas AAAI RA IRIN So ste ss SIR RNR asa aiid

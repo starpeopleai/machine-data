@@ -1,0 +1,64 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T00:05:06Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4868251, "source_ctime_ns": 1793368717849778717, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28929278/0671.jpg", "source_mtime_ns": 1785688866000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28929278/0671.jpg", "source_sha256": "bb27b6636fd49d1bc4e4a4a5de5b941174e02692dc32885d690750f172988bcc"}
+
+===== PAGE 1 =====
+{"alpha_words": 66, "chars": 1583, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+De HYNEK'S EVALUATIONS EXTRACTED FROM PROJECT GRUDGE REPORT.
+
+le
+
+26
+
+Se
+
++
+ed
+
+d&etronomical
+
+@. Eigh probability:
+#26, 27, 30, $l, $2, 53, S4, 48, 49, SY, 60, 66, 69, 70, 94,
+95, 96, 97, ¥&, 1O1, 1Uz2, 13, 104, 116, 139, 132, 156, 140
+1467, 148, 168, 274, 194, 185, 187, 197, 205, 20%, 208, 21°
+
+212, 238.
+
+f
+
+F
+
+be Fair or low probability:
+/ lS, 20, 2%, 24, 28, 35, 35, 46, 60, C5, 67, 86, 82, 93, 1CO,
+112, 120, 121, 122, 130, 144, 153, 160, 166, 167, 175, 192,
+199, 202, 205, 220, 230, 240.
+
+Bon-astronomical tut suggestive of other explenations
+
+&. Balloons or ordinary eiroralft:
+#5, 11, 22, 41, 42, 53, 54, 73, 81, 63, 91, 92, 118, 134, 115,
+126, 131, 138, 141, 145, 155, 156, 157, 159, 160, 161, 165,
+169, 171, 173, 178, 180, 182, 188, 190, 194, 195, 196, 198,
+200, 201, 209, 210, 217, 222, 255, 257, 25%.
+
+b, Rooketu, fleres or falling bodies:
+GO, 5, G, 1%, Ss 9s 12, 15, 24, 15, Ms 25, 56, 65, 78, 196, 107,
+106, 309, 133, 170, 211, 218.
+
+Co Misoelieneous (reflections, auroral streaners, birds, eto.):
+#89, 89, 123, 124, 128, 146, 164, 161, 169, 214, 22}, 251, 2546
+
+Kon-astronowical, with no explanation evident
+
+ee Leck of evidence precludes explenstions:
+
+#58, 44, 45, 47, 55, 57, 72, 86, 87, g8,/90} 99, 110, 117, 118,
+
+eee
+
+125, 127, 137, 139, 149, 159, 177, 179, 191, 206, 2l<, 215,
+$25, 232, 253.
+
+be. Evidence offered suggests no explenation:
+#1, 2, 10, 17, 21, 29, 37, 40, 51, 52, 58, 61, 62, 64, 68, 71,
+75, 76, 77, 79, 84, 105, 111, 122, 155, 251, 152, 164, 162,
+168, 172, 176, 183, 186, 193, 207, 215, 225, 224, e265, 226,
+227, 236, 241, 242, 245, 244—_ 154.

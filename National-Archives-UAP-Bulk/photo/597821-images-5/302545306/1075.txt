@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T23:50:32Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1701760, "source_ctime_ns": 1793389978157158674, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302545306/1075.jp2", "source_mtime_ns": 1785808638000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302545306/1075.jp2", "source_sha256": "ece59778c4c022413eff8de13bee866e93f22ab10dbe7825e16b636e1f6b5e9a"}
+
+===== PAGE 1 =====
+{"alpha_words": 108, "chars": 810, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+UNCLASSIFIED
+DEPARTMENT OF YHE AIR FORCE
+STAFF MESSAGE BRANCH °
+INCOMING MESSAGE |
+AF IN : 24423 (6 Oct 65) Pe 4 of 5
+129 19 19,9980
+112 15 23 ,O 34% BOD
+139 id 38,999
+
+PAGE 5 RuwJDaa 3627 UNCLAS :
+CALM 59,200
+| 89 220 |
+3, CEILING - CLEAR
+4. VISIBILITY - 15 MILES | es
+5. NO CLOUD COVER
+6e NONE
+7. 54 DEGREES
+4. NO UNUSUAL ACTIVITY OR CONDITIONS, “ETEROOLOGICAL, ASTRONMICAL,
+OR OTHERWISE, WHICH MIGHT ACCOUNT FOR THE SIGHTING.
+Ie N/A
+J. NO AIR TRAFFIC IN THE AREA WAS REPORTED BY CANNON, THE 2240THE
+COYMUNTCATIONS SQ GAPCON) REPORTED NOTHING. BASE CONTROL TOWER
+“NEW OF NO AIRCRAFT IN THE AREA. THE STATE POLICE AND CLOVIS
+POLICE WERE CONTACTED AND THEIR REPORTS VERE ALL NEGATIVE. THE |
+FAA IN TUCUMCARI WAS ALSO CONTACTED FOR REPORTS OF ANY AIRCRAFT
+
+IN THE AREA WITH NEGATIVE RESULTS. |
+
+a UNCLASSIFIED

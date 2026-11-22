@@ -1,0 +1,12 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T23:58:25Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3864969, "source_ctime_ns": 1793385136962821296, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28991948/0067.jpg", "source_mtime_ns": 1785748437000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28991948/0067.jpg", "source_sha256": "ffbcaf0106a6516959dfcad23671306d283b18f26568146faa306d2fe3f48d13"}
+
+===== PAGE 1 =====
+{"alpha_words": 22, "chars": 151, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+AFMIPC,y NEGATIVE COMMENTS, NEGATIVE PRELI-
+
+ANALYSIS SAae = : og od ot Wy 1 a Pa.¥ < j
+AN SIS POSSIBLE CAUSE UNKNOWN. Le NEGATIVE.
+
+MAR RJESNO
+
+NNNN

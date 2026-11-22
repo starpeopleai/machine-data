@@ -1,0 +1,44 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T00:14:00Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6599452, "source_ctime_ns": 1793361913699290633, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330781681/45484701-001-005-0133.jpg", "source_mtime_ns": 1785684794000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330781681/45484701-001-005-0133.jpg", "source_sha256": "2ff25a8dd94c6eddac249bf5b691ff5a5f89944b6132601d5a346d987c6fdf76"}
+
+===== PAGE 1 =====
+{"alpha_words": 118, "chars": 860, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+OFFICE SYMBOL
+
+Office of Special Investigations
+The Inspector benaiad
+
+Aerial Phenomena
+SPECIAL INQUIRY
+
+District Commander
+
+Sth OSI District, IG
+Wright-Patterson Air Force Base
+Dayton, Ohio
+
+i. Attached is copy of a letter received in this Headquarters
+from WALTER R. NYDEQGER, 109-0 5 205th Place, Hollis -7, New York, on
+the subject of "flying saucers"
+
+2. This letter is forwarded to you for presentation to the
+Director of Technical Intelligence of the Air & fateriel Command. in the
+event the Air Materiel Command feels this letter merits attention, it
+is requested that you conduct the necessary investigation.
+
+DIRECTOR :
+
+fr NYDEOGER Lt. Colonel F mar
+May 1949 Executive, Acyl Investigations
+The Inspector General, USAF
+
+Tye KUNZE, taytiUSAF OF SPBC es
+Historian
+
+7]
+
+GRADE AND
+SURNAME OF
+COORDINATING
+OFFICERS
+
+Declassification Authority: NND 923007

@@ -1,0 +1,18 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T00:22:07Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9001751, "source_ctime_ns": 1793362074281455164, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330782123/45484701-002-002-0083.jpg", "source_mtime_ns": 1785684946000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330782123/45484701-002-002-0083.jpg", "source_sha256": "8449237fe448462a8d068dc1c9dcdee54447a2aad74429d8d6f8d5ff68dd0c28"}
+
+===== PAGE 1 =====
+{"alpha_words": 22, "chars": 157, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ro ct TTRT
+
+a a ke ee ,
+
+«€
+
+ee
+
+yc
+
+nell, construc : yon in center photo
+indened tohacco-drytt the disks were foune
+
+Declassification Authority: NND 923007

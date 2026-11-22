@@ -1,0 +1,61 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T00:00:00Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4036712, "source_ctime_ns": 1793379074226011035, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28970839/0635.jpg", "source_mtime_ns": 1785700974000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28970839/0635.jpg", "source_sha256": "5f18b00f0f94e185a6bde2067f927903e46ce3b2ab76007d7dea6de9b975ccdc"}
+
+===== PAGE 1 =====
+{"alpha_words": 89, "chars": 712, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+1 DATE 2. LOCATION
+yan WW Aen AS oe’ g Stamtord Connecticut
+3. BDATE-TiIME GROUP 4. TYPE OF OBSERVATION
+Leesi 22a &Ground- Vi sual O Ground-Rodar
+omt__29/024' 0 Aix Vi suci O Air-Intarcept Rador
+& PHofos & SOURCE
+0 Yes ;
+BNo Civilian
+
+J. LENGTM OF OBSERVATICN
+
+mirnwtTtoac
+tik & Lae |
+
+8. NUMBER OF OBJECTS | 9. COURSE
+|
+
+stationary
+
+r
+
+ogo ooo ooo ooo
+
+~
+we
+
+. CONCLUSIONS
+
+Was Balloon
+Probably Balloon
+Possibly Balloon
+
+Was Aircroft
+Probably Aircraft
+Possibly Aircraft
+
+Was Astronomical
+Probobly Astronomical
+Possibly Astronomical
+
+Other cals
+Insufficient Dato for Evaiuotion
+Unknown
+
+Wy BRIEF SUMMARY OF SIGHTING
+
+and blue, Ax r
+
+1}. COMMENTS
+
+io
+
+|
+
+ATIC FORM 329 (REV 26 SEP 52)

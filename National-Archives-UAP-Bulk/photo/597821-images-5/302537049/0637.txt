@@ -1,0 +1,59 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T23:42:35Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 952784, "source_ctime_ns": 1793389144030221307, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302537049/0637.jp2", "source_mtime_ns": 1785808388000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302537049/0637.jp2", "source_sha256": "e207fb181fa8708e6a954b186a5c3add804f9d6fb4ce7116bb47dbad5524df25"}
+
+===== PAGE 1 =====
+{"alpha_words": 61, "chars": 484, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+’
+
+PROJECT 10073 RECORD ee i
+
+1. DATE - TIME GROUP |
+| 4 January 1965
+
+2. LOCATION x
+
+ethel, Vermont
+
+ye}
+
+3. SOURCE
+
+Civilian
+
+oe
+
+4. NUMBER OF OBJECTS
+
+Three
+
+10, CONCLUSION
+
+Other (TRACER BULLETS)
+
+5. LENGTH OF OBSERVATION
+
+3 Secon!sm Each
+
+6. TYPE OF OBSERVATION
+
+Ground-Visual
+
+7, COURSE
+
+EB to .W
+
+8 PHOTOS
+
+0 Yes
+
+f__ SEgNo
+
+9. PHYSICAL EVIDENCE
+
+ae Yes
+
+11. BRIEF SUMMARY AND ANALYSIS
+
+SEB CASH FILS
+
+FORM ;
+FTD sep 63 0-329 (TDE) previous editions of this form may be used.

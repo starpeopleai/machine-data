@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T00:27:07Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 14907176, "source_ctime_ns": 1793355494332136191, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0076.jpg", "source_mtime_ns": 1785564465000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0076.jpg", "source_sha256": "d2437dce2da8db4a91b18de1f3b27a6d1f5badd27d0772863df279070731f8b3"}
+
+===== PAGE 1 =====
+{"alpha_words": 224, "chars": 1487, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+1. INTRODUCTION
+
+In 1959 the presence of water-vapor in the atmosphere of Venus was established
+in a flight made by Ross and Moore.! The amount of precipitable water over the
+effective reflective layer was estimated to be 6 + 5 mg cm72, Repeated measure-
+ments were highly desirable on account of the large experimental error. For this
+purpose the Bal-Ast program was developed, which is based on observations in day-
+time. This has the advantage that Venus can be observed at culmination, thus min-
+imizing residual absorption by the earth's stratosphere. At the same time a system
+for automatic acquisition and tracking was introduced, in which the sun is used
+advantageously as a unique tracking reference point. This eliminates the necessity
+of an observer, which simplifies flight procedures and permits a quieter control of
+the gondola.
+
+The water-vapor content of the Venusian atmosphere is derived from the atten-
+uation in an absorption band at 1.13 microns. The Bal-Ast equipment consists of a
+
+Schmidt telescope of 30 cm effective diameter and a Czerny-Turner grating spec-
+
+trometer in which a multiple exit slit array is used to obtain high luminosity.? Oft
+
+set sun tracking is used to keep Venus in the field of the telescope during a 1-2
+hour observation period. Planet tracking is then achieved by locating the Venus
+
+image in the focal plane of the telescope and transferring it to the entrance slit of
+
+(Author's manuscript received for publication 31 December 1963)

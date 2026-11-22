@@ -1,0 +1,60 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T23:54:01Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1909431, "source_ctime_ns": 1793356077457828861, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989301-001-0180.jpg", "source_mtime_ns": 1785564600000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989301-001-0180.jpg", "source_sha256": "c374fb23530ad6d52961a0496bc0107af8c0ce3d1b9e26b3beb4b1153d14b2e3"}
+
+===== PAGE 1 =====
+{"alpha_words": 390, "chars": 2710, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Complement: sy Contracts:
+a. Columbia University
+No. "23-099-ac-32
+
+b. University of Californie at Los Anzeles
+No. N2*-C,7-ac-228
+
+ce. Woods Hole Cceanorraphie Institution
+No. 422-0699-ac-224
+All contreets ons "Consultation cond Assistence in 2esearch
+_ on atinospheric Acoustical wave Frope;.tion."
+
+2: Frotect title: Develorment of Sonstant Level sesldons
+troject scientist: Dr: Jauies A; Feoples, dr:
+
+|. ,The development of -¢ constant’ level batlooh was at first motivated by
+
+the needs of the.acoustio urfer sir goundin’y frosrau, A$ it .4as developed,
+
+this .velloon is now a-principal etwospheric grosins toal in its dwn -pight-
+
+In ofder to develap-this balloon several special devices have. been .invented.
+
+An Olland cvcle pressure indicéter, accurate 4@ better than one smilabar,, © a a
+has béen: developed.’ 4 ‘device has béeri:constructed witch :wall deflate and pring
+dowh balloons: in ‘flight either by’ timing ‘or by ‘pressure activated ‘mechanisms.
+
+& balanced flow control valve .Nas,-been inadd which gives a ddnstaht, floa‘of |’
+ballast material proportional to, pressure :ctenge., Other’ adcasspries daclude ..
+
+a telemetering ‘device to indicate the rate of ballast flow;-~minimum bailast..c
+flow, minimum pressure switches, haregrephs, and balloon trac«ing radio transe#*'' *
+mitters which cen be nicked up by an aircreft radio coapass at a range of 100
+miles or more. A sensitive intergrating vertical anemometer is now beiny develor-
+ed which will aid in the interpretation of atmosrtieric oscillations.
+
+A thorough investigetion of belloon materials and fabrication methods has
+been conducted, and balloons have been designed suitable for use with the
+balisting mechanisms develo:ed. Launching and operations] techniques have been
+developed which permit the launching of balloons in winds up to 20 per hour.
+
+Good control of ascent rate and ceiling altitude has been obtained. Constant leve-
+flights of several hours duration are now routine and flizhts lasting up to 5
+hours with pressure variations not vreater then one or two milabars have been
+obtained. Simplified control which orerate satisfectov~ily during the day or night
+are not edquate when sunset occurs during @ flicht. «A system for maint: ining
+constant level thru sunset h:s een cevisea and tested in a bell jar, but in ectue.
+flight tests have not yet teen made. Tempercture .aezsureaents have been made
+
+both inside and cutside of balloons to show the arfects of super-heat.
+
+Texperzture ecsure.ignts heve alse been .1aGe in instruaant and battery cases
+durin; flisht. ‘éecsurements tc show the actual characteristics of control devices
+have been age on balloons in flignt and si.ulateda in the laboretory. This
+
+*

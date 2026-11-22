@@ -1,0 +1,41 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T23:46:47Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1379227, "source_ctime_ns": 1793392024618963310, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302563414/0807.jp2", "source_mtime_ns": 1785808147000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302563414/0807.jp2", "source_sha256": "ac7f4491a2a9e596873b72129adc0027441d32d1654da8c2a8f82574c07f81b9"}
+
+===== PAGE 1 =====
+{"alpha_words": 95, "chars": 697, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+UNCLASSIFIED
+
+DEPARTMENT OF THE AIR FORGE
+STAFF MESSAGE BRANGI
+INCOMING MESSAGE
+
+AF IN : 24133
+
+THIN OVERCAST.
+(6) NONE -
+PAGE 4 RUWTF ANDO65 UNCLAS .
+
+T@? 13, 00 FT -
+
+H NONE
+bh NONE
+— g NONE
+
+(7) STANDARD LAPSE RATE EXCET FOR INVESION BASE, - 12,000 FT
+
+Ke MATHEW F. LEWONOWSKI, GS11, ASSISTANT BASE OPERATIONS OFFICER,
+
+pe 4of 4
+
+WE REPORT WAS RECEIVED FROM A THIRD PARTY APPROZIMATELY 1% HOURS AFTER
+
+THE INCIDENT. THE OBSERVERS WERE INTERVIEWED THE AFTERNOON AFTER THE -
+
+SIGHTING THE OBSERVERS ARE SINCERE IN THEIR BELIEF THAT THEY SAW
+
+UFO, THE INVESTIGATING OFFICER CQULD NOT FIND ANY OTHER OBSERVERS
+
+(R EVIDENCE TO SUBSTANTIATE THE SIGHTING,
+BT | |
+NNNN
+
+AFH sine O-309C UNCLASSIFIED |

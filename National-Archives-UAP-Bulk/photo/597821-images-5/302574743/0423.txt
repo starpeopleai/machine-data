@@ -1,0 +1,22 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T23:48:17Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1452163, "source_ctime_ns": 1793393189014164313, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302574743/0423.jp2", "source_mtime_ns": 1785808393000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302574743/0423.jp2", "source_sha256": "0bbf22df4b57cff2d6169595b68874ae919a037d6899073fc68b646a2d700d96"}
+
+===== PAGE 1 =====
+{"alpha_words": 50, "chars": 313, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+came eta te Ne te
+
+MEMO FOR RECORD 7 March 1964
+
+SUBJECT: UFO Observation, 3 March 1968
+
+Watts line call placed 1800 hrs (Franklin Airport)
+
+Does not nave contro tower or Flight Service Station. Mid not
+receive any complaints at the falbany airline desk but then
+they close at 6:00pm
+
+-
+
+A Pw ee
+Pi il “r
+
+Serr.

@@ -1,0 +1,40 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T00:24:26Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9963335, "source_ctime_ns": 1793383099776225833, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28986305/0093.jpg", "source_mtime_ns": 1785748188000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28986305/0093.jpg", "source_sha256": "31e6fa3db41d6984f03744bbfd3678573ea6cddd60074104c309c0b39664950c"}
+
+===== PAGE 1 =====
+{"alpha_words": 103, "chars": 653, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+DEPARTMENT OF THE AIR FORCE
+STAEES MESSAGE DIVISION
+UNCLASSIFIED MESSAGE
+
+(INCOMING
+
+AP IN : 59370 (30 Mar 60) M/weg
+
+wee
+
+i ams bese | ee: - f ey hi a, it =, be ams i eee ws 4 CUA
+INFO : OOP, SARS / OOP-CP, CIA, CMC, ARMY, NAVY, JCS, OSD, NSA
+eae K} mri , i ip anes
+FROM .: MM4O76/AFI2 MCCLELLAN AFB CALLE
+
+CANE LAGPAC
+CONNESTSEAPRON
+CINCNORAD
+
+COMDR 23TH ADIV
+
+COPS Usar
+
+WR ; NONE 30.Mar 60
+
+WY ° ANAM AN oa
+
+b ath Ete ae © aes a ne: age, Ps s. " $25 rc ‘> Lar.
+At 03302 time o1L sighting Qth POLON 1O6300W.
+NT
+
+NOTE: Advance copy delivered to Cin & OOP-CY
+
+via UME ante Seinen Canes) Pens aiealetace ‘liad a aN
+
+¥ i PBA REG SAG AAAS MT Mead AE Noe

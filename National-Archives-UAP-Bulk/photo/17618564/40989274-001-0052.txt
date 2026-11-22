@@ -1,0 +1,89 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T00:14:34Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6632022, "source_ctime_ns": 1793355807789543336, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989274-001-0052.jpg", "source_mtime_ns": 1785564530000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989274-001-0052.jpg", "source_sha256": "8fa3e8aa29ccb1bc6fb9f06176216ec090f300c9365a73fd50c22c759f3d23bc"}
+
+===== PAGE 1 =====
+{"alpha_words": 427, "chars": 3068, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+4. You may delete ‘‘AC’’ which appears in the lower right-hand
+corner of the data. ‘‘AC’’
+selected for the Annotated Card program for juvenile litera-
+
+indicates that the book has been
+
+ture. (See Section IX.8. for more information concerning juvenile
+
+literature. )
+
+If you delete ‘‘CIP’’ and/or ‘‘AC”’ please be careful to retain the
+Library of Congress catalog card number. It is essential information
+for librarians and bookdealers who use it to access catalog records
+and other records associated with ordering and processing books.
+
+Library of Congress Cataloging-in-Publication Data
+
+Erasmus, Desiderius, d. 1536.
+[Selections. English. 1988]
+The praise of folly and other writings a new translation,
+
+critical commentary / Desiderius Erasmus ; chosen, translated,
+edited by Robert M. Adams. -- ist ed. aieen
+[ho cm. == (A Norton critical edition)
+Includes bibliographical references (p. )
+ISBN 0-393-95749-7
+1. Erasmus, Desiderius, d. 1536--Translations, English.
+2. Erasmus, Desiderius, d. 1536--Criticism and interpretation.
+3. Humanists. I. Adams, Robert Martin, 1915- i lee en
+PA8502.E5A3 1988 ee : = pole
+878' .0409--dc19 88-21851 ——15
+
+Example 5
+CIP Data
+
+Main entry. Often the first named author on the title page.
+Uniform title. In the example, the uniform title brings together
+in the catalog various English language collections of selected
+works by Erasmus.
+
+Title.
+
+Parallel title and/or other title information, including subtitle.
+
+Statement of responsibility. The author statement as it appears
+on your title page is transcribed according to the provisions
+of the Anglo-American Cataloguing Rules, Second Edition.
+
+Edition statement.
+
+Physical description. This area will be updated in the Library
+of Congress automated database upon receipt of the published
+book to reflect the number of pages, illustrations, size in cen-
+timeters, and accompanying materials. Librarians expect to
+Bee Pe em, lea al, POCOrd,eDledee Uo outer Tt.
+
+Series statement, including the International Standard Serial
+
+Number (ISSN) if it appears in the book.
+
+Notes. In addition to notes concerning bibliographical references,
+this area may contain information concerning previous editions,
+etc. For books selected for the Library’s Annotated Card pro-
+gram, it may also include a summary for juvenile readers.
+
+ISBN. If you wish to record additional ISBNs, please add them
+below the CIP data.
+
+Subject headings (each preceded by an arabic numeral). ‘There
+will be access in library catalogs under these headings.
+
+Added entries (each preceded by a roman numeral). ‘“Title”’
+and ‘‘Series’’ mean that access will be provided in library cata-
+logs for this book by the book title and series title. Persons, es-
+pecially joint authors and editors, often appear as added entries.
+
+Library of Congress classification number.
+
+Dewey Decimal classification number. The annotation, ‘‘--
+dc 19,’’ tells librarians that the number was assigned from the
+19th edition of the Decimal Classification. Please do not delete
+
+this information.
+
+Library of Congress catalog card number.

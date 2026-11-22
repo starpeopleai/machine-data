@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T23:44:00Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1020981, "source_ctime_ns": 1793389444439261275, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302540915/01316.jp2", "source_mtime_ns": 1785808140000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302540915/01316.jp2", "source_sha256": "974951e3d3301d2897aa0dcf1497e51e27e40138ab65e5dc88e72474a9cf4c4b"}
+
+===== PAGE 1 =====
+{"alpha_words": 68, "chars": 456, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Fart a ee
+
+a
+
+a. AFB,
+
+5 April 1966
+
+Ohio - 45433
+
+Hamilton, Ohio
+
+lel is Ci ek ee
+
+Reference your unidentified observation in the summer of
+Ag 54 REA . a . : ' :
+1965. The information conta ra Ln your letter is not
+sufficient tor evaluation. Request you conmmpte the attached
+aon}
+
+‘and return it in the envelope provided.
+
+bw
+
+to thank you for reporting your observation to
+é
+
+) SE A hae
+
+A HECTOR QuIimANTI LA, Jr, Major, USAF
+Chie?, Project Blue Book

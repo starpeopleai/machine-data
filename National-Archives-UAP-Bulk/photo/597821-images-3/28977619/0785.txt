@@ -1,0 +1,57 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T23:56:53Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3780609, "source_ctime_ns": 1793380663782268489, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28977619/0785.jpg", "source_mtime_ns": 1785701015000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28977619/0785.jpg", "source_sha256": "b59c3da7e0b4c7efff68e9802986b2043963e60ebd953adb54296d609fd50686"}
+
+===== PAGE 1 =====
+{"alpha_words": 191, "chars": 1313, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+\7 oo ia
+
+“
+
+SECURITY CLASSIFICATION
+
+SPACK BELOW RESERVED FOR
+
+COMMUNICATION CENTER
+
+es ee
+
+§
+f
+F . PRECEDENCE TYPE MSG (Check) | accounring ORIG, OR REFERS TO CLAS esr ATION }
+~ Cee M MOTT Tc 3 aaa Presse Tey pers aay Ta SYMBOQ ¢ EFERENCE Hy
+“a aN ROUTING BOOK MULT | SINGLE 4 :
+imine Fete < AF SAC-158-1066 UNCL
+FROM: SPECIAL INSTRUCTIONS
+COMDR, ATIC
+TO: . my inl wu * ‘4 Pre eae Se ea
+COMDR, FILTER CENTER, GOC UNIT, DES MOLNES, IOWA
+UNCLASSIFIED/AFCIN-LEY.
+Re priority message SAC~158-1066 dated May 1958, re UFO
+incidenv@ miles NE of Shelby, Iowa and alleged radio-active metal
+Strips believed assoctated with same incident, Request compliance
+with AFR 200-2 dated 5 Feb 58, Desire report of incident, details
+and specimens found be submitted to this Center as expeditiously
+as possible and cite AFCIN-4E4 - Shelby, Iowa, Apr i1 58 Case,
+Although incident over three (3) weeks old, and above refer need
+message carrles priority designation, this Center has received
+no previous report of incident,
+CCORDINATION:
+AFCIN-4E4 DATE
+Dr, Miley
+AFCIN-4LE DATE
+Colonel Gilbert
+DATE o TIME
+A3RH 17500
+MONTH YEAR
+i MAY 1958
+a | SYMBOL a | SIGNATURE
+i A Le ya if Ph ee H
+Bs AéSCIN~ OLE tet
+1 | os) 0. _ Pol ‘TEU, week USAF B |
+i | SECURITY CLASSIFICATION R |
+4 % Pa
+
+ACES OD FORM
+
+WHICH WILL BE USED UNTIL EXHAUST
+
+EO

@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T00:15:05Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6735030, "source_ctime_ns": 1793383871237317297, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28988141/0269.jpg", "source_mtime_ns": 1785748019000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28988141/0269.jpg", "source_sha256": "5d9874afc85395d32a6236cdb7e6cd5daea4f88bf17b1ce4188833ee71693f86"}
+
+===== PAGE 1 =====
+{"alpha_words": 74, "chars": 526, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+SAFOI-3a/Lu | Tacker/mhb/72291
+
+16 December 1960
+
+Dear vrei
+
+Your letter of 10 December 1960 addressed to the FBI
+concerning unidentified flying objects has been referred to
+this office.
+
+For your information I am inclosing the latest Department
+of Defense fact sheet on this subject. It clearly states the
+Air Force's and the Department of Defense's position in regard
+to this subject.
+
+Sincerely,
+
+Inclosure LAWRENCE J. TACKER
+Lt. Colonel, USAF
+Public Information Division
+Office of Information
+
+Comeback OI-3d
+Reader OI-1

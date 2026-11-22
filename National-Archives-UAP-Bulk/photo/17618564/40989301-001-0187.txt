@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T23:40:16Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 361665, "source_ctime_ns": 1793356077823066503, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989301-001-0187.jpg", "source_mtime_ns": 1785564600000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989301-001-0187.jpg", "source_sha256": "e19991c94b70ea6f2b9f9bfe61bc0ace4c8254e625f72890f6ad9e80eac59e95"}
+
+===== PAGE 1 =====
+{"alpha_words": 38, "chars": 288, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+VIII.
+
+IX.
+
+Analysis e e e e e e e e e e ° e e e e e ® e
+
+General Mills 7-, 30-, and 70-Foot Balloons
+a 9 OO REO Se OONS,
+
+Glossary . . « «eee ee we ee we wee es
+
+Appendix I.
+
+Appendix II.
+
+Equipment List and Flight Forms
+
+Tables and Charts for 20-Foot Balloon
+
+Flights
+
+ail
+
+Page Number

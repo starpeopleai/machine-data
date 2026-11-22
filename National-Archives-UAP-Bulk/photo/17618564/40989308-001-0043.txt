@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T23:44:20Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1051314, "source_ctime_ns": 1793356200183187207, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989308-001-0043.jpg", "source_mtime_ns": 1785564636000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989308-001-0043.jpg", "source_sha256": "7426cc145aa13caf4adcc77262e20089230670aa8e32f2c9e300cf5e2a18ae89"}
+
+===== PAGE 1 =====
+{"alpha_words": 209, "chars": 1394, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ATMOSPHERIC BRANCH
+
+BRIEF HISTORY OF WORK DURING PRECEDING MONTHS: Previous work on the "Physical
+and Chemical Atmospheric Constituents" Project which was begun in September
+1948, consisted of testing parachutes of different types, static balloon
+tests, and balloon test flights. A balloon system was developed to practices
+balloon flying and recovery of instruments. This system includes either one
+or two J-1400 gram balloons, depending on the amount of free-lift desired; an
+aneroid pressure element wired into a circuit which fires a squib inside a
+smal] aluminum cylinder or "cannon" at a predetermined pressure height,
+severing the main rigging and separating the balloon from the system; a
+parachute rigged into the line, which after separation of the balloon from the
+system, lowers the system to the ground; and a radar corner reflector, in
+order that the position and motion of the system may be tracked with a 584
+radar set. Visual tracking of the balloon system has been accomplished by the
+use of a theodolite. In most cases, it has proven very satisfactory in
+determining the separation point of the balloon from the system and in
+following the descent of the system to the ground. A K-35 Signal Corps
+Trailer has been acquired for the purpose of remote launchings away from the
+base.
+
+Test Directive No. 27, "Upper Air Research Station," dated 16 November 1948,
+25
+[Frame 1425]

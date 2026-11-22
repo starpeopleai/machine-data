@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T00:10:36Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5776938, "source_ctime_ns": 1793382013614115612, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28982387/0831.jpg", "source_mtime_ns": 1785700996000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28982387/0831.jpg", "source_sha256": "1fe307b8ee2fdf936a6d6d47bd9c342decdc02d5c19d63773bba5e302bd650d2"}
+
+===== PAGE 1 =====
+{"alpha_words": 94, "chars": 639, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+WR b 01 20°99 a
+RCO1S : . ae 7
+C2zCSar 393 ZCWYCH96 he - |
+wm ide | / of & f :
+DE RJEFAM 11 : a |
+M 9523322 3- #X2u age
+FH HQ LOWRY ce |
+
+TO RJWFAL/COMDR ADC
+RJEDSQ/AIR TECHNICAL INTELLIGENCE CENTER
+RJEZHO/ASSISTANT CHIEF OF STAFF INTELLIGENCE HQ USAF
+RJEZHQ/OFFICE OF INFORMATION SERVICES HQ USAF
+
+eo
+
+UNCLAS FROM KAO267@C FOR COMDR 19%6TH AISS ENT AFB COLO SPGS
+COLO UFO MY KAO 2492 UFO OBSERVED ON WEATHER RADAR SCOPE PROVED
+TO BE MALFUNCTION OF EQUIPMENT WHICH CAUSED ECHO TO APPEAR AS
+RADAR RETURN REQUEST ALL REPORTS REFLECT THIS INFORMATION
+
+AND ANY FURTHER INVESTIGATION BE TERMINATED
+
+bT
+
+S6/9227Z MAR RUWFAM
+
+~-
+
+£1 ol age
+
+NNN

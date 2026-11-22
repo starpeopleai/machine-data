@@ -1,0 +1,37 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T23:44:13Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1043238, "source_ctime_ns": 1793390608421038177, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302551596/1442.jp2", "source_mtime_ns": 1785808359000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302551596/1442.jp2", "source_sha256": "d3593ff14a5aacb2185ce597b234ce78b3bd3635816487316a32e2d8ec6fd7fa"}
+
+===== PAGE 1 =====
+{"alpha_words": 60, "chars": 522, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+UNCLASSIFIED
+
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+INCOMING MESSAGE
+
+| AF IN : 73666 (8 Jun 66) Pg 2 of 4
+
+!
+
+6. AIRCRAFT SHAPE
+7eVTRAILING FIRE
+8, NONE
+fF = BURNING PIECES FALLING OFF
+| PART Be
+D4. FIRE | | :
+2. 45 DEGREES
+3. 45 DEGREES
+(as HORIZONTAL
+5, BURNED our
+6. 3-4 SECONDS
+PART C. |
+4. VISUAL
+2. NONE
+3. UNKNOWN
+VART O.
+1. BETWEEN 9445 AND 50%, 6 WNE
+2. NIGHT | | , oo , :
+PART E.VV1.RTWPN= 12020 APPROXIMATELY 15 MILES SOUTH OF CONDON OREGON |
+
+PAGE 35 RUNP3482 UNCLAS
+
+AFHQ: i, 0-309C UNCLASSIFIED

@@ -1,0 +1,40 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T23:55:01Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3153713, "source_ctime_ns": 1793384199963878988, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28989452/0684.jpg", "source_mtime_ns": 1785748010000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28989452/0684.jpg", "source_sha256": "9ec52bc48f1aa0df40962b09d0d769ecb47ea14b3956740cb61576de8099eb84"}
+
+===== PAGE 1 =====
+{"alpha_words": 158, "chars": 1201, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+MULTIPLE SIGHTING PROJECT 10073 RECORD CARD
+
+Object same size and color as a star, first
+seen 15-20° elevation at 297°. Last seen 15-30°
+elevation at 115°. Had straight steady course
+and disappeared behind a cloud bank both dates.
+
+1. DATE - 2. LOCATION 12. CONCLUSIONS
+28, 29 Sep 60 Okinawa 0 Was Bolloon
+; Q Probably Balloon
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION fliers i thdetats
+0 Was Aiscroft
+Local CKGround- Vi sual D Ground-Rodar Q Probably Aireraft
+GMT 1015Z - 09502 dusk) 0 Air Visual O Air-Intercep? Rador 0 Possibly Aireroft
+5. PHOTOS 6. SOURCE 0 Wos Astronomicol
+0 Yes 5H Probobly Astronomicol Meteor
+Space track 0 Possibly Astronomico!
+XKNo
+7. LENGTH OF OBSERVATION 8. NUMBER OF OBJECTS | 9. COURSE O Oth :
+CO Insufficient Data for Evaluation
+Ast day -- 23 sec one WNW-ESE 0D Unknown
+nd day -- sec
+10. BRIEF SUMMARY OF SIGHTING 11. COMMENTS
+
+This case does not present much infor-
+mation, but that which is presented gives
+strong indication that the objects viewed
+were probably meteors. The description
+and straight path being factors in
+support of this conclusion. The rela-
+tively long time in sight, however is
+out of line with this conclusion.
+
+q
+
+ATIC FORM 329 (REV 26 SEP 52)

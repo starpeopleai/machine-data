@@ -1,0 +1,55 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T23:50:51Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1709686, "source_ctime_ns": 1793391406234148982, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302558376/00486.jp2", "source_mtime_ns": 1785808401000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302558376/00486.jp2", "source_sha256": "15dab1d4a599e6e938afac80f873482db9fd31f84387e7905d2b63695725904e"}
+
+===== PAGE 1 =====
+{"alpha_words": 237, "chars": 2047, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+eee Ca SH De SE —_ + ements — ee ee a - me oo. + aes Se A ee art
+
+: 15 - 30 NOVEMBER 1965 SIGHTLICS
+4 DATE LOCATION OBSERVER BVALUATION
+j 15 Minneapolis, Minnesota INSUFFICIENT DATA
+q 15 Doylestown, Pennsylvania INSUFFICIENT DATA
+L5 Newton, Pennsylvania Astro (SIRIUS)
+15 Greenville, South Carolina INSUFFICIENT DATA
+16 Mooresville, N. C. Other (MULTIPLE EXPOSUF
+a4 Lima, Ohio Astro (METEOR)
+17 Corpus Christi, Texas Astro (STAR/PLANEST )
+18 Lebanon, Ohio AIRCRAFT
+18 San Angelo, Texas Astro (METEOR) |
+q 18 Sanford, Florida AIRCRAFT
+4 18 Dayton, Ohio AIRCRAFT
+: 1i8 ayton, Ohio AIRCRAFT one
+q 19 Winter Park, Florida Other (REFLECTION )
+4 20 Canton, Ohio Astro (SIRIUS)
+4 20 Orlando,. Florida Multiple Astro (STAR/PLANET
+q 20 Glendale, Pennsylvania oat : INSUFFICIENT DATA
+7 20 New York City, New York Multiple 1. AIRCRAFT
+q 2. Astro (sr: AR /PLANET
+4 20 Bregenfield, New Jersey Astro (DENEB)
+a al Furlong, Peansylvania Astro (METSOR )
+q 2 Warrington, Pennsylvania ATRCRAFT
+4 21 Warwick, New York Astro (STAR/PLANET)
+4 al Sacramento, Cali?. INSUFFICIENT DATA
+4 22 Youngsville, New York INSUFFICIENT DATA
+4 22 Narrowsburg, New York Other (REFLECTION )
+4 22 Middletown, Pennsylvania Astro (METEOR)
+: 22 Yorktown, Virginie Astro (METEOR )
+4 22 Morgantown, West Yirgini Other (UNUSUAL METEOROE
+CONDITION )
+22 Rocklin, Califor: INSUFFICIENT DATA
+23 Roswell, New Mexi INSUFFICIENT DATA
+24 jatrona iteiants._ AIRCRAFT
+23 Colorado Springs, Visual: INSUPPICISNT
+: Photos: SMALL MAN MAD:
+7 ah Union City, Georgia em ... BALLOON |
+a 4 Oatman, Arizona Fenian coall Astro (METEOR)
+a 25 Austin, Texas Multiple AIRCRAFT
+4 26 Richland, Washington Multiple Astro (RIGEL)
+4 27 188 NM Northeast of Wake Island Military Other (MISSILE ACTIVITY
+27 Silver Springs, Maryland ADT Astro ( METEOR )
+23 Svarks, Georgia ISUFF IC ISNT DATA
+23 Media, Pennsylvania INSUFP ICIS T DATA
+2g Los Angeles, California TSUPPICIENT DATA
+2g Palos Verdes, California AIRCRAFT
+30 Columbus, Indiana INSUPFICIENT DATA
+30 Duluth, Minnesota INSUFFICIENT DATA
+30 San Pedro, Californis BALLOON

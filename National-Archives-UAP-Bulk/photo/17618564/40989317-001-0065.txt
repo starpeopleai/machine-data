@@ -1,0 +1,37 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T23:43:40Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1013089, "source_ctime_ns": 1793356319742090232, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989317-001-0065.jpg", "source_mtime_ns": 1785564673000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989317-001-0065.jpg", "source_sha256": "05e9438f44c7475f773cd32818ae544251bee5432518c86c97108cee4a8fcd54"}
+
+===== PAGE 1 =====
+{"alpha_words": 152, "chars": 1167, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Men andum A 2s
+
+a. Separate Geophysical Laboratories under the D.Cc./S.
+Research and CLevelonment HQ AAF.
+
+b. Separate Geontysical Laboratory at Watson Laboratories,
+but only atbached for administratigmrand sunnly, and
+resvonsible to D.C.S. Research and Yevelonment HQ AAF.
+
+c. Change present name to Geophysical Branch.
+
+4. Recommendations
+j a. A directive outlining, irrespective of which of the
+above is decided upon, the following:
+fl 1. authority
+2. resnonsibility
+S. what is expectod of the unit
+ey : 4. security procedure
+if a \ 5. supovly procedure (expedite)
+6. coonerat ion (internal) —
+ef - 7. cooperation (external), Navy, civil, and government
+; agencios.
+4 8. test units boats, under direct control (part of
+a9 unit)
+| \ | 9. test units A. C. under direct control (part of unit)
+i. 10. commitments to Institution for long term research
+i pragrams so they know where they stand.
+| ll. adtte to military and civilian nersonnel on project.
+be OA Lone range program to be submitted for approval
+i : direct te the Comvanding General Army Air “orces, through
+: hod ! D.C.S. Rexeutoh and Dovelonoment, but that action be taken
+
+“| eter on paragraphs 3 and 4.

@@ -1,0 +1,50 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T23:29:13Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10650719, "source_ctime_ns": 1793364269721836419, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330786509/45484701-006-006-0364.jpg", "source_mtime_ns": 1785684604000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330786509/45484701-006-006-0364.jpg", "source_sha256": "efaf84544bee057d7d489bb8557e0dff6c685e2dca99284435e682e2da4b6ea9"}
+
+===== PAGE 1 =====
+{"alpha_words": 152, "chars": 1067, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+‘GUIDE TO INVESTIGATION
+
+UNIDENTIFIED AERIAL OBJECTS
+
+Date of Observation: 27 Sept 1949 Date of Interviews 27 Sep 1949
+Midis Uhits at wibdecabian (beni) Oite
+
+Place of Observation: At South end of Bldg T-912 in ARC Area #1
+
+Position of observer (air, car, bldg., location of - give details):
+Tower
+What attracted attention to objects
+Observer was leoking in the general direction
+Humber of objects and sketch of formation or grouping:
+One
+Apparent size (compare to known object, i.e., gun, moon, thumb
+or fist at arms jength:
+Fist at arms length
+
+Color of object:
+
+Green
+
+Shape (give graphic description - compare with known object):
+Round , |
+
+Altitude (Angle of elevation above horizon - 0 degrees at hori-
+son, 90 degrees overhead):
+4G
+
+— from observer (Angle clockwise from North):
+
+Distance from observer (Distance to town, bldg., etc., over
+which object appeared to be):
+
+Unknown
+
+Direction of flight of object (s):
+Time in sights
+
+1 Second
+
+Speed (Time to cover given angular distance);
+One second for approximately 20°
+
+Declassification Authority: NND 923007

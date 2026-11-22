@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T23:42:16Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 874348, "source_ctime_ns": 1793356017357559446, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989298-001-0104.jpg", "source_mtime_ns": 1785564583000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989298-001-0104.jpg", "source_sha256": "6da1505d86aa4e20be823e0b580b83bfbb9b592dbfcefce96ad0923edc68bb42"}
+
+===== PAGE 1 =====
+{"alpha_words": 170, "chars": 1166, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+contacting Mr James Rand (Jim) of Winzen Balloons, Souix Falls, SD; Jim Rand
+is the President and his office is at 12061 Network Blvd, Suite 200, San Antonio
+TX 78249 (512) 690-3400
+
+Requested Lt Col Hachida at AIA to attempt to contact Mr Rand and
+determine if he had any information relative to the construction of these early
+balloons
+
+g) Center for Military History, 14th St NW Washington DC
+Dr Bennett, Curator
+Dr Drea
+Ms Hannah Zeidlik, Archivist (202) 504-5416
+“no records of Project Mogul; recommend checking with DOE historian or
+the US Army Military Institute"
+
+h) Dr Benjamin Coolling, DOE Historian (301) 903-5431
+Dr Marie Hallion (202) 586-5238 @ Forrestal Bldg
+
+“the AEC collection from the 1947-late 50's era has been transferred to
+NARA; might check the "Military Liaison Committee’ (MLC), the military
+organization associated with AEC during that time; recommend discussin g this
+with the AEC POC at NARA, Mr Jimmy Rush (301) 713-7250; check to see if
+there are any references to AEC people/correspondence with the MLC
+
+1) US Army Military History Institute, Carlysle Barracks PA
+Mr John Slonacker, Curator DSN 242-3611
+
+Jeffrey C Butler, Col, USAF

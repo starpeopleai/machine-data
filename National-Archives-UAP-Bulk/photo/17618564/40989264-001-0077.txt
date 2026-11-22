@@ -1,0 +1,175 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T00:28:23Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 17579869, "source_ctime_ns": 1793355242665710295, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989264-001-0077.jpg", "source_mtime_ns": 1785564419000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989264-001-0077.jpg", "source_sha256": "ad769ef97df17536fba3271ad70d443597b87f93907f7b4c588434fcafe4ecdd"}
+
+===== PAGE 1 =====
+{"alpha_words": 416, "chars": 3928, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+00001
+
+00002
+
+00003
+
+00004
+
+00005
+
+00006
+
+00007
+
+00008
+
+00009
+
+00010
+
+00011
+
+00012
+
+00013
+
+00014
+
+146
+
+APPENDIX 1
+
+July 1968
+
+BIBLIOGRAPHY OF ROBERT M. L. BAKER, JR.
+
+"Elements of Churm's Objects" (with M. W. Corn, G. L. Matlin, and
+Silvia Rachman), Minor Planets Circular, 1100, July 15, 1954.
+
+"Optimal Thrust Angle Program for Transit Between Space Points," Douglas
+Aircraft Company Report SM19180, July 1, 1995.
+
+"Keplerian Missile Trajectories Modified by Initial Thrust and Aerodynamic
+
+Dragan Douglas Aircraft Company Report SM-19234, August 1, 1955.
+
+"Approximation to Missile Trajectories on a Rotating Earth," Douglas
+Aircraft Company Report SM-19235, May 7, 1956.
+
+"Satellite Librations"” (with W. B. Klemperer), Astronautica ACTA, III,
+Hascyello=20 LOO
+
+"Units and Constants for Geocentric Orbits" (with Samuel Herrick and C. G.
+
+Hilton), American Rocket Society Reprint No. 497-57; Proceedings of the
+8th International Astronautical Congress, Barcelona, 1957, 197-235.
+
+"Orbits" (with Samuel Herrick) Aviation Age, March 1958, 70-77, Vol. 28, #9.
+
+"Transitional Correction to the Drag of a Sphere in Free Molecule Flow"
+(with A. F. Charwat), The Physics of Fluids, 1, No. 2, 1958, 73-81.
+
+"Drag Interactions of Meteorites with the Earth's Atmosphere, " disserta-
+
+tion submitted in partial fulfillment of the degree of PhD at UCLA,
+
+May,
+L958, xii + 183 pp.
+
+"Passive Stability of a Satellite Vehicle," Navigation, 6, No. 1, Spring 1958
+64-5.
+
+"Navigational Requirements for the Return from aS
+
+pace Voyage," Naviga-
+tion, 6, No. 3.) Autumn TID8. Wiese ne
+
+"Practical Limitations on Orbit Determination, " Institute of Aeronautical
+Se ee eee
+
+Science Preprint No. 842, July 8-11, 1958, 10 pp.
+
+"'Astrodynamics and Trajectories of §
+Lecture Series, sponsored by the Lon
+Society, November 13, 1958.
+
+pace Vehicles," Space Technology
+g Island IRE and the American Rocket
+
+ae = Method and Variation of Parameters as Applied to Re-entry T
+jectories, ' American Astronautica] Society Reprint No 58-36, A y : ra-
+1958, 13 pp. and Journal of the American A pare.
+
+1959. stronautical Society, 6, No. 1,
+
+00015
+00016
+00017
+00018
+00019
+
+00020
+
+00021
+00022
+00023
+00024
+
+00025
+
+00026
+00027
+00028
+
+00029
+
+147
+
+"Recent Advances in Astrodynamics," (with Samuel H
+
+errick);’ Jet P pul-
+sion, 28, No. 10, 1958, 649-654. eo
+
+"Ephemeral Natural Satellites of the Earth," Science, 128, 1958, 1211.
+
+"Gravitational and Related Constants for Accurate Space Navigation, "'
+
+University of California, Los An eles, Astronomical Pa ers,=No. 24, 1.
+1958, 297-338.
+
+(Same as Item 00006).
+
+"Precision Orbit Determination," (with L. Walters and E. Durand), Aero-
+
+nutronic Systems, Inc. Report U-306, December 16, 1958.
+
+"Note on Interplanetary Navigation," Jet Propulsion, 28, No. 12, 1958,
+834-835.
+
+"Accuracy Required for a Return from Interplanetary Voyages," J. British
+
+Interplanetary Soc., May-June, 1959, 93-97 (similar to Item 00011), Vol. 17,
+#3.
+
+"The Application of Astronomical Perturbation Techniques to the Return from
+Space Voyages," ARS Journal, March 1959, 29, No. 3, 207-211.
+
+"Sputtering as it is Related to Hyperbolic Meteorites, '' J. Applied Physics,
+30, No. 4, April 1959, 550-555.
+
+"Transitional Aerodynamic Drag of Meteorites, " Astrophysical Journal, 129,
+No. 3, May 1959, 826-841.
+
+"The Sky is No Limit for Opportunities in Astrodynamics, '"' IRE Student
+Quarterly, May 1999.
+
+"Efficient Precision Orbit Computation Techniques, '' (with G. Westrom,
+Ce. Ge. tHilton. R. Gersten, J. Arsenault, and E. Browne) ARS Reprint, QBS).
+(No. 869-59).
+
+"Three-Dimensional Drag Perturbation Technique, ' UCLA Astrodynamical
+Report #4, July 1, 1959.
+
+"A strodynamics, '' (with Samuel Herrick) Astronautics, 4, Now ies, pp. 30)
+180-1, 1959.
+
+"Effect of Accommodation on the Transitional Aerodynamic Drag of Meteorites,
+
+Astrophysical Journal, 130, No. 3, 1024-1026, November 1959.
+
+"Training in Astronautics, ' Space, December 1959.

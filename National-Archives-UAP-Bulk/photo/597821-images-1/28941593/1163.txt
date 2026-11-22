@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T23:58:03Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3847040, "source_ctime_ns": 1793372155382004871, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28941593/1163.jpg", "source_mtime_ns": 1785688534000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28941593/1163.jpg", "source_sha256": "5a0a347de837be02157590ae4e471fd79996c9c4f9aaa5ab1325101934420a25"}
+
+===== PAGE 1 =====
+{"alpha_words": 119, "chars": 932, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+1. DATE ( 12. LOCATION ( 112. CONCLUSIONS
+25 Apr_52 Thule AFB, Greenland 0 Wos Balloon
+O, Probably Balloon
+a EEE ae thn @ bet siiilaesichhcipacah tine Seal i il ine seein ets eemsienn eienlaallis ane Mianilincinemeaennet silly tnt / Sossibl :
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION rvamy Senow
+OS Ra! ERE ae & Ground: Visual O Ground-Rador te i) Bebatle Wh
+obably Aireraft
+Gu T_ R2sfe TO ( < D Air Vi suvol O Air-Intercept Redon Possibly Aircraft
+$. PROTOS 6. SOURCE F O Woas Astronomical
+G Yes ; QO Probably Astronomical
+“lg AF Office and male civilian |g Possibly Astronomicel
+7. LENGTH OF OBSERVATION 6. NUMDER OF OBJECTS | 9. COURSE od K Other | Vetet. Terres
+' Insufficient Deta for Evaluation
+1 QO Unknown
+10. BRIEF SUMMARY OF SIGHTING V1. COMMENTS
+
+Vapor tail shape.
+
+Source unable to distinguish a/c
+at originating point of “~—, ‘trail
+even with binoculars,
+
+er
+
+ATIC FORM 329 (REV 26 SEP 52)

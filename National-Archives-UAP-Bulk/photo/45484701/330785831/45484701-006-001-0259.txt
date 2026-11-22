@@ -1,0 +1,20 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T00:24:46Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10618285, "source_ctime_ns": 1793363792062150321, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785831/45484701-006-001-0259.jpg", "source_mtime_ns": 1785684873000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785831/45484701-006-001-0259.jpg", "source_sha256": "1cb5d2d5c5d0b64d1ef169274a2e22dd16bfac472ab65b7555b150ed8d6fdbb3"}
+
+===== PAGE 1 =====
+{"alpha_words": 101, "chars": 662, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Will identify and interview Mr. coven for verification of the
+facta as get forth by FICK, Will notify DO f17 by TX as to the Location
+of tho "radar station near the Now Wexleo~irizona border," if location
+ean be established,
+
+DISTRICT OFFICE P17, KIRTL. E :
+Will attempt to locate "radar station near the New Uaxico-Arizom
+
+border," where COULTER claimed to have seen “flying eaucere," and conduct
+such inquiry as is deened necessary.
+
+WLLL attempt to ascertain if the United States Research Bureau
+in Los Angeles has any inforumtion concerning COULTER'S statement they
+have possession of forty of these "flying saucers."
+
+Declassification Authority: NND 923007

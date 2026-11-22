@@ -1,0 +1,49 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T23:54:04Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 2135564, "source_ctime_ns": 1793356165375261011, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989306-001-0064.jpg", "source_mtime_ns": 1785564625000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989306-001-0064.jpg", "source_sha256": "2e7e21a6363fe7d016f3c7cee05fd4c892c5ff82b42fafb0d4722aba8d5cd1a0"}
+
+===== PAGE 1 =====
+{"alpha_words": 160, "chars": 1204, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+0 CS eS eS i oer eS re ee ny eee Se iS Maer eee ene
+
+yy
+
+CONFIDENTIAL MODIFIED HANDLIRYG AUTOR
+
+sah us Maes
+
+| VENTILATION DUCT
+ML=351/AM
+
+RADIOSONDE MODULATOR
+ML-310A/AMT-! OR
+ML- 310B/AMT-1I
+
+|
+:
+$
+
+RADIOSOND!
+TRANSMITTER &
+T- 496 /AMT-1
+
+Figure 2. Radiosonde AN/AMT-1; Radiosonde Transmitter T-49C/AMT-1 assembled with Radiosonde Modulator
+ML-310A/AMT-1 or ML-310B/AMT-1
+
+Status: Standird. Stock No.: 7A8325-1. Ref- — with the conditions of temperature and humidity
+erence: TM 11-2430. of the atmosphere at the altitude of the radio-
+
+Radiosonde AN/AMT-1 is a meteorological in-
+strument which is sent aloft, suspended from a
+free balloon, to obtain soundings of the tempera-
+ture, pressure, and relative humidity of the upper ; ; : ;
+atmosphere. It automatically transmits ampli- signals is transmitted. These signals are re-
+tude-modulated radio-frequency signals inter- ceived, recorded, and interpreted at a ground
+rupted at a frequency which varies in accordance receptor station.
+
+sonde. <A baroswitch connects the circuits to the
+transmitter successively, so that a repeating
+sequence of temperature, humidity, and reference
+
+930761—51
+
+_. MODIFIED HANDLING AUTHORIZI
+CONFIDE. 734 I UTHORIZED

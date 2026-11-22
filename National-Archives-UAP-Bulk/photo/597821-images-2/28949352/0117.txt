@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-21T23:57:51Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3821385, "source_ctime_ns": 1793373928494975855, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28949352/0117.jpg", "source_mtime_ns": 1785696563000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28949352/0117.jpg", "source_sha256": "6d51e87df6ce5beb1e85915cf6eb655e846e8db6741b2ec25132d6bf977b30b4"}
+
+===== PAGE 1 =====
+{"alpha_words": 108, "chars": 771, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Report of Unidentified Aerial Phenomena
+
+Date: 1 Sept. 1952
+
+Time: ©001
+
+Details:
+
+Miss , of MRMERemem Ave., called to report pe-
+culiar sky activity, from 2300 hrs. to time of the call.
+
+Place of observation: South of Dayton Municipal Golf Course,
+
+Object: Apparently an unusually bright star with the brilliance of
+an aircraft landing light (no beam, however). It showed what appeared to be
+‘auxiliary’ stars; sometimes at 2 o'clock position, sometimes at 11 o'clock.
+Occasional movement was apparent. First observed at 30° above the horizon(2300).
+Wow (0004) at 50° above the horizon. This was a naked eye observation,
+
+Source: Ex-camp director, somewhat familiar with basic astronomy.
+Previously reported a similar experience to the Lebanon, Ohio Sky Watch.
+
+Sar at
