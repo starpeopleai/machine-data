@@ -1,0 +1,40 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T09:17:44Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1199542, "source_ctime_ns": 1793392101388955324, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302564082/1069.jp2", "source_mtime_ns": 1785808111000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302564082/1069.jp2", "source_sha256": "baaa260c5204dcd13865264e857e84f1ec3ea6b436391cf52391bb57c932a14f"}
+
+===== PAGE 1 =====
+{"alpha_words": 89, "chars": 731, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+G. Weather and Winds - Aloft Conditions at Time and Place of Sightings:
+
+1. Observer(s) account of weather conditions:
+
+Fair on all occasions,
+
+2. Report from nearest AWS or U.S. Weather Bureau Office:
+
+25 March 26 March 27 March
+1000 scattered Same as 25th 1500 scattered
+379P 8000 overcast
+4 mil vis w/haze
+$9” F
+29 March 30 March 31 March
+Clear, 8 mil vis Clear, 8 mil vis 1000 scattered
+43°F 42°F 7 mil vis
+| 470F
+3. Ceiling:
+4. Visibility:
+5. Amount of cloud cover:
+6. Thunderstorms in area and quadrant in which located:
+7. Vertical temperature gradient:
+
+H. Any Other Unusual Activity or Condition: None
+
+I. Interception or Identification Action Taken: None
+
+28 March
+
+2300 Broken
+6000 overcast
+
+6 mil vis w/haze
+45°F
+
+None

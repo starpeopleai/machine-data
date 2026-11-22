@@ -1,0 +1,48 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T08:49:52Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7205282, "source_ctime_ns": 1793383333711226859, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28986741/0476.jpg", "source_mtime_ns": 1785747969000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28986741/0476.jpg", "source_sha256": "4e6b12900b68b71bc1cba883f5497c7af5a902e29c6a78c20c476072edea6ea6"}
+
+===== PAGE 1 =====
+{"alpha_words": 146, "chars": 964, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+( , (
+< a AEROSPACE TECHNICAL INTELLIGENCE CENTER
+
+UNITED STATES AIR FORCE
+WRIGHT-PATTERSON AIR FORCE BASE
+
+OHIO
+REPLY TO
+atmwor: = AFCIN=lic2 7 |
+susect: UO Photographs (QSRRsURasaaNamP) 19 JUN i263
+
+to: SAFOI=3d (Maj Tacker)
+
+The ATIC cannot analyze the four photographs sent in by
+
+due to lack of detailed information. It is requested that egw
+send the negatives of the prints, and the color photographs men= /
+
+tioned in her letter to this Center. In addition, the following infor-
+A mation is also requested:
+
+a. Type and make of camera used.
+
+b. Type, make of lens, focal Length.
+
+a ee
+
+c. Brand and type of film used.
+dad. Shutter speed used.
+e. Lens opening ("f" stop) used.
+£. Filters used, if any.
+g. Was camera hand held, or on trivod?
+h. Direction camera was pointed and angle above the horizon.
+i. Time and date of each exposure.
+
+FOR THE COMMANDER:
+
+3 i Sor jae”
+NICHOLAS POST 1 Atch:
+Acting Deputy Cy ltr 2) May 60 fr Qi
+
+Science and Components
+
+/

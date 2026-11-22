@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T08:51:25Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7894542, "source_ctime_ns": 1793363620087427605, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785674/45484701-005-006-0076.jpg", "source_mtime_ns": 1785684937000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785674/45484701-005-006-0076.jpg", "source_sha256": "7644336e7461edc8641f60da210a97b111bf8de32a6f5ead459587e8d3790670"}
+
+===== PAGE 1 =====
+{"alpha_words": 60, "chars": 422, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+CC -
+
+DEP TMENT OF THE AIR ® ice
+STAFF MESSAGE DIVISION
+
+INCOMING CLASSIFIED Meer GE
+
+CLASSIFICATION CANCELLE ID Peeey Jo! ae wormae
+BY AUTHORITY OF THE pee etbitly SIEGE
+
+BY ____KURT K, KUNZE .
+Historian Ca USAF
+
+ee 4 pec 1975
+
+DIRECT OR
+
+UNCLASSIFE?
+
+THE MAKING OF AN EXACT COPY OF THIS MESSAGE IS FORBIDDEN Ls
+
+ph ray: 0-309 B U. S. GOVERNMENT PRINTING OFFICE | 16—56692-2 (Fob)
+
+Declassification Authority: NND 923007

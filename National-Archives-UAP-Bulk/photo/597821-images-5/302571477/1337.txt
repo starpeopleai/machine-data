@@ -1,0 +1,24 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T09:13:37Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 806331, "source_ctime_ns": 1793392830058972116, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302571477/1337.jp2", "source_mtime_ns": 1785808351000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302571477/1337.jp2", "source_sha256": "d89c5e0195e605d230e316e0eacd6c164a4615bdd47884c3bdee08c4b0d74e47"}
+
+===== PAGE 1 =====
+{"alpha_words": 100, "chars": 581, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+MEMO PCR THE RECORD
+
+"2l Feb. 1968
+
+Talked to Lt. Mosley (SPADTS)
+
+On Oct 2i the Mclniya -I #6 Platform decayed at 10574 5Smin. Lt. Mosley
+checked for visuals on the decay but only had one vise form Turkey and
+it took place at 09492. I, Lt. Marano, asked him if these things often
+break up during re-entry and if a piece could have come down about 20
+
+p
+
+mine after the predicted decay. He stated that the objects often do break
+
+up as they start to decay and that usually they only list the time of decay
+
+of the main piecee However the angle of inclination of the object was
+
+r

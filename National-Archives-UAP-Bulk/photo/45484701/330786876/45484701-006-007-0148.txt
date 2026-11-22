@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T09:01:25Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10121691, "source_ctime_ns": 1793364359951731264, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330786876/45484701-006-007-0148.jpg", "source_mtime_ns": 1785685113000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330786876/45484701-006-007-0148.jpg", "source_sha256": "6208a6dde67f5be65b39da5d4d3d3e482a7315867855729a2b4cf2d1e3cef4be"}
+
+===== PAGE 1 =====
+{"alpha_words": 193, "chars": 1339, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+:D
+
+File No: 2-852 tea 3 February 1953
+
+SUBJECT: Interview of GEORGE MILLARD HUMSLEY, JR., concerning his
+Sighting of Unidentified Aerial Object Sighted Over
+Albuquerque, New Mexico, 31 January 1953.
+
+KALMAN D,. SIMON
+
+On 3 February 1952 GEORGE MILLARD HUMSLEY, JR., i12 Avenida
+Estrellita, Albuouerque, New Mexico, stated that at approximately
+2100 hours, 31 Jamary 1953, he observed an unidentified aerial object
+from the vicinity of 4900 Central East, Albuquerque, New Mexico. He
+explained that this object was sighted to the West of where he was
+standing and he observed it for approximately fifteen (15) minutes.
+
+HUMSLEY advised that he took a series of photographs of this
+object and the film was sent to the publishers of "Life" magazine, New
+York City, New York, undeveloped. He explained that his employer,
+GEORGE KEW, 4610 Eleventh Street, N.W., Albuquerque, New Mexico, has
+an Tysuranlan ere above publisher whereby the film of any photographs
+obtained by KEW of unidentified aerial objects will be sent directly to
+the "Life" magazine undeveloped.
+
+HUMSLEY further stated after taking photographs of this object,
+he telephoned KEW in an effort to request him to take a photograph of
+the object from his (KEW's) residence and when he next em gy to
+observe the object it had disappeared.
+
+Declassification Authority: NND 923007

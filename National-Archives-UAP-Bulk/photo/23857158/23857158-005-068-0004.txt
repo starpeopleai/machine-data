@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T09:22:42Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1833232, "source_ctime_ns": 1793359115384260721, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-005-068-0004.tif", "source_mtime_ns": 1785681320000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-005-068-0004.tif", "source_sha256": "dff9b6c4c92e36132862187f3be835d0211749521c14eb1483010655322dd61a"}
+
+===== PAGE 1 =====
+{"alpha_words": 57, "chars": 385, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Declassification Authority NND 923007
+
+THREE RJWPGU 18
+2589
+
+2273 ABOVE PAGE
+PAGE THREE RJWPGY 18
+
+260/35  \
+
+282/35
+269/55 N/A.
+N/A
+
+C. UNLIMITED
+UNLIMITE
+
+Ze ZERO
+
+F. NO STORMS IN AREA
+g NONE
+
+an NONE
+no CAUSE TNKNOWN
+13 COMMENT NEITHE te MARS NOR VENUS WERE IN FA\ iE
+nN Po a sin Cled. AGH BY Ts J RAR Hd
+ar -N TO ACCOUNT FOR THIS ee OR SSLE
+
++
+
+EE Lyi RJNPGU..
+
+POSITION To 8
+
+fos

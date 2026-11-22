@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T08:53:43Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8173767, "source_ctime_ns": 1793379377706768627, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28972092/00336.jpg", "source_mtime_ns": 1785700674000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28972092/00336.jpg", "source_sha256": "d8d1afe959e552c7aa351507dac28b03133bfebf450b7216a9de82af0a6b444c"}
+
+===== PAGE 1 =====
+{"alpha_words": 36, "chars": 294, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+6,008 DEG KT
+19,999 298 DEG 25 KT
+
+16,999 DEG KT (
+2,909 270 DEG 5@ KT
+39,900 268 DEG 65 KT
+59,909 DEG KT (
+89,999 269 DEG 6 KT
+C. CLEAR i :
+De 20 MILES (
+E. NONE 3
+Fe ° : .
+Se NONE
+9. NONE
+19~ NONE ;
+41. NONE | 7 (
+12. NONE
+12/2542 OCT RJEPNY | Oy
+ya (| . ) (
+Ie pone po
+Oe (ack *
+SY ofl ‘ (

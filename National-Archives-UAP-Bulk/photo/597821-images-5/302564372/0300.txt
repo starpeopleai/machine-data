@@ -1,0 +1,69 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T09:13:19Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 767053, "source_ctime_ns": 1793392121784394234, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302564372/0300.jp2", "source_mtime_ns": 1785808042000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302564372/0300.jp2", "source_sha256": "0f65f796572e4d6f1f76666d91428665e097475ed0619317095bbad03a9f1e9c"}
+
+===== PAGE 1 =====
+{"alpha_words": 143, "chars": 1147, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+dawn,
+
+na
+
+@, Location of Obs server(s). Exact latitude and 1 longitude of each observer,
+
+for saseensnisal position. A position with reference to a known landnark
+
+should be given in electricalreports, such as "2mi N of Deeville; "3mi,
+
+r Blue Lake". Typographical errors or "garbling" often results in electrically
+tted messages, making location plots difficult or impossible.
+
+,/
+
+/
+
+Px SU po
+La)
+oc
+
+bot.
+
+3m
+
+3
+
++t OM
+
+ry
+fo
+s
+a
+
+EXAMPLE: 89 WSN, 192 7lW for 39 U5N, 102 21W, *
+
+f, Identifying Information on Observer(s):
+(1) Civili 29 Fee SapRene tid, atiesstbetate of
+reliability.
+
+(2) Military - Name, grade, organization, duty, and estimate of
+reliability.
+
+g, ‘Weather and winds -- Aloft conditions at time and place of sightings:
+
+a “jas
+
+(1) Observer(s) account of weather conditions.
+
+(2). Report from nearest AWS or U.S. “eather Bureau Office of wind .
+ion and velocity indegrees and knots at si e, 6, Cigale, 550! AaTeeeey: 19 aadeashd
+
+diecti irfac
+20,000', 30,000', 50,000', and 80,000' if available,
+
+19,000 seattexred
+
+. Pe
+
+Visibility.
+
+ae | e -
+Amount of cloud cover,
+
+(6) Thunderstoms in area awd quadrant in which located.

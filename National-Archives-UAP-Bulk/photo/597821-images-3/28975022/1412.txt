@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T08:56:28Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8520796, "source_ctime_ns": 1793380250147812805, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28975022/1412.jpg", "source_mtime_ns": 1785701015000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28975022/1412.jpg", "source_sha256": "1633c73e3d4de03cdd96530d9f29f9a364e3ab85d933d324f140ba70915097b6"}
+
+===== PAGE 1 =====
+{"alpha_words": 119, "chars": 910, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PG rere er eta g) ee es
+
+PROJECT 10073 RECORD CARD | @ |
+
+|
+1. OATE 2. LOCATION 12. CONCLUSIONS
+rh ooM _ 4 © Wes Balloon
+20 November 1957 Hagie Pass, Texas O Probably Balloon
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION ee ee
+yoo BY a he 2] .
+2300 CST “fy Vi; g 0 Was Aircraft
+Local “1K Ground: Vi sual © Ground-Rador Q Probobly Airerof?
+omt_21/09307Z 0 Air Visual 0 Air-Intercept Radar 0 Possibly Aircroft
+5. PHOTOS 6. SOURCE Ox Wes Astronomical ic teor
+O Yes O Probably Astronomical
+"tKNe Military 0 Possibly Astronomical
+7. LENGTH OF OBSERVATION 8. NUMBER OF OBJECTS | 9. COURSE O Other
+‘ oO oth Dote for Evaluation
+Oo
+4 seconds one south cies
+10. BRIEF SUMMARY OF SIGHTING 11. COMMENTS
+Triangular object, large, white, No Meteor,
+
+illumination. Saw a second object as
+bright light approx 10 minutes later.
+same speed and altitude as first.
+Estimated speed 1000 miles per hour.
+
+ATIC FORM 329 (REV 26 SEP 52)

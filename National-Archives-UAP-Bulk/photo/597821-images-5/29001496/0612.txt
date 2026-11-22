@@ -1,0 +1,40 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T08:43:57Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6421175, "source_ctime_ns": 1793388554348619723, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/29001496/0612.jpg", "source_mtime_ns": 1785808197000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/29001496/0612.jpg", "source_sha256": "593b64227e0fd2ec33de11a525bbe4100a8d35fa1a336ccb784f254c4c7e8571"}
+
+===== PAGE 1 =====
+{"alpha_words": 137, "chars": 1163, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+arms eA TE a Te
+Lees ee ee Pera : as ep ay Re Tee Sy eer ae
+
+. oe ee Ee ne Oo Ee a eee Re eT ee
+4 enemas ale a eub o | de ae re ee Ee ae oi
+a ‘ as 4 Wye 15 et
+Wt Ugo l ser | Vise [72.2 |r Yo] 7 0 | late
+he 31, 0 12.7 |7 = ea
+s |r 2 SQlo| S24 3U}00} 43.7 {7 ey | lo.e “te kind,
+ie eae ae :
+oo J hIDo | 2K BySo ol 762 |e 23 [iY > | se
+81 J Bish 17. 9 81 v3
+a] J 7010! 34.2 3,09 | 74.5 (821 99 | 1d "Punched Card Data
+83 Sv. is 207 |a 3] 83] ya |i] 23) 22 ;
+APTS LL oe |e to OUT me | 1) ER) $2 Se] 2] Ee] be :
+BS j 85 <j} at re “|<]{ aw = 3
+= Fi Cord No. 3 --.} 15 Card No. 4
+Type of 16 Type of
+87 87 equipment & equipment Lf 4
+oa wlap 7 ela :
+25300 | 89 89 = b On 36 | 32 5 .
+25580 | 90 : ; 90 a gy 6 3 33 ; 2
+25860 | 91 1 ig 22 go g 32 | 34 4
+26140 | 92 92 23 go TES ’
+26420 | 93 93 24) gs VATED 9
+26700 | 94 94 ' 31 99 g {st | 37 5 5
+27260 96 96 27 BR 12 et 39 jf
+275a0 | 97 97 = 18s | 40 Bt
+jE bey = 29 gy | 41 oe a
+28100 } 99 99 se? 16. oe gh st
+28380 {100 100 Moximum Wind Speed Date a fs
+zs660_|101 101 | | Bap. "ormere tn.) | .
+28940 {102 102 aieieebeeditas
+29220 {103 103 Dir. (degrees) and speed
+29500 |104 104 (m.p.s.) of Mox. wind
+105 (rela eletinlenae

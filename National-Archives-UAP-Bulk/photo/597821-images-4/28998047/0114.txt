@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T08:55:04Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8385091, "source_ctime_ns": 1793387028672709979, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28998047/0114.jpg", "source_mtime_ns": 1785748576000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28998047/0114.jpg", "source_sha256": "20c9879a56c59dcae9ab55cac5d1c347863bd51680c9538639afe15b9c9c5aef"}
+
+===== PAGE 1 =====
+{"alpha_words": 96, "chars": 760, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+1. DATE 2 LOCATION 12. CONCLUSIONS
+Hen Scomb O Was Balloon
+7 Jul 8&2 a \Field,. ass, O Probably Balloon
+; rua anes O Possibly Balloon
+3. DATE-TIME GROUP 4 TYPE OF OBSERVATION
+7 BX Was Aircraft
+Local ——______ & Ground. Vi sual oles etc a Q Probably Aireroft
+GMT... O8 /03202 O Air Visual © Air-intercept Radar a Feeatly Arerert
+S$. PHOTOS 6. SOURCE O Was Astronomical
+GO Yes o Probably Astronomical
+-E.No Civilian O Possibly Astronomical
+7. LENGTH OF OBSERVATION 8. NUMBER OF OBJECTS | 9. COURSE O Other
+OC Insufficient Data for Evaluation
+2 mins four North ad seed
+10. BRIEF SUMMARY OF SIGHTING 11. COMMENTS
+in a line, movi ; parallel to the a) aract t 3 con-
+332 : baa OUP AA Ot W ae Fey a .
+> : . ra
+
+ATIC FORM 329 (REV 26 SEP $2)

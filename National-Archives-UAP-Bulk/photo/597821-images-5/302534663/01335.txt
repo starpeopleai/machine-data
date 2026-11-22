@@ -1,0 +1,55 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T09:15:11Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1017945, "source_ctime_ns": 1793388936641578880, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302534663/01335.jp2", "source_mtime_ns": 1785808173000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302534663/01335.jp2", "source_sha256": "1858fbd9314906dd38c330203c00a63311e76d447198089ebfba1405482d4b08"}
+
+===== PAGE 1 =====
+{"alpha_words": 126, "chars": 829, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+a
+« INCGMING, DEPARTMENT OF THE AIR FORCE
+
+jamacy
+
+Cia Boek AY
+Ror ee Le)
+
+!
+T
+
+STAFF MESSAGE BRANCH UNCLASSIFIED
+
+1 SY) 1
+TT SIT LLU ODS 55
+
+ACTION: NIN-7
+
+INFO : XOP-1, XOPX-5, SAFOS-3 , DIA-15 (32)
+
+SMB B87
+B442zCQdA 943
+PP RUEAHQ
+DE RUWHKP 14 24/1519Z Ca¥?
+ZNR | es oe
+P 2415122 “ane fp CG
+FM POADS ADAIR AFS ORE eo
+TO RUWGALE/AIR DEFENSE COMMAND ENT AFB COLO Vee’ :
+se
+
+RUWHBH/ 25TH AIR DIV MCCHORD AFB WASH
+
+RUCDSQ/AIR TECHNICAL INTELLIGENCE CENTER WRIGHTPATTERSON AFB OHIO
+RUZAHQ/HEAD QUARTERS USAF WASH 25D C
+
+RUZAHQ/SECRETARY OF THE AIR FORCE WASHINGTON 25D c
+
+BT
+
+UNCLAS POCDC-I 23-G-3 |
+FOR AFCIN = HQ USAF; SAFOI - SECRETARY OF THE ALR FORcE. UFOB
+REPORT. THE FOLLOWING UFOB REPTRT IS SUBMITTED: PART I. |
+PART A.
+
+1. SOMEWHAT STAR SHAPED,
+
+2. ABOUT THE SAME SIZE AS A STARS
+
+3. BRIGHT AND BLUISH WHITE.
+
+ey ne er re

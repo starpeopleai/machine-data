@@ -1,0 +1,21 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T08:46:15Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6786360, "source_ctime_ns": 1793361668418630553, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330781006/45484701-001-001-0161.jpg", "source_mtime_ns": 1785684847000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330781006/45484701-001-001-0161.jpg", "source_sha256": "c6fc4165af062c43f992220efb20a0714d30e20f6bb69b875455186e8633c784"}
+
+===== PAGE 1 =====
+{"alpha_words": 66, "chars": 489, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+© xo ©
+
+UNDEVELOPED LEADS
+
+DISTRICT OFFICE NO. 12, SCOTT AFB
+
+AT _PUXICO, MISSOURI
+
+1. Will interview EVA UNDERWOOD, niece of Mrs. FRANK GARDNER
+and ex-wife of RICARDO ROMERO, at her address in care of CHARLIE UNDERWOOD,
+Box 85, Puxico, Missouri regarding her knowledge of the underground air-
+eraft factory, supposedly located under a mountain near Mexico City.
+
+&. Will conduct any additional investigation which the facts
+developed may indicate,
+
+Declassification Authority: NND 923007

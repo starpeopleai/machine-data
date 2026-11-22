@@ -1,0 +1,17 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T08:59:30Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9649531, "source_ctime_ns": 1793379664167708416, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28973121/01221.jpg", "source_mtime_ns": 1785700714000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28973121/01221.jpg", "source_sha256": "908e200957ed506cf8112d2cb23c8761d88b3dd15d3c81e17a6409f4e51622bc"}
+
+===== PAGE 1 =====
+{"alpha_words": 28, "chars": 182, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+¢
+ae iG A THUNDEASTORY iis O3JECTS
+f
+(03 eer apparently
+7 eeaserc,s - eMyind fae
+ae DPLGRLAS*, AZIiuLa IM 3Aee poss Tren
+oe
+gh /
+Cs
+a6 eee cROUND-(VISUALe (
+
+Tat ”
+OS Ra Lid bvie®@

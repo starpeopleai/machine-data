@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T09:22:53Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 2830796, "source_ctime_ns": 1793358604927857632, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-003-085-0003.tif", "source_mtime_ns": 1785681146000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-003-085-0003.tif", "source_sha256": "48c2a78f43252490ac11a874ca642cf44e47d0eee907d195adf3c259342a69f8"}
+
+===== PAGE 1 =====
+{"alpha_words": 91, "chars": 717, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Declassification Authority NND 923007
+
+HEADQUARTERS
+4602d AIR INTELLIGENCE SERVICE SQUADRON (ADC)
+
+ENT AIR FORCE BASE
+_ COLORADO SPRINGS, COLORADO
+
+_  hbs organization is responsible for analysis and prelininary
+| investigation of unidentified flying object sightings withia the
+boundvies of the United States. Wa appreciate your cooperation in
+
+veperting your sighting; however, odditienal information ia needed _
+
+for analyais of this sighting,
+
+The ineloged ATIC Porm 14h (3.3, kar Fores Technical Infore
+nation Sheet} is forwarded for your convenience in sepplying this
+Squadron with the needed information. Again our thanks for your |
+nvoveration, —
+
+Sincerely,
+
+RICMARD B RANDLE
+Majow USA?
+fssistan’ Adjutant’

@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T09:20:27Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1696859, "source_ctime_ns": 1793389571542355488, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302541934/0746.jp2", "source_mtime_ns": 1785808207000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302541934/0746.jp2", "source_sha256": "d1f2659ba4a46e0525dc2477a7c95cd59f3b776230e3b67902d70f2a6e3e84fd"}
+
+===== PAGE 1 =====
+{"alpha_words": 88, "chars": 544, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+gZ
+
+ary
+
+“ocr 1 1965
+
+ie USAF sAPOICC <o amt) —— : : = aoe
+
+bolerence ‘ae. attached nee aaa kona enor’: on. the unidentit ted: :
+
+object photographed by Mr GRGRc of
+
+San Antonio, Texas. it is requested that the photo analysis Cea.
+the negative and one print be returned to the 3510th Plying Training ~
+Wing (SAP-P), RandolpbAFB, 7 Texas in order that they may be returned.
+
+ERI T de Llp Colonet, USAF 2 Atchs.
+
+Deputy for Technology and subsystens “Le Fhoto Analysis Report
+pee RE 2. Negative and one Print
+
+x Se W eer tent. open ae of eee oe

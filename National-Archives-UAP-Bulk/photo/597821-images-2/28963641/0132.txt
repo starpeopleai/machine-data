@@ -1,0 +1,51 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T08:30:31Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4122717, "source_ctime_ns": 1793377420197976211, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28963641/0132.jpg", "source_mtime_ns": 1785696709000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28963641/0132.jpg", "source_sha256": "ec4af554c3731e6eceab9a705b757e299ed6c14076fa3cda674da525f5197f71"}
+
+===== PAGE 1 =====
+{"alpha_words": 117, "chars": 896, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+(F), 12/1552 TO 12/15122
+
+PROJECT 10073 RECORD CARD
+
+‘7 mins
+
+7. LENGTH OF OBSERVATION
+
+6. NUMBER OF OBJECTS
+ten
+
+9. COURSE
+northerly
+
+OtherPossib
+Insufficient? Data for Evaluation
+nknown
+
+1. DATE - 2. LOCATION 12. CONCLUSIONS
+O Was Bolloon
+1e Sep a9 Baltimore, Maryland Oo Probably Balloon
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION Oe erate eaieen
+Is GO Was Aircraft
+Loc ry; = EK&Greund- Vi sual 0 Ground-Radar G Probably Aircroft
+GMT_— 205 () Alr- Vi sual D Air-Intercept Radar 0 Possibly Aircraft
+5. PHOTOS 6. SOURCE O Was Astronomical
+‘|. O Yes O Probably Astronomical
+XXX No civilian O Possibly Astronomical
+fm
+2}
+Oo
+
+shape.
+
+10. BRIEF SUMMARY OF SIGHTING
+
+Ten white, round objs, appeared to be in a
+string=line, heading north, objs seemed to
+break up and give off smoke, flicker and change
+
+11. COMMENTS
+
+Buch as geese.
+
+This is possibly a flight of birds ?
+
+ATIC FORM 329 (REV 26 SEP 52)

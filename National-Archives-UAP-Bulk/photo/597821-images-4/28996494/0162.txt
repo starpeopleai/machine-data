@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T09:27:29Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4051364, "source_ctime_ns": 1793386536009068167, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28996494/0162.jpg", "source_mtime_ns": 1785748096000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28996494/0162.jpg", "source_sha256": "5b93251225bc5b6f4956c73fb8cb15d2b8c6c0e3ffb77ca569ff0eab417ddf98"}
+
+===== PAGE 1 =====
+{"alpha_words": 156, "chars": 854, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Page 4
+
+. Draw a picture that will show the motion that the object or objects made. Place an "A’’ ct the beginning o
+Pp i g 9 of
+
+the path,-a ‘’B”’ at the end of the path, and show any changes in direction during the course.
+
+How large did the object appear to you as compared to an object. with which you ars familiar?
+
+_ >
+
+We wish to know the angular size. Hold:a match stick at arm’s length in line with a known object.and.note
+how.much of the object:is covered by the head of the match. If you had performed this oxperimant.at the tima
+of the sighting, how much of the objact would haves been covered by the match head?
+
+'
+
+In order ther you can give as clacr.a picture as possible of what you saw, describe in your own words a
+common objact or objects which, when placed up In the sky, would give the sama appearance as the object
+
+which you saw.

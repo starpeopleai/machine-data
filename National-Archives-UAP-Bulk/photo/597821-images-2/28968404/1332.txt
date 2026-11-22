@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T08:45:05Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6489719, "source_ctime_ns": 1793378561607852488, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28968404/1332.jpg", "source_mtime_ns": 1785696503000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28968404/1332.jpg", "source_sha256": "6c6f67f557b0fc3f7ba379b9ec4dfbf8cb5f031680d9c55131c71bbe1856f0c9"}
+
+===== PAGE 1 =====
+{"alpha_words": 114, "chars": 853, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+1. DATE 2. LOCATION 12. CONCLUSIONS
+QO Was Balloon
+17 November 1956 Redfield & McLoughlin,S,DJ0_ Probably Balloon
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION ee ny
+Local 0150 CST. |) Rround- Vi suet Q Ground-Rader  Probebty aiverdtt
+PA EAT OS D Air Visual QO Air-Intercept Radar O Possibly Aircraft
+5. PHOTOS 6. SOURCE OD Was Astronomical /
+0 Yes O Probobly pp tec oe
+Bate Civili O Possibly Astromomic
+7. LENGTH OF OBSERVATION a oe ee o : Preeti ient Date for Evaluation
+1, unknown O Unknown ; |
+| one
+110. BRIEF SUMMARY OF SIGHTING 11. COMMENTS
+1. Object dim red to glow to Poor report but this is quite
+bright red glow. Object hovered possibly a balloon.
+
+then moved to another location.
+2. Cone-shaped object, color blue,
+
+green, Object hovered over Mound
+
+City, South Dakota for 30 minutes),
+
+ATIC FORM 329 (REV 26 SEP 52)

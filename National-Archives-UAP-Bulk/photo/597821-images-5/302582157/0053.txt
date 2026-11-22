@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T09:18:47Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1356331, "source_ctime_ns": 1793393915256854959, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302582157/0053.jp2", "source_mtime_ns": 1785808149000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302582157/0053.jp2", "source_sha256": "cf849a671c8b35005d4cc3412fbbb7f0647b73905d9f21b61e0c2bbb5027e7de"}
+
+===== PAGE 1 =====
+{"alpha_words": 90, "chars": 658, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+TDPT (UFO) | 28 FES 1969
+
+UPC Ooservation,. 17 Fed 69
+
+Twinsours, Police Department
+Iwinsburz, Ohio 44037.
+
+The Aerial Phenomena Branch i3 in receipt of a UFO report
+
+from Twinsburg, Ohio for 17 Feb 1969. The observation stated
+that at about 6:40 P.M. local time several people in the Twins-
+burg area sighted a wnite object that had red lichts surrounding
+it. Fequest information 1f your orfice received any similar
+reports for this night. If so, were you able to identify the
+stimulus? Thank you for your cooperation and effort.
+
+/;
+
+( QUINTANILLA, Jr, Lt Col, USA?
+
+pyeaiet, Aerial Phenomena Eranc!
+Aerospace Technologies Division
+Production Directorate

@@ -1,0 +1,42 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T08:32:35Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4488996, "source_ctime_ns": 1793377907991281689, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28965938/0645.jpg", "source_mtime_ns": 1785696985000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28965938/0645.jpg", "source_sha256": "5c00656c992cc776dd1e817fcd265fc18572f9391153e60f81bcc013f50cd29e"}
+
+===== PAGE 1 =====
+{"alpha_words": 133, "chars": 983, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+FLAP aDtS ONS Pe arenes ta The oe eS
+
+~ PROJECT 10073 RECORD CARD
+
+1. DATE
+
+2. LOCATION
+
+T2, CONCLUSIONS
+
+faded fm sight.
+
+of object attwactted the observer's
+attention. The object traveled west
+in a straight line course. Object
+
+0 Was Balloon
+24 June 1956 Marshalltown, lowa Q Riebebly Barger
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION fc Tena hal leon
+Local MARKGro und- Vi sual 0 Ground-Radar 2 prebady Aiverdh
+cmT__22/0023 DO Air Visuol O Air-Intercept Radar [&XPossibly Aircraft
+5. PHOTOS 6. SOURCE O Was Astronomical
+O Yes QO Probobly Astronomical
+x No Civilian 0 Possibly Astronomical
+7. LENGTH OF OBSERVATION 8. NUMBER OF OBJECTS | 9. COURSE O , Other
+o eal etent Dota for Evaluation
+‘ e a
+five minutes one E to W jaeamiaad
+10. BRIEF. SUMMARY OF SIGHTING 11, COMMENTS
+One round object, white, size of a Concur w/the opinion of the
+
+pea held at arms length, Brilliance reporting officer that this sight
+
+ing was possibly caused by an
+
+aircraft.
+
+ATIC FORM 329 (REV 26 SEP 52)

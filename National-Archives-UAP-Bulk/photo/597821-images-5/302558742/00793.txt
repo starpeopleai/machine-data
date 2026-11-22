@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T09:20:44Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1706766, "source_ctime_ns": 1793391450434915609, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302558742/00793.jp2", "source_mtime_ns": 1785808463000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302558742/00793.jp2", "source_sha256": "3f23af212470baadd44890891cd2bbe17ecdd2cc8b307785cab205f74386753d"}
+
+===== PAGE 1 =====
+{"alpha_words": 56, "chars": 399, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+UNCLASSIFIED
+
+DEPARTMENT OF THE AIR FORGE
+STAFF PAESSAGE BRANGI
+INCOMING MESSAGE
+
+AF IN: 14799 (27 Nov 66) Pg 3 of 4
+
+De Ae AIR VISUAL
+Bo NONE
+C. to PA 873 BTO7 WEST
+. 2e MAC 50254 C141 WEST
+Se MAC 58262 C141 WEST
+B RM MAC 15184 C124 WEST
+PAOE 3 RUHLKH 4 UNCLAS
+| De MAC 26961 C124 WEST
+1 6o Ao 27/1348Z .
+
+Bo UNK
+
+7. 190M EAST TO 188 NM NORTH EAST OF WAKE
+& UNK- He
+
+AFHQ ines O-309C UNCLASSIFIED

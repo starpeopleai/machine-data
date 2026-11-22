@@ -1,0 +1,51 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T09:15:31Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1019095, "source_ctime_ns": 1793390578403803300, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302551264/1068.jp2", "source_mtime_ns": 1785808020000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302551264/1068.jp2", "source_sha256": "ce5bced3af86ee8e6d5f3a0ab24e7cbaf657dbf66228148abe932c0933e6fb0c"}
+
+===== PAGE 1 =====
+{"alpha_words": 74, "chars": 676, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+AFHQ snes 0-309C
+
+UNCLASSIFIED
+
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+INCOMING MESSAGE
+
+AFIN: 62859 (2 Jun 66)
+
+G (1) UNK.
+(2) SURFACE O4/ 16, 65503" 21/26, 16999" 17/17,
+PAGE 3 RUYMFYAS 756 o Ty8d~ |
+W/16, 28999° 13/14, 39589° 30/08, 56008" 29/125
+(3) 14,998 SCATTERED, HIGH BROKEN DIRRUS.
+(4) F:FTEEN PLUS MILES
+
+C3) 6/8
+
+He NVA
+
+1, N/A | |
+
+Je PETERSON FIELD AIR TRAFFIC IN THE VICINITY OF FORT
+CARSON AT THE TIMES
+
+16660
+
+85000"
+
+Ke MAJOR EDWARD L STRICKER, ASST BASE OPERATION OFFICER,
+
+PETERSON FIELD COLORADO. PRELIMINARY ANALYSIS3 SIGHTING
+
+BELIEVED TO “ave BEEN NAVIGATION LIGHTS FROM AIRCRAFT CSEE
+
+J ABOVE).
+Le N/A
+BY
+
+NNNN
+
+UNCLASSIFIED
+
+UNKo
+
+Pg 3 of

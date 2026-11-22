@@ -1,0 +1,48 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T08:45:38Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6690895, "source_ctime_ns": 1793383876725112635, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28988164/0284.jpg", "source_mtime_ns": 1785748489000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28988164/0284.jpg", "source_sha256": "2e27590a639d8d69f2263c9097fbebb9e53195ca23840f52005335a3641867b6"}
+
+===== PAGE 1 =====
+{"alpha_words": 167, "chars": 1251, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+bu
+
+‘
+
+Multiple Sighting
+
+PROJECT 10073 RECORD CARD
+
+1. DATE - 2. LOCATION 12. CONCLUSIONS
+Pal . 8 « 0 Wes Balloon
+11 August, 13960 Sioux Falls, south Dakota a Probably Belloon
+3. OATE-TIME GROUP 4. TYPE OF OBSERVATION Se Meenmy Seren
+O Was Aiseraft
+Local O Ground. Vi sual O Ground-Roder GQ Probably Aireroft
+om 7 22/0350Z XG Air Vi sal O Air-Intercept Rader D Possibly Aircroft
+5. PHOTOS 6. SOURCE O Wes Astronomical
+O Yes DO Probably Astrenomicel
+No Military ©O Possibly Astronomical
+7. LENGTH OF OBSERVATION 6. NUMBER OF OBJECTS | 9. COURSE Other :
+Insufficient Dota fer Evaluction
+3 minutes One Southerly 0 Unknown
+
+BRIEF SUMMARY OF SIGHTING
+wnite circular: object of varying intensity
+X brilliance of Jupiter, no sound or tail,
+
+3
+ooserved due West of A/C just above the horipo::.object cannot be classed as a Satellitle
+
+Apvueareu to move South at the same elevation
+anu weni out for perious of 5-10 seconds,
+Reapveared moving South with the intensity
+weakening. Total observation duration 3 min.
+Speeu believed faster thn mannec A/e and
+thousht to be Satellite of Missile by the
+obse:ver.
+
+11. COMMENTS
+Request for Sate'lite MZ4¥ data not
+answered. Without track information
+
+case. Listed as Insufficient Data,
+
+ATIC FORM 329 (REV 26 SEP $2)

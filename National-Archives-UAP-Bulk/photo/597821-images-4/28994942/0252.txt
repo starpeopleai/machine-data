@@ -1,0 +1,52 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T08:33:14Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4596341, "source_ctime_ns": 1793386141861258092, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28994942/0252.jpg", "source_mtime_ns": 1785748524000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28994942/0252.jpg", "source_sha256": "d3b60e476951a099a641688b340f28a33204a2576eb05776464bc342fb30b2a2"}
+
+===== PAGE 1 =====
+{"alpha_words": 162, "chars": 1173, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+S75 -O
+
+CLASSIFICATION (SECURS. INFORMATION when filled in)
+a
+
+AIR INTELLIGENCE EVALUATION RECORD
+
+AIR INTELLIGENCE INFORMATION REPORT NUMBER
+
+Director of Intelligence
+Headquerters USAF SOURCE OF REPORT (Air Attache, Command, etc.)
+ATIN: Collection Operations Div. fee
+Washington 25, D. C. INTELLIGENCE REPORT PREPARED py (Name of officer)
+
+USABILITY OF REPORT VALIDITY OF INFORMATION
+EXCELLENT CONFIRMED
+
+FULFILLMENT OF REQUIREMENT
+COMPLETE
+SPECIFIC PROBABLY TRUE PARTIAL
+
+USABLE POSSIBLY TRUE SLIGHT
+TOO GENERAL DOUBTFUL
+
+CANNOT JUDGE
+
+COMMENTS (Keep the intelligence collectors informed. Your coments, guidance and criticiom are greatly appreciated. Definite
+and detailed evaluation will lead to improveamt in the quality of intelligence reporting).
+
+ne Viggo 20 Bret ith, pudt_tferd- i
+No Bad ta Stes teal /22,200 at ye Coote & Onda Coy
+Tan Bi wil peek hades Reefs O44 Uumad.s
+
+y v Bredtns veh at by Leon ay
+
+Unde Ma See Ning rn = W
+Carded t Lan hae AAS AY hs PAR Annrtrng
+Pi OU Aupoe eee B_£ at G
+
+: G
+
+‘
+
+AGENCY AND OFFICE ANALYST (Signature)
+
+AF For’ = 112b
+
+1 oct $2 PREVIOUS EDITION OF THIS FORM MAY BE USED. cLassivicarTion (SECURITY INFORMATION when filled in)

@@ -1,0 +1,11 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T08:40:42Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5672766, "source_ctime_ns": 1793376573919331307, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28961251/1085.jpg", "source_mtime_ns": 1785696948000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28961251/1085.jpg", "source_sha256": "27fead6f6ce2deef28529fcda949e78a41af3900862346d23b732d8ad876e53f"}
+
+===== PAGE 1 =====
+{"alpha_words": 9, "chars": 42, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+= a
+ae re areas or
+a
+
+Me iy on berg
+
+ont

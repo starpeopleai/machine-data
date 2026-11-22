@@ -1,0 +1,62 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T08:51:59Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7918606, "source_ctime_ns": 1793365321563456939, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330788691/45484701-008-005-0061.jpg", "source_mtime_ns": 1785684610000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330788691/45484701-008-005-0061.jpg", "source_sha256": "c2554b6ddd84011b8260c57b78d9d62e82e380f83df8064bb974c90348436f26"}
+
+===== PAGE 1 =====
+{"alpha_words": 351, "chars": 2210, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+2A 2h,
+SUBJECT:
+
+SPOT INTELLIGENCE REPORT 23 October 1950
+Unconventional Aircraft
+
+OF SKY WAS ABOUT 2$SECONDS OR THE TIME REQUIRED TO SAY DELIBER~
+ATELY "GO AND ONE AND TWO AND," REALIZING THE OBJECT TO BE UN
+USUAL MR, HORNER IMMEDIATELY CLOSED HIS EYES AND REVISUALIZED
+THE INCIDENT CAREFULLY FIXING IT IN HIS MEMORY, NO PERSON WAS
+WITH MR, HORNER AND THERE IS NO CONFIRMATION, *
+
+OWO DARYLE K, BAXTER, W-2142807, Secretary of the General 8t hone USARPAC,
+Fort Shafter, TH, has further reported
+
+"Received a telephone call at 1130 hours, 14 October, from Mr.
+Horner of Kauai (Hawaiian Camnery) regarding an object seen by a
+Mr, Ben Ohai, Game Warden for Kauai, The object seen ~ its travel
+end size —~ was almost identical with report submitted by Mr, Hor
+ner as regards his observation on 7 October; the only dif fference,
+this one possessed a faint blue tail following the object. Very
+thins
+
+"This was at 0115 hours, 14 October. Mr Ohat at the time was
+looking for game violators doing reef fishing near Kapaa, In
+addition to Mr, Ohaits observation, eight (8) others with or
+near him observed the object, The names of the eight were not
+given by Mra Horner,"
+
+The following appeared in the Friday, 13 Oct 50, Home Edition of the Hono~
+iulu Star-Bulletin, a daily afternoon English language newspaper published
+in Honolulu:
+
+"LIHUR, Kauai, Oct. 13 — The flying saucer has reached Kauai,
+according to Albert Horner, manager of the Hawaiian canneries in
+Kapaa,
+
+Mr, Horner, reports seeing an object similar to a flying saucer
+cross the skies Saturday evening (7 Oct 50)
+
+Mr, Horner was on the grounds of the All Saints church when he
+saw a luminous cbject cross the sky in a north to south direction
+about 7325 Saturday night,
+
+The object appeared from the Ahukini direction and wes last
+seen in the direction of Anahola,
+
+When first spotted, says Mr, Horner, the object was about one
+fourth the diameter of the moon.
+
+It was a little over half the size of the moon sbove Kapaa and
+then decreased in size until disappearing above or behind high
+clouds.
+
+The object was circular but did not have sharp outlines, Mrs
+Horner said, It was in sight about 2 seconds in all,"
+
+Declassification Authority: NND 923007

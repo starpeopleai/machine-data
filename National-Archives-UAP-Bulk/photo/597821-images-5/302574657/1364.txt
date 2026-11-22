@@ -1,0 +1,11 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T09:17:00Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1051554, "source_ctime_ns": 1793393146192825488, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302574657/1364.jp2", "source_mtime_ns": 1785808182000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302574657/1364.jp2", "source_sha256": "9bd7eb3f72efb9dfd503f50f73422ed5d20db07c00bb840b592c5e2c5dd61768"}
+
+===== PAGE 1 =====
+{"alpha_words": 7, "chars": 45, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 1, "variant": "plain-psm3"}
+ac ptacemanee
+
+i
+ty
+
+—aneentty |S og tol
+im

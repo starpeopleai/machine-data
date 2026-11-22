@@ -1,0 +1,37 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T08:53:09Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8137357, "source_ctime_ns": 1793379965218715277, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28973955/0507.jpg", "source_mtime_ns": 1785701070000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28973955/0507.jpg", "source_sha256": "119dedb07726f67b2c3f1cb3a2a6fe1bfb28dc82746d283f39a49191e0077114"}
+
+===== PAGE 1 =====
+{"alpha_words": 98, "chars": 622, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PRT I te ere
+ONS UPL AY Ree
+
+‘i . eo : SRT PEL PTET ey Tee SN WN RE Stee SLO ys pel Pe, we
+
+3 December 1958
+
+Dear ir. Qn |
+Mis is to acknowledge your letter of 13 November 1958 | |
+
+concerning the unidentified flying object you sighted on
+6 November 1957 in Baltimore, Maryland.
+
+We have again instituted a thorough search of our records
+and fail to locate any sighting in Maryland for that period.
+
+Sincerely,
+
+LAWRENCE J. TACKER
+
+Major, USAP
+
+Executive Officer
+
+Public Information Division
+Office of Information Services
+
+Baltimore /
+02V
+Ai Liogs MSE AIOED
+“I DEC 2 I@ dy
+
+EER SMG RUAN: A PEt as pee ae a ge ete re eat

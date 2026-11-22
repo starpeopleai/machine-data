@@ -1,0 +1,37 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T08:31:11Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4180330, "source_ctime_ns": 1793375708340562935, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28957311/0412.jpg", "source_mtime_ns": 1785696569000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28957311/0412.jpg", "source_sha256": "89b348534d9583174f40b3582d7c794b589ee2b045e3dc9a07fcfb1ea84ea43b"}
+
+===== PAGE 1 =====
+{"alpha_words": 75, "chars": 586, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+4 f" owe
+o. ? a "
+yy 647TH AIRCRAFT CONTROL AND WARNING SQUADRON
+
+? fh AnassAsS VA 1¢foCGZe v3
+
+Manassas, Virginia
+
+18 FEB 1954
+
+SUBJECT: Unidentified Flying Object
+
+TO: Commander
+Air Technical Intelligence Center
+Wright-Patterson Air Force Base, Ohio
+
+Reference UFOB report submitted by this orgenization in TWX ACC 47, dated
+
+ll January 1954, Attached hereto is additional information pertinent to subject
+
+sighting from one of the observers coneerned.
+
+FOR THE COMMANDER»
+
+FRED D. BASWSLL
+
+3. Incl
+1. Letter, undate lst Ite, USAF
+Ass't Adjutant
+
+2. Enve
+
+5. Object Diagram, undeted

@@ -1,0 +1,23 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T08:46:41Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6905028, "source_ctime_ns": 1793384935821214853, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28991418/1071.jpg", "source_mtime_ns": 1785748400000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28991418/1071.jpg", "source_sha256": "ba217dff1111f9096301ba96154c065d0001f429f8f3acd15b6246c675d7bb17"}
+
+===== PAGE 1 =====
+{"alpha_words": 83, "chars": 526, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+SUA A Gao dade ea AERATOR EN REPRE SS MY, CON, 0 PE ORNATE Ay |) rere
+
+TD-5
+UFO Report
+
+SAFOI-3C (Major Coleman)
+
+Attached are copies of two (2) letters reporting the sighting of wm-
+identified serial phenomena. The information is limited; therefore,
+it is suggested that your office forward two (2) ATIC Form 164s to
+each individual for completion and forwarding to FID.
+
+EDWARD H, WYNN 2 Atch
+Colonel, USAF 1. Cy ltr dtd 9 Jul 61 fr
+Deputy for Science
+and Components 2. Cy ltr dtd 3 Jul 61 f&
+aia»
+/
+: PEC CEO UES at a aaa

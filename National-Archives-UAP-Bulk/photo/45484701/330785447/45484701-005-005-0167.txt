@@ -1,0 +1,57 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T08:53:52Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8205767, "source_ctime_ns": 1793363560459878167, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785447/45484701-005-005-0167.jpg", "source_mtime_ns": 1785684628000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785447/45484701-005-005-0167.jpg", "source_sha256": "403ddb6297864149e3536619919b82a50df960e382cefa776b6baf4c70774653"}
+
+===== PAGE 1 =====
+{"alpha_words": 168, "chars": 1179, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+24.039 /6
+
+te of observation?
+of 195].
+
+a]
+
+Exact time of observation (local)?
+
+4
+Three (3)=-four (4) Pu.
+
+Standing in front of SHULER'S Shop, 780 Ste Pau i, Gonzales,
+Texas
+
+Position of observer (air, car, building, location of «
+details)?
+Standing on sidewalk,
+
+What attracted attention to object?
+Probably shining refleetion attracted attention.
+
+Number of objects and sketeh of formtion or grouping?
+Ones
+
+Apparent size (compare to known object, ie@s, sun moon, thumb
+or fist at arms length)?
+About the size of a full moon.
+
+Color of object?
+
+Shape (give graphic description - compare with known object)?
+Looked round « but glare was too great to note shape = unknown
+whether flet or long.
+
+Altitude (angle of elevation above horizon = 0° at horizon,
+90° overhead)?
+Approximetely 60° from horizon.
+
+Direction from observer (angle clockwise from north)?
+Approximately 135° from north.
+
+Direction of flight of object?
+Going up at 60° angle and straight away from observer.
+
+Time in sight?
+Three (3) mimuites.
+
+Speed (time to cover given erigular distance)?
+Moving up end away ~ unable to estima Ge speed and no change
+in angle of sight.
+
+Declassification Authority: NND 923007

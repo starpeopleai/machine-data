@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T09:29:26Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4428243, "source_ctime_ns": 1793380367578382574, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28975576/00454.jpg", "source_mtime_ns": 1785700928000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28975576/00454.jpg", "source_sha256": "55cdf9eba08ef36b13fdd13b15163a2c278480b468ae3e81927013a603cd4c98"}
+
+===== PAGE 1 =====
+{"alpha_words": 69, "chars": 475, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+B APRROX 45 DEGREES
+C(O/DEGREES, WEST SOUTH WEST HORIZION
+D (STRAIGHT PATH’
+
+E HORIZION
+
+F APPROXIMATELYCFIVE (5) MINUTES )
+
+S-A GROUND VISUAL
+
+fe cet deel Livre wee hve
+
+Td Lg Yo sg
+B N/A a  soget by se hie ae pole
+ALEPH oS °
+C N/A | ee She fete tp pre
+| 4A 82/01252 0/29 oe Oe a
+B NIGHT
+
+5- 15 MILES SSW OF SEYMOUR JOHNSON AFR Ne C,<eer Colds bere
+
+a
+
+FARMER
+
+B N/A
+| T~A CLEAR
+
+| PAGE THREE RJESFH 1
+
+ce PEO Ger ge Gor. Le
+B a0 /85 la Sy ala WOPXYPN GIPXYIN WTPXOTN WTPX

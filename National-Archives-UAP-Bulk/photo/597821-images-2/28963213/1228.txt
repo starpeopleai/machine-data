@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T08:43:14Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6155411, "source_ctime_ns": 1793377304843483954, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28963213/1228.jpg", "source_mtime_ns": 1785696913000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28963213/1228.jpg", "source_sha256": "1b9045b63e01d6d6dddca42f7aa89bc9f54c51ca66e3e92a42ad729b7bfc0ffe"}
+
+===== PAGE 1 =====
+{"alpha_words": 131, "chars": 967, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ee ke eS ares eee Lp Pe Ue Ae
+
+FR OSE Ae 9 V8
+
+‘ \ PROJECT 10073 RECORD CARD
+, \ ane
+1, OATE ’ ; 2. LOCATION 12, CONCLUSIONS
++! O Was Balloon
+18 Aug 55 Seattle, Wash O Probably Belleon
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION gh dic athet! Mba dedadoge
+a:
+Local G Ground- Vi sual © Ground-Radar a piebeag miverds
+Gmt__L O4Lez, 0 Air Visual C Air-Intereept Radar | 7 Possibly Aircraft
+5. PHOTOS 6. SOURCE 0D Was Astronomical
+0 Yes 5 Sere Seventies
+; ne j i
+x Ne civilian and military GOC , celal Mage degli
+7. LENGTH OF OBSERVATION 8. NUMBER OF OBJECTS | 9. COURSE O Other : ,
+i3 minutes 1 N to $ 22222 shld ag Data for Evaluation
+
+19. BRIE# SUMMARY OF SIGHTING
+
+11. COMMENTS
+
+One round yellowsih-white obj, size of a match |Possible a/c, hwwever, due to lack of
+head held at arms length, was seen thru a
+
+celescope. Had wobbley course.
+
+data in original rpt it is impossible
+to evaluate this report. Insufficient
+Data for Evaluation.
+
+ATIC FORM 329 (REV 26 SEP 52)

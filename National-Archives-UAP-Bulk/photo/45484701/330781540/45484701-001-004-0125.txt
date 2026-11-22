@@ -1,0 +1,58 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T08:50:24Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7413538, "source_ctime_ns": 1793361859840748889, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330781540/45484701-001-004-0125.jpg", "source_mtime_ns": 1785685078000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330781540/45484701-001-004-0125.jpg", "source_sha256": "cc45c449c14fe7156bbcdf1e71ae0dcc225a57645fd8c24d2a59ca7ed4d42d44"}
+
+===== PAGE 1 =====
+{"alpha_words": 334, "chars": 2171, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+GENERAL
+
+In compliance with request made by Col McCoy, Capt Groseclose and
+Lt Smith proceeded to Kirtland AF Base, 23 Feb 1949 to discuss progress
+made and problems encountered in the investigation of unidentified aerial
+phenomena being conducted by 17th District OSI with the assistance of
+Dr Loncoln LePaz, University of New Mexico.
+
+BACKGROUND
+
+Starting 5 Dec 19S sightings of unidentified green fireballs were
+reported in the area of northeastern New Mexico and northwestern Texase
+Approximtely eleven objects were sighted up to 30 Jan 199 and several
+were reported subsequent to that date, lumerous witnesses to many of the
+sightings were located aml interviewed by CAPT NEEF, MR BOLLING, both of
+17th District OSI, and by Dr LaPaz of the University of New Mexico, They
+have been conducting a contiming investigation. Witnesses include CAPT
+NEEF and DR LAPAZ themselves. OSI have forwarded reports of investigations
+regularly to this officee
+
+CONFERENCE
+
+On 2l; Feb 199 a conference was held in the offices of 17th District
+OSI at which the following were present:
+
+CAPT GROSECLOSE Technical Inte] Div Hq ANC
+|
+
+LT SMITH " it non
+
+MAJ GODSOE Hg lth Amy IMtel Liaison Officer
+
+CAPT NEEF 17th District Osi
+
+JACK BOLLING 17th District OSI
+
+Dr LINCOLN LAPAZ Prof of Math, Dir Meteoritics
+Institute, Univ of New Mexico
+
+Maj GODSOEB's connection with the investigation seemed indirect al-
+though it was not made quite clear to representatives of this Comam.
+The Major expressed disappointment at AMC's apparent (to him) lack of
+interest in the green fireballs and suggested that they (the 051) discon-
+tinue their investigations.
+
+Capt NEEF revealed thet the OSI was also not sure of AMC's connection
+with the incidents, No direct association was made between the green
+fireball incidents and "Flying Discs” even though Departments of Air Force
+and Amy letters direct.all echelons to report all information on uniden-
+tified aerial phenomena to Hg AMC. In the absence of a specific request
+for investigation ami because of regular workload, the OSI team were
+required by their immediate Hq to spend less time on this investigation.
+
+Declassification Authority: NND 923007

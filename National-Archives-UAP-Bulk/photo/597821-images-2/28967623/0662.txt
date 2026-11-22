@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T08:40:16Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5652404, "source_ctime_ns": 1793378328953866596, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28967623/0662.jpg", "source_mtime_ns": 1785696412000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28967623/0662.jpg", "source_sha256": "401771b3236bed95e4e8e8debcc712701e06a5ab35bdea20303cf9ee5a6b32ef"}
+
+===== PAGE 1 =====
+{"alpha_words": 26, "chars": 190, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+pagers?
+UPBO3G TYAG23NCFO31
+rreeeyy RJEDUP
+
+DE RJEPHO 804
+
+Y 2291527
+
+FM HEDUSAF WASHDC
+
+TO COMDR ATIC WPAFB OHIO
+
+Y 2197447
+FM CTF 31
+
+TO RJEPEN/CINCONAD
+
+INFO RBEPW/SECNAV
+
+118
+
+of AEF
+4

@@ -1,0 +1,63 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T08:45:22Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6657839, "source_ctime_ns": 1793362012296299535, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330781979/45484701-001-007-0095.jpg", "source_mtime_ns": 1785684546000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330781979/45484701-001-007-0095.jpg", "source_sha256": "141c68807d2dd0f55341a380b3c8ca5b68c95714327cca8f8fc5f5c51f6f3e5b"}
+
+===== PAGE 1 =====
+{"alpha_words": 248, "chars": 1787, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+THE INSPECTOR GENERAL
+OFFICE OF SPECIAL INVESTIGATIONS
+REPORT OF INVESTIGATION Pe
+ee REPORT MADE AT
+UNIDENTIVIED OBJECT DO #12, Scott AFB
+
+PER 10D
+
+26 Sep 48 - 1 Cot 16
+
+OFFICE OF ORIGIN
+
+DO #12, Chanute AFB
+
+STATUS
+
+PENDING
+
+CHARACTER
+IDENTIFICATION OF UNKNOWN OBJECT
+
+REFERENCE L te from ¥BI, Milwankes, Wiseonsin to CO, 13hth APBU, Chamte AFB, Tl,
+dated 27 September 1918
+
+SYNOPSIS
+
+Investigation requested by Colonel SIMENSON, Base Executive Officer, Chanute
+APB, Illinois. Special Agent in Charge, Milwaukee, Wisconsin, district office,
+Federal Bureau of Investigation, advised by letter that object conforming to des~
+eriptions of flying disc, presumably one of two. objects which fell or were dropped
+from @ plane near Horicon, Wisconsin, was recovered by a local farmer and two con-
+servation officers. Oboject wasbrought by these persons te offices of District Ate
+tormey CLARENCE TRAEGER, Dodge County, Wisconsin, where examination revealed object
+to resemble combination of bazooka welded to a white disc, approximately twenty inches
+in diameter and possibly contal ning an explosive which failed to discharge. Object
+was left in custody of Sheriff, Juneau County, Wisconsin. PBI contacted Captain
+FRANK BLAZER, CIC, Room 704, Federal Building, Milwaukee, Wisconsin, that office ad-
+Vising that all persons concerned wuld be interviewed. Col. SIMENSON desires OSI
+obtain object in question for further examipation at Shamuite AFB, aloo, that results
+of investigation conducted by Capt. BLAZER he commmicated to Chanute AFB,
+
+DISTRIBUTION J ACTION COPY FORWARDED TO | Fite STAMP
+
+OG, Chamate AFB(Action
+copy )
+
+GSI
+
+9 Hg |
+DO5-D, Chicago, Tk | A SOG, Chanute AFB
+File : ‘
+
+Lt Colonel, USAF,
+
+_ DISTRICT. COMMANDER ses
+
+\ 23 JULY 1948 Ui
+
+Declassification Authority: NND 923007

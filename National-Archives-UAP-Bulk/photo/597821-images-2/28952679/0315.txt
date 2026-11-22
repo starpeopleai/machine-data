@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T09:25:50Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3740586, "source_ctime_ns": 1793374675081011383, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28952679/0315.jpg", "source_mtime_ns": 1785696667000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28952679/0315.jpg", "source_sha256": "61090f9c9d7987b49f8119f4f64b7398cfd42fb130ff917cb9ba82efe6212b49"}
+
+===== PAGE 1 =====
+{"alpha_words": 65, "chars": 497, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Fremont, Texas 18 January 1953
+
+XI. Pascription of Incident
+
+At 2400 3 a civilian source observed a large object slowly drifting to the
+southwest for several minutes at an estimated altitudes of 600 fest.
+
+II. Discussion of Incident
+
+This report is very brief,
+III. Conclusion
+
+Insufficient data for evaluation,
+
+DOr Fal
+nw CRADM
+DECLAsa+D. AT 3 y
+“ASSIrran 2 YEAR ppp
+D Din wer 12 ERVALs.
+® 620u, 49° YEAng
+
+T53-595
+
+mn phew ttnatnd” Sane. wctecian’ s+ yortlpeeeh ont Space psethaewbuneé ster =

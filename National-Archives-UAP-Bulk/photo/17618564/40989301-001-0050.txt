@@ -1,0 +1,37 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T09:17:31Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1127222, "source_ctime_ns": 1793356064971676127, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989301-001-0050.jpg", "source_mtime_ns": 1785564597000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989301-001-0050.jpg", "source_sha256": "06160d6f54e95d14d6eef6e19861cfef336d45e8b98a22606b368651923605be"}
+
+===== PAGE 1 =====
+{"alpha_words": 261, "chars": 1648, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+s@cond cluster flight, provision was also made to release balloons if the
+train rose above 40,000 ft. The flying line in the second train was
+approximately 500 ft. long.
+
+This cluster flight is tedious to prepare and difficult to
+launch, and is a greater hazard to aircraft than the plastic balloons
+
+will be because of the great length of the cluster train.
+
+III e) Apparatus and Ecuipment.
+
+A detailed explanation is not given on the equioment of the
+Cluster Flight. However, a layout sketch is enclosed in the appendix.
+An important piece of new apparatus for this oroject is the ballast
+valve or cribbler, a photograph and drawings of which appears in the
+appendix. It consists of a special diaphragm which operates a needle
+valve. Normally the valve is closed as the diaphragm is open to the air
+before the balloon reaches the desired altitude. This allows the
+pressure inside the diaphragm to be the same as the outside pressure.
+The diaphragm is sealed electrically by the baroswitch of the flight
+radiosonée when the balloon train passes a predetermined altitude.
+Whenever the belloon train descends below this preset altitude, the
+increase of pressure on the sealed diaphragm causes the needle valve to
+be opened. The greater the excess in pressure on the diaohragm the more
+ballast there is released through the valve. Thus a prooortional restoring
+
+force is applied to the train. The ballast that is to be used is a
+
+‘ fe)
+petroleum cut boiling from 300° to 400°F with a density of about .78 end
+a minimum change of viscosity with temperature. Two different type
+
+fluids that may meet this syecification are the Army type compass fluid

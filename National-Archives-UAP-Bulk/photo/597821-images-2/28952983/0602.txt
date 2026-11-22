@@ -1,0 +1,66 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T09:27:17Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4036228, "source_ctime_ns": 1793374738994855430, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28952983/0602.jpg", "source_mtime_ns": 1785696729000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28952983/0602.jpg", "source_sha256": "62b7aabe196ab1d3e198b6dee31ba1c647be628726285d1a17e59f11ba0d18d9"}
+
+===== PAGE 1 =====
+{"alpha_words": 60, "chars": 481, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Anaweara to
+
+le
+
+26
+
+17.
+
+Soak ¥
+
+*-H>a trase of
+
+UNCCASSIFIED
+
+“4
+
+;
+suastiona conrtalnead in:
+
+i
+22% January 1953
+
+97%) hours
+
+‘$
+
+, iL ne
+
+“patacn Sbantard
+
+cortain
+. » daylight
+*gt Acnlisable
+
+Month reosember
+262 )«6Don'tt renenber
+Yes
+
+Several blooks nvay
+
+ae throuch pre = ‘io
+
+Daal’ lonow
+Dindshield
+
+‘iene
+treeniah at
+
+Le
+De
+
+ag it
+
+—__
+
+Piret thon moyed on it vot a redish tinze
+
+DOWNGRADED AT 8 YRAR INTERVALS.
+DECLASSIFIED AFTER 12 YEARS.”
+OD DIR 5200.10
+
+UNCLASSIFIED.

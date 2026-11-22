@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T09:03:12Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 11693766, "source_ctime_ns": 1793358660640576150, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-015-0002.tif", "source_mtime_ns": 1785681164000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-015-0002.tif", "source_sha256": "f49014d342d39f30231a6d98261dfc9082610aac732438b74ca0fee62a5103a4"}
+
+===== PAGE 1 =====
+{"alpha_words": 108, "chars": 798, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Declassification Authority NND 923007
+
+‘gg02D AISS UFOB aa Q. 35.0. a Dee Ss
+
+DATETIME anou? nd 2, mpont? , Calif
+, ae OM
+_AISOP ane Long Distance Telephone Call (Tie-Line)
+Comdr, 602d AISS AISOP 12 Dee 55
+1410 hours
+Tie-Line Call
+
+S/Sgt DeRudder/h198
+
+MEMORANDUM FOR RECORD:
+
+1. Telephone conversation between S/Sgt DeRudder, this headquarters , and
+M/Sgt Hodges, Detachment 1. :
+
+; 2. The undersigned call Det 1 to authorize a UFOB investigation. As the
+UFOB sighting took place within two (2) hours drive of Hamilton AFB, Det 1 was
+advised that no TDY or TPA would be authorized. It was suggested that the SOURCE
+be contacted telephonically, if possible.
+
+arise,
+
+Ronald D. DeRudder, S/Sgt, USAF
+AIC, UF0B Program
+
+3. It was requested that Det 1 utilize the tie-line if unforseen complications

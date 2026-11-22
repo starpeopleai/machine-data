@@ -1,0 +1,52 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T08:48:18Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7062405, "source_ctime_ns": 1793364359320256990, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330786876/45484701-006-007-0147.jpg", "source_mtime_ns": 1785685112000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330786876/45484701-006-007-0147.jpg", "source_sha256": "8a66b685ccd16f3f55a061e549ab7aebfcee109889f88bfc293ca659e4d71c03"}
+
+===== PAGE 1 =====
+{"alpha_words": 143, "chars": 952, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+. Do you think you can estimate the speed of the object?
+(Circle One) Yes (No)
+
+IF you answered YES, then what speed would you estimate?
+
+. Do you think you can estimate how far away from you the object was?
+(Circle One) (Yes ) No
+Lae deittiacdil
+
+IF you answered YES, then how far away would you say it was?
+
+. Please give the following information about yourself:
+
+NAME Hussley dr. George
+
+Last Name First Name Middle Name
+
+ADDRESS _ Ulil2 Avenida Pstrellita Albuquerque New Mexico
+
+Street City State
+
+TELEPHONE NUMBER __2=386k
+
+Pho tegraphor
+
+What is your present job?
+
+Age ig
+
+M
+
+Sex
+
+Please indicate any special educational training that you have had.
+
+a. Grade school . e. e. Technical school
+b. High school Gradua ted (Type)
+c. College f. Other special training
+
+d. Post graduate
+
+Date you completed this questionnaire:
+
+Photographs were taken of this object and the undeveloped film sent
+
+Life magazine.
+
+Declassification Authority: NND 923007

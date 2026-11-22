@@ -1,0 +1,47 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T08:57:01Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8717826, "source_ctime_ns": 1793363214632048039, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330784816/45484701-005-001-0045.jpg", "source_mtime_ns": 1785684638000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330784816/45484701-005-001-0045.jpg", "source_sha256": "31d6a5725211337534e727386835706220193b3e8eece63a5608bc71da20bfe9"}
+
+===== PAGE 1 =====
+{"alpha_words": 94, "chars": 711, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Major Cofield Ja 1950
+
+Item No. 1
+Colonel Gropper
+
+Classification of Documents
+
+I. This is to advise you that your lst and 3rd indorsements to basic
+letter, this office, subject: “Unconventional Type Aircraft", dated 6 April
+1950, was not stamped "CONFIDENTIAL" conforming with classification of basic
+letter,
+
+° For security reasons it is suggested that in the future letters and
+ements transmitting classified material from your office be stamped as such.
+
+“7
+x
+S
+
+indor
+
+EUGENE C. CROPPER
+Lt. Colonel, USAF
+District Cénmaulier
+
+CLASSIFIC
+A
+
+oe Ah Rid
+
+Historian
+
+~ 4D
+pa Mbt 175
+
+UNCLASSIFIED
+
+RAIN F Become Me ga
+
+astigative Support Section
+ef Special Investigations
+
+Declassification Authority: NND 923007

@@ -1,0 +1,56 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T08:57:11Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8751634, "source_ctime_ns": 1793363871656782388, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330786241/45484701-006-003-0001.jpg", "source_mtime_ns": 1785684660000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330786241/45484701-006-003-0001.jpg", "source_sha256": "05b6387f377a804bf70a461dfe251b09a8819fadcb4f30aa1b4809dc9309d497"}
+
+===== PAGE 1 =====
+{"alpha_words": 222, "chars": 1627, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+AFISIIC/Capt Henle 8060/13. Sen 64
+Sr i ee OSI COMMUNICATION oe O14 SEP 1966
+
+AFSC (FED)
+Wright-Patterson AFB, Ohio
+
+Hg USAF (AFISIIC)
+Washington, D. C. 20333
+
+REFERENCE
+
+/—_ TEMS CHECKED _ARE APPLICABLE TO ABOVE SUBJECT —S~S
+[INVESTIGATION HAS BEEN INTIATED AND REPORTS WIIL BE FORWARDED AS SOON AS possi
+ATTACHED IS REPORT OF INVESTIGATION, THIS MATTER IS CIPENDNG [Jose SSSSCSC~—~—~—~S~S~S~S~S
+REQUEST REPORT OF ACTION TAKEN. (AFR 124-4)
+
+[iF THIS IS PROCESSED UNDER AFR __—~—~=~S=S=_“REGUEST COMPLIANCE WITH PARAGEAR
+POT eR MORNYSTOATON SUMAN WAGED. UCR eG
+NOTE RESTRICTIVE LEGENDS ON FRONT OF THE ATTACHMENTS)
+
+RETURN ATTACHMENT(S) AFTER HAVING SERVED YOUR PURPOSE.
+REQUEST AN INDICES CHECK ON ABOVE SUBJECT AND INDIVIDUAL(S) LISTED IN OTHER/REMARKS.
+WHEN ATTACHMENT(S) IS/ARE REMOVED, THE CLASSIFICATION OF THIS CORRESPONDENCE
+
+WILL BE [[] RETAINED [[] DOWNGRADED TO (1 CANCELED [[] MARKED “FOR OFFICIAL USE ONLY."
+THER /REMARKS
+
+1. Attached letter is for your information and any action deemed appropriate.
+Investigation of this matter is not contemplated by this headquarters. .
+
+fe)
+
+2. A copy of the attached letter is being furnished to SAF-OL. Headquarters, OSI
+files do not reveal any record of Subject.
+
+COPIES TO ATTACHMENTS FILE STAMP AND/OR OTHER are //
+1 Ateh QELS 3S HTT
+Ltr from Subject,
+dtd 20 Aug 66, w/ey of
+envelope.
+NAME, GRADE, TITLE, SIGNATURE
+AFISITC
+
+i ae Reh ele
+an / ce » aE el | a «we
+ius |. SPARE TR YNCLASSIF]
+Chief, Spécial Activities Branch } z
+Directorate of Special Investigations (iG)
+
+OSI JAN 63 1 58 % U.S. GOVERNMENT PRINTING OFFICE: 1964~-724—
+
+Declassification Authority: NND 923007

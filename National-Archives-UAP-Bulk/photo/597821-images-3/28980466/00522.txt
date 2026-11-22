@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T09:28:17Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4230581, "source_ctime_ns": 1793381497913674881, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28980466/00522.jpg", "source_mtime_ns": 1785700649000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28980466/00522.jpg", "source_sha256": "e2728b7b908da85096b9e6bede42d40e3bf4d59578db269cb1f554b6e6b3e234"}
+
+===== PAGE 1 =====
+{"alpha_words": 114, "chars": 900, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+1. DATE
+
+2. LOCATION 12. CONCLUSIONS
+: 0 Was Bolloon
+Ge ton Holionun APE, New Moxico O Probably Balloon
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION  RessbhyBeltoes
+Wie ees ae LV; = O< Was Aircraft
+Local 2 Oo gees ine. a D Ground-Rodar Q Probably Aircraft
+GMT__EOt 2i¥ OAirVisudl~ ~°-” O Air-Intercept Radar D Possibly Aircraft
+5. PHOTOS 6. SOURCE D Was Astronomical
+: O Yes O Probably Astronomical
+0: No Civilien O Possibly Astronomical
+7. LENGTH OF OBSERVATION 8. NUMBER OF OBJECTS | 9. COURSE O Other
+O insufficient Date for Evaluation
+5 o
+G winktes one not gyliven
+10. BRIEF SUMMARY OF SIGHTING 11. COMMENTS
+Cigar-shaped obj w/fan shaped pource was questioned & stated
+tall & four pin-points of lights on | that he was in error & what was
+the side like portholes,.
+
+Sighted was an F-106 a/c. Purther
+investigation proved this to be
+corsect.
+
+ATIC FORM 329 (REV 26 SEP 52)

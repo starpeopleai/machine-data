@@ -1,0 +1,22 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T08:57:23Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8767008, "source_ctime_ns": 1793387586511741870, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28998865/0858.jpg", "source_mtime_ns": 1785748161000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28998865/0858.jpg", "source_sha256": "3d1b2945f1edfe895f3470b464827d8046ea08eedae109a7339a21d4d05c261f"}
+
+===== PAGE 1 =====
+{"alpha_words": 103, "chars": 653, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Omaha Visited By Light
+
+Late in the evening preceding August
+21, 1962, a bright light was seen in the
+sky over Omaha, Nebraska. It made its
+appearances shortly after 9 p.m. Observ-
+ers noticed such characteristics as abrupt
+forward movement and the direction of
+its disappearance each time. The weath-
+er bureau told the press that the object
+was possibly some type of aircraft, after
+they ruled out weather phenomena or
+artificial satellites as an explanation.
+When queried about the object the Stra-
+tegic Air Command had no offering to
+make toward identification of the ob-
+ject. Such a failure to identify is tanta-
+mount to inability to identify.

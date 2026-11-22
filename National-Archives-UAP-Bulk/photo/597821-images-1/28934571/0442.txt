@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T08:42:14Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6040255, "source_ctime_ns": 1793370434409275421, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28934571/0442.jpg", "source_mtime_ns": 1785689014000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28934571/0442.jpg", "source_sha256": "e2a4a6dc55860cc56f9385cb061ebad20c575d0b852640c7108b5ccf2e7b6681"}
+
+===== PAGE 1 =====
+{"alpha_words": 96, "chars": 649, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+a
+sey
+
+UN CLASSIFIED:
+
+Pace 2 Incident 33a
+
+Wane and address of observers J
+
+Occupution and hobbicss:
+
+Dairy deliveryman
+
+Conments of Interrogator relative to intelligence anc character of observer(s):
+
+NARR.TIV?, SUID [.RY:
+
+Nr. di on 16 May 1919 stated that
+he saw the object wh alled his attention to stated that
+the time was between 0900 and 0915 hours on 3 May 1919. The object was
+oblong in shapo and appeared to be about the size of a softoall. The object
+was in sight for approximately two minutes and was traveling north in a
+
+straight line leaving a grayish colored trail behind.
+
+For original report see Incident 310.
+
+/
+‘
+
+UNCLASSIFIED

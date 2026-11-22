@@ -1,0 +1,74 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T09:26:00Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3752057, "source_ctime_ns": 1793373762872699670, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28948541/0807.jpg", "source_mtime_ns": 1785696916000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28948541/0807.jpg", "source_sha256": "e52ec1eaef3ee5bc4ea87988165b65b44ceee8ec98337c26e2395885157f1ef8"}
+
+===== PAGE 1 =====
+{"alpha_words": 103, "chars": 868, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+i
+
+(
+
+IV. BALLOON DATA
+
+21. WERE BALLOONS RELEASED IN AREA?
+22, TIME SICH SCHEDULED BALLOON
+
+) 23. POSSIBLE BALLOON LAUNCH SITES DOWNWIND OF SIGHTING:
+
+CaYos "£3 No
+
+ee teen ponenser red
+
+/ “~ Ji nutes
+
+silted aie EES | -Nighted? [ Dsseriva
+location Type Launching Agency} Yes} No Lignting —
+} ff) of Ps
+Ce
+d.
+
+{attach overlay)
+
+V. EVALUATION
+
+i 21, EVALUATION OF SOURCE:
+
+C_] Excellent
+
+C"} Good
+C}¥air
+{—) Poor
+
+(J) Unreliable
+(_) Extremely Doubtful
+
+(C_] Hoax
+
+25— PINAL BVALUATION:
+
+22, D&TAILS OF REPORT:
+
+CT Good
+ti }Fair
+(—] Poor
+[| Insufficient to Byvalnate
+
+(“J Was Balloon
+[iprobably Balloon
+(“1 Possibly Balloon
+
+Cj)Was Aircraft
+[-]Probably Aircraft
+["]Possibly Aircraft
+
+(1 Was Aatronorical
+(—] Probably A: --nomical
+[] Possibly Asi cuncmical
+
+C") Other: Pen
+
+[—] Insufficient Data For Bvaluation
+
+Cataknown
+
+“ROPE Vat Form 33], (1d aug 52)
+
+Shy COMMENTS

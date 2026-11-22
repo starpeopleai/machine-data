@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T09:24:38Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3460554, "source_ctime_ns": 1793371370691477283, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28937938/0691.jpg", "source_mtime_ns": 1785688730000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28937938/0691.jpg", "source_sha256": "70a8d9bb3e8bd84d876e954acf85c1c8ec4e0b38863ac920c2d8639349c798a5"}
+
+===== PAGE 1 =====
+{"alpha_words": 61, "chars": 481, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+HEADQUARTERS THIRD ARMY
+Fort MoPhorson, Georria :
+
+: 29 Juno 1950
+
+O _  MACI=S-360.53
+SUBJECT: Unconventional Object in Air
+
+TOs Canmanding General
+Air Materiel Camand
+Wright-Patterson Air Force Base
+Dayton, Ohio
+
+Attentions iCI (Control Noe A-1917)
+
+Inclosed herewith is information ro flyins objects sishted in
+Liobile, Alabamae
+
+FOR TES COMMANDING GENERAL:
+
+1 Incl: JOHY LigiDS
+
+. S/T dtd 26 Jun 50, Colonel, csc
+w/newspaper clipping, AC of S, Ge2
+(ry * dtd 25 Jun 50
+
+2.5
+a
+)

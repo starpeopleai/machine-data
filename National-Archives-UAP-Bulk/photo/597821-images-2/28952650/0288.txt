@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T09:26:09Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3778417, "source_ctime_ns": 1793374668905685928, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28952650/0288.jpg", "source_mtime_ns": 1785696812000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28952650/0288.jpg", "source_sha256": "558761a5320e8d89642e3994f105fbae68fbb77d24e95866c6885eae8217b814"}
+
+===== PAGE 1 =====
+{"alpha_words": 57, "chars": 439, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Marysville, Tennessee . 15 January 1953
+
+I. Description of Ircident
+
+At 0145 3 a civiltan source observed a balloon shaped object slowly
+decending towards the west for 30-1,0 rimtes.
+
+II. Discussion of Incident
+
+During this pericd, there werg many flights of upper air research balloons
+crossing this area.
+
+III. Conelusion
+
+Possibly a ballccn.
+
+NGRADED ar o
+aol ASSP ‘rap Al “yr R 12 Wee >
+Th ae at ALS;
+
+As
+
+L5 | 153-3695
+
+UNCLASSIFIED

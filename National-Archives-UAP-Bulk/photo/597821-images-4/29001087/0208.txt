@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T08:41:00Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5713193, "source_ctime_ns": 1793388406692925466, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/29001087/0208.jpg", "source_mtime_ns": 1785747946000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/29001087/0208.jpg", "source_sha256": "ba47174eff509f2e8add0786fe52a0c08b0a6cf9bec38868d9eba5ec527e4f6e"}
+
+===== PAGE 1 =====
+{"alpha_words": 57, "chars": 451, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+DEPARTMENT OF THE AIR FORCE
+
+STAFF MESSAGE BRANCH
+UNCLASSIFIED MESSAGE |
+
+INCOMING
+
+AF IN: 58053 (13 Jun 63) i Pg eet 2
+
+1. MERINT
+
+2. USS CHAUTAUQUA, OCEAN STATION VICTOR
+
+3. ROUND BRIGHT WHITE WITH RED TRACE
+
+4, 24.04N 164. 00E |
+
+5. 13/16452
+
+6. SHIFTED LOW ASCENDING RAPIDLY
+
+Je UNKNOWN
+
+8. UNKNOWN
+
+9. UNKNOWN
+| 13. UNKNOWN
+1 REMARKS: NO EVALUATION AT THIS TIME. ee | a
+q ae NOTE: ADV CY TO NIN, XOPX & DIA/CIIC
+a _$3/18007 100M thn wi. fe gh
+/
