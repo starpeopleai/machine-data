@@ -1,0 +1,62 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T00:52:57Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1731969, "source_ctime_ns": 1793389289340293994, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302538875/00818.jp2", "source_mtime_ns": 1785808174000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302538875/00818.jp2", "source_sha256": "8df763e6fb4335c62f435d94f350eb109bb7837edbd9dc2790ebccdbceb67bb9"}
+
+===== PAGE 1 =====
+{"alpha_words": 113, "chars": 843, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+‘ Pat F ot)
+
+1. DATE - TIME GROUP
+13 May 1965 1/01302
+
+2. LOCATION
+
+Orlanco, Flerida
+
+3. SOURCE
+Jivilian & lilitary
+
+4. NUMBER OF OBJECTS
+One
+
+10. CONCLUSION
+AIRCRAFT
+
+SPEED AND DURATION COVPLICTEG. No data presented to indicate
+the object was NOT an aircraft.
+
+a
+Oeres
+
+5. LENGTH OF OBSERVATION
+
+10 Minutes
+
+6. TYPE OF OBSERVATION
+
+Ground-Visua 1
+
+7. COURSE
+
+West tha East
+
+8. PHOTOS
+
+O Yes
+XO Ne
+
+9. PHYSICAL EVIDENCE
+
+O Yes
+
+XAIXNe
+
+11. BRIEF SUMMARY AND ANALYSIS
+
+Two bright reddishn-orange lights, Attracted attemtion of
+
+ooserver by humming sound (Motor type’). Initial impression
+that object was one light, not until @mject got closer were
+two visible. Object approached observer from Southeast, flq
+bverhead turned and flew away to Northeast, travelling very
+
+FORM 5
+FTD sep 63 0-329 (TDE) Previous editions of this form may be used.

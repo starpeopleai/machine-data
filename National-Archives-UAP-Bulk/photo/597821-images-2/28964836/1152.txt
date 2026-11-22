@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T00:57:11Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3917659, "source_ctime_ns": 1793377664200881665, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28964836/1152.jpg", "source_mtime_ns": 1785696650000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28964836/1152.jpg", "source_sha256": "97bd81dea3a9af5affb8a8f516edf8ebaa66d14b43dfe82f12f4d427ff8bf379"}
+
+===== PAGE 1 =====
+{"alpha_words": 88, "chars": 587, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+~
+ws, J) Oo
+ar 3 ae
+ah Ne ee
+3 e Ds
+Ga
+a Via ieee
+; Sots {
+ae 7%
+, wv)
+* (
+RDEe9
+
+~ ‘DE RJEXFT 24A Be ea
+ee :
+> , ’ Lx if Pe ; . ~
+FM COMDR S4TH AIR DIV DEFSPEPPERRELL AFS NF eS Ba: |
+' TQ RYEDEN/COMDR ADC ENT AF COLORADO SPRINGS ae 3 |
+- RJEDWP/COMDR ATIC WRIGHT PATTERSON AF3 OHIO
+
+"7 wpesas Coe | |
+00 RJEDEN RJEDWE- RUEPHO | : \
+
+> ““RJEPHQ/DIR OF INT HQ USAF WASHINGTON 25 DC
+" ZEN/COMDR NEAC
+
+“© ADOAO 298. REF OUR MSG ADOAO 297. NO FURTHER INFORMATION REC'D THIS ~ O 2377+
+-HEADQUARTERS WHICH WILL ALLOW CORRELATION WITH ANY KNOWN AIRCRAFT 3
+> BT
+
+"43/29332 FEB. RJEXFT .
+aay ‘ F

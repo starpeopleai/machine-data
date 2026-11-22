@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T01:01:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4355494, "source_ctime_ns": 1793386244034419594, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28995354/0586.jpg", "source_mtime_ns": 1785748367000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28995354/0586.jpg", "source_sha256": "7510ad74e4f639a77f0c96915a15c1b31caa1237e8a48eb5bb3879218cc60200"}
+
+===== PAGE 1 =====
+{"alpha_words": 162, "chars": 1178, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+ee a
+
+\ wai
+1. DATE 2. LOCATION ; 12, CONCLUSIONS
+27 Oct 61 Dayton, Ohio GO Prabolly Bllcon
+3. DATE-TIME GROUP 4, TYPE OF OBSERVATION O Possibly Balloon
+Local 222) EXxGround- Vi sual D Ground-Rador q Bobetly Linesen
+GMT 2803254 D Air Visuol D Air-Intercept Radar C1 Possibly Aircraft
+“5S. PHOTOS 6. SOURCE QO Was Astronomical
+O Yes O Probably Astronomical
+Q:Ne Cte4 iso O Possibly Astronomical
+7. LENGTH OF OBSERVATION @. NUMBER OF OBJECTS | 9. COURSE 0 Other
+GO} Insufficient Data for Evaluation
+Q Unknown
+10, BRIEF SUMMARY OF SIGHTING= objts appeering as VW. COMMENTS Probability of these objts being
+bluish-white lights proceeding at same rate of |insects was ruled out due to sighting
+speed fm NW-SE. D4 isappeared in hazy sky. taking place in late Oct. Description of
+Observed at about 70° appearance of objts oe not unlike that fo3
+high flying jet a/c. Altitude, distance,
+wind direction and fact that car windows
+were probably up could account for absence
+of noise. Fact that sighting occurred in
+vicinity of Wright-Patterson AFB, a rela-
+tively dense air traffic area tend to subd
+tiate this conclusion.
+
+eoaks
+
+ATIC FORM 329 (REV 26 SEP $2)

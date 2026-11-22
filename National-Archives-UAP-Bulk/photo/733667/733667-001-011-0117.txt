@@ -1,0 +1,72 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T00:59:54Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4072031, "source_ctime_ns": 1793394207078719907, "source_file": "National-Archives-UAP-Bulk/photo/733667/733667-001-011-0117.jpg", "source_mtime_ns": 1785567336000000000, "source_rel": "National-Archives-UAP-Bulk/photo/733667/733667-001-011-0117.jpg", "source_sha256": "1666950fd56380b3039fb2eb87e42dbfe3fe4f7a7a2b3b663511c2df703560e5"}
+
+===== PAGE 1 =====
+{"alpha_words": 619, "chars": 4270, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Federal Agencies Digitization Initiative Still Image Working Group — August 2010
+
+temperature may also be necessary for older monitors to reach an appropriate brightness, as long as neutrals don’t
+appear too blue when compared to neutral hardcopy under the specified illumination.
+
+Monitor Calibration
+
+In order to meet and maintain the monitor settings summarized above, we recommend using LCD monitors designed
+for the graphic arts, photography, or multimedia markets.
+
+A photosensor-based color calibrator (colorimeter or spectrodensitometer) and appropriate software (either bundled
+with the monitor or a third party application) should be used to calibrate the monitor to the aims discussed above.
+This is to ensure desired color temperature, luminance level, neutral color balance, and linearity of the red, green,
+and blue representations on the monitor are achieved.
+
+If using an ICC color managed workflow (see section on color management), an ICC profile should be created after
+monitor calibration for correct rendering of images.
+
+The monitor should be checked regularly and recalibrated when necessary.
+
+Using a photosensor-based monitor calibrator, however, does not always ensure monitors are calibrated well. Ten
+years of practical experience has shown calibrators and calibration software may not work accurately or
+consistently. After calibration, it is important to assess the monitor visually, to make sure the monitor is adjusted
+appropriately. Assess overall contrast, brightness, and color neutrality of the gray desktop. Also, evaluate both color
+neutrality and detail rendering in white and black areas. This can be done using an image target of neutral patches
+ranging from black to white and saved in LAB color mode (since LAB does not require an ICC profile and can be
+viewed independently of the color managed process). In addition, it may be helpful to evaluate sample images or
+scans of targets — such as the NARA Monitor Adjustment Target (shown below) and/or a known image such as a
+scan of a Kodak grayscale adjusted to the aimpoints (such as the NARA aimpoints 8-8-8/105-105-105/247-247-247)
+described below.
+
+rw) ne aeuems §©When the monitor is adjusted and calibrated appropriately, the NARA
+
+Monitor Adjustment Target
+
+Monitor Adjustment Target (shown at left) and/or an adjusted image of a
+Kodak gray scale will look reasonably accurate. Images with ICC color
+profiles will display accurately within color managed applications, and
+i SRGB profiled images should display reasonably accurately outside color
+managed applications as well. The NARA Monitor Adjustment Target and
+7 shumice: te whibe, Chr gray. arad two Diack shades i i ii} l
+eens § the cray scale aimpoints are based on an empirical evaluation of a large
+Slee ee eeeeeeres number of monitors, on both Windows and Macintosh computers, and —
+t=}... nes § represent the average of the group. Over the last fifteen of years calibrating
+and adjusting monitors in this manner, we have found the onscreen representation to be very good on a wide variety
+
+of monitors and computers.
+
+1h shades fem whvte (RO CO BM wo blak POCA Be
+
+Quantifying Scanner/Digital Camera Performance
+
+Introduction
+
+A key element in our approach to developing guidelines is to describe and document a common foundation of
+quality metrics for investigating and evaluating digital objects created through digital imaging.
+
+The first table in this section (Part | — Taxonomy of Digital Imaging Performance) provides just that - a taxonomy
+of imaging performance. This hierarchical classification demonstrates the connections among related [existing]
+imaging characteristics, and provides context and a framework for the array of commonly used terms and the
+appropriate imaging standards available for the evaluation of digital image files.
+
+The additional five tables in this section (Part II — Evaluation and Quality Control of Digital Imaging) build upon the
+framework set forth in the first table and provide operational metrics and criteria for evaluating digital image
+characteristics for purposes of investigation or, when used with specific requirements, or for quality control
+purposes.
+
+Technical Guidelines for Digitizing Cultural Heritage Materials: Creation of Raster Image Master Files ra

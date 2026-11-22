@@ -1,0 +1,50 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T01:19:48Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8289773, "source_ctime_ns": 1793386962311631144, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28997932/0019.jpg", "source_mtime_ns": 1785748553000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28997932/0019.jpg", "source_sha256": "38baebd8dd5d6af8ba95308a55d7fe71f92b8d5a0a4d51bcdc19c8e8c42b4f1f"}
+
+===== PAGE 1 =====
+{"alpha_words": 249, "chars": 1539, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Page 2
+8. IF you sow the object at NIGHT, what did you notice concerning ihe STARS and MOON?
+8.1 STARS (Circle One): 8.2 MOON (Circle One):
+oa. None a. Bright moonlight
+. A few b. Dull moonlight
+c. Many ¢. No moonlight — pitch dark
+d. Don't remember d. Don't remember
+9. The object appeared:
+(Circle One): (@} Asa light b. Shiny ¢. Dark d. Don’t remember
+10. If it appeared as a light, was it brighter than the brightest ‘stars?
+11. Did the object: (Cirele One for aach question)
+a. Appear to stand still at any time? Yos hia Don't Know
+b. Suddenly speed up ond rush away at any time? Yos No Don’t Know
+¢. Break up into perts or explode? Yos No Don’t Know
+d. Give off smoke? Yous Ne Don’t Know
+e. Change brightness? : Yas No Don’? Know
+f. Change shepe? Yas Ma Don't Know
+g. Flosh or flicker? Yas No Don't Know
+h, Olsappear ard -ecrpeer ? You Mo Don't Know
+12. Did the object move aenhind somath!ig of any time, partievlorly a sloud?
+(Cirela Ona): Yos Mo Don’? Know, iF you enswored YES, then tal! what
+It moved behind:
+13. Did the object move in front of something at any time, particularly a cloud?
+(Circle One): Yes No Don’? Know, iF you onswared YES, then tell what
+
+in front of:
+
+14. Did the object appear; (Circle One): a.’ Solid b, Transparent c, Vapor
+
+d. Don’t Know
+
+15. Did you observe the object through any of the following?
+
+a, Eyeglasses Yes No a. Bineculurs Yes
+b. Sun glasses Yes No < i. Telescope You
+c. Windstimid Yor he 3. thesadolijes Yes
+
+ad
+
+Ne
+No
+Ne
+
+4. Windur sige 19% No i. Other
+
+ot oe Ath OS ee we Se ee Oe tt —

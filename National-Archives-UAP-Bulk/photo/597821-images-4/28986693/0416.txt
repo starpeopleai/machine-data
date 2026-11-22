@@ -1,0 +1,43 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T01:18:14Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8027048, "source_ctime_ns": 1793383304507996469, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28986693/0416.jpg", "source_mtime_ns": 1785748085000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28986693/0416.jpg", "source_sha256": "38aab978a57958cd7ed8726bb3bdf7d044013f029adca98a031c0eea336d82e3"}
+
+===== PAGE 1 =====
+{"alpha_words": 101, "chars": 827, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+M.S, Themistocles (Greek vesself ROJECT 10073 RECORD CARD
+
+XNe_
+7. LENGTH OF OBSERVATION
+
+@. NUMBER OF OBJECTS | 9. COURSE
+
+1. DATE 2 LOCATION 12, CONCLUSIONS
+D Wes Balloon
+25 Apr 60 N of Mandinga, Panama O Probably Balloon
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION | ne ee
+i ‘ Q Was Aircraft
+id 3) Ground- Vi suel O Ground-Reder fa Probably Aircraft
+GMT 24 23152 0 Air Visual O Air-intercept Redar O Possibly Aircraft
+5. PHOTOS 6. SOURCE 0 Was Astronomical
+' 0 Yes Hi Probably Astronomical Meteor
+Civilian O Possibly Astronomical
+Q
+Oo
+Oo
+
+2 sec
+
+one SW
+
+Other
+insufficient Data for Evaluation
+newn }
+
+10. BRIEF SUMMARY OF SIGHTING
+
+V1. COMMENTS
+
+Large, teardrop-shaped object with blue nose, Probably a meteor.
+
+yellow middection and red tail with yellow
+sparks trailing. Had fiery appearance.
+
+ATIC FORM 329 (REV 26 SEP 52)

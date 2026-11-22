@@ -1,0 +1,44 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T00:55:01Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3566087, "source_ctime_ns": 1793375929397224309, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28958334/1326.jpg", "source_mtime_ns": 1785696421000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28958334/1326.jpg", "source_sha256": "0f15c7c8516c15548c4c31724f8040dce5e7c59de51ddfe6b6c1c74c8c25b673"}
+
+===== PAGE 1 =====
+{"alpha_words": 336, "chars": 2023, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+becok otelee, ania "Ta? Ft
+\, 4 f As Vi Ky 4 4
+
+( ig ‘ lan
+. pee ’ ; , . wf WF yh A
+NOTE ON REFLECTION AND DIFFRACTION FROM ICz CRYST: " get ti a
+
+- Charles F. Squire, The Rice ap bed , Houston, Texas
+(Received June 9, i
+
+‘
+
+Observations of the reflected light from ice crystals in the sky have
+been made for centuries and such natural phenomenon as "mock suns" are well
+known.? on Feoruary 6, 1952, I observed and repeatedly photographed the
+reflection of sunlight from ice crystals while flying in an airplane at 12,000
+ft, over the mountain country of Tennessee. The time of day was approximately
+noon, and it was cold. The ground below was visivle through the blue haze
+caused by the ice crystals. ‘The reflected image of the sun was so intense
+that the camera speed was 1/200 sec and the aperture wes nearly closed. The
+dark green of the mountain trees and a stream in a valley can te seen in Fig. l.
+
+The diffraction ring around the central image is just what one would
+expect for light coming through these fine crystals. It is interesting to
+note that the image and diffraction ring have en elliptical shape, and I
+confess that I do not know why this is so. Certainly the ice crystals have
+their flat surfaces all normal to the vertical. The assumption that a wind
+could produce an ordering orientation of the crystals in the horizontal
+plane would allow one to suppose a different diffraction spacing in the x
+direction than in the y direction. This would give an elliptical diffraction
+
+ring, but I do not understand why the central imaze should be out of round.
+
+Tne spot of light would sometimes be close to the aircraft (it appeared
+large) and would sometimes ve far away (it appeared small). The image kept
+the angle of reflection of the sun's rays, and this was checked repeatedly
+when the image coincided with the sun's reflection from a body of water on
+the ground below. A change of density of the ice crystals would cause the
+
+apparent shift in distance. Since the spot of light kept pace with the aire

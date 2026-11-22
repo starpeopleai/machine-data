@@ -1,0 +1,45 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T01:15:17Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7208182, "source_ctime_ns": 1793380803635042235, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28978481/0188.jpg", "source_mtime_ns": 1785700979000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28978481/0188.jpg", "source_sha256": "aaabf8e423efd463c6f2d6dafb9dffbca3836aea28f2527660b59275da3712ef"}
+
+===== PAGE 1 =====
+{"alpha_words": 61, "chars": 502, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+bCAY CLEAR)
+
+5, NC 4329
+
+6e Ae N/A
+
+5 EY 1 ST LT, USAF
+328TH FIS (INTERCEPTOR PILOT)
+
+7. Ay ON TOP VFR AT 49 MI
+
+a SS wu!
+SURFACE 219/12
+
+PAGE THREE RJWZDM 93A
+
+320/05
+es
+180- 916/11
+160- 0-4 va
+208- sthvec
+Lee (a7
+322- 20/18
+ae ESE
+490- 129/15
+
+si
+500- 348/82
+cong NE.
+129- 930/B2
+nes .
+D. UNLIMITED
+E.
+F. | :
+8, SEA WEATHER RELEASED BALLOON AT 99/1892 EST, HEIGHT OF
+
+BALLOON T TIME OF INCIDENT AND POSSIBLE LOCATION OVER
+LOWER PUGET-SODND
+
+9.
+4%. INTERCEPT ED_AT MAXIMUM POWER TO 52 MI MAINTAINING

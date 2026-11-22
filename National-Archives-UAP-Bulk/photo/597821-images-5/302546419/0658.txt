@@ -1,0 +1,14 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T00:45:11Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1016872, "source_ctime_ns": 1793390091486366380, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302546419/0658.jp2", "source_mtime_ns": 1785808292000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302546419/0658.jp2", "source_sha256": "d85075c28b2179c01ea0e25cde7574f155a6e972006357f30468f83a3239c1dd"}
+
+===== PAGE 1 =====
+{"alpha_words": 78, "chars": 511, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+1 LRN STAT ERNE EE HTT TESTE Sli reeneteshteabeeaeteaaneni oanauae nan anmadianiaanstinanoeaeeiaenaed sae
+
+- MEMO FOR THE RECORD 10 Dec 65
+DAYTON DAILY NEWS, —e |
+Mr WM ented ‘to noe the latest news on the sighting seen on Acme , Pennsylvania
+location. Major Quintanilla told hin that there were no Local reports,
+onty £elephone calls. He told him-that we ees contacted Oakdale Radar
+Bite nd there wes no caditiodal information. Masor tola lim thatthe:
+
+highway patrol went out to the area, but Pound nothing.

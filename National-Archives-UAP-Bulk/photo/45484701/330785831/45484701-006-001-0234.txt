@@ -1,0 +1,19 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T01:19:23Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8232889, "source_ctime_ns": 1793363779157820891, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785831/45484701-006-001-0234.jpg", "source_mtime_ns": 1785684871000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785831/45484701-006-001-0234.jpg", "source_sha256": "077baf4d6773ba8caea3c3fa5e02cabb12460199a4fc8706f90733b0eafa5d48"}
+
+===== PAGE 1 =====
+{"alpha_words": 36, "chars": 201, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+edoousy golisolilecetd
+
+‘aa
+hy wie nee he
+-
+
+»” Io Ysizodsuae vil
+
+1yva
+a Jat
+
+\ Yee fap hn 2 ee Re a art ip ad | Ps OP ale Hoe ot ae we ee me
+ee se ae 2 a hg :
+
+Declassification Authority: NND 923007

@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T01:19:35Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8244515, "source_ctime_ns": 1793379959863167541, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28973949/0495.jpg", "source_mtime_ns": 1785700891000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28973949/0495.jpg", "source_sha256": "f1bd0f14add3070d7d1424b8cc683030ad1ea7ac0d535a136a1d0174fd38acce"}
+
+===== PAGE 1 =====
+{"alpha_words": 135, "chars": 1002, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+nat PROJECT: 10073 RECORD CARD
+
+<a eee
+
+1. DATE ‘ 2. LOCATION 12. CONCLUSIONS
+ER : , 0 Wes Bolleen |!
+6 November 1957 Tampa, Florida O Probebly Belleon
+3. DATE-TIME GROUP | 4. TYPE OF OBSERVATION G Possibly Belleon
+— . | %&Ground-Vi suel O Ground-Reder el
+GMT 07/0215Z 6 Rivyecylars C Airintereopt Roeder | Possibly Aircraft
+see 6. SOURCE © Wes Astronemicol
+OG Yes O Probebly Astronomical
+XIX No Civilian D Possibly Astreonomicel
+7. LENGTH OF OBSERVATION 8. NUMBER OF OBJECTS | 9. COURSE 0 Other
+0 Insufficient Dete fer Evaluation
+Oo nk nown
+2 - * minutes one East
+10, BRIEF SUMMARY OF SIGHTING 11. COMMENTS
+Orange ball which assumed rocket The description is of an. F-100
+shape, exceptionally long. Had tail: seves fighter.
+fins, tubular fuselage, swept dubby
+wings just ahead of amidships. Front
+third of obj had one large Light &
+several small lights. Rear quarter
+of obj had one red & one green light
+On tail fins, Loud hum similar to
+jet engine but deeper in tone,
+
+ATIC PORM 329 (REV 26 SEP $2)

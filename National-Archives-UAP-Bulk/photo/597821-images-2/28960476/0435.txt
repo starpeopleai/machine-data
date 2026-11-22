@@ -1,0 +1,21 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T00:55:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3662590, "source_ctime_ns": 1793376401312173137, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28960476/0435.jpg", "source_mtime_ns": 1785696977000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28960476/0435.jpg", "source_sha256": "3767c68c864436d9ff210a7093ab922f531114cc379c12a9e7e99fbddd7aa4ee"}
+
+===== PAGE 1 =====
+{"alpha_words": 146, "chars": 946, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Gn 7 December 1954, ATIAE-5 was visited by Dr. Taylor end Mr. Castillo
+fron the C & N Laboratory, WADC. They -visually examined the meteorite
+andi agreed with Dr. Robinson's original evaluation. Mr. Castillo stated
+he has been monitoring effects of tonespheric propagation on He radio
+signals through an oscilloscope for the past two years. He has been
+especially interested in the returns he has teen receiving fron meteorite
+trails. He continued that during the month of November, 1954, there had
+been a mark increase in the meteorite activity. The attached photograph
+jp one that he obtsined on the hight of 21 Oct 1954 which vividly depicts
+a fair size return of a meteorite trail. Mr. Castillo operates stavion
+Wa¥ in Springfield, Ohio. He concluded that during the week of the
+Alabama incident, he received unusual amounts of meteorite returns on his
+graph.
+
+One set of the meteorite nhotographs were viven to Dr, Taylor
+
+vpon his requeste

@@ -1,0 +1,24 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T01:02:06Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4423668, "source_ctime_ns": 1793382296109103983, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28983100/0041.jpg", "source_mtime_ns": 1785701104000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28983100/0041.jpg", "source_sha256": "720e7388e8fa5e633b29f23f4cb560611076a871b4e1a5d2726e0d531d26f163"}
+
+===== PAGE 1 =====
+{"alpha_words": 80, "chars": 640, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+ee - allanr
+
+\. DATE 2. LOCATION 12. CONCLUSIONS
+O Was Balloon
+: eso TT Sash pa OG Probably Belloon
+= : : > hig A
+3. DATE-TiMe GROUP 4. TYPE OF OBSERVATION Beers Balleery
+Lacal OD Ground-Vi sual 0) Ground-Radar 5 BeSuGuig Aiccratt
+Gite wrong a a QO Air Visual D Air-Intercept Radar |9 Possibly Aircraft
+5. PHOTOS 8. SOURCE O Was Astronomical
+O Yes O Probably Astronomical
+O No Martian O Possibly Astronomical
+7. LENGTH OF OBSERVATION 8 NUMBER OF OC3SJECTS | 9 COURSE O Other
+O- Insufficient Data for Evaluation
+PRR reg eat ; QO Unknown
+10, BRIEF SUMMARY OF SIGHTING 11. COMMENTS
+
+| ATIC FORM 329 (REV 25 SEP 52)

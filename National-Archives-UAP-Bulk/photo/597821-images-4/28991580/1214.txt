@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T01:18:03Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7957499, "source_ctime_ns": 1793385002674283483, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28991580/1214.jpg", "source_mtime_ns": 1785748127000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28991580/1214.jpg", "source_sha256": "54eb515c2339141caf807cbdd5e82d8b82de03810ac93a46ff4f8a65f00f8a87"}
+
+===== PAGE 1 =====
+{"alpha_words": 78, "chars": 554, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+WSN
+
+ee Tee PR
+A oe on
+Bec: :
+
+¥
+
+(ob) Angle of elevation and asimuth of the object(s) when first
+Observed.
+} ive /
+i 7
+4
+: (c) Angle of elevation and azimuth of object(s) upon disappearance:
+(a) Description of flight path and maneuvers of object(s):
+j (e) Manner of disappearance of object(s): ttn be fou fy RID tn
+:
+: (f) Length of time in sight: SO. prAtts
+(3) Manner of observation:
+F,
+(a) Use one or any combination of the following items:
+_ Ground-vis air-visual, ground-electronic, air-
+: electronic. (If electronic, specify type of radar.):.
+j
+|

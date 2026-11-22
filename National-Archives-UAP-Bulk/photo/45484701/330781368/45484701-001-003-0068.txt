@@ -1,0 +1,48 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T01:12:53Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6806452, "source_ctime_ns": 1793361771422798002, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330781368/45484701-001-003-0068.jpg", "source_mtime_ns": 1785685138000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330781368/45484701-001-003-0068.jpg", "source_sha256": "ed1c88917aff98430b848014f706d209fc146b941d025ddab779ae5be7b535fa"}
+
+===== PAGE 1 =====
+{"alpha_words": 72, "chars": 533, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+HEADQUARTERS UNITED STATES AIR FORCE FILE NO.
+THE INSPECTOR GENERAL Climed 1 February 19h9
+OFFICE OF SPECIAL INVESTIGATIONS :
+
+REPORT MADE BY
+REPORT OF INVESTIGATION detain
+
+REPORT a AT
+
+PERIOD
+
+OFFICE OF ORIGIN
+
+li
+
+STATUS
+
+CHARACTER
+
+REFERENCE
+
+CLASSIFICATION CANCELLED : vis
+BY AUTHORITY OF THE DIRECTUR UF SVvEC INV
+
+wit WV Tata lw Am fant
+
+Historian EC =o 1875
+
+ie
+
+DISTRIBUTION ACTION COPY FORWARDED TO FILE STAMP
+
+APPROVED
+
+2 ache Ue
+
+‘CCS. DISTRICT COMMANDER
+
+>
+
+AFCS! FORM
+23 JULY 48
+
+Declassification Authority: NND 923007

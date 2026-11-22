@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T01:21:53Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8650638, "source_ctime_ns": 1793383297683926326, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28986678/0403.jpg", "source_mtime_ns": 1785748497000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28986678/0403.jpg", "source_sha256": "5ba44ed86d3e92b9ac650c955cfc7be44215398020321ac16fd7c1f71ad24b81"}
+
+===== PAGE 1 =====
+{"alpha_words": 136, "chars": 1044, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD et eee
+
+1. DATE 2. LOCATION 12, CONCLUSIONS —
+D Wes Balloon
+21 Apr 60 Guantanamo Bay, Cuba QO Probably Balloon
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION O Possibly Bolloon |
+- * QO Was Aircraft
+Loco! ___.1000-1200 © Ground-Vi sual O Ground-Redor Q Probobly Aircraft
+GMT ' QO AirVisual O Air-Intereept Redar O Possibly Aircrafts
+5. PHOTOS 6. SOURCE 0 Was Astronomical
+CKY es O Probably Astronomical
+O Ne Military | O Possibly Astronomical
+7. LENGTH OF OBSERVATION ®. NUMBER OF OBJECTS | 9. COURSE {i Other rob Reflection | —
+O Insufficient Data for Evaluation
+10. BRIEF SUMMARY OF SIGHTING 11. COMMENTS
+
+Three photos showing disc-shaped object in wet Analysis of the photo indicated that it
+left corner. Camera was aimed toward SW. Source| was probably exposed inside a building
+
+did not notice object when he took the photo- and through a glass window. The object
+graph.
+
+is probably a reflection on the window
+from a light hanging from the ceiling.
+
+(p oT 7K! PEYSOALS Peed men Fe ce)
+
+ATIC FORM 329 (REV 26 SEP 52)

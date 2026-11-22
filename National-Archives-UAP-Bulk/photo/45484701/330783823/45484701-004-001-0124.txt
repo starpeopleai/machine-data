@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T01:11:13Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6316059, "source_ctime_ns": 1793362846442075330, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330783823/45484701-004-001-0124.jpg", "source_mtime_ns": 1785685063000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330783823/45484701-004-001-0124.jpg", "source_sha256": "99121e238d0ada4868e1c8a4c53c713a074b2c9aa25a4243f7b63165bbb6d7fe"}
+
+===== PAGE 1 =====
+{"alpha_words": 68, "chars": 475, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+@ ®
+
+DEPARTMENT OF THE AIR FORCE
+HEADQUARTERS UNITED STATES AIR FORCE
+WASHINGTON
+
+THE INSPECTOR GENERAL, USAF
+1ST DISTRICT OFFICE OF SPECIAL INVESTIGATIONS
+WESTOVER AIR FORCE BASE, MASSACHUSETTS
+
+poprenmne toed il prod LAR bt thong Sh
+CLASSIFICATION CANCE LIE. D PM SNe ety! cant at AMS 44:
+BY AUTHORITY OF THE Pet 2 Fi
+
+KURT K. KUNZE, ‘Cant. USAF
+—Histerian
+8 DEC 1975
+
+DATE
+
+pauenemnenens . sand et te ttt a
+
+py
+
+Se ee
+
+UNCLASSIFIED
+
+Declassification Authority: NND 923007

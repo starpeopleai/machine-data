@@ -1,0 +1,45 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T01:03:16Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4644335, "source_ctime_ns": 1793354314583344494, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989192-001-0073.jpg", "source_mtime_ns": 1785564263000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989192-001-0073.jpg", "source_sha256": "bfe94be3de88dca42bd318ccfbd73b2875bf512c482ca6d562ab20073ab040f1"}
+
+===== PAGE 1 =====
+{"alpha_words": 165, "chars": 1165, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Los Alamos
+
+NATIONAL LABORATORY
+
+Materials Management Division
+MAT-2, Property and Transportabon, MS P274 ; J
+Los Alamos, New Mexico 87545
+505) 667-1952, FTS 843-1952
+AX 667-1955
+
+June 1, 1993 \
+i-
+Stanton Friedman Ove
+79 Pembroke Crescent a
+
+Fredericton, New Brunswick
+Canada E3B2V1
+
+Dear Stanton:
+
+On behalf of the Club 1663 Board of Directors, I wanted to extend our thanks and
+appreciation for your presentation on Tuesday, May 25, 1993 at the Los Alamos National
+Laboratory. I received many positive comments from theOVer-capacity crowd) Their interest in
+your topic was evident as more than half the audience remained for a half hour of questions after
+your presentation.
+
+I've enclosed a copy of an article from the front page of the Los Alamos Monitor, Indeed,
+Stephen Shankland did Stay throughout your presentation!
+
+Thank you again for including Los Alamos in your New Mexico visit. I'm sure I speak for
+
+many at the Laboratory in wishing you well with your persistent and exciting research on flying
+saucers.
+
+Sait REET /
+MMbhu ae ee ere
+
+Debbie Tolmie
+Club 1663 Board of Directors
+
+An Equal Opportunity Employer/Operated by the University of Calitomia

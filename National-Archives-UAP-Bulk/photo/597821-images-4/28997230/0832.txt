@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T00:58:55Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4012906, "source_ctime_ns": 1793386744845968019, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28997230/0832.jpg", "source_mtime_ns": 1785748006000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28997230/0832.jpg", "source_sha256": "17b11228a9b7d750092c6ddb33d39beda9a52dda1f77b18f6cb80e174aec2dfd"}
+
+===== PAGE 1 =====
+{"alpha_words": 77, "chars": 533, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+UNCLASSHRSD Mamata we
+
+INCOMING
+
+AF IN: 20876 (8 May 62) Pe 2 of 5
+
+Qin
+pt 9
+
+VIS/QUANTAS 586 ENROUTE NANDI TO HONOLULU, ALT. 37,000 FT
+
+UNCLAS/CIR
+
+TH-WEST OF CANTON AT 08/1470Z SAW LIGHTS OF ANOTHER
+
+35 MIN. SOU’
+ATRCRAYT MOVING EAST, AT ABOUT 35,000F , . WHEN THE QUANTS TURNED
+DING LIGHTS ON THE OTHER AIRCRAFT EXTINGUISHED ALL, THEIR
+QUANTS 586 CHECKED WITH CANTON RADIO AND THEY REPORTED
+
+TRAFFIC OTHER THAN FLIGHT 58/ IN THAT AREA, WEATHER CLEAR,
+
+NO INTELLIGENCE EVALUATION,

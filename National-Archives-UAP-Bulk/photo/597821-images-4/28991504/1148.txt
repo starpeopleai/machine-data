@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T01:18:26Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8038466, "source_ctime_ns": 1793384972082256249, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28991504/1148.jpg", "source_mtime_ns": 1785748376000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28991504/1148.jpg", "source_sha256": "b5ea3b1a35d5bc91ebb747fe395378b04c7be0d769185565d4267c23f93c61c6"}
+
+===== PAGE 1 =====
+{"alpha_words": 122, "chars": 762, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Page 3
+
+16. Tell in a few shake the following cea “pet the object.
+
+a.
+.a. Sound i Kens 2 a! mye Ae Jia 2
+
+\ e /, ‘
+b. Color a ons Ap
+
+17. Draw a picture that will show the. shape of. the object or.objects. Label.and include in your sketch any details
+of the object :that you. saw 'such.as wings, protrusions, etc.,.and especially exhoust trails or Beas) side
+Place an arrow beside. the :drawing:to show the direction. the object was.moving.
+
+18. The edges of the object.were:
+
+(Circle One): o. Fuzzy or blurred e. Other
+-b. Like o bright star
+fc. )Sharply outlined
+“d. Don’t remember
+
+19. IF there was MORE THAN ONE object, then how many were there?
+Draw a picture of how they were arranged, and put an arrow to show the direction that they were traveling.
+
+}

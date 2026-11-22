@@ -1,0 +1,63 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T00:41:13Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 792451, "source_ctime_ns": 1793393391490446065, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302577016/00925.jp2", "source_mtime_ns": 1785808240000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302577016/00925.jp2", "source_sha256": "33874b1babfb9057158a29598001a7ba4d19caa47e74c8188c57b9ec7c5a972e"}
+
+===== PAGE 1 =====
+{"alpha_words": 72, "chars": 528, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+FMV OG) ese NOUN
+
+» TIME SROUP
+
+June &3 Obb02/24
+
+2. LOCATICN
+
+Cleveiand, ONnLo i
+
+3. SOURCE
+
+Civilian
+
+-~
+
++ NUMBER OF OBJECTS
+
+One
+
+10. CONCLUSION i
+Other (UNRELIABLE REPORT)
+
+COMMENTS: The observer nas seen many UFOs in the past.
+
+uw
+
+» LENGTH OF OSSERVATION
+
+Not reported
+
+6. TYPE OF OBSERVATION
+
+Ground-Visual
+
+~
+
+« COURSE
+
+Not reported
+
+8. PHOTOS
+y O Yes
+No
+
+9. PHYSICAL EVIDENCE
+
+O Yes
+
+XK No
+
+11. BRIEF SUMMARY AND ANALYSIS
+
+See Case.
+
+FORM
+FTD sep 63 0-329 (TDE) Previouc editions of this form may be used.
+
+O° eee ry

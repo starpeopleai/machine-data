@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T01:27:21Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9945765, "source_ctime_ns": 1793383736571269962, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28987742/1352.jpg", "source_mtime_ns": 1785748066000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28987742/1352.jpg", "source_sha256": "41d6f59b8e353049b4cf576c7140abc27773d94c594d8323279c737a4572d984"}
+
+===== PAGE 1 =====
+{"alpha_words": 157, "chars": 1214, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+“a... PROJECT 10073 RECORD CARD
+
+1. DATE . 2. LOCATION 12. CONCLUSIONS -
+11 Jul 60 Wes Balloon
+Ju 20 mi W of Williston, North ae Probably Balloon
+3. OATE-TIME GROUP 4. TYPE OF OBSERVATION O Possibly Belleon
+O Was Aircraft
+Leeel , &f Ground. Vi sual O Greund-Roder CQ Probably Aircraft
+cmt__.12/0505Z O Air Visuel O Air-Intereept Reder |2 Possibly Aireroft |
+_ 4s ==
+5. PHOTOS o. SOURCE O Wes Astronomical
+O Yes ©O Probably Astronomical
+GI Ne Civilian CO Pessibly Astronomicel
+7. LENCTM OF OBSERVATION @. NUMBER OF OBJECTS | 9. COURSE OtherCOnflic
+O Insufficient Date fer Evaluction
+15 min four SW 0 Unknown
+10. BRIEF SUMMARY OF SIGHTING 11. COMMENTS
+
+Four objects, two large and two small, forma- | Report categorized as contradictory
+
+tion was diamond shape, but underwent constant | information. e“icir Miceeu fom «f7
+changes in a graceful manner. Objects were very) <6 /¢ > PWD set) Lhe Atv NG
+brilliant, making shape or size or color diffi-] “So "476v * Seis St Pn, Fer
+
+cult to ascertain. Objects were motionless when) © ©°' <*'* «<< ee Site Ae Ve rete
+first seen, hovering for aprox 15 min, then Ietaese €F Sreey 4a odscnsante
+
+proceeding from N to SW at aprox 150 mph. ig
+
+:
+
+ATIC FORM 329 (REV 26 SEP $2)

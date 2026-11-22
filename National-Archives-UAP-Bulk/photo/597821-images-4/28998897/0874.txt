@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T01:22:39Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8782863, "source_ctime_ns": 1793387600985493586, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28998897/0874.jpg", "source_mtime_ns": 1785748448000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28998897/0874.jpg", "source_sha256": "3457e1ae5cfc4bcb6bcc9cf2ae5271e766c76131c16c1d9d023b2d4e6d4d69b9"}
+
+===== PAGE 1 =====
+{"alpha_words": 116, "chars": 895, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+/
+
+PROJECT 10073 RECORD CARD |
+
+1, DATE 2. LOCATION 12. CONCLUSIONS
+O Was Balloon
+Septemver 1962 Gary, Minnesota rs Ate oicoe
+3. DATE-TIME GROUP 4, TYPE Of OBSERVATION acclusi Femceen dual
+Local 2k Ground- Vi sual © Ground-Radar a Peabobly Airereft
+ely See ENR ee o Air Vi sual OD Air-Intercept Radar O Possibly Aircroft
+5. PHOTOS : ; | $. SOURCE 0 Was Astronomical
+oYes Physical | Probably Astronomical
+KaNe Specimen | Civilian O Possibly Astronomical
+7, LENGTH OF OBSERVATION | 8. NUMBER OF OBJECTS | 9. COURSE o OD es SER
++ } O Insufficient Data for Evaluation
+| D0 . Unknown
+~=- = one found on gro~nd
+10. BRIEF SUMMARY OF SIGHTING 11. COMMENTS
+Object found on gpound & pelieved to Object sent to ASD & assigned
+be associated with satellite decay, number 3-146, Found to be terres-
+submitted for analySiS.« tial in origin. Analysis revealed
+object to be slag.
+
+ATIC FORM 329 (REV 25 SEP $2)

@@ -1,0 +1,40 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T00:51:17Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1716311, "source_ctime_ns": 1793390930701276740, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302554321/1053.jp2", "source_mtime_ns": 1785808485000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302554321/1053.jp2", "source_sha256": "91f654b7b68f4fa6d7d82719cdc0df06d728e226af44f746b8c50cda1e52f7e4"}
+
+===== PAGE 1 =====
+{"alpha_words": 94, "chars": 664, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+P VY 2“
+IdhoffY
+orec/cassel/bev/79079/ 27 Oct 66 Fg
+
+SAF-
+
+OCT 27 1966
+
+This ia in reply to your recent letter requesting information
+on your observation of August 8, 1966.
+
+It is felt that you observed the satellite ECHO I which was
+over central Massachusetts at approximately 11:11 p.m, EDT.
+SCHO.T has a stellar magnitude of plus 1 and was heading in a
+northeasterly direction as it passed south of Shaftsbury.
+
+Thank you for reporting your observation to us. Your interest
+in our program is appreciated.
+
+Sincerely,
+
+a
+
+Lt Colonel, USAF
+
+Chief, Civil Branch
+Community Relations Division
+Office of Information
+
+” Hew Haven, Connecticut 06520
+
+SAR AICS
+
+ry
+
+ps

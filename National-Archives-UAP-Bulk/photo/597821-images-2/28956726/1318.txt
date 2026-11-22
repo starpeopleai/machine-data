@@ -1,0 +1,49 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T00:58:36Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4000131, "source_ctime_ns": 1793375537416145571, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28956726/1318.jpg", "source_mtime_ns": 1785696672000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28956726/1318.jpg", "source_sha256": "ca90c3d4e29f88e9ac06ef331ea176c67ffd811bdad6497c77f8f64df24a9b9c"}
+
+===== PAGE 1 =====
+{"alpha_words": 104, "chars": 720, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+1. DATE - TIME GROUP
+
+31 Oct 53 31/1955z
+
+3, SOURCE
+FIVE CIVILISNS
+
+4. NUMBER OF OBJECTS
+
+2. LOCATION
+
+10. CONCLUSION BAT LOON (WEATHER BALLOON)
+Weather balloon launched at 19007, from Annapolis, Md
+
+5. LENGTH OF O8SERVATION
+
+18 mins
+
+6. TYPE OF OBSERVATION
+
+vis
+
+7. COURSE
+
+8. PHOTOS
+
+O Yes
+No
+
+9. PHYSICAL EVIDENCE
+
+0 Yes
+Q Ne
+
+11. BRIEP SUMMARY AND ANALYSIS
+
+Small round obj extremely bright & shiny was observed at
+
+a stationary position, 70 deg elev and 90 deg az. Obj ex-
+ploded in a burst of white smoke and broke into two halves.
+One half appeared to fall rapidly until out of sight anda
+the second half appeared to fall more slowly.
+
+FORM Be.
+FTD sep 63 0-329 (TDE)  rovicus editions of this form may be used.

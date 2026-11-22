@@ -1,0 +1,41 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T01:13:29Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6919739, "source_ctime_ns": 1793376948547347385, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28962324/0512.jpg", "source_mtime_ns": 1785696490000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28962324/0512.jpg", "source_sha256": "24a0fd7ae5f3c53e82f263823550b8707a85c5e13b8b77e682a51b0d89d5020e"}
+
+===== PAGE 1 =====
+{"alpha_words": 138, "chars": 1098, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ie on UFOB INDEX CARD AISS -JFOB-157-55
+1. DATE «-: : : 2. LOCATION 12. CONCLUSIONS
+Q Was Balloon
+June 1955 si; Parker, Arizona Q Probably Balloon
+“7 7A QO Possibly Balloon
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION
+Local ® Ground-Vi sual G Ground-Redar — ao Srebalty Kirerets
+cmtT__.05/02502 June 1955 _ '  B Air Visual D Air-Intercept Radar O Possibly Aircraft
+5. PHOTOS 6. SOURCE 4 Was Astronomical
+O Yes Le < Probably Astronomical
+No | Civilian and Military (Pilot) = [7 Possibly Astronomical
+- LENGTH OF OBSERVATION 8. NUMBER OF OBJECTS | 9. COURSE Oo Other_
+i Westerly 5 eon Data for Evaluation
+pproximately three (3) Min. | One (1) 2, Stationary
+
+10, BRIEF SUMMARY OF SIGHTING
+
+One (1) object, round, yellow, white, red, was
+
+gen »y civilian on ground with binoculars; to
+® pilot the object seemed colorless. The
+
+nbject seemed to disappear abruptly to both
+
+Ocservers. Magnetic influence on instruments
+
+wa 8 noted by pilot.
+
+11. COMMENTS
+
+investigated by Flight 1-0 with ths.
+conclusion that the sighting was
+caused by the planet Jupiter,
+
+AISOP Form 5 (15 Oct-54)
+
+04+ ade CD Sowmes, CRO

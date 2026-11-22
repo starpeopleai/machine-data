@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T00:46:22Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1130576, "source_ctime_ns": 1793394335482025644, "source_file": "National-Archives-UAP-Bulk/photo/733667/733667-002-006-0084.jpg", "source_mtime_ns": 1785567355000000000, "source_rel": "National-Archives-UAP-Bulk/photo/733667/733667-002-006-0084.jpg", "source_sha256": "ae366388a482211590fbce0ae63f198021dd06e42c6b48047ffca0420da6bb26"}
+
+===== PAGE 1 =====
+{"alpha_words": 60, "chars": 446, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+MEMORANDUM
+OF CALL
+
+TO:
+
+(] You WERE CALLED BY— = [[] YOU WERE VISITED BY—
+
+OF (Organization)
+
+[D] PLEASE CALL ———> GOpEvexT.
+[-] WILL CALL AGAIN [(_] IS WAITING TO SEE YOU
+[_] RETURNED YOUR CALL [_] WISHES AN APPOINTMENT
+MESSAGE
+)
+Hi es ee a | —tHttae
+BA ke é ae < oI Py LD)
+nu 4G fs x - L / ¥
+7 , VY
+gfe oe. ere e.
+RECEIVED BY | DATE TIME
+STANDARD FORM 63 GPO !1969—c48—16—80341-1 332-389 63-108
+
+REVISED AUGUST 1967
+GSA FPMR (41 CFR) 101-11.6

@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T01:06:47Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5231042, "source_ctime_ns": 1793369296636978974, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28931319/0089.jpg", "source_mtime_ns": 1785688784000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28931319/0089.jpg", "source_sha256": "a645af5a694f795b98e4e755afb9ea972d6cbe935216de6d06b12868c5a04ca9"}
+
+===== PAGE 1 =====
+{"alpha_words": 113, "chars": 827, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+B/itr tron A
+atd 5 Jan 1919
+Subj: Projeat
+"SIGH"
+
+ANS OSS let Ind 2h, Jan 1949
+
+HRADQUARTBRS, AIR WERATHER SERVICE Andrews Air Foros Base, Washe-
+Anston 25, De Co
+
+TO; Commanding Goneral, Air Materiel Command, Wrischt-Ppatteraon
+Air Force Base, Dayton, Ohio
+ATTN: HCIAKO
+
+Investications by this headquarters reveal that a synoptic
+voathor balloon could have beer at the location where si-htings
+wore reported in’ the following inoidents. In compiling this
+list consideration was given to the wind diroction and speed at
+the aurface and aloft at the scheduled tims of balloon ralease, and
+the location of the nsarest weather station making balloon obser-
+
+vations.
+2 52 91 126
+¥ 3 12 4 Ls
+73 155
+25 7s 105 166
+28 81 114 19
+36 &7 115 172
+
+FOR THS CHISP AIR WEATEER SERVICE
+
+jaf He. As Hast
+¢ Invlas W. A. ZEST
+
+Adjutant General

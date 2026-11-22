@@ -1,0 +1,13 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T00:56:54Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3885353, "source_ctime_ns": 1793371773342367615, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28939743/00884.jpg", "source_mtime_ns": 1785688769000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28939743/00884.jpg", "source_sha256": "6d3ea90077a81d6670eb805b031bd0c16731c1eb269ba5e25aff09efdafbbf35"}
+
+===== PAGE 1 =====
+{"alpha_words": 62, "chars": 412, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+was plotted at 13,000' making a ground speed of 948 mph, The signals, however,
+were weak and their true identity was doubtful, The operator, an AF Captain,
+has had a great deal of experience and is completely reliable. The F-86's
+were scrambled by radar last contact before the fighters were airborne, They
+made a visual search with no success, The weather did not favor anomalous
+
+propagation.
+
+4 UNCLASSIFIED

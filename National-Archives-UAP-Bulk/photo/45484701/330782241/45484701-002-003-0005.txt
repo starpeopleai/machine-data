@@ -1,0 +1,12 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T01:14:23Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7012825, "source_ctime_ns": 1793362093027555526, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330782241/45484701-002-003-0005.jpg", "source_mtime_ns": 1785684708000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330782241/45484701-002-003-0005.jpg", "source_sha256": "44f0fa1172dd7999f5b49d1231cfc87351f3aac86efc99e36441acd558f028f7"}
+
+===== PAGE 1 =====
+{"alpha_words": 39, "chars": 281, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Tee
+
+I am a civilian who has done considerable private work on the
+subject of ray-warfare. I have kept close contact with various
+security offices, FBI, and with the Tech, Intelligence Division,
+Wright Patterson AF Base, Wright Field, Ohio,
+
+Declassification Authority: NND 923007

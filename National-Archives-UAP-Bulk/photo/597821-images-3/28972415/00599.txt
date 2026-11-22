@@ -1,0 +1,18 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T01:26:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9390891, "source_ctime_ns": 1793379483280710276, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28972415/00599.jpg", "source_mtime_ns": 1785701090000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28972415/00599.jpg", "source_sha256": "b7742a77c6148c2de66baa23e75d39758a8e4de1f27cf4f0022b1a3d2b528596"}
+
+===== PAGE 1 =====
+{"alpha_words": 5, "chars": 47, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 1, "variant": "plain-psm3"}
+;
+|
+|
+j
+|
+|
+,
+4
+
+RJESKB 60
+A.
+
+rn ssrA
+we NOW

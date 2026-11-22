@@ -1,0 +1,24 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T01:07:51Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5503507, "source_ctime_ns": 1793382057477915206, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28982554/0970.jpg", "source_mtime_ns": 1785700990000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28982554/0970.jpg", "source_sha256": "9ca8f311d28e8e950761e96a50948cea543a1777a43dbfe562b7291bedf1ea1a"}
+
+===== PAGE 1 =====
+{"alpha_words": 87, "chars": 556, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PAGE TWO RJWFHWS 7
+WWS NORTHERN PART OF SAN ANTONIO AT
+
+SEVEN CA) WEAHTER WAS CLEAR WITH VISIBILITY OF 19 MILE S (B) WINDS
+
+© ITEM SIX CA)
+OOK KEEPER ITEM
+
+ALOFT WERE APPROXIMATELY 26@ DEGREE AT 7@ MILES PER HOUR,
+
+TEMPERATURE 42 DEGREE ITEM EIGHT (A) LT GORDTN R WOOD BELIEVED THAT
+OBSERVER WAS FIXATED ON A STAR« HIS POSITION WASS FVE (5) MILES TO
+THE SOUTHWEST OF OBSERVERS POSITION. LT. WOOD SAW NOTHING UNUSUAL
+
+IN THE SKY. ITEM NINE NONE ITEM TEN NONE ITEM ELEVEN (A) 1 LT GORDON
+Re WOOD, SR» DIRECTOR ITEM TWELVER NONE« :
+
+BT
+
+25/18302 MAR RJYFHWS

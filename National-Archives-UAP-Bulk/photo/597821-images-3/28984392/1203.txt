@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T00:55:23Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3656558, "source_ctime_ns": 1793382531266084009, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28984392/1203.jpg", "source_mtime_ns": 1785700873000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28984392/1203.jpg", "source_sha256": "5df2229b82169fc94b4b8e7377075fe5a64618094d7d70a066978225b0ec03fb"}
+
+===== PAGE 1 =====
+{"alpha_words": 64, "chars": 412, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+SEPTe 69 1959 WALLINGFORD» KENTUCKY (KEYHOE-1960 P 255) 1. WITNESS
+FE G DISC WAS REPORTED TO HAVE HOVERED NEAR THE GROUNDe AS IT
+
+00
+om!
+
+STARTED A SWIFT CLIMBe THE WITNESS SAID» A BURST OF FLAME SHOT DOWNWARD,
+G_ON THE GROUND. AGENTS OF THE FBI AND THE AIR FORCE
+
+=]
+
+<.
+
+03
+
+QUICKLY INVESTIGATED» TAKING SOIL SAMPLES FOR ANALYSISe
+
+DMM ME EMER M MME MMMM MEME KM MY MY
+
+t
+
+04
+
+wvuww wee MMV MMM MMMM Me oe we
