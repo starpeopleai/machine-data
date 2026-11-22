@@ -1,0 +1,46 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T12:46:29Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8329408, "source_ctime_ns": 1793363286811034049, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330784816/45484701-005-001-0200.jpg", "source_mtime_ns": 1785684648000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330784816/45484701-005-001-0200.jpg", "source_sha256": "490fc94cf7e834ce032382449f4685d1fe87ecd1424e5ad25b76d16eb4c55bbb"}
+
+===== PAGE 1 =====
+{"alpha_words": 293, "chars": 1866, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Q a ~
+
+itr to HQ OSI, subject: Unconventional Aircraft, SPECIAL INQUIRY; from
+Hq. 6th Dist OSI (IG), dated 29 March 1950 = Continued
+
+the observers were hesitant about estimating its size or altitude. DANIEL
+stated that if the altitude of the object was about 15,000 feet then he
+would estimate the diameter of the object as being about the same as the
+wing span on a C-l,7 airplane. Due to noise of airplane engines on the field,
+the observers were unable to hear any sound that might have been made by the
+object. They observed no smoke or vapor trails from the object, neither
+could they tell whether it had any windows, exhaust, engines, etc. The
+outside surface appeared to be smooth. There were a few scattered clouds,
+but for the most part the sky was clear and there was a light ground wind.
+At no time did the object pass through or behind a cloud, and at no time
+
+was it obscured by clouds. Its motion was smooth and rapid.
+
+The 1000 hour weather report and winds aloft report at the Municipal
+Airport for 16 March 1950 indicated that there were thin cirrus clouds
+with a thirty percent coverage at 40,000 feet at 1100 hours, increasing to
+sixty percent coverage at 1200 hours. The wind at 1000 hours was 20 knots
+at 270 degrees, or from the west, at 6000 feet; 45 knots, 270 degrees at
+11,000; constant at 35 knots, 270 degrees above 11,000. A weather balloon
+was released at 1000 hours, and no second release was made.
+
+The weather report indicates that the object sighted by the observers
+probably was not a weather balloon. Since the object disappeared heading
+into the wind and upwards, its speed and motion could not have been caused
+by a 35 knot wind.
+
+3. ACTION:
+In compliance with AFCSI Letter 45, dated 6 February 1950, no
+
+action has been taken.
+
+Ly a n
+wid CROPPER
+Kit. Colonel, USAF
+‘District Commander
+
+Declassification Authority: NND 923007

@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T12:37:56Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6534100, "source_ctime_ns": 1793359436498201435, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-008-005-0006.tif", "source_mtime_ns": 1785681414000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-008-005-0006.tif", "source_sha256": "cfbf03f9cb0f5977129f8ccf4353d91d605c8777ae8c027b794cf132d8e0e3f1"}
+
+===== PAGE 1 =====
+{"alpha_words": 97, "chars": 617, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Declassification Authority NND 923007
+
+INL | a
+ENO@SSENBQ13XYD@18TTTTIJBARZS
+RR RJEDEN
+
+DE RJWPJB. 4B
+
+*. R 222r5as”
+
+te. 982°9I5 1-C 4692D AISS NORTON AFB CALIF
+'.FO RJEDEN/COMDR 4692SD AISS ENT AFB COLO SPRINGS COLO .
+
+_UNCLAS. AISIC GPUU PD REF TP CONVERSATION BETWEEN SGT DERUDDER AND WO HOLM
+CMM 22 MAY CMM RE -CLN UFOB SIGHTING 25 FEB 36. PD BALLOONS RELEASED
+
+C™M ONE ON 22 FEB AND ONE ON 23 FEB 56 PD D wae WILL GIVE
+DEFINITE. STATEMENT TO THIS UNIT ON MAY 25 CMM UPON HIS RETURN FROM
+
+BOSTON MASS PD YOUR HQ W/B NOTIFIED BY TIMSG IMMED UPON RECEIPT OF INFO. BY
+THIS FLT PD END esl
+
+BT
+. 22/2359Z MAY RJIWPJB

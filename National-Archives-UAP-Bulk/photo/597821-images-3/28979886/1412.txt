@@ -1,0 +1,43 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T13:29:37Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6668450, "source_ctime_ns": 1793381341101541713, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28979886/1412.jpg", "source_mtime_ns": 1785700986000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28979886/1412.jpg", "source_sha256": "629861495c6237a2ef14b20c0ec8e69e8303c37b72a86f1db0584cc478ae9148"}
+
+===== PAGE 1 =====
+{"alpha_words": 111, "chars": 872, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ORA120 :
+caesuasrozcayste
+
+PP RJEDSQ
+DE RJW2JB 196
+P 2420282
+
+FM COMDR 751ST ACWRON MT LAGUNA AFSTA CALIF
+TO COMDR AIR TECHINICAL INTEL CENTER WRITHT PATTERSON OHIO
+
+BT
+
+UNCLAS 7510PS TAC 12354-C PD |
+REFERENCE YOUR MESSAGE AFCIN@4E4 9-2214-E CMA DTD 22 SEP 58 PD
+ONE BALLON WAS LAUNCHED FROM OMNTGOMERY FIELD CMA SAN DIEGO CMA CALIF
+
+AT THE FOLLOWING TIMES CLN
+
+11302 23582
+
+17302 19 SEP 58 CMA 95382
+THE ONLY BALLOS RELEASED THIS AREA ARE FROM MONTGOMERY FIELD PD
+THE FOLLOWING IS A CORRECTED ALTITUDE OF WINDS ALOFT REFERENCE
+
+OUR MESSAGE 7510PS TAC 1286-C CLN
+
+SURFACE 30@ DEGREES 7 KNOTS  2000@- 220 DEGREES 15 KNOTS
+6@00- 50 DEGREES 1 KNOT 39000- 289 DEGREES 32 KNOTS
+19000- 110 DEGREES 12 KNOTS | 50000- 250 DEGREES 33 KNOTS
+16000- 26@ DEGREES 12 KNOTS  800@0- @8@ DEGREES 19 KNOTS
+
+BT |
+24/20402 SEP RJWZJB
+
+PP LO eSeagg2
+
+SILLY
+
+ae rnmmr en un gettae: srtcyee a

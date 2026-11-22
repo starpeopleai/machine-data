@@ -1,0 +1,47 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T13:21:07Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4963507, "source_ctime_ns": 1793378588570333115, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28968493/0008.jpg", "source_mtime_ns": 1785696523000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28968493/0008.jpg", "source_sha256": "fea8c670f29acb9da25161c0dd4bcd7ec9122a2741af283426c8eb94b32cdfb2"}
+
+===== PAGE 1 =====
+{"alpha_words": 92, "chars": 680, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+APIS So ese 4
+
+me ATIC | 3
+ee IDecss 09 46 3 |
+
+WPF17S YDC159 VYB1us viCC47YoAg72 \y
+
+PP RJEDEN RJEDWP RJEPHO RJESDB
+
+DE RJESYO 2B~
+
+P 3019392 ; an
+
+FM 1296 AACS FLIGHT SVC SQ MAXWELL AFB ALA (
+
+TO RJEDEN/COMMANDER AIR DEFENSE COMMAND ENT AFB COLORADO SPRING COLORADO  ,
+
+RJEDWP/COMMANDER AIR TECHINACL INTELLIGENCE CENTER WRIGHT PATTERSON AFECGR —~
+
+RJEPHO/DERECTOR OF INTELLIGENCE HEADQUARTERS USAF WASHINGTON 25 D.C. |
+RJESDE/CONMANDER 35 TH AIR DIVVISION (DEFENSE) DOBBINS AFE MARIETTA GEORGE
+BT
+UF OB/PRI ORITY
+
+~{S°DESCRIPTION OF OBJECT
+
+A. INDEFINITE DARK OBJECT
+
+B. UNKNOWN NOT COMPARABLE
+
+C. DARK
+
+D. ONE
+
+3. NVA
+
+F. NONE
+
+G. NONE -OBJECT LEFT NO WAKE
+
+He NONE
+
+I. NONE

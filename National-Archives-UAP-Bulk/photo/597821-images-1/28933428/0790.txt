@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T12:34:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5859444, "source_ctime_ns": 1793369982644836825, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28933428/0790.jpg", "source_mtime_ns": 1785688821000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28933428/0790.jpg", "source_sha256": "4c6a513a1abdb54b67d7e10cedb43886db17c36e5206c383dd8adbe8c3911763"}
+
+===== PAGE 1 =====
+{"alpha_words": 79, "chars": 464, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+MT MMM me Al ON OT ee eT en! eee > ee
+
+4 Marck i949
+
+TO WHOM IT May CONOBR: :
+
+: Qn 4 Maren 1549 at 1420 I spotted an odject nortieast
+of Watson Laboratories. I was standing in the west sice of
+tha parking lot.
+
+TO Me Luls object appeared disc~-shape and traveiiing at
+a Very hivh rate of sveed from northeast to north. This
+Qopearea of a very bright or shiny look. I% dic aot appear
+bo ¢hanes Shape woile it changed its courses.
+'
+§
+
+3
+
+UNCLA
+
+de
+
+J
+
+M
+B.
+rm
+es)

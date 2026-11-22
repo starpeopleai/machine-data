@@ -1,0 +1,52 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T13:01:50Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 786307, "source_ctime_ns": 1793391285835040664, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302557323/0879.jp2", "source_mtime_ns": 1785808079000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302557323/0879.jp2", "source_sha256": "ba98597fbbf3637b473e2f0dfe4f2b07aa0c4d86a122e3be1a11bb440ef20204"}
+
+===== PAGE 1 =====
+{"alpha_words": 247, "chars": 1581, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+U.S. AIR FORCE TECHNICAL INFORMATION
+
+This questionnaire has been prepared so that you can give the U.S. Air Force as much
+information as possible concerning the unidentified aerial phenomenon that you have oliserved.
+Please try to onswer as many questions as you possibly can, The information that ycu give wil!
+be used for research purposes. Your name will not be used in connection with ony statements,
+conclusions, or publications without your permission. We request this personal information sc
+that if it is deemed necessary, we may contact you for further details,
+
+; 72. &,
+1. When did you see the object? 2. Time of day: =
+Hour Minutes
+EOE 6 [Eis (Circle One): A.M, or Poi.)
+Day Month Year wer
+3. Time Zone:
+(Circle One): a, Eastern (Circle One); a. Daylight Soving
+~ Central (b. Standard
+
+c. Mountain
+
+d. Pacific
+
+e. Other
+4. Where were you when you sow the object?
+
+& oe a ns “in ye its ees AT
+Nearest Postal Address City or Town Stotea ow County
+5. How long was object in sight? (Total Duration) @ ed At
+Hours Minutes Seconds
+a. Certain c. Not very sure
+é. Eairly certain) : d. Justo guess
+5.1 How was time in sight determined? lw ATS
+5.2 Was object in sight continuously? Yes po ee Neo
+
+6. What was the condition of the sky?
+
+DAY _NIGHT
+a. Bright (a. Bright)
+b. Cloudy b. Cloudy
+
+7. IF you saw the object during DAYLIGHT, where was the SUN located as you locked at the object?
+
+(Circle One); a, In front of you d. To your left
+. In back of you ©. Overhe
+c. To your right f, Don't remember
+
+FORM
+FTD ocr 62 164 Thie form supersedes FTD 164, Jul 61, which ts obsolete.

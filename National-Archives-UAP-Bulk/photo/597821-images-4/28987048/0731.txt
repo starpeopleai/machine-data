@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T12:48:06Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8686269, "source_ctime_ns": 1793383452806489631, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28987048/0731.jpg", "source_mtime_ns": 1785748125000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28987048/0731.jpg", "source_sha256": "063ff34b12c8cd038e40a3c9bb3f50576eb898cbd45d12c52aece842a6fe3338"}
+
+===== PAGE 1 =====
+{"alpha_words": 131, "chars": 992, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+je — PROJECT 10073 RECORD CARD
+
+1. DATE 2. LOCATION 12. CONCLUSIONS |
+© Was Balloon |
+29 May 60 Charleston, Maine Q Probably Balloon
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION O Possibly Balloon
+02 i 0 Was Aircraft
+Local — 9 20 & Ground- Vi sual O Ground-Redar Q Probably Aireraft |
+GMT of @7TAe D Air Visual O Air-Intercept Rodar |2 Possibly Aireroft
+5S: PHOTOS / 6. SOURCE Pp Was Astronomical
+QO Yes Probably Astronomico! Mars
+Cl No Military 0 Possibly Astronomical
+7, LENGTH OF OBSERVATION 8. NUMBER OF OBJECTS | 9. COURSE O Other
+Q Insufficient Data for Evaluation |
+1 sec each appearance three none 7 ee
+10. BRIEF SUMMARY OF SIGHTING 11. COMMENTS
+
+Three round orange objects, size of basketball,| It is concluded that the object of this
+appeared at one min intervals, one seemed to sighting was probably the planet Mars.
+come from ground, appeared as bright flashes. | The planet being just below the horizon
+
+was probably brought into view by
+refraction.
+
+ATIC FORM 329 (REV 26 SEP 52)

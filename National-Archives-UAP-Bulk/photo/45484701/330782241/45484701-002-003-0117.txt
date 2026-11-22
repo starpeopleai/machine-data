@@ -1,0 +1,50 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T12:43:44Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7651358, "source_ctime_ns": 1793362147115829702, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330782241/45484701-002-003-0117.jpg", "source_mtime_ns": 1785684717000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330782241/45484701-002-003-0117.jpg", "source_sha256": "293f2ca66acc3f1c7cf10d52198df71519aa8e234263feef73eb30a559f7f1a6"}
+
+===== PAGE 1 =====
+{"alpha_words": 135, "chars": 993, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ESSENTIAL ELEMENTS OF INFORMATION
+
+(Re Sighting(s) of Unidentified Aerial
+Object (s)
+
+PROJECT "SIGN"
+Date of sighting 7 duly 19h9
+
+Time of sighting SEN SN
+(Sonal by 2 hr cl saer hours
+
+Where sighted:
+
+a. Ground
+1) City, town , . .
+(1) vs hlexaniria, Lovisiena
+
+(2) Distance and direction from city or town
+
+: 2 2 Northeast from town,
+road, intersection, etc.
+
+(3) From building (story), yard, etc. Sitting oa frent pore!
+
+(4) Map coordinates ( if feasible) showing
+latitude and longitude
+
+Type aircraft, speed, altitude, direction of flight
+Distance and direction from city, town or known landmark
+Clock position of object from observer's airéraft
+
+Latitude and longitude
+
+Latitude and longitude
+(2) Proximity to land
+(Name city, country, etc.)
+Number of objects ons (2)
+a. Formation type (if any) (Sketch if possible)
+Distance of object from observer Can't estimate,
+Laterally or horizontally
+
+Angle of elevation from horizon
+
+atts tude Gan't estimate
+
+Declassification Authority: NND 923007

@@ -1,0 +1,91 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T12:40:11Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7004687, "source_ctime_ns": 1793355133630093073, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989263-001-0070.jpg", "source_mtime_ns": 1785564399000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989263-001-0070.jpg", "source_sha256": "708141ef3d3980a3d5186d8cefb62e0c551a1eda581fb228b475a6d9638d5608"}
+
+===== PAGE 1 =====
+{"alpha_words": 181, "chars": 1362, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+a
+
+aN 8 bet
+
+| tee OS
+eA AL EC OE TEE
+
+LE com parisoje.
+
+ak
+r II/Minisnoop
+
+i
+
+epee Gene
+f Snooper AR ase’ Minisno
+
+8. METEOROLOGIST(S)
+
+IMr. Gilden ber g
+i il. BALLOON DATA :
+a eee RSS | 2. MANUFACTU
+; = BALLOON NUMBER ] ofa LO contract = LE MAY Winzen
+
+Ses dee oy.
+1059 VU: :
+BI oO re ee eee
+WEIGHT == MATERIAL & THICKNESS
+
+} = POLS Ed ne ee | et r\ \
+Bee Vy O10 2px O12 0cand RA
+
+re ee
+
+ee LS RS =a
+i WEF CHT | 2» PARACHUTE( $)— (Number, Type, Diameter, Weight)
+
+il ea. Ringsail
+15, TRANSMITTER(S)
+
+IMFGR.TZ oxnitl MODEL RCT)
+6
+
+. th MODELBCR- S/N 23
+SEPARATION DEVICE 9, SPECIAL iTEMS ( Description & Weight)
+
+vo
+Dual Tenny (Transponder
+
+GROSS WEIGHT 6. FREE EIET
+
+-~ 5 f
+1518 lbs. ine? LB
+Hg, LAUNCH METHOD 10. LAUNCH RUN LENGTH; CHARACTER OF LAUNCH
+
+Dynamic
+
+TROPOPAUSE TO FLOAT
+TROPOPAUSE
+TEMPO coos
+GROSS WEIGHT AT CEILING ALT. | 5. DESIGN CEILING ALT
+
+85. 8K ft
+FLIGHT DURATION TIMER SETTINGS
+SECONDARY 91/2 hrs
+
+ELEMETRY FREQUENCIES
+
+| 4875.5 KHz 40.35 KHz
+
+44, VOICE COMMUNICATIONS FREQUENCIES
+
+| 9019.5 KHz 6941.5 KHz Motorola
+j ite 4 j FLIGHT DURATION
+
+RMINATION (Altitude, Method, [Initiated By, Date/Time)
+ix 24
+
+Se anaes 55 =
+8 K ft, Burst, 24 Apr 75/1124z LI
+PAYLOAD IMPACT(Position, Date/Time) |17. DESCENT 18. BALLOON a GPneiiPadtiion, Date/Time)
+TIME |
+4/1203z Siscaeast in22 Mz 223 + Row. UNK
+
+AFSC-L G HAN
+
+PREVIOUS EDITIONS ARE OBSOLETE.

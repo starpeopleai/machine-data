@@ -1,0 +1,71 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T13:13:52Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3614135, "source_ctime_ns": 1793371285373902406, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28937492/0312.jpg", "source_mtime_ns": 1785688592000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28937492/0312.jpg", "source_sha256": "4fb5c9ac5d8f2ff737edf9e17d0b5e4c807a44becc62b27775be3ef2e33c2dde"}
+
+===== PAGE 1 =====
+{"alpha_words": 343, "chars": 2262, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+y
+boss
+
+‘
+NA
+ty
+
+pOWNGRALY
+
+HEADQUARTERS ifiec -
+CONTINENTAL AIR COMMAND Auth: Cucunad
+
+MITCHEL AIR FORCE BASE, NEW YORK mg App 100 GZ
+
+(Date) itinds )
+
+INT 873.5 (B)
+rq ane AVEC)
+(L
+SUBJECT; Unidentified Flying Object
+TO: Director of Intelligence, Headquarters United States Air
+
+Force, Washington 25, De Ce
+
+1. Attached for your information are two narrative reports con=-
+cerning radar sighting of an unidentified flying object.
+4
+3 2. The fact that the object was sighted on the scopes of two (2)
+radars is considered worthy of special note.
+
+S$. Comment of technical exnerts, this headquarters, was solicited
+and is quoted in part for your consideration:
+
+a. "While it is relatively well known that various ionospherio
+conditions cause reflections at lower frequencies, it is usually consid-
+ered that these layers have no effect at the frequencies used by the two
+radar sets mentioned excent when temperature inversion or other atmos-
+pheric or tronospheric conditions cause ducting and spurious reflections.
+Presuming that such idealized conditions existed at the time of these
+observations, it is conceivable that an actual small change in physical
+lateral motion in reference to the radar set could cause a seemingly
+greater change in relative vosition of the ‘object’ as observed on the
+radar scope due to the varying vath lengths the radar energy takes to
+and from the ‘object’ as a function of the frequency sensitive layers
+and angles of incidence of the pronogated wave, However, the great dif-
+ference in the frequencies of the L-Band CPS-5 and the S-Band CPS=-4
+radar sets and the evident correlation of observations between these two
+sets almost rule out the possibility of anomalous propagation effects.
+Further, the magnitude of the velocity and accelerations of the three
+dimensional movements ‘of the ‘object' reported are beyond the capability
+of known heavier or lighter than air vehicles in controlled flight.
+
+\
+
+be “Also substantiating this unlikelihood, is the fact that
+the ‘object’ was reported as remaining stationary in free space for a
+mean-period of two minutes.
+
+ce "Further validity is lent to the contention of the reports
+by statements wat first indications, which were at Ne age were
+
+2 oS Pe.
+" ONCrASsiFiEn
+
+SC-T/LE-L
+
+&

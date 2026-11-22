@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T12:39:31Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6990396, "source_ctime_ns": 1793384529784712746, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28990515/0264.jpg", "source_mtime_ns": 1785748425000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28990515/0264.jpg", "source_sha256": "0c35098eef9067a5d808509e793dd07ddf79c471b503eabca7f89293c2fae604"}
+
+===== PAGE 1 =====
+{"alpha_words": 144, "chars": 835, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Page 7
+
+34, What were the weather conditions.at the time you saw the object?
+CLOUDS (Circla One) WEATHER (Circle One}
+a, Clear sky a. Dry
+b. Hazy b. Fog, mist, or light rain
+ec. Scattered clouds c. Moderate or heavy rain
+d. Thick or haavy:clouds d. Snow
+@. Don’t remember
+35. When and to whom did you report that you had: seen the object?
+Day Month Yoor
+36 Was anyone else with you at the time you saw the objact?
+(Circle One) Yas No
+»,
+36.1 1F you answered YES, did they see the object too?
+(Circle One) Yes No
+36.2 Pleose list their names and addresses:
+37. Was this ihe first time that you hod seen on object or objects like this?
+(Circle One) Yas No
+37.1 IF you onswered NO, then when, where, and under what circumstances did you see other ones?
+38. In your opinion what do you think the object was and what might have caused it?

@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T13:09:12Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1727350, "source_ctime_ns": 1793389805791062445, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302544170/0376.jp2", "source_mtime_ns": 1785808301000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302544170/0376.jp2", "source_sha256": "45135154aa80bd462dc3a67300c9a5719b32fe560b9f4d97233cc30bc985f04f"}
+
+===== PAGE 1 =====
+{"alpha_words": 110, "chars": 682, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Bp ebss Neneh csaunny
+PERU ETA Bien: Baas ha ae SE EP TE Rr cay Se OT STARE TIS AN RRR ar ate ter peoran amen tay Guten e Te A Ip hatch em te, TN a re a
+
+” °
+
+k. Position title and comments of the preparing officer, including
+preliminary analysis of the possible cause of sighting(s):
+Officer of the Day, 1 Lt, USAF, James C. Sutton. Report relayed to Laredo
+Air Force Base from Farinelli, V.N.; E-5, Ops Duty NCO, Corpus Christi
+Naval Air Station. Report received at LAFB at 2400 Z. Preliminary analysis
+unable to be made.
+
+1, Existence of physical evidence, such as materials and photographs: |
+N/A
+
+FOR THE COMMANDER
+
+QY Cu.
+
+HN F. BLUMER, Major, USAF
+, Operations Plans Branch

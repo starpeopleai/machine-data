@@ -1,0 +1,14 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T12:45:12Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8098660, "source_ctime_ns": 1793385737776166586, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28994018/0474.jpg", "source_mtime_ns": 1785748395000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28994018/0474.jpg", "source_sha256": "b4f7e7c7a68376bb7962be1df011b214dea48f20388e2d8e9664dc5a846b70cf"}
+
+===== PAGE 1 =====
+{"alpha_words": 38, "chars": 282, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+As a Pog par Abs P|
+weer i 7 ” -
+
+Aug. 9, Naples, Me, PilotS.R. Gra- |
+ham, Pensacola graduate, and three ,
+citizens observed bright, fast-moving,
+UFO, Graham told NICAP the object, |
+which slowed, hovered, changed course
+_and accelerated, was “‘much faster than
+any aircraft.”’ a

@@ -1,0 +1,7 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T12:35:59Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6183784, "source_ctime_ns": 1793363049147755278, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330784412/45484701-004-004-0036.jpg", "source_mtime_ns": 1785684801000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330784412/45484701-004-004-0036.jpg", "source_sha256": "3ec84c3408c586aa3977049f5d7b06a640c9b1885e8e727989d5b87ecd5b2a19"}
+
+===== PAGE 1 =====
+{"alpha_words": 6, "chars": 57, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 1, "variant": "plain-psm3"}
+AIG VaiNt YSLNNO
+
+Declassification Authority: NND 923007

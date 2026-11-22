@@ -1,0 +1,24 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T12:49:01Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8910193, "source_ctime_ns": 1793363629506804286, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785767/45484701-005-007-0005.jpg", "source_mtime_ns": 1785684978000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785767/45484701-005-007-0005.jpg", "source_sha256": "48ff18f0d859fed85e4e86a61882be16603135d047df1f86bcdbcd92c624e9c2"}
+
+===== PAGE 1 =====
+{"alpha_words": 112, "chars": 731, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Ltr, 12th OSI Dist (12D 24C-0), 13 Dec 62, Unidentified Flying Objects
+
+that Mr. JAMISON seemed to agree with her ideas,with an appeasement
+attitude. PERKINS said it would be his opinion that Mrs. JAMISON's
+mentel capacity hes been reduced in recent years, possibly as « result
+of her husbend’s condition, and her sighting of UFO's to be a figment of
+her imaginetion.
+
+3. In view of the above information, Mrs. JAMISON was not interviewed
+relative to her claimed sighting of UFO's.
+
+. PRANK P. DUMNINGTON, JR Copy to;
+‘ Golonel, USAF Dir OSI (AFISI-6c)(w/2 atehs)
+Commander 1. Cy of ltr fr Hq, Foreign
+Tech Div, W-P AFB, Ohio,
+23 Oct 62
+2. Cy of Req for Interview of
+Mrs. JAMISON, 23 Nov 62
+
+Declassification Authority: NND 923007

@@ -1,0 +1,22 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T13:14:17Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3683448, "source_ctime_ns": 1793372711837012356, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28943692/0496.jpg", "source_mtime_ns": 1785688534000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28943692/0496.jpg", "source_sha256": "ba927141e10b2c9608281d73f1f50a5f64cdac34ce9167827758e7605d92956e"}
+
+===== PAGE 1 =====
+{"alpha_words": 83, "chars": 511, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ofan
+
+22. Your full name; aaa
+
+2h. Your occupation: Cakae Swarr UG.
+
+25. Last school you attended: ee prs ry TA Wonmonty Bc
+Awd ROE WE ceadar couese iM Wh ageion at
+
+26. Year of last attendance at this school: Canada,
+
+27. Please Jist the names and addresses of persons who discussed this sighting
+
+with yous It is not necessary to list the names of officials or investigators.
+
+28. Further comments which you believe are important should be entered here.
+
+Use additional sheets of the same size if necessary.

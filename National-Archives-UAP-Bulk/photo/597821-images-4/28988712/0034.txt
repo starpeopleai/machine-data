@@ -1,0 +1,50 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T13:17:02Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4130290, "source_ctime_ns": 1793384062122387485, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28988712/0034.jpg", "source_mtime_ns": 1785747980000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28988712/0034.jpg", "source_sha256": "5b5466b1ceaf51306764822909036f4e8fa5c277b08abc1e1b41fb340213739a"}
+
+===== PAGE 1 =====
+{"alpha_words": 26, "chars": 161, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+u
+<
+
+AiR FORC
+
+SOM
+
+¥
+
+a4
+
+.
+
+A
+
+\Ethhikgiuag fo 2
+
+Atc!}
+
+ZOLAS POST
+
+wre
+Hewes
+
+as
+
+*
+Pet
+ry
+
+bs
+“4
+
+i?
+
+ne
+
+Qa VLOm
+
+an
+
+om
+
+SPDR ory set See toe pamee
+
+‘ee

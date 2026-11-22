@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T13:03:20Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 999763, "source_ctime_ns": 1793389111420751127, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302536491/0134.jp2", "source_mtime_ns": 1785808550000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302536491/0134.jp2", "source_sha256": "8802829dda2a1fbbc9e2cd3effdf0d01cfef26591598620314997ee7a007d3b9"}
+
+===== PAGE 1 =====
+{"alpha_words": 97, "chars": 659, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+16 December 1964
+
+Dear ir. Giiiijanm
+
+- Jt is not true that the Air Force withholds or
+censors any information concerning unidentified
+flying objects. Our files have always been open to
+bona fide news representatives and scientific researchers.
+
+Attached is a copy of FYD Form 164 which is used
+for reporting UFO observations to the Air Force. If
+you wish to submit 2 report of your sighting, the Air
+Force will evaluate it, and you will be informed of
+the conclusions.
+
+Sincerely,
+
+MASTON M. JACKS
+Major, USAF
+Chief, Pictorial Branch
+Publie Information Division
+Office of Information
+1 Atch
+FED Form 164
+
+Mr, dpeeeeegeitets
+pine
+Braintree 85, Massachusetts

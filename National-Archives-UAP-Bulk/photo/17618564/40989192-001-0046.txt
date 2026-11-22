@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T13:18:29Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4357781, "source_ctime_ns": 1793354304410818807, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989192-001-0046.jpg", "source_mtime_ns": 1785564261000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989192-001-0046.jpg", "source_sha256": "9a334f7be7a663c73d2a41258ae749d63134f58879a34d4afc19076894e98d9f"}
+
+===== PAGE 1 =====
+{"alpha_words": 178, "chars": 1164, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+G-3
+
+The discovery that on occasion government documents of the time period of interest
+would use one typewriter for the date and another for the text.
+
+The discovery that the numerical portion of Sept. "24, 1947." on TF is done on a different
+typewriter than that used for the Text. With Xerox-paste ups, no forger would.
+
+The discovery that many government offices of the time used different typefaces,
+different formats, different styles for their classified memos, letters, etc. rather than a
+consistent one for any of these.
+
+The discovery that huge numbers of documents from the Truman and Eisenhower eras
+are still classified even after recent review, and that the Ike Library has at least 100,000
+pages of classified NSC materials still totally unreviewed and unavailable.
+
+The discovery that Donald Menzel’s papers at Harvard required three different
+permissions for access rather than being accessible to people off the street.
+
+The discovery that James Forrestal’s papers at Princeton required permission for access
+rather than being open.
+
+The discovery that Dictation Onionskin (CT) was made only in bid lots and only from
+1953 through the mid 1970s.

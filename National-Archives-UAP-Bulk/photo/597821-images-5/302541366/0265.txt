@@ -1,0 +1,21 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T13:07:36Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1690044, "source_ctime_ns": 1793389500561468647, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302541366/0265.jp2", "source_mtime_ns": 1785808317000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302541366/0265.jp2", "source_sha256": "b1864c3b3a6eeba402921110590bffce47d93a2cb3d16ca4a666d017f964a648"}
+
+===== PAGE 1 =====
+{"alpha_words": 10, "chars": 84, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+’ M
+
+UNCLASSIFIED
+
+AFSC
+
+*\
+
+OO See See
+
+Pee ede
+
+7
+
+ECHNOLOGY DIVISION
+
+FOREIGH J

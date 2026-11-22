@@ -1,0 +1,59 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T13:22:21Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5075576, "source_ctime_ns": 1793360120215780738, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-012-059-0004.tif", "source_mtime_ns": 1785681635000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-012-059-0004.tif", "source_sha256": "be537708f467e1aa94ee83cbf23b72d9670eb38120559809886e8a9c801f42eb"}
+
+===== PAGE 1 =====
+{"alpha_words": 116, "chars": 908, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PAGE TWO RJEDBW 2E
+
+Be BIGGLK IHNEN A DLA
+C. YELLOW
+
+De ONE
+
+Ee N/A
+
+Fe. N/A
+
+Ge N/A
+
+He. NONE
+
+Declassification Authority NND 923007
+
+BOBBING UP & DOWN
+
+(2) A. N/A
+B. QUITE LOW
+De ONE MILE WEST OF NIAGARA FALLS, NY Pe 70
+E. N/A a 7 |
+F, ONE HOUR
+(3) A. GROUND VISUAL
+B. TELESCOPE a Ve, eas eter fare. x
+C. N/A ST Sees
+(4) A. 130225Z SEP 56 LDS a OF etd a AO a6 ES yy
+: B. NIGHT : |
+(5) A. 112 WH oil BUFFALO; NY: a wi |
+"S) As MR. } AGE 31 iff BUFFALO, N.Y.
+3ee 240. 20
+[| : 12,600 1260 20
+PAGE THREE RJEDBW 2E oe oe : Bt es _
+(7) A. N/A - . = M000 2) aS
+B. SSE 7KNTS — oe | be
+C. 1880 FEET BROKEN 20, eee AGOx B®
+D. 5K aS
+E. 2 TENTHS | : 3 9402. ATO
+F. -NONE , Bi 2 Bo
+7 F. NONES 2
+(8) As ‘NONE eo RO, ooo APO 7 Ss oO
+(9) A. BUCKET 14 1-35 A/B AT TIME, COULD. NOT FIND ANYTHING.
+(1B) “A. NONE fee
+(11) A. 1/LT. ROBERT S. BRANDT, AO 3909669.
+
+13/1345Z SEP RJEDBW
+
+ITI DL
+
+AISS
+
+TAIT . DL ER
+
+ROGER YOUR 611

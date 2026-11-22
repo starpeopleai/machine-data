@@ -1,0 +1,50 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T12:31:59Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5534917, "source_ctime_ns": 1793371800020217592, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28939862/00996.jpg", "source_mtime_ns": 1785688871000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28939862/00996.jpg", "source_sha256": "771e8c71f2611a0099a8a6bdbe65c78446f3de433ec4da1e3c3cf80885701f10"}
+
+===== PAGE 1 =====
+{"alpha_words": 91, "chars": 602, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Verplanc
+oe age ¢ ¢ ion ‘ A, Boston H Hill moet ¥ On. .
+
+ae .
+
+ee Golf course os
+At f/ aE
+Ct We C=,
+mk (oy URS
+SS i Pa —_&
+\ \
+1
+
+ews aie tia
+v Lote Neck Pt
+
+NEW FOCHELLE “fe
+275 RWC ade, ;
+2%, NEW ‘ROCHELLE y
+= J Briwis s Secto es 2,
+% Agere? ~ SHRBC. %
+
+ere / ONE > : fs SOINT Es
+
+Sty) ums -
+
+\ RR yds . - m < ; Li : : a i \| elev 429° was!
+= . ; a e
+Poy: De oa on 179 yes: e WAN : Q-? iS
+4" Mahh Ai 190 ee fA, LS a | aS r
+7 LE# “df fi ae e
+A gil cm oe i“ A366
+
+/ gly f) 4
+of a / baa YZ oot Mineois>
+Al
+
+ei wan > ~ta> ¥, Since ware ane a <= i aes,
+
+119 — H 54
+
+323 9.3) y 7S Smeg si
+4 6) eee
+
+ae a
+{

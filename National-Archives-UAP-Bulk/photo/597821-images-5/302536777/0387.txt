@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T13:03:00Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 994094, "source_ctime_ns": 1793389127974507847, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302536777/0387.jp2", "source_mtime_ns": 1785808423000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302536777/0387.jp2", "source_sha256": "3319a65492048945fbc8b7d5e1b7b0417617f173a38b0eabd14a11d5e53e2535"}
+
+===== PAGE 1 =====
+{"alpha_words": 44, "chars": 333, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+a
+
+INCOMING DEPARTMENT OF THE AIR FORCE
+
+MESSAGE STAFF MUSS.AGE BRANCH UNCLASSIFIED c]
+AF IN : 59984 (30 Nov 64) pg 2 of 2 |
+am,
+]
+5, MEDIUM. POSIT ANGLE 39. C
+6. COURSE 1707. J
+C
+7. UNKNOWN
+8. UNKNOWN <
+9, SEA CALM WEATHER CLEAR -
+BT
+NNN 4
+N C
+‘¢
+NOTE: ADV CY TO DIA , NIN AND XOPX
+XMITTED TO CIA PER AFHQ 1392 7584 i
+N
+cd
+C
+j
+C
+q

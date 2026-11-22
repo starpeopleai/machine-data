@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T13:20:00Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4803183, "source_ctime_ns": 1793380294868474602, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28975243/00170.jpg", "source_mtime_ns": 1785700840000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28975243/00170.jpg", "source_sha256": "7766988b95577f5db4c94a462f1fb52ebed88aa05db86906fafd2a162b34ddf3"}
+
+===== PAGE 1 =====
+{"alpha_words": 152, "chars": 1275, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Signed:
+PAGE TYO RJESGEL 99
+
+HEADING OF 279 DEGREES, SPEED 6% To gg KNOTS$ (E) LOST RADAR CONTACT
+IN VICINITY OF UHIING NAS, APPROXIMATELY 31 MILES WEST NORTHWEST 2 ae
+BNET RAPCONS (FY APPROXIMATELY 30 MINUTES} 13)” (A)-RADAR ECL Th ‘Aug rasa
+RAPCO) CPN/I18A ON 46 MILE SEARCH3 (4) (A) 260215 To 2 672.453 ee
+(2) NICHTS (5 AMMO EGLIN ars, FLAe3 (6) (B) TECH scT
+GERALD Je GREEN AND AIRMAN SECOND cLass DAVID KNOGHT, BOTH OF 1999
+AACS SQUADRON, RADAR OPERATORS, SOURCE COMPLETELY RELIABLE3 (7) (a)
+CLEARS (B) SURFACE CALM 6299 FEET 359 DEGREES 18 KNOTS, 16,939 FEET
+52@ DEGREES 25 KNOTS, 2,909 FEET 319 DEGREES 22 KNOTS, 39,999 FEET
+23a DEGREES 65 KNOTS, 59,999 FEET 25, DEGREES 86 KNOTS} ¢¢)
+UNLIMITED; (D) 19 MILES$ (©) NONE3 cf) NONE$ (8) EASTERLY JET
+
+| STREAM AT APPROXIMATELY 37,999 FEET$ (9) RAPCON OPERATOR DIVERTED
+296 NUMBER 55311, HOME. STATION HURLBURT FIELD. (FIELD NUMBER 9,
+“CLIN RESERVATION) TO AREA. REPORTED SEEING TWO LIGHTS BELOW BéS6
+ALTITUDE OF 37 AGELS, IDENTIFICATION NoT POSITVE$ ¢€19) THREE
+
+“1239, ONE B66, ONE C119 IN Locar AREA, POSITIVE RADAR CONTACT
+WITH ALL KNOWN AIRCRAFT IN AREA} (11) CAPTAIN WILLIAM M. LYONS,
+HISP INTELLIGENCE DIVISION, HEADQUARTERS APGC EGLIN AFBe. SIGHTING
+'T UNUSUALs PROBABLY CONVENTIONAL AIRCRAFT «* REPORT SUBMITTED

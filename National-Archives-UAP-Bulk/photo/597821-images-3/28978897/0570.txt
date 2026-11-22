@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T13:30:21Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6829888, "source_ctime_ns": 1793380940003796571, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28978897/0570.jpg", "source_mtime_ns": 1785700890000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28978897/0570.jpg", "source_sha256": "0d1a3077b68d2311639bfc7844a49a891f759f232e6e62c845c5069e30fb1be5"}
+
+===== PAGE 1 =====
+{"alpha_words": 120, "chars": 930, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+J
+PROJECT 10073 RECORD CARD
+1. DATE 2. LOCATION 12, CONCLUSIONS
+Randolph AFB, Texas O Wes Balloon
+12 Jul _ 58 Wellington, Texas GQ Probably Balloon
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION Q Possibly Balloon
+Local = Ground- Vi sucl O Ground-Redor 5 Probably Airer oft
+omt.214/0245Z2.02472 XO Air Visuol O Air-Intercept Rodar |9 Possibly Aircroft
+5. PHOTOS 6. O Wes Astronomical
+O Yes O Probably Astronomical
+Ro Civilian Pilot & Military O Possibly Astronomical
+7. LENGTH OF OBSERVATION 8. NUMBER OF OBJECTS | 9. COURSE HX Other Sputnik '58/
+O Insufficient Data for Evaluation
+O Unknown
+2 mins — one S_to NF.
+No. BRIEF SUMMARY OF SIGHTING 11. COMMENTS
+1. Obj w/color of starlight which Gatellite observation.
+
+varied fm approx that of a 3rd mag
+to first mag. Speed just less than
+that of hurricane strength.
+
+2. Rnd, white obj, size of head of
+pin, changing brightness, traveling
+in straight path.
+
+ATIC FORM 329 (REV 26 SEP 52)

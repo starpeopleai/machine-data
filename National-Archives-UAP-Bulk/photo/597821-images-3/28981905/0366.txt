@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T12:34:22Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5863031, "source_ctime_ns": 1793381859776010731, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28981905/0366.jpg", "source_mtime_ns": 1785701051000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28981905/0366.jpg", "source_sha256": "6d3af178c33b2668139b51133ab5425b4bbbbc3da7a941422e83afa9b154872d"}
+
+===== PAGE 1 =====
+{"alpha_words": 135, "chars": 986, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD - a on
+\ 4 ~—
+1. DATE 2. LOCATION 12, CONCLUSIONS
+8-19 Mi N of Page Tere and 0D Wes Belloon
+ll Feb 59 . Shaw AFB, S.C. UAC, js V4 |Q Probably Bolloon
+3. DATE-TIME GROUP a. TYPE OF OBSERVATION . a or
+pone , 7 2. Ground- Vi sual ' D Ground-Reodor 4 Bae paver oft
+out. 09°20 _ 8 09152 © Air Visual . D Air-Intercept Rador O Possibly Aircroft
+|S. PHOTOS 6. GX Wes Astronomical (Meteor)
+OG Yes DO Probably Astronomical
+O.Ne Military & Civilian O Possibly Astronomical
+7. LENGTH OF OBSERVATION 6. NUMBER OF OBJECTS | 9. COURSE O Other.
+D Insufficient Dote fer Evaluotion
+Oo nown
+5-30 sec one SW
+10. BRIEF SUMMARY OF SIGHTING 11. COMMENTS
+Round ball with tail, size of grape. lio doubt a very large meteor.
+fruit. Ball was white, tail was blue-rqd. Reported from 6 sources in same
+Obj very bright and 1it up entire general area.
+area, Tail appeered to come from
+eonter rather than edges of ball.
+lo sound. Obj moving very fast.
+ATIC FORM 329 (REV 26 SEP 52)
+/
+, 4
+4

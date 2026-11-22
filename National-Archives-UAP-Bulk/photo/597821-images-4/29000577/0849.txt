@@ -1,0 +1,56 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T13:18:35Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4378736, "source_ctime_ns": 1793388246922523667, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/29000577/0849.jpg", "source_mtime_ns": 1785748468000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/29000577/0849.jpg", "source_sha256": "976975b3702fd66b4e5ed4610c0da1a797e3ca9631c334745cd65029b07ea70e"}
+
+===== PAGE 1 =====
+{"alpha_words": 166, "chars": 1241, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+1. DATE 2. LOCATION 12. CONCLUSIONS
+a ‘ : O Was Balloon
+7 April 1963 Duluth, Minnesota QO Probably Balloon
+3. OATE-TIME GROUP 4. TYPE OF OBSERVATION ty Possibly Betloon
+A WwW i f
+Local RxGround- Vi sual 0 crocrmre eau: a Probobly Aircraft
+GMT 08/03202Z 0 Air Visual D Air-Intercept Radar |" Possibly Aircraft
+5. PHOTOS 6. SOURCE O Was Astronomical
+O Yes 0 Probably Astronomical
+XR No Civilian O Possibly Astronomical
+7. LENGTH OF O8SERVATION 8. NUMBER OF OBJECTS | 9. COURSE DO Other
+MK Insufficient Data for Evaluation
+: QO nknown
+15 minutes one SE
+10. SRIEF SUMMARY OF SIGHTING 11. COMMENTS
+
+Round bright white object size of star
+moving to SE. No change in intensity,
+
+and object lost in brightness of moon.
+Initial observation at 45 dgr elevation
+290 dgr azimuth and disappearance aften
+13 minutes at 30 dgr elevation 120 dgr
+
+azimuth, Straight flight,
+
+be satellite from flight path.
+
+Appeared to
+
+ECHO was over Duluth at 820 PM
+at 83 dgr elevation S of City
+
+moving SE,
+one hour,
+
+Time error of exactly
+Sighting conforms to
+
+satellite observation with this
+
+exception.
+
+Possible error in
+
+conversionto Zebra time. Case
+considered as insufficient data
+due to this discrepancy.
+
+ATIC FORM 329 (REV 26 SEP 52)

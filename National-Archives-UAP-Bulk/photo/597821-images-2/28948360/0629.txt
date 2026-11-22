@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T13:14:54Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3791223, "source_ctime_ns": 1793373725732989555, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28948360/0629.jpg", "source_mtime_ns": 1785696659000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28948360/0629.jpg", "source_sha256": "3801ea6087a9b6627d8769c5e0b437196493a5a7ea3cac922f22f60182a3c4d5"}
+
+===== PAGE 1 =====
+{"alpha_words": 112, "chars": 617, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Page 6
+
+23. In the following sketch place an "A" at the position the object was when
+you first saw it, and a "B" at its position when you iast saw it.
+
+Overhead i ei
+ae pen
+
+Horizon vi Horizon
+You
+
+2h. Draw a picture that will show the motion that the object made. Place an
+"A" at the beginning of its path anda "B" at the end of its path.
+
+25. Draw a picture that will show the shape of the object. Label and include
+in your sketch any details of the object that you saw and place an arrow
+beside the drawing to show the direction the object was moving.
+
+e-O
+
+/
+
+en Fl a bat ters ee,
+id 2 saan aed aN \ dot OMA = y

@@ -1,0 +1,7 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T13:26:58Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6134903, "source_ctime_ns": 1793378251808474120, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28967354/0427.jpg", "source_mtime_ns": 1785696437000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28967354/0427.jpg", "source_sha256": "5e8a8254b850a57a7a8b43c76d3bcea72a7bc653effede2de8e8edcdf244b422"}
+
+===== PAGE 1 =====
+{"alpha_words": 3, "chars": 35, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 1, "variant": "plain-psm3"}
+* Coe. AW —_ <— Gate
+
+5 - —- a —_

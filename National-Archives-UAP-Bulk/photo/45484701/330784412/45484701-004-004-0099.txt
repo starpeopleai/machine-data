@@ -1,0 +1,53 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T12:36:11Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6270458, "source_ctime_ns": 1793363074390615808, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330784412/45484701-004-004-0099.jpg", "source_mtime_ns": 1785684805000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330784412/45484701-004-004-0099.jpg", "source_sha256": "b131448af6c02ea930f8d0190ecdd4f74aa1a82c60c2d6080bc5d7155fc28313"}
+
+===== PAGE 1 =====
+{"alpha_words": 166, "chars": 1094, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Flash in Sky
+
+Poses Saucer |
+
+Question in Va.
+
+RICHMOND, June 16 (#).—
+N@ather Bureau officials, astron
+omers and science fiction fans
+were taking turns today wonder-
+ing about the mysterious and
+shiny “thing” that flashed acros ;
+the Southside Virginia horizon
+yesterday.
+1 Was it a meteorite, or—here
+ee go again—a flying saucer?
+
+To some, it appeared round.
+‘RD others, oblong. To some, it
+‘was big. To others,.small.
+
+Sheriff F. W. Simpson of Pow-
+hatan County described it as
+“very high and in the shape of
+a spinning top, with two lights
+in the big part.” j
+
+Commonwealth’s Attorne}’
+William Blandford said a ||
+looked just like a parachute aj:
+first. It seemed silver. anu
+looked like an oval.”
+
+Miss Margaret Satterwhite of
+Richmond, who was traveling
+in the Powhatan vicinity, said
+it was a “huge object, shaped
+like a glass ball.”
+
+Among the folks who might
+know, Weather Bureau officials
+said they hadn’t seen the weirtl
+phenomenon and_ therefoje
+touldn’t offer any help. Ak-
+tronomers at the University rf
+Virginia observatory said the
+same,
+
+Declassification Authority: NND 923007

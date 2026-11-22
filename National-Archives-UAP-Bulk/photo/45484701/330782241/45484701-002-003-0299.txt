@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T12:49:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8960437, "source_ctime_ns": 1793362239128566624, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330782241/45484701-002-003-0299.jpg", "source_mtime_ns": 1785684731000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330782241/45484701-002-003-0299.jpg", "source_sha256": "3fddc9b2067b9418ec90768699621d668f5f1b6dd591484ca77e989775316e5e"}
+
+===== PAGE 1 =====
+{"alpha_words": 78, "chars": 589, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+0
+
+Investigation Incident No. 2
+
+Name and address of observer:
+
+CHARLES S. BAGLEY,
+131) Ohio Ave
+Alamogordo, New Mexico
+
+Oceuvation and Hobbies:
+
+Geodetic Surveyor
+Astronomy
+
++
+
+interrogator relative to intelligence and character of observer:
+
+Comments of
+Mr BAGLEY is an extremely intellicent person and is in
+charge of Geodetic Surveys at Holloman Air'Force Base,
+Alamogordo, New Mexico.
+
+Did observer wear glasses, especially polaroid glasses at time of sighting,
+
+or was object viewed through canopy, window, or other transparent material?
+
+No.
+
+Declassification Authority: NND 923007

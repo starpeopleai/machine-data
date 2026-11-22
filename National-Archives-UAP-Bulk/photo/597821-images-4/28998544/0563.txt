@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T12:50:07Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9268037, "source_ctime_ns": 1793387331712612432, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28998544/0563.jpg", "source_mtime_ns": 1785748060000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28998544/0563.jpg", "source_sha256": "60fd516394a55701db93de770b4059608bd35c4558ef852775819f8ce98f01d0"}
+
+===== PAGE 1 =====
+{"alpha_words": 52, "chars": 386, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+DEPARTMENT OF THE AIR FORCE
+STAFE MESSAGE BRANCH
+UNCLASSIFAID MESSAGE
+
+INCOMING
+AF IN : 14749 (8 Aug 62) ' pz 2.of 2
+
+1. BRIGHT WHITZ OBJECT LARGER THAN FIRST WAG STAR POSSIBLY
+SATTELLITE. |
+
+2» POSIT 33,52N 163.56E
+
+3s, TOS 980835Z
+
+Ri ALT HIGH. 79 DEGREES
+
+5, HEADING SE
+
+6, SPEED VIS TO NAKED EYE.
+
+7. 76 PERCENT CLOW COVERAGE
+
+BI NOTE ADVANCE CYS TO CIN, DIA
+
+23/7 GISIZ
+
+ae 4 ney

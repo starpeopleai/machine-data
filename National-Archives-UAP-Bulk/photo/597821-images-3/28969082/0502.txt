@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T12:34:03Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5838559, "source_ctime_ns": 1793378737176551424, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28969082/0502.jpg", "source_mtime_ns": 1785700691000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28969082/0502.jpg", "source_sha256": "68c85a8af0b7a3200706e578e480ef23f4e106fb3e17fb22b95263f21f523c16"}
+
+===== PAGE 1 =====
+{"alpha_words": 123, "chars": 949, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+1. DATE 2. LOCATION 12. CONCLUSIONS
+, OQ Was Balloon
+8 March 1957 Between Mockville & Arrity, o Bioeauly Beileen
+‘3 DATE-TIME GROUP 4. TYPE OF OBSERVATION N.C roan
+pe 2400 EST F ee Q Was Aireraft
+Local : 423Ground- Vi sual D Ground-Redar EX Probably Aireraft
+GMT 09/0500Z O Air Vi sual 0) Air-Intercept Radar CT Possibly Aircraft
+5. PHOTOS & SOURCE QO Was Astronomical
+CO Yes : O Probably Astronomical
+@.No Bieed enn O Possibly Astronomical
+7. LENGTH OF OBSERVATION 8. NUMBER OF OBJECTS | 9% COURSE O Other
+Hf wauntaqo insufficient Data for Evaluation
+: Fm NW, circledg Unknown |
+two minutes one then NE, t
+10. SRIEF SUMMARY OF SIGHTING 11. COMMENTS
+Dne object long w/round nose, 30 feet |}Possible a/c sighting, jet wy }
+long. color gray-white, green light very|jafterburner, ey
+bright width of nose--flame 30 feet. H
+
+long, no sound, alt. 2000 feet to 500
+feet. Object faded from view. {
+
+ATIC FORM 329 (REV 26 SEP $2)

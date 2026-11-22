@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T13:14:06Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3632143, "source_ctime_ns": 1793371336110864290, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28937750/0539.jpg", "source_mtime_ns": 1785688825000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28937750/0539.jpg", "source_sha256": "b52720bec9f74174862c525d71a29dd8d83565522f0fac5010a1be432468b2ed"}
+
+===== PAGE 1 =====
+{"alpha_words": 134, "chars": 811, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+16. Tell in a few words the following things about the object.
+@ Sound Me
+b. Color __ Grevewhite
+
+17. Draw o picture that will show the shape of the object or objects. Lebel and include in your sketch ony details
+of the object that you sow such as wings, protrusions, ete., and especially exhaust trails or vapor trails. Place
+on arrow beside the drawing to show the direction the object was moving,
+
+( eJ Perfectly round similiar to a balloon or nine none ball,
+yo
+
+r.80' vine to the Bast of mv vision,
+
+18. The edges of the object were:
+(Circle One): a. Fuzzy or blurred
+b. Like a bright stor
+harply outlined
+« Don't remember
+
+e. Other
+
+19. IF there was MORE THAN ONE object, then how mony were there?
+Draw a picture of how they were arranged, and put an arrow to show the direction that they were travel ~~

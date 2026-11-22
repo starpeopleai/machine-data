@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T13:16:30Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4071334, "source_ctime_ns": 1793374920289248348, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28953930/0027.jpg", "source_mtime_ns": 1785696471000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28953930/0027.jpg", "source_sha256": "cdad018ef4123a5027700104235849d6895e8a5013c8bbea4d5ec19d9357fa33"}
+
+===== PAGE 1 =====
+{"alpha_words": 151, "chars": 952, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+AIR 093 he
+| RR JEDWP JEDEN 222
+DE JEPHQ 179C -
+
+FM HQ USAF WASHDC ; a ;
+TO JEDWP/CGAMC WRIGHT PATTERSON AFB OHIO ‘ 4)
+INE JEDEN/CGADC ENT AEB COLO
+YFROM AFOIN 54365 CCGAMC PASS TO CG ATIC
+ACTION ON MESSAGE QUOTED BELOY FROM HQ ADC ENT AFB COLO IS-TRANSFERRED
+‘TO ATIC CMA THE ORGANIZATION HAVING PRIMARY RESPONSIBILITY FOR UFO
+PROGRAMe NO ADDITIONAL INFO AVAILABLE THIS HQe MESSAGE READS
+
+CMA NUMBER COC 86 DTG 260532. OUR_AP RADIO NEWS SERVICE MSG es
+
+AP 19@ STH 15 MIN SUMMARY CMA TENTH ITeM Ci IGGED /DISC/
+
+STATES THAT LUMINOUS OBJECTS TRAVELING AT SPEEDS FASTER THAN SOUND
+
+HAVE BEEN OBSERVED AND TRACKED CN RADAR WITHIN PAST FEW DAYS IN
+
+PORK CHOP AND OLD BALDY HILLS AREA WESTERN KOREAN FRONT.
+
+/STH 15 MIN SUMMARY SIGNED DY 1928 PES 19/. IN VIEW OF RADSR fubebn
+SIGHTING OF POSSIBLY SIMILAR SUPERSONIC OBJECTS LAKE SUPERIOR, Seite,
+AREA 29/9135 TO 29/02047 APR FURTHER INFO OR EVALUATION OF THIS 2” °° pot
+AP REPORT IS REQUESTED =
+
+IA, ao 5%
