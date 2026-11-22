@@ -1,0 +1,48 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T20:12:04Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 687119, "source_ctime_ns": 1793392771680815169, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302570733/0426.jp2", "source_mtime_ns": 1785808145000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302570733/0426.jp2", "source_sha256": "56c19ff78737cf4633ff6cd90ba797b6070257b342f7f7f5fb9387c8b664b679"}
+
+===== PAGE 1 =====
+{"alpha_words": 289, "chars": 1749, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+“At. tos dele
+
+ata al
+
+8. IF you saw the object at NIGHT, what did you notice concerning the STAKS and MOON?
+8.1 STARS (Circle One): 8.2 MOON (Circle One}:
+a. None a. Bright moonlight
+b, A few b, Dull moonlight
+c. Many c. No moonlight — pitch dark
+d, Don’t remember d, Don’t remember De “uct -thtnk Ghee was
+Ue aang a ACT de ee esc 8: Le a ae) CaO SES Rea ae Me cty yd
+9. What were the weather conditions at the time you saw the object?
+CLOUDS (Circle One): WEATHER (Circle One):
+a. Clear sky On Dry.
+b. Hazy b. Fog, mist, or light rain
+c. Scattered clouds c. Moderate or heavy rain
+d. Thick or heavy clouds d. Snow
+; e. Don’t remember
+10. The object appeared: (Circle One);
+a. Solid d. Asa light
+b. Transparent e. Don’t remember
+c, Vapor
+V1. |f it appeared as a light, was it brighter than the brightest stars? (Circle One):
+a, Brighter c. About the same
+b. Dimmer d. Don't know
+11.1 Compare brightness to some common object: afpater en prema!
+Re eo rae aia rae? a om: ae a nel ru, trea aoe Le Cumnie. pet — flack se
+mii -— & 2 ay JED Dt Lice AVE 2 a eames “NY PO oe Ay , aye
+ad a eee v @)
+12. The edges of the object were:
+(Circle One): a. Fuzzy or blurred ex, Other 2 ==
+ic Beth hated tN ef chs
+b, Like a bright star eas
+c. Sharnly outlined pa atcha eat Caorecd esos nO s eetimees bros Tee Sa
+d. Don’t remember Fed thes
+13. Did the object: (Circle One for each question)
+a, Appear to stand stil! at any time? Yes No Don't know
+b, Suddenly speed up and rush away at any time? Yes No Don't know
+c. Break up into parts or explode? Yes No Don’t know
+d. Give off smoke? Yes No Don't know
+e, Change brightness? Yes No Don't know
+f, Change shape? Yes No Don’t know
+gq. Flash or flicker? Yes. No Don’t know
+h. Disappear and reavpear? Yes No_ Don’t know

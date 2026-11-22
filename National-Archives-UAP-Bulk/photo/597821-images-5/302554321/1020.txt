@@ -1,0 +1,69 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T20:21:39Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1667533, "source_ctime_ns": 1793390925627418931, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302554321/1020.jp2", "source_mtime_ns": 1785808485000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302554321/1020.jp2", "source_sha256": "aba40ceec69043f741ab506906425dd06ac8c82583548d0ad573d0897d74948e"}
+
+===== PAGE 1 =====
+{"alpha_words": 259, "chars": 1657, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+caliente aR ee Dale hie Rees Bie BAN bbe ee ota hana Ae ST i TREE Cen) a0 49s ia? SERGE OTE tpeerrreye
+
+VPage 2
+8. IF you saw the object ot NIGHT, what did you notice concerning the STARS and MOON?
+8.1 STARS (Circle One): 8.2 MOON (Circle One):
+eo. None a. Bright moonlight
+b. A few b. Dull nal
+*@, Many c. — pitch dark
+6: (a Don't rer "' remember ) Wer oN apa ge od J
+
+OX emay/1 Zo ¥ Ceall, .
+
+9. What were the weather conditions at the time you saw the object?
+
+ba OUD DS (Circle One): WEATHER (Circle One):
+Clear ‘lear sky ) Han eilfa B Rouen (a. Dry )
+
+Cet Hazy 1h on, NUCH b. Fog, mist, or light rain
+
+ce. Sesttered clouds c. Moderate or heavy rain
+
+d. Thick or heavy clouds d. Snow
+
+e. Don’t remember
+
+10. The sbiect appeared: (Circle One):
+
+) a. Solid (d._As a light) (eo, FPxa Dan MmMoung alubs aceite Dh
+
+6b. Tronsagrent e. Don't remember
+
+e. Voeper
+
+ll. |f it eppecred as a light, wes it brighter than the brightest stars? (Circle One):
+
+, a. Brighter c. About the same
+>. Dimmer d. Don’t know
+
+S
+{
+b.
+
+11.] Compare brightness to some common object:
+
+O rx tite V7 Laut Wan :
+
+12. The edses of the object were:
+
+(Circle Ona): a, Fuzzy or blurred e
+
+other ea. dum Aan,
+b. Like a bright stor
+
+e. Sharply outlined es
+d. Don't remember pos FU aes neh Se
+
+13. Did the object: (Circle One for each question)
+a. Appear to stand still at any time? Yes Don't know
+b. Sudden!y speed up ond rush away at any time? Yes Don't know
+c. Breck up into parts or explode? Yes Don't know
+d. Give off smoke? Yes Don’t know
+e. Change brightness? Yes Don't know
+f, Change shape? Yes Don't know
+g. Flash or flicker? Yes Don't know 1
+h. Disappear and reappear? Don't know

@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T19:46:06Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5836214, "source_ctime_ns": 1793368705435149971, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28929246/0631.jpg", "source_mtime_ns": 1785688754000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28929246/0631.jpg", "source_sha256": "736803108ee869f03681258e1f21aceddf7b33c9dcbf5062a8c3f6e222744314"}
+
+===== PAGE 1 =====
+{"alpha_words": 116, "chars": 850, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+B/ ite lye » ALT
+sets; e Project
+
+"SIGH"
+
+ANS PSS Ast Ind 2k, Jan 1949
+
+HSADQUARTBRS, AIR WEATHER SERVICES Andrews Air Force Base, Wash-
+Anzton 25, De C.
+
+TO: Commanding General, Air Materiel Command, Yirisht-Patterson
+Air Force tase, Dayton, Ohio
+ATTN: BUCIAXO
+
+Investications by this headquarters reveal that a synoptic
+weather balloon could have beer. at the location where sishtings
+ware reported in'the following ircidents. In compiling this
+list consideration was given to the wind direction and spesd at
+the surface and aloft at the scheduled time of balloon ralease, and
+the location of the nearest weather station making balloon obser-
+
+wationa.
+2 52 91 125
+' oo ee 72 2 Lys
+ly 73 i. 155
+2 75 . 105 166
+23 81 113 149
+36 87 115 172
+
+FOR Tits CHIEF AIR WEATHER SERVICE
+
+Jaf We As West
+< Inclsa: W. A. WEST
+n/o Lt. Col., USAF
+Adjutant General

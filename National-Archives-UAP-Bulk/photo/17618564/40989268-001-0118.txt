@@ -1,0 +1,50 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T20:00:12Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 16825277, "source_ctime_ns": 1793355679525752880, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0118.jpg", "source_mtime_ns": 1785564501000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0118.jpg", "source_sha256": "40e880c328d5e584e450542b8b0825c65e40f212471becbb4b806332397ef9fc"}
+
+===== PAGE 1 =====
+{"alpha_words": 207, "chars": 1489, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Altitude
+oid Standard 1427
+
+rd It ell ——-—- 230 Large Cups |431
+
+70 60 50
+Wind (ft. /sec.)
+
+Figure 7. Comparison of Winds Indicated by a Modified and a Standard
+"ROSE" Balloon
+
+The use of small lightweight spheres was found to be the most effective solution.
+
+The subcritical sphere is as stable as the best of the previously mentioned modified
+balloons. The use of 1/4-mil mylar balloons as wind sensors is practical, with no
+serious handling problems. ''Weightless' valves (holes covered with a porous
+material, as designed by G. T. Schjeldahl Company) are effective and present no
+great problems provided they maintain sufficient balloon superpressure. Balloons
+equipped with these valves will rise more slowly initially than the standard balloon
+
+with a pop-out valve, and then more rapidly at higher altitudes. This is desirable
+in that the Reynolds number is lower at launch.
+
+Altitude
+(K ft.)
+
+29
+— Standard 1348
+--- | meter i511
+
+130 120 110 100 90
+Wind ( ft./sec.)
+
+Figure 8. Comparison of Winds Indicated by a Modified and a Standard
+"ROSE" Balloon
+
+Measured drag coefficients for the standard type "ROSE" balloons, with diam -
+eters of 36 inches, 40 inches, and 2 meters, were considerably different from the
+
+classical values. In general the measured drag coefficients reached peak values of
+
+approximately 1.0 near a Reynolds number of 10° and then decreased rapidly on
+
+each side of this point but remained greater than the classical values over the entire
+
+measured range.

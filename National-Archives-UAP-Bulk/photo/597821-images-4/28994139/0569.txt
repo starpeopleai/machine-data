@@ -1,0 +1,77 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T19:55:52Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8961367, "source_ctime_ns": 1793385789955202698, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28994139/0569.jpg", "source_mtime_ns": 1785747997000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28994139/0569.jpg", "source_sha256": "64f7287f36cfe318503e7989bc8fb4dbf0e4bd0a0bfe0b65efe4a4ad532852d7"}
+
+===== PAGE 1 =====
+{"alpha_words": 79, "chars": 640, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Ze
+
+de
+bie
+De
+Se
+Cie
+2e
+Se
+
+Di.
+2.
+oe
+Fe
+G1.
+
+Ze
+
+Ja
+
+Le
+
+/Bl. WAS LOOKING FOR SATELLITES Os ,
+
+45 DEGREES ELEV, 363 DEGREES AZIMUTH RELATIVE (12 8909'"CLOCK)
+
+“99 DEGREES (OVERHEAD)
+
+STRAIGHT
+
+DISAPPEARED WHEN ACFT TURNED
+
+5 MINUTES
+
+AIR VISUAL
+
+NONE
+
+RC 121D ETHAN-33 13900 FEET 295DECREES 193KTAS
+MCCLELLAN AFB.
+
+1598192
+
+NIGHT
+
+3227N 12802
+
+WALDRON KeTe I4LT 955 AEW&C SO. PILOT 23293 HOURS
+
+CLEAR, UNRESTRICTED VISIBILITY, OGERCAST STRATOEUM AT 4096
+SURFACE 25 2/25
+
+S$, evo 7° 298/12
+
+16,023 ~~ 319/2¢
+25,202 390/25
+
+39,9229 aga
+
+PAGE THREE RJWZSBA 7
+
+59,202 242/29
+
+CEIKLING UNK
+
+VIS UNL
+
+Fe eR tr pe pene
+
+i
+eS Ce ene
+
+Ne pe re er

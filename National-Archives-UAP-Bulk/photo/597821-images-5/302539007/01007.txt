@@ -1,0 +1,22 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T19:30:17Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1738891, "source_ctime_ns": 1793389306866214403, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302539007/01007.jp2", "source_mtime_ns": 1785808353000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302539007/01007.jp2", "source_sha256": "41111be0b2ed4139e504e33c9d1842dacc92a63b23780debc7bf2f634b6d82c9"}
+
+===== PAGE 1 =====
+{"alpha_words": 119, "chars": 801, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+o'
+
+. NO CASE (INFORMATION ONLY) a2May 1965 8+!
+
+Seurces Saucer News Letter # 2h dtd 15 Aug 65 Lerey, Chie
+
+!
+OHIO CHILOREN WITNESS NEAR=LANOINGs An unusually interesting clipping that has just
+| reached us tells of an incident that occurred in the early evening of May 22nde Six child-
+ren who were playing baseball in a residential neighborhood in Leroy, Ohio, saw a saucer
+which almost landed on a garage roof before it skimmed over the rooftops and disappeared be-
+hind a clump of trees across the street. There was a buzzing or purring noise emitting from
+| the object, and it appeared to have windows. A horse and dog that were nearby went into a
+
+| state of panic, and neighbors reported radio and television interference at the time of the
+| incident.
+
+. @ @22 484 eaeaeaanaaananananaaeee"”"

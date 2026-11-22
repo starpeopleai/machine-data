@@ -1,0 +1,19 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T20:12:06Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 734595, "source_ctime_ns": 1793394307370631817, "source_file": "National-Archives-UAP-Bulk/photo/733667/733667-002-005-0003.jpg", "source_mtime_ns": 1785567352000000000, "source_rel": "National-Archives-UAP-Bulk/photo/733667/733667-002-005-0003.jpg", "source_sha256": "2600aba89c4e0de04a2f1b8b69374c8b12d9431d03a0e6fbe693d149996759b2"}
+
+===== PAGE 1 =====
+{"alpha_words": 45, "chars": 315, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+W. Wiers,
+527 S. Hobart #502
+
+Gentlemen, Los Angeles CA 90020
+
+Please send me the 30-cent copy of that FAA form
+summarizing that Japan Air Lines pilot's sighting
+of a UFO. Also, some information about that
+$194.30 package regarding the same.
+
+My information comes from the L.A. TIMES.
+
+I hope it is correct.
+
+Youre

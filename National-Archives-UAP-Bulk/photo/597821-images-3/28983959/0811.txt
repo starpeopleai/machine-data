@@ -1,0 +1,49 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T19:38:14Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4364156, "source_ctime_ns": 1793382454001433611, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28983959/0811.jpg", "source_mtime_ns": 1785701106000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28983959/0811.jpg", "source_sha256": "cf34a78520341561370288af624adb2c3f39d29da3bf6ff7d85007d7cf8b3866"}
+
+===== PAGE 1 =====
+{"alpha_words": 42, "chars": 378, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PAG
+
+Be
+26
+Se
+
+Eve
+
+£ TWO ROESBJ 1D
+
+Qs NORMAL OBSERVATION
+
+ELEV 242 DEGREE-AZIMATH 279 DEGREE
+STILL IN SIVHH
+
+STEADY POSITION
+
+N/A
+
+27/2225Z2 PRESENT
+
+4. CROUND-VISUAL
+
+BINOCULARS
+
+N/A
+
+£, 27/0 2257
+
+VERY DARK
+
+3e28n sT2u—Wi4is SA UFLEY
+
+FEMRITE, JeUe ~ A/3C TWR OPERATOR RELIABILITY UNK
+
+e UNRESTRUCTED
+SFC 182/25
+9 168/15
+
+7 re afr rt ef =
+DBA 4 fas
+
+S282 1s¢/i5
+
+AS 162/15

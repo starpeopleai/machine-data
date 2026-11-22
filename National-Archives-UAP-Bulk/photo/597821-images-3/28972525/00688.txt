@@ -1,0 +1,79 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T19:54:35Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8328165, "source_ctime_ns": 1793379522578276273, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28972525/00688.jpg", "source_mtime_ns": 1785700754000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28972525/00688.jpg", "source_sha256": "46cfc34321d2899ebe3a85795fc34c937e62c7517b7fc38ed7afcc8036bd0d98"}
+
+===== PAGE 1 =====
+{"alpha_words": 109, "chars": 896, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+% DATE 2. LOCATION
+,
+
+28 October 1957 E of Kerhonkson, New York
+3. DATE-TIME GROUP 4 TYPE OF OBSERVATION
+
+.Lecol 8 Ground-Vi sual 0 Ground-Rodar
+
+GMT_2 8/22300Z O Air Vi suol O Air-Intercep? Rador
+
+: Peace : 6. SOURCE
+O Yes
+x@ No Civilian
+
+7. LENGTH OF OBSERVATION
+
+not riven
+
+8. NUMBER OF OBJECTS | 9. COURSE
+
+one descending
+
+al
+
+2. CONCLUSIONS
+
+Wos Bolloon
+Probobly Balloon
+Possibly Balloon
+
+Was Aircraft
+Probably Aircroft
+Possibly Aireroft
+
+Probobly Astronomical
+Possibly Astronomical
+
+Other
+X Insufficient Data for Evaluation
+nknown
+
+a]
+0
+a
+oO
+a |
+0
+O Was Astronomical
+Oo
+Oo
+Oo
+n
+oO
+
+10. BRIEF SUMMARY OF SIGHTING
+
+Object shape and size of a star,
+yellow with jagged edges,
+reappeared just above horizon.
+
+11. COMMENTS
+
+Faded &
+
+Comet ENCKE.
+
+Insufficient information for
+proper evaluation, but object
+was possibly a star,
+
+Possibly
+
+ATIC FORM 329 (RZV 26 SEP 52)

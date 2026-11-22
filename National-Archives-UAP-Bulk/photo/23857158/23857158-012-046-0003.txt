@@ -1,0 +1,44 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T19:36:38Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4080516, "source_ctime_ns": 1793360092900465724, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-012-046-0003.tif", "source_mtime_ns": 1785681626000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-012-046-0003.tif", "source_sha256": "32124c64eaf2c49f599255dfd87a34669545c064b4ee03ab960809308c005662"}
+
+===== PAGE 1 =====
+{"alpha_words": 101, "chars": 792, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Declassification Authority NND 923007
+
+-&3 5 433 4° ee
+PAGE THREE RJEPSNID:-
+USING FIELD SEES “A/2C ROBERT MYERS, 655TH AC&W SQUADRON, “RADAR
+Te A. CLEAR
+
+B., WATERTOWN -WINDS ALOFT. re 300/19, 310/15,- 200/20, 320/25,
+
+508/35,
+
+290/35, 298/35, Bee cade
+
+CLEAR aa
+15 _ MILES
+NONE
+
+ee
+
+NONE
+3. UNKNOWN
+9 NONE
+
+U1d. SCRAMBLED “JUMPING JACE ABLE ONE AND Two AT 0302Z TALLY-HO AT 9340,
+JJA-1 VISUSL CONTACT WITH OBJECT SEEMING ABOE THEM AND TO NW, MOST
+LIKELY A STAR. ~~
+
+11. NONE |
+
+- 12. JOSEPH B WAGMAN, L/LT., SENIOR DIRECTOR, > “ABLE. CREW, 6551 TH ACWRON,
+
+IT IS BELIEVED THAT THE OBJECT COULD HAVE. BEEN A STAR. HOWEVER, THE
+OBJECT DID MOVE AT RAPID PACE: AND AFTER -45 MINUTES, DID FINALLY BE
+THESE ACTIONS ARE- a CHARACTERISTIC OF “A STAR. x
+
+BT 2 _
+
+B4/1445Z SEP RJEPSN a ED
+
+e—i tt —

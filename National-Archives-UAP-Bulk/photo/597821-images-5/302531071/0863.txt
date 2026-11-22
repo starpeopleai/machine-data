@@ -1,0 +1,37 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T20:25:02Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1770979, "source_ctime_ns": 1793388687739504214, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302531071/0863.jp2", "source_mtime_ns": 1785808388000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302531071/0863.jp2", "source_sha256": "5ca4db2b578c1fae2e891d16959829f4020189b5c7a354b1515f8ee565838424"}
+
+===== PAGE 1 =====
+{"alpha_words": 123, "chars": 946, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+DEPARTMENT OF THE AIR FORGE
+STATE MESSAGE PRANGH
+
+AF IN: 35976 (23 Nov 63) yg aah ti Page 4 of 5
+PAGE 4 RUCQAQ 9 UNCLAS INCOMING |
+(7) 19/97202 |
+9-1290 SURFACE INVERSION -2 DEGREES C FROM NORMAL |
+{920-990 -5 DEGREES ‘FROM NORMAL |
+992-389 SUBSIDENCE INVERSION -7 DEGREES |
+880-5523 -9 DEGREES |
+659-529 INVERSION -12.5 DEGREES |
+620-TROPO -12 |
+19/2192 - SAME AS 3720 EXCEPT NO SURFACE INVERSION |
+
+K. CHIEF, COMBAT INTELLIGENCE DIVISION, WEATHER OFFICE MCCOY
+
+AFB STATED THAT WITH THE DOUBLE INVERSION BALLOONS RELEASED
+
+1
+}
+
+"
+
+FRO’ NEAR BY STATIONS COULD POSSIBLY HAVE PRODUCED MULTIPLE ‘
+ILLUSIONS BUT THAT CONSIDERING WINDS AND THE FACT OF TwO", ™
+DIFFERENT SIGHTINGS, THIS WOULD NOT Be LIKELY. THERE WERE
+
+NO AIRCRAFT FROW MCCOY OR.SANFORD NAVAL AIR STATION IN THAT
+PARTICULAR AREA AT THE TIME OF THE SIGHTING, NOTHING
+
+UNUSUAL WAS DETECTED BY AC&W OR APPROACH CONTROLS AT THE
+
+TIM# OF SIGHTINGS. OBSERVER IN QUESTIONING SEEMED RELIABLE

@@ -1,0 +1,58 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T19:37:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4169032, "source_ctime_ns": 1793379169255763713, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28971358/1105.jpg", "source_mtime_ns": 1785700829000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28971358/1105.jpg", "source_sha256": "953155b2ab1fbe2654784e12c994a2c109f5c82a403e880e2834d2ae20b62945"}
+
+===== PAGE 1 =====
+{"alpha_words": 209, "chars": 1258, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+AEN ENR Bbigh
+
+Page 7
+
+34. What were the weather conditions at the time you saw the object?
+
+34,1 CLOUDS (Circle One) 34.2 WIND (Circle One)
+a Clear sky > «,_No wind >
+b. Hazy b. Slight breeze
+c. Scattered clouds c. Strong wind
+d. Thick or heavy clouds d. Don't remember
+e. Don’t remember
+
+34.3 WEATHER (Circle One) 34.4 TEMPERATURE (Circle One)
+
+ca Dry> a. Cold —
+
+b. Fog, mist, or light rain 7b. Cool>
+c. Moderate orheavy rain c. Warm
+d. Snow d. Hot °
+e. Don't remember e. Don't remember
+
+35. When did you report to some official that you had seen the object?
+
+Ze <i ON a: OE Ph
+
+Day Monty ” Year
+
+36. Was anyone else with you at the time you saw the object?
+
+(Circle One) irs No
+36.1 IF you answered YES, did they see the object too?
+(Circle One) Nes) No
+A
+
+36.2 Please list their pares and addresses: Sih i ee ne an ae Ant
+oe e~"L - Awke fea 7
+3 ‘ eal tt et
+Py OS Lt . —? Ps oe
+
+Vs —wringLip Ly Php AA hs /
+wry Ay tagyyI .a—-t¢rde gf _Fheyr. Ape thos
+/
+
+I
+ys ef nm tA
+
+37. Was this the first time that you had seen an object or objects like this?
+
+(Circle One) Yes (No/
+37.1 IF you answered NO, then when, where, and unde what circumstances did you see other ones?
+if
+
+38. In your opinion what do you think the object was and what might have caused it?

@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T19:33:34Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3577795, "source_ctime_ns": 1793375247292134523, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28955296/0010.jpg", "source_mtime_ns": 1785696791000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28955296/0010.jpg", "source_sha256": "2cbf165a2d1c9001a56d501161c7346e114e9990eef924901491683ca9ec2735"}
+
+===== PAGE 1 =====
+{"alpha_words": 56, "chars": 406, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+HEADQUARTERS
+S20TH AIR DEFENSE GROUP
+TRUAX FIELD
+
+vce man AA JUL 1953
+
+DGAG
+
+SUBJECT: Report of Unidentified Objects
+
+TO: Commander
+Air Technical Intelligence Center
+Wright-Patterson AFB, Ohio
+
+Reference to inclosure #1, Report of Sighting of Unidentified Objects,
+for your information.
+
+FOR THE COMMANDER:
+
+a
+
+a ol i d J
+1 Incl NA. AMOS —
+Rent of Sighting of Uni- 2nd Lt USAF
+
+dentificd Objects Adjutant

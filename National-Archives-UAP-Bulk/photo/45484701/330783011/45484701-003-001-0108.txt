@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T19:50:24Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7217407, "source_ctime_ns": 1793362520313071202, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330783011/45484701-003-001-0108.jpg", "source_mtime_ns": 1785685153000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330783011/45484701-003-001-0108.jpg", "source_sha256": "d4a5152b7bffe6c5f4f63928fd2ad99997c33e9296bdc6bfb38fd266717b161e"}
+
+===== PAGE 1 =====
+{"alpha_words": 41, "chars": 275, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Charleston, S.
+
+ve LAJAr lover?
+
+Vould like to express my oponion on
+
+Saucers, and guess tt will be as good as
+redde
+
+heartng any thing about them
+until
+
+ys could be strong enough
+t looking apparition.
+
+dec
+Stncerely
+
+Florence whitish
+
+Declassification Authority: NND 923007

@@ -1,0 +1,47 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T19:34:30Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3782331, "source_ctime_ns": 1793373964808178101, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28949529/0284.jpg", "source_mtime_ns": 1785696528000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28949529/0284.jpg", "source_sha256": "e8971af2df0d484d405fe3d5997abf27f8edaa9ed726ab55b615e2b9f1059f98"}
+
+===== PAGE 1 =====
+{"alpha_words": 85, "chars": 683, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+IV. BALLOON DATA 7
+
+GJProbably Balloon
+(J Possibly Balloon
+
+(Was Aircraft
+(CJProbably Aircraft
+(_] Possibly Aircraft
+
+(_) Probably As: :onomical
+(_] Possibly Aziz: wacwical
+
+("J Other:
+
+_ €jNo }
+ws PEP EAD eh eM lig TY Describe
+ation Type Launching Agency! Yes | No ‘ lighting _
+a eee A 4; berg. Fal, an Len aes fre.) PF i dei :
+bv.
+Co
+ad.
+(attach overlay)
+V. EVALUATION —
+° A 3 ° T. Ts
+C) Excellent [J Good
+Good (_) Fair
+C) Fair (_) Poor
+(Poor (_] Insufficient to Evaluate
+(J Unreliable
+Extremely Doubtful
+(CC) Hoax
+25. FINAL EVALUATION: ,
+C) Was Balloon (] Was Astronomical
+
+("] Insufficient Data For Evaluation
+
+(—] Unknown
+
+Bh. COMMENTS:
+
+TIC Tost Form 33), (13 Aug 52)
+
+6 lint

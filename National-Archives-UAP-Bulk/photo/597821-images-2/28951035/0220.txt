@@ -1,0 +1,34 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T19:38:45Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4427564, "source_ctime_ns": 1793374275140149814, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28951035/0220.jpg", "source_mtime_ns": 1785696668000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28951035/0220.jpg", "source_sha256": "7a4072be9ac9ff717303bff28c0757e076ad0d9b54343b9250cc9f6bae722c2b"}
+
+===== PAGE 1 =====
+{"alpha_words": 163, "chars": 1200, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+i Py
+
+‘ <
+
+PROJECT 10073 RECORD CARD
+
+ah "A © oe a. Wf ‘ "y
+
+pate : { 2 LOcaTion n/a 12, CONCLUS.ONS
+27 Oct 52 - HICKMAN CANYON, UTAH Was Ballaon
+; G Probably Balloun
+3. QATE-TIMe GROUP 4. TYPE OF OBSERVATION “| o Meeney aneeaed ;
+Loeat 21/0800 ust ___ BNGround- Vi sual | CO Ground-Roder 4 Probevly aireratt
+, OMT OC Air Vi sual O Air-Intercapt Radar G Possibly Aircroft
+= "S. PHOTOS & SOURCE ‘40 Was Astronomical :
+ag CIVILIAN COUPLE D Roray tomepses
+7. LENGTH OF OBSERVATICN i 8. NUMBER OF OAJECTS "9, COURSE ‘EX Other Possibly Guided tis
+H ‘GG Itnsufticions Dota tor Evaiuatian
+a | ,a Unknown }
+“hig, BREE SUMMARY OF SIGHTING | Ve COMMENTS ¥
+, le Sighting occured near Dugway Proving
+Soucer-shaped ‘object with dark area in middle) Grounds.
+and with two "exhaust" pipes in forward . 2. Air search of area by source and
+aection, was obsegved crashing into. mountain. Intell. Officer of Dugway unsuccess=
+' by couple deer Iunting in isolated part of ful.
+Utah. Source and companion have made exten- | 3. Possibility of guided missle tests
+sive search of area. Could find nothing. in area since identical sound heard
+Object nade hoise like an automobile. later on.
+
+ATIC PORm 329 (REY 29 SEP 52) _

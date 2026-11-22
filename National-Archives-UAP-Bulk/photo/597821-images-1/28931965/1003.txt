@@ -1,0 +1,53 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T19:46:20Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5885281, "source_ctime_ns": 1793369600132623791, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28931965/1003.jpg", "source_mtime_ns": 1785688685000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28931965/1003.jpg", "source_sha256": "6f100a4b7c0b9797e23423e12079f59097d98a99a2c019e6b2909394c8ed96c4"}
+
+===== PAGE 1 =====
+{"alpha_words": 151, "chars": 978, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+AMC Form No. 10-507 | ‘ :
+
+ROUTING ShuP
+
+“TO OFFICE AND: INDIVIDUAL. IN TURN - i
+| sYMBOb: fasten NAMES Sos __| DATE, FWD
+A MCIAXD~3.03 NOTE!
+
+Cee ee eee enema mara ee Re cane cememace nesta a
+
+Fee e ence cnc ce ee ee comeenemnsmmmnnen ty memanman-Tirenaie tt i a eee a ee ea
+
+FOR: ! FOLL OWING ACTION (S) AS CHECKED
+
+—s neg ne PLL PO COATED ON a,
+
+Laver tigation t Recommendations |
+ce i
+
+Spee a eens a ee anes
+
+ Appreval
+
+ee Conference Information Signature
+csp sbiihamnaiia tise Aes
+
+a ae epee meen
+
+| Compliance Note and File | See or Phone Me"
+| Coordination Note and Return | Verbal Report
+a cise en ae oe
+| Comment Prep..of Reply
+Distribution - Reply” Direct to Writer |
+REMARKS:
+
+These: inclasures forwarded. oy cd
+
+Ind from Hq 5th Army, 1660 EB, Hyde
+Park Blvd, Chicago 15, Illinois as of
+7 Jan Beh ques Incident filet 185
+
+Ey ROM: | or® TOL WHEN FOLDED HERE FOR RETURN .
+SYMBOL: Teale NAME : PHONE
+
+W-L-23 JAM 47 5 Mil 800M
+
+alae Ennai cen ee naan act aa a al HE
+
+te

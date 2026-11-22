@@ -1,0 +1,43 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T19:54:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8495980, "source_ctime_ns": 1793381070383541441, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28979190/0812.jpg", "source_mtime_ns": 1785700641000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28979190/0812.jpg", "source_sha256": "3eec68d9a68777d056bddd7b3a1e45cbb84ca11ea4e321d21e20bcf9391508ea"}
+
+===== PAGE 1 =====
+{"alpha_words": 213, "chars": 1261, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+oa ~
+
+Pege 4
+
+90. Draw @ picture shat will show the motion thet the object or objects made. Plece en @A° ef the beginning
+of the poth, a °B° at the end of the path, and show any changes in direction during the course.
+
+21. IF POSSIBLE, try to guess or estimate what the real size of the object wos in its longest dimension.
+
+feet.
+
+22, How large did the. object or objects appear as compored with one of the following objects held in the hand
+and at about orm’s length?
+
+(Circle One): a. Head of a pin g. Silver dollar
+b. Pea h. Baseboll
+c. Dime i. Grapefruit
+d. Nicket j. Basketball
+
+Other GOsk Oace
+
+@e Quarter k.
+#. Half dollar
+
+22.1 (Circle One of the following to indicate how certain you are of your answer to Question 22.
+
+a. Certain c. Not very sure
+® Fairly certain d. Uncertain
+FAAE
+
+23, How did the object or objects disappeor from view?
+
+24. In order thet you can give es clear e picture os possible of what you sew, we would Vike fer you te imegine thet you could
+construct the object thet you saw. Of whet type material would you make it? How lerge would it be, and whet shepe
+would It have? Describe in your own words o &ommen ebject or objects which when pleced up in the sky would give the
+
+same oppecrance es the object which you sew.
+
+METAS

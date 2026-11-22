@@ -1,0 +1,47 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T19:47:22Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6293558, "source_ctime_ns": 1793362029609581427, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330781979/45484701-001-007-0140.jpg", "source_mtime_ns": 1785684548000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330781979/45484701-001-007-0140.jpg", "source_sha256": "4702b9dade81a0355b74f46c0656d9ffa25d720aab274dd589935eaf7a16cdea"}
+
+===== PAGE 1 =====
+{"alpha_words": 226, "chars": 1487, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+SUBJEGT: Project "SIGN" CHARACTER: —
+Sa FILE Os
+
+?
+
+DETAILS: (Cont'd)
+
+disappeared from view in flight as if burning ov; or going beyond the
+line of vision, The object stayed the same siz in flight while in view
+and did not burn out in the manner of a shooting star, The object
+traveled in a straight or level plane,”
+
+The following is the weather report as reported by the Daniels
+Field Weather Station for the period of 2130 hours to 2230 hours, 26
+July 1948:
+
+The visibility was 12 miles. There were high seattered clouds
+with less than four-tenths coverage. The temperature was 82 degrees.
+The dewpoint was 67 degrees and the wind was from the goutheast at eight
+miles per hour, The barometric pressure was 30,02 inches of mercury.
+
+At 2230 hours, the weather aloft remained substantially the same except
+that the wind had decreased by eight miles per hour to six miles per
+hour. It was reported that no radio sound or balloon equipment were
+released at this time by the Weather Station at Daniels Field,
+
+Attention is invited to the following Exhibits attached:
+
++
+
+EXHIBIT I - Article Robins Field Times, 9 August 1948, "ALERT CREW MAN
+SEES RED, OVERHEAD" .
+
+EXHIBIT II - Article Augusta Chronicle, 27 July 1948, "BALL OF FIRE
+SEEN IN THE SKIES OVER AUGUSTA"
+
+EXHIBIT III - Article, Atlanta Constitution, 27 July 1948, "SAW FIREBALL"
+
+EXHIBIT IV ~ Weather Sequences 23 July 1948
+
+NOTEs Exhibits are attached to original of this report only,
+
+Declassification Authority: NND 923007

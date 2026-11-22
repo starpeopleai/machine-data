@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T19:55:18Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8765071, "source_ctime_ns": 1793379583659678450, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28972755/00883.jpg", "source_mtime_ns": 1785700748000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28972755/00883.jpg", "source_sha256": "3c21681bcfa2cd36888028e2f7427d36d9d02d06b3acd1cb2bda5bbe17862162"}
+
+===== PAGE 1 =====
+{"alpha_words": 107, "chars": 902, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+re
+
+; PROJECT 10073 RECORD CARD
+
+1. OATE . 2. LOCATION 12, CONCLUSIONS
+as b ; ‘ © Was Balloon
+4 November 1957 Marietta, Georgia O Probably Balloon
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION © Pessibly Balloon |
+© seesaill m O Was Aireroft
+ecel —____ ——- | x Ground-Visuol © Ground-Reder GQ Probably Aircraft |
+. tT aw 2/0050Z. O Air Visual 0 Air-Intereep) Rodor [2 Possibly Aireroft
+5. PHOTOS ; 6. SOURCE © Was Astronomical
+O Yes O Probably Astronomical
+QNo Civilian O Possibly Astronomical
+7. LENGTH OF OSSERVATION 8. NUMBER OF OBJECTS | 9. COURSE O Other
+3 Insufficient Date for Evaluation
+: ; 0 Unknown
+short glinnse one not given
+10. BRIEF + JMMARY OF SIGHTING 11. COMMENTS
+Shiny object with big unusual light Observer could not give the size,
+on right side, traveling in a straigzht|elevation, azimuth or time in sighEp
+path. cannot evaluate without these FEIL'R.
+
+ATIC FORM 329 (REV 26 SEP 52) a

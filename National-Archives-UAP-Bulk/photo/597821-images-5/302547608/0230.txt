@@ -1,0 +1,23 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T20:12:21Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 784001, "source_ctime_ns": 1793390199408069774, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302547608/0230.jp2", "source_mtime_ns": 1785808304000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302547608/0230.jp2", "source_sha256": "48a224c0646b5d463dc7cefc4dde240173b431b4c7f36562ca810c1c57d73342"}
+
+===== PAGE 1 =====
+{"alpha_words": 42, "chars": 310, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Y
+a so : Perey i 2409
+pik fies Mont lOuSKy ‘ LONSxX
+
+api
+
+11 May 1966
+
+FIRST ENDORSEMENT on CO, USCGC LEGARE (WSC 14h) ltr 5720 Ser 120 of May 66
+
+From: Commander, Eighth Coast Guard District
+To: Commandant (CPI)
+
+Subj: UFO Sighting Statements
+1. Forwarded as requested.
+a 2 Ger.
+
+Re P. ZIGAS Po
+By direction

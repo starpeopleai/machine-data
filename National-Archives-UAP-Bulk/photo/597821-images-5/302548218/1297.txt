@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T20:14:31Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 853843, "source_ctime_ns": 1793390244556975347, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302548218/1297.jp2", "source_mtime_ns": 1785807995000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302548218/1297.jp2", "source_sha256": "092384062e988be12344b8ae4dbf3e82aaaf1f2cbf6d5822ee4c4d6bd11b8cd0"}
+
+===== PAGE 1 =====
+{"alpha_words": 69, "chars": 560, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD
+
+‘| 1. DATE - TIME GROUP
+
+| 19. PHYSICAL EVIDENCE
+
+oO Yes
+
+2. LOCATION
+
+| 31 March 66 31,/0800Z Cblorado Springs, Colorado
+'}3. SOURCE 10. CONCLUSION sg)
+
+Civilian Astro (JUPITER ) Ta ae oe
+|| 4. NUMBER OF OBJECTS
+j One
+|| 5. LENGTH OF OBSERVATION /|11. BRIEF SUMMARY AND ANALYSIS : ee er Sse
+‘| XX 2 Minutes Onject described as being the sige of a grapefruit, white, red
+behind a hill.
+Ground-Visual ; =
+| | 7. COURSE
+‘| Stationary
+_|6. PHOTOS
+
+Exves .
+
+O No
+
+3
+
+FORM _
+FTD sep 63 0-329 {TDE) Previoss editions of thie form may be used.

@@ -1,0 +1,52 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T19:44:43Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5579900, "source_ctime_ns": 1793380415696783066, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28975824/00664.jpg", "source_mtime_ns": 1785700963000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28975824/00664.jpg", "source_sha256": "2d00dfe68e93bb6f2bf86904be85292e029de9e4c231867d0657dee711a3aa3c"}
+
+===== PAGE 1 =====
+{"alpha_words": 78, "chars": 609, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+MOTT AIA
+
+° MAN TER: “OF OBSERVATION:
+
+al
+
+A. GROUND VISUAL ean
+
+B,. NONE
+C. N/A
+TIME & DATE OF SIGHTINGS:
+
+A. @6/9415Z DEC
+B. NIGHT
+HJBL 1956, NYC.
+
+IDENT LES ee ALL OBSERVERS s
+
+WEATHERS
+
+he CLEARS
+B, SURFACE 340 DEG 6 KT. 20,00@' 33@ DEG 63 KT
+«6, G98 286 DEG 13 KT. 30,008 354 DEG 81 KT
+
+419,999 316 DEG 39 KT» 50,900 528 DEG 55 KT...
+
+16,090 320 DEG 43 KT. 89,00 UNK DEG UNK KT
+C. CLEAR
+De UNLIMITED >
+
+Ee. NONE
+
+F. NONE oe
+8. METERORITE > POSSIBLY. a
+if. NONE
+
+ti. COC DUTY OFFICER. OBSERVER SAID OBJECT APPEARE
+
+/
+
+VICINITY OF NYACK Ned. y,
+12, NONE
+oT x
+
+~~ pa tert r DM DAwv
+46/L463Z DEC RJEPNY
+
+oo

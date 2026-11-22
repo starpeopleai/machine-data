@@ -1,0 +1,60 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T19:31:31Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1793737, "source_ctime_ns": 1793391792818120525, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302561763/00684.jp2", "source_mtime_ns": 1785808123000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302561763/00684.jp2", "source_sha256": "ca01b50f2da67663cf83514ceaf7a491009e838122bf87958d0f88c5787ef977"}
+
+===== PAGE 1 =====
+{"alpha_words": 163, "chars": 1232, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+(4) Description of flight path: Object moving from original point described
+in paragraph 1b(2) to elevation of 40° along a straight line about 40° east of true north.
+
+(5) Object faded out as it proceeded farther away. Speed increased as object
+rose.
+
+(6) Object visible for approximately two (2) to four (4) minutes.
+c. Manner of observation. |
+
+(1) Ground - visual.
+
+(2) No optical aids.
+
+(3) N/A.
+
+Time and date of sighting.
+
+QO.
+
+(1) Greenwich date-time group of sighting: 0150Z time 26 Feb 67; local
+time 1950 hours 25 Feb 67.
+
+(2) - Night.
+
+D
+
+Location of observer: 46° 51'10"N, 096°49'00"W. (See attached map. }
+
+ty
+
+Identifying information on observers:
+(1) Civilian:
+
+(c) RE: age 16 a QREREERS, Fargo, NDak; phone
+<REUMPE: dent; no reson to doubt reliability of his report.
+
+(b) Tt: age 18; wqyemeeren, Fargo, NDak; phone
+= student; no reason to doubt reliability of his report.
+
+(2) Military: None.
+
+ce)
+
+Waether and winds aloft conditions at time and place of sightings:
+(1) Observers account of weather conditions:
+(a) Winds out of the south at approximately Z2OMPH; no clouds.
+
+(2) Report from 26 Weather Squadron, Grand Forks AFB, NDak.
+
+(a) Wind direction and velocity:
+
+et eaemene ran ere ey
+
+aqncreut
+ae ©
+bd ad A

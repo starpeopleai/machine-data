@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T20:28:53Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3723724, "source_ctime_ns": 1793373353006340516, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28946480/0343.jpg", "source_mtime_ns": 1785688910000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28946480/0343.jpg", "source_sha256": "a315bb898681509d1a75e52f9eebad1befa5e47b83c60d723b570aa224f463c7"}
+
+===== PAGE 1 =====
+{"alpha_words": 72, "chars": 553, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+- co \y
+. f * i
+$6 \" ’
+{ : :
+: y, y ‘ ‘
+“f = . , , \
+. *. vs
+\
+
+Usa = wats Tif53=52 ice
+
+Unidentified Flying Objects
+donolulu, Island of Osbu, Territory Hawa ii Hq, PACD, MATS, Hickam AFB, Hawaii
+29 July 1952 28 July 1952 Feb
+
+Wed M, Pattit, let Lt., USAF ‘s, SE, Horolutu, 7.4,
+
+Mag, Hq, PACD MATS # 07941, DTG 281001
+
+this report is the result of an interrogation of Sourse on an Unidentified
+
+oan sae ans previously reported in referenced message, Source is wifs
+of U.3. Arny.
+
+A? PROVED s
+
+GEORGE H. WILSON
+Major, USa?
+Acting Chief of Intellizenee

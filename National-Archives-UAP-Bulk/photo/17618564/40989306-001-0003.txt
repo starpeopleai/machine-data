@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T20:11:59Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 631984, "source_ctime_ns": 1793356158229065056, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989306-001-0003.jpg", "source_mtime_ns": 1785564624000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989306-001-0003.jpg", "source_sha256": "df7b8a77fa425cb2a85815f3551ec3728bfb669704f2fafc17b6b9dadf2e6684"}
+
+===== PAGE 1 =====
+{"alpha_words": 87, "chars": 691, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ADDRESS REPLY TO
+DIRECTOR, NAVAL RESEARCH LABORATORY
+
+WASHINGTON25, D.C. NAVAL RESEARCH LABORATORY
+AND REFER TO: WASHINGTON 25, D.C.
+2028-134/56 daw 10 February 1956
+
+Froms Director, Naval Research Laboratory
+To : All Holders
+
+Subj: NRL Report R-2844 "REDESIGN OF AN/QRT-1B EXPFNDABLE RADIO
+SONO-BUOY" dated May 1946.
+
+Ref : (a) NRL Ltr. 1570~732/55 cta dtd 18 November 1955
+
+1. The subject report has been downgraded from "COMTIDENTINL" to
+"UNCL/.SSIFIED" by authority of reference (a).
+
+2. It is requested that »11 file copies be marked in nccordence
+with paragraph 0420 of the U. S. Nevy Security Menuel for classified
+
+matter.
+S. M. TUCKER
+— SS
+aie ER amy
+
+J. J. BAGLEY .
+By direction .

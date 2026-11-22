@@ -1,0 +1,63 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T20:27:24Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3528732, "source_ctime_ns": 1793371472412099988, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28938430/1125.jpg", "source_mtime_ns": 1785688925000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28938430/1125.jpg", "source_sha256": "8c1e83fa03eabb0bdee7462af6d1d86780d47d9a76eb69e1a580535106d901d6"}
+
+===== PAGE 1 =====
+{"alpha_words": 104, "chars": 657, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ANIC HO, —
+
+4 te hi 5 roy : a
+Eales } MecOND VAD 27/—
+
+AF NO. ; nena
+
+Wee? HO. a
+DATS OF PORT, —
+
+TU OF ronernG Night
+
+SMA Cigar ..
+
+SIA —
+
+COURSF | an
+
+HO. IH GHOUP_ ee
+
+TOURD_ ome
+
+Pik Urs me . SKETCHES
+
+Waa weary AVTC Porn 329
+( Jan 52)
+
+DATE OF INFO _ 26 Sept 50
+Vfocarton___ Birmingham, Ala, _
+
+SOURCE _ Civilian
+
+oS ee OD we
+
+DATE IN TO ATIC enon
+
+COLOR. Glowing
+
+SPEED  -— — Meaouarwen.
+ene Tis Gibes te a a cs
+ALY 1'TUDK —— Mecuped
+
+LENGTH OF TIM: OnSKAVEN_ 15 Minutes _
+Ground
+TYPE OF OBSERVATION | Drive-in movie
+
+om eo woe
+
+Hovered then went straight up
+
+MANEUVE RS ont and disapneared in about 3 sec. |
+
+Astin (Hin / fonts)
+
+Ce ee ee ee
+
+r
+t
+—

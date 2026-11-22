@@ -1,0 +1,51 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T19:56:45Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9301106, "source_ctime_ns": 1793379363289749589, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28972079/00307.jpg", "source_mtime_ns": 1785701079000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28972079/00307.jpg", "source_sha256": "bd187020f6e2a5850d1f3b9e3f12f33a3ded21fd21477b8ab187b5916d9812c9"}
+
+===== PAGE 1 =====
+{"alpha_words": 110, "chars": 913, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ate
+
+GOS, Det #4, 773d Grd Obsr Sq, dtd 10 Oct 57, Subj: UFOB
+3. Manner of observation:
+a. Ground = visual.
+be None.
+
+Ceo N/A
+
+lh. Time and date of sightings
+@- 110%, 10 Oct 57.
+b. Night.
+5. Locations of observers: 3 ey
+
+ae One observer was located at MP );738.
+
+ce ater cee ES SA ES
+
+6. Identifying information of all observers:
+
+a. Mr HD Harris, Age Unk, 529 Park St, Thermopolis, Wyo,
+policeman.
+
+7. Weather and winds-aloft conditions at time and place of sighting:
+
+ae Hagy cbuds, very thin.
+
+be SURFACE Calm
+6,000 230° Direction Calm |
+10,000 300° it 6 Knots Velocity '
+16,000 290° " 10 * 0 |
+20,000 290° " a * " |
+30,000 290° n 3 OO" a" |
+50,000 290° " 30 +=” i" |
+80,000 290° " 25 tt u
+
+e. Ceiling Unrestricted
+d. Visibility 15 miles plus.
+e. Clound cover 14,000 scattered. High and broken.
+f. Thunderstorms, None.
+g. Other, None.
+8. Other activity:
+
+Ge None.
+
+. " é
+UCR NOT iia Megagad mason ae NEM peck

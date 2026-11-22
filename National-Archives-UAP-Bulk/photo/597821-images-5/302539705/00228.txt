@@ -1,0 +1,43 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T20:18:34Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1059080, "source_ctime_ns": 1793389373545057089, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302539705/00228.jp2", "source_mtime_ns": 1785808060000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302539705/00228.jp2", "source_sha256": "d5a24df4ef49a72997a01c235111a63b517a5e41433557064bda9e759b656424"}
+
+===== PAGE 1 =====
+{"alpha_words": 44, "chars": 265, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+t/man/SAFOICC/72842/27 Aug 65
+
++
+
+as get ian og
+Cit
+
+ae
+Ce Nea
+
+tol po
+Ot
+; *
+
+wey
+
+at
+
+by
+
+pd es
+
+.
+
+forrice Sym jy Gradeyi Date,
+ey Sar- BOE a Ree
+
+‘
+
+4
+
+: ee Comebk cy ~ SAFOI-2
+: eo? Reader ey: +. SAFOI-1
+‘ _ Aotivity cy - SAFOI-2
+; Stayback
+
+Sats
+
+CL inet Io

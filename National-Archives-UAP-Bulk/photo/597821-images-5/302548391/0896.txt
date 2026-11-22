@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T20:14:24Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 849133, "source_ctime_ns": 1793390256308298015, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302548391/0896.jp2", "source_mtime_ns": 1785808149000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302548391/0896.jp2", "source_sha256": "12065ea919cb0cb604849af436aee4915676785e2ecd7ddc87806f05b0e7c025"}
+
+===== PAGE 1 =====
+{"alpha_words": 84, "chars": 593, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD
+
+1. DATE - TIME GROUP 2. LOCATION e
+28 March 66 28/0900Z Maiden, Mass |
+3. SOURCE 10, CONCLUSION
+Civilian Astro (VENUS)
+
+4. NUMBER OF OBJECTS
+
+One
+
+. LENGTH OF OBSERVATION |11. BRIEF SUMMARY AND ANALYSIS Pee
+1 Hour Object was later identified by the witness as the planet Venug,
+; It appeared as a bright white light which moved higher in the
+
+pe ile rh ahh sky until it became a bright white dot ad daylight. |
+
+an
+
+Ground—Yisual
+7. COURSE
+
+Stationary
+
+8. PHOTOS
+
+9. PHYSICAL EVIDENCE
+
+O Yes
+
+Oto
+
+FORM
+FTD sep 63 0-329 (TDE) Previous editions of this form may be used.

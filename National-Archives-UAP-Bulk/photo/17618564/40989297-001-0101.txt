@@ -1,0 +1,130 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T20:14:07Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 843715, "source_ctime_ns": 1793356001224128696, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989297-001-0101.jpg", "source_mtime_ns": 1785564579000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989297-001-0101.jpg", "source_sha256": "6e1bc918d2b2de2b17bb0dd674c8c3c0f6586a110e88faca28f0cc513f1ed0f3"}
+
+===== PAGE 1 =====
+{"alpha_words": 187, "chars": 1332, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+342-53-7026
+
+342-53-7026
+
+342-53-7026
+
+342-53-7077
+
+342-53-7077
+
+342-53-7077
+
+342-53-7077
+
+342-53-7078
+
+342-53-7106
+
+342-53-7106
+
+342-53A-6074
+342-53A-6074
+342-53A-6078
+342-53A-6078
+342-53A-6078
+342-53A-6078
+342-53A-6079
+342-53A-6079
+342-53A-6079
+342-53A-6079
+342-53A-6079
+342-53A-6079
+342-53A-6079
+342-53A-6079
+342-53A-6079
+342-53A-6079
+342-53A-6079
+342-53A-6079
+342-53A-6081
+342-53A-6081
+342-53A-6081
+342-53A-6081
+342-53A-6081
+342-53A-6081
+342-53A-6087
+342-53A-6087
+342-53A-6087
+342-53A-6087
+
+342-53B-6079
+
+11 OF 25
+12 OF 25
+13 OF 25
+20OF6
+3 OF 6
+4OF6
+60F 6
+
+1
+
+1 OF 2
+
+1 OF 2
+
+1 OF 18
+2 OF 18
+3 OF 18
+
+4 OF 18
+
+10
+11
+
+12
+
+8th AF
+8th AF
+
+8th AF
+
+3089 EXP TEST GP
+HOLLOMAN AFB
+
+3089 EXP TEST GP
+HOLLOMAN AFB
+
+3089 EXP TEST GP
+HOLLOMAN AFB
+
+3089 EXP GP HAFB
+3089 MSC EXP GP
+HOLLOMAN AFB
+CONAF MITCHEL FLD
+CONAF MITCHEL FLD
+WRIGHT PAT
+WRIGHT PAT
+
+HQ AMC WRIGHT PAT
+HQ AMCWRIGHT PAT
+HQ AMC WRIGHT PAT
+HQ AMC WRIGHT PAT
+HQ AMC WRIGHT PAT
+HQ AMC WRIGHT PAT
+HQ AMC WRIGHT PAT
+HQ AMC WRIGHT PAT
+HQ AMC WRIGHT PAT
+HQ AMC WRIGHT PAT
+HQ AMC WRIGHT PAT
+HQ AMC WRIGHT PAT
+HQ AMC WRIGHT PAT
+HQ AMC WRIGHT PAT
+HQ AMC WRIGHT PAT
+HQ AMC WRIGHT PAT
+HQ AMC WRIGHT PAT
+HQ AMC WRIGHT PAT
+HQ AMC WRIGHT PAT
+HQ AMC WRIGHT PAT
+HQ AMC WRIGHT PAT
+HQ AMC WRIGHT PAT
+AMC HQ WRIGHT PAT
+AMC HQ WRIGHT PAT
+AMC HQ WRIGHT PAT
+HQ AMC WRIGHT PAT
+
+HQ AMC WRIGHT PAT

@@ -1,0 +1,52 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T19:54:01Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8226539, "source_ctime_ns": 1793363334150918764, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785085/45484701-005-003-0037.jpg", "source_mtime_ns": 1785684908000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785085/45484701-005-003-0037.jpg", "source_sha256": "d604152aa194aaa44c479746e5ac5d0e1b4840459f5ced2f77edb63e3511c598"}
+
+===== PAGE 1 =====
+{"alpha_words": 442, "chars": 2973, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+DETAILS:
+
+1. This investigation was requested by Commander, Maxwell AFB, Alabama,
+predicated upon unconfirmed reports of aerial explosions, alleged aircraft
+crashes and unidentified flying objects, one of which is alleged to have fallen
+through the roof of house, injuring civilian female occupant, on 30 November 1954,
+
+2. This is a joint investigation by Special Agent KENNETH L. ATCHLEY and
+the writer,
+
+AT MAXWELL AFB, ALABAMA
+
+3. At 1540 hours, 30 November 1954, ANDREW R. CURTIS, JR., Captain, Adjutant,
+3800th Air Base Wing, telephonically advised Special Agent ATCHLEY that GILBERT P,
+COHEN, 2d Lt., Officer of the Day, had at 1530 hours, received a telephone call
+from EDWARD J. HOWARD, Mayor, Sylacauga, Alabama, to the effect that a large
+object of either rock or metallic substance had fallen through the roof of a house
+in Sylacauga a few hours previously, and said object had struck and injured a
+woman Occupant of the house, HOWARD stated further that an explosion of some type
+had occurred in the air over Sylacauga at approximately the same time as the object
+had struck the house, HOWARD further advised that aircraft had been seen in the
+area just prior to the explosion. HOWARD stated according to his information, the
+object had been hot when it was found on the floor of the house, CURTIS further
+informed Special Agent ATCHLEY that a 48th Air Hescue Squadron helicopter had
+been dispatched to Sylacauga to obtain the object and return it to Maxwell AFB,
+and Colonel JAMES G, IRATT, Commander, 3800th Air Base Wing, had requested that
+Special Agent ATCHLEY meet the helicopter upon its return from Sylacauga and
+examine the object in an attempt to identify its origin.
+
+ie 2G 2000 hours, 30 November 1954, WILLIAM R. AUSTIN, wOJG, Adjutant,
+3860th Air base Group, Gunter AFB, Alabama, telephonically notificd the writer
+that at approximately 1315 hours he had received a telerhone call from Mrs.
+GEORGE L. MC KEE, 4061 Wares Ferry Road, Montgomery, Alabama, to the effect that
+at approximately 1245 hours, she had seen a large explosion in the air followed
+by a large puff of black smoke, Mrs. MC KEE stated that the explosion appeared
+to be in a northern direction from Montgomery, and she saw only a large explosion
+of flame followed by the black smoke, but did not hear the explosion, AUSTIN
+stated that Mrs. MC KEE could furnish no further pertinent information,
+
+5, At 1610 hours, 30 November 1954, GEORGE R. BUMFORD, let Lt,, Flight
+Service Center, was telephonically contacted regarding any reported aircraft
+crashes, BUMFORD advised they had received numcrous reyorts of alleged aircraft
+crashes and/or explosions during the cfternoon from numerous places in Alabama,
+Mississippi and Georgia, including a report of an explosion in the area of
+Sylacauga, Alabama, BUMFORD advised that all received reports had been or were
+being checked, all with negative results, BUMFORD further verified that the 48th
+
+Declassification Authority: NND 923007

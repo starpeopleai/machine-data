@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T20:18:24Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1057394, "source_ctime_ns": 1793390044851081641, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302545834/0311.jp2", "source_mtime_ns": 1785808204000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302545834/0311.jp2", "source_sha256": "f9ba9040f5f631464d5166c115fd9dd779d4aff8267dda04988ad988b2fbc21e"}
+
+===== PAGE 1 =====
+{"alpha_words": 148, "chars": 958, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+TU eter eter pee
+
+Description of course of object.
+
+B.
+1. What first called the attention of observer to the object {
+From West to East Looking out the bedroom window
+2. Angle or elevation and azimuth of object wher. first observed
+Straignt Ahead
+3. Angle or elevation and azimuth of object upon disaprearance
+From Fast to West Stericht
+4. Description of flight path and maneuvers of object
+Richt over the housa, From east to west
+5S. How did the object disappear (Fade away or instantansously)
+Aight over the house
+6. How long was the object visible? (Be specific, 5 min, one hour)
+5 Min
+Gy Manner of observation. :
+its How was Op dee: sighted, ground-visual, air visual. ground slestrenic, :
+air electronic. (If electronic, specify type of radar)
+Ground<visual
+2, Wereany optical aids used (Telescopes, binoculars)
+No
+3. Was eats an airborne sighting? If so: No.
+Kon Tepe A/C
+5 Tdent No
+CG. Altitude
+D. Heading
+BE. Speed
+F.. Home Station
+G., Telephone No

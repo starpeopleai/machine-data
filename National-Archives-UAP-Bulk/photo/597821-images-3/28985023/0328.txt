@@ -1,0 +1,58 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T19:46:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6027343, "source_ctime_ns": 1793382671156433900, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28985023/0328.jpg", "source_mtime_ns": 1785700926000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28985023/0328.jpg", "source_sha256": "e499acfbd32677921a4870943d63038bafb5d73f1ca18b24a2d4316c00860018"}
+
+===== PAGE 1 =====
+{"alpha_words": 134, "chars": 864, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+. S$)
+Paes Wi \
+“AF IN : 17750 (16 Oct 59)! *3 B/e/Fey: YW GS i ‘
+aa ee ‘ > ~ DIfk! 3b OY Be, de 8S .
+aN
+
+LAMTON:. CTH
+
+AY oe Wl ted oh LN a +
+; ( ; \
+\
+
+SMD 8 218
+
+16.4)
+
+CZCHQD798ZCYJES5
+PP RJEZHO
+
+DE RJEDSB 51
+
+P 161946Z ZEX
+
+FM COMDR 1607 AIRTRANSWG DOVER AFB DEL
+TO RJYFAL/COMDR ADC.
+
+RJEZSN/COMDR DET 3 26 AIRDIV
+RJEDSO/COMDR ATIC oo
+
+RJEZHQ/ ASST CHIEF OF STAFF INTL HO USAF
+RJEZHQ/ OFFICE OF INFORMATION SERVICE HW USAF
+RJZDAA/ COMDR MATS DCS PL INTL DIV
+
+INFO RUEPBL/1926 AISS FORT BELVOIR VA
+
+AF GRNC
+
+BT es
+
+UNCLAS PLN 16-K-11
+
+UFO. As DESCRIPTION OF THE OBJECT:
+
+Cl) WHITE FIREBALL WITH TAIL CHANGING WHITE TO 7)73 59 ?7)73-GREEN,
+(2) THE SIZE OF THE BALL WAS THAT COVERED BY A
+PEA HELD BETWEEN THE FINGERS AT ARM’S LENGTH.
+THE TAIL WAS ONE TQ ONE AND ONE-FOURTH INCHES LONG MEASURED
+3Y THE SAME METHOD.
+
+(5) AS IN SUBPARAGRAPH (1).
+
+C4) ONE
+
+(5) N/A

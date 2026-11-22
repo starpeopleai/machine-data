@@ -1,0 +1,15 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T19:42:47Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5101014, "source_ctime_ns": 1793368767660748049, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28929393/0813.jpg", "source_mtime_ns": 1785688671000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28929393/0813.jpg", "source_sha256": "e49676f475867d5a33870f9078571be018db691f33c3609ace8820abc0d6d047"}
+
+===== PAGE 1 =====
+{"alpha_words": 97, "chars": 646, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Incident No. 10 — July 19!;7, 200 hours, Boise, Idaho, An airline
+pilot and crew watched from the air tio groups, (5 and l, in mmber) of objects
+described as thin and suooth on the bottom and rough on top, silhouctted
+against sunset and flying “louse formation." They followed then for forty~five
+miles; therefore, had vhnem in sight for approximately ten minutes. No further
+information was suomitted,
+
+ANS Opinion: Since the sighting occurred at sunset, when light con-
+ditious caange rapidly and illusory effects are most likely, the objects
+could have been ordinary aircraft, balloons, birds, or pure iliusion. In-
+sufficient informations -

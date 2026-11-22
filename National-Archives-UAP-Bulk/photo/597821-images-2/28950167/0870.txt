@@ -1,0 +1,50 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T20:28:45Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3721778, "source_ctime_ns": 1793374092108902150, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28950167/0870.jpg", "source_mtime_ns": 1785696864000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28950167/0870.jpg", "source_sha256": "68d3bc78642085431140ce2f19a20c283493f5dd9dede5b2df25343d3fc34e0a"}
+
+===== PAGE 1 =====
+{"alpha_words": 91, "chars": 750, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+(
+IV. BALLOON DATA
+a
+
+am D iN ARSA? CYes i No
+2 * Ch » . Minutes ’
+250 N : SS Ie epee eI
+isp sss ‘i Deserive
+_ location Type | _Launching ‘Agene Lighting |
+| et teon, PIP *
+de
+c.
+a.
+“ (attach overlay)
+V. EVALUATION
+SL, EVALUATION OF SOURCES 22, DETA F REPORTS
+() Excellent (E1Gooa
+[=] Good (_] Fair
+(J Fair (_] Poor
+[J] Poor (__] Insufficient to Svaluate
+(~) Unreliable
+C) Extremely Doudtful
+CJ Hoax
+23. :
+CW loon C] Was Astronomical
+Ca Aectenly Balloon (_] Probably 4:  nomical
+CJ Possibly Balloon [_] Possibly A:i...ncmical
+Was Aircraft (—) Other:
+(_j Probably Aircraft
+() Possibly Aircraft ("J Insufficient Data For Evaluation
+C_} Unknown
+Poe
+
+wrhb tire
+geek Areas poled £ belles)
+
+~ =
+ne tA. va
+;
+
+7
+thuateot-
+
+“ALIC Vast
+
+Form 344, (13 Aug $2)
