@@ -1,0 +1,60 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T17:02:05Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8463821, "source_ctime_ns": 1793387443709408833, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28998694/0694.jpg", "source_mtime_ns": 1785748062000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28998694/0694.jpg", "source_sha256": "66866a71fb9bd78bc0196e057d1d74da468d9b11b72f4a9edd83be36a625b59a"}
+
+===== PAGE 1 =====
+{"alpha_words": 136, "chars": 972, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+
+UNCLASSIRAY MeSSA GE
+
+INCOMING
+
+AF IN : 34267 (23 Aug 62) H/em | re 1. Of 2
+
+ACTION: CIN-1L7
+
+INFO : O0P=2, OOP-CP-1, SAFS-3, DIA-10, DIA-CIIC-3 (37)
+SMB B 235
+
+ZOZCHOET SSZCDGATS5
+
+RR RUEAHO
+
+DE RUEADG 14
+
+ZNR
+
+R 2316442
+
+FI? DSIAEWCONWG OTIS AFB MASS
+
+TO RUWGAL/ADC ENT AFB COLO
+
+RUEASH/26 AIRDIV HANCOCK FLD NY
+
+RUCDSR/ AFSC WPAFB OHIO
+
+RUEAHOCSAF
+
+RUEAHO/ OSAF WASH DC
+
+BT
+
+UNCLAS S510IN 8-548,
+
+AFSC FOR FTD, CSAF FOR AFCIN, OSAF FOR SAFOI. UFO REPORT.
+PER PARAGRAPH QR, AFR 298-2, UFO SIGHTING IS REPORTED AS
+FOLLOWS: A. OBJECT DESCRIPTION (1) "“ROUNDISH” €2) UNKNOWN
+CS) WHITE €4) ONEC!) (5) N/A (6) NONE €7) TWO (2) EXHAUST
+FLAMES €8) NONE €9) NONE NOTED 8. COURSE (1) OBSERVER GOT UP
+DURING THE NIGHT AND HAPPENED TO LOOK UP AT NIGHT SKY
+
+oo
+
+2) 50-69 DEGREES €3) OVERHEAD ¢4) IN AN ARC AND HOVERED
+
+FOR FIVE (5) MINUTES AT 50-60 DEGRFES. WENT INTO A VERTICAL
+
+SS
+
+AND AGAIN HOVERED FOR FIV" ©) MINUTES IN WEST.

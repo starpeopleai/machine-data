@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T16:48:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4285053, "source_ctime_ns": 1793382550619171564, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28984477/1296.jpg", "source_mtime_ns": 1785700862000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28984477/1296.jpg", "source_sha256": "d5dd74b56f7ce00d7d646d088d5840fad1e93073e5689b9e2ee0f2c4794b91b3"}
+
+===== PAGE 1 =====
+{"alpha_words": 57, "chars": 404, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+|
+Aik TECHNICAL INTELLIGENCE CENTER
+UNITED STATES AIR FORCE
+WRIGHT-PATTERSON AIR FORCE BASE
+OHIO
+
+REPLY TO NES Bs
+atmy oF: = APCLiV-yEhe
+
+suasect: UFO Sighting (ii . uma: )
+
+fe UeGeigoe
+
+to: SAFOI-3d (Major L. J. Tacker)
+
+Request that questionnaire be forwarded to ir. SMM for further
+information on this sighting.
+
+1 Atch:
+Cy ltr 14 Sep 59, from
+
+Colonel, UpbAr
+Deouty |for\Sciences and Components
+
+_~

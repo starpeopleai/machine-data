@@ -1,0 +1,43 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T16:32:37Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 981498, "source_ctime_ns": 1793388740008462821, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302531679/0021.jp2", "source_mtime_ns": 1785808574000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302531679/0021.jp2", "source_sha256": "cf77f43c5f82af1376c22a848534d16234a7320d1c119b9dd541b95209661f7c"}
+
+===== PAGE 1 =====
+{"alpha_words": 96, "chars": 644, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+( DEPARTMENT OF THE AIR {2c
+STAFF MESSAGE BRANCH
+HINCLASSIFIED MESSAGE
+
+AF IN : 36196 (27 Feb ot) t/ eA 0
+
+ACTION: NIN-7 rs
+INFO : SAF-OS-3, DIA-27, XOP-1, XOPX-6 (45)
+SMB AQ18
+ZCZCHQC4D4ZCQJDG12
+RR RUEAHQ
+
+DE RUWHKP 20 26/2152Z
+ZNR
+RR 2621452
+FM PQADS ADAIR AFS OREG
+TO RUWGALE/ADC ENT AFB COLO
+RUWHBH/25 ADIV MCCHORD AFB WASH
+RUCDSQ/ATIC WRIGHT PATTERSON AFB OHIO
+RUEAH@/HQ USAF WASHINGTON DC
+RUEAH@/SEC OF AIR FORCE WASHINGTON DC
+ited
+UNCLAS POOIN 25-B+7
+ATTN: CAFCIN) AT H@ USAF
+ATTN: CSAFOI) AT SEC OF AF
+UFO REPT
+A. DESCRIPTION OF OBJECT
+
+(1) ROUND
+
+(2) SMALLER THAN DIME
+
+(3) BODY WHITE, TRAIL GREEN
+
+(4) ONE (1)
+
+(5) NONE
+
+PAGE 1 of 4

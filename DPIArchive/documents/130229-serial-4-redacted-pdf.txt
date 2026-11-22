@@ -1,4 +1,4 @@
-{"created_utc": "2026-10-04T02:30:59Z", "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "embedded-text", "pages": 0, "schema": "ufo-files-archive-ocr/v1", "source_bytes": 237155, "source_ctime_ns": 1790603527250358078, "source_file": "DPIArchive/documents/130229-serial-4-redacted-pdf.pdf", "source_mtime_ns": 1790603527189249312, "source_rel": "DPIArchive/documents/130229-serial-4-redacted-pdf.pdf", "source_sha256": "29ed0fb7cbe0be3c23965212bb83c58d3890a0de9253938ee4e9c9bb2349d5fe"}
+{"created_utc": "2026-11-22T17:23:34Z", "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "embedded-text", "pages": 0, "schema": "ufo-files-archive-ocr/v1", "source_bytes": 237155, "source_ctime_ns": 1793476458816616075, "source_file": "DPIArchive/documents/130229-serial-4-redacted-pdf.pdf", "source_mtime_ns": 1793476458809230551, "source_rel": "DPIArchive/documents/130229-serial-4-redacted-pdf.pdf", "source_sha256": "29ed0fb7cbe0be3c23965212bb83c58d3890a0de9253938ee4e9c9bb2349d5fe"}
 
 FD-302a (Rev. 5-8-10)
 

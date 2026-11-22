@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T16:51:23Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5093319, "source_ctime_ns": 1793373116394944933, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28945539/0779.jpg", "source_mtime_ns": 1785688568000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28945539/0779.jpg", "source_sha256": "a87d56d9c46b8bf861a4021460bb1689fb756c9f00ac0853b16a6330023bfd99"}
+
+===== PAGE 1 =====
+{"alpha_words": 133, "chars": 1009, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+UNCLASSIFIED
+
+USASMATS —
+
+‘
+
+Unidentified Flying Spject(s) Sighted Near San Dimas, California 2h July 1952
+; Flight Service, MATS, 3800 Newark
+
+State of California, USA Street, N. W., Washington 25, D. Ge
+25 duly 1952 24 July 1952 m2
+Trank M. Allon, It Colonel, USAF San Dinas, California Sheriff's Department
+
+Teletype FLYOGRPT submitted by March Flight Service Center 2517002 July (DMZ 8272)
+
+ev>~
+Onject(s) was (were) sighted by a Sheriff's officer at San Dinas, California 200525?
+2), July 1952. Deserived as a patch of Licht resembling a fire on the mountain. During
+ovservation the Licht moved South and disappeared, appeared again over Los Angsles and
+moved North to disappear. A socond officer waa called to verify observation. Object
+was a3 larze as a one and one-half inch object held six inches from tha observer's sya.
+light intensity varied within the object, and changed as the object moved.
+
+FRANZ Me ALLON
+LS Colonel, USAF
+Intelligence Officer
+
+Chief, Air Technical Intelligence ONCEASSiEirn

@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T16:51:55Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5400759, "source_ctime_ns": 1793388329944041519, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/29000888/0021.jpg", "source_mtime_ns": 1785748545000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/29000888/0021.jpg", "source_sha256": "ad1d99b832d5eb9b7cb8069410512412be47b7a3cd2f2adcd27ed280014c5fd3"}
+
+===== PAGE 1 =====
+{"alpha_words": 88, "chars": 621, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+{AIS ; 4
+HEADQUARTERS aN Lb te
+397th BOMBARDMENT WING (H) (S&C) ~
+UNITED STATES AIR FORCE
+DOW AIR FORCE BASE, MAINE
+
+REPLY To
+
+Attnor: DCOI/2nd Lt. Richard L, Gibbs/2279
+17 June 1963
+SUBJECT: UFQ
+
+TO: Wright-Patterson AFB, Ohio ATTN: FTD
+
+1. In reference to your message TDE 14—6=252 we are sending prints of
+unidentified objects. You will have the information requested by use
+of stated prints.
+
+2. Additional information is as follows: no other aircraft reports
+observation. No reports of ground radar observation,
+
+CHARD L. GIBBS 1 Atten
+
+69 USAF 12 Prints
+OIC, PREDICTION &
+
+INTERPRETATION BRANCH
+
+ae PS eR ree mane

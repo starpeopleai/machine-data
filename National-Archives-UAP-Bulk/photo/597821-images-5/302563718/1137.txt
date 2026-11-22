@@ -1,0 +1,43 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T16:35:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1267964, "source_ctime_ns": 1793392059679441870, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302563718/1137.jp2", "source_mtime_ns": 1785808086000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302563718/1137.jp2", "source_sha256": "97d94c2a0db8134a93eca9ec57b49ebc412540be0b61cc72e1d8c2a128a61a62"}
+
+===== PAGE 1 =====
+{"alpha_words": 69, "chars": 571, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+UNCLASSIFIED
+
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+INCOMING PAESSAGE
+
+AF IN ; 36621 Pg 20f 3
+
+(8) NONE
+PAGE 2 RUCLERA1509 UNCLAS
+(9) FALLING PIECES = FELL ABOUT 280°
+Bo € 17) STANDING IN NEIGHBORS YARD AND LOOKED UP
+
+(2) OVERHEAD
+(3) WESTERLY
+
+C4) STRAIGHT AND LEVEL
+
+Brae, |
+C5) UNK
+
+(6) 11/2 TO 2 MINUTES
+C. (1) GROUND VISUAL
+(2) NONE
+(3) N/A
+Oe (1) 29 MAR 1967 04-102
+(2) NIGHT = NO MOON
+E. (1) BASE HOUSING AREA, KEESLER AFB, MISS
+
+'. ) iE, ESLER AFB, MISS,
+HOVE P+0€ iii etiam.
+
+iin
+
+G. (1) CLEAR AND CALM
+
+(2) WINDS ALOFT
+
+AFHQ jes 0-309C UNCLASSIFIED

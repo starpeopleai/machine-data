@@ -1,0 +1,37 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T16:45:38Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3855261, "source_ctime_ns": 1793377589685642173, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28964465/0829.jpg", "source_mtime_ns": 1785696608000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28964465/0829.jpg", "source_sha256": "6ed002b79b91b804227e0545f44a7b82e480a5f70639a0436df863900aac5e84"}
+
+===== PAGE 1 =====
+{"alpha_words": 148, "chars": 1300, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+a, “— —-.e oe a
+
+VCD94K 25. UFOB REF PAR 6, AFR 200-2. OBJECT SIGHTED 1939, 3 JAN
+
+56. (1) GA) CURCULAR, (B) PEA. (C) ORANGE. (D) ONE. (E) NEGe
+
+CF) NEG. (G) TAIL (GREEN) TEN TIMES THE LENGTH OF THE BODY. (H)
+
+NO SOUND. (I) NONE. (2) (A) SIGHT & COLOR. (B) 15 DEGREES, 362
+DEGREES. (C) DIRECTLY OVERHEAD. (D) GRADUAL CLIMB AT HIGH SPEED.
+
+(E) OBJECT DISAPPEARED OVERHEAD AS THOUGH ITS LIGHTED |
+CHARACTERIESTICS WERE EXTINGUISHED. (F) THREE SECONDS. (3) (A)
+GROUND VISUAL. (B) NEG. (C) N/A. (4) CA). 9130Z, 4 JAN 56. (B) NIGHT.
+(5) LATITUDE 99 DEGREES W, LONGITUDE 38 DEGREES 45 MINUTES N.
+
+(6) CA) JAMES A. STEVENS, S/SGT. HQ SQ SEC, TTWG, SCOTT AFB
+
+ve A
+PAGE TwO RJEDST 272. a.
+ILL. MAIL &., RECORDS SEC, RELIABILITY - GOOD. (7) (A) CLEAR. (B)
+SURFACE 348 DEGREES 29 KTS, 6,9@@" 33% DEGREES 48 KTS, 146,999°
+31@ DEGREES 4@ KTS, 16,908° 329 DEGREES 4% KTS, 28,9@0° 319 DEGREES
+69 KTS, 30,998° 339 DEGREES 13@ KTS, 58,900° 338 DEGREES 15@ KTS,
+8B,98B" UNK. (C) NEG. (D) 7 MILES (E) 1/1@ SCATTERED 25,998". (F)
+NEG. (8) NEG. (9) NEG. (18) NONE SIGHTED. (11) WING INTEL 0.
+POSSIBLE CAUSE OF SIGHTING: IN VIEW OF RPT PERSON'S OBSR INVOLVING
+EST SPEED & CLIMBING CHAR OF OBJ THE RPT O HAS NO SUBSTANTIAL
+RLTV INFO TO BE ABLE TO GIVE A POSSIBLE CAUSE OF THE PHENOMENA.
+(12) NEG.
+ae
+
+$4/2395Z JAN RJEDST

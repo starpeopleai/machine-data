@@ -1,0 +1,49 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T17:27:00Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1080869, "source_ctime_ns": 1793356373715293336, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989320-001-0051.jpg", "source_mtime_ns": 1785564689000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989320-001-0051.jpg", "source_sha256": "b300599ceb2baa053c3e097f270599ca88aafaf4ffd3245c1f80853f21fc5ccd"}
+
+===== PAGE 1 =====
+{"alpha_words": 141, "chars": 1058, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+(b) Using equations (13a) and(13b) and as in (a)
+above, since we have changed microphone No. 3
+to microphone 2 and microphone 4 to microphone
+3, we have for the velocity V of sound propa-
+gation
+
+V= a cos(A — By2) | from (13a) (19a)
+
+Tals 7
+Vs jh) cos(A = By3) — from (13b) (19b)
+
+(c) For the triangular array equation (17) becomes
+the following:
+
+7 sin(B)2 - Bo3)
+< “4=2) SS Bi> - + ( a2 - 13
+en me cos(By2 - B23) Tap (20)
+
+(a) To obtain the solution for any other three
+microphones (say No. 2, 3 and 4 instead of
+1, 2 and 3) one simply changes each subscript
+into the corresponding one of the new group.
+For example, equations (18), (198), (19b) and
+
+(20) become:
+tan(A - Bo3)= 2 - = ae ae SEY - ctn(B3, - Bg3) (21)
+Ve ws cos(A = B23) (22a)
+Va Gia evel = Bay) | (22)
+
+- Ba,)
+
+gin (
+-7 -T
+
+Thus the equations for azimuth and velocity can
+easily be written for any combination of three
+microphones in the quadrilateral array, as may
+be necessary should one microphone become tem-
+porarily inoperative.
+
+ce. Construction of Station Nomogram
+
+(23)
+
+Appendix D

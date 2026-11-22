@@ -1,0 +1,43 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T16:59:28Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8212522, "source_ctime_ns": 1793383531679104423, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28987208/0877.jpg", "source_mtime_ns": 1785747944000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28987208/0877.jpg", "source_sha256": "fbbdd855267b69df15ebf02228085ddac015d330af4fa3d0fa51b8789a86c843"}
+
+===== PAGE 1 =====
+{"alpha_words": 118, "chars": 828, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+) ¥) as
+
+PROJECT 10073 RECORD
+
+1. DATE - TIME @RoUP a
+6 June 60 07/0155Z
+
+y= -
+
+2. LOCATION
+
+Union City, Indiana (1 Witness)
+
+3. SOURCE .
+
+10. CONCLUSION
+
+AL, No. OE cat
+
+9. PHYSICAL EVIDENCE
+
+0 Yes
+| __ exe
+
+Civilian INSUFFICIENT DATA FOR EVALUATION
+4. NUMBER OF OBJECTS PHOTO: No discernible can be identi fi. ed.
+One
+5. LENGTH OF OBSERVATION /11. BRIEF SUMMARY AND ANALYSIS e
+Not Reported | ' Object was flying W to E. It was quite high. > bert bese. fas’
+and made no concansation trail, but the pattern that appears
+ee around it was not visible to the naked eye. The sun was
+Ground=-Visual behind the observer xxizitt wnen he took the picture. Observer
+7. COURSE stated the photo was not a double exsposure,
+m , 3
+8 PHOTOS: .— |
+xyes. In. File ° :
+
+FORM ‘
+FTD sep 63 0-329 (TDE) Previous editions of this form may be used,

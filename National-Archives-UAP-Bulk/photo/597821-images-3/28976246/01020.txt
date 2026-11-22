@@ -1,0 +1,90 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T16:50:06Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4772121, "source_ctime_ns": 1793380481797380920, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28976246/01020.jpg", "source_mtime_ns": 1785700771000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28976246/01020.jpg", "source_sha256": "6386c7f7d55ce64f7012d05ab369cdbbe625362fdccc85aa950b7c1b91374869"}
+
+===== PAGE 1 =====
+{"alpha_words": 134, "chars": 1028, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+1. DATE
+
+22 December 1957
+
+2 LOCATION
+
+Herefordshire, England
+
+12. CONCLUSIONS
+
+Was Balloon
+Probably Balloon
+
+3. DATE-TIME GROUP
+Local 6:45
+
+cur 22/18452
+
+4. TYPE OF OBSERVATION
+
+XX) Groun d- Vi sual
+
+Possibly Balloon
+
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+
+O Ground-Radar
+
+Probably Astronomical
+Possibly Astronomical
+
+5 seconds
+
+O Air Visual O Air-Intercept Radar
+5. PHOTOS 6. SOURCE
+O Yes
+No Civilian
+7, LENGTH OF OBSERVATION
+
+8. NUMBER OF OBJECTS
+
+one
+
+9. COURSE Other
+Insufficient Data for Evaluation
+
+nknown
+
+oO
+a]
+OQ)
+a
+a
+ia}
+MK Was Astronomical MOteor
+Oo
+o
+o
+o
+a
+
+45 dgr downw
+
+‘lio, BRIEF SUMMARY OF SIGHTING
+
+fog.
+
+One object size of smail pea, color
+light bluish white, Object compared
+to Verey pistol. Object disappeared in
+
+11. COMMENTS
+
+Since observer described this as
+a fireball in several instances,
+and the report itself concurs
+this, sighting probably axa is
+bolide or fireball asthese phen-
+omena are quite prominent at this
+time of year,
+
+ATIC FORM 329 (REV 26 SEP 52)

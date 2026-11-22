@@ -1,0 +1,20 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T16:57:31Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7700790, "source_ctime_ns": 1793362836003002380, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330783823/45484701-004-001-0098.jpg", "source_mtime_ns": 1785685062000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330783823/45484701-004-001-0098.jpg", "source_sha256": "3425426d54afcf71c7717f281975359aca72afa08a4cde1cdf9138f8fc658900"}
+
+===== PAGE 1 =====
+{"alpha_words": 41, "chars": 232, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+te on be
+
+eto BARC ean eien sti nb
+
+1 RY mu HON RT “a KUNE, ie aL USRE OF SPEC |
+
+CLASSIFIC
+BY -+}- dbnig -
+Le eererrys (RIP AT ae Pore ee
+
+1 aoe eee PENA EN | INCLASSIFIED
+THO ee
+
+ee ammmeel
+
+Declassification Authority: NND 923007

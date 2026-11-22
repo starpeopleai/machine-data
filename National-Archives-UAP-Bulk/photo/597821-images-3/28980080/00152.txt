@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T16:49:37Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4643498, "source_ctime_ns": 1793381382388422008, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28980080/00152.jpg", "source_mtime_ns": 1785700886000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28980080/00152.jpg", "source_sha256": "969e699e840d4fe3e6cb7fb53e20bf29d166e26f0f95eb38a346362004bf12fb"}
+
+===== PAGE 1 =====
+{"alpha_words": 139, "chars": 838, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PAGE TWO RJZFF 1
+FELL COMMA OPTICAL AIDS COMMA NAKED EYE COMMA TIME AND
+DATS OF SIGHTING COLON 29 SEPT 9525 DST IDENTIFYING
+
+INFORMATION OF ALL OBSERVERS COLON 1 [flit
+
+-4TH -MISSTLE COMMA 5TH ARTILLERT -DEERVOOD MD COMMA A/2C
+=a, ANDREWS TOWER OPERATOR, ADW AF8 COMMA
+
+T/SCT S@EMMMMMMRy ANDREWS TOWER OPERATOR, ADW AFB PD
+
+ADW TOWER CEP) SIGHTED OBJECT AT 9525L DESCEFING IN WEST
+
+TO NORTHWEST PD GREEN AND RED LIGHT THAT APPEARED TO BE
+DISINTEGRATING AS IT DESCENDED PD RAPCON HAD GROUND
+
+CLUTTER IN THE VICINITY PD PILOT REPORT TO BOLLING TWR
+
+VERIFYS PD LT MB cae BACK AT @63@L OBJECT IS STILL
+GLOWING ON GROUND. PARTY HAS BEEN DISPATCHED TO INVETIGAT= PD
+CALLED AGAIN AT @78@L GLOW HAD GONE AS IT WAS LIGHT BY THEN PD
+D4S5DST WX ADW COMMA CLEAR 15 PLUS ZERO CLD COVER NO TRW SURFACE
+WINDS NNE 5 KTS PD
+
+BT
+
+29/13492 SEP RJEZFF
+
+Ree

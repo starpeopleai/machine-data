@@ -1,0 +1,58 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T17:03:53Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8839023, "source_ctime_ns": 1793385766763062251, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28994085/0527.jpg", "source_mtime_ns": 1785748315000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28994085/0527.jpg", "source_sha256": "397a96d8b9e449e2572ad969d389b607ad4bba38b64892ba4bcdb30fc2f749cc"}
+
+===== PAGE 1 =====
+{"alpha_words": 66, "chars": 540, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+oo
+i
+5 t
+" oe é nd
+| :
+‘ 1
+4 a)
+STATUE OF LIBERTY
+4
+NATIONAL MONUMENT
+j NEW YORK HARBOR
+‘
+“ GREENWI
+| Walt
+:
+:
+t
+4
+J —U || reDeRAL HALL
+; Lf ioe
+E
+4 R Y K
+STRICT, eZ) B
+S x
+E CASTLE CLINTON“ wy R
+R NATIONAL MONUMENT. 6
+Y Ry 6
+fs i:
+} ip ise Y
+} i GOVERNORS
+if N
+' ELLIS ISLAND i
+§ p
+i °
+st d
+seas LIBERTY ; eon,
+cae STATUE OF LIBERTY
+3 Ss. 4NATIONAL MONUMENT
+. f
+.7 4
+{
+SCALE iN WILES Seseel atte Fes. 1957S, [e"nw-st-7002}
+REPRINT 1960 U.S. GOVERNMENT PRINTING OFFICE : 1960 O—562550
+}
+Jas
+
+ot A RE OMT SS
+
+weet
+piu eee
+
+a Lae ee
+
+ENN AE

@@ -1,0 +1,34 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T16:42:36Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 2763044, "source_ctime_ns": 1793394190990903879, "source_file": "National-Archives-UAP-Bulk/photo/733667/733667-001-011-0043.jpg", "source_mtime_ns": 1785567335000000000, "source_rel": "National-Archives-UAP-Bulk/photo/733667/733667-001-011-0043.jpg", "source_sha256": "bc2b2ef5352973153ed80c900929ad4bfbbfc19128278f803c3b25af2baebd0b"}
+
+===== PAGE 1 =====
+{"alpha_words": 238, "chars": 1488, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+-p 10°
+moved so suddenly. We probably would have felt more in danger
+and would have been prepared to escape if the spaceships were
+shaking unsteadily or were unable to stop themselves. It is
+impossible for any man-made machine to make a sudden appearance
+in front of a jumbo jet that is flying 910 kilometers per hour
+and to move along in a formation paralleling our aircraft. The
+ships moved in formation for about three to five minutes, then
+two ships moved forward in a line, again slightly higher in
+altitude as we were, 40 degrees to our left. We did not report
+this action to the Anchorage Center. Honestly, we were simply
+breathtaken. The VHF communication, both in transmitting and
+receiving were extremely difficult for ten or fifteen minutes
+while the little ships came close to us and often interfered with
+communication from the Anchorage Center; however, communication
+conditions became just as good as soon as the ships left 7s)
+There were no abnormalities in the equipment or the aircraft. I
+have no idea why they came so close to us. !
+
+Then again, there was a pale white flat light on fhe’
+direction where the ships flew away, moving in a line along with
+
+us, in the same direction and same speed and in the same altitude
+
+as we were.
+
+[Personal statement concerning JAL Flight 1628 sighting of
+unidentified air traffic, Nov. 17, 1986. Written by Capt.
+Kenju Terauchi; translated by Sayoko Mimoto, FAA Alaskan
+Region, Airway Facilities Division. Received by FAA 1/2/87}

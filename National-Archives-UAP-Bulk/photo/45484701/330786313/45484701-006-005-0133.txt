@@ -1,0 +1,15 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T16:59:55Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8226894, "source_ctime_ns": 1793364001619664717, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330786313/45484701-006-005-0133.jpg", "source_mtime_ns": 1785684967000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330786313/45484701-006-005-0133.jpg", "source_sha256": "523cf13e7b5021c454bef0112e148281152686e36a14797eb7b11d964a92493d"}
+
+===== PAGE 1 =====
+{"alpha_words": 26, "chars": 208, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ne ee hight ‘ “ ite ti > ea Nene
+$e ACTION : Report furnished “eadquarters, Office of
+Special Investigationse é
+
+CH {even
+
+RICHARD G COX
+Major, USAF
+District Comnander
+
+Declassification Authority: NND 923007

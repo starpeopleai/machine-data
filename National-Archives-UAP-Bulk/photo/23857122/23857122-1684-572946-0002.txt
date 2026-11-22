@@ -1,0 +1,37 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T17:12:11Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 32173956, "source_ctime_ns": 1793357818105887778, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1684-572946-0002.tif", "source_mtime_ns": 1785564977000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1684-572946-0002.tif", "source_sha256": "adccfb2b7ebe9e67de5c20aa68a4143f167d516128b5a1b0c719bef975d1b841"}
+
+===== PAGE 1 =====
+{"alpha_words": 187, "chars": 1373, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+AF FOAM 112—PART II KESTRICTED A—
+
+APPROVED | JUNE 198 (CLASSIFICATION)
+Saige AIR INTELLIGENCE INFORMATION REPORT
+FROM (agent) Flight Service, MATS REPORT NO.
+3800 Newark Street, N. W. IR~44.2~53 ee
+Washington 25, D. C. PAGE 2 OF 2 PAGES
+
+FLYOBRPT 202252 as received from Hamilton Flight Service Center follows:
+
+*aPhO76 AT 1335P REPORTED UNIDENTIFIED FLYING OBJECTS 3758N 12030W AND 3748 11905w
+ON TRUE COURSE OF 096 DEGREES AT 155 APPEARED TO BE IN FORMATION THEN BREAK UP
+AND FLY IN CIRCLES AROUND ACFT APPEARED TO HAVE MASS OF FIRE IN REAR
+20/22227 AUG JWPML"
+
+Comments of Preparing Officer:
+A total lack of investigative capabilities at either Flight Service Center
+
+or Headquarters level prohibits attainment of any valid conclusion from this
+report, or addition of further informations
+
+NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U. S. C.—
+31 AND 32, AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW.
+IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF
+
+INTELLIGENCE, USAF.
+XESTRICTEV
+
+(CLASSIFICATION) 16—55570-1 —_-U. S. GOVERNMENT PRINTING OFFICE
+
+DE CYURITY WF OR/ATIOYV
+
+Declassification Authority: NND 57565

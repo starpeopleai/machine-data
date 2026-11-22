@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T17:23:56Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 657741, "source_ctime_ns": 1793355830880643435, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989277-001-0071.jpg", "source_mtime_ns": 1785564535000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989277-001-0071.jpg", "source_sha256": "57a3b082a1d17f09be0b5cbc7b6b9d5bf0e1926d05335e83db8292fc3e770885"}
+
+===== PAGE 1 =====
+{"alpha_words": 82, "chars": 582, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+DEPARTMENT OF THE AIR FORCE
+WASHINGTON, DC
+
+~
+
+Office of the Secretary
+9 December 1995
+
+SAF/AAZD
+1720 Air Force Pentagon
+Washington, DC 20330-1720
+
+American Medical Association
+Data Services
+
+515 N. State st
+
+Chicago, IL 60610
+
+This is a request for any information the AMA may posses that will assist this office in
+locating a former US Air Force physician. Specifically requested is the business and/or home
+phone numbers and addresses.
+
+Charles R. Rosewall, M..D.
+e Psychiatrist
+
+e Served in the US Air Force at Sheppard AFB, TX in mid to late 1950s
+
+Sincerely
+
+\daptain, USAFR

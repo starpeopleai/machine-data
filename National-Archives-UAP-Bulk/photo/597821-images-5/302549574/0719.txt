@@ -1,0 +1,12 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T16:37:03Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1386251, "source_ctime_ns": 1793390395052248624, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302549574/0719.jp2", "source_mtime_ns": 1785808180000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302549574/0719.jp2", "source_sha256": "51a13094aad6c4c82e0a3b1c2d1085967222fadade304c146748f82395c31782"}
+
+===== PAGE 1 =====
+{"alpha_words": 35, "chars": 252, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Page 7
+
+34. Date you completed this questionnaire: a 6 lant. L GOk o
+
+Day /Month Yeor
+
+35. Information which you feel pertinent and which is not adequately covered in the specific sani of the
+questionnaire or a narrative explanation of your sighting.

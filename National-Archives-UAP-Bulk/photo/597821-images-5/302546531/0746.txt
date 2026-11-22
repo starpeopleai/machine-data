@@ -1,0 +1,63 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T16:33:03Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1005464, "source_ctime_ns": 1793390101504422229, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302546531/0746.jp2", "source_mtime_ns": 1785808045000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302546531/0746.jp2", "source_sha256": "672d3fda4893d522f8a867b07dbc29046cdd45a54c2460a5a0def9ca96b91c3c"}
+
+===== PAGE 1 =====
+{"alpha_words": 69, "chars": 530, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10373 RECORD
+
+1. OATE - TIME GROUP
+
+2. LOCATION —
+
+5+ H t. ety Aer s aed
+WALUDACT, CaLlLito: iis
+
+) te * 4 c \
+(i WLtnes:
+
+a
+
+3.0 OME Ch
+
+Civisdan
+
+tee
+
+1. NUMBER OF OBJECTS
+
+One
+
+—_
+
+0. CONCLUSION
+
+INSUFFICIENT DATA FOR sVALUATION"
+
+S, LENGTH OF OBSERVATION
+
+None Stated
+
+4. TYPE OF OBSERVATION
+
+Ground Visual
+
+7, COURSE
+
+None Stated
+
+%, PHOTOS
+
+fl Yes
+AK tio
+
+9, PHYSICAL EVIDENCE
+
+OM Yas
+«<CNo
+
+—_
+
+1, BRIEF SUMMARY AND ANALYSIS
+SEE CASE FILE
+
+FORM é
+rTO sep 63 0-329 (TDE) previous editions of this form may be used.

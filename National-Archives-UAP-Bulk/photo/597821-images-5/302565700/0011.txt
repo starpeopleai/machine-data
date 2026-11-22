@@ -1,0 +1,44 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T16:32:28Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 966793, "source_ctime_ns": 1793392213209189105, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302565700/0011.jp2", "source_mtime_ns": 1785808717000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302565700/0011.jp2", "source_sha256": "776a660aae9f1396f9efab4eea31b323e7ca0c8f3ea56ce05598368bb6726af5"}
+
+===== PAGE 1 =====
+{"alpha_words": 70, "chars": 673, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+——
+
+PMLA TO eA NC
+
+AY)
+
+PAGE RUWMFVAO164 UNCLAS
+3 ' (6) HAD TAIL (SMALL) LIKE FURS
+C7) SMALL TAIL
+(3) NONE
+(9) NONE
+B, C1) LOOKING AT LIGHT ON MOUNTAIN AND JUST HAPPENED
+10 SES. 24
+(2) STRAIGHT LINE
+(3) STRAIGHT LINE
+(4) STRAIGHT LINE
+B (5) OVER MOUNTAINS
+€6) MATTER OF SECONDS
+C. €1) GROUND VISUAL
+(2) NONE
+C3) N/A
+De C1) 03432
+(2) NIGHT
+E, REGENCY APTS, BROADMOOR DEVELOPMENT, COLO SPRINGS.
+
+F. (1) a, 24, a:
+COLO SPRINGS, COLO. ARES COD: emer TEACHER ,
+
+ot tAnTi TT ss
+RELIABILITY GOOD.
+
+ote kb Awe dh
+
+PAGS RUWMFYVAO164 UNCLAS
+
+(2) SURFACE 190/10: 6000° 190/303 10,000° 220/253
+16,000" 250/403 20,000° 250/30: 30,000" 240/453 50,000'
+240/403 80,000" 090/15.
+
+(3) NONE

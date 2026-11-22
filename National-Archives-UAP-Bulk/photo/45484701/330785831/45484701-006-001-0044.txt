@@ -1,0 +1,15 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T16:58:54Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8091742, "source_ctime_ns": 1793363679241232451, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785831/45484701-006-001-0044.jpg", "source_mtime_ns": 1785684855000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785831/45484701-006-001-0044.jpg", "source_sha256": "347d9e6e13be139b335b46e70516285ae84cfb42aff4fc7139e76dccf74fff7f"}
+
+===== PAGE 1 =====
+{"alpha_words": 9, "chars": 99, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+OVERHEAD VIEW
+
+! PROFILE
+
+po* 13
+24-57
+28 Oct 49
+
+Incl *2
+
+Declassification Authority: NND 923007

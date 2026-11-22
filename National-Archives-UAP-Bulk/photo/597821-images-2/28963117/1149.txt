@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T16:59:18Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8144182, "source_ctime_ns": 1793377269324106061, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28963117/1149.jpg", "source_mtime_ns": 1785696950000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28963117/1149.jpg", "source_sha256": "503d6165974c390a5434dd1f2bbb43eee7d01b384a64615c4743afbf856f19ad"}
+
+===== PAGE 1 =====
+{"alpha_words": 95, "chars": 772, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+|
+
+: PROJECT 10073 RECORD CARD '
+1. DATE 2. LOCATION 12. CONCLUSIONS
+QO Was Balloon
+pF PD Aug 55 Levelland, Texas O Probably Balloon
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION GO Possibly Balloon
+4 go w i f
+e Locol {} Ground- Vi sual O Ground-Radar a Probably Aireseh
+4 GMT 10/0315z, O Air Visual O Air-Intercept Rader | Possibly Aircraft
+ia ar eS LE TE ST
+4 5. PHOTOS 6. SOURCE © Was Astronomical Meteor
+q 0 Yes O Probobly Astronomical
+a Q No Civilian OD Possibly Astronomical
+: 7. LENGTH OF OBSERVATION 8. NUMBER OF OBJECTS | 9. COURSE D Other
+3 10 « 15 sedonis 1 DN : ib eAlllcdagi Deta for Evaluation
+‘ ~ nknown
+10. BRIEF SUMMARY OF SIGHTING 11. COMMENTS
+Round, bright yellow, obj light e cloud Yossible meteor.
+
+7 as it came through.
+
+| ATIC FORM 329 (REV 26 SEP 52)

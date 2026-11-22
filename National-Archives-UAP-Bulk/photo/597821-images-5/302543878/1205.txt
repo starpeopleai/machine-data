@@ -1,0 +1,37 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T17:25:42Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 984227, "source_ctime_ns": 1793389772795728489, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302543878/1205.jp2", "source_mtime_ns": 1785808043000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302543878/1205.jp2", "source_sha256": "707548fcdbfcc84ebc2140523cf5c87ea7abd9e95469bb2ec601c1142e384128"}
+
+===== PAGE 1 =====
+{"alpha_words": 152, "chars": 1040, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+DEPARTMENT OF THE AIR FORCE
+HEADQUARTERS EIGHTH AIR FORCE (SAC)
+
+H
+fet
+WESTON
+
+ER AIR FORCE.BASE, MASSACHUSE FTS 01022
+
+' DOOTO
+
+UFO Sighting
+
+AFSC ( TDEW/UFO )
+
+l. In reply to your letter, same subject, 16 Nov 65, and telephone
+conversation between SMSgt Heffley, 8AF, and Sgt Moody, Hq AFSC,
+on 19 Nov 65, the following information is furnished.
+
+2. Big Blast "Coco", a SAC/NORAD training mission, was flown on
+2 - 3 September, 1965. By 03/0430Z, the operational portion of the
+mission was complete and participating aircraft were enroute to their
+home stations.
+
+3. Ten B-47 aircraft from Pease AFB were involved in Big Blast "Coco"
+and were estimated to arrive at their initial approach fix (Pease TACAN
+320° Radial, 10 DME fix ), between 03/0444Z and 03/05352. The
+
+town of Exeter is within the traffic pattern utilized by Air Traffic Control
+in the recovery of these aircraft at Pease AFB, N.H. During their ap-
+proach the recovering aircraft would nave been displaying standard
+
+anti-collision lig! and possibly over wing and land-

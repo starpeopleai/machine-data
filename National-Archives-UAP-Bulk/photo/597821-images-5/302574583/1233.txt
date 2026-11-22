@@ -1,0 +1,11 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T16:30:40Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 753658, "source_ctime_ns": 1793393139942799217, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302574583/1233.jp2", "source_mtime_ns": 1785808675000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302574583/1233.jp2", "source_sha256": "233a637c6729dffc5e09efc4775978277c3b7f5dd79eedfedb5bf41fccf3bd65"}
+
+===== PAGE 1 =====
+{"alpha_words": 18, "chars": 123, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+POS
+
+{HR FOLLOWLNG UFO REPORT WAS PORWARDED TO THE UNIY OF COLORADO ON
+
+14 MARCH 1963
+
+4 Mareh 196d Corpug Christi, Texas

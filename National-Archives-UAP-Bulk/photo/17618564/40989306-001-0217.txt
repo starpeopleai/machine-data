@@ -1,0 +1,49 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T16:34:26Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1172086, "source_ctime_ns": 1793356186860322442, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989306-001-0217.jpg", "source_mtime_ns": 1785564631000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989306-001-0217.jpg", "source_sha256": "128ce1460719c61c2f2e8b59c77380be0fde52682009bcfbfaf5a1776ef5127e"}
+
+===== PAGE 1 =====
+{"alpha_words": 198, "chars": 1996, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Section V 85
+' SUPPLEMENTARY DATA oo
+aR Paragraph =
+List of Replaceable Parts... 88
+cist of Components se —————— 39
+Index of Manufacturers =. -----------n-wen-n-n anne sence ence 40
+38. LIST OF REPLACEABLE PARTS.
+a. Amplifier of Microphone T-21-(*). f
+Ref. .
+ie Stock No. Name of part Description Function S
+1-1 3D177A Capacitor CA-177-A 0.5-a£. Filter A
+1-2 3D177A Capacitor CA-177-A 0.5-af. . S
+1-3. 3DI77A Capacitor CA-177-A 0.5-xf. . 5
+1-4 3D177A Capacitor CA-177-A 0.5 -af. ;
+1-5 3DI77A Capacitor CA-177-A 0.5-uf.
+2 3D155A Capacitor CA-155-A 0.01-sE. Coupling
+3 3D157 Capacitor CA-157 0.02-wf. ‘
+4 3D156A Capacitor CA-156-A 0.002-xF. Shunt, condenser head
+5 3Z6850 Resistor 50-megohm,  1-watt Load condenser head
+6 3Z6829 Resistor 20-megohm, 4 watt Grid, 1st stage
+7-1 3Z.6810-5 Resistor 10-megohm, 1 watt Filter
+7-2 3Z6810-5 Resistor 10-megohm, 1 watt Screen grid
+8 3Z6805-6 Resistor 5-megohm, 14 watt Grid, 2nd stage
+9 3Z4534 Resistor RS-134 1-megohm Plate, 1st stage
+10-1 3ZA562 Resistor RS-162 0.25-megohm Filter
+10-2 3Z4562 | Resistor RS-162 - 0.25-megohm “
+il 3Z5998 © Resistor 8.0-8.3 ohms, 14 watt Voltage dropping
+12 2Z7649-6 Relay (see note 1) 2 pairs make contacts Switch
+vel
+b. Control Board BD-85-(*). -
+201 3F1005-21 Ammeter 0-5 amp Recording lamp current S}
+202 3F8050-10 Voltmeter 0-50 volts Station battery voltage ‘@
+203 3F1020-11 Ammeter 0-20 amp Relays and IE-14 current 2
+204 3F3470-Z Milliammeter 0-15 Milliamp Outpost current 3
+205 3F8100-2 Voltmeter 0-100 volts Microphone voltage 2)
+206 3F3470-1 Milliammeter 0-10 milliamp Microphone current |
+207 4C5208DA Key (see note 2) Lever, 2 way Test key Q
+208 4C5208DA Key (see note 2) “ Station battery key . ts
+209 4G385A/T1 Transformer Output Output coupling ran
+210 3Z2587 Fuse Y4-amp Circuit protector
+211 3Z2015-1 Fuse 15-amp “
+212 321925 Fuse FU-25 5-amp . S
+¥ 213 3Z1926 Fuse FU-26 l-amp . =
+214 228778 Socket SO-78 8 contacts Oscillograph connections y=
+215. 2Z8799-25 Socket SO-125 9 contacts Power connections we

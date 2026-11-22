@@ -1,4 +1,4 @@
-{"created_utc": "2026-09-04T09:08:45Z", "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "embedded-text", "pages": 0, "schema": "ufo-files-archive-ocr/v1", "source_bytes": 70366, "source_ctime_ns": 1788304196579760624, "source_file": "DPIArchive/documents/124131-clifford-stone-certificate-of-appreciation.pdf", "source_mtime_ns": 1785540996470000000, "source_rel": "DPIArchive/documents/124131-clifford-stone-certificate-of-appreciation.pdf", "source_sha256": "8a20802bb12c28939f5495b1ca3a12790ed4328697aa272be6ac47f9feadf2d8"}
+{"created_utc": "2026-11-22T17:23:13Z", "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "embedded-text", "pages": 0, "schema": "ufo-files-archive-ocr/v1", "source_bytes": 70366, "source_ctime_ns": 1794413193006968264, "source_file": "DPIArchive/documents/124131-clifford-stone-certificate-of-appreciation.pdf", "source_mtime_ns": 1794413193004167377, "source_rel": "DPIArchive/documents/124131-clifford-stone-certificate-of-appreciation.pdf", "source_sha256": "8a20802bb12c28939f5495b1ca3a12790ed4328697aa272be6ac47f9feadf2d8"}
 
 FOR SERVICE IN THE ARMED FORCESwOF THE UNITED STATES
 

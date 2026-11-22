@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T16:46:23Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4029569, "source_ctime_ns": 1793375447266278431, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28956312/0948.jpg", "source_mtime_ns": 1785696871000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28956312/0948.jpg", "source_sha256": "fc039a1b27da4cab90c22ff3dbdcd33fc31c83b1091fea66446d4f1106900b90"}
+
+===== PAGE 1 =====
+{"alpha_words": 87, "chars": 570, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+RT ai
+
+, .
+WPC3S5
+
+VU 4 RSID TARA PHM Wey -
+KYCi2Z3sE baaee 2GENCY JED vi LOY JWP
+
+HPHC 395
+
+EMERGENCY JEPHQ JELWP JUPMC JEPFF JEPRD 555
+
+DE JUPMC g4c
+
+Y 1924322
+
+FM FLT SVC HAMILTON AFB CALIF ~~
+
+JEBWP/AIR TECH INTELLIGENCE CENTER WRIGHT PATERSON AFB OHIO ———"
+ATTN ATIAg=@@ ©
+
+JWPMC/YADF HAMILTON AFB CALIF
+
+‘JEPFF/COMMANDER MATS ANDREWS AFB MD
+
+JEPRS/HO FLT SVC WASH DC
+
+AT 15S9PDT A BOLLOGN OR BLIMP VERY HICH ALTITUDE ESTIMATED
+38,008 F IGHER IN WESTERLY DIRECTI PP 8 DEGRES
+ANGLE F (ORIZ D IT SEEMED To BE STATIC. OBSCURED
+ITTENTL 2OPDT. ORIGINAL REPORT FROM |
+%

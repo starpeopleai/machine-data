@@ -1,0 +1,49 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T16:46:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4067285, "source_ctime_ns": 1793377402463851178, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28963549/0054.jpg", "source_mtime_ns": 1785696745000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28963549/0054.jpg", "source_sha256": "5d6a9a66e59a4410bfe1a533ac487af10c89cfed01c514c9445c0e38c638dda2"}
+
+===== PAGE 1 =====
+{"alpha_words": 93, "chars": 690, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+4 { "
+
+4 COLONIAL AIRLINES, INC.
+
+: LA GUARDIA AIRPORT STATION + FLUSHING 71, N.Y.
+
+Bs ‘
+
+September 8, 1955
+
+’ |
+
+q Conmander
+
+3 Air Defense Command
+
+4 Ent dir Force Base
+
+4 Colorado Springs, Colorado
+
+. Dear Sir:
+
+P In accordane: wilh CIRVIS procedure for reporting vital intel-
+
+a ligence sightings, attached are copies of three reports turned
+in by flight crews on an unidentified object sighted September 6,
+1955.
+
+4 If possibl«, we would be very interested in knowing what the
+
+: object was inl if there is any way we can prevent future occur-
+rences,
+
+E. Thanking you in advance, I am
+
+Very truly yours,
+
+4 “COLONIAL AIRLINES, INC.
+
+4 /
+' Director of Flight Operations
+2 Ene.
+
+rae
+e

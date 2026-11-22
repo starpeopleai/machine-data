@@ -1,0 +1,48 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T16:53:58Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5805565, "source_ctime_ns": 1793369509694911552, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28931965/0743.jpg", "source_mtime_ns": 1785688673000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28931965/0743.jpg", "source_sha256": "a210f3639c58c234361644e64ea69f7012f03763f7e38bf790312cd433eb105d"}
+
+===== PAGE 1 =====
+{"alpha_words": 185, "chars": 1352, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+HEADQUARTERS :
+AIR WhaATHSR SERVICE
+Andrews Air Force Jase
+Washington 25, D. C.
+
+in Reply
+
+SUBJECT, Unidertified Flying Objeots
+
+TO : Commanding Goneral
+Air “suteriel Comasaand
+“ritht-rattercon Air Forse “ase
+Daytor, Chio
+
+ATINs MCLAXO=3
+
+1, Referercs is made to letter fron your hoxdyuarters, (ICIAKG,
+dated 9 Naroh 1949, subject "Unidentified Plyins Objests,” ana first
+indorsenert thereto by this headquarters, dated $1 March 19.9.
+
+2, The incident sunnriss 173 threush 233 have beer cheoked
+avatinst routine woather=balloon ascents made by the Air Force, Navy
+and feather Bureau, Conments based on this review are incliosed,
+
+» It ta revormendad that the *Guide To Investigation Of Uni-
+dantified Aerial Objects” be chanred as follows: [tem 13, “Direotion
+of Flicht of Object,* shovld bo olurified so that warkt{oal and hori-
+
+« . : , : Pern %. ¢ " -4- d — . 4
+gonteul motions are distinguished if possible, und so that motion is
+
+spacified as the Alrection towards which the object appsars to novs.
+ite 2 Be us 2) 3 t , & 4. * v P ry — j-., + a on & . &. 4 — om 4
+Rolathvs to Radar Settings” should ircluds a atatnnant of the type of
+
+yadar set usad.
+
+FUR THS CHIEF, AIR WEATIZR SUavicn
+/e/ We. Aw West
+ae sesins aie
+2 Ynols,; B. A. WeST
+~~. ~ ‘ ye ee | ’ ~ +
+1 =» Ineldent Summaries Lt. Cole, USAF
+> »- Cammernts bY thru 2 55 Ad ju tant Gansral

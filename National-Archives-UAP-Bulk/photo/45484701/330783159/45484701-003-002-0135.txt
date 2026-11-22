@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T16:42:30Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 2623585, "source_ctime_ns": 1793362577487953988, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330783159/45484701-003-002-0135.jpg", "source_mtime_ns": 1785684836000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330783159/45484701-003-002-0135.jpg", "source_sha256": "99bc43dc786e65e4cdc22c53999286991ef6900967dfe5e9f95a348b2c6bb53d"}
+
+===== PAGE 1 =====
+{"alpha_words": 50, "chars": 380, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+MEMO ROUTING SCIP Wee co Can pte
+yy,
+
+1 NAME OR T INITIALS CIRCULATE
+7
+
+ORGANS AND LOCATI COORDINATION
+
+INFORMATION
+
+NECESSARY
+ACTION
+
+NOTE AND
+RETURN
+SEE ME
+
+SIGNATURE
+
+REMARKS
+
+FROM NAME-OR-TITLE/
+
+“ORGANIZATION AND LOCATION
+
+FORM Replaces DA AGO Form 895, 1 Apr 48, and ARHQ~ 16—48487-4 GPO
+1 FEB 50 Form 12, 10 Nov 47, which may be used.
+
+Declassification Authority: NND 9230

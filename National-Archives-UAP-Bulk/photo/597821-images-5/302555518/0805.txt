@@ -1,0 +1,43 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T16:38:54Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1701786, "source_ctime_ns": 1793391100943159024, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302555518/0805.jp2", "source_mtime_ns": 1785808389000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302555518/0805.jp2", "source_sha256": "f37f2f4d0638c6020e76128f7224131c9ff22c5bc0378aea5eb36fd44c7daea9"}
+
+===== PAGE 1 =====
+{"alpha_words": 93, "chars": 757, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+UNCLASSIFIED
+
+DEPARTMENT OF THE AIR FORCE
+STAFF PAESSAGE BRANGH
+
+SHCOMING MESSAGE
+AF IN: 20542 (13 Sep 66)
+
+16,098 wow 4g ong”
+28 5889 WSW 69 260 “3d
+33,896 WS 70. 249 3
+45,008 WS 118 mw
+PAGE 3 RUEDGA2928 UNCLAS
+
+54,906 ywsiv 19 249
+
+(3) NO C4) & MILES (5) 3,992 SCATTERED. HIGH SCATTERED
+
+595985 (6) HIGH PRESSURE AREA (7) 71 DEGREES ON SURFACE
+
+H, NONE
+I, NONE
+
+K LT. WoO. CAMPBELL, ASST INTEL OFF. AVAILABLE SOURCES
+GIORRISTOWN, Nu, TRACKING STATIONS WING OPERATIONS: BASE
+RAPCON), INDICATE OBJECT WAS NEITHER A LOCAL ACFT NOR A
+SATELLITE. EXPERIENCE OF TOWER OPERATORS SHOULD ELIMINATE
+POSSIBILITY THAT OBUECT WAS COMMONLY SEEN ACFT. GRUVMAN
+ACET CORP AT CALVERTON, NY, REPORTED NO ACTIVITY,
+
+Ls NONE
+
+BY
+
+NN AE
+
+AFHQ ss 0-309C UNCLASSIFIED
+
+Pg 3 of 3

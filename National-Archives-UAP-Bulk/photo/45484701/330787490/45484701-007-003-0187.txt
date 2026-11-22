@@ -1,0 +1,58 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T16:59:04Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8142488, "source_ctime_ns": 1793364716963821756, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787490/45484701-007-003-0187.jpg", "source_mtime_ns": 1785684897000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787490/45484701-007-003-0187.jpg", "source_sha256": "e48cbdd0f7afc4e282db74be6eef1291f1f257ca000f7bedd096e79c5ddc1756"}
+
+===== PAGE 1 =====
+{"alpha_words": 162, "chars": 1081, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+(Unclassified) RADAR PHENOMENA, White Sands, New Mexico, SPECIAL INQUIRY
+
+Counter Intelligence Division, Office of Special
+investigations, The Inspector General
+
+a“
+Lt Col MacDuff/he /74507
+
+Directorate of Intelligence, DCS/o ae
+AF ~TC
+
+1. Full evaluation of the information contained in the attached letter
+cannot be made until the additional information requested by the Director of
+Communications in Comment No. 2 is obtained.
+
+2. Although no information is available in this Directorate, it is under-
+stood that ground radars have been used in the vicinity of White Sands, New
+Mexico in connection with guided missile control experiments. The operation of
+such equipment in the area may have a direct bearing on the phenomena reported
+
+by Captain Goodbody.
+
+3 In addition, the reasons for Captain Goodbody's reference to espionage
+
+a#*
+
+have not been stated and should be clarified.
+
+ap
+anal tu
+
+CATION © CA ee pike
+TAS Bi ar THE +
+
+CLAS yTHORIT y 0}
+
+BY
+BY KURTA KER iT,
+
+fn ~
+Bt istorian DATE
+
+me
+
+aff
+
+Cen sa
+vt be J
+
+‘eR 4
+
+scout SE
+
+Declassification Authority: NND 923007

@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T16:46:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3917231, "source_ctime_ns": 1793372231944651438, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28941946/00082.jpg", "source_mtime_ns": 1785688595000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28941946/00082.jpg", "source_sha256": "9bec559b0cf3ad2fb74e4bf364063ff21e5693192f153a2e01732096af2e921a"}
+
+===== PAGE 1 =====
+{"alpha_words": 136, "chars": 1031, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+1. DATE t 2 ATION ( SONCLUSIONS
+Sorge AFB, California G Wos Balloon
+an ae oe eecte - necohesnnl O Probably Balloon
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION © Possibly Balloon
+Local ] 1220 PDST & Ground- Vi sual O Ground-Rador O Wos Aircroft
+Q Probobly Aircraft
+GMT a D Air-Visuol . O Air-Intercept Rodor 0 Possibly Aircroft
+5. PHOTOS am 6. SOURCE . oe Con
+e6 robobly Astronomical
+# No Airman first class O Possibly Aatenentect
+7. LENGTH OF OBSERVATION 8. NUMBER OF OBJECTS | 9. COURSE D Other
+: 1 + ost Insufficient Data for Evaluation
+3 minutes 1 Unknown
+10, BRIEF SUMMARY OF SIGHTING iW. ‘COMMENTS
+White color. Disc shaped. -€ource stated object looked like a
+. "Flipping! end over end on lateral axis - white paper plate traveling at speed of
+; made 90 degree turn. jet a/c. Saw 2 other small objects
+
+Reported by only one source - possibly| behind the first ohe.
+peper or other object in a strong thermal.
+
+Other reports from same source indicate
+he's an "goserver".
+
+ATIC FORM 329 (REV 26 SEP $2)

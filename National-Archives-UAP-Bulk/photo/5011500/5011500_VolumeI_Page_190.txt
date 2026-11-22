@@ -1,0 +1,94 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T16:30:17Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 644492, "source_ctime_ns": 1793365596266292278, "source_file": "National-Archives-UAP-Bulk/photo/5011500/5011500_VolumeI_Page_190.jpg", "source_mtime_ns": 1785565397000000000, "source_rel": "National-Archives-UAP-Bulk/photo/5011500/5011500_VolumeI_Page_190.jpg", "source_sha256": "af1d78e52519c1252f696dd4446daf6bf5c5ab4399bafb370a6e98f27fcf61a9"}
+
+===== PAGE 1 =====
+{"alpha_words": 196, "chars": 1499, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+68: 41:51
+
+68: 42: 23
+68: 42:24
+
+68: 43:08
+68: 43:10
+
+68: 43:51
+68: 43:53
+
+68: 44:02
+68: 44:05
+68: 44:11
+68: 44: 16
+68: 44:17
+68: 44: 19
+
+68: 44; 52
+
+68: 45:07
+
+CC
+
+cc
+
+cc
+
+cc
+
+cc
+
+Cc
+
+cc
+
+CC
+
+CONFIDENTIAL ue?
+
+D-4/D-7: 71:47:26; Sequence 419; Mode 02. Time:
+72:00:00; exercise period. Stand by for a TR update
+coming up.
+
+Roger. Received.
+
+Roger. Time: 72:10:00; eating period. Apollo
+Landmark: 73:08:40; Sequence 2343; Mode 01; pitch
+30 degrees down, yaw 2 degrees right. D-4/D-7:
+73:08:40; Sequence 420; Mode 02. Do you copy?
+
+Roger.
+S-8/D-13: 73:22:20; Sequence 02; pitch 30 degrees
+down, yaw 1 degree right; closest approach, 73:22:20.
+
+MSC-2 and 3: 73:40:00; Sequence 02; off at 89:00:00.
+Do you copy?
+
+Roger. Have copied,
+
+Jim, I want to interrupt here and give you the pad
+update on the maneuver load, just in case we run out
+of time here.
+
+Roger.
+
+Let me know when you're ready to copy.
+
+Copy.
+
+Say you're ready, Gemini VII?
+
+Gemini VII is ready.
+
+GET of the burn: 69:43:19; Delta-V, 12.4; burn time,
+16.5 seconds; yaw zero, pitch zero; aft thrusters;
+maneuver, Posigrade. And we will update this over
+Carnarvon if required. Do you copy?
+
+Roger. GET is 69:43:19; Delta-V,12.4; Delta-P, 16.5
+seconds; yaw and pitch are zero; aft thrusters;
+Posigrade; declining star. Over.
+
+Roger. Here's the information on the star. You'll
+be SEF, and you'll be just coming out of the dark
+
+at this time, as a matter of fact. Your track or
+your pointing should pass just about halfway between
+
+CONFIDENTIAL

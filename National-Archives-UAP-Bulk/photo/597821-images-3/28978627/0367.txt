@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T17:01:42Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8442549, "source_ctime_ns": 1793380871989221100, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28978627/0367.jpg", "source_mtime_ns": 1785700866000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28978627/0367.jpg", "source_sha256": "524636868ac51c4c80524fff1b2af97a2bb34b5a51b2ce1d454a28a6eda1fdd4"}
+
+===== PAGE 1 =====
+{"alpha_words": 152, "chars": 871, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+1/18/65
+
+Dear Senator Smith;-
+In regard to the emclosed,as written by Col.Boyd
+
+'B White of the Dow Air Force ,Feb.I2th 19596
+| As you will see that the
+
+letter is dated back in '59,with the idea of me getting back the the
+pictures; now it wasn't pictures I gave him,it was negatives,but be as
+4% may,I sure would like to have them back,and was wondering if you
+could hurry things up 4 little by investigating the said problem.
+
+I would like to have them,&6 quite a few people
+are awfully interested in the subject »(Fiying Objects) and the picture
+
+Ps have left are very interesting to them.
+As you haven't heard from me for quite some time, —
+
+will say that I was a friend of a a quite awhile ago; they
+
+have sold the house he lived in at Winterporte
+Wishing you the best of health,and a nice New Year
+
+fin all this"mess"we're in,t remain
+
+Sincerely yours
+
+—. (04915)

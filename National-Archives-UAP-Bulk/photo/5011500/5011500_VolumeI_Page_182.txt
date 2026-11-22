@@ -1,0 +1,102 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T17:23:46Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 534436, "source_ctime_ns": 1793365595925528913, "source_file": "National-Archives-UAP-Bulk/photo/5011500/5011500_VolumeI_Page_182.jpg", "source_mtime_ns": 1785565397000000000, "source_rel": "National-Archives-UAP-Bulk/photo/5011500/5011500_VolumeI_Page_182.jpg", "source_sha256": "975fb19d7640b0faf79ab25122836198a8eedf1e109ea621db5631df46cd8fc2"}
+
+===== PAGE 1 =====
+{"alpha_words": 146, "chars": 1049, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+66:25:17
+
+66:25:21
+
+66:25:24
+66:25:28
+
+66:25: 34
+66:25:55
+66:25:59
+66:26:20
+66: 26:25
+66: 26: 27
+
+66: 55:56
+66: 55357
+66:55:58
+
+67:06:16
+67:06:29
+
+67:06: 33
+67:06: 36
+
+67:06: 42
+67:06: 46
+
+67:06:53
+
+CC
+
+CC
+
+cc
+
+cc
+
+cc
+
+cc
+
+cc
+
+cc
+
+cc
+
+cc
+
+CONFIDENTIAL ve
+
+Roger. Understand. You did not have to use them
+all nighte
+
+That's right. I think the bottles are just about
+staying there now.
+
+Roger. Very good.
+
+Okay, Can you position it to the FUEL CELL Oo posi-
+tion?
+
+I have.
+
+Okay. To the FUEL CELL H2 position, please.
+FUEL CELL Ho.
+
+Okay, You can cut them back off now.
+
+Roger.
+
+Okay, That's about all we have for you this time,
+Gemini VII. We'll be standing by.
+
+What is it - Day 5?
+Yes.
+
+Day 5, Meal A. My compliments to the chef. Out-
+standing.
+
+Gemini VII, Houston CAP COM,
+
+Houston, this is Gemini VII. Read you loud and
+clear.
+
+Roger, VIZ. Good morning.
+
+Good morning. Frank's out getting the milk. I'm
+minding the store.
+
+How's breakfast going?
+
+My compliments to the chef, Tell Paul ... that Day
+5, Meal A was excellent.
+
+Roger.
+
+CONFIDENTIAL

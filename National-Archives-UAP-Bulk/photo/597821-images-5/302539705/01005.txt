@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T16:33:21Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1008958, "source_ctime_ns": 1793389384371480113, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302539705/01005.jp2", "source_mtime_ns": 1785808061000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302539705/01005.jp2", "source_sha256": "d84dc3de9a5bc60ed92a524888e333f009a4c9cf5b222164076c536dd2d92bd1"}
+
+===== PAGE 1 =====
+{"alpha_words": 75, "chars": 481, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+1. DATE - TIME SROUP
+
+2. LOCATION
+
+3. SOURCE 10. CONCLUSION ee hot 4
+re TA Ug aaron oor ph RYAN SPD SER gh ;
+. Fei bdate se. dvs  OOE So I Lok loc td - 9 CHd =
+= me , — =— ned oA cha 2 S - Lo Belch
+5. LENGTH OF CaSERVATION Vl. BRIS SUMMARY ANO oS
+6. TYPE OF O8SERVATION sharply outlined object deserbbed 3° een Diss ope dred
+Fround-Yisual
+7. COURSE
+8. PHOTSS
+O Yes
+eX No
+9, PHYSICAL EVIDENCE
+O Yes
+1H Ne
+FORM ;
+FTD sep 63 0-329 (TDE) previous sditions of this form may be used,
+a

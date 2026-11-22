@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T16:34:22Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1110150, "source_ctime_ns": 1793394311463016248, "source_file": "National-Archives-UAP-Bulk/photo/733667/733667-002-005-0045.jpg", "source_mtime_ns": 1785567352000000000, "source_rel": "National-Archives-UAP-Bulk/photo/733667/733667-002-005-0045.jpg", "source_sha256": "7b331687404cff208b7e7723fa3e21dc7a654cab93280001a34231ea5e36d62d"}
+
+===== PAGE 1 =====
+{"alpha_words": 43, "chars": 320, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+February 26, 1987
+
+FAA
+Public Affairs
+701 "C" Street, Box 18
+
+Anchorage, Alaska
+Dear Sirs:
+
+Please send information on obtaining the transcript of the UFO sighting
+
+by the Japanese airliner, to the following name and address:
+
+Elaine Pond
+401 Westacres Rd. #85
+West Sacramento, CA 95691
+
+Thank you,
+
+butehe
+
+Elaine Pond

@@ -1,0 +1,45 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T17:25:55Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 994199, "source_ctime_ns": 1793389772037555559, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302543873/1197.jp2", "source_mtime_ns": 1785808078000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302543873/1197.jp2", "source_sha256": "fa3037a5514c66291326ed86e77fdeb3cba260d907f96df2723a960e73f0eef7"}
+
+===== PAGE 1 =====
+{"alpha_words": 158, "chars": 1083, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+| UNCLASSIFIED |
+
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+INCOMING MESSAGE
+
+AF IN : 36139 (4 Sep 65) T/rph
+
+ACTION: NIN-7
+INFO : XOP-1, XOPX-8, SAF-OS-3, DIA-1 (21) Pg 1 of 3
+SMB A 182CHOB 88 12CYJX180
+PP RUEAHQ
+DE RUCDAHJ 4 2472098
+ZNR UUUUU
+
+P 8419552
+
+FM 788TH RADAR SQ SAGE WAVERLY AFS !0WA
+
+TO RUWGALE/AIR DEFENSE COMMAND ENT AFB COLON
+
+RUCDAH/3@TH AIR DIVISION SAGE TRUAX FIELD WISC
+RFUCDAH/CHICAGO AIR DEFENSE SECTOR SAGE TRUAX FIELD WISC
+RUCOSQ/AIR FORCE SYSTEMS COMMAND WRIGHT PATTERSON AFB OHIO
+
+RUEAHQ/HEADQUARTERS USAF WASHINGTON OC
+
+RUEAHQ/SECRETARY OF THE AIR FORCE WASHINGTON OC
+
+BT
+
+UNCLAS 7880DC PPTY SEP 65. FOR: ADC ENT)$ 38 OIN$ CHOINS
+
+AFSC=FTD$ AFNINS SAFOI. SUBJECT: UFO REPORT. THIS MSG IN 13 PARTS.
+1. DESCRIPTION OF THE OBJECTS Aw SHAPES CIRCULAR. B. SIZES A
+QUARTER HELO IN THE HAND AT ARMS LENGTH. C. OBJECT WAS CHANGING
+COLORS FROM RED TO GREEN. D. ONLY ONE OBJECT OBSERVED. E. NO
+DISCERNIBLE FEATURES OR DETAILS WERE OBSERVED. F. NO TAIL, TRAIL
+OR EXHAUST WAS OBSERVED. G. NO SOUND WAS HEARD. 2. DESCRIPTION
+
+- AFHQ 8. 0-309C | UNCLASSIFIED |
