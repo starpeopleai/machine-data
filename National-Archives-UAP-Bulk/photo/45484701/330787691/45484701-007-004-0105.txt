@@ -1,0 +1,47 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T11:42:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9440262, "source_ctime_ns": 1793364790082718156, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787691/45484701-007-004-0105.jpg", "source_mtime_ns": 1785684930000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787691/45484701-007-004-0105.jpg", "source_sha256": "49894a2a9929db83ed4150ba9dbb145fb0bfda7fb117b322f6e667d453d2ddbe"}
+
+===== PAGE 1 =====
+{"alpha_words": 140, "chars": 1004, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+OSI Case 724-50
+Support ~ none visible
+Propulsion - none visible
+Control and stability - none visibie
+Air ducts - none visible
+
+18. Speed - No way of determining miles per hour rate of speed,
+
+a
+
+although rate of climb was terrific and by the time SUBJECT could bank his
+plene the aircraft had almost vanished from sight.
+
+Sound «- none heard
+Manner of disappearance.
+
+&- Maintained straight level flight until it disappeared from
+view in the distance.
+
+SGT RICHARD W,. MILLAR
+
+$5358th Maintenance Squadron, Mather AFB, Californias
+
+Airman, United States Air Force
+
+Mather Air Fores Base, Uslifornia
+
+lebbies - lying
+
+Ability to determine
+Coler - no abnormalities in perception of coler.
+Speed - Average estimation of speed.
+
+Size = Estimation of size at distance based on comparison
+of known aircraft.
+
+Reliability of observer
+ae Agency checks; neighbor and fellow employee checks; reveal
+
+no derogatory information. Observer is considered truthful
+and reliable.
+
+Declassification Authority: NND 923007

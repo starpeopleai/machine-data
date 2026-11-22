@@ -1,0 +1,64 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T12:21:02Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3876326, "source_ctime_ns": 1793374211156194887, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28950746/1409.jpg", "source_mtime_ns": 1785696540000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28950746/1409.jpg", "source_sha256": "2bbf4134e837509be00dd8a648317f767e70511f933c7130572c0bfe5e448ca4"}
+
+===== PAGE 1 =====
+{"alpha_words": 146, "chars": 984, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+‘ : dheoeinemenenall a att
+‘ { towne
+
+secant Om
+oe ° ‘ ets A an em prema inh
+'
+
+: - mn wees:
+
+eoumyina Goaai mune 375706
+
+1. When did you see the objects
+~~ Day n ear
+
+1.2 Time of Day: me A.M or Pi. (Cirele One)
+[Se Mine
+
+1.3 Time Zone: (Circle One):
+
+Rastern d. Pacific
+« Central e. Other
+c. lountain
+
+(Circle One): @ reer Saving
++ Standard
+
+Pe * Leh Circle one of the following to indicate how certain you are of
+™ your answer to the above question 1.2:
+
+ae Certain c. Not very sure
+47) Fairly certain dad. Just a guess
+
+2. Where were you when you saw the object:
+
+Additional Remarks:
+
+3. Where were you located when you saw the object:
+
+(Cirele One): a. Inside a building 4d. In an airolane N
+5. Inacar 2. At sea
+
+@ Outdoors f. Other Maa
+
+Ns
+
+3,1 Were yous 5
+
+> ™
+
+(Circle One}: a, In the msiness section of a city?
+do. In the residential section of a aity?
+
+Gy In open countryside?
+
+i. Flying near an airfieid? ~
+
+@. Fl ying over a city? \
+
+£. Flying over open country?
+ge Other

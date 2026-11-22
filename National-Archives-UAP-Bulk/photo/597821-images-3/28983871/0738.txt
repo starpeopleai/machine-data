@@ -1,0 +1,71 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T12:25:11Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4517056, "source_ctime_ns": 1793382436446435137, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28983871/0738.jpg", "source_mtime_ns": 1785700680000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28983871/0738.jpg", "source_sha256": "9f757d1abf7ab89bb7ab67ee5937cb74b2c48f54aaac977f17598158eab7c1ff"}
+
+===== PAGE 1 =====
+{"alpha_words": 160, "chars": 1424, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Seg :
+CLASSIFICATION (SECURITY INFORMATION when filled in)
+
+SUPPLEMENT TO AF FORM 112
+
+ORIGINATING AGENCY REPORT NO,
+
+818TH ATR DIVISION TR-1-59
+
+Cie Ones ()
+(5) N/A
+
+(6) None. (U)
+(7) None. (U)
+(8) None. (U)
+
+(9) Observer estimated the object to have a very even velocity
+and not of a natural phenomena, moving: at the speed of a satellite. (U)
+
+b. (1) The observer's parents observed the object first and called
+his attention to it. (U)
+
+(2) Angle - 10° above the horizon, Azimuth - South Southeast. (U)
+(3) Dissanpesred below the horizon, South Southeast. (U)
+
+(4) Passed over to a direct meridian point. (U)
+
+(5) Seemed to fade a little and immediately disappear. (U)
+
+(6) Ten (10) seconds. (U)
+
+(1) Ground visual. (U)
+
+(2) None, (U)
+
+(3) N/A.
+
+(1) 0330 to 0h00Z, 20 July 1959. (U)
+
+(2) Night. (U)
+
+Pa ),0°)7 1309/96°hor2imy, nai : Lincoln, Nebraska,
+
+southeast section of the city. (d)
+
+Plage Oy sues, 19 years, : Lincoln,
+Nebraska. Geolo: pudent, University of Nebraska. rt time lecturer at
+
+the University of Nebraska Planetarium. Observer seems Pea aule. he is
+intelligent and has some knowledge of sky phenomenon. (J)
+
+eesi(1) - Clear weatner, winds calm. (U
+
+(2) Weather Detachment, Lincoln Air Force Base, Nebraska
+Beas - calm; 6000? - 290/10; 10,000! ~ 30/20; 16, Oe
+25; 20,000! - Sno 20; 30,000' = 280/25; 50,000!
+253 80, 000' - not available. (U)
+(U)
+
+’
+Le
+
+15) plus nautical miles. (U)
+
+Jone. (U)
+
+None. (U)

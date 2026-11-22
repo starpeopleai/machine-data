@@ -1,0 +1,55 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T12:19:39Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3462678, "source_ctime_ns": 1793376397235867239, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28960476/0414.jpg", "source_mtime_ns": 1785696976000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28960476/0414.jpg", "source_sha256": "a7c6905cb0e64a85d312083568b33d7cd9e78710c24d8736390078e25a2f9ca8"}
+
+===== PAGE 1 =====
+{"alpha_words": 389, "chars": 2742, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+t: |
+
+17. On 1 Lecember 1954, LANZ and TENNILLE, accompanied by Special Agent
+ATCHLEY and the writer, interviewed Professor FREDERICK K. MORRIS, Geologist,
+Arctic-Desert-Tropic Information Center, Research Studies Institute, concerning
+the object. After considerable deliberation and examination of the object, Dr.
+MORRIS advised that due to present circumstances of urgency to forward object
+to Wright-Patterson AFB, which would permit him only a very limited examination
+of the object, he could identify it only as "either a stone meteorite or an
+earthly peridotite".
+
+18, On 1 December 1954, JAMES G. PRATT, Colonel, Commander, Maxwell AFB, was
+briefed on all available pertinent information concerning the object by Srecial
+Agent ATCHLEY, M/Sgt. LANZ, M/Sgt. TENNILLE and the writer, At this time Colonel
+FRATT telephonically contacted the Operations Officer, 4602nd AISS, Ent AFB,
+Colorado, and requested that Headquarters to telephonically contact the Mayor of
+Sylacauga, Alabama, in an effort to satisfactorily explain the necessity for USAF
+examination of the object and thus avoid any publicity adverse to USiF concerning
+the method by which it was obtained from the Mayor of Sylacauga, This step was
+taken in view of increasing publicity resulting from numerous and frequent protests
+made by Mr, HEWLETT HODGES concerning the USAF obtaining and withholding the
+object. It was determined from local newspapers that HODGES had this date obtainec
+an attorney for the purpose of recovering the alleged meteorite from the USAF.
+
+19. The following information from the Montgomery Advertiser, a newspaper of
+Montgomery, Alabama, and from the Birmingham Post-Heralid, a Birmingham, Alabama
+newspaper, both of 1 December 1954, is quoted verbatim below:
+
+"FRAGMENT OF METEORITE CRASEES SYLACAUGA HOME
+
+"SYLACAUGA, Ala., Nov. 30 (AP)— A meteorite crashed through the roof of a
+house here today and slightly injured Mrs. Hewlett Hodges, 32.
+
+o
+
+"George Swindle, field representative of the U.S. Geological Surevy, tested
+the nine-pound object and identified it as a sulphide meteorite.
+
+"A mysterious explosion in the Sylacauga area, sbout 55 miles southeast of
+Birmingham, set off a three-state search today in which 35 or 40 planes took part.
+But there were no planes reported missing.
+
+"The explosion was seen as far south as Phenix City, on the Alabama-Georgia
+border.
+
+"Dr, Walter B. Jones, Alabama state geologist, ssid evidently a meteor exploded
+in southeast Alabama, and Mrs. Hodges was hurt by a particle of it.
+
+"Swindle, who is condveting'a water survey in Sylacauga, said after he identi-
+fied the meteorite, it was taken to Maxwell Air Force Ease at Montgomery, ‘where
+the Air Force is required to examine such strange objects'.

@@ -1,0 +1,61 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T12:18:46Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3242508, "source_ctime_ns": 1793371234323443304, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28937263/0134.jpg", "source_mtime_ns": 1785688777000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28937263/0134.jpg", "source_sha256": "174be1203702c5b33e28ca5cc1164505f3ea3e397c793a6dad9254bd0fbf8d3e"}
+
+===== PAGE 1 =====
+{"alpha_words": 267, "chars": 1796, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+2a
+LOWRY FLIGHT SERVICE CENTER GRR/wiw
+LOWRY AIR FORCE BASE
+
+DENVER, COLORADO
+. UNCLASSIFIES
+RY 319.1 9 January 1950
+
+SUBJECT: Unidentified Flying Objects
+
+TO: Commanding General
+Air Materiel Command
+Wright-Patterson Air Force Base, Ohio
+
+1. ‘In compliance with Flight Service Regulation 200-4, dated
+2 November 1948, Subject: "Unidentified Flying Objects," the follow-
+ing report is submitted.
+
+2. On the night of 6 January 1950, two objects were sighted over
+Kansas City, Kansas, and Olathe, Kansas. They appeared to be motionless
+over Olathe for ten to fifteen minutes, then moved off very fast.
+
+3. The weather at Kansas City was clear with twelve miles visi-
+bility.
+
+4. The incident was sed
+Raytown, Missouri, phone
+Road, Missouri. Both are employed at Bendix Aviation, Kansas City, Kansas,
+
+and the former is a pilot.
+
+5. Photos are not available. Sketches are enroute to Lowry Flight
+Service and will be forwarded immediately upon receipt.
+
+6. Two objects were sighted, both spherical in shape. They ap-
+peared to be the size of old fashioned street lights about two blocks
+distant. They were a brilliant white, emanating orange and red flashes.
+
+7. They moved from over Kansas City toward Olathe, Kansas, remained
+motionless from ten to fifteen minutes, then moved off very fast in a
+southwesterly direction. The estimted altitude was. between seven and
+eight thousand feet. No sound was emitted, nor exhaust trail apparent.
+
+8. This report was given to Fairfax AFB Operations, Kansas City,
+Kansas, and transmitted to Lowry Flight Service.
+
+[ “(4 rn’ a
+
+Lt Col, USAF:
+Copies Furnished: Command ing
+C/S, USAF, Wash DC, Attn
+Dir of Intelligence UNCLACS 717 >
+Comdr, MATS, Wash DC, Attn ov ae Ng
+Chief, Intelligence Div oS ali Se aigi |
+CO, Flight Service, iiash DC SE 40 gg SE x3
+
+ere ee

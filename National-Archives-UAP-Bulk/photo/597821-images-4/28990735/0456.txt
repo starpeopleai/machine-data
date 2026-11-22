@@ -1,0 +1,63 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T11:32:30Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6980053, "source_ctime_ns": 1793384636864142856, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28990735/0456.jpg", "source_mtime_ns": 1785748548000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28990735/0456.jpg", "source_sha256": "6dc0c3be05c4211d1333ddefa369294dcb2741c7345c01914d0bec2cd9e0573b"}
+
+===== PAGE 1 =====
+{"alpha_words": 127, "chars": 1012, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+1. DATE 2. LOCATION 12.
+29 Dec 60 Japan
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION ad
+Lecal 0 Ground- Vi svol Q Ground-Rador 4
+
+Ja
+GMT 29/12372 % Air Vi sual O Air-Intercept Redar |
+5. PHOTOS 3. SOURCE 0
+0 Yes a aq
+Cl Ne Military 'e}
+7. LENGTM OF OBSERVATION 3. NUMBER OF OBJECTS | 9. COURSE Ke]
+o
+3 min one descending |°
+
+CONCLUSIONS
+
+Was Balloon
+Probably Balloon
+Possibly Balloon
+
+Was Aircraft
+Probobly Aircraft
+Possibly Aircraft
+
+Was Astronomical
+
+Probably Astronomical
+Possibly Astronomical
+
+Other Satellite Kesory
+
+Insufficient Data for Evaluation
+Unknown
+
+270°
+
+10, BRIEF SUMMARY OF SIGHTING
+
+Indefinite shape, aprox size of basketball at
+arm's length. Bright light changing from
+intense white to cherry red to green to blue
+
++o white. Appeared 10
+from
+
+° elevation bearing 330°
+
+Miho. Disappeared 10° elevation bearing
+from Miho. Object appeared to change color
+
+in a definite cycle. Faded to rear of a/c.
+
+11, COMMENTS
+
+Reentry of Discoverer 17.
+
+ATIC FORM 329 (REV 26 SEP 52)

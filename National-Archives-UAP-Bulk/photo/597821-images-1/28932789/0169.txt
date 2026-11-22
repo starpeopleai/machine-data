@@ -1,0 +1,54 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T11:29:37Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6517758, "source_ctime_ns": 1793369775966843702, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28932789/0169.jpg", "source_mtime_ns": 1785688751000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28932789/0169.jpg", "source_sha256": "e38e024afd547a3fe51f8dde69ed9bc65b66c2555e4be34ee949c85e40a54160"}
+
+===== PAGE 1 =====
+{"alpha_words": 107, "chars": 706, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+=,
+
+HEADQUARTERS
+AIR MATERIEL COMMAND
+
+WRIGHT-PATTERSON AIR FORCE BASE
+DAYTON, OHIO
+
+iN REPLY ADDRESS
+COMMUNICATION AND
+VELOPE TO COMMANDING
+GENERAL, AIR MATERIEL
+COMMAND, ATTENTION FOL«
+LOWING OFFICE SYMBOL:
+
+/ Liad
+
+*
+
+a en
+Cat? s |
+Ad TMA
+
+interested
+
+te all
+
+<1) dh APA oo
+
+°
+Jocnester, Naw York
+4 ts
+> " ra Toy ee ols 3 one
+Receipt of your letter dated > March 1959
+hereby acknowledged.
+Your letter will be forwarded to the office
+in these matters,
+If further information is desired you will he
+Your action in writing this Command is appreciated,
+Yours truly,
+A a A
+ry, Sie 4 EM 7 ‘gat Oe ae Pm ir
+PRYAN L. LAVIS
+Colonel, USAF
+Air Adjutent General
+4 AMS Farm No. 9 (Rev & Feb 49)
+
+W-1-18 AUG 49
+
+OOM

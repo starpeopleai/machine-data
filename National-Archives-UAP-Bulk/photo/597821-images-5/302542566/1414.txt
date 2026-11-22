@@ -1,0 +1,86 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T12:11:02Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1689482, "source_ctime_ns": 1793389659346903175, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302542566/1414.jp2", "source_mtime_ns": 1785808613000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302542566/1414.jp2", "source_sha256": "7c4a0a7bb68a3d2b78acc0ec1a93acd87664d550086a1b6f47ea173adae90fa4"}
+
+===== PAGE 1 =====
+{"alpha_words": 119, "chars": 975, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+towards
+
+The object was traced throughout the course for a period of 45-90
+
+ctutetinen
+
+~ Ge.
+
+d.
+
+clear.
+Ce
+f.
+
+School,
+
+. &
+
+(5) Observer claims that with each change of course the object
+appeared to gain in magnitude of brightness until it suddenly disappeared
+
+the north.
+
+(6) The approximate time of the last observation was 2125 EDT.
+
+tana of dhaatvation:
+
+(2) No optical aids were used.
+
+(3) N/A.
+
+Time and Date of Sighting:
+(1) 15 August 1965, 01252.
+
+ae
+(2) Night sighting with stars of 5th magnitude visible.
+
+Location of Observer:
+
+(1) eeRRY enor New Newport News, Va.
+
+Identifying tehisaaticn Ga Obata on Observer:
+
+“@ “Ghservation was made from the ground with the naked eye.
+
+Weather
+
+(1) Military, Arthur L. Corten, E-9, U. S. Naval Guided Missiles
+
+Dam Neck, Va.
+
+High probability of reliability of report.
+
+Weather and Winds:
+
+(1) See d(2) above.
+
+(2) 6M
+10M
+16M
+20M
+30M
+50M
+80M
+
+350/15
+350/20
+360/20
+020/30
+
+_ 020/70
+
+030/15
+Unknown
+
++15
++7
+
+-11
+-37
+
+-59_

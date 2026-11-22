@@ -1,0 +1,11 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T11:50:26Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 83482244, "source_ctime_ns": 1793367956686931661, "source_file": "National-Archives-UAP-Bulk/photo/542326/342-B-01-103-179268USAF_001.TIF", "source_mtime_ns": 1785565823000000000, "source_rel": "National-Archives-UAP-Bulk/photo/542326/342-B-01-103-179268USAF_001.TIF", "source_sha256": "43f0893b4e84b1f317e3165603e1682d2576864e9cd5c38faca9caab753fb661"}
+
+===== PAGE 1 =====
+{"alpha_words": 4, "chars": 36, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 1, "variant": "plain-psm3"}
+*
+.
+
+-
+
+7
+pint eet on Me © ‘-—_-?*

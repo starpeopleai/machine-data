@@ -1,0 +1,55 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T11:41:59Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9158289, "source_ctime_ns": 1793362698601899950, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330783376/45484701-003-004-0201.jpg", "source_mtime_ns": 1785685014000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330783376/45484701-003-004-0201.jpg", "source_sha256": "c05098332cf2d76684957ed2c5ce98ddf69f34f2e63a1bc90cf1131d300b5209"}
+
+===== PAGE 1 =====
+{"alpha_words": 130, "chars": 989, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+AFCSI-6D/Maj gon 3 | dara apa
+Wrtn 21 May 54
+
+DIRECTORATE OF SPECIAL INVESTIGATIONS
+THE INSPECTOR GENERAL
+
+AFCSI-6D 2h4-185-399
+
+SUBJECT: Unidentified Flying Objects, Vicinity, Nouasseur Air Depot,
+Frerich Morocco, 1900-2200 hours, 5 March 1954
+SPECIAL INQUIRY
+
+District Commander
+Sth OSI District, IG
+Wright-Patterson AFB
+Ohio
+
+Attached for transmittal to Air Technical Intelligence
+Center is a photostat copy of OSI North Africa District report,
+dated 15 March 1954, concerning Unidentified Flying Objects.
+
+FOR THE DIRECTOR:
+
+1 Inel ; ENE P. MORITZ
+R/I fr N Africa Dist Lt Colonel, USAF
+(Novasseur Det) Oh.1L6 Chief, Sabotage and Espionage Branch
+dtd 15 Mar 54 Counter Intelligence Division
+Directorate of Special Investigations
+The Inspector General
+
+al
+a ment
+
+ON
+
+CA
+
+CLASSIFICAT! A
+<oprtes wks
+camer eed as
+
+UPON WITHDRAWAL OF THE INCLOSURES THE 0" exe
+CLASSIFICATION ON THIS oa E
+
+wm wm . @neZe
+
+| YE ed eal A ek A el ew |
+
+Declassification Authority: NND 923007
+
+AdOD FILA TS0aV

@@ -1,0 +1,41 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T11:36:45Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8041936, "source_ctime_ns": 1793362710248068285, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330783376/45484701-003-004-0227.jpg", "source_mtime_ns": 1785685016000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330783376/45484701-003-004-0227.jpg", "source_sha256": "dba59047f87f14f6f0bbe2ec972fc6f6bb97f9c78902849bfb77a656bb2c0f7e"}
+
+===== PAGE 1 =====
+{"alpha_words": 104, "chars": 893, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+- ———
+
+HEADQUARTERS
+NORTHEAST AIR COMMAND
+APO 862 c/o POSTMASTER
+
+NEW YORK. NEW YORK
+
+NACSI 1-10.00 2i, March 1954
+SUBJECT: Transmittal of Files
+
+TO: Director, Special Investigations
+Headquarters, USAF
+Washington 25, D. ©.
+
+1. Reference is made to our letter dated $ March 1954, subject
+and file number as above, and your letter AFCSI-4C 34-5-N0, subject
+as above, dated 19 March 1954.
+
+2. Transmitted herewith are Reports of Investigation listed in
+above referenced letter as inclosures fifty-two (52), fifty-three (53),
+and fifty-four (54).
+
+3. These inclosures were not included in the original shipment
+due to administrative oversight.
+
+FOR THE COMMANDER:
+
+~,
+
+a ARO OF
+3 Incls: JOHN W. FARRELL
+1. ROX 35-22 (Incl. 52) It Colonel, USAF
+2. ROI 49-19 (Incl. 53) Director, Special Investigations
+3, ROI 27- 4 (Incl. 54) Office of the Inspector General
+
+Declassification Authority: NND 923007

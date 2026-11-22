@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T11:32:54Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7050554, "source_ctime_ns": 1793385041224737218, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28991678/1297.jpg", "source_mtime_ns": 1785748146000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28991678/1297.jpg", "source_sha256": "98dec1fe1f48f4907d0d04661f38eba0e90d62e8a8b2753b20699550a67829c9"}
+
+===== PAGE 1 =====
+{"alpha_words": 171, "chars": 1131, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+APCIN-AB
+WO Sighting, 2 Mer 61, Cincinnati, Chio
+
+Me,
+llurgical Engineer APR 23 196]
+P. EB. State of Chio 25917
+
+ap calf tangy 5
+LJED Laboratory Building
+General Zlectrice Company
+Cineinnat’ 15, Ohio
+
+Dear”
+
+The reports of your sighting of an unidentified flying object in the
+vicinity of Cincinnati, Chico, on 2 March 1961 has been analyzed as due to
+the misidentification of a metecr. This was not an ordinary meteor, but
+one of that exceptionally bright class known as "firebalis"®. Heteors of
+this type are approximately as teright as Venus at its drightest, of un-
+usually long duration, and may display various colors. These metecrs are
+relatively rare and most people never see one in their lifetime. Due to
+lack of experience with meteors of this type, and their startling appear-
+ance, 1% is not unusual for them to ve misidentified.
+
+Your repers of the sighting was unique in that it contained sufficient
+information explained in a manner which contributed immeasurably to the
+
+successful enalysis.
+Thank you for your interest in this matter.
+Sincerely
+
+PHILIP G. EVANS
+Colemel, USA? /
+Deputy for Science and Components

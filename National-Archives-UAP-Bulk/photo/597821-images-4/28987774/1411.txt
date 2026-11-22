@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T11:34:08Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7385795, "source_ctime_ns": 1793383764617203579, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28987774/1411.jpg", "source_mtime_ns": 1785747910000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28987774/1411.jpg", "source_sha256": "b793603718cb148487fba5d72144a659cef6519a260d64d520ed299b3eb1c4dd"}
+
+===== PAGE 1 =====
+{"alpha_words": 142, "chars": 961, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+AEROSPACE TECHNICAL INTELLIGENCE CENTER
+UNITED STATES AIR FORCE
+WRIGHT-PATTERSON AIR FORCE BASE
+OHIO
+
+se PLY TO %
+
+wyoofr  AFCINekK2x
+sussect: Information Recuest, UFO (ree
+
+ro: GAFOI-3d (L/Col Tacker)
+
+1. Reference attached copy of a letter to Department of the Air
+Force from ee dated 17 October 1960.
+
+®t The Red Bluff, California sighting was probably due to the refrac-
+i tion of common objects. eather data reveals that there were tempera-
+' ture inversions throughout the general area during the period of the
+* sightings. while the actual object responsible for each sighting
+cannot be determined, it is highly probable that tne JFuU seen by the
+_highway patrol officers was the planet Mars.
+
+' (J. Tne ATIC files do not contain any reports of sightings occurring
+i at Bsoulder, Colorado, 11 August 1960, or at Leefe, ilyoming, 1 July
+V4, tbe MY ) YP
+Y ttl
+JNICHOLAS POST 1 Atchs
+Acting Deputy Cy 1tf 17 Oct. 00 fr
+Science and Components Director, Aru

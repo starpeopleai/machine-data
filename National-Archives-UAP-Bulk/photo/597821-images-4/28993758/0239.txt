@@ -1,0 +1,81 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T11:39:19Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8438357, "source_ctime_ns": 1793385615620667565, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28993758/0239.jpg", "source_mtime_ns": 1785748082000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28993758/0239.jpg", "source_sha256": "473361836f8054cda6b770139efc7f7180028b105fcab2707ddcbe822412dfe4"}
+
+===== PAGE 1 =====
+{"alpha_words": 377, "chars": 2360, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Seas Mi at A bl
+(oie Rasa pened eaten
+
+4
+
+‘
+
+epicycles on top of the first ones. Finally,
+as u famous English astronomer, Sir Arthin
+Eddington, once observed: “The minsic of
+the spheres was fost in the whir ol niachin
+After acceptance of the modern idea that
+the planets, including earth, revolve around
+the sun, in elliptical rather than circular
+orbits, the idea of epicycles and deferents
+was abandoned, Jupiter now seems to be
+going backward simply because Wwe are
+going past at a higher speed. Perhaps you
+have seen the same effect when you have
+been riding on a train and it has overtaken
+4 slower freight train on the next track
+Even though it is going the same direction
+as the passenger train, it may look, to the
+passengers, to be going backwards.
+
+Saturn Moves Slower Than Jupiter
+
+A. similar effect, of course, occurs with
+Saturn, which moves more slowly than
+Jupiter, taking nearly 30 years for one cir-
+cuit of its orbit. Saturn will be at oppost-
+tion on July 19, its distance about 836,000,-
+900 miles. The 1962 opposition will occur on
+July 31.
+
+So, with Jupiter and Saturn in opposition
+in July, both planets rise at sunset and are
+visable all through the night. For the rest
+of 196) they will continue to be prominent.
+But, as the sun's apparent movement
+through the sky toward the east brings that
+orb nearer and nearer to them, the planets
+will set earlier and earlier. Next Jan. 22, for
+Saturn, and Feb. 8, for Jupiter, they will
+be in the same direction as the san and not
+visible. A few months Jater they will shine
+in the eastern sky before sunrise and, by
+late summer of 1962, they will again be in
+
+the evening sky, as they are Now.
+
+Celestial Time Table for July
+
+4 10:33 p-m. Moon in last quarter
+5 Earth farthest from sun, dlis-
+tance 94,451,009 miles
+2112 p.m. New moon
+6:00a.m. Moon farthest, distance 2525
+300 miles
+9:00 p.m. Moon passes Mars
+4:00 a.m. Mercury farthest west of sun,
+visible for a few days about
+now low in east before sunrise.
+‘oo a.m. Saturn opposite sun and nearest
+earth, distance $36,100,006
+miles
+:14p.m. Moon in first quarter
+5:00 a.m. Jupiter opposite sun and neat
+est earth, distance 280,400,000
+miles
+s:q0 a.m. Moon passes Saturn
+noon Moon passes Jupiter
+2:54 p.tn. Full moon
+4200 aD. Moon oearest earth, distance
+222,200 miles
+Subtract One houl toot CST, two hours fos
+MST, and three hours for PST.

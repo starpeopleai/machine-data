@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T11:59:27Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 754469, "source_ctime_ns": 1793355833160614933, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989277-001-0098.jpg", "source_mtime_ns": 1785564536000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989277-001-0098.jpg", "source_sha256": "bec59d1da6f1e1f0f85c6e7fb955b813c7a56fe53d2a82babdf7cb7b9132d2c8"}
+
+===== PAGE 1 =====
+{"alpha_words": 164, "chars": 1058, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+18 Mar 97
+Roswell Questions
+
+1. Written By:
+
+Al. The Secretary of the Air Force Declassification and Review Team (SAF/AAZD),
+
+The Pentagon. The primary writer and researcher was Captain James McAndrew.
+
+e Why SAF/AAZD? SAF/AAZD is the very experienced in the area of
+historical research. Previous projects were declassification and review of
+Southeast Asia POW/MIA records (1989-1993) and the Gulf War Air Power
+Survey (1993). In July 1996 SAF/AAZD received the coveted “Hammer
+Award” from Vice President Gore for excellence in government.
+
+Q2. Authorized by:
+
+A2. The Secretary of the Air Force.
+
+Q3. Is it classified?
+
+A3. No.
+
+Q4. How much of this information had to be declassified?
+
+A4. None. This is the irony. Many of the persons interested in this case were convinced
+that the solution was a secret of some sort. They looked in the wrong places—
+classified holdings—when the solution was unclassified and available to them all the
+time.
+
+Q5. How long did it take?
+
+A5. It took 14 months to research and write the report.
+
+e Why did it take so long?

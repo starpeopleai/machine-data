@@ -1,0 +1,46 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T12:09:34Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1426197, "source_ctime_ns": 1793392960651620937, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302572494/0485.jp2", "source_mtime_ns": 1785808397000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302572494/0485.jp2", "source_sha256": "a7455e651ef56ab95de665974b2c5b3d800558ff30019b9a64fa5cf81660c4c5"}
+
+===== PAGE 1 =====
+{"alpha_words": 160, "chars": 1051, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+U.S. DEPARTMENT OF COMMERCE
+ENVIRONMENTAL SCIENCE SERVICES ADMINISTRATION
+WEATHER BUREAU
+DAYTON KUNICIPAL AIRPORY
+VANDALIA, OHIO
+
+December 29, 2967
+IN REPLY REFER TO:
+
+Major Hector Quintanilla, Jr, y
+
+Chief, Aerial Phenomena Office
+
+Aerospace Technologies Division
+
+Production Directorate
+
+United States Air Force
+
+Dear “ajor Quintanilla:
+
+Replying to the fourth paragraph of your letter of December 26, 1967,
+revarcing an unidentified flying object north of Lake Brie at 2105 EST
+November 11, 1967, & rawinsonde balloon with rawinsonde attached was
+released at this station at 1800 EST on that date, We know of no other
+agency in this area which Launches balloons. You may be interested to
+learn *hat the Weather Jureau Upper Air Station at Flint, Michigan was
+scheduled to release a rawinsonde balloon at the same time as the one
+released here, 1800 FST.
+>)
+Very truly yours,
+aymond T, Gillam
+oF Sree , ‘
+seteorologist in Charge
+
+NLR We ACI ay Oy Lae ES i) PR REA ATG ean 0 ee i a el
+
+Agee PUNE oF. WE.
+
+aot en I ne ae Boe ee OO Oe Oe
+
+ah Sia ek Ce

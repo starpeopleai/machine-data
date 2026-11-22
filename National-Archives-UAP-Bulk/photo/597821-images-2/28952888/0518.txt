@@ -1,0 +1,156 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T12:19:59Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3767230, "source_ctime_ns": 1793374719104639590, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28952888/0518.jpg", "source_mtime_ns": 1785696748000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28952888/0518.jpg", "source_sha256": "580f1532a4f3b5f596b7e38880c93dfaea1d76fafa83802aac0f46c83efe5865"}
+
+===== PAGE 1 =====
+{"alpha_words": 483, "chars": 3585, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+AERONAUTICAL SYMBOLS
+
+AERODROMES
+AERODROMES WITH FACILITIES MEnCOraS Mowe
+LAND WATER LAND WATER
+
+e} ® Civil oO Landing area
+© ©) Joint civil and military é
+© © Military
+
+Principal civil aerodromes in large populated areas; or air terminals of major importance
+AERODROME DATA
+
+Sheltered anchorage
+
+LAND WATER
+HARMON 18 Elevation in feet 00 Elevation in feet
+ma i. oe L Minimum lighting NAS ANACOSTIA
+GCA SYSTEM H Hard surfaced runway S Normally sheltered
+278 126.18 45 Length of longest runway take-off area sae ° ae
+sie CN weg in hundreds of feet 62 Length of longest runway
+
+278 126.18 2370 Control tower transmitting frequencies in hundreds of feet
+
+When information is lacking. the respective character will be replaced by a dash nd 22
+i NAVIGATION LIGHTS
+ne, REE BIG RITES, oY CaM Be ae APR Rood Flashing light (With code) .. — — — eur we FL
+Rotating lant (With flashing code) — —. — wee +
+Rotating light (with course lights) —. — — BF a: ae Marine light — — — — — — —— — — — —@e
+
+| SES tana EM EL LEESON 1 Naa ‘ “i
+
+F-fixed Fi-flashing Occ-oceulting Alt-alternating Go-group R-red W-white G-green B-blue (U)-unwatched SEC-sector sec-second
+Marine alternating lights are red and white unless otherwise indicated. Marine lights are white unless colors are stated.
+
+RADIO FACILITIES
+
+Use of the word “Radio” within the box indicates voice facilities
+
+All radio facility data are printed in blue with the exception of certain LF/MF tacilities such
+as tower frequencies, radio ranges and associated airways, which are printed in magenta.
+
+[Rook asl -BS
+Ratiorange © WOODY RANGE . ‘ ‘ WOL
+mum: 251 FWA fizz Radio broadcasting station 1260
+
+—
+, f EVERETT
+Marine radiobeacon 224 meee Radiobeacon, non rectionale ty » BEDFORD RADIO
+€" thout voice Jom -2000 & S0m.40Kn (homing) (swith voice) “ite
+
+—RACON—
+OA iit me 2-2-1]
+
+Radar beacon
+
+Radio communication station ©-
+)
+
+with voice
+
+sheila OO ania
+GOWEN RADIO
+278
+
+(Compulsory reporting point) ™
+
+[a waTAWan RADIO | —e
+W 109.1 MWA -h>
+
+- [enicaso nanio
+Ae [39 cot Se
+2
+
+Bearings are magnetic at the station. a
+Radius of circte is 15 nautical miles (2)
+
+i °
+Isogonic line —— — me ee ee a=
+pre Bond
+
+Mooring mast — — — — — — -
+
+Prominent transmission line 7 r.
+s1s4
+
+Obstruction — —- — — — — — — — A
+Numerals indicate elevation above sea level of top) " Tank
+930°
+
+‘oe
+
+TON
+(Non-compulsory
+reporting point)
+
+100 watts Fan Marker Beacons
+
+75 mez)
+
+AURAL RANGE
+
+>
+
+(bearings are megnetic at the station)
+
+(FORNEY) {EASTON
+
+VHF FOUR-COURSE VISUAL-AURAL RADIO RANGE (VAR)
+
+The Blue and Yellow Visual Sectors are indicated by a B and Y: the Aural Sectors byA and N
+Letter p ing f
+
+y in box indicates channel
+
+5S “
+
+VHF OMNI-DIRECTIONAL RADIO RANGE (VOR)
+
+The VHF omni-directional range provides visual track guidance along any
+selected radial from the station out to a distance of approximately 50 miles
+when flying at the minimum instrument altitude, These ranges operate in
+the frequencies between 112 and 118 megacycles and require a special omni
+range type receiver to make use of the navigational features. Also provided
+are simultaneous voice cornmunication and 3-letter (coded) identification. In
+operation, the pilot selects a course by setting the pointer on a course or radial
+selector to the desired magnatic bearing and then flies that course by refer-
+ence to a cross pointer instrument.
+
+MISCELLANEOUS
+Restricted areas are numbered, and are
+indicated on the charts as follows:
+
+LL.
+re or —
+
+Uncontrolled airway
+
+Controlled
+
+area civil —
+
+S Conteol zone
+
+—— om indicates air
+traffic controiied areas
+5-152
+
+Caution area
+(C-54)
+
+ere’

@@ -1,0 +1,19 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T12:14:03Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1730206, "source_ctime_ns": 1793389285833261596, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302538833/00787.jp2", "source_mtime_ns": 1785807994000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302538833/00787.jp2", "source_sha256": "3711003be005a216226c4f174093ad7dc26758ad0f9e5b66aa6f4e3513da2fcc"}
+
+===== PAGE 1 =====
+{"alpha_words": 11, "chars": 63, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Lh May 1965
+
+LiCIO
+
+‘
+
+‘We
+
+‘of May 9,
+
+us
+
+od
+
+aA eieey? Se.

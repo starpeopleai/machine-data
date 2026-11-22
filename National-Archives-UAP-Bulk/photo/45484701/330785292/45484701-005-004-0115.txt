@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T11:31:41Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6946682, "source_ctime_ns": 1793363465658831957, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785292/45484701-005-004-0115.jpg", "source_mtime_ns": 1785684657000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785292/45484701-005-004-0115.jpg", "source_sha256": "f364a2260859c7660a9ef70cee91441912d5f7ec11cfdcf38f51a61be97a691e"}
+
+===== PAGE 1 =====
+{"alpha_words": 94, "chars": 740, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+‘ Page 3 @ Q
+pesentie] Elenents of Int) Qiadisimeaiaditdela,
+Project "SIGN"
+
+12, Support
+a. Wings Wo
+b. Aerodynamic lift of fuselage
+ds Vertical jet None noticed.
+dj. Rotating cylinder or cone NOQe
+e, Aerostatic lift (balloon or dirigible) Ne
+Propulsion
+a. Propellor or jet Nom Noticed,
+bo, Rotor None Noticed.
+
+c. Aerodynamic vanes (flapping or oscillating)
+(Katz Mayer effect)
+
+d, Visible exhaust or jet openings
+Control and stability None noticed
+a. Fine
+b. Stabilizers (horizontal or vertical) Wone Notieed
+(1) Size
+(2) Shape
+(3) Location
+Air ducts 1 OND
+a, -Slots
+b. Duct openings
+Speed = M.P.Hy Approximately cO
+Sound None
+a. Continuous whine gr buzz
+b, Roar, whistle, whoosh
+
+ec. Intermittent
+
+Declassification Authority: NND 923007

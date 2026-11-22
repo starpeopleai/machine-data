@@ -1,0 +1,42 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T12:04:44Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1014291, "source_ctime_ns": 1793389360769922727, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302539630/01232.jp2", "source_mtime_ns": 1785808239000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302539630/01232.jp2", "source_sha256": "a948fed6c84751031ab50af9eddd9e12153cfa5ec0251c0b51c0b93c52cfd667"}
+
+===== PAGE 1 =====
+{"alpha_words": 96, "chars": 638, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+REPLY TO
+ATTN OF:
+
+SUBJECT:
+
+TO:
+
+HEADQUARTERS
+25TH AIR DIVISION (SAGE)
+
+UNITED STATES AIR FORCE
+MCCHORD AIR FORCE BASE, WASHINGTON 98438
+
+25CI10-C. 43 ANP ror
+Je te UA
+
+geport of Unidentified Flying Object
+
+SSADS (SEOIN)
+
+Ll. The attached letter fron —_ 7
+of Western Washingtoa State Collegam forwardec
+for appropriate action in accordance with Geuhebaph 3, AFR
+
+2. The letter was forwarded to this office by Sgt Carl B.
+Broyan of Blaine AFS.
+
+FOR THE COMMANDSR
+
+Mir+ ti, phe here ans
+
+DESLSMAN, Caot, USAF 1 Ateh
+
+‘Mary al,
+Chief, Community Relations Div Ltr,
+Office of Information Western Wash. State Collega
+
+6 Aug 65, to Blaine AFS

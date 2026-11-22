@@ -1,0 +1,15 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T11:31:30Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6936575, "source_ctime_ns": 1793380029626942443, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28974272/0781.jpg", "source_mtime_ns": 1785700860000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28974272/0781.jpg", "source_sha256": "7fe2c3db5d55a7b39205f59fc92f38e1f6aad26febc3f6e76a9c05a38561f50e"}
+
+===== PAGE 1 =====
+{"alpha_words": 59, "chars": 439, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+a il
+
+7 November 1957
+Meridian, Mississippi
+
+countered an egg-shaped object on the highway near .‘eridian, Mississippi. From it
+emerged three "queer=-lLooki ng people" four-and-a-half feet li.ph--two men and a wo-
+man with "pasty-white faces"' and dark hair. They "Nchattered"” unintelligibly, and
+a acpas’ Stevens’ hand, A companion corroborated his storye
+
+The following morning, November 7th, truck @river Malvan Stevens said he en- |

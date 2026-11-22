@@ -1,0 +1,43 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T12:00:32Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 806640, "source_ctime_ns": 1793392158403424002, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302564908/0954.jp2", "source_mtime_ns": 1785808644000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302564908/0954.jp2", "source_sha256": "8c00799c4fe21cab7e4de666c2265ad65e7370b0798a53b7ac22d410f7674196"}
+
+===== PAGE 1 =====
+{"alpha_words": 181, "chars": 1227, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+*
+Son
+
+2 1069
+TDPL (UFO) /Lt Marano/sac/22 Apr 69 fu APR ISDS
+
+UFO Sightings of 3 Apr 63 from Cochrane, Wisconsin and 17 Apr 67
+from JePferson City, Missouri
+
+Ire J. Allen tiynes
+Lindheimer Astronomical Researc enter
+Northwestern peLeabtes
+
+\ Svanston, Illinois 6020
+
+yy 1. Reference our letters of 9 Tec 63 and 17 Mar 69 regarding the
+“) UFO sighting of 3 Apr 63 from Cochrane, Wisconsin. ‘To date we have
+v not received tha letter that you sent to Mrs. Sa, Please furnish
+~ us with a copy of this letter so that our records will be complete.
+Y 2. Also reference the UirO0 sighting of 17 Apr 67 from near Jefferson
+“x City, Missouri. On 3 Mar 69, we requested transcripts of all conversa-
+a tions that you have had with Mr. Metz. Our records indicate that you
+= have had two-telephnone conversations with Mr On 10 Mar 69, you
+x forwarded the second conversation wita Mr. B out as of this date we
+have not yet recelved a tragacript of your first conversation with hin.
+Please forward a transeript of this conversation as soon as possible so
+oan that our records will be complete.
+Q
+
+1
+aw Storor QUINTANILLA, Jr, Lt Col, USAP
+Le fntef, Aerial Phenomena Branch
+
+A Aerospace Technologies Division
+
+\ Production Directorate
+.
+
+iN

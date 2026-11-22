@@ -1,0 +1,77 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T11:44:42Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 16114452, "source_ctime_ns": 1793361208114374474, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-004-0213.tif", "source_mtime_ns": 1785565260000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-004-0213.tif", "source_sha256": "a3ba199b197402b8ff18d1178359907248bf245eb17430663e2642c270c7e6da"}
+
+===== PAGE 1 =====
+{"alpha_words": 299, "chars": 2172, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+CLASSIFICATION (SECURITY INFORMATION when filled in)
+
+SUPPLEMENT TO AF FORM 112
+| ORIGINATING AGENCY REPORT NO.
+
+PFICO-C, Hq PACAF IR-17~58 PAGE 9 oF graces
+
+Description of Objects
+
+1. Shape: circular "fireball"
+
+2e Grapefruit
+
+3, Greenish-blue
+
+4eo One
+
+5e N/A
+
+6, Bright, instantaneous flash,
+
+7, None oebservedg
+
+8, None observed,
+
+9. The "fireball" was observed directly only by. the Flight
+Engineer; however the light of the flash startled both pilots, The sngineer
+was looking through a window at the rear, starboard side of the cabin, The
+pilots were both at their seats in the cockpit, separated from the cabin by
+
+a closed and lighted crew compartment.
+
+Course of Flight: The flash was instantaneous, and therefore showed
+no apparent motion,
+
+Observations:
+1. Air-visual, direct by one observer and indirect by two,
+2e None,
+
+3¢ C=54D, 42-72505A, 7,000'MSL, 125° TH, 190 kts (ground speed),
+153 kts 1AS, 165 kts TAS, Yokota AB, Japane
+
+Time and Dates
+
+1. 1309142 February 1958,
+2, Night.
+
+Observers: Aircraft position was 2119N 16130E, Observers were
+Iesated as follows:
+
+1, Flight Engineer, at "Station G" window (also an emergency exit)
+in starboard side of cabin,
+
+2. Aircraft Commander was in the cockpit, left seat, looking
+directly at the co-pilot,
+
+34 Co-pilot was in the cockpit, right seat, scanning the left side
+of the instrument panel,
+
+4. Navigator and radio operator were in the lighted crew compartment,
+with cockpit curtain drawn and cabin door closed, and thus were not
+knowledgeable of the sighting until after it had occurred,
+
+WARNING: This document contains information affecting the national defense of the United States within the meaning of the
+Espionage Laws, Title 18, U.S. C., Sections 793 and 794, Its transmission or the revelation of its contentsinany manner toan
+unauthorized person is prohibited by law. It may not he reproduced in whole or in part, by other than United States Air Force
+Agencies, except by permission of the Director of Intelligence, USAF.
+
+AF y bers2 (12a Water may pe use. eras (SECURITY INFORMATION when filled in)
+UNCLASSIFIED U. S. GOVERNMENT PRINTING OFFICE — 16—68470-1
+
+DECLASSIFIED
+Authority NND 9237007

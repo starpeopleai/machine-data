@@ -1,0 +1,107 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T11:47:09Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 18385343, "source_ctime_ns": 1793355744921127643, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0186.jpg", "source_mtime_ns": 1785564515000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0186.jpg", "source_sha256": "c35b31d5869ec9416c18bbbbf489b9f3b278218424a63c2ef6742c3de676a3f7"}
+
+===== PAGE 1 =====
+{"alpha_words": 672, "chars": 4580, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+358
+
+Under the second objective, the sub-objectives are:
+
+1. Topography -- the mapping of the geometry of the surface features (down
+to a scale of about a meter), and the division of the surface of Mars into
+units of homogeneous surface geometry, surface reflectivity (total and
+spectral), size, and shape, and so forth.
+
+. Surface photography to determine such information as crustal deformation,
+erosive and depositional processes, intensity and types of volcanic activity,
+sequence of formation of surface features, and consequent establishment of
+Martian time scale, and so on.
+
+3. Internal structure and activity -- seismology.
+
+Petrologic investigations -- the science of rocks in its broader aspects.
+Chemistry, crystallization, mineral assemblage, and so forth.
+
+. Surface and atmospheric environment -- atmospheric composition, surface
+radiation, temperature cycling, large eroding wind storms, and so on.
+
+6. Shape of the planet.
+
+7. Magnetic field.
+
+These then are the objectives for the scientific exploration of Mars. Certainly they
+are ambitious, but one must remember that they represent an attempt to do on Mars
+what has already been done on Earth but at a much more accelerated pace. They
+are what ultimately must be done if we are serious about exploring Mars. With the
+recognition that some of these objectives can be met by orbiting vehicles (that is
+
+to say vehicles orbiting Mars), and that some are truly beyond our present
+capabilities, the following set was finally chosen as being within the capability of a
+single Mars lander:
+
+1. A comprehensive biological survey by employing photography, microscopy,
+light scattering, radioisotope techniques and biological reactions for specific
+biochemical components; also growth detection over extended periods.
+
+. Color surface photography of resolution varying from 1 mm at 2-m distance
+to 5 cm at 100-m distance.
+
+. A total of approximately 500 surface pictures (both surface photography and
+microphotography).
+
+. Geological information through techniques of seismometry, x-ray diffraction,
+and petrological microscopy.
+
+. Composition and meteorology of the atmosphere by measurement of thermo-
+dynamic parameters, surface conditions, surface wind velocity and time
+variations of each of these.
+
+From the very nature of these experiments, involving as they do measurements
+
+that require the instrument to be on the ground as well as those that do not carry
+
+this requirement, it is apparent that there are two basic ways that a balloon system
+
+359
+
+could be used to enchance the data acquisition. First, one might conceive of the
+entire package landing on the planet, and performing its assigned mission for a
+specific length of time. At the end of this period, a balloon is inflated and the
+package is carried to a second location to repeat its measurement cycle. Second,
+
+as an alternative mode one can visualize a sensor capable of making measurements
+while airborne being separated from the main capsule (which is landed on the planet),
+and being carried by balloon during its entire measurement cycle. Both of these
+possibilities offer obvious desirable advantages which have been mentioned pre-
+viously; however, as may be imagined from the previous paper, both modes probably
+entail a considerable payload penalty, In the final analysis, it is this payload
+penalty which fixes the ultimate feasiblity of the balloon system.
+
+The degree of this payload penalty can be determined by attempting to estimate
+the payload masses involved in such a future space venture. The Jet Propulsion
+Laboratory people drawing on their considerable experience have already made
+this estimate (see References). The estimated masses that are attached to the
+various experiments attempting to accomplish the goals stated earlier are given
+in Table 1.
+
+Instrument
+Measurements mass (kg)
+Biology
+Geology
+Atmospheric
+Surface Surveillance
+Soil and Atmospheric Sampling
+Sound
+TOTAL
+
+The instrumental masses are of course only the beginning in any analysis of
+payloads. In addition, one must include a sequencer, computer, data handler,
+transmitter, power supply, and so on, and doing so we very quickly convert the
+55 kg to something of the order of 300 kg. If we then add the required structure to
+
+hold this package together, we finally arrive at a lander capsule with a mass of
+
+~400 kg. This approximately doubles to~ 750 kg as we go from the package landed,
+
+through a heat shield, and so forth, to the total entry vehicle which is separated
+
+from the orbiting capsule. This then is the determinant of the feasibility of a

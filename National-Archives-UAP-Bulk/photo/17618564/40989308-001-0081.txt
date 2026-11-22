@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T12:00:21Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 792368, "source_ctime_ns": 1793356203157975697, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989308-001-0081.jpg", "source_mtime_ns": 1785564636000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989308-001-0081.jpg", "source_sha256": "3511c653f012fd6a78beb5122eb9f19bc8e085561826614ed28e161851006958"}
+
+===== PAGE 1 =====
+{"alpha_words": 166, "chars": 1055, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+wo eee ee mre 39
+
+«eee ese ee
+
+pecctgows ome!
+newer
+
+oe eee eee
+
+vr
+
+Balloons--Page 8
+
+The recovery personnel promptly return the payload to Holloman where
+it is disassembled. The research part of the instrumentation is then
+examined by scientists for the valuable data obtained on the flight.
+
+Among the payloads carried in these experiments are instruments to
+determine composition of the atmosphere at high altitudes, to measure
+carbon dioxide and rare gases in the atmosphere, to measure sky brightness
+
+at high altitudes, to obtain data on. the vertical distribution of ozone in
+the atmosphere, and to record the intensity of solar radiation.
+
+_Some of these packages even contain fruit flies from the Aero Medical
+Field Laboratory to study the effect of cosmic radiation upon them. Because
+fruit flies multiply rapidly, the hensdttery effects of cosmic radiation can
+
+be studied in comparatively short periods of time.
+
+Thus, the balloon which was all but forgotten a few years ago, now
+
+plays an important part in today's aviation research.
+
+(end)

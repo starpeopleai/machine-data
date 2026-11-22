@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T11:37:12Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8165206, "source_ctime_ns": 1793354792309006047, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989219-001-0171.jpg", "source_mtime_ns": 1785564340000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989219-001-0171.jpg", "source_sha256": "f7a96030444d95fa9c50d383c68e2155f2024d61ecad37800d0d509b21f62621"}
+
+===== PAGE 1 =====
+{"alpha_words": 235, "chars": 1651, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+COURT-MARTIAL REPORTS
+NO. 9
+1952-1953
+NITED STATES v. CHEWNING
+
+Headnote 4:3
+
+The problem of the credibility to be accorded an accomplice's testi-
+mony is one of fact (State v. Taborsky, — Conn -, 95 A2d 59, 62 (1953).
+A conviction may not be based on the self-contradictory, uncertain, or
+improbable testimony of an accomplice where there is no corroboration there-
+of (MCM, 1951, subpar, 153a, p. 289), but if his testimony is clear, certain
+and credible, it may support a conviction (Delvalley v. United States, 88
+Fed 579 (7th Cir 1937). However bitterly the testimony of an accomplice
+may be assailed before the court, the fact remains that it alone may support
+a verdict (Caminette v. United States, 242 US 470, 496, 61 L ed 442, 27 §
+Ct 192 (1917); United States v. Heitler, 274 Fed 401 (ND Ill 1921); State
+ve. Guild, 10 NJL 163, 18 AM Dec 4041 (1828). Where such testimony is
+corroborated by other evidence, supporting its probability and impressing
+the court with a belief in its truth (and we so conclude from the record,
+see infra), the conviction is even more strongly established.
+
+ce. As to the Merits
+
+Sodomy is unnatural carnal copulation with another person of the same
+or opposite sex. Any prnetration, however slight, is sufficient to complete
+the offense and emission is not necessary. It is unnatural carnal copulation
+for a person to take into his mouth the sexual organ of another persnn or
+to Place his sexual organ in the mouth of another person. The only element
+of proof of the offenses charged is that the accused engaged in unnatural
+Carnal copulation with a certain other person, as alleged (MCM, 1951, par 204,
+p 367)

@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T12:19:19Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3412107, "source_ctime_ns": 1793386414172546916, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28996048/1202.jpg", "source_mtime_ns": 1785748449000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28996048/1202.jpg", "source_sha256": "0ae03911db8040cf4515fb7ef29587134f6700bdcbe6933bb4e9fc5a42a8d2a9"}
+
+===== PAGE 1 =====
+{"alpha_words": 137, "chars": 1053, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ont ait PROJECT 10073 RECORD CARD
+1. DATE 2. LOCATION 12. CONCLUSIONS
+2 8-30N 4-20W Atlantic 0D Was Balloon
+1) Jan 6 3¢-3 7 ( =) Q Probably Balloon
+3. DATE-TIME per 4. TYPE OF OBSERVATION 0 Possibly Balloon
+061 Q Was Aircraft
+Local 2 f) Ground- Vi sual O Ground-Radar G Probably Aircroft
+GMT__-| 15/112 22 D Air Visual O Air-Intercept Radar 0 Possibly Aircraft
+5. PHOTOS 6. SOURCE o ac Lg vol
+O Ye aay oe Q Probably Astronomica
+pT Military QO Possibly Astronomical
+7. LENGTH OF OBSERVATION 8. NUMBER OF OBJECTS | 9. COURSE O Other
+O Insufficient Data for Evaluation
+Not given nine varied O Unknown
+
+10. BRIEF SUMMARY OF SIGHTING
+
+11. COMMENTS
+
+) blue-green objects the brightness of first | This report is evaluated as probable a/c
+and second imsgnicude tars. The objects were due to the proximity to both the Langley
+varying in) oriliiance “and had red. halos. They |} AFB and the Norfolk NavAl Air. Station and
+
+1 : r in various random patterngp due to the description.
+aititude. Objects flew or
+then E then SE then S.
+
+ATIC FORM 329 (REV 26 SEP $2)

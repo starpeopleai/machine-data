@@ -1,4 +1,4 @@
-{"created_utc": "2026-09-07T12:41:46Z", "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "embedded-text", "pages": 0, "schema": "ufo-files-archive-ocr/v1", "source_bytes": 151191, "source_ctime_ns": 1788504103169696577, "source_file": "Chile-SEFAA/documents/CASO-N-905-21122018.pdf", "source_mtime_ns": 1788504103158578895, "source_rel": "Chile-SEFAA/documents/CASO-N-905-21122018.pdf", "source_sha256": "9abec1187764b993e28ef94a0a6d3695d15eea52799d41198b4492ccabf87724"}
+{"created_utc": "2026-11-22T11:58:25Z", "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "embedded-text", "pages": 0, "schema": "ufo-files-archive-ocr/v1", "source_bytes": 151191, "source_ctime_ns": 1793354216535423367, "source_file": "Chile-SEFAA/documents/CASO-N-905-21122018.pdf", "source_mtime_ns": 1788504103000000000, "source_rel": "Chile-SEFAA/documents/CASO-N-905-21122018.pdf", "source_sha256": "9abec1187764b993e28ef94a0a6d3695d15eea52799d41198b4492ccabf87724"}
 
 Fecha                            Fecha
   Caso N°:       905 21122018                     21-12-2018                          27-12-2018

@@ -1,0 +1,44 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T11:29:58Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6638084, "source_ctime_ns": 1793383889953901194, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28988189/0320.jpg", "source_mtime_ns": 1785748025000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28988189/0320.jpg", "source_sha256": "8e00aa1015b59193a526bc868ebd52ae51cf51f3a89e12bc607799c8f0d197d5"}
+
+===== PAGE 1 =====
+{"alpha_words": 147, "chars": 911, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Page 8
+
+39. Do you think you can estimate the speed of the object?
+
+(Circle One) (Ves) No
+
+5
+
+IF you answered YES, then what speed would you estimate? That of 2 jet or a satellite.
+
+Do you think you can estimate how far away from you the object was?
+
+40
+
+(Circle One) Yes (No )
+
+IF you answered YES, then how far away would you say it was?
+
+Please give the following information about yourself:
+
+41
+
+ston ast Nanas rst Name are Name
+
+sseaiatioas Inde
+oe es = Zone State
+
+TELEPHONE ll,
+
+es i Sex __tisle
+
+Indicate any additional information about yourself, including any education, which might be pertinent.
+
+4 a2. a memver oF cae Terre llaute,Moonvatch tean, and am a nenber of the
+fr = + An - i eee. | ») ee eee eee iS 5 ein | - e a , ipl
+wie Lv Cf P EOL de Chen Pheno Getayg A BOCA. Use aVe TOSECALPCI BVO! 3
+42. Date you compieted this questionnaire: 4 hl ale o£
+, y : on Se jirember 19459
+
+Day ‘Month Yeor

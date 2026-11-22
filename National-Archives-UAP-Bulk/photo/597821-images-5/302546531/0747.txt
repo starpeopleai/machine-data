@@ -1,0 +1,74 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T12:05:42Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1046298, "source_ctime_ns": 1793390101626292152, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302546531/0747.jp2", "source_mtime_ns": 1785808045000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302546531/0747.jp2", "source_sha256": "7c22a2d7fc6fb80609f00bb9f6f5abd5cab5fad404bb2a8e120abe008f3bf6fe"}
+
+===== PAGE 1 =====
+{"alpha_words": 130, "chars": 839, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+DET|LFe  £ bf
+
+“Ofity
+
+gl
+
++
+
+v
+
+Rh ths sie nel
+
+ay ers) > 2 ib
+ad ri Ws
+
+ry
+
+rs ASL 73 4 F
+? i a ate ore ey hPa oi ite.
+
+Woe:
+
+oe
+
+Prososed reply to letter: from Urs. —P 2....: 23 Jannary 1957
+
+. acs : * -
+
+Reference your reeent lester deseribing a most unusual experience
+
+~
+
+witnessed by you and your huabaad on the aigat of 17 December 1366.
+
+To data our office has not received any other sigatings vhicn could
+
+a
+
+be related to your observation. The project office at
+
+Patterson AYB has not received any. other reporcs from the Sen Diego.
+weea for the nlght of 17 December +1956.
+
+Request. you and your husband complete the attached FTD Form 164
+
+30 that our analysts can study the technical details of your
+
+observetion,
+
+/
+
+2
+
+Vie ee f
+v ’
+
+a
+
+}
+
+jf
+
+fey / . vonestte
+fave
+
+4/7
+
+peer mt ny St GEER ENTE tee
+
+emt: tap gnagianie ees

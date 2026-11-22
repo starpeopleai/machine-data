@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T11:30:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6666318, "source_ctime_ns": 1793380070765599618, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28974434/0916.jpg", "source_mtime_ns": 1785700763000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28974434/0916.jpg", "source_sha256": "d8fcc178527b4f21f98c94c784b5b87dc79905e23789bcb1b9f2c38cee3f4b89"}
+
+===== PAGE 1 =====
+{"alpha_words": 130, "chars": 1004, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+,
+PROJECT 10073 RECORD CARD
+1. DATE 2. LOCATION 12. CONCLUSIONS
+1, Lexington, Kentucky 0 Was Balloon
+S November 1957 42. Marictta, Georgia G Probably Balloon
+— — = east oo 0 Possibly Balloon
+3. DATE-TIME GROUP 4, TYPE OF OBSERVATION
+
+Falling straight down.
+
+2, One round white object the size of
+adime. Object was seen bee apie With
+the curvature of the earth and was in
+Signy tor 2 to 3s seetotogly
+
+Local : D: Ground- Vi sual OD Ground-Rodar 5 Srabaly hiverutt
+GMT 10/0338% & 03:04 O Air Visual D0 Air-Intercept Rador O Possibly Aircraft
+5. PHOTOS 6. SOURCE OcWas Astronomicol Mctcor
+O Yes O Probably Astronomico
+: ONe Civilian QO Possibly Astronomical
+| 7. LENGTH adh OBSERVATION 8. NUMBER OF OBJECTS | 9 COURSE O Other —-
+a o dt Ssconds Ls al T dx S hs eellaga Dato for Evaluation
+2, 4-3 suwonds One ae aC
+10, BRIEF SUMMARY OF SIGHTING 11. COMMENTS
+1. Round long streamer, « ft in-diametar, All the characterisitics are
+Six feet tail of fire white flame, of a meteor,
+
+ATIC FORM 329 (REV 25 SEP 52)

@@ -1,0 +1,44 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T12:10:12Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1463299, "source_ctime_ns": 1793390401678858269, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302549644/0793.jp2", "source_mtime_ns": 1785808325000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302549644/0793.jp2", "source_sha256": "2c01265f07df3d7e818fa4e48192f5e2ec6145282e8e87727082f5213df94cbe"}
+
+===== PAGE 1 =====
+{"alpha_words": 127, "chars": 885, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+geass or 5 SAR eB SS NBN ESN a Soda ER GRR ay ER AES
+
+A. Description of Object:
+
+1. Shape: None, bright lights.
+
+2. Size: Size of a pea held at arms length
+3. Color: Red, yellow and green lights
+
+4. Number: One
+
+5. Formation: N/A
+
+6. Details or features: Flashing lights |
+7. Tail, trail or exhaust: N/A
+
+8. Sound: None
+
+9. Other features: Flashing Lights
+
+B. Description of Course
+
+C.
+
+1. What first called the attention of the observer to the object: Lights
+
+2. 5 Angie or Elevation and Azimuth of object when first observed: 20” t to
+30° above horizon in SW.
+
+3. Angle or Elevation and Azimuth of object upon disappearance: Did not
+disappear, observer went inside to call the Base.
+
+4, Description of flight path: slow movements as "weather balloon."
+5. How did the objects disappear: Observer was inside
+
+6. How long visible: 5 minutes
+
+Manner of Observation:
+
+1. Ground - visual

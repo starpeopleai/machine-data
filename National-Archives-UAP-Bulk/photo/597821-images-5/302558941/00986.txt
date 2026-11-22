@@ -1,0 +1,51 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T12:16:05Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1757686, "source_ctime_ns": 1793391479069220287, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302558941/00986.jp2", "source_mtime_ns": 1785808259000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302558941/00986.jp2", "source_sha256": "d4bdf8eb869900ca13388e34de2de9d0e0e72abfce89bfaf93bfe43eb2b564fd"}
+
+===== PAGE 1 =====
+{"alpha_words": 245, "chars": 1594, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ies
+ee
+MA
+s
+fe
+
+Bi pti sii Sela ar es
+
+Page 2
+8. IF you saw the object ot NIGHT, what did you notice conceming the STARS and MOON?
+8.1 STARS (Circle One): 8.2 MOON (Circle One):
+<a, None a. Bright moonlight ;
+b. A few b. Dull moonlight
+¢. Many ¢. No moonlight — pitch dork
+d. Don't remember d. Don't remember ‘
+9, What were the weather conditions at the time you saw the object?
+CLOUDS (Circle One): WEATHER (Circle One):
+a. Clear sky Bi Ory Slight,
+b. Hazy co}. b. Py o bof jubi roin fon Windy ’
+c. Scattered clouds Cc. Moderate or heavy rain
+d. Thick of heavy clouds d. Snow
+a e. Don’t remember
+10. The object appeared; (Circle One):
+a. Solid Ca. Asa light “@lickering)
+b, Transparent e, Don't remember OS™”
+c. Vapor
+|
+11. If it appeored as a light, was it brightar than the brightast stars? (Circle One):
+a Brighter than brightest stanauwmel dome and gradually dims
+b. Dimmer d. Don’t know
+11.1 Compare brightness to some common object:
+Photography flood lamp about 500 watts or stronger.
+12. The edges of the object were:
+NR aa rare aa
+(Circle Gael a. Fuzzy or blurred e. Other ey
+b. Like a bright stor
+c. Sharply outlined
+d. Don’t remember
+13. Did the object: (Circle One for each question)
+a. Appear to stand still at any time? < Yes » No ~ Den’t know .
+b. Suddenly speed up end rush away at any time? Yes) No Don’t know }
+c. Break up into parts or explode? 7 CNo> Don’t know
+d. Give off smoke? Yos C Ne y Don’t know ,
+e. Change brightness? CYes> “og Don’t know
+f, Change shape? Yas CNev Don’t know
+g- Flash or flicker? CYes? Don’t know j
+h, Disappear end reappear? CY¥es) No Don't know

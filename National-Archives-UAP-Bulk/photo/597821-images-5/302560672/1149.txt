@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T12:03:13Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 981807, "source_ctime_ns": 1793391652324042105, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302560672/1149.jp2", "source_mtime_ns": 1785808215000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302560672/1149.jp2", "source_sha256": "9a344f8ce1844d479d23f9a5fe2d18000baa37f7707963ecc1fb671cabd3ddd8"}
+
+===== PAGE 1 =====
+{"alpha_words": 104, "chars": 732, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+| UNCLASSIFIED
+
+DEPARTMENT OF THE AVR FORCE
+STAFF AAESSAGE SRANGH
+
+sP IN: 71709 (6 Feb 67) B/fab ea mig Pe i of 4
+\CTION: RDG-4 INTO: XOP~1, XOPX-2, SAFOS-3, NIN-7, DIA~1 (19)
+SMBAS75¢ 76 BY Aza 9
+>TTU JAY RUEDARAZS53 9371842-WUUL== RUEDHDA
+ZNR YUYUU as
+> 9618912 FEB 6? re
+M33 AMR OIV FT LEE AFS VA
+TO RUYMF VW ACC
+QUEOF Ly GP AFB WRIGHT AFB OHIO :
+RUCOHQN C ASF WASHIGTON OC ,
+QUEDHGM CSAF HQ USAF ee .
+UNCLAS 33000 21949 DEB 67. FCR TOETR, AFROC, SAF-Ol.
+LAW AFR 80<27 THE FOLLOWING UFO RPT 1S SUEMITTED FCRM SSADIY
+\TEM A DESCRIPTIGN OF THE OBUEST <5).
+4) 25 CENT PIECE ¢ QUARTER
+¢2) ROUND
+¢3) SILYER
+<4). GNE
+(5) NONE
+£8) REDLIGHT ON TOP BLINKX 3 TIMES, PAUSE BLINK 3 TIMES,
+
+C7) NONE fon -
+AFHO cosy O°3096 7) UNCLASSIFIED |

@@ -1,0 +1,56 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T11:38:50Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8422972, "source_ctime_ns": 1793363191688585038, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330784594/45484701-004-005-0215.jpg", "source_mtime_ns": 1785684751000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330784594/45484701-004-005-0215.jpg", "source_sha256": "15161813c46cb61b331dd2f3c2ea98472c5baa7d3723588ae6f17f0db8e26d59"}
+
+===== PAGE 1 =====
+{"alpha_words": 233, "chars": 1671, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+5D-OSI/JCS/emb
+
+5D=2),-21pp : 27 September 19449
+
+SUBJECT: FLYING DISCS = Alleged observation
+of flying discs by MIKEL CONRAD
+during winter of 1945/49 in
+Territory of Alaska
+
+Acting District Commander
+18th OSI Vistrict (IG)
+
+S22nd USAF Specialized Depot
+P. O- Box 310
+
+Maywood, California
+
+1. Transmitted herewith for your information, facsimile of news
+paper clipping extracted from 1); September 1949 issue cf the "Journal-~
+Herald" published in Dayton, Ohio, wherein, under by-line of ALINE
+MOSBY, Hollywood, dated 13 September 1919, it is alleged that one,
+MIKEL CONRAD, did, during the winter of 1948/9 in Alaska, observe so~
+called "flying saucers", located one of same and took motion pictures
+of cited saucers in various flight stages and manoeuverse
+
+2e Request appropriate investigation be conducted by your district
+in accordance with provisions of AFCSI Letter Noe &, dated 12 August
+194,96
+
+4. For the purpose of this investigation, it is requested that the
+title to be used in the preparation of Report of Investigation be as
+indicated above.
+
+4. Request Report of Investigation be submitted this office,
+in six copies, so that this office may comply with Paragraph 3e(1),(2),
+(4), of cited AFCSI Letter.
+
+5 In the event investigation has already been initiated, by your
+office, covering incident referred to in title; it is requested instructions
+contained in above paragraphs be ignored and six copies of investigation
+furnished this district.
+
+Incl: JAMES F. X. O'CONNELL
+Facsimile of newspaper Lt Colonel, USAF
+clipping extracted from District Commander
+
+1 Sep 49 issue of
+"Journal-Herald" (in trip)
+
+baa a Ae te
+
+Declassification Authority: NND 923007

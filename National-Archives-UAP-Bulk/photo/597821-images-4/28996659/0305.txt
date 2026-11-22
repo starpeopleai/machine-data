@@ -1,0 +1,43 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T12:22:04Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4055880, "source_ctime_ns": 1793386585470350464, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28996659/0305.jpg", "source_mtime_ns": 1785747978000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28996659/0305.jpg", "source_sha256": "6d290bc7ce7abf74637d3fb3ef8473aa8725fcce5f2732f5877b29ba68a6299e"}
+
+===== PAGE 1 =====
+{"alpha_words": 70, "chars": 585, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+
+UNCLASSIFIFD MESSAGE
+INCOMING
+A
+
+AF IN : 38592 (4 Apr 62) page 2u¢
+
+PAGE TWO RBHPF B@63
+
+2. N43219 v-2 |
+
+3. SINGLE CONTACT SIGHTED VISUALLY. BRIGHTNTSS OF 1ST
+MAGNITUDE STAR
+
+4. AIRCRAFT POSIT 31-49N 177-204
+
+5. @41557Z
+
+6. ELEVATION 31 DEGREES 45 MINUTES
+
+7, TRACK OF CONTACT PASSED THR! POLARIS MOVING FAST
+
+8. UNXNOWN
+
+9. CONTACT. ADED 04 16972. ND RADAR CORRFLLATION. wy
+AT CONTACT POSIT CAV,
+
+19. THIS REPORT PASSED T9 CINCORAD AND HADD NIA
+BY SEPRATE TRANSMISSION,
+
+‘BT
+
+@4/ 1782Z
+
+4
+
+NOTE: ADVANG . COPY SENT TO CIN & OOP-CP.

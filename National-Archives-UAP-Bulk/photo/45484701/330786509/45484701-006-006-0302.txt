@@ -1,0 +1,44 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T11:43:36Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10624588, "source_ctime_ns": 1793364230792696013, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330786509/45484701-006-006-0302.jpg", "source_mtime_ns": 1785684599000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330786509/45484701-006-006-0302.jpg", "source_sha256": "52011e369e16d849f2bc9e882ab5a91e516beda82ca2cc90211caace60213adb"}
+
+===== PAGE 1 =====
+{"alpha_words": 328, "chars": 1981, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Cameraman was M/S¢et. BURN ELL So JONES, AF-6951540, Headquerters Squadron,
+S09th Air Base Group, whose duty assignment is in the Walker Air Force
+Base Photography Laboratory as a photographer laboratory technician.
+
+3. Sgt. JONES is a former Army Air Force Navigator who has had experie
+ence in celestial navigation. He states that in his opinion it was improb- |
+able that the object photographed could have been a celestial bedy. He felt
+that possibly it was a recognition or some light mounted on some man-made
+structure in the distance until he searched the entire area to the soutlwest
+of the position of his camera the following day and could net find anything
+to bear out his opinion. He states the distance from him is unknown by him
+in that it could have been one-half mile, twenty miles, or many, many miles
+eway. The cemera used was a speedgraphic cazera mounted on a tripod set at
+F 4.5 and infinity with om exposure of thirty seconds, The row of lights
+visible to the left of the unknowm object are said by JONES to have been
+@ car traveling from right to left before the camera, which is thought by
+JONES to have been approximately two blocks in the distance. To his naked
+eye the unknown object appeared brighter than the automobile headlights but
+definitely much emaller. JONES states the reason no stars are visible in
+the picture is that he developed the print specifically to bring out the
+object in question. ith reference to the slizht fuzziness appearing from
+¢ipht to twelve o'clock and from two to six o'clock on the edged object,
+JONES states that his tripod and camera were quite securely mounted and he
+is certain no movement of the camera would account for this afore-mentioned
+fuzziness on the image. Base Photo Officer feels fugziness may be tracee
+able to heat enitted by object.
+
+Inelosures:
+FOR CG, AC:
+
+1. Hegative of object.
+@. Fhotograph of object.
+
+FOR MM, OSTs
+Same as above.
+POR FILE,
+
+Seme as abovee
+
+Declassification Authority: NND 923007

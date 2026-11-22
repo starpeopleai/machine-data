@@ -1,0 +1,46 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T11:41:35Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9068232, "source_ctime_ns": 1793364677360236508, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787490/45484701-007-003-0113.jpg", "source_mtime_ns": 1785684890000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787490/45484701-007-003-0113.jpg", "source_sha256": "723480b8583699cfc98d593ece7a31177ae605a82714a05e8105330b00d50338"}
+
+===== PAGE 1 =====
+{"alpha_words": 90, "chars": 696, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+5 September 1952
+
+/ ethene c a Rey ae
+
+SPECTRL” WATT F ny
+
+Pago Att
+
+By
+
+Commanding General
+
+Air Materiel Command
+
+7 . 3 a 4 Tit
+Wright-Patterson Air Force Base
+Ohio
+
+ATTN: MCEP
+
+1. Attached are two (2) cop of the report of Special
+
+Bas
+
+es
+Agent WILLIAM M. STRATTON, 19th OSI Dis kelet LG), Travis Air Porce
+3 19
+
+e, California, dated 26 August 1952, File 2h O, subject as above,
+
+@. Attention is invited to Paragraph 7, AFR 2051, dated 1; March
+1949, which prohibits the disclosure of classified information to
+unauthorized personnel,
+
+Incl (In dup) D. G. NORTH
+R/I, DO #19, dtd 26 Aug 52 Lt Colonel,. USAF
+District. Commander
+
+Copy tos
+Hg OSI, w/o incl
+
+Declassification Authority: NND 923007

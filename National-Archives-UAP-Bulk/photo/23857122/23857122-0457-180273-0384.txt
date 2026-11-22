@@ -1,0 +1,49 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T11:47:59Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 21183752, "source_ctime_ns": 1793356760408119022, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0384.tif", "source_mtime_ns": 1785564753000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0384.tif", "source_sha256": "d31aa81fa817f82925e97aeb16d8f5411ddce447e542118806871fc36e00d51b"}
+
+===== PAGE 1 =====
+{"alpha_words": 334, "chars": 2074, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+GOST TP Say i ak
+
+Engineering Division
+Memorandum Report Noe MC REXD=(9l-18D
+25 April 19149
+and were frequently seen for less than a minute.
+
+First of all, it is obvious that it would usually be impossible for
+observers to make reliable estimates of the speed, distance, or size
+of such stimulus objects. It is not possible to estimate accurately
+
+the distance of small bright objects viewed against a clear sky, |
+
+unless the object is identified first. If you know beforehand thet an
+
+object is a weather balloon, an FSO, or a dirigible you oan estimate
+
+its speed and distance with some degree of accuracye In such situations
+distance is judged on the basis of known size, and speed on the basis
+
+of an estimate of distance plus the angular change in position. It
+must be concluded, therefore, thst most of the statements of speed,
+distance, altitude and size are entirely unreliable and should be
+disregarded, This is doubly true of observations made at night. The
+objects seen may actually have been at very great distances, or they
+may have been relatively close by. In the latter case, of carse, the y
+could also have been quite small.
+
+Secondly, it is probable,that individuals who saw objects in
+daylight were in many cases observing either the reflection of the sun
+on @ shiny surface or else looking directly at a light source of high
+intensity. Aircraft thenselves, when viewed arainst a clear sicy, are
+seen as dark objects against a lighter background unless they are
+reflecting the sun's rays directly. This fact was recognized during
+the recent war by camouflage experts who placed bright lights on the
+leading edges of the wings of aircraft on anti-submarine patrol
+in order to conceal them from the eyes of submarine lookoutse If
+observers, during daylight hours, were actually seeing lights, or
+reflections of the sun, this would acgzount in large measure for their
+inability to identify the objects. On the other hand, if they were
+actually seeing enemy missiles, for example, the majority of reports
+
+CONBIDENTIAL
+
+Declassification Authority: NND 57565

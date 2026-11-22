@@ -1,0 +1,58 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T12:09:21Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1400598, "source_ctime_ns": 1793392645255745749, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302569447/1138.jp2", "source_mtime_ns": 1785808611000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302569447/1138.jp2", "source_sha256": "f2800e1ac9bcef0b74daf060ca49945e592026112765ceec02f9f877cb064d8a"}
+
+===== PAGE 1 =====
+{"alpha_words": 61, "chars": 489, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+y
+
+PROJECT 10073 RECORD a .
+
+1. DATE « TIME GROUP
+
+13 September 67
+
+2. LOCATION
+
+Stevens Point, Wisconsin
+
+3. SOURCE
+
+Civilian
+
+10. CONCLUSION
+Other (RADAR CHAFF)
+
+4. NUMBER OF OBJECTS
+i
+
+5, LENGTH OF OBSERVATION
+unknown
+
+11. BRIEF SUMMARY @ND ANALYSIS
+’ SEB CASE FILE
+
+6. TYPE OF OBSERVATION
+
+unknown
+
+7, COURSE
+
+None
+
+8. PHOTOS
+
+O Yes
+XxX No
+
+9. PHYSICAL EVIDENCE
+
+xX Yeos “en f
+a We ty fei Wie
+
+FORM
+_FTD SEP 63 0-329 (TDE)
+
+Previous editions of thie form: 2 a be used,
+
+— ee - _—
+
+a,

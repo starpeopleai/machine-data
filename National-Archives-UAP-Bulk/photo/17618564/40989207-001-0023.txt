@@ -1,0 +1,54 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T11:39:40Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8515039, "source_ctime_ns": 1793354410513895622, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989207-001-0023.jpg", "source_mtime_ns": 1785564280000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989207-001-0023.jpg", "source_sha256": "0ba9cc145fc92043cc835e3ca441503a71ba0fa6b8b6c53b1e0ed9fd391ba3b6"}
+
+===== PAGE 1 =====
+{"alpha_words": 346, "chars": 2479, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+1\W/
+
+EXECUTIVE SUMMARY
+
+This is the sixth annual report that documents the total number of
+technology transitions (T°) OWES, lsonell MEO ial lier, jeliete ilo ilaweeS
+Phillips Laboratory (PL/GP) "geophysics" program elements (PE 62101F, PE 63410F,
+and PE 63707F) produced in FY92. Also included are transitions produced by PE
+61102F "geophysics" tasks that we manage for the Air Force Office of Scientific
+Research (AFOSR), and technology transitions developed from customer dollars.
+
+This is also the second Technology Transition Report since the Geophysics
+Laboratory (GL) became the Geophysics Directorate (GP) of the newly formed
+Phillips Laboratory (PL). With this change, the Aerospace Instrumentation
+Division and the Spacecraft Interaction Branch of the Space Physics Division,
+both part of GL, became aligned with other directorates within PL. As a result,
+their technology transitions are no longer chronicled in this series of reports.
+
+Seventy-six events in FY92 met our stringent criteria for technology
+transition; i.e., the technology was actively "moved" by PL/GP personnel to a
+DoD or NATO organization, and that organization is using or has firm plans to
+use the technology. Excluded were routine technical consultations that PL/GP
+regularly provides to users of geophysics technology. Technology moved to non-
+DoD government organizations has been excluded from this report but will be
+catalogued separately under "Technology Transfer" along with the technologies
+moved to the non-government sector.
+
+The reason for the large number of technology transitions is twofold:
+geophysics technology is inherently easy to transition, and PL/GP uses
+particularly effective technology transition mechanisms.
+
+There are five reasons why geophysics technology is relatively easy to
+transition:
+
+- Most geophysics technology is design information or techniques, instead
+of hardware which is much riskier and thus, more difficult to transition.
+
+- Geophysics technology is unique information sought after by the design
+community.
+
+- Geophysics technology is mostly a response to more easily transitionable
+requirements pull, not technology push.
+
+- Funding for geophysics has been leveraged with customer funding, thereby
+giving the user a stake in the technology and helping to ensure its
+transition.
+
+- A significant portion of geophysics technology goes directly weOm Oi,
+6.2 or 6.3 programs to operational commands without having to be accepted
+by a product division.

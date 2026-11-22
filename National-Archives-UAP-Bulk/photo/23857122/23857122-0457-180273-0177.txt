@@ -1,0 +1,34 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T11:47:22Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 18724468, "source_ctime_ns": 1793356563283821437, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0177.tif", "source_mtime_ns": 1785564723000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0177.tif", "source_sha256": "c213d9815dfacd8f559c7470a9284104955b8f4e74a921dfca100e6e57de0764"}
+
+===== PAGE 1 =====
+{"alpha_words": 43, "chars": 337, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ee
+< t)> f
+‘ hy ~ <— / LEAGio i.
+.
+4275 c ; .
+AO 4 9 255 oe CAD 4
+THe L2ayrint + hn
+JALNO 09 O47 i w Wn dA &
+7 a | Fo .
+| iy { ‘ aye) ¥ 7 .
+betta: SULATIS I + J & CAE
+; S77 a 1? nel 4+
+co eS Vo ii DOLLA.
+
++B |
+STAG
+LALLA ee =) .
+a had i Ue LARALL 4 KX? aa
+WF ad rake? ho a Ss <
+
+Declassification Authority: NND 57565
+
+‘
+
+on
+Lth
+
+2
+
+Aad

@@ -1,0 +1,57 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T11:49:47Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 30277500, "source_ctime_ns": 1793357212704534025, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1310-496480-0004.tif", "source_mtime_ns": 1785564854000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1310-496480-0004.tif", "source_sha256": "d86b2ac63136c2a325a214338fc7d9dae68d566e122e459c2637c46377edd2b6"}
+
+===== PAGE 1 =====
+{"alpha_words": 252, "chars": 1686, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+AF FORM 112—PART Il $€2z/cLe
+
+AIR INTELLIGENCE INFORMATION REPORT
+
+PRESQUE ISLE, MAINE F3g~TshA
+
+FROM (Agency)
+
+PAGE 2 OF 2 PAGES
+
+SIGHTING OF UNIDENTIFIED LIGHT
+VII. RELATED ACTIVITY OR CONDITIONS:
+
+No activity or condition, meteorological or otherwise, which might
+account for the sighting was observed or reported in the area at the time
+of sighting.
+
+VIII. PHYSICAL EVIDENCE:
+
+No physical evidence pertaining to the sighting was secured during
+the investigation.
+
+IX. INTERCEPTION OR IDENTIFICATION ACTION:
+
+Observers notified via telephone S/Sgt John D. FLAHERTY, Tower operator
+at PIAFB of the presence of the light at 2125 hrs EST, who in turn immediately
+notified this Flight. According to Sgt FLAHERTY all locally based acft were
+on the ground at the time of sighting. Further check with the AC&W units in
+the area did not revealany unusual sightings on date of observation. No
+action was ordered by the Alert Shack at PIAFB due to lack of justification.
+
+Xe LOCATION OF AIR TRAFFIC:
+
+No acft reported in the general area of the incident by PIAFB Control
+Towere
+
+——,
+/-: orrtosin
+OHN F FARNH
+
+1/LT., USAF
+OIC, FLIGHT 3-G
+
+NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S, C.—
+31 AND 32, ASAMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW.
+IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF
+
+INTELLIGENCE, USAF.
+R, Cstzictled
+
+(CLASSIFICATION) 16—55570-1 3X UV. S. GOVERNMENT PRINTING OFFICE
+
+Declassification Authority: NND 57565
