@@ -1,0 +1,65 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T04:16:54Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4040815, "source_ctime_ns": 1793378979575220057, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28970350/0203.jpg", "source_mtime_ns": 1785700976000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28970350/0203.jpg", "source_sha256": "681cd2c48f0e8cd82dcbdbede2b6088fdf6d494e570e0ad4c67a818627919b83"}
+
+===== PAGE 1 =====
+{"alpha_words": 121, "chars": 1094, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+FTOC?, Hg AFFIC, JUL (957, Subj: Unidentified Flying Object Report
+
+2
+
+. T/Sgt. M. C. Jackson
+
+6510th Air Police Squadron
+
+Duty - Section Guard Unit #2
+
+Estimate of Reliability - Good, although
+elevation, azimuth, and size estimates are not considered accurate
+as the individual's duty does not require him to be trained observer.
+
+(7) Weather and Winds:
+(a) Bright daylight
+
+(b) Winds: Surface - 270/15
+5,0CO0 = 260/15
+10,000 = 230/10
+15,000 = 220/15
+20,000 = 330/10
+25,000 ~= - 310/10
+30,000 .- 310/10
+35,000 - 300/20
+40,000 = 300/30
+45,000 .= 300/60
+50,000 - 330/35
+60,000 - (60/20
+70,000 = 050/20
+80,000 - 090/25
+
+(c) Ceiling - Clear
+
+(ad) Visibility - 60 miles
+
+(e) None
+(?) None
+(8) None
+(9) None
+
+(10) One B-52, one B-57, one F-94 in mission over range,
+numerous test and test support aircraft in vicinity.
+
+(11) Preparing Officer and comments:
+
+(a) Chief, Technical Operations Branch
+
+B-57 and one F-94 were at 40,000
+on a store drop mission on the
+est and test support aircraft were
+
+(vo) One B-52, on
+f eck altitude, traveling to the Has
+precision bombing range. Numerous
+
+=
++
++s
+
+vo

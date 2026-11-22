@@ -1,0 +1,56 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T03:57:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 984119, "source_ctime_ns": 1793389730611788766, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302543325/0756.jp2", "source_mtime_ns": 1785808303000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302543325/0756.jp2", "source_sha256": "86816a36badcecedccd8d399786c1d15afe05ad87dd165b541f348910933ba8e"}
+
+===== PAGE 1 =====
+{"alpha_words": 210, "chars": 1404, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ka tS aes Oct As cplicdsec Our, as before, bute cid nol return.
+
+i) 2
+Neha At a A. Little turbulence. ea
+1. Yisual and teleseupic examination of
+various stars and Saturn shored
+excellent observing, with little
+trinkling.
+B. Stars vere in the aree
+1. Bootes was seen setting, and other
+constellations vere visible.
+‘a. There vere no telescopic stars
+seen near the object A,
+Photos: - A. Photos A and Al were taken with Pentax ~
+ae a _ attached to 4" scope with 18mm Lens. ee
+lL. Film vas Kodak XX. OS
+atone ' —, Exposures vere about 5 min.
+enteaai vet <a, Bue to limited fielg and movement. of
+cae Sees object A, the object may not
+have been that mane in the field.
+places, a 101 7th Street, ‘Valentine, Nebr. ee a iat RR ee Se Eyes
+Pate: ; August 2, 1965
+Times 2:00 to 5:30 CST, approx.
+
+Cr and Mrs.
+end Frs ll ; er,
+Glendale, C ornia,.
+
+Observers: * “of Va tine
+of
+
+Feuipment: 60x telescope, 4" refractor telescope pith 18mm
+lens, assorted binoculars. :
+
+Object or phenomena: rill be celled objects B, Bi, Be, B3 and
+= B4 es as
+
+Pescription:
+A. ftar-like.
+1. Object B ves about magnitude O. .
+@,. Objects Bl, Bf, BS, end B4 were about
+magnituce 3.
+a. Tdistance and demention data impossible.
+
+Position; A. Obdject B, the highest, vas 2% most 1/2
+the vay up tne sky. oa
+B. Object B4, the lovest, was at the lorsat,
+1/2 of the way up the sky, -
+C. Their fositions relative tc each other
+
+are snowns: 3
+}

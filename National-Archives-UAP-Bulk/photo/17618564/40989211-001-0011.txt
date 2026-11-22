@@ -1,0 +1,141 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T04:25:01Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6081753, "source_ctime_ns": 1793354475856742121, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989211-001-0011.jpg", "source_mtime_ns": 1785564292000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989211-001-0011.jpg", "source_sha256": "1dac54a0fb31a505517ac7e00eb1347c0bbe98c837cb9a3b6dcea0674d316518"}
+
+===== PAGE 1 =====
+{"alpha_words": 1167, "chars": 7313, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+8 Physics in Canada
+
+trained a generation of atmospheric physicists, advanced the
+frontiers of knowledge, brought fame to their Universities and
+brought reknown to Canada. Looking back, I tend to ascribe this
+remarkable record to three causes, the first two of which are
+minor. Firstly, I had just completed my thesis and I] saw certain
+obvious deficiencies in the field. Secondly, I was asked to establish
+a research Laboratory in this very field and was given very strong
+backing and extreme latitude in implementing my program. No
+one questioned my decisions. Thirdly, I was able to find bright,
+competent and vigorous physicists. They performed the work and
+they provided the accomplishments. Perhaps | supplied the seed
+and the watering, but they deserve the credit.
+
+Again I] remember Frank Davies. *‘Nat, in physics if you want
+something done well, find a bright young lad and back him. You
+can always find plenty of mediocre chaps, but they won't get you
+anywhere.” I had only followed his advice; all of us reaped the
+benefits.
+
+11. Associated Comments
+
+The USNC was formed in 1953. and the Canadian Committee for
+the IGY somewhat later. In addition to being on the parent Com-
+mittee itself, I was active in the Panels and lesser Committees.
+Thus, I was designated Chairman for the first two Antarctic Com-
+mittees and also vice Chairman of the Arctic Committee. Con-
+siderable coordination was needed, particularly among the national
+polar Committees to insure that a globally comprehensive inves-
+tigation eventuated. These meetings again brought me into con-
+tact with Balfour Currie, Don Rose and Tuzo Wilson at the more
+formal international gatherings in Europe. “Currie was extra-
+ordinarily helpful in assisting me as I prepared the Arctic Ocean
+Basin program for the UNSC.
+
+Women in Physics
+
+by W.J. Megaw
+Department of Physics, York University
+
+] have the privilege of being Chairman of a Department of Physics
+in which there are 25 faculty members, of whom one is a woman.
+40 graduate students including two women, and we produce
+about a dozen physics graduates every year including, if we are
+lucky, one or two women. There seems to be a big imbalance
+somewhere. From discussions with my colleagues in other Ontario
+Universities I believe that this situation is reproduced, with
+minor variations, right across the Province. The pattern seems
+to be rather different in other departments of the Faculty of
+Science at York. Three out of twelve chemistry graduate students
+are women and half of the graduating bachelor’s class will typicalls
+be women. In biology 27 out of 54 graduate students are women.
+Of all entrants to York 51%* are women and out of all graduate
+students at York, 36/7 are women. It seems therefore that physics
+as a discipline is failing to attract its share of half the population
+of university students.
+
+I have thought a lot about this problem in the last year or so. J
+believe that women in genera! make first class physicists and I am
+anxious to do something to redress the balance as far as my own
+department is concerned. Jt seemed sensible to go to the high
+school physics teachers and seek an explanation there.
+
+1 found an explanation. but not a reason. The same situation
+exists in the high schools. | am told that a typical grade 11 biology
+class will be split more or less equally between the sexes, that a
+chemistry class will perhaps be 407 girls and a physics class 10%.
+Thus biology is apparently considered (among women) to be an
+appropriate subject for studs. chemistry moderately respectable
+and physics quite beyond the pale. I cannot really see why this
+should be. A superficial look at the subjects would suggest that
+a quite different priority might prevail — after all to the grade
+
+Several isolated items may be mentioned. Don Rose’s specialty
+at NRC was cosmic radiation. I visited him in February 1956 (to
+coordinate various activities) and found his laboratory in some
+disarray. “The equipment was not working,” and the electronics
+was spread out on the bench as the individuals meticulously checked
+each circuit to find and fix the trouble. About noon the Secretary
+brought in an “urgent” message stating that the most extensive
+cosmic radiation event in history was now in progress, having
+begun several hours ago — at the time the technicians concluded
+that the equipment was not working.
+
+A similar “first thought” later occurred to Van Allen, when he
+examined the telemetry from his cosmic radiation experiment
+aboard the Explorer. After first believing that his equipment was
+malfunctioning, he later realized that the sensors were swamped
+and that the cause must lie in the presence of the high energy
+radiation belts. Luckily he could not tamper with his equipment.
+
+Another item concerns Frank Davies. After the initiation of the
+IGY, he confided to me that he would like very much to revisit
+the Antarctic. It became apparent that he did not want to make
+a formal request himself, but would relish an invitation. I spoke
+to Lloyd Berkner, who enthusiastically agreed, and Frank was
+subsequently invited. However, because of the pressure of other
+matters, he did not make the trip.
+
+Finally, 1 should mention that after acquiring a suitable staff,
+I assigned various individuals to monitor the contracts; D. Atlas
+for McGill, W. Pfister for Penn State, N. Oliver for the University
+of Saskatchewan, F. Innes for UWO and L. Katz for the University
+of Toronto.
+
+7 or 8 student biology is mainly concerned with cutting up worms
+or frogs and chemistry with evil smelling gases and noxious
+liquids while physics is the only one of the three with any preten-
+sions to hygiene or civilised society, so the phenomenon cannot
+be ascribed to more delicate sensibilities. It has been suggested
+to me that there is a widespread belief among school counsellors
+that physics is ‘too difficult for women’ but I cannot believe that
+such a statement could ever be taken seriously in this day and
+age.
+
+At York we have a system, of which I approve but the first year
+students certainly do not, that all science students have to take at
+least one social science and one humanities course. Conversely
+all non-science students have to take a Natural Science course,
+typically at first year level. These courses are non trivial and it
+is a source of satisfaction to the science professors teaching them
+that while the students, without exception, take them against
+their will and only because they are forced to, by the end of the
+course a high proportion of them are kind enough to say that
+they are glad they had been made to take the course. I happen to
+teach one of these large courses and | find it rather depressing to
+be able to identify perhaps 50 students per year (equally split
+between the sexes) who, in my view. would have made good
+scientists if only something had not turned them off earlier in
+their school careers. Even more depressing is the fact that there
+are probably 20) each year who have been turned on to the extent
+that they would now like to become scientists except that it ts
+too late, unless they are prepared to spend at least one year, and
+probably two, doing remedial work to cover not only the physics
+they have missed, but, even more so, all the math. | think that
+perhaps the most important reason for women not entering

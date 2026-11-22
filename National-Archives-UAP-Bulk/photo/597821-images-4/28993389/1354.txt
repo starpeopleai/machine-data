@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T03:06:47Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4059945, "source_ctime_ns": 1793385465271441225, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28993389/1354.jpg", "source_mtime_ns": 1785748504000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28993389/1354.jpg", "source_sha256": "75696fae77c40af234c2b827b8617581bd168c0d751ea87f55f54ab7fd30b633"}
+
+===== PAGE 1 =====
+{"alpha_words": 80, "chars": 564, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+2. LOCATION 2. COMCLUSIONS
+
+Was Balloon
+Probably Balloon
+3. DATE-TIME GROUP YPE OF OS3SERVATION D Possibly Balloon
+Was Aircraft
+Probably Aircraft
+j 1 s3ib Aj
+eee die kT Ale Vind O Air-Intercept Radar | Possibly Aircraft
+2. 2: | nee ere SOURCE f Was Astronomical
+O Yes i Probably Astronomical
+“ON Vi ‘ Possibly Astronomical
+io
+
+US BE Mie realest eae ot ne aes et RCN eee at ie Ground- Vj sual Oo Ground-R ador
+
+LENGTH OF OSSERVATION i rer Onrerr T) COUN. ll! 1 Ol.
+Insufficient Data for Evaluation
+Unknown
+
+ATIC FORM 329 (REV 26 52P $2)

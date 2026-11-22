@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T04:16:44Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4021917, "source_ctime_ns": 1793374768724459117, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28953142/0736.jpg", "source_mtime_ns": 1785696835000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28953142/0736.jpg", "source_sha256": "8a8abed22657f0d775bc5d9940b25241f6e3a3e11ded99b3d42c51a08eef039c"}
+
+===== PAGE 1 =====
+{"alpha_words": 138, "chars": 1048, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+AF FORM 112
+
+; (CLASSIFICATION) aed poe A CN *
+APPROVED | JUNE 1348 UsNLULASY I
+COUNTRY ' | REPORT NO. (LEAVE BLANK)
+UNITED STATES | ) | [f-2-53 W.
+AIR INTELLIGENCE INFORMATION REPORT
+SUBJECT :
+Unidentified Flying Objects Report
+‘AREA REPORTED ON FROM (Ayency)
+‘Boise, Ideho | Det #3, 4773rd Ground Observer Squadron
+DATE OF REPORT DATE OF INFORMATION | EVALUATION
+4 Yebruary 1953 3 February 1953
+PREPARED BY ( Officer) | SOURCE ——— anemones
+th B, Todd, 2nd It, USAP Interview with observer on telephone
+‘REFERENCES ( Control number, directive, previons report, ste., a9 1ppiicadls) ee
+SUMMARY: (Enter concise summary of report, Giva rignificence tn jenad onewenience owas ‘List inclosures at lower tet, Begin at report om AY corm 1!9—Part [1.) |
+]
+‘ne (1) unidentified flying cdject was sizhted over Dietri mm idaho
+soprexima tely 22253, 3 Tabruary 1953.
+spear noas AIO CAPPSLLI
+r Ge oer wu
+rector or oteilizence
+ans Newt’ y UELF, Wachingtn 23, Dic. SOS ce ae
+\ir Teen _ intel Cen, Wright-Patterson AFD. Ghio ATTN: ATTAA2c
+
+. U;:. S 2
+
+ore at ee

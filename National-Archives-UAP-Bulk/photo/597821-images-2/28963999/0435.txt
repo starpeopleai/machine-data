@@ -1,0 +1,108 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T03:16:08Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5174133, "source_ctime_ns": 1793377492766564919, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28963999/0435.jpg", "source_mtime_ns": 1785696698000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28963999/0435.jpg", "source_sha256": "17438e8471f21f3579f78bd0ee21126ae34eecccdb508f0a94890588e5639baf"}
+
+===== PAGE 1 =====
+{"alpha_words": 460, "chars": 3016, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+“WIND SCALE
+
+Wu
+QO
+=)
+[Lz
+=
+<
+iW)
+or
+bj
+=
+O
+”)
+O
+=
+e
+<
+Q
+id
+<
+fal
+Z
+<
+a)
+wo
+>
+
+3)
+oe
+ty
+od
+Wl
+=
+re
+ie)
+it)
+[a
+Zz
+<
+2)
+=)
+ie)
+25
+=
+
+EXPLANATION
+ISOBARS are straight, horizontal brown lines. The heights in feet of the
+pressure surfaces in the U.S. Standard atmosphere are in parenthesis () below
+the pressure values on the left.
+
+ISOTHERMS (°C) are the straight, equidistant brown lines running diago-
+nally upward from left to right.
+
+ORY ADIABATS are the slightly curved brown lines that intersect the 1000 mb.
+isobar at intervals of 2°C, and run diagonally upward from right to left.
+The Dry Adiabats for the folded portion of the pressure range are labeled
+with two (2) values. (See below).
+
+SATURATED ADIABATS are the curved green lines that intersect the 1000
+mb. isobar at intervals of 2°C, diverging upward and tending to become par-
+allel to the dry adiabats.
+
+SATURATION MIXING RATIO (in gm. per kg.) is represented by dashed green
+lines. Their values appear at the bottom of diagram.
+
+THICKNESS (in hundreds of geopotential feet) of the layers between the
+levels 1000, 700, 500, 300, 200, 150 and 100 mb. is represented by num-
+bers and a graduation along the middle of each layer. The thicknesses are
+obtained from the virtual temperature curve by the equal-area method, using
+any straight line as a dividing line.
+
+HEIGHT in geopotential feet above mean sea level, or station level, of the
+1000 mb. surface is obtained from the nomogram in the upper left-hand
+corner by drawing a straight line from the point on the temperature scale
+(°F) through the point po (mean sea level or station pressure) on the
+pressure scale, and reading the height on the height scale.
+
+U.S. STANDARD ATMOSPHERE SOUNDING is indicated by a thick brown
+line.
+
+The saturated adiabats and isopleths of saturation mixing ratio are com-
+puted by use of vapor pressure over a plane water surface at all temperatures.
+
+Extension of chart to 50 mb has_been accomplished _by overlap with
+pressure indicated in brackets, [200] at 400 mb, and [50] at 100 mb.
+Dry adiabats for the prerae are labeled in parentheses ( ).
+
+APPROXIMATE VIRTUAL TEMPERATURE may be obtained from the formula
+T=1T+4 = where, Ty: is, virtual temperature in °C, T is free air temperature
+in °C, and w is mixing’ ratio in grams/kilogram. For purposes of thickness
+computation, use the mean temperature of the layer for T and use the
+mean mixing ratio of the layer for w.
+
+Sounding data wilt be entered un-two (2) sets of charts. One chart will
+include 0300Z and 1500Z soundings; the other 0900Z and 2100Z soundings.
+To provide .tweive (12) hour continuity the preceding 1500Z or the 2100Z
+soundings, whichever the case may be, will be entered as a trace of the tem-
+perature curve without the raprodection a data or Sareea of any point.
+(See AWSM-105-22).. 2a SSS ie
+
+Black dots @ along wind scale fines indicate the levels for which wind.
+data is reported and plotted. The open circles © indicate the mandatory:
+pressure levels at which wind data is also entered.

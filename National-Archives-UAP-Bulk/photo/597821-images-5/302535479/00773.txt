@@ -1,0 +1,41 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T02:56:30Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1697455, "source_ctime_ns": 1793389015014388336, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302535479/00773.jp2", "source_mtime_ns": 1785808489000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302535479/00773.jp2", "source_sha256": "fb4a0afbd3f1d364ce9ce6f1d791ee54533f54512cd705c6add8e584c2191880"}
+
+===== PAGE 1 =====
+{"alpha_words": 79, "chars": 562, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+WNCOMING DEM AR TI OF THe 8h cece ele Shee pe
+AF IN : 21905 (27 Aug 64) T/jem Page 1 of 2
+
+INFO : NIN-7, XOP-1, XOPX-5, SAF-OS-3, ARMY-2, CMC-9, JCS-35, OSD-15,
+NSA-7, DIA-15 (100)
+
+SM3 C165
+SWA 175MCA Z24LKA5 46KH34 95
+00 RUEAHA
+DE RUNLKH 5 27716332
+ZNR
+0. 2716272
+FY 326AIRDIV KUNIA FACILITY 4A
+TO RUMLKM/PACAF
+J UMPUN/COUMANSEARR Ou
+LW RUEAHO/CSAF
+RUECW/CNO
+R UECW /SECNAV
+
+R WGALB/CINCNORAD
+
+RUHL HQ/CINCPAC
+RYHLHS/CINCUSARPAC
+
+UML HL ZC INC PACFLT
+
+nm UAUAZ /COMUSIAPAN
+
+R UAC /COMUKORE:
+
+R UAGFL /CO% USTDC
+
+R UCS3R /C INCSAC
+
+BT
+
+UNCLAS 326TH DO-CO 8934

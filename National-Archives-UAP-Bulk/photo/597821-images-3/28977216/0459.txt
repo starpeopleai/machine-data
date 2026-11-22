@@ -1,0 +1,60 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T03:04:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3718520, "source_ctime_ns": 1793380616482907769, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28977216/0459.jpg", "source_mtime_ns": 1785701060000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28977216/0459.jpg", "source_sha256": "c7e62b5b204916d5ca9ba34c3b6b18d4e14833109b4b0a0eb03aa74027a809d1"}
+
+===== PAGE 1 =====
+{"alpha_words": 205, "chars": 1422, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Life Expectancy of Satellite 1958 Alpha
+
+By
+
+Dr. D. G King-Hele of the Royal A . Hstabl Ss,
+Farnborough, England, has kindly transmitted to us a
+formula develop ed by Dr. D. C. M. Leslie for computing the
+Pineolne Ole SpavGlLLve. Ay a given time vt let P be the
+period of the satellite, the rate of change of the period,
+and e the orbital eccentricity. The life expectancy of the
+satellite at time t can then be expressed as
+
+s m 3 P e bY ages ae rder
+: i Te [a + O(e 2) | - ; Ofe) = errars of order el
+
+This equation gives excellent results when applied to
+Satellites 1957 al, 1957 a2 and 1957 6.
+‘ : s 1 aes a
+
+According to Dr. Charles A. Whitney, on February 1, 1958
+
+we had for satellite 1958 a:
+° -6,, awe
+ele 0407983; p = -4978 x 10 /day; e = 0.139.
+
+Fram these data Leslie's formula yields a life expectancy of
+1740 days, or 4 years and 9 months; the satellite should then
+fall toward the end of 1962.
+
+Before the value of P became accurately known from
+“ observations, a rough calculation of the drag to be expe
+: the basis of the physical characteristics of the,.roc
+llite and of the Smithsonian Interim Atmosphere“ de
+IVen a. predicved) value or oe < 10-° /day for P, fr
+i pectancy of 3 to 5 years was deduced.
+
+rile ih
+Ww YW
+et
+
+which a life ex
+
+Sterne. B M Fo
+
+wm VSL sew O > ain @
+
+im Model Atmosphe
+d from USSR Satellites". peee No. 7,
+eat No. 30.20, Smaithsonzar
+
+=>
+=
+o 7
+ge, December 31,
+
+es ath are poe

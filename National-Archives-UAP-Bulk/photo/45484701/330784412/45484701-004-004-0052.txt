@@ -1,0 +1,22 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T04:27:14Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6628270, "source_ctime_ns": 1793363055454586806, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330784412/45484701-004-004-0052.jpg", "source_mtime_ns": 1785684802000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330784412/45484701-004-004-0052.jpg", "source_sha256": "283a15baad4cb6ddeabaf772d1f620c990f9aae0b6a21874b7a376f0e6f62162"}
+
+===== PAGE 1 =====
+{"alpha_words": 43, "chars": 369, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Unidentified Aerial Object
+
+G2 22 December 1953
+Capt Cwen/53715 /njl
+
+Transmitted herewith for your information is a letter, Headquarters, Second
+Army, dated 10 December 1953, Subject as above.
+
+POR THE ASSISTANT CHIEF O olaArr, Une $
+
+1 incl W. A, PERRY
+Ltr 2A Colonel, GS
+lLODec53 Chief, Security Division
+
+Run yeeem
+Historian
+
+Declassification Authority: NND 923007

@@ -1,0 +1,75 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T04:13:37Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3441880, "source_ctime_ns": 1793380693769791073, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28977813/0953.jpg", "source_mtime_ns": 1785700678000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28977813/0953.jpg", "source_sha256": "c508a1355838c0ac05071fd1b65b4c151370d4e568828bc9a79bf559eaca437b"}
+
+===== PAGE 1 =====
+{"alpha_words": 122, "chars": 956, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+2% LOCATION
+
+0 Yes
+No
+
+1. DATE
+
+13 Apr 53. Wantaehs Necks
+2. DATE-TIME GROUP 4. TYPE OF OBSERVATION
+
+Local “iGround- Vi sual O Ground-Radar
+
+GMT 14/04207% O Air Visual O Air-Intercept Radar
+“5. PHOTOS 6. SOURCE 3
+
+Civaelian
+
+-|O Possibly Balloon
+
+7. LENGTH OF OBSERVATION
+
+rey patel Bg
+hey Secs
+
+8. NUMBER OF OBJECTS | 9. COURSE
+
+three ENE
+
+12. CONCLUSIONS
+
+OQ Was Balloon
+O Probably Balloon
+
+OG Was Aircraft
+O Probebly Aircraft
+O Possibly Aircraft
+
+xe Was Astronomical Viotocor
+O Probably Astronomical
+O Possibly Astronomical
+
+5 Other
+D Insufficient Data for Evaluation
+Q Unknown
+
+10, BRIEF SUMMARY OF SIGHTING
+
+by fading out.
+
+traveling ina
+of full moon,
+
+Three circular objs
+horizontal line, size
+clowing, but not bright. Disanppearancé in 4-5 secs meteor sneed,
+can appear as group of lights ita
+
+11. COMMENTS
+Sighting
+
+formation.
+
+charx
+
+which has broken up. 30 deg arc
+
+“acteristic of meteo
+
+ATIC FORM 372% (RZV 25 SEP 52)

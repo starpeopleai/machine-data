@@ -1,0 +1,40 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T02:52:52Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1401802, "source_ctime_ns": 1793388712272802795, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302531337/1099.jp2", "source_mtime_ns": 1785808611000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302531337/1099.jp2", "source_sha256": "1b3844f6177836c873373547c4b5beffca714c0e98fea78b245ef10ca75eaffe"}
+
+===== PAGE 1 =====
+{"alpha_words": 43, "chars": 360, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+AFIN: 7916 (29 Dec 63)
+
++
+
+Za
+Ss
+
+DEPARTMENT ©F THE AiR FORCE
+STAFF MESSAGE SDRANCH
+
+UNCLASSIFIED MESSAGE
+
+INCOMING
+
+CIRVIS REPORT
+
+ITEM 23 F101-MATS-332313 ONE CIV JET
+UNDETERMINED OBJECT
+
+149.49 Ws 25.50N
+
+20/0515Z CSIGHTED FOR 5 SEC.)
+
+N/A
+
+DOWNWASD= VERTICAL
+
+N/A
+
+N/A
+
+NOTE : Adv cy del to DIA, NIN & XOPX
+
+Retransmitted to CIA per AFHQ 1392 #433.
+
+NNNN

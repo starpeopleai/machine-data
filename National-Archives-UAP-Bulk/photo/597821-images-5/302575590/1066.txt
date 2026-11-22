@@ -1,0 +1,63 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T04:01:25Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1363271, "source_ctime_ns": 1793393260553683726, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302575590/1066.jp2", "source_mtime_ns": 1785808610000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302575590/1066.jp2", "source_sha256": "9779cf880175b41f8aeed8c1eeb9886fdac178b28486627d1be5120941cee6b6"}
+
+===== PAGE 1 =====
+{"alpha_words": 226, "chars": 1480, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+huge ?
+
+8. IF you saw the object at NIGHT, what did you notice concerning the STARS and MOON?
+
+8.1 STARS (Circle One): 8.2 MOON (Circle One):
+fa,’ None a. Bright moonlight
+b, A faw » Dull moonlight
+¢. Mary c. No moonlight — pitch dark
+d. Dor't remember d. Don't reinember
+
+9. What were the weather conditions at the time you saw the object?
+
+CLOUDS (Circle One): WEATHER (Circle One):
+Clear sy a. Dry
+Hazy / b.) Fog, mist, or light rain ( ) Vee
+c, Scattered clouds ‘ce. Moderate or heavy rain
+aos
+Gy Thick or heavy clouds d. Snow
+
+e, Don’t remember
+
+&,
+
+10. The object cppeared; (Circle One):
+
+a. Solid (a. ‘As a light
+5, Transparent e. Don’t remember
+c. Wapor
+
+11. If it onpecred es a light, was it brighter than the brightest stars? (Circle One):
+
+Fie. —~ -
+“a. Brighter c. About the same
+b. Dimmer d. Don’t know
+11.1 Compare brightness to some common object:
+
+12, The edges of the object were:
+
+U
+
+(Circle One): a/ Fuzzy orblurred “SK ty HD ie ALR ET ea a ee
+
+Db. Like a bright stor
+=
+
+c. Shernly outlined
+; ~ ’
+=, Don't remember
+
+13. Did the obijecr: (Circle One for each question)
+a. Appear to stand still at ony time? Yes »; No Don't know
+b, Sudderiv so#ed up and rush away at any time? Yes CNo > Don’t know
+c. Breck up into ports or explode? Yes No> Don’t know
+d. Give off smoke? Yes (Ne Don’t know
+e. Change brisniness? cYes > No Don’t know
+f, Change siape? (Yes No Don't know
+g. Flash or flicker? Yes CNo bs Don't know
+
+h. Disappear and reappear? c Yes i‘ No Don't know

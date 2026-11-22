@@ -1,0 +1,20 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T04:23:18Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5402540, "source_ctime_ns": 1793373813987894698, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28948794/1040.jpg", "source_mtime_ns": 1785696402000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28948794/1040.jpg", "source_sha256": "b7e5dd5fb9dc2cf7691f6cb5c8a071255a699d97b6da156cf7d9a591884ff421"}
+
+===== PAGE 1 =====
+{"alpha_words": 49, "chars": 311, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+wi
+
+“STV? Ay >
+eiIX O37
+
+.
+eo August 1952 23 August 1952
+AiO i, SETTIT, lat LG, USAY rete)
+this ig an anglifying report on referenesd FLY) wt, Tecalved this ad
+‘ya L5018t ATG, Travis AtG, California, on 27 ugust 195) dae
+rt
+
+«3 auzust l / hme Vie Cony oO
+
+ena ryy Taras 20 -r ay
+~ tones URITY ahi dt ORMAT ION

@@ -1,0 +1,53 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T04:21:24Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4937536, "source_ctime_ns": 1793359415994897177, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-007-077-0003.tif", "source_mtime_ns": 1785681407000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-007-077-0003.tif", "source_sha256": "58619d690ea2afee02542ae0af36330f817b86868b9a6e935923312a7ed8be6c"}
+
+===== PAGE 1 =====
+{"alpha_words": 93, "chars": 672, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Declassification Authority NND 923007
+
+ASE T¥O. RJEDHRJ3
+
+CH) uNZA
+C1) NONE,
+
+Cay UN NOWN
+
+CO). Lou EST TATED. 5000 10 5039 FEET
+CC) LOW ESTIMATED 5088. Siar sae FEET
+
+} (SEATIONSRYS ee
+© CE) sGRADUAELY
+
+AED. A uJ “ty TUS SPAC “0
+
+ORE
+
+(4) GROUND WISuak.
+(3) NOT“KNOWN.
+ae NA
+
+DS/OSVCT VSS? Rae Did
+
+NE HOUR”: AND: ELETY MINDTES 4
+
+ba tS IN KNOWN
+PulS HOUSEWIFE
+
+NIOR DIRECTOR UNKNOWN
+
+CA) B32 BSAA SEPTEMBER 1955.
+7 yDAY AND NIGHT _
+cA) 9@ 2426 AND A ‘1229
+CA 1 UN eNO4N glagaigat
+ie PUNXNOWN 9a
+€3) N/A
+C
+CLEAR
+CZ) SURFACE SSE 7 5292 SSW 25
+(CC) CLEAR
+CA) 15 MILES
+€2) NONE —
+CF) NONE "
+Tl. 499955 “y. ASBURY | T LT USAF SE
+12. NONE AT THIS TIME
+
+S818 SECONDS.G2n e881

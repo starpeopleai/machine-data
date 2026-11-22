@@ -1,0 +1,47 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T03:05:04Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3844163, "source_ctime_ns": 1793382498603100010, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28984206/1033.jpg", "source_mtime_ns": 1785700643000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28984206/1033.jpg", "source_sha256": "0aa3a55c9eab1d450d7e05628fc4ba04ea09832ff8723356a306b55077e5213a"}
+
+===== PAGE 1 =====
+{"alpha_words": 77, "chars": 556, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+AF IN: 18341 (19 Aug 59)
+
+PAGE TWO RJEDJR 17
+(7) NONE
+(8) NONE
+(9) NONE
+
+Page 2 of 4
+
+B. DESCRIPTION OF COURSE OF OBJECT:
+
+(1) JUST NOTICED A MOVING LIGHT IN THE SKY.
+
+(2) VERY HIGH. IN THE SKY,
+(5) VERY HIGH IN THE SKY,
+C4
+
+we
+
+ACROSS THE SKY.
+
+(3) JUST FADED OUT
+
+(S$) FIVE MINUTES
+
+C. MANNER OF OBSERVATION:
+
+(1) GROUND VISUAL
+
+(2) NAKED EYE :
+
+(5) NOT APPLICABLE
+
+D. TIME AND DATE OF SIGHTING:
+. (1) 19/0345ZULU
+
+(2) NIGHT
+
+E. LOCATION OF OBSERVER:
+
+APPEARED FROM BEHIND THE MOON AND HEADED STRAIGHT OUT
+
+UPPER GREENWOOD LAKE, NEW MILFORD, NEW JERSEY

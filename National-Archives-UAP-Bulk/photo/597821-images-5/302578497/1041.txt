@@ -1,0 +1,51 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T03:55:14Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 766350, "source_ctime_ns": 1793393534319147728, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302578497/1041.jp2", "source_mtime_ns": 1785808451000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302578497/1041.jp2", "source_sha256": "94023999c43d0a4025d2546df7b721b2e64a2428a69bf9f9da1ac2f1e75466f7"}
+
+===== PAGE 1 =====
+{"alpha_words": 143, "chars": 1037, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+d. Time and Date:
+
+(1) 02302, 29 July 1968, 10:30 Pi M., 28 July 1968 local time.
+
+(2) Light: Night.
+
+é. Location of Observer: N.W. side of Pottstown, Pennsylvania.
+Corner of King and Hannver Streets.
+
+f. Information on Observer: Mr.
+ttstown, Pennsylvania 19464. Tel. no.
+Loce! newspaper editor. Reliability:
+
+re s sas Occupation:
+Judged to be good.
+
+Ca Weathers
+
+(l) Observer: Very clear, slight N.W. wind, Css FEVOT Borie: ;
+Eos Sp pf RS Be PPV LY, be y Grow eat
+(2) Air Weather Service, Willow Grove, Pa.
+
+Winds aloft: not
+available at this time
+
+(3) Ceiling: Unlimited.
+(4) Visibility: 8 Miles.
+(5) Cloud Cover: None
+(6) No storms in area
+
+(7) Temperature gradient: Unknown.
+
+h. No unusual weather activity.
+
+wea r beiloon. Since this report was three days late in being received
+by this wait, the chances
+
+, | recommend
+e taken as far as possible to assure Mr.
+terested in this matter and would appreciate any further |
+information he might have.
+
+that followup action b
+
+\\ tf eS 7 4,
+JESSE A UNDERWOOD, Capt, USAF
+Project Officer

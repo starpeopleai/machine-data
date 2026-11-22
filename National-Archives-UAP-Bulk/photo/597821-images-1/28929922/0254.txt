@@ -1,0 +1,23 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T04:23:31Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5424452, "source_ctime_ns": 1793368913066679612, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28929922/0254.jpg", "source_mtime_ns": 1785689050000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28929922/0254.jpg", "source_sha256": "593a1cf62f67e7255647c6d2a1a3dc1bb1f88f80c40a3821e9238b12b757665f"}
+
+===== PAGE 1 =====
+{"alpha_words": 52, "chars": 359, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Insident #61, Gla -= bogan, Utan -- 8 Septemper 1947
+
+noident, and incident 762, which clearly refer to
+
+the sere objects (witnosses were tovsether at t
+
+sion) do not_havo an astronomical explanation.
+
+sinent of distance can be sreatly
+
+“isleading, and extrenesly fast motion might oe ascrivad to closo-
+
+tran to truo linsar distancee
+
+iss rather
+
+iat
+
+ay ye

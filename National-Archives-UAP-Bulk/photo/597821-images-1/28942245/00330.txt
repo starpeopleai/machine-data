@@ -1,0 +1,47 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T04:18:51Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4475025, "source_ctime_ns": 1793372300569789960, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28942245/00330.jpg", "source_mtime_ns": 1785689047000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28942245/00330.jpg", "source_sha256": "11907671df7f98cb6722a2c562f36aefc609c30da903be9cf95743ddb8b88ea5"}
+
+===== PAGE 1 =====
+{"alpha_words": 133, "chars": 1112, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD-CARD”
+
+. CONCLUSIONS
+
+San Francisco Area
+
+Cola:: Bright Silver
+Shape: Rectangular
+
+Nearest scheduled balloon launch is at 150024
+
+‘ EAE ( 2. LOCATION ( 12
+Y , Stocl: C: Was Balloon
+22 May 1952 Stockton California B Probobly Belloon
+3. DATE-TIME GROUP 4. TYPé OF OBSERVATION O Pessibly Balloon
+Lv: O Wos Aircraft
+Locol —221,0___PDE 0 Ground-Vi sual Ground Rador O Probobly Aircroft
+Gu 1227 190 4 O Air- Vi sual D Air-Intercept Rodar QO Possibly Aircraft
+5. PHOTOS — 6. SOURCE O Was Astronomical
+G Yes Reserve Artillery GO Probobly Astronomical
+DO No Officer and 7 other people O Possibly Astronomical
+7. LENGTH OF OBSERVATION & NUMBER OF OBJECTS ; 9. COURSE O Other
+0 Insufficient Data for Evaluation
+25 Min 1 aati
+10. BRIEF SUMMARY OF SIGHTING 11. COMMENTS ‘
+
+_|was definitely a balloon in their
+
+Transit reading was 85° elevation orer
+Stockton Naval Supply Station, Faded
+away after 25 Minutes.
+
+Radar picked up some object at 8,000'
+at 1300 PDT, Interception negative
+winds 360° 20-30 K at altitude,
+
+Observers on interrogation state object
+
+opinion.
+
+ATIC FORM 329 (REV 26 SEP $2)
+
+Seer

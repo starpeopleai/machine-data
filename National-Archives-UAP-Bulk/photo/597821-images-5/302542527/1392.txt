@@ -1,0 +1,40 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T04:04:18Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1662156, "source_ctime_ns": 1793389657049627515, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302542527/1392.jp2", "source_mtime_ns": 1785808543000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302542527/1392.jp2", "source_sha256": "a02024167ca4ab061fc6076548b0a50bcb6ff73885bab17fd7ed6307d4fd6b20"}
+
+===== PAGE 1 =====
+{"alpha_words": 218, "chars": 1468, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Page 2
+|
+8. IF you saw the object at NIGHT, what did you notice concerning the STARS and MOON? |
+8.1 STARS (Circle One): 8.2 MOON (Circle One): |
+a. None. Bright moonli |
+b. Afew . b. Dull moonlight
+t C. wet ¢. No moonlight — pitch dark
+~ Don’t remember — d. Don’t remember
+9. What were the weather conditions at the time you. saw the object? = >”
+“CLOUDS (Circle One) "WEATHER (Circle One):
+“b. Hazy ef : ld mist, or light rain ;
+c.’ Scattered clouds. - _ ¢€. Moderate or heavy rain ee
+d. Thick or heavy clouds d. Snow
+e. Don’t remember
+10. The object appeared: ( Circle One):
+/a. Solid _; (Cd Bsa light / | ine |
+b. Transparent e. Don't remember
+c. Vapor
+1. Ifit appeared as a light, was it brighter than the brightest stars? (Circle One): é wa
+Y La Brighter | > c. About the some
+s b. Dimmer d. Don’t know Bt Ee eS a
+_ 11.1 Compare brightness to some common object; .
+12. The edges of the object-were: : |
+(Circle One):_a. Fuzzy or blurred — e. Other |
+} bd. Like a bri / in sags : :
+c. Sharply outlined ~
+d. Don’t remember ~~ << sk
+13. Did the object: (Circle One for each question) ©
+a. Appear to stand still at cny time? No Don’t know :
+b. Suddenly speed up ond rush away at any time? No Don’t know _
+c. Break up into parts or explode? oie. ine Don’t know
+d. Give off smoke? os No} Don’t know
+e. Change brightness? No Don’t know
+f. Change shape? Sz: | No/ Don’t know
+g- Flash or flicker? Ya No Don’t know - Bi
+h, Disappear and reappear? oa “Yes No Don’t know 4

@@ -1,0 +1,60 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T02:46:00Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 781350, "source_ctime_ns": 1793391285421040726, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302557323/0873.jp2", "source_mtime_ns": 1785808079000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302557323/0873.jp2", "source_sha256": "d70af3c62b931aef56119ec391d532f5d2ec69a5d55b65cd7c58d9c1b4978eb0"}
+
+===== PAGE 1 =====
+{"alpha_words": 126, "chars": 951, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD
+
+1. DATE - TIME GROUP
+
+2. LOCATION
+22 Oct 66 1630Z Galena AFS, Alaska 2 witnesses
+3. SOURCE 10. CONCLUSION
+_ Military Astro(S/P)
+Satellite(possible)
+
+-
+
++ NUMBER OF OBJECTS
+
+Two
+
+i. LENGTH OF OBSERVATION
+30 seconds-15 minutes
+
+>
+
+- TYPE OF OBSERVATION
+Ground Visual Bx
+
+“J
+
+- COURSE
+Bastward
+
+2. PHOTOS
+
+0 Yes
+__XKNo _
+
+9. PHYSICAL EVIDENCE
+
+0 Yes
+XXNo
+
+11.
+
+BRIEF SUMMARY AND ANALYSIS
+Observers watched a stationary and a moving obgect in the
+southern sky. The object was spherical in shape and the
+colors noted were changing fron red-green-white. Personnel
+on duty noticed movement and change of color,
+
+Two F-106s were airborne from Galena AIFS at 1628Z, They
+searched the area for 70 minutes with negative results.
+
+The description 6f the stationary object is consistent
+with that of an astronomical observation. The moving
+light could be a satellite.
+
+FORM
+FTD sep 63 0-329 (TDE) Previous editions of this form may be used,

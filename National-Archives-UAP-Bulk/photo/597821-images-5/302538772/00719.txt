@@ -1,0 +1,62 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T03:00:23Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1757922, "source_ctime_ns": 1793389279074971053, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302538772/00719.jp2", "source_mtime_ns": 1785808431000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302538772/00719.jp2", "source_sha256": "f4437b9234411e638891306528ca5b80bb7dd50a22038eec81f4b2329f51d5c8"}
+
+===== PAGE 1 =====
+{"alpha_words": 85, "chars": 682, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+2 May 65 03/0215Z
+
+- wt,
+1.x:DATE « TIME G1OUP 2 LOCATION... ghost!
+f
+
+? Colle ge Park, Georgia
+
+3. SOURCE
+Civilian
+
+4. NUMBER OF OBJECTS
+One
+
+10. CONCLUSION
+
+SATELLITE
+port characteristic of Satellite reported observation. Durati
+
+degrees of arc through which object passed consistant with
+tellite evaluation.
+
+5. LENGTH OF OBSERVATION
+
+6. TYPE OF OBSERVATION
+
+9. PHYSICAL EVIDENCE
+
+4 Ground-Visual
+; 7. COURSE
+
+SE
+
+4 8. PHOTOS
+
+O Yes
+
+11. BRIEF SUMMARY AND ANALYSIS
+
+Starlike light passing through 30 deg of arc heading SE.
+Initial impression was that object was ECHO I.
+
+pn
+
+w
+:
+“
+ig
+f
+a
+&
+1?
+-
+, 2
+nat
+
+FORM :
+FTD sep 63 0-329 (TDE) Previcus editions of this form may be used.

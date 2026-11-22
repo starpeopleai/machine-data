@@ -1,0 +1,65 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T04:28:40Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6867245, "source_ctime_ns": 1793361873526168488, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330781681/45484701-001-005-0022.jpg", "source_mtime_ns": 1785684787000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330781681/45484701-001-005-0022.jpg", "source_sha256": "5cc4091b92b97774dd28d8685c51a748e297f653bf2746c531a5354661412546"}
+
+===== PAGE 1 =====
+{"alpha_words": 228, "chars": 1557, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+“Decta w+ @ && Mr. Gomi /1 se/72231
+s
+
+a Wrtn 28Bept 49
+
+OFFICE OF SPECIAL La EOE ORS SORE
+THE INSPECTOR GENERA
+
+24-185
+
+SUBJECT: (Unclassified) WILLIAM A. RHODES - Aerial Phenomena
+SPECIAL INQUIRY
+
+District Commander
+
+19th OSI District, IG
+Fairfield-Suisun Air Force Base
+Fairfield, California
+
+1, Attached is a copy of an OSI Report of investigation which
+refers to WILLIAM A. RHODES, the Subject of the report, taking photo-
+graphs of an aerial object, travelling at an estimated speed of 100
+miles per hour.
+
+2. The photographs are at the present time being held in the
+files of Hq Fourth Air Force, Office of the Assistant Chief of Staff,
+A-2, Intelligence, Hamilton AFB, California, under the subject of
+"Investigation of Flying Discs".
+
+3. It is requested that you secure three (3) copies of these
+photographs, forwarding one (1) direct to the Commnding General of
+the Air Materiel Command, and the other two (2) to this Office.
+
+4. The attached report will be returned with your reply.
+
+nfl
+
+1 Incl WILLIAM “4M. TURNER
+Cy OSI Rpt of Inves Lt. Colonel, USsar
+bOF17 dtd 17 Aug 49 Executive, Special Investigations
+re RHGDES The Inspector General, USAF
+
+FOR THE DIRECTOR:
+
+(Note: Information Cy of this Ltr to 17th OSI District.)
+9 ae ae TARA Name NAb Sect trriet ait ah oth metal nial deity
+CLASSIFICATION CANCELLED ‘2sithati pirat ,
+BY AUTHORITY OF THE DE 4
+
+OFFICE oyM BOL wake 4 PCSI |
+
+GRADE ANI os r Ze i
+y, i
+
+SURNAME O
+COORDINATING
+\OFFICERS
+
+Da he thas Det 16—29242-2 —_U. S. GOVERNMENT PRINTING OFFICE
+
+Declassification Authority: NND 923007

@@ -1,0 +1,51 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T03:03:56Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3711153, "source_ctime_ns": 1793375767063358485, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28957586/0657.jpg", "source_mtime_ns": 1785696815000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28957586/0657.jpg", "source_sha256": "46f8cb8c6acfb0cb13a22591e79400b15bd43b61f93130d44e01e552938757f6"}
+
+===== PAGE 1 =====
+{"alpha_words": 194, "chars": 1372, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Page 3
+
+8, What direction wers you facing when you first saw the object?
+
+(Circle One): a. North e. South
+b. Northeast oo ff. Southwest
+ce, East _, Ge West
+ad. Southeast ~ h. Northwest
+6.1 What direction were you facing when the object disappeared?
+(Circle One): a, North e. South
+b. Northeast f. Southwest
+c. East g. West
+a. Southeast < he Northwest
+8.2 Gircle ona of the following to indicate how certain you are of
+your ansver to the above two questions, (8 and 8,1).
+‘ a, Certain c. Not very sure
+b, Fairly certain ad. Just a guess
+
+9. Were you wearling aye glasses when you saw the object? (Circle One):
+yee eX Hg
+10, How was the object seen?
+(Circle One): a. Through window glass @. Through thecdolite
+
+b. Through windshield £. Through sun glasses
+c. Through binoculars X ge Through open space
+a. Through telescope h. Other
+
+11. What do you remember about the weather conditions at the time you saw
+the object? Slear, nocloucs, no haze, little wind.
+
+11,1 CLOUDS (Circle One) 11.3 WEATHER (Circle One)
+X a. Clear sky Xa. Dry d
+
+b. Hazy b. Fog, Mist, or light rain
+c. Scattered clouis c. Mederate or heavy rain
+a. Thick or heavy clouds d. Snow
+2, Don't remember 2, Don't remember
+
+11.2 WOW (Circle One) 11,4 TEMPERATURE (Circle One)
+ae No wind a. Cold
+b. Slight breeze rot uocticasle b, Cool
+Cc Strong wind ‘e. Warn
+
+3 -~ “samarhan
+Lea wy ; 4 As TPS S) 2 % oF
+
+_- +

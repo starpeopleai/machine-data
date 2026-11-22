@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T04:01:30Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1367735, "source_ctime_ns": 1793355862864834153, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989282-001-0036.jpg", "source_mtime_ns": 1785564544000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989282-001-0036.jpg", "source_sha256": "a119bcf3c0e3cbe16e24fe775e6c6f7f9bdc9fce5fecc621ca06038aa2e0599c"}
+
+===== PAGE 1 =====
+{"alpha_words": 223, "chars": 1443, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+16
+
+an extension of the three existing runways on the ground that
+their 8000 to 8400-foot maximum length was likely to inhibit
+operations, but nothing was done about this until 1953. On the
+other hand, two subsidiary landing strips were prepared in 1951
+in the northern portion of the Holloman range. Both were suitable
+for C-l7 type aircraft, and were designed to offer quick access
+to proposed instrumentation sites two or three hours distant by
+land from the main area of the bases
+
+Of all the resources needed for air support operations, the
+pilot staff seers to have posed fewest problems at this time
+with respect to either quantity or quality. Forty-nine pilots
+were assigned in August 1951 and sixty-four in May 1952. Either
+total was more than ample for normal operations, even though all
+base-assigned pilots then had other duties besides flying that
+usually demanded far more of their time. Moreover, the Drone
+Squadron and probably several of the mission contractors had
+full-time pilots of their owe? In a few cases there might still
+be a lack of qualified persons for specialized flight-crew
+positions--Trizon bomb launchings, for instance, were cancelled
+in September 1951 because the only available B-29 (launch
+aircraft) engineer was suddenly hospitalized’--but such
+crises certainly were not frequent.
+
+In addition to the conduct of Air Force missile tests at
+
+Holloman, the base continued to provide a certain amount of
+
+-

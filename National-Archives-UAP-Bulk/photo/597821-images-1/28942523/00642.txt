@@ -1,0 +1,58 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T04:19:00Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4511670, "source_ctime_ns": 1793372393590657736, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28942523/00642.jpg", "source_mtime_ns": 1785688834000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28942523/00642.jpg", "source_sha256": "0e870840711b86ed044d029e815d4d6b097c26a8c4f360285bf59e478758da88"}
+
+===== PAGE 1 =====
+{"alpha_words": 197, "chars": 1247, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+18,
+
+19.
+
+21.
+
+Page 5
+
+Did the object at any time:
+
+‘18.1 Move behind something? (Circle One) Yes (flo) Don't know
+
+IF you answered YES, then tell what it moved behind.
+
+18.2 Move in front of something? (Circle One) Yes (Mo) Don't know
+IF you answered YES, then tell what it moved in front of,
+
+Va
+
+18,3 Blend with the background? (Circle One) Yes (Mo) Don't know
+
+Which of the following objects is about the same actual size as the
+object you saw? (Circle One):
+
+ae Pea £. Automobile
+
+be. Baseball g Small airplane
+c. Basketball _ Large airplane
+d, Bicycle wheel pn : rh Dirigible
+
+e. Office desk hati Je Other
+
+19.1 Circle one of the following to indicate how certain you are
+of your answer to Question 19.
+
+G. Certain’ c. Not very sure
+b. Fairly certain a, Uncertain
+
+bir to tell the following things about the object:
+
+20. ‘1 How high above the earth was it? /5,00CC feet.
+20.2 How far was it from you? feet or » miles
+20 x How fast was it going? 7 7 © miles per hour.
+
+20.4 Circle one of the following to indicate how certain you are
+of your answer to the above questions:
+
+a. Certain ¢. Not very sure
+/ cb._Fairly certain? a. Just a guess
+
+How did the object disappear from view?
+
+(Circle One): a. Sudde c. Other
+Gradual: d. Don't remember

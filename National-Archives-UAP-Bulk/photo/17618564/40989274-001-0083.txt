@@ -1,0 +1,91 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T03:25:36Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6506070, "source_ctime_ns": 1793355818192497767, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989274-001-0083.jpg", "source_mtime_ns": 1785564532000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989274-001-0083.jpg", "source_sha256": "ad445d247ca3d0daab74991e1db7d979d5a995465df37f1c9d2d77ac74a12997"}
+
+===== PAGE 1 =====
+{"alpha_words": 423, "chars": 2945, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Library of Congress Cataloging-in-Publication Data
+
+Guthrie, Randolph H.
+Reconstructive and aesthetic mammoplasty / Randolph H. Guthrie,
+Jr., Gordon F. Schwartz ; foreword by Tom Shires.
+a5 sn.
+ISBN 0-7216-2806-0
+1. Mammaplasty. ee SonWaistes (OOmMOON ites. luster
+[DNLM: 1. Breast--surgery. 2. Mastectomy. 3. Surgery, Plastic.
+wP 910 G984r]
+RD539.8.G88 1989
+618. 1'S9059--dc19
+DNLM/DLC
+for Library of Congress 88-39825
+CIP
+
+Example 9
+Medical Title, Showing Additional Subject Headings and
+Classification Number Assigned by the
+
+National Library of Medicine
+
+at high school students or older, e.g., age 16 and older, it will be
+provided with a summary and extra subject headings mentioned
+
+Je)
+
+above, but the subdivision ‘‘— Juvenile literature’’ will not appear
+
+in the regular Library of Congress subject headings.
+
+OO
+Library of Congress Cataloging-in-Publication Data
+
+McKissack, Pat, 1944-
+Messy Bessey's closet / by Patricia and Fredrick McKissack ;
+illustrated by Rick Hackney.
+[2 bm. «= (A ROOKI6 Febcer)
+Summary: Messy Bessey learns a lesson about sharing when she
+cleans out her closet.
+ISBN 0-516-02091-3
+[1. Cleanliness--Fiction. 2. Orderliness--Fiction. 3. Shar ing-
+SPNO2IOMs Go Svar des tn maw] I. McKissack, Fredrick.
+Die Hackheve RICK liie. DLL. Title. lV" Series.
+PZ8.3.M4598Me 1989
+{E]--dce20 89-34667
+CIP
+AC
+
+Ne A NTE
+Example 10
+
+Juvenile Title, Showing Summary and Juvenile Subject Headings
+
+26
+
+X. GENERAL INFORMATION
+
+ipelMPOR LANGE OP THE, DITLE<PAGE
+
+The Library of Congress follows the Anglo-American Cataloguing Rules,
+Second Edition (AACR 2), which states that the title page (or its sub-
+stitute, e.g., the front cover) is the chief source of information for
+bibliographic information concerning a title. The title page determines
+the form of name to be used for authors new to our catalog and is
+the primary authority for the transcription of the title and subtitle,
+statement of authorship, function of other contributors, etc. Without
+a title page, CIP data cannot be provided.
+
+2. PLACEMENT OF AUTHORS’ NAMES IN CIP DATA
+
+Current cataloging rules (AACR 2) provide that the first mentioned
+author on the title page is listed at the top of the record. He or she
+is designated as the main entry or access point. Additional joint
+authors—up to two—are listed at the bottom. They are designated
+as added entries and identified by roman numerals. Regardless of
+any author’s position on a catalog record, access to the title is provided
+by either author’s name in both card catalogs and computer cata-
+logs. Where there are four or more authors listed on the title page,
+only the first author is mentioned in the catalog record.
+
+3. INCLUSION OF BIRTH DATES
+
+In a catalog of any significant size, duplication of names often oc-
+curs. The birth date is used solely to distinguish one author from
+another of the same or similar name, so that the works of one author
+will not be incorrectly filed with those of another.

@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T02:45:38Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 776003, "source_ctime_ns": 1793391576097002829, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302559658/0242.jp2", "source_mtime_ns": 1785808150000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302559658/0242.jp2", "source_sha256": "fabd3df43736fe88ca120cfcafbc008973aada88f9690d2d4a50069b29ca83ff"}
+
+===== PAGE 1 =====
+{"alpha_words": 165, "chars": 1043, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD
+
+1. DATE + TIME Cer 2. LOCATION
+12 Jan 67 jYArns2 Indianapolis, Indiana multiple
+3. SOURCE 10. CONCLUSION
+Civilian Astro(Altair) ( Pauds iy
+4. NUMBER OF OBJECTS
+One
+5. LENGTH OF OBSERVATION 1. BRIEF SUMMARY AND ANALYSIS
+10 minutes ye ff eae me i
+Ooservers watched a unidentified light in the eastern
+6. TYPE OF OBSERVATION sky that was flashing and changing colors. The object
+Ground Visual just vanished when it began to get light. The object
+did not move across the sky or move to the right or left
+7. COURSE very much, One observer said that when the lights would
+Basically Stationary g° oub you could see a round disc. The odject mainly
+hovered over some tree tops.
+8. PHOTOS
+s The description is consistent with that of an observation
+Sis of an astronomical body. Altair was rising just prior
+oa to the:sun and was directly in the cast at an elevation of
+mHYSICAL E tc . 4 i
+ESE A REP ENCE 15 degrees at the time of the sighting.
+1 Yas i
+% No
+FORM
+FTD scp 63
+
+0-329 (TDE) Previous editions of thle form may bo used,

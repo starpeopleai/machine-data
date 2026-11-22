@@ -1,0 +1,34 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T03:20:06Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5808434, "source_ctime_ns": 1793382739494372549, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28985288/0569.jpg", "source_mtime_ns": 1785700753000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28985288/0569.jpg", "source_sha256": "e599b4718c15883eca24aefbdfd5e03496c8c2e879c376d88259c9a3fc7b4dbf"}
+
+===== PAGE 1 =====
+{"alpha_words": 160, "chars": 1085, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+A ety ae
+
+AF IN: 36062 (6 Nov 59) snes
+
+T PAGE Two. RJEZ GF 294A
+
+DET 9905. RENSSELEAR POLYTECHNIC INSTITUTE. TROY NY DOUGLAS L MILLER,
+
+| 1ST LT A03STH STRAT WING,. GAFB PAR 15 G. 7, VFR ON TOP OF; SOLID
+
+: OVERCAST, BRIGHT MOON 127 WIND DIRECTION 160 DEGREES SSE, VELOCITY 4
+KNOTS AT. SURFACE: /3/ 3000 : OVERCAST /4/ 15 MILES FLUS /5/ CLOUD COVER 10
+TENT Hs /6/ NO THUNDERST ORMS 41 £4 DEGREES. PAR 15 H NONE NORMAL WEA-
+THER. PAR 15 I ACCOMPLISHED ABOUT 200 DE GREE ARC AROUND OBJECT. ATTEMPTE. ;
+TO. cLosE. IN BUT: ‘OBJECT. DISAPPEARED. REA PPEARED MONENTS LATER AND SPED
+‘RAPIDLY. away AND Lost TO VIEW... PAR 15° J NONE. IN AREA. PAR 15K CHIEF
+SECURITY SERVICES Div DIRECTORATE OF LE ENS PAR 15 _ NO
+
+PHYSICAL. EV IDENCE. PAR. 17 SIGHT INGS REPORTED BY EX PERIENCED ‘PILOTS WHO
+THOUGHT OBJECT STATIONARY FE RHA PS A WEAT HER BALLOON UNT IL RAPID MOVEMENT
+"ON: ATTEMPT To CLOS- IN. FROM ‘REPORT OF- OBSERVERS AND DATA AVAILABLE
+IDENT IF 1cAT 10N OF OBJECT NOT POSSIBLE. Ne OT HER’ ee oe OF OBJECT
+
+S REPORTED. SIGNED SECURITY OFFICER |
+
+BT.
+
+15/2039Z. NO RJEZGF
+
+Page 2 of 2 oe

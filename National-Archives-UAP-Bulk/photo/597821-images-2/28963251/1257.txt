@@ -1,0 +1,41 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T03:25:08Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6444899, "source_ctime_ns": 1793377315681012223, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28963251/1257.jpg", "source_mtime_ns": 1785696771000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28963251/1257.jpg", "source_sha256": "2a916a72237602fd6f6fad43c09fe658cbe6f8ad1f415945d3d24160429d1aa4"}
+
+===== PAGE 1 =====
+{"alpha_words": 150, "chars": 1085, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD pie
+
+t : .
+
+1. DATE . 2. LOCATION 12, CONCLUSIONS
+2 Yi is O Was Balloon
+3 Aug 55 Near Herrisburgh, Pe 0 Probably Balloon
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION D Possibly Balloon
+O Was Aircreft
+Lecol {2 Ground- Vi sual D Greund-Rader Cl Probobly Aircraft
+GMT 24 04252 O Air- Vi sual O Air-Intercept Radar G Possibly Aircraft
++ PHOTOS 6. SOURCE O Was Astronomicel
+O Yes O Probably Astronomical
+x28;No civilian 0 Possibly Astronomicol
+7. LENGTH OF OBSERVATION 8. NUMBER OF OBJECTS | 9. COURSE D Other
+EX Insufficient Data for Evaluation
+O Unknown
+j_ten seconds each unknown N to Ss
+
+10. BRIEF SUMMARY OF SIGHTING
+
+Small objs changing colors, seen to travel to
+the south from the north on é& wobbly course.
+Red, white and blue obj seen for e period of
+ten seconds. First diseppeared in city lights
+but observer stated the objs were very high.
+The cbhjs appeared to be size of e pea held
+
+ey arms lengh.
+
+11. COMMENTS
+
+Possible meteor observation, however
+lack of ccherency in report and lack
+of sufficient data for evaluation.
+
+ATIC FORM 329 (REV 26 SEP 52)

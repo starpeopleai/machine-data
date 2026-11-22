@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T04:16:02Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3929192, "source_ctime_ns": 1793385149577749595, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28991993/0118.jpg", "source_mtime_ns": 1785748105000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28991993/0118.jpg", "source_sha256": "b92490d7a4e293bdc92d21023f62cb59d11860d16c28553b5e7b393a302dc9df"}
+
+===== PAGE 1 =====
+{"alpha_words": 155, "chars": 1012, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Ug Bie GR Aa ieee 7
+Fenes Boe , ate ‘ te.
+
+lst Ind (SAF-OIFB)
+Hq USAF, Dept of the Air Force, Washington 25, D.C. 8 May 64
+TO: ADC, Ent AFB, Colo 80912
+
+1. The attached letter is returned to your Headquarters
+without action. The Air Porce has a large file of letters
+from this organization and has previously furnished them with
+all available UFO information. This Headquarters does not
+intend to respond to this inquiry.
+
+2. This organization has as its purpose the exploitation of
+UFO: reports. A digest is published which not only details
+flying object sightings but also prints science-fiction
+articles by or about persons purportedly voyaging to other
+QJlanets in space ships. The organization is also very anti
+che USAP UFO program.
+
+3. If NORAD desires to explain Command Post procedures,
+then an answer to Mr. Allen's letter should come from that
+Heacquarters,.
+
+“OR THE CHIZ? OF STAPF?
+
+MASTON M. JACKS atecn
+Major, US
+
+Pictorial Branch
+
+Publis Information Division
+Office of Information
+
+Ltr returned

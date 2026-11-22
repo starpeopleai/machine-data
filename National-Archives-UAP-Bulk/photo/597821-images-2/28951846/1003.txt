@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T03:12:39Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4784422, "source_ctime_ns": 1793374476372613707, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28951846/1003.jpg", "source_mtime_ns": 1785696425000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28951846/1003.jpg", "source_sha256": "cf962e216519517f09e4a6d1643b68457b4fc1f1e4ef9e20769611082e73153c"}
+
+===== PAGE 1 =====
+{"alpha_words": 168, "chars": 1125, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+'¢ O&e F2 & — UNCL( “SIFIED
+
+co-pilot on British European Airways flight #192 from London to
+Srasebart Rhein-Main on 6 Dec 52, reported to the Military Police customs officials
+at the Rhein-Main ercial Terminal the sighting of an unidentified flying object.
+Information gga shed is as follows:
+
+ae A written statement made by source is as follows: "Sighted streak
+shaped object with bright lighted nose and a dim trail of light behind, crossing our
+track at 90° to the right. Watched it for approximately h-5 seconds when it abruptly
+disappeared. There was no cloud at our height, .& clear skys above us."
+
+b. Sighting was made in vicinity of Bitburg, Germany (NKGE3259) at approx-
+imately 1300Z on & Dec 52.
+
+Ceo Lr _ fn co-pilot, was apparently the only person in the a/c making
+an observation. He called the attention of the pilot to the object, but the object
+‘had vanished before the captain could see it. No subsequent sightings were made.
+Altitude of the a/c at time of observation was 5500'.
+
+Source: ATIC Document 100832
+
+" RADED AT 3 YEAR INTERVALS;
+ie UNCLASSIFIED DOT CLASSIFIED AFTER 12 YEARS.
+
+DOD DIR 5200.10

@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T03:08:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4159936, "source_ctime_ns": 1793360183595234645, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-013-028-0001.tif", "source_mtime_ns": 1785681652000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-013-028-0001.tif", "source_sha256": "56f40b582a96f9249bf8af3f62c19d52f69a5b71376c2a98d70165e437a39108"}
+
+===== PAGE 1 =====
+{"alpha_words": 77, "chars": 567, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Declassification Authority NND 923007
+
+4602D AISS UFOB 103
+
+REPORT NUMBER DATE/TIME OF SIGHTING RECD ATSOP
+ATSS-UFOBe1L1 5056 O7/OWL0Z May 56 7 May 56
+LOCATION OF SIGHTING LOGGED BY
+Oklahoma City, Oklahoma S/Sgb D,Rudder
+MEANS REGD ACTION TAKEN
+
+TT msg Investigation authorized
+
+INVES UNIT DATE INVES ASSIGNED JASSICNED BY
+FLt 2—D 7 May 56 'Lt Alexander
+DATE IR RECD HO DATE IR APPROVZ) DATE IR TO ATIC
+DATE AISOP FORM 5
+
+10 May 56
+
+COMMENTS
+
+investigation authorized to Fit@ht 2-D. Results of investigation as
+indicated below:
+
+CONCLUSIONS
+
+AISOP FORM 7 (2 APR 55)

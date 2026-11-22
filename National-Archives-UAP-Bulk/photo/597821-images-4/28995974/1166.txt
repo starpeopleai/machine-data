@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T03:03:45Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3694538, "source_ctime_ns": 1793386404000762424, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28995974/1166.jpg", "source_mtime_ns": 1785748580000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28995974/1166.jpg", "source_sha256": "64e98dde399a6fcb5c6a6d42672e151829b7c896b7f61529666e7b33ed867d8e"}
+
+===== PAGE 1 =====
+{"alpha_words": 114, "chars": 896, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+( "DEPARTMENT OF THE AIR FORCE
+STAFF AAEESAGE BRANCH
+" UNCLASSIFIER MESSAGE
+
+INCOMING
+
+AF IN : 52986 (4 Jan 62) pg 2 of 4
+
+PAGE TWO RJEDBO 94
+(7) TAIL MUCH LONGER THAN NUCLEUS.
+(8) NONE.
+(9) NONE,
+B(1) MOVEMENT, COLOR, BRILLIANCE.
+(2) 7088" TO UNK. OVER 20,000".
+(3) SAME AS BC2).
+(4) DESCENDING FLT PATH, NO MANEUVERS, HEADING VARIOUS
+260 DEGREES-320 DEGREES.
+(5) INSTANTANEOUSLY, NETO SW, E TO v, SE TO Nu,
+(6) 1 = 6 SECONDS,
+CC1) GROUND - VISUAL.
+(2) NO OPTICAL AIDS USED.
+(3) ONE SIGHTING BY USAF T-33 NR 88540 AT 28,220', HEADING
+
+298 DEGREES, AT 280K, FROM LOCKBOURNE AFB, PILOT PINJUV, G.I., MAJOR,
+39312A, AF RECRUITING SV., COLUMBUS, OHIO.
+
+D¢€1) SIGHTINGS OCCURRED FROM 2325Z THRI 01002.
+
+(2) NIGHT.
+E. LOCATION OF OBSERVERS: OBSERVERS WERE LOCATED AT NORTH
+AMERICAN AVIATION PLANT, COLUMBUS; VARIOUS AREAS WITHIN THE CITY
+OF COLUMBUS; ON THE SOUTHERN EDGE OF LIMA AND CAIRO, OHIO; IN

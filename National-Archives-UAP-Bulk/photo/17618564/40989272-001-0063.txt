@@ -1,0 +1,101 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T03:59:18Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1005410, "source_ctime_ns": 1793355796043366859, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989272-001-0063.jpg", "source_mtime_ns": 1785564528000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989272-001-0063.jpg", "source_sha256": "382a226057351cfd2da8412b0247a2e38253d37bc9e93c25f531b49523f5eb62"}
+
+===== PAGE 1 =====
+{"alpha_words": 114, "chars": 1043, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+12.
+
+13.
+
+14.
+
+Computer UFO Networks
+P.O. Box 832
+Mercer Island, WA 98040
+
+Paranet Information Service
+P.O. Box 928
+Wheatridge, CO 80034
+
+Japan UFO Science Society
+C.P.O. Box No. 1437
+Osaka, 530-91
+
+JAPAN
+
+(Presumably connected to internet)
+
+(Connected to internet)
+
+a
+
+15.
+
+17.
+
+BUFORA
+1 Woodhall Drive
+
+Batley, West Yorkshire WF17 7SW
+
+UNITED KINGDOM
+
+Strange Magazine
+P.O. Box 2246
+Rockville, MD 20847
+
+The Devil's Advocate
+P.O. Box 10853
+Pensacola, FL 32524
+
+Fortean Research Center
+P.O. Box 94627
+Lincoln, NE 68509
+
+UFO Magazine
+
+Quest Publications International Ltd.
+
+Wharfebank House
+Wharfebank Business Centre
+Ilkley Road
+
+Otley near Leeds, LS21 3JP
+UNITED KINGDOM
+
+FAX: (301) 460-1959
+
+20.
+
+STAR
+
+Star Editorial, Inc.
+660 White Plains Rd.
+Tarrytown, NY 10591
+
+PHONE (NOT FAX?): (914) 332-5000
+(Supermarket tabloid)
+
+NATIONAL ENQUIRER
+National Enquirer, Inc.
+Lantana, FL 33464
+
+(Supermarket tabioid)
+
+Do
+i)
+
+| ai
+
+GLOBE
+
+N.W. Broken Sound Bivd.
+
+GL
+540
+Boc
+
+|
+a Raton, FL 33487
+
+PHONE (NOT FAX?): (407) 997-7733
+(Supermarket tabloid)

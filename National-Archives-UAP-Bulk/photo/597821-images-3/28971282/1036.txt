@@ -1,0 +1,40 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T04:21:00Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4857365, "source_ctime_ns": 1793379153240910985, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28971282/1036.jpg", "source_mtime_ns": 1785700711000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28971282/1036.jpg", "source_sha256": "e6f310ccaeeea820c0ac7b4882e6a110f7b12804a16bfc2f7504bfd4a4d03a28"}
+
+===== PAGE 1 =====
+{"alpha_words": 93, "chars": 700, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PAGE
+Ze
+
+AWAY
+
+TWO RJEDBW 1E ae
+Ae PSITION CLOW) AND INTENSITY
+Be 29% DEGREES AT 1@DEGREES TO 24 DEGREES ELEVATION : |
+C. MOVED NORTHWEST AND CLOSED TOGETHER THEN MOVED
+
+FROM OBSERVERS
+
+Ee DRP OPPED pad HORIZON
+
+Pe ———
+
+~~.
+
+{ ;
+G15 1 TO INUTS > a :
+
+eee
+2s Wh » GROUND VISUAL AND AIR VISUAL oes
+RE BINOCULARS 7x59°<
+| C. F86L, BUCKET 29. CLIMBED TO 3849@ FEET 340 42¢K NIAGARA FALLS ABD
+be Ae 90532 22 AUG 57 eee 5
+5. %43 @8° WIZ NORTH 78 ROJ RWZ WEST
+6s Ae NA
+Ce 2 /1.1 763D ACWRON SRe DIRECTOR VERY RELIABLE
+qq, 1/5 17 i DUTY DIRECTOR "
+ee Ss CT ’ CREW CHEIF °
+CPPS s CT ” WIRE MAINT NCOIC *
+wie | /2¢ : CONTROL TECH "
+W I A /2C * RADAR MAINT °
+NES 1/2 " RADAR MAINT "
+wee. A /2c " RADAR MAINT ”

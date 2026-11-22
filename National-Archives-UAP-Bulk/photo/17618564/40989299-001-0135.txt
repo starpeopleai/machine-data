@@ -1,0 +1,49 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T02:45:43Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 776977, "source_ctime_ns": 1793356034539639597, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989299-001-0135.jpg", "source_mtime_ns": 1785564588000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989299-001-0135.jpg", "source_sha256": "ee4fe0a723c1d1c4b527f2b45883815b4371f184b658cc9cc4e2f4260771e276"}
+
+===== PAGE 1 =====
+{"alpha_words": 154, "chars": 985, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+: Pp
+
+2) Density: d= =
+
+(2) ty RT
+p,R,T = pressure, specific gas constant, and
+_ tempereture of the air or lifting gas
+
+(3) Let: - Ro - M
+
+At any two positions:
+
+Li= Vi (dg, - dg)
+
+Investigating the gain of superheat, since there is no change of
+volume Vj = Vo and:
+
+(4) AL = La-L, = Vj (dg, -— dg- dg, + dg,)
+
+Assume now that the belloon carries no internal pressure and that
+the difference in lift does not cause the ballcon system to pess
+through any appreciable atmospheric pressure difference (in the
+case where the balloon is floating at 40,000 ft. MSL a change of
+1000 ft. would be only 9 mb, or a 5% change).
+
+Therefore:
+
+Pa, = Pag= Pg, = Pga= P
+Assume also that initially the air and lifting gas are at the
+same temperature and that the air passes through no apprecieble
+temperature change. Then:
+
+Then, making use of our two assumptions and substituting equation
+(2) into equation (4), we have:
+
+| | | {
+= Vv Ce ee
+AL (ey Ral, Rglg, tt)
+“oe (t-+ )
+Rg T, Tge
+and;
+
+a(+-+)
+
+\

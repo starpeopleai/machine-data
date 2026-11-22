@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T02:51:08Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1145961, "source_ctime_ns": 1793356364229625201, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989319-001-0051.jpg", "source_mtime_ns": 1785564686000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989319-001-0051.jpg", "source_sha256": "071c7710be843a70cda54c9003eb81f40c2c36f2b8f64864b3746bc05f903675"}
+
+===== PAGE 1 =====
+{"alpha_words": 247, "chars": 1498, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+verify this indication and to obtain continuous records on at least two
+balloons throughout the interval.
+
+Two ballcons were to be launched in the Rio Grande Vailey, The
+launchings were spaced approximately 1} hours apart. A balloon having
+a reduced sensitivity microphone was to be launched at Holloman Air
+Force Base at the same time as the first launching in the Rio Grande
+Valley. Initially, Holloman Air Force Base was to monitor the first
+Rio Grande Valley balloon, and Walker Air Force Base and Carlsbad were
+to monitor the balloon launched at Holloman.
+
+As a result of high surface winds, two attempts at launching in
+the Rio Grande Valley failed, and it was not considered wise to expend
+anymore of the limited supply of balloon equipment in further attempts.
+The first flight was launched at Holloman as planned, and a second flight
+was launchea approximately 14 hours later. The Walker Air Force Base
+station lost the signal of the first balloon just before it leveled off.
+It was discovered later that the signal was lost because a truck trailer
+which had been used for a balloon wind screen was in the path of the
+radio transmission, Carlsbad and Walker Air Force Base obtained a poor
+quality recording on this flight for one hour, The Holloman Air Force
+Base record on the second flight is very good and shows generally a
+very low noise level. There were no simultaneous recording of two dif-
+ferent flights in this operation. ‘ihe results of this flight are given
+
+in Table VII.
+
+28

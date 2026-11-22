@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T04:28:05Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6753315, "source_ctime_ns": 1793377175105357018, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28962878/0965.jpg", "source_mtime_ns": 1785696646000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28962878/0965.jpg", "source_sha256": "c2c07df83731be171c2eb9641dbc77147c7c9c6523a4c27da1aa0acaccec434f"}
+
+===== PAGE 1 =====
+{"alpha_words": 34, "chars": 341, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+(B) NZA
+(7) CA) CLEAR SKY |
+
+(B) SURFACE WINDS 135 DEG 16 Ke WINDS ALOFT? 6239 - 182 DEG 29 x3
+19,903 170 DEG 20 Ke |
+ae
+(C) NO CEILING
+
+I (¢D) 1% MILES
+CE) 5820 SCATTERED} 25,998 SCATTERED
+
+(F) THUNDERSTORN ACTIVITY
+
+(8) NONE : (
+(9) NONE |
+
+(18) FORMATION OF 3 B-36"s
+
+p11) AIRDROME OFFICER, CAUSE OF SIGHTING? NEGATIVE (
+
+(12) NONE. : ;

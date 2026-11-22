@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T04:18:37Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4280453, "source_ctime_ns": 1793373790290179966, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28948678/0933.jpg", "source_mtime_ns": 1785696609000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28948678/0933.jpg", "source_sha256": "51fe5f2155ff4358697ccf3ca3ca593412bd9120dbc5782b63056f25243b0a97"}
+
+===== PAGE 1 =====
+{"alpha_words": 119, "chars": 805, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Hq, 2596th AFRFTC, Int 319.1, Sudject: (Unclassified) Report of informa
+tion on Unidentified Flying Objects, 30 August 1952,
+
+f. Weather and Winds Aloft; 012 126/38/a9 4 12/993.
+
+ge Activity or Other Accounting Condition; None.
+
+he Physical Evidence; Nonee
+
+ie Interception or Identification; None.
+
+je Air Traffic; None in this area at time stated.
+
+2e This report forwarded in letter form in lieu of AF Form 112.
+
+Normal supply of AF Form 112 was exhausted due to oxcessive number of
+reports being received from this areas. Subject forms were requisitioned
+
+by Special Requisition on 10 August 1952 but have not bhoen received to
+date.
+
+ff
+: Mee wad
+Info Copy tos Hd Wf, sen (
+
+Chief, Air Technical Intel Major, USAF
+Conter, Wright Patterson AFB Commanding
+CG, ConACc
+
+CG, 14th AF
+
+CO, $d Air Res Dist

@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T04:13:46Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3446221, "source_ctime_ns": 1793371277153310166, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28937464/0288.jpg", "source_mtime_ns": 1785688985000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28937464/0288.jpg", "source_sha256": "8bcea037cb02513e99a412d20adb2e26fa358e2564b2f4c1cd63576d954d9f83"}
+
+===== PAGE 1 =====
+{"alpha_words": 72, "chars": 502, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+pee ; AIR MATERIEL COMMAND
+Eee : | a"
+
+9 March 1950
+
+Goad r. Minnesota
+Dear Urs. Crane
+
+Receipt of your letter dated 26 Fetruary 1950 ;,
+hereby acknowledged.
+
+Your letter will te forwarded to the office interested
+in these matters.
+
+If further information is desired you will be contacted.
+Your action in writing this Command is appreciated.
+
+Yours truly,
+
+Man. Coase x Ao 60. |
+
+PRYAN L. DAVIS
+Colonel, USAF
+Air Adjutant General —
+
+ag
+Wy
+~3
+~~
+pay
+\
+TU)
+~]
+He AMC Ferm Ne. 9 (Rev 8 Feb 49) wsatne al

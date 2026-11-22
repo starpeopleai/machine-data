@@ -1,0 +1,45 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T04:21:34Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4987835, "source_ctime_ns": 1793386355036681861, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28995841/1018.jpg", "source_mtime_ns": 1785747822000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28995841/1018.jpg", "source_sha256": "615429cd9924ae5d0b6a69b9b5336bdde4df7d650fd083a146735b1e575af26b"}
+
+===== PAGE 1 =====
+{"alpha_words": 73, "chars": 626, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+DEPARTMENT. OF THE AIR. FORCE
+STAFF MESSAGE BRANCH
+
+UNCLASSIFIED MESSAGE
+
+INCOMING
+
+AF IN : 42172 (21 Dee 61) Page 2 of 3
+
+PACE TWO RJAPAP 129
+2, NONE
+
+9. NONE
+Be COURSE OF OBJECT.
+
+1. I.F, ENERGY BEING RADIATED
+
+2+ M 15-3DEGREES ANGLE OF RE-ENTRY ALTITUDE 100,990 FT PLUS
+S. ALTITUDE AT BURNOUT 190,099 FT PLUS
+
+4. SHALLOW TYPICAL HIGH G REENTRYHSATH
+
+CTMV NONE
+
+6. OBJECT VISIBLE 5-8 SECONDS
+
+C. OBSERVATION
+
+i le AIP-VISUAL
+2. NONE
+3. C-97/AF20699/6999FT/390 DEGREES/200N/VAN NUYS AFB CALIF
+D.DATZC
+
+-158.3 S18 #5
+1. 21-99N 163E 21/9759Z
+2. NIGHT
+E. NONE
+F. NONE
+1. V. E. HOWARD
+115TH ATS VAN NUYS CALIF
+PELIABLE EXCELENT

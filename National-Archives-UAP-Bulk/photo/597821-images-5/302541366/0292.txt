@@ -1,0 +1,23 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T02:56:13Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1697150, "source_ctime_ns": 1793389504552514765, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302541366/0292.jp2", "source_mtime_ns": 1785808318000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302541366/0292.jp2", "source_sha256": "a71a7a02c4f1b4ba41a7d0d5bc4768bba4e0e83fd016599d3c95d3414a0b924a"}
+
+===== PAGE 1 =====
+{"alpha_words": 10, "chars": 71, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Findon
+
+Bale Ale we
+
+oe.
+
+Ves 6 Rm ahs
+
+a
+
+L345
+
+f
+
+oO
+
+2'8" south
+
+»

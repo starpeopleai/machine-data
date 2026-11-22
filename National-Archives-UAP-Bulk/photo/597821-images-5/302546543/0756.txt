@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T02:50:23Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1043962, "source_ctime_ns": 1793390102475126199, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302546543/0756.jp2", "source_mtime_ns": 1785808398000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302546543/0756.jp2", "source_sha256": "e0628d0a701a1fd3f2f6d0c33250a62c661657343ce55bcc1f8b63609f37a3f1"}
+
+===== PAGE 1 =====
+{"alpha_words": 102, "chars": 738, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD :
+Pon erent
+1, DATE - TIME GROUP 2. LOCATION
+) 21 December 1965 21/20242 xix 55.37N 171.255
+3. SOURCE 10, CONCLUSION é
+Military Astro (METEOR
+4. NUMBER OF OBJECTS
+One No decay this date.
+5. LENGTH OF OBSERVATION V3. BRIEF SUMMARY AMD ANALYSIS
+5-6 seconds A/C sighted an unknown object. -It was the shape of fireball
+and apveared to be flame with a short teil when sichted
+& TYPE OF OBSERVATION spate ‘ “ : Sela Su matin Mae ae
+tr Object arcpeared to be disintegrating when observed. Object
+Air-Visual began descent and began disintegrating as it entered clouds.
+7, COURSE
+Descending, SE
+8. PHOTOS
+0 Yes
+%O No
+9. PHYSICAL EVIDENCE
+O Yes
+ix No
+
+FORM.
+FTD sep 43 0-329 {TDE) previous editions of thia form may be used.

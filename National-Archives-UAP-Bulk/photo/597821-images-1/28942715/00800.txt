@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T03:10:47Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4405823, "source_ctime_ns": 1793372433472074238, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28942715/00800.jpg", "source_mtime_ns": 1785688523000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28942715/00800.jpg", "source_sha256": "9ce51c2913d2406253522467ab846bde592020469f5ac3b695074972b82cf20b"}
+
+===== PAGE 1 =====
+{"alpha_words": 69, "chars": 470, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+* * : , jee hy | ;
+
+Pi . ty
+
+(AF FORM 1 PART it ‘6 os a a
+
+PPOROVED 5 JUNE 1948 —
+AR ITELIGENC ALONIAON REPORT
+
+iF rage \ Agency, REPORT NO.
+
+i fiddletown, Pa. Plight Service .
+
+and Langley Air Force Base, Va.. | TAC TRe4-52 PAGE 2 oF 2 PAGES
+
+COMMENT: A check of radar sightings in the area reported on by the radar
+station at Fort Custis, Va, revealed no unusual object sightings.
+
+DONALD N. WACKWITZ
+
+Colonel, USAF
+
+Acting Deputy Chief of Start,
+Intelligence, TAC .

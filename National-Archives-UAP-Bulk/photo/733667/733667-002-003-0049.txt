@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T04:02:36Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1394607, "source_ctime_ns": 1793394292825836788, "source_file": "National-Archives-UAP-Bulk/photo/733667/733667-002-003-0049.jpg", "source_mtime_ns": 1785567350000000000, "source_rel": "National-Archives-UAP-Bulk/photo/733667/733667-002-003-0049.jpg", "source_sha256": "0e1209a7639f8af76ca442fa1a300c8fb3ed4c8a526f9af137b74470d1015b18"}
+
+===== PAGE 1 =====
+{"alpha_words": 56, "chars": 409, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Febuary 26, 1987
+
+Federal Aviation Administration
+701 C Street
+
+Box 14
+
+Anchorage, Alaska 99513
+
+To Whom it May Concern:
+
+Could you please send me a copy of the form summarizing the JAL UFO
+sighting of November 17, 1986. Also, if you have a list of other
+available items from the agency I would appreciate having them en-
+closed too.
+
+ncerel
+
+TET I.
+Michael DeLorénZo
+344 Bayville Awe,
+
+Bayville, N.Y. 11709

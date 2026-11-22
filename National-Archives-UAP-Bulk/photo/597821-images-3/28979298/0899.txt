@@ -1,0 +1,21 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T03:28:58Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7003138, "source_ctime_ns": 1793381108098412045, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28979298/0899.jpg", "source_mtime_ns": 1785701013000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28979298/0899.jpg", "source_sha256": "672d5cf3891f80d2d0001313da4fc631f87f29d41dce00844fb5c4d857213c29"}
+
+===== PAGE 1 =====
+{"alpha_words": 19, "chars": 122, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+4
+
+‘ae im
+7 Eiet a Hack q os (9 an ae.
+
+Deng ; an ‘
+
+Ton ety Oude, oe (prey 09 8)
+
+—_—
+
+BOS; Peo ee. oe.
+
+P h
+/
+< ; iY
+¥

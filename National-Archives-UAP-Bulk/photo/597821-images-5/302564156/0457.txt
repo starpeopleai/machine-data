@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T02:46:44Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 789945, "source_ctime_ns": 1793392110391798841, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302564156/0457.jp2", "source_mtime_ns": 1785808057000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302564156/0457.jp2", "source_sha256": "38bb2e6ec128fff41595b9cdbfa33d29a3bcd19e92e070b05a1e63a85b0d5d92"}
+
+===== PAGE 1 =====
+{"alpha_words": 45, "chars": 355, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Gite hn tah. ing: tts
+
+UNCLASSIFIED |
+
+DEPARTMENT OF THE AIR FORCE
+STAFF PAESSAGE BRAHGH
+INCOMING MESSAGE
+
+PAGE 2 RUYMBDA1357 UNCLAS
+
+g NOS
+. ’
+
+a6 to
+Ue
+
+20 FIRST OBSERVED ANGLE 25 DEGREES AZIMUTH 280 DEGREES
+Se LAST OBSERVED ANGLE O DEGREES AZIMUTH 280 DEGREES
+
+6. 20 MIN DISAPPEARED AFTER 15 MIN AND THEN REAPPEARED
+
+AFHO snes 0-309C | UNCLASSIFIED A

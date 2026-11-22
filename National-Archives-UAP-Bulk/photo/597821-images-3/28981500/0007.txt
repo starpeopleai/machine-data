@@ -1,0 +1,50 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T04:28:20Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6820119, "source_ctime_ns": 1793381746666252754, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28981500/0007.jpg", "source_mtime_ns": 1785701115000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28981500/0007.jpg", "source_sha256": "1fb4116f24bea1fa34c817057762d37f0372aef1add8095bfb421a1302e65979"}
+
+===== PAGE 1 =====
+{"alpha_words": 121, "chars": 890, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+FINCLASS/FROM OIN 6832. SUBJ$ UFOB
+
+1. DESCRCPTION
+A. DISK SHAPED
+B. MUCH LARGER THAN ANY KNOWN AIRCRAFT
+C. BLUE WHITE
+De ONE
+E. N/A
+Fe VERY BRIGHT STEADY LIGHT
+G. NONE
+He NONE
+I. EXTREMELY BRIGHT AND FAST MOVING
+
+2. DESCRIPTION OF COURSE
+A. BRIGHTNESS OF OBJECT
+Be APPRDXINATELY 15,04 FEET SOUTH
+C. APPROZIMATELY 15,%00 FEET WEST |
+D. STATIONARY_IN SOUTH SUDDENLY MOVED AT VERY HIGH SPZED TO WEST
+
+---—Es~FADED- OUT--OF -$ IGHT - ne
+‘Fe 3 TO 4 SECONDS
+
+3. MANNER OF OBSERVATION
+A. GROUND VISUAL
+B. NONES
+C. N/AI
+
+4. TIME AND DATE OF SIGHTING
+A. [14/25392)
+
+Be NIGHT
+5. 4% DEG 39 MIN NORTH 78 DEG 53 “MIN WEST
+1/4 MILE SOUTH OF HIGHLANDS NEW JERSY
+6. IDENTIFYING INFONOF ALL OBSERVERS
+
+‘A qgfmmammaits S/SCT_USAF // S46TH RADAR SQUADRON (SAGE)
+
+a-ad- -
+WIRES MAINT&£INANCE // GOOD
+
+on NAME UNKNOWN) // 42 //op—nmni[ggpIIA Bcc,
+G
+
+TOUS ATUSD sons wt
+
+HLAWDS, NEW JERSY // HOUSEWIFE // GOOD

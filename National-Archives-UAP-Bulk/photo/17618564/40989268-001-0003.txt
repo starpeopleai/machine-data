@@ -1,0 +1,16 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T02:30:44Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 12524008, "source_ctime_ns": 1793355565122228384, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0003.jpg", "source_mtime_ns": 1785564480000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0003.jpg", "source_sha256": "8527e8ae696ffe4e227a995dcab2209d377b48b90ad1415dfa89334001b510bc"}
+
+===== PAGE 1 =====
+{"alpha_words": 97, "chars": 742, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Abstract
+
+Published herein are the papers presented at the second annual AFCRL Scien-
+tific Balloon Symposium covering the advances shown in balloon design, materials,
+instrumentation, meteorology, and scientific applications since the last symposium
+held in Boston on 25, 26 and 27 September 1963. Balloon technology presentations
+include stress studies, new balloon films, sensing elements, telemetry systems and
+a new balloon locating system. Applications and experience in working with tethered,
+meteorological and sounding balloons are discussed. In addition, information is
+presented on such existing programs as BAL-AST, and Surveyor and such proposed
+
+projects as the ''AFCRL Stratospheric Humidity Program" and ''The Mars Balloon".

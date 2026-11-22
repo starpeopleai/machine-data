@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T04:29:24Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6887715, "source_ctime_ns": 1793387184039351094, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28998330/0372.jpg", "source_mtime_ns": 1785748102000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28998330/0372.jpg", "source_sha256": "a537f58b05b812cf077e325611275da040a043b3e54b844434eb2b2365ccf7ee"}
+
+===== PAGE 1 =====
+{"alpha_words": 141, "chars": 929, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Residents See
+(Unidentified
+‘Object In Sky
+
+_ An unidentified object, de-
+scribed by viewers in Meriden}
+| as ‘ starlike, but moving in an
+erratic course,” was reported late
+_ last night by Donald Blakeslee,
+of 937 Broad Street,
+|; Blakeslee, 19, an astronomy
+' major at Wesleyan College, said
+he was called to the street by
+‘George Dodge, 18, of 37 Gravel
+|. Street; Richard Wright, 16; and
+_, Jan Aldrich, 17, all of that area.
+He said the object, white-col-
+ored, traveled from northwest tol
+‘northeast, when it was lost to ;
+view behind a clump of trees, He
+described it as ‘‘moving too
+stow to be a satellite, and main-
+taining a zig-zag course.’’ He said
+it gleamed brightly for minutes,
+then seemed to stop complete!y
+for a short while, and then
+shine again, !
+‘The strange, moving light, in|
+addition to the youths mentioned, |
+also was observed by John H.
+_ Blakeslee, Donald’s father, and by
+| Donald's brother Keith.

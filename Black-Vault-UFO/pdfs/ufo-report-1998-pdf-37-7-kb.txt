@@ -1,4 +1,4 @@
-{"created_utc": "2026-09-06T09:38:33Z", "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "embedded-text", "pages": 0, "schema": "ufo-files-archive-ocr/v1", "source_bytes": 103721, "source_ctime_ns": 1788303262305352680, "source_file": "Black-Vault-UFO/pdfs/ufo-report-1998-pdf-37-7-kb.pdf", "source_mtime_ns": 1785550735440000000, "source_rel": "Black-Vault-UFO/pdfs/ufo-report-1998-pdf-37-7-kb.pdf", "source_sha256": "2c7dabf626213595bdfaac7396b2056efcdf85edf3124c247ad5ccf0fdce5a99"}
+{"created_utc": "2026-11-22T02:44:07Z", "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "embedded-text", "pages": 0, "schema": "ufo-files-archive-ocr/v1", "source_bytes": 103721, "source_ctime_ns": 1793561811998792057, "source_file": "Black-Vault-UFO/pdfs/ufo-report-1998-pdf-37-7-kb.pdf", "source_mtime_ns": 1793561811993778769, "source_rel": "Black-Vault-UFO/pdfs/ufo-report-1998-pdf-37-7-kb.pdf", "source_sha256": "2c7dabf626213595bdfaac7396b2056efcdf85edf3124c247ad5ccf0fdce5a99"}
 
 UFO Report 1998
 

@@ -1,0 +1,20 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T03:58:54Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1001757, "source_ctime_ns": 1793391655973305214, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302560715/1286.jp2", "source_mtime_ns": 1785808617000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302560715/1286.jp2", "source_sha256": "0607ee121012f93ed502863305165ff77b7d361c6a2943e65a81bee534ffbd0c"}
+
+===== PAGE 1 =====
+{"alpha_words": 36, "chars": 270, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+A ‘.
+Alwind
+
+ODESSA, DELAWARE
+
+Unidentified: but based entirely on a NICAP
+
+9 FEBRUARY 1967
+
+report. On the basis
+
+of the information given, no identification seems possible. Too bad
+
+that a competent AF investigation was not made.
+
+(Original signed by J. Allen Hynek)

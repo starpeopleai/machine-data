@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T02:29:57Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 11516653, "source_ctime_ns": 1793365869537479132, "source_file": "National-Archives-UAP-Bulk/photo/542184/341-PBB-528-Roll1-0201.jpg", "source_mtime_ns": 1785565441000000000, "source_rel": "National-Archives-UAP-Bulk/photo/542184/341-PBB-528-Roll1-0201.jpg", "source_sha256": "e5b659e1a0d9fb86bfc4d6be6a1644eb80da4d15dee17f9c83f5bc46c6d5e683"}
+
+===== PAGE 1 =====
+{"alpha_words": 21, "chars": 147, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+\ f \ / \
+j i
+:
+' f
+F
+~
+*
+‘ F
+4 e.3
+j $
+FJ
+2
+. Pr rere re. Keds
+po
+.
+atic ical esa ies gc eee SPAS OEE CINIE UR rn errs
+poe
+——_
+
+A eingeatin
+
+ot
+°
