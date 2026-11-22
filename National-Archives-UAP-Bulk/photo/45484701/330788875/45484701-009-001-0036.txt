@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T10:51:08Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 18001713, "source_ctime_ns": 1793365408497597772, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330788875/45484701-009-001-0036.jpg", "source_mtime_ns": 1785685083000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330788875/45484701-009-001-0036.jpg", "source_sha256": "8eae7261a1b27837c570b57847cc7f2af1c1fb66f0b1222d193b7373aab0d1ff"}
+
+===== PAGE 1 =====
+{"alpha_words": 28, "chars": 237, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+i
+
+2 fy} | Or’ y f Q
+Ot ab ala? 1 Pte 2
+UnNTrone 6152.42 7 76 O™ % 3
+A g Ys) sae
+
+Asa omiat f) in |
+
+A lou ws YU 3 ae =
+
+T , ie } rT
+
+[7 7 ovsats) - ' VF om
+LUDDOCK, Llexas 3s
+
+} a
+
+i ™}, oa + ct
+
+Declassification Authority: NND 923007

@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T10:41:20Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8691369, "source_ctime_ns": 1793380829383690292, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28978557/0255.jpg", "source_mtime_ns": 1785700745000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28978557/0255.jpg", "source_sha256": "1ee09eb03483472919577f0ea8ee9c4e205c985dd0d1b5dcf3aa55c3bf85dc00"}
+
+===== PAGE 1 =====
+{"alpha_words": 90, "chars": 723, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+/
+t
+ae PROJECT 10073 RECORD CARD es |
+1. DATE 2. LOCATION ; 12. CONCLUSIONS :
+0 Wes Bolloon
+18 Jun 58 __. ak Ridge, Tennessee 5 Soe Baten |
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION ee
+. O Wes Aircraft
+Local D7Ground- Vi sual valbastiaianaaal Kx Probably Aircraft |
+out 29/0030Z D Air Visual D Air-Intercept Radar O Possibly Aircraft
+5. PHOTOS 6. SOURCE 0 Was Astronomical
+O Yes O Probably Astronomical
+{XNo Milit ary O Possibly Astronomical
+7. LENGTH OF OBSERVATION @. NUMBER OF OBJECTS | 9. COURSE O Other |
+5 com. Data for Evaluction| |
+2 minutes one SW seul
+10, BRIEF SUMMARY OF SIGHTING 11. COMMENTS
+
+Rnd obj, size of basketball, shining Possibly an a/c at high alt.
+silver, very high.
+
+ATIC FORM 329 (REV 26 SEP 52)

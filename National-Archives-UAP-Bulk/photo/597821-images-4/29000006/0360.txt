@@ -1,0 +1,13 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T11:24:04Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5375220, "source_ctime_ns": 1793388101612021958, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/29000006/0360.jpg", "source_mtime_ns": 1785748168000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/29000006/0360.jpg", "source_sha256": "7e79c7326e25e6ff61b0cd8a167a499de1ff86a3835ade1f93c1d0d2f02bdba6"}
+
+===== PAGE 1 =====
+{"alpha_words": 15, "chars": 105, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+AFTER 5S DAYS RETURN TO
+
+Wilton, Conn...
+
+\
+
+Air Force Command Post
+Pentagon Building
+Washington, Ds Cx

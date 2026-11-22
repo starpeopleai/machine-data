@@ -1,0 +1,118 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T11:10:12Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1528241, "source_ctime_ns": 1793356042635845166, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989300-001-0071.jpg", "source_mtime_ns": 1785564591000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989300-001-0071.jpg", "source_sha256": "b323b69b722a1d88859836d05fec49ad53461a1dfbe52acaa0b19bab7a7a7b1e"}
+
+===== PAGE 1 =====
+{"alpha_words": 231, "chars": 2289, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Index
+
+(All references are to flight numbers.
+
+The number of the flight on which a
+
+particular instrument or principle was first demonstrated ig underlined.
+For example, airborne radio direction finding was first used on Flight 41.)
+
+Adiabatic temperature changes, 60, 75,
+
+94
+
+Airborne radio cirection-finding, 41,
+103, 110
+
+Aircraft tracking, 5, 7, 11, 12, 13-
+20, 86, 103
+Air flow
+deformation of, over mountain
+range, ll
+geostrophic, compared with balloon
+trajectories, 55, 58, 106, 110
+
+Altitude sensitivity, 52, 82, 86, 110
+
+Appendices (external) on polyethylene
+balloons
+first use of, 13
+need for, demonstrated, 12
+stiffened with cardboard, 20, 39
+stiffened with metal, 75 —
+
+Arrays of rubber balloons
+cluster, 7
+linear, 5
+
+Atmospheric oscillations, 10, 52, 55,
+58, 63, 71
+
+Automatic ballast valve
+
+effect of superheat on, 10, 74, 80,
+92
+
+first activated by minimum-pressure
+switch, 12
+
+first use of, 5
+
+sunset effect on, 80, 90, 92
+
+typical flight with, 92
+
+Ballast meter
+need for, demonstrated, 29-39
+use of, 74, 78, 80, 86, 89, 90, 92
+94, 96, 102
+
+Ballast requirements
+with .001", 7'-diameter poly-
+ethylene balloons, 74
+with .001", 20'=diamater poly-
+ethylene balloons, 54, 66, 60,
+80, 92, 106
+
+Ballast requirements (cont'd. )
+With .008", 15'-diameter polyethylene
+ballom, 11
+with Seyfang balloon, 94
+
+Balloons
+flights using other than polyethylene
+neoprene-coated nylon (Seyfang),
+59, 63, 79, 94
+rubber, 5, 7
+shrouded rubber (Dewey and Almy),
+23, 38, 66, 87
+flights using polyethylene
+e001", 7'-diameter, 74
+e001", 20' diameter, 12
+-001", 70'-diameter, 75
+0001", 30'=-diameter, 102
+-004",20'-diameter, 17
+-008",15'-diameter, IO
+
+Barograph
+longest record of, 75
+need for, demonstrated, 17, 29, 30, 32
+use of (Fergusson), 33, 35, 39
+use of new model (Lange), 52
+
+Buoyancy
+changes in, due to sunset, 75, 90
+natural
+Seyfang balloons in the troposphere, 79
+T*ediameter polyethylene balloons
+in the troposphere, 86
+20'ediameter polyethylene balloons
+in the stratosphere, 60, 96
+20'=-diameter polyethylene balloons
+in the troposphere, 70, 71, 88,
+93, 98
+70'-diameter polyethylene balloons
+in the stratosphere, 75
+
+Combination control (rate of ascent ballast
+switch with displacement switch)
+first use of, 102
+typical flight with, 106
+
+Controls
+first use of
+automatic ballast valve, 5

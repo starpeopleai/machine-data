@@ -1,0 +1,61 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T11:28:29Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6317801, "source_ctime_ns": 1793361753764484431, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330781368/45484701-001-003-0021.jpg", "source_mtime_ns": 1785685135000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330781368/45484701-001-003-0021.jpg", "source_sha256": "42954fa8ceee2b17ec42a8f6ee3ffccb02240b0438720d1107a7fdac08e6b77d"}
+
+===== PAGE 1 =====
+{"alpha_words": 483, "chars": 2923, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+€ _ Page 9
+
+burner. 1 checked with Dr. Regener on that and asked him if an alloy had
+been used, like, say, copper beryllium, if there would be any change-in that
+hue, and he has assured me there would not. He said it would still give
+approximate appearance of beryllium copper.....-You will find in probably
+1350 of the 1500 only the merest trace of copper occurrence. There are a
+few meteorites likee...e..in South Dakota, where little veins of copper have
+been found, making up possibly .4 of 1%.
+
+Dr. Bradbury: Is this true of all meteorites?
+
+Dr. LaPaz: It's true in any category. Even in the irons, the presence of copper
+is very hard to detect, very little...(ditch digger). I don't know whether you
+gentlemen could suggest an easy way to obtain green fireball spectra or not.
+
+Dr. Teller: What is the geographical solution of this?
+Dr. LaPaz: Another man would probably answer that best of all.
+(Looked at more maps with some talk that was not audible.)
+
+Mr. Hoyt confirmed the green hue of the green fireball he had seen on the night of
+December 30, 1948. (Record dead for minute or two)
+
+Mr. Hoyt: I would have said approximately as far above the mountain as the floor of
+the valley was below the top of the mountain. I felt that would give me somewhere in
+the neighborhood of 20,000 feet or thereabouts. It was about 5 minutes to 6 on my
+
+up here. I have a feeling that it had a downward path. I mean it was going South.
+
+LaPaz: But it was not strictly horizontal?
+Hoyt: No.
+
+Dr. LaPaz:. We have some discrepancies in that regard. 95% of the observations
+indicate a very nearly horizontal path. One from Fort Worth, Texas, which was not
+made by..e..but measured by them, indicates an elevation of 6 degrees at the beginning
+and 25 to 3 degrees at the end.
+
+Mr. Hoyt: That's what I would have said, but remember that the ridge would give you
+the sensation that iwas taking a downward path. Duration - at the time I would say
+it was approximately 3 seconds. :
+
+Comdr. Mandelkorn: How does the calculated velocity of these objects compare with
+the known velocity of meteorites?
+
+Dr. LePaz: Apparently very much lower; that is, more than the ordinarily observed
+meteorite falls. First, to observe in the cast of an actual meteorite fall you
+
+have a relation of the velocity from the auricle of..,atmosphere down to the impact
+velocity which may be very...but it isn't fair to compare the velocity of the green
+fireballs to the impact velocity of..(ditch digger and everyone talking at ONCE) eee
+Not with the trajectory velocity of the meteorite which is the same as the velocity
+of the fragments that fall from the meteorite. After a meteorite..the fragments fall
+about like a bomb, Their resistance just about balances out the....and as a result,
+they come down with about the velocity of a falling bomb, a little less because they
+do not have the same ballistic coefficient.
+
+Declassification Authority: NND 923007

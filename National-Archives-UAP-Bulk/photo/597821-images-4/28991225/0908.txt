@@ -1,0 +1,76 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T10:34:34Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6981435, "source_ctime_ns": 1793384860284056260, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28991225/0908.jpg", "source_mtime_ns": 1785748058000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28991225/0908.jpg", "source_sha256": "89077b011805af0f30f09761ae88aa1b7a1eb72554a9256769e8c6408b7f51fe"}
+
+===== PAGE 1 =====
+{"alpha_words": 113, "chars": 809, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Se -cae
+
+NNNN
+| RB@56
+
+| 2CSQA2@1 ZC JYC762
+
+| PP RJEDSQ
+
+DE RJEZHQ 811
+
+P 2591582
+
+FM HQUSAF WASHDC
+
+INFO ATIC WPAFB OHIO
+
+ZNR
+
+Y 2522872
+
+FM COMEASTAREA
+
+| TO RJWFALB/CINCNORAD
+
+| RJEZHQ/COFS USAF
+
+| RBEKHC/COMAS DEFORLANT
+
+| RBEGUH/ COMEASTSEAFRON
+-RJESKB/32ND NORAD DIV
+-INFO RBEPJD/COMDT COGARD
+“RBEKDW/CCGD FIVE
+
+2T
+
+, ,
+\ ra
+
+rec iny t PERROTT OPA MI TP ?
+
+TELEPHONED >:
+
+-CEIVED uD te, JS
+
+J JAW 6} do 4 W579 Date DB oa
+1961 JAN 25 02 48 ;
+ATIC’ :
+
+3 |
+
+_UNCLAS X MERINT X MSG SS ANDALIEN/CBAR 24 2555GMT CK13
+
+CCAST GUARD NEW YORK
+
+WE HAVE OBSERVED FOR FIVE MINUTES A STRANGE BRILLIANT OBJECT
+
+LIKE A MOON WITH BIG BLUE/WHITE LUMINISCENCE RUNNING SPEEDY
+
+IN THE SKY PTO 265 TO 233 DEGREES 28 DEGREES OVER HORIZON AT
+
+Pre
+
+GMT IN LAT 29-14N LONG
+
+"MASTER
+
+|25/ 91512 JAN RJEZHQ
+
+49.57V
+
+eng eee neo:

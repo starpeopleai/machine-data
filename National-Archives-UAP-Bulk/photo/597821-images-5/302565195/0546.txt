@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T11:02:32Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 794983, "source_ctime_ns": 1793392183789031550, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302565195/0546.jp2", "source_mtime_ns": 1785808154000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302565195/0546.jp2", "source_sha256": "5a144f5832dafac94cf6ce5e9733f0aba63614cca1ebc06f04fcff0c924b9d27"}
+
+===== PAGE 1 =====
+{"alpha_words": 66, "chars": 593, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+UNCLASSIFIED
+
+DEPARTIAENT OF THE AIR FORCE
+STAFF PAESSAGE BRANCH
+INCOMING PAESSAGE
+
+IN : 61986 ; Feo OL 4
+
+Fe €1) 2.7 JOHN S. MASTERSON, 22 YEARS OLD, HOUMA AFS, LA.,
+657 RADAR SQ, DUTY PHONE: 325.
+Ge (1) PARTIAL CLOUDY, WIDN CALM, TEMPERATURE LOW 76°S.
+
+PAGE 3 RUCLERA2429 UNGLAS
+
+(2) SURFACE TEMP PLUS25
+6, 990 - 210/09 PLUS 2
+
+16,008 - 250/20 ~9
+20,323 - 246/28 = 44
+39,983 - 348/ 10 -33
+50,209 ~ 228/25 = UNK
+
+(3) 3,238 SCATTERED
+
+(D WA
+He LT MASTERSON STATED POSSIBILITY OF WEATHER BALOONS BUT COULD
+NOT CONFIRM ANYTHING AT TIMc OF SIGHTING.
+
+le UNKNOWN
+
+AFHQ ines O-309C I UNCLASSIFIED

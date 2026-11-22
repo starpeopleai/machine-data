@@ -1,0 +1,61 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T11:16:45Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4061688, "source_ctime_ns": 1793377925397183656, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28966015/0713.jpg", "source_mtime_ns": 1785696680000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28966015/0713.jpg", "source_sha256": "8bb20e436b6e80432f64645c289a2ef2bad08249db1d4407da563d3da030db69"}
+
+===== PAGE 1 =====
+{"alpha_words": 98, "chars": 782, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+— Cait n—¢s PO cab ballad esp I
+PROJECT 10073 RECORD CARD
+1. DATE 2, LOCATION 12, CONCLUSIONS
+QO Was Balloon
+June 1956 Crescent, lowa O Probably Bolloon
+O Possibly Balloon
+
+- DATE-TIME GROUP
+
+w
+
+Local
+
+4. TYPE OF OBSERVATION
+XXGroun d- Vi sual
+
+0 Ground-Radar
+
+GMT 28/1622Z D Air Vi sual O Air-Intercept Radar
+5. PHOTOS 6. SOURCE
+0 Yes
+XR No Civilian
+
+7. LENGTH OF OBSERVATION
+
+one minute
+
+8. NUMBER OF OBJECTS
+
+one
+
+9. COURSE
+
+East
+
+OxxWes Aireroft .
+QO Probobly Aircraft
+O Possibly Aircrafe
+
+O Was Astronomical
+QO Probobly Astronomical
+DB Possibly Astronomicol
+
+oOo, Orher
+O Insufficient Date for Evaluation
+O Unknown
+
+10. BRIEF SUMMARY OF SIGHTING
+
+One object round, size of baseball.
+Color silver. Fly east.
+
+11. COMMENTS
+
+Probable a/c sighting.
+
+ATIC FORM 329 (REV 26 SEP 52)

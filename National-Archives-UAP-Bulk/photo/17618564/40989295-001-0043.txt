@@ -1,0 +1,34 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T11:09:51Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1459368, "source_ctime_ns": 1793355970064801566, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989295-001-0043.jpg", "source_mtime_ns": 1785564572000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989295-001-0043.jpg", "source_sha256": "874f3bdcce086ea002b424be543b40a709924b60e730c814d063ebe02aaa0b83"}
+
+===== PAGE 1 =====
+{"alpha_words": 286, "chars": 1767, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+30
+
+specifications were that launching acceleration should not exceed five gy
+nor sled velocity exceed 300 miles an hour (lO feet per second). Just
+after burnout of the sled boosters, the missile would pull away,and it would
+draw well clear of the sled before the latter entered the deceleration phase
+(which was to be accomplished at an average rate of not more than three g
+
+if the launching aborted and the missile stayed on the sled). The project
+never did convert to liquid-fuel sled propulsion, In fact a new sled was
+obtained in the summer of 1951 that was specially designed for use with
+solid-fuel rocket pocsienee”
+
+The last Snark launch on the Holloman track took place, successfully,
+on 28 March 1952.0 This made a grand total of thirty-three track runs
+conducted by the project, which was now ready to leave Holloman for the
+next phase of testing at the Air Force Missile Test Center, Florida. The
+move of the Northrop test organization from New Mexico to Florida was spread
+out over many weeks and entailed large-scale mobilization of airlift and
+other forms of ranaperteticnc’> But the track itself was no longer needed
+for Snark flights, which would be launched henceforth by zero-length
+equipment. Nor could the track have been moved to Florida even if desired.
+It stayed at Holloman, and as a Northrop offer to continue managing it on
+a contract basis for the use of other projects was not movensaaia it came
+for the first time under direct Air Force operation. Furthermore, although
+some missiles and even drone aircraft have been launched from vehicles on
+the track after the departure of Snark, the Holloman track now became
+essentially what it is today: a captive test facility for missiles, com-
+
+ponents, and occasional biological specimens.

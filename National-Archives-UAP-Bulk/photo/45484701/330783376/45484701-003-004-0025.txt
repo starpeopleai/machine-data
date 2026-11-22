@@ -1,0 +1,47 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T10:37:30Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7725661, "source_ctime_ns": 1793362615373612863, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330783376/45484701-003-004-0025.jpg", "source_mtime_ns": 1785684999000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330783376/45484701-003-004-0025.jpg", "source_sha256": "18362115168bff18ef1132515be58f14743201a8117cee9e96f5018b47504e6f"}
+
+===== PAGE 1 =====
+{"alpha_words": 126, "chars": 947, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+HEADQUARPERS
+
+3-@ DISTRICT OSI (1G) USAF
+P.O. BOX 709
+
+HARRISBURG, PENNSYLVANIA
+
+300 24-175
+
+SUBJECT: Unidentified Flying Objects - Reporting of
+JOHN I, WITMER, Rural Delivery Route *]
+Columbia, Pennsylvania
+SPECIAL INQUIRY
+
+Commander
+
+2855th Air Base Wing
+
+ATIN: BB
+
+Olmsted Air Force Base, Pa,
+
+1, Attached for your information is a copy of a letter dated 13
+February 1957, written by JOHN I, WITMER, Rural Delivery Route *1,
+Columbia, Pennsylvania, concerning Unidentified Flying Objects,
+
+2, With the submission of this letter, no further action is
+contemplated by this District Office, and this matter is considered
+CLOSED in the files of this District Office,
+
+1 Incl; DAVID E, BALES
+Cy, Ltr, dtd 13 Feb 57, written Lt Colonel, USAF
+by JOHN I. WITMER, RD meee a, District Commander
+P OR
+
+€: Dir OSI (w/o Tel) (arcs poo. Shi 2 ‘24-185-463) - < ce ae aNNE
+
+Re wey p@BNERAN
+5" ea THE eS oe
+
+FAR is 44 ei
+
+Declassification Authority: NND 923007

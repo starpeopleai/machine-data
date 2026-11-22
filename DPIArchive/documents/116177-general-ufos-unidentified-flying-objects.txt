@@ -1,4 +1,4 @@
-{"created_utc": "2026-10-02T11:16:33Z", "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "embedded-text", "pages": 0, "schema": "ufo-files-archive-ocr/v1", "source_bytes": 25296775, "source_ctime_ns": 1788303985377662005, "source_file": "DPIArchive/documents/116177-general-ufos-unidentified-flying-objects.pdf", "source_mtime_ns": 1785540520040000000, "source_rel": "DPIArchive/documents/116177-general-ufos-unidentified-flying-objects.pdf", "source_sha256": "41846028a79c62f06b918a337bb130edcce7b17db04f69b008de25d8271a7dc4"}
+{"created_utc": "2026-11-22T11:01:30Z", "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "embedded-text", "pages": 0, "schema": "ufo-files-archive-ocr/v1", "source_bytes": 25296775, "source_ctime_ns": 1793475685497881470, "source_file": "DPIArchive/documents/116177-general-ufos-unidentified-flying-objects.pdf", "source_mtime_ns": 1793475685128946249, "source_rel": "DPIArchive/documents/116177-general-ufos-unidentified-flying-objects.pdf", "source_sha256": "41846028a79c62f06b918a337bb130edcce7b17db04f69b008de25d8271a7dc4"}
 
 ~-   '\.
 ' r-      -~

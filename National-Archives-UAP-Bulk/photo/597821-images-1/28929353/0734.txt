@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T10:30:52Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5805043, "source_ctime_ns": 1793368737408834223, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28929353/0734.jpg", "source_mtime_ns": 1785688692000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28929353/0734.jpg", "source_sha256": "cfc6dfee95beba1fceebb6b1576c292a7b9844156aa74a1083ce248571e36c71"}
+
+===== PAGE 1 =====
+{"alpha_words": 259, "chars": 1563, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+MCIAXS wth i: 6 Jan ig a.
+wl. In reply ement No. 2, it ii the opinion of this “office that
+
+the .nclosed negatives reveal the following information: When the aagative, containing
+the sphere, is examined by strong incident light, it is noted that the emulsion is raised
+at that voint above the normal level of the remaining emulsion. This injicates that
+either a droo of warm water or a drop of developer struck the film at this point and
+rolled fown this negative ana the succeeding negative,
+
+~~ fur ther substantiate this, it will be note? that when the two (2) negatives
+are placed side by side with the edges of the film aligned, the so calle? "trail" is
+continuous, that is the hee sections match, indicating the Jrop rolled on from one nes
+ative to the next.
+
+3, Still further proof is shown on the fogged edge of the negative containing only
+the trail. This is proven by the fact that the trail exten’s beyon’? the normal forrat
+of the negative. In other words there is a trail of that section of the negative which
+was not exvose? in the camera, This effect shows up in one negative and not the other
+because the negative in question is fogged, therefore, this irregularity was develoved,
+
+4, Still further proof of these Jefects lies in the number of unevenly Jeveloped
+sections of the negative,
+
+5. Conclusion: These negatives contain no information pertinent to Project "Sign? ..
+
+‘Inet LEWIS C. GUST | LCG/ec
+n/e Chief, Science Survey Office 2-6 149
+ee ce be ee es en ws, _ _ _ Intelligence Tepartrent i ieee ee”
+:
+"
+
+FE NGA) HT oo, Py
+
+UNCLASSIFIED

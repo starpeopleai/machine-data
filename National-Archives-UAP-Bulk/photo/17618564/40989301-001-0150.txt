@@ -1,0 +1,61 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T11:10:16Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1609218, "source_ctime_ns": 1793356075033161431, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989301-001-0150.jpg", "source_mtime_ns": 1785564599000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989301-001-0150.jpg", "source_sha256": "ff34fb972aaf5f246e51aaf74387b672634035854291ffae052763361477c5d7"}
+
+===== PAGE 1 =====
+{"alpha_words": 352, "chars": 2150, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROFESSOR MOORE - 6/8/94 51
+
+A: The ones in early June were all service flights. In
+other words, all flights we were making for Peoples, and we had
+some radar test flights.
+
+Q: So to go with the June 14th date, what type of flight
+do you think would have...
+
+A: All the balloons launched in that period would have
+been meteorological balloons, 350 gram meteorological balloons,
+some of them with radar targets just to test the radar out and
+some of them, I'd forgotten all about it, but Crary's diary says
+we had sonobuoy microphones on some of them. So that black box
+that Cavitt had really began to get my attention.
+
+Q: That would not be a radiosonde.
+
+A: That would not be a radiosonde.
+
+Q: What would a radiosonde look like?
+
+A: It would be a white, usually a cardboard or a plastic
+
+box, and the fact that we were involved in radar is because we
+weren't allowed to have our radiosonde equipment. We weren't all
+set up for that.
+
+Q: You said you didn't bring it with you.
+
+A: We didn't bring the receiver. I have to correct
+myself, we did attach radiosondes to them, to the flights
+Carrying microphones because there's a statement in this summary
+here of radiosonde reception. Radiosonde recording. So I take
+that back. Yes, we had radiosonde. But we did fly this one
+mentioned here, on June 4th, out to Tulerosa range, no balloon
+flight, again, on account of clouds. By that he means none of
+their flights. Then "Flew regular sonobuoy mike on a cluster of
+balloons and had good (inaudible) receiver on ground but poor on
+plane."
+
+Q: I notice early on you were going ahead with the Navy
+stocked sonobuoy while Professor Ewing was trying to perfect his
+technique of the low range frequency microphone.
+
+A: Oh, the low frequency microphone, right. That's
+correct.
+
+QO: He was experimenting with both AM and FM, is that your
+recollection?
+
+A: In the laboratory, devices for measuring low frequency
+
+acoustic waves were well known, but what he was attempting to do
+was to modify these and devise something to be a throw-away
+microphone and radio transmitter, so this was to build an
+instrument for a certain purpose. He actually had a fellow named

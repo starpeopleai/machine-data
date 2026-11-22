@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T10:35:45Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7235748, "source_ctime_ns": 1793384997122980857, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28991573/1202.jpg", "source_mtime_ns": 1785748578000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28991573/1202.jpg", "source_sha256": "78297628e7ee8a15e1fd5c31ce184ed40156e57bebe7545d368e460113c2ff8b"}
+
+===== PAGE 1 =====
+{"alpha_words": 128, "chars": 1019, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+1. DATE 2. LOCATION 12, CONCLUSIONS
+BK Wes Balloon
+27 Feb 61 San Bernardéno, California 1 “Probably Balloon
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION on
+Local 1130 X Ground- Vi sual 0 Ground-Radar o Dpleday trends
+GMT. 2719302 O Air Visual O Air-Intercept Radar 0 Possibly Aircraft
+5. ‘PHOTOS 6. SOURCE © Wes Astronomicel
+O Yes O Probably Astronomical
+BD No | Civilian 0 Possibly Astronomical
+7. LENGTM OF OBSERVATION 8. NUMBER OF OBJECTS | 9. COURSE O Other
+: 0 Insufficient Dete for Evaluction
+0 Unknown
+20 min 1 |
+10. BRIEF SUMMARY OF SIGHTING Round, White objt, NN. COMMENTSBoth observer and reporting |
+
+Size of pinhead. Appeared and disappeared at | officer state they believe objt was a
+60° angle above northern horizon. Movements ofmeteorological balloon. There were at
+small magnitude in essentially one postion. | least 3 balloons launched during morning |
+hours prior to sighting. One of these
+balloons was possibly in position re-
+ported for objt.
+
+ATIC FORM 329 (REV 26 SEP 52)

@@ -1,0 +1,43 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T10:36:55Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7532681, "source_ctime_ns": 1793363159397140225, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330784594/45484701-004-005-0134.jpg", "source_mtime_ns": 1785684745000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330784594/45484701-004-005-0134.jpg", "source_sha256": "1c74c0f8868d4de563d0b6aa4cd9a862e9bb1f830ed552868a7f3ae5a0531494"}
+
+===== PAGE 1 =====
+{"alpha_words": 124, "chars": 980, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+©
+
+XXxXX
+5D-24-178 23 October 1952
+
+SUBJECT SJ Unidentified Aerial
+Phenomenon Sighted
+J Pittsburg, Kansas
+25 August 1952
+SPECIAL INQUIRY
+| Histon Can, USAF i @ DEC 197:
+Commanding General ba as Mee re i :
+Air Technical Intelligence Center | TR Baye
+Wright-Patterson Air Force Base
+Ohio
+ATTN: ATT AA#45
+
+1. Reference is made to letter, this office, dated 22 October 1952,
+subject and file as above.
+
+2. Transmitted herewith are copies of Report of Investigation, of
+Special Agent 0. BE, SWINEHART, this District Office, dated 23 October
+1952, subject and file as above.
+
+3. Investigation is considered closed in the files of this District
+Office.
+
+4e Attention is invited to Paragraph 7, AFP 205-1, dated 14 March
+1949, which prohibits the disclosure of classified information to un~
+authorized personnel,
+
+1 Incl (in dup) D. G. NORTH
+R/I, DO #5, dtd 23 Oct 52 I& Colonel, USAF
+District Commander
+
+CURITY INFORMATION
+CONMIDENTA UNCLASSIF ag
+
+Declassification Authority: NND 923007

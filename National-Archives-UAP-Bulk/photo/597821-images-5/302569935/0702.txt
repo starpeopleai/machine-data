@@ -1,0 +1,74 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T11:09:32Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1415343, "source_ctime_ns": 1793392708952520658, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302569935/0702.jp2", "source_mtime_ns": 1785808354000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302569935/0702.jp2", "source_sha256": "61c8802d1fcd9f76705206b3d730e787217a8ea25034b7460173450633dbb5a3"}
+
+===== PAGE 1 =====
+{"alpha_words": 208, "chars": 1434, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+6. 'F you sew the object at NIGHT, what did you notice concerning the STARS and MOON?
+
+3.1 STARS (Circle One): 8.2 MOON (Circle One):
+
+2. None a. Bright moonlight
+
+b. A few b. Dull moonlight
+
+c. Many c. No moonlight—pitch dark
+ad. Don’t remember d. Don’t remember
+
+9.
+
+-
+
+*,
+
+Wheat were the weather conditions at the time you saw the object?
+CLOUDS Circle One): WEATHER (Circle One):
+<_s: Cleor say 5 i a. Ory :
+b, Harty b. Fog, mist, or light rain
+c. Scattered clouds c. Moderate or heavy rain
+d. Thick or heavy clouds d. Snow
+
+e. Don’t remember
+
+7
+
+tv.
+
+a
+
+The object appeared: (Circle One):
+
+“Ss
+a. Satid 3 d. Asa light
+~~~" Trensperent e. Don’tremember
+c. Vapor
+
+. If it appeered asa light, was it brighter than the brightest stars? (Circle One):
+
+a. brighter c. About the same
+b. Dimmer d. Don’t know
+
+11.1 Compere brightness to some common object:
+
+12.
+
+The edges of the ociect were:
+(Cieele Cres a. Fuzzy or blurred e. Other
+b. Li i r
+
+~~,
+~ ¢. Sharply outlined >
+
+=. Don't rememoer
+
+13.
+
+Did the cbdiec:: __ (Circle One for each question)
+a. Appeer to stand still at any time? (Yes. No Don't know
+b. Sudden speed up and rush away at any time? ( és | No Don’t know
+¢. Breck uo into sarts or explode? yes’ Wd Don’t know
+d. Give off smoke? Yes () Don’t know
+e. Change drigntness? < Yex No Don’t know
+f, Change snape? Vers No Don't know
+g- Flash or flicker? Yes’ P Don’t know
+h. Disappear end reappear? Yes’ No Don’t know
+
+——— s

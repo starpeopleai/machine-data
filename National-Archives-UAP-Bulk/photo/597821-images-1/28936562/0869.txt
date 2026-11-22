@@ -1,0 +1,50 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T11:16:29Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3985115, "source_ctime_ns": 1793371085215898759, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28936562/0869.jpg", "source_mtime_ns": 1785688763000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28936562/0869.jpg", "source_sha256": "43ef4c35b262cd19dd5b0fef737cf890236b0ce30305ef7e40c710c872f7f297"}
+
+===== PAGE 1 =====
+{"alpha_words": 126, "chars": 920, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+IN REPLY REFER TO:
+
+DEPARTMENT OF THE AIR FORCE
+
+HEADQUARTERS UNITED STATES AIR FORCE
+WASHINGTON 5D-O0SI/JEM/vz
+
+THE INSPECTOR GENERAL, USAF
+STH DISTRICT OFFICE OF SPECIAL INVESTIGATIONS
+WRIGHT-PATTERSON AIR FORCE BASE, DAYTON, OHIO
+
+ED
+5D 2h-21cc TINCCASSIF 21 September 1949
+
+SUBJECT: PROJECT GRUDGE
+SPECIAL INQUIRY
+
+TOs Commanding General
+Air Materiel Command
+Wright-Patterson Air Force Base
+Dayton, Chio
+Attn: MCIAXS
+
+1. Reference is made to request for investigation, your
+office, dated 25 August 1%9.
+
+2. Inclosed for your information is a report of investigation
+of Special Agent CHARLES J. HORZEN, of this office, dated 21
+September 199.
+
+3. Due to the logical explanation of the unidentified flying
+objects, no further investigative action is being taken, and the
+files of this office are being closed in instant investigation.
+
+1 Incl
+R/I dtd 21 Sep 19 (dup)
+
+cc-Hq OSI
+
+A
+aS UNCLASSIFIED
+\
+
+a)
+
+QONEIDENTIAM

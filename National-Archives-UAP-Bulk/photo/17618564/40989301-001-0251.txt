@@ -1,0 +1,62 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T11:07:30Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1231352, "source_ctime_ns": 1793356084556009326, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989301-001-0251.jpg", "source_mtime_ns": 1785564602000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989301-001-0251.jpg", "source_sha256": "3e99f1040b35cdfed04c0eede81e1dc8545aac29d69476f863ffa7eb437ecab2"}
+
+===== PAGE 1 =====
+{"alpha_words": 289, "chars": 1818, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+(f)
+
+Immediately before the balloon release, when
+the clock is wound and the pens lowered against
+the drum, the pressure and temperature pens
+should pe tapped lightly so as to make short
+marks and the time noted.
+
+When the barograph is recovered the smoked foil
+should be treated to preserve the record. A
+solution of clear shellac diluted with about ten
+times its volume of alcohol may be used. ‘The
+drum is immersed in the shellac and allowed to
+dry thoroughly before further handling.
+
+Evaluation of the record. In evaluating, the re-
+
+cord heights of significant points are measured
+vertically from the reference line. The pres-
+
+sure calibration steps are measured first and plotted
+on graph paper, vertical distance versus pressure
+
+or altitude. Each significant point on the
+
+flight trace is then measured and the corresponding
+altitude determined from the calibration curve.
+
+The same procedure is followed in evaluating the
+temperature record, measuring from the reference
+line.
+
+The curvature of the record due to the motion
+
+of the pens must be corrected for. Since the tem-
+perature record covers a short vertical range, the
+time correction may be neglected. Corrections
+
+for curvature of the pressure record may be read
+directly from Figure 37, which gives the correction
+in inches as a function of the distance of the
+point in question from the center of the record.
+
+The final time correction is made to correlate
+
+the temperature and pressure records. This may
+
+be done by measuring the horizontal distance be-
+tween the temperature and pressure marks as made
+before release and correcting this amount for
+vertical position. The rotation of the drum
+
+is once in 12 hours and, therefore, the time-distance
+relation may be computed by noting the total
+
+length of record obtained in one revolution.
+
+-69-

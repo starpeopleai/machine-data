@@ -1,0 +1,47 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T11:26:09Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5808983, "source_ctime_ns": 1793355099320350224, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989262-001-0016.jpg", "source_mtime_ns": 1785564393000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989262-001-0016.jpg", "source_sha256": "a8eef371226c0cb7cd314b721dec26b01f57fb050a5293d4d1ac9102890815f1"}
+
+===== PAGE 1 =====
+{"alpha_words": 296, "chars": 2025, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+given slice can be decelerated to 200 fpm (60 mps). Rates below that are
+marginal because thermodynamic excursions can actually cause a slight
+
+drop and the ensuing intake of air, requires more ballast to resume ascent.
+But this capability can be very useful in modifying the trajectory to one's
+needs. Consider this wind profile, for instance.
+
+10-20K 260-15 knots
+20-30K 260-25
+4OK 280-45
+50K 295-60
+60K 290-30
+70-100K 270-25
+If a natural ascent rate were steering the balloon too far to the north,
+the trajectory could be corrected by decelerating the system in the 40 to 60K
+region. This may be generally planned prior to the launch, and the "e fowsn
+by ear'' during the mission. Deceleration is commenced at 40K, and varied
+accordingly watching the actual (hopefully, real time) ground plot. If the
+actual winds at 50K are even steeper than forecast, one might want to hold
+it there longer, and forget about the 60K prop. You concentrate on the
+slice that steers real time for target center, and then ballast rigerously
+above that. Since the forecasting art is probably only sufficient to attain
+the general target area, very precision targeting depends upon this command
+capability, combined with a reliable, accurate real time capability, such as
+missile range radar.
+It was previously mentioned that light float winds should not be relied
+on as a driving mechanism for attaining the target. Below is an example
+of a wind profile which can be utilized to solve this problem.
+10-20K 230-10 Knots
+20-30K 250-15
+30K 260-20
+4OK 270-45
+50K 270-70
+60K 270-20
+
+70-100K 270-05-10
+
+If the target area were 50 n.m. (90Km) due east, it may never be attained
+with a standard ascent profile, float winds being light and variable for
+practical purposes. But decelerating to 250 fpm in the 40 to 50K region
+will easily make up the distance. The extra time spent here should be ac-
+counted for in adjusting the launch time. Sufficient on-board ballast must
+also be available to resume a nominal ascent rate after the driving period.

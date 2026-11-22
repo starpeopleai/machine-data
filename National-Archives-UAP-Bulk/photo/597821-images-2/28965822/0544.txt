@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T11:21:36Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4981168, "source_ctime_ns": 1793377882308012204, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28965822/0544.jpg", "source_mtime_ns": 1785696948000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28965822/0544.jpg", "source_sha256": "781f944046ee145cc74b61dd07cca284d8fb46f385f34bbdf9128c9379c2b40b"}
+
+===== PAGE 1 =====
+{"alpha_words": 89, "chars": 760, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PNP
+
+PROJECT 10073 RECORD CARD
+
+5 minutes
+
+one unknown
+
+1. DATE 2. LOCATION 12. CONCLUSIONS
+i . ‘ % . 4;Q Was Balloon
+7 June 1956 Oimstead AFB, Pennsylvaniai|y Probably Balloon
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION 2 Pe Rnny Eeahbege
+Local 2)MGround- Vi sual 0 Ground- Radar 4 Probably Alverait
+GMT 08/0320Z O Air-Vi sual D Air-Intercept Radar O Possibly Aircraft
+5. PHOTOS 6. SOURCE O Was Astronomical
+0 Yes D Probobly Astronomical
+XEF Ne Unknown O Possibly Astronomicol
+7. LENGTH OF OBSERVATION 8. NUMBER OF OBJECTS | 9. COURSE D , Other
+Os An sufficient Data for Evaluation
+QO Unknown
+
+10. BRIEF SUMMARY OF SIGHTING
+
+wv
+
+hovering overhead,
+
+object circular ~ flame colored,
+
+11, COMMENTS
+
+Insufficient data for analysis,
+
+ATIC FORM 329 (REV 26 SEP 52)

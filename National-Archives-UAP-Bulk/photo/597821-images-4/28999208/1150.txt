@@ -1,0 +1,58 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T10:43:56Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9874996, "source_ctime_ns": 1793387804924258335, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28999208/1150.jpg", "source_mtime_ns": 1785748398000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28999208/1150.jpg", "source_sha256": "934bf2d0306357c9bf1c064743b32c34037880a2ec3b6a431e44ee60430ee28d"}
+
+===== PAGE 1 =====
+{"alpha_words": 123, "chars": 833, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+]
+
+AP IN: 11631 (22 Sep 62) S/e,d
+ACTION: CIN-17 STAFF MESSAGE BRANCH
+
+WACLASSIEAED MESSAGE
+
+eS Pe 1 of 4
+MENT OF THE AIR FORCE
+
+vig
+
+rae : ae ae
+INFO : OOP-2, OOP-CP-1,/SARGISL Drafig, NOMA-CLIC-3 (37) CX D
+
+x
+ees Soman Cae eee
+j oat ‘4
+Ab
+Ww ‘
+NUNN KSMB ALG4 Me
+4 )4
+‘ a,
+ZCHOD299ZCYI3572 \ ie
+ay iV
+PP RUEAHQ
+
+DE RUCDDU 27
+
+Wy be St
+Z N R : 4 \ 7 wn
+. ‘a, wt “
+) ROP ag:
+i ae 1 1 d ne) a] a ye stil Ge, .
+FM DUADS DULUTH MUNI APRT [INN (tok)
+TO RUYGAL/ADC ENT AFB COLO Ad
+
+“4 ART OS m etn ute
+RPUCDAH/39ALRDIV TRUAX FIELD WISC
+
+RUCDSO@/ATIC WPAFS OHIO
+f
+
+UNCLAS DUOOP 242 HQ USAF FOR SAFS AND AFCIN.
+REFERENCE AFR 200-2. THE FOLLOWING REPORT IS SUBYITTED.
+A €1) LIKE A STAR.
+(2) LIKE A LARGE PLANET OR EVENING STAR.
+(3) FLASHING WHITE LIGHT.
+€4) ONE
+C5) N/A
+(6) LIKE A BRIGHT PLANET FLASHING CONTINUOUSLY
+ABOUT TWICE A
+
+C7) NONE

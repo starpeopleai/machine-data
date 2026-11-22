@@ -1,0 +1,40 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T11:10:30Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1672889, "source_ctime_ns": 1793391173487453522, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302556024/1194.jp2", "source_mtime_ns": 1785808175000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302556024/1194.jp2", "source_sha256": "f935fcc1bda6ab8558bee71178a04e0b2d36e235607b566c7312599bc9d08964"}
+
+===== PAGE 1 =====
+{"alpha_words": 74, "chars": 617, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+BE. (1) 29.02N; 81.18W; North of Deland, Fla.
+
+GS, fe a Mics a> 19, Box Stetson University, Deland, Fla.
+Student, sincere. | .
+
+G. (1) Clear, few clouds, Temp High 70s; Low 80s.
+
+(2) W/D 210° True, 7 Kts.
+
+6K=240 @ 22Kts; 10K=250 @ 31Kts; 16K=240 @ 39Kts; 20K=250 @
+47Kts; 30K=240 @ 56 Kts; 50K not available; 80K not available.
+
+(3) Unlimited
+(4) 7 Miles
+
+iS) oe
+
+(5) None
+
+(7} Not available for this area.
+
+FOR THE COMMANDER
+
+Pattee
+
+ES. ee ee
+Efe ke dam
+KS ER D.° S600 Major, USAF 2 Atch
+Chief, Cperations and Training Division 1. Supplemental Information
+
+2. Drawing
+
+Cy to: SAF(SAFOI)
+Hq USAF (AFNIN)
+ADC
+MOADS

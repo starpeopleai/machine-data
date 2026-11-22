@@ -1,0 +1,20 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T11:16:18Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3973406, "source_ctime_ns": 1793385369574567874, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28992969/0983.jpg", "source_mtime_ns": 1785748155000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28992969/0983.jpg", "source_sha256": "e5f5885835c4fcaf1e69e9336970a570c6307774b7e2a0e97bc8b6bf4636fea2"}
+
+===== PAGE 1 =====
+{"alpha_words": 80, "chars": 472, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+DEPARTMENT OF THE AIR FORCE
+
+PAGE FOUR RJEDFJ 2G
+
+AREA SOMETIME BETWEEN 6198 ZULU AND 0300 ZULU 6 JUNE 1961 AND WILI
+CONTINUE TO DO SO FOR THE DURATION OF THIS MONTH.
+
+I. DETECTION ACTION WAS TRIED BY USE OF THE RADAR AT THIS SITE, BUT
+
+WE WERE UNABLE TO PICK UP ANYTHING THAT WAS NOT ACCOUNTABLE FOR BY THE |
+DETROIT AIR DEFENSE SECTOR. SEARCH RADAR USED WAS THAT OF THE AN/FPS-
+20A, THE AN/FQS-6, HEIGHT FINDER RADAR WAS ALSO SED CONCURRENTLY.
+
+BT
+
+@S/1528Z JUN RJEDFJ

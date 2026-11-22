@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T10:31:52Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5931692, "source_ctime_ns": 1793370370212135798, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28934434/0305.jpg", "source_mtime_ns": 1785689033000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28934434/0305.jpg", "source_sha256": "dbf4d2bf4dffa1ec5b33c4859338e5d448516c7629630b4752f051664b51099c"}
+
+===== PAGE 1 =====
+{"alpha_words": 133, "chars": 834, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+eal 2+ onep + “TA 2
+TRANSMITTAL ial RESTRICTED ‘ ATSC FORM NO, 80-508 (1 JAN. 43)
+3 Se na Rove WDENTIFICATION® jc pen
+
+FROM: DATO ee HOURS NUMBER — ‘pe Me
+
+r al j IMPLETE i | !
+[incomn No | ™ | INTER. | + OUTGOING} i ote ake \ | ee aie + 1 eres “y |
+4 51° Sst@ co 2 COP Wee Fe h32
+: TS >.
+hte bt A Pull e ae ea a ’ res
+FROM:* é i le a Sh mee HO Lo LU ode oe Py Beige
+DESCRIPTION, DATES AND SUBJECT: ie A
+* { nae 4 “24 Yr werre sy, 6008 '"-eo~e ty Yeas oe one
+© 7 WRE S 3 SEAT | —~ py é
+2 ¥ ¥ 2 ye om “5 rome :
+; Wie ahah EAE 4 ee ees 9 } ie -
+’ \
+\ TO: fOPReGE SYMBOL) | COPY NO. | REC'D BY (FULL SIGNATURE) _ | DATE REC'D HOUR
+TO: GOPY NO, | REC'D BY -.- a BATE aeC'O HOUR
+same ats DATE REC'D HOUR
+
+‘ TO: COPY NO, | REC'D BY
+
+TO: | Copy NO. | REC'D BY “DATE az0°D | HOUR
+
+RESTRICTED
+
+A a Ae OS 8 ee ella 8 te tt la 4 5 lal ee ee ee

@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T11:11:57Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1735083, "source_ctime_ns": 1793391372606106747, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302558213/00227.jp2", "source_mtime_ns": 1785808202000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302558213/00227.jp2", "source_sha256": "eaf0e312876247f7c4ff6ca9fce4e6620a46f211a33ccdbd557297957c1e0db1"}
+
+===== PAGE 1 =====
+{"alpha_words": 165, "chars": 1136, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+(b) Balloon: The U. S. Weather Bureau released a weather baliloon
+from its weather station at Victoria, Texas, at 0515 on the date of the
+sighting. Telephone conversations with a Mr. Jones at Victoria revealed
+the path of balloon as depicted on the attached maps. The path informa-
+tion was taken from the weather station's official records. These
+records indicated the balloon burst at an altitude of 30,620 meters
+(101,046 feet) at 0657 CST. Since the time the balloon burst was almost
+two hours before the UFO sighting (0845 CST), it appears that this
+balloon could not be an explanation for the UFO sighting.
+
+11. Photographic evidence: No photographs were taken.
+¥
+
+12. Comments:
+
+ae Although investigation did not disclose any other balloon launch-
+ings other than those mentioned in this report, the observer stated that
+it was his-opinien-that this was a balloon of some type.
+
+b. I could not uncover any other logistical explanation for this
+UFO sighting.
+
+FOR THE COMMANDER
+
+URENCE R. LEACH, >» Major, USAF 3 Atch
+ssistant Chief . 1. Houston Post article
+Operations and Training 2 Houston Chronicle article
+3. Local area map

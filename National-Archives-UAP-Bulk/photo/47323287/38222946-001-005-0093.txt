@@ -1,0 +1,40 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T11:20:26Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4892945, "source_ctime_ns": 1793365588235490631, "source_file": "National-Archives-UAP-Bulk/photo/47323287/38222946-001-005-0093.tif", "source_mtime_ns": 1785565392000000000, "source_rel": "National-Archives-UAP-Bulk/photo/47323287/38222946-001-005-0093.tif", "source_sha256": "9608c3e5e388e1d53e577a4649c247a56bf78e257cc4574b4644580071728aef"}
+
+===== PAGE 1 =====
+{"alpha_words": 165, "chars": 1048, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+CHarRves S.WILSON MEMORIAL HOSPITAL
+33-57 HaRRISON STREET
+JoxuNSON City, N.Y. 13790
+
+MiG; S21TH
+
+ADMINISTRATOR
+
+April 21, 1970
+
+Major General George V. Williams
+Commanding Officer, U.S. Air Force
+Hancock Field
+
+Syracuse, New York
+
+Dear General Williams:
+
+/
+We have now written a follow-up letter to the crew of our a
+
+Mercy Flight of April 1, 1970, advising them of the suc-
+cess of Jerry Terela's transplant. Thank you for your
+letter informing us of their names and addresses.
+
+My wife and I shall visit TSgt Pratschler's children in
+Matamoras within the next two weeks with a new Spring
+wardrobe for each. This is not charity, for which I have
+little use, but an investment in a man who is fulfilling
+his commitment to his nation and his family in spite of
+hardship. As I told you on the telephone, he related to
+me the loss of his wife last year by renal failure, so he
+had a real personal interest in the flight. We trust you
+will express yourself should you feel this is improper.
+
+I sincerely hope to meet you personally someday very soon.

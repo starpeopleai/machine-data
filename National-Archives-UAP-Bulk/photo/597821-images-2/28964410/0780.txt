@@ -1,0 +1,54 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T11:15:34Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3878913, "source_ctime_ns": 1793377579038807731, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28964410/0780.jpg", "source_mtime_ns": 1785696660000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28964410/0780.jpg", "source_sha256": "005f151632fb4ed5591db8f091ca2d4540c1aa7fba9f841719f67c484fe3f457"}
+
+===== PAGE 1 =====
+{"alpha_words": 97, "chars": 775, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+1. DATE -
+
+2. LOCATION
+21 Dec 55 forrestville, Ohio
+3. DATE-TIME GROUP 4 TYPE OF OBSERVATION
+Locol 32 Ground- Vi sual O Greund-Rodor
+GMT__22 O AirVisual - OD Air-Intercep! Rador
+5. PHOTOS 6. SOURCE
+0 Yes
+No civil
+
+7. LENGTH OF OBSERVATION
+
+8. une OF OBJECTS | 9 COURSE
+
+CONCLUSIONS
+
+Wes Balloon
+Probably Balloon
+Possibly Balloon
+
+Was Aivcroft
+Probably Aircraft
+Possibly Aircraft
+
+Was Astronomicol
+Probably Astronomicol
+Possibly Astronomical
+
+Other. .
+Insufficient Data for Evaluation
+nknown /
+
+45 min
+10. BRIEF SUMMARY OF SIGHTING
+
+Round, red obj with white top, no sound ;
+speed very slow and alt very high.
+
+unk.
+11. COMMENTS
+
+reported.
+
+Probably astro. However, insufficient
+data for disappearance and motion not
+
+ATIC FORM 329 (REV 26 SEP $2)

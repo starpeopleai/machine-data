@@ -1,0 +1,59 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T11:08:36Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1384938, "source_ctime_ns": 1793388711919223306, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302531333/1095.jp2", "source_mtime_ns": 1785808462000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302531333/1095.jp2", "source_sha256": "526f94fabb33455aa913c25532f214fbda33f6b621777312b8b5578ee2c2964c"}
+
+===== PAGE 1 =====
+{"alpha_words": 111, "chars": 783, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+amggeouact.. DEPARTMENT OF THE AIR FORCE
+
+STAFF MESSAGE SRANGH
+UNCLASSISO MESSAGE
+
+AF IN: 3404 (17 Dec 53) NG8 MIN G Pe i of 2
+
+INFO ; NIN-9, XOP-1, XOPX-4, SAF-OS-3, DIA- 25
+
+DIA-G1iG-8, JCS~35
+OSD-15, ARMY-2, OMC-8, NSA-7 (112)
+
+LKASSIKAAZTS
+
+00 RUEAK2 RUECW
+
+DE RUHLKH 9 17/05735¢
+ZNR
+QO: 1707322
+
+FM 396 AIRDIV KUNIA FACILITY HA
+
+|
+
+i
+
+i
+
+|
+
+|
+
+|
+
+TO RUHLEM/PACAF HICKAM AFB HA |
+RUHPHH/COMHAY SEAFRON PEARL HARBOR ha
+INFO RUEAHQ/CSAC USAF WASH DC |
+RUECY/CNO WASH DC
+i
+
+RUECW/SECNAV WASH D C
+RUWGALB/CINCNORAD ENT AFB COLO
+
+RUHLHQ/CINCPAC CAMP H M SMITH HA
+
+CuecaEn eR RARE TET rn ote
+
+RUHLHS/CONCUSARPAC FT SHAFTER HA
+RUHLHL/CINCPACFLT PEARL HARBOR HA
+RUAUAZ/COMUSJAPAN FUCKU AS JAPAN
+RUAMC/COMUKOREA SEQUL KOREA
+
+RPUAGFL/COMUSTDC TAIPEI TAIWAN
+
+RUCSBR/CINCSAC OFFUTT AFBNEBR

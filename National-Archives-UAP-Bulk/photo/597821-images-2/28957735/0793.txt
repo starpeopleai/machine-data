@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T11:15:18Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3791175, "source_ctime_ns": 1793375797392479294, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28957735/0793.jpg", "source_mtime_ns": 1785696699000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28957735/0793.jpg", "source_sha256": "fdef0a3451fb024cb48fe7c2c5e50ff245bc7089c2485b388b58b8cf9bfd43c9"}
+
+===== PAGE 1 =====
+{"alpha_words": 82, "chars": 622, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+46/ IDENTIFYING INFO OF ALL OBSERVERS
+
+\ Tp st vox PA
+
+AGE 38 CONSULTING ENGINEER RELIABLE |
+A/2C @UggNEMMy 1912TH AACS OLMSTED ADB CONTROL TOWER OPERATOR
+
+RELIABLE
+
+BMG $922TH AACS OLMSTED AFB CONTROL TOWER OPERATOR
+
+CAA PERSONNEL AT HARRISBURG STATE AIRPORT CONTROL TOWER
+/1/ WEATHER AND WINDS ALOFT CONDITIONS AT TIME OF SIGHTING
+A. CLEAR
+B. SURFACE CALM AT 6968 198 DEG 21K AT 10900 216 DEG 37K
+C. CLEAR
+D. 15 MILES. | |
+/8/ ANY OTHER UNUSUAL ACTIVITY :
+A. NONE
+/9/ PHYSICAL EVIDENCE OF SIGHTING | : ory
+A. NONE |
+/16/ INTERCEPTION ACTION
+A. NONE
+/11/ AIR TRAFFIC IN THE AREA OF SIGHTING
+A. NONE
+
+Mite PABA. oh ve’ ,

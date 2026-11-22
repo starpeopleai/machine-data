@@ -1,0 +1,49 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T11:25:00Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5689340, "source_ctime_ns": 1793388580736140531, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/29001605/0684.jpg", "source_mtime_ns": 1785808327000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/29001605/0684.jpg", "source_sha256": "1e22ad11c25f606c08e9b0de13f9906e0cd282a6adab299dc4873cedfb49dc3a"}
+
+===== PAGE 1 =====
+{"alpha_words": 141, "chars": 986, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+REPLY TO
+ATTN OF:
+
+SUBJECT:
+
+TO:
+
+HEADQUARTERS comma
+FOREIGN TECHNOLOGY DIVISION
+
+AIR FORCE SYSTEMS COMMAND
+UNITED STATES AIR FORCE
+WRIGHT-PATTERSON AIR FORCE BASE, OHIO
+
+TDEW
+
+1 August 1963
+
+Request for UFO Information©@®
+
+Hq USAF SAF-OI 3b (Mrs. Wells)
+Wash 25 DC
+
+1. Reference the attached correspondence from Donald Hopkins
+and Edward Winkelmann requesting information on unidentified
+flying objects. This correspondence is forwarded to your
+office for whatever action you deem necessary,
+
+2. Anent Mr. Hopkins’ letter, if the time of the sighting
+was Daylight Saving Time, the object was Echo; if not, there
+is insufficient data for evaluation,
+
+3. Anent Mr. Winkelmann's inquiry, Echo was moving southeast
+at the time of the sighting, The object observed, then, was
+not Echo but could have been an aircraft,
+
+FOR THE COMMANDER
+
+ERIC T. de /AJONCKHEERE 2 Atch
+Colonel, USAF 1, Ltr fm D
+Deputy for Technology and Subsystems postmarked 2 Ju 5
+2 ostcard fm E,
+postmarked
+
+27 Jun 63,

@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T11:16:36Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4027355, "source_ctime_ns": 1793377667817500413, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28964853/1168.jpg", "source_mtime_ns": 1785696866000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28964853/1168.jpg", "source_sha256": "e53a58b9ef709227e14c04a24a1ee49dfc1692feba45debdf81ce029394586e6"}
+
+===== PAGE 1 =====
+{"alpha_words": 48, "chars": 277, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Fe Phe eer tit | Aaa rcp he
+: et aS /2g teak ‘ fer ca genuin en. Aargeb. Ya. as we
+oe efete Pept me  SAe perry witeatieon: kt A Pa
+
+q - ao — - — : om ~ - -
+7 ‘
+
+q
+
+hae
+
+4
+
+q
+
+. fe BE 1s et xatee Sele a's be
+
+1
+
+:
+
+7 a Be ra ene ie Shei CUS & sed coe eal by
+te
+
+g .
+
+:
+
+4 ‘
+
++

@@ -1,0 +1,93 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T11:01:20Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 629985, "source_ctime_ns": 1793365596741704596, "source_file": "National-Archives-UAP-Bulk/photo/5011500/5011500_VolumeI_Page_201.jpg", "source_mtime_ns": 1785565397000000000, "source_rel": "National-Archives-UAP-Bulk/photo/5011500/5011500_VolumeI_Page_201.jpg", "source_sha256": "1cc01f9c04e44d8bf416e70b8bc5ff3953323ce007546992ab410038b1c5a28b"}
+
+===== PAGE 1 =====
+{"alpha_words": 216, "chars": 1354, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+200
+
+(O47 353
+
+70:18:13
+70:18:19
+
+70:18:28
+
+70:18:31
+
+70:19:11
+70:19:18
+
+70:19:22
+
+70:19: 43
+
+70:19:52
+70:20: 50
+
+70:20:52
+
+70:20:57
+
+70:21:00
+
+cc
+
+CC
+
+cc
+
+cc
+
+CC
+
+cc
+
+cc
+
+CONFIDENTIAL»
+
+fV[P @ gM
+John alee has just bought half of Houston, seems
+
+like. He's bought five major properties of the
+Jones family, including the Chronicle, the Rice
+Hotel, and a third interest in the Texas National
+Bank of Commerce.
+
+Great Scot!
+
+The Russian moon shot, Luna 8, did not work. Ap-
+parently they hit the moon too hard. I guess you
+heard about that last night, though.
+
+Rogere
+
+And, mentioned in the Gemini VII story, it talks
+about you're the well-dressed pilot. There is also
+a comment, the press is calling MCC the Kraft Music
+Hall. We had another big power blackout Last night.
+Electrical power was out for about 25 minutes in 10
+counties in east Texas. And the final item, there
+are 18 shopping days to Christmas.
+
+eee about.
+
+That's all we have on this pass, Gemini VII.
+
+Thank you for the news, Elliot.
+BERMUDA
+
+Gemini VII, you might have your systems books out
+if you want to on the next pass, and we'll discuss
+your status as we see it here on the ground.
+Thank you.
+
+Roger. Go ahead.
+
+We would like a report on our new orbit on the out-
+come of that burn if you get a chance.
+
+Roger. We'll give it to you as soon as we have it.
+
+Thank you.
+
+CONFIDENTIAL

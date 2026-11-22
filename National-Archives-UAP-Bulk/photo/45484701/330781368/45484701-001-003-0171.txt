@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T10:34:48Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7007254, "source_ctime_ns": 1793361812655571331, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330781368/45484701-001-003-0171.jpg", "source_mtime_ns": 1785685144000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330781368/45484701-001-003-0171.jpg", "source_sha256": "a684d36780623a29ef414b80baa9eef45475b44419c0cdd55f6fec5251de26cf"}
+
+===== PAGE 1 =====
+{"alpha_words": 95, "chars": 671, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PARIS AIRPORT
+
+Aircraft Sales & Service
+Ruddles Mill Road
+Paris, Kentucky.
+
+26 Jan 1949
+
+At approximately four thirty (4:30) P. M. on January 16, 1949, my
+attention was called to a vapor trail. It was building up at
+approximately 25-30,000 feet over a formation of Cirrus clouds and
+moving in a south east direction. Its position was at an angle of
+about 50 degrees to the horizon when first observed. Due to the
+altitude of said formation, its source was not visible from the ground.
+
+(Sgd) David Isgrig
+DAVID ISGRIG
+Manager
+
+CERTIFIED TRUE COPY:
+
+/-} f) /, V4
+
+be yf jf-«
+
+“genio Lreron,
+Captain, USAF,
+
+EXHIBIT Ee UNCLAS SIFIED
+
+Declassification Authority: NND 923007

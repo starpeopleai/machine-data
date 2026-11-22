@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T11:01:48Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 775785, "source_ctime_ns": 1793391287678995762, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302557323/0905.jp2", "source_mtime_ns": 1785808079000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302557323/0905.jp2", "source_sha256": "3cf9729f2c40d2cce86e78c0a93432049c75416f43b73182bb247e0d375578cc"}
+
+===== PAGE 1 =====
+{"alpha_words": 192, "chars": 1212, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+=
+
+Proposed reply to a letter from (aM, 29 Oct 66
+Dear Mr. ie
+
+Your letter of MAu0ctober 29, 1966 regarding a glowing object
+sighted over Long Island on October 22 is appreciated. It is most
+helpful in our evaluations en pebeons, such as yourself, report
+an unusual observation and offer a possible explanation to its
+
+cause or causes.
+
+There have been several alLieged UFO sightings in the Long Island srza
+wicn Hove been Eepoered 7 me Ave Force
+aree—as-of tate. We-do-have We are studying one observation,
+=which Ooi oceed on October 22 at 2000 hours, local time, which does
+fit the description you provided. Other similar observations have
+been reported of a star-like object observed in the western sky.
+However, we feel that the star Arcturus is responsible for these sightings.
+Did you and the other crew members observe a very bright star in
+addition to your reported mservation? Arcturus would have been
+setting on an azimuth of 200 degrees at 200’hours EDT.
+If you can remember khaxexackxdayxatxyour exact data on your sighting
+and if your crew did observe Arcturus in additiongZ to the unidentified )
+it would be most helpful.
+Thank you for your informative letter and we hope to hear from you
+
+soon.

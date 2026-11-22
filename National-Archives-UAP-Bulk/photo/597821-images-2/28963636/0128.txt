@@ -1,0 +1,68 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T11:17:02Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4149556, "source_ctime_ns": 1793377419289436336, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28963636/0128.jpg", "source_mtime_ns": 1785696895000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28963636/0128.jpg", "source_sha256": "fe7f6865991d74075cad6fbf28201a15073b7ca5b08e10bf303d62cbcaea3553"}
+
+===== PAGE 1 =====
+{"alpha_words": 119, "chars": 928, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ry
+.
+
+'
+
+'
+
+t
+
+-
+
+PROJECT 10073 RECORD CARD
+
+1. DATE 2. LOCATION
+
+12 Sep 55 Middlebury, Vermont
+
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION
+e Local ff Ground- Vi sual O Ground-Radar
+a omr_22/14202 0 Alir- Visual O Air-Intercept Radar
+_ | 5: PHOTOS 6. SOURCE
+mf. OG Yes
+
+BD No civilian
+
+E 7. LENGTH OF OBSERVATION 6. NUMBER OF OBJECTS | 9. COURSE
+' |5 mins drifting NE
+
+Sog coo ooo oof 5
+
+- CONCLUSIONS
+
+Was Balloon
+Probably Balloon
+Possibly Balloon
+
+Was Aircraft
+Probably Aircroft
+Possibly Aircraft
+
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+
+Other.
+Insufficien? Data for Evaluation
+
+Unk
+
+10. BRIEF SUMMARY OF SIGHTING
+
+© |One obj, like a white top, half the size of a
+> |dime, shiny, like semi-transparent plastic,
+was seen to be drifting northeast.
+
+11. COMMENTS
+
+MDH # 112 was over the area of the
+sighting at time of sighting. This
+balloon was drifitng northeast.
+
+Balloon.
+
+ATIC FORM 329 (REV 26 SEP 52)

@@ -1,0 +1,52 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T11:13:46Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1864597, "source_ctime_ns": 1793355881105697389, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989283-001-0116.jpg", "source_mtime_ns": 1785564549000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989283-001-0116.jpg", "source_sha256": "311a77dd35921db5442dc75df30782dc7bbb185b761252bfd8c13c34e81df585"}
+
+===== PAGE 1 =====
+{"alpha_words": 338, "chars": 2217, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+and resoue equipment is through the fire station. Equipment is on order.
+Due to the large number of vehicles on the airdrome, this equipment should
+get priority. *
+
+9, The Personal Equipment setup is still not adequate, however per=
+sonnel concerned are well aware of the fact and making every effort to
+correct the situation. It was also noted that of five authorized posi-
+tions in this section, two were filled by Category 4 airmen.
+
+10. No evidence could be found that recommendations made as & result
+ao of accident investigations were followed. Notably the recommendation
+L. following the F-89 accident in June of 1955 as to the wearing of clothing
+during flying operations. No procedures or policies could be found in
+writing and spot check of pilots did not indicate compliance in another
+recommendation as a result of the F-94 in December are not being followed.
+
+Ree ndations
+
+1. That the Flight Safety Officer be placed organizatiohally and
+operationally under the Deputy for Operations.
+
+2. That a Flight Safety Council beaappointed and the importance of
+this Council emphasised.
+
+3. That the. existing attitude toward Flying Safety be aligned with
+the command policy 4.e., the mission will not be compromised for the
+
+‘sake of Flying Safety, but our task is to perform the mission in the
+safest possible manner. Our pilots are professionals and above average
+pilots. They should be impressed with this and recognized for a job well
+done. This should also be emphasized to all personnel connected with
+aircraft operation. Play up the positive contribution to Flight Safety
+and play dowm the negative side.
+
+4. -A more thorough investigation made and remedial action taken re-
+garding the tire situation. ‘This also applies to any other accident
+tential. Records seem to indicate this particular problem arose in
+Angust of 1955.and hhs,been allowed to continue without too much action.
+
+5. Assign a maintenance officer as soon as possible and increase
+the supervision of this activity.
+
+6, Increase the preventative maintenance on the airdrome.
+
+7, Continue action to improve the Personal Equipment setup.
+
+8. Insure that recommendation regarding safety of flight items are
+not ignored or allowed to die.

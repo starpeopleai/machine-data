@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T10:40:34Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8462292, "source_ctime_ns": 1793361123429880871, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-004-0134.tif", "source_mtime_ns": 1785565238000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-004-0134.tif", "source_sha256": "7c4e709a435efd7e7155241e5e161c0fee925f2a4ca01ef08f0d0f4ea9b31a79"}
+
+===== PAGE 1 =====
+{"alpha_words": 31, "chars": 281, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+>
+
+Routing Inst Cont'd
+
+AFCINSIBI PHOTOSTAT REPRODUCTION =,
+
+REQUIREMENT
+2 . r : NUMBER OF
+ORIGINALS REPRODUCTIONS
+SIZE PRINTS | NEGS
+
+SETS PRINTS
+TOTAL
+
+OPERATOR NO/DATE
+
+OPERATOR NO/DATE (8/C)
+
+OPERATOR nommgTAPRIGEE 1998 §
+
+COLLATOR NO/DATE
+
+DECLASSIFIED
+Authority NND 9237007

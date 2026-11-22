@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T11:18:09Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4684844, "source_ctime_ns": 1793382758950857123, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28985374/0643.jpg", "source_mtime_ns": 1785748294000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28985374/0643.jpg", "source_sha256": "bc9e9f0f375ef18805c8aa5ad4664d539db619e97921aef0a2367a9813a9f797"}
+
+===== PAGE 1 =====
+{"alpha_words": 123, "chars": 906, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PETRY Rete erence rea magi nennan ey nape eemseT se Oan si mst eee rtentamin riaeamaaintint
+
+‘
+
+\
+
+PROJECT 10073 RECORD CARD
+
+1, DATE 2. LOCATION 12. CONCLUSIONS
+13 Nov 59 Resolution Island Q Probably Balloon
+3. DATE-7iM= GROUP 4. TYPE OF OBSERVATION Q Possibly Balloon
+Loca! O Ground-Vi sual O Ground-Reder = pean fa nee
+GMT 13/12152 2 Air Vi sual OQ) Air-!ntercept Radar O Possibly Aircraft
+5. PHOTOS 6. SOURCE QQ Was Astronomical Venus
+O Yes O Probably Astronomical
+x1 No Ma itary QO Possibly Astronomical
+7. LENGTH OF OBSERVATION 8. NUMBER OF OBJECTS | 9. COURSE O Other
+O Insufficient Data for Evaluation
+QO Unknown ;
+L br, 11 mins one Stationary
+
+10. BRIEF SUMMARY OF SIGHTING
+
+Jjcaused los
+the planet Venus.
+
+Small, silver, rnd obj. Navigational turns
+s of obj. Pilots identified it as
+
+11. COMMENTS
+
+Astro plots indicate the planet Venus
+to be in the position rptd.
+
+ATIC FORM 329 (REV 26 SEP 52)

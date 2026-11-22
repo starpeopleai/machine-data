@@ -1,0 +1,11 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T10:52:39Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 18737726, "source_ctime_ns": 1793365538613005061, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330788969/45484701-009-002-0066.jpg", "source_mtime_ns": 1785684826000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330788969/45484701-009-002-0066.jpg", "source_sha256": "5ec67d7c7b7509ca7b56418e95b8349ab45f431168a02075ec45c9355e9d01e2"}
+
+===== PAGE 1 =====
+{"alpha_words": 26, "chars": 158, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+RAR St ~ + 1 MY MS ldanhsal
+Aus ad Mu LY Lue Jute SLY Petr tuc liil ss
+= oa pt i
+Aww? 7 py 4 T0¢
+Fo Up! = ow: =— o i
+
+Declassification Authority: NND 923007

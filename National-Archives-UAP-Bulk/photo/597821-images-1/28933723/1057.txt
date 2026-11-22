@@ -1,0 +1,48 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T11:18:20Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4708783, "source_ctime_ns": 1793370070840501734, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28933723/1057.jpg", "source_mtime_ns": 1785688893000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28933723/1057.jpg", "source_sha256": "f8d367dbca1f94ddbaa66f4e0c0f9abc8c2a66c384701bcbb90a6fc3e2c927ae"}
+
+===== PAGE 1 =====
+{"alpha_words": 99, "chars": 833, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+L3»
+
+2 sighting) UNCLASSIFIED @
+
+INCIDENT U0. 379A
+
+Date of Observition 29 March 9 Date of Interview h April hig
+
+- Exact Time (local)(1) 2205 (2) 2236
+
+Place of Observation Shemya AF3, Alaska
+
+Position of observer (1) Air, B-29 (a) 2500 ft, 90° heading (2) Air 3@29 {a) 50
+outhwesterly Course
+
+What attracted attention to object. White light
+
+Itunber of objects i
+
+Apparent, size
+
+Color of object vhite
+
+Shape of light
+
+Altituda (1) 2400 £4 (2) L000 ft
+
+Direction from observer (1) straight ahead (2) Southerly
+
+Distance from observer (1) Passed under ship, 100 ft below (2) Passed over ship,
+
+10CO' above. e
+Direction of flight of object(s) (1) Bast to west (2) Northerly
+
+Tine in sight
+
+Speed 2008400 MSH
+
+wrfect on Clouds
+Additional Information Concerning Obdject-
+
+Jocther Conditions. Yigibility sood, ceiling unlinited.
+
+(over

@@ -1,0 +1,56 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T11:11:24Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1722259, "source_ctime_ns": 1793391120841321408, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302555663/0837.jp2", "source_mtime_ns": 1785808454000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302555663/0837.jp2", "source_sha256": "78af52aacb8279e57b53cce27e30aa0d52798dda340c004dbb101e39a13d140a"}
+
+===== PAGE 1 =====
+{"alpha_words": 176, "chars": 1190, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+i, '
+BC oe (£72) PRINCETON-CALDWELL COUNTY
+fio * CIVIL DEFENSE ORGANIZATION
+
+Ke ae
+
+os eee Princeton, Kentucky
+DIRECTOR | DEPUTY DIRECTORS
+Frederick Olszewski September 12, 1966. A. L. Tilly
+
+Dale Faughn
+
+Cal. Leon J. Read ; } | |
+sputy Director
+
+Division of Civil Defense
+
+State Capitol
+
+Prankfort, Kentucky.
+
+Dear Cole Read:
+
+Inclesed please find a report of a soecalled "Flying
+Ssucer", sighted in Caldwell County on “fednesday September
+“th at about 6 PY. Tt is my understandings thet the Air Force
+investigates such reports, and for that reason T had this
+10 year old boy and his mother call at the office to take
+his statement. T assume you will know to whom, if anybody,
++ns report shoulc o> sent.
+
+IT may add, that the Sheriff of Caldwell County also
+saw the object, but his estimate of the object is a "Satellite".
+A satellite returning to sarth from its orbit wovld in my
+opinion burn up upon reentry into the earth's atmosphers,
+but, that is an amateur's conjecture.
+
+with kind personal regards, I am
+
+7 Sincerely,
+
+GEV. , a Leto
+Ng© La! a AME DE C Lo ts + AY 0
+oF 7 Wiadep tes Olszewsi
+CD Director
+“pincaton/Caldwell County.
+
+SEP 13 8 s\0)
+
+FO/A3 eeece | Jeruthe.
+
+DiVISIO" --

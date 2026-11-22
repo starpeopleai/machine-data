@@ -1,0 +1,66 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T10:56:21Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 30398192, "source_ctime_ns": 1793357470386972561, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1403-531545-0003.tif", "source_mtime_ns": 1785564907000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1403-531545-0003.tif", "source_sha256": "d66a21cfc12f2a443ab92858061cf02279e753d908468f49c5c8c7b5a44e63f6"}
+
+===== PAGE 1 =====
+{"alpha_words": 276, "chars": 2029, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+AF FORM 112—PART I! SECRET.
+
+(CLASSIFICATION)
+APPROVED 1 JUNE 1948
+AIR INTELLIGENCE INFORMATION REPORT
+FROM (Agency) REPORT NO.
+34th Air Division (Defense) ITR-1=53W eo a e 4 rans
+(1) Shape: Radar Blip
+Size: larger and brighter than average aircraft blip.
+Color: N/A
+Speed: Estimated 12-15 MPH, variable.
+Number: One
+Formation: Negative
+Maneuvers: The object first appeared on the PPI scope on an
+
+azimuth of 270°, range 9 miles and altitude (est)
+10-15,000 feet MSL. The object moved outbound, speed
+12~15 MPH (est), to a point approximately 18 miles
+west of the station. The object turned to a heading
+of 360° and covered approximately 10 miles on that
+heading, The object then turned to a heading of
+approximately 128° inbound to the station. Radar
+contact was lost near the area where the object was
+first detected,
+
+Manner of Disappearance: Faded
+
+Other Factors: Negative.
+
+(2) 2115 MST, 26 January 1953. Length of Observation: 45 minutes (intermittently).
+
+(3) Radar Scope (One PPI),
+
+(4) Operations building, 769th AC&W Sq, Continental Divide, New Mexico.
+
+(5) Observers reliability considered excellent,
+
+(6) Weather: High thin overcast, lower scattered clouds. Winds from 270° at 30
+knots at }0-30,000 feet MSL, Inversion existed at 18,000 feet MSL with top at
+21,000 feet MSL,
+
+(7), (8), (9) and (10) All negative.
+
+COMMENTS of Preparing Officer: Negative.
+
+COMMENTS of Approving Officer: Negative.
+
+GLEN D PARRISH
+lst Lt., USAF
+Director of Intelligence
+
+NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S. C.—
+
+31 AND 32, AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW.
+IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF
+INTELLIGENCE, USAF.
+
+ee Ciu fio FE €
+
+GSE c « ? SV IFO Pye FT, 10 26—65570-1 XU. S. GOVERNMENT PRINTING om
+
+Declassification Authority: NND 57565

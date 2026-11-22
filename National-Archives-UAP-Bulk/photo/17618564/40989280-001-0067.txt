@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T11:06:28Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1028516, "source_ctime_ns": 1793355849099014998, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989280-001-0067.jpg", "source_mtime_ns": 1785564540000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989280-001-0067.jpg", "source_sha256": "4debeebbe1f0b76b3ab5185ef627a813c613203e06c22797360a075a94c5cd01"}
+
+===== PAGE 1 =====
+{"alpha_words": 184, "chars": 1223, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+“is
+
+So
+
+is involved, since Hi-Fly resembles other balloon target systems
+in being quite inexpensive; but at least there is now a backlog
+of Hi-Fly equipment in readiness for future flights. So far,
+Hi-Fly has been excepted from the general Balloon Branch cutback
+in target operations, Indeed, the Balloon Branch's plastic
+flight number 1000, on 18 December 1958, was a successful Hi-Fly
+23
+
+missione
+
+Balrok
+
+The Hi-Fly target system is only one of the balloon-rocket
+combinations that have been flown by the Balloon Branch at the
+Air Force Missile Development Center, Other balloon-launched
+rocket systems, however, have been intended for research rather
+than for target use and represent a type of activity in which
+the Balloon Branch has long been interested, but in which the
+United States Navy is the acknowledged pioneer. As mentioned
+in the first chapter of one history, some of the Navy's
+earliest experimentation in this field received miscellaneous
+support from units at Holloman Air Force Base. The end result
+was the Rockoon system, which has since attained operational
+status and has played a major role in recent upper~atmosphere
+
+research.
+
+Navy Rockoons have carried scientific instruments, especially
+
+at

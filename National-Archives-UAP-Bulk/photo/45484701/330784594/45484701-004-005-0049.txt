@@ -1,0 +1,51 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T11:26:48Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5853818, "source_ctime_ns": 1793363125860749892, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330784594/45484701-004-005-0049.jpg", "source_mtime_ns": 1785684738000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330784594/45484701-004-005-0049.jpg", "source_sha256": "5f5a6aac61e8ccc441f3cf1db846a4166ca6d0d5426828fb7b342a729fc06e48"}
+
+===== PAGE 1 =====
+{"alpha_words": 125, "chars": 948, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+UNITED STATES DEPARTMENT OF JUSTICE
+FEDERAL BUREAU OF INVESTIGATION
+
+21] Madrid Building
+
+In Reply, Pl. we Refer to
+
+File Ne. Louisville 2, Kentueky
+February 13, 1963
+
+Mr. James L. Pyles
+Mayavilie,
+Kentuoky
+
+Dear Mr. Pyles:
+
+This will acknowledge your letter of
+February 12, 1963.
+
+Since the ineident related by you is
+not one ordinarily investigated by this office, I
+am taking the liberty of referring your letter to
+Captain Lee Tucker, Detachment Commander, Fifth
+Distriet, Office of Spesial Investigations, U. 8.
+Air Poree, 808 Colwmbie Building, Louisville,
+Kent useky.
+
+Thank you very much for reporting this
+matter.
+
+Sincerely,
+
+vane, 7 Ap * D> ZACK Pe ee
+“Tan D. MacLennan
+Special Agemt in Charge
+
+- Capt. Lee Tucker
+Detachment Commander
+Fifth District
+Office of Special Investigations »> ~ > ed re
+U. S. Air Force : +  %
+408 Columbia Building :
+iwuiswille, Kentucky
+
+-Originai of letter from Pyles.
+
+Declassification Authority: NND 923007

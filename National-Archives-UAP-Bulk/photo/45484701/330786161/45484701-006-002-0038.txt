@@ -1,0 +1,59 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T10:44:59Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10869708, "source_ctime_ns": 1793363845823087468, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330786161/45484701-006-002-0038.jpg", "source_mtime_ns": 1785685027000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330786161/45484701-006-002-0038.jpg", "source_sha256": "e0c8edd49eb19ed2efbb17e71d1982b6eafba441e4ce6274f9be3bccbecedc9e"}
+
+===== PAGE 1 =====
+{"alpha_words": 246, "chars": 1850, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+2h)
+Subjects Unidentified Flying Objects
+
+dG, Location of observers. Between the Junction of US Highway
+No, 85 end No, 87, in the southerly city limits of Cheyenne,
+Wyoming.
+
+Identifying information of all observers, ae EDWARD C.
+INGBAR, AP~-12468342 and IRWIN J, SHAPIRO, A/S,
+12468950
+
+Weather and winds-aloft conditions at time and place of
+
+(1) Observers account of weather conditions, Weather
+clear; visibility unlimited; no clouds,
+
+A Pe
+
+(2) Report from nearest US Weather Bureau Office, Wind
+direction and velocity: Surface wind from 340° at
+8 knots at 6,000 ft from 300° at 16 knots; at 10,000
+feet from 320° at 13 knots; at 16,000 feet from 290°
+at 20 kmots; at 19,000 feet from 250° variable at 40 -
+45 knots, Wo information in available concerning
+wind direction and velocity above 19,000 feet,
+
+Ceiling, At 1,000 from approximately 2000 hours to 2400
+hours.
+
+Visibility, 15 miles.
+
+Amount of cloud cover, Approximately .5 (broken into
+ig Clouds at 1,000 feet, clearing at approximately
+
+j. Thunderstéras in area and quadrant in which located, Negative.
+
+k, Any other unusual activity or condition, meteorological,
+astronomical, or otherwise, which might account for sighting.
+Arthur H, Hosick, Meteorologist, ".°5. Weather Bureau,
+advised that during the period in question there were no
+unusual metecrological or estronomics] conditions which
+micht account for the sighting.
+
+Intereeption or identification action taken, Negative,
+
+Location of any air traffic in the area at time of
+sighting, Tom Powel, Control] Tower, Cheyenne, Wyoming,
+advised that the only traffic which could have been in
+
+that area ws Frontier Airlines, Flight 21, which departed
+from Cheyenne, Wyoming, for Denver, Colorado, at — hour's,
+22 May 1955, Mr. Powell, operator of, the : ex
+identified the type of aircraft as é
+
+Declassification Authority: NND 923007

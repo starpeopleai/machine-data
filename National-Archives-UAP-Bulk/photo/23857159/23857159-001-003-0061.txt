@@ -1,0 +1,67 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T10:49:25Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 17876978, "source_ctime_ns": 1793360745866722097, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-003-0061.tif", "source_mtime_ns": 1785565121000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-003-0061.tif", "source_sha256": "c1d10d1bac92c447984b3ed088f7129bb3abddebe3090ec8c7a1907b82e7a9fd"}
+
+===== PAGE 1 =====
+{"alpha_words": 75, "chars": 603, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+FY) Lee) as) 2]
+/ ON ele
+
+3 Aug 57
+215
+1
+3 Aug 57 1/0 0030
+RC@121 00
+Station 7
+AOC Mission s
+3 Aug 57
+
+B=} L/Lt | ete 965th A/c
+
+Po es OT /Lb i " P
+
+Mohsse U/L 3s 5 N
+
+Be3s T/Set u ET
+
+Be3 1 /Lt " N
+B35 it : CP(VO)
+
+B30 T/Set n Iv
+
+Be3 A/Ic a Vv
+
+B3s S/Set a V
+
+m3 A/c " Vv
+
+Be3 A/2e " Ae
+
+Be3 A/2c " V
+
+B30 A/2e a V
+
+Be3 A/ 2c ft “Vv
+
+B-3 -S/sgt tt R
+
+Be3 «= S/Sgt " R
+
+s/Sgt S52EM 7,
+
+Afle n Z.
+
+¥% Denotes Aircraft Conmmder
+
+é
+
+THIS IS A CERTIFIED TRUE COPY:
+
+HEC Je Lgl
+1/Lt, USAF
+Intelligence Cfficer
+
+/s/JOBN K. MARTIN, 1/Lt
+for /t/HARRY T. WAGNON
+Major, USA?
+
+DECLASSIFIED
+Authority NND 9237007

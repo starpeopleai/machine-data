@@ -1,0 +1,15 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T10:30:20Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5657948, "source_ctime_ns": 1793369510010213071, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28931965/0744.jpg", "source_mtime_ns": 1785688673000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28931965/0744.jpg", "source_sha256": "5a93f0db7dfc638ae35b304b3ebda16be09e5df6b9191b8efcf2a2ec72a9f759"}
+
+===== PAGE 1 =====
+{"alpha_words": 33, "chars": 242, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Foe 1903 Every indication seems to point to this objsot being a
+
+rawinsordg Calloon. Rawinsonds scheduled to
+
+approximately one hour previous to sighting.
+arsa, Definitely a balloon.
+
+»
+
+be relsagsed fron hiunish
+Very lisht winds in biunish

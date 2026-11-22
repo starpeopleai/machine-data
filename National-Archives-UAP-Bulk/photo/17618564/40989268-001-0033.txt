@@ -1,0 +1,78 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T10:47:05Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 15809716, "source_ctime_ns": 1793355594972559836, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0033.jpg", "source_mtime_ns": 1785564486000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0033.jpg", "source_sha256": "b0d5805b036eb9cfd6e7ecb64ba795e3a357f13961cc62f11896c3ce3138c505"}
+
+===== PAGE 1 =====
+{"alpha_words": 292, "chars": 1921, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+After accepting material B of Figure 3, we now proceed to manufacture a
+balloon of 3 x 10° cubic feet volume. During gore assembly we take additional
+tensile strength samples and find that the material has an average strength X and
+standard deviation 0 which may differ slightly from the acceptance results which
+were based upon a smaller number of samples (and perhaps upon more than one lot
+of material). If we find that the material has a normal variation, then the number
+of material defects expected in the balloon can be learned from Figure 4. In this
+case, a defect represents an area 1 inch wide with strength less than the design
+allowable. This graph points out the importance of using more conservative design
+allowables (or better material) for larger balloons in order to minimize the
+presence of defects. In our design example with a design allowable of 1.6 lb/inch,
+we would expect to have 12 defect areas in the balloon. The same statistical
+procedures that were used to prepare Figure 4 could be used to indicate the prob-
+
+able number of defects in balloon gore seals of a complete balloon.
+
+4. CONCLUSIONS
+
+As the supply of balloon materials is becoming more plentiful, there is op-
+portunity and need to revise procurement specifications to reflect more reliable
+inspection procedures. Design and performance criteria should be used as the
+
+basis for specification requirements.
+
+The greater probability of material and fabrication defects in larger balloons
+
+il
+ti
+vy,
+
+EF
+
+iA
+
+Ly an
+
+LA
+abe
+B24
+il
+
+7
+7
+
+meres BE bs
+Ee
+§
+
+a
+
+should be recognized by the industry, and more conservative design allowables or
+
+better quality materials should be used to maintain equal material reliability.
+
+Weibel
+\
+
+~
+
+~
+
+NooTtvg Wid Sl2z79g FO WIGwapy IF7EVEOE
+
+BALLOON VoLumeé, CUBIC FEET
+
+0.30)
+
+ure 4. Probable Defects in a Natural Shape Balloon (Shape Factor
+
+as a Function of Safety Incremen
+
+Fig
+
+t in Design
