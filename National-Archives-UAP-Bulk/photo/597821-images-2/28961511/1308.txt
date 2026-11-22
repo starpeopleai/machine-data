@@ -1,0 +1,22 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T14:56:43Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5952810, "source_ctime_ns": 1793376641418043836, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28961511/1308.jpg", "source_mtime_ns": 1785696579000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28961511/1308.jpg", "source_sha256": "8bbb7983aeee03e4dd0d543f615d44fa2d1ae5e5ac01b34551d06c9c6da26447"}
+
+===== PAGE 1 =====
+{"alpha_words": 18, "chars": 96, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+sts
+
+iow
+
+Me
+woenys
+
+po ene neupen on
+
+Visi
+
+i aaa es Ra ai Led bein. dein,
+
+Z
+
+5.45
+
+ott A dk

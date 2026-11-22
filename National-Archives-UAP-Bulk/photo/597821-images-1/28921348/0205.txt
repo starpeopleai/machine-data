@@ -1,0 +1,54 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T14:54:25Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5347410, "source_ctime_ns": 1793368559133763211, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28921348/0205.jpg", "source_mtime_ns": 1785688703000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28921348/0205.jpg", "source_sha256": "14df961d18dbe3a23ee06fd824c5b6c2bddd2c676584838409426c3ad80648b9"}
+
+===== PAGE 1 =====
+{"alpha_words": 263, "chars": 2211, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+| JUNE 1958 SIGHTINGS
+| DATE LOCATION OBSERVER EVALUATION
+.4%35 Sumner . North Turner, Maine Civilian Other (UNRELIABLE REPORT
+‘4836 8=©Jun - Tokmak, Kirgiz, USSR Civilian Insufficient Data
+‘S657; a ~Salt Lake City, Utah Aircraft
+‘5828; 3 - Eunice, New Mexico, Pecos/Kermin, Texas Multi Astro (METEOR)
+5839) 3 “ Marshalltown, Iowa “MM PHYSICAL S), Other (VOLCANIC ROCK)
+ost - Kansas City, Missouri a= FowLow im) Astro (SPICA/JUPITER)
+Se4/' 5 -New York, New York sient Balloon
+SKYA 5 Uruguay aaa Astro (METEOR)
+543, 6 ~- Dayton, Ohio ba Aircraft
+‘Soff, 7 -Yellow Springs, Ohio Aircraft
+SSH 8 -Nof Philadelphia, Pennsylvania  ggaiilieup Balloon
+58H; 9 ‘Puget Sound Area, Washington Military Balloon
+5847 9 ~ S Bethpage, Long Island, Mew York . Astro (METEOR)
+SB 1D ~1O Mi W of Huntsville, Texas Military Air/Vis , Satellite (Sputnik 3)
+5877 le - Dayton, Ohio i eee Aircraft
+BE 12 “Las Cruces, New Mexico id Astro (METEOR)
+Ls ~Hong Kong, China RAF Insufficient Data
+14 -Pueblo, Colorado > UNIDENTIFIED
+17 ~ Portland, Oregon ms Other (REFLECTION)
+18 - Pecos, Texas Astro (V&NUS)
+18 ~- Oak Ridge, Tennessee Aircraft
+19 ~Memphis, Tennessee Insufficient Data
+20 .Fort Bragg, North Carolina UNIDENTIFIED
+el “ Walker AFB, New Mexico Military Insufficient Data
+22 -Bremerton, Washington Multi (Cubli) Aircraft
+22 ~ Knoxville, Tennessee Astro (METEOR)
+23 “Alexandria, Louisiana aay ( Puoto) Other (CAMERA LEAK)
+eh “Dallas, Texas , Astro (MOON)
+26 ~Tacoma, Washington Astro (METEOR)
+26-29&11- Jul Belfast, Maine Multi (PHOTO) Astro (ARCTURUS)
+28 -52/26N 35W (Mia Atlantic) Civil & Mil Air Astro (METEOR)
+28 - S$ of Charleston, West Virginia Eastern Airlines Astro (METZOR)
+28 -Nome, Alaska aimner Astro (METZOR)
+30 -North Park, Colorado i Insufficient Data
+30 ~ Climax, Colorado ne Astro (METEOR)
+30 ~ Uruguay CIOVI Insufficient Data
+ee ADDITIONAL REPORTED SIGHTINGS (NOT CASES)
+DATE LOCATION SOURCE EVALUATION
+Jun - Universe Science News Ltr
+Jun - Montreal, Canada )
+Jun - BEAR pakistan a... 16)
+i 6-10 - Over California Map
+587] C10 ~Marysville, California Newsclipping
+19 ~Glen Arden, Maryland Newsclipping
+| ar —Cary, Illinois Green 164)
+29 ~Conn, Ariz, Atlantic Ocean Newsclipping
+
+29 ~ Shannon, Ireland Newsclipping

@@ -1,0 +1,40 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T14:35:27Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 954045, "source_ctime_ns": 1793390722886096806, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302552903/1053.jp2", "source_mtime_ns": 1785808459000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302552903/1053.jp2", "source_sha256": "167dd19bd70bd2b5ba0a4ca81c297e339dcf161f9dcc7fbf991537867038217b"}
+
+===== PAGE 1 =====
+{"alpha_words": 98, "chars": 708, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+fj A 7 y i
+7 ve oO CC eW nar » et Cenr—
+i? vu j
+ft
+
+DEPARTMENT OF THE AIR FORCE
+HEADQUARTERS FOREIGN TECHNOLOGY DIVISION (AFSC)
+WRIGHT-PATTERSON AIR FORCE BASE, OHIO 45433
+
+Pen eae. JUDE URO 1 February 1967
+
+SUBJECT: UFO Observation , 27 dan 67
+
+Ps
+Ars
+
+TO:
+
+Conroe, Texas 77301
+
+3 Reference your unidentified observation. The information which
+
+a we have received is not sufficient for a scientific evaluation.
+
+a Request you complete the attached FTD Form 164 and return it in
+
+E the envelope provided. Thank you for reporting your observation
+
+a to the Air Force.
+
+2 ve “y |
+ydAMES C. MANATT, Colonel, USAF 1 Atch |
+
+fon of Technology and Subsystems FTD Form 164 w/envelope
+
+TOETIUFO OF Fiein, FILE CoPY

@@ -1,0 +1,15 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T14:48:56Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4305995, "source_ctime_ns": 1793373166664098267, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28945717/0963.jpg", "source_mtime_ns": 1785688791000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28945717/0963.jpg", "source_sha256": "7d1e324976921f5c7d3df8428e281f9f6372a83274fd88223057fb3ba0a00cfa"}
+
+===== PAGE 1 =====
+{"alpha_words": 57, "chars": 314, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Point ¥2~ jos ot PQ~ REPORT — ‘
+Aaa Phots_oF TANCE jv Foam oF Aw_A hc, SHewsne ARK BY TENOLYS
+
+Fifem The FP 1sz AZimo th IAOMAUT ICAL MILES oot Fem Sish Plug STAleon
+
+T° The MS fA ZIMCTA -S° AAvTIC AL MAES oor Plt Sergrinvys sia Troma
+
+__ 679™®AC YW Soom
+—.. OS8$CeoLsa, tures Com $ she
+
+fo = Sf me PAL 38Z 89 wg

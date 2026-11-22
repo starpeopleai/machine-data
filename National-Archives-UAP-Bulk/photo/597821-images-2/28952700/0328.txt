@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T14:48:07Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4200294, "source_ctime_ns": 1793374677781832348, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28952700/0328.jpg", "source_mtime_ns": 1785696862000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28952700/0328.jpg", "source_sha256": "4ffa4160f5e059933229b78b8805bc33eb98b8651b7d071b1f03511622d01b4a"}
+
+===== PAGE 1 =====
+{"alpha_words": 107, "chars": 725, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+CSAF ITra 1 ¢ wNCLD
+
+FROM: CAPT HARRY SMITH ATOINeOAY mn
+TO3 CAPT FD RUPPELT ATIAA=3 Ke
+TNE FOLLOWING FLYCERPA. (3 FORVABDED FOR YouR
+INFO AND ANY: PESIAVD ACTION, “VISUAL SIGHTING
+ay3a49 TULY AT. HARY ACN TB NFD
+
+UNIDENTIFIED OBJECT OBSFRVED BY
+
+CONTRTROL TOWER, “FATHER STATION, GASF CPFRATIONS,
+155 AC/B 39 FOR FOUR NINUTES. ONE CRUFCT
+
+STATIONARY GSSCIFEFT ALTITUDE OVAL SHAPE CHANGING
+
+4 f Fé > i.
+COLOR RED UNITF DLUE NO TRAIL NO FxaUsT  tehe iteer fh ore?
+vena “ih
+
+SILENT NO RADAR CONTACT YEATHER CALM VISIBILITY 12 oe
+MILFS. WEATHER STATICN CRECKED FOR BALLOON
+
+POSSIBILITY YVITH NFCATIVE RESULT, NO INTERCTPTION
+
+MADE. THIS REPORT YAS RECEIVED FROM Co NFAC
+
+PEPPERRELL AFB ONFD 255489 ZULU
+
+END CSAF ITEM 4 ( UNCL)

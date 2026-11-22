@@ -1,0 +1,54 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T14:33:25Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 29095160, "source_ctime_ns": 1793356961957968937, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1175-475571-0003.tif", "source_mtime_ns": 1785564798000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1175-475571-0003.tif", "source_sha256": "d444a12eba1ba7a39f92cb5670a8cbbbaaf371d961c2450cd4e140eab1f4c4cd"}
+
+===== PAGE 1 =====
+{"alpha_words": 162, "chars": 1135, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+” AF FORM 112—PART I SA Iai 0
+
+¥; 1
+APPROVED 1 JUNE 1948 (CLASSIFICATION)
+
+AIR INTELLIGENCE INFORMATION REPORT
+
+FROM (Agency) REPORT NO.
+Wing Intelligence IR+1-§2 2 z 3
+PAGE OF
+
+ig No interception made
+ie Sketch attached
+
+k, Statements by lst Lt. Chaplin and 2nd Lt,
+1. No radar scope presentation
+m, Radar functioning normally before and after inci cae
+
+4
+fi
+Ae
+
+n, Negative
+
+COMMENT D/I, JAPAN AIR DEFENSE FORCE:
+
+The Deputy for Intelligence evaluates this report as C6 rather than 0-2,
+
+GEORGE R. KAUFFMAN
+Lt. Colonel, USAF
+Deputy for Intelligence
+
+NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U. S. C.—
+
+31 AND 32, AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW.
+
+IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY (OTHER pe THAN, UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF
+INTELLIGENCE, USAF. gt, si f ry |
+
+eta . te { :
+
+ve
+A a , ‘
+
+Saou Plow rroN Lo-assro-1 v8 vend earns ome
+
+anil a BN
+1 |
+
+Declassification Authority: NND 57565

@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T14:45:51Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3748594, "source_ctime_ns": 1793371653280304456, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28939312/00462.jpg", "source_mtime_ns": 1785688866000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28939312/00462.jpg", "source_sha256": "cfd928c07bf5f10428a4ccd3e5acef7a85071058407ab180f81431b127ed93a5"}
+
+===== PAGE 1 =====
+{"alpha_words": 92, "chars": 766, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+‘ , PROJECT 10073 RECORD CARD. .
+
+1. DATE ‘) ~ LOCATION 12. CONCLUSIONS
+X Wos Balloon
+16 July 1951 Fairborn Ohio 0 Probably Balloon
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION O Possibly Balloon
+Loco! bet 2100 & 2115 R Ground-Vi suol D Ground-Rader : son egg
+cur_27/0200Z O Air Visuol D Air-Intercept Radar O Possibly Aircraft
+5. PHOTOS 6. SOURCE O Was Astronomical
+O Yes O Probobly Astronomical
+OXNe Civilian O Possibly Astronomical
+7. LENGTH OF OBSERVATION 8. NUMBER OF OBJECTS | 9. COURSE 0 Other
+O Insufficient Dota for Evaluation
+QO Unknown
+5 min 1 SE
+10. BRIEF SUMMARY OF SIGHTING 11. COMMENTS
+Color was bluish=white. Altitude extreme, Evaluated as balloon.
+
+Hovered and moved from side to side similar
+to free balloon, No sound.
+
+ATIC FORM 329 (REV 26 SEP 52)

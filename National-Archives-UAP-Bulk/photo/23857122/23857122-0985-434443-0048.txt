@@ -1,0 +1,23 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T14:33:00Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 23853656, "source_ctime_ns": 1793356881425780644, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-0985-434443-0048.tif", "source_mtime_ns": 1785564781000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-0985-434443-0048.tif", "source_sha256": "2a1e8eb25ea1cfcfb17b430b6b55fd45fa8a88cca85ae5af1c62c3f4e1b48098"}
+
+===== PAGE 1 =====
+{"alpha_words": 25, "chars": 203, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+aan
+
+y fi : f} } / “-_ f— 4 5 J
+
+| |
+Ts ard. 4 Mg a y 1) feet i 7 SO x rw
+(wt~-J uv Sie eerie / x Ct a vee J one
+
+1}
+¥
+
+i
+
+= cooewn =
+Ih OT | eae iy 6 Be lo #4
+
+*
+
+Declassification Authority: NND 57565

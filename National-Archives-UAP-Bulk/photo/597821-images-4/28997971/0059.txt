@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T15:07:02Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8289130, "source_ctime_ns": 1793386990325171414, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28997971/0059.jpg", "source_mtime_ns": 1785748534000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28997971/0059.jpg", "source_sha256": "bda228de89808d58e4bcfadeccec639122b1dc592fde5bb8bc778d5d49d940c4"}
+
+===== PAGE 1 =====
+{"alpha_words": 98, "chars": 572, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Page 8
+
+39. :Do you think you can estimate the speed of the object?
+
+(Circle One) Yes.) No
+IF you answered YES, then what speed would you estimate? ae, IFS Wifes fi fon [FOF Ficen
+
+40. Do you think you.can estimate how far away from you the object was?
+(Circle One) Yes CNe)
+
+IF you answered YES, then how far. away would you say it was?
+
+41. Please give the following information about yourself:
+
+NAM
+rs? Name
+City Zone’ State
+
+Age__. bos Sen Minit
+
+re ~ j F 1 * t - ne *
+ct N ey { fF “ di BE 2
+anes
+42. Date you.completed this questionnaire: ee a S962.
+: ay Month Year

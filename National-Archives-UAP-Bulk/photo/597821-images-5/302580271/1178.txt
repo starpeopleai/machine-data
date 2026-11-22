@@ -1,0 +1,41 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T14:42:46Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1737072, "source_ctime_ns": 1793393743805552690, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302580271/1178.jp2", "source_mtime_ns": 1785808396000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302580271/1178.jp2", "source_sha256": "a4b6485de4f1f87ddf277c626f0884a3e65978ec8906dd6f839c6bde57991b60"}
+
+===== PAGE 1 =====
+{"alpha_words": 80, "chars": 603, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PnOJECT 10073 RECORD
+
+1. DATE - TIME GROUP 2. LOCATION
+
+04/200
+4 October 68 01/2n0 Near Dayton, Ohio
+3. SOURCE 40, CONCLUSION si , a
+Civilian INSUFFICIENT DATA FOR BVALUATION
+4. NUMBER OF OBJECTS
+bs Tha observer has not revurned her AF ¥orm 117 as of 18 Noy 68,
+a
+
+5S. LENGTH OF OBSERVATION ]11. BRIEF SUMMARY AND ANALYSIS
+
+20 Minutes The observer reported to the FID Dat
+
+y Officer that she had
+6. TYPE OF OBSERVATION Sighted a UFO,
+
+Ground-Visual
+7. COURSE
+
+Not Reported
+2. PHOTOS
+
+O Yes
+S<XNo
+9. PHYSICAL EVIDENCE
+
+O Yes
+
+FO :
+
+RM
+FTO sep 43 0-329 (TDE)
+
+Previous editions of this form may be used,

@@ -1,0 +1,49 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T15:09:38Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8694780, "source_ctime_ns": 1793385821564014346, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28994193/0632.jpg", "source_mtime_ns": 1785747940000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28994193/0632.jpg", "source_sha256": "e0868e79631162782744300ea7bd8e48fea67a686f289a8eb0d2296afbe88dbd"}
+
+===== PAGE 1 =====
+{"alpha_words": 120, "chars": 839, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+REPLY TO
+ATTN OF:
+
+SUBJECT:
+
+. TO
+
+a
+
+HEADQUARTERS
+FOREIGN TECHNOLOGY DIVISION
+
+AIR FORCE SYSTEMS COMMAND
+UNITED STATES AIR FORCE
+WRIGHT-PATTERSON AIR FORCE BASE, OHIO
+
+TDE
+
+1 1 6
+Request for UFO Information (CRs April 1963
+
+Hq USAF SAF-OI 3b (Major Hart)
+Wash 25 DC
+
+1. Reference the attached letter from Gg,
+requesting information on unidentified flying objects, This
+letter is forwarded to your office for whatever action you —-
+deem necessary.
+
+2, The evaluation of Mr, @@MMMMMMs sighting was made
+possible due to the completeness of his report. A photo of
+a radiosonde weather balloon similar to that sighted is
+attached to be forwarded with your reply.
+
+FOR THE COMMANDER
+
+cy eal
+
+ERIC T, JONCKHEERE 2 Atch
+Colonel SAF 1. Ltr fm Jd.M,
+
+Deputy for Technology and Subsystems wemeaeeem, dtd 11 Apr 63,
+
+2. Photo of Radiosonde
+Balloon,

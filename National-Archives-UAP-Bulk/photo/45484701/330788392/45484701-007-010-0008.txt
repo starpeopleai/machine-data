@@ -1,0 +1,48 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T15:14:53Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10281815, "source_ctime_ns": 1793365132868432482, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330788392/45484701-007-010-0008.jpg", "source_mtime_ns": 1785684778000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330788392/45484701-007-010-0008.jpg", "source_sha256": "93be48d24ab72ab6d39ea59d3f0ccae04131dbd83fc79c902f5ef34a58cea60f"}
+
+===== PAGE 1 =====
+{"alpha_words": 151, "chars": 1069, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+a mf ; )
+AFCSI-6D/Capt Johnson/jéb/8924/28 Apr 60
+
+xy te 4
+
+APCSI~6D 2185-25 | UNCLASSIFIED
+Joseph Perry |
+
+SAFOL
+
+1. Reference is made to letter this Headquarters, dated 26 _—
+1960, concerning captioned individual.
+
+(2. Attached for your further information and any action dened
+: riate is a copy of a letter from the Federal Bureau of Inves~
+( Yagation, dated 21 April 1960, with two attachments. |
+
+3. It is requested that we be furnished a copy of any correspondence
+forwarded by your office to Perry, in order that this Headquarters
+may comply with the request set forth in paragraph 2 we the attached
+letter, dated 21 April, 1960..
+
+ke No Scceplinsstin in being conducted of Perry by this Headquarters.
+
+ee Adve ard te seh } oy a Atch
+
+ft. a FBI Ltr, re 3 JP
+
+Vv GILBERT EVY dtd 21 Apr 60 w/2 atchs
+; ‘hief; Chante ‘intelligence: Division
+
+Biche ate of Special Inv estigations
+rr ~ "
+lhe Inspector Genera]
+
+AFCSI-6D
+
+Capt JohnsenfAy< oa Sou ME
+Mad Olsen .~-> atm INV 2-18! ae.
+Mr ree Cys. PSIZzGY Capt 7TOBRSon
+
+youl, oh }
+
+Declassification Authority: NND 923007

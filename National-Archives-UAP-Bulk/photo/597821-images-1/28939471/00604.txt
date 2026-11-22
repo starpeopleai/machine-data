@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T14:45:16Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3585135, "source_ctime_ns": 1793371691160958679, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28939471/00604.jpg", "source_mtime_ns": 1785688775000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28939471/00604.jpg", "source_sha256": "3f485d5282a59b6dceb84510c19445b84b9719412afa275fa99680faca92c97f"}
+
+===== PAGE 1 =====
+{"alpha_words": 83, "chars": 605, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+HEADQUARTERS
+AIR MATERIEL COMMAND
+COMMUNICATION“ AND. Ei WRIGHT-PATTERSON AIR FORCE BASE
+GENERAL, AI MaTERER DAYTON, OHIO
+
+COMMANO, ATTENTION FOL-
+LOWING OFFICE SYMBOL:
+
+Ramsey, Tllinois
+
+peer 1
+
+Receipt of your letter dated September 10, 195lis
+hereby acknowledged, =
+
+Your letter will be forwarded to the office interested
+in these matters,
+
+If further information is desired you will be contacted,
+Your action in writing this Command is appreciated,
+Yours very truly, a
+
+F i “ rd ° t
+BRYAN L. DAVIS
+Colonel, USAF
+Air Adjutant General
+
+Hq AMC Form Ne. 9 (Rev 8 Feb 49) Air Force-WPAFB-L-19 JAN 50 650M

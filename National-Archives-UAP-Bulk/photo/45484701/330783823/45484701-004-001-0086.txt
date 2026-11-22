@@ -1,0 +1,7 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T14:58:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6170634, "source_ctime_ns": 1793362831422614512, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330783823/45484701-004-001-0086.jpg", "source_mtime_ns": 1785685061000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330783823/45484701-004-001-0086.jpg", "source_sha256": "19df82fa5ec297833230093fc42fa94a64412a6d9a1e2199f451bdb4fe225e81"}
+
+===== PAGE 1 =====
+{"alpha_words": 5, "chars": 49, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 1, "variant": "plain-psm3"}
+eR Moen.
+
+Declassification Authority: NND 923007

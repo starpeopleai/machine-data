@@ -1,0 +1,46 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T14:51:16Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4705021, "source_ctime_ns": 1793370686431008839, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28935019/0907.jpg", "source_mtime_ns": 1785688774000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28935019/0907.jpg", "source_sha256": "aa9ed09c3f9d7d6bf0aa632aaaa08e5d225ad9d1e864bd599c1722f7730b2d08"}
+
+===== PAGE 1 =====
+{"alpha_words": 171, "chars": 1141, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+GUIDE TO INVESTIGATION (Cont'd) Incidont No. 2
+
+UNCLASSIFIED
+Rolativo to Rader Sightings
+
+le RosRadars now operating on ground
+No radar equipment in operation
+ae Observations of direction, range, speed, altitude and size
+of target:
+b. Did target oxccute any turns? If so, what anglo (180 degrees),
+etc., and what roicius of turn. If radius of turn was not
+observable, how long did the target: stay in the turn and
+what was its spcocds:
+c. Note particularly any separation of distant tarcet into
+several targets upon approach:
+de Was radar blip on cathode ray tube well defined and consistcnt
+with size of object; faint; fcding, pulsating at regular rate:
+e. Did radar ccho signal disappear suddenly or gradually?
+2 If airbornc, when object was sighted
+
+ae Were there any radar indications or oxtra noise on radio circuits:
+
+be Give estimates of size, speed, mancuvers, ctc.:
+
+GENERAL
+
+l. Teletype sequences of local weather conditions:
+
+No Weather Station reports available.
+2e Winds aloft report:
+
+Light Southerly wind
+
+a. Adiabatic chart for pcriod in question:
+
+Not available
+RAB INTERVALS:
+: DIR 6200.10
+UNCLASSIFIED BOD DIS
+—=__=a
+
+vw

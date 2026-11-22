@@ -1,0 +1,37 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T15:02:32Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7177565, "source_ctime_ns": 1793385007714276303, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28991595/1225.jpg", "source_mtime_ns": 1785748025000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28991595/1225.jpg", "source_sha256": "799bfc9747696127cfb0092efad4e314309daa377bc1fd113a3b779396967fc8"}
+
+===== PAGE 1 =====
+{"alpha_words": 135, "chars": 845, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+. ts DEPARTMENT OFTHE AIR FORCE )
+( STAFF MESSAGE DIVISION (
+
+AF IN: 33167 (1 Mar 61) Mi Seg “hye te ge air . 4 of 4
+
+INCOMING
+
+PAGE FOUR RJEDGS 5
+
+He
+I.
+Je
+
+BT
+
+15 ,000-300,000 MINUSS1.5 DEGREES PER 1000 FOOT
+ABOVE 38,020-0
+NONE
+os ts
+NO TRAFFIC IN THE AREA
+A CHECK WASSMADE WITH LOCAL FIGHTER SQUADRONS AND THE RADAR
+BOMBING SITE AZ IRONWOOD MICH. TO DEZERMINE WHETHER ANY AIR
+CRAFT WERE IN THE AIR AT APPROXIMATELY THE TIME OF INCIDENT
+IT APPEARS THAT NO AIRCRAFT WERE IN THE SAME AREA AT THE GIVEN
+TIME. IT WAS UNLIKELY THAT THIS COULD HAVE BEEN AN AIRCRAFT FROM
+THE DESCRIPTION GIVEN AS IT WAS MOVING VERY SLOWLY FURTHER JET EX-
+HAUSTS AREV VISIBLE FROM SHORT DISTANCES ONLY AND IF THIS WERE SO
+THE NOISE WOULD HAVESBEEN HEARD EVEN THOUGH THE OBSERVERS WERE
+INSIDE ASBUILDING. POSSIBLE IDENTITY IS UNKNOWN. |
+
+@1/1424Z MAR RJEDGS
+
++ i m 2

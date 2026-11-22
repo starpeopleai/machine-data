@@ -1,0 +1,57 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T15:15:03Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 11551690, "source_ctime_ns": 1793354439654733646, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989207-001-0069.jpg", "source_mtime_ns": 1785564285000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989207-001-0069.jpg", "source_sha256": "b7c1d415c1cfd84c42138e2756896b746c073e492526a21676125b0682917ebf"}
+
+===== PAGE 1 =====
+{"alpha_words": 189, "chars": 1585, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+People & Employment
+
+Phillips Laboratory employs more than 2,400 military and civilian
+workers fhe majority of this workforce consists of scientists,
+engiueers, and technicians who specialize in mathematics, elec-
+
+Ayonics, lasezvs, ootics, physics, chemistry, geophysics, computers
+
+and other sciences.
+
+Continuing emroyee education is emphasized, with job-related
+training and education programs available in many disciplines. A
+number of colleges and universities offer degree programs on base,
+inciuding elecirical engineering, computer science, mechanical
+engineering. ang m inagement.
+
+The Lab offers sommarable pay to similar jobs in private industry.
+In aaditivn, mp...) ees receive an attractive benefits package,
+including «variety of medical, retirement, and life insurance plans,
+sick leave, and vacation.
+
+US, ctizcnsiip ts required to work at Phillips. Many jobs also
+require 2 security clearance.
+
+The Air Force's Phillips Laboratory is an Equal Opportunity
+Employer.
+
+For employment information, contact the following offices:
+
+Military Personnel — _ Phillips Laboratory
+Military Personnel
+Kirtland AFB NM 87117-6008
+Phone: (505) 846-4795
+
+Civilian Personnel — Kirtland Civilian Personnel Office
+Kirtland AFB NM 87117-5000
+Phone: (505) 846-2207
+
+Hanscom Civilian Personnel Office
+Hanscom AFB MA 01731-5000
+Phone: (617) 377-2280
+
+Edwards Civilian Personnel Office
+Edwards AFB CA 93523-5000
+Phone: (805) 277-3840
+
+or more information about the Phillips Laboratory, contact:
+
+Office of Public Affairs
+Phillips Laboratory
+
+Kirtland AFB NM 87117-6008
+Phone: (505) 846-1911

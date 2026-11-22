@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T14:53:34Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5181039, "source_ctime_ns": 1793374607889386162, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28952375/0039.jpg", "source_mtime_ns": 1785696896000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28952375/0039.jpg", "source_sha256": "f534c2f08ac3eba66e011fc5ec136d4b8942c741c28d0500de38c56fce10797a"}
+
+===== PAGE 1 =====
+{"alpha_words": 10, "chars": 89, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+J
+
+: .
+3 - . ° “iy
+J
+.
+.
+.
+\
+
+erat NGI: on
+
+PELLAP SO
+
+'
+
+8)
+
+Vor) AY
+
+5
+
+}
+
+—
+
+os
+
+ari

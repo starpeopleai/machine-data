@@ -1,0 +1,90 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T14:45:38Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3707489, "source_ctime_ns": 1793373726766492004, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28948360/0634.jpg", "source_mtime_ns": 1785696659000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28948360/0634.jpg", "source_sha256": "46110957daaafcffa5292bd78b08b7d123b49dba1c3dfb6e96f2b40d3bf4ea2d"}
+
+===== PAGE 1 =====
+{"alpha_words": 217, "chars": 1515, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+( PROJECY 10074 WoRKSHEH'
+I. GEN ‘ SRAL
+
+i. DALS [@= LUC aioe 3. TE
+
+/é { aA Ol. ne Cf To ao An J 5 v.44 % ; : 7 ; eo Zobra: LZ » BE :
+; i “es
+
+lL. WAS “OY IECT O HSERVED FOU LH GiOUiD? a [.} Yes a
+
+15, WaS UBUECT OBSERVED BY GROUND RADAR? CJ tes
+
+fy Naked Byo
+\_.) Binoculars
+Cl Yelescope
+I) Vnsodolite
+
+L_iBy Ona Sot
+CIiBy Two Sets
+("| By Three Sets
+
+‘%. WAS OS386T OBSERVED FROM fat ALK? C) Yes
+
+7. Wits AIRCRAFT SCRAMBLED TO INTERCEPT? [J ves
+
+A/C Ovaerved Object
+(] Interception Attempted
+CiNo Intercopt Attoupted
+
+__ A/C Scrambled
+9 Visual Contact Made
+(A/I Contact Made
+{ }No Contact Mads
+
+8, DID OBJECT CHANGE DIReCYION AT ANY TIM? Lj Yes
+
+i) Normal
+lr \Violent
+
+“Sy IF O8JECT WAS A "LIGHT", WAS IT:
+
+.) Blinking
+} Stondy
+
+10,
+
+11-15 Seconds
+
+[
+[-
+
+LENGTH OF TIM IN SIGHT: C}
+("] 1-5 Minutes
+(F
+
+il
+
+Over 10 Munutes 20
+
+REPORTING AGENCY (Unit Number and lalling Address) .
+
+.
+
+II. ASTRONOMICAL DATA
+
+ria,
+
+WHAT ASTHOWORECAL ACTIVIYY WAS noted?
+
+ATIC Teast Form 334 (13 Aug 52)
+
+13, DID OBJECT APPEAR TO ARCH DOWNTARD? | | Yes whee
+Vy. DLD OBJECT HAVE A TAIL? i" Yes r-}No
+15, Did OBJECT APPEAR TO DISINTEGRATE? “7 Yes P| No
+“I6é. TiMS OF SIGHTING RELATIVE TO SUNRISE OR SUNSET (iat From Air Almanac)
+Co Night
+& T} Day
+Ci Sunrise
+{' Sunset
+III, AIRCRAFT DATA
+L/S WERE AIRCRAFT NOTcD IN” AREA? r) You [Ito
+"One Aireraft
+‘More Than One Aircraft sae
+187 WAS ANY SOUND HeATD? “FT Yea [lio
+ie WES VHERE INDICAVICKS OF HIGH BACKGKOURL NOTSE™ > Yes ~ Caio
+CO. WAS WHE OBJECT VIRGeD ALOVE 1.50 ELEVATION? = Yas : mi

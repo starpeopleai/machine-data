@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T14:59:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6535539, "source_ctime_ns": 1793380156683783441, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28974752/1192.jpg", "source_mtime_ns": 1785700703000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28974752/1192.jpg", "source_sha256": "853a9f67caec36684248aaf46c2db5c82db3c09ab77fbc0c362bbece2f3a3384"}
+
+===== PAGE 1 =====
+{"alpha_words": 106, "chars": 571, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+2
+vn ©
+
+Page §
+
+In the following sketch, imagine that you are at the point shown. Plo os
+on "AY on the curved line to show how high the objest was above ths
+horizos (skyline) when you first saw it. Place a "B" on the same sucves
+line to show how high the object was above the horicon ‘Cieglitns) whe
+vou last saw ide
+
+ene
+
+in heatp Following Larger sketch place an “A" at the position the obfec
+Was en you first saw it, and a "BY at its position when you Jas‘
+
+ms: 2734 +
+ww aus > Oo
+Aspen té smaller sketch as an example of how te complete ths larger sketch.
+
+am,
+Myed

@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T15:02:39Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7225736, "source_ctime_ns": 1793361782692727092, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330781368/45484701-001-003-0096.jpg", "source_mtime_ns": 1785685140000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330781368/45484701-001-003-0096.jpg", "source_sha256": "4fda2b2cadfe137f55e5874a9d7fb1c4c1173d749b98b771bc0aaa8567a8194a"}
+
+===== PAGE 1 =====
+{"alpha_words": 117, "chars": 773, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Captain J. P. Shea
+Buford G. Truett
+
+Inspector
+
+Obeervations
+
+This report is being made in writing at the request of
+Lt. 0. E. Strang. ; 2
+
+: 1. Observations,
+
+parts
+2. Recommendations, 3. A map indicating the point of my observations.
+The third part of this report will not be submitted now, but will be
+given later when a map is available to make this map accurate.
+
+W. D,. Wilson and myself, being on patrol for
+
+airplane
+if controlled and not to fall
+object normally would. It was moving very
+disappeared behind Point Eagle.
+
+At 2056 Headquarters was no
+and the angle of movement of this light.
+later to 10-21 Heaiquarters. We returned to
+call, found there Lt. Strang and Mr. Skipper
+who had also observed the same things we did
+
+Declassification Authority: NND 923007

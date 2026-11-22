@@ -1,0 +1,57 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T15:09:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8739922, "source_ctime_ns": 1793364333029176684, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330786876/45484701-006-007-0101.jpg", "source_mtime_ns": 1785685109000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330786876/45484701-006-007-0101.jpg", "source_sha256": "3bf89a6798a169b8088f29546b0dd6ed06c9fb9bbfc385de560efb306ceb96f9"}
+
+===== PAGE 1 =====
+{"alpha_words": 192, "chars": 1462, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+DEPARTMENT OF THE AIR FORCE
+HEADQUARTERS UNITED STATES AIR FORCE UNCLA SSIFIED
+WASHINGTON
+
+ene
+
+THE INSPECTOR GENERAL USAF
+17TH DISTRICT OFFICE OF SPECIAL INVESTIGATIONS
+KIRTLAND AIR FORCE BASE, NEW MEXICO
+
+2) jm Baal) 8 November 1957
+
+SUBJECT: UNKNOWN SUBJECT(S): Unidentified Flying Object Sighted
+and Photographed on 2) March 1957 near Camarillo,
+California by Mrs. AGNES B. SANBORN (DOB 6 Jun1921),
+1516 E. Hood Avenue, Sunnyslope, Arizona
+
+Director, Special Investigations
+Headquarters USAF
+Washington 25, D. C.
+
+ATTENTION: Chief, Counterintelligence Division
+
+1. Reference is made to letter, this District Office, file
+27-80-0, Subject as above, dated 29 October 1957, addressed to the
+Commander, 3th Air Division (Defense), Kirtland AFB, New Mexico; a
+copy of which was furnished your Directorate.
+
+2. By First Indorsement, dated 6 November 1957, to the above-
+referenced letter, the Commander, 3th Air Division (Defense) advised
+as follows:
+
+"After study of attached photo and slide, together with the
+report, it is concluded that object was a cloud formation formed by
+fast rising -columns of hot air. No further action deemed necessary."
+
+3. This letter is classified @GRREDEI@iMig@ursuant to the
+authority contained in Paragraph 30c(2)(a), AFR 205-1.
+
+R. Ss RIFE
+Lt Colonel, USAF
+District Commander
+
+CLASSIFICATION CANCELLED 2% Ft.
+
+Se, 3 Drone a
+
+BY AUTHORITY OF THE DIRECTOR OF SPRU aN y
+By _KU a
+
+Hist orian
+
+Declassification Authority: NND 923007

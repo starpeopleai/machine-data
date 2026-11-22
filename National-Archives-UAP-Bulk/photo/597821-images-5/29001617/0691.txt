@@ -1,0 +1,37 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T14:55:30Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5607122, "source_ctime_ns": 1793388583255233241, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/29001617/0691.jpg", "source_mtime_ns": 1785808703000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/29001617/0691.jpg", "source_sha256": "2a172426693f8aef86672c69b4e9e15a4d6f3caeebe5d96a8aea86141e055a03"}
+
+===== PAGE 1 =====
+{"alpha_words": 77, "chars": 578, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+DEPARTMENT OF THE AIR FORCE
+
+STAFF MESSAGE BRANCH
+UNCLASSIFIED MESSAGE
+
+INCOMING
+
+AF IN: 29998 (8 Jul 63) Page 2 of 3 Pages
+PAGE TWO RUWHKP 11
+(7) NONE OBSERVED
+(8) N/A :
+(9) APPEARED LOW IN ALT IT WE
+B. DESCRIPTION OF COURSE.
+C1) REPORTER'S DOG BARKING
+(2) 45 TO 6@ DEGREES ELEVATION
+
+(5) NVA
+(4) MOVED OVER AIRFIELD CKINGLSEY AFB OREG) THEN MOVED
+
+WEST OVER KENO AFS OREG
+(5) WA
+(6) 10 MINUTES
+C. MANNER OF OBSERVAT ION
+C1) GROUND TO AIR VISUAL
+(2) N/A
+| (3) WA
+- De TIME & DATE OF SIGHTING
+C1) 3718182 JULY
+
+€2) NIGHT
+E. LOCATION OF: OBSERVER
+
+(1) 7pm, XL AMATH FALLs, ORE.

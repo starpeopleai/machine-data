@@ -1,0 +1,34 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T15:01:54Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7099729, "source_ctime_ns": 1793384991371425282, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28991555/1190.jpg", "source_mtime_ns": 1785748460000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28991555/1190.jpg", "source_sha256": "3ea8940960a05ae79f1bfc9914a1ae83add26acd45f735c684e74cac791a351b"}
+
+===== PAGE 1 =====
+{"alpha_words": 67, "chars": 551, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+3. Method Used in Observation:
+
+a. Ground - visual
+b. Optical Aid - None
+ce. Aircraft used - N/A
+
+4. Time and Date of Sighting:
+
+a. 1935 hours, 26 February 1961
+b. Light Conditions: Night, clear and moonlight
+
+5. Location of Observer - Capehart Housing, Tyndall AFB, Florida
+
+6. Identifying Information on Observer:
+
+a. Civilian - N/A
+
+b. Military - MSGT Henry J. Lacour, 4756 AB Gp (Training Section),
+Tyndall AFB, Fla.
+
+7. Weather and Wind: Fair and clear
+
+/s/ Henry J, Lacour
+/t/ HENRY J. LACOUR
+MSGT, USAF
+Training Section
+
+Tyndall AFB, Fla
+
+bho

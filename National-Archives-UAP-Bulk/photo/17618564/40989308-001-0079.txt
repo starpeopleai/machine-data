@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T14:36:51Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1100975, "source_ctime_ns": 1793356203036560985, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989308-001-0079.jpg", "source_mtime_ns": 1785564636000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989308-001-0079.jpg", "source_sha256": "4b9c2a102c682626fc00b5d7a9e0aa707056fd9ef813f9d1a450d4b91e993ec1"}
+
+===== PAGE 1 =====
+{"alpha_words": 242, "chars": 1538, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Balloons--Page 6
+
+If the tracking unit which constantly monitors the flight feels that
+the balloon is going to be over inaccessible territory at cut down time,
+they will cut down the package sooner, providing the mission has been fulfil-
+led. The same cut down system serves to destroy the balloon so that
+it will not continue to float and eventually end up as an obstacle in the
+airlanes.
+
+Each payload contains printed instructions which serve to identify
+the item to a finder as non-dangerous equipment. The message requests the
+finder to notify Holloman and offers a payment of $25 for the finder's
+assistance. Several packages have been returned from natives deep in old
+Mexico who had to carry the packages many miles on mules to reach a train
+station. : °
+
+A typical balloon operation, according to Lt. James C. Friederichs,
+Aga't Chief of the Balloon Branch, begins the day before the actual launching
+with the preparation of the Flight Control Package. This package contains the
+cutdown mechanisms and a device for telemetering altitudes.
+
+At the same time, other operations are going on, such as scheduling of
+tracking aircraft, filing notices to all airports lying within the projected
+flight, and briefing of all support agencies connected with the flight.
+
+The day of the flight, all personnel connected with the flight go to
+work two hours before the launching, except the meteorologists who have
+already been on the job about an hour checking the current weather conditions
+
+and plotting the balloon's trajectory.
+
+(more)

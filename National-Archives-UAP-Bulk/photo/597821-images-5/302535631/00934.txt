@@ -1,0 +1,52 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T14:39:43Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1634069, "source_ctime_ns": 1793389029161503412, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302535631/00934.jp2", "source_mtime_ns": 1785808574000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302535631/00934.jp2", "source_sha256": "902eec51d00c4df4173ad177506400e5a7f5a3321c695e33888b6e257aaa87a6"}
+
+===== PAGE 1 =====
+{"alpha_words": 80, "chars": 597, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+1. OATE - TIME GROUP
+6 September 64° 07/011
+
+2. LOCATION
+West fjafd » Massachusetts
+
+3. SOURCE
+Civilian
+
+4. NUMBER OF OBJECTS
+Five
+
+10. CONCLUSION
+
+UNRELIABLE REPORT
+
+Witness regarded as unreliable
+
+5. LENGTH OF OBSERVATION
+8 Hours (Not Continuou
+
+6 TYPE OF OBSERVATION
+Ground-Visual —
+
+7. COURSE
+Varied
+
+8. PHOTOS
+
+Oo Yes
+
+XX Ne
+
+9. PHYSICAL EVIDENCE
+
+Yes
+Ne
+
+Tl. BRIEF SUMMARY AND ANALYSIS .
+
+)
+
+Mother ship and four smaller ships performing in area for
+about eight hours. Report sent in second hand by Raymond E
+Fowler.
+
+FORM
+FTD sep 63 0-329 (TDE) previous oditions of thie form may be used.

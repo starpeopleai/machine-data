@@ -1,0 +1,64 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T15:06:41Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8218734, "source_ctime_ns": 1793386016992622251, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28994607/1002.jpg", "source_mtime_ns": 1785748332000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28994607/1002.jpg", "source_sha256": "4848d2fc736233ee69bb87817fab6899a285642b561556e9abe842e430a71d5b"}
+
+===== PAGE 1 =====
+{"alpha_words": 109, "chars": 806, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+eo’ Ci Wp
+Pause gr
+
+rae at DEPARTMENT OF THE AIR FORCE
+
+pf STAFF MESSAGE BRANCH
+UNCLASSIRED MESSAGE
+
+AF IN : 59748 (17 Sep aN COMING ‘R/sce
+ACTION: CIN-17
+
+INFO : ARMY-2, CMC-8, JCS-35, OSD-15, NSA-7, OIA-11, OOP-2,
+
+OOP-CP-1, SAFS-3 ) (102)
+SMB C 939
+
+ZCZCHQAG98ZCBJB951 | (/ (2 Ce ee
+00 RJEZHQ bai wee pe
+
+DE RBKAC O51 00 mae
+
+ZNR . a | <S)
+
+0 179943Z
+
+| FM COMALSEAFRON
+
+| TO RBWPPG/ COMWESTSEAFR ON
+
+| RUDKLA/748 ACWRON KOTZEBUE
+RJKDUK/AAC ELMENDORF
+
+RBEPW/ CNO
+
+RJWFALB/CINCNORAD ENT AFB
+RJEZHQ/COFS USAF
+RFEMVB/CANAIRDEF ST HUBERT
+RCWNX/ CANFLAGPAC
+
+RBHPB/ CINCPACFLT
+
+RBHPA/ CINCPAC
+
+RUK PFR/ USARAL
+
+NAVY GRNC
+
+BT
+
+UNCLAS
+
+CIRVIS EVALUATION
+
+A. 748 ACWRON KOTZEBUE AF STN ALASKA 179039Z.
+1. NO FURTHER INFO AVAILABLE.
+
+2- NO APPARENT THREAT.
+NOTE: Advance copy delivered to CIN 170810L Sep 61
+
+BI

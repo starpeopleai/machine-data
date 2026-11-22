@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T15:14:45Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10173102, "source_ctime_ns": 1793387940086124538, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28999449/1396.jpg", "source_mtime_ns": 1785748051000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28999449/1396.jpg", "source_sha256": "a9df7da14a2bcf8c59fa99be22c6aaac6c27e445b5d978c05ded92d4318de323"}
+
+===== PAGE 1 =====
+{"alpha_words": 24, "chars": 113, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+mre eet ee
+
+oot ee mee
+
+ows
+
+See ketal
+
+a
+F
+ae
+p
+#
+
+‘
+
+bs er
+
+PTR LOTR PNM ER I ORE LT
+
+CRO RY OM TT ee
+
+ore
+
+—

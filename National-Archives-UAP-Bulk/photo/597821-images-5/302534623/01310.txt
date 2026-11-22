@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T14:36:45Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1055513, "source_ctime_ns": 1793388934956885837, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302534623/01310.jp2", "source_mtime_ns": 1785808362000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302534623/01310.jp2", "source_sha256": "db4776ee3bef84b4ec2a18aa04fa02766b2ae7b91a4b0570165bd8a2284e865c"}
+
+===== PAGE 1 =====
+{"alpha_words": 106, "chars": 745, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+tere
+
+MN aida RAN ee chai un
+
+August 17, 1964
+
+Dear Mr, Qa
+
+_ nis 13 in response to your letter of July 22,
+1964, in whiten you reported observing an unusual
+ooject in tne Littleton, Tilinois area.
+
+Sinee your reoort of the siznting did not
+eontain surfictient information to enaole our
+investigators to make an evaluation, we are inelosing
+2 Porm 164 U.S. Air Poree Tecnnical Information sheet
+with a request that you complete tne questions in as
+much datail as possible and return it te this orfiae
+ror a supdlementary investigation.
+
+Sincerely,
+
+MASTON M, JACKS
+
+Major, USAr
+
+Public Information Division
+Orficea of Information
+
+4 rg net
+
+3/o Illinois Headquarters
+Selective Service System
+405 fast Washington Street
+Soring?field, Ill. 62701

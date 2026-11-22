@@ -1,0 +1,42 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T14:49:22Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4352335, "source_ctime_ns": 1793373084064467940, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28945425/0662.jpg", "source_mtime_ns": 1785688831000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28945425/0662.jpg", "source_sha256": "20ef8b1a61ee36bda9121907753777fad0f5f766b0f2efc5919e13423ad1e62c"}
+
+===== PAGE 1 =====
+{"alpha_words": 94, "chars": 840, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+. ,
+
+‘ Se ae ( ( “ROJECT 10073 WEATEER para’,
+
+ay
+
+[To DARE OF OBSERVATION] 2. TUE OF OBSERVATION 3. STATON OBSERVING —— "
+rae WihDS MOR: =k ak eS a ea os ge da hi ak edhe an greg
+ALTITUDE VELOCITY DIRECTION | ALTITUDE VELOCITY DIRECTION
+t) |... (degrees {feot) (knots)_}__ (derrees
+0 25,000
+e° jo f
+1,000 a4 Ape 30,000
+3,000 40,000
+4,000 ) 45,000
+5,000 50, 000
+6,000 55, 000
+7,000 60,000
+8,000 65,000
+10,000 | ' 75,000
+12,000 80, 000
+14,000 85,000
+16,000 90,000
+18,000 ~ 95,000
+20,000 100,000
+, Jia Lanes | » R :
+5. WAS AN INVERSION LAYER NOTED? CJ Yes "No
+| _(If yes, at what altitude? ) :
+6, WERE ANY THUNDERSTORMS NOTED IN AREA? C) Yes CJ No
+(If yea, at what quadrant? )
+
+7. CLOUD COVER: CHa, 8, VISIBILITY WAS
+tenths at feet. tenths at _ feet. ac MILES,
+tenths at . feet. tenths at feet.
+
+19, COMMENTS:
+
+APic Test Form 333 (13 Aug 52)

@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T15:11:45Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9421335, "source_ctime_ns": 1793365066261926481, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330788259/45484701-007-009-0017.jpg", "source_mtime_ns": 1785684985000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330788259/45484701-007-009-0017.jpg", "source_sha256": "86b929941cfc6a04f22f271b8b5b31783d768d48a479e1c7821ee2a9a32b4c61"}
+
+===== PAGE 1 =====
+{"alpha_words": 141, "chars": 952, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+24-0
+Unidentified Flying Object Sighted by ELSIE
+S. MATHEWS.
+
+@. Examination of the film at the 24th District OSI office through
+use of a standard Sum motion picture projector disclosed that the portion of
+film containing pictures of the alleged unidentified flying object is ap-
+proximately six inches in length. The film is color film and the object
+appears red-orange in color; however, no other identifying features could
+be made due to the short period during which the pictures appear on the
+screen. The film has been returned to Mrs. MATTHEWS; however, she expressed
+&® willingness to furnish the film for further examination and evaluation if
+desired. Mrs. MATTHEWS is employed in the office with her husband, THOMAS
+A. MATTHEWS, Attorney, 10 South LaSalle Street, Chicago 3, Illinois.
+
+q WANSLEY \
+
+Lt. Colonel, USAF
+District Comeander
+
+\
+\
+
+eet Dir OSI
+Comdx, 56th Fir Gp, O'Hare AFB,
+Park Ridge, ILl.
+
+Declassification Authority: NND 923007

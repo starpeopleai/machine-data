@@ -1,0 +1,42 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T14:59:59Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6590065, "source_ctime_ns": 1793362090361085779, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330782123/45484701-002-002-0115.jpg", "source_mtime_ns": 1785684949000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330782123/45484701-002-002-0115.jpg", "source_sha256": "56951f76cad592c67dfe7f5d2fdd5fd91d4bbcb3fb4b6a53530b990f65e62922"}
+
+===== PAGE 1 =====
+{"alpha_words": 37, "chars": 253, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+\s
+Baltimore, Air.
+
+—~ f : ate A .: CAN iG
+A
+
+Da ce i
+
+ey aE
+
+x2 ie eae Vag ruling
+a. +a
+
+Cone
+
+eee |
+
+oe
+
+oat a; A ;
+oy 4 EB é
+v ye 2 nt ell
+
+. x LCA OL f :
+
+Ai
+
+cotal? eda tw
+
+7 -
+LAW]
+eos it U2
+e
+7. rd
+
+rn, Pe
+
+Declassification Authority: NND 923007

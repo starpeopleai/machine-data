@@ -1,0 +1,20 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T15:09:26Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8624867, "source_ctime_ns": 1793354787305670175, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989219-001-0162.jpg", "source_mtime_ns": 1785564339000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989219-001-0162.jpg", "source_sha256": "35633addb532c59a63acaa89f0115366928754b80ef9700dd79a9dad6f3a314e"}
+
+===== PAGE 1 =====
+{"alpha_words": 26, "chars": 154, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ontention
+
+ViLUS JAW
+
+ness,
+
+is an accomplice.
+
+witness, to any of these
+
+defense further
+and 1 dontt thi
+
+' o =a] el >
+LUs Lo. 28 -OUL
+et ee page oo ee

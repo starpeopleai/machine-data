@@ -1,0 +1,43 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T14:47:03Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4018544, "source_ctime_ns": 1793385189721827246, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28992195/0277.jpg", "source_mtime_ns": 1785748273000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28992195/0277.jpg", "source_sha256": "1cdf1a733aa9c57803d424064f6530757478f228b5626692a774047a4c876283"}
+
+===== PAGE 1 =====
+{"alpha_words": 97, "chars": 736, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE DIVISION
+
+Bares 4 Th.) INCOMING MESSAGE
+AF IN : 36584 (29 Apr 61) Page 3 of 3
+NR : 180C-I O4-1-122 fm 18TH TACFTRWG KADENA AB OKINAWA (Cont'd)
+
+12 knots 30 degrees.
+(3) 3,000 scattered,
+
+(4) 15 miles.
+(5) Five tenths.
+(6) 70 degrees,
+
+- None,
+
+h
+1. None.
+J
+
+- None.
+
+k. Wing Intelligence Officer Reports: Three Pilots (two
+were in same aircraft) were questioned independently. All informa-
+tion received was harmonious. It is felt by investigating officer
+that object passed over Kume Shima (west of Okinawa) in a north
+north easterly direction.
+
+(1) None.
+
+This message classified QUE (scr-s) IAW Para 15 and
+
+13, AFR 200-5,
+BT
+
+AFHQ Nev 90 0-309a
+
+PREVIOUS EDITIONS OF THIS FORM
+MAY BE USED

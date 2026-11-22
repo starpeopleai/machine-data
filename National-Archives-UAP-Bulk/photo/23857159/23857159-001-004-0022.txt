@@ -1,0 +1,42 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T15:06:05Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7935380, "source_ctime_ns": 1793361006545915147, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-004-0022.tif", "source_mtime_ns": 1785565204000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-004-0022.tif", "source_sha256": "48e1aaaecfa5709d608712188abd79a97391387543e1764d39a8a887db11c4b7"}
+
+===== PAGE 1 =====
+{"alpha_words": 47, "chars": 382, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+\
+
+\ Routing Inst Cont'd
+
+O3HILVdSIG ALYd | GANIaAYOS ALVA
+bes = t
+
+i 1 \ r ee
+
+AFCIN-IBI PHOTOSTAT REPRODUCTIO}x
+
+REQUIREMENT
+NUMBER OF -
+ORIGINALS REPRODUCTIONS
+SIZE PRINTS | NEGS SETS | PRINTS
+
+TOTAL
+
+OPERATOR NO/DATE
+
+OPERATOR NO/DATE (8/C)
+
+OPERATOR NO/DATE
+
++3 FEB 1958 :
+
+COLLATOR NO/DATE
+
+aa Aou.Lsad
+
+4
+GAAS OGY SaldOO
+¥
+
+TOGWAS ASVATIU
+
+DECLASSIFIED
+Authority NND 9237007

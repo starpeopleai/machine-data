@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T14:52:41Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4986221, "source_ctime_ns": 1793381907329297307, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28982097/0558.jpg", "source_mtime_ns": 1785700688000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28982097/0558.jpg", "source_sha256": "f87aa2cb44138a5dbc640fbe26b5648f91bee011ab1c5d9fdc30c5bfc191ff22"}
+
+===== PAGE 1 =====
+{"alpha_words": 52, "chars": 397, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ee ee a ae
+
+a
+
+ecient
+
+f
+
+Ds
+
+ABI ZC DIP A B ASO i ac?
+
+R
+
+March 4, 1959
+
+Commander Air Technical Intelligence Center
+Wright Patterson Air Force Base
+
+Ohio
+
+Att: ADCIN 4E 4
+
+Gentlemen:
+
+As requested by telephone on February 25, 1959, I an attaching
+
+statement from our Capte@gilerezarding objects sizhted on his flicht
+
+139 of February 24, 1959.
+
+Very truly yours,
+LICAN ATRLINES, Itc.
+
+perations

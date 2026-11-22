@@ -1,0 +1,20 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T14:55:20Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5555816, "source_ctime_ns": 1793378404874693270, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28967880/0877.jpg", "source_mtime_ns": 1785696407000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28967880/0877.jpg", "source_sha256": "bae010177db37437bd0f42943324ee158da45c695cdfdd814c9d5065b5bc2e94"}
+
+===== PAGE 1 =====
+{"alpha_words": 35, "chars": 223, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PAGE THREE RJEPNE 49
+1X. Ae NONE
+
+Xe Ae NONE
+
+Xl. As PLANET MARS <
+XII. As NONE
+
+XLII. Ay NONE
+REMARKS? CONSIDERABLE WEATHER PALLONS HAV
+THE Q6TK AIR DIVISION. 9 <z_
+ET °
+
+15/2472 CCT RJEPNB
+
+FE CURRENTLY BEEN LAUNCHED IN
