@@ -1,0 +1,34 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T08:16:21Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 966386, "source_ctime_ns": 1793355833332682400, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989277-001-0101.jpg", "source_mtime_ns": 1785564536000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989277-001-0101.jpg", "source_sha256": "576d26cfe5f200745f0103af3fac000aff4d79c532983a9228183e6289d95504"}
+
+===== PAGE 1 =====
+{"alpha_words": 229, "chars": 1506, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Q13. In 1947 the Air Force said it was a balloon, in 1994 the Air Force said it was a
+Top Secret Project named MOGUL, and now your saying it is something else.
+What is it?
+
+A13. It was all of those things. The persons making the allegations weren’t even sure of
+what they saw or when they saw it. This is documented in the report. It is a common
+pitfall of historical research based solely on anecdotal information, as this case is, to
+confuse events and combine the dates.
+
+e Idon’t buy it! I think the Air Force is trying to confuse people with all
+this information. On the contrary, this is why our report has nearly 500
+source citations, more than 100 photographs, and even film footage to support
+it. It did not rely on anecdotal claims it relied on documentation.
+
+Q14. What were your sources of information?
+
+Q14. All sources of information are carefully documented in the report according to
+academic standards. As discussed in the report, the sources were official records,
+technical reports, film footage, photographs, mass distribution magazines (TJime, Life,
+National Geographic, ect.), contemporary newspaper accounts, and interviews with
+individuals who were involved in the events—all carefully documented.
+
+Q15. Where was this information found?
+
+A15. Within unclassified, and publicly accessible, holdings of the National Archives,
+Federal Records Centers, official Air Force histories, and public libraries.
+
+Q16. Is this the Air Force’s final word on “The Roswell Incident?”
+
+Al6. Yes.

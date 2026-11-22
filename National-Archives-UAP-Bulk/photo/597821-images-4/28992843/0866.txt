@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T08:29:42Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4026731, "source_ctime_ns": 1793385339908108143, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28992843/0866.jpg", "source_mtime_ns": 1785747850000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28992843/0866.jpg", "source_sha256": "68f018c85ec41cc8120b7818e867b34eff2e9cc52bdfef05989a7cabe1407266"}
+
+===== PAGE 1 =====
+{"alpha_words": 79, "chars": 678, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+1. DATE 2. LOCATION 12, CONCLUSIONS
+
+QO Wos Balloon
+
+CO Probably Balloon
+O Possibly Balloon
+
+‘4. TYPE OF OSSERVATION
+
+A ‘ a ee Oo We i
+&! Ground. Visual O Ground-Rodor eee Aircraft
+O Probably Airerafr
+) Po it Mire
+GM T... ae O Air Vi sual O Air-lntercept Radar 0D Possibly Alrcrafe
+5. PHOTOS 6. SOURCE é ; O Was Astronomical
+G Yes 0 Probably Astronomical
+whe by" ga OT 0 Possibly Astronomical
+
+7. LENGTH OF OBSERVATION | 8. NUMBER OF OBJECTS | 9. COURSE  Other__D2!
+Insufficient Dota for Evaivation
+
+Oo n<nown
+10, BRIEF SUMMARY OF SIGHTING 322°. : 1 Very |11. COMMENTS 16 ractert
+ena ' : 4 4 .
+\ acu .
+. | }
+i »~
+s . ‘
+
+ATIC FORM 329 (REV 26 SEP 52)

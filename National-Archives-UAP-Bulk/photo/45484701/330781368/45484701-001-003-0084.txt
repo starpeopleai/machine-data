@@ -1,0 +1,62 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T07:48:27Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7202509, "source_ctime_ns": 1793361777879935678, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330781368/45484701-001-003-0084.jpg", "source_mtime_ns": 1785685139000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330781368/45484701-001-003-0084.jpg", "source_sha256": "77c570824e7bf7cca64fc281075fe2a69ece8390d3b822c0371af83cc20f6a0f"}
+
+===== PAGE 1 =====
+{"alpha_words": 593, "chars": 3831, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Tos Lt. Cole Doyle Rees January 6, 1949
+
+these quantities were 38° 40' and «8°. According to Pierce, the azimuth of
+the sound beard at 2050 was 99° 48 and the elevation +8° 3's; according to
+Hodges, these quantities were 101° 46' and 414° 30°.
+
+3 At Station BO a statement was obtained from AESS Inspector Herbert
+Myers (his companion on the night of December 30, Inspector William Putnam, also
+heard the momalous sounds, but Inspector Putnam was not available for intere
+rogation on January 5). According to Inspector Myers, none of the sounds ob-
+served at Station 340 at 2010, 2020, and 2050 were heard at Station 390, but
+some 10 to 15 minutes after the bogey warning at 2050, both he and Putnen
+heard what first sounded like the rumbling of heavy wagons ona roadway and
+what later sounded like the whistling noise made by some airplanes while in
+flight. ‘The duratian of the sound as determined by a stope-watch measurement
+of Myers’ actions in going outside, returning to the communications set,
+and again going outside, was 45 seconds. However, Myers reported that he
+lis tened te the sound probably for a minute or more after he went outdoors
+the second time. According to Myers, the azimuth of the sound heard at 2100-
+2105 was 42° 00' and the elevation ¢5° 15°.
+
+4e At Station 350 statements were obtained from AESS Inspectors Harry
+Se Wellborn and Arnold F. Rosgae According to Inspector Wellborn, at approxi-
+mately 2010 on December 30, he heard a noise in the sky which he believed to
+be the motor noise of a 140 H.P. Cub. The duration of his first observation
+of the noise was estimted at about 6 minutes; at about 2020 he made a second
+observation of the same noise, the duration this time being only about 2-3
+minutese (So definite was the impression that the observed noise originated
+in an airplane flying over the prohibited area that a complete blackout was
+executed both during the first observation and the second in the hope that
+the lights on the plane would be observable. However, no visual contact
+whatever was established with the source of the noise.) At approximately
+2050 a third observation of the same noise was made and so definite was the
+impression that an airplane was responsible that on this occasion a bogey
+warning was transmitted to all stations. It is the understanding of both
+Wellborn and Ross that information transmitted by them to Headquarters was
+responsible for issuance of the bogey warning. The duration of the third
+sound was estimated to have been approximately 2-3 minutes. Inspector Ross
+confirmed all of the statements made by Inspector Wellborn with this quali-
+fication: That Roes' first interpretation of the noise heard at 2010 was that
+it came from a light tank cruising on the high road coming into Station 350
+from the north. The incongruity of confusing the noises of the heavier
+(225 HeP.) motor of a tank and the lighter (75 H.P.-140 H.P.) motor of a
+Gub type plane had been the mbject of discussions between Inspectors Well-
+born and Rose and they had resolved the issue by noting that even the light
+motor of a Cub would be laboring heavily in the high altitude where the
+night flight of December 2 is believed to have taken place. According to
+Inspector Wellborn, the azimuth of the sound heard at 2010 was 308° 20°
+and the elevation 22° 30's the asimth of the sound heard at 2020 was 320°
+2 and the slevation 22° 30's; and the azimuth of the sound heard at 2050
+was 334° 2)' and the elevation 22° 30". Since Inspector Wellborn had had
+experience in the use of a transit, it is believed that these are unusually
+accurate azimuth determinations. Since it would not have been feasible to
+have set up the transit in the position occupied by Inspector Ross at the
+
+ting he ae°eg nea. sounds on poco as. be ae mm aac readings
+
+Declassification Authority: NND 923007

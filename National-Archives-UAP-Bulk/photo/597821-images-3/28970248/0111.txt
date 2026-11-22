@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T08:29:52Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4039928, "source_ctime_ns": 1793378957872217635, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28970248/0111.jpg", "source_mtime_ns": 1785700716000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28970248/0111.jpg", "source_sha256": "2d46ee2f23e8721fa9748f8f90115ae1970c175159b8447c20c32ecd74aa84a4"}
+
+===== PAGE 1 =====
+{"alpha_words": 108, "chars": 863, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+1. DATE 2. LOCATION 12. CONCLUSIONS
+0 Was Bailoon
+12 June 1957 S. Cotulla, Texas a Erobobly Belloon
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION ees eee
+© fg ® ‘
+Local 2130 O Ground-Vi suai O Ground-Rador 5 Brahealy Kireels
+GMT__ 3/0330Z Air Vi suai O Air-intercept Radar O Possibly Aircraft
+5. PHOTOS 6. SOURCE X<Was Astronomical (12 2 20r
+0 Yes G Probobly Astronomical
+Ne Military O Possibly Astronomical
+7. LENGTH OF OBSERVATION 8. NUMBER OF OBJECTS | 9. COURSE 0 Other
+O Insufficient Data for Evaluation
+t an a o nknown
+two seconds three 20dgr angle, fiown
+10, BRIEF SUMMARY OF SIGHTING 11. COMMENTS
+Looked like 3 squares in a row with Bolide observation,
+tail about one yard long -- about size
+of basketball, Color blue green. Objecjt
+angled down at 20 dgr and seemed to
+r
+
+all apart as iffit exploded.
+
+TIC FORM 329 (REV 26 SEP 52)

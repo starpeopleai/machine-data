@@ -1,0 +1,54 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T07:38:48Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5385504, "source_ctime_ns": 1793358549036741664, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-003-050-0001.tif", "source_mtime_ns": 1785681126000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-003-050-0001.tif", "source_sha256": "599a615814cc8f419ca7d054ef65755c9ba92e15c5314fcc3ca4e66aa51cab52"}
+
+===== PAGE 1 =====
+{"alpha_words": 118, "chars": 868, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Declassification Authority NND 923007
+
+1:602D AISS UFOB LCG
+
+Tl REPORT No. 2 DATE/TIME OF SIGHTING
+
+SS-UFUB165-55 | 29/0330 2 May 55
+
+3 RECD HQ )602D
+} 2 dame 1955
+
+43
+
+_ LOCATION OF SIGHTING
+
+| _Sacranneto, Californta
+
+{5 MEANS RECD
+f? msg
+7 INVES UNIT
+
+1/6 ACTION
+
+No investigation authorised
+& DATE INVES ASSIGNED
+
+9 ASSIGNING OFFICER
+
+JO DATE IR RECD HQ 711 DATE IR APPROVED
+
+12 DATE IR TO ATIC
+
+3° AISOP FORM 5
+
+| Uy. COMMENTS
+
+Due to the brevity of sighting (510 seconds) and the delay in the
+receipt of the preliminary repors at this Hesdquarters, no foxther
+investigation wes authorized. -
+
+However, from tie scription of the sighting, it is possible that
+gighting was c used by observation of a regular type weather
+balloon ab an unusual angle which cold accom far the inpression
+at tre 3 speed. .
+
+{15 CONCLUSIONS
+
+Posalbly balloons
+
+ATSOP FURY 7 (2Ark 55)

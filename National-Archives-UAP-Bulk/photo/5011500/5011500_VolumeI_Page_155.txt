@@ -1,0 +1,102 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T08:12:48Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 552122, "source_ctime_ns": 1793365594878491132, "source_file": "National-Archives-UAP-Bulk/photo/5011500/5011500_VolumeI_Page_155.jpg", "source_mtime_ns": 1785565397000000000, "source_rel": "National-Archives-UAP-Bulk/photo/5011500/5011500_VolumeI_Page_155.jpg", "source_sha256": "de298d2ef143a7f687783008e1ff924436968be8d0ebd1fde0462ab6fe533c1e"}
+
+===== PAGE 1 =====
+{"alpha_words": 149, "chars": 1097, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+154
+
+49:27:58
+49:28:00
+49:28:02
+49:28:12
+49:28:13
+49:28:15
+49:28:16
+49:28:18
+49:28:20
+
+49:28:28
+49:28:33
+49 28:35
+
+49:28:49
+49:28:51
+
+49:29:33
+49:29:36
+
+49:30:2h
+49:30:26
+49:30:28
+
+cc
+
+cc
+
+1046
+
+cc
+
+cc
+
+cc
+
+cc
+
+cc
+
+cc
+
+cc
+
+CONFIDENTIAL
+
+Roger.
+
+The big markers stick out very well.
+
+Roger.
+
+Roger.
+
+Okay. Ready to copy some more?
+
+Roger.
+
+Let me get some books out here.
+
+Roger.
+
+We want to get some passes down the islands this
+time too, to check the damage from the last
+hurricane.
+
+Roger.
+
+Go ahead.
+
+D-9: 51:13:00. Incidently, do you know you
+
+have a critical dump - tape dump on this pass over
+the Cape?
+
+Roger.
+
+Okay. The time on the D-9 is 51:13:00; Sequence OL;
+Mode Ol. At Time 52:20:00: fuel cell purge at
+Hawaii. At Time 52:36:00: crew status report on
+the Command Pilot at Texas. Do you copy?
+
+VII. Roger.
+
+Okay. At Time 52:42:00: Sequence 01; transponder
+on. Time 53:00:00: Sequence 01; transponder off.
+Time 53:55:00: crew status report on the Pilot at
+Hawaii. Time 55:10:00: PLA update at the CSQ.
+
+Do you copy?
+
+Have copied.
+
+Roger. This is the end of the message.
+
+~ CONFIDENTIAL

@@ -1,0 +1,48 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T07:56:07Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9482457, "source_ctime_ns": 1793379764069404330, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28973330/01453.jpg", "source_mtime_ns": 1785700823000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28973330/01453.jpg", "source_sha256": "d0e00824c9c69707c68cc9a0c060183e2aaf9dc03c21533e6d49f8ec570ef09c"}
+
+===== PAGE 1 =====
+{"alpha_words": 37, "chars": 352, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+(2)
+
+1 ¢3)
+
+» (4)
+
+5)
+» 6)
+
+PAGE TWO RJEPNY 22
+
+(I) NONE
+
+DESCRIPTION OF COURSE
+
+CA) UNK
+
+(B) ELEVATION 69,000
+S8,000FT
+
+(C) UNK ~
+
+(D) STA N THEN N TO S
+
+(2) UNK= 2 Ls a.
+
+MANNER OF OBSERVATIONS
+
+(A) GROUD VISUAL
+
+(B) NONE
+
+(C) N/A
+
+TIME & DATE OF SIGHTING
+
+(A) @7/@212Z ees a
+
+NIGHT
+YONKERS, NY
+IDENTIFYING INFO OF ALL OBSERVERS
+
+(A). BBAGE 47
+z E.

@@ -1,0 +1,13 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T08:15:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 856289, "source_ctime_ns": 1793366625255906023, "source_file": "National-Archives-UAP-Bulk/photo/542184/341-PBB-620.jpg", "source_mtime_ns": 1785565398000000000, "source_rel": "National-Archives-UAP-Bulk/photo/542184/341-PBB-620.jpg", "source_sha256": "a6ce9566cdb60c1c64f8ac769a782c94a62ee842c6035ecf365eceac4bb01c90"}
+
+===== PAGE 1 =====
+{"alpha_words": 12, "chars": 121, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+RG 341 PBB-620
+
+) (ECHO!) miyaKo JIMA 2447N/12520€
+
+INCL )
+(FRAMES [2-14 INCL )
+
+11242 10 oct 62 (FRAMES 6-]]
+lO OCT 62

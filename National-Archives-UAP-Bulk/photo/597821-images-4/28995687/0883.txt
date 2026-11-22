@@ -1,0 +1,44 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T08:26:19Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3532413, "source_ctime_ns": 1793386315731082812, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28995687/0883.jpg", "source_mtime_ns": 1785748565000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28995687/0883.jpg", "source_sha256": "6e1e34c961be93578a5d72c8f06894ae8fac2a63abf1e80c3f01973e4e178722"}
+
+===== PAGE 1 =====
+{"alpha_words": 47, "chars": 349, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+AF
+
+(3)
+(4)
+(3)
+“6)
+H.
+I.
+Je
+Ke
+Le
+BT
+29/
+
+Sa cate emgmnenne 6 A oa ateenaetens acs nee we anne Fi Seapine
+
+E MEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+
+UNCLASSIFIED MrsSaZt
+
+INCOMING
+
+IN : 16858 (29 Nov 61)
+
+NONE
+15 PLUS
+16M BROKEN HIGHER THIN BROKEN.
+NONE
+NONE
+N/A
+UN KNOWN
+AIRDROME OFFICER NO ANALYSIS
+N/A
+
+2141Z NOV RJWFAM
+
+{
+
+pe 3 oF 3

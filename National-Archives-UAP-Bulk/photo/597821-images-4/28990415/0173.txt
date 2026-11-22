@@ -1,0 +1,16 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T07:50:07Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7785141, "source_ctime_ns": 1793384479912110645, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28990415/0173.jpg", "source_mtime_ns": 1785748336000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28990415/0173.jpg", "source_sha256": "bce9efb3800439b4625263d51d61894a21d57dc53b77f9e70d7009b937b34e95"}
+
+===== PAGE 1 =====
+{"alpha_words": 100, "chars": 562, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Page & f
+
+32. In the following sketch, imagine that you are at the point shown, Place an “A” on the curved line to show how | | ‘
+high the object was above the horizon (skyline) when you first saw it. Ploce a “B” on the same curvad line to |
+
+show how high the object was chove the horizon (skyling) when you fast saw it,
+
+4 “
+) OB ae,
+
+33. in the following lorgar sketch ploce an “A” at the position the object was when you first saw It, and “B” at its
+position when you Jas? saw it, Refer to smaller sketch os an example of how to complete the lorgar sketch,

@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T07:48:21Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7080441, "source_ctime_ns": 1793381818524066583, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28981711/0201.jpg", "source_mtime_ns": 1785700798000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28981711/0201.jpg", "source_sha256": "007535143baf8540019e07b8a5981e8acafaa7943ee6913c5ce802c81a4bf73c"}
+
+===== PAGE 1 =====
+{"alpha_words": 96, "chars": 596, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+: ’
+ar pe iS ott ee ee ee Bee wisremaw guy fs m6" xe RI MUSA Tich Po ee ee he ee
+——————
+
+N/A..ITEM JULETTE USAF SA-16 ALTITUDE 19,0100 FEET FLEW SAME -
+
+AIRWAY APPROXIMATELY ONE HOUR PREVIOUS.NO OTHER AIRCRAFT IN
+AREA. ITEM KILO3 CHIEF, INTELLIGENCE DIVISION, 1TH ADCD)
+
+ee
+en ee oe
+
+OBSERVERS WERE EMPHATIC WAS NOT REFLECTION ON WIND-
+
+NO ANALYSIS:
+SHELD(¢ CORROBORATED BY GROUND SIGHTING ) ALSO EMPHATIC NOT AN
+AIR CRAFT DUR TO EXTREMELY SHART MANEUVER J AIRCREW USED BOTH
+STRUCTURE OF AIRCRAFT AND STARS AS REFERENCE POINTS TO GUAGE
+
+MANEUBERS. ITAM LIMAs N/A
+BT
+14/9242 JAN RJKDAG
+
+~~ ee re

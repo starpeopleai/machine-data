@@ -1,0 +1,59 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T08:14:09Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 779917, "source_ctime_ns": 1793389184696423504, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302537749/1279.jp2", "source_mtime_ns": 1785808212000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302537749/1279.jp2", "source_sha256": "5aac415204cdf18ee10656820e22eb7676cbd0b96438dc40e3fc450a9e065dc4"}
+
+===== PAGE 1 =====
+{"alpha_words": 148, "chars": 1048, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+_OATE - TIME GROUP
+
+8 Feb 65 19/0237z
+
+2. LOCATION uf ha ie
+
+16.15N 109.20W (Pacific)
+
+2 SOURCE
+MILITARY
+
+4. NUMBER OF OBJECTS
+one
+
+10. CONCLUSION SATELLITE pPPcrrs To
+
+Comments: ECHO I & II not in area. Flight, holag too much of 4N
+Easterly component for a satellite at this latitude. Direction
+of obj indicates that it was headed toward Mexico. Location of
+ship south of Calif. Eval as possible satellite by JAH.
+
+5. LENGTH OF OBSERVATION
+1 minute
+
+11. BRIEF SUMMARY AND ANALYSIS
+
+Spherical obj bright white color, no sound , trails exhaust or
+features noted. Initial observations at 65° elev 235° az.
+
+6. TYPE OF OBSERVATION
+
+sropng visual
+
+Disappeared at 650 elev 105° az. Measurements made with sextant,
+Flight path straight. Gd vis from flying bridge of ship. Light
+conditions dusk. 2/lo cloud cover. No air traffic sighted in
+
+7. COURSE
+
+105 Aes
+8. PHOTOS
+
+O Yea
+4) No
+
+9. PHYSICAL EVIDENCE
+
+O Yes
+
+No
+
+area. Considered as possible satellite by reporting offical.
+
+FORM one
+FTD sep 63 0-329 (TDE) previous editions of this form may be used.

@@ -1,0 +1,62 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T07:33:44Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4568655, "source_ctime_ns": 1793377742036192615, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28965211/0022.jpg", "source_mtime_ns": 1785696640000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28965211/0022.jpg", "source_sha256": "4ff5e0b9324d4af40d0757591b88eba05ffd336be4cbc63a018e395a259e7d4c"}
+
+===== PAGE 1 =====
+{"alpha_words": 113, "chars": 845, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD |
+
+1. DATE
+
+23 March 1956
+
+Sielersi>
+
+2. LOCATION
+
+Bay,
+
+Labrador
+
+12, CONCLUSIONS
+
+0 Wasa Bolleon
+QO Probably Balloon
+
+3. DATETIME GROUP
+
+4. TYPE OF OBSERVATION
+
+O Possibly Balloon
+
+Local Ea O Ground-Vi aval O) Ground-Radar Leg DOS ONe Al oeclh
+GMT. 23/1039 sDh<Ale Visual OQ Air-Intarcapt Radar | 7 Posaibly Aireralt
+0 Yes 0 Probably Rovehemiedl
+YS No Military O Possibly Astronomical
+7. LENSTH OF OBSERVATION 8 NUMBER OF OBJECTS | 9% COURSE 9, Other
+a yal Dara for Evaluation
+nknown
+
+60 seconds
+
+one
+
+east to west
+
+10, BRIZ# SUMMARY OF SIGHTING
+
+One round object blue in color, trail4
+
+ing,heavy yellow - orange fire
+Over all shape was a teardrop,
+
+and sparks
+
+VV. COMMENTS
+
+-
+
+Object looked like tail fire
+of jet going away. Duration
+excessive for meteor, Case
+evaluated as jet a/c.
+
+AX28 FORM 329 (REV 26 BAP 32)

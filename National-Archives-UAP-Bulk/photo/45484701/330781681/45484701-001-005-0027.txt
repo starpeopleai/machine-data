@@ -1,0 +1,56 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T07:44:24Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6485850, "source_ctime_ns": 1793361875050228422, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330781681/45484701-001-005-0027.jpg", "source_mtime_ns": 1785684787000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330781681/45484701-001-005-0027.jpg", "source_sha256": "ef6df091a4642c284c8ccd85397f5fe8ba978e864e6402c18591f82ea6f9d96e"}
+
+===== PAGE 1 =====
+{"alpha_words": 140, "chars": 963, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+5081 /TrD/e im
+
+SDaQhe27 19 May 1949
+
+SUBJECTs WILLIAM A, REDDES
+PANORAMIC RESKARCH LABORATORY fr
+
+Commanding General
+
+Aiy Materiel Command
+iright-Patterson Air Poree Base
+Dayton, Ohio
+
+ile Reference is made to Comment 1, RAR from your office, subject:
+“Investigation of Flying Dises," dated 2 May 1949, signed by Colonel
+
+2» Attached for your information are tu copies of the report of
+Speoial Agent Thomas Fy Deyle, Jr, Sth OSI District, Wright-Patterson
+AFB, dated 19 May 1949.
+
+Se Thie is om initial report, ‘The investigation is contiming
+in other OSI District offices. Subsequent reports will be forwarded
+
+for your review,
+
+1 inel THOMAS Ff, DOYLE » a
+Rpt of GA UT. Pe Doyle Captain, USAP
+ata 19 May 49 (in dup) Agting Distriet Commander
+
+4 Copy toe OST ig
+
+ITT T.WwTy t his
+AN CH Dig?
+. Sal
+OY OE Ok
+
+"KURT K. KUNZE, Cap
+; Historian a AN A
+
+UFFICE OF
+
+. MAL INVE OCTInay
+SHIAL INVESTIGATION
+nt ancients,
+
+1
+(
+}
+
+LS
+
+Declassification Authority: NND 923007

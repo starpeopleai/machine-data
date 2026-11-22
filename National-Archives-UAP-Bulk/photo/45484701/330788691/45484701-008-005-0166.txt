@@ -1,0 +1,53 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T07:56:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10478119, "source_ctime_ns": 1793365376883399864, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330788691/45484701-008-005-0166.jpg", "source_mtime_ns": 1785684616000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330788691/45484701-008-005-0166.jpg", "source_sha256": "602b9a7b91fef1d91d7ab4171dff855b142e73b72ccf98b1c78b622258592f9d"}
+
+===== PAGE 1 =====
+{"alpha_words": 470, "chars": 3299, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+§. The following Winds Aloft Report, dated 0103002, or 1700 hours Hawaiian
+Time, 30 September 1949, was furnished by Mr. WOLFF:
+
+18203 00016 10614 20512 30409 40207 50107 60412 70518
+80914 91.908 99991, 02005 21010 41209 61209 80808 99992
+00804 52310 99993 02520 52331. 99994, 02421,
+
+9- The Honolulu Police Department advised on 1 October 1949, that during the
+afternoon and early evening hours of 30 September 1949, no report had been received
+by them of any unidentified flying object.
+
+LO. let Lt NORMAN H, STEVENS, AO 821899 and Cpl JAM@S R, OLSON, AF 11 176 125,
+Operations Officer and Operations Clerk, respectively, 1500th Air Base Group, Hickam
+Air Force Base, advised, on 2 October 1949, that there was little flying aircraft
+activity in vicinity of Hickam Air Force Base at about 1700 hours, Flights during
+the day usually land at about 1630 hours while night flight schedules do not begin
+before 1900 hours. Examination of log disclosed a 6-47, Base Flight Aircraft, in-
+bound from Barking Sands, Kauai, T.H., which landed at 1714 hours. An R4D (C~47)
+assigned to VMR Squadron 352 (USO) inbound from Barbers Point, Oahu, landed at
+1725 hours. Two F~47 Aircraft of the Hawaiian National. Guard landed at 1654 hours,
+No takeoffs were reported, All aircraft deseribed are believed to have been well
+under 6,000 feet while in flight and were readily identifiable as such.
+
+die Mr. WILLIAM A. THURGOOD, Meteorological Aide, US Weather Bureau, Honolulu
+Airport Station, reported on 2 October 1949, that he released a white colored radio-
+sonde balloon at 1636 hours, local time, 30 September 1949, and that he followed the
+flight of this balloon by means of a theodelite., According to THURGOOD, this balloon
+traveled in the general northerly are described by Lts NORMAN and MARTIN at about
+the times reported. THURGOOD confirmed report of Mr. WOLFF as to general. descrip~
+tion of the balloong that these balloons expand while rising, and that they can be
+observed with the naked eye up to 45,000 feet, if followed closely and atuwospheric
+conditions are favorable, It was THURGOOD's opinion that atmospheric conditions
+were favorable during the afternoon of 30 September. THURGOOD also reported that
+the balloons used by the local Weather Station are in three (3) colors ~ white, for
+use on clear days, black for use on cloudy days, yellow for use in haze — and that
+the white balloon had been selected on 30 September because of ite properties in
+reflecting the sunlight. THURGOOD advised that while "tracking" this balloon, he
+observed it to shift to and fro due to wind action, but did not observe it to spin,
+nor did he observe any condition which could account for report of smoke or an ex~
+haust. THURGOOD did offer the observation that perhaps eye strain and optical
+illusion could account for such report, recalling that parlor game of gazing steadily
+at a spot, shifting the eyes and the spot watched would seem to move.
+
+12, Major GEORGE H, ARNSTRONG, JR, 762A, Commanding Officer, 614th Aircraft
+Control and Warning Squadron, APO 953, advised on 4 October 1949, that the only
+radar station operating at about 1700 hours, 30 September 1949, on the island of
+Oahu, was the rader station at Kahuku, located on the opposite side of the island.
+
+Declassification Authority: NND 923007

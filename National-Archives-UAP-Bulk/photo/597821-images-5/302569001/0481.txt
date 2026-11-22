@@ -1,0 +1,17 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T08:24:06Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1745810, "source_ctime_ns": 1793392589796970730, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302569001/0481.jp2", "source_mtime_ns": 1785808043000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302569001/0481.jp2", "source_sha256": "24f9e44481e7b7c45ce55c0ad7d9f635a54e8463ea7a6f8a5549bb1569f47a6e"}
+
+===== PAGE 1 =====
+{"alpha_words": 103, "chars": 656, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+At 0930, Major Quintanilla spoke with Mr. Jim Newton of Public
+Relations, SAFOI regarding this observation. Wanted to know if
+
+Public was still getting inquiries on this sighting. Public had gotten
+Only two press inquiries, however Community relations had had several.
+Major Quintanilla informed Mr. Newton that he had spoken with Andrews
+and wanted them to get us a confirmation. Major Quintanilla also
+informed Mr. Newton of the statement that was given in a news report
+that the observation was a balloon, and that Andrews was checking
+
+this out. Mr. Newton said the only release that they gave out tas
+
+that the case is currently under investigation.

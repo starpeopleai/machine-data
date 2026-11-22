@@ -1,0 +1,47 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T07:41:08Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5743503, "source_ctime_ns": 1793372340241273178, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28942377/00459.jpg", "source_mtime_ns": 1785688924000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28942377/00459.jpg", "source_sha256": "074d160dc594d5598e981ed645b82aeae48d66415e8e0b6c8270efd69093005a"}
+
+===== PAGE 1 =====
+{"alpha_words": 43, "chars": 445, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+829 MAOKS —
+
+827 HONTS ©
+
+412 SAPPOF
+421 SUTTSU ad
+
+425 ©
+
+g
+
+430 HAKODATE 116’
+
+re 575 A 11338
+
+el j
+
+582 AKITA _ oS
+
+ae,
+
+40°
+
+$87 SAKATA Sa
+
+(30° |
+| 573 NiGATA
+|
+
+° 602 A'KAWA 117° f
+MOP-SA8 tS | 60O wayiMa eee |
+HCENGSONG 340° | & ae
+
+| | 695 KANAZAWA | 610 NAGANO 1372'
+
+} 7®
+
+740 SAIG 61 TSUMOTO 2009
+i Ce 63: TSURUGA 538 KOF
+13 ABGUIIS0 m 750 MAIZURU_ \ 637 jipa 1581
+
+de by rT 243 MnO. . JAS TOTTORI J
+HA Cm 744 YONAGO ote . ts Sas 3K

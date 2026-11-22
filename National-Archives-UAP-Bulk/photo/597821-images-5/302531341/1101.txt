@@ -1,0 +1,58 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T08:20:35Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1404809, "source_ctime_ns": 1793388712463706600, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302531341/1101.jp2", "source_mtime_ns": 1785808441000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302531341/1101.jp2", "source_sha256": "50137ec36a50b6fef5f385dacb5f774c3a284e3ca3d73815275874302eb6ce02"}
+
+===== PAGE 1 =====
+{"alpha_words": 119, "chars": 822, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+2 98 nama
+
+ie
+DEPARTMENT OF THE AIR FORCE Cr te
+STAFF MESSAGE SRANCH
+UNG ASSES WISSAGE
+
+AF IN : 9676 (21 Dee 63)} PYHD MENS Page 1
+
+<NFO +: NIN-9, XOP-1, XOPX-4, SAF-OS-3, ARMY-2, NAVY-2, cMc-8
+308-35, DIA-25, OSD-15, NSA-7, DIA25, DIA-CIIC-2 (106)
+
+$43 3126
+LXALS IKHA4S2 9
+eee? Zé RURUEAHQ RUECY
+OE RUHLKH 6 21/1126Z
+
+Fil 326 AIRDIV KUNIA FAKILITY KA
+
+TO RUHLEN/ PAK
+
+» wr ba 4 At? 2
+AF HICKAM AFos HA
+
+—?
+
+RUHPHH/COMRAWSEAF RON PEARL HARBOR HA
+
+se
+
+INFO RUEAH@/CSAC USAF ZNR We
+RUECH/ONO WASH DC
+
+RJECW/SECNA YaSH DC
+
+RUNGALB/CINCNOxAD ENT AFB COLO
+
+RUHLHQ@/CINCPAC CAMP H M SMITH HA
+RUHLHS/CONCUSARPAC FT SHAFTER HA
+
+RUHLHL/CINCPAMFLT PEARL HARSOR HA
+RUAUAZ/COMUSJAPAN FUCHU AS JAPAN
+
+RUSBIC/COMUXOREA SEOUL KOREA
+
+RUAGFL/COMUSTDC TAIPEI TAIWAN
+
+RUCSBR/CINCSAC OFFUTT aAFo NEBR
+
+wi
+
+TTITTOOOUNCLAS/526 DO-CO 1992
+
+ee

@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T07:51:12Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8240310, "source_ctime_ns": 1793380258844087145, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28975027/1430.jpg", "source_mtime_ns": 1785701111000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28975027/1430.jpg", "source_sha256": "aa49d26cb613cf70c7ad1d862b6d9017b26193f80bb556849e4ac584ba02b3ec"}
+
+===== PAGE 1 =====
+{"alpha_words": 98, "chars": 614, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+OTT BN Gy hig | «Oy
+dnl s ; )° 7
+
+V $QG175 YOR 122. HYAR86 XMAG 6SEXAISS5 WD C3S2EWDK52 ,
+PP RJWPUE RJWPSE RJEDEN RJEDWP RJEPHQ. a ee
+DE RBWDKW 29 _ | a ‘Lae (
+PR2imO2 ie eae
+FM COMARFC 2347 es
+TO RJEDEN/COM ADC bye ( (
+RJUPJB/COM 27 AIR DIV DEF
+RJEDWP/COM AIR TECH INTEL CEN 7
+RJEPHO/DIR OF INTEL HQ USAF a
+INFO RJWPSB/COM 4 AF :
+AF GRNC
+BT (
+UNCLAS FROM DO-K g246 4AF FOR INTELLIGENCE OFFICER UFOR
+
+THE FOLLOWING REPORT IS SUPMITTED IN ACCORDANCE WITH PARA 7D AF REG
+
+a 2 Au
+\ Pp Dicer ee en eS CO areca >
+t£) BOTTLE CAP | |
+
+(C) WHITE |
+
+(D) ONE :
+
+(E) N/A |
+
+(F) N/A
+
+(G) BLUE FLAME AND/OR RED FLAME AT TIMES

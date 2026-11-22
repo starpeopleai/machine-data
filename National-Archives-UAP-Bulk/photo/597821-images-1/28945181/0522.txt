@@ -1,0 +1,66 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T07:40:16Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5556321, "source_ctime_ns": 1793373048362529584, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28945181/0522.jpg", "source_mtime_ns": 1785688723000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28945181/0522.jpg", "source_sha256": "77568e60f948b2e37c155ee4f5eb527c6f3b80550cba86219376d9fce992de39"}
+
+===== PAGE 1 =====
+{"alpha_words": 227, "chars": 1643, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+APPROVED 1 JUNE 1948
+
+COUNTRY - . * FING SSIF qo” BLANK) fe
+3 AIR — INFORMATION REPORT
+
+arrormi—party SO : RR eo . 4 | )
+
+FLYORRPTS fe
+“AREN REPORTED ON FROM (Agency)
+Wns USA | EAD, Stewart AFB, Ne Ye
+DATE OF REPORT DATE OF INFORMATION EVALUATION
+See Inclosures See Inclosures | See Inclosures
+PREPARED BY (Ofieer) BoURCE a
+Major Peter Be Venable See Inclosures
+
+REFERENCES (Control number, directive, precious report, ec., as applicable)
+
+SUMMARY: (Enter concise summary of report. Give significance in final one-sentence paragraph. List inclosures at tower left. Begin tert of report on AF Form 112—Part 11.)
+
+Appended inclosures submitted in accordance with paragraph 7e (2),
+AFR 200-5, and Chapter V, section 2, b, ICI:
+
+a Incll -~ TORRY Bostonys MaSSey 23 Jul 52
+
+2 = New Berlin, Ne Y. area, 25 Jul 52
+
+3- oH NE U.S.Aey 16 Jul 52
+
+he oo NE U.S.A., 29 Jul 52
+
+5 - tt Presque Isle AFB, Maine, 25 Jul 52
+
+6 = " W NeYe State, 27 Jul 52
+
+7- " Lavallette, Ne Jey 20 Jul 52
+
+6. NE U.S.A., 20 Jul 52
+
+9 " Boston, MaSSe, 23 and 30 Jul 52
+PETER 3B. JABLE
+Major USAF
+
+Asst OP Intel Officer
+
+OT SeEAS \T 8 Y" ,
+5OW Dis
+9
+IncLsS.
+“DISTRIGUTION BY ORIGINATOR
+
+younsel wa
+
+ae
+
+WOTS THIS AFFEL. NG THE me DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U. S.C.-~
+31 ‘AND 32, AS AMENOED. ITS TRANSMISSICN OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW.
+
+If MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AiR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF
+INTELLIGENCE, USAF, -
+(CLASSIFICATION)
+
+ve U.S, GOVERNMENT PRINTING OFFICE : 1959—-0-918.339

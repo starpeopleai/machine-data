@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T07:46:18Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6832303, "source_ctime_ns": 1793383865749401209, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28988128/0254.jpg", "source_mtime_ns": 1785747854000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28988128/0254.jpg", "source_sha256": "fc3d8696519b5163db1dfe02784b2d92dc03ad1fcbd61ab6e342c9cd15517cc5"}
+
+===== PAGE 1 =====
+{"alpha_words": 80, "chars": 698, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+1. DATE 2. LOCATION Agua TIC. 12. CONCLUSIONS
+: (off [reksD4) |0 Probably Bolloon
+3. DATE-TIME GROUP i. TYPE OF OBSERVATION O Possibly Balloon
+O Wes Aiscroft
+Locel SE Ground. Vi sual D Ground-Roder Q Probably Aireroft
+GM T__ 23002 O Air Visual D Air-intercept Rader O Possibly Aireroft
+5. PHOTOS é. SOURCE O Wes Astronomical
+O Yes D Probably Astronomicol
+BNo Stlitarv O Possibly Astronomical
+7. LENGTH OF OBSERVATION 8. NUMBER OF OBJECTS | 9. COURSE i Orher eT
+0 Insufficient Dete fer Evaluction
+nowrs IAG stationary .
+10, BRIEF SUMMARY OF SIGHTING 11. COMMENTS
+. Y stile . [fom 4 Phares 4n? sfficisls
+, ct} P hes 1% fameter a
+3 ( 1 e
+
+ATIC FORM 329 (REV 26 SEP 52)
+
+NS

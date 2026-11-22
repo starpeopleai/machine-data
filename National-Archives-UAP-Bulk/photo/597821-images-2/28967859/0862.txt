@@ -1,0 +1,71 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T07:47:50Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7043857, "source_ctime_ns": 1793378399953103567, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28967859/0862.jpg", "source_mtime_ns": 1785696967000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28967859/0862.jpg", "source_sha256": "9df39fd5b4543558040b5d0e5738f84201f00c733fa0c3d32a48ade370d9067d"}
+
+===== PAGE 1 =====
+{"alpha_words": 123, "chars": 913, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+eo
+
+RJEPHI/DIRECTOR INTELLIGENCE HQ USAF WASH 25 DC
+
+BT
+UNCLAS
+te CA)
+2. CA)
+(B)
+(D)
+
+4, €A)d
+
+5, DC#@259 GILLESPIE FIELD SANTEE CALIF.
+6, CIVIL DEFENSE ADMINISTRATOR,
+
++e ee ue ~~ ee Oe. toe S
+
+1
+i
+
+751 OPS 168-J PD
+
+ROUND (B). PIN (C) BRILLIANT WHITE (D) 1 ¢E) N/A
+
+TWO INEDVIDUALS CALLED IT TO ATTENTION OF REPORTING
+OBSERVER
+
+39 DEG VERY HIGH SW TO NE (CL 39 DEG VERY HIGH STATIONARY
+OBSSERVED TO BE MOVING SW TO NE AT 170% PSTs AT 1729 TO
+BE STATIONARY
+
+89@1Z 12 OCT 56 (B) DAY, DUSK
+
+PAGE TWO RJWPJB 4G
+
+Te CAD
+
+° °F e
+
+(B)
+
+°? -
+
+(C)
+(D>
+(2)
+(F)
+
+CLE
+R WITH A SLIGHT HAZE
+
+23@ DEG 19 KTS 232 DEG 58 KTS
+293 DEG 25 KTS 272 DEG 45 KTS
+299 DEG 36 KTS 279 DEG 45 KTS
+239 DEG 25 KTS 26% DEG 59 KTS
+BROKEN LITTLE CLouDs
+
+UNLIMITED
+
+LESS THAN 1 TENTH
+NONE/SLIVHT COLD FRONT
+
+9. FRONTPAGE DELTA 1-2 SEARCHED THE AREA FOR 12 MINS, FOUND NOTHING
+
+19, UNKNOWN
+11. SENTOR DIRECTOR ALFA CRFU 1ST LT. car. NO COMMENT -

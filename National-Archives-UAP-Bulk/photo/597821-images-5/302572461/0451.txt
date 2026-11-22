@@ -1,0 +1,70 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T08:20:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1433699, "source_ctime_ns": 1793392956441336695, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302572461/0451.jp2", "source_mtime_ns": 1785808173000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302572461/0451.jp2", "source_sha256": "ee8f7087e86a54f91c796c48750b407f92c9a1df95db0d1b91eca452f8e35aa9"}
+
+===== PAGE 1 =====
+{"alpha_words": 230, "chars": 1521, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Re ote Te et ee ie oon ie elke Eee ee
+
+d. Don’t remember
+
+tage 2 \
+\
+8. IF you saw the object at NIGHT, what did you notice concerning the STARS and MOON? \
+8.1 STARS (Circle One): 8.2 MOON (Circle One): te
+a, None vd Bright moonlight |
+b. A few ~ Dull moonlight |
+¢. Many ¢. No moonlight — pitch dark
+" |
+
+( d./ Don’t remember
+a.
+
+9. What were the weather conditions at the time you saw the object?
+
+CLOUDS (Circle One): . WEATHER (Circle One): |
+Za.’ Clear sky fe. Dry
+
++. Hazy ~f, Fog, mist, or light rain
+
+c. Scattered clouds c. Moderate or heavy rain
+
+d. Thick or heavy clouds d. Snow
+
+e, Don’t remember
+
+10. The object sppeared; (Circle One);
+
+_")
+a, Solid fh ‘As a light
+b, Tronsparent -e, Don’t remember
+
+e. Vapor
+
+11. {f it appeored as a light, was it brighter than the brightest stars? (Circle One):
+
+a, Brighter c. About the same
+“6. Dimmer d. Don't know
+
+11.1] Compare brightness to some common object:
+
+12. The edges af the object were:
+
+ao, Fuzzy or blurred i SEINE aici ais cceineianes ors
+
+b, Like a bright star
+s. Sharnly outlined
+3
+—
+
+i. Don’t remember
+
+13. Did the obje-: (Circle One for each auestion)
+Poa
+
+a. Appear to stand still at ony time? Yes/ No _ Don’t know |
+b. Suddeniy speed up and rush away at any time? ves , No7 Don’t know
+c. Break up into parts or explode? Yes v Ne? Don’t know
+d. Give off smoke? Yes No” Don’t know |
+e. Change brightness? Yes (No Don't know
+f, Change shape? Yes cNov Don’t know
+g. Flash or flicker? cyes" No Don’t know
+h. Disappeor and reappear? ; Yes/ No Don’t know

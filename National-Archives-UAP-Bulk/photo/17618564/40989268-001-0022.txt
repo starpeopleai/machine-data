@@ -1,0 +1,58 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T08:00:05Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 17946098, "source_ctime_ns": 1793355583719143875, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0022.jpg", "source_mtime_ns": 1785564484000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0022.jpg", "source_sha256": "839ee8977b62b5a000c4f3fdb3b9e0deaadde64b33c55cd266799ad3f9e32b23"}
+
+===== PAGE 1 =====
+{"alpha_words": 232, "chars": 1443, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Figure 1. Water Tank Test Facility
+
+a large cavi
+ge cavity under the gas bubble causing it to deviate substantially from a
+
+theoretical sha i i
+pe. It is this same nonsymmetrical arrangement of material which
+
+can set up the transverse stresses in the top region
+
+Figures 2 th i
+g rough 5 show various aspects of a full-scale static balloon infla-
+
+gore seams at disti ally
+istinct angles. Note also that these stress lines are essentiall
+
+a hypothetical "stress plane"
+plane’ has been superimposed over the bubble to better
+
+1 (2
+
+stress line and the i
+gore Seams increases from a i
+ae 160} i
+the visible field of this photograph Ce
+
+Figure 2. Stress Pattern in Partially Inflated Bubble
+
+ws the same bubble and the same stress plane from above. This
+
+Figure 4 sho
+al load and the stress lines cannot be
+
+area of the balloon is largely under biaxi
+ficult to imagine the stress lying on the surface of the plane
+
+e resulting in a perfectly transverse
+
+seen, but it is not dif
+until it crosses a gore at a 90-degree angl
+load. At this point the stress line leaves the planar surface and follows an ima-
+
+ginary circumferential path to a matching stress line in the opposite side of the
+
+cavity.
+
+This type of stress pattern is not inevitable
+d to the configuration of the sub-pressure cavity. The
+ow levels of inflation. In the
+
+in all bubbles and its severity
+
+seems to be directly relate
+effect will be most prominent at low altitudes and l

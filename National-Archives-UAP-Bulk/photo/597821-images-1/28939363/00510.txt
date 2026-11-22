@@ -1,0 +1,48 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T08:27:56Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3836888, "source_ctime_ns": 1793371664980612186, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28939363/00510.jpg", "source_mtime_ns": 1785688932000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28939363/00510.jpg", "source_sha256": "645b9b45941910e919b9368fdf926aa598d593d7e97ed93b842b6ace0ec48a38"}
+
+===== PAGE 1 =====
+{"alpha_words": 169, "chars": 1263, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+WEATHER DETACHMENT 26-101,
+26th Weather Squadron
+Birmingham Municipal Airport
+Birmingham, 4labema
+
+12 *“ugust 1951
+
+SUBJECT: “eather Conditions at time of reported unidentified "flying objects".
+
+TO: Captain Max Y. Gilmer
+Operations Officer
+2587th AFRTC
+Birmingham “Municipal Airport,
+Alabama
+
+1. At 2300 hours, Central Standard Time, on 11 August 1951 to 0430
+hours, Central Standard Time, the local sky condition in Birmingham,
+Alabama was clear (ie. no clouds), wind was calm and surface wisibilty
+was 4-5 mikes with ground fog and smoke.
+
+2. Information supplied by Mister W.E. Glenn, Frofessor of Astronomy,
+Birminzham Southern College stated that on the night of llth and 12th August
+
+1951 respectively, a shower of meteorites were visible to the naked eye from
+
+2300 hours, to 0300 hours Central Standard Time, and Mister W.E. Clenn further
+stated that time time of the year meteorites are very numerous.
+
+3. Miss “rie . | » of Birminzham
+Southern College also stated that she personally saw three (3) unidentified
+flying objects about 2400 hours Central Standard Time, 12 August 1951, and
+assumed them to be "shooting stars".
+
+i oe MITCHELL
+SAF
+
+Captain,
+Commanding
+
+Dp AT 3 YEAR INTERVALS;
+DOWN GR ASSIFIED APTER 12 YEARS.
+
+DOD DIR 5200.10
+UNCLASSIFIED

@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T07:43:42Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6265985, "source_ctime_ns": 1793361872446637397, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330781681/45484701-001-005-0019.jpg", "source_mtime_ns": 1785684787000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330781681/45484701-001-005-0019.jpg", "source_sha256": "6326d9870326cfe9e6316e3c7d0650fb3cebc4ed8a6849b305ced35ae4e3c9a9"}
+
+===== PAGE 1 =====
+{"alpha_words": 84, "chars": 627, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+COPY
+
+SOURCE: Grand Rapids Press Newspaper
+21 April 1919
+
+‘Flying Dise!
+
+Youths Say It Passed Over Ludington
+
+mn eeeameeeememmeemeemenmenmeemmenenenernen meee remem een ee
+
+Ludington-—-Two youths reported seeing a fast traveling "flying dise! pass
+over Ludington Wednesday afternoon.
+
+PAUL TIMM, Sophomore in Ludington High School, and a companion,
+PAT O'CONNELL, said the dise looked like a comet with a tail
+
+a "block long". It was traveling west and disappeared over
+Lake Michigan.
+
+They said it was white and clearly visible. There were no
+clouds over Ludington Wednesday afternoon.
+
+Declassification Authority: NND 923007

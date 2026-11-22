@@ -1,0 +1,23 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T07:48:07Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7057554, "source_ctime_ns": 1793381862611572850, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28981905/0372.jpg", "source_mtime_ns": 1785701051000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28981905/0372.jpg", "source_sha256": "5485ff9adbe3b72900c05655b8eda1e1f11c94a05d750c7f3e0e06164bf3f0bc"}
+
+===== PAGE 1 =====
+{"alpha_words": 47, "chars": 258, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+- gaa
+
+" Li 4 ? at i Pateal — ~
+
+“A. it, hbedd cop H Utat. WiVA. we, CO
+4 are 26 ES7- jf ae “7 Ge.
+
+ti” 7, oe 5a arm uw of
+ipa /O Af; fos Zhy 7 sp So Cee
+
+Lor tig MM, US FO/ ) pee re
+ae 1 Wp Be Pr W.VA a
+
+Liichina 2.5712 9>
+
+333° RIC USed
+
+‘s
+Ca ac or eae;

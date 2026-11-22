@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T07:33:53Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4587803, "source_ctime_ns": 1793382996029711502, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28986031/1273.jpg", "source_mtime_ns": 1785747866000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28986031/1273.jpg", "source_sha256": "15b07051a12d7daca22bbb57a8f1e00049ab5f7dd0169315d45fa7e01bb3c6f9"}
+
+===== PAGE 1 =====
+{"alpha_words": 68, "chars": 461, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+DEPARTMENT OF THE AIR FORCE
+WASHINGTON
+
+OFFER OF THN OBCARTAAY 27 Way 1960
+
+Dear Mrs. <i.
+
+This is to acknowledge your letter
+of 24 May 1960 concerning UFO sightings
+
+in February 1960 over Hollywood, Calif.
+
+These sightings you described were
+not reported to the USAF end therefore
+no investigation was made on these cases.
+
+So 2 My
+
+fuach 3
+Noy. a (sen0d « 4 ‘ PAC SacKe
+Major, Ut
+“Public Inj LS Division
+Office of Information
+
+Mrs.
+
+‘Los Angeles, California

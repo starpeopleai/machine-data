@@ -1,0 +1,104 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T08:21:21Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1481300, "source_ctime_ns": 1793355977743543645, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989295-001-0126.jpg", "source_mtime_ns": 1785564573000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989295-001-0126.jpg", "source_sha256": "636fde1f86fad423c4cbf0454107d173cfbfda959cc8b61ff73fd04da88b57ec"}
+
+===== PAGE 1 =====
+{"alpha_words": 186, "chars": 1748, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Flow Studies (Schlieren System)
+(Task 6875)), 91; 93
+
+Flutter testing, 8-52, 86, 91,
+93-9, 106-108
+
+Free-flight testing, 2, 37, l6-
+48, 50-51. See also Launching,
+for track-launched free-flight
+tests.
+
+Foley, Mr. Jeremiah T., HAFB
+engineer, 17
+
+Free Air Test Facility. See
+Edwards Air Force Base, long
+track.
+
+Fuzing systems, 3h
+
+Gasoline~powered track vehicles,
+
+7
+Gauge, Holloman track, 10, 12, 17
+
+German scientists, at AFMDC, 92,
+94, 98
+
+Germany: aeromedical research
+track, 33 other track-test
+precedents, 3-5
+
+Glider pickup equipment, for
+track braking, 17, 29
+
+Guidance and control: B-58 con-
+trol system/surfaces, see MX-
+196; components test program,
+see Flight control components;
+jet-vane system, see MX-1601;
+Q-2, 36, 38; tested in 0Q-19
+flights, ho-k2
+
+Gyroscopes, 38, 52-5), 106
+Hanover, Germany,
+Hawthorne, Calif., 10, 32
+
+Hermann, Dr. Rudolf, Rosemount
+
+115
+
+Aeronautical Laboratories,
+
+93
+
+High-Speed Test Track Symposium
+(195h), 86 5 (1955), 96
+
+High-Speed Track Unit, AFMDC,
+See Track Unit.
+
+Holloman Air Development Center
+(former designation of Air
+Force Missile Development
+Center), 8h
+
+Holloman Air Force Base, New
+Mex. considered as site
+for Free Air Test Facility,
+83 JB ramp, 93 organization
+and mission, 9, 31, 83-8).
+See also Range and subordi-
+nate units and facilities
+listed separately.
+
+Holloman track: 1, 63 admini-
+stration, 83-87; construction
+and planning, 9=19; facility
+development, 53, 87-99, 106-
+109; operational use, 25-55,
+63=79, 83, 99, 10-109; sup=
+port facilities, 12-17, 19,
+8-85
+
+Hollywood stars, 73
+Hospital, HAFB, 71
+
+Hughes Aircraft Company, 11-15,
+26, 6
+
+Human experiments, on track
+facilities, 7-8, 63, 67-73,
+77
+
+Hurricane Mesa, Utah: SMART
+track, 1
+
+HVARs, 35
+
+I-beam sled, See Rocket sleds.

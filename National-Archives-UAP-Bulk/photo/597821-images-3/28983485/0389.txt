@@ -1,0 +1,43 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T07:32:46Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4418488, "source_ctime_ns": 1793382367445502117, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28983485/0389.jpg", "source_mtime_ns": 1785700640000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28983485/0389.jpg", "source_sha256": "ba7163529fdfccd18e2446c9184fc41520533263bcb582346243c7ebfba6f626"}
+
+===== PAGE 1 =====
+{"alpha_words": 112, "chars": 719, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+5 AIR FORCE
+Welgiin-P I TERSO} AIR FORCE BASE
+
+Photoanalysis
+
+tached to aid in four analy S15 ere xX SLIQE ane Orreaspongence
+
+e
+ing to circumstances under
+
+lst Ind (AFCIN-4D4a)
+
+TO: AFCIN-452x
+
+L. The 35mm color transparency cdi for examination is
+
+Kodachrome rather than Kodacolor as stated by Mr. Sigel.
+so-called "spot" could have been caused by the fol-
+in order of probability:
+
+ular reflection or refraction
+ection from a giass window
+ble exposure
+
+essing flaws.
+
+striking the lens, possibly with water droplets on
+element, is the most reasonable explanation for
+The series of less apparent spots ranging across
+
+is an additional reason to suspect sun flare
+
+Des
+on ry
+Wi hat: bay uy gre CL ?
+
+hiet
+
+A®PCIN-4D4

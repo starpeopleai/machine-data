@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T08:02:58Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 21925856, "source_ctime_ns": 1793357506244468672, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1412-535137-0005.tif", "source_mtime_ns": 1785564914000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1412-535137-0005.tif", "source_sha256": "bbe24e579600422f2aa7ed15cbba86dbd9f667bd60d74fa6f74cad460dd6e9be"}
+
+===== PAGE 1 =====
+{"alpha_words": 61, "chars": 436, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+_ RESFRIFTED
+
+I have coneurred with It. Brandt in the preparation of his
+statement in connection with sighting flying objects (lights) on
+9 January 1953, over Santa Ana, California. As a result of this
+concurring I feel his report is complete and accurate and I can
+
+therefore add nothing to that report.
+
+6 Oe My OO IN
+Charles C. Loveless
+1 ik. USAF
+
+ps:
+\ f ra
+
+SECURITY INFORMATION
+
+RESTRICTED
+
+Declassification Authority: NND 57565

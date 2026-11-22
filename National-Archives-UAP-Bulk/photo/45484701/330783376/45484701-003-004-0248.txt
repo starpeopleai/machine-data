@@ -1,0 +1,46 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T07:46:55Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6912454, "source_ctime_ns": 1793362718759189086, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330783376/45484701-003-004-0248.jpg", "source_mtime_ns": 1785685017000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330783376/45484701-003-004-0248.jpg", "source_sha256": "eeb7068518b436779295e9a8966480b35d0a9a5ff531ee84b25f67f1858ea010"}
+
+===== PAGE 1 =====
+{"alpha_words": 128, "chars": 848, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+|
+|
+}
+
+—— msl
+
+F ast Rising
+‘Object’ Seen |
+By a Pilot
+
+CHERRY POINT, N: C., Feb.
+11 (%.—The Marine air station
+here announced today that a jet
+pilot spotted an “unidentified
+object” flying over an area
+northwest of here, but was out-
+distanced when he gave chase
+at a speed of more than 500
+miles an hour. ‘
+
+A Marine spikesman said
+First. Lieut. Ed fBalocco, 24. of
+Antioch, Calif., ‘looked for the
+object at the request of the Nor-|
+folk, Va., Naval Air Station
+which received calls from local
+residents.
+
+Balocco searched along the
+Virginia-North Carolina border
+without success. But over Wash-
+ington, N. C., he spotted an ob-
+ject that looked like an airplane
+with red lights but rose 10,000
+feet “in a matter of seconds,”
+K\alocco said it was “the collir
+Oo white heat and was throwing
+a a glow.”
+
+ye
+
+Declassification Authority: NND 923007

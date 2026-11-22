@@ -1,0 +1,20 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T07:44:17Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6446240, "source_ctime_ns": 1793376823706658097, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28962026/0286.jpg", "source_mtime_ns": 1785696844000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28962026/0286.jpg", "source_sha256": "0906488f350e7dfdbdf55501d54486a5526574a5f7b96a735145e697f8882f31"}
+
+===== PAGE 1 =====
+{"alpha_words": 66, "chars": 298, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ee ae ee ee eS et ae ee a Pe na fT Lee kD ee ae edt Pea a CPR Ht ae al ate > eee? he ere, >, CO Oe ke Sa ee ee ee EPS oe oe ae ee ee 2 ee
+
+peppy obestent ts PRS TET MT ess at ak TTT RE CRCAND pet Tee epee ERTS err cnt aoc er PAR EM PERERA ME TO a ” .
+s
+. e
+‘
+‘ $ a ‘
+. .
+‘
+a
+‘ ‘ .
+‘ ‘
+
+May {
+
+ete

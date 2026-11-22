@@ -1,0 +1,66 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T07:31:05Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4046167, "source_ctime_ns": 1793356067539175103, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989301-001-0076.jpg", "source_mtime_ns": 1785564598000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989301-001-0076.jpg", "source_sha256": "ea17d290d977dd93da4bb9274b1be63427fe12e9b3a1427ee529549854a0d778"}
+
+===== PAGE 1 =====
+{"alpha_words": 793, "chars": 4820, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+1947 lO@
+March 31 Monday. Alamogordo. Chantz, Bill Godbee and Ace went out to E. White Sands ar
+Tularosa sites to make final setups. Sal, Edmondson, Peoples amd I went out to Dona s:
+this pm and moved tent and Rubicon to #3 position and set up low frequency apparatus
+April 1 Tues V2 Rocket #22 went off at 1310 this pm. Chantz and Don at Tularosa, Godb«
+and Peoples at East White Sands, Sal and Edmondson at Dona, Porter and I at Lucero. A:
+4 stations got good recordings though low frequency instrument at Dona did not work o:
+April 2 Wed. Peoples, Major Magnur?, Thompson and myself went over to Lt Col’McKenson
+office this am regarding bombing punss There are many difficulties with the bombing he
+mostly that so many new groups have moved in and are setting up on the northern? rang«
+Thompson and I went overto see Major Mitchell this pm regarding same matter. Wrote mer
+regarding proposed work to take to CO tomorrow. Peoples left on B-17 today. Don and B:
+went to Dona and Launching Area sites am and got all loose wires. Don and Bill E went
+East White Sands and Tularosa pm and got inventory and brought back Rubicon and tent
+Tularosa. Worked on East White Sands record. V2 made 85 peaks - down course. Porter w
+on calculations pm. Sal and Edmondson took complete inventory and this pm worked on lc
+frequency equipment.
+April 3 Thurs. Oliva and Edmondton on low frequency equipment. All T-2is changed over
+Stds.’ Edmonton and Bill G went out to Lucero and Dona, got inventory and brought back
+tent from Lucero.
+April 4 Fri. Reynolds and I went out to Osurso? Range and located PB1 bombing range. <
+up wires and did surveying. Chantz and Porter on computations April 1
+April 5 Sat Alamogordo.
+April 6 Sun. Checked clocks. Cleaned out hanger and emptied trash out at East White Sz
+April 7 Mon Talked to Pritchard re 3rd car for tomorrow. Gave him memo of progress rer
+for MOGUL project to date, talked to Lt Dyer of Signal Corps regarding for tc
+firing. Chantz and Bill went out to Tularosa and got that site ready. All equipment ct
+for tomorrow. Edmondston and Reynolds ran drum recording of McCurdy low frequency equ:
+ment at base. Porter and I worked on amplitudes and frequencys of all recordings Apri-
+firing and started calculations. Olive worked on calibration of GR8 recorder attenuat:
+Got 3rd vehicle and all trip tickets for tomorrow.
+April 8 Tues. Ace and I went out 7 am to Osarco site. Arrived 9 and set up radio and T
+Rocket due at 11, delayed until 1710. Very windy then, all settings at 8. Ran 3 rolls
+nothing came in. Chantz at Tulerosa alone - Godbee and Reynolds at East White Sands -
+and Edmonston at Dona - all sites windy but 3 closest ones got some signals.
+April 9 Wed, Worked on yesterday's records. Made picks on Dona, East White Sands and 7
+Found nothing on Oscuro site recordings. Don and Bill G went out to East White Sands s
+and took recordings with pistonphone to get GR3 attenuation calibration. Sal Olive lef
+pm for San Diego. Wrote letters to Vivian and Jim P tonight.
+April 10 Thurs, Ace and Phil worked on rocket recordings. - azimuths vs elevation angl
+Don..and I went out to Tulaarosa Range and checked bombing sites - bombing range just n
+of Range Camp and another site between that and our Tularosa site. Triangulated in wit
+Tularoas Peak, etc. Thompson left in 45 for East. Godbee and Edmondson went with hin.
+April 11 Fri. Don and I went out past Tularosa Site looking for bombing sites. Went ba
+to Air to Ground Range and to air strip. Chantz and Porter working on calculations V2
+and T-21 calibrations.
+April 12 Sat. Alamogordo Air Base
+April it Sun. Worked on formula for triangulation without using compass - Alamogordo A
+April 14 Mon. Porter, Chantz and I worked on GR3 and GR8 calibration curves for freque
+and attenuation settings. Don worked around equipment - Don, Ace and Bill got apartmen
+at air base. Wrote letters to Vivian and Eileen tonight.
+April 15 Tues Alamogordo. B-29 arrived today - Lt Ball, McCurdy, Woodruff and MOGUL pe
+onnel - 41493: Lewis, Wolk, Burnhoff, Adams, Duff . Worked some on instrument calibrat
+Lewis, Ball and I checked with Major Pritchard, then to Major Mitchell's office regard
+bombing sites. Mitchell said CO had turned down bombing from air, but we could have su
+charges along Tularosa road. Went up in AT-6, light plane with Capt Runcraft and looke
+area west of Tularosa as far as the mountains, where bombing sites are to be located.
+April 16 Wed. Alamogordo. Chants and Reynolds out to East White Sands and Tularosa sit
+to check GR3 equipment for tomorrow. Porter and McCurdy working on low frequency equip.
+for V2 tomorrow. Woodruff, Ball, Work and I went out to Dona site then to Launching Ar
+site. Strung out wires and left equipment for tomorrow's firing. McCurdy working tonig
+on low freq. Oliva in from San Diego this pm

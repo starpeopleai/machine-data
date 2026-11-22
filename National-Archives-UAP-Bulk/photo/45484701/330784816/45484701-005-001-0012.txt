@@ -1,0 +1,60 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T07:55:32Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9152342, "source_ctime_ns": 1793363200093021686, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330784816/45484701-005-001-0012.jpg", "source_mtime_ns": 1785684636000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330784816/45484701-005-001-0012.jpg", "source_sha256": "f441823c42305be8b0680ff9547b220a2cc0983e7ca9a1937f249b16b617f7e8"}
+
+===== PAGE 1 =====
+{"alpha_words": 321, "chars": 2315, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+CLASSIFICATION CANCE
+a ‘J a eLE,
+BY AUTHORITY OF THE
+
+BY KURT K. KUNZ:, Capt "OSAP §
+Leu Harned ede aia a
+
+Sei iit Or ew DEG mee
+DATE hen
+
+Missile Sighting by Crew Members of
+Director, Special Investigations
+
+Headquarters USAF
+Washington 25, D. C.
+
+PERSONAL ATTENTION CHIEF COUNTERINTELLIGENCE DIVISION
+
+1. Reference is made to telephone conversation between Colonel HOMER
+L. MOORE, Counterintelligence Division of the Directorate, and Special Agent
+ELBERT W. FARRIS of this office on 27 May 1958, relative to the airmail TWX
+from DO #10 dated 23 May 1958.
+
+2. Colonel MOORE requested that Commander, AFMTC, be advised immediately
+of the contents of the TWX and determine whether any additional information
+was desired. Colonel] MOORE further advised that if additional information was
+desired, that DO #2 should be requested telephonically to conduct the necessary
+investigation and that the Counterintelligence Division, Directorate, be ad-
+vised accordingly.
+
+3- General Yates, Commander, Air Force Missile Test Center, Patrick AFB,
+Florida, was briefed by Special Agent ROY ©. TUCKER of our Patrick AFB Detach-
+ment, on 27 May 1958, at which time General Yates indicated that he was most
+interested and expressed desire for certain information. This verbal request
+was confirmed by letter of this date and a copy of which is attached as an
+incliosure hereto.
+
+4. On 27 May 1958, Colonel WILLIAM W. ROBERTS, DO #2, was telephonically
+advised by Special Agent FARRIS of the contents of DO #10's airmail message,
+and General Yates‘ desires as set forth in paragraph 2 of the inclosed letter
+to Commander, AFPMTC, Patrick AFB.
+
+5. On 26 May 1956, Mr. ELDRIDGE, Counterintelligence Division, Director-
+ate, was telephonically advised by Special Agent FRED G. TEMPLIN of this
+District, as previously requested by Colonel MOORE, of the desire of General
+Yates. Mr. ELDRIDGE suggested that in the event the desired information could
+not be developed, DO #10 should be requested to furnish additional details,
+such as, GRUMBLES' complete identity and connection with the matter, and any
+additional information available.
+
+6. On 28 May 1958, Mr. JOHN CARR, Counterintelligence Chief, DO #2,
+telephonically advised Special Agent FARRIS that the SS Key Trader departed
+
+UNCLASSIFIED
+
+Declassification Authority: NND 923007

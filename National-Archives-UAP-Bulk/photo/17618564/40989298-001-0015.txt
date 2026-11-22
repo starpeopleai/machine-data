@@ -1,0 +1,23 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T08:12:38Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 498584, "source_ctime_ns": 1793356009278216809, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989298-001-0015.jpg", "source_mtime_ns": 1785564581000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989298-001-0015.jpg", "source_sha256": "ecbf6203a5559a8b9822d2bff94dd951c6dbc09fedfcb6b6c95ca72978c15bed"}
+
+===== PAGE 1 =====
+{"alpha_words": 45, "chars": 301, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Three to five sounding balloons,
+350 gram size, each inflated
+to about 4 feet in diameter
+
+Wind
+
+Three ML-307 radar targets
+(corner reflectors)
+
+Restraining line
+(cut and let go free oe
+
+at launch.)
+
+Ground level 7
+
+’ / 7 7 ; =
+
+TYPICAL RADAR TARGET FLIGHT TRAIN USED BY THE NYU BALLOON GROUP IN 1947
