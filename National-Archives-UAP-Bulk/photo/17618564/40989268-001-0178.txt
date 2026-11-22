@@ -1,0 +1,107 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T07:04:24Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 18199680, "source_ctime_ns": 1793355737586955961, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0178.jpg", "source_mtime_ns": 1785564513000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0178.jpg", "source_sha256": "b50b158b0d01bc49c03073f2e3cc7d5ff495935a5b72df6643c7a6843b949e64"}
+
+===== PAGE 1 =====
+{"alpha_words": 893, "chars": 5408, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Before discussing weight and volume estimates, let us look in an over-all way
+at the suggested system. Two balloon types appear most fruitful for study. One is
+a balloon used to carry instruments from one point on the planet's surface to another
+point fairly nearby. We visualize hydrogen-filled balloons of the equal-pressure type
+for this job. The flight would be of fairly short duration, the objective being to lift
+the payload of instruments off the ground so that winds can move it to a new location.
+We must design the balloon to float at a density that is guaranteed to be off the
+ground, but need not be at a very high altitude. The other interesting balloon mission
+is to float at a fairly high altitude for long periods, carrying instruments de-
+signed to observe the atmosphere and surface. For this mission we might consider
+either a ballasted equal-pressure balloon (if flight duration is supposed to be longer
+than one day) or the superpressure balloon. The idea of carrying ''dead"' ballast to
+Mars or using some native material as ballast doesn't seem very sensible. However,
+it is perfectly reasonable to think of dropping instruments and other parts of the
+payload at the end of each day -- parts of the payload can act as droppable ballast
+for as long as there is any payload left. The superpressure balloon can, of course,
+have a duration of many days without ballast. However, it presents more critical
+problems with regard to material strength and reliability. As on earth, we might
+think of using balloons of extensible material to obtain vertical soundings of the
+atmosphere. This may certainly be done someday, but it seems less interesting
+for initial consideration since the probe that enters the planet's atmosphere and
+descends to soft-land on the surface can provide a vertical sounding.
+
+It might conceivably be possible to launch balloons from the surface of the
+planet by encasing them in a protective structure while they are being filled. Such
+a procedure would, however, cost a great deal in weight and complexity. The balloons
+we are considering for use on Mars are 10 to 50 feet in radius -- unwieldy sizes to
+control in the winds that we suspect frequently occur on Mars. From observations
+of dust clouds it is known that winds up to 90 km/hr occur on the planet. Unless
+some very ingenious ideas are forthcoming, or present beliefs about the planet's
+atmosphere turn out to be wrong, the only practical way to launch balloons is in the
+atmosphere during entry.
+
+Air-launch systems have already been developed and we suggest that this type
+of system be used for the Mars balloon. The balloon itself might be used as a
+parachute to slow the descent of its part of the instrument package during the time
+it is being filled with buoyant gas. The total payload would be split between a part
+that lands, and a part carried off by the balloon either a short distance or to drift for a
+prolonged time at altitude. It appears from what we know about the Mars atmosphere
+that ten minutes to half-an-hour could be available for balloon filling. This estimate
+
+of the time required to descend through the atmosphere at terminal velocity is de-
+rived in Appendix A.
+
+343
+
+The system in broad aspect, then, consists of the balloon with its packaging and
+release system, designed to be deployed as a parachute while it is being filled; its
+payload of instruments; a gas-generation apparatus capable of generating the required
+quantity of hydrogen in less than 30 minutes; spacecraft structure, heat shield, and
+so forth. At this stage we are primarily interested in estimating weights and
+volumes so as to form an opinion of whether the idea of a Mars balloon seems at all
+feasible. If it does, then more detailed studies will be warranted.
+
+The total balloon-system mass, Ms will be the sum of m_, the mass of the
+
+lo}
+
+balloon itself; me the mass of the payload; m,, the mass of the gas generation sys-
+
+hd
+tem (which includes the mass of the buoyant gas used) -- all multiplied by a factor,
+F, which allows for the auxiliary structure, heat-shield, and so on. Its total volume,
+
+Vips will be the sum of Vio the volume of the packed balloon; V,, the volume of the
+
+ah
+gas generation system; and Vy’ the volume of the payload -- multiplied by a factor
+F' to allow for structure, and so forth. (Using the experience of present spacecraft
+
+designs, the value 2 seems reasonable for both F and F'.) The efficiency ratios
+
+(m,,/m.p) and Vis Vip) then give an indication of the price we must pay to lift a given
+
+payload into the Mars atmosphere.
+
+It is convenient to relate the mass and volume efficiency ratios to the quantity
+¢€ which we define to be the ratio of the payload mass to the sum of the masses of
+payload and balloon. Further define B = (Molecular weight of atmospheric gases)/
+(Molecular weight of buoyant gas); ile (mass of buoyant gas generated)/(total mass
+
+of gas generation equipment). Then:
+m
+pa 1 1
+r F([(G8)+$ (=, ot |
+
+Moreover, if we assume that the product of the packing efficiency of the balloon
+and the density of its material is about 1.0 gm/ om? and that the density of the pay-
+
+load is also about 1.0 gm/cm®, then
+
+V
+
+AAO Rome tb iio
+Yeo pete ea |
+
+g
+
+(Balloon superheat has been ignored.)
+
+The molecular weight of the Martian atmosphere has usually been assumed to
+
+be about 30, based on the idea that it is composed largely of nitrogen with a small

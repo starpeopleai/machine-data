@@ -1,0 +1,63 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T07:17:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 813449, "source_ctime_ns": 1793392216736190791, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302565705/0056.jp2", "source_mtime_ns": 1785808288000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302565705/0056.jp2", "source_sha256": "ff0dd1c6e1cbce71685f4050a63a5cccca4d3c5e98029000b3fd07ff876cb4df"}
+
+===== PAGE 1 =====
+{"alpha_words": 211, "chars": 1437, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+8. IF you saw the object at NIGHT, what did you notice concerning the STARS and MOON?
+8.1 STARS) Circle One): 8.2 MOON (Circle One):
+o. None <-F Bright moonlight
+b. A few > -* bo Du [RBonlighi— Ss
+<. Many c. No 9 moonlight—pitch dark
+cd. Don't remember d. Don’t remember
+9. What were tna weather conditions at the time you saw the object?
+CLOUSS. (Circle One): WEATHER (Circle One):
+‘a. Clears ky > > «a. Dry
+b. “Hazy b. Fog, mist, or light rain
+c. Scattered clauds c. Moderate or heavy rain
+d. Thick or heavy clouds d. Snow
+e. Don't remember
+10. The object cppeored: (Circle One):
+c. Solid « J. heal ight >
+b. ‘Transsarent e. Don'rramember
+c. Vapor
+1}. If it copeared as a light, was it brighter then the brightest stars? (Circle One):
+c. Brighter c. About the same
+“5. Dimmer > d. Don't know
+cavnamunaeneeeen
+13.1 Comoare brightness to some common object:
+12. The edges of the object were:
+(Circle Qoe): a. Fuzzy or blurred e, Other
+
+b. Like a bright star
+
+< _ Sharply dutlined>
+
+d. Don't remember
+
+oc. Aspecr ss stand still atany time?
+
+b. Suacenly soeed up and rush away at any time?
+c. Break Uo into parts or explode?
+
+d. Give oft smoke?
+
+e. Chance Srightness?
+
+§, Chance sncpe?
+
+g. Flash or Hicker?
+
+h. Discopear and reappear?
+
+(Circle One for each question)
+
+Yes 3, No Don’t know
+Yes No Don't know
+Yes "No > Don’t know
+Yes “No ) Don't know
+Yes No) Don’t know
+Yes r No ) Don't know
+Ye + No) Don't know_
+
+~
+
+Yes No \ Don’t know of

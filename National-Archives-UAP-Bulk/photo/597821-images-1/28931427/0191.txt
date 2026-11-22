@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T06:44:08Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5962579, "source_ctime_ns": 1793369326237276545, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28931427/0191.jpg", "source_mtime_ns": 1785688517000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28931427/0191.jpg", "source_sha256": "3ecb2cae135e7462e2f1407c08d19c28d31b1f7d426f212e74520ca7d1b07eab"}
+
+===== PAGE 1 =====
+{"alpha_words": 94, "chars": 710, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+{
+j
+, . \
+Mr, Deyarmond . { 1210
+M8
+
+The following message was given to Mr. Honaker's office
+oy Major Mathews, Wright-Patterson Fhight Service
+Center (ext. 51107), at 1120, 19 Aug 14;
+
+An unidentified flying object was reported to the
+Wright-Patterson Flight Service Center at 1050 EST
+19 Aug L3 by Lt Col JMR, Executive Officer,
+Godman AFB, Ky. This cbdject was estimated to be
+390,000 to 40,000 feet high, spherical in shape,
+bright silver color, giving a bright reflection
+from the sun. An F=51 was dispatched from Standiford
+AYB, Ky. to observe object, and a report will ve
+forwarded to Wright-Patterson Flight Service Center
+as soon as available.
+
+Will send a confirmatory Rak.
+
+’
+
+2-F2 3
+
+|
+|
+|
+|
+!
+|
+|

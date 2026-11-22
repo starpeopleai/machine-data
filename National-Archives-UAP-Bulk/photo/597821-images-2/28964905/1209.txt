@@ -1,0 +1,21 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T06:34:26Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4155788, "source_ctime_ns": 1793377677386232671, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28964905/1209.jpg", "source_mtime_ns": 1785696445000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28964905/1209.jpg", "source_sha256": "6b5a4994115112a6ed0e2d846c684f9cc7e0b8c9ad1c856447aea339e514a16c"}
+
+===== PAGE 1 =====
+{"alpha_words": 53, "chars": 316, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+22/1 @Z FEB RJEPNL
+
+J
+AVEBEY @WMAEK WCE 12° CWE Ve WBOAE
+TURBA MHTLLEM VE 18 CYNE Ve VEOAE
+BWGE LHWER BIERMT IC ;
+)
+)
+
+EWUT CUIELEMY ¥GE 70° CYNE We WOAE
+KIL BIZKTE WCE %s* EVNE VE WECAE
+YYAbIOU SADUA AY
+CC) MITEVED EhES® HCE Sk SLINEVL HYADLOM CADAA COFTELs
+
+(2) UME LOU-CADMA AY CT ANB
+
+Pe vT@HL YTHOSL HETER RCO

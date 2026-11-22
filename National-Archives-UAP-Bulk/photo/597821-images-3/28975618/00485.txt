@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T06:37:47Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4694675, "source_ctime_ns": 1793380373628509004, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28975618/00485.jpg", "source_mtime_ns": 1785700637000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28975618/00485.jpg", "source_sha256": "fbcef3c3730a73f464e4d2193dff9c36b5166a4a4385861c6a718e0a9f632de7"}
+
+===== PAGE 1 =====
+{"alpha_words": 121, "chars": 930, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+sticking out - moved in circle want
+out of sight to North,
+
+ball, no vapor trail, Object had spines
+
+photos,
+
+1. DATE 2. LOCATION 12. CONCLUSIONS
+i QO Was Bolloon
+2 December 1957 Great Neck, New York UO Probably Bolleon
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION Q Possibly Balloon
+4 O Was Aircraft
+Leeel £22Greund-Vi sual O Ground-Reder O Probably Aireroft
+omt__03/0300Z O Air Visual D Alr-Intercept Rader OC Possibly Aircraft
+S. PHOTOS 6. UR BD Was Astronomical
+OYes Not rec'd Q Probobly Astronomical
+O Ne Civilian O Possibly Astronomical
+7. LENGTH OF OBSERVATION 6. NUMBER OF OBJECTS | 9. COURSE Other
+CX Ninsufficient Data for Evaluation
+‘ oD nknown
+5 minutes one N to §
+10. BRIEF SUMMARY OF SIGHTING 11. COMMENTS
+One object round, bigger than basket- Photos not received, Probably
+
+over imagination due to Sputnik
+publicity, No evaluation without
+
+Insufficient Data,
+
+ATIC FORM 329 (REV 26 SEP 52)

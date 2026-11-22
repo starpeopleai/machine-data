@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T06:53:20Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7778226, "source_ctime_ns": 1793387224175003393, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28998401/0434.jpg", "source_mtime_ns": 1785748544000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28998401/0434.jpg", "source_sha256": "6082ee24ef79897a3de9024fdcad2756fe2ad32c79e74bd19a7dc68c0cf6fe5d"}
+
+===== PAGE 1 =====
+{"alpha_words": 102, "chars": 775, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+i
+
+1. DATE 2 LOCATION 12, CONCLUSIONS
+O Wes Balloon
+26_Ju1 $2 Duluth, Minuzsota B benael. Balen
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION 2 er
+QO Was Aireraft
+Local B.-Ground-Vi sual O Ground-Radar oO Probobl y Aircraft
+GMT Sh VASUZ D Air Vi sual DO Air-Intercept Radar GO Possibly Aircroft
+0 Yes O Probably Astronomical
+<Ne Civilian QO Possibly Astronomical
+7. LENGTH OF OBSERVATION 8. NUMBER OF OBJECTS | 9. COURSE O Other
+OC Insufficient Data for Evaluation
+O Unknown
+10. BRIEF SUMMARY OF SIGHTING 11. COMMENTS
+3 333 es 2M 2 AS Bg CoP NT a annie > tg
+4 7 wis i } : mae) ae
+ees ee 5 eet ‘ 5 /D r q { near a ¥ 3
+Liy~ Ens; Bate t ; Of: &@ Betioo yosvati
+ro ip ‘> } i ste Hg | the > ise) 2
+aoe td . v2] ea ¢ balilos
+ATIC FORM 329 (REV 26 SEP $2)
+>

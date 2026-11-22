@@ -1,0 +1,48 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T06:56:35Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9241945, "source_ctime_ns": 1793362183709356061, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330782241/45484701-002-003-0190.jpg", "source_mtime_ns": 1785684722000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330782241/45484701-002-003-0190.jpg", "source_sha256": "2697ef0858d53dceb9fdc771879ae83364109b788a3330daa32e2ba37df12192"}
+
+===== PAGE 1 =====
+{"alpha_words": 125, "chars": 912, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+‘Page b oO te lata dich ah
+Essential Elements Info CON a
+
+Project "SIGN"
+19.. Manner of disappearance
+&e Explode
+(1) Possibility of fragments
+(2) Other physical evidence
+Faded from view out of normal vision
+Disappeared behind obstacle
+Name of observer Ji. OLIVER P. SCHULINGKAMP
+Address 5736 Vermillion Street, New Orleans, La.
+ida babel Assistant US Distriet Attorney
+Place of business |
+a, Employer or employee Ys @Govermuent
+Hobbies Flying and Sports
+
+iT) » . , * -
+ae Time engaged in hobby (experience)
+Is observer amateur astronomer, pilot, engineer, etc.?
+
+Ability to determine Qbserver has 20/20 vision corrected
+ae “Color
+be Speed of moving objects
+
+ce Size at distance
+
+Reliability of observer ye to official position of informant,
+
+Pics neighborhood or police checks were made.
+ae ources
+
+1 Neighbor
+Police Dapt
+FBI records
+
+2)
+pike
+iP,
+lL) Employer
+
+8=3801—-TC
+
+Declassification Authority: NND 923007

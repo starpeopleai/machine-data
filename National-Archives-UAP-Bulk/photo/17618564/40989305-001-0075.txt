@@ -1,0 +1,64 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T07:26:12Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 2470857, "source_ctime_ns": 1793356153775606727, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989305-001-0075.jpg", "source_mtime_ns": 1785564622000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989305-001-0075.jpg", "source_sha256": "52850ea60f499bf138c9e39d6b78ae638279d1ac99ecfcd05f46b5aeb58bb7ce"}
+
+===== PAGE 1 =====
+{"alpha_words": 556, "chars": 3633, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Charles B. Moore
+1011 Cassity Street, N. W.
+
+P. O. Box 1333
+Socorro, NM 87801-1333
+505 835 0975
+May 6, 1994
+
+Col. Richard L. Weaver
+SAF/AAZ 1720
+Air Force
+The Pentagon
+
+Washington, D.C. 20330 - 1720
+Dear Col. Weaver:
+
+This is a response to your request for information about the New York University Balloon Group's activi-
+ties at Alamogordo in the early summer of 1947.
+
+These activities supported classified Project Mogul under contract # W28-099-ac-241 with AAF Watson
+Laboratories at Red Bank, NJ. Our mission was aimed at the development of constant level balloons which
+were to be used to carry low-frequency microphones into the acoustic duct at the tropopause in an effort to
+detect Soviet nuclear and missile tests at long ranges.
+
+At that time, neoprene meteorological balloons were the only lifting vehicles available to us and, since their
+
+volume varied with altitude, they were not suitable for constant level flights. Nevertheless, in view of the
+
+urgency communicated by our Air Force scientific monitor, Dr. James A. Peoples of Watson Laboratories, x
+we launched several clusters of these meteorological balloons carrying microphones in early efforts to de- AY
+tect distant explosions. (One of these flights was launched from Eatontown, NJ when the British blew up cg
+
+the island of Helgoland on April 18, 1947.) While making these service flights for Dr. Peoples, we pursued . _\w
+the development of fixed volume polyethylene balloons and of automatic ballast-dropping devices. We de- Y
+veloped two sources for polyethylene balloons: The first polyethylene balloon was made by H. A. Smith in Y
+Mamaronek, NY. At that time, Otto Winzen, at General Mills, was trying to fabricate balloons of Pliofilm
+
+for the Navy's Project Helios. Since we had found that this vinyl chloride film would not withstand sun-
+
+light, we talked Otto into using polyethylene in some balloons for us.
+
+The first polyethylene balloons from both manufacturers were to be delivered around the end of June, 1947.
+While waiting for their delivery, Dr. Peoples arranged a series of service balloon flights to be made from
+Alamogordo Army Air Field in early June of that year. To minimize the weight of the equipment to be
+transported by air from Newark to Alamogordo, he required that we leave our radiosonde receiver in New
+York and arranged instead to have the balloons tracked by the Watson Laboratories radar that had been
+placed at Alamogordo to track the V2 rockets being launched from White Sands Proving Ground.. I think
+that we brought several boxes of ML-307(B) targets with us to Alamogordo in the C-47 on June 1. As far
+as I can determine, these targets, developed toward the end of the war, had never before been used in New
+Mexico. (While radar wind measurements were made from Tularosa Range Camp by Lt. O. J. Tibbets us-
+ing a SCR 584 radar during the summer of 1945 in support of the Trinity nuclear test, the targets Tibbets
+used were an earlier model that were constructed differently and had a different appearance than the newer
+ones we brought in 1947.)
+
+The planned radar tracking of our flights initially was not successful because the radar lost the targets
+while the balloons were still in sight. In an effort to provide better signals, we began an unorthodox use of
+the targets: we attached three to five targets beneath clusters of 350 gram meteorological balloons. These
+were launched from the North Area at Alamogordo AAF where the Watson Laboratories radar was lo-
+cated. A picture is attached that shows two targets in this configuration being demonstrated to reporters
+from the Alamogordo News on July 9, 1947.

@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T06:35:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4287273, "source_ctime_ns": 1793374255335731065, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28950957/0147.jpg", "source_mtime_ns": 1785696433000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28950957/0147.jpg", "source_sha256": "f7835710b65bd8b3abe08870c8c3244ebf880a4928da31c77c6bb833b2ce0f21"}
+
+===== PAGE 1 =====
+{"alpha_words": 139, "chars": 1051, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+!
+
+PROJECT 10073 RECORD CARD
+
+1. DATE (OT agtocation eS? a
+. Ei
+25 Oct 52 STEAD AFB N 1 Was Balloon -
+’ 3 BV ‘Cl Probably Bailoon
+3. DATE-tiMe GROUP 4. TYPE OF OBSERVATION Ms Stairs dei tad |
+Local -- -25/1030-PST.--.-..__ WH round-Vi sual OG Ground-Radar i Scouts canes
+sui ..25/1830_2_. 2 Air Visual O Air-intarcapt Radar apax Posmily Aircrefe
+5. PHOTGS as me & SOURCE {0 Was Astronomical
+Cy (C1 Probably Astronomical
+a 2 Tower operators |e Possibly Astronomical
+7. LENGTH O* OASERVATION 6. NUMMER OF OBJECTS | 9 COURSE O Other
+aa } 'G  tneuiticient Deta for Evaluation
+5 sec 2 +Q2 Untnowen
+10. BRIEF SUMMARY OF SIGHTING Vt. COMMENTS
+Round, orange objects traveling at 1. The report does not make clear
+great speed sighted by tower personnel at whether 1 or 2 objects were seen, They
+. Stead AFB, ees ,left vapor trails, however, were seen
+for 4 min, and changed directions ~ all
+Similar objects reported by civilians in leading to the conclusion that the object
+‘| Reno, eet: er objects sighted were possible a/c.
+q
+
+ATIC FORM 379 (REV 26 SEP $2)

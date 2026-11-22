@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T07:23:41Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1452285, "source_ctime_ns": 1793392091289707124, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302564013/0185.jp2", "source_mtime_ns": 1785808674000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302564013/0185.jp2", "source_sha256": "29b9f4dc61bfc62ce3b0ef9075605f8ab4dc396f5a7ee7432ceaf3ee6bcc9588"}
+
+===== PAGE 1 =====
+{"alpha_words": 112, "chars": 838, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Wright-Patterson-Ma j Rademacher/SAFOICC/1j8/79079/31 July 67
+
+JUL 3 1 1967
+
+"Reference your observation and subsequent photography of an
+unidentified flying object (UFO) on March 10, 1967.
+
+fhe partograghs were examined in hopes of identifying the
+objecte The odject appeared to be circular, basically flat in shape.
+Lack of sufficient foreground and/or backzround detail precluded
+& scale factor to size the object. This lawk of describable features
+
+prevents a positive identification of the object.
+Inelosa@d are the photographs which you submitted for analysis.
+Thank you for reporting your observation to the Air Force. —
+
+Sincerely,
+
+RARNETY B. YOUNG
+
+Lt Colonel, USAF
+
+Chief, Civil Branch
+Community Relations Division
+Office of Information
+
+@, “orth Caroline 25726
+
+/ / BEDS SAY-OTC
+end, —
+VAG AA AA eat oe
+Read ly =
+
+Srnoe t a"

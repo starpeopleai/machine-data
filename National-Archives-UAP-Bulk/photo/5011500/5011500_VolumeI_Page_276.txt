@@ -1,0 +1,87 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T07:15:35Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 539793, "source_ctime_ns": 1793365599773171091, "source_file": "National-Archives-UAP-Bulk/photo/5011500/5011500_VolumeI_Page_276.jpg", "source_mtime_ns": 1785565398000000000, "source_rel": "National-Archives-UAP-Bulk/photo/5011500/5011500_VolumeI_Page_276.jpg", "source_sha256": "cfe9b0db1a48b3ebbcd75205659f7b68f0446e1c3acff71ba6ee80a4821504cd"}
+
+===== PAGE 1 =====
+{"alpha_words": 192, "chars": 1295, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+95:10:59
+
+95:11:09
+95:11:21
+95:11:22
+
+95:11:24
+
+95:11: 48
+
+95:11:50
+
+95:12:05
+95:12:07
+95:12:08
+95:22:48
+
+95: 28: 37
+
+95:29:03
+
+cc
+
+Cc
+
+cc
+
+cc
+
+cc
+
+cc
+
+P
+
+CONFIDENTIAL 215
+
+Okay. You're still looking real good here on
+the ground. You can turn your T/M switch to
+COMMAND position. Okay. We have you and we're
+standing by. We'll have a couple more minutes
+in acquisition.
+
+Rogere
+
+Carnarvon, Gemini VII.
+
+Go ahead, Gemini VII.
+
+Would you relay to the Flight in Houston please
+the following times. The sunset, the lower end
+across the horizon, 93:10:57.5; the upper end,
+93:11:15.5. Did you get that?
+
+Rogere Copy.
+
+Sunrise, the upper end across the horizon,
+93:42:34.5; the lower end, 93:43:22.0.
+
+Rogere Copye
+Thank you,
+Roger. Gemini.
+
+A comment here at 95:22: I've been wrestling with
+a beef and gravy package for at least the last
+
+15 minutes, Serial Number SC596, and it just doesn't
+come oute You put water in one end and it doesn't
+get to the dry material on the other end. No
+matter what you do, you can't mix it and then you
+try to force it out of the eating end, and it
+
+takes an awful long time.
+
+HAWAII
+
+Gemini VIL, Hawaii CAP COM, If you read, place
+your T/M Control T/M switch to REAL-TIME and
+ACQ-AID, and your adapter C-Band to CONTINUOUS.
+
+Tananarive, Gemini VII.
+
+CONFIDENTIAL |

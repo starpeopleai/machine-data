@@ -1,0 +1,84 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T07:03:03Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 15601755, "source_ctime_ns": 1793355612876940682, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0051.jpg", "source_mtime_ns": 1785564489000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0051.jpg", "source_sha256": "675073e910dfb3f9e377508b522c1be8e2a7ee1437bf23660119c93aae4edf41"}
+
+===== PAGE 1 =====
+{"alpha_words": 464, "chars": 3040, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+—
+uJ
+uJ
+L
+i
+Oo
+n
+Q
+rd
+<q
+wm
+~,
+(eo)
+ae
+ne
+uJ
+(=)
+2;
+=
+i
+a |
+<x
+
+s0e0 080% L040 4;080
+
+SHEAR SEC7—!
+
+Figure 2, Probability Occurrence of Extreme 1000-Ft Shears with Height
+
+89
+
+I doubt that such accelerations are sufficiently great to be responsible for balloon
+bursts but I believe that these values should be looked into more deeply by knowledge-
+
+able balloon systems designers especially if faster ascent rates are planned.
+
+3. TURBULENCE FORCES
+
+To the rising balloon a gust may be considered as the small-scale fluctuation
+of wind velocity with altitude while the balloon moves with the velocity of the
+generalized wind profile which includes wind shear discussed in the previous section.
+However, these gusts in turn have their own shear profiles. As will be seen, the
+shear in these gusts will be nearly an order of magnitude higher than the shear in
+the generalized wind flow as portrayed by weather balloon soundings which average
+out gustiness during the two minutes of rise required to obtain a wind vector.
+
+One reasonable assumption in examining the criticality of such gusts is to
+assume that they are made up of eddies which are rotating around a horizontal axis
+in the strong shear above and beneath jet stream wind profiles of the type portrayed
+in Figure 1. If such a vortex with, say, a 100-foot radius were penetrated by a
+100-foot-diameter balloon, a reasonable size for a large vehicle ascending through
+the tropopause, it is conceivable that the full horizontal component force of the
+gusts would be imparted to the upper or lower part of the balloon whereas the part
+diametrically opposite would not be subjected to it. This would result in a tearing
+force,
+
+A direct attack on this problem would be to investigate turbulence existing during
+the passage of balloons which had burst. However, applicable turbulence data are even
+more difficult to obtain operationally than accurate wind shear. I understand that
+there are current efforts to obtain such information from accelerometer -instrumented
+balloons. From these accelerations it is hoped that details of wind changes can be
+deduced to provide gust data analogous to aircraft-obtained gust statistics shown in
+Figure 3. My hope, however, for obtaining the volume of turbulence data necessary
+for thorough consideration of this problem is a new sounding system, the ROSE.
+
+Lt. Reid will discuss this system in a later paper. I will only note that wind profile
+details averaged through a hundred feet or less, with an accuracy of a few feet per
+second, are promised.
+
+Since we cannot perform adequate post-mortem analysis on balloon bursts, let
+
+us examine the gust data depicted in this NACA graph (Figure 3) for applicability to
+
+the problem. The 610 gusts shown in this figure are the peak speeds and the dis-
+
+tances over which the airplane traveled while this peak was being attained. Instru-
+
+mentation included both accelerometers and refined pressure anemometry. Altitudes
+
+of the aircraft, which were all flown in the mid to late 1940's, did not exceed

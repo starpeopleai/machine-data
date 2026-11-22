@@ -1,0 +1,47 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T06:54:14Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8183205, "source_ctime_ns": 1793379540642085481, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28972570/00728.jpg", "source_mtime_ns": 1785700672000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28972570/00728.jpg", "source_sha256": "a0f9e591f1ce36a101744b3de7a6648d9ea856ebfa9303abe105687f54ab053e"}
+
+===== PAGE 1 =====
+{"alpha_words": 69, "chars": 445, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+5
+
+_@
+e
+?
+*
+
+s
+
+- @ f e s Cf :
+e en ® a
+
+)
+
+’ «
+Bo/t3¢re
+
+uf
+
+@PG2G6 YDCL42 VYDI24 VDCO87KBAS53
+
+PP RJEDDN RJEDYP RJEPHQ RJEPNB
+
+DE RJESKB 2D
+
+P 3121192 | |
+
+FM COMDR 66TH ACWRON MACDILL AFB FLA...
+
+TO RJEDDN/COMDR ADC ENT AFB COLORADO SPRINGS COLO
+RJESKB/COMDR 35TH ADIV DEF DOBBINS AFB GA
+
+WEDWP/COMDR AIR TECH INT CNTR WRIGHT PATTERSON AFBOTIO
+-JEPHQ/COTDR DIR OF INT HQ USAF WASH 25 Dc oo
+“FO RJEPNB/COMDR EADF STEWART AFB NY
+
+ed
+
+on
+
+i
+
+a

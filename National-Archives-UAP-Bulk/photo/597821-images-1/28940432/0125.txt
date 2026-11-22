@@ -1,0 +1,66 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T06:30:00Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 2842397, "source_ctime_ns": 1793371930100776781, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28940432/0125.jpg", "source_mtime_ns": 1785688519000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28940432/0125.jpg", "source_sha256": "125f4057176bd9bf027fec1dcdd5b21512b493a7b1bedc229ea5d9fe173089ff"}
+
+===== PAGE 1 =====
+{"alpha_words": 453, "chars": 3804, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+: S 45-83 05 tom Ab gu Major | 3 Uoundaty | Aliway lane ‘eae |
+Ittondavilie, W.Va. | Arthurdate soaor-7vrag } Com. | T7201 80 1 fis | F nd. whan |
+P ! a . : \ j& hi jidays |
+| Reynoldsburg, Ohio Snook Field wy “es 89°58'-82°47 Con. L. JoL10] 80 a _| Major 2] 200 | aE DA | - ep hee
+iRomney, W. Va. Romney BV°22-78 44" | Pri 150 : ec). oe oe
+¥ ibina, Ohio” Ss [Sabina ~——SOS~S~S~S~«~W AB” Com. | 1080 “30 TP Major | All [2700 } Sa? aM BCC eee a J "|
+Way
+Scott Depot, We Via. (fae 8 8=3——t— “Tas 27-R 15h" - rive ‘i. * De + ae © i 400 cas a {en mergency field EN
+Shen andes tte ergy [Shenandoah eee, 3s 28" 78°97" Te om. 950 | 80 em: aha ~ i 2 é in : “t ; ; | a
+Sleepy Cre . | Potomac Air Park 39°41-78°10' | Com. 400 at) Minor 1 | 2600 Bndy. on prior req. _— rmittent attend. |
+(Han bn wy Md: “w 7 : ‘ : : DR SOE PORES ee ee | | |
+Sout he charleston, “TSouth Charleston SPB] S8°21-81°45" | Com. | 560 | BO r Major 7900 Flood jFloats, haulout |
+Ga nent, Ww. . Roane L* ‘ounty 38°47'-8 1°20" | Mun. | 954 | 800 jf i jimo | | ws
+Springtield, ‘Ohio Crabill ~""T 39°53'-83°46' Com. | 1040} 80, 9L Major | 3 | 2900 Keay. on prior re al
+|Springfield, Ohio —T Springfield Mun. 39°517-S8°50' “| Mun. | 1049] 80, 91 1 Minor | “a [85008 ~ Runway apr
+Staunton, Va. ‘| Staunton Mun.‘ a8*ti! 7 Mun. | 15007 80, 91 “Major | “8 [2560 ad COOMA: & ana Sa
+Stockport, Ohio Ervin g9°33"-S1°47 | Priv. | 680 | uo + A2(. oe [LT LP
+!Summersville Canvas Field 38°16’-80°48" Priv. | 2000 Tor [i260
+(Canvas), W. Va.
+Summersvills ~~ Koontz Field ga°1a'-e0°e" | Priv, | 1575] [Oa [etoo ier ae aT PD a
+(Sparks), W. Va.
+Sutton, W.Va. [CAA Site 21_ 38°41'-80°39" | Inter.[ 1264) : aa
+Waynesboro, Va. ‘| Augusta ann ———T98°02"-78°89" | Priv. | 1420] #£| | ~TUse atown risk,
+- ~ EEE ee _jemerg. only _
+Waynesboro, Va. Valley apa ous i '38°05'-78°52" [| Com. | 1275) 80 | Major : hes : vs Bele aes
+Wav nesbora, Va. W. ayne nesboro- 38°05'-78°56' _| Com. * 1450) a EP RS eT TL Closed, constr.
+Way nesburg, Pa Greene County 39°54'-80°08’ [ Mun.{ 1100] 80, 91 Major | 8 [3000 Strip on prior req.
+Webster & Springs, | Harper —Tgaeereor2a” Com. | 2700, [Tt favo TS Emergency field
+Wellston, Ohio | Wellston 39°04'-82°92” | Com.| 710 [ 80 [| a [2800 a us ap
+Weston, W.Va. sd | Louis Bennett Field | _ [39°05 r-80°28" | ~ Mun. ‘|_1020 Rime tyes i 2 [3400 : Calera See ¥ ; 4 race “,
+Ww wees (Lightburn) | Woodford F ield ~139°07'-80°27" | Priv. 1060 1 | 1400
+Wiley Ford, ~“TGamberland Mun. —Pigaact tao} 80, 91 T Major] 9-8 7908t  TRway. on request Pai
+(Cumberland, Mi. ) '
+Winchester, Va. pas | Winche ster Mun, Mun. i 700 _ | 80 i Major 4 cz p25 250 By fuine on req. : ene RD : para mm
+Winfield (Po V.Val Clark Pre td Com. | 699 80 Major 1 | 2560 |
+Winfield, W. Va_ ae Hon: aker rie P Com. T AS0 ‘4 80 : sy (yy 1 is? 50 7 - Rgelleeiitie e ct ee Gee
+Woodsfield, Ohio | Wodsfield ———*[39°45"-81" r Mun. | 1220] 80 1 ]1900 | — ee os i
+Xenia, Ohio ere Port Xe nia ins Com. ret “gO. | Minor| L 12000 ; —f-— peti R Pi ite nt Re
+Zaleski, Ohio Zaleski Sty ate r ‘orest i | Mun. | 705 Pe Biss we & 200 EE Pe No public services. ee
+| Zanesville, Ohio ‘ace Riverside a “Com. [700 __ 80, 9 _[™M ajor ‘1 4 4000 o AEN | = : ; art ili 3
+Zanesville, ¢ Ohio a Zanesville Maun. ark 3’ | Mun. ‘a 901_ cee 80, 91 A Minor A a SOUOHE _ [Runway lh ah mane ile ke ik Nea
+
+Fuel octane ratings listed by umber are arena available to civil aircraft, unless otherwise noted.
+
+Military fuel is listed by letter code indicating octane ratings as follows: A+: 115/145, A: 100/130, B: 91/98, C: 73 or 20, J: JP-1,3
+The above listing does not include Air Force aerodromes.
+
+*Joint civil and military operation; Air Force facilities are not Usied.
+
+) Consult the latest Airman’s Guide for changes in data subsequent to date of chart.
+7-2-5
+:
+'
+:
+t
+.
+:
+
+(ees ee
+
+e
+ess @ 9 @ 9d .

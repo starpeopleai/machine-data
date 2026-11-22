@@ -1,0 +1,59 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T07:22:30Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1286744, "source_ctime_ns": 1793356300630375806, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989314-001-0063.jpg", "source_mtime_ns": 1785564666000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989314-001-0063.jpg", "source_sha256": "35e85118896fdc27101c9e6bd1cac9f2f017bba50577f09d6093f0c6fe8f8285"}
+
+===== PAGE 1 =====
+{"alpha_words": 312, "chars": 1786, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROFESSOR MOORE - 6/8/94 35
+
+Q: So you had multiple explosions on the ground, the V-
+2.
+
+A: And explosions on the East Coast.
+
+Q: On the East Coast, Caribbean, and you had those timed
+
+so you knew when those were going to take place and you were
+simply waiting for...
+
+A: They had them timed and we balloon types just fit into
+the schedule. But the master, the timing, bringing all this
+together, we knew nothing about. We were just scheduled to fly
+balloons.
+
+Q: But you did want to launch early morning for the light
+winds.
+
+A: We did want to launch early in the morning for light
+wind. We had freedom to tell them what we could do and what we
+couldn’t do. We actually on this, in addition to everything
+else, we actually flew blocks of TNT on free balloons and fired
+them while we had other balloons in the air.
+
+Q: Did those have radar targets on them also?
+A Probably.
+
+Q: Were those detonated by...
+
+A By a pressure switch.
+
+Oi Were those tracked? Was there some sort of log that
+would tell you where those particular balloons were? You
+wouldn’t want to just release TNT to float anywhere, would you?
+
+A: They wouldn’t float. The balloons would just go up
+until they burst. And we were on the edge of the restricted
+area. So the answer is yes, we did.
+
+I’ll have to get back to this. The radar tracking turned
+out to be abysmally poor. I don’t know why, but they were
+abysmally poor. That’s why I got off onto this part of it. And
+when you asked me the V-2 question.
+
+Let me finish this, and then we’ll get back to what you
+asked.
+
+"Thursday morning, cluster of GM balloons sent out, V-2 not
+fired, no shots fired. Balloons up for some time, no recording.
+Pieball showed no West winds. Balloons picked up by radar, WS."
+
+PROFESSIONAL WORD PROCESSING & TRANSCRIBING
+(703) 391-0068

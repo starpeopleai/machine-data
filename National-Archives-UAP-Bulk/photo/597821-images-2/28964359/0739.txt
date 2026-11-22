@@ -1,0 +1,34 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T06:33:07Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3918752, "source_ctime_ns": 1793377570266275436, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28964359/0739.jpg", "source_mtime_ns": 1785696701000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28964359/0739.jpg", "source_sha256": "f7a542a72cd21c13948665e98aa9456a20b5f45c046fa913af82508daf9e7a95"}
+
+===== PAGE 1 =====
+{"alpha_words": 132, "chars": 865, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+(
+¢ PAGE THREE RJEPHQ $15
+
+OFFICE G-2 CliM DEPT ARMY CMM PENTAGON CMM WASH €2 CMM De Ce 7
+PAREN 7 PAREN PAREN A PAREN CLEAR CM VISIBILITY TO STH MAGNITUDE
+( ° PAREN B PAREN BOLLING AWS CLN 6%e» TEET-265 DEGREES-12 KNoTS cum /
+
+PeVeGr2or420 CMM [Sevie-Sese4> CMM eed Oclnbs CMM Jeele-25e-6y¢
+
+AND 5e03-276-S2. PAREN C PAREN CLEAR PAREN D PAREN J MILES PAREN
+
+E PAREN NONE PAREN F PAREN NOME. PAREN 8 PAREM NONE* PARER $
+
+PAREN NONe PAREN 1. PARN NONE OEBSERVEDe PAREN f1 PAREN CAPT CLYDE
+
+Se JORDAN CMM INTELLIGENCE OFFICER CMM PENTAGON CMM CAUSE UNKNOWN.
+
+( PAREN 12 PAREN NONE* REMARKS CLii AF FORM 112 WILL FOLLOWs OPSERVER
+IS TO PLOT EXACT COURSE ON AN ASTRONOMICAL CHARTe HE ADVISES THAT
+ELEVATION AND SP£ED CAN BE DETERMINED WITH KNOWN FACTORS OF EXACT
+
+COURSE RELATIVE TO STAR AND POSITION OF OBSERVERe
+
+: a Soa cca asa Se
+15/2597 DEC RJEPH cen |
+
+ee
+
+td
+r]

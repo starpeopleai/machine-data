@@ -1,0 +1,43 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T07:25:20Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1739227, "source_ctime_ns": 1793393789497207429, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302580560/0405.jp2", "source_mtime_ns": 1785808299000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302580560/0405.jp2", "source_sha256": "724be4bacb9b6f22d6546fd9b8aebcdbc3130b28d985a55425181a80cc38a3a8"}
+
+===== PAGE 1 =====
+{"alpha_words": 16, "chars": 143, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+OR
+
+~ZJ
+
+= a
+iE :
+a ae
+NO 3
+~
+
+8
+
+be
+
+‘ - “)
+3 & wi
+~ ; CY
+\ 5 4
+\j J
+\
+‘
+»2 ~
+‘~ =
+‘ =.
+2)
+\\ if
+> 4
+‘ 4 ‘
+sa ee
+~
+
+-«
+ZA
+
+cu
+
+“Fics
+
+ee eee

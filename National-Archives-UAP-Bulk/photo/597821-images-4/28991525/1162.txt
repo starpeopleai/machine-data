@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T06:51:06Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7098939, "source_ctime_ns": 1793384978532219453, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28991525/1162.jpg", "source_mtime_ns": 1785748336000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28991525/1162.jpg", "source_sha256": "b1f3f73b5cbf78df7b382c1a02be39e40b56f2344af60255ea07f476887c56f0"}
+
+===== PAGE 1 =====
+{"alpha_words": 102, "chars": 810, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+1. DATE i 2. LOCATION 12. CONCLUSIONS
+O Was Belloon
+22 Feb 61 K7N 173W (North Pacific) * |0 Probably Bolloon
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION sala ttt
+Local 1945 O Ground- Vi sual D Ground-Rodar 5 Srobvale meres oft
+GMT 5Z, @ Air Visual O Air-Intercept Roeder 0 Possibly Aircroft
+5. ‘PHOTOS 6. SOURCE 0 Was Astronomical
+O Yes O Probobly Astronomical
+@ Ne Military O Possibly Astronomicel
+7. LENGTH OF OBSERVATION 8. NUMBER OF OBJECTS | 9. COURSE 1 Other
+. ss eon Dota for Evaluation
+5 min and 12 min 1 W-E igi
+10. BRIEF SUMMARY OF SIGHTINGTwo reports received. V1. COMMENTS furation of sighting is ‘char-
+All that was reported was that objt was acteristic of a satellite such as Echo ].
+
+Sighted. Length of observation and course
+were given.
+
+ATIC FORM 329 (REV 26 SEP 52)

@@ -1,0 +1,78 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T07:01:13Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 13653362, "source_ctime_ns": 1793355325403707736, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989265-001-0026.jpg", "source_mtime_ns": 1785564435000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989265-001-0026.jpg", "source_sha256": "1039487cfc6cd12d15fce830b1b7e493e872b51b3a7e36bfa271e5439736eece"}
+
+===== PAGE 1 =====
+{"alpha_words": 388, "chars": 2608, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+CDR Malcolm D. Ross getting into his space suit aboard USS
+Antietam for Strato Lab High No. 5.
+(Official U.S. Navy Photo)
+
+LCDR Victor A. Prather, suited and waiting
+to enter gondola. (Official U.S. Navy Photo)
+
+Prather and Ross in gondola aboard USS
+Antietam prior to Strato High Lab launching.
+Aerial view of ship with balloon on deck during
+inflation and lift-off.
+
+(Official U.S. Navy Photo)
+
+in Alabama repoirted in August, 1964, that
+x... Schjeldahl Company was contracted to
+manufacture a meteorological balloon with
+‘‘warts”’ raised on its surface to make the
+aerostat more stable in turbulent. air
+streams than it would experience with
+smooth, spherical balloons.
+
+On May 30, 1965, two 100,000-cubic-
+foot balloons were launched from the
+schooner, Goodwill, off the Cook Islands,
+carrying the University of Minnesota’s sci-
+entific equipment to the upper atmosphere
+to examine the sun’s eclipse.
+
+Another record balloon flight was made
+on February 2, 1966, from Sioux Falls,
+South Dakota, by Nicholas Piantanida to an
+altitude of 123,500 feet, well above the
+record held by Ross and Prather. Piantanida
+intended to break another record by a free-
+fall parachute jump. When he first discon-
+nected his line from the tank in the gondola
+and attempted to hook it up to the tank on
+his back, he found the coupling was frozen
+and could not be released. Piantanida had to
+
+give up and request the controller on the
+ground to release the gondola from the bal-
+loon by radio signal. He then fell 5 miles to
+97,000 feet before the gondola’s parachute
+opened. Piantanida fortunately returned to
+earth safely, but because the balloon did not
+return to earth with him, the FAI did not
+recognize the altitude as a record.
+
+By 1970, scientific payloads were being
+balloon-carried to altitudes above 99.8% of
+the earth’s atmosphere. During the course
+of a yearly period the United States was
+launching over 500 high-altitude, constant-
+level balloons. Manned and unmanned bal-
+loons were engaged in aeronomy, solar phy-
+sics, astronomy, energetic particle research,
+magnetic fields, micrometerites and cosmic
+dust, planetary observations, biology, vis-
+ible light particle sampling and pressure-
+temperature sensing. At the same time, in-
+dustry and government were improving bal-
+loon reliability and technology in areas of
+launch, flight, inflation shelters, and balloon
+materials.
+
+Final check of an air-sampling payload before launch by USAF personnel from Holloman AFB, New Mexico. The samplers are
+
+designed to collect stratospheric dust particles at altitudes from 60,000 to 120,000 feet
+
+49
+
+(USAF Photo)

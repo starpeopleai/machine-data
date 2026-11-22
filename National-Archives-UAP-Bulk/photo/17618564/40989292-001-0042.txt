@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T07:22:56Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1362289, "source_ctime_ns": 1793355933514720193, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989292-001-0042.jpg", "source_mtime_ns": 1785564562000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989292-001-0042.jpg", "source_sha256": "3b1c9ca7a7373e0ca0e6c5b79427e7afb81091c1fbbb10328c267f3bcbaa125c"}
+
+===== PAGE 1 =====
+{"alpha_words": 225, "chars": 1482, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+30
+
+rough parameters for the planning of other experiments, It has
+also been used in its own right for certain test series relating
+principally to Task 78507, Automotive Crash Forces, and it will
+be discussed further under that beadinae's
+
+In June 1955, even before the inauguration of the swingsseaty
+a more primitive variety of Aspace test was conducted in which
+a shot bag was simply dropped against an anesthetized hog "to
+determine the threshold of tissue damage by force transmissible
+through the abdomen walleeee™ This was an area of the body
+especially vulnerable to crash forces, so that the test procedure
+was' of obvious interest for both aircraft and slitonstive erash
+research. The officer directly in charge of the shot-bag experi-
+mentation--Major Joseph V. Michalski, who technically preceded
+both Lieutenant Blount and Captain Beeding as task scientist of
+Task 78503~~managed to conduct just one actual test before leaving
+Hollomen in mid-1955 on permanent change of station. However Py
+this was a forerunner of other impact tests with hog subjects on
+the swing-seat that were held specifically under the auspices of
+the automotive crash programe
+
+One final example of the concern of the laboratory's bio-~
+dynamics program with all manner of impact forces is the effort
+Spent on developing a non-penetrating projectile which can be
+fired at close range "to produce concussion in animal subjects m4
+This effort was technically considered a part of Task 78503, but

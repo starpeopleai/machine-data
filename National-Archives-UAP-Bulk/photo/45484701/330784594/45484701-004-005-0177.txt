@@ -1,0 +1,55 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T06:52:09Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7468849, "source_ctime_ns": 1793363176380352021, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330784594/45484701-004-005-0177.jpg", "source_mtime_ns": 1785684748000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330784594/45484701-004-005-0177.jpg", "source_sha256": "3919ba85296b2cea37478c2629ba0bf340222a1d0c79fd9a5107d057a6d1001c"}
+
+===== PAGE 1 =====
+{"alpha_words": 127, "chars": 955, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+HEADQUARTERS UNITED STATES AIR FORCE FILE NO. DATE
+
+Uy July 1950
+
+‘ THE INSPECTOR GENERAL 5D 2h-214G
+OFFICE OF SPECIAL INVESTIGATIONS
+REPORT MADE BY
+AFB, Dayton,
+DO #5, Wright-Patterson AFB, Dayton, 0
+
+/@
+STATUS
+PENDING
+
+SPECIAL INQUIRY
+REFERENCE
+
+None, this is an initial
+SYNOPSIS ¢
+
+/
+|
+
+Investigation requested 29.Jun 50 by thief,
+Technical Analysis Division, nteLligence
+Department, AMC. MARTIN WAPETERSON al~
+leged finding unidentifi ybject in his
+home town and furnished phofographs of
+same, Attempt to interview|PETERSON in
+
+Cincinnati, Ohio revealed he is now at
+his home at Warren, Minnesota,
+
+DISTRIBUTION
+CG, AMC,ATIN: MCTAXA Commanding General
+f (Action Cy)(Incls) Air Materiel Command
+
+Hq OSI (Incls) Wright-Patterson AFB
+
+Pelt, \ Dayton, Ohio
+(Inels) va ATTN: MCIAXA
+
+ACTION COPY FORWARDED TO FILE STAMP
+
+JAMES F, X. O'CONNELL
+Lt Colonel, USAF
+DISTRICT COMMANDER
+A ORM
+He ¥9 0-208 a Tel ES i 50 10389
+
+Declassification Authority: NND 923007

@@ -1,0 +1,63 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T06:40:09Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5052949, "source_ctime_ns": 1793388212055529737, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/29000443/0732.jpg", "source_mtime_ns": 1785748099000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/29000443/0732.jpg", "source_sha256": "2002d2fbabdf23d2eba7e7793cef825cbe448c527e8d7c6d8ad09ad171f0be9c"}
+
+===== PAGE 1 =====
+{"alpha_words": 125, "chars": 875, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+aa
+
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+INCOMING MESSAGE
+
+AF IN: 54935 (19 Mar 63) A/ela
+ACTION: NIN-9
+
+INFO : XOP-1, XOPX-4,
+OSD-13, NSA-7, CIA-11 (118)
+
+Sub Di O89. °C
+H@ALGS5ZCUJA1L17
+PY RUBARG
+DE RULGN 969
+Y 19935302
+FM COMCARIBSEAF RON
+TO RUWGALB/CINCNORAD
+RUEAHQ/COFS USAF
+RUCK DT/ COMASWF ORLANT
+RUECW/CNO
+RUCKHC/CINCLANTFLT
+RULGA/72ND BOMBER WING RAMEY AFB ATTN CHIEF INTEL
+I
+YN1902435Z
+FM COMGANTS
+TO COMCARIBSEAFRON
+BT
+
+MERINT a
+
+GOVE PLAINSMAN 1 25 19 @206Z
+US COAST GUARD SANJUAN
+
+BT
+
+AT G14@Z 19TH UNKNOWN OBJECT EXPLODED IN SKY. FURTHER
+EXPLOSION ON STRIKING WATER 17.55N 57-49W. AM SEARCHING
+AREA. SGD MASTER UNQUOTE
+
+BT
+
+C WA QUOTE GOVT aie
+
+NOTE: ADV CY TO XOPX, NIN AND DIA.
+IMAL AOOITITN
+
+AFHQ series: 0-309
+
+PRavioua: Fe Ee:
+
+PREVIOUS EDITIONS OF THIS FORM
+
+TVED FROM SS PLAINSMAN QUOTE ‘ea
+
+o|
+
+* ARMY-2, CMC-7, JCS-35, DIA-20, DIA-CIIC-2,

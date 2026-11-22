@@ -1,0 +1,23 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T06:48:43Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6906039, "source_ctime_ns": 1793354796007152037, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989219-001-0178.jpg", "source_mtime_ns": 1785564341000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989219-001-0178.jpg", "source_sha256": "bacd985b0759e30b0da8dc4a4347ad37313966252763ffb27eacb1d7ef7ca1cd"}
+
+===== PAGE 1 =====
+{"alpha_words": 44, "chars": 240, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Sp 9
+LF : a ber y 5
+
+=
+
+ee Lat te
+
+i y,
+
+Cp tILe ee
+UP HER S12LG v% HUAtNEL YL od 5 a Ee tees LA gg £9
+4 f
+UY (7
+
+i}
+
+Vie Law of decor Mase, Ciao rpm
+Axed Ore Aecore a ao Jete. Sf hale SOLO T eof
+Uniled) Makie 'v. (Bx f- Cre as) [8 OM DEF

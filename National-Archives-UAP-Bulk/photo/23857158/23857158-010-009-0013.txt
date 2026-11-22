@@ -1,0 +1,21 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T07:26:39Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 2992512, "source_ctime_ns": 1793359691409426809, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-010-009-0013.tif", "source_mtime_ns": 1785681493000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-010-009-0013.tif", "source_sha256": "739aa26f9366dbbb611a3ca4c317aada6cc74d3dbe546debf26e4a90f59c33bf"}
+
+===== PAGE 1 =====
+{"alpha_words": 118, "chars": 758, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Declassification Authority NND 923007
+
+Poga 10
+
+(Central Time} the odject was again sighted in approximately the same position & time
+as previously stated, At this date the evening seemed clearer, & the three original
+observers watched this object for one hour and a half until it again disappeared in
+
+the northwasterly direction, Mr gain called Midway Airport personnal who
+stated that they did observe the object. After. the disappearance of this object, Mr
+
+ealled the airport again to have them verify that the object did disappear from
+
+the westerly skies, Source stated that the object was the same size and color on all
+threa observations, and that on the last evening Red & Green lights seemed to appear
+
+& disappear as though they were ravolving.

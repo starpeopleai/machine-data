@@ -1,0 +1,19 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T06:57:23Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10294425, "source_ctime_ns": 1793364138781456065, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330786509/45484701-006-006-0165.jpg", "source_mtime_ns": 1785684588000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330786509/45484701-006-006-0165.jpg", "source_sha256": "280b75de011e49ae1ab1a3a662b96e3c6a8acbc7048275228cfe2d0f2117b9b3"}
+
+===== PAGE 1 =====
+{"alpha_words": 134, "chars": 862, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+attracted their attention to the object was ite brilliance and «x=
+tremely large sise. This object did not change shape, leave a trail,
+or emanate any flame er color. :
+
+&- Weather conditions at that time were an overcast in the near
+vicinity, moving toward the object and which finally covered the object.
+There wae no radar in operation at the time of the sighting. Checks were
+made with the Base Weather Squadron, Hollowan APB, White Sande Preving
+Ground, and Biggs Air Foree Base, and it was determined thet no testing
+devices had been released which would account for the sighting. Chacks
+at the Operations & Projects Section and the Electronics 4% Atmosghere Branch,
+Holleman AFB, revealed no pertinent information. There were no local flizhts
+scheduled in the vicinity of Hollewan AVS or Alamocordo, New Mexico, at
+
+Declassification Authority: NND 923007

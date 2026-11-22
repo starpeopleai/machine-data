@@ -1,0 +1,56 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T06:55:15Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8667393, "source_ctime_ns": 1793363427220668412, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785292/45484701-005-004-0033.jpg", "source_mtime_ns": 1785684652000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785292/45484701-005-004-0033.jpg", "source_sha256": "ff1ad8ca20b91e95eee4a30d4e7f35edec5725e1766e4fc2b00b4ecc2cbc32a0"}
+
+===== PAGE 1 =====
+{"alpha_words": 155, "chars": 1206, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+DO 9 File 24-233
+
+ce. Angle of elevation anid azimuth upon disappearance: Approxi-
+mately 45 degrees.
+
+d. Object moved in NNE direction for approximately 50 to 60
+seconis, stopped briefly, then proceeded in approximately a NNW direc-
+tion for approximately 5 to 10 seconds and then disappeared.
+
+@. Disappeared, suddenly, from view and did not reappear.
+
+f. Object was in view for 60 to 70 seconds.
+
+Manner of Observation:
+
+a. Ground - visual
+
+be No optical aids utilized.
+
+ce Not applicable.
+
+Time end Date of Sighting:
+
+@. 1815 to 1820 hours on 12 June 1958
+Zulu Time; 24002
+
+De Dusk
+
+location of Observer:
+
+222 N. Rampart Street, New Orleans, Louisiana
+Identifying Data of Observer:
+
+PAUL J. GERACI, 1131 Clouet Street, New Orleans, La. Age: 28 ,
+Bank teller at Hibernia National Bank.
+
+Weather and Winds Aloft Conditions at Time and Place of Sighting:
+@. Observer stated weather was clear.
+b. TILLMAN GLADNEY, Aviation Weather Service, Moisant Airport,
+Kenner, La., telephonically provided the following data
+for approximately 1830 hours, 12 June 1958:
+
+Height Wind Direction Wind Velocity
+
+Surface ESE 12 knots
+6,000 feet 100 degrees 10 knots
+
+:
+
+PONFIDENG IAL
+
+Declassification Authority: NND 923007

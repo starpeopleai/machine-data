@@ -1,0 +1,58 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T06:55:04Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8592924, "source_ctime_ns": 1793362705654991009, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330783376/45484701-003-004-0217.jpg", "source_mtime_ns": 1785685015000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330783376/45484701-003-004-0217.jpg", "source_sha256": "76b24e4c197f19779e55597a386c506bab962c9c61768d94e8f025e4331db8b9"}
+
+===== PAGE 1 =====
+{"alpha_words": 315, "chars": 2259, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+l. This investigation was initiated by the District Commander,
+North Africa District OSI, APO 118, USAF, predicated upon information
+received from Captain THEODORE A. BORST, AO 2099505, Headquarters,
+316th Air Division (Defense), APO 118, USAF, who, at 2230 hours, 5
+March 1954, telephonically advised North Africa District Headquarters
+that Radar Control Site #1 had reported unidentified objects/aircraft
+flying in the vicinity of Nowasseur Air Depot,
+
+2. Special Agente DANIEL EB, WELOH, DALE W. DAWSON, and WILLIAM
+T. BRUNETTE assisted in this investigation,
+
+3. At 2310 hours, 5 March 1954, ist Lieutenant HARRY J, SAVOY,
+AO 1851093, Aircraft Controller, 736th AC&W Squadron, on duty at Radar
+Control Site #1, telephonically advised Special Agent WELCH that the
+Nouasseur Control Tower Operator had advised him that Air Force air-
+exaft flying in the local area were reporting unidentified objects/
+aireraft in vicinity of Nouasseur Air Depot. SAVOY further advised
+that the high radar scope reflected a target at 10,000 feet, twelve
+(12) miles South of the field, However, he explained that this target
+which appeared to be moving very slowly and which disappeared and reap~
+peared on the scope, could possibly be a cloud. SAVOY added that search
+with low scope met with negative regults due to “ground clutter". SAVOYE
+added that he had reported that information to the Duty Officer at the
+
+SAVOY stated further
+
+that he would continue to monitor area,
+
+4e At 2340 hours, 5 March 1954, 3/Sgt WAYNE EB. BRADSHAW, AF
+38463522, 736th AC&W Squadron, on duty as Aircraft Dispatcher, Base
+Operations, Nouasseur Air Depot, advised 3/A WELCH that the following
+Air Foree aircraft had been flying in the loeal area of Nouasgeur Air
+Depot that evening:
+
+ae Locally based aircraft:
+
+KC~97, #6537, Pilot: G, E, BROWN, 30st
+K0=97, #6529, Pilots R&. R. ZADNIK, 30let
+Gnh7, #2844, Pilots 1. R. MC CAMI, 7210th
+
+Transient aircraft: ‘
+
+G54, #2684, Pilot: POND, Home Station: Kelly APB, Texas
+Cui7, #5289, Pilot: MCBRIDE, Home Station: Sidi Slimane
+Ady Base, French Morocco
+
+BRADSHAW added that all the above listed aircraft had landed at Nouas~
+seur prior to 2203 hours with the exception of C-47, #5289. This
+
+eg —
+
+PRT ahs eas
+
+Declassification Authority: NND 923007

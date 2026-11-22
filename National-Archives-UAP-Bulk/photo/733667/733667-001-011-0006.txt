@@ -1,0 +1,119 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T07:26:17Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 2632001, "source_ctime_ns": 1793394182754175944, "source_file": "National-Archives-UAP-Bulk/photo/733667/733667-001-011-0006.jpg", "source_mtime_ns": 1785567334000000000, "source_rel": "National-Archives-UAP-Bulk/photo/733667/733667-001-011-0006.jpg", "source_sha256": "3819c01e5b44a7dc88f61ec4b61f156383594545ac3a76b2a047a4adc6e9257e"}
+
+===== PAGE 1 =====
+{"alpha_words": 227, "chars": 1630, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+page 3 - flight 1628
+
+0234: 52
+
+0234:56
+
+0235:02
+0235:24
+OZ35°27
+0235:30
+0235:39
+0235:44
+0236:12
+0236:18
+
+0236: 24
+
+0236237
+
+0236: 47
+
+02373223
+
+0237725
+0237: 29
+
+Q237 : 30
+
+0237332
+
+R15
+
+JL1628
+
+R15
+
+D15
+
+FBKS
+
+D15
+
+D15
+
+FBKS
+
+JL1628
+
+R15
+
+JL1628
+
+R15
+
+JL1628
+
+D15
+D15
+
+ROCC
+
+D15
+
+Japan Air sixteen twenty eight heavy, understand your traffic
+is over Fairbanks at this time.
+
+Affirmative - - ah request heading two one zero.
+
+Japan Air sixteen twenty eight heavy, roger. Deviations
+
+approved as necessary for traffic.
+
+Approach center (Fairbanks FAA tower) on the Sixty one line.
+Approach.
+
+Look at your radar. We got a Japan Air one six two eight,
+ah-he's deviating. He's about ah-five miles north of
+Fairbanks V-O-R squawking one five five zero.
+
+Do you have any traffic with him?
+deviating.
+
+He sees traffic, he was
+
+Ah - ya, no we don't.
+his, ah-his target.
+
+I don't see anything there aside from
+Ah-Anchorage Center; Japan Air one six two eight, request
+direct ah-Talkeetna.
+
+Japan Air sixteen twenty eight heavy, cleared direct
+Talkeetna, and in-ah-advise me of your position of your
+traffic? |
+Ah, same po, same position.
+
+Japan Air sixteen twenty eight heavy, ah-sir I'm gonna
+request you to make a right turn, three six zero degrees,
+three hundred and sixty degree turn, and advise me what your
+traffic does then.
+
+Right turn, three sixty.
+
+Okay. We have, no, we have confirmed, we have no military
+aircraft working up there.
+
+Okay thank you very much.
+You have no traffic at all?
+
+That's correct, does. he (JAL-1628) still have somebody
+visual?
+
+He says he does.
+
+FBKS = Fairbanks Airport FAA Approach Control (Tower)

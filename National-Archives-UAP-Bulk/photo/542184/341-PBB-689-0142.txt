@@ -1,0 +1,11 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T06:59:30Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 12128731, "source_ctime_ns": 1793366730240519993, "source_file": "National-Archives-UAP-Bulk/photo/542184/341-PBB-689-0142.jpg", "source_mtime_ns": 1785565583000000000, "source_rel": "National-Archives-UAP-Bulk/photo/542184/341-PBB-689-0142.jpg", "source_sha256": "64870d60f8b1719b1487a1608dfd0bd1e6c098dccc199eef153542cfa8d09406"}
+
+===== PAGE 1 =====
+{"alpha_words": 11, "chars": 58, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+pan emma
+Lane cn
+ee
+
+Tj |
+ad f/ ~
+; | pe OBE Mittra wn |

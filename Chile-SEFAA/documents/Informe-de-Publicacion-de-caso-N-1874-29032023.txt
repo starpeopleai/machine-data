@@ -1,4 +1,4 @@
-{"created_utc": "2026-09-21T21:50:55Z", "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "embedded-text", "pages": 0, "schema": "ufo-files-archive-ocr/v1", "source_bytes": 553542, "source_ctime_ns": 1788505177129778807, "source_file": "Chile-SEFAA/documents/Informe-de-Publicacion-de-caso-N-1874-29032023.pdf", "source_mtime_ns": 1788505177114128470, "source_rel": "Chile-SEFAA/documents/Informe-de-Publicacion-de-caso-N-1874-29032023.pdf", "source_sha256": "8e0a1e30506709b69a59c3669f668a97e4d76547c958cb2988725b1c0cfc5238"}
+{"created_utc": "2026-11-22T07:15:30Z", "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "embedded-text", "pages": 0, "schema": "ufo-files-archive-ocr/v1", "source_bytes": 553542, "source_ctime_ns": 1793354246199159031, "source_file": "Chile-SEFAA/documents/Informe-de-Publicacion-de-caso-N-1874-29032023.pdf", "source_mtime_ns": 1788505177000000000, "source_rel": "Chile-SEFAA/documents/Informe-de-Publicacion-de-caso-N-1874-29032023.pdf", "source_sha256": "8e0a1e30506709b69a59c3669f668a97e4d76547c958cb2988725b1c0cfc5238"}
 
 Caso N°1874 29032023
 

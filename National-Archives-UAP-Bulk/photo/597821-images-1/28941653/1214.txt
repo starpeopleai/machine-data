@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T06:32:09Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3724246, "source_ctime_ns": 1793372166795859567, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28941653/1214.jpg", "source_mtime_ns": 1785688793000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28941653/1214.jpg", "source_sha256": "4e599f2e29f1bb3d023a0833754c08be66cf55b1c4ac8890174f2f9ad2d1ae1a"}
+
+===== PAGE 1 =====
+{"alpha_words": 82, "chars": 576, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+HEADQUARTERS FIFTH ARMY he
+1660 EAST HYDE PARK POULEVARD
+CHICAGO 1S. ILLINOIS
+
+AI FGB-1 2 Nay 1982
+
+weg
+
+SUBJ%CT: Unconventional Ai rore tt
+
+TCs A-2
+Vright-Dattersen Air Force Base
+Dayton, Chio
+ATTN: HCI
+
+le Attached hereto ig Summary of Information re "Objeet in
+the Sky."
+
+2. This headquarters doors nob conter plate conducting an investica-
+tion on the matter.
+
+FOR THE AC OF S, GHZ:
+
+F itiehiil,
+a 7 t, Vy A f!
+Hs ' ‘ Epes
+&/s ‘aor, GS
+Chior, Tntelligones Division
+G-2 Section
+
+DUWNGRADED AT 3 YRAM INTERVALS;
+DECLASSIFUED APTER 12 YR BARS,
+LOD DIB 5200.10
+
+UNCLASSIFIED

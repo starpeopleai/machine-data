@@ -1,0 +1,135 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T07:02:41Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 15289078, "source_ctime_ns": 1793355570353411316, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0009.jpg", "source_mtime_ns": 1785564481000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0009.jpg", "source_sha256": "28f02e9cd37ea6986b6bb2cc9967c8a6457f8b3e2dd8ecf455da651509ef2e6f"}
+
+===== PAGE 1 =====
+{"alpha_words": 867, "chars": 5489, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Such a system of course requires balloons of suitable design and construction
+to support the vertical and horizontal loads involved, made of materials providing
+
+Sct :
+icient gas retention and resistance to deterioration under stratospheric condi-
+
+tions to remain aloft for days or weeks at atime. The former requirements
+
+appeared to be satisfactorily met by existing natural-shape taped polyethylene
+balloons, and while information on the latter problems was as yet relatively
+Sparse, it appeared probable that current and projected developments in balloon
+
+technology would provide vehicles suitable for flights of at least mode
+
+, rate dura-
+WiLOval,, :
+
+It is also necessary to consider the properties of the tether employed. The
+
+W * W . . °
+classical" material, music wire, has great tensile strength--up to 280,000 pounds
+
+~-and more modern steels are avai
+7 ail-
+able which are up to fifteen percent stronger.
+
+per square inch in diameters near 1/10 inch
+
+Steel, with a specific gravity of 7.8,
+a | | and it is found that even the best alloys will support
+eir own weight in lengths only up to approximately 110,000 feet. The total
+
+teth i :
+ether length required for a balloom moored at 75,000 feet can easily approach
+
+is, however, also very heavy,
+
+this val i i
+value, leaving no margin of strength to meet the additional loads imposed by
+
+‘ ;
+erodynamic drag and the excess balloon lift required to hold the system erect
+
+One a4 : : ;
+ie possible solution, that of tapering the tether downward from the balloon, also
+ails because with high tropospheric winds the tension in the te
+
+ther at the ground
+may become comparable to that at the balloon. —
+
+Since it
+
+| - it thus appears that the strength-to-weight ratio of the tether material
+
+1S a critical parameter, it becomes evident that the solution is to be s
+
+the di . . . . ;
+Irection..of the light-weight, high-tensile-strength materials have
+
+Sulted from recent technological advances
+
+ought in
+have re-
+It was found from preliminary
+Sirensth of 150,000-200,000 psi
+
+procured, the stratosphere-moored
+
+analyses that if a material having a tensile
+and a specific gravity of 1.5 to 2.0 could be
+
+System would i
+become feasible. It appeared that several Candidate material
+iS
+
+a
+
+a tether of given diameter, density
+
+for tether tension and angle to the v
+
+ift and weight, an assumed payload,
+and tensile strength, and a set of figures
+
+ae ae : :
+woe ext Successive uniform intervals of
+
+altitude. Failure of the system is indicated by an increase in tension beyond the
+specified breaking strength of the tether or an increase in the tether angle beyond
+the horizontal (in which case, of course, the tether cannot reach the ground). Itis
+then necessary to increase either the balloon lift (and drag) or the tether strength
+(and hence tether drag and weight) and repeat the calculation, until either an
+equilibrium configuration is found or the ultimate capacities of the balloon or tether
+material are exceeded. In the former case, the given wind profile can be tolerated;
+in the latter it cannot, and such winds must either be avoided, or countered by
+improvements in balloon design or tether material.
+
+The ground station from which the system is to be flown must incorporate a
+winch capable of deploying the system, adjusting its flight altitude as necessary in
+order to maintain the system aloft, and retrieving the payload (with tether and
+balloon, if possible) at the end of the flight. The ground station must be provided
+with data concerning the wind velocity as a function of altitude. These might be
+obtained from periodic free-balloon soundings during the flight; a much more
+satisfactory solution, however, would be to equip the airborne system with instru-
+ments capable of measuring the wind velocity at the balloon and at various points
+along the tether, and continuously telemetering this information to the ground sta-
+tion.
+
+There is a further requirement for the ground station, if the system is to be
+truly operational. Provided that the balloon can be maintained aloft under a given
+wind profile, the question now arises: is it possible to launch the system in the
+first place under such conditions? Analysis, and subsequent experience, suggest
+that the system envisioned cannot be maintained erect if the relative wind at the
+balloon exceeds approximately 20 knots, at any altitude. If we wish to have the
+balloon rise slowly, under the control of the winch operator, we obviously cannot
+launch the system except when the wind is below 20 knots at all altitudes; such
+days are relatively rare, occurring less than ten percent of the time. If we wish
+to fly the system under less ideal conditions, we must resort to other methods.
+
+One possibility is to allow the balloon to rise and move with the wind as if it
+were free, paying out the tether as fast as it is needed. This has two serious draw-
+backs: first, the tether reel-out rate may become excessive for any reasonable
+winch system; and, second, the balloon may be carried so far downwind by the time
+it comes to altitude that the weight of tether to be supported may exceed the bal-
+loon's lifting capacity.
+
+A more attractive solution would be to mount the winch on a mobile land vehicle
+(or a ship at sea). If the vehicle can then move more or less parallel to the existing
+winds at speeds up to, say, 40 knots, it should be possible to launch the balloon and
+
+allow it to rise under control to altitude through winds up to 60 knots, provided

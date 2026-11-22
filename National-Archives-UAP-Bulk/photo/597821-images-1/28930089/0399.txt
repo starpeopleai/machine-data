@@ -1,0 +1,23 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T06:46:47Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6403303, "source_ctime_ns": 1793368959594760905, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28930089/0399.jpg", "source_mtime_ns": 1785688580000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28930089/0399.jpg", "source_sha256": "f250fc3d2765cc192681eaff110d930be8d193f61cc35d2f12514dd9859279f5"}
+
+===== PAGE 1 =====
+{"alpha_words": 48, "chars": 323, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+-” cit
+UNCLASSIFIE
+Sxamination of Mims (Incident $50)
+
+MCL MC TA
+
+fw
+
+The tnclosed films have been received relative to Project "SIGN", is requested
+the films be processed and a report furnished this office,
+
+v4 . te det bs at G2 3MAS
+TOA TD
+
+Colonel, USA?
+on] : > wi ae : m2 ‘ :
+Uniel, ARALYSLB ViITFisi
+
+cence Lavartmen

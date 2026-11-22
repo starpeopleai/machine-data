@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T06:35:14Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4234770, "source_ctime_ns": 1793377764128196265, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28965309/0107.jpg", "source_mtime_ns": 1785696720000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28965309/0107.jpg", "source_sha256": "60c119c53f91961740df73c2e8abcb9a286f3306c444d40e0b02acda41dc136b"}
+
+===== PAGE 1 =====
+{"alpha_words": 139, "chars": 1043, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+1. DATE 2. LOCATION
+
+12. CONCLUSIONS
+QO Was Balloon
+6 April 1956 McKinney, Texas QO Probably Balloon
+3. DATE-TIME GROUP “4. TYPE OF OBSERVATION QO Possibly Balloon
+Local - RAGround- Vi sual O Ground-Readar 4 BeAr Se,
+cmMT_not reported _— D Air- Visual D Air-intercept Radar 0 Possibly Aircroft
+5. PHOTOS i 6. SOURCE 0 Was Astronomical }
+\P Yes 0 Probably Astronomical |
+XIX No Civilian 0 Possibly Astronomical
+7. LENGTH OF OBSERVATION 8. NUMBER OF OBJECTS | 9. COURSE D , Other |
+CKENIn sufficient Dota for Evaluotion |
+not reported one land, takeéff ee |
+10. BRIEF SUMMARY OF SIGHTING 11, COMMENTS
+Silvery object 5-8' in diameter Insufficient data for evaluation. |
+slant down into a field about 100 No duration or mention of time
+yards from observers, Witness that obj stopped. No mention of
+stopped car & object took off at time that it took obj to disappear
+terrific speed & disappeared. or manner od disappearance includpd.
+Resembled a balloon, Second had report.
+
+ATIC FORM 329 (REV 26 SEP 52)
+
+ee eee mn, eee

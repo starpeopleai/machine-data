@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T07:26:28Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 2790861, "source_ctime_ns": 1793371991530301064, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28940743/0411.jpg", "source_mtime_ns": 1785688883000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28940743/0411.jpg", "source_sha256": "54a4bfb386a608731295efd8e72d3dd0c8d00ef5085895c4970d0b94c17967da"}
+
+===== PAGE 1 =====
+{"alpha_words": 35, "chars": 168, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+= ex.
+
+Ft Ti ee St ee ee
+
+ot
+tel wie * a
+su ond TH im
+
+aaourenn:, ne eur, Rees .
+
+“ ch y hie pat
+
+farina i ~
+
+or
+
+na phen ke armnaraeni ohn ace
+
+feed at
+
+ee ope WD ry

@@ -1,0 +1,11 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T06:48:22Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6856898, "source_ctime_ns": 1793354740548984630, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989219-001-0076.jpg", "source_mtime_ns": 1785564333000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989219-001-0076.jpg", "source_sha256": "db9213b8f306330c9fcdb8b63e1777f0cb8e9aee889655d1468795b2bfa05cc7"}
+
+===== PAGE 1 =====
+{"alpha_words": 6, "chars": 40, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 1, "variant": "plain-psm3"}
+anv nersonne
+
+4 eleehin,rs
+
+17
+
+er our

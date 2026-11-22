@@ -1,0 +1,23 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T07:18:21Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 865227, "source_ctime_ns": 1793356041582847531, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989300-001-0055.jpg", "source_mtime_ns": 1785564591000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989300-001-0055.jpg", "source_sha256": "2ec543ee6ba8c91ccacdef6795fdd3678a9cbb75a7a4cc896c326caaea3ecf06"}
+
+===== PAGE 1 =====
+{"alpha_words": 120, "chars": 866, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Flight 93: Released from Alamogordo, New “exico, 0712 MST, September 1, 1948
+Recovered at Neuvas Casas Grandes, Chihuahua, Mexico
+
+This daytime flight with a 20-foot, .001" polyethylene balloon went up
+with defective ballast controls; consequently the flight's main value is in
+showing the netural stability of such a balloon without any altitude con-
+trols. As with Flight 88, which went to about the same height (40,000 feet),
+this balloon remained at a near-floating level for less than two hours
+(Figure 42). It is interesting to compare this duration at 40,000 feet with
+the four-hour duration at 50,000 feet shown on Flight 70 and 71. Probably
+the effect of reduced pressure on diffusion of the lifting gas is a major
+factor contributing to the longer floating period at the lower pressure.
+
+Released at Alamogordo,N.M.
+Sept 1,1948 — O721MS
+
+Figure 42
+
+~-52-

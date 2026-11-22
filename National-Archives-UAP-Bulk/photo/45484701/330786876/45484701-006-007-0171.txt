@@ -1,0 +1,61 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T06:51:17Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7101609, "source_ctime_ns": 1793364373627431279, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330786876/45484701-006-007-0171.jpg", "source_mtime_ns": 1785685114000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330786876/45484701-006-007-0171.jpg", "source_sha256": "8617db050c714d6d4d74dd2aa20e00f9c50e106836bb84ddad4fe37094b05384"}
+
+===== PAGE 1 =====
+{"alpha_words": 264, "chars": 1693, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ie: 54 Page 2
+
+8. IF you saw the object at NIGHT, TWILIGHT, or DAWN, what did you notice concerning the STARS and MOON?
+8.1 STARS (Circle One): 8.2 MOON (Circle One):
+
+a. None . Bright moonlight
+b. Afew | . Dull moonlight
+
+(E) Many - No moonlight — pitch dark
+d
+
+. Don’t remember /d) Don’t remember
+
+. Was the object brighter than the background of the sky?
+
+(Circle One): a. (Yes b. No c. Don’t remember
+
+. IF it was BRIGHTER THAN the sky background, was the brightness like that of an automobile headlight?:
+
+(Circle One) a. A mile or more away (a distant car)?
+
+b. Several blocks away?
+
+c. A block away?
+
+. Several yards away?
+
+_ te Other --5 ee pn eg ot tighining
+. Did the object: (Circle One for each question)
+
+. Appear to stand still at any time? Yes “No Don’t Know
+. Suddenly speed up and rush away at any time? Yes CNo Don’t Know
+. Break up into parts or explode? Yes No Don’t Know
+. Give off smoke? Yes No Don’t Know
+. Change brightness? cYes No Don't Know
+. Change shape? Yes No Don't Know
+. Flicker, throb, or pulsate? Yes (No Don’t Know
+
+. Did the object move behind something at anytime, particularly a cloud?
+
+(Circle One): Yes No Don’t Know. IF you answered YES, then tell what
+it moved behind: LUST et EN SOSA a ained
+
+. Did the object move in front of something at anytime, particularly a cloud?
+
+(Circle One): Don’t Know. IF you answered YES, than tell what
+
+. Did the object appear: (Circle One): a. Solid? b. Transparent? . Don’t Know.
+
+. Did you observe the object through any of the following?
+
+. Eyeglasses Yes (No . Binoculars Yes
+. Sun glasses Yes No . Telescope Yes
+. Windshield Yes No . Theodolite Yes
+. Window glass Yes No
+
+Declassification Authority: NND 923007

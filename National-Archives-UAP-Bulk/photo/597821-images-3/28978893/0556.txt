@@ -1,0 +1,18 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T06:48:02Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6839349, "source_ctime_ns": 1793380932162195545, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28978893/0556.jpg", "source_mtime_ns": 1785700744000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28978893/0556.jpg", "source_sha256": "2b019b3b93e8c2ef6eae29ae554defa31590387f239cb36a0d9a4c1381a43d1b"}
+
+===== PAGE 1 =====
+{"alpha_words": 28, "chars": 183, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Keaked prlbcn Spt C1Fs% Az) Praesent
+re a a Stew lnkinins, Lo ere
+
+elie G 6233 2 bud sg Dain a1
+vie
+
+? ANEUL pe ~ (4% Ax) posed wel 6
+_ (00 Ea De De a...
+
+'
+'
+coeies |
+
+ee LEE, ag a

@@ -1,0 +1,59 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T06:33:14Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3929735, "source_ctime_ns": 1793365583615936613, "source_file": "National-Archives-UAP-Bulk/photo/47323287/38222946-001-005-0075.tif", "source_mtime_ns": 1785565392000000000, "source_rel": "National-Archives-UAP-Bulk/photo/47323287/38222946-001-005-0075.tif", "source_sha256": "257fb6e1d31e662c4d02c8ef5a822b53c13764a0234752de4ec67e8a3be5ead0"}
+
+===== PAGE 1 =====
+{"alpha_words": 347, "chars": 2829, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Mrs. Wilma D. Higginbotham, 1831 Oak Ridge Drive, Charleston, West
+Virginia 25311
+
+Native of West Virginia. Attended Marshall University, Huntington, West
+Virginia and Columbia University. :
+
+Member: Alpha Iota Sorority, 1935-Honorary; President, Pilot Club of
+Charleston, West Virginia; Press Club of Charleston, West Virginia;
+Volunteer Hospital Aide, American Red Cross; West Virginia Press
+Association.
+
+Business and Professional Affiliations: News Reporter, Charleston Gazette;
+Staff Member, West Virginia Review; Woman's Editor, Charleston Daily
+Mail.
+
+Mrs. Higginbotham is a Woman's Editor ~ Charleston Daily Mail.
+
+Miss Katherine S. Horkan, 50 Park Avenue, New York, New York 10016;
+Town Center Plaza, 1000 6th Street, S.W., Washington, D, C, 20024
+
+Born - Paris, France. Graduated from Mount Vernon Seminary and Junior
+College, Washington, D. C.; University of Heidelberg; American University
+and the University of Maryland (overseas). .
+Member: Overseas Press Club of America; American Women in Radio and
+Television, New York and Washington, D. C. Chapters; Public Relations
+Society of America; National Federation of Business and Professional .
+Women's Clubs; Union Club, Frankfurt, Germany; International Club,
+Washington, D, C.; Women's Advertising Club of Washington,.D. Cy;
+National Women's Republican Club, New York City; National Association
+
+of Educational Broadcasters.
+
+Business and Professional Affiliations: Assistant to Director of Unit Publi-
+cations, Troop Information and Education Division, USAREUR Headquarters,
+Heidelberg; Scenario - Film Writer, Armed Forces Pictorial Center; Travel
+Editor and Columnist, Overseas Weekly; Travel Editor, Columnist and
+
+Correspondent, Overseas Family; Public Relations Representative and
+Account Executive, Pan American Broadcasting Company and International
+Media Company, Inc.; Associate Editor, You and Europe magazine; Contri-
+buting Editor, Holland International; Associate Editor, Amsterdam Today;
+Manager, U. S, Department, Amsterdam Tourist Association; Writer and
+Broadcaster, Radio Netherlands; Director, Public Relations and Publicity,
+Oscar Film Company, Inc.; Director of Public Relations, International
+Travel Education Foundation; Director of Public Relations, The Marriott
+Corporation, inc. ; Media Director, Community Relations Division, Girl
+Scouts of the U.S.A.; Director of National Development, Girl Scouts of the
+U.S.A.; Director, Materials Production Division, Girl Scouts of the U.S.A.;
+member, Editorial Board Leader Magazine; Free Lance Writer - Photo-
+grapher, New York Times, Washington Post, Algemeen Handelsblad.
+(Holland), NEA Journal, The Quotarian, and Civitan Magazine.
+
+Awards and Honors: Who's Who Overseas Press Club of America.
+Miss Horkan is the Co-Founder and Executive Vice President of Communi-
+cations International, Inc.

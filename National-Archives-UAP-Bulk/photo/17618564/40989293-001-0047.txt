@@ -1,0 +1,135 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T06:30:51Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3441859, "source_ctime_ns": 1793355944060029418, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989293-001-0047.jpg", "source_mtime_ns": 1785564565000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989293-001-0047.jpg", "source_sha256": "2566cbdc1875cd3bcbd4ad643e7b6bf675ae0b5cae466dbd1fa6e5e6113dd7f9"}
+
+===== PAGE 1 =====
+{"alpha_words": 747, "chars": 4934, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+HISTORY OF RESEARCH IN SUBGRAVITY AND ZERO-G
+
+operation before going up in the second
+aeromedical Aerobee, the turtle had ap-
+parently learned to compensate visually for
+the lack of normal gravitational cues. Even
+the normal turtles, however, gradually im-
+proved their performance after a sufficient
+number of flights.10
+
+In his turtle experiments, Von Beckh
+achieved subgravity exposures up to seven
+seconds by means of vertical dives. Sub-
+sequently he, too, adopted the parabolic
+flight pattern and shifted from turtles to
+human subjects. The latter submitted to
+a series of eye-hand coordination tests, in
+which they showed the familiar tendency
+to overreach during subgravity but resem-
+bled Von Beckh’s turtles in their capacity
+to improve with later flights. Von Beckh
+
+was also much interested to observe that
+when the plane entered its subgravity arc
+by a maneuver causing high acceleration
+forces, the recovery from acceleration-in-
+duced blackout took appreciably longer
+than usual.!11 In a sense this foreshadowed
+the experience of the Russian satellite dog,
+and suggested a special topic for further
+experimentation. However, Von Beckh
+cut short his stay in Argentina to take
+a position in the United States with the
+Human Factors Division of the Martin
+Company. Later still, in January 1958, he
+joined the staff of the Air Force Missile
+Development Center’s Aeromedical Field
+Laboratory. There he assumed direction
+of the present subgravity program, which
+had been started--perhaps it would be bet-
+ter to say reactivated--in 1954.
+
+Later Subgravity Studies at Holloman, 1954 - 1958
+
+The sum total of subgravity research
+accomplished prior to 1954 still was not
+great, but it allowed certain tentative con-
+clusions to be drawn. There seemed to
+be no major respiratory or circulatory
+hazards resulting from weightlessness, al-
+though Doctor David G. Simons carefully
+pointed out that respiratory and circula-
+tory complications might arise as a secon-
+dary effect of “emotional and autonomic
+reactions which are essentially the same
+whether caused by weightlessness, a rough
+sea, or an obnoxious mother-in-law.” Si-
+mons generalized further, on the basis of
+studies up to and including Von Beckh’s,
+that subgravity should normally produce
+“minimal discoordination and no disorien-
+tation. . .as long as the subject retains tac-
+tile and visual references.”’12
+
+What was needed now was a much
+greater accumulation of detailed test data
+to verify or revise preliminary conclusions
+and to reveal still other possible effects of
+subgravity. Better test instrumentation
+was also needed, especially to record all
+the variations of gravity force from true
+zero-gravity up to a normal one-g state.
+This would be of great help to any pilot
+attempting to fly a subgravity trajectory.
+In addition, most suggestions for future
+space stations have provided for some form
+of rotation in order to avoid absolute
+weightlessness, through the artificial crea-
+tion of a centrifugal force, but nobody
+knew exactly how many hundredths of a
+g must be generated to produce what re-
+sults. It might also turn out that no ro-
+tation at all is needed; but in any case
+there was an urgent requirement for re-
+search data on this and other ramifications
+of the subgravity question,13
+
+36
+
+By the same token, there was ample
+reason to establish a formal subgravity
+program at Holloman within the frame-
+work of the Space Biology Branch of the
+Aeromedical Field Laboratory. Unlike the
+earlier V-2 and Aerobee flights, the pre-
+sent program is part of the Center’s own
+project workload. The Aeromedical Field
+Laboratory had been founded in 1951 as a
+field station for project scientists operat-
+ing from the Aero Medical Laboratory at
+Wright Field, but in January 1953 it be-
+came a function of the local Center (then
+known as Holloman Air Development Cen-
+ter), and in October 1953 subgravity stud-
+ies were specifically included in the Hol-
+loman laboratory’s mission. In the follow-
+ing year, 1954, work on subgravity actually
+got underway as Task 78501 of the newly-
+created Project 7851, Human Factors of
+Space Flight. Doctor (at that time Major)
+David G. Simons was project officer of
+Project 7851, as well as head of the labor-
+atory’s Space Biology Branch. Technical
+Sergeant John T. Conniff was the original
+task scientist for Task 78501, Subgravity
+Studies.14
+
+For some time, with funds and man-
+power both limited, the main task activity
+consisted of planning and preparations for
+an ultimate test program. Sergeant Con-
+niff’s subgravity duties were not so en-
+grossing as to prevent him from continuing
+as head of the laboratory’s Electronics
+Unit;15 indeed the latter position was pre-
+sumably of advantage to him in collecting
+instrumentation for the subgravity pro-
+gram. Nevertheless, a preliminary air-
+craft flight took place at least as early as
+September 1954, using a T-33, to evaluate
+some of the problems involved in flying

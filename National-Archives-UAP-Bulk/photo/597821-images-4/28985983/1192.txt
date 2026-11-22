@@ -1,0 +1,90 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T06:38:12Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4748632, "source_ctime_ns": 1793382962652919605, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28985983/1192.jpg", "source_mtime_ns": 1785748520000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28985983/1192.jpg", "source_sha256": "df0fdfe439728bbea4641a0aed626b9889f3abff60fb9ad1967f906eb8e0deae"}
+
+===== PAGE 1 =====
+{"alpha_words": 117, "chars": 930, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+1. DATE
+
+f>i wi 4 \Z
+; ’ Pye ca ey (jf
+cu LYewrud: Vv 4 Zs
+
+2
+
+2. LOCATION
+
+4 tl H $ Pye
+AUSCOT, AYLZOnNa
+
+DATE-TIME GROUP
+Local Le 20
+
+e
+* by
+
+4. TYPE CF OBSERVATION
+X) Ground-Vi sual
+D Air Visual
+
+G Grovund-Rador
+
+0 Air-intercept Radar
+
+. PHOTOS
+
+‘a
+
+“Dy No
+
+6. SOURCE
+
+jatar:
+LULVilian
+
+=
+
+LENGTH OF GBSERVATION
+
+8-10 minutes
+
+8. NUMBER OF OBJECTS | 9. COURSE
+
+12. CONCLUSIONS
+
+Q Was Balloon
+0 Prebably Balloon
+O Possibly Balloon
+
+O Was Aircraft
+Probably Aircraft
+O Possibly Aircroft
+
+O Was Astronomical
+
+O Probably Astronomical
+O Possibly Astronomical
+BD Orher_ 22216
+
++} on
+
+0 {nsufficient Data for Evaluation
+
+at arm's length first obse
+and dLsapvearing in the Sj
+
+a half-dollar
+a
+
+rved in the West
+after making
+7
+r clear and dry
+ig Ith» scatter ad
+Lnversion in area
+
+5 one vested Q Unknown
+10. BRIEF SUMMARY CF SIGHTING 11, COMMENTS
+UblLong, white object size of a
+
+ATIC FORM 329 (REV 26 SEP $2)

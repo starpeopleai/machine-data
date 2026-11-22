@@ -1,0 +1,24 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T06:55:39Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8838884, "source_ctime_ns": 1793363898759428049, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330786265/45484701-006-004-0021.jpg", "source_mtime_ns": 1785685032000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330786265/45484701-006-004-0021.jpg", "source_sha256": "88dcb3fb40e0aa80f5e90e429058a084ad03f803cb9abe478a2df88942e3cb29"}
+
+===== PAGE 1 =====
+{"alpha_words": 44, "chars": 288, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Paraphrase not required. Handling and tra
+of literal plain text of this message as [
+correspondence has been at
+ment in accordance with the
+
+Sli and 60a(4), AR 380-5.
+
+SP POF OR ( GE AERE
+
+CHE Lh
+
+Bay
+
+f 4 |
+iA ene,
+— = ARR RA IOP
+
+| OFFICE oF § A
+
+Declassification Authority: NND 923007
