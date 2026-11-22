@@ -1,0 +1,49 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T22:38:01Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 2171936, "source_ctime_ns": 1793356165506136696, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989306-001-0065.jpg", "source_mtime_ns": 1785564625000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989306-001-0065.jpg", "source_sha256": "1ba387ef08d114ea61cde81758e5df8b950243cd06e709a5d7eb74b967551f8f"}
+
+===== PAGE 1 =====
+{"alpha_words": 166, "chars": 1244, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+@
+
+OSS HS 1 ERCOO NS  HONREE HRT AN |) HN TERRE NEO THT NORNO GH MO) SUTIN? ARON (OL MORN SIRO RRR
+
+CONFIDENTIAL “MODIFIED HANDLIRYG AUTOR aa
+
+VENTILATION DUCT
+ML-351/AM
+
+RADIOSONDE MODULATOR
+ML-310A/AMT-! OR
+ML- 310B/AMT -!
+
+RADIOSONDE |. |
+TRANSMITTER ©
+T- 49C/AMT-I
+
+see a
+
+tad |
+
+@ansamt-1
+
+Figure 2. Radiosonde AN/AMT=-1; Radiosonde Transmitter T-HAC/AMT-1 assembled with Radiosonde Modulator
+ML-B310A/AMT=1 or ML-310B) AALT +1.
+
+Status: Standard. Stoek No.: 7A8325-1. — Tef- with the conditions of temperature and humidity
+erence: TM 11-2430. of the atmosphere at the altitude of the radio-
+
+Radiosonde AN/AMT~1 is a metcorological in-
+strument which is sent aloft, suspended from a
+free balloon, to obtain soundings of the tempera-
+ture, pressure, and relative humidity of the upper
+atmosphere. It automatically transmits ampli-
+tude-modulated radio-frequency signals inter- ceived, recorded, and interpreted at a ground
+rupted at a frequency which varics in accordance receptor station.
+
+sonde. A baroswitch connects the circuits to the
+transmitter suecessively, so that a repeating
+sequence of temperature, humidity, and reference
+signals is transmitted. These signals are re-
+
+930761—51——2
+
+C ONFIDE: oy MODIFIED HANDLING AUTIGRIZED

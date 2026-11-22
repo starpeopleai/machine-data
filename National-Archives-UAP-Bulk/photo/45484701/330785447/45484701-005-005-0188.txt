@@ -1,0 +1,22 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T22:58:24Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6352288, "source_ctime_ns": 1793363569952252641, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785447/45484701-005-005-0188.jpg", "source_mtime_ns": 1785684629000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785447/45484701-005-005-0188.jpg", "source_sha256": "7f0e56a698c560fd54783f3685a76771ab70875acca93372e151e12a5a150c18"}
+
+===== PAGE 1 =====
+{"alpha_words": 42, "chars": 299, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+sae ee We oy
+Aa? © ; Se, 4 SE, ?
+RB. om at ,
+che: f
+
+Subject: "Aerial Phenomena", Dated 19 Jan 51, File 10D 24-0
+
+3. No further action is contemplated by this Headquarters.
+
+ae SCHA
+
+Lt Colonel, USAF
+fh District Pamanday
+
+ce: Hq. AMC, w/1 Incl
+Rough Diagram.
+
+Declassification Authority: NND 923007

@@ -1,0 +1,22 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T22:36:03Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1793763, "source_ctime_ns": 1793392522688481800, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302568543/0293.jp2", "source_mtime_ns": 1785808199000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302568543/0293.jp2", "source_sha256": "2220d32dfc5546ee2d8f06e4559abb7bb1a8dad31d189da964f04a5551c1b832"}
+
+===== PAGE 1 =====
+{"alpha_words": 92, "chars": 693, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+: DEPARTMENT OF THE AIR FORCE
+HEADQUARTERS FOREIGN TECHNOLOGY DIVISION (AFSC)
+WRIGHT-PATTERSON AIR FORCE BASE, OHIO 43433
+REPLY TO TDPr/ UFO
+ATTN OF:
+sussect: UFO Observation % Photographs, 27 June 1967
+ity of Colorado
+202 Woodbury Hall
+Boulder, Colorado 80304
+Reference telephone conversation with 2nd Lt Mara 18 December
+1967. Inclosed is a copy of the UFO report from on
+| his observation of 27 June 1957. Also included are the original neg-
+atives, we would appreciate the return of these negatives upon comple-
+tion of analysis.
+q RCTOR -QUHTANTLER Fe, Major, USAF 1 Atch
+4 Chief, “Aerial Phenomena Office Case file, 27 June 67
+4 Aerospace Technologies Division
+; Production Directorate

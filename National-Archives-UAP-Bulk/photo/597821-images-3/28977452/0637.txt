@@ -1,0 +1,43 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T22:39:29Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3425115, "source_ctime_ns": 1793380646677934574, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28977452/0637.jpg", "source_mtime_ns": 1785700635000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28977452/0637.jpg", "source_sha256": "ff3adb1ebaf25d7380851e4b73cd9277fba22e35a6165aca7316bd2cba63cd69"}
+
+===== PAGE 1 =====
+{"alpha_words": 70, "chars": 553, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+1
+~vo=
+fe
+
+fa: Ground-YVi suc}
+TY. 7 oo
+
+OG Ground-Radar
+
+2 ) > . - H |
+} OG Ai~Visuat O Air-Intercept Radar | |
+- es |
+5. | 6- SOURCE H Yas Astronomical :
+G Yes \ *rabably Astronomical i
+ss | as fale iste 10 Possibly Astronomical }
+3 No | Gig Fat as bol lis Bee | |
+~ —- -- + —----—_——-—| |
+TH OF OBSERVATION 18 NUMBER OF OBJECTS | 9. COURSE HAS CONTIG Paremets sh bia pe ates os
+;o sutticiant Data for Evaluation
+
+| 10 Unknown
+
+30. BRIEF 11. COMMENTS
+ire Best OT, i aes ha 3 ¢< a Gee re tal, pL d ‘ } DR Bee te re)
+|
+|
+}
+|
+|
+i
+i
+i
+i
+}
+{
+!
+'
+J
+sieaoe

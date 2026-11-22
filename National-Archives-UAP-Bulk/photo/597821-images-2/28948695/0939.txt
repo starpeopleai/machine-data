@@ -1,0 +1,60 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T22:42:38Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3894969, "source_ctime_ns": 1793373791565146560, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28948695/0939.jpg", "source_mtime_ns": 1785696453000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28948695/0939.jpg", "source_sha256": "75d4ef1d02fd233cf9009648656561d9a85012fce6427f86b0b3d7698d92c120"}
+
+===== PAGE 1 =====
+{"alpha_words": 141, "chars": 988, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+TENTATIVE |
+OBSERVERS QUESTIONAIRE ~ #7202) C/O
+
+l.
+
+20
+
+3e
+
+SECTION A
+
+When did you see the object:
+
+1.3 tater _2/ GG. 19H
+Day ~ Month Year
+1.2 Time of Day: D A.M. or (P15) (Circle One)
+Hrse Mine
+
+1.3 Time Zone: (Circle One):
+
+a. Eastern ad. Pacific
+Central e. Other
+Ce lountain
+
+(Circle One): a. Daylight Saving
+Standard
+
+1.4 Circle one of the following to indicate how certain you are of
+your answer to the above question 1.2:
+
+@ Certain ce. Not very sure
+- Fairly certain ad. Just a guess
+
+Where were you when you saw the object:
+
+Postal Address City or Town State Country
+
+Additional Remarks:
+
+Where were you located when you saw the object:
+
+(Circle One): a. Inside a building ad. In an airplane
+b. Inacar e. At sea 4 b
+c. Outdoors (f.) Other ig of MNeprenkw\
+U fj
+
+U
+
+3.1 Were you:
+
+(Circle One): a. In the business section of a city?
+b. In the residential section of a city?
+CB In open countryside?
+d. Flying near an airfield?
+e. Flying over a city?
+f. Flying over open country?

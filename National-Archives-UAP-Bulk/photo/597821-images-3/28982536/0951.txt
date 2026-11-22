@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T22:54:29Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5652592, "source_ctime_ns": 1793382049997380435, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28982536/0951.jpg", "source_mtime_ns": 1785700875000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28982536/0951.jpg", "source_sha256": "5637a560ab02e845deeddd597d0d747b1afd6ea53295dcfa3956da37b4572f10"}
+
+===== PAGE 1 =====
+{"alpha_words": 118, "chars": 852, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+a eh SY
+
+Rat 3 " i SY RR eeh: "F
+© ( . ig
+Se pee PROJECT 10073 RECORD CARD
+1. DATE 2. LOCATION 12. CONCLUSIONS
+QO Was Balloon '
+BD Yaw 6Q S mi WN of Ann Avbor, Michigan im) Sg Balloon
+Sm Po ae OM oy 4 3 bel t 5 spde aoe MY 1. ier oO os “e ;
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION sidly Balloon |
+anita’ G. * D Ground-Radar O Was Aircraft
+Local : Ground- Vi sual Rad OQ Probably Aircraft
+GMT = 9530Z ar oF D Air Visual D Air-Intercept Rador O Possibly Aircraft
+5. PHOTOS é. SOURCE O Was Astronomical
+0 Yes O Probably Astronomical
+8 No Civilien G Paselbly Astronomical .
+7. LENGTH OF OBSERVATION 8 NUMBER OF OBJECTS | 9. COURSE O. Other
+O Insufficient Data for Evaluation
+O Unknown ‘
+a, “ mins On 5 Hs
+10. BRIEF SUMMARY OF SIGHTING 11. COMMENTS
+Red lights could be fm the WVOM radio top-
+7 “ a Vlie ?; Aone s G o
+ATIC FORM 329 (REV 26 SEP $2) ee ee
+o

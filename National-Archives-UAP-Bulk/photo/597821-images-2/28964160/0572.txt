@@ -1,0 +1,46 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T22:51:04Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4941807, "source_ctime_ns": 1793377531756339613, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28964160/0572.jpg", "source_mtime_ns": 1785696651000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28964160/0572.jpg", "source_sha256": "16b159f439c71bd3efa992af6f3fabf77b5a5f07bdd73fe764959ae3c1aa1164"}
+
+===== PAGE 1 =====
+{"alpha_words": 89, "chars": 535, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+WPD203 YMA168 YYC 14 1NGAQ 8g
+PP RJEDEN RJEDWP RJEPHQ RJEDKF
+
+DE RUEQSG at)
+
+aN (
+
+7).
+
+P O5/16129Z2 ——— 4 (
+FM COMDR 789TH AC&W SQ OMAHA NEBR Romer |
+TO RJEDEN/COMDR ADC ENT AFP COLO
+
+- RJEDWP/COMDR ATIC WP AFR onto {-——— (
+
+re ne,
+ay
+
+RJEPHQ/DIR OF INTELL HO USAF WASH DC
+RJEDKF/COMDR CADF GRANDVIEW AFE MO
+RJEDNG/COMDR 31ST ADIV ST PAUL MINN
+ey cee
+
+JUNC LAS SI FI E D/OPNS 769 UFOBR REPORT AS FOLLOWS
+
+1
+A FLAT AND ROUND
+
+w
+
+BASKETBALL
+
+ORANGE AND SILVER REFELECTION
+ONE
+
+NO FORMATION
+
+NO SPECIAL FEATURES
+
+Ge li ei SO
+
+NO EXAUST

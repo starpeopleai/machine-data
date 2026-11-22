@@ -1,0 +1,61 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T22:41:14Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3698738, "source_ctime_ns": 1793373750526788098, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28948493/0747.jpg", "source_mtime_ns": 1785696768000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28948493/0747.jpg", "source_sha256": "871de86989acfb0fdf48befd8e74e2bad805232d545a7ab613d96b4eed8d22af"}
+
+===== PAGE 1 =====
+{"alpha_words": 147, "chars": 960, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+TEVTATIVE
+OBSERVERS QUESTIONNATRE
+
+ly
+
+26
+
+36
+
+SECTION A
+
+When did you see the object:
+
+lel Date:
+
+Day lionth Year
+
+1.2 Time of Day: A.M, or P.M. (Circle One)
+Hrse Mine
+
+1.3 Time Zone: (Circle One):
+
+ae Eastern d. Pacific
+be. Central e. Other
+ce liountain
+
+(Circle One): a. Daylight Saving
+b. Standard
+
+1.4 Circle one of the following to indicate how certain you are of
+your answer to the above question 1.2:
+
+(ae Certain Ce Not very sure
+b. Fairly certain ad. Just a guess
+
+Where were you when you saw the object:
+
+ae hee ha
+Postal Address City or ‘Youn State Country
+
+Additional Remarks:
+
+Where were you located when you saw the object:
+
+(Circle One): a. Inside a building d. In an airplane
+b. Ina car ee At sea
+.¢. Outdoors f. Other
+
+3.1 Were you:
+
+(Circle One): ‘ae In the business section of a city?
+b. In the residential section of a city?
+Ce In open countryside?
+d. Flying near an airfield?
+e. Flying over a city?
+£. Flying over open country?
+Be Other

@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T23:03:00Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7211817, "source_ctime_ns": 1793383075250209148, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28986280/0050.jpg", "source_mtime_ns": 1785747988000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28986280/0050.jpg", "source_sha256": "9316ee6db25ff1b2ca8a9cc1326246522834e0af275074e3006a35acef3f2e41"}
+
+===== PAGE 1 =====
+{"alpha_words": 81, "chars": 573, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+he Xevay GifPraction anal jig indicated that the large and small particles
+ave The same compound, The compound was identified as siliacen dioxide
+(Si04), a natural mineral.
+
+LiXs CONCIDSIGNS
+
+Shere waa not enough of the thawed ica water to sonducs any other
+
+enalysis.
+nV
+None, data merely submitted,
+PREPARED BY:
+/
+WADE H, JOS, WiRCPA-2
+PUBLICATION REVIEW
+this report has been reviewad end its anprovede
+DISTRIBUTIGN: SOLOMON F,. BROKESHOULDER, Cant, USAT
+Chief, Organic Analysis Seetion
+WHECP (1 cy) Physics Laboratory
+WWROPA (3 cys) Materials Central
+LDER WIRD P60-7 2

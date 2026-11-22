@@ -1,0 +1,51 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T22:49:58Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4689322, "source_ctime_ns": 1793388137967238522, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/29000161/0488.jpg", "source_mtime_ns": 1785748396000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/29000161/0488.jpg", "source_sha256": "e6ad556e69ea8a959f47c0b58a59f63a60015a4f110597b18a49b191ba05bc5c"}
+
+===== PAGE 1 =====
+{"alpha_words": 56, "chars": 748, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Cc. Manner of observation.
+(1) Ground-visual.
+(2) N/A
+(3) N/A
+
+d. Time and date of sighting.
+(1) 00002, 31 Jan 1963.
+(2) Night.
+
+e. Location of Observer. 1° 47 mimites north ~ 87° 5 mimes
+6 miles SE of Midway Airport, Chicago, Ill.
+
+£. Identifying information of observer.
+
+Age 12y ee... © hicago 20,
+
+(1) qe.
+Illinois. Generally reliable.
+(2) N/A
+
+ge Weather and Winds ~ aloft conditions at time and place of
+sighting:
+
+(1) VER.
+
+(2) Surf 275/8
+6,000 295/18
+10, M 280/h0
+16, M 260/70
+20, 275/95
+30, M 280/125
+50, M 275/115
+80, M 260/75
+
+(3) 4500 overcast. /
+
+(4) 7 miles with light snow.
+
+(5) 10/20.
+
+(6) N/A
+
+(7). SEC 10,000! 129/1, 000!
+10, 000 20,000 2,0°9/1,000!
+20,000 30,000 2.2°/1,000!
+30, 0C0 10, 000 1.1°/1,000'
+10, 000 50,000 0/1, 000!

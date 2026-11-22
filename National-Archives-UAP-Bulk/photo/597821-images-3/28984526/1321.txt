@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T22:52:31Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5103765, "source_ctime_ns": 1793382557827738514, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28984526/1321.jpg", "source_mtime_ns": 1785700809000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28984526/1321.jpg", "source_sha256": "f38264511b921c5f59b34afb34323f76d430a41dd514c1508f6725780e20b4eb"}
+
+===== PAGE 1 =====
+{"alpha_words": 125, "chars": 759, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+a ~
+’ “FMTCOMDR 661ST RDRRONS SAFB~ :
+a TO RJWVFAL:COMDR ADC nants
+meeLEP AQ 2
+: RJEDEBUW CG \ Tyan OOTY ANDTY | AB oe nl i
+PJEDBW/COUDR Del « 30TH ADIV a) ~ aM
+3
+MIMDOWTA ‘alle eT} x Je hy A ae
+RJEDBW GUblive Wi 2
+vets cnet og
+RJEDAH/COMDR SOTH Wo
+i ae
+ RIEDSA/CONDR A ake PK
+mane yp
+RJEZHQ/ASST CHI -IGENCE HQ USAF WASH 3
+RJEZHQ/OIS HQ USAF AL AAD O&
+BT
+JUNCLAS/ FROM OPNS 326, WFO REPORT SUBMITTED AS REQUIRED BY AFR 20C~2,
+DATED 5 FEBRUARY 1956.
+CA) DESCRIPTION OF THE OBJECTS
+4, OBJECT WAS BULLET SHAPED IN FRONT. BODY CONTINUED BACK THRU
+eas TAIL ASSENMBLY. BODY WAS FOUR TIMES AS LONG AS IT WAS WAIDE.e TALL
+ASSEMBLY PROTRUDED ABOVE AND BELOW THE BODY APPROXIMATELY TWICE
+THE WIDTH OF THE BODY. TAIL FINS WERE RECTANGULAR WIT ROUNDED
+
+oe ernrign
+
+————

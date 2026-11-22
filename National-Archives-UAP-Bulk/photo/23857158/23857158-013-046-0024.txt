@@ -1,0 +1,42 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T22:39:17Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3252002, "source_ctime_ns": 1793360226512738734, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-013-046-0024.tif", "source_mtime_ns": 1785681662000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-013-046-0024.tif", "source_sha256": "e2c3920145836f4f76282e1bf34acdc2cba8cea59415b67d799706766ed854c2"}
+
+===== PAGE 1 =====
+{"alpha_words": 177, "chars": 1130, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Declassification Authority NND 923007
+
+Page 7
+34. What were the weather conditions at the time you saw the object?
+34,1] CLOUDS (Circle One) 34,2 WIND (Circle One)
+(a, Clear sky a. No wind
+‘b. Hazy ‘b, Slight breeze
+c. Scattered clouds ¢c. Strong wind
+d. Thick or heavy clouds d. Don’t remember
+e. Don’t remember
+34.3 WEATHER (Circle One) 34.4 TEMPERATURE (Circle One)
+~ Fog, mist, or light rain b, Cool
+c. Moderate orheavy rain (&) Warm
+d. Snow d. Hot
+e. Don’t remember e. Don’t remember
+35. When did you report to some official that you had seen the object?
+A _
+LY Aveet. _145b
+Day ‘ Month, Yeor
+36. Was anyona else with you at the time you saw the object?
+(Circle One) (Yes) No
+36.1 IF you answered YES, did they see the object too?
+(Circle One) (ed No
+36.2 Pleg gulist their names and addresses: Wy a1 ds AS kE Ta
+
+LY rheic wis Bdee 1
+
+Was this the first time that you had seen an object or objects like this?
+
+37,
+
+(Circle One) (ves) No
+
+37.1 IF you answered NO, then when, where, and under what circumstances did you see other ones?
+
+38. In your opinion what do you think the object was and what might have caused it?
+
+J >

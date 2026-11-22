@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T22:44:44Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4095896, "source_ctime_ns": 1793380634203059879, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28977378/0577.jpg", "source_mtime_ns": 1785700662000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28977378/0577.jpg", "source_sha256": "0c0b7cf65fc6c65d22e968cb885bec9c5a5e36b3ac96325b3f6d16bef9762bdf"}
+
+===== PAGE 1 =====
+{"alpha_words": 90, "chars": 512, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+De n/ + ? wf Sa 5 ——
+aes = . ee :
+jae) fA yi; OF Narr tte’
+4, SE’ HORIZEN TQ NW. HORIZEN, PERSON LIVES IN LADTON, OKLAHOMA
+5. EXPLOSION CAPPEARED TO EXPLODE OVER SWEETWATER OR CHEYENNE PD)
+Se Ee EIS EUG a ec ON pen ote seme ~ ETN nes VE Toa cee Seay
+6G. 30 SEC PD)
+rans he se —————
+) 4. GROUND-VISUAL
+2. NONE
+eM NONE
+Sind
+EL) an cay
+oe :
+a
+a1 \n “ Lt
+
+/ ,
+ee oe eee nes ote. aw
+HREE RJWEFHW 2
+> “ATC roe 7 “2 ——— TED oo Liat j
+Erie at te zs Be, Pos
+A2GGZ S MARCH 1953 PD ta Oa et eer eG f
+
+WON, OKLAHOMA
+
+PATROL

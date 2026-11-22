@@ -1,0 +1,66 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T22:49:05Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4494868, "source_ctime_ns": 1793360374842454391, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-015-017-0003.tif", "source_mtime_ns": 1785681705000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-015-017-0003.tif", "source_sha256": "031b43e0edcc24b9104b3ba86b0ed8e4450a5e6875a52c50b1f8c54c437b3f01"}
+
+===== PAGE 1 =====
+{"alpha_words": 168, "chars": 1241, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Declassification Authority NND 923007
+
+RGR ,
+?
+oe
+5) / y
+iV’ ‘) 7 wa Of, d P2
+A“ : a a
+if Ca
+ENO@Z4 ENASZI7T YDC192 XYBLL3 XMBAT2 DMA) 122 a
+
+00 RJEDEN RJEDWP. RJEPHQ RJWPSB
+DE RJWPDM 132A
+0 302999Z
+FM COC HQ 25TH AIR DIV DEF MCCHORD AF3 WASH
+TO RJEDEN/RJEDEN/COMDR AIR DEF COMMAND ENT AFB COLORADO SPRING coo
+RJEDWP/COMDR AIR TECHNICAL INTELLIGENCE CENTER WRIGHT PATTERSON AFB OHIO
+RJEPHQ/DIRECTOR OF INTELLIGENCE HQ USAF WASHDC
+RJWPSB/COMDR WESTERN AIR DEF FORCE HAMILTON AFT CALIF : 4
+BT
+7U N C L/UFOB 25TH TAC MSG F-419
+1..A ROUND
+31G SKY ROCKET
+BLUE IN FRONT YELLOW TOWARD BACK
+ONE
+NA
+ARCING
+TAI BREAKING UP BEHIND
+NONE :
+NONE .
+2. 4 JUST POPPED uP Wy 9
+B 350DEGREES PORT, ACING UP, THEN DOWN. - afb
+C 6@ DEGREES STARBOARD SLIGHTLY HIGH
+D UP THEN DOWN, EAST TO WEST HORIZONTAL
+JUu3z WENT OUT OF SIGHT
+
+Hr NMIUOW.
+
+SECONDS)
+
+C F-86= PRONTO 12-2599FT 170 DEGREES FROM MCCHORD 339K
+4 AGB/B6BID C230 04)
+B NIGHT
+5+ A76ON 122,38 WNC 5014 OVER NARROWS BRIDGE
+6. AW
+BA ANDERSON AK. CAPT 317TH FIS MCCHORD AFB WASH (FLIGHT LEADER)
+B Sita 329-05
+12932 319-29
+15228 319-25
+28,228 310-25
+32,922 390-45
+49,228 299-35
+58,282 299-25
+3930 BROKEN
+
+9 NONE
+19 NONE
+
+~11 5 F86D,S IN AREA AMSA AR OLS AF 283. AF 942 AF 108.
+1 cole hr sess
+
+See JUN RJWPDM

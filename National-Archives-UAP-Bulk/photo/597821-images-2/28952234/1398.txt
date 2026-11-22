@@ -1,0 +1,45 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T22:48:59Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4482672, "source_ctime_ns": 1793374579131309655, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28952234/1398.jpg", "source_mtime_ns": 1785696411000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28952234/1398.jpg", "source_sha256": "dbcfe9f4bb6ff9a0fdf4bd0d101984def17e70307981abdca69c3ec51f02a7fb"}
+
+===== PAGE 1 =====
+{"alpha_words": 373, "chars": 2205, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+SUBJECT: FLYOBRPT
+
+Statement by AN/APS-23 operator, 2h December 1952, Convair flight on
+ship hl-920S), type B=-36.
+
+The APS=-23 with C=l:12 control in lieu of a computer is used as
+search radar on this airplane. At the time I was requested to aid in
+detecting the phenomenon I was in search position 1;0,000 ft. altitude
+and 36 mile range. I had previously determined also that in level
+flight, search condition, the best ground return was obtained with -7
+to -9 degree antenna tilt. I then reduced range to the stop position which
+removed the five mile range mark from the scope, and upon this fact I
+estimated my maximum range on the scope at 4.5 miles. I next switched
+to Sector=Scan selectins a 120 degree arc dead ahead and by moving
+antenna tilt to zero position on scale the described targets began to
+appear. I then found my best target range from zero to ran degrees.
+Since the targets were in the same proximity as the AN/APG@l)1 hed
+indicated, I did not change altitude. in almost every instance I would
+see the target on my scope by the tine the AN/APG=lL had detected and
+locked on. The AN/APG-li operator would cai out range of lock on, and
+my range would be comparable to his. On one occasion f{ detected a
+second target farther out (approximately one mile), and on several
+occasions I could see another target 30 to 5 degrees either side of
+the one he was locked on. On one occasion I switched back to search
+picked up the target aft of the airplane, and followed it out of ed
+mile range. These targets were very sharp and with RF gain could
+be tuned very bright. However, they were unusual in the fact that
+they did not track in from the edge of the scope but would appear on
+the scope at a range of two to four miles. They also mignt remain
+constant for several sweeos, and then the next sweep they would be
+gone. Several sweeps later they might reappear. They wovld disappear
+at the same time the AN/APG-l\1 would unlock.
+
+We next checked to see if the two sets were mutually interfering
+with each other by turning the AN/APS=23 to stand-by position, and
+alternately turning the AN/APG=<l)L to stand-by. No interference was
+observed.
+
+Re. O. GARLINGTON ~
+AN/APS-23 Operator
+Dept. 12-1

@@ -1,0 +1,66 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T22:40:57Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3664020, "source_ctime_ns": 1793359452302285465, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-008-020-0003.tif", "source_mtime_ns": 1785681418000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-008-020-0003.tif", "source_sha256": "76d4f6cae794c3490aca532fb5bd9ab497a2d10ee13dfdfbebd00c6315eb4047"}
+
+===== PAGE 1 =====
+{"alpha_words": 241, "chars": 1776, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+(1) Description of the Objects:
+
+(2
+
+ew
+
+Declassification Authority NND 923007
+
+REPORT ON UNIDENTIFIED FLYING OBJECTS
+(Sighted 1945 - 2015 on 10 April 1956)
+
+(a) Shape - Round lights
+(o} Size = Little larger than head of pin
+(c) Color - Star color
+(d) Numver - 1945 - lst sighting ~« ons formation estimated from
+20 to 390 objects
+1955 =» 2nd sighting - one formation estimatad from
+10 to 15 objects
+2010 ~ 3rd sighting - 8 to 12 objects
+(A similar sighting was made in March 1956, date not remembered ~
+about the same tine in the evening of approximately 5 to 8 objactse
+All the facts concerning the sightings described above apply to
+this sighting in March 1956).
+
+(e) Formation - In all the four sightings above, the objects in
+flight would vary from a horizontal line to a
+vagus V formation with objects changing positions
+within the formations rapidly.
+
+(2) None
+
+(eg) Tail, Trail or Exhaust ~ None visible
+
+(nh) Sound ~ No sound heard
+
+(i) Other pertinent or unusual features: All the objects were the same
+
+size. Estimated Altitude ~ over 20,000
+Estimated Speeds - 500 to 1,000 or more
+(These are at best rough estimates)
+
+Description of Course of Objects:
+
+(a) Undersigned is interested in Astronomy and whenever possible scans
+the skies at night.
+
+6
+{(b) When first observed angle of elevation estimated at 5 and objects
+azimuth was NoWe
+
+(c) Whan last observed angle of elevation estimated at 30° and objects:
+azimuth was NaN,
+
+(d) Flight Path - All formations flew the same flight path; ovar Pacific
+
+Baach flying NoW,., disappearing over the Pacific Ocean. All fore
+mations approached from the same direction.
+
+(9) Flight path steady NeWe with objects changing positions in flight
+rapidly.
+
+(f) Length of Time in Sight - Approximately 2 minutes - each formatione

@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T22:39:52Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3508783, "source_ctime_ns": 1793376105143317864, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28959269/00788.jpg", "source_mtime_ns": 1785696443000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28959269/00788.jpg", "source_sha256": "9259c07de9f86c37af702310db1c264b311d4a1b2dc984a3149f7696fbead019"}
+
+===== PAGE 1 =====
+{"alpha_words": 151, "chars": 1060, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+JEPAQ/DIR OF INTEL HO USAF WASHINGTON DC
+INFO JFPLD/COMDR TWELFTH AF RAMSTEIN AE GER
+WOT S17 ATTNSACS INTEL WEISEADEN X UNIDENTIFIED OEJECT X (€:) DES-
+CRIFTION OF OEJECTs As 4 DIFFERENT SHAPES ¥ ROUND, CBLONG, EGGSHAPED
+ONE HALF SIDE AND ROUND X Be DIME C. YELLOW D ONE Ee NEGATIVE F. 3
+RED LINES NORTH, SOUTH WEST AND EAST SIDE OF OBJECT Ge NEGATIVE
+
+Ge NEGATIVE H. NEGATIVE I. CHANGING TO THE DIFFERNT SIZES IN FLT xX
+(2) A. LOOKING OUT OF WINDOW B. APRX 6 DEG, ANGLE :2g TO !&
+
+Lo
+
+EG AZ
+C. CIRCULAR AND UPWARDS E,. INTO SPACE F. 4& MIN €3) Aw GND VIS Be NEG
+C. N/A C4) Ae 7 AUG 54, 2228Z B. NIGHT €5) Aw NKHE 4426
+
+CS)A. LT FRIEDRICH N,. SCHWAB, S381ST LS TRANS DET, KAISERSLAUTERN GER
+(7) A. CLR SKY, STARS OUT AND ECIGHT B. WIND SSW AT ‘!S KTS AT SURFACE
+
+PAGE TWO JFPIW 22
+
+C. 3522 EPROKEN D,. $9 NAUTICAL MILES E. 8/19 AT 3523 IFT F. NEGATIVE
+(3) A. NEGATIVE €9) A. NEGATIVE (13) As NEGATIVE (1:1) NEGATIVE
+(12) CAPT ROEERT T BELMONT, HEDRON 66TH TACREON WG, INTELOFF, NO
+AwALYSIS, PERSON INTERVIEWED WCULD HAVE TO BE MARKED F-3.
+Lif/ie:8Z AUG JFPIW

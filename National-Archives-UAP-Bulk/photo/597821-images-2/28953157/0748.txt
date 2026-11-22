@@ -1,0 +1,37 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T22:41:58Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3820015, "source_ctime_ns": 1793374771335356261, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28953157/0748.jpg", "source_mtime_ns": 1785696543000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28953157/0748.jpg", "source_sha256": "87ae94c2346aaffe1522afe98d0a03f3f8334ab7f0cd954e337f85fa5b561086"}
+
+===== PAGE 1 =====
+{"alpha_words": 71, "chars": 471, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+a
+5 ae P ;
+MOM ae - ~~ ~ -
+ra A
+51S rar
+/\f/—
+2 JEDWP /SUSDUPE/ ti § f /’ ral
+ve ij
+PDB83 j F
+i? ‘
+; é
+3 r |
+wn
+A
+223 |
+> JEPHQ JEDWP JEDEN JUPML 444
+ae sic nee
+Si. oe es bad
+DE JWPOM 9395)
+? 9423482 ZNJ e
+pe ee fi ;
+
+°™M CO 4753TH ABG YUMA CTY 4PRT ARIZ
+T) JEPHQ/INTEL HQ USAF WASH 25 DC
+
+‘SDWP/AIR TECH INTEL CENTER WRIGHT-PATTERSON AFB OHIO
+/SDEN/CG ADC ENT AFB COLO SPRINGS COLO
+
+JWPML/CG WADF HAMILTON AFB CALIF
+
+‘enna 47% ABG DO 375. ATINS ATIAA-2C. .
+
+*LYOBRPT .

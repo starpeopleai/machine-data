@@ -1,0 +1,18 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T23:27:36Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1741455, "source_ctime_ns": 1793389220196485923, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302538197/00222.jp2", "source_mtime_ns": 1785808455000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302538197/00222.jp2", "source_sha256": "664a6f7a139c383f207cff4e6074fc5a0bf8258dc73479c77ce696b87f22383d"}
+
+===== PAGE 1 =====
+{"alpha_words": 26, "chars": 186, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+92 Strat Aerospace Wg (DCUIL) POSTAGE AND FEES PAID
+Fairchild AFB, ash 99011 DEPARTMENT OF THE AIR FORCE
+
+OFFICIAL BUSINESS
+
+AFSC (TD)
+Wright Patterson AFB, Ohio
+IS435 MAI L
+
+.
+,
+|
+
+21

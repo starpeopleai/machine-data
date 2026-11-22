@@ -1,0 +1,40 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T23:21:46Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1004018, "source_ctime_ns": 1793389118233462245, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302536611/0238.jp2", "source_mtime_ns": 1785808023000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302536611/0238.jp2", "source_sha256": "1b82443ddb9efc44a35e37647545e99345817688c03f8f0cb4f7c05356c12546"}
+
+===== PAGE 1 =====
+{"alpha_words": 89, "chars": 642, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+>
+
+1. LE ATE- TIME GROUP 2. LOCATION
+
+17 November 64 17/20052Z 65.43N 28.26W (Atlantic)
+3. SOURCE 10. CONCLUSION
+Military Satellite (ECHO IZ)
+
+homer Ceere HCHO II headirg SE at 60 deg N 37 deg W at the reparted time of
+One the observation. Observation evaluated as HCHO II sighting.
+
+5. LENGTH OF OBSERVATION /|11. BRIEF SUMMARY AND ANALYSIS
+
+Not Reported Object described as celestial in appearance moving SE at spee
+of 10 degrees of arc per minute, :
+
+6 TYPE OF OBSERVATION
+Gro und=Visual
+
+7. COURSE
+
+SE
+
+8. PHOTOS
+
+O Yes
+GLiNo
+
+9. PHYSICAL EVIDENCE
+
+O Yes
+
+XOL Neo
+
+FORM
+FTD sep 63 0-329 (TDE) Previous editions of this form may be used.

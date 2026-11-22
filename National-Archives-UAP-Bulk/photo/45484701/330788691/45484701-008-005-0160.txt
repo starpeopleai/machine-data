@@ -1,0 +1,37 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T23:03:35Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7279617, "source_ctime_ns": 1793365372969917427, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330788691/45484701-008-005-0160.jpg", "source_mtime_ns": 1785684616000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330788691/45484701-008-005-0160.jpg", "source_sha256": "05a84e99de3253221c19ac37d5f734277fa00c9f651d03ebc3bfbeb2383e1d33"}
+
+===== PAGE 1 =====
+{"alpha_words": 94, "chars": 736, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+HEADQUARTERS 4%
+MILITARY AIR TRANSPORT SERVICE
+ANDREWS AIR FORCE BASE
+WASHINGTON 25, D.C.
+
+Sighting of Unidentified Flying Object
+Honolulu, T. H., 30 September 1949
+
+The Inspector General
+
+Headquarters USAF
+
+ATTN: Director of Special Investigations
+Washington 25, D. C.
+
+1. Attached for information is Report of Investigation 24-24,
+conducted at Honolulu, T. H. relative to the sighting of Unidentified
+Flying Object on 30 September 1949 in that area,
+
+2. Two copies of the Report of Investigation have been for-
+warded to the Commanding General, Air Materiel Command.
+
+FOR THE COMMANDER:
+
+“Fy
+
+1 Inel Colonel, USAF
+Rpt of Inv (dup) Office of Special Investigations
+
+A aaa Ga eMC Tee ae
+BaD AONE
+
+Declassification Authority: NND 923007

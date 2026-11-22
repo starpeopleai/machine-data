@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T22:47:15Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4312887, "source_ctime_ns": 1793386129723540196, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28994942/0210.jpg", "source_mtime_ns": 1785748522000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28994942/0210.jpg", "source_sha256": "0df6449dd3587e540fa8062b39d6c619fe92d66e7a454c348fe399b8c144b398"}
+
+===== PAGE 1 =====
+{"alpha_words": 83, "chars": 591, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+HEADQUARTERS
+2849TH AIR BASE WING
+UNITED STATES AIR FORCE
+Hill Air Force Base, Utah
+
+OOBB 6 October 1961
+Unidentified Flying Object
+
+AFLC (TD-B)
+Wright-Patterson AFB, Ohio
+
+le Reference is made to message TD-E 5-10-85 dated 5 October 1961.
+
+2e AF Form 112, together with taped recordings of interview of six
+observers of UFO at Utah Central Airport, will be forwarded on or about
+9 October 1961. Also reports of initial investigation concerning three
+other sightings in the Utah area.
+
+FOR THE COMMANDER
+CARL B. COTTRELL
+
+Chief, Internal Security Branch
+Security & Law Enforcement Division

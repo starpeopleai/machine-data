@@ -1,0 +1,17 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T22:34:34Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1742152, "source_ctime_ns": 1793390385051746840, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302549479/0575.jp2", "source_mtime_ns": 1785808521000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302549479/0575.jp2", "source_sha256": "bd2f41469e18854e28ae5bcc0d8fa812d2eb9b838154aca231de4da3837b2cf6"}
+
+===== PAGE 1 =====
+{"alpha_words": 6, "chars": 64, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 1, "variant": "plain-psm3"}
+4
+, ‘
+» eo 3
+Tr Taal — f —
+i
+‘
+é
+°
+Ps :
+“
+.
+\
+i i i aia H e ek

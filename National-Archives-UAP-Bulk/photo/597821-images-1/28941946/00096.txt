@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T22:44:09Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4060107, "source_ctime_ns": 1793372235339218064, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28941946/00096.jpg", "source_mtime_ns": 1785688596000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28941946/00096.jpg", "source_sha256": "bd713e5635912ea31deef7b4a317db1f8fa961025379b3d9331f23dc54f02398"}
+
+===== PAGE 1 =====
+{"alpha_words": 127, "chars": 998, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ese | PROJECT 0073 RECORD CARD
+
+ented
+
+ound:
+1. DATE ‘\ 2 LOCATION \ 12. CONCLUSIONS
+| O Was Bolloon
+14 May 1952 George ATR nGabifornis | Probebly Balloon
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION A Possibly Belleon
+Local 1405 __ POST D Ground- Vi sual D Ground-Redor O Wos Aircroft
+: O Probably Aircroft
+cmt___2205 4 CKAir Vi sual O Air-Intercept Rodor | 9 Possibly Aircraft
+5. PHOTOS , : 6. SOURCE DO Was Astronomical
+Yes O Probobly Astronomicol
+O Ne ; T~64 Pilot and observer O Possibly Astronomicol
+7. LENGTH OF OBSERVATION 8. NUMBER OF OBJECTS | 9. COURSE O Other
+‘ O Insufficient Date for Evoluation
+25 Min 1 O Unknown
+10. BRIEF SUMMARY OF SIGHTING 1). COMMENTS
+
+PDur or 10 hrs and 5 min before sighting.
+object hovering. Photos show only small}
+Might possibly be balloon as description spot. F-86 and F-9) from Edwards were
+da similiar to sighting, that was a balloon, in area but made no contacts,
+
+Color: ,Silvor-~metalic
+Shape: Circular
+
+ATIC FORM 329 (REV 26 SEP 52)
+
+ee eta a oak) ban

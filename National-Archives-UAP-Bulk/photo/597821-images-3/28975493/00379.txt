@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T22:50:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4702463, "source_ctime_ns": 1793380350060489527, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28975493/00379.jpg", "source_mtime_ns": 1785700854000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28975493/00379.jpg", "source_sha256": "9f922370c9009ca51ccc0d345245ea36b0290d78490e863cbde10d9b14ab6fd1"}
+
+===== PAGE 1 =====
+{"alpha_words": 147, "chars": 1109, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+1. DATE 2. LOCATION 12. CONCLUSIONS
+Min Sone 0 Was Balloon
+1 December 1957 Hamburg, Germany O Probably Balloon
+3. DATE-TIME GROUP A. TYPE OF OBSERVATION O  Possitly Baileon
+« QO Was Aircraft
+Lecol 1920 GCT XX XC Ground-Vi sual © Ground-Rador GQ Probobly Airerof?
+GMT. 01/15302 D Air Visual O Air-Intercept Radar |2 Possibly Aircroft
+S. PHOTOS 6. SOURCE QO Was Astronomical
+: O Yes Physical QO Probably Astronomical
+Re Specimen Civilian O Possibly Astronomical
+7. LENGTH OF OBSERVATION 6. NUMBER OF OBJECTS | 9. COURSE OXOthe_ Parachute laze
+O Insufficient Dato for Evaluation
+Q Unknown
+unknown one
+10. BRIEF SUMMARY OF SIGHTING 11. COMMENTS
+One brightly burning object fell in Analysis of residue revealed
+vicinity, Hamburg, Germany, Object magnesium and aluminum oxides
+struck the earth at an angle of 30 dgrs with the former predominent in
+above the horizon, Grass in vicinity quantity. ATIC concurs in con-
+of impact was singed and wovered with clusion object was parachute
+a white grey oxide residus, No metal flare,
+pieces recovered,
+
+ATIC FORM 329 (REV 26 SEP 52)
+
+HbA TINEA

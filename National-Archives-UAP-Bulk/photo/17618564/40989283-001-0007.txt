@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T22:35:20Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1772243, "source_ctime_ns": 1793355871623660025, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989283-001-0007.jpg", "source_mtime_ns": 1785564547000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989283-001-0007.jpg", "source_sha256": "66df0434f54ccc4b8c809463a6a8cf890d0ed6ddf9afba3be972dc8726319a8f"}
+
+===== PAGE 1 =====
+{"alpha_words": 221, "chars": 1474, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+9h
+
+objected to the action of Air Materiel Command in extending the
+75% base-maintenance clause in Lockheed's Be29 bailment contract
+"without ascertaining our. present maintenance capability," and
+also in bailing a C-45 to the Martin Company for use on the
+Army's Lacrosse Project at White Sands, In the latter case, as
+it finally tarned out, the plane was not technically bailed but
+rather loaned to the Amy for use by Martin; @veniso, Holloman
+was expected to provide maintenance, at the same time as the
+Center wa. grounding and then excessing all three of its own
+o-l5's. However, Holonan protests did have some effect: in
+the end arranzemeuts were made ‘for maintenance by Martin
+employees, with "very limited field maintenance support” from
+Holloman.?° Similarly Lockheed, which had been using B-50!s
+
+as well as B-29's with partial base maintenance, began building
+up its own maintenance capabilities in preparation for the day
+when Holloman would finally succeed in divesting itself of
+responsibility: for either types”?
+
+Fortunately, ‘the measures 3 adopted or considered for improving
+the maintenance situation 1 were not solely designed to cut back
+Center activities. Impelled in part, at least, by. the sudden
+storage of eleven aircraft on 1 August, comand headquarters
+granted the first substantial increase in maintenance manpower
+spaces since the shortage became critical. In September 1956 six
+additional airman spaces were granted outright by the command,

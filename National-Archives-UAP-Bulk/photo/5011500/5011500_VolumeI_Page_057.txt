@@ -1,0 +1,99 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T23:15:03Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 538295, "source_ctime_ns": 1793365591162193055, "source_file": "National-Archives-UAP-Bulk/photo/5011500/5011500_VolumeI_Page_057.jpg", "source_mtime_ns": 1785565396000000000, "source_rel": "National-Archives-UAP-Bulk/photo/5011500/5011500_VolumeI_Page_057.jpg", "source_sha256": "451ac6932cf47ecfd9dae4d454c2eb0d74f15e03c0631fe70035caeb63954cbf"}
+
+===== PAGE 1 =====
+{"alpha_words": 171, "chars": 1154, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+56
+
+06:19:35
+
+06:19:40
+
+06:20:51
+
+06:32:46
+06:32:49
+06:32:50
+
+06:33:05
+06 : 33:38
+
+06:33:43
+06:33:44
+
+06:33:47
+06:34:12
+06:35:03
+
+06:35:15
+06:35:45
+06:35:46
+06:35:56
+06:36:34
+
+cc
+
+cc
+
+cc
+
+cc
+
+cc
+
+cc
+
+cc
+
+CC
+
+cc
+
+cc
+
+cc
+
+CONFIDENTIAL
+
+Roger. The crew status report from the Lovell
+house remains at three.
+
+Thank you.
+Gemini VII, Gemini VII. That time at the RKV looks
+more like about 6 plus 32, 6 plus 32.
+
+ROSE KNOT VICTOR
+
+Gemini VII, RKV CAP COM.
+
+Right, RKV.
+
+Roger. All systems are GREEN. We'd like you to
+turn on the C-Band beacon for track at Pretoria at
+elapsed time of 06:46, and turn it off at 07:00.
+Stand by.
+
+Right. You want the C-Band on at 06:46 and off at
+07:00.
+
+Roger. Roger.
+
+How about a blood pressure? Houston wants me to
+give you a blood pressure.
+
+Roger. You can start pumping the cuff up.
+Gemini VII, RKV says your cuff is full.
+
+Gemini VII, this is Surgeon. Let us now have your
+exercise.
+
+Roger, you're ...
+
+Exercise complete.
+
+All right. Let us have your blood pressure again.
+Okay. Gemini VII, your cuff is full.
+
+Gemini VII, RKV Surgeon. We have your blood pres-
+sure. Do you have a water or food report for us?
+
+CONFIDENTIAL

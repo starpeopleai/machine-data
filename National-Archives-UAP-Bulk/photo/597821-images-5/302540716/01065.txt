@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T23:22:07Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1054229, "source_ctime_ns": 1793389431158696947, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302540716/01065.jp2", "source_mtime_ns": 1785808147000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302540716/01065.jp2", "source_sha256": "2a23a223c073bab96fd4036d6b3bb64cb5ddb537de2b2363631149d68d1ef28d"}
+
+===== PAGE 1 =====
+{"alpha_words": 81, "chars": 515, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+— “ux — .
+cy ee NA Pty re
+
+-) 7 PN ONE “*
+ae)
+\. DATE «, TIME G20UP 2. LOCATION :
+3. SOURCE 19. CONCLUSION |
+CGivilban SATELLT
+4.. NUMBER OF OBJECTS a Ree Nes ae : :
+seers 1 nd 42 Le rm :
+3. LENGTH OF OBSERVATION [Tl. BRIEF Su eee a ot eae oe
+6. TYPE OF OBSERVATION ae eee : Sao
+ioe $ ) BeCcy “Ee > ) - 7 oe en * to 3 \
+7. COURSE ane a s sthoa in Nox :
+Set eres Ween maya b ion Jn: South. Anwar
+8. PHOTOS
+O Yea
+9. PHYSICAL EVIDENCE
+QO Yas
+NO
+FORM
+FTD sep 63 0-329 (TDE) previous editions of this form may be used.
