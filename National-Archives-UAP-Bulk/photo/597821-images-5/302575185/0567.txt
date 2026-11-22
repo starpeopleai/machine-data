@@ -1,0 +1,76 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T22:26:36Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1417966, "source_ctime_ns": 1793393211117994031, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302575185/0567.jp2", "source_mtime_ns": 1785808669000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302575185/0567.jp2", "source_sha256": "2f4cee75728f8a4b5f9c0f683465cad4ef1c3143c31fc24636f8fdef6b3ee38f"}
+
+===== PAGE 1 =====
+{"alpha_words": 246, "chars": 1546, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+a ih wd Fy oA
+
+aga 2
+
+8. IF you saw the object ot NIGHT, what
+
+8.1 STARS (Circle One):
+
++ ramember
+
+9. What were *:¢ weather conditions at th
+
+CLOUDS (Circle One):
+a. Clear skv
+b. Hazy
+
+&.> Scattered clouds
+d. Thick or heavy clouds
+
+nae at ee woes eee ee
+
+did you notice concerning the STARS and MOON?
+8.2 MOON (Circle One):
+
+(a, Bright moonlight
+
+b. Dull moonlight
+
+c. No moonlight — pitch dork
+d. Don’t remember
+
+@ time you saw the object?
+
+WEATHER (Circle One):
+(a> Dry
+b. Fog, mist, or light rain
+
+c. Moderate or heavy rain
+d. Snow
+
+Don’t remember
+
+mmm cee. ae - oe of
+
+e.
+10. The object appeared; (Circle One):
+o. Solid Cd. As a light
+b. Trensporent e. Don’t remember
+¢. Vapor
+11. {f it eppeored as a light, was it brighter than the brightest stars? (Circle One):
+(3.08: ighter c. About the same
+b>. Dimmer d. Don't know
+11.1 Compare — to some/cémmon object:
+RiP tact
+mae om a 8 SEE Oe he ee ENR ER
+12. The edoes of the as were:
+(Circle Ore}: a. Fuzzy or blurred e. Other _ PASO REE ge SE TON ERA OO
+es, Like a bright stor a i Ca
+‘- Sharnly outlined a pan NaneS adi
+2. Don’t remember Paes a cemitione
+13. Did the obies: (Circle One for each question)
+*..
+a, Appecr to stend still at any time? Yes (No > Don’t know
+b. Sudden'y soeed up and rush away at any time? Yes No Don’t know
+c. Breck up into ports or explode? Yes No Don’t know
+d. Give off smoke? Yes No Don’t know
+e. Change brightness? Yes No Don’t know
+f, Change shape? Yes No Don’t know
+g. Flash or flicker? Yes No Don’t know
+h, Disappeor and reappear? Yes No Don’t know
+
+MES 3 oe,

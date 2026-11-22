@@ -1,0 +1,11 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T21:37:32Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5277137, "source_ctime_ns": 1793361996014907081, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330781979/45484701-001-007-0050.jpg", "source_mtime_ns": 1785684544000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330781979/45484701-001-007-0050.jpg", "source_sha256": "0ceceb89674061c32b691cb2e5a9e4353ddb725c71f9a7b293e8d302945e11d2"}
+
+===== PAGE 1 =====
+{"alpha_words": 6, "chars": 71, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 1, "variant": "plain-psm3"}
+NOLS
+a SOUOOSE ® TIM B19
+>»
+
+o
+
+Declassification Authority: NND 923007

@@ -1,0 +1,24 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T21:43:17Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6477961, "source_ctime_ns": 1793377296785192066, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28963189/1211.jpg", "source_mtime_ns": 1785696690000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28963189/1211.jpg", "source_sha256": "ed393f453840e171a6f5469bc12b0829fed261e416f6c1175957cfc76c1848fe"}
+
+===== PAGE 1 =====
+{"alpha_words": 116, "chars": 825, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+“ROKENs De VISIBILITY’ 5 MILES IN HA7Es Es SCATTERED.
+
+*. NONE. 8. DATE OF ORSERVATION, 15 AUC, IS WITHIN PEPIOD,
+\@ 10 THRU QYN OF ANNUAL LEONID METEORITE SHOZEP. 9. NONE.
+1%. ONE ACFT SEEN APPROX 5 MINUTES LATER, SAME FLICHT@PATH,
+LTITUDE EST 5,9C? FTe 226 PREPARING OFFICERS MAJOR REN
+
+7, Me GERSHATER, USAT, AO 571769, OPNL INTEL OFFICER IN
+“IR/ INTELLIGENCE, #Q THIRD AIR FORCE, APO 125, SRETIM ANALYSISS
+ISR PROP SAW A METEORITE STREA“ING ACROSS SY%Y AT HIGH ALTITUDE.
+LENGTH OF TIME OF OPSERVATIONS 3 TO 5 MINS, SEEMS EXCESSIVE.
+
+"AGE THREE RJFLTA 89
+
+COMMENTBC OBSERVER HAS NO KNOWLEDGE OF ASTRONOMY. WAS
+TO DETERMINE DIRECTIONS OF HIS O8SERVATIONs, FROMHOME HE LIVES
+IN, OR FROM OPSERVATION OFX, STARS, AND MONe JPREPARING OFFICER
+HAD TO DETERMINE GEOGRAPHICAL DIRECTION 8Y RESEARCH. 12. NONE.
+
+1S/4615Z AUG RJFLTA

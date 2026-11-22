@@ -1,0 +1,50 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T21:33:36Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4584647, "source_ctime_ns": 1793368500563802124, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28921348/0015.jpg", "source_mtime_ns": 1785688695000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28921348/0015.jpg", "source_sha256": "2098cf6844158fdaf3863162cf24dc3de52ae9fd6a2c08efdecab8fba606f51b"}
+
+===== PAGE 1 =====
+{"alpha_words": 154, "chars": 1291, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Roll No,
+
+87
+
+Proposed Transfer to ARDC (Feb. 1960 = April 1962): 15 pp.
+Deputy Director File Jan. 1961: 39 pp.
+
+Untitled folder containing copies of Air Force Regulation 80-17
+w/Revisions (1966-1968): 11 pp.
+
+Summary to Project BLUE BOOK (Jan. 1956): 3 pp.
+
+First Status Report, Project STORK (Preliminary Work for Special
+Report #14), April 25, 1952: 102 pp.
+
+Special Report No. 14 (May 5, 1955): 315 pp.
+
+Correspondence and miscellaneous file relating to Special Report
+No. 14: 54 pp.
+
+Administrative Files: Box 3
+
+Dr. Fitts' Reports (April 1949): 17 pp.
+USAFE "Aids to Identification of Flying Objects" (1957): 57 pp.
+
+Untitled folder of photographs, containing about 50-60 photos,
+mostly of USAF personnel, with many duplicates
+
+Advisory Panel on the Scientific Use of Balloons Meeting -
+1S Noy. 1965: 78 ppd.
+
+Sub-Committee Hearing, March 1966 (USAF SAB): 40 pp.
+S.A.B. and Recommendations 1966: 31 pp.
+USAF Test Group: UFO Material 19 Sept. 1966 - 25 Oct. 1969: 30 pp.
+
+Foreign Technology Division: "Soviet Effort to Contact Extraterrestrial
+Life,” 3 Fad, ie67t G7 Pe,
+
+Project BLUE BOOK (USAF SAB, 3 Feb. 1966): 137 pp.
+
+Administrative Files: Box 4
+
+ATIC UFO Briefing 1 April 1952: 44 pp.
+Press Conference - Gen. Samford 1952: 42 pp.
+
+Capt. Ruppelt ADC Briefing 24 Jan. 1953: 29 pp.

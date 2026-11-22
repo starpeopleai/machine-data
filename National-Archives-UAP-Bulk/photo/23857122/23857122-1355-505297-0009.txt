@@ -1,0 +1,51 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T22:00:54Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 11451760, "source_ctime_ns": 1793357264200641059, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1355-505297-0009.tif", "source_mtime_ns": 1785564864000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1355-505297-0009.tif", "source_sha256": "28d4b1a1d2c11924a3a72e54c45f42392f363c8fa51d9204739da7c8e71034fc"}
+
+===== PAGE 1 =====
+{"alpha_words": 219, "chars": 1512, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+LOAN RECEIPT FOR THE | INSTRUCTIONS: Requesting agency completes items 12 and 15 and retutms the white copy to the
+NATIONAL ARCHIVES address shown in item 6 below.
+
+1, DATE DUE 2. DATE LOANED 3. LOAN NUMBER
+
+1/16/81 3/17/80 NNGR 81-459 341
+
+5. DELIVER RECORDS To: (Name of borrowing agency) 6. RETURN RECORDS TO:
+
+4. RECORD GROUP NUMBER
+
+NTPR General Archives Division
+Attn: Charles W. Mayn Jr. Reference | (NNGR)
+LhL=—N Attn: William.G, Lewis
+Room 103
+
+7. AGENCY CONTACT 8. TELEPHONE NUMBER 9. TO RETURN RECORDS TELEPHONE 10. LOAN HANDLED BY
+
+763-7h.10 Bill Lewis
+
+11, RECORD IDENTIFICATION y
+RG 341. USAF ID files. #505297. copy of textual record and tape
+lin
+
+wd OL
+ecording
+
+- my “ye pny TmoiTA
+
+Poomaok a Uri LiN 1 Be HN Wl Ga ag. Bil Wid £ \ pp | UL ON ya ae] CELI 4 OF ke te LLL @
+
+BLN 4
+
+The receipt on loan from the National Archives of the records listed above is hereby acknowledged. It is expressly agreed that they
+will be carefully protected against any injury or loss, kept in their present order or sequence, and returned promptly on or before the
+above-stated "Date due” unless special permission for an extension of the loan for a specified period of time has been obtained from
+the above-named Division or Branch of the National Archives.
+
+: vf
+
+12, RECORDS TO BE USED BY (Name) 13, NO. OF ITEMS }|14. LOCATION OF RECORDS
+ay NINT stack :
+15. RECEIPT ACKNOWLEDGED BY 16. RETURN ACKNOWLEDGED BY
+
+GENERAL SERVICES ADMINISTRATION GSA Form 6770 (rev. 10-74)
+
+Declassification Authority: NND 57565

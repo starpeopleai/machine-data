@@ -1,0 +1,37 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T21:51:25Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8609054, "source_ctime_ns": 1793379632266348716, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28973026/01144.jpg", "source_mtime_ns": 1785700719000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28973026/01144.jpg", "source_sha256": "ba9bdcc40e1eb1598f60080249952f8a0123d64f6bf5fcbcba4787afe05c69cc"}
+
+===== PAGE 1 =====
+{"alpha_words": 142, "chars": 1022, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+a El : PROJECT 10073 RECORD CARD oC
+e » .
+i. OATE ? 2. LOCATION 12. CONCLUSIONS
+a , ; O Was Balloon
+3 November 1957 Eglin AFB, Florida = Marg he i
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION ste ni Resa
+' + CG Was Aircrof?
+Local ' 2 Ground. Vi sual 70KGround-Rader Probably Airerafe
+‘ im) . . o
+CMT es 035/2037Z 0 Air Visual O Air-Intereept Radar DO Possibly Aircroft
+0 Yes O Probably Astronomical
++f No Military O Passibly Astronomical
+7. LENGTH OF. OBSERVATION 3. NUMBER OF OBJECTS | 9. COURSE Bx Other_Jadar—aliunetibn
+NIT os G Insufficient Date ter Evaluation
+Ge SS two then West spurious returns
+
+10. BRIEF SUMMARY OF SIGHTING
+| One object picked up on radar, then
+another picked up at 45,000 ft. the:
+original obj was at 39,000 ft at this
+‘ime. One obj above the other, Flight
+ith was not oma straight line at any
+cime, was first heading NE, then SE,
+-12@n west. Objects faded from radar
+
+> altitude of 204,300°ft.
+
+11. COMMENTS
+
+The returns could be interference
+or radar malfunction.
+
+ATIC FORM 329 (REV 26 SEP 52)

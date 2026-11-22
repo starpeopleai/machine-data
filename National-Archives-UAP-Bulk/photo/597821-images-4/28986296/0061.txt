@@ -1,0 +1,11 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T21:42:51Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6438093, "source_ctime_ns": 1793383080546403656, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28986296/0061.jpg", "source_mtime_ns": 1785748036000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28986296/0061.jpg", "source_sha256": "18c2b5b6b1ecd3c107b94407b1de2c3345d5d642e2f2ad3bf33b2ed626dcf922"}
+
+===== PAGE 1 =====
+{"alpha_words": 19, "chars": 142, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PAGE FOUR RJEZSB 9S
+
+FOLLOWED BY COMPLIET INVESTIGATION. IF ADDITIONAL INFORMATION
+IS UNCOVERED IT WILL BE FORWARDED.
+BT
+
+25/2515Z MAR RJEZSB

@@ -1,0 +1,49 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T21:50:38Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8517027, "source_ctime_ns": 1793384872763728649, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28991258/0935.jpg", "source_mtime_ns": 1785748258000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28991258/0935.jpg", "source_sha256": "4efc962733521f9669ea8c5e8c25d6a2443bd1b16d123dad1ff6fee64f8e0d00"}
+
+===== PAGE 1 =====
+{"alpha_words": 79, "chars": 648, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+RELEIVEU |
+
+RFO57
+: 1d) 1 Ole a
+CZCSQDOS56ZCJYE262 ee 961 JAN 31 03 17. mam
+RR RJEDSQ |
+
+DE RJEZHQ 801 © Or (
+
+R.310815Z | \
+FM HQUSAF WASHDC - \ A/
+L
+
+INFO ATIC WPAFB OHIO Ns
+P 2919552 ‘ 4, | 4
+FM COMASDEFORLANT | |
+INFO ZEN/CINCLANTFLT 3 = a
+
+RJWFALB/CINCNORAD A) Mf?
+
+RJEZHO/COS USAF
+RBEPW/CNO a
+P 2919002 "=
+FM USNS PECOS
+
+TO COMASDEFORLANT NORVA
+
+v4
+
+MSTS GR 44
+
+BT
+
+UNCLAS X
+
+MERINT X USNS PECOS TAO65 xX NJVC X UNIDENTIFIED FLYING OBJECT
+APPARENTLY SATELLITE X 2545N 4&822W 298912Z X AIRBORNE VERY HIGH
+HEADING 158 DEG TRUE VERY FAST X GENTLE ELY SWELLS CLEAR SKY X
+
+/
+
+CROSSED IN LINE WITH STAR VEGA SAME MAGNITUDE
+
+BT
+51/9121Z JAN RJEZHQ

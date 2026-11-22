@@ -1,0 +1,50 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T21:52:19Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8895167, "source_ctime_ns": 1793362094814798332, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330782241/45484701-002-003-0009.jpg", "source_mtime_ns": 1785684708000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330782241/45484701-002-003-0009.jpg", "source_sha256": "3fe5c537bd6636d25c093fc7fd7257daae1970f280da2d5f914a5c9feb8e6e19"}
+
+===== PAGE 1 =====
+{"alpha_words": 249, "chars": 1673, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+918 N.E. 18th St,
+Oklahoma City (5) Okla.
+Officer in Charge, AAF
+(Re: MXIAXO-3, Wright Field,
+Intelligence Division, Tech, Intelligence. )
+
+McChord Field, CONFIDENTIAL
+
+Tacoma, Washington (Inclosure — Hamilton Field)
+
+Dear Sir:
+
+in the july 31, 1949 issue of the Portland Oregonian, Portland,
+
+Ore. Page 1, col. 7, is a story reporting one or more objects "unidentified",
+as being observed at Portland, Vancouver and Camas. Also, an object seen by
+the crew of a Northwest Airlines Martin 202 enroute from Yakima to Portland,
+is described as passing the airplane swiftly at the time plane Speed was
+
+220 MPH.
+
+I feel sure that you have already secured all available data on
+appearances of the object, or objects, including an inter-section drawing of
+the Martin 202 location in relation to the flight path of the object,
+
+However, this letter is to call your attention to another phase of
+related subject matter, which will greatly assist in confirming previous data
+in your general locality and in other localities, This is the starting of
+forest fires from lightning bolts occuring when there are no clouds present,
+
+in the same issue of the Oregonian, same page, col. 6, is a
+on lightning bolts starting forest fires at the following places:
+
+(1) Blue mountains, east of Pendleton, Ore, 500-acre blaze,
+
+(2) Clover Creek area, west of Klamath Falls, Ore, 85-~acre blaze,
+
+(3) Lane county (no specific spot given) five small outbreaks,
+/ Rs Pp I & j
+(4) The Leonard Lungren Sawmill fire, Southwest of Bend, Ore, (It
+& p) p)
+is not stated whether this fire was set by lightning bolts, or
+
+not, but it should definitely be checked, )
+
+Declassification Authority: NND 923007

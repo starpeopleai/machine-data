@@ -1,0 +1,46 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T21:33:56Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4673127, "source_ctime_ns": 1793388023458479425, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28999712/0101.jpg", "source_mtime_ns": 1785748340000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28999712/0101.jpg", "source_sha256": "41ff5c40e52cd5c3c5c14698a6cc84e01ed424d9dadd11e1ca8937a737adfd3e"}
+
+===== PAGE 1 =====
+{"alpha_words": 108, "chars": 857, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD Peete '
+
+1. DATE 2. LOCATION 12, CONCLUSIONS
+
+Was Balloon
+
+Oo
+l November 1962 Metairie, Louisiana 0 Probably Balloon
+O Possibly Bslloon
+
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION
+
+Local (X Ground: Vi sual O Ground-Rodar ax yee cule airevats
+
+Possibly Aircroft
+
+GMT 01/2315Z O Air Visual O Air-Intercept Radar
+5. PHOTOS 6. SOURCE
+O Yes
+2EKNo Civilian
+7. LENGTM OF OBSERVATION 8 NUMBER OF OBJECTS | 9. COURSE
+
+Was Astronomical
+Probably Astronomicol
+Possibly Astronomical
+
+Other.
+Insufficient Date for Evaluation
+Unknown
+
+000 000 ano
+
+10 minutes one Easterly
+10. BRIEF SUMMARY OF SIGHTING 11. COMMENTS
+
+Shiny white object turning to pinkish | Contrail with a/c. Color due to
+and then red observed in evening. Obj sun's reflection,
+
+in front appeared as a red light.
+Thought to be start of sky writing,
+
+ATIC FORM 329 (REV 26 SEP 52)

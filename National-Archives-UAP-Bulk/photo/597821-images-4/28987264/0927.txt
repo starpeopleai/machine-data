@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T21:45:48Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7272841, "source_ctime_ns": 1793383556715188364, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28987264/0927.jpg", "source_mtime_ns": 1785748342000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28987264/0927.jpg", "source_sha256": "9d71c7f9caf3699623ccda12a9408cb7ef649676734def31d7611a0deaa99dae"}
+
+===== PAGE 1 =====
+{"alpha_words": 88, "chars": 520, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+July 26, 1960
+
+We have not been able to determine the nature of
+your recent observation, and are therefore forwarding
+your report to:
+
+AFCIN - 454 -
+
+Air Technical Intelligence Center
+<n Air Force Base
+Ohio s
+
+Any further correspondence regarding this matter
+should be sent to them,
+
+Thank you very much for your time and interest,
+and should we be able to help you again please do not
+heaitate to write or call.
+
+Respectfully,
+
+wwM/te
+cc: ATIC
+
+r viet ea Api hes g onteet Re Ta Shee gage Bab Seek BX Sa titi he te 4 x

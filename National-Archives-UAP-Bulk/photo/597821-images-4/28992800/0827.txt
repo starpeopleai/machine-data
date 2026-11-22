@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T21:29:57Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4008956, "source_ctime_ns": 1793385329928759023, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28992800/0827.jpg", "source_mtime_ns": 1785748424000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28992800/0827.jpg", "source_sha256": "e8fd469d0c94e56c38ccaf396e08bdc2cfa4c742b55e53c512a1a8b9b1e949b7"}
+
+===== PAGE 1 =====
+{"alpha_words": 78, "chars": 649, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+i
+}
+3. DATE-TIME GROUP | 4. TYPE OF OBSERVATION
+ic Was Aircra
+Local ——————— - ——— 0 Greund- Vi sual CO) Ground-Rodar M f ' fy raft ‘
+1 Probably Aircraft
+- ame 30s ~ Abvepat
+GMi A . s a | my Air Visual O Air-Intercept Radar O Possibly Aircraft
+- re : ‘ Erie a sari eau me | 'q c Tal- 4 . = a yee fi ‘i vf a oy arr 4 A '
+» PROTOS ik SOURCE ; 0 vias Astronomical
+1 Yes j it} Prob ibly Astronomical
+O'No aS) Possibly Astronomical
+- = —_ = - a 4 ‘ aabee — i waa initia pedmeti ri
+- LENGTH OF OBSERVATION | 8. NUMBER OF OBJECTS | 9 COURSE a SO ies cannes
+{0 Insufficient Data for Evaiuctian
+(QO Unknown
+j
+
+11. COMMENTS
+
+. ;. |

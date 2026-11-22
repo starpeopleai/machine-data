@@ -1,0 +1,24 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T22:19:01Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 969179, "source_ctime_ns": 1793390737173338144, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302553050/1236.jp2", "source_mtime_ns": 1785808293000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302553050/1236.jp2", "source_sha256": "e213778cdbfeab7e1ddc39a7d5439dda14c5236e80dd594181b7a00f187a4cbf"}
+
+===== PAGE 1 =====
+{"alpha_words": 7, "chars": 83, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 1, "variant": "plain-psm3"}
+°
+1
+*
+2
+} a
+ok it
+t :
+6: jf
+ra :
+1,
+i i
+> 2d “a *
+tp.
+$
+a |
+‘
+banat be
+}- .
+a e
+t

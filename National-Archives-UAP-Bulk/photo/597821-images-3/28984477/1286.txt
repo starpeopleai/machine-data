@@ -1,0 +1,40 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T21:36:12Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5072337, "source_ctime_ns": 1793382547769626402, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28984477/1286.jpg", "source_mtime_ns": 1785700862000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28984477/1286.jpg", "source_sha256": "715aae28cbd245385c74736483ff340b4877ffcc0202caf17ca93749d52b5aa0"}
+
+===== PAGE 1 =====
+{"alpha_words": 120, "chars": 939, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+(
+NATIONAL INVESTIGATIONS COMMITTEE
+ON AERIAL PHENOMENA
+TELEPHONE: NORTH 7-9434
+
+CABLE ADDRESS: WASHINGTON 6, D. C. AOMINISTRATIVE OFFICES:
+SKYLIGHT 1536 CONNECTICUT AVE., N. W.
+
+MAJOR DONALD E. KE YHOE
+USMC (RET.) DIRECTOR
+
+September 16, 1959
+
+Public Information Officer
+U.S.Air Force Installation
+Greater Pittsburgh Airport, Pennsylvania
+
+Dear Sirs:
+
+: In the caption to a United Press International(UPI) telephoto for September
+15, 1959,a Captain Dale Trombley is quoted as identifying the pictured
+object as a high altitude wind measuring device,
+
+Our Committee would appreciate it if would give us the official designation.
+of the instrument(title, Mark no.,etc.), the name of the manufacturer,
+
+and some additional information as to the instruments function and cap
+abilities.
+
+Thank you for your cooperation,
+
+Sincerely yours,
+
+sey aacainn Reap
+
+A prrotualely - supported fact - findiny bod. Yy sexing the naticnal public trtexesl

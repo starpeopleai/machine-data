@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T21:43:36Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6771183, "source_ctime_ns": 1793383906805299021, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28988255/0365.jpg", "source_mtime_ns": 1785748166000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28988255/0365.jpg", "source_sha256": "d0e0a5f3aa69e92dde0e9563e18474070709d61877e3519c600276e715be0cd3"}
+
+===== PAGE 1 =====
+{"alpha_words": 114, "chars": 913, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+1. DATE - 2. LOCATION 12. CONCLUSIONS
+O Wes Belloon
+4 18 Aug 60 Fairfield, California D Probably Belloon
+a 3. DATE-TIME GROUP 4. TYPE OF OBSERVATION = ey ee
+QO Wes Aiseraft
+Locol . PR Ground- Vi sual D Ground-Reder GQ Probobly Aireroft
+out__29/ O410Z 0 Air Visuel © Air-Intereept Rader |9 Pessibly Aircrofe
+i 5. PHOTOS 6. SOURCE O Was Astronomical
+4 CO Yes G@ Probably Astronomical Meteor
+4 Ne Civilian and Military O Possibly Astronomicol
+: 7. LENGTH OF OBSERVATION 6. NUMBER OF OBJECTS | 9. COURSE O Other :
+q O Insufficient Date for Evaluation
+; | 8 sec one SSW G wom
+| 10, BRIEF SUMMARY OF SIGHTING 11. COMMENTS
+
+Football shaped object vith blunted ends, size | Object was probably a meteor.
+f a pea, pale reddisnh-pink paste. color.
+
+ligat path was straight: with a very high
+speed. Ovject faded rom view rapidly due to
+ground light.
+
+oO
+on]
+}*)
+
+.
+
+ATIC FORM 329 (REV 26 SEP $2)

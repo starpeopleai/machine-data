@@ -1,0 +1,66 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T21:56:54Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9954338, "source_ctime_ns": 1793364050049930980, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330786509/45484701-006-006-0016.jpg", "source_mtime_ns": 1785684577000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330786509/45484701-006-006-0016.jpg", "source_sha256": "8b0553aaf06ad2642d670959f3e71e9390c02734dbd69b115046212b194b32da"}
+
+===== PAGE 1 =====
+{"alpha_words": 116, "chars": 915, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+UNITED STATES AIR FORCE FILE NO.
+
+THE INSPECTOR GENERAL 24.u_a8_29
+OFFICE OF SPECIAL INVESTIGATIONS ey:
+REPORT MADE BY
+
+REPORT OF INVESTIGATION
+
+ASR TAL PHENOMENA
+Amarillo, Texas
+
+PERIOD
+
+__16 dune 1950
+
+‘OFFICE OF ORIGIN
+
+STATUS
+CLOSE
+
+CHARACTER
+
+CTAL INQUIRY
+
+Rpte of Inve, DO #11, dated 9 June 1950, File No: 24-42
+
+REFERENCE
+
+SYNOPSIS
+
+Investigation requested by District Commander,
+17th District OSI to determine circumstances concerning
+an alleged aerial phenomena at Amarillo, Texas. Results
+of investigation set forth in ROI, DO #11, dated
+9 June 1950, File No: 24-42, All investigative leads
+developed. Case is closed.
+
+Srhermortintinahewii mye ict
+
+}
+
+a i 3 er °y U wri
+ice Orig
+aioiian
+
+AUTHORIZS
+
+FILE STAMP
+
+"DISTRIBUTION ACTION COPY FORWARDED TO
+
+4G, OSI
+
+ile
+
+Lt Col,USAF
+
+District Commander.
+AFHQ FORM 16—57744-1 U. S. GOVERNMENT PRINTING OFFICE
+15 JAN 49 ay
+
+Declassification Authority: NND 923007

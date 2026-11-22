@@ -1,0 +1,68 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T21:47:14Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7546971, "source_ctime_ns": 1793354601492286273, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989217-001-0129.jpg", "source_mtime_ns": 1785564311000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989217-001-0129.jpg", "source_sha256": "a29fe2118264259049fe8f60e548b68d1bdedfdaa0896ca7f5cc8ea933ff7887"}
+
+===== PAGE 1 =====
+{"alpha_words": 370, "chars": 2183, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Is it verbatim?
+Yes, it is.
+
+Exhibit 14 appears to be a standard form utilized for the purpose of
+taking statements from individuals, is that correct?
+Yes, it is,
+
+At the time Colonel Adams was interrogated by you, had he been shown
+the form on which his statement was to be typed?
+No, I don't think so.
+
+Did you prior to interrogating Colonel Adams advise him of the last
+paragraph of the statement on this form to the effect that he was
+voluntarily making a statement, that any statement made by him could
+
+be utilized against him in accordance with paragraph 34 of the Manual
+for Courts—Martial, where it says in effect that any statement he may
+make may be used against him in a trial by courts-martial? In essence,
+was Colonel Adams advised that any statement which he might make to you
+could be utilized against him as evidence ina trial by courts-martial?
+I think I previously testified that he was.
+
+Did Colonel Adams read this entire statement, both the form part and
+the typed part, before he signed it in your presence?
+Yes, he did,
+
+Did he then place his signature on it?
+Yes, he did.
+
+Did Colonel Adams make any other statement to you?
+No, not in reference to this particular investigation.
+
+Questions by the defense counsel:
+
+Qe
+
+A.
+
+Qe
+A.
+Qe
+A.
+
+1 am interested in going a little further into how you got into the
+sodomy part of this investigation. You were investigating Lieutenant
+Goodnough as the subject of a narcotics investigation?
+
+That is true.
+
+Did she make the allegations at that time?
+No, she didn't.
+
+How did she happen to make such an allegation?
+
+We were making this investigation on the narcotics charge and during
+the course of the investigation she stated she had received barbituates
+from Colone] Adams and upon being re~interviewed, she stated that he
+had brought them to her apartment. She was questioned as to why she
+didn't receive medical attention at the hospital, and she stated that
+they were going together and he brought them to her.
+
+You said you explained to Lieutenant Goodnough the definition of
+sodomy out of the courts-martial manual. Am I correct in saying that
+she was not sure that such acts had been committed and upon your ex~

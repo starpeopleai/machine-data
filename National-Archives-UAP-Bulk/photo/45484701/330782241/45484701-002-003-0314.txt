@@ -1,0 +1,76 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T22:03:22Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 11834495, "source_ctime_ns": 1793362247813423468, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330782241/45484701-002-003-0314.jpg", "source_mtime_ns": 1785684732000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330782241/45484701-002-003-0314.jpg", "source_sha256": "a8265e93e6aac57e6d793218a16f78144c352ef300d96a98fdc58a8f999281c8"}
+
+===== PAGE 1 =====
+{"alpha_words": 238, "chars": 3466, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+o@-4
+
+H =Standard level indicator
+
+dd=Direction in tens of degrees
+
+vv=Velocity in miles per hour (knots)
+
+Declassification Authority: NND 923007
+
+. A > ~
+Pehccae wae & U.S. ARMY @ nics SERVICE — GBecurity Classificat
+pe Starting Date and Time WBAN—20 SORCERY oncrmoin ate es
+a WINDS ALOFT COMPUTATION SHEET ou 4
+(LAND STATION FORM). Psgie.
+CL )
+Ascension No, Aethod of observation__1_—_4 _“«__. _Elevation of observation po above MSL (feet). 2 Sb  fendtacs
+vn Elevation | — Slant too a a ak (360 =n | Wind ; Elevation Horizontal | Slant | ne — : — n i ay
+ute A : iad N | tion oint | G am | : ram Meet? atek wh, : ty Mi m : : RAW N yg np c ) | / her t ty
+te ——t noid i —t<— a ene fe t ange | COAG ee rd 4: yl
+oe ot (a " 2 ie ot ee 720 | on” 46 45, 930 | 27, 900 (ares
+e120 L re - 2, 310 1, 380 } 47 ae | 46, 920 | 28, 500 |
+Ue a Ae : 3,450 | 2, 040 | 48 Se eek | 47,910 | 29, 100 |
+: PM a of ol ° si 670 49 | 48, 870 | 29, 700 |
+9} a a | 5,670 | 3,900 | 50 | 49, 860 | 30, 300
+6 | CS a | 6,750 | 3,900 | J { 1 aces _ 50, 850 | 30, 900
+of Le i 2) 7,830 | 4,500 | | yy 52 se ot ee. SAG | 31, 500 | 4
+5 EEE | 8,910 | 5,100 | 53 i eat 52, $00 | 32, 100
+OS a A OE oI | 9,960 | 5,700 | 54 | 53. 790 | 32, 700
+De A ae A ede | 11,010 | 6,300 | 55 [ 54, 780 | 33, 300
+Tg em diet Rie Sa we 12,030 | 6,900 | | 56 | 55, 740 | 33, 900
+12 | Me dv A iM 573 ©] 13, 020 7. oe} 57 56, 730 | 34. 500
+mit, ¢ i/2t. 2 J} 14,010 | 8, 100 | 58 57.720 | 35. 100
+41s J, . CSAC us ¢ 15,000 ; 8, 700 | ¢ 2, 59 58, 680 | 35, 700 |
+a6 be Ce on | 15, 960 | 9, 300 60 59. 670 | 36, 300
+1617: | 16,920 | 9, 900 | 61 60, 660 | 36, 900
+b Wy a a [3 | | 17, 880 | 10, 500 62 Ol 020: 1 dey Ove
+18 | : 118, 840 | 11, 100 " 63 62. 610 | 38. 100
+19 | 2 A ZL 2 2 | 19,500 | 11, 700 | i’ 64 63, 600 | 38, 700
+20 | | 20, 760 | 12, 300 4 65 64. 590 | 39, 300
+91/3 . | 21,720 | 12, 900 66 65.550 | 39, 900 .
+22 a __| 22, 680 | 13, 500 67 66. 540 | 40, 500
+23 | | 23, 640 | 14, 100 68 67, 530 | 41, 100 |
+24 | ey u 24, 600 | 14, 700 69 68. 490 | 41. 700
+25 HAC __| 25, 560 | 15, 300 70 69. 480 | 42. 300
+we Gee “ | 26, 520 | 15, 900 71 70. 470 | 42. 900
+i Nae __| 27, 480 | 16, 500 72 71,430 | 43, 500
+28 | i Sh : | 28, 440 | 17, 100 73 72 420 44. 100
+29 29, 400 | 17, 700 a 1 74 73, 410 | 44, 700
+ai re | 8 | 30,360 | 18,300 | Bites DORA a : 74,400 45, 300
+31 31, 320 | 18, 900 | 76 75, 360 | 45, 900
+32 , 280 | 19, 500 oe : Wey yg | 76, 350 | 46, 500 |
+33 260 190. ee fo 78 77, 340 | 47, 100 ,
+34 200 | 20, 700 | 79 _ 78, 300 | 47, 700
+35 35, 160 | 21, 300 | 80 . 79,290 | 48, 300
+36 120 | 21, 900 | 81 80, 280 | 48, 900 :
+37 110 | 22, 500 82 | 81, 240 | 49, 500 rf
+38 | 100 | 23, 100 | 83 | $2, 230 | 50, 100 |
+39 , 060 | 23, 700 | 84 | 83, 220 | 50, 700 |
+40 | , 050 | 24, 300 | 85 84,210 | 51, 300 |
+41 040 | 24, 900 | 86 | 85, 170 | 51, 900 |
+oe 2, 030 | 25, 500 | : 87 | 86, 160 | 52, 500
+43 , 990 | 26, 100 | wae 88 | | 87, 150 | 53, 100 |
+44 | 43, 980 | 26, 700 | 89 | 88, 110 | 53, 700
+45 I | 44, 970 | 27, 300 ae ee : 69, 100 | 88, 0 ‘
+Observer ———_{—*++___“#{_< Recordec__.___——_<@_ «A Of Termination due to..__/_¢ Fe Fae ane ia
+Weight of balloon_.—_—___grams Ascensiona! rate 1 = y A nde. 5; vo : yr ee eae:
+Weight of lantern nen SLAMS Color of balloon __- i S , :
+Weight of target Type of batioon _t fe ‘ ee, Ne Cee bets ies
+or transmitter _°o- - — grams Type of target ; ine
+FOG I. 5 ea es grams Type prying a sy TEE 7 RPS a a ie tess secahesie
+Total weight ___-___ grams set ec edisiaeenietaines

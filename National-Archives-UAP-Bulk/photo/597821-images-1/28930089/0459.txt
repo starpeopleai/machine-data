@@ -1,0 +1,46 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T21:35:36Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4795105, "source_ctime_ns": 1793368976294568149, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28930089/0459.jpg", "source_mtime_ns": 1785688582000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28930089/0459.jpg", "source_sha256": "573f567da7334497c756eda07d5ecd15d62092d9d9aaec8649dbb5b0c6fe8222"}
+
+===== PAGE 1 =====
+{"alpha_words": 20, "chars": 158, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+a
+
+oy
+
+Saye
+
+~» &
+
+rr
+eal
+b
+e °r
+»
+-o+ rs
+.
+t fe
+ond
+a) t
+4 ~!
+ae
+¢ C
+=
+ey .
+4 ‘
+anh opt
+: vrs
+7T ~
+ry
+> 4
+4A --
+wv tt.
+eS 2
+te of
+~~
+
+‘aArality
+
+@
+
+~YIee
+
+4

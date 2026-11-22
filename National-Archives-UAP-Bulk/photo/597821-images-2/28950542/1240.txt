@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T21:35:00Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4770982, "source_ctime_ns": 1793374173950700653, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28950542/1240.jpg", "source_mtime_ns": 1785696661000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28950542/1240.jpg", "source_sha256": "4e04e2dcf0b2cf565951e09c7da5c40a85d0020c14286d51397263d5d935716e"}
+
+===== PAGE 1 =====
+{"alpha_words": 21, "chars": 263, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Diagram #1 Diagram #2 , Diagram #3
+—_ <—_S am
+<—_ a —a_
+a= —_ <_
+<_ <_ <_
+—_ a <a y
+—a_ <—_ <—_
+>] a a
+HEADING SOUTH HEADING EAST HEADING NORTHEAST
+N
+
+SAME LENGTH 8-29
+
+8-50
+
+purines a mem”)
+
+TUCSON
+
+SS MOUNTAINS
+
+OBSERVERS ——+
+POSITION _&
+
+.?
+OLD
+8 : *~rTUCSON

@@ -1,0 +1,54 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T22:20:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1022805, "source_ctime_ns": 1793390523550445485, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302550618/1080.jp2", "source_mtime_ns": 1785808021000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302550618/1080.jp2", "source_sha256": "7fdd95e73576c5cc180383a56d4a6881e15a9bbfd2693c44cfdbc34c15eca2a1"}
+
+===== PAGE 1 =====
+{"alpha_words": 211, "chars": 1408, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+8. IF you sow the object at NIGHT, what did you notice co-cerning the STARS and MOON?
+
+8.1 STARS (Circle Ore): 8.2 MOON (Circle One):
+a. None a. Bright moonlight °
+b, A few b. Dull moonlight
+c. Meny c. No moonlight — pitch dark
+d. Don't remember d. Don’t remember
+
+9, What were the weather conditions at the time you saw the object? ~
+
+CLOUDS (Circle One): WEATHER (Circle One):
+a. Clear sky Cee
+b. Hazy 6. Fog, ist, or light rain
+©) Scattered clouds c. Moderate or heavy rain
+> «Thick or heavy clouds d. Snow
+
+e. Don’! remember
+
+10. The object coveared: (Circle One): |
+
+G2, Solid d. Asai light
+. «6UTrensparent e. Don't remember
+c. Vanor
+
+11. 1f it appeered as a light, was it brighter than the brightest stors? (Circle One):
+
+Ca Brighter c. About the sane
+b, Dimmer d. Don't know
+
+11.1 Compare brightness to some commen object:
+
+12. The edges of the obiect were:
+
+(Circle One); o. Fuzzy or blurred c. Other
+
+ra, Like - bright stor
+
+te’ Sharply outlined
+
+d. Dan’t remember
+
+13. Did the objec:: (Circle One for each question)
+a. Appeer to stend still at any time? Yes <Ne Don’t know
+b. Suddenly sseed up and rush away at any time? Co No Don’t know
+c. Break up into parts or explode? s «No? Don’t know
+d. Give off smove? Yes No, Don’t know
+e. Change brishtress? Yes (No) Don't know
+f, Chonge shepe? Yes (No? Don’t know
+g. Flash or flicker? fes No» Don’t know
+h. Disappear ord reappecr? Yes C No! Don’t know

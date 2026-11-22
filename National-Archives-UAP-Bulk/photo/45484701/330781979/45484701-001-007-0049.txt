@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T21:40:09Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5716288, "source_ctime_ns": 1793361995716713174, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330781979/45484701-001-007-0049.jpg", "source_mtime_ns": 1785684544000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330781979/45484701-001-007-0049.jpg", "source_sha256": "986328721e68e482fda4d6fd52434bf200d3f44aa82f44d25179eb8f23dc611d"}
+
+===== PAGE 1 =====
+{"alpha_words": 133, "chars": 892, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+?
+
+5D 2hel (17D 2hj-6) lst Ind 5D-0S81 /JWF /fn
+(12 Nov na
+
+a ar es a
+
+5th District OSI tay: Wright-Patterson AFB, Dayton, Ohio, 26 Nov ls
+
+TO: Chief of Staff, United States Air Force, Washington 25, D. C. ATTN:
+Major Donald B. White, Asst. Executive, Spec. Investigations (IG)
+
+le Action has been taken to effect compliance with paragraph 2,
+basic communication.
+
+2. Attached for your information are reproductions of the authori-
+ties under which Air Materiel Command corresponded directly with other
+OSI Districts with reference to special project "Sign."
+
+4 Inels H. B. GIBSON
+le Ltr dtd 26 Feb iS (change) Colonel, USAF
+2. Ltr dtd 26 Feb lis Acting District Commanier
+3e CSGID 152.1 dtd 25 Mar lis
+
+Ce er, Lee ae ene ree heen Fx
+CLASSIFICATION CANCELLED Sit Bitte bet oe, ane”
+BY AUTHOR! TY OF THE DiRELTUR OF sii INV
+VIIDT Vv om ft nt HICAE
+DATE
+
+Declassification Authority: NND 923007

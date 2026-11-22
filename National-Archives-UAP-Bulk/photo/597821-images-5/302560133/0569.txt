@@ -1,0 +1,55 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T22:20:21Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1019295, "source_ctime_ns": 1793391609885905488, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302560133/0569.jp2", "source_mtime_ns": 1785808110000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302560133/0569.jp2", "source_sha256": "815e444789dd9f9a33260b7619898d5305d6e63a80eea5299ba8c3cbfbe68c83"}
+
+===== PAGE 1 =====
+{"alpha_words": 151, "chars": 1042, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+EPARTMENT OF THE AIR FORCE
+HEADQUARTERS 9TH AEROSPACE DEFENSE DIVISION (ADC)
+
+ENT AIR FORCE BASE, COLORADO 80912
+
+REPLY TO
+ATIN OF:
+
+SUBJECT: DO Report (Msg YOSD-10615 Feb 67)
+
+n accordance with AFR 80-17, 19 Sep 66, and
+he above referenced message, the following
+
+supplemental
+is transmitted
+
+original negative
+
+2 copies prints
+
+statements of the observers
+
+2SS Form 5, Baker-Nunn Passage Record
+
+ND
+
+EOS were take with a USAF SPACETRACK Baker-—Nunn
+
+-a at Sand Island (Johnston Island) at 22/1609Z. (NOTE:
+-c marks are evident over entire film. Static was caused
+personnel error; film remained in camera ten (10) minutes
+ter exposure of subject frame. Azimuth from site was
+
+sximately 25-28° True and Elevation 30° above horizon. )
+Losed statements were made by Air Force and Coast Guard
+ersonnel stationed at Sand Island.
+
+gD Momo
+
+iomed
+So]
+
+SADD Project Of is Capt Del Tonguette, Space Systems
+rations Officer, Ent AFB, extension 2677.
+
+Atch
+Original! Negative
+Prints, 2 cys
+Statements of Observers,
+cy ea
+PARSE S) AMO SLY So en el EON

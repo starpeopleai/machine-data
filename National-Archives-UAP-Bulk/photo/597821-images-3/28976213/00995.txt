@@ -1,0 +1,24 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T21:33:15Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4522438, "source_ctime_ns": 1793380474465176792, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28976213/00995.jpg", "source_mtime_ns": 1785700924000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28976213/00995.jpg", "source_sha256": "95db52675e8bd558ecd589987b418a8e2dcde248716bdacbc551c7306187fb9b"}
+
+===== PAGE 1 =====
+{"alpha_words": 71, "chars": 375, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PAGE THREE RJLPNK ‘
+
+ZERO ) 2ERO/SLASH 2ERO FOUR CHI TAREE 7H ZERO DASH fio
+FIVE Zing SLASH ove NiNE cum FIVE ZERO DASH THREE
+ZERO ZERO ASH ONE FOUR CMM EIGIT ZERO DASH ZERO
+EIGHT 2ER0/SLASK 10 SEVEN PD
+CHARLIE PD UNLIMITED
+DELTA PD UNLIMITED
+ECHO PD ZERO
+FOXTROT PD NONE
+
+EIGHT PD NONE
+NINE PD NONE
+ONE ZERO PD NONE
+ONE ONE PD CONET OR NETEOR
+DT
+2912847(3 DEC RJ
+INK
+
+NNNN

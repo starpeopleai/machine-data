@@ -1,0 +1,54 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T22:26:21Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1413813, "source_ctime_ns": 1793356157333473053, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989305-001-0113.jpg", "source_mtime_ns": 1785564623000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989305-001-0113.jpg", "source_sha256": "eb952f3b5d73e9294585f450f35a2ef3c207ee4627bf2f5262ad82a7c6075aff"}
+
+===== PAGE 1 =====
+{"alpha_words": 306, "chars": 1905, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ROBERT G. TODD
+2528 Belmont Avenue
+Ardmore, PA 19003-2617
+
+January 31, 1994
+
+Mr. Irving Newton
+222 Driftwood Drive
+San Antonio, TX 78239
+
+Dear Mr. Newton:
+
+As you may recall, back in July of last year, I wrote to you concerning the
+so-called "Roswell incident," and you were kind enough to answer some
+questions for me. I apologize for the Tong delay jin getting back to you, but
+the intervening months have been marked by a series of mini-disasters that
+caused major distractions. 1 won't bore you with the details.
+
+As you may have seen in the papers, the crashed-saucer proponents have managed
+to get the attention of U.S. Representative Steven Schiff, whose district is
+in New Mexico. Mr. Schiff has made inquirtes about the Roswell incident to
+the Department of Defense. He was not satisfied with the responses from the
+Defense Department, so Mr. Schiff asked the General Accounting Office (GAO) to
+Took in to the case. As I understand it, the GAO inquiry is going on right
+now.
+
+I have some additional] questions that I hope you can answer. For example, in
+the Moore-Berlitz book, The Roswell Incident, you are quoted on page 34 as
+saying:
+
+I was told that the major from Roswell had identified the stuff as a
+flying saucer but that the general had been Suspicious of this identifi-
+cation from the beginning and that's why I had been called.
+
+QUESTION 1: Is this quote accurate?
+
+QUESTION 2: If the quote is accurate, was the major none other than Major
+Jesse Marcel?
+
+QUESTION 3: Would it be accurate to say that Major Marcel was responsible for
+the identification of the debris as the remains of a flying saucer?
+
+On page 34 of the same book, Berlitz and Moore relate the following exchange
+with you:
+
+Question: But wouldn't the people at Roswell have been able to
+identify a balloon on their own?
+
+They certainly should have. It was a regular Rawin sonde. They
+must have seen hundreds of them.

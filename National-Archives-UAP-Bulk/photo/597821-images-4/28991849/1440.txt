@@ -1,0 +1,42 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T21:45:19Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7211517, "source_ctime_ns": 1793385108423339996, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28991849/1440.jpg", "source_mtime_ns": 1785748471000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28991849/1440.jpg", "source_sha256": "49a717fa0e68aed7d85bf876f3343dae45d960c03603b92f91eebfe99d8cb515"}
+
+===== PAGE 1 =====
+{"alpha_words": 172, "chars": 1115, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+oa DEPARTMENT OF THE AiR FORCE
+AF IN : "46628 ( 14 Mar 61). wipe fF ESAS DIVISION
+
+ISSSAGE
+
+NNNN | INCOMi ac.
+
+ACTION: CIN-14
+INFO : 00P-2 ~CP- " : N vi
+Mp pag? OOP-CP-1, DSD-4, SAFS 3. (25) : AN | |
+
+JC673
+PP RJEZHO
+DE. RJESKB 52
+ZNR
+P 142130Z
+-FM 32AIRDIV DOBBINS AFB GA
+TO RJWFAL/ADC ENT AFB COLO
+RJEDSQ/ATIC WPAFB OHIO
+RJEZHO/H@ USAF WASH DC
+RJEZHQ/OSAF WASH DC
+RJEDSQ/COSMATIC WPAFB OHIO
+'- RJEZDK/PROJECT SPACE TRACK LG HANSCOM FLD BEDFORD MASS
+BT be
+UNCLAS 320IN 2791. H@ USAF FOR AFCIN AND AFCIN-1B13; OSAF
+FOR SAFIS, COSMATIC FOR AFCIN-4A. SUBJ (U) MOON DUST. PAR 15, AFR
+200-2: A, (1) DARK OBJECTs (2) NO ESTIMATE$ (3) NONE$ (4) ONE$ (5)
+N/A ¢6) NONE; (7) ORANGE TAIL, SIZE AND SHAPE OF F-86 OR F-94 AND
+ABOUT 15 FEET IN LENGTH; (8) NONEs (9) NONE; B.(1) JUST MAPPENED To
+BE LOOKING WHERE IT was SEEN; (2) OBSERVER IN ACFT HDG Gs ah etx EIGHT
+DEG. OBJECT wAS rote rn FIVE DEG FWD OF RIGHT WING: (3). FOOR FIVE DEG
+REAR OF RIGHT WING. ALTITUDE OF OBJECT APPROX 60,000 FT; (4)
+
+STRAIGHT NORTH WEST TO NORTH EAST; (5) JUST FADED AWAY. SPEED
+
+al
+
+ESTIMATE 5008 MPHs (6) FIVE MIN. C,¢1) AIR VISUAL$ (2) NONE$

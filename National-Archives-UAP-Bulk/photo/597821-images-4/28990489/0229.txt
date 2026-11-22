@@ -1,0 +1,24 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T21:46:20Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7345400, "source_ctime_ns": 1793384511055868516, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28990489/0229.jpg", "source_mtime_ns": 1785748394000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28990489/0229.jpg", "source_sha256": "94d3208d6b09a81f624980ec24cb8334d4109878779ce583a6cc9465d19fc897"}
+
+===== PAGE 1 =====
+{"alpha_words": 82, "chars": 577, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+26 293 DEGREES /25K 313 DEGREES/36K 313 DEGREES/33K 394 DEGREES /95K
+
+399 DEGREES/170K 303 DEGREES/6GK 298 DEGREES/29K.
+3, CLEAR
+4, 29 MILES PLUS
+5, NONE
+6, NONE
+7 TEMPERATURE 12 DEWPOINT 4
+K NONE
+i NONE
+J NOT KNOWN
+K MAJ EDWARD BORRESEN PILOT OF AN OLMSTED AFB AIRCRAFT WAS JUST
+WEST OF PATTERSON AFB OHIO LOOKING EAST WHEN HE SAW A METEOR AT
+0427. HE HAD NO DOUBTS THAT THE OBJECT HE SAW WAS A
+METEOR, MR oS BELIEF THAT OBJECT FELL BEHIND BUILDINGS AT
+MARIETTA COULD BE EXPLAINED AS AN ILLUSION. IT IS OUR
+OPINION THAT THE OBJECT WAS A METEOR.
+L NONE
+BT
+14/2923Z DEC RJEZKO

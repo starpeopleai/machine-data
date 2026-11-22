@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T21:52:53Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8960740, "source_ctime_ns": 1793383630799867992, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28987471/1108.jpg", "source_mtime_ns": 1785747886000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28987471/1108.jpg", "source_sha256": "f16c2013e0cd94c7936a4c7137e49301b0675e7452284017643e93c5c0fb9223"}
+
+===== PAGE 1 =====
+{"alpha_words": 124, "chars": 978, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ECT 10073 RECORD CARD. -
+
+1. DATE 2. LOCATION ; 12, CONCLUSIONS
+29 June, 1960 Denver, C O Was Balloon
+? » 1 Preteen O Probably Balloon
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION O Possibly Balloon |
+: QO Wos Aircraft
+Local 55 /0s012 BXGround- Vi sual © Ground-Rader QO Probebly Aircraft
+GMT 7 O Air Visual : D Air-Intercept Radar | 9 Possibly Aircraft
+“S. PHOTOS 6. SOURCE — GX Was Astronomical Meteor
+QO Yes QO Probably Astronomical
+¥Xne Civilian 0 Possibly Astronomical
+7. LENGTH OF OBSERVATION 6. NUMBER OF OBJECTS | 9. COURSE O Other
+' 0 Insufficient Dota for Evaluation
+10 seconds ™
+
+seven NW-SE isiinsty
+
+10, BRIEF SUMMARY OF SIGHTING 11. COMMENTS
+
+Seven small objects were viewed, bluish colop
+In sight for 10 seconds and travelling from
+NW to SE ina straight line.Disapveared over
+the horizon. Did not change position,
+
+» Probable meteor shower, A Bolide
+which explodes early in flight is
+known to give appearance of objects
+in formation,
+
+ATIC FORM 329 (REV 26 SEP 52)

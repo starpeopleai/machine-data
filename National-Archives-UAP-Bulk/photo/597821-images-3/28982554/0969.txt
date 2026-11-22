@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T21:39:20Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5509448, "source_ctime_ns": 1793382057177219676, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28982554/0969.jpg", "source_mtime_ns": 1785700990000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28982554/0969.jpg", "source_sha256": "0981959ad5e2b92318dd25fb6622170d7a3ce1ee0fbebfc2cd8f9d0bac9bb0cb"}
+
+===== PAGE 1 =====
+{"alpha_words": 147, "chars": 973, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+RD1ISS
+
+OMVXCZCSQB266ZCWYAO7S —
+
+MM RJEDSQ
+
+DE RJYFHWS 7
+
+M 2597002
+
+FM COMDR 744 ACWRON LACKLAND AFB TEX
+TO RUWFHW/COMDR 33 ADIV OKCTY AF STA OKLA ~~”
+
+INFO RJWFAL/COMDR ADC ENT AF3 COLO SPRINGS COLO
+RJEDSQ/COMDR AIR TECHNICAL CENTER WPAFB OHIO
+RJEZHQ/DIR OF INTELL HQ USAF WASH 25 DC
+
+‘.
+
+BT
+
+UNCLAS FROM DO 742-5-189. SUBJECT: UFOB REPORT. ITEM ONE (A) CONE
+SHAPE (8) GRAPEFRUIT (C) BLUEISH WHITE ¢€D) ONE (E) OBJECT HAD A
+TAIL AND THERE WAS A SOUND BUT OBSERVER COULD NOT SAY FOR SURE IF
+if CAME FROM CSJECTe ITEM TWO (A) OBSERVER NOTICED SOMETHING MOVING
+AT THE SKY WHICH SEEMED UNUSUAL. (8) AT FIRST SIGHTING OBJECT WAS
+AT A 45 DEGREE ANGLE (C) OBJECT WAS TRACKING SOUTHEAAST AT A HIGH
+SPEZLD, STOP AND CONTINUE AGAIN. THIS GAVE IT A ROCKING EFFECT. ITEM | |
+THREE CA) OBSERVATION OF THE OBJECT WAS GROUND VISIUAL WITHOUT HELP |
+OF ANY TYPE OPTICAL AIDS » ITEM FOUR (A) 952332 24 MAR 39 (5) LIGHT
+CONDITION WAS A NIGHT AT 210 CST» ITEM FIVE €A) LOCATION OF OBSERVER

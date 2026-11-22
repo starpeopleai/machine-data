@@ -1,0 +1,45 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T21:50:23Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8415317, "source_ctime_ns": 1793385922559216921, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28994408/0821.jpg", "source_mtime_ns": 1785748332000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28994408/0821.jpg", "source_sha256": "2e44a5ed87822bab588e452cd78e57750433e9760c9502c15e14f1fdaaef53f2"}
+
+===== PAGE 1 =====
+{"alpha_words": 142, "chars": 1195, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+n ASOT REPRO Rese, Pia TURES LAr grt
+
+DEPARTMENT OF THE AIR FORCE
+
+| | RES ( STAFF MESSAGE BRANCH ( |
+AF IN ; 45000, . wep 61 ) | UNCLASSIFIED MESSAGE Page 2 of 3
+PAGE TWO RJWZSBA 6 INCOMING
+
+OF AIRCRAFT. SECOND OBJECT:S15 DEGREES ELEVATION,
+
+05 DEGREES FROM THE NOSE OF THE AIRCRAFT. 4. FIRST OBECT
+WAS IN A CLIMB ON A HEADING OF 300 DEGREES MAG. SECOND
+OBJECT WAS ON A 120 DEGREE HEADING BUT APPEARED TO BE
+
+| COMING ALMOST STRAIGHT DOWN OBJECT DISAPPEARED BELOW THE
+
+| AIRCRAFT. 5. FIRST OBJECT FADED, SECOND “OBJECT DISAPPEARED
+
+| BENEATH THE AIRCRAFT. 6. FIRST OBJECT: 2 SECONDS SECOND
+OBJECT: 3 SECONDS.
+
+C 1. AIR VISUAL 2. NONE 3, RC-121, ETHAN 30, 10,900 FT.,
+
+| HEADING FIRST SIGHTING 229 DEGRESS TRUE; SECOND SIGHTING
+
+| 227 DEGREES TRUE, 190K, MCCLELLAN AFB CALIF
+
+D1. FIRST SIGHTING @40539Z, SECOND SIGHTING 2496552,
+
+| 2. NIGHT.
+
+| E, FIRST SIGHTING 3648N-12418W SECOND SIGHTING 3449N-12438W
+| F 20 DONALD Co NEGANDANK, CAPT., USAF, 6@122A, 965 AEW &
+
+| CON SQDN, ACFR COMDR: ROBERT W. GREER, 1LT, A93093811,
+
+965 AEW & CON SQDN, PILOT. BOTH OFFICERS ARE CONSIDERED
+RELIABLE.
+
+Go 1» CLEAR 2. SURFACE 062/03, 6,000 FT 949/05 |
+16,008 FT 340/15, 20,000 FT 340/20, 30,000 FT 330/30,D

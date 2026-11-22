@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T22:18:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 882816, "source_ctime_ns": 1793356079873632821, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989301-001-0208.jpg", "source_mtime_ns": 1785564601000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989301-001-0208.jpg", "source_sha256": "08aa55d89c9e18f46209a8fb84e9a6daf33e0b9b9d5b68256af6f40dda50ad42"}
+
+===== PAGE 1 =====
+{"alpha_words": 40, "chars": 267, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Nyvton Line
+
+SQN Burret
+
+SERRE LL)
+
+= —- <s KY NV
+eee
+
+i
+
+To BaroswitcH Cikcuit
+
+NOTES
+
+[|
+UMMM,
+
+FoR CANNON DeTtaits SEE ED4B-II7A
+
+Use KNoTS ABOVE AND
+BELOW CANNON
+Seuie- Dupont S-64
+
+t
+t
+
+: ASSEMBLY Or Linn
+
+Soo Ter CANNON
+
+SUN ae “LHM
+
+bare: Q2~+1-49 HED 49- 5A.

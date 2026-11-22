@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T21:42:19Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6316314, "source_ctime_ns": 1793370238692064271, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28934135/0024.jpg", "source_mtime_ns": 1785688991000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28934135/0024.jpg", "source_sha256": "f430130f6e08a15ef4899c0a4aad06c0f9f235a6cf81f22c547c9a1ad8477bbb"}
+
+===== PAGE 1 =====
+{"alpha_words": 68, "chars": 434, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+CONTROL NO} SUBJECT: LEE DECIMAL FILE NO. =| FOLLOW UP ON
+
+Unidentitréd Flying Objects /
+7th Bombardment Wing Taxag>AT©> 5/26/49
+
+TixXs No. INCLS.
+
+RECORDING DATE
+
+ALT= RECORDED: 5/31/49 Hour ¥9CO
+
+DESK
+
+ROUTED TO ! SUSPENSE DATE ESTABLISHED BY (INITIALS) DATE
+
+Deg tee pare Rey
+
+De ah) 4 she oo) sh dy diet
+
+CRE Bee ee Eee
+bis
+ws
+
+DATE OF REPLY OTHER DISPOSITION: TRANSMITTAL
+AMG FORM MO. 10-2
+29 NOV a7?
+SEE OTHER SIDE
+FOR REMARKS

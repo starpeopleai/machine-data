@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T21:52:37Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8897035, "source_ctime_ns": 1793383640048095716, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28987493/1127.jpg", "source_mtime_ns": 1785748028000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28987493/1127.jpg", "source_sha256": "83be1401d693a15bdc291beee9cb403acf7cc99716efe35aca23acd405c95110"}
+
+===== PAGE 1 =====
+{"alpha_words": 154, "chars": 1127, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ual -
+
+-  . See PROJECT 10073 RECORD CARD one ag |
+
+1. DATE 2. LOCATION 12, CONCLUSIONS
+D Wes Balloon
+29 June, 1960 MEW eGR, SRLS O Probobly Balloon
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION dudalen gga
+, O Was Aircraft
+Lecal XX Ground: Vi suel O Ground-Redor o Probobly Dicer
+out ___30/ 04,00 0 Air Vi sual D Air-intercept Rader |2 Possibly Aircraft
+S. PHOTOS o. SOURCE AX Was Astronomical Jupiter
+QO Yes O Probably Astronomical
+# Civilian 0 Possibly Astronomical
+7. LENGTH OF OBSERVATION 8. NUMBER OF OBJECTS | 9. COURSE 5 it : a. ha
+Very slowly A nsutficient Data for Evaluation
+Unknown
+1 1/2 hours One to West j
+10. BRIEF SUMMARY OF SIGHTING 1. COMMENTS
+| Very bright object color white, then green ard The object res onsible for this Sightin
+then red and rust. One side had finger-like is the planet Jupiter. naze layer was
+projections. Larger than stars and ocassionallly probably responsible for the flickering
+faded and reappeared, and changes in color. Jupiter was in the
+location described by the witness, and
+checks on subsequent nights indicated
+that Jupiter was the probable cause,
+
+ATIC FORM 329 (REV 26 SEP 52)

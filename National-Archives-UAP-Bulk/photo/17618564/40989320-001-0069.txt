@@ -1,0 +1,23 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T22:15:47Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 573632, "source_ctime_ns": 1793356375005168526, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989320-001-0069.jpg", "source_mtime_ns": 1785564690000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989320-001-0069.jpg", "source_sha256": "85ec235cd5766632a827cbf1cb57286dd5a13f26a5321ad050f30b9f7973c9cf"}
+
+===== PAGE 1 =====
+{"alpha_words": 33, "chars": 255, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+7
+
+STATION BIRCH
+14 Feb. 1948
+Microphone #1
+15b 45m 47.28 Z FIGURE WM
+
+APPENDIX D
+
+ppt p ppp pp pg fp pp et yy | |
+
+STATION BIRCH
+
+14 Feb. ee
+Microphone #2
+15h 46m 25.688 3 FIGURE Ix
+ay 7-5-3 - APPENDIX OD
+
+This document is part of an unclassified series

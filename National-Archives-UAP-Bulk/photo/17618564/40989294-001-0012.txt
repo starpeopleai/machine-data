@@ -1,0 +1,46 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T22:25:14Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1360243, "source_ctime_ns": 1793355959476080044, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989294-001-0012.jpg", "source_mtime_ns": 1785564569000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989294-001-0012.jpg", "source_sha256": "34e712f6fa53ab8261c1564415387d0080e78509128a92f525f48b5c87b03488"}
+
+===== PAGE 1 =====
+{"alpha_words": 258, "chars": 1783, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Task 78504, Tolerance to Total Pressure Change,
+which was still largely inactive, pending com-
+pletion of specialized test equipment;
+
+Task 78505, Tolerance to Ram Pressure and Thermal
+Effects, representing an extension of Colonel
+Stapp’s windblast studies; and
+
+Task 78506, Patterns of Deceleration in Space
+
+Flight, which was studying the use of water for
+
+attenuation of g~forces,.
+
+The redrawn project plan indicated that escape system
+testing and the testing of personal equipment for "biological
+adequacy" were new objectives for Task 78503; but they were
+not really new activities under the task program. They
+merely received special mention as a result of the project
+reorientation.» A statement that Project 7850 would support
+the National Aeronautics and Space Administration (NASA)
+was also new-~because NASA itself was new. Another change
+was the deletion of "Space" from the project title, which
+now became simply Biodynamics of Flight. This reflected the
+fickleness of Air Force fashions with regard to the use of
+"Space" in project titles but had no far-reaching signifi-
+cance.
+
+In 1959 another revision was made, in which Task 78503
+became Human Tolerance to Escape Force Parameters. This
+occurred after Headquarters Air Research and Development
+
+Command halted the Aeromedical Field Laboratory's high-speed
+
+* Although methods have varied in the past, current
+practice is to document all tests related to, say, a new
+seat or harness configuration for a particular aircraft
+under the respective weapon system or other program. Such
+tests would be cross-documented, however, under Project 7850.
+A comparable procedure is followed in the case of tests per=
+formed on behalf of different agencies but related to the
+other projects of the Aeromedical Field Laboratory.

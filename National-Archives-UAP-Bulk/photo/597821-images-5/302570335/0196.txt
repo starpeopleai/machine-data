@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T22:16:02Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 693989, "source_ctime_ns": 1793392744436847610, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302570335/0196.jp2", "source_mtime_ns": 1785808145000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302570335/0196.jp2", "source_sha256": "3021aff3105c719ee8785a8f16f04b5e3ccf4bd9c040bd8d56b80e3b4715fbcc"}
+
+===== PAGE 1 =====
+{"alpha_words": 91, "chars": 626, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+oe DEPARTMENT OF THE AIR FORCE
+HEADQUARTERS 463TH BOMSARDMENT WING (SAC)
+
+SEYMOUR JOHNSON AIR FORCE BASE, NORTH CAROLINA 27530
+
+REE EY TO
+ATTN OF:
+
+DCO 30 November 1967
+susject: UFO Observation, 27 September 1967 (Your ltr, 27 Nov 1967)
+To: Hq Foreign Technology Division (TDPT/UFO)
+Wright-Patterson AFB, Ohio 45433
+This unit flew a large scale mission on the night of 26-27 September
+1967, All tankers were on the ground at least three hours prior to
+0900Z, and the bombers were not in subject area.
+FOR THE COMMANDER
+
+CN F. B “NuDINe. a dbionel, USAF
+
+Asst Deputy Comm r,-for Operations
+Noe
+Peace.... is our Profession
+
+AN,

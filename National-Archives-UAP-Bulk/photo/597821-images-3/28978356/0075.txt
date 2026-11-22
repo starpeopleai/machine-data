@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T21:44:31Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7018356, "source_ctime_ns": 1793380776036797333, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28978356/0075.jpg", "source_mtime_ns": 1785700677000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28978356/0075.jpg", "source_sha256": "890e19d4b48e8d03f2f14b328acfcf55a4c642fced137d5b96fe498256404779"}
+
+===== PAGE 1 =====
+{"alpha_words": 90, "chars": 760, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+’
+
+1. DATE 2 LOCATION 12, CONCLUSIONS
+. a O Was Balloon
+29 May 58 N of Puerto Rico G Probably Balloon
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION ek eat a decent
+Local + Ground-Vi sual © Ground-Radar 5 Probably Aireratt
+GM T___.29./07359Z. X@ Air Visual O Air-Intercept Radar | Possibly Aircraft
+5. PHOTOS 6. SOURCE XPQX Was Astronomical Metoor
+O Yes OQ Probably Astronomical
+MEXNe Civilian Pilots O Possibly Astronomical
+7, LENGTH OF OBSERVATION 8. NUMBER OF OBJECTS | 9. COURSE O Other
+QO Insufficient Date for Evaluation
++ ; Q Unknown
+1; to w_ 8econds one ESE
+
+110. BRIEF SUMMARY OF SIGHTING
+
+Yellow trail of light, appeared as
+meteoric, descending very rapidly ESE.
+
+11. COMMENTS.
+
+Probably meteor.
+
+ATIC FORM 329 (REV 26 SEP $2)
