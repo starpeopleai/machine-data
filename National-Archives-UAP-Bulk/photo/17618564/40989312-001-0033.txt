@@ -1,0 +1,49 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T21:20:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1634418, "source_ctime_ns": 1793356277991624776, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989312-001-0033.jpg", "source_mtime_ns": 1785564658000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989312-001-0033.jpg", "source_sha256": "b89604f1f5a1a11755fe7bfac535a0bcedc2d204832940a122f80aa5955ae802"}
+
+===== PAGE 1 =====
+{"alpha_words": 532, "chars": 3041, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+who heard the whole story, why I was subjected to this. Chiang ordered General Albert
+Wedemeyer to get me down to Chunking, and I went through the formality of a court
+martial, because I was up in North China “illegally. I hadn’t told Chiang I was there. Of
+course, to tell Chiang would have been to endanger the operations. It was a curious kind
+of mixed-up business. I had no problem with General Wedemeyer or his staff. They
+wanted to fight the war too, and in fact they were busy doing it, but they understood the
+political nature of the problem.
+
+“They ordered me to Chunking , and I flew down at my leisure, because they had no
+planes to go up there. My plane had to bring me down, and I made sure I arrived exactly
+at the time that Colonel Ellsworth, head of our outfit, arrived in Chunking. I wasn’t
+going to be there as a lonely civilian in uniform. Everything turned out all right. I
+explained to Wedemeyer’s G-2 what we were doing, and what stations we had up there.
+They had never been informed about any of this. We had kept it apart from them, since it
+wasn’t any of their business. Our job was getting the information to India and down to
+Guam, a cross-theatres operation. Once Wedemeyer’s staff saw what we were doing,
+they got a "hoo chow“—a sort of passport—from Chiang. I already had a hoo chow from
+Mao. These hoo chows went into my boots. I wore Mao’s in the left foot and Chiang’s
+in the right, and had to guess which one to produce at the right time. I could legitimately
+go back to Yenan so this was all formality, because in actuality I remained on Dai Lee’s
+hit list until I left China. The whole episode served as another example of the curious
+events that happened to many people in that mixed-up war.
+
+Margin quote:
+
+“Having Chiang’ s passport in my right boot and Mao's in the left boot, when I was
+confronted by a Chinese, I had to decide whether he was a Chiang guy or a Mao guy. I
+had been tipped off by our intelligence guys to ask them an embarrassing question. So I
+asked if it would be all right to ask them how Madame Chiang got syphilis. He said
+“perfect.” The Mao guy would laugh like hell, and the Chiang guy will shoot you dead.
+
+Later, I asked Dean Atcheson how Madame Chiang got syphilis and being diplomatic as
+ever, he said, ‘Well, not from me!’"
+
+“There was no question that Mao was a communist, in the sense that he felt they had to
+have some kind of communal government if he was going to rule China——he was
+amazing. We would eat fresh tomatoes and fresh lettuce in Yenan, whereas in Kunming
+we’d get amoebic dysentery immediately. We were safe in Yenan simply because Mao
+enforced elementary public health rules. When a farmer picked vegetables in Yenan, he
+had to blanche them in boiling water. The seller in the town at the stall where we bought
+the vegetables had to blanche them again, and it was recommended we blanche them or
+boil them when we got them home. It was the simplest darned public health measure in
+the world, and it worked. That was characteristic of Mao’s thinking.
+
+Eo

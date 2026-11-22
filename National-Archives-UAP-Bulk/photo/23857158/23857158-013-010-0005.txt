@@ -1,0 +1,69 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T20:34:28Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4646272, "source_ctime_ns": 1793360156916079887, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-013-010-0005.tif", "source_mtime_ns": 1785681645000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-013-010-0005.tif", "source_sha256": "22b83b8f552eefbb00b9da02431debf8ac068a6bcfe7b837d86a2839fada2022"}
+
+===== PAGE 1 =====
+{"alpha_words": 446, "chars": 2748, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Declassification Authority NND 923007
+
+UFO OBSERVERS INSTRUCTION SHEET
+(Sky Diagram)
+
+lL.» GENERAL:
+
+a. The diagram represents all of the sky normally visible to the observer,
+who is pictured standing under the center of the "dome" of ths sky. It is designed
+to show a three-dimensional view of the area centered around tha observer at the
+time of the UFC sightings
+
+be The position of any object in the sky can be described by giving its
+elevation, or angle upward from the horizon, and its bearing or angle along the
+horizon, eastward from norths
+
+(1) Illustrations:
+
+(a) Elevation is 0 degrees for an object on the horizon, and 90
+degrees for the point directly over the observer (zenith). Thus,
+an object half-way up from the horizon to the zenith has an
+elevation of 45 degreese
+
+(>) Bearing (or "azimuth") is the angle along the horizon, starting
+from north and moving clockwise eastwarde Thus, an object
+directly toward the east, no matter what its elevation is above
+the horizon, has a bearing of 90 degrees, an object in the south
+has a bearing of 180 degrees; toward the west, 270 degrees and
+so one North is, of course, zeroes
+
+EXAMPLE: An object is seen in the northeast and one-third way
+
+up from horizon to overhead. Thus, the object has a bearing of
+45 degrees, and elevation of 30 degrees. Similarly, an object
+
+heving a bearing of 180 degrees and an elevation of 60 degrees
+
+would be seen directly south and two-thirds of the way up from
+
+the horizon.
+
+2. PLOTTING THE COURSE OF AN OBJECT ON THE SKY DIAGRAM:
+
+ae The path of an object across the sky can be shown completely on this
+diagrem simply by connecting with a curved or straight lines the various positions
+the object successively occupies {see example sheet). To aid visualization, the
+path on the western side of the sky is represented by broken lines; the eastern side
+in solid lines. Direction of the object is indicated by arrows. The duration of
+the sighting can be.shown by indicating the time at the position, where the object
+was first and last observed. Where possible, the time at various intermediate
+positions occupied by the object should also be shown,
+
+be The diagrem can be made a more effective investigative and analytical tool
+by making the lines (showing the path of the object) thicker or thinner to indicate
+any varying brightness of the object obServede This is especially valuable when
+the object appeared only as a moving light at night. Thus, if a light becomes
+brighter and then gradually fades, it can be represented by a line becoming increas-
+ingly thicker and then gradually thinning out to nothing.
+
+ce. Use of colored pencils is especially recommended if the object changes color
+
+or hue during the sighting.
+
+ATIC FORM 16ha
+(25 July 56)

@@ -1,0 +1,54 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T21:21:45Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1703676, "source_ctime_ns": 1793389078947753261, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302536125/01385.jp2", "source_mtime_ns": 1785808050000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302536125/01385.jp2", "source_sha256": "64285e22e5e17f2137557eda9c1fe22796b96e5f277563ca310d288826b6da6d"}
+
+===== PAGE 1 =====
+{"alpha_words": 127, "chars": 802, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+INCOMING DEPARTMENT OF THE AIR FORCE
+
+MiESSAGE ___STAFF_MESSAGE BRANCH UNCLASSIFIED
+AF IN : 15914 (4 Nov 64) T/ab Page 1 of 4
+ACTION: NIN-7
+
+INFO : XOP-1, XOPX-7, SAF-OS-3, DIA-15 (34)
+SMB AGS :
+aEs97zc qN0859
+
+“GRR RUEAHQ «
+
+KE
+we a
+
+“5/DE RUWHKP Wiitcs
+OZNR
+_R 9321252
+
+FM POADS ADAIR AFS ORE
+
+ADC ENT AFB COLO
+
+R UWHBH/ 25TH AIR DIV MCCHORD AFB WASH
+
+-RUCDS@/AIR TECH INTEL CENTER WPAFB OHIO
+
+s R UEAHQ/HQ USAF WASH DC
+
+-RUEAHQ/ SECRETARY OF THE AIR FORCE WASH DC
+BT
+
+UNCLAS POMC-I 90547.HF R AFCIN - HQ USAF; SAF OI - SECRETARY
+‘OF THE AIR FORCE. UF OB REPORT. THE FOLLOWING UF OB REPORT IS
+
+_ SUBMITTED. PART ONE
+| PART 8 ”
+1. SHAPED LIKE A SAUCER.
+2. UNREPORTED.
+
+-
+~
+Po
+
+Se OBJECT REFLECTED MEDIUM GLOW, NO COLOR REPORTED.
+4. ONE
+De N/A
+GS. N/A
+
+ote eee ee ee oe ae ete meme ees +e eee ae e8 =

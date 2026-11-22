@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T20:57:05Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10160261, "source_ctime_ns": 1793362357039538345, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330782695/45484701-002-005-0088.jpg", "source_mtime_ns": 1785684773000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330782695/45484701-002-005-0088.jpg", "source_sha256": "4fe0c4557971c1ccbf1ae0c726bfd69585ae101dc874c477814c9abe1117c3fd"}
+
+===== PAGE 1 =====
+{"alpha_words": 49, "chars": 280, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+rye AN, Witinbidcadss
+
+Ciniditeenes cc ee
+
+ale ete hos
+
+sit " Celi et ates spa :
+
+PLA amie aD tet ety a
+RAS: ahah orpeE nai
+iene aed te en
+eaten MN tg ——
+ins I pr . on
+T= eter pes sae
+wren fe
+Obes Paenigh ty
+
+YB eysanconty asi
+3 v Meee. sa
+
+Declassification Authority: NND 923007

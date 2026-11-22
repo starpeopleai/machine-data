@@ -1,0 +1,42 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T21:19:29Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1340313, "source_ctime_ns": 1793355911089007329, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989288-001-0020.jpg", "source_mtime_ns": 1785564556000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989288-001-0020.jpg", "source_sha256": "ac895a89680e0c1ebf378dfefbcceb47650af6bfd7d1804fabf8aefd6a1abc9f"}
+
+===== PAGE 1 =====
+{"alpha_words": 185, "chars": 1279, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+17
+
+~ rem a ce
+
+The program was not really intensified until after the as-
+signment of Captain Grover J. D. Schock as task scientist on 1
+‘July 1955. Captain Schock--whose contributions ‘3 subgravity
+research later qualified him as the first known scientist to
+receive a Doctor of Philosophy dugree in space physiology-- —
+initiated subgravity flights in aa F-94C aircrah in the fall of
+1955, using himself as one of the various test subjects. The
+
+F-94C becamethe standard testvehicle for subgravity research,
+
+ee
+
+and Task 78501 remained the primary duty of Captain Schock
+
+until the beginning of 1958, when Dr. Von Beckh took over as
+a i ; task scientist. Captain Scheck then branched out into other lines
+ui! of activity for the Aeromedical Field Laboratory, but without
+abandoning his previous interest and participation in the sub- _
+gravity program. Moreover, he kept one special foothold -as
+task scientist for Task 78530, Psychophysiology of Weightless-
+
+ness. This waa a taskof the recently-established Project 7357,
+
+re
+
+Research in Space Bio-Sciences. It is not concerned with the
+
+rc
+
+aircraft subgravity flights at Holloman, but with certain rs-
+
+search ty be done by outside investigators on a contract basis
+
+as well as a limited amount of "in-house" effort. uy

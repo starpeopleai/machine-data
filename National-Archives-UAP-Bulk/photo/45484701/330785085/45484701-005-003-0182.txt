@@ -1,0 +1,60 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T20:56:02Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9652273, "source_ctime_ns": 1793363399288017113, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785085/45484701-005-003-0182.jpg", "source_mtime_ns": 1785684920000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785085/45484701-005-003-0182.jpg", "source_sha256": "b673d6c093b4dafb611270cfac37188c00b48c66f8c6e94522518d378aa4fc26"}
+
+===== PAGE 1 =====
+{"alpha_words": 375, "chars": 2602, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+CLASSIFICATION CANCELLED © 8S°8Ou 23
+BY AUTHORITY OF THE DIRECTUK OF SP
+
+BY Hho th siya tte
+
+OFFIce or ese onan
+
+ve Aw Lhe 2 Bais eae ye
+WASHINGTON 25, D.C.
+& tereh 1950
+MEMOR ARDU
+
+GCMBJECTs Radar Squipment in Knoxville, Tennessee Inilecates
+Unidentified “bjects in Vicinity of Oak Ridge,
+
+The following information was received from CG, 3d Army, Fort ePherson,
+Georgia, and from O5I District Commander, Maxwell AFi: Ur, 5. EB. Adcock,
+Chief of “ngineers of radar station neor Knoxville operated by Radio Station
+ROL, reported to Ur. 4, F, DAVIS, Chief of the ASC Security Division at Oak
+Kidge, Tennessee, that he cited through Radar Set AMI~7 between 2155 and
+2350 hours, 1 Mar 50, an unidentified cbject, altitude 40,000 feet, bearing
+approximately 332° to 340° from Knoxville, distance 18 miles. The radar set
+operated on 19,00) megacyele frequency. Speed or direction af object
+unietermined.
+
+AEC Security Division Chief at Oak Ridge, checked with Sayrna AFR,
+sashvilie, which reported that there were no flight plans that would
+indieate a plane being in that vicinity and altitude. 3d Army checked with
+ith AF with negative results.
+
+On 2 Mar 50 one report indicated the station had picked up an object
+in approximately the same location at 1105 hours. Another report indicated
+that at 2600 hours, same date two unidentified objects appeared reportedly
+at an altitude of 86,000 feet, bearing 310° from Knoxville. There was no
+speed ox direction indicated, Me flight plans were reported.
+
+A& 1035 hows, 3 Sar 50, a report was again received from the same
+source indicating one unidentified object altitude 40,000 feet, 320° fron
+Knoxville, same frequency, approximate speed 200 miles per hour. iio
+direction but determined approximately the wise of Cei,7 Aireraft.
+
+iG Security Division Chief is act cortein ae to operation efficiency
+of recar unit and has requested Guyrna AF Base to send qualified radar
+eperater. “myrna bas ne person so qualified but C.0. suggested 3d Army send
+qualified radar operator to check the equipment. Solonel GASSER, AP liaison
+to REPA base requested Uright-Fattarson AD to send adequate radar set to
+Knomville. Indications received that ‘right-Patterson APS will act send radar
+sets if they can be supplied from local scurees. 34 amy reports ao qualified
+radar operatora.
+
+GS. B, ADCOCK, Chief of Sngineers, Radar, Station jo), Snoxville,
+whe made the sightings described above has a local reputation in Kacaville of
+being highly depeniable, He was an engineer in radar experissntation work
+prior te and during Horld “a@ II.
+
+Declassification Authority: NND 923007

@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T20:46:56Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6768051, "source_ctime_ns": 1793383779668482209, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28987850/0006.jpg", "source_mtime_ns": 1785748424000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28987850/0006.jpg", "source_sha256": "21f2dfcd711ce19d895f334af4b6b5322345707e0b2f8b62e5e06c2862cc6bab"}
+
+===== PAGE 1 =====
+{"alpha_words": 106, "chars": 824, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+-
+
+a Major MULTIPLE PROJECT 10073 RECORD CARD
+A So 2. LOCATION 12. CONCLUSIONS
+
+18 Jui 60 Verona aly © Wes Belloen
+Bows QO Prebably Balloon
+3. OATE-TIME GROUP 4 TYPE OF OBSERVATION O Possibly Belloon
+O Wes Aircraft
+Locel  Ground- Vi suc! O Ground-Roder a Probobl y Abrerdtt
+omt__28/19302 O Air Vi sual O Alrtntoreept Reder |2 Possibly Airereft
+5. PHOTOS y 6. of Toe, Speperten ,
+O Yes Probably Astronomical Meteor
+WO Ne Civilian O Pessibly Astronomic
+| 7. LENGTH OF OBSERVATION 6. NUMBER OF OBJECTS | 9 COURSE O Other :
+7 O Insufficient Dota fer Eveluction
+8 sec one S-N O Unknown
+10, BRIEF SUMMARY OF SIGHTING 11. COMMENTS
+
+Fleming object, voright white with bluish tail | Sighting by many observers. Probably
+8 times as long as main object. Tail had blend meteor.
+of orange and red. Trever
+
+ATIC FORM 329 (REV 26 SEP $2)

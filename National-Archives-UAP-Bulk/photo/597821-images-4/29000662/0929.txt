@@ -1,0 +1,60 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T20:33:21Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4263548, "source_ctime_ns": 1793388270923562702, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/29000662/0929.jpg", "source_mtime_ns": 1785748020000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/29000662/0929.jpg", "source_sha256": "befc727e64c9d4be3b2fbf6e59b6200d8fbe4b1defb5d56e1035cdfb3bc75ced"}
+
+===== PAGE 1 =====
+{"alpha_words": 93, "chars": 694, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+CPATIAG?T OF TPH AR POR
+
+43717 (21 Apr 63) w/c bp C0 a I ag
+
+INFO : NIN-9, XOP-1l, XOPX-4, .SAF=08-3, ARMY-2, CMC-8, JCS-35, OSD-15,
+CIA-11, NSA-7, DIA-20, DIA-CIIC-2 (118)
+
+SMB A 256
+
+AF IN
+
+2.
+
+ZCHQE92 7ZCECB19 1 O|
+PP RUEAHQ
+
+DE RUHPF 8252
+ZNR
+
+P 211645Z
+
+FM COMBAR PAC
+
+TO RUKACR/C OMAL SEAFRON
+
+R YKACR/COMALAIRCOM
+
+R YHLKM/C INCPACAF
+ZEN/C INCNOR AD
+
+INFO RUYECW/C NO
+RUEAHQ/C OFS USAF
+RUHPA/C INCPAC
+RYHPB/C INCPACFLT
+
+R UH AF S/C INCUSAR PAC
+RUKLKMP/PACAFBASECOM HICKAN
+RUACW/ SECNAV
+
+R UHPHH/C OM HAN SEAFRON
+RUAUSAH/HADD KUNIA
+NAVY GRNC
+
+BT
+
+UNCLAS.
+
+CIRVIS EVALUATION
+
+Ae MY 211411Y
+
+1. EVALUATION UNKNWN.
+
+NOTE: Adv copy to XOPX, NIN, DIA.
+
+ST 211411Z is AF IN 43591 (21. anrAé2)\

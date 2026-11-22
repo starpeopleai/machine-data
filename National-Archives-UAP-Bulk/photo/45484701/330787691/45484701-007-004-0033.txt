@@ -1,0 +1,49 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T20:55:16Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9506265, "source_ctime_ns": 1793364746868688113, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787691/45484701-007-004-0033.jpg", "source_mtime_ns": 1785684925000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787691/45484701-007-004-0033.jpg", "source_sha256": "9bc86ce3921b1d78353b481da7469a484d383d1d8bda6635b1260a6d862acaaa"}
+
+===== PAGE 1 =====
+{"alpha_words": 361, "chars": 2304, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+1. Thies invectigation is predieted upon receipt of « letter from
+tno Sam Pranciece Field Office of the FRI, whieh contained the informticn
+tint TRE) METZ of Irvington, Galifornia sighted an wiidentified aerial objest
+maar Copoo, Califernia.
+
+2. & 8 December 1949, Mr, FRED BALTZ Route 71, Box 540, Irvington,
+Galifeenia wie interviewed ani mde the following statement:
+
+"On about $ October 1949, at appreoximtely 1520 howre I.
+noticed one object (see chotch) in the sky at about 3500" or less.
+This object we stationary ami after viewing it for abouk 3 sece
+I veut te wy ear to obtain Meld glasses, Yhen I turned te look
+at the object again it had almost disappears’ frou sight, traveling
+at a gpeed approximately three times faeter than jot eirereft,
+@linbing at an angle of 45°, and going in a northeasterly direction,
+This chject was approximately the sise of a four~engine’ aireraft,
+wie glivery and gray in coler, hed no moving parte, anc no sound
+eile be detected. At thir tine I we 3 wiles from Gopeo, Colifernia,
+em the Ager read,
+
+/o/ FRED BALT2Z,
+Ri Box 540
+
+«9. Phe original of the foregoing statement is contained in the files
+of the 19th Distriets Offices of Special Investigations,
+
+4g BALTS prepared a sheteh of the chject and this shotch ie attached
+%o thie report ac an inelosure.
+
+$o Om 24 damary 1950, i+ we learned from the San Frameiene Givil
+serovauties Authority office thet there are one hundred sixty-ome (161)
+idieted air carriers in the Bay Area. Only fourteen (14) of these heve
+regularly scheduled flights and lees than one per sent of the remining file
+any kind of plan or clearance for their flights. A check with the Oakland
+Aivport ami the Sam Francisco Airport reveaied thet less then an por cont
+of the planes normilly using thors Melds fle any kimi of eehodule or
+CLOR TANS
+Cees Since euch a large percentage of these flights Mile no type of cloarance
+amt the mijority of them are operating without schedule, it is deemed inedvise
+ahie to cheek on them in the vicinity of Copeo, California, aroun 1500
+hourg, 8 Oeteber 1949. Such an operation does not seem foaeihie, in view
+of the thet thet mony of the cities between the Bay Area and Copso, California ,
+aw North of Gopso, California, could have had such @ flight and in a].
+
+Declassification Authority: NND 923007

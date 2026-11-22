@@ -1,0 +1,34 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T21:16:17Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 968092, "source_ctime_ns": 1793390687639452902, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302552447/1369.jp2", "source_mtime_ns": 1785808577000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302552447/1369.jp2", "source_sha256": "d86155ce332ac372dc6e6286b5b6bc54ecdf6995c8dd876cf6211dcc8df915fc"}
+
+===== PAGE 1 =====
+{"alpha_words": 159, "chars": 1031, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+FrD (TDETR)
+Wright-Patterson AFB, Ohio 45433
+1 August 1966
+
+Marysville, Pennsylvania 17053
+
+ad
+
+our office received numerous calls concerning the observance of a
+suspected unidentified flying object that was over the Dayton ares
+on the nights of 15 and 19 July 1966.
+
+We were able to contact Mr. of Barnes Aerial Advertising,
+“4nchester, Kentucky. On the nights of 18 and 19 July, Mr
+
+was flying 2 1959 Champion Aircraft with an advertising sign that”
+had a series of lights on the bottom of the plane. From either side
+o? the cfaft, in the distance, the advertising appears as a row of
+slinking or revolving lights. Mr SMe tated that a person had to
+be directly under the plane in order to read the sign.
+
+I feel sure this was what you and the others observed. All of the
+reports provide quite gimilar information. There was no unusual objects
+reported by the local radar authorities.
+
+T wish to thank you for reporting your observations to the Air Force.
+Sincerely,
+
+SECTOR QUINTANILLA, Jr, Major, USAF
+Chie?, Project Blue Book

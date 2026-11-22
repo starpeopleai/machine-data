@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T20:46:41Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6739520, "source_ctime_ns": 1793377216660006195, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28962979/1040.jpg", "source_mtime_ns": 1785696563000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28962979/1040.jpg", "source_sha256": "baecb3709f936fc31aa19636e0fab586c8ea24ddc6aaa21e21cc0730482492dd"}
+
+===== PAGE 1 =====
+{"alpha_words": 130, "chars": 937, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+1 DATE | 2. LOCATION 12. CONCLUSIONS
+) CQ Wes Bolloon
+30 Jul 55 Shelby, Iowa © Probably Balloon
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION O Possibly Balloon
+Local — 0) Ground: Vi sual O Ground-Redar a Brovdiny wired
+GMT 0 Air Visual D Air-Intercept Roeder | & Possibly Aircraft
+5. PHOTC = é. SOURCE (X Was Astronomical Vege, Capel
+QO Yes Q Probobly Astronomical
+70 Ne civilian O Possibly Astronomical
+5 ‘ JECTS | 9. COURSE O Other
+ttt th stent ‘apeer il ia alae 5 ue” Data for Evaluation
+. nknown
+23 hrs one stationary
+10, BRIEF SUMMARY OF SIGHTING 11. COMMENTS
+
+One obj, size of quarter penny at arms length,
+appeared to be red, white, green, and flash-
+ing. Obj seemed to remain stationary throughout
+duration of sighting. Photographs taken. Pilot
+over area stated he could see no obj.
+
+Capella in NE, 50 deg az 30 deg elev-
+ation. Vega in NW at 300 deg az,
+30 deg elevation.
+
+ATIC FORM 329 (REV 26 SEP 52)

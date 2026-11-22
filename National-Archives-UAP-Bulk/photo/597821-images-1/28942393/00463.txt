@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T20:33:40Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4418119, "source_ctime_ns": 1793372341558152135, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28942393/00463.jpg", "source_mtime_ns": 1785688813000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28942393/00463.jpg", "source_sha256": "d3e6586af22c21a64fbcd64af59ecf194614a20e67d7d0362d3a590c94a1a912"}
+
+===== PAGE 1 =====
+{"alpha_words": 104, "chars": 828, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ee “ase
+’
+¢ i
+4
+en \ PROJECT 10073 RECORD CARD
+1 DATE — 5 . (OE Pete ISEND, ( 132. CONCLUSIONS
+
+Was Balloon
+C Probably Balloon
+Possibly Bal!oon
+
+30 May 1952 i --Herthie, Washington :
+
+3. DATE-TIME GROUP — _  fvwearwmuaas  —
+|
+
+Lecal — ae aoe ponds O Ground- Vi sual & Ground-Rader 9 Rophaiey focarets
+RRR TBR FIO 6 fy ae Se na O Air Visvol O Air-Intercept Radar hes Possibly Aircroft
+5. PHOTOS d ror 6. SOURCE lo Was Astronomical °
+0 Yes 'O Probebiy Asteonon sca!
+U No : Dayton Daily News 2 Jun 52 ,o Passtbiy Astronomical
+7. LENGTH OF OBSERVATION | 8. NUMBER OF OBJECTS 9. COURSE (X the: Meteor...
+} tC) tnsuffierent Gata for Evaluation
+. ‘ft " ‘
+| | . one ; | 4 Link now
+10. BRIEF SUMMARY OF SIGHTING \V1, COMMENTS (Op eee
+Color: Bluish Whito Vague inf probably large meteor,
+
+Shape: Meteorite
+
+ATIC FORM 329 (REV 26 SEP $2)

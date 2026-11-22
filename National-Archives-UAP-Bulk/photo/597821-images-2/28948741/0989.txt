@@ -1,0 +1,58 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T20:30:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3886475, "source_ctime_ns": 1793373802635855710, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28948741/0989.jpg", "source_mtime_ns": 1785696504000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28948741/0989.jpg", "source_sha256": "f0a2ef938df2c8841e5afba0e9c3619328a1a172c4b258f20516d38f6e258352"}
+
+===== PAGE 1 =====
+{"alpha_words": 94, "chars": 784, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+IV. BALLOON DATA
+
+SL. WeRs BALLOONS RELEASED IN AREA? CT Yea te
+22. TIME SINCE SCHEDULED BALLOON RELEASE: ial tne at
+| 25. POSSIBLE BALLOON LAUNCH SITES DOWNWIND OF SIGHTING? 7S acca
+
+<i a OEE ae _ 4 OANA!” Taghted? [ “Dascirive
+Location Typa Launching Agancy! Yas} No Lighting
+a.
+b.
+Co
+a.
+
+(attach overlay)
+
+V. EVALUATION
+
+{Jj Poor
+
+(_} Unreliable
+
+(J Extremely Doubtful
+(J Hoax
+
+22, DETALES OF REPORT:
+
+(I Good
+(eyFair
+{_] Poor
+[] Insufficient to Evaluate
+
+(25. ¥INAL EVALUATION:
+
+(CjWas Balloon
+CJ Probably Balloon
+("J Possibly Balloon
+
+("jas Aircraft
+C-}Probably Aircraft
+[_]Possibly Aircraft
+
+C_] Was Astronomical
+{_] Probably 4). nomical
+[_] Possibly Aziz vnomical
+
+Cy cther: _
+
+[J Insufficient Data For Evaluation
+
+(_] Unknown
+
+2h. COMMENTS?
+
+“RITE Vast Form 34], (1F aug 52)

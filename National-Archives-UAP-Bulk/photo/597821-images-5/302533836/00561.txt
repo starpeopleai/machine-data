@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T21:19:11Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1254596, "source_ctime_ns": 1793388874539154060, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302533836/00561.jp2", "source_mtime_ns": 1785808231000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302533836/00561.jp2", "source_sha256": "ee2c6402c9d92e2e3678810c4514b6fd67c290f6f0e09d6341556c1ff8b36ef1"}
+
+===== PAGE 1 =====
+{"alpha_words": 141, "chars": 963, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+TOSW
+
+Pequesat for UFO information 29 Sep o4
+
+fq USAP SAFOI F838
+Wasa DC 20330
+
+lL. ReYerence the attached letter from Qn -equest-
+ing information on observations made by him in July, August and
+September. All cases for these three montas have been screened
+and there is no record in the files on Mr Velten having observed
+
+2. It will be noted in his letter that the Investigating officer
+remarked that the sightings had natural explanations. According
+to Ais Porece Regulation 2CO9-2, if investigating orficer does not
+considered the reports of surficient significance they need not
+bad Porwarded in accordance with this regulation, since the siznte
+ings undoudtedly hed logical explanations.
+
+3. Records indicate previoua«correspondence from ir SBBRRBin
+1903 which revealed that he is President of a club called. the
+Teenage Astronomers or America.
+
+*
+
+FOR THE CCMMANIER |
+
+ERIC T de JONCXYSERE L Atch
+
+Colonel, USAF : a/a
+Devuty for Technology
+and Subsystems

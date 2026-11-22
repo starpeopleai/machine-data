@@ -1,0 +1,12 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T20:41:44Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5786388, "source_ctime_ns": 1793369383425083632, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28931625/0370.jpg", "source_mtime_ns": 1785688511000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28931625/0370.jpg", "source_sha256": "6b3239df22d836c39d6b7cfff98f709b1995905b2807dce1b40f6753f20c6b7e"}
+
+===== PAGE 1 =====
+{"alpha_words": 25, "chars": 157, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Se te aaa
+
+ineidant lc == soosu tay, Lauvrador «= 1 novecher 15483
+Mi LAS LAQO3SN& fhvu \ ee
+
+ashe object could havea teen balloon rudiosondoe,
+
+rade he ee

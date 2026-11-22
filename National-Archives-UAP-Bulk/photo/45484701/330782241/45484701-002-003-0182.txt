@@ -1,0 +1,57 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T20:50:06Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8191162, "source_ctime_ns": 1793362179783698452, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330782241/45484701-002-003-0182.jpg", "source_mtime_ns": 1785684722000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330782241/45484701-002-003-0182.jpg", "source_sha256": "135901ee69eccdc8de20e213ad8ca4f7e0911039ed4a16eb71c3e8a43e30564c"}
+
+===== PAGE 1 =====
+{"alpha_words": 99, "chars": 722, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+fl
+
+fel)
+©
+S58
+
+) ig
+ntial BLomont Info
+ojeot
+
+NG. SIGN"
+
+Support Wone observed
+a. Wings
+
+be Aerodynamic lift of fuselage
+
+Ge Vertical jet
+
+de Rotating cylinder or cone
+
+e» Aerostatic lift (balloon or dirigible)
+Propulsion one observed
+
+Ge eYopellor or jot
+
+b * Rot Ox
+
+ce Acrodynamic vanes (flapping or oscillating
+
+ana)
+
+(KatzMayer effect)
+d4 Visible exhaust or jet openings
+Control and stability one that could be observed
+i. Tine
+be Stabilizers (horizontal or vertical )
+(1) Size
+(2) Shape
+(3) Location
+4ir ducts Yone observed
+Slots
+« Duct openings
+Speod - M.P.He Approximately 100 MPH
+Sound Wone
+ae Continuous whine or buzz
+be Roar,-whistle, whoosh
+
+Ce Intermittent
+
+8=3801-TC
+
+Declassification Authority: NND 923007

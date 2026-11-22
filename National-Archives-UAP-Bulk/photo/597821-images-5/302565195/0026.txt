@@ -1,0 +1,59 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T21:13:42Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 710436, "source_ctime_ns": 1793392178490535020, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302565195/0026.jp2", "source_mtime_ns": 1785808153000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302565195/0026.jp2", "source_sha256": "55312bbbecc475429030d10063f11069687c89196072711d059be4410b328c27"}
+
+===== PAGE 1 =====
+{"alpha_words": 152, "chars": 1100, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+EN eS OL ee PR eS er Ee OS aT mae OT Cy are MP meee
+
+DEPARTMENT OF POLICE
+
+P.0.BOX 51480
+
+NEW ORLEANS, LA. 70150
+
+JOSEPH L. GIARRUSS
+
+SUPERINTENDENT
+
+VICTOR H. SCHTIRO
+
+January 17, 1968
+
+Hector Quintanilla, Jr., Major, USAF, Chief,
+
+Aerial Phenomena Office, Aerospace Technologies Division,
+Production Directorate,
+
+Department of the Air Force,
+
+Wright-Patterson Air Force Base, Ohio, 45433
+
+ATTENTION: TDPT (UFO)
+
+RE: UFO Observation, April 1, 1967
+
+Dear Major Quintanilla:
+
+In the absence of Superintendent Joseph I, Giarrusso,
+I am taking the liberty of acknowledging your correspondence of
+January ll, relative to captioned subject matter.
+
+I am forwarding your letter to Major Karl
+Burmaster, Supervisor of Personnel and Records, with in-
+structions to research the records to determine if any reports
+
+concerning this phenomenon were received.
+
+Should any information be uncovered in this re-
+gard you will immediately be notified.
+
+Assuring you of our cooperation, I am,
+
+Sincerely,
+
+P/ JJ TROSCLAIR, fR.,
+Acting Superintendent of Police.
+
+cc: Major E. Burmaster
+
+>?
+“tn nrotect nnd tn serve

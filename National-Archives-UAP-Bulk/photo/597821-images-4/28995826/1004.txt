@@ -1,0 +1,48 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T21:27:47Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3624274, "source_ctime_ns": 1793386351175519479, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28995826/1004.jpg", "source_mtime_ns": 1785748142000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28995826/1004.jpg", "source_sha256": "303ef8abd4c62fe904fcf9bb98632eec4147d1489d99692c97ea5f51aff6e450"}
+
+===== PAGE 1 =====
+{"alpha_words": 125, "chars": 1029, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+1. DATE 2. LOCATION 12. CONCLUSIONS
+4 mee . nn QO Was Balloon
+: 16 Dec 61 6115N O645W (A TCAN rc) 0 Prokebly Balloon
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION TEE oe Rbetaho i aaa
++] 5 O Wos Aircraft ‘
+; Local PORE O Ground-Vi sual 0 Ground-Rader 1 Probably Aircraft
+; ely ee 1606002 XBYAir Vi sual O Air-Intercept Radar 0 Possibly Aircraft
+
+5, PHOTOS 6. SOURCE Q Was Astronomical
+
+0 Yes O Probably Astronomical
+
+XUNWNe Military QO Possibly Astronomical
+3 7. LENGTH OF OBSERVATION 8. NUMBER OF OBJECTS | 9. COURSE
+
+3 min
+
+,
+
+oO Other
+E~% Insufficient Data for Evaluation
+o
+
+ness
+
+10, BRIEF SUMMARY OF SIGHTINGStar-shaved objt, brignt-
+of lst magnitude star. Observed at 15°
+elev, 090°T az, Disevpeared over horizon at
+
+055°T
+
+o>: P33 mins
+
+11. COMMENTS Limited info. Believed satellite
+by reporting official, however direction
+cannot be determined and duration se
+short. No flight info given and other
+factors necessary for evaluation. Case
+
+listed as insufficient data.
+
+ATIC FORM 329 (REV 26 SEP $2)

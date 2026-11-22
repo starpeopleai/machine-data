@@ -1,0 +1,52 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T21:25:51Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 2294978, "source_ctime_ns": 1793359544946617345, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-009-002-0102.tif", "source_mtime_ns": 1785681445000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-009-002-0102.tif", "source_sha256": "d795ae9dfe3dea349fb40bc7333573eae92bd453e66a870e09a075a333e9237b"}
+
+===== PAGE 1 =====
+{"alpha_words": 115, "chars": 760, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+COMDR 602D AISS ENT AFB COLO
+
+Declassification Authority NND 923007
+
+| oh/1745Z MAY 56 UNCLASSIFIED
+
+ROUTINE
+
+CCMOR 31TH ADIV KIRTLAND AFB NEW MEX 0 8
+
+COMDR ATIC WPAFB OHIO | a -
+
+DIR OF INTEL HQ USAF WASH DC
+
+Br
+
+/UNCLASSIFTFD/AISOP PD UFOB PD THE FOLG IS SUBM IN COMPLIANCE WITH PARA 7
+
+AFR 200-2 DTD 12 AUG 5h PD
+
+B
+
+&
+
+ROUND
+
+VARIED FM BASEBALL TO GRAPEFRUIT HELD AT pies LENGTH
+
+Wii ITE FLUO ORESCEI
+
+"VARIED ONE (1) "0 "TO (2)
+
+WHEN TWO OBJECTS OBSERVED AT ONE TIME THEY FLEW PARALLED COURSES BUT ONCE
+
+APPEARED TO CROSS
+
+HONE
+CLOWING AND MOVING VERY FAST
+
+BRILLIANCE OF OBJECT
+
+-OBJECT OBSERVED OVERHEAD ONE TO FIVE TIMES ON THREE SUCCESSIVE NIGHTS PD
+
+" UNCLASSIFIED 1
+
+WILLIAM A THRASHER MAJ USAF RICHARD B RANDLE MAJ USAF
+
+ATSOP hoe ASS'T ADJUTANT

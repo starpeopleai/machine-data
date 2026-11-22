@@ -1,0 +1,19 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T21:01:39Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 16853656, "source_ctime_ns": 1793356717344113569, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0340.tif", "source_mtime_ns": 1785564746000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0340.tif", "source_sha256": "7bbf2d39c4f149627cc2d66c91e139610c7e75d608272bf7be799a07f2da7ee0"}
+
+===== PAGE 1 =====
+{"alpha_words": 16, "chars": 137, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+i om ou ;
+ra)
+ae . 4
+A / ‘ . . 4 ,
+zy 2 re Pigs ) i r ae
+
+Declassification Authority: NND 57565
+
+. Ley ye
+oe
+¢2 .
+2X
+| :
+naged
+do 4 w4-

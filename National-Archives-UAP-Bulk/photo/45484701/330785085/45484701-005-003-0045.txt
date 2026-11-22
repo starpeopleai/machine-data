@@ -1,0 +1,53 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T20:47:50Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7117049, "source_ctime_ns": 1793363337575758460, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785085/45484701-005-003-0045.jpg", "source_mtime_ns": 1785684908000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785085/45484701-005-003-0045.jpg", "source_sha256": "f22a1ff7679730170e6680ccc634f708499d92bee1eeefc465748979926c08f6"}
+
+===== PAGE 1 =====
+{"alpha_words": 337, "chars": 1904, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+"A woman wso lived directly across the street from the Hodges hore, Mrs,
+Agnes Sullivan, was in her front yard planting shrubbery when the fragment fell.
+
+"tBut I didn't hear anything’, she said. 'I didn't even know anything had
+happened until somebody came out and told me about it'.
+
+"Mrs. Hodges said she didn't hear anything either.
+
+"She was asleep on a sofa in the living room, sleeping with her face toward
+the back of the sofa, her left hip up.
+
+"When the meteorite hit her roof, it slantec across the room anc struck her
+on the hip anc injured her hanc anc arm which were lying on the hip.
+
+"tT woke up and thought the house was falling down', Mrs. Hodges said.
+'Mama (Mrs. Ida Franklin) was in the next room sewing. She came running in and
+asked me if the house was falling down.
+
+"tT said I didn't know, I thought it was the chimney. I got up anc started
+out of the house. Then my hip started hurting.
+
+"'{T hadn't even seen the rock,!
+
+"Then she and her mother found the hole in the roof and saw the ‘rock’ on
+the floor, They called the police.
+
+"'There wasn't any smell or anything to the rock,' said Mrs. Hodges,
+
+"Folice Lt. W. T. Van Sandt, when he arrived, realized what mst have happened
+and took the object to the police station where it was identified by the U. 5,
+geologist.
+
+"Van Sandt said that the object was cold to the touch when he arrived.
+
+"Mrs. Hodges and her mother had nct cisturbed the meteorite.
+
+"But her clothing was not scorched and she was not burnec on the arm where
+it hit her.
+
+NiTt's a good thing it didn’t hit mein the head,’ said Mes, Hodges, ‘1%
+might have killed me,'
+
+"Mrs. Hodges thought at first the object had fallen atop a radio set in the
+corner and then bounced and hit her. The radio was damagec.
+
+"tBut now I don't believe it cic,' she said. 'The radio might have been hit
+by a piece of the ceiling or roof,!
+
+Declassification Authority: NND 923007

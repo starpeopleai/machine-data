@@ -1,0 +1,17 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T21:28:07Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3684573, "source_ctime_ns": 1793371641170771264, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28939253/00414.jpg", "source_mtime_ns": 1785688599000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28939253/00414.jpg", "source_sha256": "e062e0a9d67047f8be173efda63c17fc15e4606e64ec11cd315f7816b87739fb"}
+
+===== PAGE 1 =====
+{"alpha_words": 58, "chars": 370, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Lt UNCLASSIFIED
+Bq 136th Fte Intep Sq Subject: Reporting of Information of Unconven-
+tional Aireraft Sighting
+
+4. ATC reported the following traffic at the time of the sighting.
+One DC-4 Cargo aircraft departed duffalo Airport at O419EB going to Chicago
+via Clear Creek (North Shore of Lake Erie).
+
+Gara ey
+Fst Ue GME
+Inte laCence Officer
+
+DECLASSIFIED AFTER 12 YEARS,

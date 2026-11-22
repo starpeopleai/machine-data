@@ -1,0 +1,65 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T21:29:43Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3938378, "source_ctime_ns": 1793370913207235270, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28935788/0158.jpg", "source_mtime_ns": 1785688642000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28935788/0158.jpg", "source_sha256": "f53412c1366200c63f58e500c57015de2b08d1e3c00a5c3cfaa5c023d688bf3d"}
+
+===== PAGE 1 =====
+{"alpha_words": 87, "chars": 659, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+~se Se me te mee
+
+PROJECT 10073 RECORD
+
+'%. DATE « Time GROUP
+
+; 6 Jul 49 — 06/19502
+
+| 2. LOCATION
+Fo1. Worth, Texas
+
+§ +3. SOURCE
+
+(Me NUMBER OF OGJECTS
+
+:
+;
+. (94
+
+10. CONCLUSION
+BaLLOON
+
+_ 35. LENGTH OF OBSERVATION
+a}
+
+15 seconds
+
+‘6 TYPE OF OBSERVATION
+ft
+Grourd-Visual
+
+“Je COURSE
+
+Nowth
+
+6. PHOTOS
+
+O Yes
+*-, No
+
+ '9% PHYSICAL EVIDENCE
+
+O Yes
+
+s .
+« 3 * No
+£ «~%
+
+11. BRIEF SUMMARY AND ANALYSIS
+
+Object was the size of a fist at arm's length.
+
+Silver in color
+and appeared to be semi-transparent,
+
+No sound or exhaust trail.
+
+Radar sight unit at Carswell AFB unit released a balloon
+at 2000 local which passed over the position of the obgerver.
+
+FORM

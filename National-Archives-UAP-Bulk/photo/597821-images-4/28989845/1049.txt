@@ -1,0 +1,49 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T21:26:34Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3230112, "source_ctime_ns": 1793384294862188360, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28989845/1049.jpg", "source_mtime_ns": 1785748403000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28989845/1049.jpg", "source_sha256": "2609a218871293b6b06d3fe6d9644c13a20ca28b550aa8bfe9d7ce5cee316e7e"}
+
+===== PAGE 1 =====
+{"alpha_words": 54, "chars": 359, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Oy s
+Nee
+tru .
+née GS
+
+ay
+a4
+
+rwA i)
+
+1
+
+HEADING 328
+
+dala
+
+D INDICATE A CLOUD IN THE
+Y ANALYSIS CAN BE MADE ON
+
+}
+
+ore
+
+[ GUARD OFFICE THOUGH TIME IS
+TINGS, PART L. NO PHYSICAL EVIDEI
+2292. OCI RJEXSA
+
+THEIR
+
+HEADING
+
+: ren pe
+RIGH ND THE
+
+AIRCRAF
+
+IMMEDIATE AREA OF THEIR
+
+THE REPORTED SIGHTING OF THE
+
+CONINCIDENTAL WITH CTHER REPORTED
+
+oT
+
+CE AVAILABLE.

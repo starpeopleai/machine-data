@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T21:15:19Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 797899, "source_ctime_ns": 1793391670493938897, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302560881/0743.jp2", "source_mtime_ns": 1785808199000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302560881/0743.jp2", "source_sha256": "fd698c06931098b1d896dce5df43cf249968e0122b6d43ddf996398000d5ac9b"}
+
+===== PAGE 1 =====
+{"alpha_words": 91, "chars": 688, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+(1) <A few clouds, mostly high, very clear and slight breeze.
+(2) Langley AFB Weather Observation:
+22562 1g VIS 9 TaMP-63 DEW POINT-)6
+
+Surface winds 210/10 ALT, SET. 301)
+
+WINDS ALOFT MP
+5 2613 850 +9°C
+10 2508 700 +0°C
+
+15 2518 500 sale)
+20 2620 00 -29
+25 2527 300 -6
+30 2630 250 -56
+35 253 200 -63
+Ke) 2651 150 -63
+ho 2665
+SO 2762
+
+Unknown
+
+No - Due to Late Reporting
+
+Two light aircraft landed LFI, Runway 35 about this time; Army U-8 and
+Army T-1.
+
+In my opinion the photo is SPA ale Bai quite intelligent
+for his age and I am including his discription of the sighting as he presented
+it to his Science Teacher. The teacher instructed him to report it to the
+Air Force.
+
+iB 2 Pages

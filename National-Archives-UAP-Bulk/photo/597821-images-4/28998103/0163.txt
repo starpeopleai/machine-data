@@ -1,0 +1,47 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T20:50:41Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8321745, "source_ctime_ns": 1793387063223738674, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28998103/0163.jpg", "source_mtime_ns": 1785747899000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28998103/0163.jpg", "source_sha256": "415cd7f14383cc5cf04bd54390e5ef58f9605a10c686551edfb7060d483077c9"}
+
+===== PAGE 1 =====
+{"alpha_words": 151, "chars": 1111, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+ATE 2. LOCATION 12, CONCLUSIONS
+
+; © Was Balloon
+Q July 1962 Meredith, New Hampshire S pee eae
+DATE-TIME GROUP ait aaa
+
+4. TYPE OF OBSERVATION
+
+Local . MXGround-Visual TX © Ground-Rodor Er Prebauly lurerait
+GMT 11/0042Z O Air Vi sual 0 Air-Intercept Radar 0 Possibly Aircraft
+i} O Yes O Probably Astronomical
+% No Civilian 0D Possibly Astronomical
+7. LENGTH OF OBSERVATION 8. NUMBER OF OBJECTS | 9. COURSE O Other
+O Insufficient Data for Evaluation
+i GO Unknown
+30 one
+10. BRIEF SUMMARY OF SIGHTING 11. COMMENTS
+
+Observation at twilight for 30 second
+
+durstion of obj that looked like a/c
+through TX except that it had a fin
+pointing in the opposite direction
+to that normally associated with the
+
+, tail of an a/c, Looked like an a/c
+fiying backward,
+
+Observation for short duration
+trough telescope, Speed, per-
+formance and general descrinvtion
+conform to an a/c sighting. Wings
+and taii surfaces vary wigh the
+direction of flight and @egree
+
+Of bank or turn, It is probably
+that the angle of the a/c pre-
+sented this configuration to the
+observer,
+
+ATIC FORM 329 (REV 26 SEP 52)

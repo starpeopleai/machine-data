@@ -1,0 +1,43 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T20:33:32Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4366333, "source_ctime_ns": 1793377421554259971, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28963648/0138.jpg", "source_mtime_ns": 1785696918000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28963648/0138.jpg", "source_sha256": "c2814ddb1fff26d55155d6902a27bc0621467b4a3b25ac8ddf69ed637319010b"}
+
+===== PAGE 1 =====
+{"alpha_words": 70, "chars": 419, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+‘ jg7a/23
+
+DRL had ta
+
+RJEDWP/COMDR AIR TECH. Tf? Te WRIGHT-PATTERSON AFB OHIO
+
+-JEPHQ/DIR OF INTEL HQ UCAF YAS DC
+INFO RUJEDOH/CINCSAC OFFU 675 NEBR
+RUVPRT/COMAF 15 MARCH AT LIF
+
+BT
+
+B /UNCLASSIFIED/ODCI AISUFOr/ Tr
+
+COMPLIANCE W/PAR Ts AFR 200-2, SUBIS
+
+AUG 5, FOL INFO IS FW:
+
+Oe)
+
+DESCR OF OBJ
+
+eal Anon yore a we rome Tent
+
+UFOB
+
+HO
+
+TER CO
+
+THE STARHARD eur
+
+FORM BOS
+
+ohio, U.S. A,
+
+\iTON I,
+
+tL STANDARD AEGIS

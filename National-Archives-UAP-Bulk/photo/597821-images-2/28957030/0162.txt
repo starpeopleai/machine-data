@@ -1,0 +1,49 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T20:29:54Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3850675, "source_ctime_ns": 1793375620183508091, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28957030/0162.jpg", "source_mtime_ns": 1785696978000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28957030/0162.jpg", "source_sha256": "e291d593e88ac055a00c8ad62540a798ed609cceaf1d4df68bfcb65fd237ef18"}
+
+===== PAGE 1 =====
+{"alpha_words": 76, "chars": 557, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+1. DATE. TIME GROUF
+
+kh Dec 53 ou) cod 0%
+
+2. LOCATION
+
+Houston, Texas
+
+3. SOURCE
+civilian
+
+4. NUMBER OF OBJECTS
+five
+
+10. CONCLUSION partoon
+
+Report similar to pillow balloons or cluster balloons.
+
+5. LENGTH OF OBSERVATION
+
+5.4 mine
+
+6. TYPE OF OBSERVATION
+ground visual
+
+7. COURSE
+rising
+
+8. PHOTOS
+
+Oo Yes
+9 Ne
+
+9. PHYSICAL EVIDENCE
+
+O Ves
+O Ne
+
+11. BRIEF SUMMARY AND ANALYSIS
+
+Five bright objs, like reflection irreguler course in forma-
+tion, gaining alt. four witnesses. |
+
+FORM gee
+FTD sep 63 0-329 (TDE) previous oditions of this form may be uscd.

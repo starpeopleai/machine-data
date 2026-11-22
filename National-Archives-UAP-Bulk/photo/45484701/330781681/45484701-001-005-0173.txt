@@ -1,0 +1,42 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T20:42:26Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5967022, "source_ctime_ns": 1793361927327390981, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330781681/45484701-001-005-0173.jpg", "source_mtime_ns": 1785684797000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330781681/45484701-001-005-0173.jpg", "source_sha256": "f6395d768e0bf6464de0e7d5a0b7d52039ec9b805dba9358f4f857cd6dc7ccc6"}
+
+===== PAGE 1 =====
+{"alpha_words": 137, "chars": 1011, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+DEPARTMENT OF THE AIR FORCE
+
+HEADQUARTERS UNITED STATES AIR FORCE 5D-0S1/JEM/fmn
+WASHINGTON
+
+THE INSPECTOR GENERAL, USAF
+STH DISTRICT OFFICE OF SPECIAL INVESTIGATIONS
+WRIGHT-PATTERSON AIR FORCE BASE, DAYTON, OHIO
+
+IN REPLY REFER TO: 5D 2-21 } 25 April 199
+as F :
+SUBJECT: PROJECT GRUDGE., C47.
+
+Director of Special Investigations
+Office of The Insye ctor General
+United States Air Force
+Washington 25, De Ce
+
+1. Reference is made to letter, your Headquarters, subject as a=
+bove, dated 20 April 19L9.
+
+2. Inquiry at the Technical Intelligence Division, Air Materiel
+Command on 25 April 19L,9, reveals that report of the incident at Camp
+Hood, Texas during the period 7-10 March and 16-18 March, 194)9, is con-
+taimd in the files of that Division.
+
+3e Technical Intelligence Division is furnishing this office a
+copy of the report for inclusion in our files.
+
+JEROME M. BRAUN
+Acting District Commander
+
+KURT K. KUNZE. Capt: USERS oe
+Historian — Logie :
+
+WF-O-5 OCT 48 15M
+
+Declassification Authority: NND 923007

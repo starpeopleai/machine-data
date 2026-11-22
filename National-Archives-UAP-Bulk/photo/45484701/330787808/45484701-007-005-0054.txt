@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T20:48:14Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7343154, "source_ctime_ns": 1793364828387054484, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787808/45484701-007-005-0054.jpg", "source_mtime_ns": 1785685204000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787808/45484701-007-005-0054.jpg", "source_sha256": "c54e74b73c43d558c5636ea97e36fbd493d81ef90a68231a1bef123eecfe7907"}
+
+===== PAGE 1 =====
+{"alpha_words": 57, "chars": 424, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+*”
+
+DEPARTMENT DF THE AIR @orcE
+STAFF MESSAGE DIVISION
+
+IGOMING CLASSIFIED MESSAGE
+
+t Goner ns PAPE TAY:
+
+CLASSIFICATION CANCE 7 De oe
+BY AUTHORITY OF TIE pin;
+“KURT K. KUNZE; Capt, USAF
+
+i _Histaian o 5 DEC i975
+
+PA
+
+« ROCKED | os -
+
+wWigt 2 & iene (.
+
+COPY No.
+
+THE MAKING OF AN EXACT COPY OF THIS MESSAGE IS FORBIDDEN
+
+Oe apa an 0-309 B U. S. GOVERNMENT PRINTING OFFICE 16—56692-2
+
+Declassification Authority: NND 923007

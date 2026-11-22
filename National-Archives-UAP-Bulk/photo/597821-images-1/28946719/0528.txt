@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T21:29:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3892970, "source_ctime_ns": 1793373393818173563, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28946719/0528.jpg", "source_mtime_ns": 1785688838000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28946719/0528.jpg", "source_sha256": "023cec509a732382695d1f6005bc7a1e7989c7ba29f67272f828d7aedf603905"}
+
+===== PAGE 1 =====
+{"alpha_words": 28, "chars": 210, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+APPROV2D:
+
+DOMALD MW. VACKNTYZ ’
+
+= Downcranen AT 3 YEAR MD
+
+. - "22 Pa —
+one he se aN
+
+YEAR INTERV '+ 3;
+
+%
+
+i TE R 12 YEA.
+"DOD DIR 5200. 10-
+
+1 ay sent Chief, ATIC, itt: ATIAA-2e
+
+Pe dl
+
+QNCLASS'F!=
+
+~
+
++ —

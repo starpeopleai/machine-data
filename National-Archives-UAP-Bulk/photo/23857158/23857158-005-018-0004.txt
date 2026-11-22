@@ -1,0 +1,20 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T20:38:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5200202, "source_ctime_ns": 1793359034954936658, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-005-018-0004.tif", "source_mtime_ns": 1785681298000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-005-018-0004.tif", "source_sha256": "b0b3a55628e6c603097918a0ec7fc98ac607ee024eb57e8f668468caca3737ff"}
+
+===== PAGE 1 =====
+{"alpha_words": 51, "chars": 323, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Declassification Authority NND 923007
+
+PAGE THREE JEPNL-
+BNO WINDS ee
+On bo ee
+
+D GOOD
+EO N/A
+F N/A : : : fon pose oe ie
+8, NONE: 4° ee ee isa cran sohb ns
+9. NOE 1 1STED IN PAR 7D co) CARRIED. THE MATE
+“THERE THE KEN TO. ARDC
+
+‘1. " NEGATIVE
+il. SENIOR DIRECTOR. NO COMMENTS...
+12. THE MATERIAL | TS LOCATED aT FLIGHT SH

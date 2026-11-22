@@ -1,0 +1,46 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T20:40:27Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5727102, "source_ctime_ns": 1793355084762773873, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989261-001-0021.jpg", "source_mtime_ns": 1785564390000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989261-001-0021.jpg", "source_sha256": "d8c0480510d8ba4b18994c98f8306c32b91ba4772d78353e6ad6d16c901b837d"}
+
+===== PAGE 1 =====
+{"alpha_words": 144, "chars": 1017, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+2.5 hours of ascent time to a nominal 100K (Kiloft MSL), with the
+2.5 hour cushion after termination, average float duration for the
+various months, would be as follows:
+
+January 5.5 hours July 9,0 hours
+
+February 6.5 hours August S hours
+
+March 7.0 hours September hours
+
+April 8.5 hours October hours
+
+May 9,0 hours November 5.5 hours
+
+June 9,5 hours December 5.5 hours
+
+The values were rounded out to the nearest half hour, since time
+of sunrise varies throughout a month, since one can launch 30 minutes
+prior to sunrise without generally compromising balloon performance
+and finally, longitudinal displacements can vary the sunset time by
+almost 30 minutes.
+
+Associated mean displacements, including climb out and parachute
+
+drift, would be as follows:
+
+Distance Out NM Vicinity Of
+
+January 400 East Wichita Falls, TX
+
+eal
+
+February 285 East Childress, TX
+March 295 East Childress, TX
+April East Lubbock, TX
+
+May 5 West Silver City, NM
+June 215 West Tucson, AZ
+
+July 390 West Gila Bend,
+
+August West Tucson, AZ

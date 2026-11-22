@@ -1,0 +1,53 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T20:47:06Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6924852, "source_ctime_ns": 1793364379988225952, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330786876/45484701-006-007-0185.jpg", "source_mtime_ns": 1785685116000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330786876/45484701-006-007-0185.jpg", "source_sha256": "49a4962e708053c05ec10f83596eb2d11de192d03bea28b2d84b5d55a5127831"}
+
+===== PAGE 1 =====
+{"alpha_words": 144, "chars": 908, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+. Do you think you can estimate the speed of the object?
+
+oh,
+
+(Circle One) Yes (No
+
+IF you answered YES, then what speed would you estimate?
+
+. Do you think you can estimate how far away from you the object was?
+(Circle One) Yes No)
+
+IF you answered YES, then how far away would you say it was?
+
+. Please give the following information about yourself:
+
+NAME ee ee Petronilo
+
+Last Name First Name Middle Name
+
+ADDRESS 1536 = 39th Los Alamos N. Mex.
+
+Street City
+
+TELEPHONE NUMBER 2-676
+Junior Security Inspector ~ 08-8.
+
+What is your present job?
+
+Age Aces Sex _Male
+
+Please indicate any special educational training that you have had.
+
+AAY AM Sehool
+
+a. Otdde schoo) oc ee Te, eo Technica sender
+
+CON igh enon lc eo (Type)
+CO eOG f. Other special training
+
+Airplane & Engine Mech.
+
+d. Post graduate
+
+January 1953
+
+Date you completed this questionnaire: ee
+Month Year
+
+Declassification Authority: NND 923007

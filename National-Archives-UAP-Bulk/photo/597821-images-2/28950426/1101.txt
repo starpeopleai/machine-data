@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T21:28:41Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3830159, "source_ctime_ns": 1793374143680440481, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28950426/1101.jpg", "source_mtime_ns": 1785696961000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28950426/1101.jpg", "source_sha256": "b86e93e928fd39bbca21a49c22053a96c8df8ad0d015673d4c7d163a6e1c5db6"}
+
+===== PAGE 1 =====
+{"alpha_words": 68, "chars": 479, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+AIR TECHNICAL INTELLIGENCE CENTER
+WRIGHT-PATTERSON AIR FORCE BASE
+OHIO
+
+17 October 1952
+
+ifr,
+Yorks Pennsylvania
+
+Dear lir. GURUEED
+
+Your recent report of unidentified aerial phenomena has been
+received by the Air Technical Intelligence Center, Inclosed is a
+‘ques
+
+Your interest in reporting the matter and your public spirited
+desire to be of service are greatly appreciated,
+
+Sincerely yours,
+
+*. ? Za a ja
+2 Incls ROBERT Me anes sa
+a/s or, USAF
+
+rr Adjutant Gen
+
+Cr -4/L£-Z
