@@ -1,0 +1,24 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T14:19:51Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7856412, "source_ctime_ns": 1793363890163747054, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330786265/45484701-006-004-0008.jpg", "source_mtime_ns": 1785685031000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330786265/45484701-006-004-0008.jpg", "source_sha256": "997ad6d856d3260ab9821c80a12273fb83529a3b44bb6bfc827002c3f312b947"}
+
+===== PAGE 1 =====
+{"alpha_words": 46, "chars": 340, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+® 0
+Surrouhting terrain where object ‘was observed:
+
+Place where object contacted pny (if this happened):
+Maneuvers:
+
+Formation Gf more than two):
+
+Secure signed statement:
+
+Obtain fragments or physical evidence where possible:
+
+Riguature of Observer
+
+Ls)
+
+Aas foe the Me Le
+wet Sipnature of Witness
+
+Declassification Authority: NND 923007

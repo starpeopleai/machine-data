@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T13:46:55Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 15211448, "source_ctime_ns": 1793361292135295872, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-004-0306.tif", "source_mtime_ns": 1785565275000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-004-0306.tif", "source_sha256": "24ca03191950532093e67ba834d777aee6681e878bf863714bb2e984689306a2"}
+
+===== PAGE 1 =====
+{"alpha_words": 28, "chars": 207, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+,
+
+an cna Se Scent ata cnicsweamee + Be:
+
+COMPLENINTOR DEL CARS
+7 DR SULTD wa 1958
+
+«
+4
+E:
+x
+a
+Ney
++!
+a
+@?
+ry
+Gs
+1209230
+pre cmegre EES ®
+“ + eo REE RE sereen See Netcom
+
+DECLASSIFIED
+Authority NND 9237007

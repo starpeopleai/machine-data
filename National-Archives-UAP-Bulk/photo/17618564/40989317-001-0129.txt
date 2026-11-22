@@ -1,0 +1,70 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T14:05:24Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3676924, "source_ctime_ns": 1793356325498828872, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989317-001-0129.jpg", "source_mtime_ns": 1785564675000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989317-001-0129.jpg", "source_sha256": "436ff02d9fe2504e39d9a5fa2a1bf3da8a6e40a90771346aa02f5a93e1d1911c"}
+
+===== PAGE 1 =====
+{"alpha_words": 444, "chars": 2903, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+iy a
+. Chief; Dro tio OF Day
+y
+
+1, Project @itle:. Radiation Studies
+
+a. Sky Brightness, Infra-red, Visible end Ultra-violet.-
+
+Project Scientists: Dr. Heinz Fischer, Dr. lene hidley, Dr. PE, Gase.
+
+Sumiary of Ine-Laboratory "ork?
+
+The intensity of solar radiation in the ultra-violet, visio.
+red, and its depletion as jt passes through the atmosphere, are ef
+data which are only imperfectly knowne The amount of this radiation viii is
+geattered, and may be studied as sky brirhtness, is of great scientific ana a
+tary interest.
+
+spe
+
+The developnent of radiometric equipment vith appropriate che
+and the standardization of this equipment so that the data shall be su
+absolute units is necessary To this end all reasonable efforts to procure oF
+develop ecuipment rith optimum characteristics shall be takene
+
+- Since these data must be studied with reference to direction {as well as
+altitude and wavelength of the radiation hand), it is recognized that tne
+astronomical orientation of the radiometers should be knorn to a high degree
+
+of precision. Vith a stabilized platform, such as may be provided by the
+
+_ Adrborne Coronagraph, discussed below, it should be possible to wtilize several
+
+types of carriers for obtaining data at different altitudes. This infomation
+
+is of interest to various apencies and groups of scientists, and vill be used Lin
+~gtudying the phenomenon of the scattering of light by small particles and in
+the design of equipment for civilian and military useso BC NEE Se
+
+Plans are being made for studying scattered radiation in the ultra-violet
+range. Phototubes and other types of detectors vill be usea to neasure the |
+
+radiation selected by special filters.
+Photoelectric methods of neasuring sky brightness can be adapted more
+easily than others to the requirenents imposed by rocket-corns equi pent »
+Multiplier phototubes are used with interference filters for seasvrine the .3 icy
+light at various heights and for narrow bands at cifferert wave jenrthss “Equipe
+ment has been sent inte the upper almosphere three tines by means of Wed roekebs «
+The oulput of each phototube is comautated at a voltage divider to ohtdin four
+ranges of sensitivity. Cathode follovers match the outpul impedance to that
+
+the respective Lelemeter ing channels, and limiting tubes hold the voltages of
+the higher ranges yithin telenetering requirements. By this means 4 broad range
+of light values can be measured automatically. The results indicate that Rees =)
+relatively dark at a height. of 25 kilineters, the brightness values ceing about
+3 to 7 per cent of those measured near the ground for the respective enosen
+directions. The nearethe-fround values are larger than aight pe expected from
+molecular scattering alone, This may indicate that weather conditions, Gust,
+smoke, etce, are liberal contributors to skylight»
+
+yf
+2, Mae
+
+aa
+
+This document is part of an unclassified series

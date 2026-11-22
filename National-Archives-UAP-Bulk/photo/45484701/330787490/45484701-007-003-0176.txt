@@ -1,0 +1,65 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T13:34:42Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7830755, "source_ctime_ns": 1793364708565470418, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787490/45484701-007-003-0176.jpg", "source_mtime_ns": 1785684895000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787490/45484701-007-003-0176.jpg", "source_sha256": "41288bae31eacb69b4df05d512957aefd930cb0fabda9edf4a8aa4002872a3f2"}
+
+===== PAGE 1 =====
+{"alpha_words": 347, "chars": 2535, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+19D -OQSI 24-89
+DETAILS
+
+1, This investigation requested by Headquarters, Office of Special
+Investigations (IG) USAF, Washington 25, D. C., in letter, file WH-185-19,
+SUBJECT: (Unclassified) Radar Phenomena, White Sands, New Mexico, dated 27
+September 1950. Subject Radar Phenomena reported by Headquarters, 19th
+District OSI (IG) USAR, Fairfield-Suisun Air Force Base, California, by letter,
+file 27-0-19, SUBJECT; Radar Phenomena, White Sands, New Mexico, dated 27
+July 1950, a synopsis of which appears as paragraph number 1 of this reporte
+
+2. Captain ROBERT E. GOODBODY, 122034, advised Headquarters 19th
+District OSI (IG) USAF, Fairfield-Suisun 4FB, California of a Radar Phenomena
+which he observed in the vicinity of White Sands, Alamogordo, New Mexico.
+GOCDBODY believed the phenomena, indicated espionage, or possibly a radar
+station previously unreported which by its own action is revealing its loca-
+tion, GOODBODY stated he observed the phenomena in October 1949, day
+unknown, While on a mission in 4 B-36 flying from Carswell AFB to Selt Lake
+City, Utah, at 16,000 feet altitude, GOCDBODY gave the following sequence
+of radar observation:
+
+a, At a point about 55 miles North of ALAMOGORDO, White Sands
+restricted area and on the preliminary pass, course 290 degrees, time 0900,
+a tradar return" consisting of equally spaced arcs of approximately 5 degrees
+width and 12 to 15 micro-seconds in length appeared. Point of emanation
+or radiation apparently was on the ground near the Southern end of the valleye
+
+b. GOCDBODY, who is a Radar Observer, attempted to obtain photos
+but a camera malfunction resulted in failure.
+
+c. On the return flight that n about 2200, the same
+
+results were obtained at exactly the same 1
+
+ight,
+ocation in the valley.
+
+d. Radar Technicians were consulted by Captain GOODBODY at
+Carswell AFB. They believed it was something in the radar set.
+
+e, Captain GOODBODY expressed the opinion that a Search Radar
+of the same frequency as the APQ oj, in the aircraft was the source of the
+
+phenomena »
+
+3. On 9 October 1950 Captain GOODBODY was interviewed and submitted
+answers as follows to questions contained in copy of R&R from Director cf
+Communications dated 23 August 1950, attached as inclosure to referenced letter,
+
+Headquarters, CSI (IG) USAF, Washington 25, D. Ce
+
+What type of radar equipment Was Captain GOODBODY operating
+when this incident occurred?
+
+Question a.
+
+b. What other radar equipment was installed in the aircraft?
+
+SCR 718 and APG=3
+
+Declassification Authority: NND 923007

@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T13:47:30Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 15628941, "source_ctime_ns": 1793366234568623833, "source_file": "National-Archives-UAP-Bulk/photo/542184/341-PBB-538-0073.jpg", "source_mtime_ns": 1785565502000000000, "source_rel": "National-Archives-UAP-Bulk/photo/542184/341-PBB-538-0073.jpg", "source_sha256": "6d2c9500c007bb4c4ab3657f70051468a85715fe16f6b800fa3190e0920b4916"}
+
+===== PAGE 1 =====
+{"alpha_words": 24, "chars": 211, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+f we
+: .
+a s
+hppa | ne
+%
+; Fe
+*
+P ‘
+~ Pte 3 —+—
+. ceiinigsigiea Dtiauinpiniiogs :
+r
+*
+&
+% 1
+r
+\
+i
+ie 8
+ht bt bay ¥ 7
+Se ¢ - ee. A ites se saeee : ey a
+4
+ota ume cS 5 ~" :
+: ae iy S
+a im rR . -
+‘ ‘
+. :
+Y
+~ m, ¥

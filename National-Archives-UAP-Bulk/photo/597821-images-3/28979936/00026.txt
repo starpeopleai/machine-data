@@ -1,0 +1,24 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T14:09:45Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4539273, "source_ctime_ns": 1793381351160372287, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28979936/00026.jpg", "source_mtime_ns": 1785700874000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28979936/00026.jpg", "source_sha256": "2476a558a777c2403af63abbc6c88c40a903c2f7a73d3a9506d19ef08f39fb2d"}
+
+===== PAGE 1 =====
+{"alpha_words": 56, "chars": 419, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PAGE TWO RJEDSJ 3
+Sw wo be
+230/35, 19, 000 FT 330745, 16,000 FT 250/55, 20,990 FT 240755,
+
+30,928 FT 240/75, 50,002 FT 240/45, 80,202 FT NOT AVAIL. (5)
+
+MEASURED FORTY FIVE HUNDRED BROKEN, TEN THOUSAND BROKEN. (4). FOUR
+
+et oe eR he ere
+MILES ,SGROUND FOG.)(5) EIGHT. €6) NONEs He NONE. Ie NONE. Je UNKe
+
+NONE FROM KHEfle Ke HARVEY Ce HAYS, CAPTAIN USAF, AIRDROME OFFICER,
+NO COMMENT.
+BT
+
+19/@225Z SEP RJEDSJ
+
+NNNN
+
+—

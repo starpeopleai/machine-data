@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T14:03:16Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1756053, "source_ctime_ns": 1793388649123554505, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302530700/0521.jp2", "source_mtime_ns": 1785808636000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302530700/0521.jp2", "source_sha256": "475d1602a4ac994f4a60a508fae7153a299539f4754baac8d702b026bd473e52"}
+
+===== PAGE 1 =====
+{"alpha_words": 110, "chars": 883, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+1. DATE - 2. LOCATION 12, CONCLUSIONS |
+i ae 0 Was Balloon
+di Oct-39 Venado Tuerto, Santa Fe, Argentinh? Erebably Balloon
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION : a tha ana
+| a spa vetr , : O Was Aircroft
+Local 0 Ground- Vi sual D Ground-Rodor Q Probably Aireroft
+GMT 0 Air Vi sual O Air-Interceapt Radar O Possibly Aircroft
+: 5. PHOTOS 3. SOURCE & Wes Acrenented
+4 0 Yes 0 Probably Astronomical
+; XKNe Civilian QD Possibly Astronomical
+7. LENGTH OF OBSERVATION 8, NUMBER OF OBJECTS | 9% COURSE D Other ;
+7 Tl Insufficient Dota for Evaluction
+; Nat Reported ie eds - = : en
+19, BRIEF SUMMARY OF SIGHTING 11. COMMENTS
+: Translation of alleged sighting.of saucer Insufficient data.Sighting not
+: RawmAy 8 4 2 ry . al
+Landing and little men, investigated by AF. Report indirect
+: from Argentina. Investigation not
+feasible,
+
+ATIC FORM 329 (REV 26 SEP 52)

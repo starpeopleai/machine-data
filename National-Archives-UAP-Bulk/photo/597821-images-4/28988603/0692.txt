@@ -1,0 +1,60 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T14:17:39Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7146737, "source_ctime_ns": 1793384030939394115, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28988603/0692.jpg", "source_mtime_ns": 1785747962000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28988603/0692.jpg", "source_sha256": "2ed1703ead1a427e8935ebce3e8d34945b8d1d919144b5d7878cafae58d86634"}
+
+===== PAGE 1 =====
+{"alpha_words": 98, "chars": 776, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+USS BOYD
+
+PROJECT 10073 RECORD CARD
+
+}. DATE 2. LOCATION
+29 Aug 60 Vicinity Taivan
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION
+Local s Q ttnehh ed D Ground-Roder
+14116 inocuiars
+GMT 5/1162 o Air Yiqwel O Air-intereent Rodor
+5. PHOTOS 3. SOURCE
+G Yes es
+4 Ne Military
+7. LENGTH OF OBSERVATION 3. NUMBER OF OBJECTS 9, COURSE
+h min one NE
+
+—s
+W
+
+oog oag agg coo
+
+. CONCLUSIONS
+
+Wos Bolloon
+Probably Balloon
+Possibly Balloon
+
+Was Aircraft
+Probably Aircroft
+Possibly Aircroit
+
+Was Astronomical
+Probably Astronomicol
+Possibly Astronomical
+
+Insufficient Data for Evaluction
+Unknown
+
+10. BRIEF SUMMARY OF SIGHTING
+
+’
+Py
+
+as a planet.
+
+white object, size of pinhead, bright
+isappeared over horizon.
+
+13, COMMENTS
+
+to be Echo I.
+
+Ss 2 :
+The object of this
+
+ATIC FORM 329 (REV 26 3EP 52)

@@ -1,0 +1,37 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T14:20:14Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8138580, "source_ctime_ns": 1793385516882921888, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28993555/0051.jpg", "source_mtime_ns": 1785748210000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28993555/0051.jpg", "source_sha256": "c4af4b179bfef222d0512e29a02ad3ab9ef9b7c46c639d4ac5211e2a2299c898"}
+
+===== PAGE 1 =====
+{"alpha_words": 83, "chars": 633, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+( Ft et or Gong |
+
+AP IN +: 3509 (25 guli6t)G O ii | NG page 2 of 4 |
+
+| |
+|
+
+|
+
+PAGE TWO RJYBND 3 |
+
+(5) IN TRAIL, APPROXIVATELY THREE MINUTES APART. |
+
+(7) NONE NOTED, |
+
+(S$) NOE NOTED. . |
+(9) MOVEMENT FROM EAST TO WEST. |
+B. DESCREPTION OF COURSE OF OBJECT(S): |
+
+‘
+
+Ci) FIRST OBSERVED ABOUT FOUR DEGREES ELEVATION BELOW MOONGN
+
+TiTUDE TEN DEGREES ABOVE HORIZON, TRUE AZIMUTH 266 DEGREES
+
+JANE UVERS NOTICED,
+
+C$) SEVEN MINUTES,
+
+(2) FIRST OBSERVED WITH NAKED EYE. IN ATTEMPT TO IMPROV VIS~
+IBILITY BY OBSERVING THROUGH PERISCOPIC SEXTANT OPTICS DID NO}
+AL 4 ORE DETAIL,
+52, IDENTIFICATION NUMBER DRAPE 27, ALTITUDE 38,900 FT,

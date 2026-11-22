@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T13:54:46Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1012952, "source_ctime_ns": 1793389131032979686, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302536818/0434.jp2", "source_mtime_ns": 1785808020000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302536818/0434.jp2", "source_sha256": "076a03ac87f5f201c8f5a48b9115eb830ce3674c5e1ea14e9c67c2eeb5824029"}
+
+===== PAGE 1 =====
+{"alpha_words": 110, "chars": 776, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+DEPARTMENT OF THe AIR FORCE
+MEOSAGLE STAFF ANSS.2GE BRANCH
+
+AF’ IN?:10985 (5 Dec64) Page 20f2
+PAGE 2 RUWHBSQ 6 UNCLAS
+
+NONE.
+K, REPORTING OFFICER IS LT. COL. FRANK L. HARDCASTLE,
+COMMANDER, 821ST RADAR SQUADRON. OBSERVERS ARE RELIABLE
+AND UNDOUBTLY REPORTED ACCURATELY THEIR VISUAL IMPRESSIONS,
+RADAR CORRELATIONS CANNOT BE ABSOLUTELY VIRIFIED SINCE
+RETURNS WERE WEAK AND TARGET(S) NOT CLEARLY DISCERNABLA
+EACH SCAN. THERE IS A POSSIBILITY OF FALSE TARGETS OR
+SPORADIC NOISE. TARGET(S) NOT CORRELLATEJ WITH KNOWN AIR~
+CRAFT IN IMMEDIATE VICINITY OF BAKER, NO HEIGHT CHECK MADE
+ON SEARCH RADAR RETURNS. HEIGHT RADARS CANNOT DE-ELEVATE TO
+NEGATIVE HORIZON ATTITUDES.
+L. EVIDENCE OF PHYSICAL EVIDENCE
+
+PNONE
+
+BT
+NOTE: Sec I is AF IN:1097 i? Dec 64)
+
+II is AF IN:10978 (5 Dec64)

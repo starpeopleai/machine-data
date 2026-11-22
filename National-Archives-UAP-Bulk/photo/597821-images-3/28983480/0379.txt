@@ -1,0 +1,45 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T14:11:44Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5129513, "source_ctime_ns": 1793382364516983634, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28983480/0379.jpg", "source_mtime_ns": 1785700721000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28983480/0379.jpg", "source_sha256": "bd4c1cf8b2adc9850f3bfdc8b7716464ac057c456e64ad8344d77ccda277a3cc"}
+
+===== PAGE 1 =====
+{"alpha_words": 77, "chars": 481, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+a
+_
+>
+
+- ; ~
+cyT Lr.
+
+RF1 6 -
+VOCZCSQOBS4SZCV YA234
+PP RJEDSQ
+DE RJESBA 22H
+
+P 1748452
+
+> 9
+J ¢
+Pe a
+Yay Gly Bea
+pS ee | eink
+nam Teta utes Ag eae ‘) 1
+v té i ct °F
+
+rc
+
+Fi) MOBILE ATR MATERIEL AREA BROOKLEY AFB ALA
+
+TO RJWFAL/COMDR ADC ENT AFB COLORADO SPRINGS COLO
+
+RJEDS@/COMDR ATIC WPAFB DAYTON OHIO-——
+
+RJESDB/COMDR 32ND AD MARIETTA GA
+
+RJEZHO/ASST CH -OF STAFF INTELLIGENCE HDQS USAF WASH D
+
+DIF TIN SALTET SY AF TNRARMATTOAN CERUTCSFS HO HAART WASH DC
+
+6:
+
+BE oy
+f 4
+bv Le

@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T14:21:35Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8239019, "source_ctime_ns": 1793384812996926357, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28991128/0818.jpg", "source_mtime_ns": 1785748435000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28991128/0818.jpg", "source_sha256": "e0125e4c374c18d66de856c60c4fdc33ef7b5faacd3f674a8fefe4a211e071e6"}
+
+===== PAGE 1 =====
+{"alpha_words": 107, "chars": 788, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+be la: Ca ae
+
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE DIVISION
+UNCLASSIFIED MESSAGE
+
+INCOMIWG
+
+2 of 2
+AF IN : 53029 (21 Jan 61) D/swe Page
+
+LIGHT AT 210030Z OBJECT EST AT 15900 ALT SUDDENLY CLIMBED TO EST
+21088 AND REMAINED STEADY. OBJECT SEEMS TO GIVE OFF RAYS LIKE SUN
+
+FROM ONE DIRECTION ONLY. AT 210120R BRANT POINT REPORTS OBJECT HAS
+
+MOVED FARTHER TOWARD THE EAST, IS SPHERE LIKE IN SHAPE AND IS 2 |
+TO 5 TIMES BIGGER THAN NORMAL STAR. AT 219145R BRANT POINT REPORTS
+
+POSIT DUE EAST AT 60-78 DEGREES ELEVATION. AT 210145R PERSONNEL
+
+AT SANKATY HEAD LIGHT STATION REPORT CONFIRM SEEING SAME OBJECT DUE
+EAST 60-78 DEGREES ELEVATION.
+
+BT
+
+CFN 2823@80R 210030Z 15000 21900 210120R 2 3 210145R 60-70 210145R
+68-70
+
+21/0704Z
+NOTE: ADVANCE COPY SENT TO CIN AND OOP-CP (210225L) Jan 61)

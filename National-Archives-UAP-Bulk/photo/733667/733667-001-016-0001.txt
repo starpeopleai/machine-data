@@ -1,0 +1,102 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T14:15:09Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6344756, "source_ctime_ns": 1793394219514583421, "source_file": "National-Archives-UAP-Bulk/photo/733667/733667-001-016-0001.jpg", "source_mtime_ns": 1785567339000000000, "source_rel": "National-Archives-UAP-Bulk/photo/733667/733667-001-016-0001.jpg", "source_sha256": "115304fd9ce9a6eac118e8414e20692c98c3e508c1e93f41c1f8675863fac645"}
+
+===== PAGE 1 =====
+{"alpha_words": 514, "chars": 3460, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+“ DAIL’ = ORD OF FACILITY OPERATION
+
+‘ember 17, 1986
+
+CHECKED BY
+LOCATION 4 IOENTIFICATION TYPE FACILITY OPERATING POSITION
+J Jowes
+
+—
+
+>
+
+Anchorage, Alaska ZAN ARTCC , AMIC .- [CHEF
+Q. GATES
+
+TIME _ *
+(GMT) - me an see _ —- 4 REMARKS ee ae _ ee ee er a
+{:
+
+0900 DG onw, opening log this date.’ FCO log attached. Previous log checkes
+
+-----«--| All control room equipment operating normal... ATCS S. Mejia SF160'
+
+to ODK on BF743 rtn on 11/18/86 on BF746. ATCS G. Workman SF160.
+
+to KTN on AS62 rtn today on AS67. | eee. .  .  , ae Sf
+-1130 -| TOTEM71 FBK-EDF diverted to EIL due to fog at EDF. . cine ak Sain eae nnnE
+1205 CBI terminal on control room floor ots. .. ‘ |
+bas. -* EARTS rane’ for maint. ok OS te ge Ge ano ce ent a a sta
+-1630 = SIGMET GOLF o1 distributed. Sede ptet se Lop tne eet as ge pete oe
+
+"1720 2] TRionwl Sey PE ee bee en a eAP eee
+
+a a here
+
+2025 -.| SIGMET GOLF | 02 posked. 1/8. ee | 2 eee eee
+
+- me
+
+1951 %:]| (Dlyd entry) .BKA radar ots. ‘iso -poisee ay = =
+$2118 5| mez _PAVLOF ‘eruption; “reported.” VER ‘vertical- Stee reported to -12; 500ft
+eras :| ROC-adsd.3 ie ot eo Pa en pci et it ee Gee pe ieee pep teatine Soyo
+008227 FDC .NOTAM requested® ‘to Flt Restriction NOTAM for Mt  PAVLOF ‘area. vist
+“SH7] Restriction within 5 “statute miles ‘to i4> 466-714, 500ms1 s— ZAN-1 j~~
+
+- a
+
+a ANC..FSS,.AZA ANC ATCT, ‘CDB FSS,EDF OPS adsd. Saf oo ee ee
+22127 3: | (Dlyd entry) BKA radar rts.%)0 ’:.428) aoras ica ai 2S ag
+
++2300 £| FDC :NOTAM 6/3177 tissued for ‘Mt <PAVLOF. "yoltanit activity soa
+£00042) TYO line _check. icompleted,i.all. parties reading. five . ae ae
+
+SYA ‘radar ots due to loss of mapper» “ROC,” ZAN-1 adzd * Fae EVE
+
++0010 -s- os
+23Ree3 =| SYA -radar-: xrts.~ROC; * ZAN@-1 . “adzd. 2 - DRE ENT EEA Page is BANE ere
+¥0035 2] FDC. ‘NOTAM . eens ‘adzd a O pneseass alt ‘on. a chilies restriction to # Bx
+
+=0036 = Oceanic Flow: ‘set. aLQ 5 mins “between ‘departures ‘all. ‘routes’ “from “anc £0008
+-0100 *}| AS on watch. Shegh. tins Thc: cg set eee ete ue. Gp cee
+
+0105 =| PAVLOF ' NOTAM “aititude raised’ to “PL270< ease SS Dae Aten
+~0110.-| S drift.of.Pavlof.ash added .to.FDC .NOTAM. #32 en
+20112 ; ANC Oceanic Plow cancelled." SEM TER ff ey ee ee a ee ae et ee
+‘| S0141 "=| FDC~91191B NOTAM~Sént for Mt.? *Mageik: tieieae ce
+
+=0201.5.] KING17.,C130 -OG -EDF._no incident.Gear. proglems 2.2m eS bre: oe
+0222. < JL1628, . HB747, BIKF.-.ANC reported traffic at his. altitude (FL350)
+ee one mile “witha white’ and yellow “Strobe.” AAL ROC & EDF ROCC ° notifed.
+| No-known traffic:identified iii oo os
+0233 =| JL1628's traffic ‘apparently pacing visually. =(ZAN rand “ROCC have Se
+a intermittent™ non” radar “contact” with “the unknown ergere Norte mee =
+ee i) Customs. <5 7%) I LF Oe fe ae _ tain hae
+0254 .| JL1628 has lost visual contact of the unknown target. pote eas ee
+O2ei.. ~ | EDF ROCC lost radar contact with unknown at a 7 o! clock position ——
+=x OF JLDG62Z8.. a ee te ih Be fe ates Pace
+0323 JL1628 OG ANC parking at INTL terminal. Acie is , oaks, oe a
+0350 — SIGMET Golf 4 distributed 3 T Fe art eT ern nC aerara
+
+-
+See
+
+e d -
+~
+1
+
+| CERTIFY that entries above are correct: SIGNATURE(S) OF WATCH Sv ren isonts)
+that all scheduled operations have been ro tamer
+accomplished, except as noted, and that all
+abnormal occurrences and condivons have. __
+been recorded. fat mom : ;
+
+FAA Form 7230-4 (+82) Supersedes previous edition
+° ef
+
+* ° . . .
+le eee Pe eee w @*% ese cam es" an : . ; .. . _ . . a . ae e

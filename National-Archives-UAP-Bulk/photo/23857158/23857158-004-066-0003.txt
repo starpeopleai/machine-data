@@ -1,0 +1,46 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T13:42:17Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9761928, "source_ctime_ns": 1793358888849148804, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-066-0003.tif", "source_mtime_ns": 1785681252000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-066-0003.tif", "source_sha256": "5741c1e37e5464a4e3d02a94723f9dd103827e37e329c6f9e3d42d756af5a550"}
+
+===== PAGE 1 =====
+{"alpha_words": 196, "chars": 1386, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Declassification Authority NND 923007
+
+ATSOP Tnooming Long Distance Call (Tie-1ine)
+
+\
+Condr, 46024 ATSS ATSOP 3 Oct 55
+0930 hours
+
+a/1G DeRudder/4498
+
+1, Telephone gonversation between A/Lo DeRudder, Headquarters, 46024 AIss,
+and Captain Bischofs, Detachment 2, 4602a AISS.
+
+2, Captain Bischofrs called the undersigned corcerning an iarestigation of
+sre rash of UFOB sightings in Towa during the past monthe A check of observa~
+ories ascertained that all the sightings 4n question could probably be attributed
+9 astronomical activity. Captain Biscnofs stated that investigation revealed
+that many stars, especially during the fall, have the appearance of changing é
+colorse Alternating red, green, waite, and blue are the predominant colors changede
+
+ae
+
+he
+
+¢
+
+cb er
+
+}
+
+3, it was requested that Detachment 2 investigate a UF0B sighting at Shelby,
+Towa. Detachment 2 was snformed that a copy of the UFOB report was available at |
+CADF, Grandview AFB, Missourie
+
+4. Captain Bischofs informed the undersigned that at the present cime they
+hava a man of liaison in Towa and the possibility exists that na might be con-
+tactad to perform the javestigation of this sightings In the event that the man
+on liaison cannot be contacted it was requested that Detachment 2 send one man and
+one man only to Shelby, Towa, to perform the investigations
+
+A/ic Ronald Deudder, USAF
+AIC, UFOB Program

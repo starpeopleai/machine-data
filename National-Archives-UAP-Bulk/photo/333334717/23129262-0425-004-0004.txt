@@ -1,0 +1,98 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T13:47:34Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 17607300, "source_ctime_ns": 1793361518968370900, "source_file": "National-Archives-UAP-Bulk/photo/333334717/23129262-0425-004-0004.tif", "source_mtime_ns": 1785565372000000000, "source_rel": "National-Archives-UAP-Bulk/photo/333334717/23129262-0425-004-0004.tif", "source_sha256": "8a1f9fc192f2177450e4b8a726440737dc2057d0bfd17943ba48bda5cbbceaa3"}
+
+===== PAGE 1 =====
+{"alpha_words": 126, "chars": 877, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Ne
+
+a
+
+eis: alta
+DECLASSIFIED Authority NW 45006
+
+ROUTING
+cOORDI-
+NATION
+
+STAFF
+ACTIVITY
+
+Hig
+Obj
+
+500 AB We, Mitchel AFB NY, subj: Report of Unidentified Celestial
+ct, BO 319.1
+
+47.6 (10 Dee 52) 2nd Ind
+
+CONTINENTAL AIR COMMAND, Mitchel Air Force Base, New York | ° /)|
+
+Chief, Air Technical Intelligence Center, Wright-Patterson Air
+
+Foree Base, Ohio
+
+ATINs ATIAA+26
+
+Basic letter is submitted in accordance with AF Letter 200-5,
+
+POR THS COMMANDING GENGRAL:
+
+ANAL
+
+agl
+
+STAT
+
+Cys of Incls not nec for AAG files
+
+q
+
+Aw
+4
+
+WALTER L. SIKORA
+
+Capt, USAF
+
+N
+
+INSTL
+
+MAINT
+
+MAT P
+
+MAT SV
+
+SUP
+
+TRANS
+
+HQ SQ SEC
+
+FOR DIRECTORATE US.
+
+PREPARED BY
+
+[se
+COORD INATED ee
+HQ ConAC FORM Th
+
+AMY Ly
+
+RECORD
+EVALUATION
+
+PERMANENT
+
+Capt W.L.Sikora/dmb/2250-17 Dec 52
+
+TEMPORARY (Until)
+
+1 ocT 51
+
+\
+
+AIR ADJUTANT GENERAL'S CENTRAL FILE COPY
+2 17 Mar 52
+
+EDITION OF 20 MAR S11. MAY BE USED.

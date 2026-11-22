@@ -1,0 +1,58 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T14:16:45Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6904416, "source_ctime_ns": 1793361762590534261, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330781368/45484701-001-003-0045.jpg", "source_mtime_ns": 1785685137000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330781368/45484701-001-003-0045.jpg", "source_sha256": "95f633adcfccca713258ea460cc350078c7cfab4945450e41b5205a8f4ac313d"}
+
+===== PAGE 1 =====
+{"alpha_words": 453, "chars": 2946, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+aheD
+
+1, This investigation was requested by Commanding General, Hq, AMC, Wright-
+Patterson AFB, Dayton, Shie, Technical Intelligence Division, regarding the .
+sighting of unidentified aerial phenomena by CHARLES WERNER and PETER HILDEBRAND
+during the week of 20 December 1948.
+
+At FREEDOM, Phy
+
+2. This is a joint investigation of Special Agent HARRY H. PERRY, dr,
+and the writer,
+
+3. On 10 February 1949, Mr. CHARLES WERNER, 1000 6th Averme, Freedom, Pa.,
+was interviewed in his home and stated in substance that on 17 December 1946 at
+approximately 0130 hours while working as a yardmaster in the railroad yard of
+the Spang-Chalfant Corporation, which is on the north side of Ambridge, Pas,
+he sighted what appeared to be a formation of spherical objects, approximately
+the dimension of a late full moon. ‘These objects were first sighted at a 45°
+angle above the horizon te the north, The objects appeared to be moving at a
+high rate of speed towards the south, At this time the topmost object appeared
+to dive beneath the formation and accomplish a sharp 90° turn to the right.
+
+This maneuver was followed by the rest of the formation, The objects then
+disappeared very high above the horizon towards the west where they faded from
+the view of the observer, All movements appeared to be definite as in controlled
+flight. The objects seemed to be whitish or luminescent and no exhaust vapors
+or flames were evidenced, At the time of this sighting, the sky was clear, moon-
+lit, and visibility according to the observer, was excellent. Jt was estimated
+the objects were visible for approximately thirty (30) seconds and appeared to
+
+be rotating around their axes, lle lights other than the overall luminescence
+
+of the object were apparent and no antennae, wings, fins, projections, propellers,
+slots, ducts or openings were visible. At the time of the sighting WEENER was
+standing near a railway switching locomotive and therefore could not definitely
+state whether or not there was any noise emanating from the objects, “WERNER
+stated he has no hobbies as his family and position take up most of his time,
+WERNER, upon request and to the best of his ability, drew a rough sketch of the
+objects which is imlosed with this report as Exhibit "4", and at a later date
+mailed te this office a page from an unnamed magazine, depicting objects similar
+te the ones he sighted, which is attached hereto as Exhibit "3".
+
+NOTE: WERNER appeared to be an intelligent, conscientious, reliable,
+sober family man,
+
+AT MEW BRIGHTON, PA
+
+he On 24 February 1949, Mr. PETER HILDEBRAND, RD. #2, Marion Mill, New
+Brighton, Pa., was interviewed in his home and stated in substance that on 17
+December 1948 at approximately 0130 hours, while working as conductor in the
+railread yards of the Spang-Chalfant Corporation, Ambridge, Pa., his attention
+was attracted by a shout from the night yardmaster, CHARLES WEAKER, who was
+
+Declassification Authority: NND 923007

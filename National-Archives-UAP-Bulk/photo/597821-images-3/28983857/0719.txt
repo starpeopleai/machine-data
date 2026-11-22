@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T14:11:52Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5277606, "source_ctime_ns": 1793382431359865532, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28983857/0719.jpg", "source_mtime_ns": 1785700713000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28983857/0719.jpg", "source_sha256": "48ec7773291fee2ed80b8f6bf4ea8f0688c7e9d539e95d3f8518d49a1f692e1a"}
+
+===== PAGE 1 =====
+{"alpha_words": 61, "chars": 418, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PAGE TWO RJWZGUL 3
+(8) CITY SOUNDS TOO LOUD TO HEAR
+
+ATOATSES
+WOW
+
+DESCRIPTION OF COURSE OF OBJECT.
+
+(1) HAD BEEN WATCHING JETS, SAW THIS .TO SIDE CALLED WIFE TO
+
+COME LOOK a
+(2) FACING NORTH=50 DEGREES--60 DEGREES HIGH
+€S) 9 SOUTH 50 DEGREES--60 DEGREES
+MADE 2 TURNS--MEDIUM RATE OF TURN
+FADED TO SOUTH MOVED 4 TIMES FASTER THAN JETS IN AREA
+
+L722 TO: MINUTE
+
+MANNER OF OBSERVATION
+Cid) GROUND=-VISUAL
+(2) NONE
+
+N/A

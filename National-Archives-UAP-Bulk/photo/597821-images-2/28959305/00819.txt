@@ -1,0 +1,12 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T14:11:29Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5125987, "source_ctime_ns": 1793376113242431887, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28959305/00819.jpg", "source_mtime_ns": 1785696465000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28959305/00819.jpg", "source_sha256": "6a78f53e21a1bfe95afc5c819325ecbc9ba2db2cbbedb7c47e1434fb6469940a"}
+
+===== PAGE 1 =====
+{"alpha_words": 31, "chars": 166, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+USAF WASH DC rit
+
+DSN COMAIRDEF COM ENT et Jig ‘COLO.
+OM AMC | voles bes PATTERSON AFA O4IG
+CLN ATIC Fich [iN 972 RE MSG FM COMDR FLIGHT
+MAXVELL AF 5
+
+AVILAGLE Tals

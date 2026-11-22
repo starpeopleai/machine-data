@@ -1,0 +1,79 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T14:09:37Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4489190, "source_ctime_ns": 1793359909006124013, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-011-032-0001.tif", "source_mtime_ns": 1785681563000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-011-032-0001.tif", "source_sha256": "d8d69f9614426427fe97635e6b8cd1a60ae53d346c9ffb68e01cf930ab2e99a6"}
+
+===== PAGE 1 =====
+{"alpha_words": 96, "chars": 744, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Declassification Authority NND 923007
+
+k6Q2D AISS UFOB LOG
+
+|PEPORT NUMBER
+} ATSS=#JF0B's.. seeseeneoce
+| B587-88—_90-92
+
+DATE/TIME OF SIGHTING
+
+27 March thra l Apr
+
+RECD AISOP
+
+27 Mare-~1 Apr
+
+LOCATION OF SIGHTING
+
+Lake Leelanau, Michigan area
+
+_ {LOGGED BY
+
+.
+| S/Sgt De“ndader
+
+MEANS RECD
+
+4 TT Msgs
+
+ACTION TAKEN
+
+Investigation authorized
+
+INVES UNIT
+
+Flt 3-6
+
+DATE INVES ASSIGNED
+
+1 Apr 56
+
+ASSIGNING OFFICER
+_ Req by D/I, 37th ADiv
+S/Set Deitudder |
+
+~—t,
+v
+i
+
+DATE IR RECD HQ
+
+| L? Apr 56
+
+DATE IR APPROVED
+
+17 Avr 56
+
+DATE IR TO ATIC
+‘17 Apr 56
+
+DATE FORM 5
+
+17 Apr 56
+
+“WAS ASTRONCMICAL: Venus
+
+COMMENTS
+
+revealed
+
+_ Investization rff¢deddd that this sighting was venerated by the nanet
+. Veruse
+CONCLUSICN
+
+ATSOP FORM 7 (2 APR 55) .

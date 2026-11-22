@@ -1,0 +1,63 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T13:39:27Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8660065, "source_ctime_ns": 1793364478044310818, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787145/45484701-007-001-0094.jpg", "source_mtime_ns": 1785684564000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787145/45484701-007-001-0094.jpg", "source_sha256": "ef74f045129bf59e956a033faed453e1060802cce9ef0e7dd149a48431a4f370"}
+
+===== PAGE 1 =====
+{"alpha_words": 172, "chars": 1224, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+INFORMATION RAL
+IVE JIN UK JPY
+
+mm f4k on SR a a
+
+From Sth D istrict OS!
+Wricht-P tHarca
+ViIgneralléersan | Air FO! Ge Base
+OHIO
+
+5D=24 210179 23 August 1956
+
+SUBJECT: (Unclassified) oe
+Report of Hnidentified Flying Object as Seen by
+WILLIAM T)’ LUMPKIN, Civilian, 1723 Castellana,
+la Jolla, California, on 6 August 1956 in the
+
+general vicinity of La Jolla Shores, California
+
+Commander
+
+Air Technical Intelligence Center TIAIC] ASSI
+ATIN: AFOIN Eh UNC |
+Wright-Patterson Air Foree Base
+
+Ohio
+
+1. Transmitted herewith for your information is one (1) photo-
+Static copy of Spot Intelligence Report, dated 17 August 1956, from
+the 18th OSI District (IG), CGheli AF Station, Maywood, California,
+file 18D 2i:+0-191, concerning sub ject mtter.
+
+2. Your attention is invited to the provisions of AFR 12\<1l,
+which prohibit the release of investigative information to unauthor-
+ized persons,
+
+1 Incl Wm G. HINES
+Spot Rpt dtd 17 Aug 56 Colonel, USAF
+District Commander
+
+_SoPy furnished :
+
+Dir OSI w/o Incl ae
+Roa CLASSIFICATION CANCELLED ¥
+BY AUTHORITY OF THE DikzcTo
+
+ths oS KUNZ. Capt USAF
+
+cee enety ee ee
+
+ih ATE:
+ee ia wie ae
+
+i ays i Neh srs
+tay pe
+stam piety “ROR OFFICIAL u
+190-16)
+
+Declassification Authority: NND 923007

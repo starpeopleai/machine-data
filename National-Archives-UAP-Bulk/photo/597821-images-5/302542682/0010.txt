@@ -1,0 +1,44 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T13:53:54Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 955666, "source_ctime_ns": 1793389673848505407, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302542682/0010.jp2", "source_mtime_ns": 1785808215000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302542682/0010.jp2", "source_sha256": "f22302f1cb9aada847838595a258f46d8d76784a8966da5833e198bac0dd5556"}
+
+===== PAGE 1 =====
+{"alpha_words": 130, "chars": 935, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+b. Angle or elevation and azimuth of object(s) when first
+observed.
+
+Appeared to be above a cloud level above the local thunderheads
+
+80 degrees
+
+c. Angle or elevation and azimuth of object(s) upon disappear-
+ance.
+
+Climbing at 45 degrees to west at a moderate rate
+
+d. Description of flight path and maneuvers of object(s)
+
+Gain altitude slowly and rapidly loose altitude several times
+
+e. How did the object(s) disappear? (Instantaneously to the
+North, etc.
+
+Slowly climbed out of sight to the west at a 45 degree angle.
+
+f. How long (were) the object(s) visible? (Be specific,
+5 minutes, I! hour, etc.
+
+Estimated at 30 minutes
+
+oe
+
+3. Manner of Observation:
+
+a. Use one or any combination of the following items:
+Ground-visual, air visual, ground-electronic, air-electronic.
+(if electronic, specify type of radar)
+
+Ground - visual
+
+b. Statement as to optical aids (telescopes, binoculars,
+etc.) used and description thereof.
+
+None

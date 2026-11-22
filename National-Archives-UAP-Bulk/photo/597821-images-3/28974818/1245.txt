@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T14:22:24Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8801271, "source_ctime_ns": 1793380179955352233, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28974818/1245.jpg", "source_mtime_ns": 1785700710000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28974818/1245.jpg", "source_sha256": "832fcf603fc1876c337f27ee6e0de5c0c02b2cd42b5bd0afbd9a5bc4490e6b8c"}
+
+===== PAGE 1 =====
+{"alpha_words": 100, "chars": 643, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+SAGURITY CLASSIFICATION $ (If anv)
+
+DISPOSITION FORM
+
+FILE NO. eee SUBJECT
+UFOB Report
+10 ayoTN-beh FROM arctN-hAo? DATE 6 Dec 57 COMMENT NO. |
+
+Maj Re Me Buckmaster/11
+Ext. 5-9196/Bldg 263/EN
+
+Lack of data in this report prevents any photo analysis except that prints
+were made from negatives that are present and that the streak and dats on nega-
+_ tive are actual exposures. These exposures could have been made in many ways;
+_ therefore, there is no way to positively prove anything except that there are
+aXPOSuUres «
+
+ROBERT M. BUCKMASTER
+
+Major, USAF
+AFCIN=4.A2?
+SRSA a trsteaaisbit ee ea Me RAM ahaa RY ass (agi Sis, ‘iNis a aeha * is

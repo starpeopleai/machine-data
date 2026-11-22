@@ -1,0 +1,51 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T13:43:40Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10266496, "source_ctime_ns": 1793358177093487478, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-001-048-0004.tif", "source_mtime_ns": 1785681014000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-001-048-0004.tif", "source_sha256": "6cd74b291072fb18022c9c35c8866658e2a8e7d486c8f15fffe302e03d3e33c6"}
+
+===== PAGE 1 =====
+{"alpha_words": 175, "chars": 1376, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Declassification Authority NND 923007
+
+BSE FORM 112—PART IE | __UNGLASSIFIsD
+
+u LFICATH
+PAPPROVED t JUNE 1948 (CEASSIFICATION)
+
+AIR INTELLIGENCE INFORMATION REPORT
+owing) AS Force Cambridge meson ne
+P Research Center, Bedford, Mass.| JL.
+
+(3) (a) Ground Visual.
+) N/A
+(c} N/A
+
+(a) (a) 06102, 10 Nevenbor 1954. &
+(6) Dawn es
+
+(5) (a) Observers riding in vehicle on » Hows ¥ (Mass. ) nearing Townsend
+Massachusetts.
+
+“Vanchester, Ne He eepsneeetea | |e
+_ _ , Manchester, 1 - He) ro oe ie
+Foundry worker. . i a eee
+
+—&) (a) Clear, bright dawn co ee _ .
+
+(o) AWS, Bedford (L. G- Hanscom Field) Yassachusetts. ne: From 2400.
+
+s/t t ey IO) COOCS Me We ein to 5K -
+10,000" to 25,000': N. at 5K to N. we ae £35k
+nee 030" to ee He cat. 60k.
+
+©) seilaatiied
+(4d) Clear, 15 nila or better at all ace
+Ce) None.
+(f) Tons.
+(3} (a) None observed or known.
+(9) (a) None.
+{10) (a) ‘Negative.
+
+(11) (a} Preparing officer, Richard P. dines, een, Technical: Taformat ion o
+Section, Acting AF cenirligS Research CoB, Intelligence “tetcer:
+
+WOME: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE <THE
+3F AND 22, AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER. TO AN UNAUTHORIZED PERSON 1S PROHIBITED BY LA
+FE -MAY NOT. BE REPRODUCED iN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEFT BY PERMISSION OF THE, DIRECTOR OF

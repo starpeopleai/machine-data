@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T13:56:55Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1281944, "source_ctime_ns": 1793392088809493159, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302563990/1454.jp2", "source_mtime_ns": 1785808274000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302563990/1454.jp2", "source_sha256": "1cecfe4bfe0fbb7e16a8cb0e5ecef29213535960b33b62ac21729ce247f058da"}
+
+===== PAGE 1 =====
+{"alpha_words": 58, "chars": 376, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+DEPARTMENT OF THE AIR FORCE
+STAPF MESSAGE BRANCH
+INCOMING MESSAGE
+
+AFIN: 50488
+
+Pg 5of 5
+
+CENTER OF THE CITY DUE TO INTERVENING PEAKS. NO EXPLANATION
+AN BE GIVEN FOR THE REPORTED MOVEMENT OF THE OBJECT REPORTED.
+
+MILITARY AND CIVILIAN ACFT OPERATIONS WERE AT A LOW PEAK
+DURING THE TIME OF THIS OBSERVATION.
+
+BT
+
+NNNN
+
+AFHOQ oe 0-309C UNCLASSIFIED
+
+UNCLASSIFIED ae
+
+-_ aE ee =

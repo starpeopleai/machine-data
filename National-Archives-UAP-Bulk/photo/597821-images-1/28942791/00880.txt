@@ -1,0 +1,41 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T14:08:03Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4244871, "source_ctime_ns": 1793372450395967494, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28942791/00880.jpg", "source_mtime_ns": 1785688484000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28942791/00880.jpg", "source_sha256": "3ce817b95dd967231fa093ff1551b378ea9c150b9b7318e4030ca7336cfabe27"}
+
+===== PAGE 1 =====
+{"alpha_words": 177, "chars": 1254, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+~“@
+
+Dreher Brow gs ignt ings Ps
+
+He compared its speed to that of a jet fighter and estimated
+that it was going three times faster thah a jet. It left
+
+? no trail or smoke. ‘the day was clear and there were no air-
+
+planes in view.
+
+George Dreher's background
+
+3 George Turner Dreher resides at £.1114 Thurston St.
+
+~ Spokane (phone ‘Riverside 7876) and works in Osborn, Idano
+
+as chief engineer for radio station KWAL. He has worked in |
+this field for 14 years. During the war years he served as
+a Marine radar technician in the Southwest Pacific theatre.
+He was descrived by his friend Brown, as being a serious,
+Clear-thinking person althougn inclined to become excited
+over such things as this efit a eae
+Weather and Winds
+
+The Geiger Station Westher reading for 0928 PST was:
+visibility 40 miles, sea level pressure 1,015.2 mb, temp-
+erature 68 degrees, surface winds ENE 5 knots, altimeter
+30.00, humidity 36%, cloud cover less than 1/10 of sky with
+cirrus and alto cuzmlus. Below are the winds aloft as of the
+0900 PST reading and are given in standard U.S. Weather
+sequence.
+00205 0512 40714 0911 61008 1208 81707
+2106 Q2105 22406 42312 62419 82421 02424
+52528 02526 52358 02330 52527 02636
+
+Low volicities over 50,000 ft were not recordable.

@@ -1,0 +1,53 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T13:34:54Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7843887, "source_ctime_ns": 1793363334611555491, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785085/45484701-005-003-0038.jpg", "source_mtime_ns": 1785684908000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785085/45484701-005-003-0038.jpg", "source_sha256": "4ac5a96fbc12dd43b46e1968be0835334e51119a7deba18f836c616d2ea04b0c"}
+
+===== PAGE 1 =====
+{"alpha_words": 387, "chars": 2552, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Air Rescue Squadron presently had a helicopter in Sylacauga to obtain the object
+reported to have fallen in that area, and it was expected to return to Maxwell AFL
+at approximately 1715 hours.
+
+6. At 1700 hours, 30 November 1954, the late edition of the Alabama Journal,
+a local newspaper, was screened for publicity concerning the cited reports, The
+following item was listed on the front page of said newspaper and is quoted
+verbatim below:
+
+"PILOT REPORTS BLAST 60,000 FEET ABOVE MONTGOMERY
+
+"A pilot flying over Montgomery early this afternoon reported sighting
+of an explosion of an unidentified object over Montgomery, about 60,000 feet
+
+up.
+"The ebject exploded about 1:30. The pilot was not identified.
+
+"Meanwhile, a resident of the Cloverland area reported she saw an object,
+which she described as larger than a fireworks display, disintegrated before
+it hit the ground,
+
+"Police said they. did not have any report of the alleged explosion and
+the Highway Fatrol reported that a search was on in the Sylacauga area for
+resorted unidentified object which fell with a flash in an area north of
+Montgomery and southeast of Birmingham,
+
+"Reports received here at 2 p.m. said what appeared to be an explosion
+was heard high over Sylacauga. An unidentified object fell through the roof
+of a home and injured a woman,"
+
+7. At 1730 hours, 30 November 1954, R. B. ROBERTS, Captain, 25792A, 48th
+Air Rescue Squadron, pilot of helicopter referred to previously, returned from
+Sylacauga, Alabama, and released to Special Agent ATCHLEY the object which
+allegedly fell through the roof of a house in Sylacauga. The object was estimated
+to weigh approximately nine (9) pounds, and appeared to be of rock or metallic
+substance, and was of black or charcoal color. ROBERTS advised that he had ob-
+tained this object from Mayor EDWARD J. HOWARD and Chief of Folice W. D. ASHCRAFT
+at Sylacauga, Alabama, ROBERTS stated ASHCRAFT informed him to the effect that
+Mrs, HEWLETT HODGES, Oak Grove Community, three (3) miles east of Sylacauga, had
+reported to him that between 1245 and 1300 hours, 30 November 1954, the object
+fell through the roof of her house while she was lying on the couch, and struck
+her on the body. ASHCRAFT stated to the best of his knowledge, the object was
+not hot when it struck Mrs, HODGES, nor was it hot when he obtained it from Mrs,
+HODGES,
+
+8, At 1800 hours, 30 November 1954, Ist Lt. GEORGE R. BUMFORD, Flight
+Service Center, furnished the log book of 48th Air Rescue Squadron Operations for
+
+Declassification Authority: NND 923007

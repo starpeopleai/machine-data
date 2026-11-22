@@ -1,0 +1,42 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T13:35:04Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7865532, "source_ctime_ns": 1793387498534872542, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28998768/0759.jpg", "source_mtime_ns": 1785748343000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28998768/0759.jpg", "source_sha256": "43f69b03770caaa67f28c357add2be810184038e43098b7c0903cf1717cea3db"}
+
+===== PAGE 1 =====
+{"alpha_words": 148, "chars": 1087, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+- CONCLUSIONS
+
+assumed to be retrograde satellite
+
+by observer, Obsvation through tele-
+scope, Rate of speed for 50 dgr
+
+arc Was 25 minutes, Object had
+
+three lights one red & two white.
+Visually obj looked like ECHO. Lights
+visible only through TX,
+
+1. DATE 2. LOCATION 12
+0 Was Balloon
+23 August 1952 Baltimore, Marviland GQ Probably Balloon
+re 0 Passibly Balloon
+a. DATE-TIME GROUP 4 TYPE OF OBSERVATION
+ix Was Aircraft
+Locel pape ati of ye TK © Ground-Rador OQ Probobly Aircroft
+oMt.24/02447 NABH, 0 Air Visvol 0) Air-Intercept Redor O Possibly Aireroft
+4. PHOTOS 6. SOURCE O Was Astronomical
+O Yes 0 Probably Astronomical
+| XK Ne Civilian O Possibly Astronomical
+7. LENGTH OF O8SERVATION 8 NUMBER OF OBJECTS | 9. COURSE O Other
+O Insufficient Dota for Evaluation
+1 ; ; f O Unknown
+25 Minutes each pass one each time NW
+10. BRIEF SUMMARY OF SIGHTING 14, COMMENTS
+Report of several passes of obj speed of obj and duration consis-
+
+tent w/snalysis of obj as high
+flying jet a/c, No reason to
+evaluate anything other than a/c,
+
+ATIC FORM 329 (REV 26 SEP 52)

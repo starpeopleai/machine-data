@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T14:09:35Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4415806, "source_ctime_ns": 1793373441822091996, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28946758/0758.jpg", "source_mtime_ns": 1785688937000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28946758/0758.jpg", "source_sha256": "faa1ed448f599d3c5b6193a2d6f155bdde9f6483f69aa41300bfa167eb3c14d6"}
+
+===== PAGE 1 =====
+{"alpha_words": 36, "chars": 256, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+@ weirs:
+
+ate h2
+
+“AIR INTELLIGENCE INFORMATION REPORT
+
+icD
+
+ein ate Davis ton (Dee)
+
+pees
+
+| Hon Applicatis
+
+b§ I
+
+PAGES
+
+rs.
+
+(1) ees! ‘Wegative: a
+
+we
+
+case: Pe
+
+Sizet:.-. ee . seas Piaget
+
+pei aitae ae Scaskeee
+sare ts oe Syotems Begative
+. Speeds =<

@@ -1,0 +1,43 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T14:13:09Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5646527, "source_ctime_ns": 1793388521209850580, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/29001434/0526.jpg", "source_mtime_ns": 1785808521000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/29001434/0526.jpg", "source_sha256": "d44e4b5bdf2663561a90bd137a54638bf8b10141843da8d4c1a5c7171d9a983e"}
+
+===== PAGE 1 =====
+{"alpha_words": 109, "chars": 713, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+DEPARTMENT OF THE AIR FORCE
+
+STAFF MESSAGE BRANCH
+UNCLASSIFED MESSAG!
+
+NNNN | INCOMING 0 |
+AF IN: 17693 (28 Jun 63) A/ab
+ACTION: NIN-9 nN
+INFO : XOP-1, XOPX-4, SAF-OS-3, DIA-25, DIA(CIIIC)-2 (45)
+
+SMB CO11 | ar
+
+D781ZCGFB920
+
+PP RUEAHQ
+
+DE RUEAGF 345A
+
+ZNR
+
+P 2730002
+
+FM 2856ABWG GRIFFISS AFB NY
+TO RUWGALE/5 ADC ENT AFB COLO
+RUEASN/26AIRDIV HANCOCK FLD NY
+RUCDSQ/FTD WPAFB OHIO
+RUEAHQ/CSAF
+RUEAHQ/OSAF WASH DC
+BI
+UNCLAS ROBB 34667
+FOR AFCIN AND SAFOI. OUR ROBB 34439, UFO. RADC RAUER-2
+RELAY AND SCATTER SECTION STATES PROBABLE IDENTIFICATION
+OF UFO aS ECHO 1 WHICH IS MAKING VISIBLE PASSES THIS
+AREA. REPORTED TIMES OF SIGHTING CONCIDE WITH THEIR
+DATA.
+BT
+27/2031Z2 JUN RUEAGF
+
+NOTE : Adv cy del to NIN & DIA

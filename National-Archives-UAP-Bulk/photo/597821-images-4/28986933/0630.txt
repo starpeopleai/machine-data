@@ -1,0 +1,34 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T14:23:47Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8880151, "source_ctime_ns": 1793383404281898918, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28986933/0630.jpg", "source_mtime_ns": 1785748212000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28986933/0630.jpg", "source_sha256": "bebf55dfd0f62b5f671da1132ea74dcbe2fdf9e3296eeae4be3fb2c9c9556849"}
+
+===== PAGE 1 =====
+{"alpha_words": 61, "chars": 474, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+REPLY TO
+ATTN OF;
+
+SUBJECT:
+
+TO:
+
+HEADQUARTERS DETACHMENT 2
+AIR FORCE RESEARCH DIVISION (ARDC)
+UNITED STATES AIR FORCE
+LAURENCE G. HANSCOM FIELD BEDFORD, MASSACHUSETTS
+
+CRZTS
+
+Transmittal of Letter from QR
+
+MAY 3 1 i960
+
+ATIC (Maj. R. J. Friend)
+Wright-Patterson AFB, Ohio
+
+Attached letter is forwarded as pos Sibly pertaining to your area
+
+of interest.
+
+FOR THE COMMANDER: | /
+ALAN M. GERLACH Attachment
+Chief, Programs Division . Ltr a/s
+
+Geophysics Research Directorate

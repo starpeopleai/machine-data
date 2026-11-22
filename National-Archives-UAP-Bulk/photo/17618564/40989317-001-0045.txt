@@ -1,0 +1,47 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T13:55:28Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1166668, "source_ctime_ns": 1793356318565880625, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989317-001-0045.jpg", "source_mtime_ns": 1785564672000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989317-001-0045.jpg", "source_sha256": "754ba833d7e63699a175defb445521e6e81714c96337e1384b5a62427814cf5f"}
+
+===== PAGE 1 =====
+{"alpha_words": 239, "chars": 1505, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Room 3-D-1000. . . 20. November 1945
+
+Dr. Maurice Ewing
+Woods Hole Oceanographic Institution
+Woods Hole, Massachusetts
+
+Dear Dr. Ewing:
+
+For my long delay in answering your letter of 24 October I must
+apologize. Numerous trips have cut almost to nothing the time
+I am allowed to spend in the office, but your report on "Long
+Range Sound Transmission in the Atmosphere" has been given dis-
+tribution to varicus members of the Air Force staff. They all
+agree with you that. the existence of an atmospheric sound axis
+is of great military importance. ‘
+
+It is believed that experiments are premature at this time, but.
+that after a thorough study of existing information a program of
+experimental procedure can be devised. Therefore, it is not pos-
+sible for me at this time to give you definite word in answer to |
+your desire to direct a preliminary investigation through the
+facilities of Columbia University.
+
+However, if the outcome of research by our Air Technical Service
+Command should prove favorable, it is hoped that an experimental
+project be established both to determine the characteristics of
+the atmospheric sound axis and to devise equipment for the mili-
+tary utilization of this phenomenon. At this time I should cer-
+tainly count on you.
+
+It was most enjoyable lunching and talking with you. I hope
+
+we may have another meeting in the not too far distant future,
+and thet in the meantime keep in touch with each other through
+
+letters.
+
+Best regards.
+
+Sincerely
+
+Carl Spaatz
+General, USA

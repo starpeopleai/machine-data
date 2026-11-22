@@ -1,0 +1,67 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T14:04:20Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1796826, "source_ctime_ns": 1793391834954430585, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302562052/01084.jp2", "source_mtime_ns": 1785808023000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302562052/01084.jp2", "source_sha256": "dd20b1de3132a36dfefaf61f58f408052ecb1204da00b79949a8ee0fee0eebc4"}
+
+===== PAGE 1 =====
+{"alpha_words": 229, "chars": 1531, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Page 2
+
+_ ee
+
+oa
+
+8. IF you saw the object of NIGHT _what did you notice conceming the STARS and MOON?
+
+8.1 ST ARS (Circle One): 8.2 MOON (Circle One):
+a. None a. Bright moonlight
+b. A fom. b. Dull moonlight
+| q ‘Many. as -. €s. NO moonlight — pitch dark
+d. Lon't remember | iene d. hse t'remamber >
+
+9. What wers ‘ne weather conditions ot the time you saw the object?
+
+CLOUDS (Circie One): = (Circle One):
+-—@, Clear sky ) is a, Ory x
+~b. Hazy ——b Fog, mist, oc light roin
+c. Scetter=c clouds c. Moderate ar heavy rain
+d. Thick « heavy clouds d. Snow |
+a e. Don’t remember
+
+ee ome, ew ce wore ne
+
+10. The object sopeared:. (Circle One}.
+
+a. Sofid ce  d. Ass fight Re,
+b, Transparent e. Don’t remember
+Cc. ¥Spur
+
+Hi. If it aspecred os a light, was it brighter than the brightest stars? (Circle One):
+
+--@. Srighten, c. About the same
+
+oe
+
+&. Dimmer d. Don't know |
+
+11.1 Compore bichtness to some common object: > - aS " : |
+
+12. The edges cf the abiect ware:
+
+(Circio ioe) a. Fuzzy of Siurred- e. Other |
+a. Liae o brigne stor
+i. Shorpiy sutlined
+
+haa
+
+Son't remember
+
+13. Did the objac:: (Circle One for each question)
+
+a. Appecr to stand still et ony time? “Yes No Don’t know :
+
+b. Suddenty speed up ond rush away at any time? Yes / No? Don’t know }
+* c. Breck up into parts of explode? Yes Nd) Don’t know
+d. Give aff smoke? Yes <No” Don’? know
+e. Change drichtness? | - Yes, No Don’t know
+f. Change shepe? | : Yes > No Don’t know
+
+g- Flash or flicker? . Yes > No_ _ Don’t know
+' h. Disappecr cnd reappear? Yes No») Don't know

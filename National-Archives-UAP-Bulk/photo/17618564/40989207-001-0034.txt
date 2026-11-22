@@ -1,0 +1,94 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T14:24:34Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9321871, "source_ctime_ns": 1793354417302169520, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989207-001-0034.jpg", "source_mtime_ns": 1785564281000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989207-001-0034.jpg", "source_sha256": "1bb6a0caa2ba9dccab9c61b4b1e5b0788f480f6b5efb2979eef1622d523804e1"}
+
+===== PAGE 1 =====
+{"alpha_words": 451, "chars": 3100, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+T-10 Hush House Infrasonic Source Model
+
+Acoustic Source
+
+Deflector Plate Test Cell
+
+TECHNOLOGY DESCRIPTION: Jet engineground run-up tests are a necessary part of
+aircraft engine maintenance. These tests for engine airworthiness produce high levels of noise
+and, as a result, community disturbance in the areas surrounding the test point. Several
+methods of mitigating the impact on nearby communities have been developed ranging from
+noise barriers to noise suppression test cells such as Hush Houses. Each method has
+advantages and disadvantages that must be weight before selecting the appropriate method for
+any use. Noise suppression in a Hush House, for example, is achieved, at least in part, by
+conversion of energy in the audible range to acoustic energy below the frequencies of human
+hearing. These infrasonics are, in turn, capable of producing nuisance vibrations in structures
+up to a mile from the Hush House site.
+
+TECHNOLOGY RECIPIENTS: Headquarters, US Air Force, Environmental Planning
+Division
+Board of Supervisors, County of Fairfax, Virginia
+
+TECHNOLOGY BENEFICIARIES: ACC, Dulles International Airport
+
+TECHNOLOGY PAYOFF: Understanding of improved ground run-up noise mitigation
+techniques improves aircraft safety and ground maintenance turn around by allowing aircraft
+to be tested closer to maintenance facilities than previously possible. For the community as a
+whole it improves the quality of the environment by reducing a major source of airbase or
+airport ground operation noise.
+
+18
+
+GS
+V) | oe
+a Ceres
+F Le
+SY wares
+; oad ne foe pares
+aa Stayt
+ae ashi Bet
+@) . fea
+He oe ee
+5. ; Bes
+le oe Se Peay - Bs
+= + See
++ Bees ty ie +
+Se + e
+Se “23 +. ae <a
+>
+KH i PAPE we
+Sy atte
+pire as
+> n> +>
++
+1) —
+cea
+Ba
+<
+Se em oe Ve eV 1 IL
+
+BUOY WIND (m/s)
+
+Fig. 7.9 Scatter-plot of SSM/I wind speed estimates from the GSW algorithm
+
+and coincident wind speed measurements from NOAA buoys 42001 and
+42002 made during the time period 1Sep87 through 1Mar88. The SSM/I
+brightness temperature difference, Z'g(37V) — Tp(37H), for data used to
+
+create this plot was always greater than 35 IC.
+
+TECHNOLOGY DESCRIPTION: Brightness temperatures due to the energy
+emmitted and scattered in the microwave frequencies from ocean
+surfaces and moisture in the atmosphere are measured by the Special
+Sensor Microwave/Imager (SSM/I) on board the DMSP satellite. Waves
+and foam on the ocean surface, due to wind, affect the brightness
+temperature sensed. The basic algorithm relates brightness
+temperatures received by the SSM/I to ocean surface roughness due
+to winds. Improvements to the original ocean surface windspead
+algorithm were developed. The improved algorithm compensates for
+some degradation of windspeed estimates due to precipitation. In
+addition, the criteria form edetexmining the, accuracy of. the
+estimated winds were improved.
+
+TECHNOLOGY RECIPIENT: AFGWC
+TECHNOLOGY BENEFICIARIES: Joint Typhoon Warning Center
+TECHNOLOGY PAYOFF: The improvements make this algorithm a more
+
+useful tool in the region around typhoons and hurricanes for
+estimating the extent of damaging winds.
+
+19

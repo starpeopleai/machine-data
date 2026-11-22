@@ -1,0 +1,34 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T14:08:59Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4355008, "source_ctime_ns": 1793377807938390781, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28965501/0270.jpg", "source_mtime_ns": 1785696824000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28965501/0270.jpg", "source_sha256": "a48a830fbefcc96eedf26dfc9f2296cb1c9bbdcb2c9579ec80293a361a38fa22"}
+
+===== PAGE 1 =====
+{"alpha_words": 137, "chars": 1055, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PPR Pree eee MEATS 7 FAD PITH en . r Page rpm “es Pears aeeeery mente ny tt tal aude)
+
+De th PROJECT 10073 RECORD CARD
+
+1. DATE 2. LOCATION ‘ 12. CONCLUSIONS
+C~m Ie
+} LA) jaa 1 Po inf 0 Was Balloon
+4 May 1956 Marinette, Wtrenigen O Probably Balloon
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION O Possibly Balloon
+j O Was Aircraft
+Local OGround- Visual O Ground-Radar GQ Probably Aircraft
+GMT05/0230 to 03302 D Air Visual D Air-Intercept Radar QO Possibly Aircraft
+O Yes O Probobly Astronomical
+MkNo Civilian O Possibly Astronomical
+7. LENGTH OF OBSERVATION 8. NUMBER OF OBJECTS | 9. COURSE O , Other
+WX Insufficient Date for Evaluction
+O Unknown
+]_ hour 1-6-2-9 WN W
+10. BRIEF SUMMARY OF SIGHTING 11. COMMENTS
+
+Round objects size of baseball, color | Insufficient data for evalua-
+reddish orange - in U shaped formation.tion. No record of reply to
+
+1 sighting 6 objects - 1 sighting 2 request for additional infor-
+objects. One sighting 9 objects - mation,
+
+on a WNW heading straight line of
+flight, disappeared over horizon,
+
+ATIC FORM 329 (REV 26 SEP 52)

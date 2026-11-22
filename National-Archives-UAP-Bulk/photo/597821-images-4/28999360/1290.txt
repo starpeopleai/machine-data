@@ -1,0 +1,45 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T14:21:57Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8351943, "source_ctime_ns": 1793387881452845819, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28999360/1290.jpg", "source_mtime_ns": 1785748238000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28999360/1290.jpg", "source_sha256": "d51b0d26c9062022e05dc5f678d62bf914d71cd21adf85d476c8388cac124738"}
+
+===== PAGE 1 =====
+{"alpha_words": 87, "chars": 620, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+DiPARIMERMT OF THE AMR FORCE ce
+STAFF MESSAGE BRANCH | 1X
+UNGUASSIFED MEASAGE
+
+AF IN: 25162 (30 Sep 624 Maed MIN G
+ACTION: CIN-17 aie
+INFO : O00P-2, OOP-CP-1, skrs-3,
+
+SMB A G44
+
+YCZCHQAD51ZCBJABSS
+
+‘DIA-10, DIA-CIIC-3 (37)
+
+00 RUEAHG
+DE RUWSJ 996
+ZNR
+0 39942272
+FM CCGD TWELVE
+TO RUWHSBP/28TH NORAD SECTOR
+RUWSPG/ COMWESTSEAFRON
+RUWVHSB/WARC HAMILTON AFB
+RUWGALB/CINCNORAD ENT AFB
+RUCSBRB/CINCSAC OFFUTT AFB
+RUEAHQ/COFS USAF
+
+ZEN/COMWESTAREA
+
+USCG GRNC
+
+BT
+
+UNCLAS
+
+WY 390228Z EVAL AS UNIDENT JET ACFT EXERCISES AND SUNSET.
+RECALLED INVEST. ACFT.
+
+NOTE: 300228 is AF IN end {29 Sep 62)
+ADV CY TO CIN AND OOP
+
+3G/G4227

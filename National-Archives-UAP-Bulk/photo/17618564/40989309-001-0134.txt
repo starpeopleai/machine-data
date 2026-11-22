@@ -1,0 +1,148 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T14:04:38Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 2746281, "source_ctime_ns": 1793356222247974746, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989309-001-0134.jpg", "source_mtime_ns": 1785564642000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989309-001-0134.jpg", "source_sha256": "a294a0345ccbc7b5f256d14952b648378c6e614f70a658035cae3e3ce40c564a"}
+
+===== PAGE 1 =====
+{"alpha_words": 584, "chars": 4171, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+AFR 200-2
+13-18
+
+(3) Angle or clevation and azimuth of
+object(s) upon disappearance.
+
+(4) Description of flight path and ma-
+neuvers of object(s).
+
+(5) How did the object(s) disappear?
+(Instantancously to the North, ete.)
+
+(6) How long was the object(s) visible?
+(Be specific, & minutes, 1 hour, ete.)
+
+c. Manner of Observation:
+
+(1) Use one or any combination of the
+follow ine items: Ground-visual
+ground-electronic, air electronic. af
+clectronic, specify type of radar.)
+
+(2) Statement as to optical aids (tele-
+scopes, binoculars, ctc.) used and
+description thereof.
+
+(3) If the sighting is made while nir-
+borne, give type of nircraft, identi-
+fication number, altitude, heading,
+speed, and home station.
+
+d. Time and Date of Sighting:
+
+(1) Zulu time-date group of sighting.
+
+(2) Light conditions. (Ure one of the
+following terms: Night, day, dawn,
+dusk.)
+
+c. Location of Observer(s). Exact latitude
+and Jongitude of each observer, and/or geo-
+graphical position. A position with reference to
+a known Jandmark also should be given in clec-
+trical reports, such ns “2mi N of Deeville;” “3mi
+SW of Blue Lake.” Ty phical errors or
+“garbing” often result inc ectrically transmitted
+messages, making location plots difficult or im-
+possible.
+
+‘ Example; 80 45N, 192 71W for 39 45N, 102
+21W.
+
+{. Identifying Information on Observer(s):
+(1) Civilian—Name, ange, mailing ad-
+dress, occupation, and estimate of
+relinbility.
+(2) Military—Name, grade, organization,
+duty, and estimate of reliability.
+
+g. Weather antl Winds—Aloft Conditions at
+Time and Place of Sightings:
+
+(1) Observer(s) account of weather con-
+ditions,
+
+(2) Report from nearest AWS or US,
+Weather Bureau Office of wind dirce-
+tion and velocity in degrees and knots
+at surface, 6,000’, 10,000’, 16,000’,
+20,000’, 30,000’, 60,000’, and 80,000’
+if available,
+
+(3) Ceiling.
+
+(4) Visibility.
+
+(5) Amount of cloud cover.
+
+(6) Thunderstorms in area and quadrant
+in which located.
+
+(7) Temperature gradicnt.
+
+h. Any other unusual activity or condition,
+meteorological, astronomical, or otherwise, which
+might account for the sighting.
+
+}, Interception or identification action taken
+(such action may be taken whenever fensible,
+complying with existing air defense directives).
+
+j. Location, approximate altitude, and gen-
+cral direction of flight of any air traffic or balloon
+releascs in the area which could possibly account
+for the sighting.
+
+k. Position title and comments of the pre-
+paring officer, including his preliminary analysis
+of the possible cause of the sighting(s). (See
+paragraph 17.)
+
+1. Existence of physical evidence, such as
+materials and photographs.
+
+16. Negative or Inapplicable Data. Even
+though the source docs not provide or has not
+been asked for specific infonnation by an inter-
+viewer, do not use the words “negative” or “un-
+identified” until all logical lends to obtain the
+information outlined under paragraph 15 have
+been exhausted. For example, information on
+wenther conditions in the aren, as requested in
+parngraph 15g may be obtained from the local
+wnilitary or civilian weather {ncility, Use the
+phrase “not applicable” (N/A) only when the
+question does not apply to the particular sighting
+being investigated.
+
+17. Comments of Preparing Officer. The
+preparing officer will make a preliminary analy-
+sis and « comment on the possible cause or iden-
+tity of the object being reported, together with
+a statement supporting his comment and analy-
+wis, Every effort will be made to obtain pertinent
+items of information and to test all possible
+lends, clues, and hypotheses concerning the iden-
+tity or explanation of the sighting. (Sce parn-
+graph 5.) The preparing officer receiving tho
+report initially is in a much better position to
+conduct an “on-the-spot” survey or followup
+than subsequent investigntive personnel and
+analysts who may be far removed from the area,
+and who may arrive too late to obtain vital data
+or the missing information necessary for firm
+conclusions,
+
+18, Classification. Do not classify reports
+unless data regione in paragraph 15 require
+alassif allen. lassify reports primarily to pro-
+ect:
+
+This document is part of an unclassified series
+
+LY

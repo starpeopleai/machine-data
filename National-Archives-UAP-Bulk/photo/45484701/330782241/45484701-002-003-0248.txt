@@ -1,0 +1,20 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T14:24:27Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9155967, "source_ctime_ns": 1793362212275888010, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330782241/45484701-002-003-0248.jpg", "source_mtime_ns": 1785684727000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330782241/45484701-002-003-0248.jpg", "source_sha256": "78dd98c3e2c1832b6acd8e171ace2488a589ebbdb97d554594c65e942cb95a39"}
+
+===== PAGE 1 =====
+{"alpha_words": 24, "chars": 156, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+° ry} ra)
+Ki hakig ad
+
+Ser’
+
+itthhudeds % Is
+
+%
+
+a, ae
+
+colored vat trail in th: Ky alter 1 Oo eet dige
+
+GUal’ Oh «
+
+Declassification Authority: NND 923007

@@ -1,0 +1,15 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T14:23:37Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8877750, "source_ctime_ns": 1793362232791021125, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330782241/45484701-002-003-0287.jpg", "source_mtime_ns": 1785684729000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330782241/45484701-002-003-0287.jpg", "source_sha256": "30e788dbd3eaf7f31c8255ecf7a12e24b3c9af92dfa94188b7acfc573d187249"}
+
+===== PAGE 1 =====
+{"alpha_words": 40, "chars": 235, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Ce eee ee ee eee
+
+Rarer eet ier 0M 19 20 Crea ay
+
+. a» ; . *
+: hak ‘ j :
+hy Bak =i. Py phi “a fi sabe
+
+a UW MELAS NR SINC theca NTO, ABT eit RIG pt ecm Cn ANKE Moa AT Bibb g ee ARR A REBIN RUNG:
+
+Declassification Authority: NND 923007

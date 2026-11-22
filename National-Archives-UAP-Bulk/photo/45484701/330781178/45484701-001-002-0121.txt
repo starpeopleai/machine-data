@@ -1,0 +1,91 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T13:37:28Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8421715, "source_ctime_ns": 1793361719139233448, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330781178/45484701-001-002-0121.jpg", "source_mtime_ns": 1785684760000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330781178/45484701-001-002-0121.jpg", "source_sha256": "d8598bb3cbba47961539c64fdadcf9c23b94e27c5be76f500624fb8433aa0239"}
+
+===== PAGE 1 =====
+{"alpha_words": 457, "chars": 3269, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+The ed relief will be augmented Sunday, 15 May 1530 by the 3rdrelief, etc.
+
+lL. Responsible Areas;
+
+a. Activity within Killeen Base, as reported by Plotting Center, will
+be reported by radio or phone to Killeen Base and acted upon by Killeen
+Base.
+
+b. Activity South of the road encompassing RJ's 202, 207 ani 106, as
+reported by the plotting center, will be reported by radio or wire to Field
+Force and acted upon by Field Force.
+
+c. Activity on and North of the Road encompassed by RJ's 202, 207 and
+106, Within the military reservation and excluding Highway 190, will be re-
+ported to Artillery Patrol and acted upon by Artillery Patrol.
+
+5. Reports:
+
+a. Reports are to be made out according to 2nd Armored Division "guide
+to Investigation" form (Restricted), and submitted to S-2, Division Artil-
+lery daily on preceding night's activity by Artillery Training Force Com-
+maner. Copies of this form may be received from S-2 section, Division
+Artillery.
+
+6. Coordination:
+
+a. The activities of Field Force, Killeen Base, and Artillery Training
+Force within this area makes coordination during hours of darkness mandatory.
+All personnel must be thoroughly familiar with actual locations, routes of
+approach, blackout conditions, and signs and countersigns effecting artil-
+lery installations before venturing into the area. Clearance and pertinent
+information may be received at 5-2 Division Artillery.
+
+b. The Field Force Commander and Killeen Base will be contacted daily
+at 1830 hours by Commander Artillery Training Force for coordination of
+patrol activities.
+
+c. The Commanders Artillery Training Force, and Artillery Patrol will
+contact S-2 Division Artillery for instructions at 1500 hours daily.
+
+13 Observation and Plotting Phase:
+
+35. OMMERLS. 2 Se ee
+
+- (1) The Artillery Training Force Commander will be stationed at
+the plotting center.
+
+(2) There will be four (i) observation posts and one central plott-
+ing center.
+
+(3) The observation and plotting sections will operate during all
+hours of darkness.
+
+(4) Observation posts will occupy designated commanding terrain,
+the position of which will be found by inspection of the 1/25, 000 scale
+photomap.
+
+be. Observation Posts:
+Zz (1) Equipment for each installation:
+a) Plane table and tripod.
+(b) Alidade with attachment to be furnished by Div Arty.
+(c) One pair field glasses.
+(ad) One Battery Commander's Scope.
+(e) One flash light; blacked out except for a very small hole to
+emit a small ray of light.
+(f) A large scale of a 64004 circle, 9 inches in radius.
+This scale to be made on stiff paper and mounted on the plane
+table. (Figure 1)
+4 telephones and 4 head and chest sets.
+One large tent, the sides of which can be rolled up.
+Plotting pins.
+Personal equipment of personnel.
+Sidearms and ammunition.
+Personnel :
+(a) 1 NCO in charge and alternate; grade 4. (MOS-577)
+(b) 2 teams, each team consisting of an observer and a reader.
+(MOS-288 , 445)
+(c) Personnel as listed above provide 2 reliefs.
+(d) Personnel will be especially alert during the hours 1830-
+2130.
+(e) There will be a communication check daily at1830 hours.
+General Location:
+(a) Plotting center and OP #1 ------- 913.390 - 858.700
+(ob) OP #2 913.985 - 855.330
+(c) OP #3 911.000 = 25),.,00
+
+Declassification Authority: NND 923007

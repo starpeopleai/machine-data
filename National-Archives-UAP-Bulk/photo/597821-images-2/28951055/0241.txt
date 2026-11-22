@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T14:08:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4254090, "source_ctime_ns": 1793374280979553117, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28951055/0241.jpg", "source_mtime_ns": 1785696650000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28951055/0241.jpg", "source_sha256": "c7a50b73b99912cbd958e6c756d105e840e6e18dfe67c598189b2cf2e5a74fc8"}
+
+===== PAGE 1 =====
+{"alpha_words": 153, "chars": 910, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+t.
+PAGE TWO JWFOS 126
+
+THAT TINE OF DAY PD OBSERVED AT 1812CST 28 OCT 32: FOR ABOUT 4
+SECONDS CMA VISUALLY FROM LOVE FIELD CNA DALLAS CMA TEXAS PD
+
+OBJECT WAS ON A BEARING OF 1 189 pecrErd fon’ ¢ GATE NUMBER SEVEN
+
+OF THE TERMINAL AND ABOUT 15 OR 2% DEGREES ABOVE THE HORIZON
+
+CMA DISTANCE UNKNOWN PD OBSERVER FIRST LT WALTER H PD BAXTER CMA III
+CHA USAF CMA 29193A PD WITNESSES WERE DR AND MRS Qi
+
+7 OF ARLINGTON STATE COLLEGE CMA ARLINGTON CMA TEXAS PD DR
+Pea IS A FORMER LT COMDR AND NAVY PILOT PD LT BAXTER
+
+IS A RATED PILOT ON FLYING STATUS AND HAS RECENTLY RETND FROM
+
+IR COMBAT IN KOREA PD BELIEVE BOTH INDIVIDUALS CAN BE CONSIDERED
+
+RELIABLE PD THE SKY WAS CLEAR AND VISIBILITY UNLIMITED PD
+
+SIGHTING WAS REPORTED TO THE WX OFFICE AND NOTHING WAS SAID REGARDING
+ANY ACTIVITY OR CONDITION WHICH MIGHT ACCOUNT FOR THE SIGHTING PD
+TRAJECTORY BELIEVED TOO FLAT FOR A METEOR PD
+
+32/1839Z OCT JWFOS
+
+ACTION

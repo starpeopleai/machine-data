@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T13:36:32Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8293054, "source_ctime_ns": 1793363788140510899, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785831/45484701-006-001-0251.jpg", "source_mtime_ns": 1785684873000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785831/45484701-006-001-0251.jpg", "source_sha256": "f96c71cc669bd4ba8173bf3eead77dc86e4e9b874df6d89fe920f16ac6360d49"}
+
+===== PAGE 1 =====
+{"alpha_words": 164, "chars": 949, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Time of sighting (zonal by 24 hr. clock) Approximmbely 2900 hous
+ad be ee wal te eee ~ a - Mr
+
+Where sighte’ (observer's position):
+
+a. Ground teen
+
+b. Air
+
+I a BAe TUE AMGEN INR I ip NAR GON SR NEL IO MBE INS IODINE 1 AAT IGG LOR LED 0 BST ROE
+
+c. Sea
+
+PERIL Y SI YA PGT SLE ELS RO AO A INGE STAAL LEE NEO IIE LIONEL TOLLE DE DAE LEVELS SLEELO ELLE L IE BLEDEL ILL DID DA OOS
+
+Humber of objects. Formation type (if any), sketch if possible __
+
+ok >
+
+Observable celestial phonomena or planets that may account for tho
+sighting. (Local facilities or organizations which follow such
+celestial phenomena should be consulted for such int ormation)
+
+BRET VR RSA ER
+
+RM STA ORES SE NES OIE PETRIE tc EOELLO ELE UEE IONE RG APSA GE TILIA LS A NEE LOOL TEPER A LES LTE LIEBE BE NEPA ELE HSE LD RAL N SNM tt EAR MRANIEI SERENE ALIGN LATE TIMES DEB AS bo
+Hi4 ot emer % te + % ore @
+Distance of object from observor:
+
+&
+
+Declassification Authority: NND 923007

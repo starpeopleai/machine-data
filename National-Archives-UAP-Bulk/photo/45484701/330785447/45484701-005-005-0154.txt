@@ -1,0 +1,50 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T14:18:08Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7252739, "source_ctime_ns": 1793363554272221699, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785447/45484701-005-005-0154.jpg", "source_mtime_ns": 1785684627000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785447/45484701-005-005-0154.jpg", "source_sha256": "cfed26f2e066fd02fb09fa8c05a8a53181b4c6b6d5c2d0d3aa24a5478256c579"}
+
+===== PAGE 1 =====
+{"alpha_words": 179, "chars": 1238, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+LOD 24-0
+3. The Commander, Laughlin AFB, Texas was of the information
+received from fond cial Agent OGLESBY . A cin this office of the
+
+733 ACW Squadron, Eagle Pass AF Station, | Pass Texas, disclosed
+that no unidentified flying object had been noted that installation
+
+on the night of 18 September 1960.
+
+i The following information was extracted from the 19 September
+1960 issue of the San Antonio Expres 3s, a daily newspaper published in
+san Antonio, Texas:
+
+New Soviet
+ya tellite?
+
+"Trinity University's moonwatch team reported Sunday
+sighting what may be a new Russian satellite.
+
+'A university spokesman said it was sighted at 7:10 DM.
+in the North sky, moving in a general pattern south-southwest
+to north-northeast - much the same as other Soviet satellites.
+
+"The Trinity team radioed the Walnut Creek, lif., Moonwatch
+tean bse be on the outlook for the unidentified
+over West Coast skies.
+
+"Tteam members spe ated that the Russians may 1
+
+up another space I coinci with Khrushchev visit
+United Nations rte
+
+5+ The above is forwarded as a matter of information and possible
+
+intere st to your Directorate.
+
+an
+
+FRANK F. WOOLLEY, Jr
+Lt. Colonel, USAF
+CHARLES P. MARTIN
+Colonel, USAF
+
+Cake
+
+Declassification Authority: NND 923007

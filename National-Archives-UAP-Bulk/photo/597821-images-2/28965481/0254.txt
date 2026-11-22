@@ -1,0 +1,4 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T14:13:00Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5627200, "source_ctime_ns": 1793377803739305089, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28965481/0254.jpg", "source_mtime_ns": 1785696893000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28965481/0254.jpg", "source_sha256": "f8fbcc13e6fda9b99285ab10a6e80d35866f5850da5c10a79fd7db6e85d25838"}
+
+===== PAGE 1 =====
+{"alpha_words": 0, "chars": 0, "method": "ocr", "note": "no OCR text extracted", "page": 1, "variant": "no-text"}

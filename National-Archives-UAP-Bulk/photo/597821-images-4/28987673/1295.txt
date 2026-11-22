@@ -1,0 +1,42 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T14:16:07Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6784162, "source_ctime_ns": 1793383713448616796, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28987673/1295.jpg", "source_mtime_ns": 1785748354000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28987673/1295.jpg", "source_sha256": "c3250ad87af4ca88ede476c97a6446fec8d7f3b10bc8dbaa37da18773e78cdab"}
+
+===== PAGE 1 =====
+{"alpha_words": 48, "chars": 468, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PAGE THREE RJWZKPH 9
+
+Fe
+
+G,
+
+He
+ly
+Je
+Ke
+Le
+BT
+
+41) CIVILIAN, MR, <p, ack 45, GRRE,
+
+PORTLAND, OREGON; RAILROAD REPRESENTATIVE, ESTIMATED RELIABLE
+
+OBSERVER,
+
+€1) CLEAR, VISIBILITY EXCELLENT,
+
+(2) CLEAR, 15 PLUS. WINDS AS FOLLOWS: SURFACE L/V: 6,980 348/13:
+10,999 348/12: 16,900 278/20: 28,989 270/20: 30,960 263/25:
+50,908 260/48: 83,668 E 990/10.
+
+NONE. :
+
+NONE,
+
+NONE KNOWN,
+
+AL. WIMER, MAJOR USAF, OPS OFFICER 337TH FTR GP,
+
+NONE,
+
+@7/19562 JUL RJWZ2<PH
+
+NNNNK

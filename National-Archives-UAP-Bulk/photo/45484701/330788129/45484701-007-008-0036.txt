@@ -1,0 +1,20 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T14:25:56Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9832490, "source_ctime_ns": 1793365005984606398, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330788129/45484701-007-008-0036.jpg", "source_mtime_ns": 1785685181000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330788129/45484701-007-008-0036.jpg", "source_sha256": "389676e4b34fee840cdd31e049f60729e9f8f8a55863b77a4c8801742927a442"}
+
+===== PAGE 1 =====
+{"alpha_words": 52, "chars": 387, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+2G 63
+
+Hq 23rd Dist OSI (IG) USAF, Carswell AFB, Texas
+Subj: Unidentified Flying Objects
+
+flying objects are now conducted by Air Intelligence, in accordance with
+Air Force Regulation 200-5.
+
+5. In accordance with paragraph 4, no further investigation is
+contemplated by this office at this time.
+
+GEORGE G. CE
+Lt Colonel, USAF
+District Commander
+
+Declassification Authority: NND 923007

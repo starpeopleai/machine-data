@@ -1,0 +1,37 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T14:24:53Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9410209, "source_ctime_ns": 1793379656938530330, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28973100/01203.jpg", "source_mtime_ns": 1785700751000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28973100/01203.jpg", "source_sha256": "f6dcd7a14904174ec2880bb5cec77977637b0db356504c7fb429be9c38e3b76d"}
+
+===== PAGE 1 =====
+{"alpha_words": 160, "chars": 1197, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+hig es a” { Me 4 “ f eg
+oe PROJECT 10073 RECORD CARD {st
+' Pe g . :
+1. DATE © ae 2. LOCATION : rie 12, CONCLUSIONS
+: eae Approx 200 Mi south ot © Wos Belleen
+o November 1957 New Orleans, Louisiana 0 revere oct hl
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION = ee ore
+O05 Re 5s rs x " O Was Aireroft
+Local 2S 1 , BGround- Vi sual Tk Ground-Rodar O Probably Airerafe
+CMT__ O Air Vi suol O Air-Intereept Rodor | 7 Possibly Aireroft
+5. PHOTOS 3 6. SOURCE BX Was Astronomieol Vieteor
+i O Yes O Probably Astronomical
+O-Ne Coast Guard Ship OG Possibly Astronomical
+7. LENGTH OF OBSERVATION 8. NUMBER OF OBJECTS | 9. COURSE BX Other SPUrious R rethrn
+separate & OC Insufficient Date for Evaluation
+a awe? me Raat D0 Unknown
+approx li minutes four variable
+10, BRIEF SUMMARY OF SIGHTING 11. COMMENTS
+Report from skipper of Sabego that _ Visual sighthng: Meteor,
+contacts made on radar of unknown Radar: False Targets,
+object, also one visual sighting.
+Press & TV impvlied that it was one
+Simple distinct mysterious object.
+Visual sighting at 0521Z. Object ‘
+insight for 3 seconds in horizontal .
+flight from 270 dgr to 310 dgr azimuth
+at altitude of 31 der, /
+|
+/ /
+ATIC FORM 329 (REV 26 SEP 52) /
+9 e
+a
+e *
