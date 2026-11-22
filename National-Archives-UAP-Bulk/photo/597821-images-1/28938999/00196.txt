@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T18:36:32Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3463717, "source_ctime_ns": 1793371588748478537, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28938999/00196.jpg", "source_mtime_ns": 1785689038000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28938999/00196.jpg", "source_sha256": "7ce44dcc34d9031fe91e9fefec30efb4034d9311dbe8e29167d4792cab04f889"}
+
+===== PAGE 1 =====
+{"alpha_words": 106, "chars": 844, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD,
+
+1. DATE ( 2. LOCATION 12. CONCLUSIONS
+' & Was Boelloon
+25 Jan dL Warner Robins AFB Ga CG Probebly Bellon
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION 10 Possibly Balloon
+QO Was Aircraft
+Local - ZKGround- Vi svol © Ground-Rodar O Probably Aircroft
+GMT... 25/23282 D Air- Vi suai D Air-Intercept Radar O Possibly Aircraft
+5. PHOTOS 6. SOURCE O Wes Astronomical
+0 Yes Q Probobly Astronomical
+30 No 3 Civilian - one ex-Ddilot O Possibly Astronomical
+7. LENGTH OF OBSERVATION 8. NUMBER OF OBJECTS | 9. COURSE O Other
+: ig) + gaa Deto for Evaluation
+0 nknown
+3 minutes 1 NW
+
+10, BRIEF SUMMARY OF SIGHTING
+
+_ Shape Cone = Apex upg Color Steady red glow
+above black base, Speed was slow. Siz? was
+estimated at 150'. dd Moneuvers -"CLimbed
+in Stair Steps."
+
+11. COMMENTS
+Evaluated @s a balloon,
+
+ATIC FORM 329 (REV 26 SEP 5§2)

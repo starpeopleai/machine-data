@@ -1,0 +1,52 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T18:49:56Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5603376, "source_ctime_ns": 1793381874320533683, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28981952/0414.jpg", "source_mtime_ns": 1785700693000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28981952/0414.jpg", "source_sha256": "adc0d18e3d5f6647a3f0ae84067f08e4b86dafbc79996ef67b745b614d12da62"}
+
+===== PAGE 1 =====
+{"alpha_words": 91, "chars": 767, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+iin
+
+WUUdiy Uity PVA 299IIC4, USL, WHILSEY NASy WASHe
+
+RESEITS, JD, PVT 1668564, USMC, WHIDBEY NAS, WASH.
+IVINGSTON, JA, CPL 1654686, USMC, WHIDBEY NAS, WASH.
+ART VII
+
+» OVERCAST WITH BREAKS
+
+» SURFACE 115 DEGREES 18 KNOTS
+
+,202 28 DECREES o4 KNTS
+
+2,009 290 DEGREES 15 KNOTS
+
+6,902 302 DEGREES 39 KNOTS
+
+2,020 300 DEGREES 59 KNOTS
+
+9,020 32@ DEGREES 230 KNOTS
+
+9,008 320 DEGREES 82 KNOTS
+
+3,008 35 DEGREES 28 KNOTS
+
+2,000 G20 DEGREES 28 KNOTS
+
+AGE FOUR RJWZDM 4A
+
+© 2,520 FEET BROKEN
+
+« 12 MILES /
+« 129 PERCENT
+
+« NONE
+
+ART VIII NEGATIVE
+
+PART IX NEGATIVE
+
+?ART X NONE
+
+PART Xi
+
+FOLLOW UP REPORT OF OUR TAC MSG B 77, 14 FEBRUARY 1959 -
+NTERROGATION BY NAVAL ONI CHANGES PORTIONS OF THE ORIGIONAL
+REPORT AS INDICATED HEREON. THE SIX MILITARY PERSONNEL INTERROGATED

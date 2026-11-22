@@ -1,0 +1,23 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T18:48:25Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5376933, "source_ctime_ns": 1793377533190352536, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28964165/0577.jpg", "source_mtime_ns": 1785696608000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28964165/0577.jpg", "source_sha256": "9f2971d6365864a87f71252359732873aab0b760dd67cafad29ee36db94fecc6"}
+
+===== PAGE 1 =====
+{"alpha_words": 94, "chars": 643, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+if
+
+UNCLASS IF 1 ‘p/h 718419 TRE Fol OB WAS RECVD FR COMDR FILTER CENTER 3’
+
+JACKSONVILLE, FLAs /i&/4, DELTA YING AIRCRAFT TYPE SIZE OF PIPER
+CUB. Be N/A Coe WHITE FLASI. N/A Ee NO FORMATION - VERY FAST. Fe
+N/A Ge NO EXHAUST. He NO I. NONE /2/ EAST TO WEST. As A BIG FLASH
+
+OF LIGHT. By OVERHEAD -899 DEGREES AZIMUTH. C. 273 DEGREES AZIMUTH -
+29 DEGREES ELEVATION. D. STRAIGHT EAST TO WEST. =. WENT OUT OF
+SIGHT. Fe 1% TO 215 SECONDS. /3/ GROUND VISUAL A. N/A Be NO AIDS Ce
+NVA S47 6 NOV 55 7eQigPelle ESTs Ae O7/H024Z2 Be NIGHT /5/ HP 4922 /6/
+
+inti ane, DADE CITY, FLA. setenililliilipietis
+
+DADE CITY, FLA. Be NONE /7/ CLEAR Aw Be
+
+Pait
+‘

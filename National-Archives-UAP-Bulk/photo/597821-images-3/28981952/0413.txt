@@ -1,0 +1,53 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T18:50:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5609153, "source_ctime_ns": 1793381873976250022, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28981952/0413.jpg", "source_mtime_ns": 1785700693000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28981952/0413.jpg", "source_sha256": "c6a7a3e876e1f7716f394c0c590ad4c3ff41e98dfcd6da6e43b29fbadc822861"}
+
+===== PAGE 1 =====
+{"alpha_words": 79, "chars": 604, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+‘ ie wiles dK) marry? * ety : gh rhe eae yes r rey eye teens
+
+8. NONE
+5. VERY BRIGHT
+
+PART II
+
+i. FLASH IN SKY
+
+2. 32 DEGREES NORTHWEST
+
+3. DISAPPEARED OVER HORIZON
+
+4. VERTICAL PARABOLA
+
+5. DISAPPEARED OVER HORIZON
+
+$s TWO TO FIVE SECONDS
+
+PART IIL
+
+i. VISUAL GROUND
+
+2. NONE
+
+3. NONE
+
+PART IV
+
+t, 1495252
+
+2. NIGHT
+
+PART V
+
+1. 4817 DECGRSGS NORTH 12237 DEGREES WEST
+
+PAGE THRE& RJVZDM 4A
+
+2. 4821 DEGREES NORTH 122423 DEGREES WEST
+
+PART IV
+
+1. NONE
+
+2e QUENELLI, MP, AN 4822258, USN, WHIDBEY NAS, WASH.
+
+STRAND, RT, AN 4897078, USN, WHIDBEY NAS, WASH.
+DAVIS, GH, CPL 1524932, USMC, WHIDBEY NAS, WASH.

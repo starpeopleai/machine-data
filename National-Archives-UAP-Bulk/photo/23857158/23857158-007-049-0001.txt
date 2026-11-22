@@ -1,0 +1,50 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T18:47:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5098662, "source_ctime_ns": 1793359360564456087, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-007-049-0001.tif", "source_mtime_ns": 1785681389000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-007-049-0001.tif", "source_sha256": "9802b7df26cb22bbf3f57f7a36f3156bffc0242462d6cf41725ad7b9c7d7aaeb"}
+
+===== PAGE 1 =====
+{"alpha_words": 140, "chars": 1007, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Declassification Authority NND 923007
+
+602D AISS UFOB LOG
+
+'] REPORT NOs a
+
+2 DATE RECD HQ 4602D-AISB 3 “ae/ene RicD "IN OPS ;h LoccED By
+
+19 Fetruary 1993 ot AAG Detudaer
+
+5 ee OF SIGHTING =
+7 Deb 55 (Time unk) j
+
+e LOCATION OF SicHTING aS a stan mene roenine 3 [7 GEOREF
+| 3gQ00 Zeet over. _Hlackstone, = . a re
+
+“8 MEANS RECD 9 INITIAL ACTION 10 INVES UNIT
+
+; 2? Msg . No Investigation Authorized Form 16h matted W/A
+a TWVES ASSIGNED BY 112 DATE INVES ASSIGNED 13 ASSIGNING OFFICER
+
+Bf 7 a LWA
+
+s1h DATE IR RECD AT HQ- ine DATE IR APPROVED ~— 160 DATE IR SENT TO ATIC
+; w/a Bo WA A
+$17. AISOP FORM 5 FILED | . .
+rr
+
+118 COMMENTS —
+
+i Iya £0 tine vary Seve aeomet GF dale on the crigind! report inte atoning was
+| not investigated. ATIC Form 16) was mailed the #¥S pilot involved by this
+' organization but no reply has been received.
+
+e
+;
+s
+.
+ce oem eh nee pee eee cet ree een n mre ee cere etsmeme see — — = ~e a — —~.
+
+a
+
+19 CONCLUSIONS .
+‘Unresolved: Lack of sufficient data
+
+ATSOP FORM 7 (2 APR 55)

@@ -1,0 +1,63 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T18:35:21Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1787566, "source_ctime_ns": 1793392549988586059, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302568734/0465.jp2", "source_mtime_ns": 1785808276000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302568734/0465.jp2", "source_sha256": "f5397ce8cbe669533f8327b408ed3e4da1ee4f422e909fbaeb5639c3a8a6de4f"}
+
+===== PAGE 1 =====
+{"alpha_words": 106, "chars": 732, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD
+
+1. DATE « TIME GROUP 2. LOCATION A
+21 Aug 67 22/01482, Dayton, Ohio Multiple
+3. SOURCE 10, CONCLUSION
+
+Civilian
+
+—— ee
+
+4. NUMBER OF OBJECTS
+
+H
+i
+~_
+
+Provable ~(AIRCRAFT }-
+
+to indicate object was not an aircraft.
+
+NT Sadan
+JO Gave
+
+5. LENGTH OF OBSERVATION
+
+2-3 minutes
+
+& TYPE GF OSSERVATION
+Visual (BX)
+
+pn =
+f.weai rea
+Area Oda
+
+7. COURSE
+
+S-W
+
+& PHOTOS
+
+n Yes
+Ki No
+
+9, PHYSICAL EVIDENCE
+
+0 Yes
+No
+
+BRIEF SUMMARY AND ANALYSIS
+
+Ooject was red in color and was similar to a penny at a slight}
+angel. It traveled in a straight flight path. It was oval
+shaped, the bottom was long with slanted sides. Object flash
+ed and disappeared.
+
+FORM
+FTD sep 63 O-s29 (TDE)
+
+Previous editions of thie form may be used,

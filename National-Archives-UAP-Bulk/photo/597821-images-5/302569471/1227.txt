@@ -1,0 +1,18 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T18:30:45Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1440201, "source_ctime_ns": 1793392651836490288, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302569471/1227.jp2", "source_mtime_ns": 1785808295000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302569471/1227.jp2", "source_sha256": "ce380058217253b041b7716ce5739fd7b638c33b78ebb6b2fc2cb337792e1e08"}
+
+===== PAGE 1 =====
+{"alpha_words": 61, "chars": 301, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+4 ae bp Leen. 93 Pry ay Aathtt
+i dnd am a leroike wi sige Aout
+
+Hogi me Was On. erty F Dhaaicliic
+
+F Ay The: RA he bf, Hhe art *
+Arocliy, Vise Pouce UW beti At Han
+Mcp. ROY RE > | Nhe Min po a Cay Ay ial
+| Ay gh eae Mialiatl hit nth
+a dlr Aomewhat het Antonie Me.
+
+Ms exe, mah aoe ae ag
+
+Ain obo ate

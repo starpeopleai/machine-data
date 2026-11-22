@@ -1,0 +1,51 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T18:42:55Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4131281, "source_ctime_ns": 1793386463710731220, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28996238/1376.jpg", "source_mtime_ns": 1785748215000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28996238/1376.jpg", "source_sha256": "4887fbf9860b089281fae588e7314f12b7f36d6ba43248a1f69cdf9beb66fa0e"}
+
+===== PAGE 1 =====
+{"alpha_words": 98, "chars": 718, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+1
+
+STAFF MESSAGE BRANCH
+
+UNCLASSIFIED MESSAGE
+INCOMING
+NNNNK
+AF IN : 36480 (12 Feb 62) G/jlt Pg 1 of 2
+ACTION: CIN-17
+
+INFO : SAFS-3, OOP-2, OOP-CP-1, DIA-2 (26)
+MBC 408
+
+NCZCHQB48 7ZCJJN795
+
+PP RJEZHO
+
+DE RUWZNL 7
+
+ZNR
+
+P 1229907
+
+FM COMDR 3635TH FLYTNGWG STEAD AFB
+
+TO RJWFBS/ATC RANDOLPH AFB
+
+RUJWFA
+
+SXADC ENT AFB COLO
+
+RJVZSB/28TH AIR DIVISION HAMILTON AFB
+
+RUJEDSQ/ATIC WPAFB OHIO
+
+RJEZHQ/ COFS USAF
+
+RJEZHQ/OSAF WASH DC
+
+BT
+
+UNCLAS 0 164 B |
+FOR USAF AFCIN, OSAF SAFIS, UFO. THIS UFO REPORT
+SUBMITTED ACCORDING TO PARAGRAPH OUTLINE UNDER
+PARAGRAPH 15, AFR 209-2: A, (1) N/A3 (2) N/As (3) NVA *
+(4) ONEs (5) N/As (6) N/As (7) N/As (8) N/A$ €9) OBJECT PAINTED,
+LARGE AND BRIGHT RETURN WHICH IS DUE TO HEIGHT AND

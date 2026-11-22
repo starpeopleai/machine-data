@@ -1,0 +1,62 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T18:49:21Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5549162, "source_ctime_ns": 1793360195383304845, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-013-033-0002.tif", "source_mtime_ns": 1785681655000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-013-033-0002.tif", "source_sha256": "6b13f2cd6461104214dcbfe87a240d47d7fdc5cf600104f1bfdf84c0ecd3fed5"}
+
+===== PAGE 1 =====
+{"alpha_words": 213, "chars": 1644, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Declassification Authority NND 923007
+
+"AF FORM 112—PART ! ~. UA CLassiFRD
+
+—— TELASSIFICATION
+APPROVED { JUNE 1948 ov
+
+AIR INTELLIGENCE INFORMATION REPORT
+
+FROM (Agency) REPORT NO.
+96TH BOMB WING (M) ( sAC )
+ALTUS AFB, OKLAHOMA 2 . PAGE 2 OF 2 PAGES
+
+7. (a) Clear, visibility unlimited
+
+(b) (Dallas) Surface 180 degrees at
+6000 ft. 230 degrees at 30 nots
+1OCO0 ft. 220 degrees at 10 knots
+16000 ft. 300 degrees at 15 knots
+20000 ft. 310 degrees at 25 knots
+30000 ft. 300 degrees. at 20 knots
+50000 ft. 320 degrees at 35 knots
+80000 ft. 080 degrees-at 2) knots
+
+(c) Clear :
+
+(d) “15 miles
+
+(e) Negative
+
+(f)- Negative
+
+9 knots
+
+8. Negative
+9. Negative
+10. Negative
+
+11. Wing Operational Intelligence Officer. SOURCE has had sufficient experience
+as a tower operator to be considered a reliable observer. SOURCE insists
+that the object was not a meteor or aircraft exhaust and connot otherwise:
+account for the object. Insufficient information is available to the
+preparing officer to render an intelligent analysis as to the possible.cause
+of the sighting other than the obvious-cause, i.e. a meteor.
+
+12. Negative
+
+31 AND 32, AS AMENDED.
+
+INTELLIGENCE, USAF.
+
+YAlCL 45S FED
+
+(CLASSiFicATION) 16—55570-1 «-YX_sCU. . COVERNMENT PRINTING OFFICE
+
+MOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFE}\ge oF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U. S. C_—
+|. ITS TRANSMISSION OR THE REVELATION OF ITS eoNTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW.
+IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN \iniTED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF

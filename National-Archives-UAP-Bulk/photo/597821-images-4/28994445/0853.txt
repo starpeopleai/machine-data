@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T19:06:46Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8279383, "source_ctime_ns": 1793385938961598100, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28994445/0853.jpg", "source_mtime_ns": 1785747958000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28994445/0853.jpg", "source_sha256": "1225f5a067cc65c020cb13a7e8593c9085a2d3ba8f300f2f0b7d789cd93c8d70"}
+
+===== PAGE 1 =====
+{"alpha_words": 86, "chars": 628, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ee bo hind a oak TERRES cy IN REE RAT: (aN DRAINS pre Wy
+
+outing
+\
+DEPARTMENT OF THE .AIR FORCE ae . an
+\ STAPF MESSAGE BRANCH (
+INCOMING
+AF IN : 46225 (6 Sep 61) | Pe 2 of 3.
+PAGE TWO RUWZGS 3A
+I. LOW FLYING. CONTINUOUS DESCENT. | |
+2. As THE MOVING LIGHT
+Be UNK | |
+C. ANGLE 0 DEGREES AZUMITH UNK
+E. INSTANTANEOUSLY TOWARD THE GROUND
+F. 5-19 SECONDS. CESTIMATE)
+3. As GROUND VISUAL
+B. NONE |
+C. N/A
+4. As 1410Z @6 SEP 61
+| By NIGHT
+36 A. KELOWNA; “BC, CANADA
+_EKBF 9090
+6. As CIVILIANS. NAME, AGE, MAILING ADDRESS,
+OCCUPATION, RELIABILITY UNK. NUMEROUS
+CALLS FROM PEOPLE AT A DRIVE-IN MOVIE.
+7. Ae UNK
+B. UNK /
+
+Ce. UNK | |%

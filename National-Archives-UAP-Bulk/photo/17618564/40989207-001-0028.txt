@@ -1,0 +1,71 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T19:10:28Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9339349, "source_ctime_ns": 1793354413608142178, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989207-001-0028.jpg", "source_mtime_ns": 1785564281000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989207-001-0028.jpg", "source_sha256": "1ebfb041f4ddddd78df9f9c552405c3b8e45addee2fd52017f7eee19e7e08d83"}
+
+===== PAGE 1 =====
+{"alpha_words": 550, "chars": 3731, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+a data link was established in April 1987 between the then Geophysics Laboratory
+
+(GL) and AFGWC so that GL could have access to the operational computer
+
+environment and data bases at AFGWC.
+
+3.2. £7
+
+MECHANISMS USED BY PL/GP
+
+To have individuals from the technology using organization within the
+technology developing organization and vice-versa, is a recognized useful
+mechanism for transitioning technology. Long before we were part of the Air Force
+Materiel Command (AFMC) and Phillips Laboratory, we recognized that geophysics
+technology would be needed by emerging space and missile systems. We therefore
+established, in 1967, a West Cost Office (WCO) within the (then) Space and
+Missile Systems Office. This small group of professionals, headed by a GM-15,
+was made up of technical personnel from the Air Force Cambridge Research
+Laboratories (AFCRL -- our designation at the time) who were familiar with our
+geophysics technology. The WCO served as a broker of geophysics technology to
+the then Space Systems Division (SSD) and the Ballistic Missiles Office (BMO)
+system program offices (SPOs) by becoming intimately aware of SPO technology
+requirements and advocating use of geophysics technology where needed. Although
+the WCO no longer exists, unique long-standing arrangements have developed
+between the west coast SPOs and GP. These arrangements create the people-to-
+people relationship essential to successful technology transition.
+
+One prime example is the relationship that PL/GP has with the SMC Defense
+Meteorological Satellite Program (DMSP) SPO. We have been working closely with
+the DMSP SPO for over 20 years. Our initial support involved helping design
+satellite weather sensors to remotely measure atmospheric parameters. That
+
+expanded to designing and building space weather sensors to fly as operational
+
+6
+
+sensors on DMSP satellites. In addition to sensor development, PL/GP has also
+been developing techniques and software to process and analyze the data obtained
+by DMSP sensors.
+
+These close but ad hoc relationships were formalized in 1983 with the
+establishment of a Memorandum of Agrement (MOA) between GL and DMSP which is
+updated each year. In FY92, DMSP provided $3.3M to leverage the $3.0M and 12 man
+years ($0.8M) that PL/GP had invested in R&D related DMSP-needed technology. In
+addition to frequent interactions at the working level, the GP Director and
+technical staff meet with the SPO Director and his staff twice a year to review
+the jointly-funded programs. During the Fall 87 meeting, Col Curtis, the DMSP
+SPO Director said "It's been a good relationship and I am very pleased. We
+[GL/DMSP relationship] are a model for the rest of of the laboratories."
+
+For their investment, DMSP has in effect acquired its own dedicated R&D
+organization which produces the technology it needs and wants in a timely manner.
+PL/GP personnel are also available to provide on-call technical assistance to
+DMSP, such as technical advice related to a DMSP-managed contract or serving on
+a source selection board. In return, PL/GP obtains funds to leverage its own
+investment, allowing its research to become more focussed on a definite user
+requirement, and giving PL/GP researchers an opportunity to see their technology
+directly applied to a real problem.
+
+Also, we have had, for many years, geophysics technology brokers in every
+AFMC product division, test and launch center, and laboratory. This is
+accomplished through the staff meteorologists (STAFFMETS) assigned to these
+organizations. Through their primary function of ensuring that the environment
+is adequately considered in system design and test, the STAFFMETS market our
+technology and uncover user needs for geophysics technology.
+
+7

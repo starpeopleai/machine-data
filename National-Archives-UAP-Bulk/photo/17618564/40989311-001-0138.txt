@@ -1,0 +1,7 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T19:22:19Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 318219, "source_ctime_ns": 1793356274407142877, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989311-001-0138.jpg", "source_mtime_ns": 1785564656000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989311-001-0138.jpg", "source_sha256": "eb6284e41233d0b2ce08c9271cdeaf090b994ac4f7c1049d96641854ee7613bf"}
+
+===== PAGE 1 =====
+{"alpha_words": 52, "chars": 261, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+orbit and fly on to the other worlds. Their point was that when Athelstan is in orbit, there
+will be so many people thinking about him as long as they are alive, that he will be in
+orbit longer than most. Those who have known him are not likely to forget him.

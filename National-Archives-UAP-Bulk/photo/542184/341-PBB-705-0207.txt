@@ -1,0 +1,42 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T19:03:16Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7721633, "source_ctime_ns": 1793367700578669871, "source_file": "National-Archives-UAP-Bulk/photo/542184/341-PBB-705-0207.jpg", "source_mtime_ns": 1785565763000000000, "source_rel": "National-Archives-UAP-Bulk/photo/542184/341-PBB-705-0207.jpg", "source_sha256": "d9d602471260e9a113c2158ce85745410a7f7c206c2d1b6bee71063edc39a4c3"}
+
+===== PAGE 1 =====
+{"alpha_words": 20, "chars": 128, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ee
+
+owe
+awe S
+Gow
+ne | F |
+
+ie
+
+inl
+
+i
+4
+
+&
+
+at
+
+Mt ees
+o
+
+~ +
+
+wd Bad
+Es
+Ri a
+
+puscetnaoceimene ee er
+
+ee A
+
+£2
+
+«SS
++.
++
+
+SE

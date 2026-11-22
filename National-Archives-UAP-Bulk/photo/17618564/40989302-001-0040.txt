@@ -1,0 +1,56 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T18:35:29Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 2341030, "source_ctime_ns": 1793356092936327478, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989302-001-0040.jpg", "source_mtime_ns": 1785564605000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989302-001-0040.jpg", "source_sha256": "93f35c4d7fd5db0a2b39d90e1b02965d5e6d6fc669a86c36fca0cd17137635be"}
+
+===== PAGE 1 =====
+{"alpha_words": 385, "chars": 2544, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+authority granted by 207 to correct the records of the
+courts-martial themselves because he was not called upon
+to do so, It also appears that the latter part of the
+opinion, quoted above, was not intended to establish a
+limitation on the authority granted to the Secretary to
+correct court-martial records, Instead, that discussion
+constituted an admonition that the statutory provision
+
+was not toteconstrued as granting to every person convicted
+by courts-martial a statutory right to appeal to the board
+so as to suspend the execution of a court-martial sentence
+
+in every case,
+
+8, In an opinion dated 14 February 1949, the Attorney
+General approved the application of section 207 of the
+Legislative Reorganization Act to cases involving decisions
+of the discharge review board, notwithstanding the statutory
+provision that findings of the discharge review board were
+"to be final subject only to review by the Secretary of War
+or the Secretary of the Navy, respectively" (41 Ops Att'y
+Gen, Op. No, 1). Discharge review boards were authorized by
+section 301 of the Servicemen's Readjustment Act of 1944
+(38 U.S.C. 693h) and those boards were granted authority to
+change, correct, or modify any discharge or dismissal except
+a discharge or dismissal by reason of the sentence of a general
+court-martial. In his opinion, the Attorney General held
+that while an individual whose case had been considered by a
+discharge review board could not “as of right" invoke the
+procedures set up by section 207 of the Legislative Reorgan-
+ization Act, "there does not appear to be any sound reason
+for an interpretation so narrowing the terms of the latter
+section as to deny to the respective secretaries the authority
+to invoke that section ‘where in their judgment such action
+48 necessary to correct an error or to remove an injustice.'"
+Accordingly, the Attorney General concluded that the Secretary
+of the Navy could, in his discretion, "properly refer to the
+board established pursuant to section 207 of the Legislative
+Reorganization Act cases in which a board acting under section
+301 of the Servicemen's Readjustment Act had previously denied
+the relief sought despite the above quoted provision in sec-
+tion 301 for the finality of the findings made by boards under
+that section." In reaching this conclusion the Attorney
+
+General saids
+
+"It 1s to be remembered, too, that no action taken
+under section 301 /of the Servicemen's Readjustment
+Act7 could have such finality as to prevent the
+Congress from providing relief by private act -~
+
+7

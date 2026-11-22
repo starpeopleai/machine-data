@@ -1,0 +1,57 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T19:08:37Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8906851, "source_ctime_ns": 1793363364831598125, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785085/45484701-005-003-0105.jpg", "source_mtime_ns": 1785684914000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785085/45484701-005-003-0105.jpg", "source_sha256": "fe7ec991a444ed5ae3a4d4d27bec748a75f327d5540cae4778813561285c35e4"}
+
+===== PAGE 1 =====
+{"alpha_words": 123, "chars": 882, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ie asa eros:
+Maj Detwiler/rmw/71776
+4 Jan 51
+
+Rhy LB 5—S—18
+
+(Confidential) /Wnconvential Aircraft : Vi this cel Abbrier7 bla ae
+SPECIAL INQUIKY D4}
+
+Director of Intelligence 9 JAN 195)
+Documents & Dissemination Branch
+
+1
+Director of Special Investigations (IG) Maj Detwiler/rmw/71:776
+
+APCST
+
+Transmitted herewith for your information is a Spot Intelligence Report
+. P
+regarding activity by AMC at Oak Ridge in connection with subject.
+
+i Incl GILBERT R. IBVY
+Spot Intel Rpt dtd 22 Dec 50 Actg Chief, Counter Intel Div
+Ye above subj Dir, of Special Investigations
+The Inspector General.
+
+N CANCELLED SRAsRGMs Ges"
+
+BY AUTHO sa
+
+KURT K. KUNZE, Capt, USAF
+“Historian =: 4 DEC 1975
+
+ee DATE |
+
+COA
+ON A Ly iitias/ Las / tA ?>
+Ryne
+oh Oot a ——mM- is (ar
+ers At eo ©) withdrawn
+
+'SSification of
+
+EDs IF ie Ie A
+
+‘ w (Vet
+Oeeice
+
+ALLOS
+
+“FER 5 ah
+
+Declassification Authority: NND 923007

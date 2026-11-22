@@ -1,0 +1,12 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T18:36:06Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3282906, "source_ctime_ns": 1793371629364449406, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28939183/00367.jpg", "source_mtime_ns": 1785688526000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28939183/00367.jpg", "source_sha256": "55e37f66728ac408c87d6a8602f591efa12f3c228844e091ce55f110a7bf1ef6"}
+
+===== PAGE 1 =====
+{"alpha_words": 27, "chars": 214, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+1 April. 1951. »
+( Les Alamos, New Mexice
+hs INSUFFICIENT DATA
+
+1 April 1951 = Report from a Los Alamos employee. Oblong shaped
+object moving slowly both in horizontal and vertical
+
+directions. Bright appearance,

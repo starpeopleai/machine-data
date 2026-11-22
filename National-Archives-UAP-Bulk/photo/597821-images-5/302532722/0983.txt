@@ -1,0 +1,48 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T19:24:23Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 907453, "source_ctime_ns": 1793388800572491994, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302532722/0983.jp2", "source_mtime_ns": 1785808045000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302532722/0983.jp2", "source_sha256": "cc9506943974c1c8d29f46a578157c5722542d9458ee064cdd4a1c8df0272763"}
+
+===== PAGE 1 =====
+{"alpha_words": 157, "chars": 1016, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+REPLY TO
+ATTHW OF:
+
+SUBJECT:
+
+TO:
+
+mere ‘ | ie Ah ee a
+
+Se
+- Biscay (UA)
+\A by ‘2 CH
+Cheers ~)
+HEADQUARTERS ‘\e \\ Js { ok
+FOREIGN TECHNOLOGY DIVISION <= 1 3
+
+AIR FORCE SYSTEMS COMMAND
+UNITED STATES AIR FORCE
+WRIGHT-PATTERSON AIR FORCE BASE, OHIO
+
+TDX
+
+Extract from Duty Officer Report
+
+TDEW
+
+The following, extracted from Capt Hartke'’s OD Report dated 6 May 64,
+is quoted for your information:
+
+1830 hours, Received call from ) in Yellow
+Springs. She reported that ) a worker on
+her farm, found 2 pieces of aluminum approx ely 4" x 5° painted
+
+green and yellow on her farm. I told her that I would check into the
+matter and that I would accept the charge for the phone call. However,
+the exchange supervisor informed me that the call was placed on auto-
+matic equipment and would be charged‘to Mrs. bill. I called
+the ASD Command Post who called Mr, =a and turned the matter
+over to the Base Command Post. Contact Airman Sargent for any other
+details.
+
+ROBERT A. CALLANAN
+lst Lt, USAF
+Asst Administrative Officer

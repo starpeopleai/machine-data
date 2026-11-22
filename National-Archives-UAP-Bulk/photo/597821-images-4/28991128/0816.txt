@@ -1,0 +1,60 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T19:00:37Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7245251, "source_ctime_ns": 1793384812013796450, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28991128/0816.jpg", "source_mtime_ns": 1785748435000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28991128/0816.jpg", "source_sha256": "2d528888f4d25d4038816a2a976f7a229b6072158c6eb5a5941c242330a0865c"}
+
+===== PAGE 1 =====
+{"alpha_words": 141, "chars": 1045, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+A Yale a . 7 =” DEPARTMENT OF THE AIR FORCE
+| ( STAFF MESSAGE DIVISION
+UNCLASSIFIED MESSAGE
+
+INCOMIWG
+
+AF IN : 50616 (19 Jan 61) W/ape AN/
+ACTION: CiN-I4 vf
+
+INFO : ARMY-30, NAVY-90, JCS=28,~0SD-15, NSA-7, CIA-11, CMC-6, OOP-2,
+OOP-CP-1,SAFS-3 208)
+
+SMD B 999 Ce | he
+ZCHOQA3@7ZCBJA154__ A,
+00 RJEZHO | | J
+
+DE RBEGMH 908 ~~ 4
+
+ZNR ye S |
+0 199538Z 4
+
+FM CCGDONE
+
+TO RJWFAL/CINCNORAD
+
+RJEZHQ/COFS USAF
+
+RBEGUH/C OMASDEF ORLANT
+
+RBEGUH/C OMEASTSEAF RON
+
+RCEHC/CANF LAGLANT
+
+RF EMV B/CANAIRDEF
+
+RFEMVB/26TH NORAD
+
+RBEPJD/COMDT COGARD
+
+RBEGUF/COMEASTAREA
+
+BT
+
+UNCLAS /
+
+CIRVIS. SITREP ONE.
+
+UNIDENTIFIED OBJECT SIGHTED OVER NANTUCKET ISLAND 198345Z
+
+APPEARED STATIONARY FOR 10-15 MIN . RED AND WHITE FLASHING LIGHT.
+CLIMBED STRAIGHT UP, WENT NE AND REAPPEARED EAST OF NANTUCKET ISLAND.
+LIGHT REPORTED AS RED AND WHITE; MORE WHITE THAN RED 3 RED; RED, WHITE AD
+OTHER COLORS. CHATHAM LBS AND CROSS RIP L/V HAVE OBSERVED LIGHT..
+
+ALTITUDE APPROX 900 TO 1000 FEET . SHIPED LIKE ROUND BALL
+BT NOTE: Advance copies delivered to OOP-CP and CIN (190150L)

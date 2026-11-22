@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T18:38:23Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3759561, "source_ctime_ns": 1793372064736773149, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28941130/0752.jpg", "source_mtime_ns": 1785688805000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28941130/0752.jpg", "source_sha256": "342bfb2928ed1534e89f652791b0da6bf03a80baedefa633b52f078062877332"}
+
+===== PAGE 1 =====
+{"alpha_words": 129, "chars": 958, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10973 RECORD CARD
+
+1 DATE ( 2. LOCATION 12. CONCLUSIONS
+Ariz ’ O Was Balloon
+une y) Apr we Pheonix, ve Probably Balloon
+“3. DATE-THAE GROUP 4. TYPE OF OBSERVATION eo
+. 74 , :
+Local ergo oS XY Ground: Visual O Ground-Rodor 4 Becbehiy paverdlt
+GUT ox, a 1740 O Air Visuol O Air-Intercept Rador O Possibly Aircroft
+5. PHOTOS f 6. SOURCE QO Was Astronomical
+0 Yes QO Probably Astronomical
+0 Ne 4 civilians QO Possibly Astronomical
+7. LENGTH OF OBSERVATION 8. NUMBER OF OBJECTS | 9. COURSE > Se 7
+® Insufficient Dota for Evaluation
+Q Unknown
+10. BRIEF SUMMARY OF SIGHTING 11. COMMENTS
+Dull grey color. Circular. Straight ond One object was sighted, it dis-
+level. maneuvers. appesred then reappeared and was joined
+Two F-86!s landed at Luke AFB fron by two other objects, and they
+Winslow shortly after sighting. formed a V-formation.
+Three F-51's were enroute from Speed very fast.
+Pheonix to Winslow. No vapor trails.
+ae
+
+ATIC FORM 329 (REV 26 SEP 52)

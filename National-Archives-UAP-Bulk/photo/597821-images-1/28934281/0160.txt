@@ -1,0 +1,56 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T18:56:45Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6687827, "source_ctime_ns": 1793370299647143739, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28934281/0160.jpg", "source_mtime_ns": 1785688570000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28934281/0160.jpg", "source_sha256": "f0c78758ac98697ea01c880984e4e43e4c8e7e30809712947320994ea6d72789"}
+
+===== PAGE 1 =====
+{"alpha_words": 87, "chars": 662, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD
+
+DATE - TIME GROUP
+
+4 * OCATION
+
+22 April 49 —-22/1505Z Cliff, New Mexico
+
+x
+
+SOURCE
+
+10, CONCLUSION
+
+TYPE OF OBSERVATION
+
+Ground-Visual
+
+oo
+
+Civilian AIRORAFT
+i4, NUMBER OF OBJECTS
+One
+5. LENGTH OF OBSERVATION |11, ARIEF SUMMARY AND ANALYSIS
+Two minutes Observer sighted an aluminum-colored object which appearcd
+
+os to be xem a round, flat, thin-disc-shaped object. It was
+
+.
+,c
+
+heading East and was in view for two ininutes before dis-
+Appearing behind some mountains.
+
+|} 7. COURSE
+‘
+8. PHOTOS
+
+Yes
+
+it Wo
+19. PMYSICAL EVIDENCE
+j
+i
+i ™ Vea
+2 I Mea
+” r lea
+4 a
+FORM
+“TH ser 43 §.329 (TDE) Previoas sdiuons of ‘Als form may be used,
+
+ee

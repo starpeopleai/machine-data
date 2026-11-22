@@ -1,0 +1,47 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T19:26:19Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1048801, "source_ctime_ns": 1793356103933557687, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989303-001-0031.jpg", "source_mtime_ns": 1785564608000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989303-001-0031.jpg", "source_sha256": "5acadffc4557fac8fcd0a5599d89a118e5cb85e2751e6b82d722074d23ce219c"}
+
+===== PAGE 1 =====
+{"alpha_words": 80, "chars": 733, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+RESTRICTED
+
+. ACTUAL AND AUTHORIZED STRENGTH BY INDIVIDUAL 'INITS
+
+RASE UNIT AND INDEPENDENT UNITS
+
+_ ACT STR ACT STR AUTH STR
+1 July 47 31 July hi? 31 July 47
+7
+4,00
+27th AAF BU
+Squadron A
+Officers 52 L9 —_
+Enlisted lon 189 162 -—~
+Squadron S
+Officers 3 3 —
+Enlisted Men 157 11 —
+Squadron M
+Officers 21 19 owe
+Enlisted ten 86 8h -—
+Squadron T
+Officors 2 2 —
+Enlisted Men 263 289 oe
+Squadron K °
+Officors h he ames
+Enlisted Ken . 10); 106 —
+Squadron Z
+Officers 25 23 —-
+Enlisted Ken 91 103 ---
+1395th MP Company
+Officers 3 h
+Enlisted Men 140 118 128
+lot Air Transport Unit
+Officers 45 h6 5h
+Enlisted ven 290 234 353
+Detachment of Patients
+Officers ' 0 Z 0
+Enlisted Men 8 4 )
+611th AAP Rand
+Officers 1 al 1
+Enlisted Won ~ 4 6 28
+
+25

@@ -1,0 +1,45 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T18:36:24Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3462224, "source_ctime_ns": 1793386472778150877, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28996277/1408.jpg", "source_mtime_ns": 1785747937000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28996277/1408.jpg", "source_sha256": "f8d22bcc239e8e287380145e90434146bbfa74a3fa2a96ad035597c6b1a273a6"}
+
+===== PAGE 1 =====
+{"alpha_words": 195, "chars": 1476, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+1. DATE
+
+2. LOCATION 12, CONCLUSIONS
+18 & 19 Feb 62 Shreveport, Louisiana QO Was Balloon
+QO Probably Balloon
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION a. Fasaimy Smlson
+18/0005 & 19/ (9230 x Q Was Aircraft
+Local l {f Ground-Vi sual 0 Ground-Radar Q Probably Aircraft
+cmt __18/06052 & LF / ‘(08302 O Air Visual O Air-Intercept Radar O Possibly Aircraft
+5. PHOTOS 6. SOURCE ia 4 nis Eavanentee Meteor
+O Yes ne . OQ Probably Astronomical
+fH No Civilian Q Possibly Astronomical
+7. LENGTH OF OBSERVATION 8. NUMBER OF OBJECTS | 9. COURSE O Other
+D Insufficient Data for Evaluation
+few seconds each one E Q Unknown
+10, BRIEF SUMMARY OF SIGHTING 11. COMMENTS
+
+2 separate observations of objects on succeed-
+ing nights with same characteristics. Round
+blue flame with 10 ft tails of red flame. They
+appeared at about +5° elevation and maintained
+level flight. Flame just went out and nothing
+remained. Visible tor Tew seconds each time.
+Both traveled in same direction. Sighting
+without visual aids by an all-night service
+station attendant.
+
+Description conforms to a meteor. Althoug
+red tail was present, there was no indi-
+cation of breaking up and no satellite
+reentries were reported for this date.
+Duration too short for reentry. Witness
+probably saw 2 meteors on succeeding
+nights. Appearance at the same location
+being attributed to coincidence. Herculid
+shower occurs about Feb 20 and is a swift
+streak morning shower
+
+ATIC FORM 329 (REV 26 SEP $2)

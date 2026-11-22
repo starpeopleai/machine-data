@@ -1,0 +1,47 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T19:08:21Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8871781, "source_ctime_ns": 1793363710868532953, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785831/45484701-006-001-0106.jpg", "source_mtime_ns": 1785684860000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785831/45484701-006-001-0106.jpg", "source_sha256": "30d18e362e54e22b34b5af7352ae8b46fbdc4b2707a8d7b2c9469e2a8c71c9d6"}
+
+===== PAGE 1 =====
+{"alpha_words": 224, "chars": 1529, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+24.0 14 July 1952
+
+SUBJECT: Unidentified Flying Object Reportedly Sighted, Topeka,
+Kensas, 1850 hours, 27 June 1952.
+
+DETAILS:
+
+le On 1 July 1952, 2nd It. KERWIN F. KELLY, AO 2221956, 580th
+Bombardment Squadron, Forbes AFB, Kansas, furnished Special Agent
+Alfred F. Savage the following information concerning subject inci-
+dent:
+
+ae At 1850 hours, 27 Jume 1952, KELLY and his wife were
+teking a walk near their home in Topeka, Kansase When they reached
+the comer of 2lst and High Streets, their attention was drawn to a
+bright red light, hovering in the air directly south of their location.
+
+be KELLY estimated that the object was approximately ten (10)
+miles eway and at an angle of fifteen (15) degrees elevation above the
+horizone He believed its size to be shout two-hundred (200) ft in diemetor.
+
+ce The object was observed for five (5) minutes, and, during
+this time, it changed shape from circular to oval in a pulsating manner
+at an estimated rate of thirty (30) pulses perminutee It exhibited no
+movement other than the pulsating action and disappeared instantly "much
+like turning off an electric light." There was no smoke or vapor of any
+kinde
+
+2e There were no known celestial phenomena which would accowmt
+for the sighting, and weather conditions were clear, with visibility
+of fifteen (15) miles.
+
+3e Lt. KELLY is 22 years of age and has between 500 and 600
+hours of flying time as a pilote
+
+Lt. Cole,
+ES P. MARTIN
+Aolonel, USAF
+Y District Commander
+
+SECURITY INFORMATION
+
+Declassification Authority: NND 923007

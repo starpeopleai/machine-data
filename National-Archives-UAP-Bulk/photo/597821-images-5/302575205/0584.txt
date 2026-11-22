@@ -1,0 +1,41 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T18:30:27Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1432732, "source_ctime_ns": 1793393213203043302, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302575205/0584.jp2", "source_mtime_ns": 1785808607000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302575205/0584.jp2", "source_sha256": "a18fedb2233b954ae9f3c4b93489b426e260ed04a9562ed903d7c7c348b2168b"}
+
+===== PAGE 1 =====
+{"alpha_words": 145, "chars": 1088, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+enon er ree , eee ’ aed y Pere a ye re er
+
+{ DEPARTMENT OF THE AIR FORCE
+ENVIRONMENTAL TECHNICAL APPLICATIONS CENTER (MAC)
+BLOG 159 NAVY YARD ANNEX, WASHINGTON, DC 20333
+
+"attnor: ETAC/BAD (#5992D/SSet Dunham) : 16 Apr 68
+
+susyect:; Reavuest for Weather Data. .
+
+ro: FTD (empress)
+Wright-Patterson AFB, Ohio 45433
+
+i. Requested upper-air weather data required to complete the evaluation
+of a reported UFO sighting at Glasgow! AFB,Montana, are attached. Surface
+cata for this sighting and the sightings at Newark, Ohio, and Bay City,
+Michigan, are listed below.
+
+a. Glasgow AFB, Montana ~ 24 Feb 67 = 06002:
+CLEAR 20 341/+9/-20/1008/xxx
+
+b. Newark, Ohio ~ 14 Mar 68 — 1900L:
+Surface Wind i140 degrees at 7 knots,
+
+ec. Bay City, Michigan - 4 Mar 68 = 2100L:
+
+Surface Wind 330 cegrees at 5 lnots.
+
+2. Data sources were ETAC surface and upper-air history files, ‘Extraction
+or evaluation of required weather data were adequate for all sightings.
+
+FOR THE COMMANDER.
+
+Nhe McGhe
+
+ae be JOEN T. MeCABE, Lt Colonel, USAF 4 Atech
+(/ Taief, Environmental Applicat ons Div. 2 Upperntir Data Sheets

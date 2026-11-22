@@ -1,0 +1,22 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T19:01:32Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7499069, "source_ctime_ns": 1793363376561435690, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785085/45484701-005-003-0131.jpg", "source_mtime_ns": 1785684916000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785085/45484701-005-003-0131.jpg", "source_sha256": "a7b4ec70e452bbb2ce330fcb8b4ad98dccbb337fb42b00912b144bd658eeb76f"}
+
+===== PAGE 1 =====
+{"alpha_words": 118, "chars": 788, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Major Louis Ronniger, Army ORC Instructor at Oak Ridge, Tennessee,
+reported that on 15 October 1950 he was on the AEC Patrol Rifle Range. Ronniger
+stated that at about 1400 he heard a noise similar to that made by two (2) jet
+aircraft. The sound seemed to increase and decrease and the noise seemed to be
+ascendinge Ronniger stated he could see no aircraft and that the sound lasted
+for approximately four (4) seconds. (Evaluetiont F-6)
+
+3. ACTION: Continued liaison with FBI, Security Division Atomic Energy
+Division and CIC is being maintained, and further reports will be furnished as
+they become available.
+
+NA ode
+
+2 Incls: PATRICK W. HAYES
+1 cy AEC Patrol Rpt No. 1424-50 Lt.’ Colonel, USAF
+1 cy AEC Patrol Rpt No. 1424-50 District Commander
+
+Declassification Authority: NND 923007

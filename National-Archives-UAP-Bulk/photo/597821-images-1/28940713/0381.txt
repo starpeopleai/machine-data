@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T18:38:32Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3768237, "source_ctime_ns": 1793371984774016047, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28940713/0381.jpg", "source_mtime_ns": 1785688801000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28940713/0381.jpg", "source_sha256": "0d2630fdc8cbc9820aa827d4a33ec886156b490fa1cac80b57c306cde629ab91"}
+
+===== PAGE 1 =====
+{"alpha_words": 121, "chars": 819, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+UNCLASSIFIED
+APPENDIX II
+
+Mitchell Air Force Base = 22 January 1952 |
+
+I. DISCUSSION OF INCIDENT
+
+At approximately 0950 EST on 22 January 1952, a U. S. Navy pilot flying
+@ TBM type aircraft sigh-ed a disc-shaped object near Mitchell Air Force Base,
+New York. The object appeared to be light, "like a nylon parachute canopy",
+with a dark under surface, It was estimated to be 20 feet to 30 feet in
+dianeter with a 3:1 diameter to thickness ratio.
+
+The object appcared to be circling Mitchell Air Force Base and the
+observer was able to get near the object by cuiting inside on turns,
+
+II, STATUS OF THE INVESTIGATION
+
+Additional information has been requested from Mitchell Air Force Base.
+No conclusions can be made on data contained in preliminary wire message,
+
+JOCn DED A. 6
+PMCUASSIFIED APT?
+DOD DIR 6200 *
+
+ie ra

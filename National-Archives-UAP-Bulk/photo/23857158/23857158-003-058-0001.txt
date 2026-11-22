@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T18:47:55Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5106738, "source_ctime_ns": 1793358556643557615, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-003-058-0001.tif", "source_mtime_ns": 1785681129000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-003-058-0001.tif", "source_sha256": "cb22bd977f2ec6ac11b0ad1bda1797b6a6a12915764d3885e306d5658fc33cf9"}
+
+===== PAGE 1 =====
+{"alpha_words": 78, "chars": 614, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Declassification Authority NND 923007
+
+4602D AISS UFOB. LCG
+
+1, REPORT No. . 2 DATE/TIME OF SIGHTING 3 RECD HQ )602D
+AISS-UFOB185~-55 | 21/1120% June 1955 ___23 June 1955
+
+ly LOCATION OF SIGHTING
+| Glenavon, California
+
+5 MEANS RECD 6 ACTION
+
+JST tee ___-‘No Investiga tion Authorized
+
+7 INVES UNIT ——«8 DATE INVES ASSIGNED 9 ASSIGNING OFF
+fafa Wha WA
+
+10 DATE IR RECD HQ [11 DATE IR APPROVED 12 DATE IR TO ATIC
+
+w/a n/a oe W/A
+“.$13-ATSOP FORM 5
+123 June 1955
+
+"Uy COMMENTS
+
+Sais sighting was ane ate aireraft. Radio contact was astablished
+wath the UFOB,
+
+15 CONCLUSIONS
+- Was Atroraft
+
+AISOP FORM 7 (2A-R 55).

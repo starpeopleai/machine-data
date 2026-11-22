@@ -1,0 +1,138 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T18:37:51Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3709227, "source_ctime_ns": 1793376645696895076, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28961538/1324.jpg", "source_mtime_ns": 1785696648000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28961538/1324.jpg", "source_sha256": "59508cbfb594ecca4c930780fc38be291ea3dc133c33207ded74776800996a8a"}
+
+===== PAGE 1 =====
+{"alpha_words": 126, "chars": 822, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+F
+
+ee
+w
+
+UE
+10. “BRI EF Sl MMAR sf
+
+ee cS ree ee eats tunenaneeiee
+
+ATiC FORM 329 (REV 26 SEP
+
+DATE
+
+L6 Mar
+
+DATE- TIME
+
+Local -
+
+Cee
+PHOTOS
+
+LENGTH OF
+
+"
+de
+
+> ye ancy >
+
+GROUP
+
+aN .
+Ci Yes
+TDNo
+OBSERVATION
+“ i rh I it IS
+OF 5
+ghter th
+
+a bright
+
+Quy
+
+ne
+
+$2)
+
+| 4. TYPE OF OSE RVAT 1ON
+
+a
+
+LOC
+
+ALK Ground- Vi sual
+
+0D Air
+
+Cais
+NUMBER OF OBJE
+
+)
+4
+
+e INO
+— ny
+Oo Ry
+
+ATION
+
+iE
+
+7)
+
+Sou
+
+Vi suU¢ al
+
+a
+
+73 RECORD CARD
+
+{
+
+Ar \)
+
+By Ge! es Ohio
+
+i
+
+lé
+
+;
+
+©
+
+0 Ground-
+
+OD Air-Inter
+
+idar
+
+cept
+
+=)
+ras
+
+idar
+
+}o Was Balloon
+,O Probably Balloon
+if Possibly Balloon
+
+On at a i a
+
+M12. F ~ CONCL USIONS
+
+(QA Was Aircraft
+
+O Probably Aircraft
+M Possibly Aircrafs
+0 Was Astro nomical
+Oo P rob. ubly Ag
+0 Possibly Astronomical
+
+tror OF mice}
+
+, Other
+Insuf ficient Data. for
+QO Unknown
+
+Eval alu vation
+
+000 feet over Ham-—
