@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T13:24:09Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9380656, "source_ctime_ns": 1793379505965611610, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28972482/00652.jpg", "source_mtime_ns": 1785701050000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28972482/00652.jpg", "source_sha256": "1a0a4b6ee3deed223c464b69cddbabce8fcb4d316b1662bd1b80695e826bf0ef"}
+
+===== PAGE 1 =====
+{"alpha_words": 73, "chars": 501, "method": "ocr", "page": 1, "variant": "plain-vision"}
+27
+•. Mutti
+28/00552
+Phoned OD at 2806147
+Will pick up in A.M.
+Ост 20 06 11 57Ś
+ПРВОР УDЛ004 ЖУ5007 ХDА010GUA014
+PP RJUPEU RJEDEN RJEDUP RJEPHQ
+DE RJUPGU
+2802302
+PH COMDR 786 ACURON MINOT AFU NEAK
+TO RJEDEN/COMDR ADC
+IT AFB COLO
+RJUPGU/COMDR 29ADIV DEF MAFE MONT
+RJEDUP/CONDR AIR TECH INTEL CEN WRIGHT-PATTERSON AFB OHIO
+RJEPHO/DIR OF INTEL HQ USAF WASH 25 DC
+4E4
+4 4x22
+UNLCASS FROM OPS
+UNIDENTIFIED FLYING OBJECT REPORT
+CONE
+_.MA
+F MA
+& NONE
+LOW HUN
+HEARD ON AMPLIFIER WHILE OBJECT IN SIGHT. CAUDIO

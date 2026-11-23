@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T13:28:07Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 18140516, "source_ctime_ns": 1793356670974838605, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0292.tif", "source_mtime_ns": 1785564739000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0292.tif", "source_sha256": "4add40bc2acfe6a55b7b1c36fe979c0c2f69182994f28fe6d5679f67a1b8936c"}
+
+===== PAGE 1 =====
+{"alpha_words": 217, "chars": 1349, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Incident #166 -- Los Angeles, California -- 30 August 1948
+The observer of this incident states that the object looked
+like & rocket and was larger than a B-29. de does not give the dis-
+tance, but estimates the altitude as well over 20,000 feet. at this
+in lied distance, it appears to this investigator that resemblance to
+rocket must have been largely subjective.
+Although a rocket cannot be ruled out, it is also possible
+that the object seen was a bright meteor. If the hour of observation
+given is correct, it was late twilight. It seems that a bright meteor
+appearing at this time could give the general impression of a rocket
+leaving a trail.
+The report states that the object was observed through field
+glasses taken from a German 88 mm. artillery piece and that each lens
+was g" in diameter, (This is an improbably large size for a field glass.)
+If the object completely filled the lens at that given altitude, either
+it was of a truly tremendous size or the glass was out of fogus. fur-
+thermoro, the telegram
+and summary state that the object was travelling
+from west to east (
+er report
+says
+from north to south); if it
+had been a rocket headin
+east, the
+landing would probably have been
+reported.
+All in 0l1,
+object was more
+evidence supports the conclusion that the
+ht meteor than a huge rocket.
+Declassification Authority: NND 57565

@@ -1,0 +1,24 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T13:32:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 67278072, "source_ctime_ns": 1793358040390401981, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1777-595020-0003.tif", "source_mtime_ns": 1785565017000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1777-595020-0003.tif", "source_sha256": "a35dda8611d4aad01502200f896073f1071e62e130ee2dd21c075e16150f1cc9"}
+
+===== PAGE 1 =====
+{"alpha_words": 51, "chars": 412, "method": "ocr", "page": 1, "variant": "plain-vision"}
+To:
+U.S. Coast and Geodetic Survey
+Washington, 25, D.C.
+U.S. DANGER AREAS ON WORLD AERONAUTICAL CHART 468
+NORTH POLAR AREA
+SOUTH POLAR AREA
+WORLD AERONAUTICAL CHART INDEX
+Scale of Series 1:1,000,000
+AERONAUTICAL SYMBOLS
+AERONAUTICAL SYMBOLS
+RADIO FACILITIES
+>0 C
+• Civil
+AND LAAERO FACILITES INT
+In undoes of te
+AIR NAVIGATION LIGHT
+Declassification Authority: NND 57565
+TOPOGRAPHICAL SYMBOLS
+NEW YORK D
+ICHMOND

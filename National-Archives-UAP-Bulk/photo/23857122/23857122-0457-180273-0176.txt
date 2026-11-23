@@ -1,0 +1,18 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T13:56:03Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 18620196, "source_ctime_ns": 1793356562300710255, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0176.tif", "source_mtime_ns": 1785564723000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0176.tif", "source_sha256": "7a2454cf75aee6791598377bea5fe99fc508401be8a286c79d93439e5f80d0c9"}
+
+===== PAGE 1 =====
+{"alpha_words": 105, "chars": 713, "method": "ocr", "page": 1, "variant": "plain-vision"}
+LAgident 783 -- between Boise & meridian, Idaho -- 9 July 1947
+There appears to be a tine discrepancy in this incident:
+the summary report states that the object was in view 10 to 30
+seconds, yet indicates that the observer had time to call a weather
+station to inquire about balloon releases, and also to expose 10
+seconds of 8 mm. film.
+In any event, however, besides the fact that no smoke
+trail was indicated, taotios of the object precludesthe possibility
+of its havin; been astronomical; meteors do not execute "slow
+rolls" or climb upward.
+A better estimate of speed is needed. The possibility
+romeins that the object may have been an unsymmetrically-painted
+balloon.
+Declassification Authority: NND 57565

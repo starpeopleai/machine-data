@@ -1,0 +1,93 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T14:05:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 28865924, "source_ctime_ns": 1793357301365558662, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1388-514451-0001.tif", "source_mtime_ns": 1785564872000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1388-514451-0001.tif", "source_sha256": "5a65a361b4fe31944ac23953213a36ffc45169aff28e4328de5cbbf03d582e9a"}
+
+===== PAGE 1 =====
+{"alpha_words": 274, "chars": 1961, "method": "ocr", "page": 1, "variant": "plain-vision"}
+- 3778
+-PART I
+APPROVED 1 JUNE 1948
+COUNTRY
+CONFIDENTIAL
+REPORT NO.
+GERMANY
+(LEAVE BLANK)
+1044-52
+9514451
+AIR INTELLIGENCE INFORMATION REPORT
+SUBJECT
+SEE CONTENT'S BELOW
+AREA REPORTED ON
+SOVIET ZONE GERMANY
+DATE OF REPORT
+22 SEPTEMBER 1952
+PREPARED BY (Officer)
+TREFTER L. THOMAS IST LT. USAF
+REFERENCES (Control number, directive, previous report, etc., as applicable)
+FROM (Agency)
+7350TH BASE COMPLEMENT SQUADRON
+EVALUATION
+DATE OF INFORMATION
+20 SEPTEMBER 1952
+SOURCE
+NONE
+WEBSTER, J.W. CAPT. USAF
+SUMMARY: (Enter
+ntence paragraph. List inclosi
+at lower left. Begin text of report on AF Form 112-Part II.
+I. CONTENTS:
+Visual observation of unidentified objects in N portion of cleared
+corridor in Born/Dolle Maneuver Area.
+II. SOURCE:
+A .
+General:
+1.
+2.
+Name ..
+Rank..
+Serial Number..
+Crew Position this Flight.
+Years as Rated Crew Member
+Assigned to...
+7.
+Years in Service..
+8.
+Were Binoculars Used.
+9.
+Were Pictures Taken.
+•Webster, J.l.
+..Capt.
+•A0-674917
+• Pilot
+.10 Years
+.7167 S.A.M. Sq., Wabdn.
+10 Years
+No
+-No
+III. RELIABILITY OF SOURCE:
+Capt. Webster is known to the undersigned and I have confidence in his
+judgement.
+He is a mature, stable officer who can be relied upon to make a
+true, accurate statement.
+IV. INTERVIEWER:
+A/2c. Jack L. Majors
+V.
+REMARKS:
+Source received no briefing prior to departure from home base.
+INCLS.
+DECLASSIFIED
+THOMAS
+Ist Lte,
+USAF
+Air Intelligence Officer
+ST ACY BY RANATOR
+Has USAFE (Orig)
+AC/S,
+Hqs 12th AF - 1 cy
+OSI DO - 3 - 1 cy
+File - 1 cy
+NOTE: THIS DOCUMENT CONTAINS INFORMATIO
+ACTING A NATIONA BEFENS ON TELATED AT WITHIN THE MEANING OF THE ESPIONACE ACT. 50 U. S. C.-
+1 AND 32, AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW
+I MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OI
+INTELLIGENCE, USAF.
+CONELDENTIAL
+Declassification Authority: NND 57565

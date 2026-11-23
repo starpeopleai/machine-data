@@ -1,0 +1,70 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T13:40:06Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 30110044, "source_ctime_ns": 1793357596745715229, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1483-540160-0002.tif", "source_mtime_ns": 1785564934000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1483-540160-0002.tif", "source_sha256": "24da47701635f30e7a1595eca71b692d198a579f4c78e8d2b00855f42c8059c4"}
+
+===== PAGE 1 =====
+{"alpha_words": 444, "chars": 2969, "method": "ocr", "page": 1, "variant": "plain-vision"}
+RESTRICTED
+AF FORM 112-PARL4
+APPROVED 1 JUNE 1948
+FROM (Agency)
+CG 10th Air Div (Def) APO 942
+AIR INTELLIGENCE INFORMATION REPORT
+REPORT NO.
+10AD-4-53
+PAGE
+2
+OF
+2
+PAGES
+At approximately 18/04552 February 1953 an unidentified red light was sighted in
+the vicinity of Elmendorf AFB by the following members of the 39th Air Police Squad-
+ron:
+A/20 DARCE R. ODOM, AF 18356875,
+SC ROBERT A. WOOD, AT 27 011722, 39% 4/E NORMAN
+AUGUSTUS J. WORMUTH, AF 23 746 279, A/3C ROBERT A. WOOD, AF 27 011 420, and A/B
+S. MOTTS, JR, AF 12 342 976.
+The object is described as a large red light, estimated to be thirty-six (36)
+inches in diameter from a distance of 3/8ths of a mile and an altitude of 1500 feet.
+Its shape was not clearly defined, but appeared to be round. It emitted no sound nor
+were there any discernible trails of exhaust patterns.
+Weather at the time of the
+sighting was a measured 5500 feet oVercast, visibility 10 miles, wind 15-16 knots from
+170 to 185 degrees.
+The object first appeared approximately at the west end of runway 05. At the
+time of the initial observation its altitude was estimated to be 1500 feet.
+However
+it was described as climbing gradually and was traveling at a speed a little slower
+than a jet. The object continued in a southwesterly direction and crossed Anchorage
+to a point
+just beyond the city limits when it circled to the west to a position out
+over the middle of knik arm, but on a line with the city.
+One fighter interceptor was scrambled in an effort to intercept. As the jet
+became airborne there was a noticeable increase in the speed of the object.
+When it
+reached a point midway across the arm, the light climbed vertically at a speed far in
+excess of any jet observed by the airmen and disappeared from sight,
+The fighter
+reported no contact at any time. A nearby radar site was alerted and was operational
+during the entire period but reported no sighting.
+The duration of the sighting was five (5) to ten (10) minutes.
+No weather
+balloons were released during the period.
+All airmen have previously observed falling
+stars and declared the sighting did not resemble such natural phenomenon.
+A similiar
+sighting was made the previous evening, see 10AD-3- 53, but was unknown to the airmen.
+COMMENTS of Preparing Officer:
+All persons who could have knowledge of this sighting have been interrogated.
+The light still remains unidentified.
+DECLASSIFIED
+USAE
+Memo 2/31/78
+BUZI WAL.
+NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S. S.C.-
+31 AND 32, AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW.
+IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF
+INTELLIGENCE, USAF.
+RESTRICTED
+(CLASSIFICATION)
+16-55570-1 * U.S. 601
+DENI FRINTING OFFICE
+Declassification Authority: NND 57565

@@ -1,0 +1,43 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T13:34:43Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 17944886, "source_ctime_ns": 1793360898389066758, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-003-0210.tif", "source_mtime_ns": 1785565150000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-003-0210.tif", "source_sha256": "5ae46cee450d8ef47d1dfb878af770d9629488a8899954f3eefdbe7aaaeb293a"}
+
+===== PAGE 1 =====
+{"alpha_words": 287, "chars": 1896, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1,095,746
+STATEMENT
+On the night of 8-9 March 1957, Captain Belmont (pilot) and Major Landis
+co-pilot) of C-47 #43-16100 were flying from England AFB, La. to Shat
+FB, S. C. The flight was made at 9000' and was uneventful until afte:
+passing Aiken, S. C. At approximately 0125 hours we cancelled our IFR
+flight plan and proceeded to make shallow let-down to the Shaw radio
+range on a heading of 060 degrees. At approximately 0140 hours at an
+altitude of 2500' (position 15 miles S Columbia, S. C.) air speed 180
+mph indicated an unusual phenomenon appeared off our right wing at the
+same altitude and flight path. The object appeared as a large ball of
+yellowish-green fire with a brilliant tail with a length approximately
+15 to 20 times the diameter of the ball. The object appeared to be
+approximately 24 inches in diameter and appeared to pass within 200
+yards of our aircraft. Both the fire ball and the tail appeared to be
+more or less solid as opposed to the thin vapor appearance of a jet or
+after-burner exhaust at night. At the extremity of the tail solid
+globules of fire appeared to break off and gradually die out in much
+the same manner as flying napalm liquid. The object appeared in view
+for an estimated 10-15 seconds and then merely disappeared as a light
+goes out, with no explosion sparks and other action.
+Weather conditions were as follows: Clear sky, visibility 15 to 20
+miles with light ground haze. Stars visible, no clouds and no moon.
+Flying experience: 17 years
+2500 hours military flying
+400 hours jet flying (RF-80, F-84, T-33)
+Senior pilots rating
+300 hours civilian flying time
+Duty: Staff Intelligence Officer
+Experience: 10 years
+Upon landing Shaw tower asked if we had seen any unusual phenomenon.
+They had received a report of an unusual sighting by an airline pilot.
+14 March 57
+abert? Belmont
+ROBERT T. BELMONT
+Captain, USAF
+1095716
+(1)
+Authority NND 9237007

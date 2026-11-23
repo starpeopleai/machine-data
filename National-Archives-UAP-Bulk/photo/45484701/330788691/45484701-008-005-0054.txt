@@ -1,0 +1,48 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T13:58:04Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 11919363, "source_ctime_ns": 1793365318077735292, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330788691/45484701-008-005-0054.jpg", "source_mtime_ns": 1785684609000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330788691/45484701-008-005-0054.jpg", "source_sha256": "5efb70eea3c10436a65ede7989f88cf85c31fa3fd8a700583b31a50aafd57afd"}
+
+===== PAGE 1 =====
+{"alpha_words": 158, "chars": 1170, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Wrtn 16 Nov. 50
+24-185
+(Unclassified) Unconventional Aireraft
+SPECIAL INQUIRY
+Documents & Diasemination Br, Directorate of
+Intelligence, DCS/0
+Counter Intelligence Div, Directorate of
+Sp Investigations, The Inspector General
+1 7 NOV 1850
+MaJ Detwiler/b5n/71776
+APOSI
+Attached for your informtion is a Spot Intelligence Report conceming captioned
+subject, dated 23 October 1950. No further action is contemplated unless so requested
+by your Directorate.
+1 Incl
+SIR dtd 23 Oct 50 fr
+re aby subJ,
+(in dup) w/incl
+GILBERT R. LEVY
+Actg Chief, Counter Intelligence Div
+Office of Special Investigations
+The Inspector General
+When Inel No.
+/..- is fare) eithdram
+, The classification of
+-.- on this correspondence
+Per 350. AFR 205-1.
+Pees el on easies to parace avated to e facin
+Diselease of the noture, sources, or even the saist
+r to other persops not nonsally entitled to such informallo.
+ray be made only when expressly authorised by the Directo
+of Special Investioctions, TG. or higher aufiority.
+CLASSIFICATION CA
+BY AUTHORITY OF
+BY KURT K. KUNZE, Capt, USAF
+Historian
+8 DEC 1975
+DATE
+OUT
+17 NOV18
+UNCLASSIFIED
+ATICES
+Declassification Authority: NND 923007
+AFCSI FILE CO

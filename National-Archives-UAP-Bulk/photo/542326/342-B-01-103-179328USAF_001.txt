@@ -1,0 +1,20 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T13:57:07Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 87710504, "source_ctime_ns": 1793368337599177449, "source_file": "National-Archives-UAP-Bulk/photo/542326/342-B-01-103-179328USAF_001.TIF", "source_mtime_ns": 1785566052000000000, "source_rel": "National-Archives-UAP-Bulk/photo/542326/342-B-01-103-179328USAF_001.TIF", "source_sha256": "a0b3ab1a120305b5217e304a7d8bd070f20ea7f8c6ef4f25d9a3617f6f281672"}
+
+===== PAGE 1 =====
+{"alpha_words": 57, "chars": 377, "method": "ocr", "page": 1, "variant": "plain-vision"}
+130°
+SA0 NAUTICAL MILES -
+REGION FROM
+WHICH THIRD SWEEP
+ECHOES ORIGINATED
+REGION BETWEEN EDGE OF SCOPE
+AND START OF NEXT SWEEP
+REGION FROM
+WHICH SECOND SWEEP
+ECHOES ORIGINATED
+PPI PHOTOGRAPH
+TAKEN BY USS INTERCEPTOR
+II AUGUST 1959, STATION 9
+FIG. II PPI PRESENTATION AND LOCATION OF TARGETS FROM
+WHICH RADAR ECHOES WERE RECEIVED DURING THE
+OCCURRENCE OF A STRONG ELEVATED DUCT

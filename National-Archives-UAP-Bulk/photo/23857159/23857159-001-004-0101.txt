@@ -1,0 +1,81 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T13:51:11Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 20467664, "source_ctime_ns": 1793361093244310084, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-004-0101.tif", "source_mtime_ns": 1785565227000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-004-0101.tif", "source_sha256": "974d024c9ba94e3e20c17fd56deb38cf27ae05a45667f4d4b0d02afc435c31e3"}
+
+===== PAGE 1 =====
+{"alpha_words": 246, "chars": 1771, "method": "ocr", "page": 1, "variant": "plain-vision"}
+CLASSIFIE
+SS IF ICATI
+COUNTRY OF ACTI
+/ITY REPORTING
+REPORT NO
+NORWAY
+IR-53-58
+AIR INTELLIGENCE INFORMATION REPORT
+COUNTRY OR AREA REPORT CONCERNS
+DATE OF INFORMATION
+Norway
+19
+Ma y
+1958
+ACTIVITY SUBMITTING REPORT
+DATE OF COLLECTION
+PREPARING INDIVIDUAL
+PREPARING
+Oslo, Norway
+19 May
+1958
+DATE OF REPORT
+JAMES F. HOGAN,
+Colonel, USAF
+NAME OR DESCRIPTION OF SOURCE
+23 May 1958
+EVALUATION
+Local Press
+B-2
+REFERENCES (BAIR Subject, previous reports, etc., as applicable)
+BAIR Subject:
+IR-33-58
+SUBJECT (Descriptive title. Use individual reports for separate subjects)
+1178807
+(Leave blank)
+1178807
+SRI STATUS (If applicable)
+SRI NO.
+CANCELED /COMPLETE
+CANCELED/ INCOMPLETE
+SRI NO.
+ACTIVE
+ION ON (Date)
+(Uneld) Luminous Object Observed Over Oslo
+SUMMARY (Give summary which highlights the salient factors of narrative report. Begin narrative text on AF Form 112a
+unless report can be fully stated on AF Form 112. List inclosures, including number of copies)
+1.
+The report found on Page Two covers a newspaper article
+concerning an unidentified "low flying" luminous object which was
+observed by Oslo people the night of 18 May 1958.
+2. The description parallels the object reported in IR-33-58.
+onel
+t Air Atta
+USACene
+APPROVED
+SAMES L. FLANAGAN
+Colonel, USAF
+Air Attache
+INC LS
+341-6211322
+86
+3/25:36-4
+DISTRIBUTION BY ORIGINATOR (Except USAF and file. Indicate Dupl M/oz and copi
+if applicable)
+USAFE (Dup M/oz cy)
+WARNING: This document contains information affecting the nat
+Espionage Laws, Title 18, U.S.C.. Section 793 and 794. Its trai
+an unauthorized person is prohibited by law
+hin the meaning of the
+ts in any manner to
+FORM
+AF 15 SEP 54 112 REPLACES AF FORM 112. 1 OCT 52. WHICH MAY BE USED
+MINICODED
+UNCLASSIFIED
+CLASSIFICATION
+DECLASSIFIED
+Authority NND 9237007

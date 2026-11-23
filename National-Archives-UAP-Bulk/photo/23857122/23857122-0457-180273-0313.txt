@@ -1,0 +1,13 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T13:56:12Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 19451424, "source_ctime_ns": 1793356691393143737, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0313.tif", "source_mtime_ns": 1785564742000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0313.tif", "source_sha256": "49abb8aad22028f8078f47c286c60b897ac3b0bb35e99c9f24842fb6a493bce2"}
+
+===== PAGE 1 =====
+{"alpha_words": 63, "chars": 442, "method": "ocr", "page": 1, "variant": "plain-vision"}
+ESTRICTED
+Incident 7184 -- Winona, Minnesota -= 20 Vetober 1948
+This incident and #185 appear to be a clear-cut case
+of a fireball. Strongest evidence is the fact that the object
+was soen in several communities at the same tire. while the
+reports given in the Minneapolis Horning Eribane article con-
+fliet in minor details, the general sense of the description
+of all observers fits that of a fireball.
+Declassification Authority: NND 57565

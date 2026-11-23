@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T14:07:45Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 17773728, "source_ctime_ns": 1793355749469695321, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0191.jpg", "source_mtime_ns": 1785564515000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0191.jpg", "source_sha256": "fabfa3f8652837b51bb893962e9131c4bf4f1f45e10fc960cdf851ef8bd06d54"}
+
+===== PAGE 1 =====
+{"alpha_words": 180, "chars": 1313, "method": "ocr", "page": 1, "variant": "plain-vision"}
+WINZEN RESEARCH INC
+PROGRESS IN PLASTIC
+BALLOON TECHNOLOGY
+12. APRIL 1960
+Figure 1. Artist's Drawing of Manned Balloon Capsule at Altitude, Showing Near-
+Space Environment: (1) Closely resembles visual environment of orbiting capsule.
+(2) Psychological stress environment is correct (no panic button is available).
+(3) Return to earth difficult and traumatic as in space capsule (however, there is
+the safety of three methods of return to earth; on the balloon, on the gondola para-
+chute, on the personnel parachute at lower altitude). 4) High confidence level as
+a result of seven successful major flights. (5) Simulator which resembles space
+ship, no noise, vibration, and so on, as in airplane. (6) Above 99% of the earth's
+atmosphere, good enough for preliminary tests of manned space experiments with
+only the element of weightlessness missing
+SILSELNO
+PAYLOAD
+VOLUME
+Figure 2. Graph of WRI Progress in Balloon Technology.
+Figure shows progress from original Skyhook balloon
+which carried 70 pounds to 100,000 feet on a 200,000-cubic-foot vehicle; steady progress in size of balloons and
+payloads. 1959 bars show 10,000,000-cubic-foot balloon inflated to a gross inflation of 15,000 pounds, this on a
+1-mil capped polyethylene balloon; gross inflation is equivalent to a payload capability of 12,000 pounds

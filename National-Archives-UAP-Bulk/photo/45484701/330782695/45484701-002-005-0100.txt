@@ -1,0 +1,45 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T13:24:29Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9527965, "source_ctime_ns": 1793362363038651734, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330782695/45484701-002-005-0100.jpg", "source_mtime_ns": 1785684773000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330782695/45484701-002-005-0100.jpg", "source_sha256": "1d1ffb8d4d5bd969b2349118dec78233f396d65189cd872dab0c273497628795"}
+
+===== PAGE 1 =====
+{"alpha_words": 211, "chars": 1518, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Pine in sight
+Weather conditione
+Approximately five minutes
+Sun was shining but there was
+a large thunderhead over
+Gunter AFB
+NONLIN's husband has been in the Air Force for over 7 years and
+she is thoroughly familiar with all types of aireraft,
+She has never seen
+anything of thie type before. HORLIN told her husband of the incident in~
+mediately upon resoning home but told no one else for foar of ridicule.
+As far as she knows, no one else saw the saucers.
+NOTS: NONLIN seemed a normal, mature woman.
+On 1l July 1049, a check of the weather records at Harsell AB,
+Alabass, revealed the following information:
+1550 weather
+18 Juno 1949
+15,000, clouds soattered, visibility 10 miles, wind calm.
+1630 weather
+18 June 1949
+15,000, clouds scattered, visibility 10 miles, wind from North
+6 kaots.
+1750 weather
+18 June 1949
+18,000, olouds soattered, visibility 10 miles, a few eirrue
+clouds, wind from West 4 knots.
+1830 weather
+18 June 1949
+16,000, oloucs scattered, visibility 10 miles, a few cirrus
+clouds, wind from West & knots,
+1950 weather
+18 June 1949
+16,000, olouds scattered, visibility 10 miles, smoke layer,
+wind aalm.
+Your weather balloons were released from Maxwell AFB on 18 June
+1949 at the following tines: one at 0515, one at 0900, one at 2445, and
+one at 2134. No unusual conditions or phenomena were notieed.
+NOTE: No veather facilities are aveilable at Cunter AFB.
+Gunter APB Operations calls Maxwell Weather Station for clearance datas
+REFERRED UPON COMPLETION
+Declassification Authority: NND 923007

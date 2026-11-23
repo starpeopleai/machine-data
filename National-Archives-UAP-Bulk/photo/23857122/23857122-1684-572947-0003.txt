@@ -1,0 +1,70 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T13:56:48Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 30948776, "source_ctime_ns": 1793357822926948837, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1684-572947-0003.tif", "source_mtime_ns": 1785564978000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1684-572947-0003.tif", "source_sha256": "6725da0d561c07230f3ca5ba7de3a10737653b0fd38d83510d761e0637b25e25"}
+
+===== PAGE 1 =====
+{"alpha_words": 401, "chars": 2677, "method": "ocr", "page": 1, "variant": "plain-vision"}
+RESTRICTED
+AF FORM 112-PART II
+APPROVED 1 JUNE 1948 .
+(CLASSIFICATION)
+AIR INTELLIGENCE INFORMATION REPORT
+FROM (Agency)
+REPORT NO.
+912th AC&W Squadron
+Ramore, Ontario, Canada
+53-3
+OF
+The following is a more detailed report on a FLYOBRPT transmitted by teletype on
+17 August 1953.
+PAGES
+At about 2235 EDST on 16 Aug 1953, an unidentified object was seen in the
+sky by a least seven persons of this organization.
+The first person to see the
+object was T Sgt Richard Hallstrom at the domestic area.
+He reported seeing, what
+to him appeared to be a forest-fire, to A/2C Lysakowski.
+He instructed him to call
+operations located on a hill 3 miles east, to fix the position of the light.
+There,
+four airmen witnessed a diamond or pie-cut
+shaped orange red object.
+It was low
+on the horizon, disappeared for a short moment and reappeared weaker before fading
+away for good.
+Azimuth approximately 260 degrees.
+Motion was negligible, if any.
+Spead and distance could not be determined.
+A definite outline was observed.
+sound was detected.
+Weather was clear. Moon was not out.
+Theobject was first
+seen at about 2235 EDST, 16 August 1953, and it was
+observed for approximately five minutes.
+3. The object was observed from the surface by visual means only.
+Al tho
+units radar was operational, no targets were observed on the scopes before, during
+and after visual observation.
+4. The observers were located about three and six miles east of the town of
+Ramore, ontario, Canada.
+The object was almost or completely stationary in the
+dest at approximately 260 degrees.
+It was hovering very low on the horizon.
+It
+fisappeared for a moment but came into sight again, weaker this time and then dis-
+appeared shortly for good.
+5.
+Although the statements made by the witnesses differ slightly, all the
+witnesses are considered reliable.
+squadron and their statements were made after due consideration and thought.
+6. Weather was clear, winds aloft unknown.
+7. Position of object not known.
+8. There is no physical evidence of the sighting.
+9. Visual observation reported to appropriate GCI Squadron immediately.
+10. No air traffic detected in area before, during and after sighting.
+NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S. C.-
+31 AND 32, AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW.
+IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF
+INTELLIGENCE, USAF.
+RESTRICTE
+(CLASSIFICATION)
+16-55570-1
+Declassification Authority: NND 57565

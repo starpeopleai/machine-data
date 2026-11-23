@@ -1,0 +1,90 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T13:40:13Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 31333652, "source_ctime_ns": 1793357540075498398, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1475-539504-0001.tif", "source_mtime_ns": 1785564922000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1475-539504-0001.tif", "source_sha256": "9c61f916024c31f2a64588755240c2e821c34d5d1d58526f44f7358efc73dadf"}
+
+===== PAGE 1 =====
+{"alpha_words": 403, "chars": 2831, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DOC
+AF FORM 112
+BRANCH
+RESTRICTED
+(CLASSIFICATION)
+APPROVED I JUNE 1948
+COUNTRY
+TISA
+IP-10-53
+AIR INTELLIGENCE INFORMATION REPORT
+10
+SECURITY
+INFORMATION
+(LEAVE
+BLANK
+AF539504
+SUBJECT
+FLYOBRPT
+AREA REPORTED ON
+DATE OF REPORTake Charles, Ia.
+PREPARED BY TO TIRTY 1953
+DONALD R. CASETY MAJOR
+USAF
+FROM (Agency)
+DATE OF INFORMATION
+DOI 68th Bomb WEEVALLATON ICAPB
+12 February 1 SOURCE
+C-3
+Crew Members 52nd Bomb Sq. 68th Bomb Wg.
+REFERENCES (Control number, directive, previous report, etc., as applicable)
+AFL 200-5 and TT 68th DOI 1367
+SUMMARY: (Enter concise summary of report. Give significance in final one-s
+entence paragraph. List inclosures at lower left.
+118-Part II.)
+An unidentified object was observed by ten (10) crew members of the 52nd
+Bombardment Squadron,
+68th Bombardment Wing, on 12 February 1953.
+Ref. Par,
+7c AFL 200-5, 29 April 1952:
+feet in diameter. bluish white color. Trail appeared in pulse-jet fashion, white
+pulses being much smaller than the object.
+The object resembled a flaming-rag
+thrown into the air.
+The pulses extended to the rear four (4) times the length of
+the object.
+The object suddenly disappeared approximately twenty (20) miles from
+the observers, Its brightness was greater then the star Sirius and had a steady
+brilliance.
+There was no manuever or loss of altitude in its 90 degree azimuth,
+The object approached from 130 degrees and proceeded in a straight and level flight.
+(2)
+The observation was made visually from the ground at 0600 hours Central
+Standard Pime and persisted for twelve (12) seconds when it suddenly disappeared.
+(3)
+The observation was made during the preflight of a B-29 aircraft about two
+hundred (200) yards north of Hanger 3, Lake Charles AFB La.
+(4)
+The object
+appeared to be at an estimated altitude of five thousand (5,000) feet and travell-
+ing at fifteen hundred (1,500) miles per hour. (5)
+The observers are considered
+reliable. (6)
+Weather in area CAVU, winds aloft 310° at 35 knots, 5000 feet. (?)
+There was no meteorological activity.
+(8) No Physical evidence or photos were
+obtainable.
+(9) No interception or identification action was feasible. (10)
+There was no traffic in the area at the time of observation,
+el.Rlaset
+Approved:
+DONALD R. CASETY
+MAJOR
+USAF
+Intell
+Officer
+- INCLS.
+UST 2928 7/31/28
+By h. Legs 6, DA/. 28/98
+STRIBUTION BY ORIGINATOR
+NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S.C.-
+31 AND 32, AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW.
+IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF
+INTELLIGENCE, USAF.
+RESTAICTED
+(CLASSIFICATION)
+Declassification Authority: NND 57565

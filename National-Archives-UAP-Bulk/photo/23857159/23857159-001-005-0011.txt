@@ -1,0 +1,79 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T13:31:13Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 21908022, "source_ctime_ns": 1793361323605435404, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-005-0011.tif", "source_mtime_ns": 1785565317000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-005-0011.tif", "source_sha256": "7252244ec8cc0d0eb02068499ca7d8f544d0847e4639762345c53fe992c145ff"}
+
+===== PAGE 1 =====
+{"alpha_words": 331, "chars": 2295, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UNCLASSIFIED
+CLASSIFICATION
+COUNTRY OF ACTIVITY REPORTING
+REPORT NO.
+SWEDEN
+1246300
+AIR INTELLIGENCE INFORMATION REPORT
+COUNTRY OR AREA REPORT CONCERNS
+DATE OF INFORMATION
+SWEDEN
+27 Feb 59
+ACTIVITY SUBMITTING REPORT
+DATE OF COLLECTION
+OAirA, SWEDEN
+PREPARING INDIVIDUAL
+2 Mar 59
+DATE OF REPORT
+JOHN H. REMICK, Major, USAF
+NAME OR DESCRIPTION OF SOURCE
+18 Mar 59
+EVALUATION
+B~2
+(Leave blank)
+SRI STATUS (If applicable)
+SRI NO.
+SRI NO.
+SRI NO.
+CANCELED/COMPLETE
+CANCELED/INCOMPLETE
+ACTIVE
+ADDITIONAL INFORMATION ON (Date)
+34- 63A1416
+63
+2/19:14-6
+REFERENCES (BAIR Subject, previous reports, etc.
+BAIR: 460
+SUBJECT (Descriptive title. Use individual reports for separate subjects)
+UFO's Seen by SAS Crews Over Dermark
+Sully say if for which bists to alien tore off craise report. Begin narrative text on AP Form 112a. unless report can be
+1. This report contains a translation of an article dated 27 February 1959.
+ẠạỊTwo different SAS aircraft have seen mysterious objects in the air over
+Denmark,
+In contrast to the blinking lights of compercial aireraft,
+the UFO's
+carried steady white lights. When one of the SAS aircraft was over Prasto, the
+Captain reported his observation to Kastrup, but the Kastrup radar system could
+not spot the object despite the fact that the SAS aircraft appeared clearly.
+COMMENTS of the Preparing Officer:
+20
+Other articles indicate that the objects were seen by the entire crews of
+these aireraft and exclude the possibility that the two aircraft crews could have
+cooked up the story. Both of the crews described the sam phenomena almost down to
+the last detail,
+JOHN H. REMICK
+Major, USAF
+Assistant Air Attache
+APPROVED:
+INCLS
+PRANCES R.
+Colonel, USAF
+Air Attache
+DISTRIBUTION BY ORIGINATOR (Except USAF and file. Indicate Dupl M/oz and copies wlo inclosures, if applicable)
+USAFE (Dupl M/os cy)
+WARNING: This document contains information affecting the national defense of the United States within the meaning of the Espionage Laws,
+Title 18, U.S.C., Section 793 and 794. Its transmission or the revelation of its contents in any manner to an unauthorized person is prohibited
+by law.
+1246300
+AF 15 SEP
+SEP 54 112
+Air Force-USAFE, Wsby. Ger-57-9027
+REPLACES AF FORM 112, 1 OCT 52, WHICH MAY BE USED
+UNCLASSIFIED
+CLASSIFICATION
+DECLASSIFIED
+Authority NND 9237007

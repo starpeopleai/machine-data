@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T13:23:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9032100, "source_ctime_ns": 1793383665986099777, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28987545/1180.jpg", "source_mtime_ns": 1785747820000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28987545/1180.jpg", "source_sha256": "74df26880d20059ccb35bb2c7c7434606844951a89d94bd28ee1132502191df8"}
+
+===== PAGE 1 =====
+{"alpha_words": 105, "chars": 823, "method": "ocr", "page": 1, "variant": "plain-vision"}
+BASIC REPORTING DATA OF SMSt. IRA BURTON:
+In accordance with paragraph 15 of AFR 200-2, the following is submitted:
+Description of Objects):
+(1) Flash of light lighting up a large area of the sky.
+(2) No object sighted
+(3) Greenish-white
+. (4) One
+(5) None
+(6) None
+(7) None
+(8) None
+(9) Brightness
+b. Description of course of objects):
+(1) Flash of brilliant light with clear skies.
+(2) The angle of elevation was from 0° - 20° in the NE quadrant on
+the first sighting at 0230Z, the East quadrant at approximately 0400Z and the
+IN quadrant at approximately 0730Z.
+(3) Only observed as a flash of light
+(4) None
+(5) Instantaneously
+(6) Approximately 2 to 3 seconds
+c. Manner of observation:
+(1) Ground - visual
+(2) None
+(3) Not applicable
+d. Time and date of sighting(s):
+(1) 0230Z, 0400Z, and 0730Z, 2 July 1960
+(2) Wight

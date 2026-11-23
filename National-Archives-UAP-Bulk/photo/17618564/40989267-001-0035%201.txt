@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T13:27:53Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 17656925, "source_ctime_ns": 1793355452916960577, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0035%201.jpg", "source_mtime_ns": 1785564458000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0035%201.jpg", "source_sha256": "887e7a20e2dfdd5614a24a7287b1837a37650bc78dd14ce412908c88690b7afe"}
+
+===== PAGE 1 =====
+{"alpha_words": 15, "chars": 121, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+i
+Ts)
+
+i
+Ss
+
+o
+o
+od
+x
+<
+©
+ad
+du
+”
+=x
+QO
+Lf]
+
+Space Inflatable Antenna
+
+6. FT.
+
+Figure 17.
+
+Figure 16. Space Inflatables

@@ -1,0 +1,43 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T14:02:50Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 17645764, "source_ctime_ns": 1793355474631039808, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0056.jpg", "source_mtime_ns": 1785564461000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0056.jpg", "source_sha256": "dc6af2ab1faca8c9342f955a1ddefc90c26502bc5caed3640436c8d682289782"}
+
+===== PAGE 1 =====
+{"alpha_words": 418, "chars": 2875, "method": "ocr", "page": 1, "variant": "plain-vision"}
+103
+to rotate 90°. In this impact attitude the pressure vessel is positioned below the
+sampling apparatus. Additional protection is afforded in the form of a fiberglass
+hemisphere lined with 2 inches of polyurethane foam attached to the underside of the
+pressure vessel. In the event of severe impact-shock, the main frame of the gon-
+dola is designed to fail in a predictable manner to sever the mixing tube and diffuser
+while leaving the filter housing intact.
+The development of the air-ejector pump has now made feasible the routine use
+of lightweight balloon-borne samplers in altitudes ranging from 100,000 to 150,000
+ft. Such a sampling system need not be confined to the use of filter paper.
+At these altitudes, jet impactors do not suffer from the deficiencies associated
+with lower altitudes -- namely, the need for small, high-velocity jets, involving
+relatively high-pressure drops that require the use of heavy pumping systems. At
+high altitudes, the particle-slip factor becomes extremely large, permitting low-
+velocity jets to be used for the efficient collection of submicron aerosols. Also, by
+using a multiple-jet concept which we are currently developing for the AEC (Figure
+8), flow rates attainable through impactor collectors can be made to compare
+favorably with those attained with filter collectors.
+The advantages of impactors are obvious when the interest centers on deter-
+mining particle size, concentration, and morphology. Samples are collected on a
+flat surface and are concentrated in a small area readily available for microscopic
+analysis. Cascading of sharp-cutoff impactor-stages permits inflight classification
+of the aerosol cloud with respect to particle size.
+The air-ejector pump described in this paper was designed to fulfill a very
+specific purpose. Perhaps the most significant finding of the study leading to the
+development of this apparatus was the excellent agreement between theoretical pre-
+dictions and experimental results. The ability of the design equations to accurately
+define the optimized values of the design parameters suggests that ejector pumps to
+fulfill other specific requirements could be designed directly from these equations
+without need for intermediate steps such as model-building and testing.
+In summary of this particular work, it may be said that the proved ability of
+the air-ejector pump to move large quantities of air at high flow rates with no
+moving parts and no injection of heat or particulate matter into the ambient sur-
+roundings, should make this device a suitable tool for many stratospheric-sampling
+programs involving balloon-borne instrumentation.
+Figure 7. Photograph Showing the Pump Hanging Vertically on a Three
+Cable Suspension Harness
+3. EXPLORATION OF THE STRATOSPHERE FOR VIABLE MICROORGANISMS
+The sampling systems described above are designed primarily for the collection

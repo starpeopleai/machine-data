@@ -1,0 +1,63 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T14:06:58Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 15803816, "source_ctime_ns": 1793359411248915303, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-007-075-0002.tif", "source_mtime_ns": 1785681406000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-007-075-0002.tif", "source_sha256": "7f9e2d3ff3e9f77cf6f973fb2d81b022e24e8c0717080320bb22aa9315afd79d"}
+
+===== PAGE 1 =====
+{"alpha_words": 164, "chars": 1127, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+Probable Meteorites
+DATE-TIME GROUP AM.
+13/02207 Aug 55
+ENO 021
+ECA21S YMA008HRA003
+RJED R HØ1
+RR RJEDEN RJEDBW RJEDWP RJEPHO RJEPNB
+DE RJEDHR HØ1
+R 132120Z
+FM COMDR 75 TH AC&W SQ WILLIAMS BAY WISC
+TO RJEDEN/COMDR ADC ENT AFB COLO
+OPS
+148040₴
+RJEDBW/COMDR 3ØTH AD DEF WRAFS BELLEVILLE MICH
+RJEDWP/COMDR AIR TECH INTEL CEN WRIGHT PAT AFB OHIO
+RJEPHQ/DIR OF
+INTEL HQS USAF WASH DC
+RJEPNB/COMDR EADF STEWART AFB NEWBURG NY
+BT
+/U N C L AS S IF I E D/WBOOT 2856 PD UFOB CMA ATTN DIR OF PNTELL
+CMA THE FOL INFO IS SUBM UNDER THE PROV OF PAR 7 (D) AFR 222-2 DTATED
+12 AUG 1954 PD
+D;
+(D)
+(A) ROUND
+(8) SIZE OF BASEBALL
+(C) BRIGHT RED
+(D) ONE
+(E) NA
+(F) NONE RECIEVED
+PAGE TWO RJEDHR HØ1
+(G) A SHORT TAIL
+(H) NONE
+(I) NONE
+(2)
+(A) SIGHTED WHILE LOOKING FOR AIRCRAFT BY GOC OBSERVER
+(B) 45 DEGREES
+(C) NOT REPORTED
+(D) FROM NORTH TO SOUTH AND BACK FROM SOUTH TO NORTH
+(E)
+STILL APEARING AT 2450Z 13 AUG
+(F)
+TWO AND ONE-HALF HRS
+(3)
+CAD
+GROUND-VISUAL
+(B) NAKEF EYE
+(C) NA
+(4)
+( AD
+AUG 0220Z
+DARK-NIGHT
+GEOREF GRID AN 5732 CMA NEAR BELOIT WISC
+(5)
+(5)
+(A) CIVILIAN
+AGE 37 OCCUPAHION NOT KNOWN
+T WISC-

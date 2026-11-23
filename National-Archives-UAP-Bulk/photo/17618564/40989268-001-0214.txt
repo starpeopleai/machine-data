@@ -1,0 +1,17 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T13:29:04Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 19192704, "source_ctime_ns": 1793355770906889179, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0214.jpg", "source_mtime_ns": 1785564520000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0214.jpg", "source_sha256": "ba7af8719a5a8957839a17f4d799baa6424c7f6a9557b786b1e75bfc7ee99c3a"}
+
+===== PAGE 1 =====
+{"alpha_words": 115, "chars": 774, "method": "ocr", "page": 1, "variant": "plain-vision"}
+415
+Figure 5. Stratospheric Sealed Gondola with 20-Inch Telescope
+The careful study of the data collected during the flight enabled us to conclude
+that there were two ways to solve the problem of water vapor in the atmospheres
+of planets:
+a) By the same technique of stratospheric balloon flights. New flights
+may benefit by further improvements in the stabilization of the gondola, and by
+increase of the ceiling altitude.
+b) Alternately, by observations from high mountain sites with the same
+telescope calibrated from previous stratospheric flight, in exceptionally dry air at
+very low winter temperature, associated with a careful study of the amount of
+Figure 6. Chain of 104 Dilatable Sounding Balloons for the High Altitude
+Flight of 22 April 1959 by Audouin Dollfus

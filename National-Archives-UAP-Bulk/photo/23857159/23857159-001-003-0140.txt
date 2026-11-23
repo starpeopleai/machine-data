@@ -1,0 +1,40 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T13:56:25Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 21078454, "source_ctime_ns": 1793360833683200140, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-003-0140.tif", "source_mtime_ns": 1785565138000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-003-0140.tif", "source_sha256": "d0e8034ecfc8de8e5fe09a612a9505d1201fbbc82603044efa3bcd64c858bd21"}
+
+===== PAGE 1 =====
+{"alpha_words": 258, "chars": 1731, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AF FORM 112-PART II
+APPROVED 1 JUNE 1948
+(CLASSIFICATION)
+46
+AIR INTELLIGENCE INFORMATION REPORT
+FROM (Agency)
+REPORT NO.
+Intelligence, 3lith Air Division
+IR-7-57
+PAGE
+PAGES
+11. 2/Lt David R. Perdue Chief Radar Intelligence, 3l4th Air Division.
+This
+report was received late and due to the large number of observers all material re-
+ceived at this office will be forwarded in order that a more complete investigation
+be given this sighting. This officers! first impression was that the sighting was
+possible a conventional type of rocket but from the observers' estimates of extremely
+high altitude and the impression that each of them an had of an explosion of sorts,
+there exists a possibility that the object was not of a conventional nature. If it is
+proved to be an advanced type of missile or rocket then this sighting might give some
+sort of data on the re-entry problem. I call your attention to the 6002 AISG
+periodical of informational extracts dated Nov. 22, 1957, No. 118 page 13.
+This
+article on a UFOB sighting by members of RB-50 crew may provide further data for
+evaluation of this repert.
+12. Existance of physical evidence.
+Enclosures of observers! reports and position overlay.
+NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S. C.-
+31 AND 32, AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW.
+IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF
+INTELLIGENCE, USAF.
+(CLASSIFICATION)
+16-55570-1
+* U. 8. GOVERNMENT PRINTING OFFICE
+DECLASSIFIED
+Authority NND 9237007

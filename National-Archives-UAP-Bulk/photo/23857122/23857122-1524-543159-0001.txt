@@ -1,0 +1,135 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T13:39:21Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 23968632, "source_ctime_ns": 1793357660393850556, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1524-543159-0001.tif", "source_mtime_ns": 1785564949000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1524-543159-0001.tif", "source_sha256": "bfbfc541350936ecd77085fae49ad11ce7c3d252b27a5014ad864f905c4619ec"}
+
+===== PAGE 1 =====
+{"alpha_words": 376, "chars": 2974, "method": "ocr", "page": 1, "variant": "plain-vision"}
+(SECREI
+AF FORM 112
+APPROVED 1 JUNE 1948
+COUNTRY
+(1)
+U.S.A.
+REPORT NO.
+(2)
+5) 17543159
+AIR INTELLIGENCE INFORMATION REPORT
+SUBJECT (4)
+Report of Unusual Flying Objecte
+AREA REPORTED ON
+(5) Keeweenaw Peninsula, Michigan
+DATE OF REPORT
+DATE OF INFORMATION
+(7) 20 April 1953
+To in L Squadron, Calumet, Wondean
+20 April 1953
+(8)
+1(9) B-źł
+PREPARED BY (Officer)
+SOURCE
+(10) Capt. Russell H. Kline, Intel. Officer| (11) "Personnel 665th AC&W Squadron"
+REFERENCES (Control number, directive, previous report, etc., as applicable)
+AFL 200-5
+(12) Utilization of AF Form 112 (Air Intelligence Information Report) Form 123
+SUMMARY: (Enter concise summary of report. Give significance in final one-sentence paragraph. List inclosures at lower left. Begin text of report on AF Form 118-Part II.)
+(14) (Summary)
+See Sect 11 - Capt. James W. Dorgan, 665th AC&W Squadron,
+Calumet, Michigan
+Phone 31 or 8. Chief Controller
+A/2c Richard G. Hetrick, 665th AC&W Sgdn., Calumet, Wichigan
+Phone 21 or 8
+Radar Observer
+A/lc Billy F. Conway, 665th AC& Squadron, Calumet, Michigan
+Phone 21 or 8 Radar, Observer
+Crew Chief.
+On 20 April 1953 between 0118Z and 02152 a series of targets were sighted
+by the 665th AC& Squadron, Calumet, Michigan.
+The plots
+orginated approximately
+50 miles out from the station, from 050° clockwise to 251°.
+Speed was from 1800
+miles per hour to 8,400 miles per hour. Targets are believed to be interference
+from shipborne radar, orginating on Lake Superior.
+The following information is the track numbers and respective plots.
+TIME (2)
+TRACK
+Georef Coord.
+NO
+20 Apr 53
+0118 4
+DD 5013
+T-1-T
+TIME
+0121:3ął
+ED 0019
+ED 1212
+ED 3019
+0122
+0122:30
+ED 4919
+FD 0016
+FD 1315
+0119:30/
+FD 2920 Fade
+Georef-Coord.
+DC 2122
+DO 4012
+DO 5921
+EO 1510
+SEC
+3115
+0123
+EC 480ŘšșŘ
+0123:15 FC 0900
+0123:3îšęŚ
+FB 2555
+0124
+FB
+3 4951
+GB 1540 Fade
+TRACK
+NO
+T-2-T
+01252
+0125:15
+0122:30
+0125:45
+0126200
+0126:15
+EB 0027
+EB 2114
+EB 3800
+EA 5551
+FA 1041
+FA 2931 Fade
+2-3-7
+0127
+DB 0830
+0127:15
+DB 1109
+0127:3ął
+DB 4905
+0128
+EA 0538
+0128:15 EA 1534
+0128:45 EA 3713 Fade
+T-4-T
+. INCLS.
+1 cys- Director of Intelligence, Headquarters USAF, Washington 25, D.C.
+1 cys- Chief, Air Technical Intel. Center, ATTN: ATIAA-2c Wright-Patterso
+DISTRIBUTION BY ORIGINATOR
+1 Cy - CG, ADO, Ent APS, 'Atth:
+Deputy for Intelligence
+1 cy - CG, EADF, Stewart AFB, Attn: Director of Intelligence
+1 oy - Info Gy., 4106th Air BeE NG. AT N. Director of intelligence
+Willow Run Airport,
+Michigan Inteiligence r
+gence
+NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S.C.-
+31 AND 32, AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW.
+IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF
+INTELLIGENCE, USAF.
+SECRET
+17-286
+SECU
+EMATIOn
+NG OFFICE
+Declassification Authority: NND 57565

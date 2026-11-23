@@ -1,0 +1,41 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T14:00:59Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 16554892, "source_ctime_ns": 1793358849281144207, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-054-0003.tif", "source_mtime_ns": 1785681236000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-054-0003.tif", "source_sha256": "0dc01e7fae8d1c3b1ce3f8fddcd195792efa22c53ad641e208679eb8b4d83aec"}
+
+===== PAGE 1 =====
+{"alpha_words": 153, "chars": 1117, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+PAGE TWO RUEDNG 2J
+2. A. ON ALERT FOR A/C DURING PRACTICE: SCANNING SKY CONSTANTLY.
+B, LEVEL FLIGHT, NOT VERY HIGH, UNDER 1200 FI. APPROACHED SW FLEW
+OVER HEAD OF STATION
+C. LEVEL FLIGHT UNDER 1000FT. DISSAPPEARED TO NE OF STATION
+FLIGHT PATH LEVEL AT ALTITUDE, SW TO NE PASSED OVER STATION.
+APPEARED TO ROTATE ONCE IN FLIGHT.
+E. FIRST SIGHTED AT 1525 CST. LENGHT OF TIME JUST A FEW SECONDS.
+DURATION OF SIGHT NOT DIFFINITE.
+F. PASSED BEYOND VISUAL RANGE. JUST A FEW SECONDS. DURATION SIGHT
+NOT DEFINTE.
+3. A. GROUNG VISUAL
+B. VISUALLY, NOE USED
+C. N/A
+R. A.
+9. DAY /23705Z
+5. AL2442 PEORIA STATION, CODE AL 24 RED OBSERVATION POST TOP OF
+FIRE HOUSE 18 IN PEORIES
+6. A. CIVILIAN A
+PEORIA, ILL.
+TELEPYONE:
+6. B. SECRETARY AGE: 40. NO OTHERS PRESENT
+PAGE THREE RJEDNG 2J
+7. A. CLEAR WINDS UNDER 28 MPH
+B. N/A
+0: OBJECT UNDER 1022 FT. UNLIML1EL
+D. NONE
+E. CLEAR
+8. NEGATIVE. NONE REPORTED
+94 NOE
+10.. NONS
+11. 1 BYMOTOR IN LANDING PATTERN JUST AFTER SIGHTING OBJECT
+12. 2ND LT. RICHARD R. BLOWER DIRECTOR
+791ST AC&M SQ HANNA CITY ILLINOIS NO COMMENT . PD END
+Вт
+19/9502Z SEP RJEDNG

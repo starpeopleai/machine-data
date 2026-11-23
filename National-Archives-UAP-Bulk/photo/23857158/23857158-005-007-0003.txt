@@ -1,0 +1,56 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T13:52:14Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9901338, "source_ctime_ns": 1793359003350077450, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-005-007-0003.tif", "source_mtime_ns": 1785681290000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-005-007-0003.tif", "source_sha256": "70a489f0f0ab196b293db8d302e5197706fcfb21d78359acd7177c2437f6ed7d"}
+
+===== PAGE 1 =====
+{"alpha_words": 244, "chars": 1757, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+AF FORM 112
+APPROVED 1 JUNE 1948
+COUNTRY
+SUSA
+UNCLASSLEDER
+CLASSIFICATION)
+REPORT NO-20-UF 03-4-55
+(LEAVE BLANK)
+AIR INTELLIGENCE INFORMATION REPORT
+AÜFOB
+AREA REPORTED ON
+NEW ORLEANS, LA, (GEOREF: FH295558)
+DATE OF REPORT
+DATE OF INFORMATION
+FROM (Agency)
+FLIGHT 2-C, 4602D AISS
+EVALUATION
+26 April 1955
+21 APRIL 1955
+PREPARED BY (Offica)
+SOURCE
+RICHARD CO VAUGHN, IST LT., USAF
+SGT LOUIS PONTICELLI
+REFERENCES (Control number, directive, precious report, de, as applicable)
+MSG (UFOB 2123072) APRIL 1955, FLT SV CEN, MAXWELL AF3, CA.
+MARY; Enter concue summary of report. Give significance in final one-sentence paragraph. List inclosures at lower left. Begia test of report on AP Farm Sir-Part IL
+I. CONTENTS:
+PART ONE:
+Description of sighting by SGT LOUIS PONTICELLI, 1542 St
+Bernard Avenue, NEW ORLEANS, LA (GeoRef: FHOQ 5558)
+PART TWO: Supplementary Investigative Efforts
+PART THREE: Comments of Preparing Officer
+SUMMARY: Report of UFOB sighting by SGT LOUIS PONTICEULT at 21 2200Z
+April 1955
+IIT. INVESTIGATORS:
+IST LT RICHARD C. VAUGHN AO 1860323
+M/SGT WILLIS B. MINOR
+AF 6937008Ś
+RICHARD C. VAUGHA
+USAF
+Officer in Charge
+APPROVED
+Colonel, USAF
+Commander
+DISTRIBUTION BY ORIGINATOR
+D/I, USAF; Condr. ATIC, Comdr, 4602d AISS; D/I, 35th ADiV: OIC, Flight 2-C, 4602d aIS
+IS THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT. SU U.S.C.-
+31 AND 32 AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAWL
+IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES. EXCEPT BY PERMISSION OF THE DIRECTOR OF
+INTETUGENCE USAF.
+UNCLASSIEJEV

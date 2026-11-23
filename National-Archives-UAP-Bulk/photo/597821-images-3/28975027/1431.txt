@@ -1,0 +1,48 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T13:24:00Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9214608, "source_ctime_ns": 1793380259325767843, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28975027/1431.jpg", "source_mtime_ns": 1785701111000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28975027/1431.jpg", "source_sha256": "7ff391dbea2fd81e6d95586901383aaa8603dad7a6c38a17cf66a6dfff5e0063"}
+
+===== PAGE 1 =====
+{"alpha_words": 73, "chars": 670, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PAGE TWO RBWDKW 20
+(H) NONE
+(I) UNKNOWN
+(2) (A)
+KIDS SITTING IN CAR LOOKING
+UNKNOWN
+Herea
+EEl!
+(E) UNKNOWN
+Messing
+(C) UNKNOWN
+(D) GOING SOUTH AND STRAIGHT UP
+pouro
+UNKNOWN
+(F)
+1/2 HOURS
+(3) (A) GROUND-VISUAL
+hes.
+(E) BINOCULARS
+istro - ht aam.
+underedelt
+by, keny
+- no
+(C) N/A
+Star M
+steady kigh fanses;
+brade to categin
+EKRL KA> 35452 TIME, 21 NOVEMBER 1957
+(Le 2) (Ałą)
+(6) NIGHT
+(P)
+(5) 33 DEGREES, 53 MINUTES NORTH, 118 DEGREES, 11 MINUTES VEST
+(6) (A) MR
+AGE 48,
+NORTH LONG PEACH,
+PHONE
+, SHIPYARD WORKER
+(E) N/A
+(7) (A) CLEAR, NO WIND
+(E) SURFACE WINDS CALM; 6M 369/25; 10M 353/30; 16M 343/35;
+PAGE THREE RBWKW 20
+20M 389/35; 50M 270/70.
+(C > CLEAR
+(D) TEN MILES

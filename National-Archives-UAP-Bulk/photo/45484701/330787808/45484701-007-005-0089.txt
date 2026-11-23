@@ -1,0 +1,74 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T13:52:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9901018, "source_ctime_ns": 1793364849393339538, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787808/45484701-007-005-0089.jpg", "source_mtime_ns": 1785685207000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787808/45484701-007-005-0089.jpg", "source_sha256": "e46a8dc4a6a3efc5c83e69cbdbb57cefa5787cf796c37d0d1585b398629f19ae"}
+
+===== PAGE 1 =====
+{"alpha_words": 198, "chars": 1467, "method": "ocr", "page": 1, "variant": "plain-vision"}
+HEADQUARTERS UNITED STAR
+AIR FORCE
+THE INSPECTOR GE
+AL
+OFFICE OF SPECIAL INVESTIGATION
+REPORT OF INVESTIGATION
+TITLE
+AERIAL PHENOMINON
+Sighting of flying disc
+on 13 July 49,/Pullman, Weshington
+by Nr.
+1. 1, Sevdy, Dexter Clark,
+Loyd, Hunsaker & P. A. Wennings
+CHARACTER
+FILE NO. 24-32
+REPORT MADE BY
+65
+12Téctober 1949
+MERLE L. CLEVELAND
+REPORT MADE ADO #20, Mcühord AFB, VI.
+PERIOD
+5,10 Aug; 7 Sept 49
+OFFICE OF ORIGIN $20
+STATUS
+CLOSED
+SPECIAL INQUIRY - Unconventional Airerart
+REFERENCE
+None, this is an initial report.
+UNCLASSIFIED
+SYNOPS IS
+Investigation requested by District Commender, DO 920, Mechord
+Air Force Base, Washington, predlested upon a newspaper account
+of Flying Saucers allegedly sighted at Pullman, Washington.
+Four
+witnesses sighted three unknown objects described as being disc-
+shaped, on 13 July 1949, at Pullmen, Washington. Pour B-29's
+were know to be in or near the area at the time of the sighting.
+Positive identification of objects une not possible.
+CLASSIFICATION CANCELLED
+BY AUTHORITY OF THE DI
+FOR
+BY
+KURT K. KUNZE, Capt, USAF
+Historian
+DISTRIBUTION
+CG, ANG, Wright-Paterson
+AFB (Action copy)
+ACTION COPY FORWARDED TO
+Commanding General
+Air Materiel Command
+ONE PAterson AFF
+ATTNE
+5 DEC 1975
+File
+UNCLASSIFIED
+FILE STAMP
+124-185
+UNITED STATES
+THE INSPECTO
+Ост 26 2 14 PM 249
+APPROVED
+ER Poet i Capt USAL
+Major, USAF
+AGELIE DISTRICT COMMANDER
+1146
+NOV 17
+9-1073, AFŚ
+AFCSI FORM 4
+23 JULY 1948
+Declassification Authority: NND 923007

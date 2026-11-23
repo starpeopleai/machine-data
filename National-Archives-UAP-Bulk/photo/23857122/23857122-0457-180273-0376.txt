@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T13:56:21Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 21002556, "source_ctime_ns": 1793356751825635101, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0376.tif", "source_mtime_ns": 1785564752000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0376.tif", "source_sha256": "dc457091614df76928b58544d1d9491b2b693db6668cbd7ee975d9ae2e18de57"}
+
+===== PAGE 1 =====
+{"alpha_words": 239, "chars": 1576, "method": "ocr", "page": 1, "variant": "plain-vision"}
+CONFIDENTIAL
+Engineering Division
+Memorandum Report No. MCREXD 69L-18D
+28 Apr11 1949
+estimate the distance, size or speed of such objeots, and it waild be
+easy to fail to recognize them.
+Conclusions
+It is concluded by the writer that there are sufficient psychological
+explanations for the reports of unidentified flying objects to
+provide plausible explanations for reports not otherwise explainable.
+These errors in identifying real stimuli result chiefly from inability
+to estinate speed, distance and size.
+Rec omnen dat ions
+The following recommendations are offered:
+Test the ability of pilots to estimate the course of a small
+lighted balloon while doing acrobatics with it at night. It is suggested
+that several pilots try to fly pursuit curves and collision courses
+on such targets at night and report accurately their sensations. It
+would be desirable, but probably impossible, to koep them fran Iowing
+the nature of the light source.
+In all future reports of unidentified objects specify the
+location of the object with reference to polar coordinates (direction
+and degrees above the horizon) rather than asking individuals to estimate
+distance. If possible, obtain an estimate of size in terms of the
+visual angle subtended by the object.
+3. In all future investigations determine the angular position
+of the sun with respeet to the unidentified object and the observer.
+Also determine the approximate time during which the object was in
+sight (this information was not available for more than half the
+reports).
+CONFIDENTIAL
+Declassification Authority: NND 57565

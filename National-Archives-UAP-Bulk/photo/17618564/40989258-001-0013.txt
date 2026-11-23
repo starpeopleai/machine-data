@@ -1,0 +1,16 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T13:49:25Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 17033212, "source_ctime_ns": 1793355049199600686, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989258-001-0013.jpg", "source_mtime_ns": 1785564384000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989258-001-0013.jpg", "source_sha256": "a051a293472d6c3a8b354226507923edd26188dea7818abee9a57b465a9bfb18"}
+
+===== PAGE 1 =====
+{"alpha_words": 23, "chars": 247, "method": "ocr", "page": 1, "variant": "plain-vision"}
+M-262, 25 ft. 12 ton wrecker traller converted
+to 30 tube Helium Trailer--5 such trailers in
+unit
+53 K 16245
+54 K 2500
+54 K 2525
+53 K 16240
+54 K 2524
+FS-2330-3951876, PREF M2330-8997527
+1768 R 4 June 62 6580 th
+FABG
+BALLOON R&D TEST BRANCH (UNCL)

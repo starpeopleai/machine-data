@@ -1,0 +1,59 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T13:47:04Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 14820020, "source_ctime_ns": 1793358771370546071, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-045-0002.tif", "source_mtime_ns": 1785681197000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-045-0002.tif", "source_sha256": "29c2b0132dc4d1b50bb8a60aaf24e40da853cd7e93d57c28edc4a39e949f353e"}
+
+===== PAGE 1 =====
+{"alpha_words": 155, "chars": 1134, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+ops
+06/1131ŘęŚ
+4602D AISS UFOB REPT
+DATE-TIME GROUP ..
+ENO 725
+ENC095 YOA124 VYA131 VMB095YQA011
+RJEDEN PJEDWP RJEPHQ RJESD3
+DE PJESYO 048
+P 2637272
+MY CHOR MAXWELL FLIGHT SERVICE CENTER MAXWELL AFB ALA
+TO RJEDEN/CMDR ADC ENT AFE COLORADO SPRINGS COLORADO
+RJEDUP/CMDR AIR TECHNICAL INTELLIGENCE CENTER MRIGHT PAT AFE OHIO
+PJEPHO/DIRECTOR OF INTELLIGNECE HDQ USAF WASHINGTON 25 D.C.
+FUESOB/CMDR 35TH AIR DIVISION DOBBINS AFB MARIETTA GEORGIA
+• BT
+UROB
+1. DESCRIPTION OR OBJECTS)
+A UNK
+B UNK
+CHUNK
+• D ONE
+E NYA
+# UNA
+A UNK
+HUNA
+T UNK
+.....
+B89GD AISS UPOB REPT
+DATE GROUP.
+09/05002 D0050
+Marianna, Georgi.
+Fla
+Insufficient Data
+For Evaluation
+PAOCE RJESY 242
+2. DESCRIPTION OF COURSE OF OBJECT
+A AIRCRAFI RADAR SIGHIING
+B UNK
+CUNK
+D OBJECT 03SERVED OVER MAPIANNA FLA AT 15200 FI PD
+PROCEEDED TO MONTGOMERY ALA IN TIME OF 5 MINUTES CLIMBING TO
+SHOREST LAST REPORTED OVER MAXWELL ARS ALA
+3. MANNER OF OBSERVATION
+A AIR ELECTRONIC
+BANXA
+C MATS 45529
+054
+4. TIME AND DATE OF SIGHTING
+N369602Z
+A NIGHT
+5 VOCATIONS OF OBSERVER(S)
+TVER MARIANNA FLA
+IDENTIFYING INFORMATION OF ALL OBSERVERS
+A CIVILIAN NA

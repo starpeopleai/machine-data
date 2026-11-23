@@ -1,0 +1,14 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T14:18:39Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5559399, "source_ctime_ns": 1793368935259344540, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28930008/0324.jpg", "source_mtime_ns": 1785688837000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28930008/0324.jpg", "source_sha256": "e4796970d30322d440e2f2c46ee36980a3f112756be51a5791e3bc25d02df70e"}
+
+===== PAGE 1 =====
+{"alpha_words": 71, "chars": 436, "method": "ocr", "page": 1, "variant": "plain-vision"}
+36
+incident iãs
+-- Joise, Idaho i
+- date unknown (probably lovember 1947).
+Very little can be said of this incident, inasmuch as the
+date and exact time of ousorvation, speed, altitude and size of
+object, and length of tine in sight are not stated. The speed and
+tine in sight are particularly inportant in forming a Judgment.
+In the aisence of this information, the nost that can be said is
+that the object might have been a fireball.

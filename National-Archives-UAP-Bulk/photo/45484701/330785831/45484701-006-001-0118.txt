@@ -1,0 +1,55 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T13:25:23Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9947557, "source_ctime_ns": 1793363717111878865, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785831/45484701-006-001-0118.jpg", "source_mtime_ns": 1785684861000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785831/45484701-006-001-0118.jpg", "source_sha256": "ecf27890c41574e73a87423633b090f49f23daeafdb88a69d67f2a6c621910a8"}
+
+===== PAGE 1 =====
+{"alpha_words": 170, "chars": 1296, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Wrtn 28 Jul 50
+24-185/13
+(Unclassified) UNGONVENTIONAL AIRCRAFT, Pt. Peck Reservoir, Montana
+Lt. JAMES E. ANDERSON (Witness) - SPECIAL INQUIRY
+Documents & Dissemination Br, Directorate of
+Intelligence, DOS/0
+Counter Intelligence Div, Office of Special
+Investigations, The Inspector General
+81.JOLN
+It Col. Bold/b3m/53623
+AFOSI
+Attached for your information is a Spot Intelligence Report concerning captioned
+subject, dated 25 July 1950.
+1 Ine l
+SIR re aby subJ fr DO #13
+atd 25 Jul 50
+GILBERT R. LEVY
+Actg Chief, Counter Intelligence Div
+Office of Special Investigations
+The Inspector General
+Disclosure of the nature, sources, or even the existence of such
+investigative information to persons mentioned in the report
+or to other persons not normally entitled to such information
+may be made only when expressly authorized by the Director
+of Special Investigations, IG, or higher authority.
+UNCLASSIFIED
+When Incl No. L_ is (ere) withdrawn
+attached
+the classification of
+Entidential on this correspondenco
+will be cancolled in accordanee with
+par 25e, AIR 205-1.
+BY
+AFOSI FILE COPY
+CLASSIFICATION CANCELLED SEPO C
+SSLE
+Historian
+MANAGEMENT ER UNCLASSIFIED.
+31 JU
+O SAPOSI
+Paul i Sen
+4 DEC 19/5
+DATE
+5-15 35
+USAP
+TG
+OFPICE OF
+M
+SPECIAL INVESILSATIONS
+AUG 3
+Declassification Authority: NND 923007

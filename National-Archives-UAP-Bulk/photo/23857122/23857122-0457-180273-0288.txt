@@ -1,0 +1,18 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T13:34:51Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 18336100, "source_ctime_ns": 1793356667296352489, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0288.tif", "source_mtime_ns": 1785564739000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0288.tif", "source_sha256": "0455f33b87132f2ffcc1e223257774a3a4a4ca40323616bb49f7ceb129d33994"}
+
+===== PAGE 1 =====
+{"alpha_words": 105, "chars": 682, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Balloon scored
+Incident 7162 -- Namel, Linnesota - 11 August 1948
+No astronomical explanation is possible for this inci-
+dent. a meteorite would not hve descended so gently, nor would
+it hve risen again.
+It seems incredible that this could have been an aotual
+physical occurrence, but if it was, it is doubly unfortunate that
+no mature observers were at hand. If the object did land just a
+few feet away, one would think that even children would have given
+a more detailed description.
+is it known whether the children
+have normal vision? To one with myopic vision, even a buzzard or
+hawk glidin; to a landing might appear as a strange object.
+Declassification Authority: NND 57565

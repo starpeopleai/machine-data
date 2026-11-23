@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T13:38:43Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 23576518, "source_ctime_ns": 1793360945141218082, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-003-0256.tif", "source_mtime_ns": 1785565158000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-003-0256.tif", "source_sha256": "d86937e35919a8cbe6a62f23dc5138ec29338753bb5d8c768f436b8faf058315"}
+
+===== PAGE 1 =====
+{"alpha_words": 120, "chars": 857, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AF FORM 112-PART II
+APPROVED 1 JUNE 1948
+FROM (Agency)
+UNCLASS IF TED
+(CLASSIFICATION)
+AIR INTELLIGENCE INFORMATION REPORT
+REPORT NO.
+Fifteenth Air Force
+PAGE
+OF
+PAGES
+12. No physical evidence available.
+Francis . Brealin
+FRANCIS J BRESLI
+Major, USAF
+Acting Chief, Combat Intelligence Division
+Directorate of Intelligence
+NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S. C.-
+31 AND 32, AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW
+IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF
+INTELLIGENCE, USAF.
+UNCLASSIFIED
+(CLASSIFICATION)
+TENT PRINTING OFFICE: 1950 O-91833
+DECLASSIFIED
+Authority NND 9237007

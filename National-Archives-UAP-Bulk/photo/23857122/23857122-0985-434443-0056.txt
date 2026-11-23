@@ -1,0 +1,11 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T13:39:12Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 23728028, "source_ctime_ns": 1793356890871127084, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-0985-434443-0056.tif", "source_mtime_ns": 1785564782000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-0985-434443-0056.tif", "source_sha256": "a627c138a6102ce83dd0fe424c72a86719391d08e55be82e2cd9cbec4522b488"}
+
+===== PAGE 1 =====
+{"alpha_words": 19, "chars": 143, "method": "ocr", "page": 1, "variant": "clean-vision"}
+Suom and subsesibel te bejoro
+ast Tem Je osuna Le tangent, Tengele, !
+april, 1952
+Tesos .
+511,051
+GAM8AA
+Declassification Authority: NND 57565

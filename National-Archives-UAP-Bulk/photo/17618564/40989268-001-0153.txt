@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T13:47:26Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 15064691, "source_ctime_ns": 1793355715430016590, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0153.jpg", "source_mtime_ns": 1785564508000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0153.jpg", "source_sha256": "5f39860978f31d9e1cc862b3f1230c1c368da36ba0cc25af0ee8161fec2ec49d"}
+
+===== PAGE 1 =====
+{"alpha_words": 203, "chars": 1418, "method": "ocr", "page": 1, "variant": "plain-vision"}
+293
+292
+loudspeaker had a large mass since roughly 100 grams of soft iron was glued to the
+cone to provide a transducer with a high Q and low resonant frequency.
+This device
+provided a highly-damped sinusoid at 90 cps, which was used primarily as a check
+upon the performance of the microphone. A baroswitch in the cut-down system
+was used to vary the time interval between the acoustic pulse and thus give a
+measure of the altitude of the instrument.
+The cut-down system contained within the instrument incorporated a low-voltage
+relay to fire a guillotine squib device when the filament battery voltage fell below
+4 volts, and an altitude cut-down which incorporated a baroswitch to energize the
+squib when the altitude of the instrument fell below 44 thousand feet.
+In retrospect, the most severe constraint upon the immediate, successful
+design of the microphone system was the six-pound-weight limitation. The weight
+limitation precluded complex electronics, battery systems, environmental control
+devices and ground control.
+The instrument was used successfully in the form described for many flights,
+and several modified forms were developed for specific tests. The instrument
+was easily adapted to measurement of variables other than pressure and is still
+occasionally flown in a form adapted to pressure measurements of shock waves.
+References
+Clark, Chop it putonge telemetry steal Prestediupot the Sypsiu,

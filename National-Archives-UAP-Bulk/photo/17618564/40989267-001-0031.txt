@@ -1,0 +1,79 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T13:47:41Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 15838268, "source_ctime_ns": 1793355448773324774, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0031.jpg", "source_mtime_ns": 1785564457000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0031.jpg", "source_sha256": "6fedd809f0db72679e0b65cda152927b0df443eab2bb76ff4a10527ed25de25e"}
+
+===== PAGE 1 =====
+{"alpha_words": 744, "chars": 4938, "method": "ocr", "page": 1, "variant": "plain-vision"}
+52
+Echo I has performed well as a communication satellite research tool. It is
+believed that the skin of the Echo has become somewhat wrinkled due to the effect
+of the deforming forces of solar pressure, electrostatic drag, and micrometeorite
+punctures. However, the satellite is still being used for communication experiment
+after three years in orbit.
+As a result of the success achieved with Echo I, a program was undertaken to
+develop the 135-foot diameter Echo II or A-12 sphere designed to have twice the
+cross-sectional area of the Echo I and to be rigid enough to withstand the deforming
+forces of space. Again the problem which faced the balloon designer was finding a
+material which 1) was exceedingly light weight, 2) could be packaged in a minimum
+space, and 3) then deployed and rigidized in space.
+The result of this study was a
+seven-layer material approximately 3/4-mil thick (Figure 8). This material is
+basically a lamination of 0. 00018 inch thick aluminum foil on both sides of 0. 00035
+inch thick Mylar. In order to control the inflation material (acetamide) and keep
+the temperature of the sphere within that which the acquisition beacons would
+operate, it was necessary to thermal balance treat the inside and outside surface
+of this material. Alodine 401-45, an inorganic chemical treatment of the aluminum
+was used to increase the emmissivity of the outside surface from 0.02 to 0.18.
+The inside surface of the sphere was coated with a carbon black to increase the heat
+transfer from one side to the other thereby helping to control the temperature
+gradients and reduce hot spots.
+THERMAL COATING
+ALODINE 401.45
+0.00002" THICK
+).00018" 1080 ALLOY
+ST -30
+ADHESIVE
+0.00035ỊMYLAR
+CARRON RI ACK S=0 8 0 00002" THICK
+Figure 8. Echo II Lamination
+In Echo I the Mylar exhibits a memory to the folds generated in packing the
+sphere into the canister. In the Echo II material these folds are removed when the
+sphere is deployed and the skin stressed to the yield point of the aluminum toll.
+The aluminum, being dead soft and having a higher modulus than the plastic, main-
+tains and rigidizes the spherical surface.
+The stress-strain characteristics of this
+lamination are shown in Figure 9. As can be seen by this curve, the material must
+be stressed to approximately 4, 500 psi to reach the yield point of the composite
+laminate. However, through model tests it was determined that a stress of 2, 000
+psi would remove the wrinkles in sufficient degree to satisfy the reflection require-
+ments of the Echo experiments.
+This seven-layer lamination was calculated to be approximately 50 times more
+rigid than the Echo I satellite, even taking into account that the measured rigidity
+falls to approximately one-third that computed for this material, based on the bulk
+modulus of the components. A number of testing techniques were used in evaluation
+of the rigidity of this material including taper or deflection tests, diaphragm tests,
+hemispherical deflection tests, and cylinder compression tests. Testing of a
+material of this type is not easy, since small wrinkles or imperfections in the
+surface being measured often exceeded the thickness of the material and therefore
+influenced the results. The cylinder test, however, appeared to give the most con-
+sistent results and was considered a standard for evaluation of materials (Figures
+10 and 11). The discrepancy in rigidity observed from these tests was believed to
+be from the
+The ability to produce an aluminum sheet 54 inches
+wide to a thickness of 0. 00018 inch is a significant advancement. It is believed that
+small pin holes and imperfections in the rolled sheet accounted for this discrepancy
+in the modulus. It was impossible to run strain curves on the aluminum itself as
+the samples tended to tear well before reaching the yield point of the aluminum.
+The Echo II satellite has completed all of its qualifying tests and is presently
+ready for shooting into orbit early next year. Figure 12 shows the Echo II satellite
+during static inflation tests at Weeksville, North Carolina.
+Concurrent with the work on Echo II, the Schjeldahl Company has been engaged
+in advanced materials for space inflatables. One of these programs with NASA has
+resulted in the development of a lighter weight, rigidizable material for larger
+passive communication reflectors. Studies conducted by NASA have shown that, for
+an operation communication satellite network, a 425-foot diameter sphere will be
+required to give adequate band width for one television channel.
+The feasibility portion of this materials study has been completed and prototype
+spheres are now under evaluation. This material, like Echo II, is a lamination of
+plastic and aluminum (Figure 13). The plastic in this case is biaxially oriented
+polypropylene with a tensile strength of 30, 000 psi in both directions and a density
+of 0. 92.
+Polypropylene was chosen because of its high strength-to-weight ratio

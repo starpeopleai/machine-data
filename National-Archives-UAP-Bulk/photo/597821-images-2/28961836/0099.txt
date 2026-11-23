@@ -1,0 +1,22 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T13:24:35Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9607490, "source_ctime_ns": 1793376723344266088, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28961836/0099.jpg", "source_mtime_ns": 1785696672000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28961836/0099.jpg", "source_sha256": "7ed08259e13e1b50bfc25cf4808033bc72a05259a09d72e33c134922db139ac6"}
+
+===== PAGE 1 =====
+{"alpha_words": 40, "chars": 259, "method": "ocr", "page": 1, "variant": "plain-vision"}
+FORM 112, PART IL
+UNGUE SSARE
+AIR INTELLIGENCE INFORMATION REPOR
+146020 A195
+SPARE ONE
+TE USG EM COC 2618 ADIN ROSTYL
+OPERATIONAT IMMEDI
+0 28254
+StOC
+26TH ADIN ROSER
+ICH SE 4602 TISS NE GUTHE
+0 2819502
+TO. JEDEN COMDR
+REDE SAM AFE COTORADE
+FOB
+AGE
+NO NE
+NONE

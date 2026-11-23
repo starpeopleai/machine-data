@@ -1,0 +1,57 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T14:10:01Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 27388876, "source_ctime_ns": 1793358044966947706, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1784-596566-0001.tif", "source_mtime_ns": 1785565018000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1784-596566-0001.tif", "source_sha256": "a0e8cc452f649bf6394df411e8336f9253afe02cd3522f6f3ce72336c83657c3"}
+
+===== PAGE 1 =====
+{"alpha_words": 390, "chars": 2683, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1B
+AF596566
+INTELLIGENCE REPORT NO. I - IR - 10-53
+SUBJECT: Unidentified Flying Object Sightings
+DECLASSIFIED
+USAF
+3yW. G. Lewisemo
+7/31/78
+VARS, Date 4// 217
+COUNTRY & AREA: Greenland, Thule Air Base Area
+DATE OF REFORT: 10 December 1953 DATE OF INFORMATION: 9 December 1953
+PREPARING OFFICER: Harold R. Miller, Captain, USAF
+SOURCE(S)
+See Below
+REFERENCES: 6612th Air Base Group Messages THOPI 7610 and THOPT 7623
+The following information was compiled from interrogation of six (6)
+observers of UFOB sightings on 9 December 1953. Due to the similarity of
+the sightings over a relatively short period of time and possible correla-
+tion, interrogation results of each sighting will be submitted herein and
+in the same sequence as reported in electrical transmission, THOPT 7623.
+1. The following information was elicited in interrogation of W. W.
+Irwin, Captain, pilot and m. M. Roberts, and It. Radar Observer or the
+318th Fighter Interceptor Squadron, Thule Air Base, Greenland. Both obser-
+vers concur in details and opinions:
+a. Observers were on an airborne training mission at the time of
+toning to; peed 220 kate, in a pople spark a elite 260 South
+of Thule Air Base when both saw a glowing light. The sighting occurred at
+0912302. The light appeared to be oblong in general appearance, bluish
+white in color, and the size of a half dollar held at arms length. At times
+the object gave the impression of an oblong shaped object with light shining
+through it.
+No tail, trail exhaust, or sound were noted.
+When first sight-
+ed the object was at approximately 29,000', altitude 3,0001 away at azi-
+muth of 10° to port and elevation of 20° from their aireraft.
+The flight
+path of the object was South to North, straight and level with speed esti-
+mated at 1000 knots. The object appeared to go out with no fade out at an
+azimuth of 20° to starboard and alevation of 200 to 30°. The object was
+observed for a period of approximately 2 - 3 seconds. The pilot turned into
+the general heading of the object but no interception was accomplished and
+no airborne radar contact established. The only known traffic in the area
+at the time of sighting was another F-94 aircraft which was approximately
+2 miles behind the observer aireraft. Interrogation of all communications
+facilities (GOI, GCA, etc.) and other possible informative sources provided
+For weather sequence see paragraph 8, this report.
+Both observers stated the object was unlike any other astronomical and/or
+meteorlogical phenomenon previously encountered. Observers evaluation of
+this sighting is a possible flying object. Both officers can be considered
+IR
+Veg # G-216
+3-2576 (6)
+Declassification Authority: NND 57565

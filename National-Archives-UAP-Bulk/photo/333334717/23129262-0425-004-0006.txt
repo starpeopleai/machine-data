@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T13:33:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 16457042, "source_ctime_ns": 1793361520755561452, "source_file": "National-Archives-UAP-Bulk/photo/333334717/23129262-0425-004-0006.tif", "source_mtime_ns": 1785565372000000000, "source_rel": "National-Archives-UAP-Bulk/photo/333334717/23129262-0425-004-0006.tif", "source_sha256": "ba15844ffe4c3b540df40a084da5c09cad13e422036b4b54e2c1c6e8a4c01510"}
+
+===== PAGE 1 =====
+{"alpha_words": 39, "chars": 345, "method": "ocr", "page": 1, "variant": "clean-vision"}
+DECLASSIFIED Authority NW 45006
+38e7S
+(0280015)
+ЗЕСПВІЛА ЛИВОВИМНОИ
+REGEIVED
+AIR ADJ. GENERAL
+FIRST AIR FORCE
+958 DEC 15 PM 3 48
+Pо7:
+AM 8:29
+Ct mwwCone 052.066 1
+(453 Sousch Rano 11) Tatoentiao
+000t0s (i0 S94 22îšŚ
+Ne SY
+/ 030 7
+LA VE
+PEGZRS
+eN ancoNos
+Lp en
+Noest at Soso qoen.
+diSa de seceot stattase
+36000-00
+ИЕМ ХОВК
+WITCREF WIE LOBCE BVEE

@@ -1,0 +1,18 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T14:02:35Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 17139716, "source_ctime_ns": 1793365444416865237, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330788875/45484701-009-001-0071.jpg", "source_mtime_ns": 1785685091000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330788875/45484701-009-001-0071.jpg", "source_sha256": "c72a18533601f66a0cd12416d43cbb8b0fb06a23a538c96545ab7f6df3af33e0"}
+
+===== PAGE 1 =====
+{"alpha_words": 12, "chars": 116, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ND
+
+2 , <
+Bostonia,
+
+~~
+
+ar AIA _COX3E
+(3 ~) Omi _— Je J &
+
+a
+a iil’ UNS @
+
+Declassification Authority: NND 923007

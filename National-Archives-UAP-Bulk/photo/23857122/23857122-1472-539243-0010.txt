@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T13:56:40Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 25421756, "source_ctime_ns": 1793357529894030171, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1472-539243-0010.tif", "source_mtime_ns": 1785564920000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1472-539243-0010.tif", "source_sha256": "3dd5d2cb1a8f80d8a497316d0efeaaff03a89acbfa6a3f263c131b2b48238230"}
+
+===== PAGE 1 =====
+{"alpha_words": 183, "chars": 1282, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AF FORM 112- ART II
+APPROVED 1 JUNE 1948
+RESTRICTED
+AIR INTELLIGENCE INFORMATION REPORT
+F3G, 46022 AISS, PIAFB
+PRESQUE ISLE, MAINE
+F30 -1-5A
+PAGE
+2
+SIGHTING OF UNIDENTIFIED LIGHT
+OF 2
+PAGES
+VII: RELATED ACTIVITY OR CONDITIONS:
+No activity or condition, metorological or otherwise, which might account
+for the sighting was reported in the area. However, a himiliar object was
+reported during these hours on 23 Feb 53 by
+( See report # F38-T*4A dated 27 Feb 53.)
+VIII. PHYSICAL WIDENCE:
+No physical evidence pertaining to the sighting was secured during
+the investigation.
+IX. INDSRCEPTION OR IDENTIFICATION ACTION:
+None.
+LOCATION OF AIR TRAFFIC:
+No aircraft reported in the general area of the incident by PIAFB con-
+trol Tower on 23 Feb 53, 24 Feb 53 during the time of this sighting.
+F. Faunten
+HIN F. FARNHAM
+USAF
+010, 3108 3-0
+= THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT. 50 U.S. C.--
+AND 32, AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW.
+WAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF
+PECTED
+Declassification Authority: NND 57565

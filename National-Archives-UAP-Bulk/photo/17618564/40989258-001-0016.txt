@@ -1,0 +1,12 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T13:55:42Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 16772068, "source_ctime_ns": 1793355052254655186, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989258-001-0016.jpg", "source_mtime_ns": 1785564385000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989258-001-0016.jpg", "source_sha256": "ce90506987bfb3c1c572a5e62d82869003d9bdc13d90cf710bc472ecfb1394f7"}
+
+===== PAGE 1 =====
+{"alpha_words": 12, "chars": 133, "method": "ocr", "page": 1, "variant": "clean-vision"}
+A BG
+OreL
+38 tube Helium trailer (Fruchauf), 3 such trailers
+in unit
+57 L 985
+57 L 986
+57 L 2704
+FS 2330-1418548, PREFF 2330-1418625

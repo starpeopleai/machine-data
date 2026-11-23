@@ -1,0 +1,61 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T13:55:54Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 2, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 18261210, "source_ctime_ns": 1793361541068270595, "source_file": "National-Archives-UAP-Bulk/photo/40027753/40027753-001-0006.tif", "source_mtime_ns": 1785565377000000000, "source_rel": "National-Archives-UAP-Bulk/photo/40027753/40027753-001-0006.tif", "source_sha256": "afba874c0b3afe3b122459e50b94b487088e2580cfe5257e05cdf3ac589f6d70"}
+
+===== PAGE 1 =====
+{"alpha_words": 153, "chars": 1365, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Roll No.
+82
+83
+S4
+File No.
+12452½ - 12545
+12546 - 12628
+12629 - 12711
+12712 - 12750
+Date
+7/15/65 - 10/26/58
+10/26/68 - 2/10/69
+2/10/69 - 8/24/69
+8/26/69 - December 1969
+PROJECT (ADMINISTRATIVE) FILES
+Location
+Yellow Springs, Oil - Manchester, NH
+Boone, NC - St. Louis, MI
+Pine Bluff, AR - Dayton, OH
+Dayton, Oll - Round Lake, IL
+• 85
+S6
+Administrative Files: Box 1
+Technical Report, "Unidentified Aerial Objects, Project SIGN,"
+Feb. 1949: 74 Pp.
+Technical Report, "Unidentified Flying Objects, Project GRUDGE,"
+Aug. 1949: 408 PD.
+Final Report, Project TWINKLE, 27 Nov. 1951: 25 pp.
+Status Reports and Special Reports, GRUDGE - BLUE BOOK
+Report 1: 33 pp.
+Report 7: 28 pp.
+Peport 2: 20 pp.
+Report. 8:
+Report 3: 11 PP.
+Report 9: 46 PP.
+Report 4: 19 pp.
+Report 10: 81 pp.
+Report 5: 17 pp.
+Report 11: 34 PP.
+Report 6: 20 PP.
+Report 12:
+35 PP.
+(All reports are Status Reports; Report 1 includes Special Report 1)
+Adninistrative Files : Box 2
+Staff Study - 1952 (Capt, Rupelt): 49 PP.
+AISS folder (Miscellaneous dates) : 58 pp.
+AFCIN Plan on UFO's (Nay 1957 - Feb. 1958): 11 Pp.
+Staff Study, Dec. 1958: 36 pp.
+FTD UFO Panel (1959-1960) : 25 PP.
+Review of Motion Picture 'Unidentified Flying Objects" (1960):
+17 pp. plus newspaper clippings
+Staff Study, 28 Sept. 1959: 58 pp.
+Proposed Transfer to SAFOI (Dec. 1959 - April 1960): 20 Pp.
+REPRODUCED AT THE NAT #ONAL ARCHIVES
+
+===== PAGE 2 =====
+{"alpha_words": 0, "chars": 1, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 2, "variant": "plain-vision"}

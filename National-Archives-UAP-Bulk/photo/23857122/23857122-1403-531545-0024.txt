@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T14:05:17Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 21079484, "source_ctime_ns": 1793357490333388185, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1403-531545-0024.tif", "source_mtime_ns": 1785564910000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1403-531545-0024.tif", "source_sha256": "e663e511cdab9135d175e5da5296a86773b11a1a1bc488cd54a02798514463d9"}
+
+===== PAGE 1 =====
+{"alpha_words": 36, "chars": 257, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+“SECRET
+
+N
+
+Indicate
+Ranges
+In Miles
+
+S
+
+INSTRUCTIONS: PLOT TRACK OF TARGET, INDICATE RANGE AND
+AZIMUTH. GIVE TIME AT START AND END OF TRACK,
+
+CAL
+De es BR
+
+CURITY INFORMAIIC.4
+ADC Form 123 SECURI F ae
+20 October 1952
+
+Declassification Authority: NND 57565

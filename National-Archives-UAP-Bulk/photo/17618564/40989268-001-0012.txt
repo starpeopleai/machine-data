@@ -1,0 +1,48 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T13:48:03Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 16901567, "source_ctime_ns": 1793355573392119389, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0012.jpg", "source_mtime_ns": 1785564482000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0012.jpg", "source_sha256": "c0b1af8570b4e5616106b09a87a344d3d2e5d34166449d29f7e63496f8349bca"}
+
+===== PAGE 1 =====
+{"alpha_words": 450, "chars": 3114, "method": "ocr", "page": 1, "variant": "plain-vision"}
+10
+The package represented by the block diagram of Figure 4 has been developed
+to fit these requirements. Powered by silver-zinc alkaline batteries, it provides
+up to six channels of FM telemetry on a single VHF carrier (only two channels are
+currently utilized, for pressure altitude and wind-speed data) as well as a UHF
+command receiver for mode selection and balloon cut-down. This apparatus is
+housed in a glass-resin-covered foam plastic case eight and one-half inches square
+and 56 inches high, and is carried in the balloon train, the load being transmitted
+through a pair of steel stays straddling the package. No particular effort was made
+to avoid weight; the entire package, with two turnstile antennas, weighs somewhat
+less than fifty pounds. Two identical packages have been constructed and tested
+and are shown in Figure 5.
+The ground station, incorporating a pair of helical antennas, a command trans-
+mitter, telemetry receiver, discriminators for the data channels, paper chart and
+magnetic tape recorders, and meters for pressure and velocity read-out, was
+originally housed aboard the winch vehicle. It has since been found more practical
+to remove the ground apparatus to a separate location, and it is presently housed
+either in a fixed instrumentation site, for operations at Randsburg Wash, or in an
+air-conditioned mobile van, for use elsewhere. Communication with the winch
+vehicle is maintained by a radio link.
+A wide variety of possible tether materials was investigated and tested. Of
+these materials, the most promising was a collimated bundle of glass fibers em-
+bedded in epoxy resin, but commercially available specimens suffered from
+limited flexibility and brittleness and could not be procured in sufficiently great
+lengths. Personnel of the Materials Engineering Branch at NOTS felt that these
+limitations could be overcome, and offered to undertake the development of a suit-
+able tether.
+A pilot production line was set up and experiments were carried out using
+various combinations of glass tether and resin, with highly satisfactory results.
+Specimens were made in diameters ranging from 0.060 inch to 0.095 inch, with
+breaking strengths of 800 to 1800 pounds. Tensile strengths in excess of 225,000
+psi could be achieved consistently with occasional specimens running over 300,000
+psi. With a resin content of approximately 20 percent by weight, the samples dis-
+played a specific gravity of 1.6 to 1.7, yielding strength-to-weight ratios and
+breaking strengths exceeding those of music wire by a factor of four. All of these
+results could be achieved while retaining a high degree of flexibility comparable to
+that possessed by steel wire in similar sizes. This portion of the tether development
+culminated with the production of a continuous splice-free length of material
+0.065 inch in diameter and 8500 feet long with a minimum break strength of approxi-
+mately 750 pounds. This specimen was used successfully throughout a series of
+trial flights and performed in highly satisfactory fashion.
+GROUND STATION
+AIRDORNE PACKAGE
+Figure 4. TABS Telemetry & Command System

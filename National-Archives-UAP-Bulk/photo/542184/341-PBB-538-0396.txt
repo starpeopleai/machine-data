@@ -1,0 +1,15 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T13:38:39Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 19957443, "source_ctime_ns": 1793366572449455568, "source_file": "National-Archives-UAP-Bulk/photo/542184/341-PBB-538-0396.jpg", "source_mtime_ns": 1785565554000000000, "source_rel": "National-Archives-UAP-Bulk/photo/542184/341-PBB-538-0396.jpg", "source_sha256": "bdb15dc2817fe222032264a7341eb84981a0c735f7a7ee97a2ed8c23129f8bde"}
+
+===== PAGE 1 =====
+{"alpha_words": 12, "chars": 55, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+wy
+
+it ia eS i en al
+
+%
+
+AAAI PRON OOM
+
+Sie cere
+
+bed

@@ -1,0 +1,22 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T13:51:06Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 20386456, "source_ctime_ns": 1793357318709478637, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1388-514451-0011.tif", "source_mtime_ns": 1785564875000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1388-514451-0011.tif", "source_sha256": "2761d8dae7f9be1a2b96c4028effeb3bcf230aaa64e77d7a904db598928fa808"}
+
+===== PAGE 1 =====
+{"alpha_words": 56, "chars": 366, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Unser Betriebskollektivvertrag
+eine Quelle neuer Erfolge
+Der Stei des Anstoßes Nr. 3
+Alles, was Ihr erarbeitet,
+werden wir schützen
+und verteidigen
+den
+halten hatten, nicht getrübt werder
+skretär der FD
+Dem würde ich gehörig
+auf die Finger klopfen ..
+daß er hier
+enk, Kulturdirektion
+Und ich
+Ritschel, BGL
+Foto: Block
+. VP-Hptw
+Declassification Authority: NND 57565

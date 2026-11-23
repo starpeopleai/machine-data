@@ -1,0 +1,83 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T14:03:07Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 19041691, "source_ctime_ns": 1793355742979229712, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0184.jpg", "source_mtime_ns": 1785564514000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0184.jpg", "source_sha256": "0af6c46d9b4e1a6b589431afecfe8fcba9fb141d7daeea1a958d2e8f2ac73ecb"}
+
+===== PAGE 1 =====
+{"alpha_words": 890, "chars": 5887, "method": "ocr", "page": 1, "variant": "plain-vision"}
+354
+2. THE BALLOON AS A SENSOR
+As we are well aware, a balloon that is neutrally buoyant in an atmosphere
+moves approximately with the air and its motion reveals the wind speed and direc-
+tion at its floating altitude. Similarly, a balloon that rises until it bursts, if
+observed accurately enough, provides information on the vertical structure of the
+wind. In both cases, the balloon must be tracked quite accurately and almost
+continuously to provide other than rather grossly averaged winds. While we
+recognize the desirability of such information, we feel that it is, at present,
+considerably beyond our ability to obtain on Mars. This is particularly true in the
+case of the vertical balloon sensor, which to be useful must be launched frequently
+and over a wide area.
+3. THE BALLOON AS A PLATFORM
+Ignoring, for the purpose of this paper, any further consideration of the balloon
+as a sensor, we may move on to the second mode of operation which permits a broad
+choice of uses for a balloon on a remote planet. The balloon is a mobile platform.
+Any instrument small enough to be carried and reliable enough to be operated re-
+motely is a candidate for use. A multitude of possibilities could be listed; no list
+would be exhaustive, but for illustration, a few specific examples can be cited.
+The most familiar operation in this mode is the measurement of meteorological
+parameters. Using a single, extensible balloon that expands as it rises until it
+bursts, it is commonplace on Earth to send instruments aloft that measure pressure
+temperature, radiant-heat flux, and other physical quantities as a function of altitude
+along a single, more-or-less vertical line. From such measurements can be de-
+rived the variation with altitude (over a single point) of such important parameters
+as density, water-vapor content. and radiation-flux divergence. On Mars. similar
+measurements would yield important information about the structure of the atmos-
+phere. althouch the variation of manv atmosnheric narameters in space and time
+could not. of course be predicted on the basis of one soundino or even manv
+soundings) over a single location.
+However, a simple, single-point balloon ascent on Earth can provide many
+geophysical data beyond the usual meteorological measurements, and the same is
+true of Mars. As stated earlier, however, the true utility of a vertical rising balloon
+sensor is only realized through a multiplicity of launches distributed in space and
+time. Because of the added degree of complexity and the demands for serial
+reliability that such a requirement places on the balloon system, for the purposes
+of this paper we will not consider the vertical sounder further as a possible,
+currently useful Mars exploration tool.
+355
+Considerably more flexible in operation is a balloon that can float for a long
+period at a predetermined density level in the atmosphere. Such a vehicle becomes
+an observation platform of good stability that, depending on the winds, permits a
+variety oi measurements to be made over a considerable distance and time.
+From such a platform drifting across Mars, standard meteorological measure-
+ments could be made; the resulting data, when combined with measurements made by
+the capsule during entry, would begin to yield information on the structure and
+variability of the Martian atmosphere. To be sure, the balloon measurements would
+be made at a single density level in the atmosphere, or at most, at two or three
+levels, but these data could be supplemented by parachuting instruments in small
+packages from the 'mother' balloon at regular intervals. Such a procedure would
+add another dimension to these data.
+A platform suspended some distance below the balloon would permit instruments
+to look down or up at quite a large angular area of ground and sky. A radiation
+detector aimed downward could sense radiation emitted or reflected by ground,
+clouds, or haze. A more complex photographic or television camera could record
+surface-wind directions and speeds by observing dropped smoke bombs or flares,
+could scan surface features in detail, and could seek evidence of life. Data from
+intrared or microwave radiometers would permit estimation of the surface tem -
+peratures and the emissivities of relatively fine topographic features. A gamma-
+ray detector could provide evidence of the radioactivity of the surface.
+A spectrometer and a polarimeter aimed upward at scattered visible sunlight
+would provide continuous data that, combined with knowledge of the look anøle and
+the solar position, would provide information on scattering and polarization in the
+atmosphere, from which the nature of airborne particles might be inferred. Sensors
+could detect the presence of clouds and haze layers in the high atmosphere and thin
+horizontal distributions, either of which could then be studied more closely by other
+methods. Looking up in the ultraviolet absorption bands of ozone would lead to a
+determination of the vertical and the horizontal distribution of that gas.
+A wind-carried platform would permit a wide variety of physical observations
+to be made at the floating level. The magnetic field could be monitored as the
+balloon drifts away from its launch point. Such data would be particularly useful if
+coupled with data from a continuouslv-recording magnetometer at the home base.
+There are other important physical quantities that could be measured: cosmic rays,
+atmospheric electric fields and field gradients, and electrical disturbances arising
+from such an 'atmospheric phenomenon as a dust storm.
+Finally. although certainly not lastly. the search for life forms can be aided bv
+balloon-carried instruments. As a part of this search, samples taken at the
+floating altitude of the balloon might be analvzed for the presence of spores and
+bacteria. In addition to the photographic or television survey already mentioned,

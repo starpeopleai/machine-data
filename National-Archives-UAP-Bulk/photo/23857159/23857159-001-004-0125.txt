@@ -1,0 +1,79 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T13:35:04Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 21397478, "source_ctime_ns": 1793361115425688044, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-004-0125.tif", "source_mtime_ns": 1785565234000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-004-0125.tif", "source_sha256": "1f06b36f0a621a9f90ad7b499d66e0229ee5a7284d71a4a8b2d94ba0a6e050c3"}
+
+===== PAGE 1 =====
+{"alpha_words": 462, "chars": 3227, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UNCLASSIFIED
+CLASSIFICATION
+(SECURITY INFORMATION when filled in)
+SUPPLEMENT TO AF FORM 112
+REPORT NO.
+IR 1886-58
+ORIGINATING AGENCY
+6004th Air Intel Sv Sq
+PAGE
+2
+OF
+2
+PAGES
+LUMINOUS SIGHTINGS OFF THE HOKKAIDO COAST
+On 8 March 1958 personnel of the Air Technical Intelligence Section,
+6004th AISS, visited Noboru ITO, Chief of the Aviation Administration Section
+and Toru SAHARA, Chief of the No. 2 Security Section, MARITIME SAFETY BOARD
+(MSA) for information on an alleged explosion off the SIBERIAN coast on 19
+February 1958.
+2. Recently, three unknown luminous sightings were made off the coast
+of HOKKAIDO by fishermen and reported to MSA.
+MSA hassrecorded these inci-
+dents but will not investigate the matter further.
+In each instance the
+sighting was made at night.
+There is no report indicating an explosion off
+the coast of SIBERIA on 19 February 1958.
+3. At 1830 hours (JST) on 31 October 195? fishermen observed a pillar
+of flame 100 m high, 1500 m west of EMBETSU (4443N/1l148E) for approximately
+15 minutes. The color changed from red to blue then disappeared.
+At 2034 hours (JST) on 1 March 1958 fishermen observed a luminous
+body that disappeared after 10 minutes at an altitude of approximately 2,000 m
+in the direction of NOTSUETO POINT (4344N/14525E) on KUNASHIRI ISLAND.
+color was not determined. At 2103 hours (JST) on the same day, a luminous
+body was observed rising gradually for about 20 minutes then disappearing
+near ZAPADNAYA (ONNERUSU) (4345N/1526E). The color was not certainly identi-
+fied, but was not red or green.
+COMMENTS OF THE PREPARING OFFICER:
+5. At approximately 0959 hours (JST) on 19 February 1958 an unknown
+phenomena, believed to nave been an explosion, was detected at 4430N/13730E
+at a US radar site in JAPAN.
+The phenomena lasted approximately two hours.
+This office checked with the Meteorological Agency for barometric or seismic
+data on the premise that an explosion was detonated. It was learned that
+there were no barometric or seismic changes indicative of an explosion at the
+above time.
+Negative information was also obtained from the Maritime and
+Air Staff Offices of the Defense Agency.
+6.
+Officials of the Meteorological Agency stated that any barometric
+change would be detected at weather stations in JAPAN.
+The seismic detection
+of a nuclear explosion at the MATSUSHIRO SEISMOLOGICAL OBSERVATORY is believed
+to have been instigated from this search.
+(Refer to 6004th AISS, IR 1885-58
+for seismic detection of USSR nuclear explosion.)
+ITHON
+Capt., USAF
+OIC, ATI Section
+CGUY CAPT
+PEREIRA
+WARNING: This document contains information affecting the national defense of the United States within the meaning of the
+Espionage Laws, Title 18, U.S. C., Sections 793 and 794. Its transmission or the revelation of its contents in any manner to an
+unauthorized person is prohibited by law. It may not be reproduced in whole or in part, by other than United States Air Force
+Agencies, except by permission of the Director of Intelligence, USAF
+AF, 00T 52 112a
+REPLACES AF FORM 112-PART II, 1 JUN 48,
+WHICH MAY BE USED.
+CLASSIFICATION
+UNCLASSIFIED
+(SECURITY INFORMATION when filled in)
+U.S. GOVERNMENT PRINTING OFFICE: 1956-O-387562
+16-68470-1
+DECLASSIFIED
+Authority NND 9237007

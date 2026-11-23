@@ -1,0 +1,18 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T14:19:15Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5768957, "source_ctime_ns": 1793388470913049932, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/29001223/0385.jpg", "source_mtime_ns": 1785748223000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/29001223/0385.jpg", "source_sha256": "27994d0c0f6b2116d2a27ae4293f994cfc62e04a56eb91aa21910896ff11e899"}
+
+===== PAGE 1 =====
+{"alpha_words": 52, "chars": 382, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+No CAse (Information- Only) 11-12 June, 1963
+- Boulder, Colorado
+Source: IAPA (July 1963)
+
+IPO des / G4
+
+ae ta ‘ So Pee RE 45 POS Dia RNS Mees
+
+shite i oes
+
+5 3 ora Biti.4
+Boulder City, Colorada, June 11 & 12./1965, 4 the. successive nights residents re-!
+ported seeing a star-like, pusating UFO headi r an a ATIAGE RA ee
+further: details. (Credit: » lane’ iasers Yay Tray 5 ais .

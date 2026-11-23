@@ -1,0 +1,12 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T13:35:34Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 23392584, "source_ctime_ns": 1793356909495751696, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-0985-434443-0072.tif", "source_mtime_ns": 1785564786000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-0985-434443-0072.tif", "source_sha256": "dd94c10d6d3c8ddec460b4f546d2ecf30b8969e3d6d700f1b0807f554cd0ad6b"}
+
+===== PAGE 1 =====
+{"alpha_words": 23, "chars": 175, "method": "ocr", "page": 1, "variant": "contrast-vision"}
+sistibed and swarn to before nie
+Tie ass 318 day ? april 1752 at
+Temple Municipal Airport, Temple, Tuss!
+2C. Tal
+5/7,05 1
+JA OSI
+CRACETA
+Declassification Authority: NND 57565
