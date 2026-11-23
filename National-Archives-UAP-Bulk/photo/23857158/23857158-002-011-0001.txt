@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T20:14:47Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5655936, "source_ctime_ns": 1793358344594543050, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-002-011-0001.tif", "source_mtime_ns": 1785681064000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-002-011-0001.tif", "source_sha256": "7fb3aa2a7af5cf53c91fc3849f3daac0a15d0ecf363d5318b50c625fefafa11a"}
+
+===== PAGE 1 =====
+{"alpha_words": 113, "chars": 765, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+ADCA105
+ENA237
+YDB162
+VYC261
+VMB 152
+Picority
+ACT DI SUEL 72256
+JESYQ A119
+PP JEDEN JEDWP JEPHO JESDB 4444
+• DE JESYQ 82B
+comb VC Cof 23
+аятен
+P 9618362
+PM CMOR FLIGHT SVC MAXWELL AFB ALA
+cay ort
+TO JEDEN/CMDR AIR DEFENSE COMMAND ENT AFB COLORADO SPRINGS COLO
+JEDWP/CMDR AIR TECHNICAL INTELLIGENCE CENTER WRIGHT PATTERSON AFB OHIO
+DEPHQ/DIRECTOR OF INTELLIGENCE HEADQUARTERS USAF WASHINGTON 25 DC
+JESDB/CMDR 35TH AIR DIVISION (DEFENSE) DOBBINS AFB MARIETTA GA
+ZU FO B/ 1 DESCRIPTION OF OBJECT A AIRCRAFT B. UNK Co UNK Da 2
+Es 2 Fa UNK Go UNK He UNK To UNK
+2 DESCRIPTION OF COURSE OF OBJECT
+Aa UNKNOWN
+UNKNOWN
+Co
+UNKNOWN
+NORTHEAST
+UNKNOWN
+61OUSY
+Memphis, Tenn.
+. UNKNOWN
+MANNER OF OBSERVATION
+WIngs 760 2mdl.
+Inaufficient data,

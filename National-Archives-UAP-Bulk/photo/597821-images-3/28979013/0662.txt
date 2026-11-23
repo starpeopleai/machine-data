@@ -1,0 +1,41 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T19:39:53Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9512119, "source_ctime_ns": 1793380989945369241, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28979013/0662.jpg", "source_mtime_ns": 1785700684000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28979013/0662.jpg", "source_sha256": "77a383ea8324c24ca306a021747de0c7e4b2f8d6ab557bbde30247f1b4610216"}
+
+===== PAGE 1 =====
+{"alpha_words": 80, "chars": 628, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PAGE THREE RJWFHW 3
+S DR., MIDWEST CITY, OKLAHOMA
+TURNED A'RTH
+PHONE NA
+(G) 1. CLEAR
+2. OKLAHOMA CITY SECTOR WINDS ALOFT • NOTE
+26,000 FT 210/10
+25,000 FT 180/10
+Wind's genewcly o
+30,088 FT 180/30
+35,000 FT 200/șšŚšŚ
+Vanslow Spears
+40,000 FT 250/10
+45,000
+FT
+180/10
+56,680
+FT 240/10
+3. NONE
+4. UNLIMITED
+5. NONE
+6. NONE
+(H) N/A
+(I> NONE
+(J) NO VISIBLE AIR TRAFFIC IN THE LOCAL AREA
+(K) RAPCON REPORTED A
+BALLOON NORTH EAST OF TINKER
+(L) NONE
+BT
+the SOUTH.
+A NOTE
+US. Wx Chat-Scheduls shoe ballon
+22/010 1Z JUL RJWFHW
+releases i te cur.
+Thare. Du knee a PAlo
+- arence the ta BALloon
+THE SWIFT MOVEMENT OF THE OBJECT CAUGHT THEIR

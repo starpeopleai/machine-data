@@ -1,0 +1,56 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T19:37:12Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8135059, "source_ctime_ns": 1793382109082406770, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28982642/1075.jpg", "source_mtime_ns": 1785701023000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28982642/1075.jpg", "source_sha256": "3c7deb9ef6f992893d719867a95039db6a1ac8ba7ee69c2fa118927357e75900"}
+
+===== PAGE 1 =====
+{"alpha_words": 187, "chars": 1152, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Page six
+Do you think you con estimate the Speed or thelobject?
+(Circle one)
+Yes
+If you answered IDS, then what speed vould you estimate?
+MPH.
+Do you think you can estinate how far away from you the object was?
+(Circle one)
+Yes
+NO
+If you answered Y'S, then how far asay would you say it was?
+Loet.
+32. Try to estimate the number of degrees the object was from true North (Azimuth).
+32.1 When it first appeared:
+270 degrees.
+32.2 When it disappeared:
+2 30
+_degrees.
+33.
+If there was more than one object, then how many were there? O/VLY off
+Draw a picture of how they were arranged, and put an arrow to show the
+direction that they were treveling.
+How large did the object or objects appear as compared with one of the
+following objects beld in the hand and at arm's length?
+(Cirale one)
+Head of a pin
+Quarter
+1.
+Grapefruit
+Pea
+Half Dollar
+Baskatball
+Dime
+g. Silvar Dollar k.
+Other
+Nickel
+h. Baseke,
+35.
+Circle one of the following to indicate how certain you are of'your answer
+to Question 34.
+a. Certain
+b. Fairly cortain
+Not vary sure
+UNCLASSIFIED
+d. Uncartain
+DINERADE AT
+VEAR
+DECLACOIFIE!
+8K 12
+DOD. DIR 6200.10
+1006TH AISS Classified
+D58900541136

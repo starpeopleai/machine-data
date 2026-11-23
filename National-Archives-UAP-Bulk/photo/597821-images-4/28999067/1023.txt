@@ -1,0 +1,60 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T19:38:15Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8749770, "source_ctime_ns": 1793387731508450563, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28999067/1023.jpg", "source_mtime_ns": 1785748407000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28999067/1023.jpg", "source_sha256": "a038b7a1c9eaa46d985985e7555cfe2122a86505452990df7822e81ca3f9c33b"}
+
+===== PAGE 1 =====
+{"alpha_words": 138, "chars": 1014, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1, DATE
+13
+September 1962
+DATE-TIME GROUP
+Local
+GMT.
+5. PHOTOS
+PROJECT 10073 RECORD CARD
+2. LOCATION
+NewarK,
+Ohio
+TYPE OF OBSERVATION
+• Ground- Visual
+• Air Visual
+6. SOURCE
+• Ground-Rodar
+• Air-Intercept Radar
+• Yes
+Physical
+Specimen
+7. LENGTH OF OBSERVATION
+12.
+CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aireraft
+Possibly Aireraft
+Was Astronomical
+Probably Astronomica
+Possibly Astronomica
+sufficient Dafa for Evalutia
+Unk no wn
+NUMBER OF OBJECTS
+9. COURSE
+one
+touna on grouna
+10. BRIEF SUMMARY OF SIGHTING
+11. COMMENTS
+Metallic fragment found in
+burned pit-
+Physical analysis showed object to
+ted condition on farm on 13 September.
+be waste material from iron con-
+Ground had been cleared on 12
+September, taining slag. No radioactivity
+No other similar objects found in area.
+count. Object was never in upper
+atmosphere and is considered
+to
+come from iron reduction or steel
+processing.
+See: object 7-3745-438
+(OUSEST IN PASSCH SPECIMEN FILE)
+,TIC FORM 329 (RV 26 SEP 52)

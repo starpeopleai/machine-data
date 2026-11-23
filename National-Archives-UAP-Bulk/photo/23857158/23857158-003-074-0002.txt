@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T19:36:55Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7827084, "source_ctime_ns": 1793358590688982713, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-003-074-0002.tif", "source_mtime_ns": 1785681141000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-003-074-0002.tif", "source_sha256": "d388e7f4951f5b4a2066e64e2fbab525bbb8475d8c135843d7140c998f73b0bb"}
+
+===== PAGE 1 =====
+{"alpha_words": 123, "chars": 984, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+15/Ø3ф4 ₴
+OPS
+4602D AISS UFOB REPT.. ARO.
+DATE-TIME GROUP WH
+XZ
+EN0004Ø13 YDC257 XYD309 XDA231JBA109JBE227
+MM RJEDEN RJEDWP RJEPHQ RJWPJB
+DE RJWPJB 6E
+M 14184ØZ
+FM. COMDR 669TH ACWRON PORHUE
+TO RJEDEN/COMDR ENT AFB COLORADO SPRINGS COLO
+RJWPJB/COMDR 27TH ADIV DEF NORTON AFB CALIF
+RJEDWP/COMDR AIR TECHNICAL INTELLIGENCE CENTER WRIGHT PATTERSON
+• AFB OHI
+RJEPHQ/DIRECTOR OF INTELLIGENCE HQTRS USAF WASHDC
+ВТ
+// UN CLASS IF I ED// 669 ACWS 254-Y PD UFOB. 1. A. ROUND.
+B. DIME. CRED AND WHITED. ONE. E. NONE. F. NONE G.NONE.
+H. NONE. I. NONE. 2. A. FASTER THAN JETEMOTTX OVER 10000. C. WEST.
+D. WEST AND STRAIGHT UP. E. TWO MILES F. THREE MINUTES. 3. A.
+AROUND-VISUAL, 4. A. 13 JUL 55, 30 2132 POT AGE 15,2Z JUL
+55. D. DARK. 5. CE-2901. 6.
+GLENNAVON, CALIE., OCC. STUDENT.
+NEGATIVE. 8. NEGATIVE. 9.
+NEGATIVE.
+10. NEGATIVE: 11. NEGATIVE. LACK OF DETAILS PREVENTS
+ANY SUGGESTIONS. 1/LT KENNETH D. WEBER, CONTROLLER. 12. NEGATIVE.
+14/2125Z JUL RJWPJB

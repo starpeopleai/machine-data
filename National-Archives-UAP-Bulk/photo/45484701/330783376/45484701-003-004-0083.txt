@@ -1,0 +1,54 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T19:22:37Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8010762, "source_ctime_ns": 1793362638891051782, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330783376/45484701-003-004-0083.jpg", "source_mtime_ns": 1785685003000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330783376/45484701-003-004-0083.jpg", "source_sha256": "888121786de2ed7a05562388e0f31fbb1f4f6054e71b62f9cad3b599517d82f7"}
+
+===== PAGE 1 =====
+{"alpha_words": 151, "chars": 1120, "method": "ocr", "page": 1, "variant": "plain-vision"}
+SECURITY CLASSIFICATION (If any)
+DISPOSITION FORM
+CONFIDENTIAL
+FILE NO.
+G2-SPR
+TO
+AFCSI
+SUBJECT
+FROM
+Unidentified Airborne Object
+over Holston Ordnance Works (U)
+G2
+DATE 7 April 1955
+COMMENT NO. 1
+Maj Heaven/53715/m.jm
+The inclosed is forwarded for your information and action deemed appropriate.
+FOR THE ASSISTANT CHIEF OF STAFF, G-2:
+₴ Incl
+1. cy S/I 4Mar55
+2. photocy Memo 10Feb55
+Chief, Security Division
+QUINTO, Colonel, GS
+LT Cal 6S
+CLASSIFICATION CANCELLED
+BY AUTHORITY OF THE DIR
+BY
+URT K. KUNZE, Capt, USAF
+listorian
+& DER 1975
+DATE
+ạAttention is invited to the fact that the information con-
+tained herein has been derived from sources other than the
+Department of
+З Д:
+Perco. Dissomination of the informa-
+tion containel
+herola vill not be made outside Department
+of the Air Force channels without prior approval from the
+Office of Special Investigations, IG."
+Regraded UNCLASSIFIED when
+separated from classified
+inclosures.
+B1
+FORM
+D 1 FEB 50 96
+CONFIDENTIAL
+REPLACES NME FORM 96, 1 OCT 48, WHICH MAY BE USED.
+UNCLASSIFIED
+16-54801-3 2 U.S. GOVERNMENT PRINTING OFFICE
+Declassification Authority: NND 923007

@@ -1,0 +1,42 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T20:14:59Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5700134, "source_ctime_ns": 1793382762389360392, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28985386/0655.jpg", "source_mtime_ns": 1785747973000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28985386/0655.jpg", "source_sha256": "46954e89f6df5ab04ac1ae6dd2dc96370530b6de85665f20ef6607a0c46dc70f"}
+
+===== PAGE 1 =====
+{"alpha_words": 88, "chars": 630, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AF IN
+ACTION:
+INFO
+45575 (13 1.
+CIN
+OOP,
+SAFS
+· 59)
+DEPARTMENT OF THE AIR FORCE
+STAFF NESSAGE DIVISION ( 13 NO V S.9.
+UNCLASSIFEED
+INCOMING 13/1355
+redein Ange ANT
+SMD A 135
+ACZCHQD425ZCZJA948
+00 RJEZHG
+ZDK
+00 RJEZHQ RJEDSG RJWFAL RFENVE
+DE RJENFX 50A
+0 131935Z ZEX
+FM 64NDCC PEPPERRALL AFB NFLD
+TO RUWFAL/ ADO
+RJEDSQ/C CMDR. AIR TECH INTELL CENTER WPAFB
+RJEZHO/ASST CONF INTELL HQ USAF
+RJEZMQ/OIS HQ USAF
+RFEMVB/AOC ADC HQ
+RJEZHQ/ JAFIS HQ USAF
+ЗТ
+UNCLAS/CONAD CC 22198. ATIN: COC/ INTELL AT ST HUBERTS.
+(3) A. (1) SPHERE
+(2) AIRCRAFT AT DISTANCE UNSPECIFIED
+(3) WHITE METALLIC
+(4) ONE (1)
+(5) NA
+(6) NEG
+(7) NEG
+(8) NEG
+(9) NEG

@@ -1,0 +1,55 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T19:37:36Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8287324, "source_ctime_ns": 1793379283650861693, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28971875/00121.jpg", "source_mtime_ns": 1785700735000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28971875/00121.jpg", "source_sha256": "dc394e57f6c06f4203a20caff2378d3db986c8b49645afbfeafafed419425641"}
+
+===== PAGE 1 =====
+{"alpha_words": 138, "chars": 888, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Page two
+5.
+Aircraft identification
+Type aircraft IU-2
+(7-33)
+Serial No. L32922
+Home Station MAAS CHAS€ EK
+BEGUIlLE TEXAS
+6. Flight Data
+Heading
+Ma g
+b.
+C.
+Ind. Altitude
+Ind. Airspeed
+ESE
+240
+1 True
+Compass
+• MPH
+to
+40,000 p
+(air so thin)
+1 was an attempt to detect the object on air ford fud i
+Yes
+No
+No Radar
+Radar inoperative al
+na
+a. If YIS, describes.
+8. Was an intercept attempted?
+(Circle one)
+Yes
+No
+9. Were photographs taken?
+(Circle one)
+Yes
+No
+10. Were any other aircraft seen in the area? (Circle one)
+No
+a. If YES, was any attempt made to contact them? Comments: ANY S/ulT
+PILOTS, FOR WHOM INE WERE ACTING AS A STANDBY
+SAFETY AIRCRAFT. FOR THIS REASON NO ASSISTANCE
+WAS REQUESTO FROM JAGM. THERE ALTITURE WAS BELOW 20,000
+11. Were any nearby
+ground stations contacted during or soon after the sighting?
+(Circle one)
+Yes
+NO COmmentS: HEARMAN ATEMPTER
+TO PAINT
+WERE UNSUGLESTL

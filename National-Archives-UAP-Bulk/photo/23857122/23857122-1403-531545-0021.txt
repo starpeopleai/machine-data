@@ -1,0 +1,66 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T19:46:08Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 16019724, "source_ctime_ns": 1793357487100124289, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1403-531545-0021.tif", "source_mtime_ns": 1785564909000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1403-531545-0021.tif", "source_sha256": "c08468a4c3ec468fd9bdd2dd27df5a662a629d6e94bc870a669ba9949e975131"}
+
+===== PAGE 1 =====
+{"alpha_words": 152, "chars": 1037, "method": "ocr", "page": 1, "variant": "plain-vision"}
+RESTRICTED
+• Do you think you can estimate the speed of the object?
+(Circle One)
+No
+IF you answered YES, then what speed would you estimate?
+12 - 15
+40. Do you think you can estimate how far away from you the object was?
+(Circle One)
+No
+IF you onswered YES, then how for away would you say it was?
+9 miles
+41. Please give the following informotion obout yourself:
+NAME
+Dennis
+Last Name
+Jalifirst Name
+ADDRESS 769th AG&W Sg
+Street
+Continental Divide
+City
+TELEPHONE NUMBER
+What is your present job?
+Crew Chief in Operations
+24
+Age
+Sex
+Male
+Please indicate any special educational training that you have had.
+a. Grade school
+b. High school
+c. College
+d. Post graduate
+8 years
+4 years
+e. e. Technical school
+(Type)
+f. Other special training
+42. Date you completed this questionnire:
+5
+Day
+February
+Month
+/s/ Julian G. Dennis
+Page 8
+m.p.h.
+Gentry
+Middle Name
+Zone
+New Mexico
+State
+Radar Operator
+1953
+Year
+A CERTIFIED TRUE COPY
+ят
+GLEN D
+PARRISH
+Ist It., USAF
+AO 206733ął
+RESTRICTED
+SECURITY INFORMATION
+Declassification Authority: NND 57565

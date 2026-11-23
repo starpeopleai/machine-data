@@ -1,0 +1,64 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T19:28:18Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 19046370, "source_ctime_ns": 1793359134296487218, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-006-011-0002.tif", "source_mtime_ns": 1785681325000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-006-011-0002.tif", "source_sha256": "9309cff94d2f48e3f6d81935f8edc33f1c7f2006bf4a65a050a039222bb252ed"}
+
+===== PAGE 1 =====
+{"alpha_words": 304, "chars": 2095, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+AF FORM 112-PART T
+APPROVED 1 JUNE 1948
+COUNTRY
+UNCLASSIFIED
+(CLASSIFICATION)
+USA
+REPORT NO.
+UF03 2-55š
+(LEAVE BLANK)
+AIR INTELLIGENCE INFORMATION REPORT
+SUBJECT
+Unidentified Flying Object
+AREA REPORTED ON
+Souther Nevada
+DATE OF REPORT
+9 Sept 55
+DATE OF INFORMATION
+9 Set 55
+REPARED BY (Officer)
+Carvin # Miller Jr.
+Major
+US AF
+EFERENCES (Control number, directive, previous report, etc., as applicable)
+FROM (Agency)
+Intelligence office Nellis AFB, Nevada
+EVALUATION
+B-2
+SOURCE
+Ist It Robert F Plomb
+SUMMARY: (Enter concise summary of report. Give significance in final on
+ce paragraph. List inclosures at lower left. Begin text of report on AF Form (19-Part II.)
+At 0558 Pacific Daylight Tine on 4 Sept 1955,lst It Robert F. Plomb,
+a weather forecaster and pilot stationed, and on duty at Nellis, AFB,
+Nevada, observed an unidentified flying object for 7 minutes.
+The object
+was observed to be in the Northeast and stationary when first sighted and
+then when observed through a theodolite with 4X magnification appeared to
+be heading in a northerly direction.
+It was apparently round and of a .
+firy orange color with an exhoust or tail about 2 times the diameter. of
+the object in length.
+It traversed about 15 degrees during the flight of
+7 minutes an finally disappeared behind a mountain
+Object could possibly have been a comet, however no method of
+chacking is available at this station.
+4602D A19S UFOB REPT.
+300
+DATETIME GROUP 04/12.577- Sep 55
+Prob Balleon
+See Trackings MDH 97W
+INCLS.
+UTION BY ORIGINATOR
+Commander, Air Defence Conmand, Int Air Force Base, Colorado Springs, Colo.
+NOTE THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S.C.-
+3I AND 32, AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW
+• IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF
+INTELLIGENCE, USAF.
+UNCLASSIFIED
+(CLASSIFICATION)

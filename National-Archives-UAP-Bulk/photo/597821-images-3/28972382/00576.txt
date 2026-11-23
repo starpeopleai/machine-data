@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T19:37:03Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8089997, "source_ctime_ns": 1793379472722010563, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28972382/00576.jpg", "source_mtime_ns": 1785700645000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28972382/00576.jpg", "source_sha256": "4a1cc3f5befd4243d5aca30fcfeb908bdcebcc7011273b72ddb8a2614d8cf354"}
+
+===== PAGE 1 =====
+{"alpha_words": 96, "chars": 582, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Co1 25 0 1 46 57
+PP RJEDEN RJEDUP RJEPHQ RJEPNB
+ZEL RJESKB
+KBAØ49
+PP RJEDEN RJEDUP RJEPHQ RJEPNB
+DE RJESKB 2D
+P 242200Z
+FM COMDR 660TH ACRON MACDILL AFB FLA
+TO RJEDEN/ COMDR ADC ENT AFB COLORADO SPRINGS CLOL
+RJESKB/COMDR 35TH ADIV D DOBBINS AFB GA
+RJEDUP/COMDR AIR TECH INT CNTR WRIGHT PATTERSON AFB OHIO
+RJEPHQ DIR OF INT HQ USAF WASH 25 DC
+INFO RJEPNB/COMDR EADF STEWART AFB NY
+2 454
+4хча
+//UNCLASSIFIED//OPS 0597. PD ATTN: EADE CIO PD
+B
+ROUND
+DIRIGIBLE
+SILVER WITH RED LIGHT
+D
+DO SIZe Al ArMS
+LeNCTH? Утронивв
+to see any
+• else
+but o
+NA
+RED LIGHT ON ON
+HONE
+H. NONE
+I. NONE
+SIDE

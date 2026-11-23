@@ -1,0 +1,15 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T19:36:23Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7552380, "source_ctime_ns": 1793383882306577552, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28988169/0299.jpg", "source_mtime_ns": 1785748364000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28988169/0299.jpg", "source_sha256": "5bf88f8db88210bff72a7a548819b9a33ab8b6c0b9aafc1a4b1b030d6db028aa"}
+
+===== PAGE 1 =====
+{"alpha_words": 98, "chars": 533, "method": "ocr", "page": 1, "variant": "plain-vision"}
+32. In the following sketch,
+imagine that you are at the noint shown.
+Place an "A"
+on the curved line to show how high the object was above the horizon(skyline) wh
+you first saw it. Place a "B" on the same curved line to show how high the obje
+was above the horizon(skyline) when you last saw it.
+... /
+33. In the folbowing larger sketch plage an "A" at the position the object was when
+you first sam it, and a "ph at its position when you last saw it. Refer to
+smaller sketch as on example of how to complebe the larger shetch.
+* =

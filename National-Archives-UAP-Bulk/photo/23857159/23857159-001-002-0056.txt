@@ -1,0 +1,74 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T19:57:38Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 21641736, "source_ctime_ns": 1793360634995748040, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-002-0056.tif", "source_mtime_ns": 1785565089000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-002-0056.tif", "source_sha256": "8d9f0ea45fda68894942ce6074511cb235f110d30b8b0f76f700adbc52498ea9"}
+
+===== PAGE 1 =====
+{"alpha_words": 237, "chars": 1802, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AF FORM 112-PART I
+APPROVED 1 JUNE 1948
+COUNTRY
+(CLASSIFICATION)
+UNCLASSIFIED 743311
+Japan
+REPORT NO.
+IR 2-56
+1F 743311
+AIR INTELLIGENCE INFORMATION REPORT
+SUBJECT
+Unidentified Flying Object
+AREA REPORTED ON
+Southern Japan
+DATE OF REPORT
+PREPARED BY TO February 1956
+REFERENCES (Control number,
+Crowell
+umber, directive, pro lous report, etc., as applicable)
+AFR 200-2
+SUMMARY: (Enter concise summary of report. Give significance in fi
+FROM (Agency)
+DATE OF INFORMATION
+25 January
+1956
+SOURCE
+43d Air Division, APO 929
+EVALUATION
+B-2
+620th Acal Site 1491047
+e paragraph. List inclosures at lower left. Begin text of report on.
+Form 112-Part II.)
+At 1713Z 25 January 1956, site #15 of the 610th AC& Squadron, Kyushu,
+Japan plotted an unidentified radar track bearing 225 degrees, heading 225
+degrees, range 150 nautical miles, altitude 20,000 feet, speed 1600 knots.
+The track faded unidentified at 17247.
+Man Rune
+Lt Colonel, USAF
+Chief, Intelligence Division
+Directorate of Operations
+LIBRARY SURJECT & AREA CODES
+2-01
+2/56
+603
+3L
+Classification (cancelled) (changed to g
+22L2a), effective on S
+_under the authority of
+, by AFLS 1N5 Lt 5 Cp1 78
+71
+2/25:46-6
+INCLS.
+60A1047
+DISTRIBUTION BY ORIGINAT
+DI FEAF, 5 cs
+DCS/I 5th AF, 1 cy
+DI FEAF,4 cys
+UNCLASSIFIED
+NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT. 50 U.S.C.-
+31 AND 32, AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW.
+IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF
+INTELLIGENCE, USAF.
+43D INTEL NO.
+330
+* U.S. GOVERNM
+TING OFFICE: 1950O-918331
+Nº 42003
+X009
+DECLASSIFIED
+Authority NND 9237007

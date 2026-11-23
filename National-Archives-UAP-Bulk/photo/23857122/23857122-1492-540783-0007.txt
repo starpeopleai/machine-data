@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T19:57:44Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 22239284, "source_ctime_ns": 1793357642420361041, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1492-540783-0007.tif", "source_mtime_ns": 1785564945000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1492-540783-0007.tif", "source_sha256": "2f411afea0abfc2be677d5a23e99a7e275656121f7061539ab082d58aaeac3fa"}
+
+===== PAGE 1 =====
+{"alpha_words": 94, "chars": 645, "method": "ocr", "page": 1, "variant": "plain-vision"}
+On 17 February 1953, at 2204 EST, while standing guard, I noticed
+an unusual light almost due west of our station. The object was in a
+part of the sky where no stars were visible. The object seemed to glow
+a bright red, then changed to pale white, and then red again, repeating
+this change over and over. The movement of this object seemed to be
+from north to south. After a while the object started getting smaller
+until I could no longer see it.
+1. manderer
+отп 1.
+JOHN T MANDINEC AF 15 294 796
+A 1C, USAF
+Radar Operator
+DECLASSIFIED
+USAF
+тето
+BY WL FLEW 115, D.. 4/12/79
+7/51/79
+MI
+7 540783
+Sul # 4
+3531
+Declassification Authority: NND 57565

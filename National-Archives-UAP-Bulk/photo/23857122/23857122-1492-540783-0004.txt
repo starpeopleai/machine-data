@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T20:10:27Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 23024772, "source_ctime_ns": 1793357638939333871, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1492-540783-0004.tif", "source_mtime_ns": 1785564944000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1492-540783-0004.tif", "source_sha256": "563b6a67c9299042cad50cb2cd69eaa5229e217e6f91aff0d1a47b227c1d27fb"}
+
+===== PAGE 1 =====
+{"alpha_words": 36, "chars": 310, "method": "ocr", "page": 1, "variant": "plain-vision"}
+SECRET
+CLASSIFICATION: SE 0 RET
+HQ:
+754TH AC&W SQUADRON
+AUTH:
+SOMMANDING
+• OFFICEF
+DATE:
+2 8 FEB 195.
+INITIAL:
+wom
+WEM
+GQ
+2208 g
+2220
+2225
+~HQ
+P61
+GP
+HP
+DECLASSIFIED
+USAF
+- memo
+BY W A guis 10. 040 4/12312
+OVERLAY OF RADAR TRACK
+9540783
+SECURITY INFO
+Inel #1
+-SECRET
+0031
+Declassification Authority: NND 57565

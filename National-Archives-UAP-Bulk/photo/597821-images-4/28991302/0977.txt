@@ -1,0 +1,19 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T19:22:46Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8028393, "source_ctime_ns": 1793384892482920410, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28991302/0977.jpg", "source_mtime_ns": 1785748089000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28991302/0977.jpg", "source_sha256": "3f2c356be00dddded9389c502404a4107af419315f3a518af048de9f25676ec0"}
+
+===== PAGE 1 =====
+{"alpha_words": 99, "chars": 664, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PAGE FOUR RJEZBZ 3
+J. NONE KNOWN
+K. AN ANALYSIS OF REPORTS RECIEVED INDICATES THAT A BRIGHT LIGHTED
+OBJECT WAS OBSERVED AT APPROXIMATELY 2744Z ON 5 FEB 1961. PERSONNEL
+SIGHTINGS REPORTED FROM THE BURLINGTON VERMONT AREA, AUGUSTA MAINE
+AREA, THE BANGOR MAINE AREA AND THE PRESQUE ISLE MAINE AREA
+INDICATE THAT OBJECT WAS TRAVELING NORTH EAST LEAVING A BRIGHT
+TRAIL, AND DISAPPEARED OVER THE HORIZON. THE TIME ELEMENT
+INDICATE THAT ALL REPORTS COVERED THE SAME OBJECT. THESE COMMENTS
+ARE BASED ON REPORTS BY STATE AND CITY POLICE OFFICIALS. NO
+INFORMATION LEADS OR CLUES ARE AVAILABLE WHICH WOULD IDENTIFY
+OR EXPLAIN THE ABOVE SIGHTINGS•
+BT
+25/1215Z FEB RJEZBZ
+NNNN

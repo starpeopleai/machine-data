@@ -1,0 +1,52 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T19:35:24Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6796720, "source_ctime_ns": 1793377230263275153, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28963019/1067.jpg", "source_mtime_ns": 1785696741000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28963019/1067.jpg", "source_sha256": "5a278946e16e33552630f1dcaa6badfb2ac4bab542f8a02c91d3204d024c9e93"}
+
+===== PAGE 1 =====
+{"alpha_words": 113, "chars": 872, "method": "ocr", "page": 1, "variant": "plain-vision"}
+I. DATE
+31 Jul 55
+3. DATE-TIME GROUP
+Loce 01/05072 (Aug)
+GM T.
+S. PHOTOS
+• Yos
+YG Nº
+7. LENGTH OF OBSERVATION
+20 mins
+10. BRIEF SUMMARY OF SIGHTING
+PROJECT 10073 RECORD CARD
+2. LOCATION
+San Diego, California
+4. TYPE OF OBSERVATION
+XD Ground-Visual
+• Air- Vi sual
+SOURCE
+• Ground-Radar
+• Air-Intercept Radar
+civilian (GOC)
+8. NUMBER OF OBJECTS
+1 sometimes 3
+Round. Blue changes to yellow. When 3 objs
+appeared, two small ones rotated around a big
+one .
+12. CONCLUSIONS
+Was Balloon
+•0
+Probobly Balloon
+Possibly Balloon
+Was Aireraft
+Probably Aireraft
+Possibly Aireraft
+Was Astronomical
+Probobly Astronomical
+Possibly Astronomicol
+Other.
+Dgx insufficient Date for Evaluation
+Unknown
+9. COURSE
+Stationary inNP
+11. COMMENTS
+Capella in NE on Horizon - 10 dag elev.
+No toher major astro body in that
+section of sky. Insufficient data for
+evaluation.
+ATIC FORM 329 (REV 26 BEP 52)

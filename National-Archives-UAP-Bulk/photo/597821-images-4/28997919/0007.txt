@@ -1,0 +1,59 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T19:23:03Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8217172, "source_ctime_ns": 1793386954090929938, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28997919/0007.jpg", "source_mtime_ns": 1785748191000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28997919/0007.jpg", "source_sha256": "f0fedaee394f9bf07b4c6da262fdc40ca29eaf5c1c2487bb6a4d3770d2434f7d"}
+
+===== PAGE 1 =====
+{"alpha_words": 227, "chars": 1473, "method": "ocr", "page": 1, "variant": "plain-vision"}
+U.S. AIR FORCE TECHNICAL INFORMATION SHEET
+This questionnoire has been prepared so that you can give the U.S. Air Force as much
+information as possible concerning the unidentified aerial phenomenon that you hove observed.
+Please try to answer as mony questions as you possibly can. The informotion that you give will
+be used for research purposes, and will be regarded as confidential moterial. Your name will not
+be used in connection with any statements, conclusions, or publications without your permission.
+We request this personal information so that, if it is deemed necessary, we may contact you for
+further details.
+1. When did you see the object?
+12. Time of day:
+(Circle One):
+Minutes
+A.M. or P.M. i
+(Circle One): (C. Standght Saving
+Standard
+3. Time Zone: (Circie One): a. Eastern
+Б. Central
+d. Mountain
+Pacific
+e.
+Other
+Where were you when you saw the object?
+Nearest Postai Address
+Additional remarks:
+ạiCity or Town
+5. How long was object in sight?
+Hours
+Minutes
+5.1 How was time in sight determined?
+1. Certair
+b.: Fairly certair
+d. Not very sure
+Just a guess
+6. What was the condition of the sky?
+State of Country
+Seconds
+DAY
+a. Bright
+b. Cloudy
+NIGHT
+, Bright
+G Cloudy
+7. IF you saw the obiect during DAYLIGHT, where was the SUN located as you looked at the object?
+(Circle One):
+O.
+b.
+In front of you
+In back of you
+To your right
+d. To your left
+•. Overhead
+f. Don't remember
+FORM
+FTD JUL 61 164
+This form supersedes. ATIC 164, Feb 60, which is obsolete.

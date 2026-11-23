@@ -1,0 +1,40 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T19:37:44Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8347278, "source_ctime_ns": 1793385498127017981, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28993512/0015.jpg", "source_mtime_ns": 1785748238000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28993512/0015.jpg", "source_sha256": "a18c1852a93d8d7fce8964d0418c4fd2eca3682662e278591ccdbb6ea381252a"}
+
+===== PAGE 1 =====
+{"alpha_words": 107, "chars": 720, "method": "ocr", "page": 1, "variant": "plain-vision"}
+JOINT
+SEC
+35 25 0. 61 19 402 UNCEASSIFIED OFFICIAL FILE COT
+ENR
+ROUTINS
+2.8 2180 ₴22
+68DCOI 333
+UNCL
+ro
+FTD W-? AFB OHIO
+CHENNAULT AFB LA ROL 7KH
+UNCLASSIFIED TD-E
+25-7-466
+68TH BOMB WG/YOUR UNCL MSG 68DCOI 333 DTD 22 JULY 61 REPORTING
+THE SIGHTING OF A UFO BY A TRANS TEXAS AIRWAYS PILOT. REQUEST
+YOUR ORG ATTEMPT TO GET POSSESION OF THE TAPE RECORDING REF IN
+YOUR MSG AND FORWARD IT TO FOREION TECHNOLOGY DIVISTON, IN
+ADDITION, REQUEST AN ATTEMPT BE MADE TO DETERMINE IF THERE WERE
+ANY OTHER WITNESSES, POSSIBLY ON THE GROUND, LOCATED IN THE AREA
+OF THE SIGHTING.
+R5/915₴
+23
+MONTH
+Jiy
+THE R
+1030
+61
+TD-E
+Major Robert J. Friend
+PHONE
+69216
+ECURIT
+UNCLASSIFIED
+COWARD H. WYNN
+Colonel, USAN
+Dep. for Science & Components

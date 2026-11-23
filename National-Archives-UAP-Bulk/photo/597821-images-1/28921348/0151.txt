@@ -1,0 +1,148 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T20:14:02Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5203003, "source_ctime_ns": 1793368542571661485, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28921348/0151.jpg", "source_mtime_ns": 1785688701000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28921348/0151.jpg", "source_sha256": "4a3e90b03501194a69ac63ce7f33404ce0ac971cfe5dc7d90e3e574ade1bf241"}
+
+===== PAGE 1 =====
+{"alpha_words": 241, "chars": 2174, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DATE
+4045 Apr
+4046 Apr
+40471
+4048 г
+40493
+40501
+405/5
+40525
+40535
+40546
+40556
+40568
+40578
+40588
+40598
+40609
+706/10
+406213
+406316
+4064/15
+406516
+406618
+406718
+40681ąłą
+406919
+407021
+407123
+407224
+407327ŘŚ
+407427
+407527
+40128
+140773ął
+4078
+DATE
+APRIL 1956 SIGHTINGS
+OBSERVER
+LOCATION
+Passaic, New Jersey
+S of Bakersfield, California
+Liberty, Miss uri
+N-31, Pepperrell AFB, Newfoundland
+Cedar Key, Florida (CASE MISSING)
+Military
+Civilian GOC
+McKinney, Texas
+Newport, Rhode Island (CASE MISSING) Civilian
+Casablanca, Morocco
+Civilian Multi
+Samish Island, Washington
+McKinney, Texas
+Inman, South Carolina
+Albany, New York
+Schenectady, Rochester, New York
+Rome, New York
+Gurnie, Illinois
+Griffis AFB, New York
+Multi Gd & Air Vis
+San Diego, california (CASE MISSING) Civilian
+Mckinney,
+Henderson, North Carolina
+Fitzgerald, Georgia
+Fairfield, Utah
+McChord AFF, Washington
+Unknown
+SE corner Minnesota
+Military Air
+Traverse City, Michigan
+Mi (Garbled)
+Minneapolis, Minnesota (CASE MISSING) AF Major
+Richmond, Virginia (CASE MISSING)
+Multi Civ & Mil)
+Seattle, Washington
+St Paul, Minnesota
+Military
+Vuyyuru, Indiana
+Greensboro, North Carolina
+Huntington, California
+Old Bridge, New Jersey
+Tacoma, Vashington
+LOCATION
+Coffeyville, Kansas
+Dusham, North Carolina
+Florida
+Brow's Gulch, Montana
+Tallahassee, Florida
+Cumberland Beach, Canada
+Baudette, Minnesota
+Monomet, Massachusetts
+Coffeyville, Minnesota
+El Monte, California
+Phoenix, Arizona
+Fact Mensfield, Massachusetts
+ADDITIONAL REPORTED SIGHTINGS (NOT CASES)
+SOURCE
+Newsclipping
+Newsc lipping
+Newsclipping
+Newsclipping
+Newselipping
+Nevsclipping
+Newsclipping
+Newsclipping
+Newsclipping
+Newsclipping
+Newsclipping
+Newsc lippine
+EVALUATION
+Insufficient Data
+Insufficient Data
+Other (UNRELIABLE RPT)
+Astro (VENUS)
+Aircraft
+UNIDENTIFIED
+Balloon
+Astro (METEOR)
+Astro (VENUS)
+Insufficient Data
+Astro (STARS/PLANETS)
+Astro (VENUS)
+Astro (VENUS)
+Aircraft
+Insufficient Data
+Astro (VENUS)
+Other (BIRDS)
+Astro (METEOR)
+Insufficient Data
+Astro (VENUS)
+Astro (VENUS)
+Aircraft
+Astro (STARS/ PLANETS)
+Astro (VENUS)
+Astro (VENUS)
+Balloon
+Astro (METEOR)
+Ealloon
+Astro (METEOR)
+1. Astro (METEOR)
+2. Aircraft
+Astro (VENUS)
+Aircraft
+Aircraft
+EVALUATION

@@ -1,0 +1,62 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T19:25:08Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9496014, "source_ctime_ns": 1793363260186403173, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330784816/45484701-005-001-0146.jpg", "source_mtime_ns": 1785684645000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330784816/45484701-005-001-0146.jpg", "source_sha256": "09ce58916884107f42e0a9b847742e6673278cb89f5e00bad6bcf4ab5db83661"}
+
+===== PAGE 1 =====
+{"alpha_words": 261, "chars": 1883, "method": "ocr", "page": 1, "variant": "plain-vision"}
+ITION
+DEPARTMENT OF THE AIR FORCE
+HEADQUARTERS UNITED STATES AIR FORCE
+WASHINGTON
+CLASSIFICATION CANCELLED S
+BY AUTHORITY OF
+BY
+CORT K. KUNZE, Capt, USAF
+Historian
+THE
+INSPECTOR GENERAL USAF
+-6TH- DISTRICT
+OFFICE OF SPECIAL INVESTIGATIONS
+ROBINS AIR FORCE BASE, ROBINS FIELD, GEORGIA
+* DEC 1975
+DATE
+SPOT
+FILE NO: 24-0
+SUBJECT:
+UNCONVENTIONAL AIRCRAFT SIGHTED IN GREENVILLE,
+SOUTH CAROLINA AREA - 13 MAY 1952
+SPECIAL INQUIRY
+TO g
+Director of Special Investige tions
+Heedquarters USAP
+Wanhington 25, D. C.
+I s
+SYNOPSIS:
+let It ARTHUR 5. PALMER, 375th Troop Carrier
+Wing Intelligence Officer, Donaldson AFB, South Carolina, received inrorma-
+cion from the Officer of the Day, 18 May 1952, that unidentified objeets
+had been sighted by members of a group of amateur astronomers at approxi-
+mately 2233 hours, EST, 13 Kay 1952.
+II .
+DETAILS
+(L) Er. JAMES RICHARDSON, SA BOyce Avenue,
+Greenville, South Caroline, was interviewed by It, PALMER and made the
+following written statement:
+ạOn the night of May 13, 1902, at approximately 2656 sola
+a group of amateur astroncmers of whom I was one gathered on the Campus
+of Farman University, Greenville, South Carolins, for an evening of ob-
+serving•
+As we were preparing to leave, I noticed four (4) objects,
+modified eylinder or obloid in shape, flying at an unknown altitude on
+a heading of about 300 degrees. These objects were brownish orange in
+color and rather dull glowing in appearance.
+#These objects were in a diamond formation, almost
+directly overhead, going on a straight course, oscillating slightly,
+first one side would tip up then the other. They were in sight for
+about five (5) seconds."
+(2) Er. C. T. WYCHE, Univeraity Ridge Apart
+ments, Greenville, South Cerolina, was interviewed by Lt. PALMER and
+made the following written statement:
+UNCLASSIFIED.
+S
+SECURI
+RAFB 28 APR 50-50.000
+Declassification Authority: NND 923007

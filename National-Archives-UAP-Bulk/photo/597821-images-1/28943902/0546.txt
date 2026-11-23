@@ -1,0 +1,51 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T20:13:12Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4839087, "source_ctime_ns": 1793372723516447167, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28943902/0546.jpg", "source_mtime_ns": 1785688516000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28943902/0546.jpg", "source_sha256": "3dadd64039106864357c7615c43b3a4893e55a697fd2c33f5c585ee66297aa06"}
+
+===== PAGE 1 =====
+{"alpha_words": 217, "chars": 1597, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AF FORM 112-PART I
+/ PROVED 1 JUNE 1948
+(CLASSIFICATION)
+UNCLASSIFIED
+REPORT NO.
+(LEAVE BLANK)
+USA IATS
+I1-405-52Śš
+AIR INTELLIGENCE INFORMATION REPORT
+SUBJECT
+Unidentified Flying Object Sighted by Crew of National Airlines Flight L2
+FLYOBRPT.
+AREA REPORTED ON
+near Quantico, Virginia.
+Stata of Virginia, USA
+DATE OF REPORT
+11 July 1952
+DATE OF INFORMATION
+20 July 1952
+EVALUATION
+B-2
+PREPARED BY (Officer)
+| SOURCE
+Gerald E. Tyler, Major, USAF
+Civilian Airline Aircrew Members
+REFERENCES (Control number, directive, precious report, etc., as applicable)
+FLYOERPT #3 110312Z July 1952 submitted by Olmsted Flight Service Center
+SUMMARY: (Enter concise summary of report. Give significance in final one-sentence paragraph. List inclosures at lower left. Begin tezt of report on AF Form 118-Part It.)
+Report contains information reference sighting of unidentified flying object near
+¡Quantico, Virginia 10 July 1952.
+Single object was sighted by aircrew members of National Airlines Flight 42 while
+in flight approaching Clifton Intersection from the Southwest at 1500 feet altitude.
+No interception was attempted. Weather at the time of sighting was excellent for obser
+vation. Object was apparently at the same altitude as sighting aircraît.
+Gerald EAgles
+GERAID E. TYIE
+Major, USAF
+Acting Intelligence Officer
+DOWNGRADED AT & YEAR INTERVAL
+DECLASSIFIED AFTER 13 YEARS
+DOD DIR 5200.10
+INCLS.
+ORIGINATOR
+Chief, Air Technical Intelligence Center, ATIN: ATIAA-2c
+UNCLASSIFIED
+NOR THAN NOT E PRODUCED IN MOLE OR IN PAR SY ONE VAN UNTED TATE AN PONCE ACERES EP OF PENSION OF THE ONCE ONE
+1950 0-918331

@@ -1,0 +1,48 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T19:39:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9331431, "source_ctime_ns": 1793363903992679873, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330786265/45484701-006-004-0029.jpg", "source_mtime_ns": 1785685033000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330786265/45484701-006-004-0029.jpg", "source_sha256": "099a5ea21022e3687ec2f984a7c0f5ebc53cb8ac248c4584e1bcfaec80f89d80"}
+
+===== PAGE 1 =====
+{"alpha_words": 216, "chars": 1626, "method": "ocr", "page": 1, "variant": "plain-vision"}
+B/L, DO #16, file 2h-0, dtd 18 Dec 50, subj: Spot Intelligence Report "Sighting
+of Unidentified Aerial Object"
+sighted by the three men at 1225 hours, mountain time and Sheriff WHIPKEY was
+notified at 1228 hours. The three men reported that the weather at the time
+of sighting was--light overcast, light snow.
+3• ACTION:
+Contact with the Forecaster on Duty, Weather Station, Hill
+Air Force Base, Utah, on 15 December 1950, revealed that the 1230 observation
+from Gooding, Idaho (13 miles east of Bliss, Idaho) on 14 December 1950 read
+Special, Indefinite Ceiling, 1000 ft overcast, visibility 1 mile,
+Fogs In view of this weather report, statements of witnesses contain obvious
+weaknesses.
+Teletype 16 OSI-12-6 dispatched 1100 hours, 15 December 1950,
+to Director of Special Investigations, with information copy direct to
+Commanding General, Air Materiel Command, Wright-Patterson AFB, Dayton, Ohio,
+Attn: MCIS, containing briefed Spot Intelligence Report of information con-
+tained herein.
+In accordance with the provisions of AFCSI Letter No. 85,
+dated 23 October 1950, no further action will be taken by District Office
+No. 16 reference this reported sighting. The above information is forwarded,
+in confirmation of Spot Intelligence TWX number 16 OSI-12-6, for your review
+and action deemed necessary and/or appropriate.
+Telhan R Berett
+PELHAM R. BURNETT
+Captain, USAF
+District Commander
+2 copies to:
+Commanding General
+Air Materiel Command
+Wright-Patterson AFB
+Dayton, Ohio
+ATTN:
+MOIS
+24+85 110-0
+UNITED
+SEINS FOR CEROR
+AIR FUC
+DEC 22
+4 1 $50
+DE0% 7 100
+SPECIAL
+File ostrile.
+4331
+Declassification Authority: NND 923007

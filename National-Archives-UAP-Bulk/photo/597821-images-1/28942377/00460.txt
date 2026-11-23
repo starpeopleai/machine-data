@@ -1,0 +1,44 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T19:34:59Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6616690, "source_ctime_ns": 1793372340634320752, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28942377/00460.jpg", "source_mtime_ns": 1785688924000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28942377/00460.jpg", "source_sha256": "de19242eafb004a21a8b53419cc50d7924dac279a3f1349a2d2983cfe954258f"}
+
+===== PAGE 1 =====
+{"alpha_words": 47, "chars": 500, "method": "ocr", "page": 1, "variant": "plain-vision"}
+ONJU 168°
+BG2L 115
+2 (102ł
+III CHINHAE (M)
+222 Nisna 692
+YÖSU 22C
+762 SHIMONOSÉKI 158'
+6I8 MATSUMOTO 2001
+63: TSURUGA
+OHIN EUL
+750 MAIZURU
+746 TOTTORI-
+E38 KOF
+637 1104 1581
+635 KOMAKI
+650 KAME YAMA 243
+77| ITAMI
+636 NAGOYA 172
+765 HIROSHINA 764 IWAKUNI
+772 OSAKA
+774 KASHIWARA. 213'
+_663 OMASE
+FAVAM LL
+FUKUOKA DE
+VANSE COE
+778 SHIONOMIS
+K1 43€
+7 KAGOSHIMA
+ZWI' 868
+899 MUROTON SAKI 611'
+BI5 OITA
+\840 TSUIK!
+830 MIYAZAKI
+B19 KUMAMOTO 129
+36 YAKUS
+30°
+909 NAZE
+945 MINAMIOAGARI JIMA
+25°
+UNCLA:SIFED

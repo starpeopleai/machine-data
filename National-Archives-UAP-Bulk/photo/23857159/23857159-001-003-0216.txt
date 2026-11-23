@@ -1,0 +1,84 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T19:57:32Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 20036334, "source_ctime_ns": 1793360903952721387, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-003-0216.tif", "source_mtime_ns": 1785565151000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-003-0216.tif", "source_sha256": "f1bc475c1e1dd97bd217008c275ae7e6f8497f5681ef16f79018e52dbc363ff9"}
+
+===== PAGE 1 =====
+{"alpha_words": 253, "chars": 1886, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UNCLASSIFIED
+IF ICATTO
+COUNTRY OF ACTIVITY REPORTING
+REPORT NO.
+190-15
+United States
+1-57
+AIR INTELLIGENCE INFORMATION REPORT
+COUNTRY OR AREA REPORT CONCERNS
+DATE OF INFORMATION
+California
+5 April 1957
+ACTIVITY SUBMITTANG REPORT
+DATE OF COLLECTION
+Maywood Air Force Depot
+8 April 1957
+DATE OF REPORT
+John W. Cathey, Major, USAF
+NAME OR DESCRIPTION OF SOURCE
+Ernst Simon, 1964l Victory Blvd
+Reseda, California
+REFERENCES (BAIR Subject, previous
+15 April 1957
+EVALUATION
+s applicable)
+1095745ÍŘÍ
+(Leave blank)
+1895745
+SRI STATUS (If applicable)
+SRI NO.
+SRI NO
+SRI NO.
+CANCELED/COMPLETE
+CANCELED / INCOMPLETE
+ACTIVE
+ADDITIONAL INFORMATION ON (Date)
+SUBJECT (Descriptive title.
+Use individual reports for separate subjects)
+UF'OB
+SUMMARY (Give summary which highlights the salient factors of nar
+tive report. Begin narrative text on AF Form 112a
+unless report can be fully stated on AF Form 112. List inclosures, including number of copies)
+See attached letter, subject: "Unidentified Flying Objects (UFOB)," undated,
+from 18th District, OSI, Cheli AF Station, Maywood, California.
+plassification (Caneches) (changed to
+→ effective on 5 Can 7/
+under the authority of A
+by AF/S LAs
+2119:4-7
+79
+61141326
+, a (once)
+INCLS
+Ltr fr OSI
+ABC
+DISTRIBUTION BY RIEKTOR (Except USAF and file. Indicate Dupl M/oz and copies w/o inclosures
+if applicable)
+N/a
+4602d AISS: Original to D/I,
+, HEDUSAF
+Copy to D/I, 27th AD
+Copy to Comdr,
+ATIC
+Copy to Comdr, 4602d AIss
+WARNING: This document contains information affecting the nat
+nal defense of the United Sta
+meaning of the
+Espionage Laws, Title 18, U.S.C., Section 793 and 794. Its trans
+ission or the revelation of it
+s contents in any manner to
+an unauthorized person is prohibited by law.
+UNCLASSIFIED
+FORM
+AF 15 SEP 54 112
+REPLACES AF FORM 112. 1 OCT 52. WHICH MAY BE USED
+21954 0 - 315475
+DECLASSIFIED
+Authority NND 9237007
+CLASSIFICATION
+AFR 190-16

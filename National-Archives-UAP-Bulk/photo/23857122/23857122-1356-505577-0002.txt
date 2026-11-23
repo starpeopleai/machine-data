@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T19:55:14Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 22956072, "source_ctime_ns": 1793357273963534778, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1356-505577-0002.tif", "source_mtime_ns": 1785564866000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1356-505577-0002.tif", "source_sha256": "c88ea53e642cf63edf716e7bfda3531c5ce087fbfcd8f01c063701c14ee59a1e"}
+
+===== PAGE 1 =====
+{"alpha_words": 134, "chars": 855, "method": "ocr", "page": 1, "variant": "plain-vision"}
+505577
+2g January 53
+At 1820 hrs., 26 January 53, I observed a luminous object
+about one hundred eighty feet long and twelve feet wide
+traveling through the sky from east to west at what appeared
+to be between seven and ten thousand feet. Both the front
+and rear of the object seemed to have a hazy appearance, but
+the lengthy body was clearly outlined. It also gave off the
+sound of a high-pitched humm, similar to that of an electric
+motor. After a minute, the object seemed to gain altitude
+very rapidly and it slowly faded away. I could still hear
+the sound for a few seconds after it was completely gone,
+then the sound stopped abruptly. One witness, a man from my
+barracks, heard the sound after the light was gone. This all
+took place in front of Barracks C3l.
+HARVEY N. SALZBERG
+A/2C
+USAF
+AF 12 376 914
+70192
+Declassification Authority: NND 57565

@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T19:42:27Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 16528376, "source_ctime_ns": 1793360900911937228, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-003-0213.tif", "source_mtime_ns": 1785565150000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-003-0213.tif", "source_sha256": "b3bfbe83171db0e86ebc139fb67d917b482722265281e5a9df553d16f088fa41"}
+
+===== PAGE 1 =====
+{"alpha_words": 150, "chars": 968, "method": "ocr", "page": 1, "variant": "plain-vision"}
+SLATE ENT
+A large fiery white ball apparently 6 - 8 feet in diameter with a
+trailing tail travelling from southwest to northeast appeared in the
+sky low enough to be clearly visible from the driver's seat of my
+automobile, which 1 was driving on Shaw AFB, at approximately Ol45 -
+0200 on 9 March 57.
+1 watched it for possibly 5 - o seconds, during which it travelled at
+a rapid speed on an almost level course
+then disintegrated suddenly
+and as it did so the white light disappeared from the fragments almost
+immediately and nothing more was seen.
+As stated, I was driving my automobile when first sighting the object;
+I stopped at once and watched until it disappeared.
+I heard no noise
+from the object. I had no perspective from which to judge its distance
+from me and thus cannot accurately judge the size of it, although as
+stated it appeared to be 6 - 8 feet in diameter.
+The night was clear.
+14 March 1957
+Slays Eulyon
+1095746
+DECLASSIFIED
+Authority NND 9237007

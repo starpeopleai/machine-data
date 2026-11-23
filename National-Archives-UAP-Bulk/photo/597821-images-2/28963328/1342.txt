@@ -1,0 +1,11 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T20:15:43Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5957225, "source_ctime_ns": 1793377345432099107, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28963328/1342.jpg", "source_mtime_ns": 1785696807000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28963328/1342.jpg", "source_sha256": "018533355523863cd6681b2afbbe5b8b5589a2ff37748cb1b2f7b10d5ccf8e98"}
+
+===== PAGE 1 =====
+{"alpha_words": 74, "chars": 383, "method": "ocr", "page": 1, "variant": "plain-vision"}
+We are not the final judge in this matter. We bring the
+Tacts to you as we know them. Your conclusions are your own.
+But we feel that there is too great a risk in sitting around
+and doing nothing. It is now our responsibility to deliver thi
+account and it's message, in which we believe, to the high
+authorities of this nation. Can you help us do it?
+-End of Case File Number Three-

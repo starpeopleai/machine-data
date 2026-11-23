@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T20:13:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4933724, "source_ctime_ns": 1793379066164867534, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28970803/0605.jpg", "source_mtime_ns": 1785700732000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28970803/0605.jpg", "source_sha256": "8c3973b9fb4d2aec255a2313e0f5131f033622bb451f17c08426af86c61b9d3f"}
+
+===== PAGE 1 =====
+{"alpha_words": 68, "chars": 532, "method": "ocr", "page": 1, "variant": "plain-vision"}
+2 5°
+26/06302
+Миса
+4Е 4
+3 4хгаєм
+2000.57 11 02m
+WPH0460 VPD234 YDD 17 XYB019 XDF2 13GUA206
+RR RJEDEN RJEDWP RJEPHO
+DE RJMPGU 1
+R 262238Z
+FM COMDR 29TH AIR DIV DEF MAFB MONT
+TO RJEDEN/COMDR ADC ENT AFB COLORADO SPRINGS COLO
+RJEDWP/COMDR AIR TECHNICAL IFT CENTER WIRGHT PATTERSON AFP OHIO
+RJEPHO/DIRECTOR OF INTELLIGENCE HQS USAF WASH 25 D C
+ВТ
+(UNCLAS) OIN 0896 IN ACCCRDANCE WITH AFR 202-2 12 AUG 54 THE
+FOLLOWING UNIDENTIFIED FLYING OBJECT REPORT IS SUEMITTED :
+A. ROUND
+B. DIME
+C. BRIGHT SILVER
+D. ONE
+E. THRU I N/A
+A. BRIGHTNESS

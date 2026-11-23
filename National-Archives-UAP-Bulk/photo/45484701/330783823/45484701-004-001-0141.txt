@@ -1,0 +1,57 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T19:36:14Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7394604, "source_ctime_ns": 1793362853279946446, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330783823/45484701-004-001-0141.jpg", "source_mtime_ns": 1785685064000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330783823/45484701-004-001-0141.jpg", "source_sha256": "03fd9ecc0cf634fda00d94d0e5f05efb64780f11e92262409f536f8550d3a15c"}
+
+===== PAGE 1 =====
+{"alpha_words": 170, "chars": 1300, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Wrtn 12 May 50
+24-185
+(Unclassified) Unconventional Aireraft
+SPECIAL INQUIRY
+Collection Branch, Directorate of Intelligence,
+Deputy Chief of Staff, Operations
+Counter Intelligence Div, Office of Special
+Investigations, The Inspector General
+1 5 MAY 1960
+Maj Nold/bjn/3623
+AFCSI
+Attached for your information is a copy of spot intelligence report, subject as
+above, dated 2 May 1950.
+1 Ine l
+Spot Intell Rpt dtd
+2 May 50 fr DO #1
+JOSEPH J. CAPPUCCI
+major, usar
+Actg Chief, Counter Intelligence Div
+Office of Special Investigations
+The Inspector General
+Disclosure of the nature, sources, or even the existence of such
+investigative information to persons mentioned in the report
+or to other persons not normally entitled to such information
+may be made only when expressly authorized by the Director
+of Special Investigations, IG, or higher authority.
+When Incl No: --
+-_ is (are) withdrawa
+Come attached, the classification of
+-------== on this correspondence
+will be cancelled in accordance with
+par 25e, AFR 205-1.
+AFOSI FILE COPY
+10Х
+CLASSIFICATION CANCELLED TO INS PERRAU
+BY AUTURFATRURE, CAUSAECTOR OF SPEC IN
+BY
+Historian.
+3 DEC 1975
+DATE
+AFCSI
+Крепее
+звірим оброві
+UNCLASSIFIED
+1182-1
+OFFICE OF
+SPECIAL INVEST
+15 WAY 050
+MANAGEMENT
+DIV.
+O S1
+MAY 2 2 195
+Declassification Authority: NND 923007

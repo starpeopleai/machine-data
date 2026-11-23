@@ -1,0 +1,78 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T19:55:44Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 28712612, "source_ctime_ns": 1793357020910608788, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1216-481596-0001.tif", "source_mtime_ns": 1785564812000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1216-481596-0001.tif", "source_sha256": "528d5588667d9d0d9effedae79de23376c43583b4ddd99ae188f4028d2d82748"}
+
+===== PAGE 1 =====
+{"alpha_words": 328, "chars": 2271, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AF FOR!
+APPROVED
+- PART I
+1948
+RESTRICTED
+(CLASSIFICATION)
+United States
+IR-3-53
+AT 781596
+AIR INTELLIGENCE INFORMATION REPORT
+SUBJECT
+Report of the Observation of an Unidentified Flying Object
+AREA REPORTED ON
+FROM (Agency)
+Austin, Texas
+12th Strategic Fighter Wing
+DATE OF REPORT
+DATE OF INFORMATION
+•EVALUATION
+26 January 1953
+23 January 1953
+B-2
+PREPARED BY (Officer)
+2/Lt. Eugene F. Redden
+SOURCE
+T/Sgt Gerald V. Kelley AF 11194087
+REFERENCES (Control number, directive, previous report, etc., as applicable)
+AFL 200-5 FLYOBRPT 29 April 1952
+SUMMARY: (Enter concise summary of report. Give significance in final one-sentence paragraph. List inclosures at lower left. Begin text of report on AF Form 112-Part II.)
+While on duty at the GCA station, Bergstrom AFB, Austin, Texas, T/Sgt Gerald
+V. Kelley reported an unidentified radar return on an AN/NPM-1 GCA set.
+Sgt Kelley
+was operating on both the 30 and 15 mile range setting.
+The size of the blip was
+3/16 inches in width and 3/4 inches in length with fuzzy edges.
+This object was
+observed between 1540 and 1559 hours CST. The speed of the object varied from
+stationary to as fast or faster than jet aircraft.
+After it disappeared the area
+where it appeared was kept under surveillance for a period of about 5 minutes.
+No
+further returns were observed.
+No aircraft were in the vicinity, and no other
+observations of an object were reported.
+The observer has not made a report of this incident to any other agency.
+APPROVED:
+Inel
+3 R
+3 cy
+(2 inche)
+RANKIN
+Captain,
+USAF
+Intelligence Officer
+12th Strategic Fighter Wing
+18 17/18
+RECEIVED
+29 JAN 1953
+1138
+2
+(.O. 11652, Sec. 3(E) and 5(D) of (E.
+USAE MEMO
+7/31/38
+AKC
+So Dela 9/13/78
+2. Chart of Austin Area
+1. Statement of Radar Technical Representative
+DISTRIBUTION BY ORIGINATOR
+NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S.C.—
+31 AND 32, AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW.
+IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF
+INTELLIGENCE, USAF.
+RESTRICTED
+Declassification Authority: NND 57565

@@ -1,0 +1,56 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T19:38:21Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8818401, "source_ctime_ns": 1793364888649457034, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787905/45484701-007-006-0060.jpg", "source_mtime_ns": 1785684680000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787905/45484701-007-006-0060.jpg", "source_sha256": "d34b43be029bdf6c151cae38193a15bd59087cc1aef622da3f03c8f7688dc7be"}
+
+===== PAGE 1 =====
+{"alpha_words": 151, "chars": 1183, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DU OSI, USAF
+21st DISTRICT OST (IG) USAF
+LANGLEY AFB, VIRGINIA
+CLASSIFICATION CANCELLED
+BY AUTHORITY OF TH
+BY
+KURT K. KUNZE, Capt, USAF
+Historian
+DATE
+| & DEC 1975
+File No: 24-146
+31 March 1958
+SUBJECT:
+(Confidential)
+LARRY W. BRYANT, Civilian
+1002 Arnold Street, Warwick, Virginia
+SPECIAL INQUIRY
+UNCLASSIFIED
+TO:
+Commander
+Langley Air Force Base
+Virginia
+ATTN: Provost Marshal
+Transmitted herewith is Report of Investigation by Special
+Agent VARTAN ASDOURIAN, DO #4, File 24-826, dated 24 March 1958,
+pertaining to the above subject.
+All logical investigative leads have been developed and
+reported and this investigation is considered closed in the files
+of this office.
+3. Your attention is invited to AFR 124-l which prohibits the
+unauthorized disclosure of investigative information.
+4. This letter is classified CONFIDENTIAL in that it contains
+information which requires protection against unauthorized disclosure.
+1T 1 0 APR 195Śęłš
+1 Inel:
+ЗВУИ
+ROI, DO MA,
+File 24-826,
+21)
+8 APR 1958
+CI DIV
+OSI
+RICHARD G. COX
+It Colonel, USAF
+District Commander
+24-185 - 211
+TED STATES AIR FORCE
+THE INSPECTOR GENERAL
+mm
+JAPR58 09 09
+INCLASSIFIED t
+Declassification Authority: NND 923007

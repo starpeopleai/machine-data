@@ -1,0 +1,56 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T20:19:07Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7356424, "source_ctime_ns": 1793363021174697747, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330784275/45484701-004-003-0099.jpg", "source_mtime_ns": 1785685131000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330784275/45484701-004-003-0099.jpg", "source_sha256": "b2294cbc360aa0f645b1b336f663f1933e4ab7d5d268b88b3dd1c24bae46fa87"}
+
+===== PAGE 1 =====
+{"alpha_words": 254, "chars": 1885, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DiOSI
+HQ. 2d DISTRICT OSI(IG) USAF
+P. O. BOX #97, COOPER STATION
+NEW YORK 3, NEW YORK
+5 NOV 1954
+24-0
+SUBJECT:
+TO :
+(Unclassified)
+Request of District Intelligence Officer
+4th Naval District for Identities of District
+Commander,
+2d District OSI (IG) USAF, and OSI
+Detachment Commander, McGuire APP, New Jersey
+SPECIAL INQUIRY
+24-185-3-8<
+District Commander
+3d District OSI (IG) USAF
+P. 0. Box 709
+Harrisburg, Pennsylvania
+1. Reference is made to letter, your district, file 2h-0-70,
+Subject as above, dated 15 October 195h.
+2.
+The identities of the District Commander, 2d District OSI,
+and Detachment Commander, McGuire Air Force Base are Lieutenant Colonel
+L. L. FREE and Major MURRAY CHASIN, respectively.
+3 -
+Attention is invited to paragraph Ab(1), APCSI Letter No. 85,
+dated 7 Jamary 1953, which reflects that detachment offices located
+on an Air Force Base will report all details pertaining to the sighting
+(of an unidentified flying object) to the installation commander or his
+designated representative.
+Attention is also invited to paragraph 6,
+AFR 200-2, dated 12 August 1954, which indicates that the 4602d Air
+Intelligence Service Squadron and its echelons will normally conduct
+investigations of this type for the Air Defense Command, which has been
+given the responsibility of conducting all field investigations within
+the Zone of the Interior to determine the identify of unidentified fly-
+ing objects (UFOB).
+4. Request that the District Intelligence Officer, Fourth Naval
+District, Philadelphia 12, Pennsylvania, be apprised of this information
+and also advised that he should more appropriately contact the
+Intelligence Officer, McGuire Air Force Base in regard to his require-
+ments in this matter.
+CLASSIFICATION CANCELLED 42 ENA PHILEMO
+BY AUTHORKERT R.KÖNZE, CHE USAR OF SPEC INV
+BY
+Historian
+3 DEC 1975
+DATE
+UNCLASSIFIED
+Declassification Authority: NND 923007

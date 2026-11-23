@@ -1,0 +1,47 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T20:16:15Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6143270, "source_ctime_ns": 1793370514765596155, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28934760/0613.jpg", "source_mtime_ns": 1785688499000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28934760/0613.jpg", "source_sha256": "e8efb9e0a4fa7199363fa94b27f41a67b6774699b74e534a4f1e6fe075bb316d"}
+
+===== PAGE 1 =====
+{"alpha_words": 126, "chars": 972, "method": "ocr", "page": 1, "variant": "plain-vision"}
+INCIDENT NO.
+Date of Interview
+324B
+17 June 1949
+1. Date of Observation
+11 May 1949
+2. Exact Time (local)
+1615-1625
+3. Place of Observation Viatertown, N. Y. 75° 4ö' West 46° - 0 North
+4. Position of observer Ground in auto
+5. What attracted attention to object
+Reflection of sun on object
+6. Number of objects
+7. Apparent size
+2 Feet diameter
+8. Color of object
+Shiny
+9. Shape
+Diso shaped, similur to auto hub cap
+10. Altitude
+11. Direction from observer SE
+12. Distance from observer
+13. Direction of flight of object (s) SE - NE
+14. Time in sight
+Approx. 15 Minutes
+15. Speed
+16. Sound and odor
+Slow
+None
+17. Trail
+18.
+Luminosity
+19. Projections
+Light smoke same width of object 150 ft. long
+Refleoted light
+20. Maneuvers
+Appeared smooth
+Gained altitude 3 Minutes then level steady flight
+21. Manner of disappearance Dissolved from tail to front
+22. Effect on Clouds No olouds
+23. Additional information concerning object
+24. Weather Conditions Clear, No olouds
+(over)

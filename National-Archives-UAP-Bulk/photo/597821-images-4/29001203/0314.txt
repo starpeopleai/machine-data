@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T20:15:07Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5703513, "source_ctime_ns": 1793388445153484281, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/29001203/0314.jpg", "source_mtime_ns": 1785748003000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/29001203/0314.jpg", "source_sha256": "4703977c24a406768b57e99427051e09a34d88efcc4b9ac9bb5eb3e793a10da4"}
+
+===== PAGE 1 =====
+{"alpha_words": 51, "chars": 407, "method": "ocr", "page": 1, "variant": "plain-vision"}
+NN NN
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+UNCLASSIFED MESSAGE
+INCOMING
+AF IN : 2165 (17 Jun 63)
+Pg 2 of 2
+1. MER INT
+2. USS LANSING D.R.
+3. 1-UFO
+4. 28.3Ø NORTH, 162.20 WEST
+5. 17/0631Z TO 17/0642Z
+6. INITIAL POSITIVE ANGLE 85 DEG-SEXTANT ALT 05-21.3
+7. FADED BEARING 030 DEG
+8. SUNK
+9. UN K
+10. UNK
+REMARKS: EVALUATION NO THREAT
+BT
+17/0838Z JUN RUHLKH
+NOTE: Advenced copies to XOPX, NIN & DIA

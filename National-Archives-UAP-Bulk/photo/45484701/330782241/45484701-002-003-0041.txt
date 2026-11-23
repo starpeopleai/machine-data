@@ -1,0 +1,75 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T19:38:28Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8854204, "source_ctime_ns": 1793362110178751687, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330782241/45484701-002-003-0041.jpg", "source_mtime_ns": 1785684711000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330782241/45484701-002-003-0041.jpg", "source_sha256": "92f4086b0a7f9c65042e3b0de092293a50f3c0eb6a6e3e3c14890954b397ff38"}
+
+===== PAGE 1 =====
+{"alpha_words": 275, "chars": 1921, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Rocketscience
+Pare
+$ 13
+Pachemistry, Part III
+Alfred J. Zaehringer
+Introduction
+This article will deal with the catalytic, variant, and static
+reactions upon the reaction time, burning rate, and effective
+ex-
+haust velocity of XRF-51 Propellant upon combustion. The interested
+reader is referred to Parts I and II which appeared in Numbers 1 and
+Properties of XRF-51 Propellant
+XRF-51 Propellant was developed by this author on January
+1948 as a preliminary investigatory nellum for organic reductante.!;
+18 a potassium chlorate base, armi-organic, solid di-propellant, hav-
+ing the chemical composition, b, weight, of 87.8% potassium chlorate
+and 12.2% carbon (stoichiometric ratio). This propellant 1s prepared
+in the conventional manner ty integration in a ball mill to a fine-
+ness of 100 mesh.
+The finishel moduct is a dark gray powder
+having
+a density of 2.186 grams per cubic sentineter, ouite stable to shoch
+and somewhat less hygroscopic than
+KEF-49A3 Propellant. The 1gnitior
+temperature 1s between 350.4000C.
+debending unon the type or
+carbor
+Ap/Ac=1. The maximum theoretica.
+The burning rate of this cro
+eilant is 0.5666 cm/sec
+wher
+eh ust relocity for the
+exu-
+thermic reaction
+2103/ -→C
+(19
+1s 2450 m/sec.
+Description of Tests rifened
+These tests were Chee
+pid and were periormed on
+March
+28, 1948. The test units
+were the Stancard Test Units (XP-
+5Al); five vere used. The purpose of these tests was to obtain basic
+ideas of the functioning or the propeliant, in questior. Five
+were charged with FF-51 Propellant under a pressurs of 400 kg/cmc;
+For all units the length of the bore used was 2.5 cu, the : diamoto!
+Share at was aro 24, 598. 785% Vi; Boom, hat
+war
+tho
+only
+deviation from the standard propellant‹
+XARTO NO.
+Code
+Variant or Catalyst
+36
+38
+59
+K-1
+K-1A1
+V-6
+KK
+1% Mn02
+2% Nao-
+5% WHAÑO,
+Control Unit
+40
+Control Unit
+Table VI
+Catalysts and Variants, STB-6
+Declassification Authority: NND 923007

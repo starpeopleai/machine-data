@@ -1,0 +1,6 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T19:48:52Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 323793856, "source_ctime_ns": 1793368431253732952, "source_file": "National-Archives-UAP-Bulk/photo/542326/342-B-VN-117-1-109827_001.tif", "source_mtime_ns": 1785566126000000000, "source_rel": "National-Archives-UAP-Bulk/photo/542326/342-B-VN-117-1-109827_001.tif", "source_sha256": "b41513e11e926f6e0273caecfe7c3168aadc21bacef72cb3cfa5ad35e5e9fb37"}
+
+===== PAGE 1 =====
+{"alpha_words": 4, "chars": 25, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 1, "variant": "plain-vision"}
+INDEXED
+DAN HOI BARRACKS

@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T19:40:24Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10480496, "source_ctime_ns": 1793364266466311195, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330786509/45484701-006-006-0359.jpg", "source_mtime_ns": 1785684604000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330786509/45484701-006-006-0359.jpg", "source_sha256": "d8a38c03b9687b40510c1a10e33fa7de92d9dcd1a80a5de4d9d0f6ec741fc2ee"}
+
+===== PAGE 1 =====
+{"alpha_words": 143, "chars": 1112, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Guide to Investigation - Unidentified Aerial Objects
+16. Sound and odor: None
+1e Trail (color, lengeh, width, persistence, eto.):
+Yellow, 10 ft long - 6 ft wide - semi-persistant
+18.
+Luminosity (visible by reflection, incandescense, other - degree
+of brillience):
+Incandescent.
+19. Projections (fins, wings, rods, antennae, canopies, etc.)s
+Hone
+20.
+Maneuvera (turns, olimbs, dives, eto. - sketch of Flighs pash):
+Maintained horizontal flight
+21. Manner of disappearance:
+Died out
+22. Effect on olouds:
+Hono
+25. Additional information concerning object:
+None
+240
+• Weather conditions and light at bine of sighting:
+Clear. Area partially lighted
+Name and address oi observer:
+V. M. Butta, Pfe, 8456th NP Co, 8450th MP Group
+Occupation and hobbies:
+MP - None
+Coments of Interrogator relative to intelligence and character of
+observer (Check neighbors, police dept., FBI records, employer,
+ete.):
+Average Intelligence
+Did observer wear glasses, especially polaroid glasses at time of
+sighting, or was object viewed through canopy, window or other
+transparent materiel?
+Sol1en
+Declassification Authority: NND 923007

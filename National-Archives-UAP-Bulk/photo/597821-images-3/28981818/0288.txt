@@ -1,0 +1,61 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T19:21:23Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7166821, "source_ctime_ns": 1793381849382739525, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28981818/0288.jpg", "source_mtime_ns": 1785700997000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28981818/0288.jpg", "source_sha256": "b81b2f376311f5bfe4e0fd0e8309e1a0d4a6142bf9e48bbeae36d362a601f83c"}
+
+===== PAGE 1 =====
+{"alpha_words": 172, "chars": 1175, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+2
+Teb 59
+3. DATE-TIME GROUP
+Local
+GM T.
+5. PHOTOS
+1100Z
+• Yes
+7. LENGTH OF OBSERVATION
+6 min
+10. BRIEF SUMMARY OF SIGHTING
+Yellow toward orange speck. Speck grew
+larger as they drove toward it leaving
+a decided yellow tail very straight and
+bright which dispersed in time like the
+tail stream of a jet. Obj had an upper
+part much like the top Br a shere, while
+the lower part was rather level or flat.
+PROJECT 10073 RECORD CARD
+2. LOCATION
+of Sandusky, Ohio
+4. TYPE OF OBSERVATION
+D. Ground-Visual
+• Air Visual
+6. SOURCE
+• Ground-Radar
+• Air-Intercept Radar
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Bolloon
+Was Aircraft
+CK Probably Aircraf
+Possibly Aircror
+Hivilian
+8. NUMBER OF OBJECTS
+| 9. COURSE
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other
+Lt:. Insufficient Data for Evaluation
+•
+Unknown
+S
+11. COMMENTS
+Description is typical of any
+obj that is in the sky during the
+time of day reported. The flight
+path and duration is typical of a
+high altitude jet aircraft. It is
+the opinion of this analyst that
+the observers probably saw an a/c
+and the yellow trail --a contrail
+with sun reflecting from it.
+ATIC FORM 329 (REV 26 SEP 52)

@@ -1,0 +1,138 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T19:31:04Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5173693, "source_ctime_ns": 1793368522246728003, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28921348/0088.jpg", "source_mtime_ns": 1785688699000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28921348/0088.jpg", "source_sha256": "b8f9fd2c03d12376462556421846d6031d26d92172f4ea39819a3c6acaf5edb5"}
+
+===== PAGE 1 =====
+{"alpha_words": 196, "chars": 1763, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DATE
+202/1
+20221
+2023 1
+2024
+2
+2
+2
+2
+2
+2
+3
+- 3
+3
+6
+DATE
+2055
+2056 3
+20576
+205810
+205914
+1 - 8 SEPTEMBER 1952 SIGHTINGS
+LOCATION
+Richmond, Virginia
+Marietta, Georgia
+_ Yaak, Montana
+Kirtland AFB, N. M.
+(CARD MISSING)
+Chicago, Illinois
+Morristown, Tennessee
+Rapid City, South Dakota
+- Delft, Metherlands
+- Bigin, Illinois
+- Tokyo, Japan
+• Marietia, Georgia
+- Riverside, California
+Los Alamos, New Mexico
+(CARD MISSING)
+~
+- Dublin, Georgia
+• Atlanta, Georgia
+Atlanta, Ceorgia
+- Sacramento, California
+Tucson, Arixona
+Kutztown, Pa.
+- Death Valley, California
+- Danville, California
+Los Alamos, New Mexico
+(CARD MISSING)
+- Singapore,
+c. c.
+Albuquerque,
+(CARD MISSING
+- Lake Charles,
+AFB, La.
+Korpro, Finland
+- Baltimore, Maryland
+Tuscon, Arizona
+-San Antonio, Texas
+(CARD MISSING)
+San Antonio,
+Texas
+(CARD MISSING)
+• Needles, Califomia
+Opelossas, La.
+- San Antonio, Texas
+Fresno, California
+- Shamokin, Pa.
+OBSERVER
+Multiple
+Military
+EVALUATION
+BALLOON
+UNINDENTIFIED
+UNINDENTIFIED
+BALLOON
+Military
+* Multiple
+• Photo
+(RADAR)
+Multiple
+UNINDENTIFIED
+INSUFFICIENT DATA
+INSUFFICIENT DATA
+Other (HOAX)
+INSUFFICIENT DATA
+Other (MALFUNCTION)
+BALLOON
+INSUFFICIENT DATA
+AIRCRAFT
+Multiple
+Moltiple
+Military
+Multiple
+Military
+AIRCRAFT
+BALLOON
+BALLOON
+INSUFFICIENT DATA
+UNTNDENTIFIED
+INSUFFICIENT DATA
+Other (REFLECTION OF SUN)
+BALLOON
+INSUFFICIENT DATA
+Civilians
+INSUFFICIENT DATA
+Multiple
+Civilian
+UNINDENTIFIED
+INSUFFICIENT DATA
+Other (TEST FIRINGS)
+UNINDENTIFTED
+UNINDENTIFIED
+niple
+Multiple
+BALLOON
+AIRCRAFT
+UNINDENTIFIED
+Other (CONTRAILS)
+INSUTVICIENT DATA
+LOCATION
+Washington, DC
+Palma, Mallorca Island,
+• South Africa
+San Antonio, Texas
+- Button, Vest Virginia
+ADDITIONAL REPORTED SIGHTINGS (NOT CASES)
+SOURCE
+Her
+Ners Chipping
+News Clipping
+Ltr,
+News Clipping
+EVALUATION

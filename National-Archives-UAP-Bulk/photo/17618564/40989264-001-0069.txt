@@ -1,0 +1,111 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T19:28:25Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 20884410, "source_ctime_ns": 1793355232922377442, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989264-001-0069.jpg", "source_mtime_ns": 1785564417000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989264-001-0069.jpg", "source_sha256": "1fd6213ec668a17734969b99867092ac2c42d83ccb1005713696c17939bceaa7"}
+
+===== PAGE 1 =====
+{"alpha_words": 1011, "chars": 6743, "method": "ocr", "page": 1, "variant": "plain-vision"}
+130
+performance experimental radar having a one-third degree beam
+width. For lockon and track, an object would have to be pinpointed
+to one-sixth degree,.
+and even if the radar did achieve lockon, an
+erratically moving object could not be followed even in the STPF
+radar's monopulse mode of operation. For this reason only satellites
+having rather well-defined paths (i.e., ephemerides), which have been
+precomputed, can be acquired and tracked.
+Our three BEMEWS radars propagate fans of electromagnetic
+energy into space. If a ballistic missile or satellite penetrates two of
+these fans successively, then it can be identified. Since astrodynamical
+laws govern the time interval between detection fan penetrations for
+"normal' space objects, all other anomalistic "hits"' by the radar are
+usually neglected, and even if they are not neglected, they are usually
+classified as spurious images or misassociated targets, and are stored
+away on magnetic tape, and forgotten.
+One space surveillance site operates a detection radar (FPS-17)
+and a tracking radar (FPS-79). If a new space object is sensed by the
+detection radar's fans, then the tracking radar can be oriented to
+achieve lockon. The orientation is governed by a knowledge of the
+appropriate 'normal" object's astrodynamic laws of motion, or by an
+assumption as to launch point. Thus, if an unknown is detected, and
+if it follows an unusual path, it is unlikely that it could, or would, be
+tracked. Furthermore, the director of the radar may make a decision
+that the unknown obiect detected is not of interest (because of the
+location of the FPS-17 fan penetration or because of the lack of prior
+information on a possible new launch). In the absence of detection
+fan penetration (the fan has a rather limited coverage), the FPS-79
+tracking radar is tasked to follow other space objects on a schedule
+provided by the Space Defense Center, and again there is almost no
+ikelihood that an anomalistic obiect could. or would. be tracked
+The NASA radars, such as those at Millstone and Goldstone, are
+not intended to be surveillance radars, and only track known space
+objects on command. Again the chances of their tracking anomalistic
+objects are nearly nil. The new phased-array radar at Eglin AFB
+(FPS-85) has considerable capability for deploying detection fans
+and tracking space objects in a simultaneous fashion. Such versatility
+raises certain energy-management problems-that is, determining how
+much energy to allocate to detection and how much to tracking-but
+this sensor might have a capability (albeit, perhaps, limited) to detect
+and track anomalistic objects. The problem is that the logic included
+in the software associated with the FPS-85's control computers is not
+organized in a fashion to detect and track anomalistic objects (I will
+indicate in a moment how the logic could be modified). Furthermore,
+the FPS-85, like the other surveillance radars is usually tasked to
+track a list of catalogued space objects in the Space Defense Center's
+data base and the opportunity to 'look around" for anomalistic obiects
+s quite limited
+There are a number of other radar surveillance systems such as
+a detection fence across the United States. In the case of this fence.
+we have a situation similar to BMEWS, in which the time interval
+between succesive penetrations (in this case separated by an orbital
+period for satellites) must follow prescribed astrodynamical laus
+if they do not, then the fence penetrations are either deleted from
+131
+the data base or classified as "unknowns," or "uncorrelated targets,"
+There is only one surveillance system, known to me, that exhibits
+sufficient and continuous coverage to have even a slight opportunity
+of betraying the presence of anomalistic phenomena operating above
+the Earth's atmosphere. The system is partially classified and, hence,
+I cannot go into great detail at an unclassified meeting. I can, however,
+state that vesterday (July 28, 1968) I traveled to Colorado Springs
+(location of the Air Defense Command) and confirmed that since this
+particular sensor system has been in operation, there have been a
+number of anomalistic alarms. Alarms that, as of this date, have not
+been explained on the basis of natural phenomena interference, equip-
+ment malfunction or inadequacy, or manmade space objects.
+PART 3. HYPOTHETICAL SOURCES FOR ANOMALISTIC OBSERVATIONS AND
+JUSTIFICATION FOR THEIR STUDY
+In Baker and Makemson (1967), I discussed the usual candidates
+for the natural sources of anomalistic observations. For example, some
+-such as airport radars-pick up anomalistic returns
+termed "ancels.' A variety of explanations have been proposed, vari-
+ously involving ionized air inversion layers, etc. (see Tacker (1960))
+and even insects (see Glover, et al. (1966)). With respect to human
+observation of anomalistic luminous phenomena, some rather strong
+ositions have been taken by such authorities as Menzel (1953), who
+feels that the predominant natural phenomenon is atmospheric mi
+ages: bv Klass (1958a), who feels that the predominant natural phe
+omenon is related to ball lightning triggered by high-tension lin
+coronal discharge, jet aircraft, electrical storms, etc.; by Robey (1960),
+who feels that the observations are of "cometoids» entering the earth's
+atmosphere, etc. The list of hypothetical sources for anomalistic ob-
+servational phenomena is long indeed, but from the photographic data
+that I have personally analyzed, I am convinced that none of these ex-
+planations is valid.
+The analyses that I have carried out to date have dealt with observa-
+tional evidence that I term "hard data"- that is, permanent photo-
+graphic data. Althouch I will not discuss in detail the analvses of
+eyewitness reports (which I term "soft data"),' Powers (1967), Mc-
+Donald (1967), Hynek (1966), and others have concluded that over-
+whelming evidence exists that a truly anomalistic phenomenon is
+present.
+Of course, there are numerous others who have come to a completely
+opposite conclusion; in fact, it becomes almost a matter of personal
+preference: it is possible for one to identify all of the anomalistic
+ata as very unusual manifestations of natural phenomena. No mat
+er how unlikely it is. anthing is possible even a jet plane reflecting
+the sun in direct opposition to the laws of optics. I'm sometimes re-
+minded of the flat earth debates that I organized 10 years ago in my
+elementary astronomy courses at UCLA. Some students became so in-
+volved in justifving their positions-either flat or spherical-that they
+would grasp at even the most improbable argument in order to ration-
+alize their stand.
+1 Except in app. 3 to this report-a paper supplied by Dr. Sydney Walker III, concerning
+a hypothetical case.

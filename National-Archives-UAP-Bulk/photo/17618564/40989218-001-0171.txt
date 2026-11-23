@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T20:16:27Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6187196, "source_ctime_ns": 1793354701558842632, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989218-001-0171.jpg", "source_mtime_ns": 1785564326000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989218-001-0171.jpg", "source_sha256": "12688e01a3eb2240b8e4033ef3a6a58b074790be64c541f4a1664c476dec6a2e"}
+
+===== PAGE 1 =====
+{"alpha_words": 138, "chars": 883, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Walker Air Force Base
+New Mexico
+AUG 1 3 1957
+STIPULATION
+In the case of the Thited States v. Lieutenant Colonel George F.
+Adams, it is hereby stipulated by and between the trial and defense
+counsel, and with the consent of the accused, that the accused,
+Lieutenant Colonel George F. Adams, was at the time of the alleged
+commission of the offenses charged, a member of the United States Air
+Force, has been a member of the United States Air Force since those
+dates, and is now a member of the Thited States Air Force, assigned
+to the 6th Tactical Hospital, 6th Bombardment Wing, Heavy, located at
+Walker Air Force Base, New Mexico.
+Momil For
+MORRIS B. FOX
+Captain, USAF
+Trial Counsel
+DAVID E. ELLS
+Captain, USAF
+Defense Counsel
+I hereby acknowledge I understand the contents of and join in the
+above stipulation.
+Serge 7. Adama
+Lieutenant Colonel, USAF
+Accused
+PROSECUTION EXHIBIT/

@@ -1,0 +1,61 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T19:20:34Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6884110, "source_ctime_ns": 1793362975224723259, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330784024/45484701-004-002-0231.jpg", "source_mtime_ns": 1785685053000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330784024/45484701-004-002-0231.jpg", "source_sha256": "aaa9b6bb0aba1dad14f4e68ead6ae455850087a7f5387650f9c63ca366236f81"}
+
+===== PAGE 1 =====
+{"alpha_words": 298, "chars": 2025, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AIR FORCE
+HEADQUARTERS UNITED STATES AIR FORCE
+WASHINGTON
+IN REPLY
+REFER TO: 24-178
+SUBJECT:
+TO
+THE INSPECTOR GENERAL USAF
+2D DISTRICT OFFICE OF SPECIAL INVESTIGATIONS
+67 BROAD STREET
+NEW YORK 4, NEW, YORK
+UNDERNILL STUDIO
+17 Park Place
+New York 7, New Yor
+SPECIAL INQUIRY
+8 December 1950
+CLASSIFICATION CANCELLED
+BY AKURT R. KUNE, Cápt, USAF ROTOR OF
+BY
+Historian
+DATE
+4 DEC 1975
+: Director of Special Investigations
+Headquarters United States Air Force
+Washington 25, D. C.
+On 2 December 1950, this office received a letter from Underhill
+that the picture had been taken 20 May 1950 (later determined to be 20
+March 1950), but that the negative had just recently been printed.
+2. On 4 December 1950, Special Agent JONN H. SMITH, this office,
+interviewed Mr. JOHN A. FEULNER and Mr. IRVING UNDERHILL, owner of the
+Underhill Studio. In a joint interview, the foNowing information was
+obtained:
+The photograph, a night view of Manhattan, was taken on
+20 March 1950 (not on 20 May 1950 as stated in letter from
+FEULNER dated 1 December 1950) at some time between 1730 and
+1800 hours. Photograph was taken by UNDERHILL, looking south-
+west from a pedestrian walk near the Queens side of the Queens-
+boro Bridge.
+The Queensboro Bridge extends across the East
+River and Welfare Island, from East 59th Street in Manhattan
+Borough of New York City, to Queens Boulevard in Queens Borough
+of New York City. Photograph was taken with an 8xl0 view
+camera with medium lens, but UNDERHILL was not sure if he
+ised an Instantaneous Shutter or a Cap (Time) Exposure.
+Another photograph taken immediately prior to the one in
+question did not reveal any object such as shown on the print
+in question.
+The photograph titled "Night Lights from Queens-
+boro Bridge" was taken for use as a postcard view, requested
+by and delivered to Mr. PORZIG of the Herbert B. Covert Greet-
+ing Cards Company, 7 East 48th Street, New York,
+N. Y.
+FEULNER
+UNCLASSIFIED
+KURT K. KUNZE, Capt, USAF
+Historian
+Declassification Authority: NND 923007

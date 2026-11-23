@@ -1,0 +1,73 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T19:38:07Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8688127, "source_ctime_ns": 1793362399250882148, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330782837/45484701-002-006-0032.jpg", "source_mtime_ns": 1785684692000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330782837/45484701-002-006-0032.jpg", "source_sha256": "bb0cf0d1c49b33e82ed98a3b977008f4d7e5a5cfd5c8b90eb3a597c6b0bb8881"}
+
+===== PAGE 1 =====
+{"alpha_words": 160, "chars": 1188, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UNITED STATES AIR FORCE
+THE INSPECTOR GENERAL
+OFFICE OF SPECIAL INVESTIGATIONS
+REPORT OF INVESTIGATION
+TITLE
+(Aerial Fhenomena
+CHARACTER
+REFERENCE
+SYNOPSIS
+SPROIAL INQUIRY
+Aurtl
+19
+USA P
+28 t 1949
+FILE NO.
+DATE
+24-8
+REPORT MADE BY
+ME LYIN
+LE. NERE. S/A
+REPORT MADE AT
+DO 17, Kirtland AF
+PERIOD
+24 July - 19 August 1949
+OFFICE OF ORIGIN
+DO 717, Kirtland AFB
+STATUS
+PENDING
+19 August 1949
+Rpt of S/A MLVIN Es NEP, DO #17, Kirtland AFB,
+- 18 Ang 40
+Thie report consists of a Technical Report by Pre WILLIAM De CROZIER,
+Research and Development Division,
+Docorrog Rev
+Mexico! mud a similar Peport by ir. LINCOLy PAZ, University of New lexico.
+Reports deal with the collection of dust partioles from the sir, which may be
+- PENDING -
+CLASSIFICATION CANCELLED
+BY AUTHORITY OF
+BY
+• KURT K. KUNZE, Capt, USAF
+Historian
+8 DEC 1975
+DATE
+CTION COPY FORWARDED TO
+FILE STAMP
+DISTRIBUTION
+ANO, Wright-Patterson
+Dir of Intel
+Fle
+ẠAPPROVED
+K# {9172
+AFHQ FORM
+15 JAN 49
+0-208
+Replaces A FCSI Form 4, 23 Jul 48,
+les
+DOYLE RHES
+It Col
+, USA
+District Commander.
+24-1(5-
+- 213
+ITED STATE
+A
+TAUG 30 41 02 AM '49
+SEP 15 184%
+UNCLA Y9-974 ALL S. COVERNMENT PRINTING OFFICE
+Declassification Authority: NND 923007

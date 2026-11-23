@@ -1,0 +1,60 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T19:37:27Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8258636, "source_ctime_ns": 1793359759618426851, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-010-043-0001.tif", "source_mtime_ns": 1785681513000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-010-043-0001.tif", "source_sha256": "126734a79a21d3a8cc4de0927073719f881bbf6e1f568c79a63f8c3145f8f1f3"}
+
+===== PAGE 1 =====
+{"alpha_words": 117, "chars": 826, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+11000/7
+one
+EN0022
+NAØ 940
+KFAO 47
+RR RJEDEN. RJEDWP RJEPAG
+DE RJEDKF: 1 GM
+R 1104352
+FM COMDR 789TH AC&W SQDN OMAHA AFS OMAHA NEBR
+TO RJEDKF/COMDR 20TH ADIV GAFB GRANDVIEW MO
+RJEDEN/COMDR ADC ENT AFB COLO
+RJEDWP/COMDR ATIC WP AFB OHIO
+RJEPAG/DIR OF INTELL HQ USAF WASH DC
+RJEDKF/COMDR CADF GRANDVIEW MO
+Зт
+/ UN CLASS IF I E D/OPNS 429 THE FOL IS A UFOB REPT
+A. LONG FIRERY SHAPE
+B.
+C. SILVER
+D-
+N/ A
+F.
+NONE
+G 5-6FEET:
+LONG, 1 INCH IN DIAMITER
+H. NONE
+NONE
+4602D AISS UFOB REPT. 2.56
+DATE-TIME GROUP 18 0310 Z AUg 56
+CRESTON, IOWA
+METEOR.
+PROB
+PAGE TWO RJEDKF 1 GM
+2 -
+А.
+BRIGHT FLASHING LIGHT
+8. 90 DEGREES
+C. NONE
+D. FLYING NORTH TO SOUTH
+BURST OF LIGHTS AND OUT
+F. 1 MINUTE
+3.
+А •
+GROUND VISUAL
+NONE
+3
+4 .
+33102/11-8-56
+3.
+NIGHT
+5-
+LM3603
+MRS.
+B- N/A
+57 RRICRESTON, IOWA. (HOUSEWIFE)

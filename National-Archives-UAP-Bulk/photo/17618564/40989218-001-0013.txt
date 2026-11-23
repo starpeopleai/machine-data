@@ -1,0 +1,23 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T19:37:57Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8451703, "source_ctime_ns": 1793354627327577290, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989218-001-0013.jpg", "source_mtime_ns": 1785564316000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989218-001-0013.jpg", "source_sha256": "d36181ec5df5d29ed221197a60e69cf78ee65a6985312863daef02b5f60303e5"}
+
+===== PAGE 1 =====
+{"alpha_words": 147, "chars": 1030, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROCEEDINGS OF A ....GENERAL.
+COURT-MARTIAL
+which met (at) fon board) Walker Air Force Base.,..New Mexico..
+13 August
+19..5.7..., pursuant to the following orders: 1
+.., at .0800... hours,
+Pres: Court will come to order.
+Asst IC: The court is convened by paragraph 1, Special Orders 134, Head-
+quarters Fifteenth Air Force (SAC), March Air Force Base, California, dated
+19 June 1957, amended by paragraph 10, Special Orders 170, same headquarters,
+dated 30 July 1957, and further amended by paragraph 10,
+Special Orders Number
+171, same headquarters, dated 3l July 1957, a copy of which has been furnished
+to the law officer, each member of the court, counsel, the accused and to the
+reporter for insertion at this point in the record.
+1 Here insert a literal copy of the orders appointing the court and copies of any amending orders.
+any declaration ed for enlisted court members will be inserted immediately following the appointing orders, tog reher with
+any declaration of the nonavailability of such enlisted persons.
+Page I

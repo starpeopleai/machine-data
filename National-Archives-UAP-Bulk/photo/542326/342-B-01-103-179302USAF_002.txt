@@ -1,0 +1,12 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T19:30:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 85918252, "source_ctime_ns": 1793368163822418747, "source_file": "National-Archives-UAP-Bulk/photo/542326/342-B-01-103-179302USAF_002.TIF", "source_mtime_ns": 1785565930000000000, "source_rel": "National-Archives-UAP-Bulk/photo/542326/342-B-01-103-179302USAF_002.TIF", "source_sha256": "c38fd1a6c87072f450e53b81a32b253834786a11720277a67c3a43600f14592c"}
+
+===== PAGE 1 =====
+{"alpha_words": 33, "chars": 255, "method": "ocr", "page": 1, "variant": "clean-vision"}
+179302 USAF - SCIENTIFIC STUDY OF UFOs - Black
+mushroom cloud produced by "aton
+bomb simulation demonstrationiạ at it
+Belvoir. (Plate #39. Photo courtesy oi
+the witness)
+Copied from 8x10 print rec'd 1/13/69
+from SAFOI.
+Filed - UNDDENTIFIED FLYING OBJECTS

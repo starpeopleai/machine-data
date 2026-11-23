@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T19:25:01Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9212419, "source_ctime_ns": 1793363194541725287, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330784816/45484701-005-001-0001.jpg", "source_mtime_ns": 1785684635000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330784816/45484701-005-001-0001.jpg", "source_sha256": "39ac73b78bc0e6baccac6d13a3de2abbbf55f530410a5697b725312545fe1f8a"}
+
+===== PAGE 1 =====
+{"alpha_words": 77, "chars": 636, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AFISIIC/Capt Pulido/md/68060/21 Feb 67
+2 3 FEB 1967
+AFISIIC 24-185-6
+Declassification of UFO Reports
+Foreign Technology Division (AFSC)
+Wright-Patterson AFB, Ohio 45433
+1. Reference your letters to 6th District OSI and 7th District OSI,
+same subject, dated 30 January 1967.
+2.
+Request referenced reports be declassified and marked F
+FOR THE CHIEF OF STAFF
+JOHN J. STAHL, JR.
+21/2/67
+Chief, Special Activities Branch
+Directorate of Special Investigations (IG)
+AFISIIC
+Cape Priao Enlite
+Read Cy - Capt Pulido
+/Coord Cy - INV 24-185-6
+24-185-6-53
+OSAF I
+OFFICE OF
+SPECIAL INVESTIGATIONS
+UNCLASSIFIED
+Declassification Authority: NND 923007

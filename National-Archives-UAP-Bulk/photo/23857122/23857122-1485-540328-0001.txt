@@ -1,0 +1,81 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T19:57:59Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 28505824, "source_ctime_ns": 1793357602534732521, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1485-540328-0001.tif", "source_mtime_ns": 1785564935000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1485-540328-0001.tif", "source_sha256": "badf972e503d31554dfd1a4888b3fd81a09aaf608644c7f647dc65420d2b7b31"}
+
+===== PAGE 1 =====
+{"alpha_words": 353, "chars": 2424, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AF FORM
+APPROVED 1 JUNE 1948
+COUNTRY
+Alaska
+SECRET
+(CLASSIFICATION) =
+SECRET
+FOURITY INFORMALION
+REPORT NO.
+10AD-2-53
+LEAVE OLD 570 328
+AIR INTELLIGENCE INFORMATION REPORT
+SUBJECT
+FLYOBRPT
+AREA REPORTED ON
+Alaska
+DATE OF REPORT
+20 Feb 53
+DATE OF INFORMATION
+7 Feb 53
+FROM (Agency)
+CG 10th Air Div (Def) APO 942
+EVALUATION
+-B-1
+PREPARED BY (Officer)
+SOURCE
+Capt Robert F. Shrigley, Ass't D/I
+William F. Farley, lst Lt, USAF
+REFERENCES (Control number, directive, previous report, etc., as applicable)
+TWX, DIG 07/2140Z FEB 53
+SUMMARY: (Enter concise summary of report. Give significance in final one-sentence paragraph. List inclosures at lower left. Begin text of report on AF Form 112-Part II.)
+This report involves the visual sighting and observ
+tion of an unusual light
+in the sky west of King Salmon, Alaska at approximately 0800Z 7 Feb 53 by four
+individuals; one USAF officer and three CAA operations and/or communications
+perquarters are included in part II of this report.
+Copy of statements of all concerned and letter transmitting same to this
+On 18 Feb 53 source informed preparing officer verbally that he had been in-
+formed by one of the observers, James N. Burris, that he, Burris, has made additional
+observations, subsequent to his original sighting and statement, which definitely
+established this object to be a planet.
+He observed the planet during its normal
+apparent path thru the sky until it approached the horizon where it assumed the
+characteristics described in his previous statement, including changing colors and
+distortion of size and shape.
+DECLASSIFIED
+USAF
+MEMO
+APPROVED:
+Vohn S. Masterson
+JOHNS. MASTERSON
+Major, USAF
+Director of Intelligence
+INCLS.
+116223
+DIST ENTA BY ORGIATOR
+500lst Composite Wing
+AAC
+39th Air Depot Wing
+USARAL
+NE AC
+5004th AISS
+FE AF
+5010th Composite Wing
+ADC
+COMALSE AFRON
+10th Air Rescue Gp
+NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S.C.-
+31 AND 32, AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW.
+IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF
+INTELLIGENCE, USAF.
+SECRET
+(CLASSIFICATION)
+SECURITY INFORMATION / /6 2 = 3
+16-55569-1ł
+U. S. GOVERNMENT PRINTING OFFICE
+Declassification Authority: NND 57565

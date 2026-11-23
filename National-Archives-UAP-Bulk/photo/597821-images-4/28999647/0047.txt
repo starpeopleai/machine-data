@@ -1,0 +1,61 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T20:15:23Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5855317, "source_ctime_ns": 1793388006932865709, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28999647/0047.jpg", "source_mtime_ns": 1785747853000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28999647/0047.jpg", "source_sha256": "00cb9dba3c53d7f5f9eedb525d777d91d2f7fe69aedc783f2e72bc99ab5db23a"}
+
+===== PAGE 1 =====
+{"alpha_words": 320, "chars": 2091, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Date
+Time
+(G.M. T.)
+MARINE DATA
+FOR THE U.S. NAVY HYDROGRAPHIC OFFICE
+REPORTS OF WRECKS, DERELICTS, ICE, AND OTHER OBSTRUCTIONS TO NAVIGATION
+Latitude
+Longitude
+Description
+•Forvarded as a matter pertaining
+aiming
+to your organization. Your ettention
+to this
+matter will be appreciated:
+Mibe appraginted
+Ed Macon
+Ed Mason
+Public Information Officer
+Pubito Information Officer
+Goddard Space
+Light: Center.
+Toddard Space Frees Contor
+Goddana
+ave flight
+Information reluting
+rocks, shoals, soundings, lights, buoys, or any subject offecting charts or
+Sailing Directions,
+items of general
+est to mariners (give date and G.M.I. of observation):
+AT 2315 CHT 27th. OCTOBER 1962 EN ROUTE TO NEW YORK FROM PUBRTO CORTES, IN STELLAR OBSEWED
+POSITION LAT 28.27% 'N LONG. 79 3431W.AT A DISTANCE OF 507 MILES DUE EAST OF CAPE CANAVERAL
+WE OBSERVED BLAST OFF OF ROCKET SATELITE AT FIRST THERE WAS VERY BRIGHT BALL, OF ORANGE
+LIGHT ON THE RED HORIZON.LOW CLOUD PEEMITTED US TO SEE ONLY THE FIRST TWO DEGREES OF FLIGHT
+BUT A FEW MOMENTS LATER THE ROCKET WAS OBSERVED AGAIN THROUGH A BREAK IN THE CLOUD AND IT
+WAS THEN AT AN ALTITUDE OF ABOUT LO DEGREES AND APPARENTLY ON A DUE EAST COURSE.IT WAS AT
+THIS POINT THAT WE ALL OBSENED THAT THE TAIL OF LIOHT COMING FROM THE ROCKET ASSUMED THREE
+DIFFERENT COLOURS# RED WETTE AND BLUE - RED BEING THE LEADING COLOUR ANOTHER MOMENT LATER
+IT WAS OBSCURED AGAIN BUT WAS FINALLY SEEN AS A FAINT WHITE STREAK OF LIGHT IN THE EAST.
+OBVIOUSLY A VERY LUCKY CHANCE ENABLED IS TO BE IN THE VICINITY TO WITNESS THIS WONDERFUL
+SIGHT.
+BAROMETER 30.30M AIR TEMP. 75 F. SEA 85 F. WIND NNE 4-5.
+Please print the following information in full:
+Voyage: No. 11, HOMEWARD BOUND FPOM PUERTO CORTES, HONDURAS TO NEW YORK.
+Vessel (name, fag, kind): M.V.BOXHILL" BRITISH, GENDRAL CARGO PREIGHTER.
+Master:
+CAPT•
+Vessel's or Agent's address
+UNITED FRUIT COMPANY.PIER 3.
+for letter or H. O. publica
+Observer:
+CHIEF OFFICER AND
+ALL OFFICERS INCLUDING MASTER
+tions. (Addresses in the U.S
+and Canada are preferred.)
+NORTH RIVER, NEW YORK 6, NoT.
+READ REVERSE SIDE
+PRNC-NHO-123 (Rev. 1-57) BACK

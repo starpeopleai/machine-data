@@ -1,0 +1,57 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T19:24:15Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8645549, "source_ctime_ns": 1793380196302889627, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28974878/1288.jpg", "source_mtime_ns": 1785700757000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28974878/1288.jpg", "source_sha256": "b8722ea25fcccee3e67262b42e7fc3462bca8f2286eb17e8125fe443ffaad0fb"}
+
+===== PAGE 1 =====
+{"alpha_words": 126, "chars": 971, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+15 Nov 57
+3. DATE-TIME GROUP
+Local
+1830
+GMT.
+16/23302
+5. PHOTOS
+• Yes
+A No
+7. LENGTH OF OBSERVATION
+minutes
+10. BRIEF SUMMARY OF SIGHTING
+Saw round, goldish white object at
+approximately 255 dgr and 50 dgr elev.
+Did not move. Used 7 x 50 binoculars.
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Wright-Patterson AFB, Ohio
+4. TYPE OF OBSERVATION
+inoculare
+A Ground- Visua
+O Ground-Radar
+• Air- Visuol
+8. SOURCE
+[) Air-Intercept Radar
+military
+8. NUMBER OF OBJECTS | 9. COURSE
+one
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+•
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+Venu:
+Possibly Astronomical
+Other.
+Insufficient Data for Evaluation
+Unknown
+11. COMMENTS
+Local traffic, radar and WX unita checked
+Nothing unusual reported. Astro pilots
+for that time and place indicate Venus
+at 262 dgr az. Also heavy, cold layer
+of air existed at time.
+Venus reported
+in gosition of object.
+ATIC FORM 329 (REV 25 SEP 52)

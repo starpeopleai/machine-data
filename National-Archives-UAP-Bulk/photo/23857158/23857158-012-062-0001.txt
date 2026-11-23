@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T19:36:08Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7334660, "source_ctime_ns": 1793360125967829551, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-012-062-0001.tif", "source_mtime_ns": 1785681636000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-012-062-0001.tif", "source_sha256": "6c2050fe6642808f26e4cafa5198ff9b5377aa54b4521d1279237b0260d92232"}
+
+===== PAGE 1 =====
+{"alpha_words": 106, "chars": 728, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+EN00 000000MYDD
+ENO 003 ENA 062PYO YDD069 TYB044TDB083
+NBA869
+NDG0 16
+MR. RUEDEN RJEDWP RJEPHQ RJEPNB
+DE RJEPNB 8G
+R 190155Z ZEX
+COMDR 648TH ACWRON BENTON AFS BENTON PA
+TO RJEDEN/COMDR ADC ENT AFB COLO
+RJEDWP/COMDR AIR TECH INTEL CEN WPAFB OHIO
+RJEPHQ/DIR OF INTEL HQ USAF WASHDC
+RJEPNB/COMDR DET 3 4602ND AISS STEWART AFB NY
+RJEPNB/COMDR FLT 3 46Ø2ND AISS STEWART AFB NY
+INFO RJEPNB/COMDR EADF STEWART AFB NY
+/UNCLASSIFIED/ SUBJECT UFOB REPOR
+(1) DESCRIPTION:
+(A) ROUND
+(8) DIME
+(C) YELLOW AND GREEN
+(D) ONE
+(E) NA
+(F) SPARKS, ROUND LOOKED LIKE METEOR-PARELLELL TO EARTH
+(G) TAIL
+CHO NONE
+1906267
+OPS
+46020 NSS UFOB REPT. 500
+DATE-TIME GROUP 19/0030 Z DEC
+NEWBURgH, N.J.
+WAS METEOR
+CONCUR

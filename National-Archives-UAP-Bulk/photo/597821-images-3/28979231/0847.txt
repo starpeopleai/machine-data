@@ -1,0 +1,45 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T19:35:42Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7135082, "source_ctime_ns": 1793381090266033017, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28979231/0847.jpg", "source_mtime_ns": 1785700767000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28979231/0847.jpg", "source_sha256": "d6b86f1c67960b0ce0c26c1189f4d6774d74c6aa4a241c2f8a0a9586213e0a2e"}
+
+===== PAGE 1 =====
+{"alpha_words": 73, "chars": 665, "method": "ocr", "page": 1, "variant": "plain-vision"}
+D. TIME & DATE OF SIGPTINGS:
+(1). 02002
+0200-5=2100
+(2). NIGHT
+Ef lOCATiON oF Observer?
+F• IDENTIFYING INFO OF ALL OBSERVERS:
+(2).
+WHUPPANY, NoJ•
+G• WEATHER:
+PAGE THREE RJEPNH 43
+(1). CLEAR
+(2). SURFACE
+6,B08•
+10,800
+16,800
+SW
+ø 50
+030
+28ø
+DEG
+DEG
+DEG
+DE G
+10 KT. 20,00G' 350 DEG 25 KT
+5 KT. 30,000° 260 DE 55 KT
+10 KT. 50,002' 270 DEG 40 KT
+15 KT. 80,000° U DEG U KT
+(3). 400 SCATTERED
+(4) • 5HK
+chicked 15 SerT, 8-No rejiy.
+(5). 408
+1. Elevations gimuth or livectiona not y
+(6). NONE
+3. Treation y dervers no
+aren
+H. NONE
+I. NONE
+J. NONL
+K. INTELLIGENCE OFFICER: POSSIBLE FALLING STAR, FIREWORKS DISPLAY,
+EXPERIMENTAL TESTING AT NEARBY U.S• ARMY ARSENAL•
+L• NONE

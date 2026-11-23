@@ -1,0 +1,51 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T19:19:53Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6807335, "source_ctime_ns": 1793376962625420607, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28962362/0537.jpg", "source_mtime_ns": 1785696691000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28962362/0537.jpg", "source_sha256": "82342c6f99786ecaef67d3da90d4767509f9b22b97ff3dd54f17c31e9b7db097"}
+
+===== PAGE 1 =====
+{"alpha_words": 91, "chars": 737, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+9 Jun 55
+3. DATE-TIME GROUP
+Local -
+GM T_
+10/0050Z (DAY)
+5. PHOTOS
+• Yes
+SENO
+7. LENGTH OF OBSERVATION
+(still in sight)
+10. BRIEF SUMMARY OF SIGHTING
+Round. 6-9' in diameter. At est alt of
+10,000'. Then 20,000'. Obj was just
+drifting.
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Gillespie Fld,
+San Diego Calif
+4. TYPE OF OBSERVATION
+& Ground-Visual
+• Air- Visual
+• Ground-Radar
+• Air-Intercept Radar
+6. SOURCE
+civilian
+8. NUMBER OF OBJECTS
+one (1)
+12. CONCLUSIONS
+•
+Was Balloon
+Probably Balloon
+AX Possibly Balloon
+Was Aircraft
+a
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomicai
+Possibly Astronomical
+Insufficient Data for Evaluation
+Unk no wn
+9. COURSE
+SW
+11. COMMENTS
+Balloon.
+ATIC FORM 329 (REV 26 SEP 52)

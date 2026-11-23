@@ -1,0 +1,71 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T19:24:46Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8837123, "source_ctime_ns": 1793364706159226032, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787490/45484701-007-003-0171.jpg", "source_mtime_ns": 1785684895000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787490/45484701-007-003-0171.jpg", "source_sha256": "f4dfd534843f4709cebb7c97108dc40dc239f5ebffb4f950606be998dc6c3a07"}
+
+===== PAGE 1 =====
+{"alpha_words": 291, "chars": 2062, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AT 1Q-33 - (20 •ay 44)
+HEADQUAR
+CONFIDENTIAI
+UNITED STATES AIR FORCE
+ROUTING AND RECORD SHEET
+TALLY
+NO.
+FILE
+NO.
+333
+SUBJECT: (Unclassified) RADAR PHENOMENA, White Sands, New Mexico, (SPECIAL INQUIRY)
+TO:
+Directorate of Intelligence, DCS/O
+Counter Intelligence Division, Office of Special
+Investigations, The Inspector General
+FROIMX
+IN TURN
+FROM:
+Director of Communications
+DATE 28 AUG 15F2
+COMMENT NO. 2
+It Gordon/bl/73206
+AFO AE/T
+5c 162
+1. Information presented in the attached letter, although incomplete, indicates
+that the radar phenomena reported by Captain Goodbody probably was the response of a
+ground racon (beacon) equipment of the AN/CPN-6 type.
+2. Since there are no beacons known to be operating at the location indicated,
+it is requested that additional information be secured, if possible, in order to per-
+mit a more definite evaluation of this phenomena to be made. Answers to the following
+questions are requested.
+a. What type of radar equipment was Captain Goodbody operating when this
+incident occurred?
+b. What other radar equipment was installed in the aircraft?
+What equipment included under 2b. above was in operation during the times
+C.
+in question?
+d. How many equally spaced arcs were observed? (The AN/CPN-6 could cause
+2 thru 6 to appear).
+e. Was the radar equipment operated by Captain Goodbody switched to beacon
+position when this phenomena was observed?
+f. Was search PPI presentation unusually weak?
+3. Further evaluation will be withheld pending receipt of additional information
+requested. It is noted that the length of time which has elapsed since this phenomena
+was observed in October 1949 may materially reduce the value of this investigation
+since any illegally operated electronic equipment could have been removed in the
+interim.
+Pd. Morelan
+1 Incl V
+n/c
+STIL
+HUGH
+MORELAND
+It Colonel, USAF
+Deputy Chief, Electronics Systems Divisior
+CLASSIFICATION CANCELLED W0.8
+BY AUTHORITY OF TH
+BY
+KURT K. KUNZE, Capt, USAF
+SO INV
+Historian
+5 DEC 1975
+PAGE 1
+CONFIDENTIA
+DATE
+16-54288-1
+Declassification Authority: NND 923007

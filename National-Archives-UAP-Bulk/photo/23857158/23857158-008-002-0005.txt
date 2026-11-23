@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T19:42:01Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 14033834, "source_ctime_ns": 1793359425625764230, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-008-002-0005.tif", "source_mtime_ns": 1785681410000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-008-002-0005.tif", "source_sha256": "249e1f36a61f6a8e8d7b1efd8e1617707517505ed41edf15ffad3317016f98f2"}
+
+===== PAGE 1 =====
+{"alpha_words": 74, "chars": 509, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+JUN 14 10 40 56
+1414752
+70M
+ХАНИХХ
+EN0022
+ENC125 VYB167
+YQAØ75
+RR RJEDEN
+DE RJESY 48
+R 132101Z
+FM COMDR 3800 AB WG MAXWELL AFB ALA
+TO COMDR 46Ø2D AISS ENT AFB COLO
+ВТ
+10-8 REF URMSG AISOP 0541. INVES REVEALS THAT A 100 GRAM WHITE
+REGULAR PLI BLN WAS RELEASED AT Ø834 CST 5 JUN 1956 FROM THE BHAM
+APRT EST ALT OF BLN WOULD BE AT 3140 FT AT 0837.
+ВТ
+13/2125Z JUN RJESYQ
+MEO 17 Jun 56.
+JHOW DID U REC THAT
+3}
+DE AISS 5/5 ROGER FOR YOUR NUMBER 002
+WE HAVE 009
+OF THEM FOR OU

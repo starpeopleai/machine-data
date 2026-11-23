@@ -1,0 +1,20 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T20:19:15Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7451832, "source_ctime_ns": 1793385075864517282, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28991765/1371.jpg", "source_mtime_ns": 1785748086000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28991765/1371.jpg", "source_sha256": "268d327e9f7c80c56a33ee2007810295003b9b520dbc5d1daf807d9b37fe04ac"}
+
+===== PAGE 1 =====
+{"alpha_words": 61, "chars": 566, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE DIVISION
+UNCLASSIHED MESSAGE
+INCOMING
+AF IN : 40725 (8 Mar 61)
+Page 3 of 3
+PAGE THREE RJWZKP 9
+MCCLELLAN AFB, CALIF D. 1. 081254Z 2. NIGHT E. DJAP 5530
+F. 1. N/A 2. AIR CRAFT COMMANDER (WOULD NOT PASS OVER AIR
+NAME G. 1. SCTRD CUMULUS CLOUDS, BASES 3-4,000FT, TOPS 10-
+12, 000 FT 2. (SURFACE) 270/20, (13,000° ) 240/50, (20, 000°) 210/75, 3.
+3-4,000' 4. UNRESTRICTED ABOVE CLOUDS 5. SCTRD 6. N/A 7. UN-
+STABLE H. N/A I. N/A J. NO TRAFFIC IN AREA AT TIME K. PETER
+FREDERICK, MAJOR, SD "B" CREW L. N/A
+BT
+08/ 1900Z MAR RJWZKP

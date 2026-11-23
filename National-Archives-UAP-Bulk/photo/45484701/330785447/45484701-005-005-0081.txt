@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T20:18:53Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7310143, "source_ctime_ns": 1793363520402325286, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785447/45484701-005-005-0081.jpg", "source_mtime_ns": 1785684623000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785447/45484701-005-005-0081.jpg", "source_sha256": "e221261c057337f00fa4e199784950d13dfc0e3754262d6722567a2191b9f943"}
+
+===== PAGE 1 =====
+{"alpha_words": 207, "chars": 1425, "method": "ocr", "page": 1, "variant": "plain-vision"}
+INCIDENTS OF 17 FEBRUARY AND 27 MARCH:
+In each of these incidents the following description applies:
+a. Color - Red, orange, pink or amber
+b. Shape - Elongated, about five to ten times as long as wide
+c. Consistency - Apparently solid, but flexible. Did not appear to
+be vapor or smoke trail.
+d. Luminosity - Appeared to be self-luminous, and the varying attitude
+of flight and change of position caused no change to
+either degree or color of emitted light.
+e. Flight - Both objects performed various maneuvers, consisting of
+climbing and diving, with turning movements.
+f. Speed - Not accurately estimated, due to variation in time factors.
+g. Termination - Both objects appeared to disappear in the distance.
+h, Location - The 17 February incident was observed from the area of
+Albuquerque, New Mexico.
+The 27 March observations were
+made from the Tucuncari-Clovis area.
+i. Course - The 17 February object appeared to move from west to east;
+that of 27 March, from east to west.
+j. Sound - No sound was reported in conjunction with either incident.
+k. Remarks - In each case, reports indicated that the objects flowed
+around corners in vertical maneuvers, rather than swinging
+around as would a rigid object. In neither case did
+investigation produce any evidence of a jet-propelled air-
+craft in the area.
+Observers in each case were found
+whose credibility is above average.
+NOTE 6
+Declassification Authority: NND 923007

@@ -1,0 +1,42 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T19:35:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6726451, "source_ctime_ns": 1793361651483438492, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330781006/45484701-001-001-0119.jpg", "source_mtime_ns": 1785684844000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330781006/45484701-001-001-0119.jpg", "source_sha256": "3692e937aa56ce440040ec3061b683979d853e23b6c7a96594b5eb5f0bd9eb1f"}
+
+===== PAGE 1 =====
+{"alpha_words": 128, "chars": 994, "method": "ocr", "page": 1, "variant": "plain-vision"}
+GUIDE TO INVESTIGALION
+UNIDENTIFIED AERIAL OBJECTS
+Incident No,
+1. Date of (bservation
+Date of Interview
+2. Exact time of observation (local)
+2020 (57 890)
+3. Place of Observation:
+(Map Coordinates)
+917500 - 855200
+4. Position of observer (air, car, blde, location of - give details):
+5. What attracted attention to object:
+•$121ar
+6.
+Number of objects and sketch of formation or grouping:
+7. Apparent size (compare to known object, i.e., sun, moon, thumb or
+fist at arms length):
+3. (Color of object:
+9. Shape (give graphic description - compare with known object):
+10.
+Altitude (Angle of elevation above horizon - 0° at horizon, 90°
+overhead) :
+1000
+11.
+Direction from observer (Angle clockwise from north):
+12.
+13
+14.
+15.
+Distance from observer (Distance to town, blds, etc., over which objec"
+appeared to be):
+5000
+Direction of flight of object (s):
+Time in sight:
+Speed (time to cover given angular distance):
+overed 20 mile hors
+16. Sound and odor:
+Declassification Authority: NND 923007

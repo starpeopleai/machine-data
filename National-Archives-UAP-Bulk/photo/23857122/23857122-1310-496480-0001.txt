@@ -1,0 +1,69 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T19:48:17Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 29819472, "source_ctime_ns": 1793357208154409671, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1310-496480-0001.tif", "source_mtime_ns": 1785564853000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1310-496480-0001.tif", "source_sha256": "2493d69585f83c2368a9888c6a139cb74db9122c7fa22883a87aafb7379da529"}
+
+===== PAGE 1 =====
+{"alpha_words": 246, "chars": 1949, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AF FORM 112-PART I
+APPROVED 1 JUNE 1948
+COUNTRY
+Restricted
+(CLASSIFICATION)
+USA
+REPORT NO.
+F3G-T-4
+27 496480
+AIR INTELLIGENCE INFORMATION REPORT
+SUBJECT
+SIGHTING OF UNIDENTIFIED LIGHT
+AREA REPORTED ON
+WESTFIELD, MAINE (N46® 34' W67 55')
+DATE OF REPORT
+DATE OF INFORMATION
+27 February 1953
+25 February 1953
+FRICATE 3-G, 46022 AISS, PRESQUE ISLE AFB
+EVALUATION
+PRESQUE ISIE, ME.
+F-O
+PREPARED BY (Officer)
+SOURCE
+JOHN F. FARNHAM 1/LT., USAF
+MR & MRS CLARENCE CAMBRIDGE
+REFERENCES (Control number, directive, previous report, etc., as applicable)
+A.F. LTR 200-5, TWX F3G 4602d AISS # 774, 25 February 1953
+SUMMARY: (Enter concise summary of report. Give significance in final one-sentence paragraph. List inclosures at lower left. Begin text of report on AF Form 118-Part II.)
+I.
+CONTENTS :
+Report # F3G-T-44 Sighting of Unidentified Light
+II•
+PREAMBLE:
+Inis report contains information pertaining to sightings of
+unidentified light in the vicinity of WESTFIELD, MAINE, (N46° 341 W67°
+55"),
+by two (2) civilian residents of PRESQUE ISLE, MAINE.
+III.
+TECHNICAL INVESTIGATORS:
+M/Sgt. Willis B. Minor
+T/Sgt. Frank K. Wasowski
+опп -. Гачират
+JOHN F. FARNHAI
+USAF
+1/1I • PLIGHT 3-6
+0i0,
+DECLASSIFIED
+E.O. 12065, Sec. 3-402
+USAF memo 2/31/78
+By WGLeWiS MARS, Dato 2/21/80
+INCLS.
+USAT
+1 cy-CHIEF ATIC, attn ATIAA-2c
+1 cy-SCO, 4602d AISS, Ent AFB, Colo.
+1 cy-D/I 32d Air Div. Syracuse, NY
+1 cy-CO, PIAFB, Maine
+NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S.C.-
+31 AND 32, AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW.
+IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF
+INTELLIGENCE, USAF.
+Resbricted
+(CLASSIFICATION)
+* U.S. GOVERNMENT PRINTING OFFICE: 1950-O-918331
+Declassification Authority: NND 57565

@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T19:21:41Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7625873, "source_ctime_ns": 1793383963248720404, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28988408/0519.jpg", "source_mtime_ns": 1785748543000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28988408/0519.jpg", "source_sha256": "c0b97d5f9862f55e3cb60286e95c90cb4b5764e3505e854c6d50dab11c069bcd"}
+
+===== PAGE 1 =====
+{"alpha_words": 93, "chars": 673, "method": "ocr", "page": 1, "variant": "plain-vision"}
+rournerd//2291
+10 October 1960
+Dear Mr.
+Your letter of 24 August addressed to the Harvard Observatory
+concerning the sighting of an unidentified flying object by you has
+been referred to me for reply.
+Your letter contained insufficient information for a valid
+conclusion. Therefore, we sak that you fill out the attached Air
+Force questionnaire and forward the completed document to the
+Commander, Aerospace Technical Intelligence Center, Wright-Patterson
+Air Force Base, Ohio for their analysis and evaluation.
+Sincerely,
+Inclosure
+LAWRENCE J. TACKER
+Lt. Colonel, USAF
+Public Information Division
+Office of Information
+Mr •
+san Antonio 1, Texas
+Comeback 0I-3a
+Reader OI-1

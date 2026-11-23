@@ -1,0 +1,37 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T19:24:23Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8714738, "source_ctime_ns": 1793380170683098949, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28974795/1223.jpg", "source_mtime_ns": 1785700833000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28974795/1223.jpg", "source_sha256": "aef3b3db6dfc9fe768734685fbce493b3f3dde893d8a82acc3f4e7ca528786bb"}
+
+===== PAGE 1 =====
+{"alpha_words": 211, "chars": 1225, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Page 4
+20. Draw a picture that will show the motion that the object or objects made. Place on "A" at the beginning
+of the path, a "B" at the end of the path, and show any changes in direction during the course.
+2l. IF POSSIBLE, try to guess or estimate what the real size of the object was in its longest dimension.
+_foot.
+22. How lorge did the object or objacts oppear as compared with one of the following objects. held in the hand
+and at about arm's length?
+(Circle One):
+a. Head of a pin
+b. Pea
+Dime
+d.
+Nickat
+Quarter!
+g•
+Silver dollar
+h. Baseball
+• Grapefruit
+Basketball
+Other
+k.
+f. Half dollar
+22.1 (Circle One of the following to indicate how certain you are of your answer to Question 22.
+Co. Cortain
+c. Not vary sura
+b. Fairly certain
+d. Uncertain
+23. How did the oblect or objects disappoor from view?
+24. In order that you con give as clear a pieture os posalble of what you saw, wo would like for you to imagine that you could
+construct the object that you sow. Of what type materlal would you make It? How large would it be, and what shape
+would It hove? Dascribe in your own words a čommon object or objects which when placad up In the sky would give the
+same oppearance as the object which you saw.
+Same kinei

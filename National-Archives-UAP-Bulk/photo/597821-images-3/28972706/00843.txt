@@ -1,0 +1,55 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T19:39:41Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9465749, "source_ctime_ns": 1793379572470078712, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28972706/00843.jpg", "source_mtime_ns": 1785700681000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28972706/00843.jpg", "source_sha256": "c0c6a6a2b7d26a526ade2bd4c2452e0a3d8efc9432bbe3abab40453d4aadd3b0"}
+
+===== PAGE 1 =====
+{"alpha_words": 101, "chars": 785, "method": "ocr", "page": 1, "variant": "plain-vision"}
+FO RJEPN3/COMDR CADF
+STEWART
+AFB ATTN CIC
+UNCLASSIFIED/ SUBJ: UFOB
+(1) DESCRIPTION:
+(A) NOT DISCERNABLE
+(B) NOT
+DISCERNABLE
+Shape?
+• Size!
+(C) BLUE WHITE - PINK - WHITE
+(DO ONE
+(FO SIMILAR TO VENUS
+(G) SLIGHT HALO AT TIMES
+(R) MONE
+(I) NONE
+AMAZINg - observer waTched
+ObjecT For 30 MINuTes ANd
+couldNT Tell. the ShaPe or
+eSTiMATe The
+Size.
+PAGE TWO RJEPNY 26
+MAP DESCRIPTION OF COURSE
+(3)
+(4)
+(5 )
+(S)
+(A) UNK
+› DEGREES ABOVE HORIZEN -Where ?
+(C >
+DEGREES ABOVE HORIZON
+(D)
+IRRGULARLY IN
+DIRECTION
+(E) APPEARED AND REAPPEARED
+(F Y
+32 MINITES
+MANNER OF OBSERVATION:
+(A) GROUND VISUAL
+(E) NONE
+(C) NA
+TIME & DATE OF SIGHTING
+(A) 23002
+3 NOV 57 7300-5= 1800
+CLEAR AT DUSK
+PORCH OF
+ASBURY PARK, N.J.
+IDENCIFYING INFO OF ALL OBSERVERS
+(A)
+SIGNAL EQUIPMENT SUPPORT AGENCY
+FORT MONMOUTH N.J.

@@ -1,0 +1,22 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T20:18:42Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7259454, "source_ctime_ns": 1793385045149160846, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28991678/1305.jpg", "source_mtime_ns": 1785748146000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28991678/1305.jpg", "source_sha256": "7ad7bb5553e818ee82dca031a51384bade61f84dd19dfd0dbc2a89300eae4716"}
+
+===== PAGE 1 =====
+{"alpha_words": 68, "chars": 527, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UFO ANALYSIS SHEET
+Location_
+3 mi. W. of St. Albans, W.Ta.
+Date (Local) 2 March 61
+Hour (Local) 1915
+Hour (Z Time Group 0300157 March 61
+Satellite: (Det 5 ATIC, Ext 3279).
+Astronomical Phenomena (Meteor, Comet, Planet, etc) Prob meteor
+Radar Analysis (AFCIN-LE1)_
+N/A
+Natural Phenomena (Ball Lightning, etc) ---
+Aircraft, Balloons, Airships, etc
+Other
+Evaluation of Source Reliability.
+SUnknown
+Analysis and Conclusions:
+The object was probably a meteor passing through
+the earths atmosphere, and in the process of burning up.

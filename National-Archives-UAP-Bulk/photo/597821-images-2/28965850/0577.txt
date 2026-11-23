@@ -1,0 +1,23 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T19:34:53Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6370346, "source_ctime_ns": 1793377890802786133, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28965850/0577.jpg", "source_mtime_ns": 1785696550000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28965850/0577.jpg", "source_sha256": "7192a408e0057bd4c832186c1c7416a5d796a4d32e6bd5b6f4d664e041cadd7a"}
+
+===== PAGE 1 =====
+{"alpha_words": 99, "chars": 653, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AF FORM 112-PART II
+APPROVED 1 JUNE 1948
+UNCLASSIFIED
+AIR INTELLIGENCE INFORMATION REPORT
+REPORT NO. 30-OFOB-4-56
+PART ONE
+14
+F11ght 3-D, 4602d AISS
+Incl #2,
+PART ONE, Report #3D-UFOB-4-56
+SOURCE's Memory Sketch of Object
+→
+DIRECTION OF FLIgHT
+VAPOR TRAIL
+AINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 US C
+B1 AND 22 AS AMENDE
+ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW
+IT MAY NOT BE REPPODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF
+UNCLASSIFIED

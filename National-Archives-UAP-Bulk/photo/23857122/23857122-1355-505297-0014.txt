@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T20:05:31Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 28703200, "source_ctime_ns": 1793357271285592280, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1355-505297-0014.tif", "source_mtime_ns": 1785564866000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1355-505297-0014.tif", "source_sha256": "301dc5f8ded7351e402024d93d6a9124224c1346e93a9ff836ecbdf9a24b00a9"}
+
+===== PAGE 1 =====
+{"alpha_words": 152, "chars": 1067, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AF FORM 112-PART II
+APPROVED 1 JUNE 1948
+RESTRICTED
+(CLASSIFICATION
+AIR INTELLIGENCE INFORMATION REPORT
+REPORT NO.
+FROM (Agency)
+Hqg WADF, Hamilton AFB
+Hamilton, Calif
+IR-1-53W
+Official Weather Report - Hamilton Weather Station:
+Weather in Hamilten
+and Sonoma Area: Clear, visibility 10 miles with winds from the east at 7 knots.
+7. Negative.
+8. Negative.
+9. Negative.
+10•
+Location of Air Traffic in General Area at Time of Sighting:
+No other air traffic in area at time of sighting.
+PERCY H. HAUG
+Captain, USAF
+Chief, Operational Intelligence
+IOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S. C.-
+31 AND 32, AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW,
+IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF
+INTELLIGENCE, USAF.
+RESTRIGTED SECURITY INFORMATION
+(CLASSIFICATION)
+Declassification Authority: NND 57565

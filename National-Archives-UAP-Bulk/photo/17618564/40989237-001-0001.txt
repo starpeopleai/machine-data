@@ -1,0 +1,46 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T19:35:27Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6822844, "source_ctime_ns": 1793354889517612235, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989237-001-0001.jpg", "source_mtime_ns": 1785564358000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989237-001-0001.jpg", "source_sha256": "801b06988897e495424a654e08eada3541fddbe4d76385503544965cc1cdd53a"}
+
+===== PAGE 1 =====
+{"alpha_words": 516, "chars": 3282, "method": "ocr", "page": 1, "variant": "plain-vision"}
+STATEMENT OF WITNESS
+Place : Alamonte Springs, FL
+Date: 24 June 95
+I, Joseph W. Kittinger, Jr., Col, USAF (Ret), hereby state that James McAndrew was
+identified as a Lieutenant, USAFR on this date at my home and do hereby, voluntarily and
+of my own free will, make the following statement. This was done without having been
+subjected to any coercion, unlawful influence or unlawful inducement.
+I entered the U.S. Air Force in 1949 as an Aviation Cadet. From 1950 to 1953 I flew
+fighters in Europe before being assigned to the Fighter Test Section at Holloman AFB,
+NM in July, 1953. During my tour as a test pilot I conducted the first zero gravity tests
+and was the balloon pilot of the first Project Man High high altitude research mission. In
+1958 I was assigned to the Escape Section of the Aero Medical Laboratory at Wright
+Patterson APB, OH. During this tour I was the Project Officer of Project Excelsior and
+made three high altitude parachute jumps, the highest from 102,800 feet, which today
+remains a world record. For these jumps I was awarded the Harmon Trophy for 1960 by
+President Eisenhower. Following Excelsior, I was the Project Officer of Stargazer, a
+project that made astronomical observations from a high altitude balloon. I flew two
+combat tours in Southeast Asia with the Air Commandos. I later flew a tour in F-4s and
+was the Squadron Commander of the 555 Tactical Fighter Squadron. I accumulated over
+1,000 combat flying hours and I am credited with one aerial victory. I spent ten months as
+a POW in Hanoi. Upon my return I attended Air War College, flew F-4s and retired from
+the Air Force in 1978. In 1984 1 became the first person to make a solo crossing of the
+Atlantic by balloon.
+In 1958 I was made the Project Officer of Excelsior by Col John Paul Stapp, the Aero
+Medical Laboratory Commander. I supervised and was actively involved in the dropping
+and recovery of anthropomorphic dummies from high altitude balloons at Holloman AFB,
+NM for this project. We also dropped dummies, from aircraft only, at Wright-Patterson
+APB, OH. The object of the Holloman tests were to study the free fall characteristics of
+dummies dropped from balloons at altitudes of 50,000 to 100,000 feet. Based on this data
+we designed a parachute that stabilized the dummies and I later used this parachute on my
+three high altitude jumps.
+The balloons carrying the dummies were launched from various locations in New Mexico
+and often impacted off of the White Sands Proving Ground depending on the wind
+conditions. The dummies were outfitted with clothing and equipment of an Air Force
+pilot. The facial features of the dummies were not as pronounced as a human. The ears
+and noses did not protrude. I do not recall any dummies with ears or noses. Some of the
+dummies were not complete; they sometimes did not have arms or legs. To someone not
+associated with the project or who viewed the dummies from a distance, they could appear
+to be human or with some imagination a space "alien." In fact, I recall one incident at
+Wright- Patterson where one of our dummies landed near the backyard of Gen. Rawlings,
+Commander of the Air Research and Development Command. Gen. Rawling's wife was
+entertaining officer's wives that afternoon when one of our dummy's parachute failed to

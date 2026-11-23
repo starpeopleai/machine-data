@@ -1,0 +1,34 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T19:28:32Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 21112514, "source_ctime_ns": 1793360857107975149, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-003-0167.tif", "source_mtime_ns": 1785565142000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-003-0167.tif", "source_sha256": "68db82118fadade5372d40ec95462ee4d209f9a2183f2bd1c526fe9dab40a4f2"}
+
+===== PAGE 1 =====
+{"alpha_words": 154, "chars": 998, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UNCLASSIFIED 1\3-
+53
+STURDINANT, Thomas F., PFC, US/277986
+DMZ Company
+Was working in the Company Motor Pool at 0500. I know it was 0500
+for I was making my hourly check on the company generator. PFC Twist,
+who was walking guard, called me and pointed out to me an object similar
+to a vapor trail located approximately northwest of DMZ Company.' I saw
+only the trail and nothing prior to this and was inside when Twist called
+me .
+The object was a blue-white color and luminous. The area was misty
+and the moon was shining brightly. The object was approximately 70'
+above
+the horizon and 2' - 3' in length moving in a northwesterly direction,
+or seemed to be.
+One end oi the object was brighter than the other. I
+watched for about a minute and then went to the generator shed. It ap-
+peared to be located very high in the sky and looked like nothing I'd
+ever seen.
+Observer - 024006
+AZ 282°
+01: 04916
+INCL X9
+INT7-1893
+103041
+544-57
+Copy 1 of copies
+UNCLASSIFIED
+DECLASSIFIED
+Authority NND 9237007

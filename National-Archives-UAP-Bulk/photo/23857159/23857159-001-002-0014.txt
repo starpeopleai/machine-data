@@ -1,0 +1,58 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T20:06:32Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 21719878, "source_ctime_ns": 1793360590962403955, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-002-0014.tif", "source_mtime_ns": 1785565081000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-002-0014.tif", "source_sha256": "3dccc947f4173015221160584687eecf495535d671d9f8c2baf41a9cfe871980"}
+
+===== PAGE 1 =====
+{"alpha_words": 380, "chars": 2631, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AF FORM 112-PART II
+APPROVED 1 JUNE 1948
+FROM (Agency)
+AFOIN - 1A1
+JUNCLASSIFIED
+(CLASSIFICATION)
+AIR INTELLIGENCE INFORMATION REPORT
+REPORT NO.
+IR - 1183 - 55
+PAGE
+2
+OF
+2
+PAGES
+FLYING SAUCERS HAVE LANDED
+Summary of a similarly entitled article (Latajace Talerze Wyladowaly) by Jerzy
+Zarebski, published in the Polish periodical Winged Poland" (Skrzydlata Polska),
+No. 6, 1955, pp. 6-7.
+****
+U. S. "cold war" experts endeavor to confuse American people as well as western
+Europeans by spreading false information about "flying saucers" to evoke among the
+western people a feeling of hate against a great nation devoted to the idea of
+universal peace.
+This is a trick applied by the American successors of Goebel's propaganda.
+The experts in the Pentagon must be blamed for scaring people with the fictitious
+horrible weapon moving at high speed and shaped like a saucer, cigar or sphere.
+Their observation stations often reported unidentified flying objects approaching
+the U. S. territory from Soviet Russia.
+In this way the gangsters from Washington and New York, wearing Generals' uniforms
+or the full dress of diplomats, seek an outbreak of war.
+Fortunately, peace is
+still lasting owing to the consistently peaceful attitude of the Soviet Union.
+Many publications and magazines try to persuade their readers that ilying saucers
+are realistic, for instance "Der Flieger" published in Western Germany, "Colliers"
+oublished in the U. S. as well as "United States News and World Report".
+There was
+published a list of types, describing specifications and performance of various
+unidentified flying objects.
+Two smart French news reporters, disguised as divers, appeared in a village and
+pretended to be the occupants of a "mysterious object", but upon being attacked
+by a farmer with pitchfork, they fled.
+European people are not as much scared as Americans and they disbelieve stories
+about flying saucers.
+They are not dumbfounded but distrust the American warmongers.
+The truly peaceful policy of the Soviet Union is more realistic and attractive than
+insane war intrigues brewed by the criminal elements from Wall street.
+NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S. C.-
+31 AND 32, AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW.
+IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF
+INTELLIGENCE, USAF.
+* U. S. GOVERNMENT
+1951 0-918/33
+DECLASSIFIED
+Authority NND 9237007

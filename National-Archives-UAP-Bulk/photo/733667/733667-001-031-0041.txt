@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T20:11:40Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4262361, "source_ctime_ns": 1793394277050289367, "source_file": "National-Archives-UAP-Bulk/photo/733667/733667-001-031-0041.jpg", "source_mtime_ns": 1785567347000000000, "source_rel": "National-Archives-UAP-Bulk/photo/733667/733667-001-031-0041.jpg", "source_sha256": "6a279df5e4e95b8e0ada36a952c889e849250aee2717267c9f723d5ed669ace4"}
+
+===== PAGE 1 =====
+{"alpha_words": 101, "chars": 728, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Anchorage Daily News
+Thursday, January 1, 1987
+ВЗ
++ 8-79,72855
+30°
+2-371Łł
+2000 T$
+55051782R.
+5>9 шх-9- ч"7а[]
+20
+1: 1 20 211L
+FILt 0°
+7-8 711415
+9-5:8t
+ê~ 19
+00
+What was in the sky
+United Press International
+Japan Air Lines pilot Kenju Terauchi prepared an illustration this week of what he saw
+when his Boeing 747 encountered strange lights over Alaska last month. At top, he shows
+the UFO lights nearly in front of the plane and a close-up of the lights. In middle, Terauchi
+depicts what one UFO looked like in silhouette dwarfing the JAL jet. At bottom, he shows
+where the UFO first appeared on the plane's radar. The Federal Aviation Administration
+and the U.S. Air Force have confirmed that a UFO appeared on their radar.

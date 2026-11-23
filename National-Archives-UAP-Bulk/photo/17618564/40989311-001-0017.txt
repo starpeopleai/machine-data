@@ -1,0 +1,221 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T19:33:46Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5853666, "source_ctime_ns": 1793356255563584065, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989311-001-0017.jpg", "source_mtime_ns": 1785564652000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989311-001-0017.jpg", "source_sha256": "5acce0f2cdb122374514abdcd94cdd6c64c88ee18a20b738ef15732e13420fb0"}
+
+===== PAGE 1 =====
+{"alpha_words": 324, "chars": 2525, "method": "ocr", "page": 1, "variant": "plain-vision"}
+REACCOMPLISHED:
+LApr
+ORGANIZATION COPY
+CHECK
+LAST NAME FIRST NAME-MIDDLE NAME
+2. ARMY SERIAL NUMBER
+3. GRA
+4. COMPONENT
+FARM OR SERVICE
+-CHANGES
+RECEIVED
+CAVITT, SHERIDAN WEAR
+AO 411 148
+Mas
+BASIC
+DUTY
+XXX 6. CITIZENSHIP STATUS
+7. RELIGION (Voluntary)
+8. HEIGHT.
+567.
+NATIVE
+METHODIST
+5'
+9. WEIGHT
+10. RACE
+_11. CATEGORY
+12.
+„MOS (SSN)
+138
+CAU
+PR 7236 7736
+2101112
+13. SOURCE OF COMMISSION (
+14. DATE OF EAR (Current
+15. CITY AND STATE FROM WHICH ORDERED TO EAD
+16. DATE OF BIRTH
+13 14 15 16
+-BP CIV NOiROTC-41
+19 Dec31946
+San Angelo,
+Texas
+19 Jan 19
+17/18/19 20
+17.
+• CHRONOLOGICAL LIST OF ACTIVE DUTY MILITARY AND CIVILIAN SCHOOLING A
+18.
+GRADE STATUS
+21|22/2324
+NAME OF SCHOOL Y
+TITLE OF COURSE (and SSN)
+LENGTH
+RATING
+YEAR
+- GRADE!
+TYPE.
+EFFECTIVE DATE
+DATE RANK
+25 26 27 28 Ft Benning, Ga
+Wpns & Tact of Inf3mos
+Com
+Sep4l 2nd Lt
+ORG
+30Мay41
+15Jan41
+29 30 31/32
+Reg
+Acpta
+30May41
+33 34 35 36Ft. Benning, Ga
+Motor Maint Crse
+3mos
+Com
+Jun42
+Ist It
+AUS
+9Nov43
+9 Nov43
+37 38 39
+4° Yale Univ, Conn
+Maint Engr-Afft
+5mos
+Com
+Acptd
+9 NOT 43
+11 42 43 44 Orlando, Fla
+Air Insp (Tech
+Imo
+Com
+45 46 47 48
+Engr & Supply)
+Oct44
+Capt
+AUS:
+60ct44
+60cty4
+Capt
+ORC:
+49 50 5152 CIC, Holabir dMd
+Counter-IntelCrse
+12wks
+Com May4?
+Capt
+AUS
+Y19Dec46 2
+1900045
+53 54 55 55 OSI-Nash, DC
+57 58 59 60
+Basic Course
+8wks
+Com
+Apr50
+Major
+ORÇ
+13Jan4Y
+13Jan47
+Capt
+AFUS
+30 Jun48
+19Jun45
+61 62 63 64
+Major
+AFUS 12Mar51
+012Feb51
+65 66 67 68
+LICOL ASSAF 21 guSE
+69 70 71 72
+73 24 75 75
+77 78 79 80
+81 82 83/84
+MEDICAL
+CLASSIF
+tys
+S RECORD OF PHYSICAL STATUS S
+TO ATOMEDICAL INSTALLATION
+NAME AND AUTHORITY
+DATE STATUS
+CHANGE DUE
+ASSIGNMENT
+LIMITATION
+DATE
+27 Feb51
+20, RETIRED (Grade reason, dal TAPCOD is 27reb42 (as of 15p. 34).
+A SERVICE DATES
+INDEX E
+IL DATE FIG,
+TAFCSD
+1Mar/
+TAEMSD
+* 1Mar42
+•
+TECSD
+30MY41
+TMSD
+30My41
+GENERAL AND ANNUAL EFFICIENCY RATING (FOr WID Use only)
+02411289
+23 CERSATEGORY
+ADATE, TERMINATED
+POO
+Vel
+* Inde
+Indef
+23-75
+YEAR: PAS
+GER
+AER
+24.
+ASSA
+MILITARY OCCUPATIONAL SPECIALTIES:
+A DESIGNATION
+SSN
+DATE A
+#Sp Inves Stf 0
+7736
+5May52
+Acft Maint O
+4341-3ą
+5May 52
+Grd Equip Maint 0 4381
+5May52
+25,
+ARM O
+SERVICE
+DETAILS
+DETAILED (Dale & Auth.)
+CQUALIFYING AUTHORITY
+PAML1, Ho1005th
+Hg1005th
+PAM41, Ho1005th
+ERMINATED (DuLe:
+-FIRST NAME-MIDDLE NAME
+CAVITT
+SHERIDAN WEAR
+ARMY SERIAL NUMBER
+A0 4 148
+COMPONENT
+ArRes
+BASICA
+33536236
+DATE SETS 2/1-
+19DeChh
+FOREIGN SERVICE DATAT gOSYSe leCtionDate
+OVERSEAS COMMAND
+* DATE RID 2/1
+IONTHS
+1Jan46
+DAY PRO
+-13
+CBI
+1Jän46
+Jan 46
+reecE
+CAMPAIGNS B
+AND DATE
+FLIGH
+CER'S QUALIFIC
+BY RECOR

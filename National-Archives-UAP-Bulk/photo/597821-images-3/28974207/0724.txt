@@ -1,0 +1,49 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T19:37:53Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8431537, "source_ctime_ns": 1793380010276905848, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28974207/0724.jpg", "source_mtime_ns": 1785700649000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28974207/0724.jpg", "source_sha256": "e6eb3aa264aa883dd5e45c46acfc9c4f2cf22ac11a9f79d24c076cf9f8d3848f"}
+
+===== PAGE 1 =====
+{"alpha_words": 94, "chars": 750, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UFOB INDEX CARD
+1. DATE
+7 nor 57
+2 Jen 35
+3. DATE-TIME GROUP
+07/02202 Net 57
+5.
+PHOTOS
+2. LOCATION
+2 Ground-Visual
+• Air Visual
+6. SOURCE
+Ch 121 am
+8. NUMBER OF OBJECTS
+One
+• Ground-Radar
+• Air-Intercept Radar
+• Yes
+R No
+7. LENGTH OF OBSERVATION
+Approx 13 minutes
+0. BRIEF SUMMARY OF SIGHTING
+One round sliver object the aise of a
+basketball. Objoot vas seen moving Su for
+approximately 13 minutes.
+9. COURSE
+AISS UPPP CORdLEMONS
+Was Balloon
+Probably Balloon
+•
+Possibly Balloon
+Was Aireratt
+Probably Aireraft
+Possibly Aircraft
+Was Astronomical
+•
+Probably Astronomical
+Possibly Astronomical
+Other.
+Insufficient Uata for Evaluation
+Unknown
+11. COMMENTS
+Concur with Reporting Officer that
+this sighting was caused by a balloon.
+AISOP Form 5 (15 Oct 54)

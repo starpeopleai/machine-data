@@ -1,0 +1,19 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T20:15:32Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5879825, "source_ctime_ns": 1793356056811328807, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989300-001-0169.jpg", "source_mtime_ns": 1785564594000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989300-001-0169.jpg", "source_sha256": "2c0cc72b5ee65874a79e2e6194a5145a330132e6bc73d7ad022b611912c561ee"}
+
+===== PAGE 1 =====
+{"alpha_words": 26, "chars": 209, "method": "ocr", "page": 1, "variant": "plain-vision"}
+di
+Heigna -Tina Curve
+ALTITUDE
+I Thousands of Feet Abore!
+NYU BALLOON PROJECT
+FLIGHT NO. 24
+RELEASED AT ALAMOGORDO, NEW MEXICO
+SEPTEMBER 13, 1947
+055I MST
+FIGHT
+50
+100
+150
+TIME (Minutes After Release, 350
+450

@@ -1,0 +1,55 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T19:43:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 19284378, "source_ctime_ns": 1793358960904816849, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-082-0002.tif", "source_mtime_ns": 1785681278000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-082-0002.tif", "source_sha256": "b347c3523e6d704ac52e1edb184fa1945da9f0d1006ec6de7d5ca1b5a855debf"}
+
+===== PAGE 1 =====
+{"alpha_words": 136, "chars": 856, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+052245Z
+DO 001
+ENA309 YMA168 YYC141NGA280
+pp
+RJEDEN RJEDWP RJEPHO RJEDKE
+RJEDNG 2I
+P 05/1610Z
+FM COMDR 789TH AC&W SQ OMAHA NEBR
+TO RJEDEN/COMDR ADC ENT AFS COLO
+RUEDMP/COMDR ATIC
+WP
+AFB OHIO
+RJEPHO/DIR OF INTELL HO USAR WASH DC
+RJEDKF/COMDR CADE
+GRANDVIEW AFB MO
+RJEDNG/COMDR 31ST ADIV SI PAUL MINN
+/UN C L A S S IF I E D/OPNS 769 UFOB REPORT AS FOLLOWS
+D ROUND
+IND SILVER BEEFI FATION
+NO FORMATION
+NO
+SPECIAL FEATURES
+NO EXAUST
+Ope
+PAGE
+INO RJEDNG 21
+4602D AISS UFOB REPT.........
+390
+DATE-TIME GROUP...S. /ILLYSZ NOU S5
+Council Bluffs, Towa
+TOS AlL
+GROUND
+VISUAL
+NONE
+0943
+ALL OF COUNCIL
+PAGE TRHEE RJEDNG 2I
+CLOUDY
+NONE
+NONE
+NONE
+- LE
+11
+12
+WX CLOUDY AND SLIGHTLY RIGHT BETWEEN TWO AIR PORTS OMAHA MUN
+AND OFFUTT
+AFB PD NO
+CEILING AVAIL ON CLOUDS NO EST OF CLOUD COVER
+NO THUNDER STORMS IN AREA
+#5/1625Z NON RJEDNG

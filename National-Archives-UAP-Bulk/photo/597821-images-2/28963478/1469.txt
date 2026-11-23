@@ -1,0 +1,20 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T20:16:55Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6559744, "source_ctime_ns": 1793377388149965831, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28963478/1469.jpg", "source_mtime_ns": 1785696993000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28963478/1469.jpg", "source_sha256": "9cf22a7c3ed2c8f0ebf0e3f3247750c50956c9c062cc9fc165e6dfe15621245f"}
+
+===== PAGE 1 =====
+{"alpha_words": 55, "chars": 376, "method": "ocr", "page": 1, "variant": "plain-vision"}
+IN
+24
+| Witness
+-2 SEP 1606
+07 27 -
+RC55
+MPC 37 YDD 42 XYD 55 X0P4 KLA:472VA 23KLO 65
+WI RJEDEN RJEDED RJEPHO
+DE RJUPKL 390
+# 0119702
+EM COMAIRDIVDEF 28 HAMILTON AFP, CALIF
+TO RJEDEN/CONDR ADC ENT AFE COLO.
+RUEDUP/CONDE AIR TECH INTEL CENTER URIGHT PATTERSON AFE, OAFO
+RJEPHQ/DIRECTOR OF INTEL M USAF WASH D. C.
+RJWPKL/CONDR 4602ND AIR INTEL SERVICE SQ HAMILTON AFB CALIF
+HEY

@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T19:33:52Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5909085, "source_ctime_ns": 1793382633365855340, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28984868/0204.jpg", "source_mtime_ns": 1785700988000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28984868/0204.jpg", "source_sha256": "bb253240959fef44724c01125baeeea06d741d8bab1f1ac73fd06bcd9e697690"}
+
+===== PAGE 1 =====
+{"alpha_words": 76, "chars": 614, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UFO ANALYSIS SHEET
+Location CINCINNATI
+OHIO
+Date 50CTOBER 1959
+WX_
+SEATTERSO CLOOS .
+DRY
+Description Fuzzz o<
+SHAPED - 150' LONE
+NO SOUNO -
+Hour (16 01007
+SDGES
+46.
+OBUELT IN SIENT FUR
+APPRIXIMATELK TWO
+Direotion of Motion GENeescer N
+Satellite: (AFCIN-4F3, Phone 69219)
+MINUTE.
+WAS EAST
+Astronomical Phenomena (Meteor, Comet, Planet, etc).
+Radar Analysis (AFCIN-451)_
+Natural Phemomena (Ball Lightning, etc).
+Aircraft, Balloons, Airships, etc.
+Other
+Evaluation of Source Reliability(P~Kw.~~ -
+Analysis and Conclusions: THe wedemATroN coNTrass oN
+THIS REPIRT IS INSHARICIENT TO ALLOW
+CONELUSPIN • - - ONE LOTNESS.

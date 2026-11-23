@@ -1,0 +1,51 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T19:20:50Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7111466, "source_ctime_ns": 1793383982442054901, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28988466/0567.jpg", "source_mtime_ns": 1785748334000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28988466/0567.jpg", "source_sha256": "9da0289cd4cefde7d283555b9bd08c2360296806994abe871ab0fe61aa0430df"}
+
+===== PAGE 1 =====
+{"alpha_words": 87, "chars": 710, "method": "ocr", "page": 1, "variant": "plain-vision"}
+I. DATE
+24 Aug 60
+3. DATE-TIME GROUP
+Local
+2200
+GM T
+25/03002
+5. PHOTOS
+• Y•s
+• No
+7. LENGTH OF OBSERYATION
+few sec
+0. BRIEF SUMMARY OF SIGHTING
+Red light with a greenish tinge, round,
+large,
+very high speed.
+PROJECT 10073 RECORD CARD
+2 LOCATION
+McComo, Ohio
+TYPE OF OBSERVATION
+I Ground Visual
+• Air Visual
+6. SOURCE
+• Ground-Rodor
+• Air-Intercept Rader
+Civilian
+0. NUMBER OF OBJECTS | 9. COURSE
+one
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Bailoon
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical Meteor
+Possibiy
+Astronomicoi
+Orner
+Insufficient Data for Evaluation
+Unknown
+INE
+11.
+COMMENTS
+Description is typical of a meteor.
+ATIC FORM 329 (REV 26 SEP 52)

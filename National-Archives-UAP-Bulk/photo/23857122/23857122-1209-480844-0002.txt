@@ -1,0 +1,41 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T20:06:38Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 23890368, "source_ctime_ns": 1793357007660399448, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1209-480844-0002.tif", "source_mtime_ns": 1785564808000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1209-480844-0002.tif", "source_sha256": "36ceb4b2ae8b9b0928c721a314c3e1fdf607c532e1fa51cef14b39e12d8ca481"}
+
+===== PAGE 1 =====
+{"alpha_words": 329, "chars": 2093, "method": "ocr", "page": 1, "variant": "plain-vision"}
+February 6, 1955
+rt
+"Sighting of flying objects
+The location Yuma County Airport, February 1, 1955, time 1350 U.3,I.
+I was using a theodolite to follow a pilot balloon, which was at 6,000 feet
+Mean Sea Level, I took my eyes away from the eye pebee for a few seconds,
+returned my eye to the aye piece, and the balloon was out of the field.
+The readings were 55 degrees elevation, and direction from ne 157 degrees,
+time 1350 K.561.
+I then saw one objeet going upward, and surving to the
+Hest. I had & olear sky background, and although it moved through the
+field rapidly was able to see it olearly, and follow the flight, About
+20 seeds after sighting the first object a secong object ome into the
+field, and swooped upward and across the path of the first object, The
+first objeet flew toward the Heat, while the seeond object swooped scross
+or near the path of the first objeet three to four times, going out of the
+field about two times for a moment. The two objeets passed near the lower
+_portion of the sum, and were traveling westward, the seeond objeet below
+and behind the first objeet, when a Cirrus aloud oase into the theodolite
+fleld, I lost sight of the two objects. The exact position at that time,
+elevation angle 29.1 degrees and direction from the instrument 204.l degrees,
+The time 1355 I.8.Ie, after having folloned the two objects through the
+32 pover theodolite for a period of 5 minutes with a olear sky background,
+The objects were both the same size, as nearly as I can figure one mimite
+of are in sizes
+The objects were almost round, a solid, dull, pure white
+color, with a thin white mist completely edging each objeet.
+I am a Veteprologisel Ald employed with the Thited States Weather Bureau,
+having followed balloons through a theodolite for the past ten years.
+I also bold a private pilots license, and having flown in military and
+oifilim aircraft frquently in the pest ten years,
+I am absolutely certain of what I have seen through the theodolite as
+described in the foregoing paragraphs.
+Signed
+lima, Arizone
+Onl/ ap 488844
+Declassification Authority: NND 57565

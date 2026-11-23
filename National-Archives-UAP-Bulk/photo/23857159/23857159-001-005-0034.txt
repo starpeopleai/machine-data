@@ -1,0 +1,79 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T20:10:04Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 19845096, "source_ctime_ns": 1793361344739119129, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-005-0034.tif", "source_mtime_ns": 1785565321000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-005-0034.tif", "source_sha256": "a7e9d24599a61d9d11c02a2e6aac407e82ffe10f368e876df30f6892ee32ba58"}
+
+===== PAGE 1 =====
+{"alpha_words": 274, "chars": 2187, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UNCLASSIFIED
+CLASSIFICATION
+(SECURITY INFORMATION when filled in)
+SUPPLEMENT TO AF FORM 112
+ORIGINATING AGENCY
+REPORT NO.
+PAGE
+AFCIN-1A1
+125596ął
+2
+OF
+PAGES
+9
+UFO BIBLIOGRAPHY COMPILED FROM SOVIET BLOC AND WESTERN SOURCES
+ADAMSKI, G. Inside the spaceships, New York, Abelard-Schuman, 1955. 256 p.
+illus.
+TL789.A3
+ALLEN, W.
+Space-craft from beyond three dimensions
+ed.
+New York, Exposition Press, 1959.
+202 P.
+L789. A54
+emerges the UFO. lst
+ALLINGHAM, C. Flying saucers from Mars. New York, British Book Centre, 1955.
+153 p.
+illus.
+TL789. A55
+ANGELUCCI, O. The Secret of the saucers. Ed. by Ray Palmer. Amherst, Wis.,
+Amherst Press, 1955.
+167 P.
+TL789.A59
+ANANOFF, A. L'astronautique. Paris, Fayard, 1950.
+TI790.A5
+ANANOFF, A. Navigation interplanetaire.... Paris, Editions Elzevir, 1946.
+63 P.
+TI789.A57
+ARNOLD, K.A. and R. PAIMER.
+The Coming of the saucers; a documentary report
+on sky objects that have mystified the World.
+Boise, Idaho, 1952. 192 p.
+illus.
+TL789.A7
+ARTIFICIAL SATELLITES OF MARS [Iskusstvennye sputniki Marsa]. Komsomol'skaya
+pravda, 1 May 1959: 6.
+Newspaper Reading Room
+I.S. Shklovskiy, Soviet scientist, claims that Phobos and Deimos, are
+artificial Martian satellites. They were created by Martians millions of
+years ago.
+BARKER, G.
+They knew too much about flying saucers. New York, University
+Books, 1956. 256 p.
+TL789.B3
+BENDICK, J. The first book of space travel....
+69 p.
+New York, F. Watts. 1953.
+TL789.B45
+BETHRUM, T.
+Aboard a flying saucer.
+Non-fiction; a true story of personal
+experience.
+Los Angeles, De Vorso, 1954. 192 p.
+-illus.
+PZ4.B5637
+WARNING: This document contains information affecting the national defense of the United States within the meaning of the
+Espionage Laws, Title 18, U.S. C., Sections 793 and 794. Its transmission or the revelation of its contents in any manner to an
+unauthorized person is prohibited by law. It may not be reproduced in whole or in part, by other than United States Air Force
+Agencies, except by permission of the Director of Intelligence, USAF
+AF, 601 52 112a WHICH MAY BE US D-PART I1, 1 JUN 48,
+CLASSIFICATION
+UNCLASSIFIED
+(SECURITY INFORMATION when filled in)
+GPO 933656
+DECLASSIFIED
+Authority NND 9237007

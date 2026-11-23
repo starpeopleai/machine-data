@@ -1,0 +1,62 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T20:14:27Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5399851, "source_ctime_ns": 1793369666988282220, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28932455/1182.jpg", "source_mtime_ns": 1785688756000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28932455/1182.jpg", "source_sha256": "6f016d844bf2d62549814c93d367eeed3d6029c98c04c7bd52ca72a3e1bc7cd6"}
+
+===== PAGE 1 =====
+{"alpha_words": 138, "chars": 1025, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Date of Observation
+Treet time (local)
+UNCLA
+13 Oct 1948
+1145
+INCIDE I NO.
+Date of Interview
+180B
+1 Dec 1948
+Place of Observation
+South Bend, Indiana
+Position of observer
+window of office building
+What attracted attention to ooJ
+Number of objecte
+7. Apparent size
+Smaller than DC-3 but larger than cub
+8. Color of object
+aluminum or chrome
+Shape
+flat object or disc shaped
+10. Altitudenot over 1,500 ft
+17.
+Direction fron observer
+12.
+Dictance from observer
+Could not estimate
+15•
+1. •
+Direction of flient of onject
+Time in sight 8 to 10 seconda
+northwest-southeast
+15•
+Greed great, speed - three times that of transport
+15.
+bound and dor
+none heard
+Trail
+none noticed
+18. numinosity
+none observed
+19. Projections
+none observed
+20.
+aneuvers
+spinning or a direct course
+21.
+anner of disappearance
+faded from view
+22. Affect on clouds
+clear day - no clouds
+23. Additionel information conc
+Weather conditions
+clear day, average cloudiness
+UNCLASSIFIEL
+COWNGRADED AT & YEAR INTERVALS!
+DECLASSIFIED AFTER 12 YEA
+DOD DIR 6200.10 A

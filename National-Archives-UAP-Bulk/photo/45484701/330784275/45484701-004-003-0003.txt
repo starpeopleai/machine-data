@@ -1,0 +1,58 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T19:35:16Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6761435, "source_ctime_ns": 1793362984213697053, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330784275/45484701-004-003-0003.jpg", "source_mtime_ns": 1785685123000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330784275/45484701-004-003-0003.jpg", "source_sha256": "b6d2c2774d99366ada77a6155a201bddf75e05dff83168d3730a089041054693"}
+
+===== PAGE 1 =====
+{"alpha_words": 312, "chars": 2240, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Hq DO#3, File 3D0 24-193, SPOT INTELLIGENCE REPORT, Subj: Unidentified
+Flying Object Sighted at Rochester, Pa., at approximately 2300Z, 1 Octo-
+ber 1957, by JOHN KARCHER and LEE PLUNKETT
+KARCHER stated that at the time of the second sighting, he
+and PLUNKETT were returning to Rochester, Pa., and were just passing
+the adjoining farm house; they stopped the vehicle to observe the ob-
+Ject and two (2) women, the occupants of the farm house, also at this
+time observed the object. The distance between the places from which
+the two (2) sightings were made is approximately 200 yards.
+Interviewees
+stated that as they recalled the weather conditions at the time were very
+The occupants of the adjoining farm house as mentioned by
+KARCHER and PLUNKETT were identified as being Mrs, ELLA VORDERBRUEGGEN,
+Age 65, Housewife, R.D. 2, New Brighton, Pa., and Mrs, DONALD STUBER,
+Age 32, Housewife, R.D. 2, New Brighton, Pa.
+Both of the aforementioned women were interviewed and re-
+called seeing an object, but they advised they did not pay any particu-
+lar attention to it, and were unable to furnish any identifying infor-
+mation.
+AT GREATER PITTSBURGH AIRPORT, CORAOPOLIS, PENNSYLVANIA
+b, On 8 November 1957, BILLIE K, BISHOP, T/Sgt, AF 192427SN
+First Sergeant and NCOIC, 1921-1 AACS Detachment, stated that their GCA
+Scope operations were discontinued as of 31 October 1957, and all pre-
+vious radar scope records have been destroyed.
+BISHOP stated that he re-
+calls no reports being received from any of the scope operators of the
+sighting of an unidentified flying object.
+On 8 November 1957, KENNETH McMECHEN, Chief, Greater Pitts-
+burgh Airport Traffic Controller, was contacted telephonically by BISHOP,
+McMECHEN informed BISHOP that a review of records on file in the Control-
+ler's Office failed to reflect a report of an unidentified flying object
+on 1 October 1957.
+WEATHER:
+On B November 1957, RALP!! JACKSON, JR., Captain, 15496A,
+Commander, Detachment 3, 12th Weather Squadron, stated that weather con-
+ditions at 0002 Zulu, 1 October 1957, were as follows:
+Surface Winds
+NW
+6000F
+300°
+23K
+10,000F
+280°
+35K
+16, 000F
+270° 44K
+20,000F
+270°
+50K
+30,000F
+240° 91K
+FOR OFFICIA USE ONLY
+(AFR 190-16)
+Declassification Authority: NND 923007

@@ -1,0 +1,51 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T19:33:09Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5723670, "source_ctime_ns": 1793369957981412097, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28933350/0721.jpg", "source_mtime_ns": 1785688994000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28933350/0721.jpg", "source_sha256": "3a70f49eb95df58e627cc10f504644beeb30415bd6a1a77118812867d8d08130"}
+
+===== PAGE 1 =====
+{"alpha_words": 182, "chars": 1373, "method": "ocr", "page": 1, "variant": "plain-vision"}
+OI
+2 May 1949
+Subject: Investigation of Unidentified Jizing Objecs
+The following installations, both commercial and military
+in this area, vere interrogatad as to the possibility or any jet
+aircraft flights originating from their stations at the approxinate
+tina of the observation.
+(1)
+(2)
+(3)
+(4)
+(5)
+(G)
+Nuroc Air Porce Base, California
+Poiat Muga UNNAMTO, Point Mugu, California
+3l Toro MCis, Santa Ana, California
+Inyokern USMAMTO, Inyokern, California
+Hmilton Air Porce Base, California
+62nd Tighter Wing, Metropolitan Airport,
+Van Buys, California
+195th Fighter Sq, San Bernardino AT3, California
+(8) U.S. Naval Air Station, North Ialand, San Diego,
+(9)
+Califomia
+Lockheed Aircraft Corp, Burbank, California
+(10)
+Torth American Aviation Iac, Inglewood, California
+(11) Base Operationa, this atation
+(12) let Fighter Group, this station
+(13) 67%h Tac Reconnaissance Wing, this station
+i Water drop, a dia, fata sation
+All of thie correspendence was ansvered and regarding the origin of any
+jet flights that could possibly havs been in the area of the observa-
+tion at the time the observation vas made, vas negative.
+Me radar sightings of the object vere reported.
+2 Isols:
+1. Pilots Statement
+2. Cy 3.0. 5+, appointing
+Investigating Officer
+Шлат Г
+WILDIAM B. CROOKS
+Major, USAT
+Director of Intelligence
+DOWNGRADED AT & YPAR
+DECLASSIFIED
+DOD DIR 5200.10
+UNCLASSIFIED

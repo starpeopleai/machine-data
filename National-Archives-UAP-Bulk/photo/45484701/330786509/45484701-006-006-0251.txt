@@ -1,0 +1,23 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T19:40:19Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10301261, "source_ctime_ns": 1793364197523493381, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330786509/45484701-006-006-0251.jpg", "source_mtime_ns": 1785684595000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330786509/45484701-006-006-0251.jpg", "source_sha256": "235306338cf579600c09d89288913743ced5398c6776e288a93367c4d556eb49"}
+
+===== PAGE 1 =====
+{"alpha_words": 80, "chars": 573, "method": "ocr", "page": 1, "variant": "plain-vision"}
+CONFÍDENTIA
+Tactics or maneuvers - Sloping descent.
+n. Evidence of trail or exhaust - none observed.
+Effect on clouds - no clouds•
+P• Luminosity - bright as magnesium flare.
+Projections and depressions - none observed.
+Means of propulsion - none observed.
+S •
+Speed of object - 5 to 7 degrees per second.
+te
+Sound or odor - none.
+Ule
+Manner of disappearance - went out, then came on in smaller
+size, same brilliance, then sputtered out.
+V. r. W. Wa JONES has in the past proven to be a very reliable
+observer •
+- CLOSED -
+ONFIDENTIAL
+Declassification Authority: NND 923007

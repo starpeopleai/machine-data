@@ -1,0 +1,23 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T20:05:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 73939648, "source_ctime_ns": 1793357080433108647, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1221-481980-0021.tif", "source_mtime_ns": 1785564825000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1221-481980-0021.tif", "source_sha256": "803b5a748032278cb201440ce3f207bf5244dc747729a8b505d3de6d9348bb73"}
+
+===== PAGE 1 =====
+{"alpha_words": 66, "chars": 466, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Sty, Pa.
+PE ELEV. (OCANE) REPAIRS
+(но крани)
+Tood, not mained.
+LIGHT SIGNAL PROCEDURES FOR AIRPORT TRAFFIC CONTROL
+nact flying. haey over th
+Department of Come us ne
+TRAFFIC PATTERN INDICATED BY SEGMENTED CIRCLE
+ADDITIONAL AERONAUTICAL CHARTS PUBLISHED AND PRINTED BY
+COAST AND GEODETIC SURVEY
+Ood and 306ąłą
+8073 Can An ic
+15000
+opened team for
+THE KOCH CHART FOR
+ALTITUDE AND TEMPERATURE FFFECTS
+Declassification Authority: NND 57565
+SEA LEVEL
+500O FOOT ELEVATION

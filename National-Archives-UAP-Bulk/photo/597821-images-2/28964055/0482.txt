@@ -1,0 +1,22 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T19:32:37Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5480804, "source_ctime_ns": 1793377506064317962, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28964055/0482.jpg", "source_mtime_ns": 1785696426000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28964055/0482.jpg", "source_sha256": "5a39fc8e0d525d95eb6cfa1712c36daa40b542ef064c365fe87e993cc77b8226"}
+
+===== PAGE 1 =====
+{"alpha_words": 22, "chars": 148, "method": "ocr", "page": 1, "variant": "clean-vision"}
+B NIGHT
+5. NN2003
+A NONE
+7
+A CLEAR
+C NO
+D NO
+E NO
+F NO
+PAGE THREE RJEDNG 11
+3 NO
+9 NO
+1ø NO
+11 NO
+12 NO
+BT
+25/0419Z OCT RJEDNG
+SI MARSHALLTOUN IOWA

@@ -1,0 +1,45 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T19:41:05Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 11295868, "source_ctime_ns": 1793363677518031354, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785831/45484701-006-001-0040.jpg", "source_mtime_ns": 1785684854000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785831/45484701-006-001-0040.jpg", "source_sha256": "ffb09b1a6c1f777e3681afbcf029ca3f9107c74233fabd5e02bf21a7b6da804e"}
+
+===== PAGE 1 =====
+{"alpha_words": 116, "chars": 896, "method": "ocr", "page": 1, "variant": "plain-vision"}
+24-57
+SUBJECT:
+MT/EES/dr
+10 November 1949
+SPECIAL INQUIRY - UNCONVENTIONAL AIRCRAFT
+Scottsbluff, Nebraska
+TO :
+Commanding General
+Air Materiel Command
+Wright-Patterson Air Force, Base
+Dayton, Chio
+ATT: MCIAXO-3
+UNCLASSIFIED
+Attached for your information are two copies of Report of
+Investigation of Special Agent WILLIAM R. COSTING, this district,
+dated 10 November 1949, on above subject.
+2 •
+In regard to the inclosed report, your attention is invited
+to Par 11, APR 205-6, dated 18 May 1949, which prohibits disclosure
+of this information to unauthorized persons.
+1 Inol:
+Rpt of S/A OOSTING
+etd 10 Nov 49 (in dup)
+UNCLASSIFIED
+CLASSIFICATION CANCELLED
+BY AUTHORITY OF THE DIRECT
+BY
+KURT K, KUNZE, Capt, USAF
+Histerian
+DATE
+4 DEC 1975
+MATTHEN THOMPSON
+It Colonel, USAF
+District Commander
+Chaasification cancelled for changed
+to
+..) . by
+Data
+14 Nor 49
+On
+Declassification Authority: NND 923007

@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T19:25:32Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9937647, "source_ctime_ns": 1793380175160962405, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28974810/1235.jpg", "source_mtime_ns": 1785700796000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28974810/1235.jpg", "source_sha256": "0751ff579ac833950af3dbd10cbe1cbecc9aced4f1b3922ff9fea1f7b8805a53"}
+
+===== PAGE 1 =====
+{"alpha_words": 115, "chars": 747, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PAGE FOUR RJWFJG 63W
+( =)
+NONE
+(6)
+(A) NEGATIVE.
+39) NEGATIVE
+(10)
+UNIDENTIFIED B-47 ON A T•H. OF C
+/ DEGREES 20 NAUTICAL MILES
+TO THE WEST OF OBSERVING AIRCRAFT AT THE SAME ELICHT ALTITUDE.
+(11) WING OPERATIONAL INTELLIGENCE OFFUCER. BOTH OBSERVERS INSIST
+THAT THE OBJECT SIGHTED WAS SOUTHING OTHER THAN COCK PIT LIGHTS
+REFLECTED IN THE CANOPY OR NATURAL MHENOMENA. THE OBSERVRS
+WERE VERY CAREFUL TO CLOCK THE TIME TH OBJECT WAS UNDER OBER-
+SERVATION. CAUSE OF THE SIGHTING IS UNKNOW, HOWEVER, THE PLANET
+VENUS WAS OBSERVED TO BE QUITE BRIGHT ON THE HORIZON AT
+THIS TIME BY GROUND OBSERVERS AT DYESS AFE. THE POSITION OF THE
+OBSERVEJS AIRCRAFT IN RELATION TO THE PLANET VENUS COULD HAVE
+CAUSED THE SIGHTING OF THIS OBJECT.
+BT
+16/01472 NOV RJWFJG

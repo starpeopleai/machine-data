@@ -1,0 +1,48 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T20:11:20Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4013414, "source_ctime_ns": 1793377428024845371, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28963682/0166.jpg", "source_mtime_ns": 1785696831000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28963682/0166.jpg", "source_sha256": "eb3931e1099ecd7d2c4308bb5692769ac9ae441b38c262ac93591abce1c9c550"}
+
+===== PAGE 1 =====
+{"alpha_words": 69, "chars": 556, "method": "ocr", "page": 1, "variant": "plain-vision"}
+• I.
+AINER OF DES.
+IRVATIO!
+A. VISUAL
+C. NOME
+TINE AND DATE OF SIGHTING
+/. 10/5 2 2:
+EPT 1055
+D. NIGHT
+S. LOCATION OF
+OBSERVER (S)
+DELINGHAN DKND3345 5 2
+IDENTIFVINC L FORMATION OF ALL OBSTIVERS
+07 PICTERIA: 1
+DITIONS AT TIME AND PLACE OF SIGHTING
+NEATIC: A C VINDS ALO
+A. TAL
+SURFACE
+DEGREES
+.. 2
+1 5g
+2 :
+= s
+35
+35
+36
+5: 171
+36
+56 7
+36
+56
+S
+C. SCATTERED
+D. SI
+• CLEAR
+ANY UNUSUAL ACTIIITY OR CO DITION:
+HEro: STO
+MICAL
+OTIS GUY ACCUT FOR THE SISTIC.
+EXISTCHCE OF ANY PHYSICAL
+VIDENCE OF THE GIANTING
+NONE.
+• INTERCEPTION OF IDZTIFICATION ACION TAKENS.
+C

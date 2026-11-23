@@ -1,0 +1,63 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T19:31:12Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5199814, "source_ctime_ns": 1793369297814217774, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28931319/0093.jpg", "source_mtime_ns": 1785688784000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28931319/0093.jpg", "source_sha256": "aa28818cb88f4cf893fcd19483857d335a5d6d7d5c82cb94beb963c6e5a5c4c7"}
+
+===== PAGE 1 =====
+{"alpha_words": 257, "chars": 1785, "method": "ocr", "page": 1, "variant": "plain-vision"}
+HEADQUARTERS
+AIR MATERIEL COLAND
+Wright-Patterson Air Force Base
+Dayton, Ohio
+Jan 5 1949
+SUBJECT:
+ProJeot ạẠSIGH"
+TO g
+Chief, Air Feather Service,
+Andrews Air Force Basa,
+Washington 25, D. C.
+ATTI: DSS
+1. Project "SIGHi is responsible for the collection, investi-
+Extion and interpretation of date relative to sighting of unidentified
+flyirg objeots,
+Attached Incident Summaries 1 thru 172 from the files
+of Projeot SIGN are forwarded for study and recommenciations as to
+whioh of the incidents may be eliminated as balloons released on routine
+synoptio ascents by the Air Weather Service, the Ravy Aerological
+Service or the Unitad States Weather Bureau.
+The sunmarles attached
+may be retalned in your headquarters for working and referencs purposes, «
+The Air Weather Service is the only agency of its type that
+has been asked to assist in the acoomplishment of Project "SIGN" except
+that the United States Weather Bureau has provided information on ball
+Rightning, Rasearch projeots in which balloons are used and whioh ars
+conducted or sponsored by the Army, Havy or United abates Air fores are
+checked by the Intalligence Department of this Command, Thase cheoka
+argusually nade direct fron the Project ISION" office, ICIAXO-3. Thase
+sheoka are distinot from the check of synoptic balloon flighta mada by
+weather service stations of the Air Force, the Lavy and the Department
+of Commerce. (U. S.. Meather Bureau) requested of Air Teather Service,
+3, It la the opinion of this offics. that the below liated inoi-
+dants are those having the greatest possibility of being balloons,
+This
+list does not alimimte the posaibility that rapy of the remalaing
+incidente are balloors.
+21;
+91
+92
+98
+104
+105
+107,8.9
+112 (See122)
+115
+115
+126
+3243
+151
+154
+155
+156)
+157
+159
+163
+167
+169
+1021151-1
