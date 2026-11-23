@@ -1,0 +1,45 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T07:38:46Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5519844, "source_ctime_ns": 1793358534043189914, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-003-038-0001.tif", "source_mtime_ns": 1785681121000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-003-038-0001.tif", "source_sha256": "d4173f0d5848aabb761f74f913033cae3de76e0196b79bc8b40a93901e90d038"}
+
+===== PAGE 1 =====
+{"alpha_words": 146, "chars": 1099, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+4602D AISS UFOB LOG
+1 REPORT NO&
+A338-0308-134-55
+2 DATE RECD HQ 4602D AISS 3 DATE/TIME RECD IN OPS
+18 Vay 1955
+18/1530 2 May 1955
+*5 DATE/TIME OF SICHTING
+07/2025 Z Nay 1953
+6 LOCATION OF SIGHTING
+Puenty oldo Palns, California
+8 MEANS RECD 9 INITIAL ACTION
+17 25g
+No investigation authroized
+11 INVES ASSIGNED BY
+! 12 DATE INVES ASSIGNED
+B/A
+114 DATE IR RECD AT HQ
+·/A
+17 AISOP FORM 5 FILED
+1đ Nay 1955
+15 DATE IR APPROVED
+! L LOGGED BY
+Syt Crawford
+17 GEOREF
+10 INVES UNIT
+1/A
+13 ASSIGNING OFFICER
+N/4
+16 DATE IR SENT TO ATIC
+: 18 COMMENTS
+After checking astronomieal charta, it is Improbabla that observed object was a star
+or ny other astronomieal objech.
+In addition, there are ro indicatiens of unasual
+avrial activity in the area of the sighting. The organisation which processed this
+report vas an Avonen Squadron. Jovever, Irom the description oi tha sighting, in
+conjunctioa with the weather repert which would preciude a drifting balloos, 1t la
+Judged that the sighting was POSSIBI AIRCRAT?.
+$19 CONCLUSIONS
+Fossibly aircraft
+AISOP FORM 7 (2 APR 55)

@@ -1,0 +1,20 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T07:31:56Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9105321, "source_ctime_ns": 1793362493879880326, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330783011/45484701-003-001-0051.jpg", "source_mtime_ns": 1785685149000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330783011/45484701-003-001-0051.jpg", "source_sha256": "2cbca496ce40db699e940150945b7eee13aab59bb48cbc1b6cd668cb11156883"}
+
+===== PAGE 1 =====
+{"alpha_words": 78, "chars": 469, "method": "ocr", "page": 1, "variant": "plain-vision"}
+(4)
+Ive scen a steet bas houng in tfare
+at aute shout, it was mearly taus
+pales proling against each ache citens
+/ sulling togatter.
+os Push you watel os a pere
+of steel cheough a demagnet ter
+and on mit sa what I meni
+Af a plane wee egirpet mith
+a magicof afout two a 3 As
+and che noich pale prenter at che
+noie of the plane or stock out. alead
+a che propelle a foot o tuo (think
+those sovress would he cought,
+defintfally yours
+Declassification Authority: NND 923007

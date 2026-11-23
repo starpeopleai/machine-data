@@ -1,0 +1,17 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T08:13:22Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 13296188, "source_ctime_ns": 1793355456952894998, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0038.jpg", "source_mtime_ns": 1785564458000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0038.jpg", "source_sha256": "33c35f6f27cbb4a7e8b71a53c29d320b8eb4598ecad28001c024027019c63976"}
+
+===== PAGE 1 =====
+{"alpha_words": 87, "chars": 647, "method": "ocr", "page": 1, "variant": "plain-vision"}
+V Reaction Jet Azimuth Control
+System tor Gondola Stabilization
+James G. Nelson
+Senior Staff Engineer
+Space and Armament Systems
+Honeywell Aeronautical Division
+Abstract
+An azimuth control system for orientation and stabilization of a 3000 pound
+balloon-borne gondola about the vertical axis is described in this paper. The control
+system employs nitrogen gas stored under high pressure as the thrusting propellant.
+A magnetometer and a rate gyro provide attitude and attitude rate information'for
+the nonlinear on-off control system. Attitude control is held to a tolerance of + 0.1
+degree with a maximum deadband rate of 0.07 degree per second.

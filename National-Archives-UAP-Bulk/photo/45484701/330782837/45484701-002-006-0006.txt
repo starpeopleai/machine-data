@@ -1,0 +1,44 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T07:49:42Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9167868, "source_ctime_ns": 1793362385660783318, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330782837/45484701-002-006-0006.jpg", "source_mtime_ns": 1785684690000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330782837/45484701-002-006-0006.jpg", "source_sha256": "026808f5517c20daae3fd76059bc8701dfeef6e5e49cb61c2a62a1fd37ee8e9d"}
+
+===== PAGE 1 =====
+{"alpha_words": 305, "chars": 1788, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Dr. Lincoln laPas
+August 8, 1949
+Page 2
+All of us saw it "full grom and there is little possibility
+that it could have started as a bright shooting star steadily getting
+brighter as ls. Purves and I were both looking at that part of the sky
+when it appeared. Mr. Purves' impression was that it was moving in a
+definite are, 1.0., that the center of the course was above a straight
+line between the beginning point and the point at which it disappeared
+behind the house. It seemed to me, however, to be a straight line.
+Spar ks
+Mr. Purves definitely saw two large red pieces "bigger than
+sparksại left behind by the top of the object before it disappeared
+behind the house. Mys. Parves and I did not see these though we were
+actually in a slightly better position to do so, and can't explain this.
+Course
+I was wrong in saying that some of the party had seen it come
+out from behind the house.
+Tracing its course, is is obvious that is
+would have been hidden behind trees on the hill to which I have referred.
+My wife looked around in that direction and saw "the whole horizon! lit up
+with an ice-blue green light from the object which was behind the trees and
+Absence of
+Sounds
+Irail
+None of us saw any luminous trail left even momentarily by the
+object and none of us heard any sound of any description.
+I am sending a copy of this letter to Dr. Olivier whose office
+tells me that he has been on vacation since I sent him your questionaire.
+If he hasn't mmerous other observations, I will try to get a similar
+rehearsal from the people who saw it ten miles to the north and thereby
+get at least one triangulation.
+With personal regards,
+Sincerely,
+/s/ Brandon
+/%/ Brandon Barringer
+BB :ARG
+CC} Dr. Olivier, D. M. Barringer, Edmund R. Purves
+00 8 4
+Declassification Authority: NND 923007

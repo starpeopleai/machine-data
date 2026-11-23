@@ -1,0 +1,59 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T07:41:54Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6571156, "source_ctime_ns": 1793383071185765550, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28986280/0042.jpg", "source_mtime_ns": 1785747987000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28986280/0042.jpg", "source_sha256": "8a9ad037d0b8296cd1bae6cab15a036e170387faaf4a3d3e97cf7805c30c7bfd"}
+
+===== PAGE 1 =====
+{"alpha_words": 146, "chars": 1054, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DATE
+25 March, 1900
+DATE-TIME GROUP
+Local
+1030 F.1.
+Смт.
+5. PHOTOS
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Dalton,
+Massachusetts
+4.
+TYPE OF OBSERVATION
+Xa Ground-Vi sucl
+• Air Visual
+SOURCE
+• Ground-Radar
+D Air-Intercept Radar
+Civilian
+8. NUMBER OF OBJECTS
+one
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aireraft
+Probably Aircraft
+Possibly Aircroft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other_ ice
+Insufficient Data for Evaluation
+Unknown
+= Yes physical spec
+O No
+7. LENGTH OF OBSERVATION
+N/A
+10. BRIEF SUMMARY OF SIGHTING
+A 30 lb. chunk of ice fell in Dalton, Mass.
+The area wassurveyed by an AlIC investigato
+and there was no overhead object from which
+the ice could have fallen. The spatter
+pattern was a fairly even distribution over
+an area 23' x 28'. The ice was analysed
+and described as porus, or like rime ice.
+9. COURSE
+down
+11.
+COMMENTS
+ATIC has arrived at no conclusion as
+to the origin of the ice. Future
+cases may irdicate a pattern which
+will lead to a conclusion.
+ATIC FORM 329 (REY 26 SEP 52)

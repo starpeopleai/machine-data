@@ -1,0 +1,72 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T07:33:17Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9930686, "source_ctime_ns": 1793364171287931404, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330786509/45484701-006-006-0214.jpg", "source_mtime_ns": 1785684592000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330786509/45484701-006-006-0214.jpg", "source_sha256": "cba3c0f2d09564ca1b68a4ac7e08f5ba606fba91fa5be8a082cb397bc242891f"}
+
+===== PAGE 1 =====
+{"alpha_words": 167, "chars": 1327, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UNITED STATES AIR FORCE
+THE INSPECTOR GENERAL
+OFFICE OF SPECIAL INVESTIGATIONS
+REPORT OF INVESTIGATION
+TITLE
+UNKNOWN ABBIAL PUENOUANON
+Sighted by S/A ROBERT R. JOHNS
+Hollomen AFB, 2005 hours, 13 December
+1949 •
+FILE NO.
+DATE
+(24-8) - 1
+17 January 1950
+REPORT MADE BY
+S/A ROBERT R. JOHNS
+REPORT MADE AT
+17th DO, Kirtland AFB, New Mexico
+PERIOD
+13 December 1949
+OFFICE OF ORIGIN
+17th DO, Kirtland APB, New Mexico
+STATUS
+CLOSED
+CHARACTER
+SPECIAL INQUIRY = Unconventional Aireraft
+REFERENCE
+AFOST Letter No. 85; Headquarters 0SI file 24-185
+SYNOPSIS
+This investigation is submitted in compliance with AFOSI
+Letter No. 85, dated 12 August 1949, to report all sightings
+of unidentified flying objects.
+The writer observed an
+unusual serial phenomenon at 2005 hours, 13 December 1940.
+UNCLASSIFIED
+CLASSIFICATION CANCELLED &
+BY AUTHORITY OF THE DIRECTO
+BY
+NOT K. KUNZE, Capt, USAF SOU INV
+Historian / 4 DEC 1975
+DATE
+DISTRIBUTION
+ce..
+ARE 2060/50/70
+(Norton Copy)
+ACTION COPY FORWARDED TO
+Commanding General
+Air Materiel Command
+Wright-Patterson AF
+Dayton,
+Chio
+ATIN:
+NG TAXO-S
+APPROVED
+5924 795-17-37
+МИВ
+RESEARGH LAB.
+FILIC
+DOYLE REBS
+Lt Col, USAF
+District Co
+4 ВЕВ ЗА
+16--57744-1
+U.S. GOVERNMENT PRINTING OFFICE
+AFHQ FORM
+15 JAN 49
+0-208
+Replaces A FCSI Form 4, 23 Jul 48, which may be used.
+Declassification Authority: NND 923007

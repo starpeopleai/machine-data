@@ -1,0 +1,59 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T08:19:18Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6960320, "source_ctime_ns": 1793355820685320846, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989274-001-0096.jpg", "source_mtime_ns": 1785564533000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989274-001-0096.jpg", "source_sha256": "5ad833be5cbc86d919e89d31d6dec082f0a6b29f1e4d4fe6d75960ef3d2b8c1c"}
+
+===== PAGE 1 =====
+{"alpha_words": 692, "chars": 4511, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Library of Congress
+CIP DATA SHEET FOR BOOKS
+INSTRUCTIONS
+The numbered instructions below correspond to the numbered blocks of the attached CIP Data Sheet. Only those blocks which
+may raise questions are referenced.
+4. "Projected publication date refers to the date the book first becomes available for sale. No CIP application can be
+processed without the projected month and year of publication. Be as realistic as possible to avoid frequent changes
+5. The person listed here will be contacted when questions of an editorial nature arise or if insufficient information was
+provided. Also provide phone number and Internet number if available.
+6. On ide plon, libramber af intered to coer if availa house editor with questions concerning the forthcoming book. Also
+7. When there is more than one author, record their names in the same order they appear on the title page. Use this block
+also to record editors, translators, illustrators, etc., noting their tunction.
+Because author's full names are to be recorded in this block, the form of the names will not necessarily match the form of
+the names appearing on the title page.
+Include birth dates of persons listed on the title page if at all possible. If you do not supply the birth date(s) and a date is
+subsequently necessary to distinquish a particular individual from another with the same or similar name already in our
+files, you may be contacted for this information which will delay processing of your application.
+8. Supply the title and subtitle exactly as they will appear on the title page or its substitute.
+9. The information in this block is particularly important for works which are complete in more than one physical volume.
+11. If a previous English-language edition (published either by your house or by another house) was issued with a different or
+variant title, record the previous title here.
+12. If the work is a translation, provide the original title in the original language. Identify the language of the original.
+Include with your application a copy of the page(s) on which the series title and number appear. Indicate the
+International Standard Serial Number (ISSN) if it will appear in the book.
+If the series is numbered, be sure to include
+the numbering designation, e.g., "volume 1," "vol. 1," "number 1," or "#1," etc.
+15. See Tables for Block 15 on other side.
+16. If you check "General," do not fill in Block 18.
+If a work is intended for a specialized audience, check "Other" and specify
+the particular audience, e.g., health care specialists, musicians, lawyers, etc.
+19. Supply ISBNS in their complete (10-digit) form, including the initial group identifier, your publisher prefix, and al
+subsequent numbers and hypens.
+Indicate beside each ISBN the particular format, e.g., hard cover,
+binding. If one or more formats will be printed on permanent paper, check the appropriate infinity symbol box (es).
+20. The summary should indicate topics covered (including time span and geographical coverage), general thrust of the work,
+and the disciplinary approach taken, e.g., a sociological analysis.
+In instances where more space is required, please
+Because fiction titles suitable for children and young adults have a brief, non-critical annotation included as part of th
+atalog record, it is particularly important that you submit a concise summary tor fiction titles intended
+for these
+audiences. Your summary should indicate the content of the item and any special features or unusual aspects, such as a
+inique perspective on a particular subject or a special physical format feature, e.g., a miniature or oversize book, board
+ages, or pop-up illustrations. This summary will be used in conjunction with the core required materials to create the
+cataloging annotation and to assign the juvenile subject headings.
+EACH CIP DATA SHEET MUST BE ACCOMPANIED BY A FULL GALLEY OR MANUSCRIPT OR AT MINIMUM
+THE CORE REQUIRED MATERIALS DEFINED IN THE CIP PUBLISHERS MANUAL.
+APPLICATIONS SHOULD BE
+SUBMITTED WELL IN ADVANCE OF PUBLICATION ALLOWING AMPLE TIME FOR THE MAIL AND THE
+RESOLUTION OF BIBLIOGRAPHIC PROBLEMS THAT MAY ARISE DURING THE CATALOGING PROCESS.
+PREPARATION OF CIP DATA OBLIGATES THE PUBLISHER: (1) TO PRINT THE CIP DATA IN THE BOOK FOR
+WHICH IT WAS PROVIDED, AND (2) TO SEND FREE OF CHARGE TO THE CIP DIVISION A COPY OF THE BOOK
+FOR WHICH THE DATA WAS PROVIDED IMMEDIATELY UPON PUBLICATION.
+CONTINUING PARTICIPATION IN THE CIP PROGRAM IS CONTINGENT ON FULL COMPLIANCE WITH THESE
+OBLIGATIONS.
+REMOVE THIS SHEET

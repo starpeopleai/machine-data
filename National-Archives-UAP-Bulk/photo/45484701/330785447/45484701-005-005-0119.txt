@@ -1,0 +1,83 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T07:32:25Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9272763, "source_ctime_ns": 1793363539435770723, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785447/45484701-005-005-0119.jpg", "source_mtime_ns": 1785684625000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785447/45484701-005-005-0119.jpg", "source_sha256": "dc8eaaaaf2f3bf678e4f1a7d357224854008e3f6e9ddab068d681d6b25f412b1"}
+
+===== PAGE 1 =====
+{"alpha_words": 296, "chars": 2044, "method": "ocr", "page": 1, "variant": "plain-vision"}
+TITLE
+HEADQUARTERS UNITED STATES AIR FORCE
+THE INSPECTOR GENERAL
+OFFICE OF SPECIAL INVESTIGATIONS
+REPORT OF INVESTIGATION
+UNKNOWN
+(Aerial Fhenomena)
+FILE NO
+DATE
+24-8
+13 Deo 48
+REPORT MADE BY
+CHARLES HAFPZIGER, JE
+REPORT MADE AT
+DO #17, KIRTLAND APB
+PERIOD
+6 - 9 December 1948
+OFFICE OF ORIGIN
+DO #17, Kirtland AFB
+STATUS
+PENDING
+CHARACTER
+SPECIAL INQUIRY
+REFERENCE
+None, this is an initial reporte
+SYNOPSIS
+Investigation requested by District Commander, 17th District OSI.
+Telephonic repert received from Security Officer at Kirtland Air Force
+Base, Kirtland Field, How Nexico, on 6 December 1948, adviced that an
+Air Force Pilot had observed an unidentified object similar to a green
+flare on 5 December 1948, at 2105 hours, west of Las Veges, New Hexico,
+and again at 2127 hours on the eset slope of the Sandia Mountains neer
+Albuquerque, New Mexico.
+A commercial pilot reported a similar incident
+at 2155 hours west of Las Vegas, New Lexico.
+Pilot of C=47, AF 9981, is identified as Captain &, GOADE, AC«55483,
+Captain Pilot of Pioneer Flicht No. 68 is identified as Mr. ERNEST VAN
+LLOYD.
+New Mexico State Police, Santa Fe, New Mexico, were contacted and had no
+information to offer reference unusual serial phenomena.
+Mr. E. D. FLOCK, Forest Supervisor, Santa Fe Vational Forest, Santa Fe,
+New Mexico, stated he has received no reports of incidents of this type
+during the current year. However, in the summer of 1947 a kra. MADELINE
+0. MERCHANT had made numerous reports to him concerning unusual aerial
+manifestations in the area from Tierra Amarilla to Los Alames, New Mexico.
+CLASSIFICATION CANCELLED COP
+BY AUTHORITY OF THE DI
+DISTRIBUTION
+ACTION COPY FORWARBED TO
+KURT K. KINZE Cant, USAF OF SEBO INV
+CO, KAPB (Aetion Copy)
+Hicterian
+4 DEC 1975
+(1 Inel)
+O5I, Hq (1 Inel)
+co, Kirtland-APB
+DATE
+10th District OSI
+(1 Inol)
+Holloman AFB Det
+2
+1
+UNCLASSIFIED
+(1 Inol)
+Walker AFS Det
+124
+(1 Inel)
+File
+2
+APPROVED
+Doy
+DOYLE REES
+Lt Col, USAF
+DISTRICT COMI
+2 0 1943
+AFCSI FORM 4
+23 JULY 48
+TING OFFICE
+Declassification Authority: NND 923007

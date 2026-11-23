@@ -1,0 +1,40 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T08:12:09Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 11705190, "source_ctime_ns": 1793358880011509847, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-063-0006.tif", "source_mtime_ns": 1785681248000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-063-0006.tif", "source_sha256": "ab8191b0ff5b4a152f810288335e794f2df94e893282367988b7a99e088a22a6"}
+
+===== PAGE 1 =====
+{"alpha_words": 257, "chars": 1679, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+AF "
+.. 112-PART I1
+• KKOVED 1 JUNE 1948
+UNCLASSIFIED
+FROM (Agency)
+AIR INTELLIGENCE INFORMATION REPORT
+REPORT NO. 2=A -UFOB+2-55
+PART TWO
+111ght 2-1, 4602d AISS
+PAGE
+3
+OF
+PAGES
+SUPPLEMENTARY INVESTICATIVE EPPORTS:
+Upon assignment to Detachment 2 for investigation Capt Bischofs began to
+conduct the investigation, however, he was unable to develop any leads.
+The invest-
+igation was then turned over to Flight 2•A since the initial report and photographs
+had gone to the D/I 3lst Air Division.
+2. Checking with research agencies in this area revealed that there were no
+allons from Minneapolis over lowa at the time.
+Also the lights carried on ballons
+tre generally white or possibly red and white flashing.
+At 30/0730Z July 55 a/B-25 type aircraft, #AF8170, passed within five (5)
+miles of the object and was asked by the AC& site at Omaha if they could ses the
+object. The pilot reported he could not see it,
+When the film was developed by the 5llth Material Sqdn Photo Lab nothing
+showed. (See Part, One, Incl 1)
+5. It is believed that Moby Dick ballons carry only a white light.
+The U. of Minnesota Observatory said that there was nothing astronomical
+that would cause such a sighting on that night.
+NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S. C.-
+31 AND 32, AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW.
+IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF
+INTELLIGENCE, USAF.

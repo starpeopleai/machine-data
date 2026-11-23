@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T07:42:59Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6775552, "source_ctime_ns": 1793361890189212503, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330781681/45484701-001-005-0070.jpg", "source_mtime_ns": 1785684789000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330781681/45484701-001-005-0070.jpg", "source_sha256": "9fa1efd73e8a850023a7e8939fbac74132348a058adaa6fb516ab3ec33085fc2"}
+
+===== PAGE 1 =====
+{"alpha_words": 35, "chars": 426, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+AW 49 g3719gusT
+
+HIA 250030 2176/2558 /N12/ 902 1h19 90 24973
+IDA 068 2098/50/20), /009/ toa 819 52 2h593
+OBS Of4 1909/19/21 15/000/ 308 ag 25 2hg53
+OLN EMMsahs 220/45/295TM4/ Ode am69 24 25009
+
+AW 19 p71290uST
+
+HIA 250090 2109/50/29 719/011
+IDA 069 299/51 /2hw8 om
+
+DBS 256050 186/539 /20—019 008 ©
+OLN E2gdahs 220 /\9 /22t~G/oy,
+
+A CERTIFIED TRUE COPY;
+
+ROGER Ag STEVENSON
+MAJOR USAF
+
+Declassification Authority: NND 923007

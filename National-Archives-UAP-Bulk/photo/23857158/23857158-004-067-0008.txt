@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T07:52:25Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10899554, "source_ctime_ns": 1793358903529635032, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-067-0008.tif", "source_mtime_ns": 1785681257000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-067-0008.tif", "source_sha256": "62b3b1b488f568d8d68c7f5c33abbc5ff5fe75f8cc40c6ba74435ac4689e2629"}
+
+===== PAGE 1 =====
+{"alpha_words": 48, "chars": 482, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+1. GROUND VISUAL
+2. BINOCULARS
+3. N/A
+D.
+1. 0240Z 11 SEP 55
+NIGHT
+E. LA GRANDE IOWA NM 1358
+F •
+1. ROBERT PIERSON NEG LA GRANDE IA. FARMER
+PAGE THREE RUEDNG 1H
+2. N/A
+G.
+1. CLEAR SCATTERED CIELING
+2. 5000-350/15Ś
+20000-270/35
+10000-260/25 30000-252/50
+15000-270/40 40000-242/70
+3. NEG
+4. NEG
+>• NEG
+H. BALLON POSSIBLY - GOC
+I. NEG
+K. NEG
+L. 1ST LT JOHN R MORRISON DUTY DIRECTOR. POSSIBLY A BALLON SIGHTING
+NO CRI CONTACT
+BT
+11/1658Z SEP RJEDNG

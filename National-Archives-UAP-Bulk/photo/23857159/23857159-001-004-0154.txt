@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T07:35:55Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 16316276, "source_ctime_ns": 1793361141497914208, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-004-0154.tif", "source_mtime_ns": 1785565243000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-004-0154.tif", "source_sha256": "2865663de995730f010bfce3a01c8493e333f999981c30ff3512ec4431e392b6"}
+
+===== PAGE 1 =====
+{"alpha_words": 100, "chars": 652, "method": "ocr", "page": 1, "variant": "plain-vision"}
+...
+240
+APPENDICES
+Don't remen pee da
+D. Was the oblets brighter tian the beckground of the bar a remembe
+(Circie One):
+automobile beedlighs i
+b, Several blocks away t
+A block away t
+8. Several yards away 8
+nile •
+81. Did the objece:
+6, Appear to stand stil at any time?
+(it do One for ere notion)
+12. Dice bets Yet
+chind something at any time, partie waty a cloud
+you answered YES, then t
+what is moved behed: -sp cred beird of ad
+(Circle One):
+what it moved in front of:
+14. Did the object spee in De): e. Solidt b. Transparent c. Don't know
+e. Eyeglasses
+b. Sun glasses
+c. Windshield
+Yes No
+1. Window glars Yes
+No
+DECLASSIFIED
+Authority NND 9237007

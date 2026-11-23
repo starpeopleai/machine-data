@@ -1,0 +1,47 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T07:59:24Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 24259984, "source_ctime_ns": 1793357608354205573, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1485-540328-0005.tif", "source_mtime_ns": 1785564936000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1485-540328-0005.tif", "source_sha256": "ff5b10f4d77fb61e8dfb6fb1b6d674002b5cf086b20035631ed4cb9aaf5df359"}
+
+===== PAGE 1 =====
+{"alpha_words": 227, "chars": 1478, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AF FORM 112-PART II
+APPROVED 1 JUNE 1948
+FROM (Agency)
+CG 10th Air Div (Bef) APO 942
+AIR INTELLIGENCE INFORMATION REPORT
+REPORI NO
+10AD-2-53
+* SECRET
+SECURITY INFORMA
+STATEMENT
+» residing at King Salmon, Alaska make
+the foliowing statement.
+During the eveining of 6 February 1953 at approx. 10:00 P.M.
+Alaskan standard time I observed a strange bright light in the sky
+west of my home.
+The light was a Red-Orange when I first observed 1t
+and changed to white and back to Red-Orange several times. The light
+was about the size of the obstruction lights on the end of the runway,
+8" to 10". There appeared to be fog or clouds above the horizion and
+below the light.
+The light did not change colors regularly, sometimes
+fast, sometimes slow, and did not appear to move.
+When the light was
+white it was very white.
+The above is a voluntary statement and is true and correct to the
+best of my knowledge.
+/s/
+/t/
+King Salmon
+USAF
+1). G.:evis
+7/3//28
+4167/29
+NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S. C.-
+31 AND 32. AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW.
+IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF
+INTELLIGENCE, USAF.
+SECRET
+SECURITY lIFOR
+SEORET
+(CLASSIFICATION)
+IZION
+Declassification Authority: NND 57565

@@ -1,0 +1,45 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T07:55:56Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 15415982, "source_ctime_ns": 1793358602210353678, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-003-082-0002.tif", "source_mtime_ns": 1785681145000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-003-082-0002.tif", "source_sha256": "8a71da0be8c82b5c4f8b31277f89374d7a32e3663a33449eb0dff9da1e4d0e75"}
+
+===== PAGE 1 =====
+{"alpha_words": 206, "chars": 1502, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+ENP
+OPS
+LV0002
+ENA082 YMA107 XYA224 XDE139 XXC123KLA099KLQ269
+MM RJEDEN RJEDWP RJEPHO RJWPKL
+DE RJWPKL. 450
+M 2321302
+FM COMAIRDIVDEF 28 HAMILTON AFB CALIF
+TO RJEDEN/COMDR ADC ENT AFB COLO SP COLO
+RJEDWP/COMDR AIR TECH INTEL CEN WRIGHT PATTERSON AFB OHIO
+RJEPHQ/CIR OF INTEL CHQS USAF WASHINGTON 25 D C
+RJMPKL/COMDR 46Ø2ND AIR INTEL SER SQ HAMILTON AFB CALIF
+27/15ppŘŚ
+/UNCLASSIFIED/280ID 55M-221. UFOB PD (1) (A) FLAT AND EGG SHAPED PD
+1) (3) PEA PD (1) (C) AMBER PD (1) (D) ONE PD (1) (E) N/A PD (1) (F)
+STRANGE MANEUVERS PD (1) (G) SMALL AND STREAK BEHIND PD (1) CH)
+NONE PD (1) (I) NONE PD (2) (A) VISUAL SIGHTING OF OBJECT PD (2) (B)
+045 DEGREES TO THE SOUTHWEST PD (2) (C) Ø72 DEGREES PD (2) (D) CAME
+UP IN SOUTH CMA WENT TO SOUTHWEST CMA AND MADE 90 DEGREE TURN PD
+(2) (E) CAME
+STRAIGHT OVERHEAD AND CLIMBED STRAIGHT OUT OF SIGHT PD
+(2): (F) FORTY FIVE SECONDS PD (3) (A)
+GROUND VISUAL PD (3) (B) 6 BY
+X32 BINOCULARS PD (3) (C) N/A PD
+230510 ZULU AUG 55 PD (4) (B)
+NIGHT PD (5) PJ4035 PD (6) (A)
+MA AGE FORTY CMA
+TWO DE
+RJWPKL 45 Q
+COMA SACRAMENTO CMA CALIFORNIA CMAN CARPERIER PD
+* CMA AGE 17 CMA SAME ADDRESS CMA STUDENT PD
+CMA AGE 34 CMA SAME ADDRESS CMA HOUSEWIFE PD (6) (B) N/A PD
+(7) (A) G00D PD (7) (3) 5,000--310/5 PD 10,000--23875 PD 15,090--
+060/12 PD 20/02 --100/5 PD 30,209--250/25-PD 42,829--240/20
+PD (8)
+NONE PD (9) NONE PD (10) NONE
+PD (11) DIRECTOR OF INTELLIGENCE CMA
+28TH AIR DIV DEF CMA NO COMMENT PD (12) NONE PD
+Вт
+23/2129Z AUG RJWPKL

@@ -1,0 +1,7 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T07:50:44Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9273113, "source_ctime_ns": 1793379833813388546, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28973525/0173.jpg", "source_mtime_ns": 1785701101000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28973525/0173.jpg", "source_sha256": "9a74b23b52d1f5265d00d715ae2942c397cff8fcdd0c6e74e36cb617a1a20827"}
+
+===== PAGE 1 =====
+{"alpha_words": 6, "chars": 56, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 1, "variant": "plain-vision"}
+6 Nov 1957 Whiteman AFB, Missouri
+UNCLASSIFIEA
+EVANSMEN

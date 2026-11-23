@@ -1,0 +1,47 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T07:31:42Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8866962, "source_ctime_ns": 1793364705154028703, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787490/45484701-007-003-0169.jpg", "source_mtime_ns": 1785684894000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787490/45484701-007-003-0169.jpg", "source_sha256": "1601de18fea70fe8dfacb0341f4ce071133aa4130a3076a8536742c801c74c71"}
+
+===== PAGE 1 =====
+{"alpha_words": 174, "chars": 1259, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AF HQ-38• (20 May 44)
+CONFIDENTIAL
+HEADQUARTERS UNITED STATES AIR FORCE
+ROUTING AND RECORD SHEET
+TALLY
+NO.
+FILE
+NO
+SUBJECT: (Unclassified) RADAR PHENOMENA, White Sands, New Mexico, SPECIAL INQUIRY
+TO:
+Counter Intelligence Division, Office of Special
+Investigations, The Inspector General
+FROM: Directorate of Intelligence, DCS/0
+DATE 22 SEP 1950
+COMMENT NO.
+It Col MacDuff/he/74507
+AFOIV-TC
+l. Full evaluation of the information contained in the attached letter
+cannot be made until the additional information requested by the Director of
+Communications in Comment No. 2 is obtained.
+2. Although no information is available in this Directorate, it is under-
+stood that ground radars have been used in the vicinity of White Sands, New
+Mexico in connection with guided missile control experiments. The operation of
+such equipment in the area may have a direct bearing on the phenomena reported
+by Captain Goodbody.
+3. In addition, the reasons for Captain Goodbody's reference to espionage
+have not been stated and should be clarified.
+1 Incl
+n/c
+H. J. KIELING
+Colonel, USAF
+Executive
+Directorate of Intelligence
+CLASSIFICATION CANCELLED &
+BY AUTH
+EY
+KURT K. KUNZE, Capt, USAF
+Historian
+DATE
+5 DEC 1975
+CONFE
+16-54288-1źśł
+Declassification Authority: NND 923007

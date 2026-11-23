@@ -1,0 +1,44 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T07:32:34Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9410422, "source_ctime_ns": 1793354801320943634, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989219-001-0189.jpg", "source_mtime_ns": 1785564341000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989219-001-0189.jpg", "source_sha256": "72e08107c268004d90e54b1b7469f78275f8f2603d03ffb8d17486edc282a659"}
+
+===== PAGE 1 =====
+{"alpha_words": 335, "chars": 2306, "method": "ocr", "page": 1, "variant": "plain-vision"}
+INSTRUCTIONS FOR PREPARING AND ARRANGING
+VERBATIM RECORD OF TRIAL
+USE OF FORM.-Appendix 9a, MCM, 1951, and this form will be used by the trial counsel and the
+reporter as a guide to the preparation of the completed record of trial in all general court-martial cases and
+in all special court-martial cases in which a verbatim record is prepared.
+COPIES OF RECORD.-See appendix 9f, MCM, 1951.
+ARRANGEMENT OF RECORD.-When forwarded to the appropriate Judge Advocate General, a
+record of trial by general or special court-martial will be arranged in the sequence shown below.
+• The
+reporter, under the supervision of the trial counsel, will arrange a verbatim record in the sequence shown
+except for the items in italics. Items 6 and 7 need not appear with a special court-martial record.
+Item 9
+(h) will not appear with a special court-martial record.
+I. Front cover and chronology sheet.
+2. Court-martial data sheet.
+3. Court-martial orders; 10 copies promulgating the result of trial as to each accused.
+4. Signed review of staff judge advocate or legal officer, in duplicate.
+5. Charge sheet.
+6. Report of investigating officer, required by article 32, followed by any other papers which
+accompanied the charges when referred for trial, unless included in the record of trial proper.
+7. Advice of staff judge advocate or legal officer, required by article 34.
+8. Records of former trials.
+9. Record of trial proper in the following order:
+(a) Index sheet
+(b) Receipt of accused, or certificate of trial counsel, showing delivery of copy of record to
+accused.
+(c) Record of proceedings in court.
+(d) Action of convening authority and, if appropriate, action of officer exercising general
+court-martial jurisdiction.
+(e) Exhibits admitted in evidence.
+(f) Clemency papers.
+(g) Offered exhibits not received in evidence, but which are attached at request of counsel.
+Pages of record where offered and rejected will be noted on the front of each exhibit.
+(h) Appellate exhibits, such as proposed instructions, preliminary evidence, and, when directed
+by the LO, written or oral arguments or briefs of counsel heard outside the presence of
+the members of the court.
+10. Briefs of counsel.
+II. Request of accused for appellate counsel.
+12. This back cover sheet.
+* U.S. GOVERNMENT PRINTING OFFICE: 1951-O-945554

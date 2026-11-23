@@ -1,0 +1,22 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T07:41:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6373382, "source_ctime_ns": 1793362950580273039, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330784024/45484701-004-002-0165.jpg", "source_mtime_ns": 1785685048000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330784024/45484701-004-002-0165.jpg", "source_sha256": "8b1195090e8d7955e180c85c9c8147727b982c6488050e6832e8eb59c4783ade"}
+
+===== PAGE 1 =====
+{"alpha_words": 100, "chars": 668, "method": "ocr", "page": 1, "variant": "plain-vision"}
+SECITY
+INFO
+UNIDENTIFIED FLYING OBJECTS
+24-0
+Mr. CORALIO GUEVARA of 530 Capitol Avenue, Bridgeport, Connecticut, con-
+tacted their office by telephone and advised that he and his wife had
+seen what they considered to be a flying saucer during the evening hours
+of that date. Mr. GUEVARA further stated that he and his wife observed
+this object for approximately one minute and that it appeared to be
+flying at an altitude of approximately 3,000 feet and at a speed of over
+200 miles an hour. He could furnish no additional descriptive information
+relative to this object.
+FRANK P. DUNNINGTON
+Colonel,
+US AF
+District Commander
+10
+Declassification Authority: NND 923007

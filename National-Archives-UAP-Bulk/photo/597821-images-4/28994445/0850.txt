@@ -1,0 +1,54 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T07:50:01Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9201749, "source_ctime_ns": 1793385937418342880, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28994445/0850.jpg", "source_mtime_ns": 1785747958000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28994445/0850.jpg", "source_sha256": "ee37d621d4a1c8a9ef7b05c3ffe92a9647b2b78974ebea8a4b52d040f0126cd7"}
+
+===== PAGE 1 =====
+{"alpha_words": 109, "chars": 879, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+PROJECT 10073 RECORD CARD
+2. LOCATION
+5 Sep 61
+3. DATE-TIME GROUP
+Local _
+2010
+GM T.
+0604.102
+5. PHOTOS
+• Y•s
+IKNO
+7. LENGTH OF OBSERVATION
+5-10 sec
+10.
+BRIEF SUMMARY OF SIGHTING Red Objt, size Of dime.
+Continuous discent.
+Kelowna, B. C. Canada
+4. TYPE OF OBSERVATION
+XP Ground Visual
+• Air Visual
+• Ground-Rader
+• Air-Intercept Radar
+6. SOURCE
+Civilian
+8. NUMBER OF OBJECTS
+1
+12. CONCLUSIONS
+Was Balloon
+Possibly Balleor
+Possibly
+9. COURSE
+Vas Aircrat
+Possibly
+Cossably Aireral
+Was Astronomical METEOr
+EX Probably Astronomical
+Possibly Astronomicol
+•
+Other.
+Insufficient Data for Evaluation
+Unknown
+Descending
+11. comMENTs Objt possesses all characteristics
+of meteor. There is no evidence available
+which indicates that objt was anything
+other than a meteor or that it was a
+possible threat to national security of
+U.S. Probably a meteor.
+ATIC FORM 329 (REV 26 SEP 52)

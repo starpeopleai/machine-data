@@ -1,0 +1,13 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T07:38:23Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5392241, "source_ctime_ns": 1793378052436551014, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28966547/1176.jpg", "source_mtime_ns": 1785696866000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28966547/1176.jpg", "source_sha256": "f1aca0b11340ce153b313cb2298c1d9ba07f9876d43bc6d7b0a7d2d3dcfc1479"}
+
+===== PAGE 1 =====
+{"alpha_words": 51, "chars": 358, "method": "ocr", "page": 1, "variant": "plain-vision"}
+No Case (Information Only)
+July 1956
+SE KansaS
+LIFE, in its July 30 issue, published a photograph of
+a bright, saucerlike pbject seen flying in the sky over southestern
+Kansas the week before.
+"Ai Force officials dishesed i+ as •
+reflection from burning naturel ges, but thexKansans refused to accept
+this simple explanation for such a puzzling phenomenon."

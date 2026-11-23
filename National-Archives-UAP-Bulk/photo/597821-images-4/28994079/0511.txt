@@ -1,0 +1,52 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T07:48:29Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8672655, "source_ctime_ns": 1793385757678007144, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28994079/0511.jpg", "source_mtime_ns": 1785748254000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28994079/0511.jpg", "source_sha256": "38e735944bab2585090605d55e7e8700212b8b2c10d1506d24058e15f4924f12"}
+
+===== PAGE 1 =====
+{"alpha_words": 116, "chars": 883, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+14 Aug 61
+3. DATE-TIME GROUP
+Local .
+0340
+GMT.
+140940
+5. PHOTOS
+• Yo•
+EXNo
+7. LENGTH OF OBSERVATION
+1 min
+10. BRIEF SUMMARY OF SIGHTINOLliptical dull grey
+metallic color w/blast of greenish white
+exhaust 1/2 size of objt. In level flight fm
+E to SW. No sound.
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Webb AFB, Texas
+4. TYPE OF OBSERVATION
+XÖ Ground Visual
+• Air Visual
+6. SOURCE
+12. CONCLUSIONS
+Was Balloon
+Possibly Balloor
+Balloor
+• Ground-Rader
+• Air-Intercopt Radar
+Military
+8. NUMBER OF OBJECTS 9. COURSE
+•
+•
+Was Aircraft
+Probably Aireraft
+Possibly Aircraft
+BIX Was Astonomical METEOR
+Probably Astronomical
+Possibly Astronomica
+Other.
+Insufficient Date for Evaluation
+Unknown
+SW
+11. cOMMENTS All indications point to obser-
+vation of meteor. Color greenish white,
+duration of sighting less than l min,
+level flight, no sound, small size, etc.
+ATIC FORM 329 (REV 26-BEP 52)

@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T07:24:11Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 15146244, "source_ctime_ns": 1793356501434306638, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0110.tif", "source_mtime_ns": 1785564714000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0110.tif", "source_sha256": "950960004c86d9ecbb9a51a1e7fccd4a0f8388adcecf53d6a03f983be5343c03"}
+
+===== PAGE 1 =====
+{"alpha_words": 98, "chars": 747, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Hq AMC, Chief, Air Weather Service, Washington 25, D. C.
+Subj:
+Project "SIGN"
+4. The form used in interrogating witnesses to sightings is
+inclosed as a matter of interest. Conment as to possible improvement
+of the "Essential Elements of Information" in regard to routine
+synoptic balloon flights is invited.
+It is requested that correspondence be forwarded to the
+Commanding General, Headquarters, Air Materiel Command, attention
+MCIAXO¿$¿.
+FOR THE COMMANDING GENERAL:
+2 Incls:
+Summaries 1-172 incl
+"SEI
+Copies furnished:
+AFOIR, E9. USAF
+Capt Trakowski, Geophysics lab
+Major Kodis, MOREEP
+colonel Neal, soLate
+/s/ W. R. Clingerman, Col, USAF
+for
+II. L.. MOCOY
+Colonel, USAF
+Chief, intelligence Dept
+T-64481-A
+Declassification Authority: NND 57565

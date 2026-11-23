@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T07:45:43Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7686262, "source_ctime_ns": 1793385020360709267, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28991620/1252.jpg", "source_mtime_ns": 1785748434000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28991620/1252.jpg", "source_sha256": "aba9368e3acf0e2ec43c308c91c76b48a8008294578cf4bef32724d3b5227f7e"}
+
+===== PAGE 1 =====
+{"alpha_words": 100, "chars": 631, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Ltr, Hq, Ogden Air Materiel Area (001), 11 May 6l, Unidentified Object
+Found in Field.
+Ist Ind (AFCIN-4E/Major Friend, ATIC, WPAFB O)
+TO: Hq, Ogden Air Materiel Area
+MAY 2 4 1961
+Hill AFB, Utah
+1. ATIC has not as yet been able to definitely identify the object found
+in Mr.
+field; however, it does not in any way constitute a
+threat to the security of the United States.
+2. Our efforts to identify the object will continue and your Headquarters
+will be advised of future developments in this case.
+PHILIP G. EVANS
+Colonel, USAF
+Deputy for Science
+and Components
+1 Atch
+w/d
+COORDINATION: AF CIN-4E
+Va ior
+obert
+Friend
+DATE ZaMay 6/

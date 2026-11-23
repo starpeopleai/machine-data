@@ -1,0 +1,17 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T07:55:53Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 13839619, "source_ctime_ns": 1793355003984068781, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989257-001-0004.jpg", "source_mtime_ns": 1785564377000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989257-001-0004.jpg", "source_sha256": "a2aa451b4b29be42a752864241d6e0cc3091e95cd9cb26d7c7f7d607d5b5bfee"}
+
+===== PAGE 1 =====
+{"alpha_words": 44, "chars": 361, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+US. AIR FORCE
+OCMl755
+
+a FOR oFriciay USE OnLy
+
+TRUCK, MAINTENANCE, MOBILE HIGH REACH, WCAB, UTILITY BODY, and 65 ft. BOOM REACH.
+
+Chassis Model - IHC Model BCF-180, 1960 Contract No. DA-20-113-ORD-26317
+
+MANUFACTURED by: PITMAN MANUFACTURING COMPANY Grandview, Missouri
+
+Date of Award: 26 July 1960 ITEMS 1 through 32 OMS-4030.24.4360
+MIPR-40-604-60-2320-211

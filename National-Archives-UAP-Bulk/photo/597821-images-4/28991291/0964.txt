@@ -1,0 +1,37 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T07:46:16Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8136830, "source_ctime_ns": 1793384886386960562, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28991291/0964.jpg", "source_mtime_ns": 1785748474000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28991291/0964.jpg", "source_sha256": "5d8d1de88999c051209121b14e7afc528e3cc36327eaa84dedc8c514002ad1ce"}
+
+===== PAGE 1 =====
+{"alpha_words": 106, "chars": 737, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Detachment 3 (EURATIC)
+1125th USAF Field Activities Group (ATIC)
+UNITED STATES AIR FORCE
+APO 633, New York, New York
+REPLY TO
+ATTN OF: ITIAC
+2 3 FEB 1951
+SUBJECT: Transmittal of Unidentified Flying Object (UFO) Report
+TO: Hq USAF (AFCIN)
+Wash 25, D. C.
+Transmitted herewith is an Unidentified Flying Object (UFO) Report
+from Major William H. Todd, Commander, 7370th Flight Service Squadron
+(US AFE) •
+FOR THE COMMANDER
+Kelt E Wether
+DEMELT E. WALKER
+Lt Colonel,
+USAF
+Chief, Collection Oper1tions
+EURATIC
+1 Atch
+Ltr, Rpt of UFO, 6 Feb 61
+1 cy, 3 pages
+1st Ind (AFCIN-2)
+Hq USAF, Washington 25, DC
+TO: Hq USAF (AFCIN-4)
+For your information and any action deemed necessary.
+1 MAR 1961
+1 Atch
+n/c
+RICHARD G. JONES
+Lt Colonel, USAF.
+AFCIN-2

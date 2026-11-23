@@ -1,0 +1,22 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T08:13:42Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 18186844, "source_ctime_ns": 1793356547995574603, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0161.tif", "source_mtime_ns": 1785564721000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0161.tif", "source_sha256": "4510b330a3efd2dd176fa2cf67880b78304ee4016098438333945b1421afd5f4"}
+
+===== PAGE 1 =====
+{"alpha_words": 104, "chars": 752, "method": "ocr", "page": 1, "variant": "plain-vision"}
+LICH
+D
+Incident #65 -- Rehoboth Beach, Delaware -- September 1946
+Vatober 1946
+2 June 1947
+Inis incident dontains nothing astronomical.
+It is entirely possible that the objects observed on *
+these three separate dates were "Bumble Bees," ram-jet missiles,
+as fired from Fort wiles by the Applied Physics Laboratory of
+Johns dopkins University. Since the hour of observation of the
+various sightings (and the exact day of the first two) is not
+given in material submitted to this investigator, positive iden-
+Mification cannot be made; but if these facts are krown, inquiry
+at the above-mentioned laboratory (address:
+8621 South Georgia
+svenue, Silver Spring, Maryland) might bring forth definite iden-
+tification.
+Declassification Authority: NND 57565

@@ -1,0 +1,41 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T08:08:04Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9327521, "source_ctime_ns": 1793362088978833264, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330782123/45484701-002-002-0112.jpg", "source_mtime_ns": 1785684949000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330782123/45484701-002-002-0112.jpg", "source_sha256": "78c55eb47f8122502ab7abcce32f78c80567e60cf97eaafa9b9bac07e33ce672"}
+
+===== PAGE 1 =====
+{"alpha_words": 79, "chars": 614, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AF HQ-33 (20 May 44)
+CS I
+• HEADQUA
+ERS UNITED STATES AIR FORCE
+ROUTING AND RECORD SHEET
+TALLY
+NO.
+FILE
+NO.
+SUBJECT:
+TO:
+Forwarding Letter
+Security Division, AFCSI
+FROM: Directorate of Intelligence, DCS/O
+DATE
+® MAY 1949
+COMMENT 8/63 c/4700
+AFOIN-Admin
+Forwarded as a matter of primary interest and action as considered appropriate.
+Incl
+ltr fr S. F. Smith
+âtd 30 Apr 49
+Pare 60. Joran
+OVAL W. JONES
+Major, USAF
+Assistant Executive
+Directorate of Intelligence
+CLASSIFICATION CANCEL
+BY AUTHORITY OF
+KURT K. KUNZ
+BX Historian
+Capt, USAF
+8 DEC 1975
+UNCLASSIFIED
+PAGE
+16-54288-1
+Declassification Authority: NND 923007

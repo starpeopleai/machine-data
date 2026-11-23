@@ -1,0 +1,23 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T08:18:43Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6502152, "source_ctime_ns": 1793369715616717499, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28932605/1322.jpg", "source_mtime_ns": 1785688536000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28932605/1322.jpg", "source_sha256": "786cd59fdd9b6fc843dcf16e7a9007054cf5a7a991fb07cf211e6badba3ef7d8"}
+
+===== PAGE 1 =====
+{"alpha_words": 122, "chars": 757, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UNCLASSIFIED
+Ineident nº13 - Dayton, Chio -- 3 December 1310
+This incidont ray represent the suma phonomenon indi-
+cuted in 0212,
+The description hero is nore detailed.
+the object could not Have boon i meteor, since obser-
+vors state that it
+was in view several minutes and taat it was
+rapidly ascending and disappeured overhead.
+The moon was at crescent phase, and this investigator
+has often seen it at this phase appearing throuch saall breaks
+in overcast, at which tine it
+gave the appearance of a bright
+light flashing on and off. at the tine of this incident, how-
+ever, the moon was in the southwost, whereas tho observors state
+that troir ob jeat was in the northrest.
+The altitude givon
+does a pee approxinately with that of the ncon.
+UNCLASSIFIED

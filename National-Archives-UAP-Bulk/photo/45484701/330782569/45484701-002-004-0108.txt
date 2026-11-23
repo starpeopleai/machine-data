@@ -1,0 +1,71 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T07:30:19Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8607232, "source_ctime_ns": 1793362308319869440, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330782569/45484701-002-004-0108.jpg", "source_mtime_ns": 1785685176000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330782569/45484701-002-004-0108.jpg", "source_sha256": "2da517664936ae259b41bd5dbf4161108e6011a8e3873dc7b1cdf7985ec01bcf"}
+
+===== PAGE 1 =====
+{"alpha_words": 224, "chars": 1617, "method": "ocr", "page": 1, "variant": "plain-vision"}
+HEADQUARTERS
+UNITED STATES AIR FORCE
+THE INSPECTOR GENERAL
+OFFICE OF SPECIAL INVESTIGATIONS
+REPORT OF INVESTIGATION
+TITLE
+PROJECT "GRUDGE"
+Incident, Gilchrist Beach,
+Galveston, Texas
+HAL
+FILE NO.
+24-24
+DATE
+11 July 1949
+REPORT MADE BY
+FRANK J. WASIEWICZ, SA
+REPORT MADE AT
+DO #1O, KelLY AFF
+PER 10D
+6 July 1949
+OFFICE OF ORIGIN
+STATUS 5, Wright-Patterson APB
+RUC
+ke
+CHARACTER
+REFERENCE
+SYNOPS IS
+SPECIAL INQUIRY
+Report of S/A Philip F. Hooker, DO #5, W/P AFB, 17 May 1949.
+This investigation was predicated upon receipt of report of investi-
+gation by Special Agent Philip F. Hooker, Sth OSI District (IG), Wright
+Patterson Air Force Base, 17 May 1949, setting forth that alleged fly-
+ing objects were sighted in the vicinity of Gilchrist Beach, Galveston,
+Техав, n 6 ду 154), Мг. 0ND 13,35 0208, дл а witen, siened,
+statement, retracted the statements made by him in a letter to the
+editor of the Saturday Evening Post, 4 March 1949, wherein he reported
+that he had observed a flying object in the vicinity of Gilchrist
+Beach. Mr. CORDER further stated that his description of the object
+was partly imaginative and based on articles which he had read of the
+subject of flying missiles.
+CLASSIFICATION CANCELLED SE
+BY AUTHORI
+KURT K. KUNZE, Caff, ÜSA RECTOR OF SPEC ANS
+BY Historian
+1 • DEC 1975
+DATE
+DISTRIBUTION
+DO #5 (Incls)
+-Hqs OSI (Incl)
+File (Incl)
+ACTION COPY FORWARDED TO
+APPROVED
+FILE STAMP
+UNITED STATES AIR FORCE
+THE INSPECTOR GENERA
+JUL 26/4 22 PM '49
+OFFICE OF
+SPECIAL INVESTIGATION
+- 185
+R. LUMSDEN
+• Colonel,
+USAF
+DISTRICT COMMANDER
+FORM 4
+OLY 1948
+UNCLASSIFIED
+Declassification Authority: NND 923007

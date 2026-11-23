@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T08:07:27Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8865905, "source_ctime_ns": 1793383403338727509, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28986927/0628.jpg", "source_mtime_ns": 1785748449000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28986927/0628.jpg", "source_sha256": "768504b5020f7fc29787cde243774d1ad9880749fe086dcf47650696f5849396"}
+
+===== PAGE 1 =====
+{"alpha_words": 90, "chars": 709, "method": "ocr", "page": 1, "variant": "plain-vision"}
+19
+UFO ANALYSIS SHEET
+Location
+ZAREREY CENTER
+Date (Local) 20 MA2 60
+, NEW HAmPSHIRE
+Hour (Local)FFa
+- 0002
+Hour (Z Tima Group) 0502Z
+Satellite:
+(Det 5 ATIC, Ext 3279).
+Astronomical Phenomena (Meteor, Comet, Planet, etc)_
+Radar Analysis (AFCIN-4E1).
+Natural Phenomena (Ball Lightning, etc) Possie minase. oe Refueero~
+Aircraft, Balloons, Airships, etc. Pesseney Brecoe~o
+ARORAIT
+Other
+Evaluation of Source Reliability UNKNow~
+оновСт
+PROCABLY
+REFLECTION, MOURNOR THERE 15
+бИКРІСІєнТ
+OTTA TO SUPPORT TOS CLAIM.
+THE SOUECT NAD BEEN A BALLOON
+PRIBABLY
+WOULO NET HAVE I CROSSED
+CODERED OF THE WINOON
+wonio
+FASTER. . .
+THIS CASE CONTAINS
+INIUPFICIANT DATA TO REMEM
+DATO TALE
+CONGCUSION -
+"I NINERGIANT OUTA"
+Franal

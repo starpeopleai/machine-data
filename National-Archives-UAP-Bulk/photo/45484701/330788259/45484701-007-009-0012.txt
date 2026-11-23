@@ -1,0 +1,62 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T08:07:57Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9266668, "source_ctime_ns": 1793365063342288514, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330788259/45484701-007-009-0012.jpg", "source_mtime_ns": 1785684985000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330788259/45484701-007-009-0012.jpg", "source_sha256": "aa3f05bb806cc99c51052a2f09f77e23c7156d6212d099e08badfac1b2ecae8e"}
+
+===== PAGE 1 =====
+{"alpha_words": 230, "chars": 1661, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DIR
+HQ, 24TH DISTRICT
+OFFICE OF SPECIAL INVESTIGATION
+THE INSPECTOR GENERAL, USAF
+529 S. LA SALLE STREET
+CHICAGO 5, ILLINOIS
+UNCLASSIFIED
+24D 24-0
+SUBJECT:
+NR
+(U) UNIDENTIFIED FLYING OBJECT
+26 February 1959
+SeeN bY MR. A B. PARTiN
+TO:
+Commander
+56th Fighter Group (AD)
+O'Hare International Airport
+Park Ridge, Illinois
+10
+Reference is made to paregraph 15, AFR 200-2 dated 6
+February 1958, concerning the reporting of unidentified flying
+objects.
+2.
+At 1000 hours, 24 February 1959, Mr. A. B. Martin, 12615
+South 33d Avenue, Palos Park, Illinois, telephonically advised this
+District Office that at 5:20 AM that date, he was backing his car out
+of his drive-way, facing in a northerly direction. Mr. Martin ad-
+vised that upon lowering his side window he observed an object which
+appeared to be green with a blue tail approximately 100 to 200 feet
+above treetop level. Martin was unable to give any information re-
+gerding the shape or size of the object, compared with known objects,
+because there appeared to be a light green haze enveloped around
+the object.
+Martin stated that he heard no sound emanating from
+the object.
+The information contained in paragraph 2 above was
+immediately telephonically relayed to Major Alexander S. hartley,
+AO-696695, Base Operations Officer, Soth Fighter Group (AU), by
+Special Agent Albert C. Omer, Detachment Commander, O'Hare Detach-
+ment of thin betrict.
+12 MAR 1959
+OUT
+on
+12 MAR1959
+CI DIV
+OSI
+ce: Dir OSI
+UNCLASSIFED
+XMAN P. DAVISO
+Lt. Colonel, USAF
+Diatriot Con 35F 27-31
+UNITED STATES AIR FORCE
+THE INSPECTOR GENERAI
+MAR 6 10 1 29'59
+SPICAL INSPE
+TIGATIONS
+OR OFFICIAL USE ON
+Declassification Authority: NND 923007

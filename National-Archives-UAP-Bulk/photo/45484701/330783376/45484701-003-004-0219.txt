@@ -1,0 +1,54 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T07:48:38Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8697225, "source_ctime_ns": 1793362706632644245, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330783376/45484701-003-004-0219.jpg", "source_mtime_ns": 1785685015000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330783376/45484701-003-004-0219.jpg", "source_sha256": "8b836bd3a9e13e700b5d3564edb811a609195caae6ad70c2d99e6ea161799132"}
+
+===== PAGE 1 =====
+{"alpha_words": 374, "chars": 2535, "method": "ocr", "page": 1, "variant": "plain-vision"}
+24-16
+2310 GA rpte 3 trgts, snaller than a G-47 trgt, IN of station, 3=4
+mi, alt 2,000 on
+track of 240 dege
+2315 GGA has two more trgts nov same locale on hang of 255 degs, all
+moving very slowly
+2324
+Randall has two trgts, 2 miles apart, brng 180 degs, 22 naut miles,
+10,000 f6, Irges vary alternately in intensity, one bright and on
+weak, not very Larg
+0035
+Randall spotted target 25 miles North of station.
+0O12 (Late Entry/VE) 3 targets sighted duration 15 minutes pos. As
+23247.
+BRADSHAW could add no further information pertinent to this inquiry.
+5•
+At 0015 hours, 6 March 1954, Captain WILLIAM M. POND, A0 452101,
+Aircrart Commander, C-54 2084, advised S/A WELCH that at approxinately
+2150 hours while flying at 2000 feet indicated altitude under Nouasseur
+GOA control, on down-wind leg heading 170°, he observed a white light,
+which he thought to be the landing light of another aircraft, to the
+left of his course at approximately the same altitude and heading in a
+Westerly direction, that is, on a collision course, As he proceeded
+on the down-wind leg, FOND continued, the light appeared to turn and
+head directly towards his aireraft,
+At this moment, POND went on, he
+called GOA and requested to know whether or not another aircraft was in
+the area. GA replied that they had received similar reports during
+evening and that the GGA scope did not reflect other aireraft in the
+area.
+Upon completion of turn on base leg, POND stated, the light dis-
+appeared for approximately 10-15 seconds.
+When it was apparent again,
+POND contimed, it appeared to be hovering and it remained Won" until
+completion of turn onto final approach, at which time it disappeared
+behind his aireraft. FOND stated that he could furnish no additional
+identifying data other than that reflected above.
+POND's co-pilot, Lieutenant I. V. GILOHRIST, AO 3022878, re-
+iterated the same facts,
+The navigator, Captain JAMES F. PULLEN,
+AO 724070, while agreeing with POND's and OILCHRIST's statements, added
+that the light appeared to hin to be an "amber" color. POND volunteered
+that he had eleven (11) years experience as pilot and that he has never
+had a similar experience to report.
+At 0030 hours, 6 March 1954, BRADSHAW (previously identified)
+advised S/A WELCH that report from Sidi Slimane Air Operations reflected
+only one (1) aireraft, a 0-47 #5289, on Round Robin eross-country flight
+• All other flights from that base during evening
+of 5 March 1954, were local B-26 flights which remained in the inmediate
+Declassification Authority: NND 923007

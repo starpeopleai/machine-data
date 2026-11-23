@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T07:21:07Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 20193372, "source_ctime_ns": 1793357936165793335, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1717-583307-0020.tif", "source_mtime_ns": 1785564997000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1717-583307-0020.tif", "source_sha256": "00c535b04f876ceea135383b3f34e5f1899e9c66c13621aa8226937fd3ae6ebb"}
+
+===== PAGE 1 =====
+{"alpha_words": 145, "chars": 892, "method": "ocr", "page": 1, "variant": "plain-vision"}
+FRICTED
+STATEMENT
+On the night of 5 August 1953 at approximately 2030, my wife called
+me out to look at an object in the sky which she had been watching for
+about an hour. It was between nine and ten. It was a light in the sky
+that turned the different colors of white, red and green. It seemed to
+be about ten to fifteen miles to the northeast. It would go away and come
+back at intervals. It disappeared when we heard the jet. It could have
+just been coincidental. When it moved, it traveled very rapidly in a
+circular fashion or criss cross in not too big an area and then it would
+disappear completly.
+Jin Alden
+JIM ALDREN
+Black Hawk, South Dakota
+DECLASSIFIED
+USAF
+7/31/78
+• 4/12/79
+AF583307
+(Cancelled)
+Classification (changed to) MESTICTED
+* By Auth CG, 29 Air Div (D) 15 Sy.5.3....
+(Date)
+тато
+(Name)
+cappell.
+(Grade)
+(Branch)
+TIGe
+RICTED.
+Inels
+Declassification Authority: NND 57565

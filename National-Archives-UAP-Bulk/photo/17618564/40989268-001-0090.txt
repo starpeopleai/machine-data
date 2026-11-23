@@ -1,0 +1,42 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T07:23:59Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 14876505, "source_ctime_ns": 1793355651847068082, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0090.jpg", "source_mtime_ns": 1785564496000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0090.jpg", "source_sha256": "51108471ec0e61a118ab833787ccf07cad6fc6c78db7145fe7770eebbb4eb230"}
+
+===== PAGE 1 =====
+{"alpha_words": 194, "chars": 1236, "method": "ocr", "page": 1, "variant": "plain-vision"}
+166
+5 MIL BEAD WITH
+COATED LEADS
+WAT T
+→ Cm*°c
+10 × 10-2
+(5 MILIATED-
+O MIL BEAD WITH
+COATED LEADS
+1 × 10-2
+- UNCOATED
+(15 MIL)
+1.0 PRESSURE - mb.
+10°
+Figure 10. Heat Transfer Coefficient of Thermistor Beads with Partially
+Silver Coated Leads vs Pressure
+5 MIL BEAD WITH SILVER
+COATED LEADS-
+5 MIL BEAD
+• MIL BEAD WITH SII VER
+OATED LEADS *
+15 MIL BEAD-
+Figure 11. Reciprocal of the Time Constant of Thermistor Beads with Silver
+Coated Leads vs Pressure
+BEAD WITHOUT
+LEADS
+1051610-2
+Imb
+Figure 12. Heat Transfer Coefficient of 5 Mil Thermistor Bead with
+4 Tunøsten Wire Leads vs Fressure
+To summarize our experience with immersion sensors for temperature
+measurements from floating balloons, some figures that may have useful applica-
+tions are assembled in the table of Figure 13. As can be seen from the table it is
+not difficult to achieve an accuracy of 1°C over the whole altitude range of balloon
+operations. To improve the over-all accuracy to better than 1/2°C one has to be
+very careful, especially with the quality of the coating of the sensor and the dimen-
+sions of the holder. In any case, it is absolutely necessary to mount the sensor so
+that it is out of the balloon wake and out of the boundary layer of any structure.

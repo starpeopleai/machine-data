@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T07:29:51Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8434006, "source_ctime_ns": 1793385554374837380, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28993635/0121.jpg", "source_mtime_ns": 1785748496000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28993635/0121.jpg", "source_sha256": "4b6ee49f1443178eeac5df058ebc95758669a2f931f67182242166d7da0cc517"}
+
+===== PAGE 1 =====
+{"alpha_words": 116, "chars": 799, "method": "ocr", "page": 1, "variant": "plain-vision"}
+# Anguet 1961
+Dear Mea
+Thank you for your letter of 23 July.
+The Aerospace Technical Intelligence Center at Wright
+Patterson Air Force Base, Chlo, will investigate your report of
+an unidentified flying object,
+However, the information contained
+in your latter leaves many questions recessary to their investigation.
+I an enclosing two copies of an information form which we
+would appreciate your completing to the beat of your rocollection
+and, if possible, give one to another witness.
+They should be
+mailed to the Porelgn Technology Division, ArO, Atth: ID-S,
+Wright Pattergon Air Force Tase, Ohio. An addressed envelope
+is attached for your convenience.
+Sincerely,
+GLADIS E. MISS
+Operatiors Branch
+Public Information Division
+Office of Information
+Allstata Insurance Company
+Natuchen, How Jersey

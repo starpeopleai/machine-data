@@ -1,0 +1,45 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T07:36:50Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 20877418, "source_ctime_ns": 1793360771535764283, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-003-0085.tif", "source_mtime_ns": 1785565127000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-003-0085.tif", "source_sha256": "de73d3cbf0e28d216888edc605b1a63dd0fc1eaee98ac55210a948dbfcb43c6b"}
+
+===== PAGE 1 =====
+{"alpha_words": 207, "chars": 1419, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AF FORM 112-PART 11
+APPROVED 1 JUNE 1948
+FROM (Agecy)
+Det 4, 1006th AISS
+UNCLASSIFIed
+AIR INTELLIGENCE INFORMATION REPORT
+REPORT NO
+PaRt THO
+57
+PAGE
+5
+PAGES
+S-T-*-T-E-H-E-N-T
+I went outside the Meather Station about 1550 PST to
+observe the thunderstorm to the northeast. This thunderstorm
+mas estimated to be approximately 10 miles to the northeast.
+While watching for lightning and trying to determine the
+direction of movement of the storm, several very fast moving
+objects were seen at the west edge of the storm. They were
+noving very rapidly back and forth ruch like a nock-dog fight.
+They changed directions instantaneously and appesred much larger
+momentarily during their turns.
+They stayed in view over a
+minute and I finally lost sight of then in the storm. Visibility
+was excellent during the entire period.
+Major, USa
+S-T-A-T-E-H-E-N-T
+A CORTIFIED TRUE COPI
+richard. A. 2202m
+RICHARD a.
+но, 7-1,
+ECLI
+USAP
+MOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S. C.-
+31 AND 32, AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW.
+IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF
+INTELLIGENCE, USAF.
+UNCLASSiFied
+(CLASSIFICATION)
+DECLASSIFIED
+Authority NND 9237007

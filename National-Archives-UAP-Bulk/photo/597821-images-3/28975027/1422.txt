@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T08:09:12Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9592821, "source_ctime_ns": 1793380254968451188, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28975027/1422.jpg", "source_mtime_ns": 1785701111000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28975027/1422.jpg", "source_sha256": "a02e025608231a0e358c1c2558d9064ac74b28a8c091a43b0e240d7f54626aec"}
+
+===== PAGE 1 =====
+{"alpha_words": 24, "chars": 166, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+FE abe:
+@ aview
+* x s
+
+ITEM IX
+
+PAGE FOUR RJEDFL 4p
+[T2M X
+
+(TEM XI
+
+A, NONE INTELLIGENCE OFFICER
+{Tem XT
+
+Ay NONR oo .
+ITEM XIIT
+
+Ae NONE
+
+21/1633Z NOV RJEDFL
+
+“™~

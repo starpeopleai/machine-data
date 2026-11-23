@@ -1,0 +1,17 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T07:22:01Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 84234544, "source_ctime_ns": 1793357225096830958, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1310-496480-0008.tif", "source_mtime_ns": 1785564856000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1310-496480-0008.tif", "source_sha256": "f020bfc6cbe18ad82f75b122d065f027e48e72a063c0247f59bcd05bffb96492"}
+
+===== PAGE 1 =====
+{"alpha_words": 55, "chars": 335, "method": "ocr", "page": 1, "variant": "plain-vision"}
+LIGHT SIGNAL PROCEDURES FOR /
+The phone eated to d hy i are tet ped with reall
+Al pois the rate e
+preside are i must bel
+AUTICAL CHARTS PUBLISHED AND PRINTED BY
+Pate VE LIGHT PLAN FROM (bank To dies)
+Declassification Authority: NND 57565
+THE KOCH CHART FOR
+ALITTUDE AND TEMPERATURE EFFECTS
+SEA LEVEL
+5000 FOOT ELEVATION
+BY CAN
+ich the

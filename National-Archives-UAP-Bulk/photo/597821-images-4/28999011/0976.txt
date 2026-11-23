@@ -1,0 +1,23 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T07:33:27Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9941654, "source_ctime_ns": 1793387693112066802, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28999011/0976.jpg", "source_mtime_ns": 1785748094000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28999011/0976.jpg", "source_sha256": "b8b966efe6a0e8a29f51cb302330d1618cb508bb71d724823fa4d975d97a6d71"}
+
+===== PAGE 1 =====
+{"alpha_words": 46, "chars": 287, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Di hes did you sca the aljent-
+ofe day.
+30
+MINUTES
+Time Zonei - Castern
+Place:
+A Canta Das pontese
+S. Itow Lang the objeat was sharede.
+SE%
+How certain:
+Faity certain
+Conditin se sky:
+Bright wilight
+e tere ao tio suns.
+Basely almes the horizon in th nest
+D hat ne.
+c 2h.
+15 . 91)
+11.00.

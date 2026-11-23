@@ -1,0 +1,66 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T08:18:12Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6190453, "source_ctime_ns": 1793355814683185435, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989274-001-0074.jpg", "source_mtime_ns": 1785564532000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989274-001-0074.jpg", "source_sha256": "9ffb6b466ba1e80a85bc284211389afdad4d9f1e1b13e08fdbc6e134decb5623"}
+
+===== PAGE 1 =====
+{"alpha_words": 168, "chars": 987, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Library of Congress
+CIP DATA SHEET FOR BOOKS
+l. Name of publisher exactly as it appears on tite page
+3. First U.S. ci
+2. Date f
+physical
+13. If the
+the book i
+• Ag
+• Grade
+• Other
+19. Indicate format for each ISBN listed.
+ISBN
+ISBN
+20. Summary of book's
+ISBN
+ISBN
+uld be mailed
+Type or print firmly in ink
+ADDRESS
+This label will be used to mail your CIP data to you.
+Example 3
+CIP Data Sheet for Books
+8
+•∞
+•∞
+Library of Congress
+CIP DATA SHEET FOR REPRINT EDITIONS
+1. Name of publisher exa
+appears on title page
+AGENCY USE ONLY
+4. Projected pu
+10. Will new front a
+] Yes (Please pro
+12. Place(s) of publi
+AGENCY USE ONLY
+• No
+¿ on original title page
+T Index
+→ Yes
+• Yes
+O. If this reprir
+es • Index
+• No
+• No
+ered, the number for this
+• Genera
+• Ocher
+25. Indicate format for each ISBN listed. Check 1
+ISBN
+ISBN
+• No
+E∞
+ISBN
+ISBN
+This label will be us
+CIP data should be mailed
+Type or print firmly in ink
+NAME
+tail your CIP data to you.
+Example 4
+CIP Data Sheet for Reprint Editions

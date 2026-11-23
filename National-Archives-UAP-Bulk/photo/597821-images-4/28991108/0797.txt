@@ -1,0 +1,70 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T07:44:24Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7357145, "source_ctime_ns": 1793384803137951831, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28991108/0797.jpg", "source_mtime_ns": 1785748491000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28991108/0797.jpg", "source_sha256": "d94ec054084f641f85545dd7b03679ae8e61620038c2e83db887068fa248315e"}
+
+===== PAGE 1 =====
+{"alpha_words": 205, "chars": 1526, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD CARD
+1. DATE
+2. LOCATION
+16 Jan 61
+3. DATE-TIME GROUP
+Local
+GM T
+170430Z
+5. PHOTOS
+Fitchburg, Massachusetts
+4. TYPE OF OBSERVATION
+9 Ground- Visual
+• Air Visual
+• Ground-Radar
+• Air-Intercept Radar
+6. SOURCE
+• Yes
+KNO
+7. LENGTH OF.OBSERVATION
+8. NUMBER OF OBJECTS
+Civilian
+9. COURSE
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+•
+•
+•
+•
+Was Aircraft KEFUEL OP
+Probably Aircraf
+Possibly Aircraft
+Was Astronomical
+Probably Astronomica
+Possibly Astronomice
+Other
+Insufficient Data for Evaluation
+Unknown
+2 1/2 hrs
+4
+10. BRIEF SUMMARY OF SIGHTINGMain object appeared as
+I1. cOMMENTS Objects were sighted in area
+Large as dime at arms length; three smaller
+used by SAC on high altitude refueling.
+objects appeared pea sized. All four appeared
+Maneuvers made by objects are very simi-
+round and bright silver or aluminum in color.
+lar to those made by a/c just before,
+Estimated altitude 20,000 to 25,000 ft.
+during, and after a refueling operation.
+Appeared 45° elevation, 290° azimuth. Dis-
+Duration appears rather long;
+possible l
+appeared 45°, 360°. Larger object would appear
+tanker refueled more than 3 a/c. when
+to hover, with 3 smaller objects hanging back
+in original witness went inside after watchin
+Vee formation. One would approach, appear to
+first operation to get other witnesses,
+close in, then drop back; then nest would
+first 3 a/c probably broke off and other
+approach.
+began to refuel. Second operation was
+probably one seen by other witnesses.
+ATIC FORM 329 (REV 26 SEP 52)

@@ -1,0 +1,58 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T07:54:52Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 12499136, "source_ctime_ns": 1793360991264228776, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-004-0004.tif", "source_mtime_ns": 1785565201000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-004-0004.tif", "source_sha256": "2fc99c6218b867c39ca6ae03e664b8f79b40ee955908b0fe01dd7c97e8c2ccde"}
+
+===== PAGE 1 =====
+{"alpha_words": 200, "chars": 1468, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AF FORM 112,-PART II
+APPROVED 1 JUNE 1948
+OCIASCIFTED
+(CLASSIFICATION)
+AIR INTELLIGENCE INFORMATION REPORT
+FROM (Agency)
+REPORT NO.
+Ha 50th Tactical Fighter Wing
+IR-50-1-58
+PAGE
+1
+OF
+2
+Reference paragraph 15, AFR 200-2 dtd 5 Feb 58:
+a. Description of the Object:
+(1) Oblong.
+(2) About the size of a peg held in the hand at arme length.
+(3)
+Blue •
+(4) One (1) each.
+(5) NA
+(6) Negative.
+(7) All that was sighted by the pilot was a flame.
+(8) None
+(9) None
+b. Description of Course of Object:
+(1) Accross flight path.
+(2) 4° up when first sighted- descended to about 2°.
+(3) 2° above level.
+(4) Moving North west and gradually descending.
+(5) Either burned up or went out of sight due to distance.
+(6) 4 Seconds
+c. Manner of Observation:
+(1) Air-visual.
+(2) None
+(3) F-100D-563260-26,000 ft.
+Rosieres Air Base, France
+d. Tine and Date of Sighting:
+- 271? - 500 knots ground speed - Toul
+(1) 3/1025Z December 1958
+(2) Day
+PAGES
+TE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 US. C.-
+3I AND 32. AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW.
+IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF
+INTELLIGENCE, USAF.
+UNCLASS IF IFD
+(CLASSIFICATION)
+6-85870-1
+RU. S
+G OFFICE:
+: 1051 0--018739
+DECLASSIFIED
+Authority NND 9237007

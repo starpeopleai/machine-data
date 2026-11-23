@@ -1,0 +1,20 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T07:36:07Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 17142300, "source_ctime_ns": 1793356731920072101, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0356.tif", "source_mtime_ns": 1785564749000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0356.tif", "source_sha256": "29d873bfc9f86879ef0a3e72392555af5cb6ddf10e8ead6b2cae48509fc9a859"}
+
+===== PAGE 1 =====
+{"alpha_words": 120, "chars": 844, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Incident No. 29 - 14 June 1947, 1200 and 1115, Bakersfield, Calif.
+The observer, an experienced pilot, reported sighting ten and later seven
+objects at 8500 ft altitude, traveling 350 Mrl in a loose Vi formation.
+ilthough the objects were apparentiy at a considerable distance, the reporter
+described them as being similar to the XF5U-l Flying Flapjack.
+He stated
+that he attached no particular importance to this sighting until he read of
+the Cascade Lountain sighting, (Incident No. 17). He then recalled this in-
+cident.
+ARC Opinion:
+There is no information contained in this report to refute
+the assumption that these objects were ordinary aircraft beyond the range of
+identification.
+The fact that no one else in Bakersfield reported observing
+anything unusual, tends to substantiate this conclusion.
+Declassification Authority: NND 57565

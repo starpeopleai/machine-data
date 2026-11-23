@@ -1,0 +1,82 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T07:33:42Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10441209, "source_ctime_ns": 1793365192934826916, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330788488/45484701-008-001-0023.jpg", "source_mtime_ns": 1785684664000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330788488/45484701-008-001-0023.jpg", "source_sha256": "459808ee4881b675848c57b39800068e602fad4b0f0dd552362eff4b5b7a9b57"}
+
+===== PAGE 1 =====
+{"alpha_words": 304, "chars": 1930, "method": "ocr", "page": 1, "variant": "plain-vision"}
+EU
+SECURITY IN ORMATION
+OPERATIONAL IMMEDIATE
+SECURITY INFORMATION
+1132
+FROM:
+CG 5001st COMP WG LADD AFB
+ACTION TO:
+CG AAC EDF AFB
+DTG :
+2223402
+Jan 52
+IFWOP 3-0103C for Dir of Intel ref AAC Ltr
+200-3 par 6A6, Preliminary Report on Unidentified Radar Plots
+fols:
+At 10182 first plot tract 17 picked up by F-2.
+Tet was
+tracked intermittently beginning over 62 deg22N151 deg 25 wat
+1018z until its final disappearance over 63 deg 25N and 15013W at
+10492.
+Minimum
+ed 1500 knots max 21,00 knots.
+3 was unable
+to pick up track.
+leather in area was VFR.
+F-OL was
+scrambled
+at 1028Z afrborne at 1033, went to 20 thousand was vectored by A-2
+towards track, unable to pick it up. Climbed to 30 thousand
+feet.
+Picked up tgt as a bright blip, radar observe
+ce s
+comparable to that of B-36, unable to lock on as t
+ept past scope
+too rapidly.
+This was approx 1055Z.
+Approx 50 mins
+later while
+cruising picked up tgt again in same general area as first contact,
+tgt was locked on, position was below at approx 24 thousand ft.
+Range was 24 thousand yos.
+Ftr closed on tgt dead ahead and level
+to 200 yds, overtaking speed was 100 knots,
+when it vanished.
+Ftr searched area but could not pick up tgt again.
+n both contacts
+radar observer states that immediately to rear of blip was a
+faint ghost like image of identical size.
+Radar obar reports
+contacts were sharp well defined images.
+Comment: both contacts
+made by itr were made after F-2 final track fade.
+On an earlier
+flight pilot of same acft reported sighting
+appeared to have
+been a comet or meteor to the southwest approx
+hrs prior to the
+above incident.
+Reliable ground observer
+reported same
+incident to this office, Complete inv by Office
+Spec Inv this
+to foll cm.
+CLASSIFICATION CANCELLED
+BY AUTHORITY OF
+KUNZE, Capt, USAL
+CMIN 1132
+COP IS To Stator 2301352)
+CINCAL
+8 DEC 1975
+CERTIFIED TRUE COPY DALE
+WILTAR
+Capt
+Inel.
+BIBLY
+USAF
+UNCLASSIFIED
+Declassification Authority: NND 923007

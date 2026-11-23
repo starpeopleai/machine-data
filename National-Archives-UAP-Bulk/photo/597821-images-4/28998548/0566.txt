@@ -1,0 +1,18 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T07:32:06Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9153639, "source_ctime_ns": 1793387334083238070, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28998548/0566.jpg", "source_mtime_ns": 1785747873000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28998548/0566.jpg", "source_sha256": "502ad428632a9e64e86fe36427292497ede178a769692fad325367f566967f2f"}
+
+===== PAGE 1 =====
+{"alpha_words": 49, "chars": 358, "method": "ocr", "page": 1, "variant": "plain-vision"}
+OEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+INCOMING
+AF IN : 16310 (9 Aug 62)
+Вт
+UNCLAS/CIRVIS FROM NAVY 43212 WV 2 UFO SIZE AND
+BRIGHTNESS OF STAG 38-10N 173-15W 09/0745Z ANGLE
+OF ELEVATION 40 DEGREES DECREASING TO 20 DEGREES
+SPEED UNKNOWN VISUALLY HELD FOR 10 MINUTES.
+NO EVALUATION
+Вт
+29/1004Z AUG RUHLKH
+NOTE: ADV CY TO DIA, CIN & OOP-CP.
+pg 2 of 2

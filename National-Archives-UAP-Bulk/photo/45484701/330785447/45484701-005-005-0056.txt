@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T08:01:04Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7717276, "source_ctime_ns": 1793363508646510738, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785447/45484701-005-005-0056.jpg", "source_mtime_ns": 1785684621000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785447/45484701-005-005-0056.jpg", "source_sha256": "e5bddc790ddec31792d3b4d886f77fbf6d21833d1662e72bf5de2d66fe99325d"}
+
+===== PAGE 1 =====
+{"alpha_words": 305, "chars": 1894, "method": "ocr", "page": 1, "variant": "plain-vision"}
+WHITE SA
+Las
+OVING GROUND
+New Mexico
+27 April 1949
+On 24 April 1949, three miles north of Arrey, New Mexico, four Wavy en-
+listed men from White Sands Proving Ground (Chief Akers, Davidson, Fitzsimmons
+and Moorman) and I saw a rapidly moving object while making a pibal wind run.
+We released a 350 gram balloon at about 1020 MST and were following it with a
+standard MI-47 David White Theodolite. After the 1030 reading, Davidson took
+over the theodolite and Akers and I looked up to find the balloon with naked
+eye. We thought we had the balloon when we picked up a whitish spherical
+object right along the direction the theodolite was pointing (45° elevation
+and 210° azimuth). The object was drifting east rapidly (5° second as esti-
+mated by stopwatch and width of fingers), but we had thought to encounter
+similar winds on the balloon. When the difference in direction between the
+theodolite and supposed balloon became apparent, I took over the theodolite
+and found the true balloon still there, whereupon I abandoned it and picked
+up the object after it came out of the sun (this gives another good bearing
+if you wish to work out a sun shot at 1033 MST at Arrey) • The object was mov-
+ing too fast to crank the theodolite around; therefore, one of the men pointed
+the theodolite and I looked. The object was an ellipsoid about 22:l slender-
+ness ratio, and the length was about .02° subtended angle. It was white in
+color except for a light yellow of one side as though it were in shadow. I
+could not get a hard focus on the object due to the speed at which the angles
+changed. Therefore, I saw no good detail at all.
+The azimuth angle continued to decrease as the object continued on a
+north heading, growing smaller in size. At around 20°-25° azimuth the azimuth
+hold constent and the elevation engle began increasing from the 25° miniggs of
+CO
+Declassification Authority: NND 923007

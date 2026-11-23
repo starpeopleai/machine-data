@@ -1,0 +1,55 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T08:10:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10271308, "source_ctime_ns": 1793364251959551485, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330786509/45484701-006-006-0336.jpg", "source_mtime_ns": 1785684602000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330786509/45484701-006-006-0336.jpg", "source_sha256": "3e20f9523dadcbf5e34ad1eaccaded0cd01fa8a6734ed3c632a2c2fd0419247e"}
+
+===== PAGE 1 =====
+{"alpha_words": 169, "chars": 1329, "method": "ocr", "page": 1, "variant": "plain-vision"}
+NOTE:
+Propulsion:
+None evident
+P•
+Control and Stability:
+Evidently good.
+Air ducts:
+None visible
+2 -
+Speed:
+Estimated 1500 mph.
+Much faster than any
+jet observer has seen.
+Sound:
+None
+t. Manner of Disappearance:
+Faded from view.
+Information relative to Observer:
+(a) S/Sgt CLIFFORD B. HART, AF-14041905
+(b) Address: Present - Holloman APB.
+Next 20 days: General Delivery
+Gainesville, Alabama.
+Puture: APO 942, c/o Postmaster
+Seattle, Washington
+(e) Occupation: Flight Engineer
+(d) Place of Business: Holloman AFB
+(e) Hobbies: Flying - Has private license
+(f) Ability to determine: Excellent - Service with AF and
+knowledge of Aircraft.
+(g) Reliability of Observer: Excellent.
+(h) Notes relative to Observer on:
+(1)
+Sighting in general: None
+(2) How attention was draw to object: Heard either an
+airplane engine or truck engine and looked up.
+Sound was nof from object.
+(5) Degree of fatigue: None
+(1) Witnesses:
+S/Sgt J. D. Denning, AF-14214748
+S/Sgt Herry A. Boggs, AP-6587322
+(1)
+Addresses - Both Holloman Air Force Base
+(2)
+Occupation ¿¿Both Aircraft Mechanies
+(5)
+Reliability - DENNING - Reliable.
+BOGGS - Fairly reliable but not
+sure of his observation.
+Both of the above Witnesses substantiated HART's observations.
+Statements of DEWING and HART are attached as Exhibits "A" and "g".
+Declassification Authority: NND 923007

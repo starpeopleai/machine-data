@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T08:02:08Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8017347, "source_ctime_ns": 1793379455685052878, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28972352/00543.jpg", "source_mtime_ns": 1785700648000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28972352/00543.jpg", "source_sha256": "6d8091ce74868c47238b7b6e03db1b533b41bce2ec92488db1c7cdd9a36ef288"}
+
+===== PAGE 1 =====
+{"alpha_words": 127, "chars": 939, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE • TIME GROUP
+21 October 57 21/21187
+3. SOURCE
+Air Attache (USAF)
+4. NUMBER OF OBJECTS
+| 2. LOCATION
+N. Luffenham, England
+10. CONCLUSION
+INSUFFICIENT DATA FOR EVALUATION
+One
+S. LENGTH OF OBSERVATION
+Visual object resembles a/c observation of balloon with package.
+Additional investigative data not received. Case regarded as
+noufficient dat
+I1. BRIEP SUMMARY AND ANALYSIS f lack of editioned report.
+Ạạot Reported
+Pilot flying 28,000 ft at night suddenly came upoh an object
+6. TYPE OF OBSERVATION
+having 6 lights, taking evasive action he epproached object
+from the side.
+When his aircraft drew near lights went out
+Air-Visual - Ground-Radar)and object vanished. This took place over an atom-bomber
+1. COURSE
+training base. Object was confirmed by ground radar. Attem
+is being made by Air Ministry to resolve sighting.
+Unknown
+8. PHOTOS
+YOS
+EXNO
+9. PHYSICAL EVIDENCE
+• Y•s
+JIKNO
+FORM
+FTD SEP 63 0-329 (TDE) Provious edition
+usad.

@@ -1,0 +1,13 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T08:09:48Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9594063, "source_ctime_ns": 1793387965309128924, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28999518/1443.jpg", "source_mtime_ns": 1785748163000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28999518/1443.jpg", "source_sha256": "7295318899029f46fb8781e09b610261d6e7d78dbd7fac88bac0d711eef8ec11"}
+
+===== PAGE 1 =====
+{"alpha_words": 15, "chars": 89, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+pee? iyecee gery i eee eu ig Pe Bie a; EF
+
+RRAARDNAN © re mee
+
+Q3AISI3Y
+
+23. i
+
+te ee |

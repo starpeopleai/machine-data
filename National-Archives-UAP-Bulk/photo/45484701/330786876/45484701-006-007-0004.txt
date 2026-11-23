@@ -1,0 +1,42 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T07:50:51Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9417117, "source_ctime_ns": 1793364273455048843, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330786876/45484701-006-007-0004.jpg", "source_mtime_ns": 1785685099000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330786876/45484701-006-007-0004.jpg", "source_sha256": "32cfabe99622438b18865867018a0c94baa80b411fe627885e8f5aac82e6fbce"}
+
+===== PAGE 1 =====
+{"alpha_words": 141, "chars": 1035, "method": "ocr", "page": 1, "variant": "plain-vision"}
+GUIDE TO INVESTIGAPION
+UNIDENTIFIED AERIAL OBJECTS
+Incident Nc.
+1. Date of Observation
+30 12
+Date of Interview
+2. Exact time of observation (local)
+3. Place of Observation:
+(Map Coordinates)
+Ton 43mca, 11,1%
+Position of observer (air, car, bldg, location of - give details):
+5•
+What attracted attention to object:
+14ght
+6. Number of objects and sketch of formation or grouping:
+7. Apparent size (compare to known object, i.e.,
+sun, moon, thumb or
+fist at arms length):
+3. (Color of object:
+Green, then red at and of flight
+9. Shape (give graphic description - compare with known object):
+10. Altitude (Angle of elevation above horizon - 0° at horizon, 90°
+overhead) :
+degree
+1l. Direction from observer (Angle clockwise from north):
+230 degr
+12. Distance from observer (Distance to town, blds, etc., over which objeci
+appeared to be):
+atimted 20 to 30 miles
+13
+Direction of flight of object (s):
+OUt
+14.
+15.
+Time in sight: & to $
+Speed (time to cover given angular distance):
+16. Sound and odor:
+Declassification Authority: NND 923007

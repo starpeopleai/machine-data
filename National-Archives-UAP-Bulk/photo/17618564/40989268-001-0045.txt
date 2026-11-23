@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T07:56:28Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 16104347, "source_ctime_ns": 1793355606789977106, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0045.jpg", "source_mtime_ns": 1785564488000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0045.jpg", "source_sha256": "bb5529e862e205ac992131fb3b3dc685e39eb7569731ee721abc8ea14b231644"}
+
+===== PAGE 1 =====
+{"alpha_words": 391, "chars": 2519, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Figure 2
+Figure 3
+77
+To date, this launch method has been successfully tested during three individual
+test series. The first two of these, consisting of 18 exercises, were conducted at the
+AFCRL Chico, California Operating Location. Natural calm surface winds were re-
+quired for these exercises to simulate the shipboard conditions.
+As you can see from Figures 4 and 5, in accordance with our concept of operat-
+ing within a minimum space, all activities except the helium trailer operations were
+confined to the launch area, a 40 foot by 8 foot flatbed trailer vehicle.
+The third series, of which I would now like to show you a short film (in this paper
+still photographs from the film appear as Figures 6, 7, 8 and 9), was conducted during
+the period 24 through 27 August 1964 aboard the USS Wood County, LST-1178, in the
+U.S. Navy VACAPES Control Area. Four complete balloon systems were success-
+fully launched without incident in true surface wind conditions up to 17.0 knots.
+In addition to concentrating heavily on the launch technique, we imposed certain
+other requirements on ourselves. In order to trouble the Navy as little as possible,
+we worked for minimum loading and unloading times. The result was that within
+48 hours all the equipment, from helium trailers and instrument van to balloons, was
+fully loaded and prepared for sea. Within 24 hours of returning to port the same
+equipment was unloaded. Another aim was to operate without requiring any perma-
+nent modification to the ship. Electrical grounding straps on our major items of
+equipment were the only requirements and these were imposed by the ship itself.
+As you can see, WOOD COUNTY is not an extremely small vessel but it is con-
+siderably smaller than a carrier and much less costly to operate. Our need for this
+class vessel was governed by our speed requirement plus our self-imposed require-
+ment for sufficient helium storage space for at least three flights. As you can see,
+vehicle storage space is plentiful and it is possible to carry 16 helium trailers on
+the tank deck alone.
+We believe this new launch technique substantially simplifies currently-employed
+methods of land-based launchings and will have definite application in remote-area
+operation. Balloons carrying payloads up to 1800 pounds can now be launched from
+a very small deck area under wind speeds as high as the sustained maximum speed
+capabilities of the ship. We are presently modifying and refining the launch system
+to accommodate payloads up to 4000 pounds.

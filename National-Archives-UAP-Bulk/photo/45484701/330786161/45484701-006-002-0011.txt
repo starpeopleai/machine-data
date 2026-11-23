@@ -1,0 +1,24 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T07:52:22Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10284980, "source_ctime_ns": 1793363830951159205, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330786161/45484701-006-002-0011.jpg", "source_mtime_ns": 1785685024000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330786161/45484701-006-002-0011.jpg", "source_sha256": "3537290a32f9d655d0846b795fab80e9573930a6de59b1a26bee87d79ce5ae16"}
+
+===== PAGE 1 =====
+{"alpha_words": 23, "chars": 162, "method": "ocr", "page": 1, "variant": "contrast-vision"}
+B81-2D
+1961 FEB 24 70 28
+COUNTER INTEL DIV
+ПИСТУ22ІНЕD
+NOI
+dree
+CO C%
+suebeg
+TOaDCO • DE
+TOU 13
+CO nI
+TO7УOI
+DILER?
+·-C)
+SO 7 e
+CRyco
+FUrO B
+YUCE*
+BUOS. CO
+rAnse

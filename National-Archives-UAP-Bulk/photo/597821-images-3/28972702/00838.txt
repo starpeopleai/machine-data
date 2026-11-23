@@ -1,0 +1,60 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T07:28:48Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8098610, "source_ctime_ns": 1793379570107305624, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28972702/00838.jpg", "source_mtime_ns": 1785700867000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28972702/00838.jpg", "source_sha256": "1e27eb7daf32b2ebff76fb3c82c2e86eaa1ac317a3a7006ef7f314cc0c4a4842"}
+
+===== PAGE 1 =====
+{"alpha_words": 119, "chars": 915, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD CARD
+1. DATE
+2. LOCATION
+November
+1957
+3. DATE-TIME GROUP
+Local.
+1630
+CM T
+03/21302
+5.
+PHOTOS
+TYPE OF OBSERVATION YORK
+•. Ground- Visual
+• Ground-Radar
+• Air Visual
+• Air-Intercept Radar
+SOURCE
+• Yes
+Ü No
+7. LENGTH OF.OBSERVATION
+C1
+vilian
+8. NUMBER OF OBJECTS
+2 to 5 min/still in sight
+one
+10. BRIEF SUMMARY OF SIGHTING
+Round obj, size of dime when bright.
+Size of head of pin when dim. White'
+changing brightness & emitting light
+rays.
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aireraft
+CIX Was Astronomical
+_ Venus
+Probably Astronomical
+Possibly Astronomical
+Other.
+•
+Insufficient Data for Evaluation
+Unknown
+9. COURSE
+stationary
+11. COMMENTS
+Fighters scrambled & rptd that
+Venus & search lights were
+the
+only possible explanation for the
+sighting. Venus rptd bright & large
+in direction of sighting.
+ATIC PORM 329 (REV 26 SEP 52)

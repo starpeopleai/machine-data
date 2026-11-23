@@ -1,0 +1,50 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T07:46:38Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8194391, "source_ctime_ns": 1793363437180304859, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785292/45484701-005-004-0054.jpg", "source_mtime_ns": 1785684653000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785292/45484701-005-004-0054.jpg", "source_sha256": "36d04eadc84cfb293932c109dddaffcfebab37c741f8ab98b2c19b61330aaa2e"}
+
+===== PAGE 1 =====
+{"alpha_words": 133, "chars": 1015, "method": "ocr", "page": 1, "variant": "plain-vision"}
+ON COPY
+From 5th Listrict OSI
+Wright-Patterson Air Force Base
+Ohio
+5D 24-21-142
+Unidentified Flying Objects
+SUBJECT jy Sy outs, Mississippi
+SPECIAL INQUIRY
+25 June 1954
+24 - 185-9-13
+TO:
+Commander
+Air Technical Intelligence Center
+Wright¿Patterson Air Force Base
+Chio
+AWN: ATIAA-20
+1. Transmitted herewith for your information is one (1) photo-
+static copy of closed Report of Investigation, of Special Agent JOE
+N. TUCK, 9th 051 District, Barksdale Air Force Base, Louisiana, File
+No. 24-142, dated 2 June 1954.
+2. Your attention is invited to the provisions of AFR 124-1,
+which prohibit the release of investigative information to unauthor-
+ized persons.
+1 Inel
+ROI, DO #9, atd 2 Jun 54
+ce: Dir 0SI w/o inel
+ROBERTS
+P. JOHNSON, JR.
+Colonel, USAF
+District Commander
+CLASSIFICATION CANCELLED S
+BY AUTHORITY OF THE DIRECTOR OF SPEC INV
+BY KURT K. KUNZE, Capt, USAF
+Historian
+4 DEC 1975
+DATE
+JUN 30
+185-9-13\
+ITES AIR FORCE
+YOR G
+STRAI
+ĐR 05°54
+UNCLASSIFIED
+CONSIDE!
+50-F- 9640
+Declassification Authority: NND 923007

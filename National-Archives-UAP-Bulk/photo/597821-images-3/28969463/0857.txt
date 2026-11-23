@@ -1,0 +1,66 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T07:39:41Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5668797, "source_ctime_ns": 1793378833546143489, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28969463/0857.jpg", "source_mtime_ns": 1785701058000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28969463/0857.jpg", "source_sha256": "64b936ffb97e30a741f52f0bdd7d5e5fcc9b356d38209c249ffb183d58e606e6"}
+
+===== PAGE 1 =====
+{"alpha_words": 134, "chars": 1020, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD CARD
+1. DATE
+2. LOCATION
+6
+April
+1957
+3. DATE-TIME GROUP
+Local
+CM7_07/00472
+5. PHOTOS
+Washington.
+D.C.
+TYPE OF OBSERVATION
+D. Ground- Visual
+• Air Visual
+6. SOURCE
+• Ground-Radar
+• Air-Intercept Radar
+• Yes
+• No
+7. LENGTH OF.OBSERYATION
+Civ
+8. NUMBER OF OBJECTS
+four to five
+sec
+two
+10. BRIEF SUMMARY OF SIGHTING
+Two objects circular, 1/3 size of dime
+color dull pink, objects in trail
+sound a boom like distant thunder after
+objects went out of sight.
+12.
+CONCLUSIONS
+Was Bafloon
+D
+Probobly Balloon
+Pussibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircraf
+Ox Was Astronomical Meteor
+Probably Astronomical
+Possibly Astronomical
+Othar
+Insufficient Data for Evaluation
+Unknown
+9. COURSE
+S
+turn E turn
+North.
+11. COMMENTS
+Objects present appearing like
+meteors. Total sighting
+4-5
+seconds consistent with this
+analysis. Appearance of going
+away from observer then toward
+observer was optical illusion.
+Meteor entered
+im below plane
+of ecliptic and was overtaking.
+ATIC FORM 329 (REV 26 SEP 52)

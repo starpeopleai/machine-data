@@ -1,0 +1,14 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T07:56:40Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 16460296, "source_ctime_ns": 1793356720004423714, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0343.tif", "source_mtime_ns": 1785564747000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0343.tif", "source_sha256": "ae6feb26da8736b1c3da14ceff7a9ed2a66e55ea8b43cadb26493c4e5f6abe51"}
+
+===== PAGE 1 =====
+{"alpha_words": 81, "chars": 551, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Incident No. 76 -- 13 August 1947, Salnon Dam, Idaho.
+Two men reported simultareously hearing a roar, and looking up observed
+two objects of undertermined size, several miles distent at a great
+Here iron the fort a 116 hay a baw to 0-4000 ng at great poday
+Althourh occurring on the same day as Incident No. 75, the descriptions
+vary widely.
+AM Opinion: There is no information contained in this report to
+refute the assumption that these men saw two ordinary aircraft at too
+great a distance to discern details.
+Declassification Authority: NND 57565

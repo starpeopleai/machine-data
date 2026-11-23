@@ -1,0 +1,46 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T07:33:37Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9965424, "source_ctime_ns": 1793379587143550764, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28972763/00890.jpg", "source_mtime_ns": 1785700862000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28972763/00890.jpg", "source_sha256": "d76849192683d6447f1b20d7bc16e54221b334200a90e142c23d3223aaf9bd5f"}
+
+===== PAGE 1 =====
+{"alpha_words": 96, "chars": 705, "method": "ocr", "page": 1, "variant": "plain-vision"}
+05/0200₴
+Witness
+Called at 05-07307
+P3208 YDD254 YYC23 IYC86S XDF051DMA054
+00 RJEDDN RJEDUP RJEPHO
+DE RUMPDM 7 SA
+...
+ASTrO
+0504557
+(VeNUS)
+FM 25TH CADD COC
+TO RJEDDN/ COMDR NORAD
+07 01 57
+4 4x20
+JEIP/COMDR AIR TECHNICAL INTELLECENCE CENTER WRIGHT PATTERSON AFE
+JEPHO/DIRECTOR OF INTELLIGENCE HO USAF
+COMDR 25 CADD ATT: D/I /ZEN
+/UNCLAS/25 CADD TAC K-21 PD FOR COC
+FOLLOWING UFOB IS FORWARDED IN ACCORDANCE WITH
+ADCR 200-7.
+OBLONG /
+ARGE
+How lArge!
+3 .
+RANGE
+MIXED WITH
+4. ONE
+5. NONE
+6. BRIGHT
+7. NONE
+8. NONE
+9. NONE
+PAGE TWO RJWPDM 76A •
+II. 1. OCCUPATION - SOC
+2.
+/ DEGREES FROM HORIZON
+3. 25DEGREES TO 40DEGREES FROM HORIZON
+4 SOUTHWEST TO C NORTHWEST
+5. FADED DUE TO TERRAIN
+ONE HOUR
+ISUAL -
+GRDUND

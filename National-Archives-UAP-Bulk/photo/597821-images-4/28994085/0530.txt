@@ -1,0 +1,42 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T07:31:35Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8783672, "source_ctime_ns": 1793385768380230021, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28994085/0530.jpg", "source_mtime_ns": 1785748315000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28994085/0530.jpg", "source_sha256": "c8056bab4f5b4995173d3930e9ee3b2de75230327a3594828741642639ec0951"}
+
+===== PAGE 1 =====
+{"alpha_words": 172, "chars": 1113, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Fil2
+HEADQUARTERS
+FOREIGN TECHNOLOGY DIVISION
+AIR FORCE SYSTEMS COMMAND
+UNITED STATES AIR FORCE
+WRIGHT-PATTERSON AIR FORCE BASE, OHIO
+REPLY TO
+ATTH OF: TD-E/Major Friend
+sueJect: Analysis of Photos and Negatives
+24 OCT 1961
+To: Hq USAF (SAFOI-3c - Major Coleman)
+The photographic prints and negatives attached hereto have been examined
+with the following results:
+a. Photo Nr. 1: the image marked as a sea gull is a break or scratch
+in the negative emulsion while the other objects are the result of foreign
+matter accumilating in the film's processing and drying.
+b. Photos 2 and 3: the white objects indicated by arrows are again
+the result of emulsion damage at the time of processing.
+C.
+Photo Nr. 4: on this photograph the white images are sharp while
+the rest of the photograph is out of focus.
+No corresponding images can
+be seen on the negative, and the white objects must have been caused by
+the presence of foreign matter during the printing process.
+and 7t00
+EDWARD H. WYNN
+Colonel,
+USAF
+Deputy for Science
+and Components
+1 Atch
+Packet of Photos and Negatives.
+6r 7
+Edwo. A.
+МA.л
+told rin
+1:1 204
+Trom

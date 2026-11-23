@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T08:16:14Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 26668632, "source_ctime_ns": 1793357598162420812, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1483-540160-0003.tif", "source_mtime_ns": 1785564934000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1483-540160-0003.tif", "source_sha256": "1c76b6d1f08b8b62dac97e27473e908a09006283309d0f953a856c44d6660a13"}
+
+===== PAGE 1 =====
+{"alpha_words": 33, "chars": 260, "method": "ocr", "page": 1, "variant": "clean-vision"}
+340
+67931
+A RWY OS
+xC
+KNIK ARM
+RESTRICTED
+ANCHORAGE/
+LEGEND
+A-PT. INITIAL OBSN.
+B-PT. FINAL OBSN.
+C-LOCATION OBSRS.
+-TRACK OF OBJECT
+DEGLASSIFIED
+BY - ALA
+SA K
+Mens
+OVERLAY TO
+AMS Q-712
+SHEET 3243 III
+1:50,000
++ 7 87
+3 49
+Declassification Authority: NND 57565

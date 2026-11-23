@@ -1,0 +1,57 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T07:21:17Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 21119032, "source_ctime_ns": 1793360694257097974, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-003-0012.tif", "source_mtime_ns": 1785565111000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-003-0012.tif", "source_sha256": "0b3e8a716958022ebb66ba480a0fb368aee8622b5709f510138acb121ba75917"}
+
+===== PAGE 1 =====
+{"alpha_words": 201, "chars": 1329, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AF 50kM 112
+APPROVED 1 JUNE 1948
+COUNTRY
+_Warrel County
+(CLASSIFICATION)
+REMOKI NO
+1-57
+1079
+AIR INTELLIGENCE INFORMATION REPORT
+741
+SUBJECT
+Report of Flying Object
+Great Meadows, New Jersey
+DATE OF REPORT
+DATE OF INFORMATION
+PREPARED BY (O)ji
+March 0a
+1957
+| SOURCE
+REERECES (CAS not, lei, pro
+ious report,
+i, a splash)d Ing Off. Letter from
+FROM (Agency)
+Det. 3, 4670th COS 200 E.
+State St,
+SUMMARY: (Ento
+ary of report. Give significance in final one
+entence paragraph. List in
+at lows er left.
+Begin text of rep
+This office is often queried on the subject of UFO's
+and
+most of the supposed
+sightings come from the Warren County area.
+Opinion as to the significance of this report is negative.
+Trenton
+2/19:4-7
+79
+6171326
+maS (ATIC)
+ABC
+SUTICH BY QUA
+Oripinal to D/I, HODUJAF
+Copy to D/I, 26th AD
+Copy to Comdr,
+Copy to Cordr, 4602d Alos
+MOTE THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT. 50 U.S. S.C.-
+31 AND 32, AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW
+IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF
+INTELLIGENCE, USAF.
+(CLASSIFICATION)
+DECLASSIFIED
+Authority NND 9237007

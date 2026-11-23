@@ -1,0 +1,55 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T07:45:32Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7524592, "source_ctime_ns": 1793362956425440291, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330784024/45484701-004-002-0180.jpg", "source_mtime_ns": 1785685049000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330784024/45484701-004-002-0180.jpg", "source_sha256": "43d407e66f487275d1789e69d2594b34d1f8012008c253c01f70b036fe9f297e"}
+
+===== PAGE 1 =====
+{"alpha_words": 399, "chars": 2538, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AF FORM 112-PART I8
+APPROVED 1 JUNE 1948
+Confidenti
+AIR INTELLIGENCE INFORMATION REPORT
+EPORT NO
+ROM (Agency)
+HQ EADF
+1R-3-51E
+2
+PAGES
+On 10 september, Major Ballard and It. Rogers of the 148th Fighter Interceptor
+Squaaron, spotted an unidentified object over Sandy Hook, New Jersey.
+Their T-33
+was at 20,000 feet,
+the object was well below, heading southwest.
+Lt. Rogers was
+first to sight the object (1135 EDT) since Major Ballard was making a position
+report.
+It. Rogers followed the object in a diving turn to the left descending to an
+altitude of about 16,000 feet with the object about 8,000 feet below and to the
+right of the aircraft. Thereafter he tried to keep a course paralleling, but above,
+that of the object.
+As soon as Major Ballard completed his radio check-in he was notified of the
+strange object.
+Both watched it make a 90 degree turn to the left and kept it under
+observation together while it covered approximately 20 miles before it disappeared
+out to sea. (Refer to statements of pilots and map.)
+Lt. Rogers, in control of the T-33, had the object in sight for about two
+mimites with the object covering a distance of about 35 miles; Major Ballard had the
+object in sight for less than a mimite. As to the weather and description of the
+object see attached statements.
+On the same date a radar station at Ft. Monmouth reported two targets that
+were unidentified, traveling over 700 mph, and giving returns that could not be
+explained as being equipment malfunction, anomalous propagation, or anything but
+an actual target as described in the attached report.
+towever, the possibility
+exists that the news item reporting the observation by the fighter pilots could
+have caused the imaginations of the radar observers to run wild. This is con-
+sidered remote in viewof the number of observers witnessing the scope returns
+and the fact that four such incidents are reported in two days.
+However, the
+possibility is being investigated and results will be submitted upon receipt. ,
+BRUCE K. BAUMGARDNER
+It. Colonel, USAF
+Director of
+Intelligence
+NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S. C.
+31 AND 32, AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW
+IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF
+INTELLIGENCE, USAF.
+Declassification Authority: NND 923007

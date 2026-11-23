@@ -1,0 +1,51 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T07:28:38Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8048256, "source_ctime_ns": 1793363878627541018, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330786241/45484701-006-003-0013.jpg", "source_mtime_ns": 1785684661000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330786241/45484701-006-003-0013.jpg", "source_sha256": "0cee7d0bdbe5c1fe1459fee45146b95efc583c3406ca4b3618f2e829ced27eb9"}
+
+===== PAGE 1 =====
+{"alpha_words": 213, "chars": 1434, "method": "ocr", "page": 1, "variant": "plain-vision"}
+ASSOCIATED PRESS
+UNITED PRESS
+FULL LEASED WIRE REPORTS
+NATIONAL REPRESENTATIVE
+REYNOLDS-FITZGERALD, INC.
+NEW YORK: 515 MADISON AVE.
+CHICAGO: 360 NORTH MICHIGAN AVE.
+PHILADELPHIA: LAND TITLE BLDG
+DETROIT: 8-269 GENERAL MOTORS BLDG.
+SAN FRANCISCO: 58 SUTTER ST.
+LOS ANGELES: 117 WEST 9TH ST.
+SEATTLE: 610 LLOYD BLDG.
+MEMBER AUDIT BUREAU OF CI LATIONS
+Great Falls Leader
+EVENING, EXCEPT SUNDAY
+THE LEADER COMPANY, PUBLISHERS
+GREAT FALLS, MONTANA
+Sept. 13,1950
+Commanding General,
+Air Materiel Command,
+Wright-Patterson Air Force Base,
+Dayton, O.
+ATTENTION -- MCIAXO-3
+Nick Mariana, goneral manager of our local ball club, soveral days age
+saw two silvery disk objoets skittering about the sky over the ball
+parko
+Nick doubted his eyes and called his secretary, who saw the same
+ob joets.
+Nick ran to his car and got his motion pleture camera out of the
+glove compartment, after unlocking the sar.
+He took coler pietures of the two silver disks flying against a
+deep blue Montana sky. The films, since devoloped, have caused
+some comment in Great Falls.
+our ball park lies between the ACM zinz plant, largest producer
+in the world, and the
+treat Falls air forco base.
+Mariana, whose address is 2919 First avenue north, says he will
+gladly give the films to any government agency, which may be
+interested.
+15 16
+Sipcerely,
+C.T. Sullim
+C.T. Sullivan
+Great Falls Leader
+Great Falls, Mont.
+UNCLASSIFIED
+Declassification Authority: NND 923007

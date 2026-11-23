@@ -1,0 +1,58 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T07:47:45Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8521374, "source_ctime_ns": 1793385874102449045, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28994301/0729.jpg", "source_mtime_ns": 1785748359000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28994301/0729.jpg", "source_sha256": "ef838764bc9c0e430ae53411680196ef4c2e440f14e77b67c8bff80d59d8ae8b"}
+
+===== PAGE 1 =====
+{"alpha_words": 135, "chars": 1011, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+30 Aug 61
+3. DATE-TIME GROUP
+Local _
+2130
+GM T.
+3102302
+5. PHOTOS
+• Yos
+XXN°
+7. LENGTH OF OBSERVATION
+5 min
+BRIEF SUMMARY OF SIGHTINGBright light, 11ke a
+star.
+Disappeared by fading out.
+Charged
+course.
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Dayton, Ohio
+TYPE OF OBSERVATION
+xÆxGround- Visual
+• Air Visual
+T. SOURCE
+• Ground-Rader
+• Air-Intercept Radar
+Civilian
+8. NUMBER OF OBJECTS
+9. COURSE
+12. CONCLUSIONS
+Was Balloor
+•
+Possibly Balloon
+Won Aircraft
+FIX
+Probably Aireraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+•
+Othar.
+Insufficient Date for Evaluation
+Unknown
+11. COMMENTS Most logical conclusion as
+to identity of objt is that it was a
+high-flying a/c. Jet a/c have white lights
+under fuselage which is only l evident
+when the a/c are at high altitudes. Wind
+direction and altitude can be cause for ab
+sence or sound. Due to changing angle of oc
+observation and increasing distance, light
+could appear to snap out. Probably a/c.
+ATIC FORM 329 (REV 26 SEP 52)

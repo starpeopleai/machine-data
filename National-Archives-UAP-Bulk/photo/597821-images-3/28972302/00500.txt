@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T08:02:19Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8042665, "source_ctime_ns": 1793379433790573533, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28972302/00500.jpg", "source_mtime_ns": 1785700830000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28972302/00500.jpg", "source_sha256": "1ba97033f42cd118f0a266831156140a14257f84bb539fe60f9fe28359505128"}
+
+===== PAGE 1 =====
+{"alpha_words": 75, "chars": 548, "method": "ocr", "page": 1, "variant": "plain-vision"}
+RE057
+C070577903
+TOWP
+:-30C0-3E
+1.6
+. 19/0/10₴
+Mutti
+US SNO
+KFA067
+PP RJEDUP
+ZDK
+PP RJEDEN RJEDWP RJEPHQ
+DE RJEDKF 1G
+P 1903852
+FM COMDR 20TH AIR DIV RICHARDS GEBAUR AFD MO
+TO RJEDEN/CONDR ENT AFB COL
+RJEDWP/COMDR AIR TECH INTEL CNTR WPAFB OHIO
+RJEPHQ/DIR INTEL HQ USAF WASHDC
+05/02
+00 19 07 43 97
+/UNCLASSIFIED/20ADCC 10¿254 UFOB
+IN ACCORDANCE WITH INTERIM CHANGE 1 TO CONADM 55-1
+THE FOLLOWING UFOB IS SUBMITTED.
+(AD 16
+ROUND
+26
+SILVER DOLLAR
+30
+'RED AND WHITE,
+) ALTERNATING ABRUPTLY AND
+UNEVENLY-VERY BRIGHT
+4. ONE
+50 NEGATIVE
+6, NEGATIVE
+Sees

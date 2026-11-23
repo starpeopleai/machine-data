@@ -1,0 +1,63 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T08:06:44Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8596537, "source_ctime_ns": 1793364256923836641, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330786509/45484701-006-006-0344.jpg", "source_mtime_ns": 1785684603000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330786509/45484701-006-006-0344.jpg", "source_sha256": "aecbd5fdd4dcb1c1fbd0633907d6a8bc0bf57964e1cc9032022847eeca104a3f"}
+
+===== PAGE 1 =====
+{"alpha_words": 246, "chars": 1866, "method": "ocr", "page": 1, "variant": "plain-vision"}
+File No. 24-8
+SUBJECT: Unidentified Aerial
+SPECIAL INQUIRY
+CONFIDENTIAL
+DEPARTMENT OF THE AIR FORCE
+HEADQUARTERS UNITED STATES AIR FORCE
+WASHINGTON
+THE INSPECTOR GENERAL USAF
+17TH DISTRICT OFFICE OF SPECIAL INVESTIGATIONS
+KIRTLAND AIR FORCE BASE, NEW MEXICO
+DR/MEN/cks
+CLASSIFICATION CANCELLED A POR AREA!
+27 October 1949
+BY AUTHORITY OF THE DIRECTOR OF 322L AN
+BY
+Objects
+Historian
+HURT K. KUNZE, Capt, USAF
+DATE
+4 DEC 1975
+TO:
+Director of Special Investigations
+Headquarters USAF
+Washington 25, D. C.
+UNCLASSIFIED
+1 •
+On 14 October 1949, at Los Alamos, New Mexico, a special joint
+meeting was held to discuss
+the various aspects of the aerial phenomena
+(Fireballs).
+In attendance and participating in the discussion were the
+following.
+Joseph Kaplan, Member USAF Scientific Advisory Board
+Lincoln LaPaz, Professor of Meteoritics, University of New Mexico
+Captain Melvin E. Neef, 17th District OSI (IG) USAF
+It Col Doyle Rees, District Commander, 17th District OSI (IG) USAF
+Major L. C. Hill, CMP, Branch Intelligence Office, Fourth Army
+Major F. C. E. Oder, Geophysical Research Division, USAF
+J. Phillip Claridge, Special Agent, FBI, Albuquerque
+Jerry Maxwell, Resident Agent in Charge, FBI, Los Alamos
+Sidney Newburger, Jr, Chief, Security Operations Branch, AEC
+W. E. Bradbury, Director, Los Alamos Scientific Laboratory
+John Manley, Technical Associate Director, LASL
+Edward Teller, Assistant Director for Weapon Development, LASI
+George Gamow, Staff Member, LASI
+Fred Reines, Group Leader, T Division, LASL
+Major K. K. Kolster, J-2, Sandia Base
+Stanislaw Ulam, Los Alamos, New Mexico
+2. After careful discussion, it was concluded that-
+2418512-2
+UNITED STATES AIR FOR
+a. Real phenomena exist.
+THE INSPECTOR SEN
+b. A scientific project should be set up to coUld
+- 4.28 PM 249
+coordinated investigation.
+1356
+NOV 2 3 1842
+Declassification Authority: NND 923007

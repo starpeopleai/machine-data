@@ -1,0 +1,55 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T07:28:53Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8187219, "source_ctime_ns": 1793365193473578396, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330788488/45484701-008-001-0024.jpg", "source_mtime_ns": 1785684664000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330788488/45484701-008-001-0024.jpg", "source_sha256": "1088dc18e27d6d8f30d6ab3e3101f88285e5cd5383bb9ff295e52bfcbfbd5dac"}
+
+===== PAGE 1 =====
+{"alpha_words": 192, "chars": 1436, "method": "ocr", "page": 1, "variant": "plain-vision"}
+SECUNL
+SADQUARTS RS
+ALASKAN COMMAND
+* Seattie, Washingtor
+c/o Postmaste:
+RMATION
+ALINT
+SUBJECT:
+Intelligence Investigation Track 17
+TO:
+Commanding General
+Alaskan Air Command
+Elmendorf Air Force Base, Alaska
+1. It is requested that immediate and detailed intelligence
+investigation be conducted of the events concerning Track 17, 21
+January 1952, at Ladd-Bielson ADCC.
+2. It is suggested that the possibilities of a meteorite shower
+occurring in the plotted area during the period that radar returns
+were received be explored. It is believed that there are competent
+authorities on this subject available at the University of Alaska.
+BY COMMAND OF MAJOR GENERAL CUNNINGHAM:
+CLASSIFE
+AAOID-4
+ist Ind
+25 Jan 1952
+HEADQUARTERS, ALASKAN AIR COMMAND, Elmendorf Air Force Base, APO 942,
+J. S. Air Force
+*TO:
+Commander-in-Chiet, Alaskan Command, Elmendorf Air Force Base,
+APO 942, U. S. Air Force
+Intelligence Service Squadron proceeded to ladd Air Force Base on
+An intelligence team of two (2) officers from the 5004th Air
+23 January 1952 for the purpose of conducting the investigation requested
+in paragraph one (1) above.
+2.
+A complete report will be forwarded your headquarters upon com-
+pletion of this investigation.
+FOR THE COMMANDING CENERAL:
+A CERTIFIED TRUE COPY:
+Finethy Flanagan
+TIMOTHY J. PLANAGAN
+capta a el.
+USAF
+RESTRICTED
+ISSIFIED
+PAYSON V. TOZIER
+Major
+USAF
+Asst Air Adj. Gent
+F411176
+Declassification Authority: NND 923007

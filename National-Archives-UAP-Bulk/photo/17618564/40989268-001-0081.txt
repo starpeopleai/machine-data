@@ -1,0 +1,52 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T07:57:02Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 17588256, "source_ctime_ns": 1793355643085023941, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0081.jpg", "source_mtime_ns": 1785564495000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0081.jpg", "source_sha256": "a0be80faafa566f96c44bbb43f75155fd888aae3e8d78b86bdf955f3c3a70295"}
+
+===== PAGE 1 =====
+{"alpha_words": 400, "chars": 2740, "method": "ocr", "page": 1, "variant": "plain-vision"}
+148
+axis of the cells is misaligned as much as 15 degrees from a perfectly vertical im-
+pact, the honeycomb may lose as much as 25 to 30 percent of its energy-absorbing
+capability. The simple "flat circular canopy" parachute has an advertised oscilla-
+tion of up to > 25 degrees. Another disadvantage, not often encountered in balloon-
+ing, is the limited energy-absorption range of paper honeycomb.
+Now refer to Figure 11. Another material sometimes used is foamed plastic.
+Here, you can see, Styrofoam also possesses a good-looking stress-strain curve and
+has most of the same mechanical advantages found with honeycomb. I would rate the
+plastics slightly higher than honeycomb in their ability to accommodate a nonvertical
+landing, and you can usually find a higher range of energy-absorbing capability in
+plastics. The disadvantages of plastics should cause you to examine carefully the
+rebound energy and the shear strength of the specific material being considered.
+Also some plastics allow loss of their contained gas after long exposure to a hard
+vacuum and this could change their energy-absorbing characteristics.
+DYNAMIC STRESS-STRAIN CURVE FOR STYROFOAM
+GY ABSORBED: I-LB/CU FI
+Q-103.15
+UNIT STRAIN PER CENT
+Figure 11. Dynamic Stress-Strain Curve for Styrofoam
+Just for comparison, refer to Figure 12, which shows a typical stress-strain
+curve for Alminum honeycomb. In general, within a comparable range, Aluminum
+offers no weight saving over paper; it has the same directional limitations for
+149
+orientation at impact, and is more expensive. It does improve the energy-capacity
+range somewhat, however.
+IMPACT VELOCITY : 26.1 fps
+DYNAMIC STRESS -
+STRAIN CURVE
+FOR ALUMINUM
+HONEYCOMB
+15
+20 30 40 50
+70
+Figure 12. Dynamic Stress-Strain Curve for Aluminum Honeycomb
+4. STRATOSCOPE II CRASH PAD SYSTEM
+Stratoscope II is at least one case where the mechanical configuration of the
+payload determined in large measure the final choice and design of the crash pad.
+Of course, weight has always been critical, and reliability was of utmost importance.
+By referring to Figure 13 you will see other considerations. First, the initial impact
+should be borne by the azimuth frame which is the "backbone of the telescope.
+This means transferring the force across the "knuckle about which the telescope
+pivots. The pad can employ no shifting mass which might upset the telescope's
+balance about this knuckle. A fairly low "G" factor of two or three was specified.
+The impact velocity might vary from 10 feet-per-second with a controlled valve,
+down to as much as 16 to 18 feet-per-second with the emergency parachutes.
+Landing can occur in the presence of surface winds as high as 20 knots, and with a
+variable amount of residual ballast.

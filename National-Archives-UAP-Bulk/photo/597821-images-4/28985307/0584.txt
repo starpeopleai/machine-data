@@ -1,0 +1,34 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T07:40:09Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5865958, "source_ctime_ns": 1793382743568609648, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28985307/0584.jpg", "source_mtime_ns": 1785748069000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28985307/0584.jpg", "source_sha256": "4d87ad82fc169c9559a49d50b353ef0c716ddb717d55cd02ff13c924900ca579"}
+
+===== PAGE 1 =====
+{"alpha_words": 144, "chars": 1170, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPA
+IT OF THE AIR PORC
+STAR MESSAGE DIVIDIC
+UNCLASSIFIED MESSAGE
+INCOMING
+AF IN : 42304 (10 Nov 59)
+PAGE TWO RJWF DL 32B
+RIGHT ANGLE TURN TOWARDS THE NORTH. /5/ OBJECT DISAPPEARED VERY
+QUICKLY TOWARDS THE NORTH. /6/ ONE MINUTE. PARA C /1/ GROUND
+VISUAL. /2/ NEGATIVE. /3/ NEGATIVE. PARA D /1/ 1515 ZULU 7 NOV 59.
+/2/ DAY. PARA E 29 34 N'98 34 W 4 MILES EAST OF KELLY VOR.
+PARA F/1/ CIVILIAN
+23
+BOX
+SAN ANTONIO TEXAS DRILL RIG OPERATOR IN ROCK QUARRY. CONSIDERED
+RELIABEL. PARA G /1/ FAIRLY CLEAR. /2/ SURFACE WINDS SSE 10 KNOTS
+6000 FT 170/22 10 000 FEET 140/13
+16 000 FEET 160/12 20 000 FEET
+140/10 0 000 FEET 240/06 50 000 FEET 320/14 70 000 FEET 040/47.
+/3/ NEGATIVE. / 4/ 15 MILES. /5/ SCATTERED CONDITION. /6/ NEGATIVE.
+/7/ APPROX 1 1/2 DEGREE FAHRENHEIT PER 1000 FEET WITH INVERSIONS AT
+800 FEET AND AT 5 000 FEET. PARA H NEGATIVE. PARA I NEGATIVE.
+PARA J NEGATIVE. PARA K STAFF OFFICER IN WING OPERATIONS
+3510 FLYTRAWG RANDOLPH AFB IS PREPARING OFFICER. AC&W GCI AI
+LACKLAND AFB AND SAN ANTONIO WEATHER BUREAU CONTACTED WITH NEGATIVE
+RESULTS. PRELIMINARY ANALYSIS REVEALS NO PROBABLE CAUSE OF
+SIGHTING. PARA L NEGATIVE.
+ST
+10/2036Z NOV RJWF DL
+Page 2 of 2 Pages

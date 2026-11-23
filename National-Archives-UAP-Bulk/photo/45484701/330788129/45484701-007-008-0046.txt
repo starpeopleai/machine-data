@@ -1,0 +1,44 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T07:51:55Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10165406, "source_ctime_ns": 1793365011553284751, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330788129/45484701-007-008-0046.jpg", "source_mtime_ns": 1785685182000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330788129/45484701-007-008-0046.jpg", "source_sha256": "2e39e102273b36cac4c26614b943ec2acf215a329095d2d74710ad5d3cb56bad"}
+
+===== PAGE 1 =====
+{"alpha_words": 204, "chars": 1466, "method": "ocr", "page": 1, "variant": "plain-vision"}
+File:
+SUBJECT: Unconventional Type Aircraft
+1 5 NOV 1952
+20
+DETAILS
+a. Mr. Roy P. Northern, Jr., 0420 Garland Drive, Fort Worth,
+Texas, telephonically advised Special Agent Charles J. Eck, this office,
+that he had sighted an object in the sky while returning to Fort Worth
+via automobile approximately 18.8 miles northwest of Jacksboro, Texas
+on U.S. Highway 281, at 1811 hours, 29 October 1952. NORTHERN requested
+this agent contact him at his office, located in Room 5l4, Fort Worth
+National Bank Bldg., Fort Worth, Texas, for more detailed information.
+Mr. Northern was contacted by Special Agent Eck and volun-
+tarily gave a statement concerning the incident and a drawing showing
+the approximate size and description of the object, copies of which are
+attached as inclosures to this report.
+c. Mr Northern also made a drawing giving approximate description
+and size of this object.
+This drawing is being retained in the files of
+the 23rd OSI District, IG, Carswell Air Force Base, Texas.
+3. ACTION
+No action taken or contemplated by the undersigned,
+Two (2)
+copies of this report forwarded to the Commanding General, Air Materiel
+Command, Wright-Patterson AFB, Dayton, Ohio, Attentions CIS, in comp-
+liance with AFCSI Letter No. 85 dated 23 October 1950.
+JAMES C. SCHOFIELD
+Lt Colonel, USAF
+District Commander
+Incls: As Listed.
+Capt Srown, C/ol, 13/1/52
+ИОЛа
+24-
+165-23-710
+AIR FORCE
+FOR GENERAL
+Nov 7 12 37°52
+SPEÇI
+CONS
+Declassification Authority: NND 923007

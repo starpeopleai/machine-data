@@ -1,0 +1,42 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T08:18:17Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6237479, "source_ctime_ns": 1793361935666508554, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330781865/45484701-001-006-0014.jpg", "source_mtime_ns": 1785685161000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330781865/45484701-001-006-0014.jpg", "source_sha256": "9afb06df6be6c727d3e7bba8aee9d088c79dcee241a6f3a0ff33110739f4cd50"}
+
+===== PAGE 1 =====
+{"alpha_words": 133, "chars": 1007, "method": "ocr", "page": 1, "variant": "plain-vision"}
+CONFIDEN
+ANC
+Subject: Project " Sign"
+It is requested that allppertinent material be forvarded
+directly to the Commanding General, Air Material Command, Wright-
+Patterson Air Porce Base, Dayton, Ohio, attention MCIAX-3.
+FOR THE COMMANDING GENERAL:
+2 Incls
+Cy of Rpt
+2e
+EEL Form
+W. R. CLINGERMAN
+Colonel, USAP
+Actg Chief of Intelligence
+Ist Ind
+HEN/m&p
+office of the Intelligence Officer, 3565th Basic Pilot Training Wings
+Waco Air Force Base, Taco, Texas, 29 October 1948
+TO :
+Commanding General, Headquarters, Air Material Command, Wright
+Field, Dayton, Ohio, ATTENTION:
+NOTAXO-8
+In compliance vith basic communication, Headquarters, Air
+Material Command, Wright Field, Dayton, Ohio, MCIA-&, Subject:
+Froject "Sign" dated 18 Cetober 1948 the inclosed report is submitted.
+Hugh E. McCall
+HUGH E. MO CALL
+Captain, USAF
+Intelligence Officer
+2 Incl
+Statement of
+A. R. Angier
+Rpt on BEL
+A CERTIFIED TRUE COPY:
+/ s/ Kenneth J, Guynne
+/ KENNSTH 3. GWINNE
+Special Agent, OSI
+Declassification Authority: NND 923007

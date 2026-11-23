@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T07:36:41Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 19762706, "source_ctime_ns": 1793360332990253366, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-014-032-0023.tif", "source_mtime_ns": 1785681692000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-014-032-0023.tif", "source_sha256": "91767d5f7b60804357b14c715defa697141197b6b9d5b06d7daf95afec480123"}
+
+===== PAGE 1 =====
+{"alpha_words": 193, "chars": 1295, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+*AF-FORM 112--PART I|
+APPROVED 1-JUNE 1948
+FIt 1-D 4602D AISS
+AIR INTELLIGENCE INFORMATION REPORT
+ID-UFOB-1
+PAGE /0 a OF: /0
+PAGES
+COMMENTS or Preparing Officers
+None
+COMMENIS of, Approving Officers
+1. It is the opirion of this headquarters that this sighting was caused
+by the planet Venus for the following reasons:
+a. At the time of the sighting the planet Verus, which was visible
+during daylight hours in May 1956, was at approxinately the same pomition as
+the object.
+b. The object was described by all observers as being like a bright
+star. One observer stated that he felt the sighting was caused by a heavenly
+body reflecting light.
+Although the observers' aircraft traveled many miles daring the
+sighting the object remained stationary, indicating that the object was at a
+great distance from the observers.
+do
+Winds-aloft at the time of the sighting coupled with the distance
+traveled by the observers aircraft would preclude the possimility of a balloon.
+In a telephone conversation with this headquarters Major J. Broughton,
+Flight leader of the Thnderbirds and an observer of the object in question, stated
+that from past experience this sighting was not caused by a balloon but felt that
+it could have been caused by a bright star or planet.

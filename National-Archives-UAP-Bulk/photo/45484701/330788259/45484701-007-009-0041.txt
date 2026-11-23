@@ -1,0 +1,34 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T07:33:48Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10567287, "source_ctime_ns": 1793365079272732376, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330788259/45484701-007-009-0041.jpg", "source_mtime_ns": 1785684987000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330788259/45484701-007-009-0041.jpg", "source_sha256": "8829eee78e39ae881ecb33b159158f848e634c93755bba30e48385e9bd06929d"}
+
+===== PAGE 1 =====
+{"alpha_words": 146, "chars": 1005, "method": "ocr", "page": 1, "variant": "plain-vision"}
+20 OSI File 2h-0-261
+Itr to: Commander, ATIC
+Subj:
+Unidentified Object seen in the Air ....
+Mrs. KANDL informed her husband that she had observed the
+object in the sme location several times previously this
+year •
+KANDL recalled a rumor that a metalic flying object was
+found several years previously in approximately the same
+area where he had sighted the unidentifiable object on
+October 3, 1953. KANDL stated that he is available at the
+United States Department of Labor, 215 Montague Street,
+Brooklyn, for any additional assistance that he might
+renderiẠạiại
+2. No investigation is contemplated by this district.
+3. Information furnished herewith has been derived from sources
+other than the Department of the fir Force and, in accordance with para-
+graph 5f, APR 205-1, dissemination must not be made outside USAP channels.
+For and in the absence of
+HARRY G. WEBER
+Major, USAP
+District Commander
+ee: Dir OST
+24-185-24-
+FORCE
+LE HAL
+JAN 29 09 21°54
+K86 FEB
+Bita
+Declassification Authority: NND 923007

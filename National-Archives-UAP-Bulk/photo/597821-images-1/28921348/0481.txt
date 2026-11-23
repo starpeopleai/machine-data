@@ -1,0 +1,75 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T08:18:29Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6455212, "source_ctime_ns": 1793368650309232945, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28921348/0481.jpg", "source_mtime_ns": 1785688712000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28921348/0481.jpg", "source_sha256": "5f88a480b2a91b87359e8ee6e0555a64a24340e6d685a64efc7f316676a74e8f"}
+
+===== PAGE 1 =====
+{"alpha_words": 106, "chars": 984, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DATE
+LOCATION
+127244
+Eartsdale, New York
+127274
+Shilow, Ohio
+127287
+Newport News, Virginia
+1272927
+Sep
+/2730 to 10 Oct
+San Francisco, California
+1273 / 10
+Vinton, Ohio
+12732.12
+Memphis, Tennessee
+12733 14
+Attica, Indiana
+12734
+20
+Near Defuniak Springs, Florida
+12735 21
+15 mi SW of Twin Falls, Idaho
+1 - 31 OCTOBER 1969
+OBSERVER
+Civilian
+Civilian
+Civilian
+Civilian
+Civilian
+Civilian
+Civilian
+Civilian
+Civilian
+EVALUATION
+Other (CONFLICTING DATA)
+Insufficient Data
+Possible Aircraft
+Probable Astro (VENUS)
+Probable Aircraft
+Insufficient Data
+1. Probable Astro(CAPELL/
+2. Probable Aircraft
+Other (SATELLITE DECAY)
+1. Other (PROBABLE
+ROCKET LAUNCH)
+2. Astro (POSSIBLE STARS/
+PLANETS)
+Probable Balloon
+Possible Balloon
+Other (CONFLICTING DATA)
+12736 23
+1273/26
+1273829
+12739552šę
+DATE
+฿2740 14
+Vandalia, Ohio
+Commack,
+Long Island, New York
+chicago? exio
+Illinois
+Civilian
+Civilian
+Civilian
+ADDITIONAL REPORTED SIGHTINGS (NOT CASES)
+LOCATION
+SOURCE
+Shirley, Massachusetts
+NICAP
+EVALUATION

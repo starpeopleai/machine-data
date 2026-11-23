@@ -1,0 +1,56 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T07:32:51Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9857833, "source_ctime_ns": 1793387780161152540, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28999160/1106.jpg", "source_mtime_ns": 1785748158000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28999160/1106.jpg", "source_sha256": "23eb1b726628f71b07fc6439d0f361d322ea12eb45ed142eb132b019f962dc6f"}
+
+===== PAGE 1 =====
+{"alpha_words": 253, "chars": 1726, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UFO REPORT
+TD-X2
+18 Sep 62
+TO: TD-E (Col Friend)
+The following, extracted from Maj Edward's OD Report dated 17 Sep 62,
+is quoted for your Information:
+Two UFO reports were received.
+The first was from the Dayton
+Post of the Ohio State Patrol which was reporting third person
+sightings made by Sheriffs Deputies, private citizens, and Ohio
+State Patrolmen in the St Clairsville sector around 0905
+thru 09402, 18 Sep.
+The second was by the Lockbourne AFB
+SAC Command Post which gave the reports of two sightings by
+B-17 Afrcraft Commanders who were "in trail" 63 NM apart Flying
+NE over Tennessee (3530N/8700W).
+Names:
+Deputy Donald Corey, 455 Idora, Youngstown, Ohio
+Deputy John T. Raines, 138 Monroe St.,
+bell, ohio
+Patrolman John W. Conner, Ohio State Patrol
+Box 377,
+St. Claireville, Ohio
+Dispatcher E.L. Kuhn, Ohio State Patrol, Box 337,
+Sc Clairsville, Ohfo
+t Clafreville, Ohio
+Mrs.
+-St Clairsville, Onio
+Note:
+None of these people reported directly - report was third
+person by Dayton Post of Ohio State Patrol.
+The second report was from Lockbourne ATB SAC Command Post:
+Aircraft Commanders:
+Lead Afreraft - Captain J.F. Kril1, 47461A, 513ch
+Bomb Sqdn, Lockbourne AFB
+Aircraft #2
+- Captain W.T. Wetzel, 29259A, 513ch
+Bomb Soda, Lockbourne AF?
+Briefly:
+SAC pilots and ground observers saw "funnel shaped
+clouds" in a level position like a 'super con tail"
+with an extremely bright light at the apex of the cone.
+Light lasted for about 30 seconds and cloud dissipated
+quickly after light went out.
+SAC pilots were over
+Tennessee headed North Bast and ground observers were
+in Ohto looking south. Time:
+0405am (09052). Weather:
+Clear, moonlite night, visibility unlinited.
+OHN C. MENÉILI
+Major, USAF
+Administrative Officer

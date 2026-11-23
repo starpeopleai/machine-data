@@ -1,0 +1,62 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T07:25:32Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 19213305, "source_ctime_ns": 1793355774627989713, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0218.jpg", "source_mtime_ns": 1785564520000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0218.jpg", "source_sha256": "dd70a5bd96cdce5aee88c9c1455c54f9318f07c5b7ebfa1f3b688b37af46e404"}
+
+===== PAGE 1 =====
+{"alpha_words": 614, "chars": 4115, "method": "ocr", "page": 1, "variant": "plain-vision"}
+424
+in a wind-tunnel test situation. However, it was also felt that a brief wind-tunnel
+investigation would help to point out problem areas and give some physical insight
+into the phenomena before moving on to the full-scale free-flight tests.
+3.1 Equipment and Methods
+The Langley Research Center 20-foot Vertical Free-Spinning Wind Tunnel was
+made available for this study. This facility provides upward-directed velocities
+from 10 to 85 fps with infinite speed control. With this arrangement an unre-
+strained model of suitable weight and drag can be "floated' on the upward airstream
+to simulate vertical free descent. The model is thus free to accelerate and
+decelerate without restriction, thereby permitting observation of its dynamic charac-
+teristics. System drag can be measured by determining the velocity necessary to
+"float'' the model. A mounting fixture of the more conventional wind-tunnel style
+was also available for tests with the model restrained in the airstream.
+Naturally, to reduce scaling problems, as large a model as possible was
+desired. However, Langley Research Center personnel estimated that tunnel
+blockage limitations would not permit the use of larger than six-foot diameter
+model balloons in this tunnel. Furthermore, scaling studies indicated that even
+though complete scaling was not possible, the model envelope should be as light and
+flexible as possible. Therefore, all of the models were constructed in the natural
+shape with 12 gores and load lines in the 6-foot size. At the time of the study, fabric
+availability was limited, so the models were made of 1.1-oz-per-va2 and o s-or-
+per-ya? nylon cloth, coated with acrylic. Since the 1.1-oz-per-yd' nylon material
+was also later used for the 54-foot diameter full-scale balloon, the model envelopes
+were obviously too heavy and stiff from the scaling standpoint. These models were
+made with 20-, 25-, 30-, and 40-percent throat openings, and various load-line
+arrangements were provided to allow variations of the throat-loadline-forebody
+geometry.
+Streaming the envelope behind an open deployment bag that was being separated
+from the forebody by a drogue parachute was chosen as the most promising deploy-
+ment scheme. Therefore, two wooden forebodies were provided which could model
+this scheme: a six-inch-diameter forebody in which a deployment bag with the
+envelope packed inside could be internally stored and a three-inch-diameter forebody
+from which a pseudo-deployment event could be accomplished with the deployment
+bag externally restrained behind the body. The smaller forebody was the properly-
+scaled version of the full-scale test vehicle; however, the model envelope was too
+bulky to be packed inside of it. Lead weights and shot were used to vary the forebody
+weight.
+The 1.1-oz-per-ya? envelope with the 6-inch forebody is shown fully inflated in
+the Vertical Wind Tunnel in Figure 2.
+Figure 2.
+Inflated Model PARAVULCOON in 20-Foot Vertical Free
+Spinning Wind Tunnel
+Deployment tests were conducted by supporting the model system in the tunnel
+airstream with a drogue parachute, releasing the deployment bag, and observing
+the ensuing deployment. Both free-floating and restrained tests were made.
+However, since the drag of the envelope was found to increase rapidly with a small
+amount of inflation. it was difficult to reduce the tunnel velocity fast enough to
+simulate the deceleration of a free-dropped system. As a result, in the dynamic
+tests the envelope tended to be blown into the screen at the top of the tunnel, and in
+the restrained tests the model was subjected to excessive buffeting. Hence, for the
+safety of the tunnel, deployment tests were held to a minimum.
+Inflation characteristics, system stability, and the drag of the various model
+configurations were observed by hand-launching the system in a streamed configura-
+tion. For these tests the envelope from which the excess air had been removed was
+held in the airstream by the throat to prevent premature ingestion of air. Then,
+when the tunnel velocity had been adjusted to support the streamed system, the
+model was released.

@@ -1,0 +1,41 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T07:43:56Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7000194, "source_ctime_ns": 1793361810689226108, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330781368/45484701-001-003-0166.jpg", "source_mtime_ns": 1785685144000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330781368/45484701-001-003-0166.jpg", "source_sha256": "395e066ed2018d0fd188152c6240c9b6cb571d42cbe931d2776f217812ece39a"}
+
+===== PAGE 1 =====
+{"alpha_words": 205, "chars": 1447, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT "STONi
+ESSENTIAL ELEMENTS OF INFORMATION
+16. Air ducts: None observed.
+17. Speed: Could not be estimated.
+18. Sound: None.
+19. Radio antenna: None observed.
+20. Manner of disapperance: Passed beyond field of vision of observer.
+RELATIVE TO THE OBSERVER
+1. Name: Mr. Paul Brannon.
+2. Address: 247 East Main St., Peris, Ky.
+3. Occupation: Publisher of the Nicholas County Star and the Kentuckian-Citizen.
+4. Place of Businese: The Kentuckian-Citizen, 147 E. Main St., Paris, Ky.
+5. Hobbies: None.
+6. Ability to determine color, speed of moving objects and size at a distance
+could not be ascertained.
+7. Reliability: Reported to be completely reliable by three neighbors and
+the Sheriff of Bourbon County, Ky.
+8. Observers attention originally drawn to sunset. Attention further arrested
+by a dark walnut shaped object appearing from behind a cloud and leaving
+a neon like tube of light behind it.
+9. ditnesses:
+Mrs. Irene Brannon
+Miss Elizabeth Fritz
+247 E. Main St.
+620 W. Short St.
+Paris, Ky.
+Lexington, Ky.
+10. Comments of interrogator: Mr Brannon appeared to be above average in
+intelligence and of sound character. Due to harrassing by friends
+and fellow newsmen, Mr. Brannon has assumed a alightly beligerent
+attitude with respect to the "Thing in the skyl.
+he has adopted
+the attitude that he knows what he saw and has not been convinced
+by any explanation offered to date.
+5D 24-4
+EXHIBIT "B"
+Declassification Authority: NND 923007

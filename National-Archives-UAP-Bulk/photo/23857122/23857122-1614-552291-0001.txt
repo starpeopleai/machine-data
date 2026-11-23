@@ -1,0 +1,70 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T07:59:34Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 24692196, "source_ctime_ns": 1793357727522651385, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1614-552291-0001.tif", "source_mtime_ns": 1785564962000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1614-552291-0001.tif", "source_sha256": "b1cb1c56212aedf91122c13f86860f05b823432e1727be10a277279d814e49b6"}
+
+===== PAGE 1 =====
+{"alpha_words": 304, "chars": 2019, "method": "ocr", "page": 1, "variant": "plain-vision"}
+F FORM 112-PART I
+PROVER 1 JUNE 1948.
+RESTRI
+TRIVE BI
+USA
+AIR INTELLIGENCE INFORMATION REPORT
+SUBJECT
+FLYOBRPT
+AREA REPORTED ON
+Shawnee, Kansas
+DATE OF REPORT
+23 June 1953
+PREPARED BY (Officer)
+2nd It Stanley J. Kail, Jr
+REFERENCES (Control number, directive,
+evrous report, etc., as applicable)
+FROM (Agency)
+Hq Central Air Defense Force
+EVALUATION
+DATE OF INFORMATION
+20 June 1953
+SOURCE
+Mrs. Frances K. Long
+SUMMARY: (Enter concise summary of report. Give significance in final on
+tence paragraph. List inclosu
+er left. Begin text of report or
+112-Part II.)
+On 23 June 1953, an investigation was made of a reported flying object.
+The source, Mrs. F. K. Long, 11920 West 5lst Street, Shawnee, Kansas, gave
+the report as it appears in Part II and attachments.
+Mrs. Long seemed to
+be thoroughly sincere in her report. She had never before seen or experienced
+anything of that nature before, but appeared to have a very clear picture
+in her mind of the object as she saw it.
+Mrs. Long was firmly convinced of
+the shape and appearance of the object, but could not advance any knowledge
+as to what she thought it might have been or the actual size of the object.
+PREPARED BY:
+Mail Je
+2nd It., USAF
+Actg Dir of Opnl Intel
+APPROVED BY:
+R.
+WEINZETTEL
+Colonel, USAF
+Deputy for Intelligence
+INCLS.
+1.
+20
+Drawing--shape (trip)
+Drawing--path
+(trip)
+3. Drawing-angle (trip)
+USA F mEmo 7/31/28
+WE.LEWIS
+7/19/28
+DISTRIBUTION BY ORIGINATOR
+D/I, USAF Washington 25, D.C.
+DCS/I, ADC, Ent AFB, Colorado
+Chief, ATIC, ATTN: ATIAA-2c, Wright-Patterson AFB, Ohio
+NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S. C.-
+31 AND 32, AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW.
+T MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF
+INTELLIGENCE, USAF.
+SEC
+Declassification Authority: NND 57565
