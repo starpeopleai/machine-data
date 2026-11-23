@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T07:01:20Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 17698821, "source_ctime_ns": 1793355676437265557, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0115.jpg", "source_mtime_ns": 1785564501000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0115.jpg", "source_sha256": "5e23b182dca243079658727c71e7e1063748a5e237d5dcf27bc424eaed0157d0"}
+
+===== PAGE 1 =====
+{"alpha_words": 226, "chars": 1514, "method": "ocr", "page": 1, "variant": "plain-vision"}
+X- Coordinate (ft.)
+= 1600
+h = 14,108
+h = 16,100
+50
+150
+Y Coordinate (ft.)
+200
+2-m Rose Supercritical Re = 8 x 103
+X-Y Plot
+Figure 2. Horizontal Position Plot of a Standard "ROSE' Balloon Flight
+4. CAUSE OF THE INSTABILITY
+The cause of the horizontal oscillations found in freely rising and falling spheres
+has not been defined. Investigation of the "ROSE' instability has led to the following
+theory: the horizontal and vertical oscillations of spheres under subcritical Reynolds
+number are causedby the shedding of vortices. Under subcritical Reynolds number
+the boundary layer of the sphere is laminar with separation occurring somewhere
+near the equator. Vortex packages are alternately carried away by the outer flow
+causing the separation points to move back and forth so that the dimension of the
+dead area fluctuates. The sphere reacts with a spiral- or corkscrew-type motion.
+The frequency of the vortex shedding is related not only to the Reynolds number but
+also to the density ratio of the sphere to the fluid. The induced motion of spheres
+under supercritical Reynolds numbers is not caused by vortex shedding since the
+boundary layer is now turbulent. The wake separation point has moved downstream
+due to turbulent mixing and the dead area and drag coefficient are considerably
+decreased. The oscillations of the sphere are now caused by a varying line of
+separation on the surface of the sphere. The dimension of the dead area remains
+Figure 3. Intermittent Photograph of a Sphere Falling in Water

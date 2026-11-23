@@ -1,0 +1,41 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T06:23:22Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 30256004, "source_ctime_ns": 1793357025498808073, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1216-481596-0004.tif", "source_mtime_ns": 1785564813000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1216-481596-0004.tif", "source_sha256": "550c9f466be94dcd704fe9df4a93c66567d0f67f5db8b2b1f51e76d0ef39d907"}
+
+===== PAGE 1 =====
+{"alpha_words": 174, "chars": 1276, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AF FORM 112-PART II
+APPROVED 1 JUNE 1948
+FROM (Agency)
+12th Strategic Fighter Wing
+RESTRICTED
+(CLASSIFICATION)
+AIR INTELLIGENCE INFORMATION REPORT
+REPORT NO.
+IR-3-53
+PAGE
+OF
+COMMENTS OF THE PREPARING OFFICER
+T/Set Gerald V. Kelley, AF 11194087, has been performing the duties of AFSC
+27272 Aircraft Landing Control Technician in the Airways and Air Communications
+Service Detachment 1921-1, 1921st AACS Squadron since August 1951 and is stated
+to be fully qualified by his commanding Officer.
+The preparing officer does not know the observer personally.
+7 Redden
+EUGENE F. REDDEN
+USAF
+Ass't Intelligence Officer
+APPROVED:
+PAGES
+eeta W. H. Parker
+/ICTOR W. H. RANKIN
+Captain,
+USAF
+Intelligence Officer
+12th Strategic Fighter Wing
+NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S. C.-
+31 AND 32, AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW.
+IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF
+INTELLIGENCE, USAF.
+RESTRICTED
+(CLASSIFICATION)
+16-55570-1 * U.S. GOVERNMENT PRINTING OFFICE
+Declassification Authority: NND 57565

@@ -1,0 +1,53 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T06:45:34Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 30212332, "source_ctime_ns": 1793356823568586010, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-0880-393936-0004.tif", "source_mtime_ns": 1785564768000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-0880-393936-0004.tif", "source_sha256": "3bf321942e651b3c8dc20329cea0330247a8775118b0d665f7ee2e16637e4b2f"}
+
+===== PAGE 1 =====
+{"alpha_words": 242, "chars": 1737, "method": "ocr", "page": 1, "variant": "plain-vision"}
+F FORM 12---PART
+APPROVED & June 1948
+SECURITY INFORMATION
+CONFIDENTIAL
+(Classification)
+AIR INTELLIGENCE INFORMATION REPORT
+393936'2
+From (Agency)
+Report No.
+Page
+Pages
+ADCL 200-1
+5al
+a. Shape- similier to the Northrup Flying Wing. Size - approximztely aight
+(8) feet across.
+Color-milky white, Number-one, No trail or exhaust, no sound, no
+maneuvers, Speed undetermined, Disappeared in the distance.
+be
+gime sighted 24/2153% November. Duration of observation approximately
+five (5) seconds.
+c. Observed from an F-5l at 25,000 feet 210 IAS. Visual observation.
+d. Location of observer at time of sighting was FJMQ 1720 (Geo-ref- Brid
+Location of object at time of sighting was 100 feet above and to the left of the
+server. Direction of travel East.
+e. Observer to be considered as fairly reliable.
+?. Minneapolis weather teletype sequence:
+MSP 0 15 278/16/5
+7/026/607
+which might account for the sighting.
+No activity or condition, meteorological or othervise, was present
+he No physical evidence.
+After sighting a 180 degree turn was made in an effort to eatch or see
+the object again but
+this was unsucessful.
+J• Number and type of local airaraft airborne at the time of the sighting
+is unknown.
+William H Sainhatt
+WILLIAM H. FAIRBROTHER
+Captain, USAF
+NOTE:
+This document contains information affecting the national defense of the United States within the
+meaning of the Espionage Act, 50 U.S.C.----31 and 32, as amended.
+Its transmission or the reve-
+be reproduced in whole or in part, by other than United States
+be reproduced in wante or in part by other than United prates AlPforce agendies, except by pot-
+mission of the Director of Intelligence, USAF.
+SECURITY INFORMATION
+(Classification)
+Declassification Authority: NND 57565

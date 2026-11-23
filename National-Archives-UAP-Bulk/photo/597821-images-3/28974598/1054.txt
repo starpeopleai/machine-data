@@ -1,0 +1,41 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T07:09:41Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8348333, "source_ctime_ns": 1793380121031595023, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28974598/1054.jpg", "source_mtime_ns": 1785700872000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28974598/1054.jpg", "source_sha256": "d825c5542d4f22512a9dcdd7a0890b96adfad7c154f25523ef4b26c2ac0b0d92"}
+
+===== PAGE 1 =====
+{"alpha_words": 107, "chars": 745, "method": "ocr", "page": 1, "variant": "plain-vision"}
+| lifetues
+12/02.212
+59/11
+• 86+5.
+121057 10 00
+PA019 УMB004EKQA215EBX309BDB233
+00 RJEDUP RJEDDN RJEPHO RJEPNY
+DE RJEDKO 33H
+0 1224232
+IN FSC OLMSTED AFD PA
+1O AJEEDN/CONDA ADC ENT AFE COLO
+AJEPHY/CONDR 26 AD DEF ROSLYN NY
+AJEDUP/COMDR AIR TECH INTEL CEN WRIGHT PATTERSON AFB OHIO
+RJEPHQ/DIR OF INTEL HQ USAF WASH DC
+10912 00 3/57
+44x22
+UFOR
+1. DESCRIPTION
+A. UNs - shape
+HELD AT ARMS LENGTH
+ONE
+G•
+BRILLIANT EXPLOSION AT VERY HIGH ALTITUDE
+WHITE VAPOR RAIL AFTER EXPLOSION
+NONE
+as seen at neght
+PAGE TWO RJEDKO 33H
+PLOSICH DESCRIPED AS SIILAR TO PHOTO
+FLASH
+2. DESCRIPTION OF COURSE
+A. VERY BRIGHT LIGHT
+HIGHER THAM NORNAL AIRCRETY OPERATING LINS INº /VATION G
+SAME AS B
+D. SLIGHT DOWNWARD PATH NORTHWEST TO SOUTHEAST
+IXPLOSION
+SECONDS
+9ZIMUTA

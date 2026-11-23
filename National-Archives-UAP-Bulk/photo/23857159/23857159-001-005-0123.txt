@@ -1,0 +1,246 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T06:27:55Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 22117696, "source_ctime_ns": 1793361428790073326, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-005-0123.tif", "source_mtime_ns": 1785565336000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-005-0123.tif", "source_sha256": "60d48e2b4ddfcb0596e57de2d3383e4a9bb2687cbf18c73f1cc7d4f04971dee2"}
+
+===== PAGE 1 =====
+{"alpha_words": 81, "chars": 1329, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DISTRIBUTION CONTROL
+CLASSIFICATION S C
+141|
+81
+42
+82
+83
+84
+цц
+45
+48
+-10
+50
+11
+51
+121
+DOORiL-
+52
+13
+53
+14
+54
+15
+55
+16
+56
+17
+57
+- 18
+58
+19
+59
+20
+60
+21
+61
+22
+62
+23
+63
+24
+64
+25
+65
+26
+66
+27
+67
+28
+68
+29
+69
+30
+70
+31
+71
+32
+72
+33
+73
+34
+74
+35
+75
+36
+76
+37
+77
+38
+78
+39
+79
+401
+180
+DECLASSIFIED
+Authority NND 9237007
+86
+87
+88
+89
+90
+91
+92
+93
+94
+5
+96
+97
+98
+99
+100
+191
+102
+103
+104
+105
+106
+1C7
+108
+109
+1 1C
+111
+1 12
+113
+1 14
+115
+1 16
+117
+118
+119
+1120
+AIR RAW
+RECORD CURES
+NOFORN _ DATE RECEIVED
+140/710
+MAR 3 1 1960
+• HON-AIR RAW
+JR
+FINISHED
+121
+209
+122
+201
+UPS RECD
+COPIES DEST
+123
+202
+SPECIAL ROUTING
+124
+20 3
+125
+20 4
+2 г.
+126
+205
+CS10 0C7,21.160
+127
+206
+APR 1960
+128
+207
+129
+208
+BLUEPRINT REQUIREMENT
+130
+209
+131
+2 10
+SUB
+TOTALS
+MANUAL
+MACHINE
+5
+19
+132
+211
+COPIES
+PAGES
+TOTALS
+133
+212
+TEXT
+24
+5
+120
+134
+213
+135
+214
+136
+215
+SEPIA
+CHARTS
+137
+216
+PHOTOSTAT REQUIREMENT
+138
+217
+139
+218
+ORIGNALS
+REPRODUCTIONS
+140
+219
+SIZE
+PRINTS NEGS
+SETS
+TOTAL
+14 1
+220
+142
+221
+14 3
+222
+144
+223
+145
+224
+146
+225
+147
+226
+148
+22.7
+OPERATOR NO & DATE
+OPERATOR NO. & DATE S-C
+OPERATOR NO. & DATE APR 196C 2
+COLLATOR/NO. & DATE
+980 5 4
+MANUAL DISSEM
+149
+22 8
+150
+229
+DATE CODED
+Pes / Apr.
+151
+230
+DATE AUTO. DISSEM
+DATE MINICARDED
+152
+231
+153
+232
+154
+233
+155
+234
+156
+235
+157
+236
+RECD IN REPRO: 1900
+DATE DISPATCHED
+TAPER 250
+RELEASE SYMBOLS
+158
+237
+159
+238
+11 60
+1239

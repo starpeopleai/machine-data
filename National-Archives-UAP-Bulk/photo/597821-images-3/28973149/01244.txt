@@ -1,0 +1,50 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T07:10:26Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8601532, "source_ctime_ns": 1793379674986557580, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28973149/01244.jpg", "source_mtime_ns": 1785700812000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28973149/01244.jpg", "source_sha256": "9202e2e3ced7ebed51918b59f6ed5fd1ad4aa93e4416d5ec4f9c33e098e554b4"}
+
+===== PAGE 1 =====
+{"alpha_words": 92, "chars": 750, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+November 1957
+DATE-TIME GROUP
+Local
+GHT.
+5. PHOTOS
+PROJECT 10073 RECORD CARD
+2. LOCATION
+ewour
+lew York
+4. TYPE OF OBSERVATION
+X: Ground-Visual
+• Air Vi suol
+6. SOURCE
+• Ground-Roder
+• Air-Intercept Rador
+CLV1L1an
+8. NUMBER OF OBJECTS
+9. COURSE
+03/0020Z
+• Yes
+7. LENGTH OF OBSERVATION
+20 minutes
+one
+10. BRIEF SUMMARY OF SIGHTING
+Round object, size of pea, upper
+portion orange, lower portion yeliow.
+The side facing observer was glowing.
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Bolloon
+Was Aircraft
+Probably Aireroit
+Possibiy Aireraft
+Was Astronomicol
+•
+Probably Astronomical
+Possibly Astronomical
+•
+Other
+•X Insufficient Dote for Evaluatior
+Unknown
+11. COMMENTS
+Insufficient data for evaluation.
+ATIC FORM 329 (REV 26 SEP 52)

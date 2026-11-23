@@ -1,0 +1,58 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T06:48:40Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 26873696, "source_ctime_ns": 1793357160935196556, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1278-492335-0001.tif", "source_mtime_ns": 1785564843000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1278-492335-0001.tif", "source_sha256": "13d26fc8383057913b78cb76da34d9061922ae992d4559cca29d54acb3077f16"}
+
+===== PAGE 1 =====
+{"alpha_words": 221, "chars": 1622, "method": "ocr", "page": 1, "variant": "plain-vision"}
+trited
+AF FORM 112
+APPROVED 1 CUNE 1948
+SECURITY INFORMATOT
+COUNTRY
+REPORT NO.
+(LEAVE BLANK)
+United States
+AFXOI FLYOBRPT 7-52
+SUBJECT
+Reporting of Information on Unidentified Flying Objects
+AIR INTELLIGENCE INFORMATION REPORT / 492335
+AREA REPORTED ON
+FROM (Agency)
+Michigan
+Director of Intelligence, Hgs Tenth AF
+DATE OF REPORT
+DATE OF INFORMATION
+EVALUATION
+8 Aug 52
+6 Aug 52
+C-
+PREPARED BY (Officer)
+2ND LT. GEORGE H. JANCZEWSKI
+HOS TENTH AF, SELFRIDGE AFB, MICH.
+NCES (Control number, directive, previous report, etc., as applicable)
+AFOIN-C/CC-2, 19 December 1951 and AFL 200-5; AFXOI 1456
+SUMMARY: (Enter concise summary of report. Give significance in final one-sentence paragraph. List inclosures at lower left.
+n 118-Part II.)
+This report contains information on an unidentified flying object as
+observed by
+HEADQUARTERS
+TENTH AIR FORCE, SELFRIDGE AIR FORCE BASE, MICHIGAN on 3 August 1952.
+APPROVED:
+USAF
+stant Deputy for Operations
+IR
+-* DECLASSIFIED
+INCLS
+Sketch of
+signed statement
+point of observation
+DISTRIBUTION BY ORIGINATOR
+D/I, USAF - original
+ATIC, Wright-Patterson - 1 cy
+I, ConAC - 1 C
+/I, Tenth AF - 1 c
+D/I, ADC - 1 cy
+NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S. C.-
+31 AND 32, AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW.
+IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF
+INTELLIGENCE, USAF.
+01
+Declassification Authority: NND 57565

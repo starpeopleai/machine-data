@@ -1,0 +1,13 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T06:46:29Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 18213220, "source_ctime_ns": 1793356617592631593, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0235.tif", "source_mtime_ns": 1785564731000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0235.tif", "source_sha256": "e3dbae3a5d73c0f3d707bae3eaccfa0c694481cf46ca64b9a624cc23988d88f7"}
+
+===== PAGE 1 =====
+{"alpha_words": 61, "chars": 419, "method": "ocr", "page": 1, "variant": "plain-vision"}
+RI
+Incident 787 -- Germany - date not given
+As this incident is reported, it is very unlikely that
+any astronomical interpretation can be offered. The deseription
+is probably of a low order of reliability, however, and it is not
+beyond reason tnat a spiral smoke trail ("first thought it was a
+oloua") from a meteor was observed. Unfortunately, no definite
+conclusion can be dram.
+Declassification Authority: NND 57565

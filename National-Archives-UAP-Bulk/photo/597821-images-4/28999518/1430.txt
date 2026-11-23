@@ -1,0 +1,106 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T06:56:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8686662, "source_ctime_ns": 1793387958821780801, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28999518/1430.jpg", "source_mtime_ns": 1785748162000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28999518/1430.jpg", "source_sha256": "d70e0a24760fbaf0315494a19110f3d3ecf392b29bd258a952bd381dbeb97b5f"}
+
+===== PAGE 1 =====
+{"alpha_words": 407, "chars": 2698, "method": "ocr", "page": 1, "variant": "plain-vision"}
+size, the internal temperature goes down
+and the nuclear furnace. reduces its output.
+This permits it to contract again, and the
+cycle occurs over and over.
+Delta Cephei, with a period of 5.4 days,
+has a mean magnitude of four. This, how.
+ever, is its apparent magnitude-how brigh
+t looks-which depends partly on its dis
+tance. A faint star nearby may outshine a
+brilliant one that is farther away.
+So to compare the intrinsic luminosity-
+the candlepower-of a star, we use absolute
+magnitude, which is what they would be
+if all were at a standard distance. The mean
+absolute magnitude of delta Cephei is about
+minus 2; it is some 660 times more lumi-
+nous than the sun.
+For a cepheid that goes through its cycle
+in a day, the mean absolute magnitude
+would be minus 0.5, while one with a 20-
+day period would be ten times as bright,
+or minus four.
+Cepheids are usually recognized from the
+way their light changes-brightening rap.
+nosity tells how bright the star really is
+(on the average); you can see how bright
+it looks in the sky. Knowing the effect ot
+distance on brightness, how far away it is
+can be calculated.
+Thus cepheid variable stars are important
+tools in measuring distance. Their use has
+been complicated in recent years as astrono-
+mers found that not all of them are alike,
+as they had formerly assumed. This meant
+that some of the distant galaxies-huge sys-
+tems of stars like the whole Milky Way
+system, of which the earth is a part-were
+more than twice as far as they had formerly
+believed.
+That is the way science advances, how-
+ever: one man observes an effect and arrives
+at a conclusion. Then comes another who
+rehnes it, ever getting closer and closer to
+uitimate truth.
+Celestial Time Table for October
+Det.
+EST
+4:00 a.m.
+4:44 a.m.
+Moon passes Venus
+Algoi (variable star in Perseus)
+at minimum brightness
+1:33 a.m.
+5 11:00 a.m.
+2:55 p.m.
+g 16:00 p.m.
+6:00 a.m.
+5:00 p.m
+6:00 a.m.
+7:11 p.m.
+12 10:00 p.m.
+Algol at minimum
+Mercury between earth and sun
+Moon at first quarter
+Algol at minimum
+Moon passes Saturn
+I0
+Venus at greatest brilliancy
+Moon passes Jupiter
+Algol at minimum
+Moon nearest, distance 231,800
+miles
+7:33 a.m.
+3:48 a.m.
+8:00 p.m.
+21 11:00 p.m.
+Full moon
+Moon in last quarter
+Moon passes Mars
+Mercury farthest east of sun;
+visible for a few days about
+now low in east before sunrise
+25
+11:00 p.m.
+Moon farthest, distance 252,500
+26
+miles
+4:00 p.m.
+Moon passes Mercury
+28 12:04am.
+Algol at minimum
+8:05 a.m.
+New moon
+30
+8:53 p.m.
+Algol at minimum
+Subtract one hour for CST, two hours for
+MST, and three hours for PST.
+• Science News Letter, 82:194 September 22, 1962
+Piezometers for the measurement of pore-
+fluid pressures in earth dams have been
+developed.

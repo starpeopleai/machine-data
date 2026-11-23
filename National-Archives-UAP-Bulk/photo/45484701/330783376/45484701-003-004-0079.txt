@@ -1,0 +1,50 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T06:55:51Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8513987, "source_ctime_ns": 1793362637078204838, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330783376/45484701-003-004-0079.jpg", "source_mtime_ns": 1785685003000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330783376/45484701-003-004-0079.jpg", "source_sha256": "0ed4870ecbd8ef1bdabcba3d82d87aedae440af6f7465f5816676bd790aa43a9"}
+
+===== PAGE 1 =====
+{"alpha_words": 80, "chars": 686, "method": "ocr", "page": 1, "variant": "plain-vision"}
+G 2-SPR
+APCSI
+CONFIDENTIAL
+8, 317
+124-185.
+x 24
+185-24-14
+Dice Pass, Teran
+Unidentified Aerial Phenomena (U)
+27 April 1955
+Major Heaven/53715/gec
+G2
+Forwarded for information and action deemed appropriate.
+FOR THE ASSISTANT CHIEF OF STAFF, G-2:
+1 Incl
+ee 4A 1tr 15Apr55
+M. A. QUINTO, Colonel, GS
+Chief, Security Division
+CLASSIFICATION CANCELLE
+BY AUTHORITY OF THE
+BY
+KUNZE, Capt, USAL
+3 DEC 1975
+DATE
+807/08/09/70
+12 13
+DIV
+OUT
+(12/02|6110
+IN
+5 MAY 1955
+CI DIV
+OSI
+389-820-10,
+sure,
+AR 380-5.
+APR 2 it i contes a violation of
+OFACE DE
+G 86 MAY 1855
+SPECIA:
+INVESTISATIONS
+UNCL
+ASSIFE Begraded UNCLASSIFIED when
+separated from classified
+¡CONFIDE
+Declassification Authority: NND 923007

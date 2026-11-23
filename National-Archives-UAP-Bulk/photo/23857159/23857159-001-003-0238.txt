@@ -1,0 +1,71 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T06:44:53Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 20002634, "source_ctime_ns": 1793360924798283805, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-003-0238.tif", "source_mtime_ns": 1785565155000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-003-0238.tif", "source_sha256": "6f0794e8e7fcbfdad4f7b088202b187746bf82eb197572537af43d01656f56e7"}
+
+===== PAGE 1 =====
+{"alpha_words": 225, "chars": 1627, "method": "ocr", "page": 1, "variant": "plain-vision"}
+CLASSIFICATION
+(SECURITY INFORMATION when filled in)
+SUPPLEMENT TO AF FORM 112
+REPORT NO.
+ORIGINATING AGENCY
+HQ 10TH AIR DIVISION (DEFENSE)
+APO 942, SEAPTLE, WASHINGPON
+PAGE
+IR 10AD ¿-57
+3
+OF
+7. a. Generally cloudy
+b.
+ALTITUDE
+Surface
+6,000
+10,000
+16,000
+20,000
+30,000
+no further data
+c. 8,000 feet
+d. 10 miles
+DIRECTION
+True North
+350°
+030°
+180°
+VELOCITY
+Calm
+7 kts
+8 kts
+Calm
+Calm
+15 kts
+e. Broken
+f. Thunderstorms Southwest by West
+8. a. Forest fires in the interior region
+9. a. Negative
+10. a. None unaccountable
+11.
+Chief, Intelligence Division.
+Except for the unusually long
+period of observation, this sighting conforms to previous
+reports of weather balloons. No balloons of any nature were /N
+the area although investigation was incomplete due to class-
+ified source. Reflection from such an object could be from the
+sun which was at a slight declination below the horizon or from
+the forest fires in the area.
+ll. Negative
+PAGES
+Hanoll Hers
+HAROLD HART
+Lt Colonel, USAF
+Chief, Intelligence
+WARNING: This document contains information affecting the national defense of the United States within the meaning of the
+Espionage Laws, Title 18, U.S. C., Sections 793 and 794. Its transmission or the revelation of its contents in any manner to an
+unauthorized person is prohibited by law. It may not be reproduced in whole or in part, by other than United States Air Force
+Agencies, except by permission of the Director of Intelligence, USAF.
+AF 801 52 112a
+REPLACES AF FORM 112-PART II, 1 JUN 48.
+CLASSIFICATION
+WHICH MAY BE USED.
+(SECURITY INFORMATION when filled ir
+FPP USARAL 2540-55
+DECLASSIFIED
+Authority NND 9237007

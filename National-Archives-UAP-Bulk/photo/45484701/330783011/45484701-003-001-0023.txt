@@ -1,0 +1,60 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T07:10:35Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8608536, "source_ctime_ns": 1793362480564506699, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330783011/45484701-003-001-0023.jpg", "source_mtime_ns": 1785685146000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330783011/45484701-003-001-0023.jpg", "source_sha256": "fb2d1ffa141d22a3c7b6ce4990e13661a73004c127ecad3a5bc316c696731c24"}
+
+===== PAGE 1 =====
+{"alpha_words": 133, "chars": 1024, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE DIVISION
+INCOMING CLASSIFIED MESSAGE
+SET LAI
+SECURITY INFORMATION
+PRIORITY
+PARAPHRASE NOT REQUIRED.
+NOTIFY
+CRYFTOCENTER BEFORE DECLASSIFYING
+FROM: DO 18051 IO USAF, MAYWOOD, CALIF
+TO :
+CSAF WASH DC
+FOR: DIR OSI
+MR S
+18D8-267
+15 Aug 52
+Urmay Navy Condr,
+Dave Lott,
+former Deputy Commanding
+Officer,
+Armed Forces
+Radio Service,
+Hollywood.
+No record
+this dist of any personnel contacting Lott.
+4C Neville notipied on. 18 Aug thut 61 Div contempleted
+na further ection. He concurred.
+sturl
+ACTION: CSI
+INFO : CDS, GIO
+CAF IN: 96645
+(15 Aug 52)
+AFHQ FORM 0-309f
+19 JAN 51
+PREVIOUS EDITIONS OF THIS FORM MAY BE USED.
+CLASSIFICATION CANCELLED
+BY AUTHORITY OF TIL DIEALADUPLICATE
+BY
+HURL. MINE, CapE, USAF
+Historian
+TO
+EXEO
+P 8 DEC 1975
+DATE
+ACTION COPT
+Cal. Barnand
+941851310
+5 STATES AIR FORCE
+INSPECTOR GENERAL
+AuG 15 23 52'52
+waks/ap
+CONFIDENTIAL
+i COPY No.
+#' 17 SEP 1852
+2 16-03727-1 U.S. GOVERNMENT PRINTING OFFICE: 1851 - 0-9274 J NCLASSIFIED
+Declassification Authority: NND 923007

@@ -1,0 +1,61 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T06:43:06Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 18574622, "source_ctime_ns": 1793361240578484181, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-004-0246.tif", "source_mtime_ns": 1785565266000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-004-0246.tif", "source_sha256": "67ecef49e53e8805c82180ee01f116bfe6a5f602ee871b740f5d3ed0967dd2f6"}
+
+===== PAGE 1 =====
+{"alpha_words": 77, "chars": 635, "method": "ocr", "page": 1, "variant": "plain-vision"}
+RADIO CALLS
+TACTICAL
+VOICE
+72585
+COLLECTIVE
+SPECIAL
+TIME
+TO/FROM-
+0135-
+10K
+72515
+- 9 22.1
+MISSION OR NET
+FREQ.
+13215.5
+RADIO LOG
+EQUIP ON
+OVER FIELD
+1112
+LAND
+11>0
+EQUIP OFF
+14 84
+SQUADRON
+Page -
+at 3 pages
+FLIGHT NO.
+A/C NUMBER OR LOCATION
+PILOT OR OIC
+FAUROT
+OPERATOR
+MESSAGE/REMARKS
+УМЕР?
+8159
+TOKYU
+12685 232
+0153
+2261
+32
+WIR (OVK) ETA 1D'Z 214 OUT $2L7
+3ZSSN WYZ5dE ETA WAKE FIR 94
+152 OUR PER 132 PRIM 62 SER SLUT
+53 0vK) K6R $5
+2.
+0153
+12172 avR
+0217
+TOM
+0753
+PS 17 31551
+4353
+PREVIOUS EDITIONS OF THIS FORM MAY BE USED
+REPLACES AAF FORM 35A, 16 MAY 45, WHICH IS OBSOLETE.
+10-60857-1łź
+1260:
+DECLASSIFIED
+Authority NND 9237007

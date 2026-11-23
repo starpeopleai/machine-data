@@ -1,0 +1,89 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T07:00:53Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 16965127, "source_ctime_ns": 1793355504701403008, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0087.jpg", "source_mtime_ns": 1785564466000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0087.jpg", "source_sha256": "0f7f8a38b95034557977aeff3a27c18e12879fa5799a7802f30a8f7a0b225dc9"}
+
+===== PAGE 1 =====
+{"alpha_words": 971, "chars": 5961, "method": "ocr", "page": 1, "variant": "plain-vision"}
+164
+telescope. The final image stabilization, however, can superbly be accomplished
+by the presence of the astronomer, using the same methods he uses in his earth-
+based observatory. To repeat, the highly sophisticated stabilization which is re-
+quired in unmanned balloon astronomy, stabilization to the order of a tenth of a
+second of arc for many purposes, and which is extremely costly and probably
+difficult to maintain for several hours, can be reliably supplied by the observer
+himself. He can, being a sentient servo system, provide this critical image
+stabilization by the "simple use of his eyes, hands, and brains.
+He can do a host of other things with his eyes, hands, and brains, too. He can
+make adjustments. If one envisions a properly designed astronomical gondola, one
+in which only the light gathering apparatus in exterior to the gondola but the gathered
+light is introduced into the capsule, he can then in the course of several hours'
+observation perform a host of experiments on the incoming radiation
+He can use
+a photometer, a spectrograph, a photographic plate; he can make sure the focus is
+correct; he can make sure the light is going into a small diaphragm; he can make
+sure he is on the right star, and if he looses the star he can re-acquire it in short
+order. Presumably, when he makes the
+e complex adjustments, he will not suffer
+from a noisy resistor or a cracked insulator or a damaged tra
+Sistor in his brain
+pan.
+I think you will see now why I feel that the reasons given by Jastrow and Newell
+and other apologists for a man in space apply even better to balloon astronomy. We
+can paraphrase their "outer-space" reasons in another way: man, the scientist,
+can exercise on-line judgment. He can meet new situations as thev arise. He can
+interpret first hand. He can make instrumental adiustments. He can improvise.
+He can evaluate the unexpected. He is a built-in computer.
+Can instruments do this rather than man? Clearly. instruments cannot im-
+provise, evaluate, exercise judgment, and so on. It can be argued that the
+judgment can be exercised on the ground by men watching dials, meters, and other
+gear "attached by telemetry' to the balloon possibly several hundreds of miles
+away. But one minor part out of thousands failing to function can throw out that
+entire intricate communications link. The command networks are notoriously
+tricky, critical, and expensive. The proponents of man in space continue: in-
+struments are a "go - no go" proposition whereas man can always salvage some-
+thing out of an experiment even if malfunctions occur in certain portions. Man
+can communicate his findings to a panel of experts on earth, by simple voice
+transmission and allow them to exercise iudgment for him should the pressures
+of the moment and his immediate environment tend to cloud his iudoment. He is
+still on hand to carry out, in situ, the results of his and his colleacues' iudoments.
+165
+You will remember that all this is said by man-in-space propo:
+ents despite
+the tremendous life supporting gear to keep a man alive in outer space. Many
+arguments are marshaled for man's value in this volume of space, which is much
+farther out than balloon space, and for establishing that his value outweighs the
+problems and costs of the life support system necessary to put him there.
+However, when we come to inner local space", or balloon astronomy space,
+often the opposite arguments are given, often by the same people, who do not
+realize how complex the problems of balloon astronomy are and who still perhaps
+think of balloons as modern versions of an ancient Chinese toy. Balloon astronomy
+may be a new field, but the problems this new technique seeks to solve are still
+the same old complex, tricky problems that the astronomer must face on earth.
+Very paradoxically, some of those who defend man in space when it comes to the
+great beyond indicate that in balloon space it is too costly to consider life support
+systems and that instruments can do better than man in focusing the optical equip-
+ment, adjusting gains and meter settings, and so on. I think it is profitless to
+pursue this extreme paradox further.
+The fact remains that the basic arguments
+for man in outer space do apply most directly to the presence of man in balloon
+astronomv.
+It cannot be gainsaid that the presence of man in the framework of the
+experiment permits the making of many critical instrumental adjustments by hand
+rather than by telemetry and makes possible his seeing for himself, first-hand,
+how the observation goes.
+I might note, in passing, that Project Gemini is now asking for suggestions
+for astronomical experiments and observations to be carried out by the two
+astronauts when they are circling the globe. This is commendable, for it
+recognizes the importance of man as a scientific observer, even though the
+objectives of Project Gemini are different from those of basic astronomy. The
+difference between Project Gemini and Manned Balloon Astronomy is simply that
+Project Gemini does not exist primarily for the benefit of astronomy and further,
+it is ephemeral. But it underlines the need -- for the benefit of astronomy in the
+long run -- of providing a capsule built with the astronomer's needs in mind (not
+just any old capsule or gondola left over from some other experiment) and capable
+of supporting life safely and routinely for a period of days, and to have said
+capsule carried aloft by fully air worthy balloons.
+I am led to consider at this iuncture a frequent misunderstanding in the matter
+of balloon astronomy. It is sometimes stated that there is no point to pushing for
+balloon astronomv. and manned balloon astronomy in particular, because balloons
+are interim vehicles. and that their usefulness will vanish when orbiting astronomical
+observatories are in more veneral use. I think this attitude again reflects a lack
+of understanding of the problems of the astronomer and of the potential of balloons.

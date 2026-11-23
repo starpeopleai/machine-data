@@ -1,0 +1,41 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T06:44:14Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 19297100, "source_ctime_ns": 1793355691395359956, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0129.jpg", "source_mtime_ns": 1785564504000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0129.jpg", "source_sha256": "361458c03ef5d8b37b0798d601f646602a6ed30a6e81ab776d8872e7fe6b49d9"}
+
+===== PAGE 1 =====
+{"alpha_words": 273, "chars": 1875, "method": "ocr", "page": 1, "variant": "plain-vision"}
+244
+CURVE FAIRED THROUGH
+DATA POIN.S
+AIR TEMPERATURE
+- ONE-DIMENSIONAL DIFFUSION THEORY
+CONDITIONS 5 FEET FROM WALL
+Figure 8. Contamination of Air Sample by Instrument Package M-H
+Flight No. 6, AFCRL Flight No. 1312 Holloman AFB N. M. 17 Jan. 1963
+Float Altitude 67 MB (61 Kilo Ft.) Hygrometer Located 5 Feet from
+Side of 'Wet'' Gondola
+The severity of the contamination problem is emphasized by a calculation of
+the quantity Mp, which is defined as the total number of water molecules which
+leave a unit area of the wall in a time T. From Fick's diffusion law, it follows that:
+= 2N,
+245
+• CURVE FAIRED THROUGH
+DATA POINTS
+AIR TEMPERATURE -52°C
+ONE-DIMENSIONAL DIFFUSION THEORY
+CONDITIONS ½ FOOT FROM WALL
+Figure 9. Contamination of Air Sample by Instrument Package M-H
+Tlight No. 2, AFCRL Flight No. 1229 Holloman AFB N. M. 5 April 1962
+Float Altitude 24 MB (83 Kilo Ft.) Hygrometer Located 1/2 Foot from
+Side of 'Wet' Gondola
+Assuming N is the saturation concentration at -50°C and a reasonable value for
+the free-air temperature in the stratosphere, we find for T = one hour that Mr
+represents a layer less than twenty molecules thick. Calculations from the ex-
+pression for n(z,t) indicate that the effects of contamination will in one hour extend
+out to a distance of about one meter from the wall. Thus, a minute amount of
+adsorbed water will, because of the scarcity of stratospheric water vapor, cause
+a rather severe contamination problem for a long period of time.
+To best avoid the problem of contamination, use of sample-inlet tubes extend-
+ing past the boundary layer of the instrument package (on the descent portion of
+the flight) has been considered. However, the contamination introduced by the tube
+itself can be considerable.
+The average partial density of water vapor p' at the outlet of a sampling tube
+of length l and uniform cross-sectional area A is

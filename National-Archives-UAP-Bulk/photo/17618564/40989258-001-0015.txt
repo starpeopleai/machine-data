@@ -1,0 +1,20 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T06:22:02Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 17370287, "source_ctime_ns": 1793355051250090264, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989258-001-0015.jpg", "source_mtime_ns": 1785564385000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989258-001-0015.jpg", "source_sha256": "5f84a40baa21e721f1b9a37d9b98e2c5c0c66ddfa79b74c39e7f6657ed7b592f"}
+
+===== PAGE 1 =====
+{"alpha_words": 17, "chars": 255, "method": "ocr", "page": 1, "variant": "plain-vision"}
+30 tube Helium trailer, (Eidel) 1l such trallers
+in unit
+55 I 34
+55 L 1726
+55 L 35
+55 L 2038Śš
+55 L 36
+55 L 3192
+55 L 3901
+55 L 3902
+55 L 3904ł
+55 L 37
+55 L 3193
+FS 2330-2946835, PrER# 2330-1418625
+1768 K 4 June 62 6580th ABG
+BALLOON R&D TEST BRANCE UNGE

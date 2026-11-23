@@ -1,0 +1,72 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T07:06:19Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7380209, "source_ctime_ns": 1793385065962059424, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28991741/1350.jpg", "source_mtime_ns": 1785747905000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28991741/1350.jpg", "source_sha256": "e8bb8cc32a3402aba159191a6877e005ac75802370a04924d09b0957af58d452"}
+
+===== PAGE 1 =====
+{"alpha_words": 217, "chars": 1562, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+3 Mar 61
+3. DATE-TIME GROUP
+Local
+2148
+GM T.
+040548Z
+5. PHOTOS
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Ephrata, Washington
+4. TYPE OF OBSERVATION
+• Ground-Visual
+O Air Visual
+SOURCE
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+• Ground-Radar
+• Air-Int
+Was Aircraft
+•
+Possibly Aircraf
+6-
+cept Radar
+VISUALE
+Aircral
+Was Astronomical VENUS
+• Yes
+* No
+7. LENGTH OF.OBSERVATION
+Probably Astronomical
+Military
+8. NUMBER OF OBJECTS
+Possibly Astronomica
+9. COURSE
+RADAR
+Orhor WA
+RADAR
+Insufficient Dato for Evaluation
+•
+7 min
+NW
+Unknown
+10. BRIEF sUMMARY oF SIGHTING Round objt, size i pea, 1l. cOMMENTS Appearance of obj and its
+changing white to red, continuous light until
+azimuthfm the observer suggests that
+disappearance. Observed in level postion at
+it was probably planet Venus. From
+2 o'clock. Disappeared on horizon at 2 o'clockwitnesses' location and altitude planet
+Objt appeared stationary. Spokane center calledould have been just on horizon and
+and confirmed a target was in contact moving
+atmospheric refraction could have been
+rapidly to NW, suggesting objt moving away
+responsible for illusion of motion and
+giving no apparent az movement. No break up
+caused color change. It is believed
+or diminishing in intensity was noted prior
+that objt reported by radar was not
+to disappearance: BiSAtinpega estimated at
+not related to visual sighting other
+1050 knots by Spokane Center.
+than by possible cause of both being
+due to atmospheric refraction. The objt
+of this sighting was probably planet
+ATIC FORM 329 (REV 26 SEP 52)
+venus.

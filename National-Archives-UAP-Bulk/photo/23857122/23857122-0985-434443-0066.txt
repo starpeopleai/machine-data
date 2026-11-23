@@ -1,0 +1,21 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T06:38:21Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 21171180, "source_ctime_ns": 1793356902464275372, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-0985-434443-0066.tif", "source_mtime_ns": 1785564785000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-0985-434443-0066.tif", "source_sha256": "1d7351782e14dd3e1bdd536b9ca1ef24d0f24bc46e3a12bf058b6860bb745264"}
+
+===== PAGE 1 =====
+{"alpha_words": 20, "chars": 167, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+: A Ly A is
+ye \AA uy, —~ A Be, it 2 phan hs A (a Seem
+3
+
+/} med a i 4 / 2 ft H y
+< (/ . f .
+
+TRHOOTR
+
+s/h os\
+
+Declassification Authority: NND 57565
+
+if
+f/
+US
+amiih

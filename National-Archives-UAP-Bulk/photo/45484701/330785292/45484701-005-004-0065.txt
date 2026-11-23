@@ -1,0 +1,52 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T07:07:21Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7592688, "source_ctime_ns": 1793363442548869711, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785292/45484701-005-004-0065.jpg", "source_mtime_ns": 1785684654000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785292/45484701-005-004-0065.jpg", "source_sha256": "bfba327ab3653fe345ede215d1ca45680870c8d89f2838c2a154a0e853a2b8b2"}
+
+===== PAGE 1 =====
+{"alpha_words": 262, "chars": 2071, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Spot Intelligence Report, DO #9, 25 Nov 50, Subj: Report of Unconventional
+Aircraft
+c. Mr. W. B. BENSON and J. V. CARMICHAEL, Weather Fore-
+casters, Key Field, Meridian, Mississippi, stated that the weather re-
+port for 1730 hours, 13 November 1950 was as follows:
+(1) Meridian: Clear; eight (8) miles; 247/53/39 calm;
+altimeter setting 025.
+Jackson:
+Clear; fifteen (15) miles; 247/56/26;
+north two (2); altimeter setting 025.
+McComb: Clear; fifteen (15) miles; 244/53/39; east
+south-east five (5); altimeter setting 024.
+Clear; twelve (12) miles; 247/53/33; east
+six (6); altimeter setting 025.
+(2) Meridian spot check at 1705 hours, 13 November 1950,
+clear; fifteen (15) miles; east north-east three (3);
+altimeter setting 025.
+d. Mr. C. R. CANNADA, Jr, 4290 Johnson Court and KENNETH 0.
+HARBOUR, 1 Garden Circle, Control Tower Operators, Jackson Air Field,
+Jackson, Mississippi, both residing in Jackson, Mississippi, were in-
+terviewed by a Special Agent of the Office of Special Investigations
+(IG), and reported, simultaneously, the sighting of an unidentified
+aerial aircraft or object. Details as submitted:
+(1) Time: 1635 hours CST, 13 November 1950.
+Object was
+under observation for forty (40) minutes.
+(2) Location:
+From Control Tower, Jackson Air Field,
+south of Jackson at an estimated altitude of about
+forty (40) degrees to horizon.
+(3) Manner of Observation:
+From Jackson Air Field Tower,
+sighted through six (6) power binocular.
+(4) Weather Conditions: Not reported.
+Description of Object: Object could have been an
+aircraft. First sighting revealed object and vapor
+trail. Object resembled wing of aircraft, with vapor
+trail obscuring fuselage, empennage and opposite
+wing. Vapor trail remained a constant length until it
+suddenly disappeared. Object a dull white, which did
+not cast reflections from the sun. No lights were
+visible.
+(G)
+CANNADA and HARBOUR stated that their radio intercepted
+messages from Memphis ATC which revealed that no flights
+were scheduled which would be in that area at that time.
+- 4 -
+Declassification Authority: NND 923007

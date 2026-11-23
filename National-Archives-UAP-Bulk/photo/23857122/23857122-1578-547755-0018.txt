@@ -1,0 +1,15 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T06:37:50Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 20193748, "source_ctime_ns": 1793357718334581190, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1578-547755-0018.tif", "source_mtime_ns": 1785564960000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1578-547755-0018.tif", "source_sha256": "1f0d6258b40f3500d24e46dc622693a0325307c1986661f88c035022b1ac8275"}
+
+===== PAGE 1 =====
+{"alpha_words": 36, "chars": 253, "method": "ocr", "page": 1, "variant": "plain-vision"}
+SECURITY INFOR
+MATON
+LO
+Dingran of one object that returned to observer'a view, cireled a ninth object that
+was going over the route, then followed it out.
+AF547755
+Returning objecT
+NinTh object
+Observer
+RESTRICTED
+Declassification Authority: NND 57565

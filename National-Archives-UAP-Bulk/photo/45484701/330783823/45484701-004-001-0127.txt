@@ -1,0 +1,60 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T07:05:40Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7152113, "source_ctime_ns": 1793362847761465318, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330783823/45484701-004-001-0127.jpg", "source_mtime_ns": 1785685063000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330783823/45484701-004-001-0127.jpg", "source_sha256": "0b257245832b6ba1956cd44432afeb29d561011c9750443d44c3577efcc2118e"}
+
+===== PAGE 1 =====
+{"alpha_words": 232, "chars": 1730, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AIR FORCE
+HEADQUARTERS UNITED STATES AIR FORCE
+WASHINGTON
+RSB/ RM J/ dm
+1D-OSI 24-0-175
+THE INSPECTOR GENERAL, USAF
+1ST DISTRICT OFFICE OF SPECIAL INVESTIGATIONS
+WESTOVER AIR FORCE BASE, MASSACHUSETTS
+5 October 1950
+SUBJECT :
+SPOT
+INTELLIGENCE REPORT
+Unconventional Aircraft
+TO :
+Director of Special Investigations
+Headquarters USAF
+Washington 25, . C.
+SYNOPSIS:
+Unconventional aircraft reported
+sighted by Mass. Institute of Technology radar observer
+on 21 September 1950 between Provincetown, Mass., and
+The Isle of Shoals. (Evaluation F-2)
+DETAILS:
+On 29 September 1950, Mr. MYRON
+HERBERT LIGDA, Research Associate, "Weather Radar Project"
+(U.S. Signal Corps Contract), Mass. Institute of Technol-
+ogy, advised this District that while tracking F-86
+aircraft by means of radar, that an unidentified object
+was also tracked on the radar screen at approximately
+0945 hours, 21 September 1950.
+In view of the apparent
+qualifications of LIGDA as an observer, it was deemed
+advisable to interview LIGDA and two other witnesses to
+obtain firsthand information as to the sighting. Report
+of interview conducted on 3 October 1950 by S/A
+THOMAS
+R. LANDOH is attached as inclosure #1. Inclosure #2 was
+provided by LIGDA to S/A YANDOH. It was delivered to
+YANDOH by JOSEPH V. CONNELLY by whom written.
+In view
+of technical detail contained in inclosures #l and #2,
+it is not considered necessary to summarize such infor-
+3.
+ACTION: In accordance with AFCSI Letter #85,
+ducted by this District office.
+CLASSIFICATION CANCELLED #4-244 TUNES FRAI
+BY AUTHORITY OF THE DIRECTeA oF
+KURT K. KUNZE, Capt, USAF
+Hinterian
+8 DEC 1975
+DATE
+R. S. BOWER
+Colonel, USAF
+2 42 PM
+District Commander
+Declassification Authority: NND 923007

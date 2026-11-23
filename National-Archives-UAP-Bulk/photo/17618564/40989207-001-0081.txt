@@ -1,0 +1,75 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T07:15:07Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 12535308, "source_ctime_ns": 1793354447882615524, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989207-001-0081.jpg", "source_mtime_ns": 1785564286000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989207-001-0081.jpg", "source_sha256": "523063682cc530548e0e1d4cdb194977f242cb3ade095dc921c168d158aab0ba"}
+
+===== PAGE 1 =====
+{"alpha_words": 377, "chars": 2442, "method": "ocr", "page": 1, "variant": "plain-vision"}
+IVING IN THE HUB
+The Air Force Geophysics Lab-
+oratory, located at Hanscom Air Force
+Base, is seventeen miles west of Boston,
+he Hub of New England. The area of-
+ters easy access to excellence in a wide
+variety of educ. ional, cultural, and
+mustprical institutions and recreational
+facilities.
+Greater Boston alone has over 70
+ersities and colleges. AFGL staff
+participate in seminars at Harvard
+University, the Massachusetts Institute
+of Technology, Boston University, and
+Boston College. Opportunities for
+continuing education at these institu-
+tions, or many even closer to the
+Laboratory, abound.
+Music in Boston appeals to all
+tastes, from the Boston Symphony
+Orchestra, the Boston Pops, and the
+Opera Company of Boston to the
+Globe Jazz Festival. The New England
+Conservatory of Music, the Berklee
+College of Music, and many commun-
+ity music schools sponsor concerts for
+the public. Boston also attracts many
+international artists and touring
+groups.
+Broadway shows come to Boston's
+three legitimate theatres. The American
+Repertory Theatre is in residence at the
+Loeb Drama Center at Harvard Uni-
+versity. Experimental plays may be seen
+at many small theatres throughout the
+city. Local colleges and universities also
+sponsor theatrical productions such as
+the Tufts Arena Theatre and the Spin-
+gold Theatre at Brandeis University.
+The collections at the Museum of
+Fine Arts, the Gardner, the Fogg, and
+the many collegiate art museums in the
+area make Boston one of the nation's
+"show places."
+The Museum of Science and the
+museums at Harvard University and
+the Massachusetts Institute of Tech-
+nology offer viewers insights into the
+development of contemporary science.
+Hanscom AFB lies at the juncture
+of the four historic towns that touched
+off the American Revolution: Lexing-
+ton, Concord, Bedford, and Lincoln.
+Revolutionary battlefields are close at
+hand. Many of the original taverns,
+houses, and churches in these towns are
+open to the public. The homes of such
+nineteenth century literary giants as
+Thoreau, Emerson, Hawthorne, and
+Alcott may be visited in Concord.
+For the sports enthusiast, Boston
+offers basketball with the Celtics,
+hockey with the Bruins, football with
+the Patriots, and baseball with the Red
+Sox. Intercollegiate athletic contests in
+these sports and rowing attract many
+followers.
+Swimming, sailing, fishing, skiing,
+and hiking may all be enjoyed within
+easy commuting distance from the Lab-
+oratory.

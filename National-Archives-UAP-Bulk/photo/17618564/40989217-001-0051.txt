@@ -1,0 +1,49 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T07:12:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9183594, "source_ctime_ns": 1793354556283611075, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989217-001-0051.jpg", "source_mtime_ns": 1785564304000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989217-001-0051.jpg", "source_sha256": "a3898204bbd08031f30deafd6b76ca8cf385d42864f8823e4cb0180347d94845"}
+
+===== PAGE 1 =====
+{"alpha_words": 318, "chars": 2237, "method": "ocr", "page": 1, "variant": "plain-vision"}
+General Court-Martial Order Number 86
+18 October 1957
+Specification 2: In that LIEUTENANT COLONEL GEORGE F. ADAMS, oth
+lactical Hospital, 6th Bombardment Wing, Heavy, did, at El Paso, Texas,
+on or about 19 April 1956, commit sodomy with Binst Lieutenant. Charleen
+Goodnough •
+Specification 3: In that LIEUTENANT COLONEL GEORGE F. ADAMS, 6tr
+ractical Hospital, oth Bombardment Wing, Heavy did, at El Paso, Texas,
+on or about 27 April 1956, commit sodomy with First Lieutenant Charleen
+Goodnough •
+CHARGE III: Violation of the Uniform Code of Military Justice, Arti-
+cle 133.
+Specification 1: In that LIEUTENANT COLONEL GEORGE F. ADAMS, 6th
+Tactical Hospital, oth Bombardment Wing,
+Heavy, a married man, did, at
+Vicksburg, Mississippi, on or about 16 December 1955, wrongfully have
+sexual intercourse with Eirst Lieutenant Charleen Goodnough, a woman
+not his wife.
+In that LIEUTENANT COLONEL, GEORGE F. ADAMS, 6th
+Tactical Hospital, 6th Bombardment Wing, Heavy, a married man, did, at
+Dallas, Pexas, on or about 17 December 1955, wrongfully have sexual inter-
+with First Lieutenant Charleen Goodnough, a woman not his wife.
+Specification 3: In that LIEUTENANT COLONEL GEORGE G. ADAMS, 6th
+lactical Hospital, oth Bombardment Wing, Heavy, a married man, did, at
+El Paso, Texas, on or about 19 April 1956, wrongfully, dishonorably, and
+falsely register at the La Fonda Motel with First Lieutenant Charleen
+Goodnough, a woman not his wife, as Doctor and Mrs. George F. Adams.
+Specification 4: In that LIEUTENANT COLONEL GEORGE F. ADAMS, 6th
+lactical Hospital, oth Bombardment Wing, Heavy, a married man, did, at
+El Paso, Texas, on or about 27 April 1950, wrongfully, dishonorably, and
+falsely register at the La Fonda Motel with
+First Lieutenant Charleen
+Goodnough
+-, a woman not his wife, as Doctor
+and Mrs. George F. Adams.
+PLEAS
+To all Specifications and Charges: Not Guilty.
+MOTIONS
+Motion of defense counsel for finding of not guilty as to Specifications
+1 and 2 of Charge I granted by law officer.
+Motion of defense counsel for finding of not guilty as to Speeifications
+2 and 3 of Charge II granted by law officer.
+Motion of defense counsel for finding of not guilty as to Specifications
+1 and 2 of Charge III granted by law officer.
+2

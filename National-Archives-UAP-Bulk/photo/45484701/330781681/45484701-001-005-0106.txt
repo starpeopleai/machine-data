@@ -1,0 +1,41 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T07:04:38Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6755129, "source_ctime_ns": 1793361905324698937, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330781681/45484701-001-005-0106.jpg", "source_mtime_ns": 1785684793000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330781681/45484701-001-005-0106.jpg", "source_sha256": "7f50783ca847987b3a6713f9e2b77a8b5dc2e0c9d7914d80945186a7f480178a"}
+
+===== PAGE 1 =====
+{"alpha_words": 234, "chars": 1649, "method": "ocr", "page": 1, "variant": "plain-vision"}
+ON
+16, On 19 April 1960, this witer cbtained a copy or the 16 Apra.
+1049 Phoenix Gosette in which the article concerning the FIREBALL wan
+noted, (Shibit D)s The informstion set forth therein stated that a
+Jarge green FiERBALl, traveling in a nortimesterly direction uns sighted
+at 1148 sens today high above dan Frencisco peeke by OBORN De TOMPSON,
+Assistant Director of the American Noteor Museums It was the Largest
+and brightest he had over seen and it lit up the entire northera part of
+the atate.
+CLOSURES
+FOR DORT, STRELAND AFE
+Shibit A, She Prescott Sectional Aeronautieal Chart based on
+the edition of September 1904, rovieed suly 1068.
+Be Shibit 8, the original extract of the weather report for 0580
+2S2, 10 April 1040, dated at Flagetari, Arisons, 20 April 1060.
+dan dated at Flegatart, Arizona, 18 April 1960.
+Shibit C, the original notspaper artiole from the Arisons Dally
+aniess P, the original newspaper arcicle Fron the Phoenta
+Gosette deted as Phoonis, Arisons, 18 April 1069.
+FOR CO, AIRELAND AYE
+For O8JO IT, dated at Flagetari, Ariacos, 80 April 1919.
+Inhibit i, a carbon copy of the extract of the weather report
+Desky Sun dated de Pagear, inaco, 18 April 189.
+& photograph of the norspaper article Iron the Arizone
+Exhibit D, a photograph of the mmspaper artiele from the doesix
+Gasetto dated at Phoenia, Arizona, 16 April 1960.
+FOR 9S7, BOS
+D550 237, dated at hagalert, Arisons, 20 apras of the venthor report for
+chable 0.
+graph of the nevapaper artiole freu the Arisone
+Daily :
+m dated at
+/Jagstars, AFLess, 10 April 1909e
+Gazer to de Beatage
+Apri 1er artele fron the Phoon
+200 3310 G
+Declassification Authority: NND 923007

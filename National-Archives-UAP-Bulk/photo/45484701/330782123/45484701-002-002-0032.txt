@@ -1,0 +1,51 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T06:31:08Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9670628, "source_ctime_ns": 1793362046338659712, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330782123/45484701-002-002-0032.jpg", "source_mtime_ns": 1785684942000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330782123/45484701-002-002-0032.jpg", "source_sha256": "ef8f997e132ee8d298ca169c6be54a09d68a04ed972197dac40b183109ea3960"}
+
+===== PAGE 1 =====
+{"alpha_words": 301, "chars": 1808, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Jonathan E. Caldwell
+Secretary and
+General Manager
+GRAY GOOSE AIRWAYS, Inc.
+Box 652
+Washington, D. C.
+August 13, 1937,
+Dear friend,
+This time I am enclosing the drawings in perspective of our improved
+machine, which we expect to take to the air, the latter part of August or Sep-
+tember, and bring about a new day in flying; a new era in transportation.
+I could not release these drawings in our former letter on'account of
+the patent situation; but now
+the patents on improvements are pretty' well taken
+care of, so far as the United States is concerned. The foreign patents will be
+attended to later.
+This design meets with the enthusiastic approval of the engineers who
+have seen it up to the present time, and some of these rate high in Washington.
+Part of the former rotors are now cut away and the remaining parts are shaped
+into one of the most efficient lifting airfoils known. (See further detailed
+Our stock sells now in Washington at ONE DOLLAR per share.
+It was
+advanced to that price on
+the 10th of July.
+We feel that it may be selling soon
+at Five Dollars per share.
+To our old Stockholders who have had porsistent faith even when the way
+was long, we are making a special limited offer at the old 10 cent rate. At the
+10 cent rate you may increase your Gray Goose holdings any number of shares up to
+100% of your present holdings.
+This offer will be open to you until August 2lst. One thing is certain,
+the fortunes of the future will be built upon new inventions and new conditions.
+Sincerely, yours for A WORLD ON WINGS!
+E. Caldwell
+SPECIAL-LIMITED OFFER
+THE GRAY GOOSE AIRWAYS, INC.,
+1225 New York Avenue,
+Washington, D. C.
+I herewith tender $
+in full payment for
+GRAY GOOSE at 10 cents, as per special-limited offer.
+Name
+Street
+City
+State
+shares of
+Declassification Authority: NND 923007

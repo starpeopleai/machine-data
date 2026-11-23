@@ -1,0 +1,77 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T07:01:25Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 20286008, "source_ctime_ns": 1793361248083365387, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-004-0254.tif", "source_mtime_ns": 1785565267000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-004-0254.tif", "source_sha256": "660c5afc915a54ac2066ef7e622f7ae7174aebaa62659a37436907b3a481f9a1"}
+
+===== PAGE 1 =====
+{"alpha_words": 237, "chars": 1830, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UNCLASSIFIED
+CLASSIFICATION
+COUNTRY OF ACTIVITY REPORTING
+REPORT NO.
+Philippines
+IR-92-58
+AIR INTELLIGENCE INFORMATION REPORT
+COUNTRY OR AREA REPORT CONCERNS
+DATE OF INFORMATION
+Philippines
+4 Jun 58
+ACTIVITY SUBMITTING REPORT
+DATE OF COLLECTION
+Office of the Air Attache
+Manile, Philippines
+PREPARING
+INDIVIDUAL
+12 Jun
+58
+DATE OF REPORT
+Captain James 0. O'Neal
+Assistant Air Attache
+NAME OR DESCRIPTION OF SOURCE
+20 Jun 58
+EVALUATION
+Personal Contact
+REFERENCES (BAIR Subject, previous repor
+F-3
+as applicable)
+BATR 460; 1R-50-58
+title. Use individual reports for separate subjects)
+Sighting of Unidentified Flying Object
+1188280
+(Leave blank)
+1183480
+SRI STATUS (If applicable)
+SRI NO.
+CANCELED /COMPLETE
+CANCELEDY INCOMPLETE
+SRI NO.
+ACTIVE
+AUDIONAL INFOR
+ION ON (Date)
+This report transmits an account concerning the sighting of an unidentified
+flying object observed by Father Risacker, Society of Jesuits, near Kisalon,
+Mindanao (8°20'N - 124°58'E) on 17 May 1958, and reports results of investigation
+by Armed Forces of Philippines (AFP) of sighting reported by IR-50-58.
+APPROVED:
+11. Nickodem
+LOWELL S. NICKODEM
+Lt Colonel, USAF
+Air Attache
+341-62A1322
+103
+2/25:36-7
+INCLS
+DISTRIBUTION BY ORIGINATOR (Except USAF and file. Indicate Dupl M/oz and copies w/o inclosures, if applicable)
+PACAF (Dup1 M/oz cy)
+COMDR AF13,
+1 cy
+MINICODED
+COMNAVPHIL,
+1 cy
+WARNING: This document contains information affecting the national defense of the United States within the meaning of the
+Espionage Laws, Title 18, U.S.C., Section 793 and 794. Its transmission or the revelation of its contents in any manner to
+an unauthorized person is prohibited by law.
+FORM
+AF 15 SEP 54 112 REPLACES AF FORM 112. 1 OCT 52. WHICH MAY BE USED
+U.S. GOVERNMENT PRINTING OFFICE: 1954 0 - 315475
+UNCLASSIFTED
+CLASSIFICATION
+DECLASSIFIED
+Authority NND 9237007

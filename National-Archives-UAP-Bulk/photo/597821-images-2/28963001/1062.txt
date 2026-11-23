@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T07:05:16Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7126046, "source_ctime_ns": 1793377227882351964, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28963001/1062.jpg", "source_mtime_ns": 1785696477000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28963001/1062.jpg", "source_sha256": "2a998145fac7bc70fec9cbe20681ea4991152cdd198a1fff37c40eee90fe4a77"}
+
+===== PAGE 1 =====
+{"alpha_words": 109, "chars": 737, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Pore
+(SECURITY INFORMATION when filled in)
+ORIGINATING AGENCY
+SUPPLEMENT TO AF FORM 112
+REPORT NO.
+PAGE
+OF
+Det 3, 4002d A199
+Đ3-UFCD 4-55
+stated that a
+pattern as described by the SOURCE was very possible, and it
+was not unusual for fis lichie to be visible from the relatively short
+Matance of approximately 10% miles.
+5•
+It is the investipator's conviation, therefore, that these lights
+were the four spherical objects cbaerved, notwithstanding alight miscalcu-
+lations on the part of the sOURCE concerning distance and azinuth.
+PAGES
+JOIN BRONA
+Hajor, USAF
+Officer in Charge
+COMMENTS of Approving Officer:
+Concur with the opinion of the Preparing Officer that the sighting was
+caused by searchlight activity described in this report.

@@ -1,0 +1,34 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T06:56:29Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9000451, "source_ctime_ns": 1793383283287243537, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28986650/0380.jpg", "source_mtime_ns": 1785747975000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28986650/0380.jpg", "source_sha256": "8036d73c005542ab130ccc365c883ba894e9998212ba86911dc8f79a1c882a7c"}
+
+===== PAGE 1 =====
+{"alpha_words": 94, "chars": 594, "method": "ocr", "page": 1, "variant": "plain-vision"}
+TE, WITH FULL MOON.
+IGH:
+ZCZCSQPØ05
+PLS ROUTE AREA C
+SQW 2Ø9
+PP-T-ATIC ONLY
+7x24
+atie
+EYAØ24
+FZBØ14BWA#20-
+PP RJEDSQ
+DE RJFPFO 138C
+P 190750Z ZEL
+FM COMDR 36 TFW BITBURG AB GERMANY
+TO RJFPSD/COMDR 17 AF RAMSTEIN AB GERMANY
+RJFPBW/HQ USAFE•
+AS WIESBADEN GERMANY
+RJWFAL/HQ NORAD ENT AFB COLORADO
+RJEDSQ/AIR TECH INTEL CENTER WRIGHT PATTERSON AFB OHIO
+RJEZHQHQ USAF WASH 25 D C
+RJEZHQ/SECRETARY OF THE AIR FORCKE
+UNCLAS EFTO
+BT
+//UN C L A S E F T 0// UFO// EM OPI 19-D ATTN/ DCS/ INT, COCI
+HQ 17 AF DCS/INT HQ USAFE, AFCIN HQ USAF, SAFIS HQ USAF.
+A. (1) RAIN DROP SHAPE WITH LONG TAIL.
+ADMO
+C
+c
+C

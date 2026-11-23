@@ -1,0 +1,15 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T07:09:08Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8290496, "source_ctime_ns": 1793363865267181387, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330786161/45484701-006-002-0070.jpg", "source_mtime_ns": 1785685029000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330786161/45484701-006-002-0070.jpg", "source_sha256": "efb21a24d14f047a67ed0008de9b94b1ebb80a342a4261e3876ac733fbf3dcee"}
+
+===== PAGE 1 =====
+{"alpha_words": 41, "chars": 330, "method": "ocr", "page": 1, "variant": "plain-vision"}
+CONFIDENT
+Itr fr l4th Dist OSI (IG) USAF, Lowry AFB, Colo., file 24-0, subject:
+iUnidentified Flying Object Reported by United Airlines Flight 600,
+30 March 1954."
+2. No investigation requested.
+No investigation contemplated
+by this office.
+LE RO
+Colonel, U. S. Air Force
+District Commander
+Declassification Authority: NND 923007

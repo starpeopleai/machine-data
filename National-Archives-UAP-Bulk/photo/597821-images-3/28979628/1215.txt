@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T07:10:46Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8635839, "source_ctime_ns": 1793381244112408060, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28979628/1215.jpg", "source_mtime_ns": 1785700621000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28979628/1215.jpg", "source_sha256": "c8c7f70b0669974d11497e93276ed5ee27516c047f7951b3679cc542142e9e64"}
+
+===== PAGE 1 =====
+{"alpha_words": 118, "chars": 791, "method": "ocr", "page": 1, "variant": "plain-vision"}
+STATE OF NEW HAMPSHIRE
+PERLEY I. PITTO
+COMMIOSIONER
+CLEMENT A. LYON
+DIRECTOR
+N OP MARKETS AND STANDI
+ALFRED T. HEPWORTH
+CHIEF INSPECTOR BUREAU OF MARKETS
+ALFRED M. DITTRICH
+CHIEF INSPECTOR
+BUREAU OF WEIGHTS AND MEASURES
+DEPARTMENT OF AGRICULTURE
+DIVISION OF MARKETS AND STANDARDS
+CONCORD
+December 29, 1950
+Mr S
+Stoneham, Mass.
+Dear Mrs
+In reply to your recenc request, you
+will find enclosed a copy of the August 20, 1958
+issue of the Weekly Market Bulletin which contains
+an auction notice for
+, Page's Corner
+Dunbarton, N.H., to be held on August 27 at 1 P.M.
+This is the only auction listed in
+Dunbarton during the three months mentioned in your
+letter and we trust it is the one to which you
+referred.
+Yours very truly,
+Lesser#C
+Clement A. Lyon,
+prector
+Bureau of Markets
+L: F
+Enclosure

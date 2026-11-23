@@ -1,0 +1,66 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T06:58:00Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10171946, "source_ctime_ns": 1793358411538512476, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-002-026-0009.tif", "source_mtime_ns": 1785681084000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-002-026-0009.tif", "source_sha256": "4d3645df5a3843242b0c0b04657d748c69cfcc95e0a5625b8f3f391dcf9fe9a3"}
+
+===== PAGE 1 =====
+{"alpha_words": 231, "chars": 1656, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+E FORM: 112-PART !
+PROVED 1 JUNE 1948
+UNCLASSIFIED
+(CLASSIFICATION)
+USA
+REPORT NO.
+(LEAVE BLANK)
+2D-UFOB-4.śł
+AIR INTELLIGENCE INFORMATION REPORT
+MSOB INVESTIGATION
+A REPORTED ON
+SAN ANTONTO, TEXAS, USA
+FROM (LOrICY)
+FIt 2-D, 4602D AISS
+EVALUATION
+22 D5C 54
+ARED BY (O NECE)
+DATE OF INFORMATION
+17 DEG 54
+US AP
+SOURCE
+MRS.
+AFR 200 -2, ATIC Form Ar
+KELLY AF, TERAS, CHIEF BASE SECURMY DIVISION DEd I DEC 5
+IMMARY CEnter concise rummary of report. Give simificance in final one-sentence paragraph. Lin inclorures at lover left. Bepir leit of report on. AP Form fIf-Port ITY
+T. COMMENTS:
+PART ONE
+REPORT 2D-UF08-13
+10. SUMMARY:
+On 16 Dec 54, OIC, Flight 2-D, 4602d AISS, Linker APS, Oklahoma
+conducted a follow-up investigation of a UFOB sighted over San Antonio, Texas
+(GEOREF FHGQ 2323) on 25 Nov 54.
+Investigation was conducted in strict compliance
+with APR 200-2 dated 12 Aug. 54.
+IIT. TECHNICAL INVESTIGATORS
+2nd It. DEANS. JAMESON
+PREPARED BY:
+Orand Jan
+DIAN. S. JAMESON
+2nd Lta.
+US AF
+OIC, FIT 2-D
+APPROVED:
+Colonel
+Commander
+_ INCLS:
+(See individual report)
+TRIBUTION BY ORIGINATON
+D/I USAF W/incl
+NO. 4602
+AISS WInCL
+D/T 33rd Air Div W/incl
+COMR ATIC W/SacH
+ADC (COC)
+•T THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT. SO U.S. C.
+30 AND 32 AS AMENDED:
+ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW
+PALENE CARDUE LINOLE OR IN PANT BY ONE AND RATES ATE AN ORE ACRES. LACERT EY PERMISION OF THE BRETOR OF
+(CLASSIFICATION)
+A U.S. COVERNMENTA
+NTING OFFICE: 1994-O-016331

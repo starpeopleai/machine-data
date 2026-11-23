@@ -1,0 +1,57 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T07:06:32Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7431867, "source_ctime_ns": 1793384910207885692, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28991350/1016.jpg", "source_mtime_ns": 1785748233000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28991350/1016.jpg", "source_sha256": "457276fd936afacff0e073f833a8fc2d479e21b7aff8be98eb37482c8d2defbe"}
+
+===== PAGE 1 =====
+{"alpha_words": 222, "chars": 1565, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Manner of disappearance of object(s)
+Like the setting sun (down below the horizon).
+Length of time in sight
+Approximately four (4) hours
+MANNER OF OBSERVATION
+Use one or any combination of the following items: Ground-visual
+• ground
+of radar)
+Ground - visual.
+nic, specify type
+Statement as to optical aids (telescopes, binoculars, and so forth) used and description thereof
+None
+If the sighting is made while airborne, give type aircraft, identification number, altitude, heading, speed, and home station.
+N/A
+WEATHER AND WINDS-ALOFT. CONDITIONS AT TIME AND PLACE OF SIGHTINGS
+Observer(s) account of weather conditions
+Clear with a calm wind
+Report from nearest AWS or U.S. Weather Bureau Office of
+wind direction and velocity in degrees and knots at surface
+6,000*
+310/15
+10,000*
+310/25
+16,000*
+310/30
+30,000°
+50,000°
+80,000*
+300/80
+300/45
+20,000'
+310/45
+Any other unusual activity or cond
+NO NE
+Ceilinone
+Amount of cloud cover
+Visibility
+15+
+Thunderstorms in area and quadrant in which located
+None
+or otherwise, which might account for the sighting
+directipeson or identification action taken (such action may be taken whenever feasible, complying with
+Object had disappeared when report was filed.
+Location of any air traffic in the area at time of sighting
+existing air defense
+osition title and
+comments of the preparing offic
+including his prelimiaary analysis of the possible ca
+ause of the sighting(s)
+Capt, Base Operations
+Richard I Space Track at IG Hanscom had no information.
+Unknown.
+Existence of physical ovidence, such as materials and photographs

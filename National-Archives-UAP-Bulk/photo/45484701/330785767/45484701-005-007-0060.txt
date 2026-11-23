@@ -1,0 +1,61 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T07:11:43Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8948526, "source_ctime_ns": 1793363655767693283, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785767/45484701-005-007-0060.jpg", "source_mtime_ns": 1785684983000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785767/45484701-005-007-0060.jpg", "source_sha256": "fc223a212c54448c98db33f07e1a6aa72a91e50e626a0771b0a2fb0a55233884"}
+
+===== PAGE 1 =====
+{"alpha_words": 133, "chars": 1033, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UNITED STATES AIR FORCE
+THE INSPECTOR GENERAL
+OFFICE OF SPECIAL INVESTIGATIONS
+REPORT OF INVESTIGATION
+TITLE
+AERIAL PESTONEHA
+FILE NO.
+24-56
+23 October 1949
+REPORT MADE BY
+PERDINAND L. COSTZ
+REPORT MADE A
+DO /12, Soots AL
+PERIOD 20 September 1949
+OFFICE PS, Scott AUB
+STAT SENDING
+UNCLASSIFIED
+CHARACTE PECIAL INQUIRY
+REFERE, Hos, OTI, atd 10 Aug 49, file no. 21-105
+SYNOPSIS
+Unidentified serial phenomena observed by two informants for a period of
+approxisately four hours on 23 July 1949.
+UNCLASSIFIED
+CLASSIFICATION CANCELLED 13
+BY AUTHORITY OF THE DIRECTOR
+BY
+KURT K. KUNZE, Capt, USAF
+Historian
+DATE
+4 DEC 1975
+DISTRIBUTION
+Dr, Tech Intelt, AuC
+Dr of Inpell,
+OSAP
+711e
+ACTION COPY FORWARDED TO
+FILE STAMP
+Director of Teahnical Intelli
+2 rair Materiel Comand
+Bright-Patterson AFB
+Layton, Chio
+APPROVED
+185
+gE INSPECTOR DE
+Nov
+ОвОИ
+It. ColonY
+USAP
+District Commander.
+FHQ FORM
+5 JAN 49
+0-208
+Replaces AFCSI Form 4, 23 Jul 48, which ma
+1637 NOV 850
+16-57744-1
+U.S. GOVERNMENT PRINTING OFFICE
+Declassification Authority: NND 923007

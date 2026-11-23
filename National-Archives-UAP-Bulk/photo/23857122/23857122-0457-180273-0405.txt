@@ -1,0 +1,9 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T06:25:37Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 18431760, "source_ctime_ns": 1793356782459015229, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0405.tif", "source_mtime_ns": 1785564757000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0405.tif", "source_sha256": "5ea8faf0f29b544b1f76d1d2137592a7554f1bc5494ca32f452c634b6ec77f50"}
+
+===== PAGE 1 =====
+{"alpha_words": 12, "chars": 115, "method": "ocr", "page": 1, "variant": "plain-vision"}
+APPENDIX E¿2
+Rend Corporatior (d. E. Lipp)
+Space Ship Consicerations
+1PP E-2
+Declassification Authority: NND 57565

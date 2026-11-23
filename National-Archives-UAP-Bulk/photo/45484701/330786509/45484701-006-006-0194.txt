@@ -1,0 +1,20 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T07:13:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10141872, "source_ctime_ns": 1793364159166922011, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330786509/45484701-006-006-0194.jpg", "source_mtime_ns": 1785684591000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330786509/45484701-006-006-0194.jpg", "source_sha256": "6fb25c7e02686015132307003d34deb4431f20ef4454d77b9b53ae7df885224e"}
+
+===== PAGE 1 =====
+{"alpha_words": 49, "chars": 346, "method": "ocr", "page": 1, "variant": "plain-vision"}
+CONFIDEN
+(conti mued)
+Nr. PAUL/SPERLING
+4501-3 Ridgeway
+Jos Alanos, Les Nexico
+Observed from Los Alamos,
+New Mexico
+Mr. HARRIS/ MAYER
+1461 - 44th Street
+Los Alamos, Lew Hexico
+Observed from Los Alamos, Nev Mexico
+POSTER
+Quarters 784B, 45th Street
+Los Alamos, Nev Hexico
+Observed from Los Alanos, Hew Hexico
+Declassification Authority: NND 923007

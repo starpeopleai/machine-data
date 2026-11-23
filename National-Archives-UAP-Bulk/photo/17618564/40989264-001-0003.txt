@@ -1,0 +1,90 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T07:01:01Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 17066770, "source_ctime_ns": 1793355149330477345, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989264-001-0003.jpg", "source_mtime_ns": 1785564402000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989264-001-0003.jpg", "source_sha256": "961ca7b575d6cf773e9cf854ad273d4f1a0ee4ce669f9409d8f12a70048d27bf"}
+
+===== PAGE 1 =====
+{"alpha_words": 301, "chars": 2496, "method": "ocr", "page": 1, "variant": "plain-vision"}
+COMMITTEE ON SCIENCE AND ASTRONAUTICS
+GEORGE P. MILLER, California, Chairman
+OLIN E. TEAGUE, Texas
+JAMES G. FULTON, Pennsylvania
+JOSEPH E. KARTH, Minnesota
+CHARLES A. MOSHER, Ohio
+KEN HECHLER, West Virginia
+RICHARD L. ROUDEBUSH, Indiana
+EMILIO Q. DADDARIO, Connecticut
+ALPHONZO BELL, California
+J. EDWARD ROUSH, Indiana
+THOMAS M. PELLY, Washington
+JOHN W. DAVIS, Georgia
+DONALD RUMSFELD, Illinois
+WILLIAM F. RYAN, New York
+EDWARD J. GURNEY, Floriaa
+THOMAS N. DOWNING, Virginia
+JOHN W. WYDLER, New York
+JOE D. WAGGONNER, JR., Louisiana
+GUY VANDER JAGT, Michigan
+DON FUQUA, Florida
+LARRY WINN, JR., Kansas
+GEORGE E. BROWN, JR., California
+JERRY L. PETTIS, California
+WILLIAM J. GREEN, Pennsylvania
+D. E. (BUZ) LUKENS, Ohio
+FARLE CABELL, Texas
+JOHN E. HUNT, New Jersey
+JACK BRINKLEY, Georgia
+BOB ECKHARDT, Texas
+ROBERT O. TIERNAN, Rhode Island
+BERTRAM L. PODELL, New York
+CHARLES F. DUCANDER, Executive Director and Chief Counsel
+JOHN A. CARSTARPHEN, Jr., Chief Clerk and Counsel
+PHILIP B. YEAGER, Counsel
+FRANK R. HAMMILL, Jr., Counsel
+W. H. BOONE, Chief Technical Consultant
+RICHARD P. HINES, Staff Consultant
+PETER A. GERARDI, Technical Consultant
+JAMES E. WILSON, Technical Consultant
+HAROLD A. GOULD, Technical Consultant
+PHILIP P. DICKINSON, Technical Consultant
+JOSEPH M. FELTON, Counsel
+RICHARD E. BEEMAN, Minority Staff
+ELIZABETH S. KERNAN, Scientific Research Assistant
+FRANK J. GIROUX, Clerk
+DENIS C. QUIGLEY, Publications Clerk
+(II)
+CONTENTS
+STATEMENTS
+Dr. J. Allen Hynek, head, Department of Astronomy, Northwestern
+Evanston, Ill_-
+Prof. James
+Universits,. Metonald, Department of Meteorology, University of
+Arizona, Tucson, Ariz-_-.
+Dr. Carl Sagan, associate professor of astronomy, Center for Radiophysics
+and Space Research, Cornell University
+Or. Robert L. Hall, head, Department of Sociology, University of Illinois
+Chicago, Ill
+Dr. James A. Harder, associate professor of civil engineering, University of
+California_
+Dr. Dron Se Miveda Boule Vara, Bi Sediedo, System Sciences Corp., 650
+PREPARED PAPERS
+Dr. Donald H. Menzel, Harvard College Observatory-
+Dr. R. Leo Sprinkle, Division of Counseling and Testing, University of
+Wyoming
+Dr. Garry C. Henderson, senior research scientist, Space Sciences, General
+Dynamics
+Dr. Stanton T. Friedman, Westinghouse Astronuclear Laboratory--
+Dr. Roger N. Shepard, Department of Psychology, Stanford University----
+Dr. Frank B. Salisbury, head, Plant Science
+Department, Utah State
+University
+Page
+3
+18
+86
+100
+113
+126
+198
+206
+210
+213
+223
+235

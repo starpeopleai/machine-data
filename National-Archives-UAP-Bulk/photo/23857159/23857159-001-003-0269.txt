@@ -1,0 +1,34 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T07:16:34Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 14770690, "source_ctime_ns": 1793360957348332138, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-003-0269.tif", "source_mtime_ns": 1785565161000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-003-0269.tif", "source_sha256": "275c155dac0859f680b97392a3de2625b9f3e2994d0409a0fe4df7959edc676d"}
+
+===== PAGE 1 =====
+{"alpha_words": 30, "chars": 270, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ZAUG 145-7
+
+7 : a AC &3-3400
+US IUAEWEC SS
+
+\yoLASSIFIED. | |
+
+] , eee |
+5 |OF
+a
+=
+aS
+i. “| |
+ist
++t, ASIHE ComTAcT Losr, ;
+ul : ;
+04
+IF IGz aA :
+or ae 445 Zz ate
+54 z
+“s ‘5992 a
+iu r | - :
+lAASe
+isHrt
+o  UNCLASS SIFIED,
+sven ——
+
+K
+DECLASSIFIED! ,
+Authority NND 9237007

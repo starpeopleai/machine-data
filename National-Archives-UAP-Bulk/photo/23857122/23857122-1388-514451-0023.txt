@@ -1,0 +1,47 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T06:22:12Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 20740508, "source_ctime_ns": 1793357343475962022, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1388-514451-0023.tif", "source_mtime_ns": 1785564880000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1388-514451-0023.tif", "source_sha256": "6394cc3db53202c7e5ce88210ce1f11b128e5c0c06bdbf84bf6555be17dae324"}
+
+===== PAGE 1 =====
+{"alpha_words": 278, "chars": 1858, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Sachsenwerk -
+SPIEGEL
+ng der Belegschaft des Sachs
+jeben von der SED-Betriebsparteiorganis
+Den Weg in eine glückliche Zukunft
+gehen Inge, Klaus und Roser
+morie und die vielen tousend Jungen Pioniere
+unserer Deutschen Demokratischen Republik, deren Delegierte am Dienstag
+im Rudolf-Harbig-Stadion unserem Ministerpräsidenten Otto Grotewohl zu-
+jubelten. Keiner von uns Großen, die diese Feierstunde miterleben durften,
+wird den Augenblick vergessen, als unsere Kinder in vorbildlicher Disziplin in
+das weite Rund des Stadions einmarschierten. Hellstrahlen ihre Autte wohl
+ein festlicher Glanz lag auf ihren G
+rn. Und jeder von uns dachte
+e: Diese Jugen‹
+jetzt sind in ihren Reihen hervo
+auszeichnen. Sie
+sIERNST THALMANN,
+en der Verband der Jungen P
+durch Otto Grotewohl erhielt, würdi
+erweiser
+und im Sinne dieses
+sten Sohnes der Arbeiterklasse ihre Au
+beim Aufbau des Sozialismus erfüllen. Unsere Pflicht ist es, alles zu
+tuben hen de Atied des soie, it iles oben zu echt er und geg zu
+alle Angriffe zu verteidigen und ihnen so den Weg ebnen, den Weg in eine
+glückliche Zukunft
+Damit unseren Jungen Pionieren
+der Weg zum Sozialismus offen steht ...
+nation ist lage ise es der bisode end sache und ber-
+Lied der Jungen Pionier
+abzeichen abzulegen. Gleichzeitig verpflichten sie sich zum persönlichen Schutz
+ihres Arbeitsplatzes und zur Überwachung des Durchgangsverkehrs in und
+zur Lehrwerkstatt. - Viele Kolleginne
+und Kollegen wollen durch die Spende
+eines Stundenlohnes zum Gelingen des großen
+Pioniertreffens beitr1gen, so
+s erste die Kolleginnen und Kollegen der Brigade Reinhardt in der AF-E
+ontrolle, die auch gleichzeitig ihre Arbeitsplätze vorbildlich geschmückt habe
+so daß sie mit einem Preis ausgezeichnet wurden. Ebenso spendeten einen
+Stundenlohn die Kolleginnen und Kollegen des Lages 16.
+rene Scherf, VP
+Declassification Authority: NND 57565

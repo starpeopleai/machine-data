@@ -1,0 +1,61 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T06:57:46Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9906688, "source_ctime_ns": 1793365104583412390, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330788259/45484701-007-009-0085.jpg", "source_mtime_ns": 1785684991000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330788259/45484701-007-009-0085.jpg", "source_sha256": "f84d988db6316884240f6634d1aeda7c6ac35ad0d3764118a294252a4320560a"}
+
+===== PAGE 1 =====
+{"alpha_words": 354, "chars": 2451, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AIR FORCE
+HEADQUARTERS UNITED STATES AIR FORCE
+CLASSIFICATION CANCELLED
+BY AURORT K. KUNZE, Capt, USAF
+WASHINGTON C INV
+BY
+Historian
+UNCLASSIFIED
+24-0-25X
+THE INSI
+CTOR GENERAL USAF
+24TH-DISTRICT OFFICE OF SPECIAL INVESTIGATIONS
+1660 S. DEO:1975K BLVD. CHICAGO 15, ILLINOIS
+SPOT INTELLIGENCE REPOR
+1 & DEC 1975
+16 August 1950
+SUBJECT:
+Plastic Balloon Found Six (6)
+Miles N.W.
+ivanhoe, Minnesota
+TO
+Director, Special Investigations
+Headquarters, USAF
+Washington 25, D. C.
+Synopsis:
+A plastic balloon approximately eight (8) feet in
+liameter was found on a farm about six (6) miles northwest of Ivanhoe
+Minnesota. Sample of
+the plastic was forwarded to the Minneapolis Fiel
+Office, FBI by the Sheriff, Lincoln County, Minnesota through Colonel E.B.
+Miller, Director, Civil Defense, St Paul, Minnesota. Sample is attached
+to this report for OSI Headquarters.
+Details:
+The following quoted letter, dated 29 July 1950, was
+received by this office from the Minneapolis Field Office, FBI through
+the Minneapolis Detachment, 24th District:
+on July 20, 1950, Colone. E. B. Miller, Director, Civil Derense,
+1003-4 Commerce Building, St. Paul, Minnesota, furnished this office with
+a sample of plastic material and tape which had been furnished his office
+by Leo J. Redig, Chairman, Civil Defense, Box 149, Ivanhoe, Minnesota.
+Col. Miller advised that according to Mr. Redig, the Sheriff of
+Lincoln County at Ivanhoe, Minnesota, had on July 25, 1950, reported that
+a large plastic balloon had been found on a farm approximately six miles
+northwest of Ivanhoe, Minnesota. This balloon was about eight feet in
+diameter and made out of a rubber or plastic material. Attached to the
+balloon proper was a great deal of tape which looked as though it had been
+used to attach something to the balloon. Redig, in his letter to Col.
+Miller, indicated that a possibility existed that the balloon was just a
+weather balloon and that it may have come from the Dakotas inasmuch as the
+prevailing winds during thel previous week had been from the northwest.
+Mr. Redig had furnished Col. Miller with samples of this material
+and tape and the game were brought to this office by Col. Miller.
+Inasmuch as it appears that this would be a matter for investigation
+your agency, this matter is being brought to your attention. The samples
+of the material and the tape furnished this office by Col. Miller is being
+UNCLASSIFED
+Declassification Authority: NND 923007

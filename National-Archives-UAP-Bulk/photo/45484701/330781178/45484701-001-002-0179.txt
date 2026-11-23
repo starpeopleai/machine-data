@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T07:05:31Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7141318, "source_ctime_ns": 1793361741436969255, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330781178/45484701-001-002-0179.jpg", "source_mtime_ns": 1785684764000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330781178/45484701-001-002-0179.jpg", "source_sha256": "11e84c1d28e4ea9361e5fd472e5c2558203da5557067555c2ac0840199d39235"}
+
+===== PAGE 1 =====
+{"alpha_words": 52, "chars": 437, "method": "ocr", "page": 1, "variant": "plain-vision"}
+9. Tactics or maneuvers - a. Rotating
+10. Svidence of exhaust
+8. lip smoke
+b. a/a
+c. No odor
+d. n/a
+о. д/а
+1l. Effect on clouds - No clouds in'sky
+12. Lights
+4. Berlected light from sun
+De. n/a
+0. n/a
+13. Support
+a. None
+b. let close enouch to determine
+d. Not observed
+0. Not known
+14. Propulsion
+a. Could not Bee
+Not observed
+c. Not observed
+d. Not observed
+15. Control and stability -
+None
+Hone
+Declassification Authority: NND 923007

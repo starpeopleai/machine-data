@@ -1,0 +1,67 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T06:56:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9783063, "source_ctime_ns": 1793362142951939512, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330782241/45484701-002-003-0109.jpg", "source_mtime_ns": 1785684716000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330782241/45484701-002-003-0109.jpg", "source_sha256": "15a0710eb7dd7d6a38aa9bd1b4676a5089314b8f89dcb785d8a10e0a5e523270"}
+
+===== PAGE 1 =====
+{"alpha_words": 138, "chars": 1085, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AF HQ-44
+3 Dec 1947
+PRE
+Wrtn 23 Sept 49
+24-185
+(Unclassified) Aerial Phenomena
+Directorate of Intelligence, DCS/O
+Air Intelligence Romts Div, Documents & Dissemination Br.
+Mr. Gould/1 se/72231
+Office of Special Investigations, IG
+AFCSI
+The attached copies of OSI investigative reports are forwarded for your
+information.
+2 6 SEP 19
+6 Incls
+1. R/I
+2. R/I
+dtd 25 Jul 49 DO#13
+dtd 31 Aug 49 DO#10
+3. R/I dtd 6 Sept 49 DO#12
+4. R/I dtd 6 Sept 49 DO#14
+5. R/I dtd 7 Sept 49 DO#17
+6. R/I dtd 9 Sept 49 DO#25
+WILLIAM M. TURNER
+It. Colonel, USA:
+Executive, Special Investigations
+The Inspector General, USAF
+SEP 1949
+MANAGEMENT
+DIV.
+OS
+CLASSIFICATION CANCELLED S
+BY AUTHORITY OF TH
+BY KURT K. KUNZE, Capt, USAF
+Miscortan
+3 DEC 1975
+•DATE
+When Inel No.
+- is la
+or not attached, the cla
+ecren
+on this
+ithdrawn
+on of
+rama ence
+will be cancelled in accordance with
+• par 25 e, AFR 205-10
+AFESI-FILES
+OFFICE SYMBOL
+GRADE AND
+SURNAME OF
+COORDINATING
+OFFICERS
+AFOSI
+217/15 251
+OFFICE OF
+SPECIAL INVESTIGATI
+90058
+OCT 4
+16-29242-2
+UNCLASSIFIED
+• PRINTING OFFICE
+Declassification Authority: NND 923007

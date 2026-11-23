@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T07:15:51Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 13576147, "source_ctime_ns": 1793366865246306876, "source_file": "National-Archives-UAP-Bulk/photo/542184/341-PBB-689-0312.jpg", "source_mtime_ns": 1785565608000000000, "source_rel": "National-Archives-UAP-Bulk/photo/542184/341-PBB-689-0312.jpg", "source_sha256": "1f8073601d671f6660f7b2f002693fd7ed40670004eda7f4bf8ecff84c6ae350"}
+
+===== PAGE 1 =====
+{"alpha_words": 36, "chars": 187, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Pi
+
+“vo
+
+*
+
+o e en 9 a + aera | oo & Py , , 3
+BY 7 ALLL willy f b>
+
+“yt
+
+«aan A AEA ONE RN OLEAN ay ig
+etre oe
+ree ri tia
+
+ne ae Ke
+
+an .
+Vy :
+//,
+"YL |
+. fe My Pitiy ny
+af Pp WN —=7 ro

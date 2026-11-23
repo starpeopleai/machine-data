@@ -1,0 +1,23 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T07:04:03Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6555187, "source_ctime_ns": 1793383844132071048, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28988056/0195.jpg", "source_mtime_ns": 1785748066000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28988056/0195.jpg", "source_sha256": "6f33c690b46376b0abf3674bc3b329a03131f13a2a63beea6cd6966010e938f6"}
+
+===== PAGE 1 =====
+{"alpha_words": 50, "chars": 338, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UPJECT:
+TO:
+AIR TECHNICAL INTELLIGENCE CENTER
+UNITED STATES AIR FORCE
+WRICHT-PATTERSON AIR FORCE BASE
+OHIO
+AFC IN-422x
+Uro Sighting
+4 0 100
+SAFOI-3d (L/Col Tacker)
+It is suggested that a questionnaire be forwarded to:
+Mr
+Arnold, California
+FOR THE COMMANDER:
+Colonel,
+USAF
+Deputy for Science and Components
+1 Atch:
+Cy ltr, no date, fr Mr

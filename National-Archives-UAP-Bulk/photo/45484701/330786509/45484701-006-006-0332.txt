@@ -1,0 +1,22 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T07:14:03Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10760760, "source_ctime_ns": 1793364249417792524, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330786509/45484701-006-006-0332.jpg", "source_mtime_ns": 1785684602000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330786509/45484701-006-006-0332.jpg", "source_sha256": "88018da6eeca74827e3ee4bcd879183b10c9fef815f740da9385686c248678a7"}
+
+===== PAGE 1 =====
+{"alpha_words": 127, "chars": 847, "method": "ocr", "page": 1, "variant": "plain-vision"}
+HOLLOMAN AIR FORCE BASE, New Mexico
+14 October 1949
+On 11 October 1949, at approximataly 1100 hours, I me located
+at Ryan 4 Site, at HAFB, as a member of a balloon launching and traoking
+crew. We had launched a balloon flight and were tracking the flight
+with a Theodolite. Sgt. MARION I. GRAVES was tracking with the Theo-
+dolite and I was engaged in recording Azimuth and Elevation angles.
+I happened to peer into the sky to the Northwest and observed a white
+object moving at a high rate of speed. This object appeared to move
+in a straight path and disappeared from view to the Southenst in approx-
+Imatoly 10 to 15 seconds.
+This object appeared to be moving at a
+greater speed than any object I have ever observed, with the exception
+of a falling star.
+Karah in Storma
+RALPH. STEVENS, N/5gt
+AF-16043392
+Declassification Authority: NND 923007

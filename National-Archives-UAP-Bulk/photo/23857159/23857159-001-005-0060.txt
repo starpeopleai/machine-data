@@ -1,0 +1,52 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T07:17:47Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 15075384, "source_ctime_ns": 1793361369955860051, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-005-0060.tif", "source_mtime_ns": 1785565325000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-005-0060.tif", "source_sha256": "2d513e5d765ff7dde72a839b4da407e9343a5d2c71747b74876cd56b2837cb64"}
+
+===== PAGE 1 =====
+{"alpha_words": 204, "chars": 1576, "method": "ocr", "page": 1, "variant": "plain-vision"}
+ORIGINATING AC
+DCS/I, Hq, 13th AF
+UMCLSSIFED
+ITY INFORMATION when filled in)
+SUPPLEMENT TO AF FORM 112
+REPORT NO.
+PAGE
+1264502
+2
+4
+PAGES
+(1320Z)
+UFO SIGHTING 4 OCTOBER 1959 2125 H
+a. Description of Object (s):
+(1) Round or ovate.
+(2) 2125H sighting size of volley ball at arms length. 2130H sighting,
+size of head of cigarette held at arms length.
+(3) Red or orange red.
+(4) One (1) object.
+(5) N/A.
+(6) Object was described variously as egg-shaped with point down with a
+bright spot near base and as triangular when viewed through a 30 power tele-
+scope.
+(7) None.
+(8) None.
+(9) None.
+b. Description of Course of Object(s):
+(1) Light, movement, and color.
+(2) 2125H. azimuth 270 degrees, elevation 40 degrees:
+2130H. azimuth 360 degrees, elevation 40 degrees.
+(3) 2140H. azimuth 030 degrees, elevation 40 to 45 degrees.
+(4) Straight and level. Gained slightly in altitude.
+(5) Gradual to the northeast.
+(6) Fifteen (15) minutes.
+c. Manner of Observation:
+(1) Ground visual.
+(2) 30 Power telescope.
+(3) N/A.
+WARNING: This document contains information affecting the national defenss of the United States within the meaning of the
+Espionage Laws, Title 18, U.S. C., Sections 793 and 794. Its transmission or the revelation of its contents in any manner to an
+unauthorized person is prohibited by law. It may not be reproduced in whole or in part, by other than United States Air Force
+Agencies, except by permission of the Director of Intelligence, USAF
+AF 1 OCT 52 1122
+WHICH MAY BE USED.
+(SECURITY INFORMATION when filled in)
+016-¿¿68-7003
+DECLASSIFIED
+Authority NND 9237007

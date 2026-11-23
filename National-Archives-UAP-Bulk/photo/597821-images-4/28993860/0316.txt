@@ -1,0 +1,43 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T06:55:44Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8464585, "source_ctime_ns": 1793385655460884288, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28993860/0316.jpg", "source_mtime_ns": 1785747911000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28993860/0316.jpg", "source_sha256": "db2897e369d4dadd93a1ac9b99f66b3802f0162809bc2fef8a02d3fcc6e50e77"}
+
+===== PAGE 1 =====
+{"alpha_words": 130, "chars": 880, "method": "ocr", "page": 1, "variant": "plain-vision"}
+TEL: MELROSE 5-8911
+EXT: *
+2193
+REPLY TO
+ATTN OF:
+SUBJECT:
+HEADQUARTERS
+AIR DEFENSE COMMAND
+UNITED STATES AIR FORCE
+ENT AIR FORCE BASE, COLORADO
+ADOIN
+UFO Report
+1 7 AUG 1951
+TO:
+ASD (TD-F2)
+Wright-Patterson AFB, Ohio
+1. The
+enclosed letter-report on an unidentified flying
+object (Attachment 1) was received from Mr.
+rer of Kentland, Indiana, and is forwarded
+for
+any action deemed necessary.
+This headquarters has
+no information available on which to base a comment on
+the sighting.
+2. Please note the observer's interest in an explana-
+tion of his sighting.
+It is recommended that your
+organization apprise him of your findings on an unclassi-
+fied basis.
+3. Headquarters ADC has expressed appreciation to Mr.
+Yegerlehner for his interest and assistance in the UFO
+program.
+FOR THE COMMANDER
+SIDNEY L./ BILLER
+Lt Colonel, USAF
+Director of Intelligence
+1 Atch
+UFO Ltr, 4 Aug 61

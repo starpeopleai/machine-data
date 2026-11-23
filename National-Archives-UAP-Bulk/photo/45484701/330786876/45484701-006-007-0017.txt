@@ -1,0 +1,74 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T07:13:57Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10251907, "source_ctime_ns": 1793364281695417507, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330786876/45484701-006-007-0017.jpg", "source_mtime_ns": 1785685101000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330786876/45484701-006-007-0017.jpg", "source_sha256": "23589b210206fcebe387911b0e3f35ab3bc6e631c8409770b4f8291b5c4977fa"}
+
+===== PAGE 1 =====
+{"alpha_words": 173, "chars": 1236, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UNITED STATES AIR FORCE
+THE INSPECTOR GENERAL
+OFFICE OF SPECIAL INVESTIGATIONS
+REPORT OF INVESTIGATION
+TITLE
+SUBURGY UNANONE
+(AERTAL PREMONON)
+UNCLASSIFIED
+FILE NO.
+DATE
+24mB
+20 HAY 1969
+REPORT MADE BY
+LAY
+REPORT MADE AT
+DO @17, KArtland AFR
+PERIOD
+3, 5, 6 Hay 1949
+OFFICE OF ORIGIN
+DO 17, Kirtland APS
+STATUS
+CHARACTER
+REFERENCE
+SYNOPSIS
+STAL I
+On a report free ir. NUBER, (civilian) to starf officer of the pay
+an investigation was initisted on HUBERTS sighting an unidentified
+serdal objeet seen in the vicinity of Tueson, Arisons,
+Statonents
+taken fron persons observing this object. Outline of Project ạsign"
+CLASSIFICATION CANCELLED SO TERE
+BY AUTHORITY OF THE DIRECTOR OF SPEe INV
+BY
+KURT K. KUNZE, Capt, USAF
+Historian
+DA PFC 1975
+and marked FOR OFFICIAL USE ONLY
+under the aulhority
+alu
+DISTRIBUTION
+CO, KArELand AFB
+c01, lfg
+File
+UNCLASSIFIED
+ACTION COPY FORWARDED TO
+Cosmanding Officer
+Kirblend Air Force Base
+Now Ne
+Pilo
+oyle fees
+SLE REES
+COL, USAF
+District Commander.
+FILE STAMP
+1246-185-18-138
+USAF IG
+- OFFICE O
+SPECIAL INVESTIGATION
+DISTRICT N., 17 OFFICE OF
+SPECIAL INTESTIG
+HON
+16 FEB 1951
+B
+16-57744-1
+U•D GOVERNMENT TRINING OFFICI
+AFHQ FORM
+15 JAN 49
+0-208
+Replaces AFCSI For
+Declassification Authority: NND 923007

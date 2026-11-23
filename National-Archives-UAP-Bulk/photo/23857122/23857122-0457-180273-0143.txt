@@ -1,0 +1,11 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T07:19:08Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 17038248, "source_ctime_ns": 1793356531393612229, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0143.tif", "source_mtime_ns": 1785564718000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0143.tif", "source_sha256": "b96c014e19837fb96f746d8eb7ae0bd08f7e2ad44baac92ea54b7bab93d0ab32"}
+
+===== PAGE 1 =====
+{"alpha_words": 37, "chars": 276, "method": "ocr", "page": 1, "variant": "clean-vision"}
+RESTRICTED
+Ineident #219 -- Newburgh, Lew York -- 29 lovember 1948
+The object reported in this incident is clearly a
+slow-moving fireball. Tine of day, length of time in sight,
+and all other data check with the bolide hypothesis.
+RESTRIC
+Declassification Authority: NND 57565

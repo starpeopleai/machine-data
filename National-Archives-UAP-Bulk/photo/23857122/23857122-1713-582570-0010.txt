@@ -1,0 +1,67 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T07:01:48Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 26108904, "source_ctime_ns": 1793357886797929998, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1713-582570-0010.tif", "source_mtime_ns": 1785564989000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1713-582570-0010.tif", "source_sha256": "3342ffc2f5f7409b0a90b79fe7ae23996242e207ef3cdb70c4aa6cf90a7e4fcc"}
+
+===== PAGE 1 =====
+{"alpha_words": 482, "chars": 3105, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AF FORM 112-PART I1
+APPROVED 1 JUNE 1948
+FROM (Agency)
+354 FIS
+AIR INTELLIGENCE INFORMATION REPORT
+REPORT NO.
+IR - 25AD-5-53W
+2
+PAGES
+Three adults from Oxnard, California,
+› and
+and one resident of Bellingham, Washington,
+, made the fol-
+lowing observation on 12 August 1953 while located on the seaward end of the Ventura
+Public Pier:
+a. At approximately 2105 hours, Pacific Daylight Time, a white light with
+the same maghitude as the stars was seen moving north at an elevation of about 30°,
+'a little to the north of the pier where the observers were located.
+The light was
+steady, not blurred, blinking or hazy.
+b.
+The light moved to the north at a constant average elevation angle with
+small random fluctuations without definite periodicity.
+When the light moved to what was judged to be the Constellation Gemini,
+it stopped and moved to the South at the same 30° elevation. A red light was also
+observed very slightly ahead of and above the white light.
+d. The red light was steady and comparable to the white light in bright-
+ness.
+After traversing 90° of azimuth to the south, the lights disappeared suddenly
+with an apparent increase in velocity.
+north in 15 seconds.
+The 90° of azimuth was traversed in 30 seconds; the movement to the
+At 2115 hours, the white light reappeared for 15 seconds at about the
+same azimuth angle but at an elevation of about 15 or 20 degrees and after moving
+to the north, it headed seaverd, gradually disappearing into or above a fog bank
+several miles from shore.
+8 •
+The white light was again seen at 21l7 hours for about six seconds
+when it appeared to the south and very rapidly travelled downward, arching southward
+and disappeared.
+This was sinilar to a meteor's flight.
+h. No sound was audible though the sea was quiet with a very light on-
+shore breeze.
+Subsequently, commercial airliners flew over the area and though
+their navigation lights were comparable to the Tights viewed, the sound of engines
+was very audible and the airliner's angular velocity was slow in comparison to the
+light's trajectory.
+i. No outline of any object was observed though the area was partially il-
+luminated by reflection of lights from a nearby baseball park in addition to those
+of the noonlight.
+Captain Vack Hunter,
+Senior Radar Observer at Omard Air Force Base made
+the following observation while standing beside the Mobile Control Tower on the
+east end of the Runway 26:
+a. A yellowish-white light of undetermined origin, maintaining a horizontal
+flight path, crossed slightly in front of a landing F-940 at 2126 hours, Pacific
+Daylight Time, and was observed for six to eight seconds.
+MOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT. 50 U.S. C.
+31 AND 32, AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW.
+IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF
+INTELLIGENCE, USAF.
+TEST CIED
+Declassification Authority: NND 57565

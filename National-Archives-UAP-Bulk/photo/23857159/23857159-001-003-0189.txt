@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T06:27:09Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 21133646, "source_ctime_ns": 1793360878647286406, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-003-0189.tif", "source_mtime_ns": 1785565146000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-003-0189.tif", "source_sha256": "b4888bcd7e0d29d60c962ca26690445ec6cd948903e4bfa66fc8b900a554918a"}
+
+===== PAGE 1 =====
+{"alpha_words": 150, "chars": 962, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UNCLASSIFIED
+79113-
+- 03
+SCHWARTZ, Irwin R., PFC, RA 12509172
+DMZ Company
+At 0500, 6 November 1957, I was standing outside OP 209, coordinates
+987977, when I saw a very bright flash all around the OP. I then looked
+and saw a light yellow crooked trail in the sky located at an azimuth
+(Mag) 270° from my position and at an elevation of 60°. The flash
+lasted 4 seconds and then disappeared leaving this trail which remained
+in the sky glowing for about 15 minutes. Did the trail look like
+anything you'd ever seen?
+No - but it looked something like this:
+It did not appear to be moving and was about iại in length at arms
+Did you hear anything - No, but the pheasants in the area all
+started making noise as if they'd been suddenly aroused. The object was
+sitting at a 70° angle to the horizon. I've never seen anthing like
+it before. Do you have anythin else to add? NO.
+INIT7-1893
+04916
+INEL 819
+Copy / of 4
+_copies
+UNOLASSIF
+DECLASSIFIED
+Authority NND 9237007

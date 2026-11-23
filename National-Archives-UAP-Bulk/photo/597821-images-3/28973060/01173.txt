@@ -1,0 +1,41 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T06:30:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9545879, "source_ctime_ns": 1793379646329983813, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28973060/01173.jpg", "source_mtime_ns": 1785700723000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28973060/01173.jpg", "source_sha256": "5a6f457f47c6ddb820491c87383f9201181bb8924245cce1eff59e1cefc25078"}
+
+===== PAGE 1 =====
+{"alpha_words": 90, "chars": 753, "method": "ocr", "page": 1, "variant": "plain-vision"}
+NER OF OBSERVATION:
+A. GROUND OBSERVATION
+E. TELESCOPE
+- NOT E
+AND DATE OF SIGHTING:
+A. 25/23-22 TO 23552
+LOCATION OF OBSERVERS:
+A. WA Where WAS Observer locATed?
+B• N/A
+• IDENTIFYING INFO OF ALL OBSERVERSE;
+CIVILIA:
+• WEATHER AND WINDS ALOFT CONDITIONS AT TIMES OF SIGHTING:
+А •/
+CLOUDYSGLARE FROM SETTING SUN
+З •
+SURFACE CALM
+2. 5,000 555/1îŚę
+3. 17,200 300/27
+4. 16,000 502/35
+5. 20,300 530/53
+6. 30,000 528/50
+object
+ith.
+se couldnt identify
+7. 50/200 270/40
+8. NA
+35 SCTD
+D. 15
+E. MA
+F• NONE
+UNUSUAL ACTIVITY IN THE AREA:
+NE
+INTERCEPTION OR IDENTIFICATION OF ACTION TAKEN:
+CHAINDRIVE FOX '344 MB95DF TRACK 0
+B-4Z'S FERUELING
+• LOCATION OF KNOWN AIR TRAFFIC IN AREA AT TIME OF SIGHTING:
+TWO FLIGHTS OF 3 A/C 5% MILES SOUTH SOUTH WEST O'HARE HEADING

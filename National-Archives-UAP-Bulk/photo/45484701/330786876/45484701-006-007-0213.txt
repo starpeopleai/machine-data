@@ -1,0 +1,47 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T06:31:28Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10607902, "source_ctime_ns": 1793364394872691272, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330786876/45484701-006-007-0213.jpg", "source_mtime_ns": 1785685118000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330786876/45484701-006-007-0213.jpg", "source_sha256": "cf1fb17d0774c2b6d022e2a233ab856faad7acdd58e5f30fc5c75abe98172237"}
+
+===== PAGE 1 =====
+{"alpha_words": 127, "chars": 1007, "method": "ocr", "page": 1, "variant": "plain-vision"}
+115 Jan 53
+OTAL - SECURITY INFORMATICE
+24-185-1î
+24-185-18Śś
+UNCLASSIFIED
+(Unclassified) FLYOBRPT
+Topical Intelligence Division
+Deputy Director for Estimates
+Director of Intelligence, DCS/0
+Counter Intelligence Div, Dir of
+Special Investigations, IG
+Capt Brown/es/AFCSI-6
+Code 192/x 140
+Transmitted herewith for your information is a copy of a report of
+investigation from District Office #17, dated 31 December 1952, and a copy of
+a Spot Intelligence Report from District Office #18, dated 9 December 1952,
+which concern the above. subject.
+2. These inclosures may be retained in your files.
+2 Incls
+1. R/I fr DO #17
+dtd 31 Dee 52
+2. Spot Intell Rept
+âtd 9 Dec 52
+LUCIUS L. FREE
+It Colonel, USAF
+Chief, Sabotage and Espionage Branch
+AFCSI FILE COPY (24-185-17)
+CLASSIFICATION CANCELLED SO SORESEE
+BY AUTHORITY OF THE DIRECTOR OF SPES INV
+BY
+KURT K. KUNZE, Capt, USAF
+Historian
+6 DEC 1975
+UNCLASSIFIED
+14 185-17
+re
+SHAD
+AFCSI-6
+Capt Brown
+crow
+L82 JA0 198
+Lt Col Free
+Declassification Authority: NND 923007

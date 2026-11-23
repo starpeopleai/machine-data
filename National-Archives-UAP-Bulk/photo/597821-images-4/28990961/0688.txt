@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T07:10:05Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8360163, "source_ctime_ns": 1793384750279654094, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28990961/0688.jpg", "source_mtime_ns": 1785748581000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28990961/0688.jpg", "source_sha256": "33dd943674dec21b2ee53366dbe90679f3373e4d2f7d71151770febbcec030e3"}
+
+===== PAGE 1 =====
+{"alpha_words": 113, "chars": 682, "method": "ocr", "page": 1, "variant": "plain-vision"}
+MARES Luddie V. McMahon Jr
+lo Postbion
+Serial Mumber (Lilitary Only)
+After closer poservation, the light I saw was a star.
+1. How bright were the objects at their brighteat?
+Bright Star.
+Janitor
+20
+Did they cast shadons?
+3. When the objecte vere cles at to the witnesses, how close wore the
+objects to the ground?
+From one mile to a thousand miles.
+Estimate the distance from witnesses to objects when objecta vere
+closest to the ground,
+Same as above.
+Did the objects pass between witnesses and some other object such as
+a pole, tree, eto.?
+No.
+6, Over how large an area of the sly did the objects maneuver?
+None
+7o What was the fastest and slowest rate of movement?
+No. Movement.

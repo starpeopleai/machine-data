@@ -1,0 +1,53 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T06:35:46Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 15887933, "source_ctime_ns": 1793355516102370460, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0099.jpg", "source_mtime_ns": 1785564469000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0099.jpg", "source_sha256": "498cf63aa5d7d485d235924dbddbdf104d2d756bb3a5ae4889ed35bcb8526a99"}
+
+===== PAGE 1 =====
+{"alpha_words": 450, "chars": 2979, "method": "ocr", "page": 1, "variant": "plain-vision"}
+188
+and flight altitude, (3) payload weight, (4) flight duration, (5) useful life of balloon,
+(6) stability and (7) temperature extremes.
+Usually wind velocity is the most influential factor. The problem is twofold,
+that of balloon design and that of restraining the balloon with a suitable cable.
+Captive balloons have flown in winds up to 60 knots at 5, 000 feet above Mean Sea
+Level.
+In order to operate in high wind velocities a heavy and high strength tether
+cable must be used. No problem exists here in lifting the cable since the buoyant
+lift is augmented by aerodynamic lift. However, the balloon must also be capable
+of flying in a zero wind or minimum wind condition and lift the same heavy cable.
+Since buoyant force is proportional to displaced volume V, and aerodynamic forces
+are proportional to surface area of v2/3, it is evident that balloon volume can be
+increased until both wind conditions are satisfied. The resultant size may how-
+ever be prohibitive due to the extremely large and heavy handling equipment that
+would be required. Tail fin size and shape can also be varied such that a highly
+negative pitching moment coefficient is obtained.
+Figure 3 shows aerodynamic
+characteristics of a Viron captive balloon of 3. 5 to 1 fineness ratio. In low wind
+velocities the pitch angle is set at about 10 degrees and as the wind velocity in-
+creases the pitch angle will decrease to about 5 degrees thereby reducing aero-
+dynamic lift.
+Aerodynamic drag must also be considered. One of the problems is that of
+determining the fineness ratio of a streamlined body of least resistance for a given
+volume V. The volume of a given shape is proportional to LD? or D f where:
+Te ballre is prop binan diametery 15, /D renter fined set patio,
+The
+. For a given wind velocity, air
+density and balloon volume, the drag D = Cp 1/ 2ovi A is therefore proportional to
+Cp/f2/3 where Cp = parasite drag coefficient. Curve I in Figure 4 indicates how
+Cp varies with fineness ratio and Curve II indicates the variation of Cp/p2/3 with
+fineness ratio. Since envelope material strength and therefore weight are largely
+determined by maximum balloon diameter the more efficient design is one with a
+fineness ratio of about 5 or 6. Experiment has shown that these curves describe
+many bodies of various streamline form.
+This admittedly has been a simplification of the problem for several reasons.
+One is that a zero pitch angle and therefore zero induced drag has been assumed.
+Bending moments in the envelope due to gust loads have also been neglected.
+Aerodynamic forces on the stabilizer fins have likewise been neglected. The
+foregoing analysis is nevertheless useful in obtaining a qualitative understanding
+of captive balloon design. Wind tunnel model tests and instrumented flight model
+tests are usually relied upon for design data.
+AERODYNAMIC COEFFICIENTS CL, CD, CM
+= 3.5: 1.0
+- 0.5
+- 0.6
+12
+ANGLE OF ATTACK
+Figure 3. Aerodynamic Characteristics of Viron Captive Balloon

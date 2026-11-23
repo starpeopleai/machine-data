@@ -1,0 +1,46 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T06:30:19Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9303714, "source_ctime_ns": 1793362847353626686, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330783823/45484701-004-001-0126.jpg", "source_mtime_ns": 1785685063000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330783823/45484701-004-001-0126.jpg", "source_sha256": "5e2f3f949459b5c9c711d7132243819cdc775cbcfe684dd8d385b1e1285fc4fc"}
+
+===== PAGE 1 =====
+{"alpha_words": 161, "chars": 1219, "method": "ocr", "page": 1, "variant": "plain-vision"}
+IDENTIAL
+Wrth 17 Oct 50
+L/S8T-78
+(Unclassified) Unconventional Aireraft - SPEGIAL INQUIRY
+Documents & Dissemination Br, Directorate of
+Intelligence, DOS/O
+Counter Intelligence Div, Office of Special
+Investigations, The Inspector General
+17 OCT 1
+MaJ Detndler/bjn/717ąłśćł
+AFOSI
+Attached for your information is a Spot Intelligence Report concerning captioned
+subject, dated 5 October 1950. No further action is contemplated unless so requested
+by your Directorate.
+1 Incl
+SIR dtd 5 Oct 50 fr
+DO #1, w/2 incla
+GLIBERT R. LEVY
+Aetg Chief, Counter Intelligence Div
+Office of Special Investigations
+The Inspector General
+When Incl No. _... is (ere) withdrawn
+or not attached, the classification of
+oxeeLe tial on this correspondence
+will be cancelled in accordance with
+par 25e, AFR 205-1.
+Disclosure of the nature, sources, or even the existence of such
+investigative information to persous mentioned in the report
+Pay be made my when engi to led by the Dio CLASSTICATION CANCELED TO AT WE NEV
+of Special Investigations, IG, or higher authority.
+AUTHORITY OF
+KURT K. KUNZ., Capt, USAF OF SPECI
+Historian
+VATS DEC 1975.
+13
+~ V
+20/20/90150
+CONFIDENTIAL
+UNCLASSISIED
+-1-23 X
+OCT 2 4 15
+Declassification Authority: NND 923007

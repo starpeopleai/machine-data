@@ -1,0 +1,47 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T07:12:23Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9126634, "source_ctime_ns": 1793363297474050742, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785030/45484701-005-002-0011.jpg", "source_mtime_ns": 1785684899000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785030/45484701-005-002-0011.jpg", "source_sha256": "0cfc54ccffa7568b85c3358b19515c65f7f2f306900e0705416ca8d71635daa9"}
+
+===== PAGE 1 =====
+{"alpha_words": 327, "chars": 2248, "method": "ocr", "page": 1, "variant": "plain-vision"}
+7th OSI DISTRICT (IG) USAF
+MacDill AFB, Tampa 8, Fla.
+17 MAR 1959
+24-0
+SUBJECT:
+(U) Unidentified Flying Object Reportedly Observed in
+Vicinity of Princeton, Florida, 24 February 1959
+TO:
+Commander
+823rd Combat Support Group
+ATIN: Provost Marshal
+Homestead AFB, Plorida
+1.
+This letter is in confirmation of an oral report rendered by our
+Detachment Commander, Homestead AFB, Florida, to your Provost Marshal, con-
+cerning a reported unidentified flying object.
+On 25 February 1959, Major RICHARD E. KYLE, AO-565917, Base Infor-
+mation Services Officer, 823rd Combat Support Group, Homestead AFB, Florida,
+telephonically informed Special Agent WILLIAM C. WALKER, JR., of our Home-
+stead APB Detachment, that he had received a telephone call from a Mr.
+CHARLES N. COOK, 200 S.W. 242nd Street, Princeton, Florida, who reported
+observing what he believed to be an unidentified flying object west-southwest
+of Princeton, Florida. According to Major KYLE, COOK had been in the company
+of two other persons when the sighting occurred during the late afternoon of
+24 February 1959.
+On 25 Pebruary 1959, COOK was intervieved at his home, 200 S.W.
+242nd Street, Princeton, Florida, by Special Agent WALKER, and related that
+prior to 1830 hours, 24 February 1959, while eating ice cream at a Tastee
+Freez Drive-in, located on South Dixie Highway, Princeton, Florida, he
+observed an object in the sky about 10 degrees above the horizon in a west-
+southwesterly direction. COOK described this object, which he observed for
+about five to six minutes, as being about 20 miles away, stationary, oblong
+in shape, with a flat bottom and a dome top. COOK further described this
+object as having a brilliant gold color. COOK said that there were a few
+clouds in the sky on either side of observed object, but that the object in
+no way resembled clouds because of the distinct difference in color or con-
+figuration of the object in comparison with the clouds. COOK said that
+observed object had smooth, clean lines, whereas the nearby clouds appeared
+to have ragged, uneven lines.
+COOK stated that after observing this object for four to five
+minutes, he turned to the employees of the Tastee Freez establishment and
+UNCLASSIFIED
+Declassification Authority: NND 923007

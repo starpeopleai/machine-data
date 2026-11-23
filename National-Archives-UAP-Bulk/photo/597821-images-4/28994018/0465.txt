@@ -1,0 +1,79 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T07:09:53Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8359267, "source_ctime_ns": 1793385733062066589, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28994018/0465.jpg", "source_mtime_ns": 1785748395000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28994018/0465.jpg", "source_sha256": "bfab6722acaad4990ffac79fad6a48b8a25f6ae3e8031099c41cee75afbf7857"}
+
+===== PAGE 1 =====
+{"alpha_words": 265, "chars": 1658, "method": "ocr", "page": 1, "variant": "plain-vision"}
+oy one for this month. Two weeks earlier
+it the time of new moon, that body wil
+come between the earth and the sun, pro-
+fucing a partial solar cclipse. lo see
+it,
+ou will have to be in southern Africa
+along the coast of Brazil, in the South
+Atlantic or Antarctica. Over that general
+area, the moon will partially hide the sun
+Along a belt that is mostly over the ocean
+there will be
+what is
+called an annular
+be at about its greatest distance from the
+earth and its size, as we see it in the sky
+will not be enough to cover the solar disc
+A total eclipse of the sun occurs when the
+moon is closer. Then it covers the sun com
+pletely nd the sun's outer envelope, the
+corona, flashes into view.
+Partial Eclipse of Moon
+Aug. 25, 1961
+The large circle represents the shadow
+of the earth, and the small circles-I, II and
+III-indicate the successive positions of the
+moon as it passes through the shadow. The
+three phases shown occur at the following
+times (all p.m.) :
+EST
+CST MST PST
+I Moon starts into
+shadow
+8:36
+7:36 6:36 5:36
+Il Middle of eclipse 10:09
+9:09 8:09 7:09
+III Moon leaves
+shadow
+11:42 10:42 9:42 8:42
+Celestial Time Table for August
+Aug.
+EST
+6:48 a.m.
+5:36 a.m.
+Moon in last quarte
+Moon passes Venus
+New moon, annular eclipse of
+sun
+noon
+Moon farthest, distance 252,-
+600 miles
+12
+early a.m.
+Meteor shower visible, appar-
+ently radiating from constella-
+tion of Perseus in northeastern
+sky
+19
+5:52 a.m.
+23
+10:00 a.m.
+6:00 p.m.
+2:00 p.m.
+Moon in first quarter
+Moon passes Saturn
+25
+Moon passes Jupiter
+Moon nearest, distance 222,000
+miles
+10:14 p.m.
+Full moon,
+Lunar eclipse
+Subtract one hour for CST,
+two hours for
+MST, and three hours for PST.

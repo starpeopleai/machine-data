@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T07:12:07Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8958128, "source_ctime_ns": 1793383183991064940, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28986477/0219.jpg", "source_mtime_ns": 1785748409000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28986477/0219.jpg", "source_sha256": "38ba7e5b80efce79644239259fd7da539f6124d9341fa049b6cbe777a69c1114"}
+
+===== PAGE 1 =====
+{"alpha_words": 75, "chars": 610, "method": "ocr", "page": 1, "variant": "plain-vision"}
+ATUXENT RIVER NAS MD.
+PILOT VERY RELIABLE
+PACE THREE RJEOBP 4
+3. G.
+1 EXCELLENT VIS ABOVE STRATUS LAYER
+2 232 DEGREES/15 PLUS 23
+10,000 232 DEGREES/20
+20,000 243 DEGREES/40
+39,000 240 DEGREES/50
+40, 022 240. DECREES/60
+3. N/A
+4 12 MILES ICE CRYSTALS
+5. 2/10 CIRRUS AT 20,000 FT.
+3. H.
+NEGATIVE
+3. I
+NONE
+3. Ja
+LONE
+X •
+1 SENIOR CONTROLLER GOOSE AIR DEFENSE SECTOR PRIMARY ANALYSIS REVEALS
+NO PROBABLE CAUSE OF SIGHTING OTHER THAN POSSIBLE APPEARANCE OF
+COMET. SECOND SIGHTING BY AN AIRLINES PILOT TO THE NORTH OF
+VIS SIGHTING AND
+D MILES LATER REVEALS THAT THIS OBJECT MUST HAVE REAPPEARED.
+2/05122 APR RJEOBP

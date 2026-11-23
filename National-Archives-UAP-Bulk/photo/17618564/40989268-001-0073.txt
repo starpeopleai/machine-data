@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T06:34:59Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 15142623, "source_ctime_ns": 1793355634818836791, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0073.jpg", "source_mtime_ns": 1785564493000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0073.jpg", "source_sha256": "d826b01177a64fc097085d23154b623b5355392c971a72b54a9911323609b384"}
+
+===== PAGE 1 =====
+{"alpha_words": 84, "chars": 667, "method": "ocr", "page": 1, "variant": "plain-vision"}
+132
+ALTITUDE
+WING
+MULTI- HULL
+CONVENTIONAL AIRSHIP
+SPEED
+Figure 10. Improvement in Aerodynamic Performance Made Possible by the
+Use of Wing-Type Surfaces
+Figure 11. High-Altitude Aircraft-Multilobed Construction
+133
+Internal Pressure
+For uniform load on cantilever
+M = ™L
+M = bend. mom./unit
+width
+Unit Skin Weight
+Ws = phnk
+Drop-thread Weight
+per Unit Area
+W = phnky
+n = factor of safety against quick-break
+= weight/quick-break strength (rtio o
+he coated fabric @ 2:1 biaxial stress ratio
+d = weight/quick-break loop strength
+rotio of drop threads
+Figure 12. Formulas for Determination of Magnitude of Forces and
+Material Weights Required for Specific Applications
