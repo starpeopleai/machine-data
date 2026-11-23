@@ -1,0 +1,95 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T05:20:31Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 26644282, "source_ctime_ns": 1793361086828178772, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-004-0094.tif", "source_mtime_ns": 1785565225000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-004-0094.tif", "source_sha256": "ce8873c365e0ea816c68b7521b2a13fb3509400e78ccea616ceaeb2f5f79ce4e"}
+
+===== PAGE 1 =====
+{"alpha_words": 290, "chars": 2164, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1168383
+CLASSIFICATION
+UNCLASSIFIED
+COUNTRY OF ACTIVITY REPORTING
+REPORT NO.
+Japan
+IR-18-58
+AIR INTELLIGENCE INFORMATION REPORT
+COUNTRY OR AREA REPORT CONCERNS
+DATE OF INFORMATION
+USSR
+10
+tar 1958
+ACTIVITY SUBM
+DATE OF COLLECTION
+(Leave blank)
+1168383
+SRI STATUS (If applicable)
+SRI NO.
+5th Air Force ATILO
+PREPARING INDIVIDUAL
+Captain William J. Buchanan and
+Captain Joseph A. Calhoon, ATILOs
+NAME OR DESCRIPTION OF SOURCE
+12 Mar 1958
+DATE OF REPORT
+CANCELED/COMPLETE
+SRI NO.
+CANCELED / INCOMPLETE
+13 Mar 1958
+EVALUATION
+SRI NO.
+ADDITIONAL INFORMATION ON (Date)
+ACTIVE
+Aircrew
+REFERENCES (BAIR Subject, pi
+A-1
+applicable)
+BAIR 460-A
+SUBJECT (Descriptive title. Use individual reports for
+parate subjects)
+(U) RB-50 Aerial Sighting of Unidentified Object
+sues report be fully shed in or a tincture intuine number of ares
+ative text on AF Form 112
+This report forwards the results of a RB-50 aircrew debriefing of Mission
+F-456, Project 176-58, flow by the 6091st Reconnaissance Squadron, Yokota Air
+Base, Japan. An unidentified aerial light was observed at 4729N - U,50E, on
+10 March 1958, at 12554, which was probably a flare. An aircraft passed over
+the RB-50 an estimated 2000 - 3000 feet above, which was probably a Soviet
+BEAGLE.
+No other significant visual sightings were made.
+APPROVED:
+Lack S. 2e
+JACK S. ZEIGHE
+It Colonel,
+Director, ATILO
+DCS/Intelligence
+Classification feancelled) (changed to
+(nald), effective on
+5 apr.18
+under the authority of AeS
+by -
+AFIS/ INS Ltr
+SPECIAL HANDLING REQUIRED.
+5 cyn 78
+NOT RELEASABLE TO FOREIGN
+NATTONALS.
+INC LS
+The information contained in
+this document will not be
+disclosed to foreign nationals
+or their representatives.
+2/2534-5
+5l
+6241322
+MINICODED
+DISTRIBUTION BY ORIGINATOR (Except USAF and file. Indicate Dupl M/oz and copies w/o
+if applicable)
+AFCIN-4, W-P AFB, O.; PACAF ATILO, APO 953; 67th Tac Reconn Wing, APO 328
+WARNING: This document contains information
+Espionage Laws, Title 18, U.S.C., Section 793 and 794.
+an unauthorized person is prohibited by law.
+FORM
+AF 15 SEP 54 112
+REPLACES AF FORM 112.
+1 OCT 52. WHICH MAY BE USED
+UNCLASSIFIED
+CLASSIFICATION
+ng of the
+DECLASSIFIED
+Authority NND 9237007

@@ -1,0 +1,57 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T06:08:17Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8039585, "source_ctime_ns": 1793379340022727904, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28972025/00256.jpg", "source_mtime_ns": 1785700892000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28972025/00256.jpg", "source_sha256": "687c69edc1fd71dd7b635662a8a1bd15d9eec416113ec67f0e46485f8822e0d3"}
+
+===== PAGE 1 =====
+{"alpha_words": 112, "chars": 892, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD CARD
+2. LOCATION
+1. DATE
+3. DATE-TIME GROU
+October 1957
+. Local _
+0503
+GM T.
+08/15037
+3. PHOTOS
+Alaska
+'YPE OF OBSERVATIO
+›K Ground-Vi sual
+• Air Visual
+6. SOURCE
+Military
+8. NUMBER OF OBJECTS
+one
+• Ground-Rodar
+• Air-Intercept Radar
+12. CONCLUSIONS
+Was Balloon
+Possibly Ballco
+Possib
+Was Aireraft
+Probably Aireratt
+Possibly Aircraft
+Was Astronomical
+Probably Astronomica
+•
+Possibly Astronomica
+•K XOther.
+Insufficient Data for Evaluatio
+Unknown
+• No
+7. LENGTH OF.OBSERVATION
+not given
+10. BRIEF SUMMARY OF SIGHTING
+Satellite observed at 20 dgrs above
+horizon, climbed rapidly and
+steadily
+toward zenith,
+passing directly
+overhead, continuing toward & drop-
+ping below the eastern horizon bright
+as any star or planet visible. Single
+white point of reflected light.
+9. COURSE
+East
+11. COMMENTS
+Third state of Russian satel-
+lite, Sputnik I.
+ATIC PORM 329 (REV 26 SEP 52)

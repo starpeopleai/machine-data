@@ -1,0 +1,43 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T05:57:17Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4944277, "source_ctime_ns": 1793380336848514367, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28975434/00329.jpg", "source_mtime_ns": 1785700723000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28975434/00329.jpg", "source_sha256": "a5b64cefadd7a23517add9606c1f85f1d14690aab465eb9080eb6979b5e2bd96"}
+
+===== PAGE 1 =====
+{"alpha_words": 239, "chars": 1708, "method": "ocr", "page": 1, "variant": "plain-vision"}
+(G) N/A
+(H) NA
+Inclosure #5: There are several unusual things about this reported
+luwUrOB sighting. First, the equipment was evidently under control of maintenance
+personnel at the time of sighting. This could mean that the radar equipment vas
+not in perfect adjustment, or some sort of target simulator or other special equipment
+was being used in connection with the maintenance operation. (There is no mention
+of this in the report, however.) Also, the report gives no indication of any attempt
+to rotate the antenna to a new bearing to determine whether the signal originated
+inside the equipment. (This question arises since the azinuth of the target was
+reported to be exactly the same throughout the time of interception and, thererore,
+appears to indicate that the antenna was not rotating.) Further, regular operating
+personnel are generally more familiar with the appearance of a particular radar
+scope and could possibly be more reliable observers than maintenance personnel.
+Hence, it is concluded that possibly a false target due to equipment malfunction
+rather than an actual target caused the reported radar paint.
+PAGE TWO RJWPGU SH
+-
+(1) CLIMBED FROM 5,220 FEET TO 25,200 FEET IN TWENTY (20)
+SECOND, TRAVELED 190 MILES IN TWENTY (22) SECOND.
+2. (A) APPEARED ON HRI- FPS-€.
+(B) 5,222 FEET 227 DEGREES AT 80 MILES
+(C) 25,229 FEET 207 DEGREES AT 180 MILES
+(D) STRAIGHT LINE
+(E) FADE FROM HRI
+3.
+(F) TWENTY SECONDS
+(A) GROUND ELECTRONIC HRI (FPS-6
+(B) NIA .
+(C) N/A
+4. (A) TIME AND DATE OF SIGHTINV
+(A) 1022Z 32 NOV 57
+(B) NIGHT
+5. (A) 17 MILES SOUTH OF MINOT N.D• 786TH ACW SO.
+6. (A) NA
+(B) A/2C CHARLES A, WAGNER. 786TH ACW SQ. RADAR MAINTENUNCE FIVE
+(5) MONTH EXPERIENCE.
+7. N/A
+8. NEGATIVE

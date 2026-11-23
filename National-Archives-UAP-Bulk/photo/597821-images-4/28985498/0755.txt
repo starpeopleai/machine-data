@@ -1,0 +1,59 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T05:56:19Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4665334, "source_ctime_ns": 1793382797813470994, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28985498/0755.jpg", "source_mtime_ns": 1785748423000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28985498/0755.jpg", "source_sha256": "77301e1dddfc46924bde5d2e13404e2d6af874ae5213eee8941a290b1e7b4cd2"}
+
+===== PAGE 1 =====
+{"alpha_words": 111, "chars": 874, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+Dec 59
+3. DATE-TIME GROUP
+Locai
+GM T 01/23152
+5.
+PHOTOS
+• Yes
+EL No
+7. LENGTH OF OBSERVATION
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Kalispell,
+Montana
+4. TYPE OF OBSERVATION
+• Ground- Visual
+• Ground-Radar
+D Air Visual
+6.
+SOURCE
+0) Air-Intercept Radar
+Civilian
+8. NUMBER OF OBJECTS
+unknown
+one
+10. BRIEF SUMMARY OF SIGHTING
+Long, dark obj w/white light on nose. Obj
+appeared to go into the ground.
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+CXX Probably Aircraft
+Possibly Aircroft
+Was Astronomical
+Probably Astronomical
+•
+Possibly Astronomical
+Other
+insufficient Data for Evaluation
+Unknown
+| 9. COURSE
+to be the obj observed
+Director
+Actospace Studies In:
+ATTN: Archives Branc
+Maxwell AFB, Alaban
+North
+11. COMMENTS
+Investigator rpting sighting attribute
+refueling operation w/hook¿¿p in effect
+6010
+957
+ATIC FORM 329 (REV 26 SHP 52)

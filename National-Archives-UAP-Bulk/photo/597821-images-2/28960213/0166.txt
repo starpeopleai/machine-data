@@ -1,0 +1,40 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T05:53:02Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3240741, "source_ctime_ns": 1793376332888805825, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28960213/0166.jpg", "source_mtime_ns": 1785696440000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28960213/0166.jpg", "source_sha256": "a6ffcabc8c2955c8ec3c29297d3a8754a1581e6ec9a5cc25da1ba06f0fd793b9"}
+
+===== PAGE 1 =====
+{"alpha_words": 99, "chars": 724, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD
+1. DATE • TIME GROUP
+8 NOV 54
+08/ 2400z
+3. SOURCE
+CIVILIAN
+2. LOCATION
+KNOXVILLE. TENNESSEE
+10. CONCLUSION
+PROBABLY AIRCRAFT
+4. NUMBER OF OBJECTS
+TWO
+5. LENGTH OF OBSERVATION
+FIVE MINUTES
+6. TYPE OF OBSERVATION
+GROUND VISUAL
+7. COURSE
+MANUVERED SSE
+8. PHOTOS
+• Yes
+ElyNo
+9. PHYSICAL EVIDENCE
+• Yes
+• No
+FORM
+FTD SEP 63 0-329 (TDE)
+Previous editions
+f this form may be used.
+11. BRIEF SUMMARY AND ANALYSIS
+Two round, silver objs, appearing to stop and change
+direction. The objs appeared to be the size of a nickel
+at arm's length. Manuvered, changed position in
+relation to each other.
+COMMENIS:
+Investigated by Flight 2-B, the opinion of the investigating
+authority was the sighting was caused by a/c.

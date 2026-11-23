@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T06:05:21Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6991562, "source_ctime_ns": 1793384496394856783, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28990456/0203.jpg", "source_mtime_ns": 1785747937000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28990456/0203.jpg", "source_sha256": "d884a9678f5253cc6a2bf5e7bc49f6e684baef0a455256ecf43886ea7b916f16"}
+
+===== PAGE 1 =====
+{"alpha_words": 71, "chars": 491, "method": "ocr", "page": 1, "variant": "plain-vision"}
+RECEIVED
+11 003
+C2C39D4Y 96650
+MM RJEDSO
+1900 DED 21 04 26
+HES (UFO)
+ZDK
+MM RJWFAL RJEDSO RJEZHO
+030
+010
+DE RJEFUN S
+M 2422352 ZEX
+FM COMDR 3520 PTV REESE AFB TEXAS
+TO RJAFAL/ADC ENT AFE COLO
+RJEDSO/ATIC WPAFE OHIO
+RJEZHO/COFS USAF WASH D C
+BT
+NUNCLAS OA130N.
+UFOB (FOR AFCIN & SAFIS HQ USAF). INITIAL REPORT SUBMITTED BY
+TELEPHONE TO ATIC WPAFE, OHIO, 13 DEC 196 .
+A. BESCRIPTION OF THE OBJECT:
+1. SHAPE: ROUND OBJECT
+2. SIZE OF HALF DOLLAR
+3. BRILLIANT YELLOWISH ORANGE
+4. ONE
+5. NA
+NO NE

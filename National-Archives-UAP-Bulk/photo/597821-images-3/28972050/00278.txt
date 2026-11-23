@@ -1,0 +1,55 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T06:09:18Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8322713, "source_ctime_ns": 1793379351973256475, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28972050/00278.jpg", "source_mtime_ns": 1785700718000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28972050/00278.jpg", "source_sha256": "0e4a6aa87b6b73abc21dc6eb92e28473f3aed99d8c2ea086402e99f955da8df2"}
+
+===== PAGE 1 =====
+{"alpha_words": 103, "chars": 809, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+8 October 1957
+3. DATE-TIME GROUP
+Local
+CM T.
+09/02402
+3. PHOTOS
+• Yes
+• No
+7. LENGTH OF.OBSERVATION
+PROJECT 10073 RECORD CARD
+2. LOCATION
+N
+of Lakehusst, New Jersey
+TYPE OF OBSERVATION
+• Ground-Visual
+XX Air Visual
+• Ground-Roder
+• Air-Intercept Rodor
+SOURCE
+Military
+8. NUMBER OF OBJECTS
+2 seconds
+one
+10. BRIEF SUMMARY OF SIGHTING
+Round object, size of dimeyellow-
+orange. Trail twenty times diameter
+of object. Largest brightest ever s
+seen by observers. Long streak of
+light in sky. Brilliant flash then
+died out.
+9. COURSE
+12.
+CONCLUSIONS
+Was Balloon
+•
+Probably Balloor
+Possibly Balloon
+Postly Nicoli
+ax Was Astronomical Meteor
+Probably Astronomical
+Possibly
+Astronomical
+Other
+•
+Insufficient Date for Evaluatior
+Unknown
+ENE
+11. COMMENTS
+Evidence indicates meteor.
+ATIC FORM 329 (REV 26 SEP 52)

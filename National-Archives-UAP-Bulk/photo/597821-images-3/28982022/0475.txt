@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T06:00:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5804266, "source_ctime_ns": 1793381886408320157, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28982022/0475.jpg", "source_mtime_ns": 1785700773000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28982022/0475.jpg", "source_sha256": "f98b3fedb24cec43f0711a218e42f9018f03285671879f90dde4089de4558876"}
+
+===== PAGE 1 =====
+{"alpha_words": 112, "chars": 869, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT. OF IME_AIR FORCE
+STAFF MESSAGE DIVISION
+INCLASSIFIED MESSAGE
+INCOMING
+PAGE THREE DE RUEDNBA 2373
+F. IDENTIFYING INFORMATION ON OBSERVERS
+I• J
+HEAVY EQUIPMENT OPERATOR, NO AGE,
+RELIABILITY- GOOD
+E-SUPPLY SPECIALIST-AGE 42 RELIABILITY GOOD
+-C&E SUPERVISOR AGE 27 RELIABILITY-GOOD
+AGE 21 RELIABILITY GOOD
+- MORAL & SAFETY SUPERVISOR RELIABILITY GOOD
+- ESKIMO APPRENTICE HEAVY EQUIPMENT OPERATOR A CE 26
+RELIABILITY GOOD
+LABORER AGE 33 RELIABILITY GOOD ( ALL PERSONNEL ARE
+EMPLOYED BY FEC ON THE DEW LINE ADDRESS C/O FEDERAL ELECTRIC CORP
+MONTREAL AIRPORT, CANADA)
+G. WEATHER AND WINDS ALOFT CONDITIONS AI TIME AND DATE OF SIGHTING
+1. CLEAR AND VISIBILITY UNLIMITED
+2. 210 TRUE AT NINE KNOTS - SURFACE
+018 TRUE AT NINE KNOTS 6000
+042 TRUE AT NINE KNOTS 10000
+083 TRUE AT TEN KNOTS 16000
+072 TRUE AT TWELVE KNOTS 20000
+AF IN: 01877 (21 Feb 59)
+Page 3 of 5 Pages

@@ -1,0 +1,75 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T06:11:58Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9681000, "source_ctime_ns": 1793387611875833420, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28998913/0886.jpg", "source_mtime_ns": 1785747901000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28998913/0886.jpg", "source_sha256": "20deb2a510025f6cb33a63b9d235ca362a14979fbd592a39f797e1b12998e417"}
+
+===== PAGE 1 =====
+{"alpha_words": 168, "chars": 1217, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD CARD
+DATE
+20
+LOCATION
+Septem
+3. DATE-TIME GROUP
+Local
+GM T.
+not
+PHOTOS
+1962
+ported
+Kson
+esota
+4. TYPE OF OBSERVATION
+A Ground- Visual
+• Air Visual
+SOURCE
+• Yes
+• No
+7. LENGTH OF OBSERVATION
+vilian
+8. NUMBER OF OBJECTS
+about 30 minutes
+one then three
+1° bject
+BRIEF SUMMARY OF SIGHTING
+in
+Exy at D0,000tt (North of
+Jackson) hovering. Descendine
+to 40,
+000ft & hovered for 5 minutes 23 sec-
+onds. Then it moved to South & came
+down to 30,000ft stopped & remained
+here for 6 minutes. Descended to
+15,000 & hovered for 10 minutes 40
+seconds. Cloud now passed in front of
+object moved & it then rose straight
+out of sighttwo other objects & vent
+sight.
+12.
+CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+• Ground-Rador
+• Air-Intercept Radar
+•
+Was Aircrof
+Probably Aircraft
+Possibly Aircroft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+9. COURSE
+Other
+OX Insufficient Dote for Evaluation
+Unknown
+descending
+11.
+up
+COMMENTS
+No time of sighting reported.
+Object high in North descending
+in uneven motion & then rising.
+Only elevations given as alti-
+tude & not in degrees. Cannot
+position object on information
+in letter. Case insufficient
+data.
+ATIC FORM 329 (REV 26 SEP 52)

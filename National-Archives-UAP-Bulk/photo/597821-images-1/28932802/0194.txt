@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T06:01:28Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5866659, "source_ctime_ns": 1793369785129266349, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28932802/0194.jpg", "source_mtime_ns": 1785689007000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28932802/0194.jpg", "source_sha256": "a1c7a3e522b3a1bd68e7edbfe74bb4c03a40f3ab8bff0edeaf3fb90708bebe7b"}
+
+===== PAGE 1 =====
+{"alpha_words": 137, "chars": 865, "method": "ocr", "page": 1, "variant": "plain-vision"}
+2220
+O polas
+Seet
+Tack Intal gener Did
+2 103+
+1O UAM
+2
+03 22
+U
+RA 13
+DSA13
+INFO
+INFOR.
+MS NN
+A 8: 1
+PLS GIVE UEDC SOME BELLS AND HAVE THE OPR THERE
+LOOK AT THIS MESG SO THAT IT CAN BE HANDLED QUICKLY
+S0-5
+PP
+'UEDC
+FFM JES 1/MAXWELL FLT SVC CNTR MONTGOMERY ALA 020230Z
+TO UEDC/CG AMC WRIGHT PATTERSON AFB OHIO ATTN MCIAXO-3 L
+INFO JEZC/HQ FLT SVC WASH DC ATTN A-2
+AF GRNC
+MFSC 1-1
+UNIDENTIFIED FLYING OBJECT REPORTED 2 MI EAST OF JACKSON MISS
+AT 1700C 1 JAN 1949. WEATHER CLEAR AND VISIBILITY UNRESTRICTED.
+REPORTED BY F
+•AVE. JACKSON MISS TELEPHONE
+51064. ONE OBJECT SIEN APPROXIMATELY 62 FT LONG CIGAR SHAPE
+SHORT WINGS LOOKED LIKE ROCKET DARK BLUE OR BLACK IN COLOR
+TRAVELING AT VERY RIGH SPEED AT 1500 FT ALTITUDE, APPARENTLY
+VERY MANEUVERABLE MADE SOUND LIKE HELICOPTER NO EXHAUST TRAIL.
+READING SOUTHWEST LAST SEEN. OBJECT FIRST SEEN 2 MI EAST OF
+ITAMI DIOT O

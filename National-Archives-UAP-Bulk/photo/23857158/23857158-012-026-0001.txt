@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T05:52:52Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3047482, "source_ctime_ns": 1793360052858947745, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-012-026-0001.tif", "source_mtime_ns": 1785681613000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-012-026-0001.tif", "source_sha256": "5a09145d2ac89867bff8feb345ac21f8f7c2bc59373226eae1abdb538b7ef995"}
+
+===== PAGE 1 =====
+{"alpha_words": 117, "chars": 781, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+4602D AISS UFOB LOG
+REPORT NUMBER
+| AISS-UFOB-17-56
+DATE/TIME OF SICHTING
+01/0208Z Mar 56
+LOCATION OF SICHTING
+Buffalo and Hamburg, New York
+MEANS RECD
+ACTION TAKEN
+TT Mag
+Investigation Authorized
+INVES UNIT
+DATE INVES ASSIGNED
+FIt 3-D
+1 Mar 56
+DATE IR RECD HQ
+| DATE IR APPROVED
+RECD AISOP
+1 Mar 56
+LOGGED BY
+S/Sgt DeRüder
+ASSIGNING OFFICER
+Raj Jones
+¡DATE IR TO ATTO
+DATE FORM 5
+COMMENTS
+Flight 3-D called this headquarters at 0700 hours this date and informed
+this ho of the sighting before we received the preliminary report. Maj
+Jones authorized a follow up investigation and gave permission to It Tebo
+to take an extra man with him on the investigation. Results of inves-
+tigation as indicated below:
+CONCLUSIONS
+AISOP FORM 7 (2 APR 55)

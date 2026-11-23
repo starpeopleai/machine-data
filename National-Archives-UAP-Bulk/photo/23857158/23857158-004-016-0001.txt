@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T06:14:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 13452634, "source_ctime_ns": 1793358667082684601, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-016-0001.tif", "source_mtime_ns": 1785681166000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-016-0001.tif", "source_sha256": "a293f90a4e3224a4b2ba4a1bb13573937f5fea7f931ae278a8086bc7683c740f"}
+
+===== PAGE 1 =====
+{"alpha_words": 77, "chars": 581, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+4602D AISS UFOB LOG
+REPORT NO.
+AISS-U708-417-55
+LOCALION OF STE NG
+Rivereide, California
+MEANS FEED
+TI Mag
+INVES UNIT
+1/A
+DATE IR RECD HỌ
+DATE/TIE OF STETTING
+25/0h1ıZ December 1955
+I RECD HQ 4602D
+27 Dec 55
+LOGGED BY
+S/Sgt Deludder
+ACTION
+% investigation authorized
+DATE INVES ASSIGNED
+N/A
+DATE IR APPROVED
+N/A
+ASSIGNING OFFICER
+11/2
+DATE IR TO ATIC
+N/A
+DATE OF FORM 5
+27 December 1955
+COMMENTS
+Due to the lack of data in the original report, this report 1a
+forwarded 23;
+CONCLUSTONS
+INSUTYICIENT DATA FOR EVALUATTON
+AISOP FORM 7 (2. APR 55)

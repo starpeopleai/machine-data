@@ -1,0 +1,19 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T05:57:59Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5138314, "source_ctime_ns": 1793375068235530894, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28954557/0604.jpg", "source_mtime_ns": 1785696584000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28954557/0604.jpg", "source_sha256": "7affd12fa0ede15e6187c000bace593f95de3712560f605de361bb63234f5197"}
+
+===== PAGE 1 =====
+{"alpha_words": 42, "chars": 295, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+¢ '
++ o ¥
+¥uL XW 1AR Date: 16 jay 43 Q:
+tTh6 po us¢ 2
+23 Min.| Locations. H's Ne
+O34) 3
+REMARKS :
+How could objects travel straight line at 120 won and remain
+visicle 23 minutes?
+Too contradictory.
+Pres ee
+CNICCASSIEIER,
+DO YNCIRADED AT 3 YEAR INT rp
+LECLASSIFIED AFT?R 19 v “RVALS;
+pois vo Lb

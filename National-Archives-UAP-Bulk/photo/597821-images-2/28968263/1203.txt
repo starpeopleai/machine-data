@@ -1,0 +1,70 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T06:04:57Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6877354, "source_ctime_ns": 1793378517373894643, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28968263/1203.jpg", "source_mtime_ns": 1785696615000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28968263/1203.jpg", "source_sha256": "1c3010bc4d9e5065a8cd5a74c075f8e38ea5eabd5dd7851af41ba30327771173"}
+
+===== PAGE 1 =====
+{"alpha_words": 216, "chars": 1551, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DATE
+11-12 Nov 56
+3. DATE-TIME GROUP
+Locai
+CM T
+PHOTCS
+& Y.: Radar Scope
+• No
+7. LENGTH OF OBSERVATION
+Up to 8 hrs
+: depending
+on observer
+10. BRIEF SUMMARY OF SIGHTING
+UFO observed visually and by radar from
+gith of 11 Nov to morning 12 Nov, though not
+simultaneously. Helicopter and a/c directed
+to intercept. Nothing observed in UFO area.
+Blips, which kept suddenly appearing and dis-
+appearing, indicated speeds from 50K to 15,000
+MPH (Mach 25.0)
+Somehow from another radar activity, which
+could confuse even an experienced radar op-
+erator. Results of ATIC anaysis submitted
+o Jan SI by telephone per their TT
+ATIC FORM 329 (REV 26 SEP 52)
+PROJECT 10073 RECORD CARD
+2. LOCATION
+El Toro, California
+o
+4. TYPE OF OBSERVATION
+• Ground- Visual
+* Ground Radar
+• Air Vi suol
+• Air-Intercept Radar
+SOURCE
+• El Toro Marine Station
+(Military)
+12. CONCLUSIONS
+Was Balloon
+Probably Salloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+8. NUMBER OF OBJECTS
+| 9. COURSE
+- 7
+Various directlo.s
+Unknown
+reported
+11. COMMENTS
+Attempt to relate visual sightings with
+radar scope return does not appear
+valid. No visual sighting or inter-
+cept made of the objects seen on scope
+Both helicopter and aircraft attempted
+interception, but although radar woud
+lead them to UFO vicinity those air-.
+craft observed nothing. This report
+18 generally typical of anamolous pro-
+pagation resulting either from an unusu
+al combination of weather and other re-
+lated conditions or interference.

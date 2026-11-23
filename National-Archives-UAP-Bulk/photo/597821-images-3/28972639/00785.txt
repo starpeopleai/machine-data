@@ -1,0 +1,54 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T06:09:28Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8326443, "source_ctime_ns": 1793379561726868487, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28972639/00785.jpg", "source_mtime_ns": 1785701064000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28972639/00785.jpg", "source_sha256": "5bae43b9f9ccb050e82aed09355f1440161ab8aeecef59b0a25f51372a976b7b"}
+
+===== PAGE 1 =====
+{"alpha_words": 77, "chars": 748, "method": "ocr", "page": 1, "variant": "plain-vision"}
+5. Location of Observer.
+a. Intersection of Morgan Street and Duncan Avenue, Village
+of Swansea, approximately fifteen miles southeast of Dast
+St. Louis, Illinois,
+6. Identifying Information of Observer.
+a •
+Mir
+42 years
+Belleville, Illinois
+Supervisory General Engineer
+1405th Installations Group
+Scott Air Force Base, Illinois
+7.
+Weather and Winds-Aloft Conditions.
+2.
+Cloudy.
+b. Air Weather Service report:
+Elevation
+Direction
+Surface
+SSE
+6,000
+240~5e
+10,000
+24000W
+Velocity
+8
+20
+16,000
+260 м
+20,000
+250 м 212
+30,000ł
+250 ~ >"
+40,000
+21:0
+50,000
+260
+C.
+Estinated (8500, broken.
+Seven miles.
+e. Jane tenths HOTEL AlMosT CoMpleTe
+None.
+cverc75T
+8. Other Unusual Activity or Condition.
+a. None.
+9.
+Interception or Identification Action.
+a. None.
+2

@@ -1,0 +1,104 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T05:52:51Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 2440348, "source_ctime_ns": 1793356178388910339, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989306-001-0157.jpg", "source_mtime_ns": 1785564628000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989306-001-0157.jpg", "source_sha256": "c592ed214d523aab11adb161c2674cc5b2db2167f7d5e89d065dbe4b59059176"}
+
+===== PAGE 1 =====
+{"alpha_words": 400, "chars": 2869, "method": "ocr", "page": 1, "variant": "plain-vision"}
+INCH SCALE: Graduated in twentieths of an inch; each
+CONFIDERTAL MODIFIED HANDLING
+ML-331/TM
+integral inch is numbered.
+MODIFIED HANDLING AUTHORIZEERS; Scale
+MILLIBAR SCALE: Graduated in whole millibars;
+ASSOCIATED EQUIPMENT: Barometer MI-331/TM.
+100-millibar intervals have complete numerical desig-
+Barometer ML-332/TM.
+nation, intervening 10-millibar intervals are numbered in
+Barometer ML-333/TM.
+units of 10.
+INCH VERNIER: Permits reading to .002 (2500) in.
+MILLIBAR VERNIER: Permits reading to .05 (½0) mb.
+THERMOMETER: Fahrenheit range
+-30° to + 130°;
+scale graduated in ½° F intervals.
+WEIGHT AND VOLUME
+Total weight (Ib) packed for transportation (Barom-
+eter ML-330/FM must be hand carried)_
+Total volume (cu ft) _
+40
+1. 9
+The metal case is shock-mounted in a hardwood
+case; a padded, canvas carrying case is provided.
+A scale calibration chart, which represents the
+deviation of the instrument from the United
+States Army primary-standard barometers at
+Evans Signal Laboratory, is prepared at the
+laboratory for each individual instrument and
+supplied with it. Mercurial Barometer MI-
+330/FM is used in conjunction with Barometers
+ML-331/TM, ML-332/TM, and ML-333/TM
+Three barometers, one Barometer ML-330/FM,
+and a pair of the aneroid barometers (in any
+combination of ranges), comprise a set of standard
+reference barometers; a set is used in each weather
+squadron headquarters of the Air Weather Service.
+Barometer ML-330/FM is installed permanently
+in the weather squadron headquarters as the
+standard for the region; the pair of ancroid
+barometers is used in the field to check station
+barometers.
+TECHNICAL CHARACTERISTICS
+TYPE: Aneroid; beryllium-copper, corrugated cell with-
+out spring.
+RANGE:
+ML - 331/
+Figure 55.
+Barometer ML-331/TM.
+Status: Standard. Stock No.: 7A316-331 (MIr
+331/TМ), 74316-332 (ML-332/TM), 74316-333
+(ML-333/TM).
+Reference: TM 11-2421.
+Barometers ML-331/TM, ML-332/TM, and
+ML-333/TM are precision aneroid barometers
+identical except for their ranges and the maxi-
+mum elevation at which they can be used. The
+aernoid mechanism, dial, and pointer of cach are
+sealed in a metal case with a plate-glass cover.
+There are provisions for completely sealing this
+case from the outside air and for controlling the
+air pressure within the case when it is sealed
+Model
+Extent of scale (mb)
+Range
+(mb)
+A pprox
+max eleva
+tion at
+which in
+SO LOT
+can be
+used (ft)
+ML-331/TM
+ML-332/TM
+ML-333/TM
+840 to 1,040
+745 to 1,040
+540 to 1,030
+200
+295
+490
+5, 000
+8, 000
+16, 000
+SCALE: Millibar only; graduated in half-millibars; full
+numerical designation every 10 millibars.
+ASSOCIATED EQUIPMENT: Barometer ML-330/FM.
+WEIGHT AND VOLUME
+Total weight (lb) packed for transportation (Ba-
+rometers ML-331/TM, ML-332/TM, and MI-
+333/TM must be hand-carried) _
+Total volume of this equipment (eu ft)
+14
+- 6
+53
+CONFIDENTAL
+00001
+MODIFIED HANDLING AUTHORIZED

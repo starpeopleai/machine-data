@@ -1,0 +1,50 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T06:04:45Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6839517, "source_ctime_ns": 1793380899207213066, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28978763/0448.jpg", "source_mtime_ns": 1785700956000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28978763/0448.jpg", "source_sha256": "22e247e50e7466bf6a901d13838cfb355edb1342e11d41b8b470c9ce1ffa6f66"}
+
+===== PAGE 1 =====
+{"alpha_words": 216, "chars": 1229, "method": "ocr", "page": 1, "variant": "plain-vision"}
+20. Draw a picture that will show the motion that the object or objacts made. Place on "A" at the beginning
+of the path, a "B" at the and of the path, and show any changes in direction during the course.
+21. IF POSSIBLE, try to guess or estimate what the real size of the object was in its longest dimension.
+_foot.
+22, How large did the object or objects appear as compored with one of the following objects. hold in the hand
+and at about arm's longth?
+..
+(Circle Ono):
+Hood of a pin
+Pea
+th
+Dime
+)ers
+Nicket
+heact
+Quartor
+Size smater
+Silver dollar
+Baseball
+than pin lo
+Grapefruit
+Basketball
+k. Other
+Half dollar
+22.1 (Circle One of the following to indicate how certain you are of your answer to Question 22.
+rtain
+Co
+Not vory sure
+Fairly certain
+d. Uncertain
+23. How did the object or objects disappear from view? -
+Disappeared
+behind
+elevation
+tres line cit 1o".
+24. In order that you con give
+construc! the objact that you se
+sor a picturo
+Of what
+would It have? Describe in your own
+same appearance as the objoct which you saw.
+sible of what y
+wo would like for you to imagine that you could
+torial would you make it? How large would it be, and what shape
+on objact or objacts
+which when ploced up in the sky would give the

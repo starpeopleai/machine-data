@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T05:56:42Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4765242, "source_ctime_ns": 1793388017018695088, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28999667/0080.jpg", "source_mtime_ns": 1785748237000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28999667/0080.jpg", "source_sha256": "0c92c6295dc6c6d4140f897164cf2d7841080281faf942c34f8f51e218bb9b6a"}
+
+===== PAGE 1 =====
+{"alpha_words": 130, "chars": 861, "method": "ocr", "page": 1, "variant": "plain-vision"}
+26 ост 1962
+/KEO ONLY (NO CASE)
+SAFOI-3b/Col Lookadoo/kw/75630
+January 22, 1963
+Dear Mr.
+The Office of the Chief of Staff has asked this office
+to reply to your letter concerning flying objects over South
+Dakota.
+Since no date was given for the sighting of 1952, it
+therefore cannot be connected with any iown sightings.
+Als0,
+in view of the length of time since the sighting, no investi-
+gation 18 deemed necessary.
+Any cases from cos redo for the week of octobes 26, 19k hiva
+Also, it is noted that the newapaper articie indicates the
+objects were sighted for two hours, yet moved speedily eastward.
+I trust the inclosures will give you a better understanding
+of this phenomenon.
+Sincerely,
+Inclosures
+WILLIAM J. LOOKADOO
+It. Colonel, USAF
+Public Information Division
+Office of Information
+Cali?.
+SAFOI-3b
+SAFOI-1
+AFCCS
+Comeback
+- Reading
+- m 2 cys w/corres.

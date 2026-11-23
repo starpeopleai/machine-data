@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T06:06:20Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7266984, "source_ctime_ns": 1793364997088898825, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330788129/45484701-007-008-0021.jpg", "source_mtime_ns": 1785685181000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330788129/45484701-007-008-0021.jpg", "source_sha256": "4bbb44ad6b5a877a9e9234feb32dcd7e7c3c829c13966f0d61277fd7d0ec80f9"}
+
+===== PAGE 1 =====
+{"alpha_words": 123, "chars": 947, "method": "ocr", "page": 1, "variant": "plain-vision"}
+HEADQUARTERS UNITED STATES AIR FORCE
+THE INSPECTOR GENERAL
+OFFICE OF SPECIAL INVESTIGATIONS
+District Office No. 23 - Carswell Air Force Base
+Fort Worth, Texas
+23D 24-0-229
+NOV 1957
+SUBJECT: Unidentified Flying Object (UFOB)
+TO:
+Director, Special Investigations
+Headquarters, USAF
+Washington 25, D. C.
+UNCLASSIFIED
+1. Reference letter, this District Office, to the Commander,
+Hensley Field, Grand Prairie, Texas, subject and file as above,
+dated 23 August 1956, copy of which was furnished your Directorate.
+2. Forwarded herewith as an inclosure is a newspaper clipping
+from the Fort Worth Star Telegram, 5 November 1957, concerning
+the object sighted in the sky near Amarillo, Texas in August 1956 by
+J. G. KIRBY of Dallas, Texas.
+G. E Stenking g
+MAJOR, USAF
+for and in the absence of
+JOHN W. FARRELI
+Lt Colonel, USAF
+District Commander
+1 Incl
+Newspaper clipping
+Ft Worth Star Telegram
+5 Nov 57
+UNCLASSIFIED
+Declassification Authority: NND 923007

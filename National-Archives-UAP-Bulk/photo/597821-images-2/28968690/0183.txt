@@ -1,0 +1,43 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T06:00:04Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5626447, "source_ctime_ns": 1793378644266541967, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28968690/0183.jpg", "source_mtime_ns": 1785696488000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28968690/0183.jpg", "source_sha256": "5af3f074dbdb04e15b76032eeb008081d5e7be484a549ac178499908c5cceabe"}
+
+===== PAGE 1 =====
+{"alpha_words": 109, "chars": 760, "method": "ocr", "page": 1, "variant": "plain-vision"}
+MEMO ROUTING SLIP
+NAME OR TITLE
+AFOIN Att:
+ORGANIZATION AND LOCATION
+Col Green Rm 4A-932
+NEVER USE FOR APPROVALS, DISAPPROVALS,
+CONCURRENCES, OR SIMILAR ACTIONS
+INITIALS
+CIRCULATE
+DATE
+COORDINATION
+FILE
+INFORMATION
+NECESSARY
+ACTION
+OTE AN
+SEE ME
+SIGNATURE
+Per our telephone conversation of 3 January,
+attached 1s copy of report of UFO sighting fur-
+nished to the Air Force by Senator Margaret Chase
+Smith.
+Extra copy of report by Mrs.
+1a attached for use in referring to ATIC in
+the event you feel further investigation is war-
+ranted.
+No reply to Mrs
+s necessary un-
+less additional information is needed from her.
+On
+жило Д. ти
+ROBERT D. WILSON,
+iaison Representative
+ORGANIZATION AND LOCATION
+M & O Branch, SAFLL-1
+4 Jan 57
+TELEPHONE
+75641
+10-18187-6 9P0 $

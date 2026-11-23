@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T06:04:14Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6452075, "source_ctime_ns": 1793377840730787920, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28965618/0380.jpg", "source_mtime_ns": 1785696441000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28965618/0380.jpg", "source_sha256": "30ecca4d265158b83980502893bfdcc14890486be1eb727c8cb229abae818c8b"}
+
+===== PAGE 1 =====
+{"alpha_words": 110, "chars": 759, "method": "ocr", "page": 1, "variant": "plain-vision"}
+FIED
+(SECURITY INFORMA
+RIGINA SING ACRO
+FIt 1-D 4502D AISS
+SUPPLEMENT TO AF FORM 112
+REPORT NO
+1D-TFOE-1, PART TWO
+PAGE
+7 ° 10
+PAGES
+Incl #2, PART TWO, Rept 1D-UFOB-1
+SOURCE's Memory Sketch of Object
+WARNING: This document contains information affecting the national defense of the United States
+within the meaning of the
+Espionage Laws, Title 18, U.S. C., Sections 793 and 194.
+Its transmission or the revelation of its contents in any manner to an
+unauthorized person is prohibited by law. It may not be reproduced in whole or in part, by other than United States Air Force
+Agencies, except by permission of the Directes of Intelligence, USAF.
+FORM
+Аг : ост 52 112а
+WHICH MAYBE USLD.2-PART I. I JUN 48
+USED.
+(SECURITY INFORMATION when filled in)
+16-65+70-1

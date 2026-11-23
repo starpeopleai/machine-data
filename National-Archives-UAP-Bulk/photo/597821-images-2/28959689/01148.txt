@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T05:53:52Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3701564, "source_ctime_ns": 1793376203072134855, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28959689/01148.jpg", "source_mtime_ns": 1785696487000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28959689/01148.jpg", "source_sha256": "497c069ab38e4eb5c624a5ad734af2ff3b2201471a1b5132aeb8601fe1a07c64"}
+
+===== PAGE 1 =====
+{"alpha_words": 78, "chars": 584, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD
+• DATE - TIME GROUP
+23 September 1954
+23/14452
+3. SOURCE
+Civilian
+4. NUMBER OF OBJECTS
+2
+S.
+LENGTH OF OBSERVATION
+2 Minut es
+6. TYPE OF OBSERVATION
+Ground visual
+7. COURSE
+2. LOCATION
+Gatlinburg, Tennessee
+10. CONCLUSION
+UNIIDENTIFIED
+BRIEF SUMMARY AND ANALYSIS
+Two bicycle wheel shaped objects, bright silver color, one
+behind the other.
+Attention attracted to objects by reflection.
+Straight flight north to south. Flew over horizon.
+8. PHOTOS
+• Yes
+Ex No
+9. PHYSICAL EVIDENCE
+• Yes
+XX No
+FORM
+FTD SEP 63 0-329 (TDE)
+Previous editions of this form may be used.

@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T06:02:15Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6001234, "source_ctime_ns": 1793370042297289647, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28933620/0965.jpg", "source_mtime_ns": 1785688502000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28933620/0965.jpg", "source_sha256": "5c473ec06ad55ef9a4560cb97f013b1d99586f4d4385b5c7cfe3dc9c1a7aa014"}
+
+===== PAGE 1 =====
+{"alpha_words": 39, "chars": 249, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+a
+
+— oe ee
+
+enn one aus
+4 ,
+‘
+nee on
+; 4° } - J t
+i
+a
+he | 1 my ii
+. ~+= - a Ta |
+. U ‘ ' car ee }
+- i) a ae aban iy \} OP Dae ae MAtse ta S/ :
+—_— oe oo ‘. sf
+os oem
+wee as ak , a
+ad ‘ ‘ ‘
+So ‘ t it } /
+ee ee ae ee 4 Led a
+1 ‘ ‘ —_ ~
+‘
+
+yoa®
+
+ORE

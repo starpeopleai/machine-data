@@ -1,0 +1,47 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T05:52:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 2307873, "source_ctime_ns": 1793356020515550468, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989298-001-0154.jpg", "source_mtime_ns": 1785564584000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989298-001-0154.jpg", "source_sha256": "b68be418ed4b54b6f22af70dd88001a9a38de7d214f3a40997f874a667f58628"}
+
+===== PAGE 1 =====
+{"alpha_words": 503, "chars": 3506, "method": "ocr", "page": 1, "variant": "plain-vision"}
+determined to be sound, questions concerning cost, security, and practicality were
+discussed that ultimately led to the disbandment of the project, and Project MoGUL as
+first conceived was never put into operational use. However, MoGUL did serve as the
+foundation for a comprehensive program in geophysical research from which the USAF
+and the scientific community have benefited to the present time. These benefits included
+constant-level balloon technology, first developed by NYU for Project MOGUL.
+WATSON LABORATORIES
+The organizational structure of Watson Laboratories Applied Propagation Subdivision,
+which was established primarily for MOGUL, as it appeared in January 1947, is shown
+in Attachment 2. Over the course of the project, MOGUL had three military project
+officers, or "chiefs": Maj Robert T. Crane, spring 1946-July 1946; Col Marcellus Duffy,
+August 1946-January, 1947; and Capt Albert C. Trakowski, January 1947-May 1949.
+Major Crane had been personally recommended by Dr. Ewing, originator of the project,
+but by June of 1947, MOGUL had not met the expectations of HQ USAAF, and Colonel
+Duffy replaced Major Crane.® Colonel Duffy was a respected, highly capable career
+Army Air Forces officer. During World War II, Colonel Duffy had reported directly to
+General Hap Arnold, Chief of Staff USAAF, as the Army Air Forces Liaison Officer to
+the US Army Signal Corps, with primary duties for securing meteorological equipment
+from the Army for use by the USAAF. Colonel Duffy had a reputation for accomplishing
+difficult assignments by getting the most out of his personnel-exactly what was desired
+by HQ USAAF to solve the numerous administrative and personnel problems that had
+arisen in Project MOGUL under Major Crane. In a short period, Colonel Duffy was able
+to make the necessary corrections and was reassigned to become the Assistant Chief,
+Electronics Plans Section, Electronics Subdivision, HQ AMC, at Wright Field, OH.
+Colonel Duffy also continued to monitor "the upper air research program" (i.e., Project
+MOGUL) in addition to his duties as the Assistant Chief of the Electronics Plans Section.?
+The primary scientist for MOGUL was Dr. James Peoples, assisted by Albert P. Crary, the
+Field Operations Director. Both scientists had previous associations with Dr. Ewing: Dr.
+Peoples at Columbia, and A.P. Crary at Woods Hole. Both scientists were assigned to
+MOGUL for the entire length of the project.
+NEW YORK UNIVERSITY "BALLOON GROUP"
+From September 30, 1946, until December 31, 1950, the Research Division of the College
+of Engineering of NYU conducted research under contract for the Army Air Forces, in
+conjunction with Project MOGUL.' The NYU "balloon group" was to develop and fly
+constant-level balloons while simultaneously developing telemetering equipment to
+transmit data obtained in the upper atmosphere.' Group members launched, tracked,
+8. Memo, Brig Gen Tom C. Rives, Chief, Electronic Subdivision, Engineering Division, AMC, to Maj
+Gen Curtis LeMay, subj: Relief of Major Crane as Project Officer MOGUL and TORRID, Jun 18, 1946.
+9. Memo, Maj Gen Curtis E. LeMay, Deputy Chief of Air Staff for Research and Development, to Maj
+Gen L.C. Craigie, Chief Engineering Division, AMC, Apr 16, 1947.
+10. Research Division, College of Engineering, NYU, Technical Report No. 93.03, Constant Level Balloons,
+Final Report, Mar 1, 1951 (hereafter NYU, Final Report), p. 3.
+11. Research Division, College of Engineering, NYU, Technical Report 93-02, Constant Level Balloons,

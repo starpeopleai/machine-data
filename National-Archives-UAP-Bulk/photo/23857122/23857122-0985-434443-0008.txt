@@ -1,0 +1,41 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T06:15:52Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 22324704, "source_ctime_ns": 1793356833145452763, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-0985-434443-0008.tif", "source_mtime_ns": 1785564770000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-0985-434443-0008.tif", "source_sha256": "8ee92dc3d683ff3114634c98b568e2168344dce314eb67d0dbb39b1e972598f9"}
+
+===== PAGE 1 =====
+{"alpha_words": 247, "chars": 1548, "method": "ocr", "page": 1, "variant": "plain-vision"}
+3 April 1952
+At approximately 2030-2045 hours, 2 April 1952 I observed a lighted
+object flashing across the sky from South to North. At the time I first
+observed it I was standing on the ramp at Temple Airport talking to It. Col
+Ralph L. Fewman and drew his attention to the objoct.
+The object closely resembled a notoor (or falling star) leaving a trail
+of fire except that it's notion appeared slower than a neteor and
+horizontal to the carthe surface. Also, 16 appeared to travel out
+of sight rether than burn out.
+Its path ws from South to North passing
+to the Weet of lemple. It's altitude connot be approximated and, therefore,
+neither can it's apeed.
+It did, howover, disappear behind a nedium
+altitude layer of cleud for a few secónds.
+AF434443
+/S/ Stanley W. Irons
+It Col, USA?
+972.74
+185%h T R S
+8 April 52
+Mun Airport
+Temple, Texas
+I was in the Radar compartment of RB 26 - 271 at approx, 2045 2 April
+52 and saw the object inquestion. We were in the traffic pattern at Temple
+Air Base at the time. The object passed behind us and the last time I
+saw it, it was passing the lights of Wace. All I could see of the object
+was the fire or exhaust coming from it, this fire appeared red to me.
+The object appeared to be traveling in a flat trajectory at not too
+great an altitude. I would say its speed was well over 500 MPH. I
+would estinate the object passed directly over some point between Temple
+and Worth Fort Hood on a heading of about 050°.
+/s/ Cavel L. Humme
+2/Lt, ESAP
+AO 1911758
+AF431143
+lis
+Declassification Authority: NND 57565

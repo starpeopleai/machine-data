@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T06:07:52Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7745859, "source_ctime_ns": 1793384475399590297, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28990415/0165.jpg", "source_mtime_ns": 1785748335000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28990415/0165.jpg", "source_sha256": "6efdc23239f41d5ced2a23ac3d2b6f3762b129ff168952423a1bdf3f0bece951"}
+
+===== PAGE 1 =====
+{"alpha_words": 98, "chars": 713, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AIR FORCE
+WASHINGTON
+OFFICE OF THE SECRETARY
+27 February 1961
+Dear Irs
+This will ackmowledge receipt of your letter dated 1 February
+1951, but postmerked 22 February 1961, concerning the sighting by
+you and your husband of an unidentified flying object on 10 December
+1900.
+Your letter contained insufficient information for a velia
+conclusion.
+Therctore, we ask that you fill out the atteened Air
+Force Questionneire in detail and when completed that you forward
+it to the Commander, Aerospace Technical Intelligence Center
+Wright-Petterson Air Force Base, Ohio for their analysis and/or
+eve luation.
+Lincerely,
+Inclosure
+Заносов
+Captain, USAF
+Public Information Division
+Office of Informetion

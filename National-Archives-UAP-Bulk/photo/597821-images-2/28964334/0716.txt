@@ -1,0 +1,49 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T05:54:37Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4053748, "source_ctime_ns": 1793377565234116937, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28964334/0716.jpg", "source_mtime_ns": 1785696601000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28964334/0716.jpg", "source_sha256": "5f64494b19a70af670749c1d80a72f37a5b406acce7cbdd7489a8a4e0b27f0c2"}
+
+===== PAGE 1 =====
+{"alpha_words": 95, "chars": 762, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+11 Dec 55
+3. DATE-TIME GROUP
+Local.
+S.
+GM T
+12/0350X
+PHOTOS
+• Yes
+A No
+7. LENGTH OF.OBSERVATION
+over l hr still in sight
+I0. BRIEF SUMMARY OF SIGHTING
+Shining obj with flashing green, yellow and
+white lights. Obj stat for 10-15 min,
+then slow vanished to the East.
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Camp Pompino, Calif
+4. TYPE OF OBSERVATION
+10 Ground- Visual
+• Ground-Rodar
+• Air Visual
+6. SOURCE
+• Air-Intercept Radar
+civilian
+8. NUMBER OF OBJECTS
+9. COURSE
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+D
+Was Aircraft
+Probably Aircraft
+Possibly Aircroft
+Was AstronomicaBetelgeux
+Probably Astronomical
+Possibly Astronomical
+Other.
+Insufficient Dato for Evaluation
+Unknown
+11. COMMENTS
+ASTR (Betelgeux)
+ATIC FORM 329 (REV 26 SEP 52)

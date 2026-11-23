@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T05:55:39Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4365181, "source_ctime_ns": 1793371367123923985, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28937924/0677.jpg", "source_mtime_ns": 1785688657000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28937924/0677.jpg", "source_sha256": "b9e2f96acd3d96c42db3304a5c0d8f670ac4e2141d475de357255aed21070a01"}
+
+===== PAGE 1 =====
+{"alpha_words": 40, "chars": 301, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DAV
+0605 2
+Circular
+30' Dia
+eter, 2
+thick
+NO. IN O
+BEATCINS
+Temporary ATIc For de
+(. Jan 52)
+• 21/0607 •
+No 1IH0 27 June sąś
+Misawa
+AFBO Japan
+AF Officer
+TO ATIC
+- D
+Highly polished silver
+50-225 mph
+7,0001
+TIE GE
+20 Jeconds
+THE CAFF VATTE_ Ground
+Rose almost vertically about
+1000'
+OTHER (REFECTION)

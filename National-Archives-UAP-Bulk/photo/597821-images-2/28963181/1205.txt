@@ -1,0 +1,21 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T06:04:20Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6552629, "source_ctime_ns": 1793377294036389582, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28963181/1205.jpg", "source_mtime_ns": 1785696559000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28963181/1205.jpg", "source_sha256": "5e6dc4ace3eb13131b0981f512c83a148a842571b067123faeb97c8567c18e64"}
+
+===== PAGE 1 =====
+{"alpha_words": 57, "chars": 389, "method": "ocr", "page": 1, "variant": "plain-vision"}
+/ Wituers
+A09 1955 15ŚŘŚł
+43 -
+16 353 10 54
+STION
+24
+TOIN- HE4
+4x20
+TPA149 THA104 VVC-29XTT CAR SDIXA- 2.
+RJEDEI AJEDKY REIT NJEPHO
+NJEDL G 2E
+161442źęîŚ
+COMDA 73STH ACWRON MADENA AFSTA NADINE MIN
+TO RJEDE /COMDR HO ADC ENT AFE COLO SPES COLO
+JEDKF/COHDR HO CADF GRANDVIEN AFD CRANDVIEW MO
+JEDIP/COMDR AIR TECH INTELL CHTR MRIGHI PATTERSON AFE OHIO
+JEPHQ/DIRECTOR OF INTELL HO USAF VASHDC

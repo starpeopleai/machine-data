@@ -1,0 +1,47 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T06:07:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7621259, "source_ctime_ns": 1793387098101374346, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28998158/0216.jpg", "source_mtime_ns": 1785748274000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28998158/0216.jpg", "source_sha256": "651f2bb61da90f5b0bce2805789f8add1c6440e6cc6fea19b837ef46f2e65c94"}
+
+===== PAGE 1 =====
+{"alpha_words": 104, "chars": 780, "method": "ocr", "page": 1, "variant": "plain-vision"}
+9889
+27
+TE '
+EPHONED
+CZCSQB592ZCAYA791
+PP RJEDSQ
+DE RUETDH 255 -
+ZNR
+? 172: 12
+EM 57AIRDIV WESTOVER AFB MASS
+TO RJUFAL/ADC ENT AFB COLO
+RUEASN/26AIRDIV HANCOCK FLD NY
+RUEDSQ/ATIC WPAFB
+RUEAHQ/ CSAF
+RUZAHQ/CSAF
+3 XIA
+UNCLAS 99DCO1 SHES. CERA; FOR CAFCIN).
+CSAP,
+(CAPCI. REFERENCE AFR 2 2-2, PARA 15.
+TRIE
+CONSISTS OF TWELVE (12) PARTE. PART OI
+2 OR
+ESSAGE
+LIKE STAR.
+(CO STAR SIZZD. (E) WHITE. (4) CHE. (5)
+(S) NONE.
+(7) NONE. (C) NONE. (S) DEJECT FLASH
+mOv
+D. PART TWO. B.
+(1) LIGHT BLINKING. (2) 40 DEGREES CLEV
+178
+DEGREE AZ. (3) 40 DEGREE
+ELEV 358 DEGREE AZ. (4) STRAIGHT PATH.
+(5) DISAPPEARED IN HAZE.
+(S) YOUR SECONDS. PART THREE. C. (1) GROUND
+VISUAL. (2)
+HOLE. (E) N/A. PART FOUR. D. (1) S133Z
+13 JULY.
+(2) EIGHT.
+PART FIVE.
+2. CORNER PENDLETON AVE AND
+MCK.
+IE ROAD, WEST-

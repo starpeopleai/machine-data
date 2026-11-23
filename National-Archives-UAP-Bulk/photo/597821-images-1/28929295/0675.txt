@@ -1,0 +1,17 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T05:57:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4900865, "source_ctime_ns": 1793368719240339922, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28929295/0675.jpg", "source_mtime_ns": 1785688657000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28929295/0675.jpg", "source_sha256": "2c0c905dca2e963fe392b4ee504dc0c3dbac8beb3c4c42d46b94a10daec394e7"}
+
+===== PAGE 1 =====
+{"alpha_words": 87, "chars": 600, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Incident r23 -- Boise, Idano
+- 30 June 1947
+It seens exceedindy probaile that the cuject observed
+in tris incident was a combination sm-cloud effect. The altitude
+of the sun was 300, azimuth 2300. At that tine of the afternoon,
+the sun's position was sach that it could easily have 1llminated
+a background cloud which was perhaps almost entirely covered by a
+foreground cloud. (fcise weathor reports indicate an entirely
+clear s<p,
+out the report of the incident itself states that the
+ofect "seened to be clin;in; to a huge cloud.") This investigator
+himself has oiserved such effects.
+7 - 57/2 - /

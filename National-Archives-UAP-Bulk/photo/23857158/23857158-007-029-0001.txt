@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T05:54:19Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3993036, "source_ctime_ns": 1793359289673797542, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-007-029-0001.tif", "source_mtime_ns": 1785681368000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-007-029-0001.tif", "source_sha256": "e9729609847f6b2e211192c45a51f1db1cd84860f97436b055c617a00f288861"}
+
+===== PAGE 1 =====
+{"alpha_words": 75, "chars": 566, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+4602D AISS UFOB LOG
+REPORT. NO.
+AISS 0708-344-55
+LOCATION OF STUFTING
+DATE/LINE OF SIGHTING
+03/17152 Cot 55
+I RECD HQ 4602D
+4 Oct 55
+LOCCRD BY
+S/Sgt DeRudder
+Oxford, Pennsylvania
+MEANS RESU
+ACTION
+TT Mag
+INVES UNIT
+Flight 3-i
+DATE IR RECD HQ
+Investigation authorized
+DATE INVES ASSIGNED
+4 Oct 55
+DATE IR APPROVED
+ASSIGNING OFFICER
+Maj Thrasher
+DATE IR TO ATIC
+DATE OF FORM 5
+4 Oct 55
+COMMENTS
+Sighting beinginvestigated by Flight 3-H, 4602d AISS. Results of
+investigation as indicated below.
+CONCLUSTONS
+AISOP FORM 7 (2 APR 55)

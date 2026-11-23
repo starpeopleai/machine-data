@@ -1,0 +1,21 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T06:15:19Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 15468178, "source_ctime_ns": 1793360956573986579, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-003-0268.tif", "source_mtime_ns": 1785565160000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-003-0268.tif", "source_sha256": "778dff6362ca839bc78b720a56836c2b03a096b190c4be49f862c74f3a0fafff"}
+
+===== PAGE 1 =====
+{"alpha_words": 23, "chars": 218, "method": "ocr", "page": 1, "variant": "clean-vision"}
+TrOUSI
+uL besis
+mal-
+LL X
+ne sefét, brag
+вно мили ПТ КІ
+кр н раст літ вола 30? по
+каві момесі по
+D tav alt
+atat nel co st s
+ате Ліню в
+aveane pend
+552nd A WC 110
+POZICE
+No.. 7 4/6:10
+DECLASSIFIED
+Authority NND 9237007

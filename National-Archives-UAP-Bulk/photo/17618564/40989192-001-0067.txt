@@ -1,0 +1,57 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T06:00:38Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5771625, "source_ctime_ns": 1793354312184340767, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989192-001-0067.jpg", "source_mtime_ns": 1785564263000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989192-001-0067.jpg", "source_sha256": "f9978009059c5265ba809801cd0f65ebb0c169f531a5a8b867b272083a890515"}
+
+===== PAGE 1 =====
+{"alpha_words": 339, "chars": 2399, "method": "ocr", "page": 1, "variant": "plain-vision"}
+.. ...
+to the White House.
+Cataloquet
+INANNEL
+Collec/ion.
+H-3
+XEROX 205
+.20
+DEPARTMENT OF STATE
+WASHINGTON
+MOMORANDUM FOR THE PRESIDENT
+Subject: IF Bilateral Agreements
+Under the Economic Cooperation Act of 1948, the responsibility for
+negcticting bilateral agreements with the participating countries rests
+upon the Secretary of State in consultation with the Administrutor. At
+the present time the negotiation of the agreenents has been virtually con-
+pleted except for a deadlock with the U.K. concerning the establishment of
+most-favored-nation treatment for Japan in a note shich rould accompany the
+bilateral agreement.
+The Department of the Army has consistently stressed the importance
+of obtaining most-favored-nation trcutment for the occupied areas for nony
+months.
+The Department of State endeavored to obtain its inclusion in the
+General Agrecment on Tariffs and Trade negotinted at Geneva but sas unsuc-
+cessful.
+It has stood firmly for such provision in the presont negotiution.
+All countries have agreed to the extension of most-favored-nation treatment
+to Gemary, but the British, supported chiefly by the French and Chinese,
+have been adamant concerning Japan. They base their case primarily upon
+& fir Commonwealth Commitment, stating that their steps torords festor
+Union require them to be particulerly careful of their commitments to the
+Dominions.
+Ambassador Douglas, after a prolonged conference with Bevin and Cripps,
+has advised strongly that the point should not be pressed further by the
+United States.
+There is nothing in the record concerning the ECA before Congress re-
+garding this matter.
+Horevor, Secretary Royall feels he has a cormitment
+to certain committeor of Congress arising from testimony concorning occupied
+areas.
+Mr. Hoffman feels strongly that the economic recovery progran should
+not be jeopardized by insistence in comection with a Far Easter problen. O
+It is recommended that the State Departuent in its negotintions on
+tho bilaterals should: (1) include provisions for most-favored-nation
+treatnent for Germany; (2) include, with as many countries as will do so,
+provisions for most-favored-nation treatment for Japan; and (3) with
+respect to the United Kingdom, obtain their agreement to negotiate promptly
+apart from the bilateral on this matter
+840.50 RECOVERY 6-2648
+L. 221221
+6-247
+June 26, 1946
+This document is part of an unclassified series

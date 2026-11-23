@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T06:15:01Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 14636928, "source_ctime_ns": 1793361516251665841, "source_file": "National-Archives-UAP-Bulk/photo/333334717/23129262-0425-004-0001.tif", "source_mtime_ns": 1785565371000000000, "source_rel": "National-Archives-UAP-Bulk/photo/333334717/23129262-0425-004-0001.tif", "source_sha256": "11d53860f0d4c1e198a73440f968e06e573afe822d31ba76779bee61ebf585f1"}
+
+===== PAGE 1 =====
+{"alpha_words": 59, "chars": 422, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DECLASSIFIED Authority NW 45006
+HEADQUARTERS
+CONTINENTAL AIR COMMAND
+CENTRAL FILES BRANCH
+AIR ADJUTANT GENERAL
+FILE NUMBER
+471.6
+SUBJECT
+VOLUME NUMBER
+1
+Guided Missiles
+FROM
+TO
+1 July 1952
+1. Papers will not be extracted from or inserted in
+this file.
+2. This file will be returned to the Central Files Branch within 48 hours.
+3. Do not return this file through distribution channels.
+L- 51.752
+FORM
+HQ CONAC, FEC 51 0-70

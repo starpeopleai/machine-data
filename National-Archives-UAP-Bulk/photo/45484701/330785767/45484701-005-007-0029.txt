@@ -1,0 +1,23 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T06:07:41Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7742243, "source_ctime_ns": 1793363640650645904, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785767/45484701-005-007-0029.jpg", "source_mtime_ns": 1785684980000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785767/45484701-005-007-0029.jpg", "source_sha256": "a9525abb4b330dc847223339788377bfc4e16767f76748edc2ba732679158587"}
+
+===== PAGE 1 =====
+{"alpha_words": 48, "chars": 352, "method": "ocr", "page": 1, "variant": "plain-vision"}
+RE
+3. The preceeding is submitted for your information and no action is
+contemplated by this Office.
+for and in the absence
+of District Commander
+Magas, OSAr
+JOE D. DENSON
+USAF
+District Commander
+cc: Chief, ATIC,
+W-P AFB, Ohio
+24-185-17-11
+UNITE
+TATES AIR FORCE
+PECTOR GENERAL
+JUN 16 1 5 3 6'53
+SPEÇI
+12D 24-0-87
+Declassification Authority: NND 923007

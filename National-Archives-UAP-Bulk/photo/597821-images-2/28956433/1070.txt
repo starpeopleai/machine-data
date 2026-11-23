@@ -1,0 +1,63 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T05:55:54Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4436813, "source_ctime_ns": 1793375476011931745, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28956433/1070.jpg", "source_mtime_ns": 1785696629000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28956433/1070.jpg", "source_sha256": "070f413fd55e14b4269fe89711ab8daed1f0f59bf5417fd89879616512290a84"}
+
+===== PAGE 1 =====
+{"alpha_words": 171, "chars": 1066, "method": "ocr", "page": 1, "variant": "plain-vision"}
+ORCE UFO FORM
+8. IF you saw the object at NIGHT, what did you notice concerning the STARS and MOON?
+8.1 STARS (Circie One)e
+8.2 MOON (Circle One):
+a. None
+. A few
+a. Bright moonlight
+b. Dull moonlight
+. No moonlight-pitch dark
+Don't remember
+Don't remember
+9. What were the weather conditions at the time you saw the object?
+CLOUDS (Circle One):
+WEATHER (Circle One):
+So Clear sky
+b. Hazy
+:. Scattered claud:
+J. Thick or heavy cloud
+Fog, mist, or light rain
+c. Moderate or heavy rain
+d. Snow
+e. Don't remember
+10. The object opper
+ared: (Circle One):
+*a. Solid is
+- b. Trou
+Le. Yopo
+11. If it appeared as a light,
+As a light
+•Don't re
+it brighter thon the brightest stors? (Circle One):
+LiKE SNOW
+13. Did the objoch
+a. Appear to stand still at any time?
+b.
+Suddenly speed up and rush away at any time?
+C.
+Break
+d.
+up into parts or expiode?
+Give off smoke?
+Change brigh
+Change shape?
+Flash or flicker?
+Disappear and reappear?
+Yes
+Yes
+Yes
+Yes
+(Circle One for each question)
+Don't know
+33362
+Don't know
+Don't know
+Don't know
+Don't know
+Don't know
+Don't know
+Don't knew

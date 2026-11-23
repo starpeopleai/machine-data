@@ -1,0 +1,59 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T06:15:04Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 15096294, "source_ctime_ns": 1793359616600962773, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-009-035-0001.tif", "source_mtime_ns": 1785681471000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-009-035-0001.tif", "source_sha256": "b2d96a960db021830c506e6bcdf042586c4d1b978ca393f46bab5a6dd0885ca9"}
+
+===== PAGE 1 =====
+{"alpha_words": 136, "chars": 965, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+O2S
+260940₴ HUG 56
+Paus
+CM IN PLS CM IN PLS CAN U READ ME Ø) PLS
+B
+GO AHEAD I AM STANDING BY
+EN00030 ENA044 YDDØ02 TYB040 TMA046
+JRAØ 12R
+00 RJEDEN RJEPNY RJEDWP RJEPHQ
+DE RJEPJR 1H
+0 268435Z
+FM COMDR 773RD ACWRON MONTAUK NY
+. TO RJEDEN/COMDR ADC ENT AFB COLORADO SPRINGS COL
+INFO RJEPNY/COMDR 26TH AIR DIV DEF ROSLYN NY
+RJEDWP/COMDR AIR TECH INTEL LRIGHT PAT AFB OHIO
+RJEPHQ/DIR OF INTEL HQ USAF WASHINGTON 25 DC
+ST
+UNCLASSIFIED/ ACK 1030. UFOB REPORT.
+1.A. ROUND 2.A. A WHITE LIGHT 3.A. GROUND VISUAL-
+8. QUARTER B. NORTH
+B. NONE
+C. WHITE
+D. ONE
+C. STILL THERE Ø818Z C. NONE
+D. RISING SLOWLY
+E. NONE
+E. STILL THERE
+F. NONE
+F. STILL THERE
+G. NONE
+I. MUCH BRIGHTER AT TIMES
+7. A. CLEAR
+8. NONE
+9• NONE
+B. N/A
+C. NONE
+D. 15
+11. NONE
+BT
+26/0440Z AUG RJEPJR
+4602D AISS UFOB REPT. 3 04...
+ENT ONE ST HAVEN, COMM.
+164
+sest 732
+B. NIGHT
+6.
+46
+WEST HAVEN CONN
+AGE 28 SALES ENG.
+10. NONE
+PROB ASTRO
+12. NONE
+CHANgINg
+defending on aji.

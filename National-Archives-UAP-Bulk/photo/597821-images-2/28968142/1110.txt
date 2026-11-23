@@ -1,0 +1,55 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T06:02:43Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6078897, "source_ctime_ns": 1793378486296740320, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28968142/1110.jpg", "source_mtime_ns": 1785696785000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28968142/1110.jpg", "source_sha256": "a639f5e308cc3cbbb57d6525a5cc06e54e5779e0deee3492b9a59ad0d722bb3f"}
+
+===== PAGE 1 =====
+{"alpha_words": 124, "chars": 929, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+1 November 1956
+3. DATE-TIME GROUP
+Locol
+GM T
+01/2330Z
+S. PHOTOS
+• Yes
+7. LENGTH OF.OBSERVATION
+2 minutes
+one
+10. BRIEF SUMMARY OF SIGHTING
+One object, a round light, size of F-94
+A/B light, color very light yellow.
+No sound heard, Estimated speed of more
+1200 knots. WX CAVU winds at 35,000
+ft fm. 290 dgr at 75 knots.
+PROJECT 10073 RECORD CARD
+2. LOCATION
+60 Miles E of St Louis, Mo.
+TYPE OF OBSERVATION
+• Ground-Visual
+it Air Visual
+• Ground-Roder
+• Air-Intercept Radar
+6. SOURCE
+1132
+. NUMBER OF OBJECT!
+000
+CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Bolloon
+Aircraft
+Probably Aireraft
+Possibly Aircraft
+Was Astronomicol
+Probably Astronomical
+Possibly Astronomical
+On suit len Dee To Folion
+Insufficient
+Ax Unknown
+9. COURSE
+neading ol
+280 021
+11. COMMENTS
+In view of the reliability of the
+observers, this sighting will be
+than// an unknown until further
+data becomes available.
+ATIC FORM 329 (RKY 26 SEP 52)

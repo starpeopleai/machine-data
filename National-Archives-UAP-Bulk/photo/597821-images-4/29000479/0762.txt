@@ -1,0 +1,82 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T05:55:46Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4401442, "source_ctime_ns": 1793388220734993329, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/29000479/0762.jpg", "source_mtime_ns": 1785747876000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/29000479/0762.jpg", "source_sha256": "f75dc03054c6e6afa045d59d62f0cd8c88ca9eea345e5cab59efd909680c0e42"}
+
+===== PAGE 1 =====
+{"alpha_words": 305, "chars": 2156, "method": "ocr", "page": 1, "variant": "plain-vision"}
+THE PATH OF THE MARCH BOLIDE
+(Continued from page 263)
+and azimuth of the meteor's radiant in
+the sky are obtained. Knowing the sidereal
+time of the event, we then compute the
+coordinates of the radiant, in this case
+near Upsilon Andromedae.
+The table
+gives the orbital elements of the meteor
+as a member of the solar system before
+it struck the carah.
+The elements show that the fireball
+overtook the carth and moved in a plane
+inclined only 13°3 to the ecliptic.
+This
+is low enough to indicate that the meteor
+belonged to the group that is beheved
+to come from the asteroid zone. Its peri-
+helion point, as is almost always the case,
+lies inside our orbit.
+The velocity given
+is the vector sum of the meteor's helio.
+centric velocity and that of the earth -
+in other words. is speed relative to our
+atmosphere.
+It is probable that another bright me-
+tor appeared at nearly the same time as
+this freball. Its motion was toward the
+wtheast. but the few reports received
+here do not permit an analysis of its path
+to be made.
+I am indebted to the scores of observers
+who supplied the detailed observations
+needed for this study. The Washi
+Star, Franklin Institute, and Smiths
+Institution played essential re'es i
+gathering of reports.
+Date
+Sidereal time at end point E
+First determined point. B
+Point of main explosion, X
+Last determined point, E
+Projected length of path. B.E:
+Length of actual path, BE
+Duration of visible meteor
+Observed velocity
+Radiant uncorrected
+Curvature correction
+Zenith correction, parabolic
+Radiant corrected
+Equatorial coordinates
+Ecliptic coordinates
+Orbital elements:
+Inclination to the ecliptic
+Longitude of ascending node
+Lonitude of perinelion
+Perihelion distance
+AMERICAN METEOR SOCIETY FIREBALL. NO. 2376
+1963 March 26.13
+155.8 (10" 23i)
+Long. - 77° 39', lat. + 40 23', height 85 :
+Long. + 75° 58', lat. - 38° 24, height 55 1
+Long. + 75 02. lat. - 37° 21', height 37 ;
+405 km.
+408 km.
+9 seconds (very uncertain
+45 kilometers per second (very uncertain
+Altitude (h) 6
+44, azimuth 147
+- 1 50°
+-8 32'
+Altitude (h) 0° 02', azimuth 147°
+R. A. 22° 8, dec. - 41°.8
+Long. 37 7. lat. - 29 8
+13.5
++ .5
+145.8
+0.89 astronomical unit

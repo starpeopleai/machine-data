@@ -1,0 +1,55 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T05:55:32Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4360903, "source_ctime_ns": 1793386216422416433, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28995248/0487.jpg", "source_mtime_ns": 1785748586000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28995248/0487.jpg", "source_sha256": "346a6f19f06ca5cd709aae1ba8d8e37702326020646a532c71edd84942dbb184"}
+
+===== PAGE 1 =====
+{"alpha_words": 137, "chars": 1050, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD CARD
+1. DATE
+2. LOCATION
+19-20 Oct 61
+3. DATE-TIME GROUP
+Local
+ight
+GMT.
+5. PHOTOS
+Grand Cayman Island, West Indies
+4. TYPE OF OBSERVATION
+xE Ground-Visual
+• Air Visual
+• Ground-Roder
+• Air-Intercept Radar
+6. SOURCE
+• Yes
+20 No
+7. LENGTH OF OBSERVATION
+Civilian
+8. NUMBER OF OBJECTS
+9. COURSE
+2. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Wos Aircraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical
+•
+Probably Astronomical
+Possibly Astronomical
+Other.
+Insufficient Data for Evaluation
+Unk no wn
+Erratic
+Not given
+10. BRIEF sUMMARY oF SIGHTINGElliptical objt bright-
+11. COMMENTS Weather stormy. Leads to con-
+er than Venus, oval in shape with small lights
+clusion of possible balloon obsavation
+moving
+ise around objt. Moved erratically however witnesses were meteorological
+anc changed directions.
+technicians who should have knowledge of
+upper air balloon observations. Request
+for additional info not fulfilled due to
+location of observers. Case listed as
+insufficient data.
+ATIC FORM 329 (REV 26 BEP 52)

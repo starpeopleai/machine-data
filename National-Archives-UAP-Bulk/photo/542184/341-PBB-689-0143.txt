@@ -1,0 +1,9 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T06:14:15Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 11149024, "source_ctime_ns": 1793366730929144261, "source_file": "National-Archives-UAP-Bulk/photo/542184/341-PBB-689-0143.jpg", "source_mtime_ns": 1785565583000000000, "source_rel": "National-Archives-UAP-Bulk/photo/542184/341-PBB-689-0143.jpg", "source_sha256": "484c3ae83ed8d1ea1f98144a54def251668e1bd45e0d79a81bbef7b79d98eb54"}
+
+===== PAGE 1 =====
+{"alpha_words": 7, "chars": 36, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 1, "variant": "plain-psm3"}
+on een =
+
+. sae encii paar
+
+eR Lee

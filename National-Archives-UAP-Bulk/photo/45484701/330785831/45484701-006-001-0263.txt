@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T06:14:21Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 11319132, "source_ctime_ns": 1793363794292641788, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785831/45484701-006-001-0263.jpg", "source_mtime_ns": 1785684873000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785831/45484701-006-001-0263.jpg", "source_sha256": "6d130859b3695a7b8df8959817b70513d483d871aa0bf4d481b01d2724837126"}
+
+===== PAGE 1 =====
+{"alpha_words": 105, "chars": 795, "method": "ocr", "page": 1, "variant": "plain-vision"}
+24-58
+DETAILS:
+1. This investigation initiated by District Commander, 13th OST
+District, Offutt Air Force Base, upon receipt of a newspaper clipping
+from the
+Eustis Weekly, Eustis, Nebraska, dated 30 September 1949.
+NEAR LEXINGTON,
+NEBRASKA
+For details of interview of observer and witnesses, see In-
+closure #l.
+For details of formation and maneuvers of objects, see paragraph
+4, page 1 and paragraph 8, page 3, Inclosure #l.
+4. For sketch of objeots, see Inclosure #2.
+For map of area showing location of observers, path of object
+and general terrain, see Inclosure f3.
+3 INCLOSURES:
+Check Sheet, Unconventional Aircraft - Special Inquiry
+(2)
+Sketch of objects
+(3).
+Map of area showing location of observers, path of objeet and
+general terrain.
+-CLOSED-
+Declassification Authority: NND 923007

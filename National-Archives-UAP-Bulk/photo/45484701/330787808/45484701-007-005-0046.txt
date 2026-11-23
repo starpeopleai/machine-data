@@ -1,0 +1,45 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T06:06:28Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7339931, "source_ctime_ns": 1793364823738314502, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787808/45484701-007-005-0046.jpg", "source_mtime_ns": 1785685204000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787808/45484701-007-005-0046.jpg", "source_sha256": "9faccc184a778a96f17afab6f39f55d9a9fbe3c716e44c1e63bb684a29efb081"}
+
+===== PAGE 1 =====
+{"alpha_words": 351, "chars": 2261, "method": "ocr", "page": 1, "variant": "plain-vision"}
+20D OSI 24-0
+Subject:
+Unidentified Flying Objects
+8 June 1954
+3. In the past, information of this nature has not been forwarded to
+the FBI, since the flying objects reported to date have imposed no threat
+to the security of the United States; Air Force interest has been chiefly
+concerned with the technical intelligence aspects involved and the counter-
+intelligence value of such information to the FBI was not known.
+4. On 4 June 1954, this matter was discussed with the Commander, 25th
+Air Division (Defense), with a view toward securing information of un-
+identified flying objects for forwarding to the FBI. It was agreed that
+information desired by the FBI would be furnished to OSI through the In-
+telligence Officer, 25th Air Division, for forwarding, with the exception
+of actual or suspected items of material. It was the opinion of the Command-
+er that such material coming into the possession of the Air Force could not
+be released to the FBI in view of specific instructions contained in para-
+graph Tb(2), AFR 200-2, that the Air Technical Intelligence Center be immed-
+iately notified and requested for shipping instructions or other special
+instructions. He expressed a willingness, however, to keep OSI and, in
+turn, the FBI informed of any such material until jurisdiction in this matter
+can be further clarified.
+5. In view of the above, request clarification of jurisdiction and
+responsibility of the FBI and Air Force in matters of this nature, and action
+which should be taken particularly with regard to items of material. In the
+interim, arrangements have been made to report all details of the evaluated
+sightings, news releases and material pertaining to unidentified flying
+objects to the Seattle office of the FBI, by telephone. Reports by OSI to
+the FBI in such instances will be confirmed in writing, setting forth details
+of the information initially furnished. A copy of the confirmatory letter
+will be designated for the Directorate.
+This letter has been coordinated with both the Commander, 25th
+Air Division (Defense) and Special Agent in Charge, FBI Field Office,
+Seattle, Washington.
+fresh Paror
+Colonel, USAF
+District Commander
+co :
+Comdr, 25th Air Div (Def)
+McChord AFB, Washington
+Declassification Authority: NND 923007

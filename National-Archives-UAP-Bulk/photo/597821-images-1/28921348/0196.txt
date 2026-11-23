@@ -1,0 +1,135 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T05:59:30Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5298610, "source_ctime_ns": 1793368556559064076, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28921348/0196.jpg", "source_mtime_ns": 1785688702000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28921348/0196.jpg", "source_sha256": "f9e16ca3f685135193eb11e59db758a426d5aa5f553fcb016980edf0cf7758de"}
+
+===== PAGE 1 =====
+{"alpha_words": 204, "chars": 1897, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DATE
+552710
+5528 10
+5529 10
+5530 10
+553/ 10
+553210-12
+5533 11
+5534 11
+5535 11
+5536 11
+5537 11
+5538 11
+5539 11
+5540.12
+554/ 12
+5542 12-15
+5543 13
+5544 13
+5545 13
+5546
+5547
+5548
+5549 13
+5550
+555/ 14
+5552 14
+5553 15
+5554 15
+DATE
+5555
+Dec
+12
+113
+10 - 15 DECEMBER 1957 SIGHTINGS
+LOCATION
+Ios Angeles, California
+Portland, Maine
+- honona, Wisconsin
+- Estacada, Oregon
+Oceanside, Long Island, New York
+- Duncansville, Texas
+- Quincy, Ohio (CASE MISSING)
+- Miles City, Montana
+- Lake City AFS, Tennessee
+- Wayne, Michigan
+- Continental Divide ArS, New Mexico
+and Guthrie, Pennsylvania
+- Bllsworth AFB, South Dakota
+Great Neck, Long Island, New York
+- Misawa, Hokkaido, Japan
+Canton, Ohio (CASE MISSING)
+- English, Indinna (CASE MISSING)
+Col Anahuac, Mexico
+-Chase Field, Beeville, Texas
+-S Weymouth, New Jersey
+-Oak Harbor, Washington
+-St Louis, Missouri
+- Catalgazi/Kimli, Turkey
+Albany, Oregon
+Dayton, Ohio
+- Englewood, Colorado (CASE MISSING)
+- Elmendorf
+AFB, Alaska
+OBSERVER
+Military Air
+State Police
+Multi (PHOTOS)
+Civilian
+Military
+Military RADAR
+Military
+Military Air
+& Radar
+Military Air
+& Radar
+Military
+• (PHOTO/N.R.)
+Military Air
+Military RADAR
+Photo Analysis
+Military
+Civilian
+Military Air
+5-6 Fishermen
+Civilian
+Civilian
+Military
+ADDITIONAL REPORTED SIGHTINGS (NOT CASES)
+LOCATION
+SOURCE
+Universe
+Chatham, Canada
+- Collinsville, Illinois
+Science News Ltr
+Newsclipping
+Newsclipping
+EVALUATION
+Astro (METEOR)
+Satellite (SPUTNIK)
+Balloon
+Insufficient Data
+Astro (METEOR)
+Astro (VENUS)
+Aircraft
+Aircraft
+Balloon
+Aircraft
+Astro (METEOR)
+1. Astro. (MOON)
+2. Radar (INVERSION)
+1. Mirage
+2. Radar (INVERSION)
+Astro (METEOR)
+Insufficient Data
+1. Astro (VENUS)
+2. Radar (ANOMALOUS PROP)
+3. Insufficient Data
+Insufficient Data
+Insufficient Data
+UNIDENTIFIED
+Astro (METEOR)
+Astro (METEOR)
+Aircraft
+Astro (METEOR)
+Astro (METEOR)
+Insufficient Data
+Astro (VENUS)
+Insufficient Data
+Astro (METEOR)
+EVALUATION

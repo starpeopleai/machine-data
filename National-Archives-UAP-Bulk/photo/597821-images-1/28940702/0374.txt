@@ -1,0 +1,58 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T05:53:35Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3519804, "source_ctime_ns": 1793371983249552237, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28940702/0374.jpg", "source_mtime_ns": 1785688714000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28940702/0374.jpg", "source_sha256": "a5a6734ec0d6f6cef354067c00d9ab6f16be24e736d9ee38ae7b41a3c5dfc8a5"}
+
+===== PAGE 1 =====
+{"alpha_words": 128, "chars": 910, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AME STAN
+INSERT
+OFFICE SYMBOL ANL
+FULL SIGNATURE IN
+APPROPRIATE BLOCK
+CG, CO OR DEPUTY
+UNCLASSIFIED
+AIR INSPECTOR
+ATTO, APOIN ATIM 29, Subject: (Restriated) Additional Information on
+Sighting of Unidentified Object
+requestad, hovever, that the ansvera to the questions in paragraph 2 ba
+obtalued as nearly accurate as possibia so that the sighting may be
+evaluated.
+FOR THE COMMANDING OFFICER:
+PUBLIC INF. OFFICE
+COMPTROLLER
+S. HI. KERLAND, JR.
+Colonel, USAF
+Chief, Technical Analyals Division
+Air Tochnical Intelligence Center
+PERSONNEL & ADM.
+RESEARCH & DEV.
+INTELLIGENCE
+SUPPLY AND MAINT.
+DOWNCRADED AT 3 YEAR INTERVALS;
+DECLASSIFIED AFTER 12 YEARS
+DOD DIR 5200.10 -
+PROC. & IND. MOB.
+PING.
+ONCLASSIFIEO
+OTHER
+•AREA COMMANDS
+LINE OUT
+ORGANIZATIONAL
+TITLE
+AFPLICABLE
+SPACE
+15
+WHEN
+NO1
+NEEDED
+ADDITIONAL
+IN
+COORDINA-
+TION BLOCK
+OR G-PILEY
+RECORDS SEC.
+HQ. BR.
+SAB. BR
+EXTRA
+COPY
+RETAINED
+OFF. SYMBOL
+INITIALS

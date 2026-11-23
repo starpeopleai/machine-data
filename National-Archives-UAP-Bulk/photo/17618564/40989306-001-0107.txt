@@ -1,0 +1,60 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T05:52:47Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 2157681, "source_ctime_ns": 1793356171336165806, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989306-001-0107.jpg", "source_mtime_ns": 1785564627000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989306-001-0107.jpg", "source_sha256": "098abff1a86086d1c80d1a29b64218ec853e0d02fc591476c56bf868f621af9d"}
+
+===== PAGE 1 =====
+{"alpha_words": 198, "chars": 1445, "method": "ocr", "page": 1, "variant": "plain-vision"}
+CONFIDENTIAL
+ML-62
+MODIFIED HANDLING AUTHORIZED
+ML-73
+I ML - 62,
+Figure 25. Anemometer ML-62.
+Status: Standard. Stock No.: 7462. Refer-
+ence: T'M 1-235.
+Anemometer ML-62 is a hand-held instrument
+which is used to determine wind speed in areas
+where the installation of a permanent type of
+anemometer is impractical. A revolution counter
+indicates, in meters for the elapsed operating time,
+total wind movement, from which wind speed
+may be determined. A stop watch is built into
+the equipment.
+WEIGHT AND VOLUME
+Total weight (Ib) - -
+Total volume (cu ft)
+Export
+packed
+5. 4
+. 15
+Figure 26. Wind Vane MI-73.
+Status: Standard. Stock No.: 7A2073. Refer-
+ence: TM 1-235.
+Wind Vane ML-73 is a portable instrument
+which is used to determine wind direction in
+areas where a more permanent installation is
+impractical. It indicates, but does not record,
+wind direction. The equipment consists of a
+wind vane head which includes a direction
+pointer and four direction arms; a support made
+up of three separable sections; and two carrving
+cases.
+TECHNICAL CHARACTERISTICS
+DATA OBTAINABLE: Surface wind direction only
+SUPPORT
+SECTIONS: 3, each 29½ in. Ig, provided with
+socket joints; 1 section pointed for insertion into
+the ground; either 2 or 3 sections may be used.
+HEIGHT: 2 sections,
+57 in.; 3 sections, 85
+in.
+WEIGHT AND VOLUME
+Export
+packed
+7
+Total weight (lb) -
+Total volume (cu ft) _
+• 75
+27
+930761-š
+CONFIDE AL
+1. 4
+MODIFIED HANDLING AUTHORIZED

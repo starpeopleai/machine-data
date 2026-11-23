@@ -1,0 +1,56 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T05:53:30Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3505315, "source_ctime_ns": 1793379063624562180, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28970793/0595.jpg", "source_mtime_ns": 1785700989000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28970793/0595.jpg", "source_sha256": "a790120bdecfe130b02d2e2140e0a06c0580f74f51202628a92e8783a5ae84ff"}
+
+===== PAGE 1 =====
+{"alpha_words": 75, "chars": 583, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+Iu19 1957
+3. DATE-TIME GROUP
+Loca!
+1906
+26
+GH 05
+PHO
+• Yes
+© No
+LENGTH OF OBSE
+ATION
+EF SUMMARY OF SIGHTING
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Ohio
+TYPE OF OBSERVATION
+X. Ground- Visual
+• Al¿Visual
+SOURCE
+• Ground-Radar
+1l Air-Intercept Radar
+NUMBER OF OBJECT
+COURSE
+12. CONCLUSIONS
+Ox Was Balloon
+•
+Probably Balloon
+Passibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+D
+Was Astronomical
+Probably Astronomical
+Possibly Astronomica
+Other
+Insufficient Data for Evalu
+Unknown
+the
+size
+chted
+the
+behind a
+cloud
+COMMENTS
+Vanda
+probably
+rptd a ba
+1830.
+1S
+sighted

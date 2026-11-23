@@ -1,0 +1,21 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T05:53:21Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3404714, "source_ctime_ns": 1793384254581215216, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28989694/0894.jpg", "source_mtime_ns": 1785747949000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28989694/0894.jpg", "source_sha256": "9955996e8e11334c130bcc229ca072480f16302976d606bb6a1a0a2a15bba43f"}
+
+===== PAGE 1 =====
+{"alpha_words": 97, "chars": 619, "method": "ocr", "page": 1, "variant": "plain-vision"}
+STANDARD FORM NO. 64
+Office Memorandum • UNITED STATES COVERNMENT
+TO
+DATE: OCt. 25, 1960.
+FROM
+SUBJECT:
+-Observation of Oct. 12, 1960, 9.45 pam.
+Looks like a pretty definite U.0. Believe the only polar orbits
+now are 59 Epsilon-2 and 60 Theta,
+The former was in the vicinity
+around this time but is very doubtful (unless his time and sky fix
+is very inaccurate); also this satellite should be very much
+feinter than Polaris.
+60 Theta ie a bright object but was wey out
+from the observed time.
+His object must have been seen for only ls minutes, or else his
+reported angular speed should have been nearer 1° per second.

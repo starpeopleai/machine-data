@@ -1,0 +1,59 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T05:53:07Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3315128, "source_ctime_ns": 1793371027364131691, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28936281/0604.jpg", "source_mtime_ns": 1785688836000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28936281/0604.jpg", "source_sha256": "d142b4bf08eb1636501f2b6a744712819ab9f0cfc3d69b85dc653fd67948a600"}
+
+===== PAGE 1 =====
+{"alpha_words": 365, "chars": 2372, "method": "ocr", "page": 1, "variant": "plain-vision"}
+2102
+UNCLASSIFIED
+the following was taken fron Info Doc 10-582, AF 98276:
+SURECT:
+Report of Sighting of "Fiving rises"
+TO:
+Commanding Ceneral
+Air lateriel Cormand
+right Patterson Ar Base
+Layton, Chio
+ATTO:
+T'S UN
+1•
+the following information recoived fron the non-commissioned
+Officer in Charge, Detachment 1908-1, 1005th ACS Squadron, ledford Luni-
+cipal Airfield, ledford, Oregon, is sumitted in accordance with ISir
+run 1ofabfeet "eporting of Infomation on "ving Fisce" died o fei-
+"At approximately 1130P, & Aug 49, a shiny object was seen in the
+sky by a member of this
+'Detachment and reported to the writer. Alnost in-
+mediately thereafter, another such object was sighted, and the Control fo-
+wer was requested to locate and attempt to identify the objects, since the
+altitude was too great for accurate observation without the aid of binocu-
+lars.
+The Control Toper operator on duty,
+, reported to
+Seattle Air Traffic Control and HcChord Flight Service that he had seen three
+(3) silver-colored objects at an undeterined altitude, apparently with con-
+ventional wings, coing "very fast". An informal conversation with ir. "
+revealed that the objects sighted appeared to be moving as a speed com-
+parable to or creater than that of standard jet aircraft, and an unofficial
+altitude estimate of thirty thousand (30,000) feet. No accurate alvivure
+estimate could be obtained, due to the absence of clouds to form a basis
+for such an estimate.
+However, a United Air Lines I-L in the vicinity at
+seventeen thousand (17,000) feet reported to the Power that he mas umate-
+to see any strange objects; therefore, presumably the objects can be def-
+initely determined to have been above that height. Further investigation
+by means of aircraft proved fruitiess, since the objects were not seen
+again for some time prior to their arrival.
+Numbers of reports were re-
+ceived of sightings after it was renerally known that some strange objects
+had been seen; but it is believed thit these si htings mere balls of this-
+the prevalent in the area at the time."
+"No definite conclusions as to the identity or nature of the ob-
+jects were reached by this Detachment, since accurate observations could
+not be made.
+Therefore, the foregoing information is essentially that
+furnished by ir.
+UNCLASSIFIED
+DOWNGRADED AT & YEAR INTERV
+DECLASSIFIED AFTER 12 YEAB:
+DOD DIR 5200.10
+COFY
+19

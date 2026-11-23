@@ -1,0 +1,98 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T05:51:48Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1742630, "source_ctime_ns": 1793356164614787926, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989306-001-0058.jpg", "source_mtime_ns": 1785564625000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989306-001-0058.jpg", "source_sha256": "48694198f78c30d30fe1b0672f6993d85c10f83f19cfc709e664e979bb8b9114"}
+
+===== PAGE 1 =====
+{"alpha_words": 271, "chars": 1957, "method": "ocr", "page": 1, "variant": "plain-vision"}
+CONFIDENTIAL MODIED HANDLING, AUTHORED AN
+FOREWORD
+This is the seventh of a series of nine separate manuals, cach covering the standard, substitute stand-
+ard, and limited standard Signal Corps equipments in a particular field. The nine manuals cover,
+respectively, radio communication equipment, wire communication equipment, ground radar and
+recognition equipment, radio direction finding equipment, power equipment, photographic equipment,
+meteorological equipment, test equipment, and miscellaneous equipment.
+This volume is arranged in two chapters. Chapter I includes principal items of equipment;
+chapter II includes miscellaneous meteorological items. The items of equipment are presented in
+each chapter by nomenclature type numbers in alphabetical and numerical sequence. The nomen-
+clature type names of the equipments are listed alphabetically in the index at the back of the manual.
+An illustration and the following information are given for each item of equipment included in
+chapter I:
+Nomenclature
+Status
+Signal Corps stock number
+Technical literature
+Description and application
+Technical characteristics
+Principal components
+Weights and volumes
+The following information is given for each item of equipment included in chapter II:
+Nomenclature
+Application and brief description
+Signal Corps stock number
+Status
+The following abbreviations are used in this manual:
+alternating current
+amplitude-modulated
+approximately
+- cycles per second
+ac _ -
+a-m
+amp
+approx
+C
+eps.
+cu _ -
+e-W
+cyc
+dbm
+de--
+diam
+DPDT
+decibels below 1 mw
+direct current
+f-m
+fpm
+ft.
+Hg-
+hp.
+frequency-modulated
+feet per minute
+hr
+ID .
+in _
+ke__-
+1b _
+Ig -
+mb._
+me..
+ıni
+mph
+mw
+OD.
+p/o
+psi
+r-f
+rpm
+std
+ma
+11/W
+hour
+inside diameter
+inch
+kilocycle
+pound
+long
+millibar
+megacycle
+mile
+miles per hour
+milliwatt
+outside diameter
+part of
+pounds per square inch
+radio-frequency
+revolutions per minute
+standard
+microampere
+used with
+volt
+watt
+CONFIDENTIAL MEETED HANDLING AUTHORIZED
