@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T20:41:01Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 13844802, "source_ctime_ns": 1793355493410222992, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0075.jpg", "source_mtime_ns": 1785564465000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0075.jpg", "source_sha256": "1e0fe06e35154df35e26effb3c7becfb18d19775bd9781912f47c21950efb708"}
+
+===== PAGE 1 =====
+{"alpha_words": 174, "chars": 1408, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1 40
+References
+1. Danielson, R.E., The Structure of Sunspot Penumbras I. Observations, Astro-
+physical Journal
+134, 275-288, 1961.
+2. Dolder, F.P., and D.S. Johnson, Solar Azimuth-pointing Platform, final engin-
+eering report for Air Force Cambridge Research Center Contract No. AF19
+(604)5543, Ball Brothers Research Corporation, 1960.
+3. Nidey, R.A., Astrostats for Astrophysical Research in Space, Space Astro-
+physics (ed. Wm. Liller), McGraw-Hill, Inc., New York, 1961.
+I. Nidey, R.A., Stabilization and Orientation of the Payload, Proceedings of the
+Vorkshop on Scientific Ballooning, National Center for Atmospheric Research
+Boulder, 1963.
+5. Nidey, R.A., and D.S. Stacey,
+Photoelectric Angular Error Sensors, Review of
+Scientific Instruments, 27, 216-218, 1956.
+X Bal-Ast Daylight Tracking System
+Murk Bottema
+The Johns Hopkins University
+Abstract
+In the Bal-Ast program for infrared planetary spectroscopy off-set suntracking
+is used for coarse orientation of the spectrometer-telescope, so as to keep the
+planet in the field of the telescope for the duration of a 1-2 hour observation period.
+The planet's image is then transferred to the entrance slit of the spectrometer by
+means of an optical relay, controlled by a startracker. A final tracking accuracy of
+5-10 arcseconds is achieved. This paper describes details of the suntracking sys-
+tem and its performance during a May 1963 flight.
+141

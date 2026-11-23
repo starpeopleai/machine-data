@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T21:04:17Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 24826364, "source_ctime_ns": 1793358520511744177, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-003-032-0003.tif", "source_mtime_ns": 1785681116000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-003-032-0003.tif", "source_sha256": "dfd8c41e28e8d7df8c91174955d234091b77a905290b3bae85408a9966efde46"}
+
+===== PAGE 1 =====
+{"alpha_words": 61, "chars": 497, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+UNCLAESTETED
+0EOB. 122.55
+AIR INTELLIGENCE INFORMATION REPORT
+TOMA CAL HORNEA - USA
+Tiere 1 c. 46020 ASšŚ
+-DATEGEL
+ORMATION
+9 ApriL 1955
+UT ACCRON, SPEDRO, CAPON, STA. 0216022 A
+PAR - ONSE
+PART TO-
+PARENT
+De
+aception of eighting by
+(LIC: 2801)
+CALICORITA.
+Supple
+mary inveat gative Effor
+of Preparing Ofticor
+magne
+Iprs55
+et: 0904007 Apr: 55.
+ON TE
+1 10 1905322
+A/1C BANS R
+TOFFENSBERGER AE 1942889
+MERA LOMA
+a Demand
+HALYAN HAMMON
+Oss der ee Charge
+Мотива )

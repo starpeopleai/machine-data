@@ -1,0 +1,12 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T20:56:08Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 17658788, "source_ctime_ns": 1793356548912920775, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0162.tif", "source_mtime_ns": 1785564721000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0162.tif", "source_sha256": "aaaa89262abb8c567e4a3b1446c642d602b2c0b973d3251034909e6714aa3ec7"}
+
+===== PAGE 1 =====
+{"alpha_words": 59, "chars": 438, "method": "ocr", "page": 1, "variant": "plain-vision"}
+-ncident #69, 69a -- rhiladelphia, Fennsylvania -- 6 August 1947
+The reports of this incident and those or #70 refer to the
+same object and are typical of descriptions of relatively slow
+moving meteors. The speed, trail, hissing sound (after passage ==
+although this could easily have been a subjective reaction) and
+color all oheck with the objeet's having been a fireball, bolide,
+or large meteor.
+Declassification Authority: NND 57565

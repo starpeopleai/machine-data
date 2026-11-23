@@ -1,0 +1,22 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T21:05:07Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 85885812, "source_ctime_ns": 1793368155537401591, "source_file": "National-Archives-UAP-Bulk/photo/542326/342-B-01-103-179301USAF_002.TIF", "source_mtime_ns": 1785565928000000000, "source_rel": "National-Archives-UAP-Bulk/photo/542326/342-B-01-103-179301USAF_002.TIF", "source_sha256": "6fe66241a7e88e681f738f7064b7db9b7912f64d5253304e227429fcab022d6e"}
+
+===== PAGE 1 =====
+{"alpha_words": 33, "chars": 260, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+L79301 USAF - SCIENTIFIC STUDY OF UiOs « Detonation
+
+of “atom bomb simulation demonstration"
+
+at bt Belvoir. (Plate #38. Photo courtesy
+of the witness)
+
+Copied from 8x10 print rec'd 1/13/69
+from SAFOI.
+
+tiled « UNIDENTIFIED FLYING OBIROTs
+
+sateen tn
+ee
+
+C
+
+\

@@ -1,0 +1,47 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T20:41:18Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 15119161, "source_ctime_ns": 1793355725243304355, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0164.jpg", "source_mtime_ns": 1785564510000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0164.jpg", "source_sha256": "dd697702fc5f5dd44b4956769d1140208f45b39ac33ba30659cb1cfb8cc9ca29"}
+
+===== PAGE 1 =====
+{"alpha_words": 341, "chars": 2211, "method": "ocr", "page": 1, "variant": "plain-vision"}
+314
+ANTON MOTE
+RELATIVE NOISE PRESSURE
+Figure 17. Acoustic Noise and Flow Noise Probability Curves
+315
+decay and in the process generate somewhat smaller eddies. In turn, these eddies de-
+cay while generating still smaller eddies. This cascading action produces a predict-
+ableenergy spectrum in the second range, known as the inertial subrange of turbu-
+lence. It is in this range that the experimental acoustic measurements were made.
+In the third range of turbulence, eddy sizes are very small and fluctuations are so
+rapid that viscous effects in the medium quickly dissipate all remaining energy as heat.
+Kolmogoroff's theory deals with the actual turbulent flow. More recently,
+two gentlemen named Meecham and Ford calculated the acoustic field that would
+be radiated from this type of flow. They calculated that the acoustic power spec-
+trum in the first range, where the largest eddies are produced, will increase as
+the fourth power of frequency. For the inertial subrange they calculate that the
+spectrum will fall off as the 7/2 power of frequency. The expressions derived by
+Meecham and Ford are summarized in Figure 18.
+Below Inertial Subrange:
+Above Inertial Subrange:
+Negligible noise radiated
+P(W) - PO VCO
+2м3
+Inertial Subrange:
+21
+Po = mean density
+V = volume
+C = speed of sound
+M = turbulence Mach number
+L = size of largest eddies
+Figure 18. Formulae for Acoustic Noise of Turbulence
+From all of this one can now draw a simple graph for the overall power spec-
+trum of sound radiated by turbulence (Figure 19).
+The slopes on the graph have
+been expressed in terms of db/octave for easier comparison with the experimental
+results.
+The acoustic measurements indicated a 6 db/octave slope in the inertial
+subrange as compared to the 10. 7 db/octave slope shown on the theoretical curve.
+The significance of this graph is that the curves for the first and second ranges
+of turbulence intersect at a frequency which, when determined, can be used to cal-
+culate the size of the largest eddies. Unfortunately, the only microphones available
+at the time this work was done, did not have enough low-frequency response to
+detect this peak in the energy spectrum. Various estimates place the frequency

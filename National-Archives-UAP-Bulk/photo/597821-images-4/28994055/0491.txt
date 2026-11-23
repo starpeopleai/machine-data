@@ -1,0 +1,62 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T20:22:35Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8987230, "source_ctime_ns": 1793385746811893007, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28994055/0491.jpg", "source_mtime_ns": 1785748275000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28994055/0491.jpg", "source_sha256": "3593841d12fd5334b4eec7eaee7dc7dbd6307d0872f3737e3eea45a5fd31ef2e"}
+
+===== PAGE 1 =====
+{"alpha_words": 202, "chars": 1431, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+12 Aug 61
+3. DATE-TIME GROUP
+Local .
+2100
+CMT.
+130400Z
+5. PHOTOS
+• Y•s
+› No
+7. LENGTH OF OBSERVATION
+3-5 min
+10. BRIEF SUMMARY OF SIGHTINCircular in shape. 1/2
+bootball field. Lighted around edge. Lights
+whitish yellow. Too nervous to notice color of
+objt. Looked like sled with running boards.
+Substance and body depth but unable to say
+what type of material. High tail. Size not
+known but vertical running fm center to end.
+No sound. In car stopped beneath objt. Could
+not see thru but could see around. lst sighted
+fm 3 blocks away. Estimated 50' off groung.
+Stationary 3-5 min then moved straight up and
+teather inversions. No wind. No clouds.
+rising and disappearing in 5 sec. No
+Weather clear and dry.
+ATIC FORM 329 (REV 26 BEP 52)
+PROJECT 10073 RECORD CARD
+2. LOCATION
+12. CONCLUSIONS.
+Kansas City,
+ẠỊKansas
+TYPE OF OBSERVATION
+K Ground- Visual
+• Air Visual
+6. SOURCE
+• Ground-Rader
+• Air-Intercopt Radar
+Civilian
+8. NUMBER OF OBJECTS
+9. COURSE
+Was Aircraft
+Probably Aireraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+OTher UNIDERTIFIED
+Insufficient Date for Evaluation
+Unknown
+11. COMMENTS Classed Unknown. Description of
+objt would indicate possible balloon ex-
+cept for altitude of 50' off ground
+and sudden rising. Completeness of descrip-
+tion and details given by 2 observers
+gives little info upon which to sa class-
+ify objt into known categories and ex-
+plain sighting.

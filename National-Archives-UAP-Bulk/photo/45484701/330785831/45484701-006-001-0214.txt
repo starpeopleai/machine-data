@@ -1,0 +1,19 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T20:38:26Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9900236, "source_ctime_ns": 1793363768299226118, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785831/45484701-006-001-0214.jpg", "source_mtime_ns": 1785684870000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785831/45484701-006-001-0214.jpg", "source_sha256": "974415a18ca43d7cbdbc2e83c5c81a70a0288a7e027f91e623f41d4f85770dd8"}
+
+===== PAGE 1 =====
+{"alpha_words": 10, "chars": 154, "method": "ocr", "page": 1, "variant": "plain-vision"}
+CERIZZAJDU
+МАО МОТЕЛОТТІ82АЮ
+10 УТІЛОНТА УЯ
+21e 030 A
+STAG
+SO
+Ла
+12 13/14/15/26
+OÛT
+7 FEB1950
+CI DIV
+OSI
+9
+50$0 80
+Declassification Authority: NND 923007

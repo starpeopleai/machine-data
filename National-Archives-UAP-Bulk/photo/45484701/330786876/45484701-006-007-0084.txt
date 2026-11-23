@@ -1,0 +1,61 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T20:23:14Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9697014, "source_ctime_ns": 1793364322498885587, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330786876/45484701-006-007-0084.jpg", "source_mtime_ns": 1785685107000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330786876/45484701-006-007-0084.jpg", "source_sha256": "2eb08b38993d770f90a0d67fd3f807ef0315ac41eba6d423340ab1d304825bd3"}
+
+===== PAGE 1 =====
+{"alpha_words": 165, "chars": 1207, "method": "ocr", "page": 1, "variant": "plain-vision"}
+GUIDE TO INVESTIGATION
+S
+UNIDENTIFIED AERIAL OBJECTS
+Incident No.
+1.
+Date of Observation 6 August 49 Date of Interview 7 Aust 49
+20
+Exact time of observation (local)
+2000 hours
+3.
+Place of Observation:
+32 degrees 401 North - 105 degrees 301 West
+(Map Coordinates)
+Position of observer (air, car, bldg, location of - give details):
+In automobile in drivers seat
+5. What attracted attention to object;
+Bri:
+ght
+6.
+Number of objects and sketch of formation or grouping:
+One
+7.
+Apparent size (compare to known object, i.e., sun, moon, thumb or
+fist at arms length):
+lip of thumb at arms
+length
+8. Color of object:
+Bluish
+green
+9. Shape (give graphic description - compare with known object):
+Same shape as falling star,
+round.
+10. Altitude (Angle of elevation above horizon - •° at horizon, 90°
+overhead) :
+(30) Thirty degrees
+11.
+Direction from abserver (Angle olaakwise from north):
+lo degrees
+12.
+Distance from observer (Distance to town, blds, etc., over which object
+appeared to be):
+Unknown,
+Wi chin
+thir
+miles
+13•
+14.
+15.
+Direction of flight of object (s):
+200 degrees
+Time in sight:
+One
+second
+Speed (time t• cover given angular distance):
+16. Sound and dor:
+on e
+Declassification Authority: NND 923007

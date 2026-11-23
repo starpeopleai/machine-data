@@ -1,0 +1,65 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T20:28:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 18463062, "source_ctime_ns": 1793360981609504068, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-003-0293.tif", "source_mtime_ns": 1785565165000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-003-0293.tif", "source_sha256": "3b85e56533ff652f5616fb56a751a8b06aad1401b10421a3e9001245887184ee"}
+
+===== PAGE 1 =====
+{"alpha_words": 206, "chars": 1630, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AF FORM 112-PART !!
+APPROVED 1 JUNE 1948
+FROM (Agency)
+Unclassified
+(CLASSIFICATI
+AIR INTELLIGENCE INFORMATION REPORT
+REPORT NO
+Wing Intelligence
+IR-1-57
+PAGE
+2
+PAGES
+Unidentified Flying Objects Report
+Identifying information of all observer (s):
+a. Robert Canan, Age: 30, Address: 312 Princeton Street, Brentwood
+Park, Las Vegas, Nevada, Occupation: Electronics technician for
+Edgerton, Germeshausen & Grier Inc.
+7. Weather and winds-aloft conditions at time and place of sighting:
+The weather conditions were good and clear with no clouds in the
+area.
+b. Report from Air Weather Service, Nellis Air Force Base, Nevada:
+(1). 2200 Hrs PAC, 26 November 1957
+Surface
+340/6 K
+6,000
+10,000
+16,000
+20,000
+360/18 K
+350/10 K
+310/23 K
+310/27 K
+0400 Ers PAC, 27 November 1957
+30,000
+320/54 K
+50,000
+340/52 K
+80,000
+010/9 K
+Ceiling
+- Clear
+d. Visibility
+- 35 Miles
+e. Cloud Cover - 0/10
+f. Negative
+8. Negative
+9. Negative
+10.
+None
+11.
+Wing Intelligence, NCOIC. The observer appears to be a well educated
+individual and is familiar with sightings of this type, although this is
+his first actual sighting. There is no preliminary analysis of the
+NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S. C.
+31 AND 32, AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW
+IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF
+INTELLIGENCE, USAF.
+Unclassified
+NTING OFFICE
+DECLASSIFIED
+Authority NND 9237007

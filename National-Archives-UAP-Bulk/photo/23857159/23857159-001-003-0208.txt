@@ -1,0 +1,70 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T21:10:27Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 17593344, "source_ctime_ns": 1793360896519090806, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-003-0208.tif", "source_mtime_ns": 1785565149000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-003-0208.tif", "source_sha256": "12ce4f3988867a1fff5ffabde4a14f170afc2a2b0270885782914ed3d7dbdc3f"}
+
+===== PAGE 1 =====
+{"alpha_words": 206, "chars": 1718, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AF FORM 112-PART II
+APPROVED 1 JUNE 1948
+UNGLASSIF TED
+(CLASSIFICATION)
+AIR INTELLIGENCE INFORMATION REPORT
+REPORT NO.
+FROM (Agency) Ho Ninth Air Force,
+Directorate of Intelligence,
+Shaw ATB, S. C.
+PAGE
+2
+OF
+PAGES
+(b) N/A
+(c) C-47, #43-16100,
+2500 ft MSL,
+060 degrees, 180 mph
+1 AS - 210 mph G/S, Shaw AFB
+Time and date of sighting:
+(a) 09/0645Z March 1957
+(b) Night
+5. Locations of observers:
+(a) 15 nautical miles SSE of Colubia, S. C. 33° Ll' N - 80° 55' W
+(Incls # 1 and 2).
+(b) Northwest extremity of Shaw AFB, S. C. 33° 581 O0N - 80° 281 15"W
+(IncIs #3 and L).
+6. Identifying information of all observers:
+(a) N/A
+(b) Military
+1. Capt Robert I. Belmont, Hq Ninth AF, Intelligence Officer-pilot,
+very reliable.
+2• Haj William H. Landis, Iq Ninth AF, Operations Officer - pilot,
+very reliable.
+2. Maj George E. Perry, Hq Ninth AF, Intelligence Officer,
+very reliable.
+4. Capt Lloyd Finleyson, Hq Ninth AF, Property Accounting Officer,
+very reliable.
+7. Weather and wind aloft conditions at time and place of observation:
+(a) Clear sky and 10 miles visibility (0128E W).
+(b) Winds aloft
+Surface
+- W
+15 lêm
+2
+6000'
+(4,000' )
+290°
+10,000"
+10,000
+7,000
+14,000
+280°
+2900
+270°
+20
+40
+35
+30
+NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S. C.-
+31 AND 32, AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW.
+IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF
+INTELLIGENCE, USAF.
+(CLASSIFICATION)
+16-55570-1 U.S. GOVERNMENT PRINTING OFFICE
+DECLASSIFIED
+Authority NND 9237007

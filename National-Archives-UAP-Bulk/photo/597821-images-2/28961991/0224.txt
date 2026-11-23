@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T20:33:25Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8163935, "source_ctime_ns": 1793376793372823725, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28961991/0224.jpg", "source_mtime_ns": 1785696564000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28961991/0224.jpg", "source_sha256": "2af37456e54fe5ea603d3ea4c4a847f2732cd03d34bbb703c4091ec836d9a1c8"}
+
+===== PAGE 1 =====
+{"alpha_words": 115, "chars": 729, "method": "ocr", "page": 1, "variant": "plain-vision"}
+/ Wetuess IN
+I0 MAV105319_ 33
+INFORMATION
+5
+45
+0. 735 10 17
+ROSØ
+WPA117 YDC 024 TYE036 TMB#35DHA38DHF004
+PP JEDEN JEDWP JEPNE JEPSN
+DE JEPDH 3F
+P 1613092
+FM COMDR 765TH ACURON CHARLESTON AF STA ME
+TO JEDEN/COMDR ENT AFB COLO
+INFO JEDWP/COMDR AIR TECH INTEL CEN WRIGHT PATTERSON AFB OHIO
+JEPSN/COMDR 32ND AIR DIV SYRACUSE AFB NY
+JEPNE/COMDR EADF STEWART AFB NY
+JEPNE/COMDR 4602ND AIR INTEL DET STEWART AFB NY
+ZEN/COMDR 4711TH DEF WG PRESQUE ISLE AFB ME
+/UNCLASSIFIED/ACT INT 2839 PD UFOB THE FOLG RPT IS SUBMITTED IN
+ACCORDANCE WITH AFR 280-2 PAR 7D DTD 12 AUG 54 PD
+1. A. BALL
+B. LARGE-QUARTER
+C. RED
+D. 1
+E. NA
+F• FLAMING
+G. NONE
+H. NONE
+PAGE TWO JEPDH 35
+I. NONE
+2. A. SITTING AT EDGE OF HIS BED AND NOTICED THE OBJECT THROUGH

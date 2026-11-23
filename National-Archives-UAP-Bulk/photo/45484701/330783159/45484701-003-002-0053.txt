@@ -1,0 +1,16 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T21:08:16Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 11740702, "source_ctime_ns": 1793362554936593487, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330783159/45484701-003-002-0053.jpg", "source_mtime_ns": 1785684832000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330783159/45484701-003-002-0053.jpg", "source_sha256": "be577ba44f676c72956caec35d4d2195400a4fef713d1acbdcdf5164eafc28e8"}
+
+===== PAGE 1 =====
+{"alpha_words": 41, "chars": 310, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Declassification Authority: NND 923007
+
+O MISTERIO DO
+SECULO XX
+
+Nesta fotografia, muito ampliade, vé-
+se a face superior. Silencioso, cinze-
+azuledo, com tremenda  velocidade.
+Sem duvide elgumo, construido por
+ume inteligéncia superior, Veio do
+mor, voltou pora o mor, Qual a suo
+srinem? Oual o seu destino?

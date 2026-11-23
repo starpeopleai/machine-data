@@ -1,0 +1,46 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T20:23:19Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9801389, "source_ctime_ns": 1793364414009955757, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330786876/45484701-006-007-0243.jpg", "source_mtime_ns": 1785685120000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330786876/45484701-006-007-0243.jpg", "source_sha256": "f41153264d41a92fda7c837d950ebad177b1501745f36ef062574ce8bd621f45"}
+
+===== PAGE 1 =====
+{"alpha_words": 162, "chars": 1212, "method": "ocr", "page": 1, "variant": "plain-vision"}
+IDENTIAL - SECURITY INFORD TION
+UNCLASSIFIED-185
+(Unclassified) FLYOBEPT
+Topical Intelligence Div, Deputy Director for Estinates,
+Pirectorate of Intelligence, DCS/0
+ATTH: Major Fournet
+Counter Intelligence Div, Dir of Special
+Investigations, The Inspector General
+Capt Brown/os/AFCSI-6
+Code 192/x 140
+1. Forwarded herewith for your information are two (2) Air Intelligence
+Information Reports, one (1) OSI report, and one (1) letter from District office
+#2 concerning the above subject.
+2. Dissemination, other than to your office, has not been made concerning
+the letter and two (2) Air Intelligence Information Reports.
+4 Incls
+1. AIIA, Forn 112, dtd 9 Oct 52 (dup)
+2. AIIR, Form 112, dtd 15 Oct 52 (dup)
+3. OSI Rept of Inves fr DO #17
+ata 8 Oct 52
+4. Ltr fr DO #2, atd 16 Oet 52 (dup)
+GILMER L. SNIPES
+Major, USAF
+Actg Chief, Sabotage and Espionage Br
+CLASSIFICATION CANCELLED SO SA
+BY AUTHORITY OF THE DIRECTOR OF SPEC
+BY
+AURIK. KUNZE, Capt, USAF
+Historian
+DATE
+5 DEC 1975
+When Incl No.
+1-4 i (are) withdrawn
+or not attached, the classifivation of
+on this correspondence
+will be cancelled in accordance with
+par
+25e, AFR 205-1.
+UNCLASSIFIED
+CONFIDEN
+CURITY INFORMATION
+Declassification Authority: NND 923007

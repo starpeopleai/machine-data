@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T20:38:01Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9757094, "source_ctime_ns": 1793363926883415030, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330786313/45484701-006-005-0016.jpg", "source_mtime_ns": 1785684957000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330786313/45484701-006-005-0016.jpg", "source_sha256": "9a3637c2ce0f3521ffbbd0d770ad714473bf8dda3c2aaf89402f9e414a04eeec"}
+
+===== PAGE 1 =====
+{"alpha_words": 157, "chars": 1015, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Р+8
+Aug. 5,1952.
+R-109
+Duncan, Arizona,
+Gentlemen:
+THe following explanation on the flying saucers may
+be of some value to you and I base my oppionion on my experience
+in testing coils for electric lamps.
+The flying saucers are simply minute particles of mineral
+floating through the air and due to the reaction of electricty
+a flash of light is picked up and gives the optical illusion of
+this mineral traveling at a great rate of speed. In reality it
+is merely a small, flash of light.
+If you will contact the Mazda Lamp! Company of Youngstown, Ohio,
+they will go deeper into the subject with you and give you a.
+a more detailed explanation. O f course I think it would be
+better to remind them of their method of testing coils about
+twenty years ago as I beleive they are using a different method
+at the present time.
+Very truly yours.
+Give
+Sabra Clineca
+Olive Sabra Clemens
+24V85Y22/B0% an, Amsona.
+O STATES,
+VENERAL
+INSPECTOR
+Auc 19
+V3 39'52
+94 - 185
+руги
+STIONS
+SPECIN-
+Declassification Authority: NND 923007

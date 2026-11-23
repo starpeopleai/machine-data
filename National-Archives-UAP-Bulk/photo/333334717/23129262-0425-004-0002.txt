@@ -1,0 +1,50 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T20:56:56Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 18511084, "source_ctime_ns": 1793361517211927444, "source_file": "National-Archives-UAP-Bulk/photo/333334717/23129262-0425-004-0002.tif", "source_mtime_ns": 1785565372000000000, "source_rel": "National-Archives-UAP-Bulk/photo/333334717/23129262-0425-004-0002.tif", "source_sha256": "ccf94743b60736f5bd66b5785ac27532951d30c60682257778ca4b462cbf9083"}
+
+===== PAGE 1 =====
+{"alpha_words": 116, "chars": 852, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DECLASSIFIED Authority NW 45006
+SP
+RESTRICTED
+HEADQUARTERS
+2500TH AIR BASE WING
+MITCHEL AIR FORCE BASE
+NEW YORK
+BO
+SUBJECT:
+THAU:
+1O DEC 1952
+70$
+Report of Unidentified Colestial Object
+Commanding Gonorel
+First Air Porce
+Mitchel Air Force Base, How York
+Air Technical Intelligence Conter
+Wright Pattordon Air Porce Baso
+Dayton, Ohio
+471.6
+In accordance with AF Regulation 200-5, the attached Report of
+Unidentified Celestial Object is submitted.
+FOR TES COMANDING OFFICER:
+1. Inol:
+Ape of Unidentified
+Celestial Obj w/attachments
+PAUL E.
+• HODERMOTT, URJ
+Major, USAT
+Adjutant
+OPS 000.92 (10 Dec 52)
+1st Ind
+1 5 DEC 1952
+EQ FIRST AIR FORCE, Mitchel Air Force Base, New York
+TO: Commanding General, Continental Air Command, Mitchel AFE, We I.
+1 Inels
+n/e
+M. HONE
+2nd Lt. USAF
+On 8: :5g Aust Adj Gey
+FORCE
+NEUVE
+SEGURITY INFORMATION
+RESTRICTED
+1651
+38543

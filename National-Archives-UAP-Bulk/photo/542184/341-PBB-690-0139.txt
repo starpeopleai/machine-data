@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T21:07:54Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 11576096, "source_ctime_ns": 1793367129299964712, "source_file": "National-Archives-UAP-Bulk/photo/542184/341-PBB-690-0139.jpg", "source_mtime_ns": 1785565658000000000, "source_rel": "National-Archives-UAP-Bulk/photo/542184/341-PBB-690-0139.jpg", "source_sha256": "0ccdea5cb9e181f0c99bb3a4d18ce82874e44b4f78fce4543a740f4c4a1a49d3"}
+
+===== PAGE 1 =====
+{"alpha_words": 2, "chars": 94, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 1, "variant": "contrast-vision"}
+ambralanban
+300
+240
+230
+q*
+Şo
+210
+120
+24
+140
+28
+150
+30
+2¿'24¡
+2
+20
+£18
+16
+143/10
+ICT
+65.
+24 #

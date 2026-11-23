@@ -1,0 +1,22 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T20:33:57Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8218812, "source_ctime_ns": 1793364973152115250, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330788077/45484701-007-007-0030.jpg", "source_mtime_ns": 1785684952000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330788077/45484701-007-007-0030.jpg", "source_sha256": "abf0f61d3cbd21e0b4b3962a4205c42b1ddbcbe423d28350a9751139baf00d37"}
+
+===== PAGE 1 =====
+{"alpha_words": 18, "chars": 168, "method": "ocr", "page": 1, "variant": "plain-vision"}
+ЗОЛО
+ВИОІТАВІТе:
+HOITАDIT29VMI 10
+ТОЧНІ
+OSRR2AJDИU
+IBRAJO
+ashtataili
+Pet 030 &
+14115
+IN
+FEB 1950
+CI DIV
+OSI
+•ISO
+AЮ 1O
+INEW
+0961
+Declassification Authority: NND 923007

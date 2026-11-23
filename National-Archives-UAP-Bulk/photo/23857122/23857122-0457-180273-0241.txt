@@ -1,0 +1,12 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T21:10:24Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 17222992, "source_ctime_ns": 1793356623201040237, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0241.tif", "source_mtime_ns": 1785564732000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0241.tif", "source_sha256": "dbff768388ba5714394d09b5016e425858c5ebb43878ee8c7a82f167022be55b"}
+
+===== PAGE 1 =====
+{"alpha_words": 50, "chars": 358, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Innident 93 -- Hartford, Connecticut - 11 January 1948
+Despite the absence of a trail and of sound, identifi-
+cation of this object as a fireball at the very end of its tra-
+jeetory seems possible.
+" It is desoribed as "shooting toward
+earth at 45°," as resembling a "shooting star," and as having a
+very high velocity.
+Declassification Authority: NND 57565

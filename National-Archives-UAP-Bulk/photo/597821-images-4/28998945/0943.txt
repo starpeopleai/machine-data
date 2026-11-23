@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T20:39:08Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10210969, "source_ctime_ns": 1793387663941530167, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28998945/0943.jpg", "source_mtime_ns": 1785747916000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28998945/0943.jpg", "source_sha256": "d89ca1282d3281dc1aeb0b175f530a1c9ba6e3727cda0cd5b319a1d5f2e54556"}
+
+===== PAGE 1 =====
+{"alpha_words": 38, "chars": 355, "method": "ocr", "page": 1, "variant": "plain-vision"}
+(2) N/A
+G.(1› CLEAR AND COOL
+(2) NNW AT S
+330/22
+552/22
+352/35
+322/65
+330/75
+312/30
+332/10
+(3) SCATTERED CLOUD AT 12,200 FEET
+(4) 15 PLUS
+(5) NIL
+(6) NIL
+H! NIL
+I. NIL
+PAGE FOUR RUDDU 48
+J. NONE KNOWN
+K. MAJOR R. D. NICHOLS, CHIEF INTELLIGENCE DIVISION.
+POSSIBLE CORRELATION WITH ALLEGED BREAK UP OF
+SPUTNIK IV.
+L. NONE
+M. NO COMMENTS
+05/21372 SEP RUCDDU

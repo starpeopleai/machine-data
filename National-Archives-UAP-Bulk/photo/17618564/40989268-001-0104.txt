@@ -1,0 +1,42 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T20:25:21Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 14796559, "source_ctime_ns": 1793355665490553478, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0104.jpg", "source_mtime_ns": 1785564499000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0104.jpg", "source_sha256": "ba55f1d6b51adc0ad2be2b7003f5fd55ad7ea4b1706ab4a112f35216044a1592"}
+
+===== PAGE 1 =====
+{"alpha_words": 57, "chars": 461, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+SPHERICAL
+
+ASCENT RATE
+FT/MIN
+
+ASCENT RATE
+FT/MIN.
+
+STREAMLINE
+
+10 20 30 = 40 50 60
+
+ALTITUDE ALTITUDE
+(THOUSAND FEET) | (THOUSAND FEET)
+
+INNER, HIGH ALTITUDE SPHERICAL BALLOON Figure 5. Combined Ascent Rates
+
+ud
+b=
+ey a
+eZ
+ra
+ot
+—Y
+<
+
+ASCENT RATE
+FT/MIN.
+
+ALTITUDE
+(THOUSAND FEET) hreergearnag 8 Jo” 39 785" 70" 80 90
+
+OUTER, STREAMLINED BALLOON ALTITUDE
+
+(THOUSAND FEET)
+Figure 4. Ascent Rate vs Altitude
+
+Figure 6. Actual Ascent Rate of Combination Balloon

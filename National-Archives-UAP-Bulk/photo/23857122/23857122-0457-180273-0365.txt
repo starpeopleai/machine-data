@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T20:47:09Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 18351732, "source_ctime_ns": 1793356740770730595, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0365.tif", "source_mtime_ns": 1785564750000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0365.tif", "source_sha256": "941313199d08c14273f8ee471f313e829831f38e23dda05bb85cda487f5d9431"}
+
+===== PAGE 1 =====
+{"alpha_words": 194, "chars": 1461, "method": "ocr", "page": 1, "variant": "plain-vision"}
+- 12-
+III. Recommended Material for Questionnaire
+1. Name and address of person who observed phenomenon
+2. Age, education and employment of person
+(Specify especially training.
+if any, in scientific fields such
+as physios, engineering, etc.)
+3. Name, address and educational qualifications of person who pre-
+pared questionnaire
+4. Date and time of occurrence
+5. Geographic location
+6. Elevation
+7. Character of observation point and surroundings
+(State whether inside or outside; kind of structure, if any;
+neighboring structures or ground objects; and terrain)
+8. Illumination available (natural and artificial)
+9. Weather conditions (as thunderstorm, rain, overcast)
+10. State whether genuine streak lightning was observed (a) before,
+(b) after, the ball lightning; and indicate time interval
+between phenomena
+1l. Indicate direction and apparent distance of such streak light-
+ning; also objects believed to have been struck by it
+12. State whether glow or brush discharges were observed (a) before,
+(b) after, the "ball lightning; and indicate time interval
+between phenomena
+13. Indicate locations at which glow or brush discharges were ob-
+served, and objects on which they appeared
+l4. Indicate brightness of discharge at points of occurrence re-
+ferred to in (11) and (13)
+15. Shape of ball lightning observed
+16. Transparency of "ball" and general appearance of its exterior
+and periphery
+17. Changes in its form
+Declassification Authority: NND 57565

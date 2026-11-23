@@ -1,0 +1,60 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T20:20:28Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8416367, "source_ctime_ns": 1793383624694014102, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28987456/1094.jpg", "source_mtime_ns": 1785747948000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28987456/1094.jpg", "source_sha256": "34cf616c35b374f973c052312e5e007e8ccd35c230c56c19e6ee7a1adc2c6e4b"}
+
+===== PAGE 1 =====
+{"alpha_words": 143, "chars": 1051, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+27 Jun 60
+3. DATE-TIME GROUP
+Local _
+2230
+28/03302
+GM T.
+5. PHOTOS
+• Y•s
+M No
+7. LENGTH OF OBSERVATION
+2-3 min
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Claremont, New Hampshire
+4. TYPE OF OBSERVATION
+X Ground- Visual
+• Air Visual
+6. SOURCE
+Civilian
+8. NUMBER OF OBJECTS
+• Ground-Radar
+• Air-Intercept Radar
+one
+10. BRIEF SUMMARY OF SIGHTING
+Oblong to round object, reddish to orange,
+first seen in the SE, last seen in the NNE,
+apparent motion was to the NE, seen for about
+2-3 min, speed was about that of a plane.
+12. CONCLUSIONS
+000
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+•
+Possibly Aireroft
+•
+•
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other.
+Insufficient Data for Evaluation
+Unknown
+9. COURSE
+NE
+11. COMMENTS
+This report was received several weeks
+after the sighting was made. The info as
+originally reported is inaccurate, there-
+fore no further attempt was made to get
+more information from the witness. This
+report is evaluated as insufficient data.
+ATIC PORM 329 (REV 26 SEP 52)

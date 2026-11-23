@@ -1,0 +1,43 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T20:34:12Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8298144, "source_ctime_ns": 1793362412628784468, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330782837/45484701-002-006-0058.jpg", "source_mtime_ns": 1785684695000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330782837/45484701-002-006-0058.jpg", "source_sha256": "581f3281be5d52aa57563ba3ec5b5bbb8af5f697d05dbfe5fddf15566cc773c6"}
+
+===== PAGE 1 =====
+{"alpha_words": 144, "chars": 1095, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Page
+Guide to Investigation
+CaNI
+17•
+Trail (color, length, width, persistance, etc.)
+Incident Nc.
+18.
+Luminosity (visible by reflection, incandescent, other - degree of
+brilliance):
+19.
+evening star
+Projections (eins, wings, rods,
+lanteral, canopies, etc.):
+None
+20.
+Maneuvers (turns, climbs, dives, etc. - sketch of flight path):
+21.
+22.
+23.
+Straight flight gaining altitude.
+Manner of disappearance:
+Affectuen fileyas 11 ght.
+Additional information concerning object:
+Hone
+24.
+Weather conditions and light at time of sighting:
+Name and address of observer:
+Occupation and hobbies:
+let Lt Harold DENNIS
+400lst Base Sv Squade Killeen Base, Killeen, Texas
+Comments of Interrogator relative
+Officer in Ator relative to intelligence and character of observer
+(Check neighbors, police dept., FBI records, employer, etc.):
+Excellent observer
+Did observer wear glasses, especially polaroid glasses at time of sighting,
+or was object viewed through canopy, window, or other transparent material?
+None
+Pages 8 and 4 of this report not applicable to this incidents
+Declassification Authority: NND 923007

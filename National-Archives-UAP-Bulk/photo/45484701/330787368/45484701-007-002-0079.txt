@@ -1,0 +1,88 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T20:23:58Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10258366, "source_ctime_ns": 1793364590312583304, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787368/45484701-007-002-0079.jpg", "source_mtime_ns": 1785685196000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787368/45484701-007-002-0079.jpg", "source_sha256": "c14b14891d577cb814e90893132bfedb8ab48c604be75ce030dac0e67963c285"}
+
+===== PAGE 1 =====
+{"alpha_words": 286, "chars": 1989, "method": "ocr", "page": 1, "variant": "plain-vision"}
+** HEADQUARTERS UNITED STATES AIR FORCE
+THE INSPECTOR GENERAL
+OFFICE OF SPECIAL INVESTIGATIONS
+REPORT OF INVESTIGATION
+TITLE
+RADIO IN POSSESSION OF MR. CY NEWTON
+WHICH ALLEGEDLY CAME FROM A FLYING
+DISC THAT HAD CRASHED IN NEW MEXICO
+UNG
+FILE NO.
+24-34
+SIFIED
+* DATE"
+14 March 1950
+REPORT MADE BY
+JAMES B. SHILEY
+REPORT MADE AT
+DO #18, Maywood, California
+PERIOD 9,15,21 December 1949; 3,11,23,27,31
+January: 17 February; 8 March 1950
+OFFICE OF ORIGIN
+DO #18, Maywood, California
+STATUS
+CLOSED
+CHARACTER
+UNCONVENTIONAL AIRCRAFT - SPECIAL I
+REFERENCE
+None, this is an initial report.
+SYNOPSIS
+historian
+5 DEC 1975
+DATE
+BRUCS CABOT, motion picture actor, Beverly Hills, California, allegec
+that one CY NEWTON, who claimed to be in the oil business, had stated
+that a magnetic radio in his possession had come from a flying dise
+which had erashed in New Mexico. NEWTON apparently also stated that
+the disc had contained men and that he had bits of cloth at his home
+which came from clothing of these men, and that he also had pieces of
+metal from gears of the disc.
+CY NEWTON, identified as being with the
+NETON OIL COMPANY, Denver, Colorado, and as residing at the HOLLYWOOD-
+KNICKERBOCKER HOTEL, Hollywood, California. NEWTON, however, refused
+to acknowledge requests left for him to communicate with OSI. His
+refusal may be due to fact that a local radio news commentator ridiculed
+his story on a news broadcast.
+UNCLASSIFIED
+DISTRIBUTION
+CG, ANC, AtEn: LOLAXO-3,
+(Action Copies)
+Hq 051
+DO #5
+File
+- 2
+ACTION COPY FORWARDED TO
+Commanding Generate
+Air Materiel Con
+Wright-Patterso
+Dayton, Ohio
+ATTN:
+MOLA:
+FOROPE
+JON
+NG INFORM
+SURERNING THIS INVESTI-
+PERSON ARMIES
+PECSINNED THERIN, TO
+BEFOEBORTO ANY PERSONS
+ENTITLED TO THIS INFO
+HON, IS A VIOLATION
+AGRAPH 11:
+3 MAY 49,
+FILE
+1185-16-12
+UNITED STATES AIR FORS
+TIVE INSPECTOR SENEC
+- AN 20 2 13 PMẠ50
+OFFICE OF
+PECIAL INVESTIGATIONS
+-D
+Lt. Col., USAF
+DISTRICT COMMANDER
+AR 2 ≤ 1950/1
+SMAMA-Nov 48-100M
+Declassification Authority: NND 923007

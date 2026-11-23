@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T20:42:37Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 22011812, "source_ctime_ns": 1793358662960170881, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-015-0004.tif", "source_mtime_ns": 1785681164000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-015-0004.tif", "source_sha256": "7694c338c406df2222d0794244aae4ee2ed1f71aef9f2a34f8bb544a640f79c2"}
+
+===== PAGE 1 =====
+{"alpha_words": 82, "chars": 652, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+PAGE THREE RJWPSB LLIG
+(A) CIVILIAN -
+AGE UNKNOWN,
+FOREST RANGER.
+(7) WEATHER AND WINDS ALOFL CONDITIONS AT TIME AND PLACE OF
+SIGHTINGS:
+(A) SKY CLEAR
+(B) SFC WND CALM
+6000FT 300DEGREES 10K
+10000ET 280 DEGREES 15K
+16900FT 270 DEGREES 15K
+20000FT 270 DEGREES 20K
+30000FT 280 DEGREES 20K
+50000FT UNKNOWN:
+30000FT UNKNOWN
+(C) NONE
+(D) 4 MI HAZE AND SMOKE FROM SFO - 2000FT
+(E) SCATTERED AT 20,000FT
+(F) NONE
+8. NONE
+9. NONE
+10. N/A
+CAALIFORNIA,
+PAGE FOUR RJWPSB 111G
+11. 1/LT LYLE B. OTTO, ASST OPNS OFF,
+1481ST FSC, HAMILTON AFB
+NO DIRIGIBLES OPERATING IN AREA, CAUSE FACTOR UNKNOWN.
+12% NONE
+BT
+12/0441Z DEC RJWPSB

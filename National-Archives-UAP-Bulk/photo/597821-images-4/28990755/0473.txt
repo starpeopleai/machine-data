@@ -1,0 +1,58 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T20:34:21Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8384765, "source_ctime_ns": 1793384646798815379, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28990755/0473.jpg", "source_mtime_ns": 1785748093000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28990755/0473.jpg", "source_sha256": "51b5c80df87aca64fc58da61a7ef0c3425e04c5e0676fdf31a1c90e603b93bfb"}
+
+===== PAGE 1 =====
+{"alpha_words": 150, "chars": 1135, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+2, 3, 4 Jan 61
+3. DATE-TIME GROUP
+Local_
+1430-1730
+GM T
+22302
+5. PHOTOS
+• Yes
+Ở No
+7. LENGTH OF OSSERVATION
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Oakland, California
+TYPE OF OBSERVATION
+• Ground- Visual
+• Air- Visual
+SOURCE
+• Ground-Radar
+• Air-Intercept Radar
+Civilian
+8. NUMBER OF OBJECTS
+3 hrs
+one
+10. BRIEF SUMMARY OF SIGHTING Red, flat, Circular
+object, size of half dollar. Sound--rumble.
+Flashing red light. Appeared about 20° eleva-
+tion. Disappeared into horizon. Very rapid.
+12. CONCLUSIONS
+Was Balloon
+Possibly Sailoo
+Balloo
+Was Aircrait
+Probably Airereft
+Possibly Aireroft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical Venus
+9. COURSE
+Othai
+Insufficient Data for Evalvatio
+Unknown
+SW-NE
+11. coMMENTS Helicopters in area at time of
+sightings. Witness reported object viered
+with telescope, and, if true, he should
+have been able to distinguish an e/c.
+Telescope possibly out of focus. Venus
+was in aprox location reported for obje
+but it would not have moved to NE. Wit-
+ness possibly vrong about directions. St
+reflection suggests a/c; sighting
+duration suggests Venus.
+ATIC FORM 329 (REV 26 SEP 52)

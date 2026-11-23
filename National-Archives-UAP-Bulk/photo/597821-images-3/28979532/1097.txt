@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T20:36:53Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9331890, "source_ctime_ns": 1793381183737692547, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28979532/1097.jpg", "source_mtime_ns": 1785700858000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28979532/1097.jpg", "source_sha256": "5ab64fe1ad6bec9ca42862bfb3aa4740b68deb6f9cafb6070fd3e3a94d9c5081"}
+
+===== PAGE 1 =====
+{"alpha_words": 53, "chars": 426, "method": "ocr", "page": 1, "variant": "plain-vision"}
+TM USS THORNBACK
+TO CINCELM
+COMSIXTHTLT
+CONDAIRELM
+COMIZE AST FOR
+INFO SECNAV
+CNO
+CINCLANTFLT
+USCINCEUR
+FLEINT CE NELM
+CINCUSAFE
+CONCONAD
+BT
+20 Aug. 1558
+30.01N
+27.35 E
+@ 1840 ₴ą
+1242Z
+Hail
+LOCATING ONE UFO 30-81N 27-35E 2618482 145 SPD UNK VISUAL EXTREMELY
+HIGH RESEMBLES SPUTNIK
+BT
+EAsTurN MediterraNeAn
+2M19142 EJC RJEZHG
+Capt Gregory
+Instructions by
+or T/sgt Balle
+4546
+Check with Capt Miatech - orbital data
+NNK
+Gregoriy

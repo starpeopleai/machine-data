@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T21:02:32Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 16053937, "source_ctime_ns": 1793355700384881764, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0137.jpg", "source_mtime_ns": 1785564505000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0137.jpg", "source_sha256": "7a6b9691dfdb1196f388a7b858d937b628c7083e68eb3902fc54325ba040b78a"}
+
+===== PAGE 1 =====
+{"alpha_words": 178, "chars": 1389, "method": "ocr", "page": 1, "variant": "plain-vision"}
+261
+XXII. AFCRL Stratospheric Humidity Program
+D. Grantham, N. Sissenwine and H. Salmela
+Air Force Cambridge Research Laboratories
+Bedford, Massachusetts
+1. INTRODUCTION
+Over the last decade there has been a growing interest in water vapor in the
+stratosphere, prompted in large part by those who are designing infrared detec-
+tion systems for either the guidance or tracking of rockets (Sissenwine and Gutnick,
+1960). Parallel scientific interests have developed from attempts to understand
+atmospheric circulation patterns and spectroscopic investigations of atmospheric
+composition of other planets from stratospheric balloon platforms for which
+assumptions of the overhead humidity are required (Bottema, Plummer and Strong,
+1964).
+With this growing interest, a controversy has evolved between two factions:
+one advocating a "dry and stagnant" stratosphere, and the second believing that
+the stratosphere is variable in both time and space, sometimes wet and some-
+times dry (Gutnick, 1961).
+Utilizing manually-controlled, aircraft-borne frostpointers, early British
+investigators usually observed frostpoints near -82°C in the lower stratosphere
+up to 50, 000 feet (Murgatroyd, Goldsmith and Hollings, 1957).
+These data
+supported a circulation theory, postulated by them, in which the stratosphere has
+a constant mixing ratio of about 2 mg/kg of dry air (Brewer, 1949; Dobson, 1956).

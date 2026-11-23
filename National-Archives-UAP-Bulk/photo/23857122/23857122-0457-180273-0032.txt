@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T20:42:21Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 18124456, "source_ctime_ns": 1793356430220949918, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0032.tif", "source_mtime_ns": 1785564703000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0032.tif", "source_sha256": "1d7bb6e1304cdd6280021727701c12807d99f4340a9bab08c9c3f150f4c6bb85"}
+
+===== PAGE 1 =====
+{"alpha_words": 150, "chars": 1017, "method": "ocr", "page": 1, "variant": "plain-vision"}
+RESTRICTED
+The primary purpose here, however, is to segregate inoi-
+dents which have a reasonable degree of certainty of astronomical
+origin. Therefore, in a second, more detailed breakdown, incidents
+are placed in one of three olasses, according to the most probable
+interpretation seen in the evidence offered (with a minimum of
+allowance for subjective observation). Class l includes the astro-
+nomical incidents (with degree of probability indicated).
+The non-
+astronomical incidents are divided into two classes, because it
+appeared as the work progressed that they fell naturally thus:
+in
+some, the evidence at hand suggested a simple explanation;
+in others,
+it did not. Listings under class 2 are not to be considered in any
+way decisive (with the exception of a few which, according to sub~
+ject reports, have been definitely identified);
+they are offered
+as suggestions.
+A summary of the results of this breakdown is shown in
+the table on the following page.
+RESTRICTED
+Declassification Authority: NND 57565

@@ -1,0 +1,42 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T20:41:35Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 16733722, "source_ctime_ns": 1793360085218831775, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-012-044-0003.tif", "source_mtime_ns": 1785681624000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-012-044-0003.tif", "source_sha256": "459825572e4752681eb518acd976a0c7ef81273a5e66dfb3f2186328c5f1f742"}
+
+===== PAGE 1 =====
+{"alpha_words": 150, "chars": 1073, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+DISPOSITION FORM
+SECURITY CLASSIFICATION (If any)
+UFOBTILE
+FILE NO.
+SUBJECT
+Photos of UFOB sighting 22 Aug 56
+TO
+Commander
+FROM OIC,Det 3
+DATE
+COMMENT NO. 1
+4602d AISS
+4602d AISŚŘę
+5 Oct 56 QUINN/jaq/435
+1. As requested, four (4) photographs of a UFOB sighting made by Mr.
+mor Newburgh, New York, are inclosed herewith. These photes
+were obtained from Major Wortham, Intelligence Requirements, D/I, FADF.
+2. A receipt for these photos has been forwarded to the Source, with a
+statement that they are being forwarded for evaluation and that they will be
+returned to him upon completion.
+3. It. O'Day stated that the photos had not been forwarded since pre-
+liminary evaluation indicated that the alleged UFOB was obviously due to
+lens refraction and reduplication of the basic image.
+4. Request this unit be notified of further action required in this
+matter.
+1 Incl
+4 photos
+WILLIAM J SALWOCKI
+It Colonel, USAF
+Officer in Charge
+DCLIS
+IL 10.20
+DD 1 F88 50 96
+WHICH MAY BE USED
+16-54801-3
+* U.S. GOVERNMENT PRINTING OFFICE:
+132 0000500

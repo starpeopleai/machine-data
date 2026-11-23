@@ -1,0 +1,16 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T21:17:12Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 17383116, "source_ctime_ns": 1793356670035263928, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0291.tif", "source_mtime_ns": 1785564739000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0291.tif", "source_sha256": "705f8c5481cfb1f2a186d9510ea9ac5e6f7e380e8baee4464da3aaa00a629dff"}
+
+===== PAGE 1 =====
+{"alpha_words": 86, "chars": 576, "method": "ocr", "page": 1, "variant": "plain-vision"}
+RESTRICTED
+Incident 7167 -- Pacifio Ocean: 19° 08' N, 164° 05' = -- 6 Hay 1948
+The object observed here was probably an exploding fire-
+ball seen head-on and seen enly at the time of actual explosion.
+This, with partial cloud coverage, could easily explain the absence
+of a trail.
+It is not likely that lights sighted on the water surface
+or airoraft sighted later had any relation to the original object.
+If the object had ocen a shell fired from the USS Boxer,
+it appears improbable that only one shell would have been observed.
+NICTED
+Declassification Authority: NND 57565

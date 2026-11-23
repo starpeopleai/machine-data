@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T21:10:35Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 18026632, "source_ctime_ns": 1793356600759170029, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0217.tif", "source_mtime_ns": 1785564728000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0217.tif", "source_sha256": "c9be0df9acd24b3a264fc0087beb3d3dff7e59a4f9679211d6eec2b95234fc18"}
+
+===== PAGE 1 =====
+{"alpha_words": 195, "chars": 1286, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Incident #30, ame - Lockbourne AAB, Columbus, Ohio =- 7 January 1948
+Considering this incident with #32, 33, and 48, one is
+forced to conclude that the object observed from Lockbourne Army
+Air Base on the evening of 7 January 1948 was the planet Venus.
+One report of the incident gives the location of the
+object as BS&‚$120°, or approxinately opposite from that stated by
+other observers and bat of Venus. Obviously, since the tine
+of observation was the same, this means that one witness either was
+looking at a different object or had his directions nixed. Since
+the description otherwise agrees generally with the rest, and since
+It is assumed throughout the reports that ail observers were viewing
+the same object, the latter interpretation seems preferable.
+witnesses state that the object "couldn't have been a
+star" (of course, it wasn't), because the sky was completely over
+cast. However, reports fron the Columbus weather bureau indicate
+that, althouch the afternoon was cloudy, the sky was clear by 1900
+hours. (This does not mean, of course, that there were no clouds near
+the western horizon.)
+For possible explanations of the "tactics" reported by
+observers of this object, and further discussion of the incident,
+see report on 133.
+Declassification Authority: NND 57565

@@ -1,0 +1,21 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T21:16:25Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 13746165, "source_ctime_ns": 1793366907039887665, "source_file": "National-Archives-UAP-Bulk/photo/542184/341-PBB-689-0362.jpg", "source_mtime_ns": 1785565616000000000, "source_rel": "National-Archives-UAP-Bulk/photo/542184/341-PBB-689-0362.jpg", "source_sha256": "fef66f1e35f6e4fc9202a294ebcd141395f4a6e1756e6e3defe1c7e9888e8ea4"}
+
+===== PAGE 1 =====
+{"alpha_words": 15, "chars": 82, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Oa tlae cei
+pci opm
+danibestioie
+
+coc:
+wie
+ape
+
+ie
+\ Be
+
+a
+
+*¢
+
+le ny” Ns
+CALE "

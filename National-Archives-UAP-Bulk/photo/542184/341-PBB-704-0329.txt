@@ -1,0 +1,21 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T20:24:27Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10908547, "source_ctime_ns": 1793367411963315024, "source_file": "National-Archives-UAP-Bulk/photo/542184/341-PBB-704-0329.jpg", "source_mtime_ns": 1785565713000000000, "source_rel": "National-Archives-UAP-Bulk/photo/542184/341-PBB-704-0329.jpg", "source_sha256": "bdb478c19922e7f33a1c3009fd92afe78b1d0e0f9d5f8cb0afec08da4052ca12"}
+
+===== PAGE 1 =====
+{"alpha_words": 6, "chars": 42, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 1, "variant": "plain-psm3"}
+Resear aN
+
+SE
+
+=
+
+§
+
+4
+;
+4
+
+ws eg
+
+a
+
+see

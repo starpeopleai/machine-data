@@ -1,0 +1,77 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T21:17:05Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 16017822, "source_ctime_ns": 1793359813798477238, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-010-060-0002.tif", "source_mtime_ns": 1785681528000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-010-060-0002.tif", "source_sha256": "0919a72a00317ff3f353dfacc4a5a1a37eb0ead68ed7cd8b749cfb4ea84bd5b5"}
+
+===== PAGE 1 =====
+{"alpha_words": 164, "chars": 1211, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+2D -94
+JUL 56
+230510 ₴
+Pas
+EN0001
+ENA025 YDA023 TYB229 TTC005
+TDC194
+SNA088
+SNJØ23
+MM RJEDEN RJEDWP RJEPHQ
+DE RJEPSN 3J
+M 22193ØZ
+FM COMDR 23RD FIR GP PIAFB ME
+TO RJEDEN/COMDR ADC ENT AFB COLO SPGS. COLO
+RJEPSN/COMDR 32ND AIR DIVISION SYR NY
+RJEDWP/COMDR AIR TECHNIRAL INTELLIGENCE CEN WRIGHT PATTERSON AFB OHIO.
+KRJEPHQ/HQ USAF WASH DC
+BT
+/UNCLASSIFIED/ATTN D/I. UFOB THE FOLLOWING IS SUBMITTED IN COMPLIANCE
+WITH PART 7 AFR 200-2 DID 12 AUG 54
+ROUND AND PEAR SHAPED
+198
+4602D AISS UFOB REP
+• DIME
+C
+BLACK
+DATE-TIME GROUP... 1/00 2515L
+D•
+ONE
+L. N/A
+Medway, Ma
+F.
+NONE
+G•
+TRAIL TWO TO THREE TIMES LARGER THAN OBJECT EMITTING BLUE
+AND YELLOW FLAME
+Brab Astra
+#Meteor
+2/01
+1600
+PAGE TWO RJEPSN 3J
+H. NONE
+I.
+FLAMED OUT IWICE
+A.
+HAPPENED TO BE LOOKING IN THAT DIRECTION
+FACING WEST OBJECT APPEARED TO HIS LEFT FLEVATION 20 DEGREES
+D•
+MAINTAINED STRAIGHT
+COURSE.
+E
+SEE PAR 2C
+3.
+A •
+GROUND - VISUAL
+B. NONE
+C. N/A
+A •
+BETWEEN 192100Z JULY 1956 AND 1922027 JULY 1956
+B¿DAY
+5. A.
+4547N •6857W
+6. A. MR
+63YRS OLD MEDWAY MAINE
+MILL CAN BE REACHED THRU SON
+REIAIRMAN PAPER
+O SMITH POND
+TEL.
+B. N/A
+AJM SCATTERE CLOUDS WIND NW 15 TO 20 MILES
+B. SURFACE N W - 8K
+6000 - 31ØDEG - 20K

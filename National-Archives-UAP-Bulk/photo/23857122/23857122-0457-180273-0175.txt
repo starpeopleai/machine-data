@@ -1,0 +1,10 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T21:17:41Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 18019136, "source_ctime_ns": 1793356561322778977, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0175.tif", "source_mtime_ns": 1785564723000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0175.tif", "source_sha256": "657af3b6f859635c4a1b94298b8d9b1c3e88c0cff1bd6d3ae791a1b6f744b109"}
+
+===== PAGE 1 =====
+{"alpha_words": 36, "chars": 281, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Incident #80 -- Arlington, Vigginia -= 7 July 1947
+There is nothing in the description of this incident
+that contradicts an explanation of the object as a slow moving,
+bright meteor. Slow moving meteors are generally observed before
+midnights
+Declassification Authority: NND 57565

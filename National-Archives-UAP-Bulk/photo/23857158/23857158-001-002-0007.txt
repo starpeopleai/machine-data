@@ -1,0 +1,50 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T20:56:58Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 18684568, "source_ctime_ns": 1793358062574100100, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-001-002-0007.tif", "source_mtime_ns": 1785680983000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-001-002-0007.tif", "source_sha256": "8d692502f7804b43bae414ca2626fa7f2573bb5eb3a2bc2a846ca0dc73143ff0"}
+
+===== PAGE 1 =====
+{"alpha_words": 155, "chars": 1068, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+AISS DE 3 TP COME IN PLS HAVE AN EMERG
+FOR U
+FOR U
+AISSS DE 3 TP COME IN PLS HAVE EMBER
+4&4 &-
+AISCR
+AISAS
+AISAD
+РАССРА У
+ASDO
+PAISC
+AISTC
+AISIR
+AISCA
+AISCM
+AISMS
+AISUP
+1/SGT.
+O CIK
+DETS
+FLTS
+FILE
+ЗТР. 01
+ENC151
+VYD224
+VDFØ67
+JESYQ A177
+EMERGENCY, JEDEN BEPW 222
+DEJESYQ 67B
+Y. 3Ø2159Z
+FM CMDR MAXWELL FLIGHT SERVICE CENTER MAXWELL AFB ALA
+cen
+TO JEDEN CMDR AIR DEFENSE COMMAND ENT AFB COLORADO SPRINGS COLO
+BEPW/SEC. DEF WASHINGTON 25 D.C.
+ZEN/CMDR MAXEWELL AFB MONTGOMERY ALA
+/CIRVIS/ 3Ø MOVEMBER 1954 AT TIMES FROM/85ØZ TO 2015Z NUMEROUS
+REPORTS RECIEVED REPORTING BRIGHT OBJECT TGAILING SMOKE AND LARGE
+AND A JOY AIR CHANT ON FIRE. OBJECT VAS OBSERVED TO EXPLODE AND
+A MISSILE, A METEOR
+PIECES FALL TO GROUND LOCATIONS OF PERSONS MAKING INITIAL REPORT
+ATLANTA ARTC CENTER, GA; BIRMINGHAM MUNICIPAL AIRPOR TOWER, ALA;
+MAXWELL, AFB TOWER, 31446, 613 FIGHTER BOMBER SQUADRON ALEXANDRIA AFB
+1/LT JA GREGG AO
+WHLLE AIRBORNE IN F86 AIRCRAFT AT 400ØØ FT 1Ø MILES NORTH OF
+MAXWELL AFE; AFJET 52275 A B47 FROM HUNTER AFB IN BIRMINGHAM

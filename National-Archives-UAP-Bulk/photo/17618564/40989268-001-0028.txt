@@ -1,0 +1,82 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T20:42:13Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 17714111, "source_ctime_ns": 1793355589831911019, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0028.jpg", "source_mtime_ns": 1785564485000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0028.jpg", "source_sha256": "7788ea9d843e358a21b7a35db48309782f38ac06b8c161564e13dd55c29506f9"}
+
+===== PAGE 1 =====
+{"alpha_words": 824, "chars": 5547, "method": "ocr", "page": 1, "variant": "plain-vision"}
+42
+1. INTRODUCTION
+One of the factors suspected of being the cause of polyethylene-balloon ascent
+failures is blocking between layers of film as the balloon expands and unfolds during
+ascent. This blocking could prevent the balloons from maintaining a natural shape
+as they expand, resulting in circumferential stress buildup and perhaps isolated
+stress concentrations which could lead to balloon rupture. This blocking theory is
+substantiated by pictures taken from balloon-borne cameras. These pictures show
+material deployment as being intermittent and jerky rather than a smooth, con-
+tinuous process.
+Consider, for example, the ascent of a standard 3-million-cubic-foot, 1.5-mil
+polyethylene balloon with a gore length of 270 feet. Assuming this balloon to ascend
+at 1000 ft/minute, the balloon expansion in the critical 40,000 to 60,000-foot area
+would theoretically require 4 to 5 ft/minute of circumferential unfurling. At this
+rate stresses could build up rapidly if the balloon were restrained.
+In an effort to relieve the blocking problem and facilitiate more uniform de-
+ployment of expanding-ascending balloons, methods of decreasing the coefficient of
+friction of the balloon barrier material to reduce blocking were investigated.
+Presently this is done by dusting with cornstarch or polyethylene powder. Dis-
+cussions with polyethylene film manufacturers led to testing of polyethylene film
+with a "slip' agent added. I will outline this program in terms of the slip additive,
+test program and results, manufacturing problems, and flight results.
+2. SLIP ADDITIVES
+Slip additives have been used in polyethylene films for some time. The additive
+used in the film we tested is a saturated fatty acid amid. This substance is
+thoroughly mixed with the melted polyethylene resin before extrusion. The additive
+mixes well with the resin at extruding temperatures but does not react chemically
+with it. Upon cooling and crystallizing of the extruded film, the additive exudes to
+the surface, coating both sides of the polyethylene with a thin film.
+The final result, then, is basically the standard polyethylene with very thin
+layers of the slip additive on both sides. These layers of the slip agent impart the
+slipperiness to the polyethylene, the polyethylene's apparent coefficient of friction
+being determined by the percentage of additive used in the film resin. It should be
+noted, however, that the slip agent can be worn off by friction.
+Polyethylene films using this type of additive are presently marketed in five
+grades of slípperiness - no slip, low slip, medium slip, high slip, and extra high
+slip. "No slip' has no additive and the others have increasingly higher percentages
+of additive. Present balloon films as purchased per MIL-P-4640A contain no slip
+additives.
+3. TESTING PROGRAM
+The film tested in this program was 1.5-mil polyethylene with the "hi-slip'
+amount of slip additive. This film will be referred to as hi-slip polyethylene from
+here on.
+The film was supplied to Viron certified to conform to MIL-P-4640A.
+The purpose of the testing program was to determine if hi-slip polyethylene
+offered any advantages over standard polyethylene for use in high-altitude balloons.
+The program was conducted in two steps. First, a series of tests was conducted
+to determine the film's physical properties and fabrication capabilities; and
+second, two model balloons were constructed and tensile-tested to compare the
+holding ability of two types of commonly used end fittings.
+The physical material evaluation consisted of testing the film for coefficient of
+friction; material tensile strength, both longitudinal and transverse; seal strength;
+peel adhesion of pressure-sensitive tapes; and tear initiation. All tests were con-
+ducted at room temperature and at -60°C, per ASTM test standards. Graphs were
+made of Instron test results. Tests were conducted on both standard and hi-slip
+polyethylene.
+The particulars of these test results will not be covered. Rather, a general
+comparison of the two films as they performed in each test will be presented.
+Standard tensile tests were conducted on both the films with no apparent
+difference between the two. The hi-slip film acted quite similarly to standard
+polyethylene, both in elongation and in ultimate tensile strength.
+Seal tests of both hot jet and vertrod seals of hi-slip to hi-slip, and hi-slip
+to standard polyethylene were made. No significant difference in seal strengths as
+compared to seals of standard polyethylene was noted.
+Tape-peel adhesion tests were conducted on both films utilizing Minnesota
+Mining No. 480 polyethylene tape and No. 890 glass filament tape. Peel was 180°
+at a stripping rate of 2 and 5 inches per minute. Adhesion to the hi-slip film was
+slightly better than to standard film at room temperature, but cold-temperature
+adhesions were equally poor for both films. It is significant for all polyethylene
+balloons, that as temperature decreases from +25°C to -60°C, material and seal
+strength of polyethylene double, whereas tape-peel adhesion is reduced to 1/10
+its normal value.
+Tear resistance of both films was nearly equal.
+Coefficient of friction of films varied as would be expected. Both static and
+sliding coefficients were measured at 2- and 5-inch-per-minute pull rates.
+Figure 1 shows schematically the friction-testing apparatus used with the Instron
+tensile tester. At room temperature the coefficient of friction of hi-slip polyethyl-
+ene was only about 25 to 40 percent of that of standard polyethylene. At -60°C, the

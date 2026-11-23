@@ -1,0 +1,37 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T20:34:30Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8453670, "source_ctime_ns": 1793386015920485318, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28994607/1000.jpg", "source_mtime_ns": 1785748332000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28994607/1000.jpg", "source_sha256": "7dc8a4d7010c997df118ced0ce9e3be512ea88b8e1c33a80497e5b17c2a5645c"}
+
+===== PAGE 1 =====
+{"alpha_words": 161, "chars": 1009, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+UNCLASSIFIED MESSAGE
+INCOMING
+AF IN : 58871 (16 Sep 61) PE/ns
+ACTION: CIN-17
+INFO: ARMY-2, NAVY-2
+OOP-CP-1,
+SMB C 082
+YCZCHQA56ØZCQJA814
+'''''YY RJEZHQ
+DE ROKDAW 21 ZEX
+JCS-35, OSD-15, NSA-7, CIA-11, OOP--2,
+Bill
+3
+Y 160505Z ZEX
+FM PAOTYF/FFC ELMENDORF AFB ALAS
+TO RJKDAG/COMAAC ELME DORF AFB ALAS
+RUKPFRXCG USARAL FT RICH ALAS
+RBKAC/COMALSEAFRON KODIAK ALAS
+RJWFAL/CINCNORAD ENT AFB COLO
+RJEZHQ/COFS USAF WASHINGTON DC
+BT
+UNCLAS AL500. FFC. CIRVIS REPORT N5331D PILOT SHULTZ. ON A FLI FM
+OTZ TO CTH YESTERDAY AT 150325Z FLYING OVR KIVALINA AREA
+SIGHTED FAR TO THE WEST A SINGLE CLOUD WITH A VERTICAL PILLAR
+EXTENDING UP FROM THE HRZN THEM MUSHROOMING ON TOP. THE
+LONE CLOUD FORMATION WAS OBSERVED FOR APRXLY 20 MINS BEFORE
+IT WAS NEARLY DISAPATED. THE SISTANCE OF CLOUD ESTIMATED
+AT 300 TO 400 MILES AS FLI WX AT THE TIME WAS CLR VSBY VERY
+GOOD AND THERE WERE NO OTHER CLDS SEEN ACFT WAS FLYING AT
+6520FT.
+BT NOTE: Advance copy del to CIN & 00P-CP (160135L).

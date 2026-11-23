@@ -1,0 +1,57 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T20:41:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 16514439, "source_ctime_ns": 1793355476585520729, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0058.jpg", "source_mtime_ns": 1785564462000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0058.jpg", "source_sha256": "e5c1b75b9c7a2d20089c2ced240e25cc1b3bbecb32b7e18df18b969b670ae6e1"}
+
+===== PAGE 1 =====
+{"alpha_words": 453, "chars": 3095, "method": "ocr", "page": 1, "variant": "plain-vision"}
+106
+5) Programming of the stratospheric flight so that all known and most unknown
+sources of contamination would be minimized, and incorporation of controls that
+would discern the distinction between organisms trapped in the stratosphere and
+those entrained by error before launch, after impact, and during analysis.
+Some of these problems are truly formidable. While we are not certain that
+they are all satisfactorily solved, we have made certain advances in this field. We
+have within the last year successfully flown four probes to altitudes between 65,000
+and 90.000 ft as part of the program.
+As shown in Figure 9 the sampling unit consists essentially of the modified
+direct-flow sampler. Each sampling unit is fitted with a circular filter of polyure-
+thane foam approximately 1 ft? in area. Collection efficiency above 40,000 ft is
+greater that 90 percent for 1-micron particles at the programmed air flows (500 to
+1000 fpm). Polyurethane was chosen, after evaluating a variety of potentially use-
+ful filters, on the basis of its efficiency, chemical, and biological inertness, low
+pressure-drop, ease of sterilization, and ease of recovery of biological particles
+for culturing and identification.
+We recognized that filtration, as a collection method, might be inimical to the
+viability of vegetative cells. This was weighed against the need of acquiring large
+samples with relative ease in a limited time period. We hoped that any organism
+already present in the stratosphere would be sufficiently hardy to withstand our
+collection precedure.
+Air was pulled through the filter by a Torrington blower powered with a West-
+inghouse de aircraft motor. The air was exhausted through a high altitude flow
+meter to measure the volume sampled.
+Each unit contained a spring-loaded, self-locking gate that remained cocked
+open during launch, ascent, and sampling. At the termination of a given sampling
+sequence, a squib was fired releasing the spring on these sealing gates. The gates,
+when shut and locked, protected and filter from extraneous contamination during
+descent and impact.
+To protect the interior of the sampler from contamination during launch and
+ascent, the sampler units were fitted with dust covers and nylon shrouds after as
+sembly. The units were then wrapped in surgical paper and sterilized in hospital
+autoclaves.
+The sampling payload (Figure 10a) consisted of four of these sampling units
+mounted vertically on the four corners of a gondola in which were nested the power
+packs and the regulating and recording instruments. The air inlet was pointed
+downward for sampling during descent.
+After the samplers were attached to the gondola, the complete pavload was
+kept under ethylene oxide pressure until ready for launch (Figure 10b).
+During launch (Figure 11) the sterile interior of each unit was maintained invio-
+a) Unit Ready for Attachment to Gondola
+- Exhaust Duct
+Flowmeter. PR
+Valve Closure,
+Spring Loaded
+Motor -Blower
+Torrington 704
+Filter Collector
+Tachometer
+b) Airflow Pattern through Unit in 'Cocked-open' Position
+Figure 9.
+• Individual Sampling Unit

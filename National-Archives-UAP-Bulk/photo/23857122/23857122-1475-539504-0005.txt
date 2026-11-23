@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T21:04:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 21995104, "source_ctime_ns": 1793357545086617471, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1475-539504-0005.tif", "source_mtime_ns": 1785564923000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1475-539504-0005.tif", "source_sha256": "b3b82d8d6566fae1e2e9fcebbafe55d254c1550b829d4879645df48daedd1de7"}
+
+===== PAGE 1 =====
+{"alpha_words": 142, "chars": 934, "method": "ocr", "page": 1, "variant": "plain-vision"}
+RESTRICTED
+STATEMENT
+IR- 9-53
+Carl Y. Edwards
+AF-14215231
+T/Sgt
+At 1900GCT 2 February 1953 I was in the CFC gunner's
+position of B-50 type aircraft No. 9365 flying at an
+altitude of 25,000 feet. I was searching for fighter attacks
+from F-86 aircraft which were in the area. I saw a B-52 at
+(3) three o'clock high. As this aireraft passed, I noticed
+a silver object in its wake. I called on the interphone.
+"Does anyone see that silver object behind that B-52?"
+I was answered by my right gunner saying, "yes". Neither one
+of us could identify the object. We both took gun camera
+pictures to confirm the sighting.
+The object looked like a silver disk, first showing
+its circular side and then the flat side. It first appeared
+high at (3) three o'clock and was left high at (4:30) four
+thirty. I watched until it went out of sight.
+CarlY. Eduva
+CARL
+EDWARDS
+0539503
+SECURITY INFORMATION
+RESTRICTED
+Declassification Authority: NND 57565

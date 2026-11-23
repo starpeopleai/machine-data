@@ -1,0 +1,22 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T21:08:07Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 11736242, "source_ctime_ns": 1793358833589967165, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-050-0004.tif", "source_mtime_ns": 1785681227000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-050-0004.tif", "source_sha256": "6d30354227f9ab573ff8603672aea0f9294ba1705a009cf551c7ef1e6f8c8a78"}
+
+===== PAGE 1 =====
+{"alpha_words": 37, "chars": 307, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+AF FORM 112-PART I1
+APPROVED 1 JUNE 1948
+FROM (Agency
+Plight 2-0, 4602d AISS
+UNCLASSIFIED
+CLASSIFICATION
+AIR INTELLIGENCE INFORMATION REPORT
+REPORT NO.
+2C-UF03-6-55
+PAGE
+Natest M. Mate
+ROBERT M YATES
+2nd It.,
+USAF
+Officer in Charge
+INCLS ( See individual Parts )
+PAGES

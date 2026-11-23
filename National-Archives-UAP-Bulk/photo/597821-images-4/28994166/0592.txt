@@ -1,0 +1,42 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T20:36:16Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9125514, "source_ctime_ns": 1793385802446315851, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28994166/0592.jpg", "source_mtime_ns": 1785748553000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28994166/0592.jpg", "source_sha256": "a073b95490381a681b24a88b8fd4979132a25c3cc14b76cb44083b66dd85fd53"}
+
+===== PAGE 1 =====
+{"alpha_words": 127, "chars": 924, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+UNCLASSIFIED MESSAGE
+INCOMING
+AF IN : 28559(18 Aug 61)
+INFO
+CIN-17, ARMY-2, NAVY-2,
+CIA-11, OOP-2,
+0OP-CP-1
+SAPS- 3
+as-35,
+R/SCC
+OSD-15, NSA-7,
+o× 3
+DE RJHPKH 21
+ZN R
+0 1817152/
+FM HAW AIR DEF DIV KUNIA HAWAII
+TO RJHPKM/CINCPACAF HICKAM AFB HAWAII
+RBHPQ/COMMAWSEAFRON PEARL HARBOR HAWAII
+INFO RJEZHO/COFS USAF WASHINGTON D C
+RJWFALB/CINCNORAD ENT AFB COLO
+RBHPA/CINCPAC CAMP H M SMITH HAWAII
+RUHPFS/CINCUSARPAC
+RBHPB/CINCPACFLI
+RJAPAZ/COMUSJAPAN FUCHU AS JAPAN
+RUAMCR/COMUSKOREA SEOUL KOREA
+RUAGFL/COMUSSTDC TAIPEI TAIWAN
+RBHPHH/COMHAWSEAF RON OCC
+AF GRNC
+* BT
+UN C L'A S MERINT:
+VAPOR TRAIL FROM E. HORIZON TO W. HORIZON. PROBABLE MISSILE,
+ALTITUDE LOW. VAPOR TRAIL MOVED SOUTHERLY OVER VESSEL AND
+SPPEADING RAPIDLY. REPORTED BY SS LURLINE. POSITION 2453N15022W
+AT 18/1600. HEADING 240 DEGREES. SEA CALM AT 18/16352.
+BT
+NOTE: Advance copy delivered to OOP-CP 181415L Aug 61

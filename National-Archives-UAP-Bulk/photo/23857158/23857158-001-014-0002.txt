@@ -1,0 +1,54 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T20:56:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 17762120, "source_ctime_ns": 1793358114948268065, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-001-014-0002.tif", "source_mtime_ns": 1785680997000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-001-014-0002.tif", "source_sha256": "6d55a8392ccb0d2a623fae5524ee623560e5eb9b8fccf3e6abcc18917eef7788"}
+
+===== PAGE 1 =====
+{"alpha_words": 101, "chars": 870, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+30-L 0045 PDŚ
+UFOB
+A TWO FOOT WIDE TEN FOOT LONG
+B LONG OBJECT
+CARED
+D TWO
+E NOT SPECIFIED
+F NEGATIVE
+G NEGATIVE
+H NEGATIVE
+Long Beach, Calif:
+2 Dec 54
+PAGE TWO BWDKW, 21
+I NEGATIVE
+A CASUAL OBSERVATION
+B 45
+C. GOING WEST
+D STRAIGHT LINE
+E SUDDEN
+F FIVE MINUTES
+3
+A GROUND VISUAL
+B NEGATIVE
+C NEGATIVE
+4
+A 02/0500Z
+NIGHT
+5
+A ONLY ONE OBSERVER NO REFERENCE
+INSPECTOR#
+7
+A CLEAR
+G BEACH CALIFORNIA
+Ontable balloons
+PAGE THREE BWDKW 21
+B LONG BEACH AIR WEATHER SERVICE DET REPORTED WINDS AS FOLLOWS
+6000 FT 160 DEG 14 KTS CMM 10000 200 26 CMM 16000 222 88
+20200 220 72 CMM 30000 220 103 CMM 50000 220 66
+C UNLIMITED
+D FIVETEEN NILES VISIBILITY
+E NEGATIVE
+F NEGATIVE
+& NEGATIVE
+9 NEGATIVE
+10 NEGATIVE
+11 NEGATIVE
+12 OFFICER OF THE DAY 1/LT WILLIAM H CUTHBERTSON PD INFO
+RECEIVED VIA TELEPHONE PD NEGATIVE ANALYSIS PD
+02/0753Z DEC BWDKW

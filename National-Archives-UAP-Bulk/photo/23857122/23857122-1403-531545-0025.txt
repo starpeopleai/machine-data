@@ -1,0 +1,47 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T20:55:13Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 50591144, "source_ctime_ns": 1793357492771979051, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1403-531545-0025.tif", "source_mtime_ns": 1785564910000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1403-531545-0025.tif", "source_sha256": "1ce8a50ea14b45446ca4e9c02249d4d7504c02df00c247bec5e0d4ecf8d19378"}
+
+===== PAGE 1 =====
+{"alpha_words": 48, "chars": 359, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+37 {
+
+YBECRET *
+
+> :
+© ” ARP.
+
+v
+
+M
+
+Wi “Rr, \
+a i 767th ACW Sq
+
+Korte
+24.
+Ap C
+Ree
+
+i
+1
+
+05002
+
+oe
+
+Wasp
+
+04152 © 769th ACRW Sq! .
+Point of Observation
+Visual and Radar
+
+is BP. OoTo |
+
+Overlay for -
+GILA RIVER - WAC 405
+Scale 1:1,000,000
+
+NG) 135tH_ACaW Sq AG et 68th AGN Ba) fog : Ee
+sis Albuquerque I 4s
+ABG Mo | : ,
+
+Declassification Authority: NND 57565

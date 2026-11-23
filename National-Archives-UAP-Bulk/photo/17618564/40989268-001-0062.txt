@@ -1,0 +1,82 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T20:26:01Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 15971640, "source_ctime_ns": 1793355623799829371, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0062.jpg", "source_mtime_ns": 1785564491000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0062.jpg", "source_sha256": "375055538b4d12d59eefba2528f4e55a12d9cf2986586bebe9aa18cc87f9d0f1"}
+
+===== PAGE 1 =====
+{"alpha_words": 142, "chars": 1102, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+~-~=—4\
+
+ss eee
+bol cee See
+SL: “| IN FEET
+
+~~—4~
+
+GROSS PACKAGE
+WEIGHT IN POUNDS
+
+=e —~20 a
+
+PAYLOAD — POUNDS
+
+}
+}
+pe
+
+70
+FLOTATION ALTITUDE — THOUSANDS OF FEET
+
+Figure 16. Payload vs Flotation Altitude for Various Diameters of Balloons and
+Gross Air Launched Package Weights
+
+EXPLOSIVE RELEASE FOR
+V-BAND COUPLING
+ALTERNATE LOCATIONS OF
+\ EJECTOR FOOT DEPENDING
+/ ON AIRCRAFT USED
+
+SECTION A-A
+
+Tal assy
+FOR BALLOON FILLING ELECTRICAL h CORE as
+Q CONNECTOR TUNNEL FOR oe
+HELIUM PASSAGE BALLOON PACK
+
+—— 78.00 — eee od A a —
+EXPLOSIVE ~ ACTUATED VALVE— = " - -
+
+mee CHvTe
+
+HELIUM STORAGE BOTTLE ———— p
+L MAIN CHUTE
+
+MAIN CHUTE / CANOPY l/ PAYLOAD SECTION
+SHROUD Li
+mes ZF v-eano courunes vA
+WITH EXPLOSIVE RELEASES ELECTRICAL CONNECTOR 120° APART
+
+EXPLOSIVE-ACTUATED RELEASE
+FOR OROGUE CHUTE @ BALLOON COVER
+
+Figure 17. A Proposed Design
+
+Figure ite
+
+Lowering Winch in H-21 Helicopter
+
+Figure 19. Deployment Technique—
+
+Figure 20. B
+
+FILL LINE
+
+BALLOON RELEASE
+SEPARATION PLANE
+
+BALLOON COVER RELEASE
+
+FILL LINE EXTENSION
+
+PAYLOAD
+
+BALLOON PROTECTIVE COVER
+
+alloon, Payload and Fill Line Arrangement

@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T20:36:45Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9191347, "source_ctime_ns": 1793383740970754732, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28987748/1361.jpg", "source_mtime_ns": 1785748424000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28987748/1361.jpg", "source_sha256": "f00ea856b0c0d7a5027a22e54d32bf7894ab2cd65fbadffc2821dcc12a6ba6c1"}
+
+===== PAGE 1 =====
+{"alpha_words": 54, "chars": 392, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UNITED STATES DEPARTMENT OF THE INTERIOR
+TRUST TERRITO
+OFFICE OF THE HIGH COMMISSIONER
+0 20% 54:
+GUAN. •
+COMMERCIAL
+CABLE ADDRESS
+HICOTT
+For United Stat
+Reur Admiral W
+Commander, Naval
+Forces
+Cusp,
+Wendt
+Dee Only
+ce Officer
+Reference
+car
+Commissioner
+Truk District.
+report dated Joly 28,
+1980,
+restigated on Joly' 27, 406<
+rod statement by the individ
+High
+Very
+Enclosures (9)
+For United BE:

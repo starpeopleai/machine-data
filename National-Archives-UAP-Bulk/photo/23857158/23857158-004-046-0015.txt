@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T20:43:59Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 34482878, "source_ctime_ns": 1793358793821616657, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-046-0015.tif", "source_mtime_ns": 1785681202000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-046-0015.tif", "source_sha256": "0488a6c32b295247073df9ef971cc89ea728c18a7267b8dcd6bd7d6d504ee1f4"}
+
+===== PAGE 1 =====
+{"alpha_words": 75, "chars": 548, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+UNCLASSIFLED
+AIR INTELLIGENCE INFORMATION REPORT
+20-1OВ-3-55 PART ON A 2.
+FIlet 2 C. 4602d AISS
+L. Description of Objects
+" aire held at are longth
+de Only one object vas aighted, estim
+atrorett.
+be 20,000 foet
+- Object vas tee for from observer th
+è le tail, trail er orbanati
+to Te other portiment of amme fortu
+2- Description of Course of Objacte
+• Obser
+SO GOOD TELE SBBAST
+Debbfue: AFR
+A abeut 12/14302 3 125
+Munictoal Airport (G170 4709), he vas 1 Iloving H
+ad at 11 c/cluck 45 degr
+ber 5046
+osts
+St dia

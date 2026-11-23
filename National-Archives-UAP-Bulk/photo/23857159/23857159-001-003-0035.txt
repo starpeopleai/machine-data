@@ -1,0 +1,57 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T21:00:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 21758492, "source_ctime_ns": 1793360718685186211, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-003-0035.tif", "source_mtime_ns": 1785565116000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-003-0035.tif", "source_sha256": "b54c00bf147cc38cb6abf125f471219e20015f9b61e7c4a301135107c9f00106"}
+
+===== PAGE 1 =====
+{"alpha_words": 223, "chars": 1617, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AF FORM 112-PART II
+APPROVED 1 JUNE 1948
+Unclassified
+(CLASSIFICATION)
+AIR INTELLIGENCE INFORMATION REPORT
+33
+FROM (Agency)
+Ha 5+th Ftr Gru (AD), Gtr Pgh Apr
+PAGE
+PAGES
+1. Description of objects:
+&. Round at first, flattening out as distance increased.
+b. Size equivalent to orange or grapefruit held at arms length.
+c. White metallic.
+d. Three
+friangular.
+Two preceding; one following. One of the leading pair
+looked as if it might be the shadow of the.other.
+1• None
+g• None
+h. None
+1. None
+2. Description of course of objects:
+8. Observer glanced up and saw it.
+b. 35-40 degrees above horizon. Azimith 170 degrees.
+c. 35-40 degrees above horizon. Azimuth 090 degrees.
+d. Objects appeared to be climbing straight ahead of their course.
+e. Passed out of sight.
+1. Two to five minutes.
+3. Marer of observation:
+a. Ground-visual
+b. None
+c. None
+4. Time and date of sighting:
+#. 2400Z, 27 June 1957.
+h. Dusk
+5. 40 Degrees, 20 minutes North; 79 Degrees, 47 minutes West.
+6. Identifying information of all observers.
+Cirtlian
+Port Vie,
+Age - 24. Address
+Occup:
+Civilian
+- Approxi-
+Duquesne, Pa., Research Lab Assistant
+NOTE: THIS DOCUMENT CONTAINS INT-DAMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S. C.-
+31 AND 32, AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW.
+IT MAY NOT BE REFRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF
+INTELLIGENCE, USAF.
+Unclassified
+(CLASSIFICATION)
+DECLASSIFIED
+Authority NND 9237007

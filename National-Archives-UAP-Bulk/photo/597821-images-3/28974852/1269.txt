@@ -1,0 +1,20 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T20:34:39Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8506160, "source_ctime_ns": 1793380191026880975, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28974852/1269.jpg", "source_mtime_ns": 1785700646000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28974852/1269.jpg", "source_sha256": "5f2d5e758f9d0d863124482a69ba5ea5784acacc070cf3c9346ddf9623881e69"}
+
+===== PAGE 1 =====
+{"alpha_words": 54, "chars": 331, "method": "ocr", "page": 1, "variant": "plain-vision"}
+F•
+VILI NONE
+IX. NONE
+X SEE COMMENTS BY EADF
+XI. NO COMMENTS. STEPHEN M. FLANAGAN, CAPT, USAF, OPERA-
+TIONAL INTELLIGENCE OFFICER.
+XII A. NEG
+B. NEG
+XIII NEGATIVE
+REMARKS: BELIEVE THIS TO BE PAIR OF BASE FTRS.
+COMMENTS BY EADF: CALLED BASE OPS. A LOT OF JET ACFT IN
+THE AREA AT TIME OF SIGHTING;
+Conour
+BT
+7/<
+18/2210 Z NOV RJEPNP

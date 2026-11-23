@@ -1,0 +1,54 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T20:57:04Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 21557664, "source_ctime_ns": 1793361380797743976, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-005-0073.tif", "source_mtime_ns": 1785565327000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-005-0073.tif", "source_sha256": "7e9ca0904a06c6efdea568cdc5b8f5006e60070912ab02c7c0f875619eb261be"}
+
+===== PAGE 1 =====
+{"alpha_words": 47, "chars": 523, "method": "ocr", "page": 1, "variant": "plain-vision"}
+10
+CONFIDENTIAL (when filled in)
+MINICARD CODE SHEET
+NO 01
+Pages INCLOSURES
+ALL
+- COVER
+I TITLE PAGE
+NONE
+$ 2/9308
+_ TABLE OF CONTENTS
+_ FOLLOWING PARTS
+S2195Ø8
+CF_
+ТАТ5 1°3 3
+LOCATOR
+VALACÓOV,
+59Ф10.0
+X 09125.9 ₴
+MULTIPLICITY CODE
+0.00
+CEO D 51YSTEM
+VALACDE
+V50010
+XØ91259
+ZNØ1001
+Y I
+CCESSION D5
+1623620
+DCOLDBH
+LBKCL2I
+W011021
+2 NAL ФФФ
+Y291259
+1623620
+DCOLDBA
+LBKCL21
+/ 6ф3ффф
+J. 07.12.59
+1623466
+1623462
+160300
+฿7125ął
+-EC
+100805
+FORM
+AFHQ APR 59 0-106
+DECLASSIFIED
+Authority NND 9237007
+CONFIDENTIAL (when filled in)

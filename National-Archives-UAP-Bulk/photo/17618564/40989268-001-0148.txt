@@ -1,0 +1,56 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T20:41:58Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 17288228, "source_ctime_ns": 1793355711044841370, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0148.jpg", "source_mtime_ns": 1785564507000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0148.jpg", "source_sha256": "d77b47fd0d544b489ecd669901ffd670ad23bc005a35527f6f8bedbfa6c23eee"}
+
+===== PAGE 1 =====
+{"alpha_words": 428, "chars": 2821, "method": "ocr", "page": 1, "variant": "plain-vision"}
+282
+Figure 1 is a photograph of the polyethelene balloon during inflation. This
+balloon was small, roughly 30 feet in gore and 15 feet in diameter when fully dis-
+tended, and was therefore easily released under most circumstances. Venting was
+accomplished by means of an opening adjacent to the load fitting in the bottom of
+the balloon. Ascent rates of between 600 and 800 feet per minute were obtained
+with a payload of six pounds and an initial inflation volume of 350 cubic feet of
+helium.
+Figure 1. Polyethylene Balloon During Inflation
+Figure 2 is a performance chart for the polyethylene balloon. Assuming a
+standard atmosphere, the altitude range is seen to be 87 to 68 thousand feet,
+corresponding to no load and six pounds of load respectively. In the actual opera-
+tions, an effective method of selecting lower-level float altitude was evolved with-
+out increasing the load. The balloon was reduced in volume by the simple expedient
+of tying it off from the top. This was esthetically displeasing, but provided
+adequate results. With the temperature at the float altitude known, the balloon
+could be floated within a few thousand feet of the desired altitude.
+The neoprene balloon, which was used to some extent, incorporated a unique
+arrangement for achieving constant-level performance. This float mechanism is
+schematically represented in Figure 3. The device consists of a ribbon wound
+around a reel which is fastened to a flapper valve at the base of the balloon. A
+second ribbon or tape is passed through an opening in the top of the balloon which
+283
+is sealed with a cork. Prior to release of the balloon, a predetermined amount of
+tape is pulled from the balloon - the amount depending upon the load and altitude
+desired.
+The cork is replaced, the balloon is released, and as it expands with
+altitude, the reel unwinds until its tape is fully extended, the flapper valve then
+vents gas, and the balloon stabilizes. A performance curve for this balloon, assum-
+ing the 1962 U.S. Standard Atmosphere and a six-pound payload, is shown in
+Figure 4.
+TEMPERATURE AT FLOAT ALTITUDE IN °K
+300
+250
+200
+•a79
+LOAD
+ON
+LOADỊẠỊẠ
+_SID ATMOSPHERE-
+70
+FLOAT ALTITUDE IN THOUSANDS OF FEET
+Figure 2. Polyethylene Balloon Performance
+The final comment on the balloon system concerns a ballasting device (Figure 5)
+which was developed to alleviate the problem of the descent of the constant pressure
+balloons at sundown.
+A telescoping rod atop the bellows maintains a constant
+pressure on the ball valve as the balloon ascends. A slight backlash in the mechan-
+ism maintains the pressure while the balloon is at float altitude, but if the balloon
+decends, the bellows will contract, releasing the ball and thereby the fluid ballast.
+The device was designed to release ballast and stabilize the balloon through one
+sunset.

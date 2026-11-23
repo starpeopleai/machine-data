@@ -1,0 +1,72 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T21:10:42Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 18495800, "source_ctime_ns": 1793356931563738378, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1022-446840-0010.tif", "source_mtime_ns": 1785564792000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1022-446840-0010.tif", "source_sha256": "ec96a85b0357a78d6f986b81c838045a6d7e1fce836be71bcdf9b32a25f36bcb"}
+
+===== PAGE 1 =====
+{"alpha_words": 166, "chars": 1155, "method": "ocr", "page": 1, "variant": "plain-vision"}
+RESTRICTED
+Page 8
+39. Do you think you can estimote the speed of the object?
+(Circle One)
+No
+IF you onswered YES, then what speed would you estimate?
+600 to 900
+m.p.h.
+40. Do you think you can estimate how for away from you the object was?
+ẠỊCircle One)
+No
+IF you answered YES, then how far away would you say it wos?
+4500
+feet.
+41. Please give the following informotion about yourself:
+NAME
+Jones
+Last Name
+William
+First Name
+Thomas
+Middle Name
+ADDRESS
+3495 Qvesta Drive
+Street
+Los Alamos
+City
+New Mexico
+Zone
+State
+TELEPHONE NUMBER
+2-365oł
+What is your present job?
+Security Inspector, Atomic Energy Commission
+Age
+33
+Sex
+Male
+Please indicate any special educational training that you have had.
+e. e. Technical school Air Force Radio School
+a. Grade school
+High school
+c. College
+d. Post graduate
+(Type) -
+Scott Field, I11. (1942)
+f.
+Other special training Los Angeles Police
+Academy, Security Service Training
+Academy
+42. Date you completed this questionnire:
+6
+Day
+January
+Month
+1953
+Year
+s/ William T. Jones
+A CERTIFIED TRUE COPY
+Kens
+Gass
+GLEN D PARRISH
+Ist Ito,
+USAF
+AO 2067339
+RESTRICTED
+SECURITY INFORMATION
+Declassification Authority: NND 57565

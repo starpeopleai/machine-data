@@ -1,0 +1,75 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T21:00:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 17947044, "source_ctime_ns": 1793355684452049190, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0123.jpg", "source_mtime_ns": 1785564502000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0123.jpg", "source_sha256": "6ec10075e342bac35119f816fb377db5c1cbe3aa3a6ee5404c44041215b1331d"}
+
+===== PAGE 1 =====
+{"alpha_words": 681, "chars": 4532, "method": "ocr", "page": 1, "variant": "plain-vision"}
+232
+1. INTRODUCTION
+There is currently considerable interest in the water-vapor content of the
+stratosphere and in its variation with time. Meteorological interests include the
+development of stratospheric circulation theories; relevance to military technology
+includes the importance of water-vapor data to missile detection and tracking.
+Balloon soundings with automatic frost-point hygrometers offer a promising means
+to obtain continuous humidity information up to an altitude of about 100,000 feet.
+Previous data obtained by this technique, however, have differed by more than
+two orders of magnitude in vapor-to-air mixing ratio. These data have been re-
+viewed elsewhere (Mastenbrook, 1963, 1964; Gutnick and Salmela, 1963; Rohrbough
+and Ballinger, 1964) and can be divided roughly into two groups, those which show
+the upper stratosphere to be dry and stagnant and those which show it to be wet and
+variable in time.
+Gutnick (1961) has suggested that this controversy over upper-stratospheric
+humidity cannot be settled by making measurements of no greater reliability than
+those made to date. We strongly support this point of view. The lack of reliability
+in frost-point data from automatic hygrometers stems from the fact that the quantity
+of water vapor present is extremely minute. This leads to two problems which will
+be discussed in some detail. First, the scarcity of water vapor makes the response
+time of automatic hygrometers so long that it may prove necessary to modify
+drastically current sampling techniques. Secondly, even the slightest amount of
+water-vapor contamination from the measuring system produces a very large
+fractional error. These problems pertain to all types of automatic frost-point
+hygrometers.
+Our current activities include the preparation of instrument packages for an
+extensive stratospheric water-vapor study by AFCRL (Sissenwine, Grantham and
+Salmela, 1964). Based on our examination of the basic problems mentioned above,
+new techniques and equipment have been adopted for this study which are aimed
+at attaining unprecedented reliability. These are described in the remaining por-
+tion of this paper.
+2. BASIC PROBLEMS
+2.1 Frost-Layer Dynamics
+In an automatic frost- (or dew-) point hygrometer, the temperature of the
+cooled surface is controlled by a servomechanism which strives to maintain a
+stable deposit of frost (or dew). The rates of buildup and sublimation of the frost
+233
+layer in this process determine not only the design parameters for optimum auto-
+matic control but the very feasibility of the device as a continuously monitoring
+instrument. Slow rates imply that, for a cooled-surface temperature far from the
+frost point, the frost deposit will take a long time to change enough to be detected
+and to cause a correction in the surface temperature. This can lead to intolerable
+response characteristics and gross errors in the frost-point determination if the
+instrument is used in an environment where the frost point changes in time (such
+as a stratospheric balloon flight).
+We have estimated previously (Ballinger, Fricke and Murphy, 1964) this rate
+of depost-thickness change for two typical geometrical cases: (1) flow of the
+moist-air sample over and parallel to a flat plate containing the condensate deposit,
+and (2) flow of the moist air through a narrow channel formed by two parallel walls,
+one of which contains the condensate layer. Changes in the bulk concentration of
+water vapor along the direction of flow (for example, a lowering of the concentra-
+tion when the frost temperature is below the frost point) are neglected. Therefore,
+the estimated rates are valid only when they are small in magnitude and when the
+length of the deposit (along the direction of flow) is small; otherwise the magnitude
+of the calculated rate is larger than the actual value.
+For either geometrical case, the rate of thickness change has the form
+đt = l (PA - PI)
+(1)
+where o is the thickness of the deposit in units of mass per unit area.
+The partial densities of water vapor in the bulk flow and in a small boundary
+layer immediately above the condensate are pA and OF respectively. PA can be
+taken to be the saturation vapor density corresponding to the frost point of the
+moist-air sample, and Op that corresponding to the instantaneous temperature of
+the frost.
+The mass-transfer coefficient I for the flat-plate geometry is given by
+e =
+(2)
+where V is the flow velocity, Re the Reynolds number, and Sc the Schmidt number.
+The latter are given by
+Re = pV
+Sc = H

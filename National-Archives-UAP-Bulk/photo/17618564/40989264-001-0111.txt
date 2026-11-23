@@ -1,0 +1,141 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T21:11:41Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 20582527, "source_ctime_ns": 1793355282775495882, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989264-001-0111.jpg", "source_mtime_ns": 1785564426000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989264-001-0111.jpg", "source_sha256": "242f81006b799817cd9e19ec6d6f02be8f8291b33d328ab84b82567c180e3662"}
+
+===== PAGE 1 =====
+{"alpha_words": 1044, "chars": 6968, "method": "ocr", "page": 1, "variant": "plain-vision"}
+214
+Professional affiliations include the American Physical Society, the American
+Nnclear Society, the American Institute of Aeronautics and Astronautics, the
+Aerial Phenomenon Research Organization, the National Investigations Commit-
+tee on Aerial Phenomena. Mr. Friedman is on the Board of Directors of the UFO
+Research Institute of Pittsburgh and on the Standards and Program Committees
+of the Shielding Division of the American Nuclear Society.
+Mr. Friedman has presented papers at technical society meetings and has
+chaired sessions at such meetings. He has written numerous classified and un-
+classified reports and has published articles on UFOs as well as on radiation
+shier. Friedman has made dozens of radio and TV appearances across the United
+States and in Canada. These include the Joe Pyne Show (Los Angeles radio),
+Long John Nebel (New York City), the J. P. McCarthy Show in Detroit, all four
+TV stations in Pittsburgh, and others in Raleigh, Akron, Detroit, Baltimore,
+Toronto, Waco, Phoenix, Calgary, Albuquerque, etc.
+Mr. Friedman, his wife, and three children reside at 702 Summerlea Street in
+Pittsburgh, Pennsylvania.
+PREPARED STATEMENT BY STANTON T. FRIEDMAN
+UFOS AND SCIENCE
+I am grateful to the House Committee on Science and Astronautics for inviting
+me to present my views on Unidentified Flying Objects.' These viewpoints shall be
+presented in the form of answers to specific questions with the references, tables
+and figures presented at the end of the article. A partial list of the technical
+organizations to which I have presented a lecture entitled "Flying Saucers are
+Real' is given in Appendix 1. Appendix 3 is a reprint of an article I wrote. Ap-
+pendix 2 is a list of patents of saucer-like vehicles. The viewpoints are mine and
+mine alone and are not to be construed as those of any of the organizations to
+which I belong or of my employer, Westinghouse Astronuclear Laboratory. The
+opinions are based upon ten vears of study of UFOs and discussions all over the
+U.S. and in Canada on a private level for eight years and a public level since
+ate 1966 both in question and answer sessions following my illustrated talks and
+vith newspaper, radio, and television reporters with whom I have publicly
+discussed this subject.
+1. To what conclusions have vou come with regard to UFOs?
+I have concluded that the earth is being visited by intelligently controlled
+vehicles whose origin is extraterrestrial. This doesn't mean I know where they
+come from, why they are here, or how they operate
+2. What basis do vou have for these conclusions?
+Eyewitness and photographic and radar reports from all over the earth by
+competent witnesses of definite objects whose characteristics such as maneu-
+verability, high speed, and hovering, along with definite shape, texture, and sur-
+face features rule out terrestrial explanations.
+3. Haven't most sightings been identified as conventional phenomena?
+Yes. of course. However, it is only the unidentified objects in which I am in-
+terested and on which I base my conclusions. The job of science is to sort data
+and focus on that which is relevant to the search at hand. Fewer than 1% of
+Americans have hemophilia or are 7 feet tall or can run a mile in under 4 min-
+utes-we certainly don't dispute the reality of hemophilia, Wilt Chamberlain, or
+4 minute miles.
+4. Are there any good unknowns?
+Yes, there are very many good unknowns which have been reported and inves-
+tigated and undoubtedly very many more which have not been reported because
+of the "laughter curtain". In the most comprehensive detailed scientific investiga-
+tion ever conducted on this subject, and reported in Reference 3, it was found
+that 434 out of 2199 sightings evaluated had to be classified as Unknowns. This
+is 19.7% or a far higher percentage than most people have associated with UFOs.
+The complete breakdown is shown in Table 1.
+Table 2 shows the breakdown of
+sightings by quality. Fully one third of the 9.7% of the sightings labelled as
+Excellent were identified as Unknowns: one fourth of the Good sightings were
+labelled Unknown. All it would take to prove the reality of extraterrestrial
+vehicles is one good sighting not hundreds.
+Footnotes at the end of article.
+215
+TABLE 1.-CATEGORIZATION OF UFO SIGHTING REPORTS 1
+Category
+Astronomical
+Aircraft_
+Balloon-
+Unknown
+Insufficient info
+Total_
+1 Data from reference 3.
+Number
+47Q
+240
+2, 199
+Percent
+21: 8
+15. 4
+10. 6
+10. 9
+100
+TABLE 2.-QUALITY DISTRIBUTION OF UNKNOWNS 1
+Quality
+Number
+Percent of Unknowns Percent of
+total
+group
+Excellent.
+Good.
+Doubtful
+Total_
+2, 199
+100. 0
+434
+33. 8
+4. 0
+18: 6
+19. 7
+1 Data from reference 3.
+5. Aren't most of those "unknowns' really sightings for which insufficient
+data is available to identify an otherwise conventional object?
+Absolutely not. If there was not enough information available about a sighting
+it was labelled Insufficient Information'' not Unknown'-again contrary to
+what many people believe about UFOS.
+6. Were there any differences between the Unknowns and the knowns?
+A "chi square" statistical analysis was performed comparing the Unknowns
+in this study to all the "knowns". It was shown that the probability that the
+unknowns came from the same population of sighting reports as the knowns was
+ess than 1%. This was based on apparent color, velocity, etc. Maneuverability
+one of the most distinguished characteristics of UFOs, was not included in this
+statistical analysis.
+tion for more than 1 minute and more than 45% for more than 5 minutes.
+8. Isn't it true that UFOs have never been sighted on radar?
+No, it is not. Ref. 3 specifically mentions radar unknowns. In ref. 4, Edward
+Ruppelt, former head of the official UFO investigative effort,
+makes specific
+mention of not only "Unknowns' observed on radar but of combined visual and
+radar "Unknowns". Hynek " also mention radar and visual sightings.
+9. Where can I get more information about "Unknowns"?
+Ref. 6 presents an unbiased description of about 160 "Unknowns". Ref. 7 in-
+cludes data on over 700 Unknowns. References 8 and 9 contain many others.
+10. Why haven't the worldwide Smithsonian Network of Satellite Tracking
+cameras picked up "Unknowns"?
+The former head of the film evaluation group concerned with the Smithsonian
+sky watch said that the purpose of the search was to get data on satellite
+orbits. If a light source on the film could be shown not to be a satellite then no
+further measurements were made. 10% to 15% of the plates showed anomalous
+light sources which were not a satellite but were not otherwise identified.
+11. How about the other space surveillance radar installations?
+Baker in Ref. 11 deals with this question in detail. In summary, the systems
+are set up to reject signals which refer to anything other than the objects of
+interest-typically ballistic missiles coming from certain directions.
+12. Aren't the reported maneuvers of UFOs in violation of existing laws of
+physics?
+Footnotes at the end of article.

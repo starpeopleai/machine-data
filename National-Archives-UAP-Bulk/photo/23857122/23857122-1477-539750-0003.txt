@@ -1,0 +1,78 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T21:04:26Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 27436372, "source_ctime_ns": 1793357554209018360, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1477-539750-0003.tif", "source_mtime_ns": 1785564925000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1477-539750-0003.tif", "source_sha256": "9f1a3acb07cd7914d2ca9c4d0f9b1cdf8787721c4125fab189eec00324691659"}
+
+===== PAGE 1 =====
+{"alpha_words": 366, "chars": 2526, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AF FORM 112-PART 1
+APPROVED 1 JUNE 1948
+COUNTRY
+U.S.A.
+(CLASSIFICATION)
+7
+REPORT NO
+EAVE BLAN
+217 39 250
+AIR INTELLIGENCE INFORMATION REPORT
+SUBJECT
+FLYOBRPT, GROUND OBSERVER POST REPORT OF UNIDENTIFIED FLYING OBJECT
+AREA REPORTED ON
+FROM (Agency)
+SYRACUSE, NEW YORK
+PP 5002
+DATE OF REPORT
+655TH ACE SQUATRON, WATERTOWN, NEW YORK
+DATE OF INFORMATION
+EVALUATION
+5 MARCH 1953
+20L5 EST, 4 MARCH 1953
+PREPARED BY (Officer)
+SOURCE
+RESTRICTED
+THRU GOC, SYRACUSE, NY
+REFERENCES (Control number, directive, previous report, etc., as applicable)
+AFL 200-5, DATED 29 APRIL 1952
+SUMMARY: (Enter concise summary of report. Give significance in
+SYRACUSE, N.Y.
+MSG THIS HQ, ACL 03021, 5 MARCH 1953
+tence paragraph. List inclosures at lower left. Begin tert of report on AF Form 118-Part II.)
+At approxinately 2045 EST, 4 March 1953, the following information was received
+by this station (P-49) from the GOC Filter Center at Syracuse, New York:
+The Filter Center at Syracuse, New York notified this station that a a
+Syracuse, New York,
+observed an
+unidentified flying object approximately 3 miles from Hancock Field, (no direction
+given), at approximately 2045 EST, 4 March 1953.
+The object was of dirigible type,
+with holes in the sides and flashing a yellow light.
+The altitude was given as tree-
+top level.
+No other information was given as to description, speed, or direction.
+Observer,
+stated that this is the third time that
+she has seen this ob-
+ject, once,
+ago, once on 3 March 1953, and this sighting.
+Weather in that vicinity was unknown at the time of sighting.
+The authenticity of this report is unknown as information was very brief and
+given by only one source.
+This object was not picked up on radar at this site at any time.
+Thamas l. Shi bel
+THOMAS C. SCHIEBEL
+Captain, USAF
+Intelligence Officer
+DECLASSIFIED
+E.O. 11652, S60. 3(C) a73 5(0) or (E
+SAE meme 1/31/98
+V2 cys - DI, Hq USAF, Washington 25, D.C.
+1 cy - CO,EADF
+2 cys - Chief, Air Tech Intell Cent, ATTN: ATIAA-2c
+.1 cy - CO, 32d
+Wright-Patterson AFB, Ohio
+1 cy - CO,4711th Def
+1 Wg
+I COCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT. SO U.S.C.-
+31 AM C:32, AS AMENDED.
+ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW.
+IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF
+INTELLIGENCE, USAF.
+(CLASSIFICATION)
+Declassification Authority: NND 57565

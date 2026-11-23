@@ -1,0 +1,58 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T20:26:42Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 16887382, "source_ctime_ns": 1793358613169813762, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-001-0002.tif", "source_mtime_ns": 1785681149000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-001-0002.tif", "source_sha256": "56b28292d431a16e165ecd0fd755959e2eca07a44bb66b90a034d5f3dceacc84"}
+
+===== PAGE 1 =====
+{"alpha_words": 170, "chars": 1362, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+Inat
+VK =
+opS
+Astronomical
+4602D AISS UFOR REPT
+3/4
+DATE-TIME GROUP. 13
+10355
+15/07302
+ENO 0243
+ENC281 YDB103 XYA162 XDE109 XXD158KLA151
+MM. RJEDEN RJEDWE RJEPHO
+DE RJWPKL: 65 Q
+M 142100Z
+FU COMAIRDIVDEF 28 HAMILTON AFB CALIF
+TO RJEDEN/COMDR ADC
+VENT AFB COLO SPRINGS COLO
+RJEDWP/AIR TECHNICAL INT CENTER WRIGHT
+PATTERSON AFB OHIO
+RJEPHO/DIRECTOR OF INT HO USAF WASHED C
+RJPKL/COMDR 4602NKD AIR INT SERVICE
+SO HAMILION AFB CALIF
+/UNCLASSIFIED/280ID 55M-025. UFOB. (1) (A) ROUND PD (1) (B)
+SPEA PD
+(1) (C) ORANGE
+BED PD: (1) (D)
+ONE PD (1) (E) N/A PD (1) (F) NONE
+APD
+01) (G)
+TRAIL
+DE LIGHT PD (1) (H) NONE PD (1) (I) NONE PD (2)(A)
+OBSERVING AIRCRAFT PD (2)(B) O TO
+93 PD 362 PD (2)(C) 92 PD 180 PD
+(2) <D).
+NORTH TO SOUTH PD (2) (E) DISAPPEARED OVER HILL PD (2) (F)
+THREE
+SECONDS PD (3) (A)
+GROUND-VISUAL PD (3)(B) NONE PD (3) (C) N/A PD
+(4) (A) 130355 ZULU SEP 55
+PD (4) (B)
+NIGHT PD (5) MOUNTAIN VIEW CMA
+CALIF PD NH 5624 PD. (6)(A)
+CMA AGE 33 CMA
+CHA MOUNTAIN VIEW CMA
+. CALI
+D
+R PD
+(S) (3) N/A PD (7) (A) HAZY PD (7)(B) 10,002 - 230/06 PD 16,200 -
+243/15 PD 20,020 - 240/27 PD 30,203 - 258/38 PD 40,020 - 262/59 PD
+(7) (C) UNLIMITED PD (7) (D) 5 MILES PD (7)(E) NONE PD (7) (F) NONE PD
+(8) NONE PD (9) NONE PD (10) UNKNOWN (11) DIR OF INT CMA 28 ADIV
+(DEF) CMA POSSIBLE FALLING STAR PD (12) NONE PD
+14/2309Z SEP RJWPKL

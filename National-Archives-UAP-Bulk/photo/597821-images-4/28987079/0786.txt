@@ -1,0 +1,18 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T20:35:02Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8693821, "source_ctime_ns": 1793383482773024730, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28987079/0786.jpg", "source_mtime_ns": 1785747893000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28987079/0786.jpg", "source_sha256": "83437f749cf0cf90c5b575d336f1e5b92e0e8b4c18961f9e577c360123a66fe3"}
+
+===== PAGE 1 =====
+{"alpha_words": 81, "chars": 540, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Proposed reply to letter from
+6 January 1967
+Dear
+Reference your Letter of 6 January 1967 reporting a 1960 undentifid
+flyins object (UFO)
+observation. Hat such a late date, a comprehensive study would
+be extremely difficult. Since records of air activity are
+normally destroyed several months after their use, there would be
+practically no records to check in an attempt to determine the
+actual simulus. The information will be filed fer
+•s and wil
+Le added to the present data base.
+Frank your
+Your interent in our program is apprecented.

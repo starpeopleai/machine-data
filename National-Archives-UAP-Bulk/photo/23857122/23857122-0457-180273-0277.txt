@@ -1,0 +1,15 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T21:13:26Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 17982056, "source_ctime_ns": 1793356657176256007, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0277.tif", "source_mtime_ns": 1785564737000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0277.tif", "source_sha256": "d9e1afa667d3def19746e076939651252a746294f866ad8514a4aa313d9f78cb"}
+
+===== PAGE 1 =====
+{"alpha_words": 70, "chars": 479, "method": "ocr", "page": 1, "variant": "plain-vision"}
+REST
+Incident #149 -- Worth Jutland -- 19 January 1948
+Inere is nothing in the meager description of this
+incident that precludes the possibility of the objects' being
+meteors. 'he description would also allow for their being rockets.
+However, the explosion of the objects favors the meteoric hypo-
+thesis.
+It might be well to note the similarity of this and
+other Scandanavian reports to the "green flash" objects reported
+from New Mexico.
+Declassification Authority: NND 57565

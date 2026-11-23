@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T21:14:14Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 18821524, "source_ctime_ns": 1793356570885507648, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0185.tif", "source_mtime_ns": 1785564724000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0185.tif", "source_sha256": "6c230596e12859b960964b6da38932918579dedaa41b23e9b8d46740c769aa08"}
+
+===== PAGE 1 =====
+{"alpha_words": 193, "chars": 1256, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Incident #55 -- Harmon Field, Hewroundland -- 23 July 1947
+If proper allowance
+is made for the reporting of untrained
+observers, it,is possible that the objects observed in this incident
+were a minor meteor shower.
+The "reddish flashes of light" and
+"abrupt darts" would tend to this interprotation.. The hypothesis
+minges, however, on the statement that "a number of internittent
+Mashes were observed for three minutes." If this means independent
+Flashes, it lends support to the meteoric interpretation. If it
+Reans that the same objects flashed intermittently for three minutes,
+that theory is ruled out. It seems more probable in view of the
+statement about "abrupt darts of light" that the former meaning is
+correct.
+There is somewhat more evidence in this incident than in
+#57 (which is similar, and occurred just three days earlier) favoring
+meteors, but probably the events of these two incidents are related,
+and it is very unlikely that meteors could oxplain both of them.
+according to the report
+of the U. S. Weather Bureau on
+ball lightning, it would appear that this phenomenon sometimes takes
+the form of luminous darts and can be red,
+Ferhaps this could offer
+an alternate explanation for the incident.
+Declassification Authority: NND 57565

@@ -1,0 +1,58 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T20:20:37Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8526884, "source_ctime_ns": 1793385643998998837, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28993836/0294.jpg", "source_mtime_ns": 1785748087000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28993836/0294.jpg", "source_sha256": "52dcf69e29854b7504d3187ac36c17c7d71770d529cc76fa22adf3f821e8ec8a"}
+
+===== PAGE 1 =====
+{"alpha_words": 85, "chars": 699, "method": "ocr", "page": 1, "variant": "plain-vision"}
+NAVAL MESSAGE
+PRECEDEN
+TIONAL IMMEDIAT
+*OPERA
+NAL
+TWEDTRIE
+INSUFF DATA
+UNGLASSIFIED
+FTD
+NAVY DEPAD
+AF IN : 16323 (7 Aug 61) B/jhs
+-: 0 8408202
+WE CTG 77.3
+10 AUG 19#1
+TO ITAZUKE AB JAPAN
+INFO CNO
+VE 22 0400X21
+Trilo
+тод.
+Elisten
+CINCPACFLT
+COMSEVENTHFLT
+CANOPACAT
+AF DIST: CIN-14, 0OP-CP-1, 0OP-2, SAFS-3 (21)
+UNCLAS
+UFO REPORT
+A. CINCPACFLT INST 3820,3
+10 A, UNK
+Bo UNK
+C. UNK
+Do ONE
+E. NONE
+F. NONE
+F. NONE
+1. AUG 1981
+G. BRILLANT RED ORANGE EXXAUST TRAIL(SIZE/DINE)
+- 52 00G
+SICNAY UNSECNAV ASTSECNAVRESDEV 00 09 098 09D
+07D 75 74 76 94 IP NAVAIDE FLAOPLOT BFR
+сиС
+Jos
+ADVANCE COPIES DELVD
+NIC
+20g.
+CONTROL NO.
+52722/20/EC/4
+• NO
+PVB226
+OF
+TIME OF REC
+07/04572/AUGął
+0406202
+/ADO 61
+UNGLASSIFIED

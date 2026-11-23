@@ -1,0 +1,59 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T20:59:14Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 30122936, "source_ctime_ns": 1793356951841275476, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1159-473339-0003.tif", "source_mtime_ns": 1785564796000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1159-473339-0003.tif", "source_sha256": "f68d7c10390a0b0b208882b1f669feaad8a36e20961b9797e7d962952f3149ee"}
+
+===== PAGE 1 =====
+{"alpha_words": 238, "chars": 1739, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AF FORM 112-PARJ I
+ARPROVED 1 JUNE 1948
+U.S•A.
+REPORT NO. IR-1-53
+ШАВА 4733 39
+AIR INTELLIGENCE INFORMATION REPORT
+SUBJECT
+FLYOBRPT
+AREA REPORTED ON
+Northwest Alabama
+DATE OF REPORT
+15 January 1953
+PREPARED BY (Officer)
+William E. Boyer 2dLt. USAF
+REFERENCES (Control number, directive, previous report, etc., as applicable)
+None
+SUMMARY: (Enter concise su
+ary of report. Give signific
+ORMATION
+ATE OF 14 January 1953
+THadquarters, 3800th A U Wing, Maxwell APB
+EVALUATION B-1
+So Civilian Airport Manager, Gadsden, Ala.
+ence paragraph. List inclosures at lower left. Begin text of report on AF Form 118-Part II.)
+An unidentified flying object was sighted on 1l January 1953 by
+approximately twenty(20) citizens of Gadsden, Alabama.
+The incident was
+reported by the manager of the Gadsden Airport after many citizens confirmed
+his own observations.
+The object was of such a nature that no one could
+give a detailed description.
+DECLASSIFIED
+E.O. 11652, Sec. 3(E) ar
+5(D) or (E)
+USAF MEMO
+7/1/78
+Byle Lewis
+АКС
+D210 7/12/38
+APPROVED:
+Edward R. Swart
+EDWARD R. SWARTZ
+1st It.
+US AF
+Wing Intelligence Officer
+ISTRIBUTION BY ORIGINATOR
+Chief, Air Technical Intelligence Center, ATTN: ATIAA-2c,
+Wright-Patterson AFB, Ohio.
+NOTE THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S.C.-
+31 AND 32, AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW.
+IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF
+INTELLIGENCE, USAF.
+(CLASSIFICATION)
+NT PRINTING OFFICE: 1950-O-918331
+Declassification Authority: NND 57565

@@ -1,0 +1,44 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T20:32:22Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 34403324, "source_ctime_ns": 1793357808596505680, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1654-565338-0003.tif", "source_mtime_ns": 1785564976000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1654-565338-0003.tif", "source_sha256": "79eee17a4aaf8889ac6da37aeae7f52dd32180b6eb177a8b8b38dc9291da2506"}
+
+===== PAGE 1 =====
+{"alpha_words": 203, "chars": 1391, "method": "ocr", "page": 1, "variant": "plain-vision"}
+*AF FORM 112-PART II
+APPROVED 1 JUNE 1948
+FROM (Agency)
+Group Intelligence
+RESTRICTED
+(CLASSIFICATION)
+AIR INTELLIGENCE INFORMATION REPORT
+REPORI NI
+NGD-2-58
+PAGE
+OF
+PAGES
+Testerder, 26 July 1953, at approximately 1100 Alle, at Deer Greek
+Springs, Nevada, I saw a flying object which I could not
+identify.
+I could see is with my naked eye as a small shiny object and I brough!
+it into more detail with a pair of 10 power binoculars.
+The object manuvered
+by turning and swinging around while staying in one spot where I observed it
+for thirty mimutes. I vould judge it to be about 70 or 75 thousand feet in
+a north vesterly direction from where I stood,
+I stopped looking for about
+five minutes and when I looked up again it was gone.
+arte
+George 1, Weingarten
+APPROVED:
+uum
+E Millap.
+CURVIN A MILLER, JR.
+Captain, USAF
+Group Intelligence Officer
+NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S. C.-
+31 AND 32, AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW.
+IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF
+INTELLIGENCE, USAF.
+RESTRICTED
+(CLASSIFICATION)
+IMENT PRINTING OFFICE
+SECURITY INFORMATION
+Declassification Authority: NND 57565

@@ -1,0 +1,15 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T20:49:03Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 84079184, "source_ctime_ns": 1793368009313806181, "source_file": "National-Archives-UAP-Bulk/photo/542326/342-B-01-103-179276USAF_002.TIF", "source_mtime_ns": 1785565853000000000, "source_rel": "National-Archives-UAP-Bulk/photo/542326/342-B-01-103-179276USAF_002.TIF", "source_sha256": "6f1c7313ea614f1b603a2b434fcc7ace6e9d9315318a981f170b36fdad095921"}
+
+===== PAGE 1 =====
+{"alpha_words": 62, "chars": 421, "method": "ocr", "page": 1, "variant": "plain-vision"}
+179276 USAF - SCIENFIFIC STUDY OF UFOs - Photograph
+taken from an orbiting spaceeraft
+showing the luminous airglow layer above
+the earth illuminated by noon-light. At an
+oblique angle to the earth's surface the
+zodiacel light band is apperent as a conical
+band. The bright object near the aper of
+the zodiacal band is the planet Venus.
+(Plate #13)
+Coon SAPOn 8:10 print rect d 1/23/69
+Filed - UNIDENTIFIED FLYING OLFECTS

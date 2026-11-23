@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T20:34:06Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8233256, "source_ctime_ns": 1793387009724824949, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28998015/0087.jpg", "source_mtime_ns": 1785748547000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28998015/0087.jpg", "source_sha256": "061ce339bb019ce87a62fcb887cc32adb121591965419dfcc4f0f4966544b234"}
+
+===== PAGE 1 =====
+{"alpha_words": 231, "chars": 1379, "method": "ocr", "page": 1, "variant": "plain-vision"}
+FAMILY PUBLICATIONS SERVICE, Inc.
+SECURITY BLDG., 245 HURON STREET, TOLEDO 4, OHIO
+SUBJECT: UFO
+Gentlemen:
+July 13, 1062
+Please assist me in a problem I encountered on the
+evening of July 6, 1962. I have been told to contact you by
+the AF Reserve unit in this area.
+While swimming in Lake Michigan at a beach near Sauga-
+tuck, Michigan I saw an object in the sky which I at first took
+to be a meteor. This object which seemed to be very distant,
+although it was very bright. was of two colors. It was red
+on the lead portion and white on the rear portion. It moved
+very steadily out of sight in a westernly direct'on. I first
+sighted this object at 11:51 PM EST. I saw it again et 12:04
+AM and 12:32 AM. There were tall trees behind me so thet
+the object's location at the time of these sightings was
+approximetely overhead. The object was visible for approxi-
+mately one (1) minute at each sighting before it went out
+of sight. It covered an arc of annrx. 25 - 30 degrees in that
+time.
+Judging by these figures this would mean that this ob-
+ject would make one complete orbit around the Farth in 13
+or 1¼ minutes which is much faster than any setellites that
+I have heard of. I also understand that the sate'lites in
+orbit presently are all moving from west to east which is
+the exact onosite of this obiect. I shall enclose a drawing
+using the Big Dipper as a reference point.

@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T21:11:43Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 20904224, "source_ctime_ns": 1793360820829852104, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-003-0127.tif", "source_mtime_ns": 1785565136000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-003-0127.tif", "source_sha256": "833b702a59d37027fc1b0de2d38f9e76e04cf8558e537e65b22c40adf14512ab"}
+
+===== PAGE 1 =====
+{"alpha_words": 58, "chars": 480, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AF FORM 312-PART 1I
+APPROVED 1 JUNE 1948
+UNCLASSIFIED
+(CLASSIFICATION)
+AIR INTELLIGENCE INFORMATION REPORT
+REPORT NO.
+TESH9S USAF
+AFCIN. -18 2
+PAGE
+- OF
+PAGES
+ạPorto Alegre, Rio Grande do Sol
+Brazil
+December 10, 195?
+TSAF
+Washington
+Dear Uncle Sam:
+I confirm the dispatch, by air, of registered Nos: 8321h and
+83203, on December 55 1951, with nagazines.
+I m sending yourherevith various newspaper articles.
+Yours trily,
+[signed Jose Floriani F
+DECLASSIFIED:
+Authority NND 9237007

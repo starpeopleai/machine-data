@@ -1,0 +1,43 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T20:31:40Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 19051752, "source_ctime_ns": 1793356595131954441, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0211.tif", "source_mtime_ns": 1785564727000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0211.tif", "source_sha256": "ebfd219b8244ecb28585c4235bb20baf96b71b5248c1affeb611bff2583ba6c3"}
+
+===== PAGE 1 =====
+{"alpha_words": 244, "chars": 1478, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Incident #33, a-g
+- page 4
+a's bright as it is when most brilliant. However, under exceptionally
+good atmospheric conditions and with the eye shielded from the direct
+rays of the sun, Venus might be seen as an exceedingly tiny bright point
+of light. It can be show that it was definitely brighter than the
+surrounding sky, for on the date in question Venus had a semi-diameter
+of G seconds of are, or a total apparent surface area of approximately
+125 square seconds. asauming that a square second of sky would be a
+trifle brighter than the fourth magnitude, a portion of the sky of the
+same area presented by Venus would be about -1,4 magnitude. Since the
+planet, however, was -3
+it was 6 tines brighter than an equivalent
+area of sky. while it is thus physically possible to see Venus at such
+times, usually its pinpoint character and the lerge expanse of sky
+makes its casual detection very unlikely. If, however, a person happens
+to look toward a point on the sky that is just a few minutes of are
+fror the position of Vonus, ne is apt to be startled by this apparition
+aud to wonder why he didn't see it before. The chances, of course, of
+locki:
+at just
+soot
+very few.
+Once done, however, it is
+object and to call the attention of
+atmospheric
+cenditions
+must be exceptionslly
+or exempie, that
+Venus would be seen under
+good.
+It is improbable,
+these circumstances
+It can be
+the object
+trao a
+possible explanation for
+incident #33, a=6›
+Declassification Authority: NND 57565
