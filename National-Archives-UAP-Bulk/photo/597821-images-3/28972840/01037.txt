@@ -1,0 +1,40 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T09:22:24Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10030371, "source_ctime_ns": 1793379629954144311, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28972840/01037.jpg", "source_mtime_ns": 1785700828000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28972840/01037.jpg", "source_sha256": "7a8a68441af7630a32254816e4281aec07e03065b7ee70fb5b42f2aa90315881"}
+
+===== PAGE 1 =====
+{"alpha_words": 90, "chars": 710, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UNCLA
+AF FORM 112--PART II
+APPROVED 1 JUNE 1948
+1006ch ATSS
+Ent AFB, Colorado
+AIR INTELLIGENCE INFORMATION REPORT
+Part Seven
+18
+AISS-UF08-386-57
+*Far Hord 1073
+19
+US D%:
+US 62
+LEGEND
+- Levelland, Texas
+2
+• Sayer, Texas
+3 - Sundom, Texas
+4 - Shallowater, Texas
+1 - Part One (03/00050)
+d - Part Two (02/23000)
+C - Part Three (03/01300)
+: - Part Four (03/0115C)
+E - Part Five (02/23350)
+F - Pert Six (0h/20450)
+Oil Fields in
+the Area
+State Riginay 116
+Oklahona
+Inclose 1 to Part Seven
+Vicinity Han
+- a2d 300iẠạ
+UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT. 50 U.S.
+ENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED SY LAN
+AIR FORCE AGENCIES, EXCEPT BY FERMISSION OF THE DIRELTOR OF
+UNCLASSIFIED

@@ -1,0 +1,13 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T10:01:21Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 18071235, "source_ctime_ns": 1793365419883741639, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330788875/45484701-009-001-0045.jpg", "source_mtime_ns": 1785685086000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330788875/45484701-009-001-0045.jpg", "source_sha256": "368bad3af12479d8688333d791bd5cb354b7a1c38924622964fa4f943b7c6b38"}
+
+===== PAGE 1 =====
+{"alpha_words": 21, "chars": 154, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+4 o~* f
+Zidd Vii @ whe ate L/S f
+Tya lxr PP } OA?
+vu y $+ Fh
+AR + >
+ne > : > 3 ee 7 5
+ADT 1 >. LON, Be.) OnS1LY S
+
+Declassification Authority: NND 923007

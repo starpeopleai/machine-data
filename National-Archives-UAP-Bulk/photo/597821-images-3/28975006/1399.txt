@@ -1,0 +1,59 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T09:30:07Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8512233, "source_ctime_ns": 1793380243992346780, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28975006/1399.jpg", "source_mtime_ns": 1785700881000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28975006/1399.jpg", "source_sha256": "7ce98593febee977694281c9f8d2300ee041b06db57fd1e75907eab664a79680"}
+
+===== PAGE 1 =====
+{"alpha_words": 120, "chars": 932, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+20
+DATE-TIME GROUP
+Local
+GHT.
+21/0025źęîŘł
+5. PHOTOS
+1957
+• Yes
+7. LENGTH OF OBSERVATION
+PROJECT 10073 RECORD CARD
+2. LOCATION
+000
+4. TYPE OF OBSERVATION
+Jersoy (Stanho
+Ground-Visual
+• Air Visual
+• Ground-Radar
+• Air-Intercept Rador
+6. SOURCE
+GOC
+observer
+8. NUMBER OF OBJECTS 9. COURSE
+12. CONCLUSIONS
+Was Balloon
+> Probably Baltoon
+Possibly Balloon
+Was Aircraft
+Probably Aireraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomicol
+Possibly Astronomical
+Other.
+aXInsufficient Data for Evaluation
+Unknown
+not
+given
+Six
+10. BRIEF SUMMARY OF SIGHTING
+Ball of fire, with 5 red lights,
+had
+appearance of fire on horizon. At
+first thought Staton to be moving
+couldn't tell. Seemed to
+West. Quick disappearance.
+west
+11. COMMENTS
+Five spots of red light seen
+near horizon could be anything.
+Tail end of jet a/c, lights on
+buildings, emergency venicies,
+etc. Insufficient iformation
+evaluation.
+ATIC FORM 329 (REV 26 SEP 52)

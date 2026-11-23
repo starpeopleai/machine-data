@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T09:54:07Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9962812, "source_ctime_ns": 1793383130126574161, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28986382/0137.jpg", "source_mtime_ns": 1785748007000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28986382/0137.jpg", "source_sha256": "ec7c335be70e7ed1ef704b0e45405c82332e580e166e37f5515f5ed5bc0dc7a6"}
+
+===== PAGE 1 =====
+{"alpha_words": 69, "chars": 564, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PAGE TWO RJEDNJ 35
+(7) NORMAL TAIL FLARE.
+(6) NONE
+(9) NONE
+B. DESCRIPTION OF COURSE OF OBJECTS):
+(1) ON A REFUELING MISSION AND WAS CLEARING THE AREA VISUALLY
+FOR OTHER AIRCRAFT.
+(2) AIRCRAFT HEADING WAS 215D, ALTITUDE 22,200 FT SPEED 233K
+OBJECT WAS SEEN AT 260D ELEVATION WAS PLUS 20D.
+(3) DISAPPEARED AT 260D DEGREFS AZIMUTH MINUS 5 DEGREES
+ELEVATION.
+(4) PERPENDICULAR TO THE FARTES SURFACE.
+(5) SUDDENLY.
+(6) 3 TO 5 SECONDS.
+C MANNER OF OBSERVATION:
+(1) THROUGH THE AIRCRAFT CANOPY
+- (2) NONE
+(3) NO OTHER•
+D. TIME AND DATE OF SIGHTING.
+(1) 24/0000
+(2) DARK

@@ -1,0 +1,59 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T09:28:58Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8112215, "source_ctime_ns": 1793363620550142553, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785674/45484701-005-006-0077.jpg", "source_mtime_ns": 1785684937000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785674/45484701-005-006-0077.jpg", "source_sha256": "510861491bc2fc95a2b508bf8583e8aa4f34ec95b8e3885ba09368cb565b1199"}
+
+===== PAGE 1 =====
+{"alpha_words": 226, "chars": 1619, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AIR FORCE
+HEADQUARTERS UNITED STATES AIR FORCE
+WASHINGTON
+OCOSI/DND: c1w-cp
+CLASSIFICATION CANCELLED THE
+THE INSPECTOR GENERAL USAF
+BY AUTHORITY OF THE DIRECTOR OF SPEC
+TITH DISTRICT OFFICE OF SPECIAL INVESTIGATIONS
+BY
+KURT K. KUNZE, Capt, USAF
+TINKER AIR FORCE BASE, OKLAHOMA CITY, OKLAHOMA
+*erian
+26 June 1950
+DATE
+* DEC 1975
+SPOT INTELLIGENCE REPORT
+SUBJECT: Report of FLYING SAUCERS, llth OSI District
+TO:
+Director of Special Investigations
+Headquarters United States Air Force
+Washington 25, D. C.
+UNCLASSIFIED
+SYNOPSIS:
+News item in the Daily Oklahoman, Oklahoma City,
+Oklahoma, 25 June 1950, reports a Central Airlines pilot and a
+passenger observed a "saucer-shaped" object in the sky near Commerce,
+Texas.
+DETAILS:
+The following news item appeared in the Daily
+Oklahoman,
+Oklahoma City, Oklahoma, 25 June 1950:
+'SAUCER' REPORTED BY AIRLINES PILOT
+Holdenville, June 24 - (UP) - Central Airlines here reported
+Saturday that one of its pilots followed "a saucer-shaped object"
+for 20 miles in the sky near Commerce Texas.
+The airline said its Fort worth office reported by teletype that
+both flight Capt. Harry Logsdon and a passenger identified as
+W. Crowder, Texarkana, Texas, said they saw the object.
+Logsdon, a veteran commercial pilot, was quoted as saying he kept
+the object in sight for about 20 miles before it pulled away from
+his airliner in a sudden burst of speed.
+He estimated the object's speed "in excess of 400 miles an hour,"
+the airline said."
+UNELASSIFIED
+CC to AỒN
+14.185-11-
+TED STATES
+M
+฿ 26 AM 50
+CIAL INVESTIG
+JUL 7
+1950
+90m
+NOLD)
+Declassification Authority: NND 923007

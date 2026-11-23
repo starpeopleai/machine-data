@@ -1,0 +1,41 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T10:10:31Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6370972, "source_ctime_ns": 1793354752461436547, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989219-001-0101.jpg", "source_mtime_ns": 1785564335000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989219-001-0101.jpg", "source_sha256": "f0bf4a52e0d88ee50c5449adc5e59849742caee0be421d64d12b7e96cddacd22"}
+
+===== PAGE 1 =====
+{"alpha_words": 143, "chars": 942, "method": "ocr", "page": 1, "variant": "plain-vision"}
+HEADQUARTERS
+CONTINENTAL AIR DEFENSE COMMAND
+ENT AIR FORCE BASE
+COLORADO SPRINGS, COLORADO
+29 March 1955
+Lt Col George F Adams, USAF (MC)
+Commander
+4920th USAF Infirmary
+Kirtland Air Force Base
+New Mexico
+Dear Colonel Adams:
+I have received the articles on noise,
+visual communi-
+cation training program, and ear protective devices which
+you sent me.
+The problems presented in this field to the Air Force
+Medical officer are or paramount importance
+and every
+effort possible must be made by him to resolve these problems.
+The effort which you are making along this line at your
+base are to be commended.
+May I take this opportunity to thank you for the papers
+which you sent me.
+Sincerely,
+/s/ A. H. Schwichtenberg
+A. H. SCHWICHTENBERG
+Brigadier General, USAF (MC)
+Command Surgeon
+'THIS IS A CERTIFIED TRUE COPY'
+/s/ John F. Killen
+JOHN F
+KILLEN
+CWO, USAF
+A CERTIFIED TRUE COPY
+LANCHORD KEITH, JR
+1A7 and It., USAF
+Ass't Staff Judge Advocate

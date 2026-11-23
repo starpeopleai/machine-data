@@ -1,0 +1,79 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T09:36:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 15825350, "source_ctime_ns": 1793355580684142532, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0019.jpg", "source_mtime_ns": 1785564483000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0019.jpg", "source_sha256": "5c747de8b1501c539ad1bc7df2836428c19c574fef3df0bfa8dd520de3722f39"}
+
+===== PAGE 1 =====
+{"alpha_words": 529, "chars": 3511, "method": "ocr", "page": 1, "variant": "plain-vision"}
+BALLOON RELATIVE
+TO GROUND
+WIND SPEED
+APPROXIMATE
+ACTUAL
+BA VEHIC RELATIVE
+VEHICLE RELATIVE
+TO GROUND
+90
+° VEHICLE SPEED
+25 FT/SEC-
+85 GROUND ALTITUDE
+.- 2,350 MSL
+FLIGHT ALTITUDE__-
+- - 64,000' MSL
+BALLOON RISE RATE _
+BALLOON RISE TIME_
+_20 FT/SEC (1200 FT/MIN)
+- 3073 SEC (51.25 MIN)
+BALLOON-VEHICLE RATE DIFFERENTIAL.25FT/SEC MAX
+VEHICLE RATE RANGE_---- 0-60 FT/SEC (0-4I MI/HR)
+VEHICLE ROAD DISTANCE_----- 76,750 FT (14.55 MI)
+TETHER LENGTH (STATIC LAUNCH)__--- 159,000 FT
+TETHER LENGTH (MOBILE LAUNCH)_
+.. 94,500 FT
+20
+180 190
+DISTANCE (FIX 1000)
+120 130 140
+150
+Figure 10. TABS Mobile Launch - Profile Matching Technique Profile #259 - 09:48
+17 September 1964 Randsburg Wash Road
+25
+drag coefficient of 1.5-1.6) it would follow the right-hand dashed curve, coming to
+altitude some 28 miles downwind, and requirng slightly over 30 miles (~160,000
+feet) of tether. The weight (760 1bs) of this amount of tether exceeds the lift avail-
+able, and this launch mode is obviously not feasible.
+If one app
+ates the actual wind profile by the 5000-foot-interval stepped
+profile which ov
+es it in the figure, and then assumes a conservative vehicle-
+tial of 25 ft/sec (~15 knots), the vehicle rate profile indicated
+by
+›ped curve is obtained. The vehicle is then driven for periods
+5000 ft ÷ 1200 ft/min) at each of the various speeds indicated in the
+aximum speed of 60 ft/sec = 41 mph and following the central
+otal road distance covered is 14. 6 miles, which is just feasible,
+available road lying to the west of point 1 in Figure 2. The
+le left-hand dashed curve relative to the vehicle, now comes to
+downwind of the end of the road (2, Figure 2), with 18 miles
+~ 95,000 ft) of tether deployed, for a total weight of 450 pounds. This is quite ac-
+and the balloon would gradually drift back upwind, with the tether being
+retrieved und
+light tension, until the configuration of Figure 9 was reached.
+Of the profiles in Figure 1, that of the 14th is too severe; the tropospheric
+winds are blowing at some 50° to the road direction, giving a cross-wind component
+of some 40 knots. Even if the wind were blowing along the road, the 58-knot maxi-
+mum would require excessive vehicle speeds, unless the rate differential were
+allowed to approach 20 knots. On the 15th the winds, although relatively low, are
+at some 80° to the road direction, making a mobile launch impractical. Free
+ascent of the balloon from a static ground point would, however, consume less than
+100,000 feet of tether, and would be feasible.
+The profile of the 16th offers some choice: the balloon could be let out under
+control from a static position to 40,000 feet, and then allowed to rise free to
+approximately.50,000 feet; or the mobile launch method could be used, with the
+vehicle rate profile matched to that of the wind velocity, the vehicle remaining more
+or less directly below the balloon during the entire ascent. On the 18th, again,
+launching would prove impossible.
+We thus see that, during the week under consideration, the system could be
+launched and maintained aloft over a full three days, from the 15th through the 17th.
+The following is a fairly typical pattern: a recent study indicated that of some 83
+days during June-September 1964 on which soundings were made, static launches
+could be made on six, and free-rise or mobile launches on 22, for a total of 34%
+of the days considered. Similarly, the system could be maintained aloft on 58, or 70%,
+of the days studied, many of these falling into groups of a week or more.

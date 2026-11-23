@@ -1,0 +1,22 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T09:26:42Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 18781792, "source_ctime_ns": 1793355451843266446, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0034.jpg", "source_mtime_ns": 1785564457000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0034.jpg", "source_sha256": "cdcabd99bd05e74f09171a48e327752b161b371da8cc15067a5c405c4a67c2b0"}
+
+===== PAGE 1 =====
+{"alpha_words": 159, "chars": 1119, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Figure 14. Lenticular Shaped Reflector
+2. Targets or decoys which are carried aloft in a rocket nosecone and then
+ejected and inflated (Figures 15 and 16).
+• The canisters, inflation mechanisms, de-
+ployment, and inflatables used in these programs have been thoroughly evaluated and
+in some cases are presently in production. These systems use either RF reflective
+materials with a plain plastic backing or systems which will rigidize when erected
+in space.
+3. Antennas - Space inflatable antennas are another ideal application for in-
+flatables. (Figure 17) The ability to pack these inflatables in a minimum space and
+their light weight requiring a minimum torque moment to orient, are important
+factors.
+4. Solar Concentrators and Solar Cell Arrays - Some work on inflatable solar
+concentrators has been done although the main problem still is obtaining high effi-
+ciency. To date we have achieved approximately 50 percent efficiency from an in-
+flatable and rigidizable concentrator. Inflatable mattresses can also be used to
+deploy and serve as a rigid mounting for solar cell panels.
+Figure 15. Space Inflatables

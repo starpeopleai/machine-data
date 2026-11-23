@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T10:08:54Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5974313, "source_ctime_ns": 1793369412307332539, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28931707/0452.jpg", "source_mtime_ns": 1785688625000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28931707/0452.jpg", "source_sha256": "b7cd7568537e8f2b5943bb38e462f8dc04aa4adb731568032d057891764d12e7"}
+
+===== PAGE 1 =====
+{"alpha_words": 57, "chars": 429, "method": "ocr", "page": 1, "variant": "plain-vision"}
+TO- MOTATO 3
+FROM
+DATE 29 FOT 48
+The Commanding General; Far Bastern Air Force was requested le Nover.
+forward to this Command the information outlined in Comment #l
+COMMENT NO.
+1048 to
+UNCLASSIFIED.
+I FROCKE
+Chief
+Foreign Lisison Section
+Technical Intelligence Divicion
+Intelligence Department
+P 2030
+Bide 28
+7O0CS
+cerec
+DOWNGRADED AT 3 YEAR INTERVALS:
+DECLASSIFIED AFTER 12 YEARS
+DOD DIR 5200.10
+(DO NOT WRITE BELOW THIS LINE)

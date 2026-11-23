@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T09:32:09Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9508065, "source_ctime_ns": 1793380178067421933, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28974818/1241.jpg", "source_mtime_ns": 1785700710000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28974818/1241.jpg", "source_sha256": "99736ae95cfd1d4bb60d4077e1b34fdbc3cd74195b6605381c93563deff8e8c9"}
+
+===== PAGE 1 =====
+{"alpha_words": 89, "chars": 728, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PAGE THREE RJESKS 84
+20,908 FEET - 260 DEGREES - 45 KNOTS
+30,900 FEET - 260 DEGREES
+- 5ø KNOTS
+50,590 FEET - 250 DEGREES - 70 KNOTS
+89,909 FEET - UNKNOWN
+C. UNLIMITED TO 20,900 FEET
+D. EIGHT MILES
+E
+3/10 AT 20,300 FEET
+F • NONEOO
+8. NONE
+9. NONE
+10. ONE AIRCRAFT LANDED WITHIN A MILE OF THE OBSEEVERS
+(APPROXIMATELY2530Z HOURS )
+01307
+11. UNIDENTIFIED FLYING OBJECT INVESTIGATOR CHIEF BASE TRAINING
+BRANCH. THE OBSERVERS WERE QUIRED AND WERE STUND TO BE SINCERE AND
+RELIABLE THE OBJECT COULD POSSIBLY HAVE BEEN A BRIGHT STAR
+12 •
+WO NEGATIVES
+AND FIVE SKETCHES OF THE OBJECT. THIS
+MATERIAL WILL BE FORWARDED IN ACCORDANCE WITH PARAGRAPH 7A (2)
+AIR FORCE REGULATION 200-2
+15/2333Z NOV RJESKS
+Not received by
+This dATe.
+1-30-5-8ł

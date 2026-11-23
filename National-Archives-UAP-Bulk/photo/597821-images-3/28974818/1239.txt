@@ -1,0 +1,40 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T09:53:22Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9059831, "source_ctime_ns": 1793380177107816722, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28974818/1239.jpg", "source_mtime_ns": 1785700710000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28974818/1239.jpg", "source_sha256": "b8bdffde4f62106da2172366f8ced7479bae9b36b1909bb9cbdeb7b4af852894"}
+
+===== PAGE 1 =====
+{"alpha_words": 112, "chars": 754, "method": "ocr", "page": 1, "variant": "plain-vision"}
+10N0y57 00 20
+SQF218 YDB214 VYA016 VMA205 VVA002KSB072
+MM RJEDDN RJESKB RJEWP RJEPHQ RJWFES
+DE RJESKS 84
+M 1522 05Z
+FM COMDR KEESLER AFB MISS
+TO RJEDDN/COMDR ADC
+RJESKB/COMDR 35TH ADIV DEF
+RJEWP /COMDR ATIC
+RJEPHQ/DIR OF INTEL HQ USAF WASH DC
+RJWFBS/COMDR ATC
+ZEN/ COMDR TTAF
+2) +24
+4-4x201
+UNCLASSIFIED FROM OB 532L
+UNIDENTIFIED FLYING OBJECT. IN COMPLIANCE WITH AIR FORCE REGULATION 292-2
+THE FOLLOWING DATA CONCERNING UNIDENTIFIED FLYING OBJECT SIGHTING IS SUBMO
+ROUND
+B•‹
+THREE TIMES
+THE
+SIZE OF A STAR
+- allistars arenot thesan
+size, even evilhitemahes
+C •
+BRIGHTER THAN AIRCRAFT LANDING LIGHTS
+eye
+D.
+ONE
+E. NA
+F. NONE
+G. NONE
+H. NONE
+IT WAS FLAT ON THE TOP
+• A. IT WAS MUCH BRIGHTER THAN ANYTHING EVER SEEN BY THE TWO OBSERVERS
+PAGE TWO RJESKS 84

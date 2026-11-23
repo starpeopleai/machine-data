@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T09:35:27Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 15072956, "source_ctime_ns": 1793357750419113092, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1633-559606-0010.tif", "source_mtime_ns": 1785564966000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1633-559606-0010.tif", "source_sha256": "b9e6e0a1caa379d196d4193792a6b495d368d525290275b5de5a336be9bba284"}
+
+===== PAGE 1 =====
+{"alpha_words": 176, "chars": 1063, "method": "ocr", "page": 1, "variant": "plain-vision"}
+I saw a white spot in the air. It looked like a star going out. It was
+about like a car or something a little bigger. It was white and bright and
+there was no trail nor exhaust. There was no sound. There was one object.
+It did not move while I was watching. When it went away it just vanished.
+I don't know what time it was when I saw this object. I watched it for
+about five minutes.
+I observed this object visually from the ground. I couldn't find it
+with the binoculars. I used Binocular No. 7450.
+This object was directly overhead at Tinker Air Force Base. I have no
+idea how high it was•
+From 1942 until the present time I have been a member of the Air Force
+on active duty or employed at Tinker Air Force Base.
+The weather was clear; I don't remember any clouds. There was Southeast
+winds •
+I have observed weather ballons, but never saw one as bright as this
+one was•
+No fragments or physical evidence of the object were observed.
+eugene t A
+HIFLEY, Eugene H.
+Civilian Guard
+Tinker Air Force Base
+3 July 1953
+AF559606
+Declassification Authority: NND 57565

@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T10:18:38Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9857671, "source_ctime_ns": 1793383128082714274, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28986377/0134.jpg", "source_mtime_ns": 1785748313000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28986377/0134.jpg", "source_sha256": "b230564592dcad5fe06f7a4e83b3563d67bfaa51a9bb0e85823959dd42cc60d0"}
+
+===== PAGE 1 =====
+{"alpha_words": 126, "chars": 809, "method": "ocr", "page": 1, "variant": "plain-vision"}
+oi-3ä/tacker/am/72291
+- ЛУКИХ
+So it
+17 May 1960
+Dear Mr.
+This is to acknoviedge your letter of 25 April 1960 concerning
+stripe of aluminum fotl vhich you found near Salem, Arkanses.
+These
+strigs of alumin foil are called "chaff" and are used by the mili-
+tary to jan radar installations.
+This chef? to used in conjunetion.
+with training exercises conducted by the crews of our aircraft.
+Foil in dropped from very high eltitude end it is possible for
+1t to drift with the vind over a vide geographical area. This could
+have been the case in this instance or an actual training mission
+could have over flom Salem, Arkansas and dropped this cha?f.
+Sincerely,
+LAURENCE J. TACKER
+Major, USAP
+Public Information Division
+Office of Information Services
+calem, Arkansas
+REVAICE?
+0N 1 72 02
+oi-3d comeback
+oi-l
+reader

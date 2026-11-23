@@ -1,0 +1,62 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T09:32:00Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9388185, "source_ctime_ns": 1793364621763139853, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787490/45484701-007-003-0010.jpg", "source_mtime_ns": 1785684881000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787490/45484701-007-003-0010.jpg", "source_sha256": "d618d58f04b24a04dfc952b897f6c91c3e679aea0e78bf5ca8726a0f7a03c2c8"}
+
+===== PAGE 1 =====
+{"alpha_words": 510, "chars": 3287, "method": "ocr", "page": 1, "variant": "plain-vision"}
+STANDARD FORM NO. 64
+Office Memorandum • UNITED STATES GOVERNMENT
+: Hq, 19th DOSI, (IG) USAF
+DATE: 11 September 1950
+ROM : Detachment Commander,
+McClellan, California
+Sighting of Burning Object in the Air
+Rio Linda, California
+8 September 1950
+Viewed by Special Agente THOMAS J. SCANTAN and RICHARD J, OSBORN, at LATTA's
+At 1930 hours on 8 September 1950, Mr. JOSEPH E. LATTA, civilian, was inter-
+residence on Taylor Street, Del Paso Heights, California. Mr. LATTA stated that
+during the day he had been working on his rice farm which is located approximately
+twenty-seven miles north of Sacramento, California on the old Marysville Road.
+At approximately 1400 hours, he had paused in his work and while obtaining a drink
+of water had noted a burning object falling very slowly through the air, LATTA
+asserted that when he first noticed the object, it was at an altitude of approxi-
+mately two hundred feet, appeared to be about ten feet in diameter, and was falling
+at a very slow rate of speed.
+The light of the burning object was extremely bright
+and made it impossible to determine any specific details relative to shape other than
+that it appeared round. The object was leaving a trail of blue smoke as it descended,
+LATTA stated it struck the ground approximately 1-1/4 miles distant on the near
+side of a row of trees bordering a creek. He was of the opinion it had landed in
+a rice paddy as there was no evidence of any conflagration after it landed.
+He
+further stated that he could guide Special Agents OSBORN and SCANLAN to within a
+thousand feet of the spot where the object landed.
+2. On 8 September 1950, a night search of the area indicated by LATTA failed
+to reveal any evidence of a burning object having landed in the vicinity. Due to
+the fact that part of the area is under water (rice paddies) search was discontinued
+until the following morning.
+3. On 9 September 1950, Mr. EDGAR ERNST, R #l, Box 3100, Rio Linda, California,
+the person on whose property subject object purportedly landed, was interviewed at
+his rice farm approximately one and one half miles northeast of LATTA's farm. ERNST
+stated that the object seen by LATTA was probably a flare which he had shot to scare
+ducks which nested in his rice paddies. ERNST asserted he had obtained a rifle,
+grenade launcher and flares from the U. S. Fish and Wildlife Authority to disperse
+the ducks and that on 8 September 1950, he had shot flares at approximately 1400
+hours, 1600 hours and 1700 hours. ERNST stated that chances of recovering the dis-
+charged flares were very small due to the fact that he did not know exactly where
+they landed and that the remains were probably under water in the rice paddies. He
+produced a sheet of paper authenticated by Mr. JAMES BIRCH of the U.S. Fish and
+Wildlife Authority indicating that on 8 September 1950 he had been issued an Army
+Rifle, Calibre .30, Model 1903, Serial number 3545271 and one grenade launcher.
+ERNST produced the rifle, launcher and several flares, (Signal, Ground, White Star
+Parachute M 17 Al)
+CLASSIFICATION CANCELLED En ROMeRChA
+BY AUTHORITY OF THE DIRECTOR OF SPEC INV
+KURT K. KUNZE, Capt, USAF
+CC: CO, SMAMA
+Historian
+P. FORD.
+Captain, USAF
+Detachment Commander,
+5 DEC 197 cChellan AFB Detachment
+DATEN
+Declassification Authority: NND 923007

@@ -1,0 +1,42 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T09:53:55Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9746969, "source_ctime_ns": 1793387739156916180, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28999078/1034.jpg", "source_mtime_ns": 1785747851000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28999078/1034.jpg", "source_sha256": "a4782b2df4c064a4f4cfe5c9ccb2f8545a5ab14b33c316ad1bcf7effb972d1a3"}
+
+===== PAGE 1 =====
+{"alpha_words": 74, "chars": 489, "method": "ocr", "page": 1, "variant": "plain-vision"}
+: DASC, OHIO
+lese objec
+an the UTO's
+others in the are:
+aros.
+witnessed
+che ob
+is suggested tomc yot
+investigato
+ico with
+the provasions
+o. paragrap:
+C00002
+Ce c
+(.d 20 Jaly
+G0802
+ption o2
+tne opgects is limited
+isidentifieation of ball
+Ii htning vas the cous.
+his informatio:
+provided as possible
+ring your investigetion.
+omplete eddress o
+iness is as follows:
+L'S.
+COX
+Stoe
+L10,
+Missouri
+tO uS
+of chis
+Histance
+FOR THO COMANDLA
+K hit1 Tiend s101
+colone
+Deputy Tor Science
+and Components

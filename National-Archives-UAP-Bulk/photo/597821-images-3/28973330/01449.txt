@@ -1,0 +1,42 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T10:16:23Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9129571, "source_ctime_ns": 1793379762181292030, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28973330/01449.jpg", "source_mtime_ns": 1785700822000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28973330/01449.jpg", "source_sha256": "5d1d669c4cd882545792b602281cd281bc0856f5e6a62f744893eb1b9bc53784"}
+
+===== PAGE 1 =====
+{"alpha_words": 67, "chars": 488, "method": "ocr", "page": 1, "variant": "plain-vision"}
+• Hélis
+71= 1>
+!.. /t:
+14 // :
+WPC185M YDF128 TYC1S2 TDD123NEAQRUW 77 CJ B1/53;
+PP RJEDUN RJEDWP RJEPHO
+DE RJEPNE 78
+P 0720172 :
+FM COMDR CFECR
+Thel
+TO RJEDDN/COMDR ADC
+RJEDWP/COMDR AIR TECH INTEL CTR
+RJEPHO/DIR OF INTEL HQ USAF
+/UNCLASSIFIED/ FR CFEIN-OI 334.
+SUBJECT: UFOP
+A. OBLONG
+B. BLIMP .
+Woh
+C..
+ROSEY AT FIRST FADED TO PINK
+seg rangte.
+at aran
+( >
+E•
+N/A
+F. NONE
+G. NONE
+mto
+anal avere.
+70 y arc
+_ carragh a
+cornalons
+anol á segat
+9 mentes
+PAGE TWO RJEPNE 78
+H. NONE
+I. NONL
+T￾T

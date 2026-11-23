@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T09:29:58Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8452428, "source_ctime_ns": 1793380869679947688, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28978627/0362.jpg", "source_mtime_ns": 1785700865000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28978627/0362.jpg", "source_sha256": "0d746eee9aa37171aab150cba1a3108d9ec0f7cf13b436c0cbff05002584e44a"}
+
+===== PAGE 1 =====
+{"alpha_words": 101, "chars": 691, "method": "ocr", "page": 1, "variant": "plain-vision"}
+16 Pebruary 1965
+Dear Mr.
+Reference 1a made to your letter of January 18
+to Senator Margaret Chase Smith requesting the return
+of some negatives which you submitted to the Air Force
+for analysis in 1958 in conjunction with a UFO report.
+The object in the negatives 1s the star Arcturus.
+This was determined by an analysis of the negatives
+and information submitted in conjunction with the
+negatives by Doctor W. F. Chambers of the University
+or
+Vermont and Doctor Allen Hynek, civilian consultant
+to Project Blue Book.
+The negatives are returned as requested.
+Sincerely,
+MASTON M. JACKS
+Major, USAF
+Public Information Division
+Office of Information
+1 Atch
+Negatives
+FO
+Belrast, Maine, 04915

@@ -1,0 +1,24 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T10:13:20Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8123526, "source_ctime_ns": 1793382132168266645, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28982642/1116.jpg", "source_mtime_ns": 1785701025000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28982642/1116.jpg", "source_sha256": "709bcb9ea4fd7576aa53e2a59dbd6a14affa469d3f1258d77f6bccb01fbda35b"}
+
+===== PAGE 1 =====
+{"alpha_words": 90, "chars": 550, "method": "ocr", "page": 1, "variant": "plain-vision"}
+- 1 Page nine
+It procticable, attach to this age the section of a local area chart which
+bor the location of the sighting.
+On this. chart plot the flight path of
+your sircreft and the flight path of the object.
+if a local area chart is not available, roughly sketch in the area of the
+sighting showing latitude and longitude.
+Then plot the flight path of
+your aircraft and the flight path of the object.
+Put in prominent land-
+marks as necessary.
+DON.
+VAPADED AT 3 YEAR
+DECLE
+PTER 12
+DOR. D18 6220.19
+UNCLASSIFIED
+100STH
+Document Log # 52/8.
+59-14/2

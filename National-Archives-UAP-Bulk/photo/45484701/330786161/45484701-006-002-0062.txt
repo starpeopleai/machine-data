@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T09:21:45Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9765217, "source_ctime_ns": 1793363860734116706, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330786161/45484701-006-002-0062.jpg", "source_mtime_ns": 1785685029000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330786161/45484701-006-002-0062.jpg", "source_sha256": "19156dbb60cdb2af1562ad27b269b4486486f4c0157bd6c5fb23cab3849491aa"}
+
+===== PAGE 1 =====
+{"alpha_words": 40, "chars": 239, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+~ - 7
+>
+ee enn See
+
+&,
+
+601A ROE AION BOR. EINE NAA TAINAN MEIN ERI IE LN ARIE NEG AIRY et A RE Mes Ie ONO at
+
+A oN Le ag ONY
+‘ ‘
+! ae |
+
+’
+Ff be |
+*
+
+thi «
+wer ge,
+
+ WONVUEY PW
+
+¢Z SL. We. dis. 9S!
+
+Declassification Authority: NND 923007

@@ -1,0 +1,57 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T10:05:03Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4614562, "source_ctime_ns": 1793378788694982110, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28969286/0700.jpg", "source_mtime_ns": 1785700948000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28969286/0700.jpg", "source_sha256": "5b9edaafa103dc21971ce89692259fec5785708f6d2df5f2750dd36bfb6414e1"}
+
+===== PAGE 1 =====
+{"alpha_words": 120, "chars": 951, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD CARD
+1. DATE
+2. LOCATION
+22 March 1957
+3. DATE-TIME GROUP
+Locel4800-1805-1810
+GH T
+22/2300ęłŚ
+5. PHOTOS
+Dayton, Ohio
++ TYPE OF OBSERVATION
+CK Ground- Vi sual
+• Air Visual
+6. SOURCE
+• Ground-Radar
+• Air-Intercept Radar
+• Yes
+Civilian
+8. NUMBER OF OBJECTS
+7. LENGTH OF OSSERVATION
+3 sightings same area
+still visible to 30 mis
+0: BRIEF SUMMARY OF SIGHTING
+12. CONCLUSIONS
+Was Balloon
+KXProbably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircratt
+Was Astronomical
+D
+Probably Astronomical
+Possibly Astronomical
+Other
+Insufficient Data for Evaluation
+Unknown
+_one
+9. COURSE
+mostly
+stationary
+COMMENTS
+One object described by all observers
+aus
+a kite to parachute shape color white
+and remained mostly stationary altitude.
+guessed foom 4000 ft to 4500ft.
+As this coincides with release
+of weather balloons from Sul-
+phur grove these sightings are
+most logically a #X balloon.
+O.D.H.
+ATIC FORM 329 (REV 26 SEP 52)

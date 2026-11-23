@@ -1,0 +1,49 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T09:47:59Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8444616, "source_ctime_ns": 1793363397784399442, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785085/45484701-005-003-0179.jpg", "source_mtime_ns": 1785684919000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785085/45484701-005-003-0179.jpg", "source_sha256": "03eb7a5bdfc0e99a8d01c53709141fa3d40c7a54e646fdf97220964c8b9d5a2a"}
+
+===== PAGE 1 =====
+{"alpha_words": 281, "chars": 2001, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AIR FORCE
+HEADQUARTERS UNITED STATES AIR FORCE
+WASHINGTON 25, D. C.
+6 March 1950
+MEMORANDUM FOR RECORD
+1. It Colonel Patrick Hayes, OSI District Commander, Maxwell Air
+Force Base, telephonically furnished the following advice on the evening
+of 3 March 1950:
+Mr. S. E. Adaock, Chief of Engineers, Radio Statior
+NROL, Knoxville, Tennessee, reported to A. F. Davis,
+Chief of the AEC Security Patrol at Oak Ridge, Tennessee,
+that he sighted through radar set ANP-7 at 2330 hours,
+L March 1950, one unidentified object, altitude 40,000
+feet, bearing 3320 from Knoxville. The radar set operated
+on 19,000 megacycle frequency. Speed or direction of
+object undetermined.
+b. At 2000 hours, 2 March 1950 he sighted two unidentified
+objects, altitude 80,000 feet, bearing 310° from Knoxville,
+rennessee, same frequency. No speed or direction indicated.
+c. At 1035 hours, 3 March 1950 he sighted one unidentified
+object, altitude 40,000 feet, bearing 3200 from Knoxville,
+same frequency, approximate speed 200 miles per hour. No
+direction determined, approximate size of C-47 aircraft.
+d. Colonel Hayes also advised that Colonel Gasser, Air
+Force liaison to NEPA, was advised of this and requested
+Wright Patterson AFB to send adequate radar sets to Knox-
+ville. According to CIC, Knoxville, the Third Army will
+send mobile anti-aircraft radar sets if the AF cannot
+provide the radar sets necessary. A. F. Davis contacted
+the CO at Smyrna AFB as to any AF aircraft flying in the
+vicinity, receiving a negative reply.
+e. Mr. Charles White, Chief of the Physics Section of
+AEC, Oak Ridge, Tennessee, made an informal request to the
+local OSI representative to secure three portable radar
+sets from AF sources. The OSI representative advised White
+that OSI would process the request only if it were formally
+made.
+White stated that he desired to obtain approval from
+higher AEC authority before making a formal request.
+UNCLASSIFIED
+APR 3
+OFFE
+SPECIAL IN
+биг
+Declassification Authority: NND 923007

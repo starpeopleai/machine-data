@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T09:26:26Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 17787692, "source_ctime_ns": 1793356507568434324, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0117.tif", "source_mtime_ns": 1785564715000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0117.tif", "source_sha256": "3909da788e59d1280f250f2864ebf1b6cc0a31034d741f6ddd241b93b40fbad3"}
+
+===== PAGE 1 =====
+{"alpha_words": 180, "chars": 1158, "method": "ocr", "page": 1, "variant": "plain-vision"}
+RI
+Incident #244 -- Lirkland Field, Albuquerque, Hew rexico -- 12 November 1948
+The evidence given concerning this inoicent does not hang
+together physically: If thecobject was a bright white light, dianond-
+sheped and two feet long, and only a third of a mile awaY,
+the it seems
+incredible that it should have been observed over only a 500' trajectory.
+And a bright light, that close, in a populated spot, surely would have
+attracted the attention of more than one person.
+The whole report suggests a physiological optical illusion
+rather
+than a real object in the sky. The evidence is incomplete:
+tine in sight is not stated, hor is the elevation or bearing of the
+objeet even implied. The manner of disappearenco is not told: did
+the light simply ro out abruptly, or did it fade out gradually, or
+at ?
+there is a remote possibility that the observer saw a day-
+Ifght neteer over a very short part of its trajectory, but if this
+had been the case, there should have been some sort of a trail.
+The method o1:
+re orting and interrogation in this incident
+poor.
+observer wes
+50
+01
+5001
+he would also
+whole
+a sense
+realit
+Declassification Authority: NND 57565

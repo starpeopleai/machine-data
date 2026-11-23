@@ -1,0 +1,87 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T09:39:01Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 18242211, "source_ctime_ns": 1793355671405670171, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0110.jpg", "source_mtime_ns": 1785564500000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0110.jpg", "source_sha256": "fa35109e97df2763ede829f805c3a03b64903f7f2b1ee31d848f19e69e0b7d58"}
+
+===== PAGE 1 =====
+{"alpha_words": 1021, "chars": 5976, "method": "ocr", "page": 1, "variant": "plain-vision"}
+206
+we could use for a much more ambitious test planned for next year. This navigat-
+ing system was a very simple device. It consisted of a little bit of anodized alu-
+minum, about one inch in diameter, with a thermistor pasted on the back. The
+thermistor was the controlling element in a resistance-controlled oscillator which
+was basically a clock which we used to generate a Morse code letter. Through
+use of a diode matrix we came out with any one of a number of simple codes.
+With a stop watch we could count how many "k's" the system was transmitting;
+in a minute, look it up against a calibration chart; find out what the resistance of
+the thermistor was; from this determine the temperature of the disc; and then
+determine sun angle. In the final flight program we used an empirical calibra-
+tion system. Mr. Solot would tell us on the first day of the flight where our
+balloon was located. From these location points we would deduce the sun angle
+during the day and then use these angles as the actual calibration for the first day.
+Then for all future days we could use the same calibration. With a knowledge of
+sun angle at any time we have a line of position on the globe. With two sun angles
+which are spread apart by any reasonable period of time, we have something
+approaching a fix. We used 15. 025 mc for our transmission, with the compliments
+of the Office of Naval Research. The frequency is only usable in daytime, but on
+this system we had no batteries; we had only solar cells, so that we could operate
+only during daytime hours. Our maximum output was approximately one watt
+in a simple center-fed antenna. The mass of the system was about 200 grams,
+most of this being styrofoam. We did carry in addition a timer, a cut-down
+timer, since we considered it unwise to fly into Europe. We set this from 6 to
+10 days. The timer itself was a simple escapement from which we removed the
+spring and put on many turns of string (if we wanted a 300-hour flight, we could
+put 300 turns of string on). The escapement then moved away from the balloon
+system until all the string was gone and it fell off. The balloon then was too
+heavily overpressured and burst. These, by the way, were nine-foot balloons
+flying at 200 mb. The balloon itself weighed 2, 000 grams.
+The first objective on this trip was to try a cooperative international program.
+That was the first step toward our eventual international GHOST system.
+And it
+did work. It was a joint Japanese-American project. We had some difficulties
+although our sponsor was the Chief of the Japanese Meteorological Service. It
+turned out he was quite powerless to help us move our helium into Japan.
+The
+Japanese word for cylinder is 'bomba" so these were helium bombas, and they are
+a little bit more dangerous than hydrogen bombas. It took us some three weeks to
+convince the authorities in Japan that these were not some desperate military
+weapons. We did use hydrogen on our first flights and eventually switched over
+to helium
+207
+The second objective -- to test the navigator system -- was from our point of
+view wonderfully successful. We need this tracking system until we have a satel-
+lite to work with our balloon system. On all of the launches we released from a
+town north of Tokyo. One of our men, who knew when we were going to launch,
+was in Honolulu. In every case, in the thirteen flights that went up, he picked up
+our transmission immediately. On one of the flights we were picked up simulta-
+neously from our own receiver in Japan, from Honolulu, and from an amateur who
+was helping us out in Milford, Massachusetts -- all of this with a power supply
+that weighed 15 grams with something approaching an infinite life. We are now
+convinced that we can operate test programs utilizing our simple transmitter and
+encoder, a very adequate telemetry and transmission system costing less than
+$100, to test balloons and to test sensors.
+Our third objective, of course, was to test balloons, and this didn't work out
+too well.
+Table 1 is a summary of the flights. The names used were mostly those of
+children of the people who were over there. They also corresponded to the Morse
+code for the particular flight. We used hydrogen through the first seven flights.
+These just indicate the areas from which we picked up our signals: from Tateno,
+our Japanese site; from Hawaii, from Livermore, California; from Boulder, and
+later on from a man we put in Pittsburgh. Our Palestine people listened in a few
+times, too. We made no great effort to build up the network here because we
+were getting such good communication.
+The first flight was on the evening when we finally got our equipment together.
+Unfortunately we did not know until after the fourth flight that we were having
+difficulties. The second flight moved to the north very rapidly. Sam Solot told
+us it was moving into Canada and we assumed we were not picking it up because
+it went too far north for our receivers, and it wasn't until later that we knew we
+were in trouble with our balloon.
+We had made a number of test flights in Boulder before going to Japan. One
+of these tests got away from us -- the timer failed in a mountain wave - - and as far
+as we know it stayed up not less than 35 days. We were, therefore, quite confi-
+dent that we would have no trouble on our 6- to 10-day flights, which was the
+time we figured it would take to reach the mid-Atlantic. The durations were very
+poor on our first flights. Table 1 lists the times we actually had signals; for
+example, for the flight of one-hour duration, we flew the balloon in the afternoon
+and after one hour it was sunset and we did not hear signals the next day. Pre-
+sumably, that balloon flew for less than 24 hours. In general, the duration of
+the balloon flight was 12 hours to 2 days longer than indicated in the Table.
+After the fourth flight, we decided that we did have a problem with our
+balloons. We thought the problem concerned the hydrogen because we couldn't

@@ -1,0 +1,68 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T09:32:23Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9737629, "source_ctime_ns": 1793364637720319462, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787490/45484701-007-003-0037.jpg", "source_mtime_ns": 1785684884000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787490/45484701-007-003-0037.jpg", "source_sha256": "1cb56e405767357fb1abaa82a290a0fd803dc6ffee91cc72666ce2dff863dea7"}
+
+===== PAGE 1 =====
+{"alpha_words": 309, "chars": 2062, "method": "ocr", "page": 1, "variant": "plain-vision"}
+CHIEF, SECURITY BRANCH/HJJ/1ae
+COORDINATION
+CO
+UNCLASSIFIED
+DEPUTY CO
+190 OSI 24-40 SIR-7
+12 May 1950
+EX OFFICER
+SPOT INTELLIGENCE REPORT
+SUBJECT:
+Unconventional Aircraft
+Source
+Sacramento Union, newspaper, Editorial
+: Director of Special Investigations,
+Headquarters USAF,
+Washington 25, D. C.
+CHIEF AGENT
+FILE CLERK
+SUNOFSIS: Editorial in Sacramento Union, Sacramento,
+California based on commentary of H, J. TAYLOR states that flying STAT cONTRO
+saucers or discs are harmless, non-explosive, and a military secret
+of the United States of America; their use will not be known generally
+until USAF releases the information.
+DITALIS :
+The Sacramento Union newspaper dated 1 May 195cENT
+carried the editorial entitled #Flying Discs" information received
+by this office indicates that the editorial was based upon a
+commentary of H. J. TAILOR.
+ẠNEXT TIME your Sacramento neighbor tells
+you he saw a flying disc, do not look at him as though he had sui oriGNATOR
+gone out of his mind, For, the chances are he did see a flying disd.
+For, now it can be told - flying discs are American secret
+weapons.
+They vary in size from 20 inches in diameter and six inches
+thick to 250 feet in diameter. Host oi them are round, bus some r
+Ilat and edged upwards like saucers. They have no sound, no propellEngeR‹
+mechanien, and no smoke, or light.
+They can appear to stand momentarily in the air, but they can
+move like lightning.
+They are utterly harmless. They fly all the
+way from 1000 feet to 30,000 feet, and even higher. hat they're °c
+For is a military secret, which will not be generally known until W5 coMpe
+United States Air Force releases the information.
+But it is an impor
+tant and a wonderful purpose, and the country will thrill with pride when
+the newe is finally made known.
+122
+SIR7
+UNITED STATES AIR FORCE
+BY
+CLASSIFICATION CANCELLED
+BY AUTHORITY OF THE DI
+KURT K. KUNZE, Capt, USAF
+Histerian
+THE INSPECTOR GENERAL
+UNCLE TATED
+FFICE OF SPECIA!
+INVESTIGATIONS
+| 5 DEC 1975
+DATE
+OSI 124-10
+(25 Aug 48)
+MA-Feb 50- 5M (30a)
+Declassification Authority: NND 923007

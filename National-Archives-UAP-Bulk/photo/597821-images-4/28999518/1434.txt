@@ -1,0 +1,20 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T10:14:01Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8251021, "source_ctime_ns": 1793387960954691986, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28999518/1434.jpg", "source_mtime_ns": 1785748162000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28999518/1434.jpg", "source_sha256": "e329d93a5a528a2db50eac027863b5fb67a27e43259bf41f5d534fc711ca310e"}
+
+===== PAGE 1 =====
+{"alpha_words": 48, "chars": 289, "method": "ocr", "page": 1, "variant": "plain-vision"}
+' No Case (Information Only)
+4 October 1962
+Argentina
+t of the ground,
+where it r
+almed
+ratsong red light. it the DEO
+• then
+until finally it changed di
+only behind a nearby hill. It then
+angle,
+and disappeared into the sky.
+it one tine only
+about 20 feet from
+ange oresture with many
+abo

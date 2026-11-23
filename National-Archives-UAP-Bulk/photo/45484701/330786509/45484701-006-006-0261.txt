@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T09:54:23Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10386140, "source_ctime_ns": 1793364203937865108, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330786509/45484701-006-006-0261.jpg", "source_mtime_ns": 1785684596000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330786509/45484701-006-006-0261.jpg", "source_sha256": "a5f562e4ab08cfe53288e442d5d9e1b4a411511e3a5e121d352d1cf597278b9e"}
+
+===== PAGE 1 =====
+{"alpha_words": 141, "chars": 1001, "method": "ocr", "page": 1, "variant": "plain-vision"}
+IDENTA
+d.
+Place of business:
+Headquarters, AVC .
+Hobbies: Boating
+Ability to determine: Excellent
+Reliability of observer: Apparently excellent.
+Former sightings:
+None
+How attention was drawn to object: Falling light.
+J-
+Degree of fatigue: None
+8. VLASIC stated that there were no other witnesses.
+4. A check with the Base Weather Detachment, Holloman APB,
+New lexico, revealed that weather conditions in the vicinity of
+NeIntosh, New Nexico, were normal at 1800 hours on 27 November 1949,
+5. A check with the Operations & Projects Division, Helloman
+AFB, Hew Hexico, revealed that there had been no unusual radar sighting
+nOr
+had there been any testing devices released which could account for
+the phenomenon, on 27 November 1949. Captain PHILIP J. MAHER, 14761-A,
+Pilot of the aireraft from which the object was observed, stated that
+they received no radar inductions or unusual noises on the radio circuits.
+REFERRED UPON COMPLETION TO THE OPPICE OF ORIGIN -
+Declassification Authority: NND 923007

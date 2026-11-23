@@ -1,0 +1,41 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T09:22:32Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10039611, "source_ctime_ns": 1793364299329623790, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330786876/45484701-006-007-0046.jpg", "source_mtime_ns": 1785685104000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330786876/45484701-006-007-0046.jpg", "source_sha256": "e2ebbf0b501dc5241cead1e90759852d460d1040d09c123386281031e9b76ea5"}
+
+===== PAGE 1 =====
+{"alpha_words": 176, "chars": 1273, "method": "ocr", "page": 1, "variant": "plain-vision"}
+(3) Date of Sighting: 6 October 1949.
+Time of Sighting: 1758 hours MST.
+Where Sighted: Observer was standing stil
+at the less .,
+Holloman Air Force Base; 32 50° 45 # - 1069 51 7n 1
+Number of Objects: One.
+Distance of Object from Observer: Tithin two mountain ranges.
+Direction:
+and ed at n 29° 55r weet
+Elevation:
+Appeared at 38°
+Disappeared at 35
+Time in Sight: About four seconds.
+Coler of Object: Bluish white, possibly a light green tinge.
+Sise of Objeet: Three times the size of Jupiter or Vems.
+Shape of Object: Cireular.
+Direction of Flights East to West - Sarthward.
+Maneuvers:
+Straight angular descent.
+Evidence of Exhaust or Trail: None.
+Effect on Clouds: No clouds.
+Luminosity: Several times the intenaity of Vems.
+Speed: 5 degrees per second.
+Sound and Odor: Nene.
+Manner of Disappearance: Popped out - no sparks.
+Name and Address of Observer:
+Captain Edward A. Doty
+Holloman Air Force Base
+Alamogordo, low Nexico
+Occupation and Hobbies: Officer in USAF; Upper Atmosphere Meteorologist,
+Fleetronies and Atmospherie Research Branch, Holloman AFB3 Amateur
+Astronomer (Has a 50 pomer telescops); Qualified observer in upper air
+research.
+Conmento:
+Interviewee ia highly reputable and is a very capable and
+reliable observer.
+Declassification Authority: NND 923007

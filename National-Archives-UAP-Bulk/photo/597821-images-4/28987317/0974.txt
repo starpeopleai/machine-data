@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T09:43:23Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7316975, "source_ctime_ns": 1793383575801115283, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28987317/0974.jpg", "source_mtime_ns": 1785747822000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28987317/0974.jpg", "source_sha256": "304d0fd731f03d3c122a2ad99614911cd155b161065b2a595941c1c4a5b87fbb"}
+
+===== PAGE 1 =====
+{"alpha_words": 91, "chars": 773, "method": "ocr", "page": 1, "variant": "plain-vision"}
+TO LEFT OF SIGHT. 6. 10 TO 15 SECONDS• PART III: 1. GROUND VISUAL•
+2. NO OPTICAL AIDS• 3. NOT APPLICABLE. PART IV: 1. 21/0700Z.
+2. NIGHT. PART V$ 5 MILES NORTH OF CORVALLIS OREGON. PART VI:
+1. N/
+RELIABLE. PART
+VII: 1. CLEAR. 2. 6000 MSL 350 DEGREES 10 KNOTS. 10000 MSL 320
+DEGREES 20 KNOTS• 16000 MSL 310 DEGREES 20 KNOTS. 20000 MSL
+310 DEGREES 40 KNOTS•
+38880 MSL 300 DEGREES 68 KNOTS. 50000 MSL 300 DEGREES 25 KNOTS.
+80000 MSL UNKNOWN UNKNOWN. 3. UNLIMITED. 4. UNLIMITED. 5. NONE.
+6. NONE. 7. NORMAL. NORMAL LAPSE RATE. PART VIII: NONE.
+PART IX: NONE. PART X: UNKNOWN. PART XI: INTELLIGENCE OFFICER'S
+APPRAILSAL-WORTHY OF FORWARDING FOR STUDY. PART XII: N/A•
+Classification Cancelled
+Auth,
+(or changed toUNCiRs)
+BT
+23/0742Z JUN
+UNCLASSIFIED
+By
+Data
+R 20%
+DOWNG
+DECI
+172

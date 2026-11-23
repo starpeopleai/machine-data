@@ -1,0 +1,22 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T09:32:56Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9803112, "source_ctime_ns": 1793387699413917642, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28999011/0982.jpg", "source_mtime_ns": 1785748095000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28999011/0982.jpg", "source_sha256": "36f3d6b1fec97f21bf5e58b64e80842e317d4f85802e89eddc177d0143d88fcc"}
+
+===== PAGE 1 =====
+{"alpha_words": 27, "chars": 165, "method": "ocr", "page": 1, "variant": "contrast-vision"}
+35
+37
+38
+Ii ters did you
+et le sone
+slent
+Ix ax a",
+Speds.
+у мо 1
+e l. .
+11305
+Dl as it th futt time gurar
+en oljeet lit ttis.
+Djers
+І ули сити
+ds khi.
+canet it
+2 x

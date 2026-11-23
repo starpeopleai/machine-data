@@ -1,0 +1,53 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T10:09:27Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6040465, "source_ctime_ns": 1793370398572552085, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28934496/0368.jpg", "source_mtime_ns": 1785688479000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28934496/0368.jpg", "source_sha256": "68c14099113648e546dce23fbe018493177331b8cff54dfa9cbdef4c34134d11"}
+
+===== PAGE 1 =====
+{"alpha_words": 143, "chars": 1017, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UNCLASSIFIED
+HEADQUARTARS
+97IE BOMBARDLENT WING, MEDIUM
+Biggs Air Force Base
+Biggs Field, Texas
+A2 319.1
+SUBJEOT :
+30 APR 1949
+Report of Information Pertaining to Flying Discs
+TO:
+Commanding General
+Air Materiel Command
+Wright-Patterson Air Force Base
+Vright Field, Ohio
+ATTO: MOLAXO
+Enclosed herewith is copy of a report made by G-?, Anti-
+aircraft Artillery & Guided Missile Center, Fort Bliss, Tezas.
+The location of the object, covered in this report, is
+approximately the same as the one sighted 15 April 19hg and re-
+ported in letter this Headquarters, dated 22 April 1949.
+FOR THE COMMANDING GENERAL:
+4 Inels
+1. Report
+2. Man
+J. Overlay
++. Sketch
+(AMC onLy)
+(AMC only)
+Paul'E fluens
+PAUL E. JOHNSON, JR.
+Major, USAF
+Adjutant
+Info. Copies TO: Commanding General
+Strategic dir Command
+Offutt Air Force Base
+Omaha, Webraska
+ATTY:
+Director of Intelligence
+Conmanding General
+Bighth Air Force
+Carswell air Force Base
+Fort Worth, Texas
+AFT: Director of Intelligence
+T1.39 M.LF 10
+DOWNGRADED
+DECLASSIFIED
+DOD
+NAD
+03/

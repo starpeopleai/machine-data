@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T09:29:47Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8379808, "source_ctime_ns": 1793387043614717942, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28998070/0135.jpg", "source_mtime_ns": 1785748421000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28998070/0135.jpg", "source_sha256": "cd8f22a6c5cac9b962c348f9c8430bdac474aca3300c52b6bce72b67bbe4ecdc"}
+
+===== PAGE 1 =====
+{"alpha_words": 74, "chars": 505, "method": "ocr", "page": 1, "variant": "plain-vision"}
+HEADQUARTERS STRATEGIC AIR COMMAND
+UNITED STATES AIR FORCE
+OFFUTT AIR FORCE BASE, NEBRASKA
+REPLY TO
+ATTN OF:
+DX IMI-2
+SUBJECT: Report of Unidentified Flying Object
+0C 196źš
+TO:
+Necretary of the Alr Force (SAFOIc)
+Wash 25, D. C.
+Attached letter concerning an Unidentified Flying Object is
+forwarded for necessary action.
+2. Correspondent has not been advised of this referral.
+FOR, THE COMMANDER IN CHIEF
+JACK A. STEFFEN
+Lt Col, USAF
+Directorate of Information
+L Atch
+Ltr fr Miss
+Peace
+• is our Profession

@@ -1,0 +1,58 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T09:20:48Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9736089, "source_ctime_ns": 1793383446658668202, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28987034/0718.jpg", "source_mtime_ns": 1785747876000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28987034/0718.jpg", "source_sha256": "55ced774eb4b398204784afe15af1f56ded79ebfb7c364396a0167e1b48d5b3f"}
+
+===== PAGE 1 =====
+{"alpha_words": 143, "chars": 1042, "method": "ocr", "page": 1, "variant": "plain-vision"}
+MULTIPLE MILITARY and CIVILIAN
+BRATION - WINSTEAD - ANTHONY
+1. DATE
+PROJECT 10073 RECORD CARD
+28 May 60
+3. DATE-TIME GROUP
+Local
+GM T.
+29/0530Z
+PHOTOS
+2. LOCATION
+El Paso, Texas
+4. TYPE OF OBSERVATION
+XO Ground-Visual
+• Air Visual
+6. SOURCE
+12. CONCLUSIONS
+•
+Was Balloon
+Probably Balloon
+Possibly Balloon
+• Ground-Radar
+• Air-Intercept Radar
+•
+Was Aircraft
+Probably Aircraft
+Possibly Aireraft
+Was Astronomical Meteor
+• Yes
+Probably Astronomical
+R No
+Civilian and Military
+Possibly Astronomical
+7. LENGTH OF OBSERVATION
+8. NUMBER OF OBJECTS
+9. COURSE
+Other.
+Insufficient Data for Evaluation
+8 sec
+one then two
+Unknown
+SE
+10. BRIEF SUMMARY OF SIGHTING
+11. COMMENTS
+Round object with bright trail, half the size
+The description is typical of a large
+of a pea at arm's length, bright white with
+meteor.
+traces of blue, yellow and a reddish tail.
+Object appeared to break into two pieces near
+the Rio Grande River. The larger piece continued
+on while the smaller piece seemed to disintegrate
+as it fell toward earth.
+ATIC FORM 329 (REV 26 SEP 52)

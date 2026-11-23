@@ -1,0 +1,46 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T09:45:39Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7723317, "source_ctime_ns": 1793364994527919786, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330788129/45484701-007-008-0016.jpg", "source_mtime_ns": 1785685180000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330788129/45484701-007-008-0016.jpg", "source_sha256": "96f5a2a11c7ff4e8826852787db6acc8c750e483316747b766a224742b457b24"}
+
+===== PAGE 1 =====
+{"alpha_words": 244, "chars": 1835, "method": "ocr", "page": 1, "variant": "plain-vision"}
+HEADQUARTERS UNITED STATES AIR FORCE
+THE INSPECTOR GENERAL
+OFFICE OF SPECIAL INVESTIGATIONS
+District Office No. 23 - Carswell Air Force Base
+Fort Worth, Texas
+UNCLASSIFIED
+23D 24-0-246
+SUBJECT: (Unclassified)
+UNKNOWN SUBJECT (S): Reported Sighting of
+Unidentified Flying Object in Vicinity of Levelland,
+Texas, night of 2-3 November 1957.
+TO:
+Director, Special Investigations
+Headquarters, USAF
+Washington 25, D. C
+1. Reference TWX from the Detachment Commander, OSI
+Detachment 2303, Reese AFB, Texas, subject as above, dated 4
+November 1957.
+2
+At approximately 2300 hours, 2 November 1957, the
+Provost Marshal's Office, Reese AFB, Texas, advised they had
+received a report that an airplane had crashed and was burning in
+the vicinity of Levelland, Texas. Additional reports filtered in to
+the Provost Marshal's Office by means of civil police radio indicat-
+ing that an Unidentified Flying Object (UFO) was reported rather
+than a burning aircraft. Major DANIEL R. KESTER, Reese AFB,
+Provost Marshal, conducted a preliminary investigation and obtained
+sufficient information for a TWX report in accordance with AFR 200-2.
+Such report was transmitted on 3 November 1957 by Captain SAMUEL
+GOLDSTEIN, Acting Counterintelligence Officer, Reese AFB, Texas.
+Information obtained from both the Provost Marshal's Office
+and the Wing Intelligence Office on 4 November 1957, reflected that
+the names of some of the witnesses as contained in the original TWX
+were misspelled. Identifying data which was not available at the
+time the TWX was transmitted was made available. A corrected
+list of witnesses who reportedly observed the citing is as follows:
+Sheriff WEIR CLEM, Levelland, Texas
+PEDRO SAUCEDO, farm hand and part-time barber,
+Levelland, Texas
+RONALD MARTIN, truck driver, Levelland, Texas
+UNCLASS
+Declassification Authority: NND 923007

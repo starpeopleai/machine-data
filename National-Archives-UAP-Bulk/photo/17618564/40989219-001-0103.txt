@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T10:12:59Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7982586, "source_ctime_ns": 1793354753529865915, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989219-001-0103.jpg", "source_mtime_ns": 1785564335000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989219-001-0103.jpg", "source_sha256": "c6509f5937002e10e22a497cc7a67174fde42bc120e7729fab8005750aba91fd"}
+
+===== PAGE 1 =====
+{"alpha_words": 133, "chars": 806, "method": "ocr", "page": 1, "variant": "plain-vision"}
+USAF HOSPITAL
+ALTUS AIR FORCE BASE
+OKLAHOMA
+9 July 1956
+Lt. Colonel George F. Adams
+4036th USAF Hospital
+Walker Air Force Base
+Roswell, New Mexico
+Dear Colonel Adams:
+I would like to take this means of expressing my
+appreciation to you for relieving me during the month
+of June 1956 and to thank you for the way in which the
+hospital administration was carried out.
+On my return officer and airmen personnel of this
+organization and others spoke highly of you as a nos-
+pital administrator and I would like to convey this
+message from them also.
+Any time
+you are back in this part of Oklahoma, do
+not hesitate to come by to see us.
+Sincerely,
+/s/ Jesse K. Grace
+/5/
+JESSE K.
+GRACE
+Colonel,
+USAF (MC)
+Commander
+A CERTIFIED TRUE COPY
+ORD KEITH, JR
+Mad Lit.,
+USAF
+Ass't Staff Judge Advocate
+DEFENSE EXHIDIT E

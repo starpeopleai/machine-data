@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T09:45:30Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7599212, "source_ctime_ns": 1793382223632402125, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28982642/1290.jpg", "source_mtime_ns": 1785701039000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28982642/1290.jpg", "source_sha256": "a875587bd2dea3f0653ce049e40d56ef6367c75e2c7d65f932f0cc027a85119b"}
+
+===== PAGE 1 =====
+{"alpha_words": 166, "chars": 1053, "method": "ocr", "page": 1, "variant": "plain-vision"}
+(SECUR: TY INFOR
+MATION when filled in)
+SUPPLEMENT TO AF FORM 112
+QRIGINATING AGENCY
+Detachment 7, 1006th AISS
+Snelling AFS, St Paul ll, Minn
+I PART SIX
+PAGE 14
+OF . 20
+PAGES
+minutes.
+The RO stated that he had locked onto a target at about 12 miles,
+but it broke lock at nine (9) miles.
+The hand control was used to follow the
+target up to two (2) miles.
+The pilot reported low fuel and turned the
+aircraft
+toward home field.
+1 Inel
+Airborne Observer's Data Sheet
+BOWNGRAP
+124
+WARNING: This document contains information affecting the national defense of the United States within the meaning of the
+Espionage Laws, Title 18, U.S. C., Sections 793 and 794. Its transmission or the
+evelation of its contents in any manner to an
+unauthorized person is prohibited by law. It may not be reproduced in whole or in part, by other than United States Air Force
+Agencies, except by permission of the Director of Intelligence, USAF
+FORM
+AF I OCT 52 1122 WHICH MAY BE USED
+REPLACES AF FORM 112-PART II. 1 JUN 48
+CLASSIFICATION
+(SECURITY INFORMATION when filled in)

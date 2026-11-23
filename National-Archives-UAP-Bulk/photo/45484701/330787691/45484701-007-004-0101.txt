@@ -1,0 +1,50 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T09:33:04Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9889092, "source_ctime_ns": 1793364787651713249, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787691/45484701-007-004-0101.jpg", "source_mtime_ns": 1785684930000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787691/45484701-007-004-0101.jpg", "source_sha256": "302919a33782f7acc464713568380fac415c29b30f8775d5a567f46c5c71773d"}
+
+===== PAGE 1 =====
+{"alpha_words": 348, "chars": 2385, "method": "ocr", "page": 1, "variant": "plain-vision"}
+OSI Case 124-50
+DETAILS (Cont#d):
+I have read this statement consisting of one (1) page and have
+initialed each page thereof and all corrections thereon. This statement
+is given freely and is the truth to the best of my knowledge or belief.
+S/ Rudy Palmere
+RUDY PALMER
+5gt•, AF-17101902
+5555th Bomb Trng. Wing
+Mather Air Force Base
+Mather Field, California
+WITNESSED: S/ Gordon T. Colley
+CORDUN T. COLLAY, Capt., USAB
+S/ Berl Be Pennington
+BERL E. PENNINGTON, S/A OSI
+Review of MILLAR'S Service Record and 201 File maintained at
+3538th Waintonance Squadron, Mather Air Force Base, Valifornia, revealed
+that MILLAR enlisted in the Air Force on 30 June 1948 and has an efficiency
+rating of excellent and is considered a conscientious hard worker, and was
+recently promoted for his verk. MILLAR completed one (1) year of high
+school and has an AGGT score of 115. Last physical examination was given
+on 50 June 1948, at that time no physical abnormalities were noted.
+Vision
+test revesled vision to be 20/20. No ovidence of the use of narcotics or
+alcoholic beverages were noted.
+1ST SGT STANLEY J. TOMASZENSKI, 3558th Meintenance Squaaron,
+Mather Air Porce Base, California; N/60T ANDREW COLUCOI, 3538th Mintenance
+Squadron, Hangar Chief; and MR N. H, JENKINS, Civilian Foreman, Propeller
+Shops stated that HILLAR is dependable and trustvorthy, and an exceptionally
+good worker, and to their knowledge, does not driak or use narcotics,
+Review of PALMER'S Service Record and Military 201 File main-
+tained at So58th hintenance Squadron, Mather Air Force Base, California,
+revealed that PALER enlisted in the Air Force on 10 November 1947 and has
+an efficiency rating of excellent and is considered an excellent worker«
+PAuSE completed three fourths (5/4) year of high school and has an ACCT
+score of 108. Last physical examination was given on 10 November 1947.
+At that time, no physical abnormalities vere noted. Vision test revealed
+vision to be 20/20.
+No evidence of the use of narcotics or alcoholic
+beverages was noted.
+1S7 50T TOMASZENSKI, 5538th Hintenance Squadron, Mather Air
+Force Base, California; M/SCT COLCOI, 3538th Maintenance Scuadron, Hangar
+Chief; and MR JESSE JANES, Civilian Foreman, Blectrical shop, stated that
+PALE was a steady good worker and exercised good judgement, and to their
+Inowledge, does not drink or use narcotics.
+Declassification Authority: NND 923007

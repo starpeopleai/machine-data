@@ -1,0 +1,40 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T09:53:58Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9960284, "source_ctime_ns": 1793358918695908991, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-069-0003.tif", "source_mtime_ns": 1785681263000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-069-0003.tif", "source_sha256": "6f8fe8597c08d8bbd1f16d1ee63cbdf192bfdfbbed1f5a6b283929551ee569fa"}
+
+===== PAGE 1 =====
+{"alpha_words": 81, "chars": 548, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+1A024
+RELAY
+14
+MM RJEDEN REDWP RJEPMO RUEDKF
+DE RJEDNG 31
+M 1015202
+FM COMDR 789TH ACOW SQ OMAHA NEBR
+TO RJEDEN/COMDR ADC ENT AFB COLO
+RUEDMP/COMDR ATIC WPAFB CHIO
+RJEDHQXDIR OF INTELL HQ USAF WASH DC
+RJEDKF/COMDR CADF GRANDVIEW AFB MO
+RJEDNG/COMDR 31ST ADIV ST PAUL MINN
+notified coc
+FU NC LA S S I F I E D/OPNS 620 UFOB REPORT AS FOLLOWS
+CIGAR SHAPED
+25 FT LONG
+ACTLON..
+15 Sept 55.
+C ORANGE
+INFORMATION.
+10.00:
+ONE I
+A D C SUSPE
+STATIONARY
+po a
+NONE
+G
+NONE
+NONE
+Dmo
+NONE
+2398"11
+CAR
+Wester'
+Local Astimoves

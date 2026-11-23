@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T10:03:14Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4105014, "source_ctime_ns": 1793385486765965610, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28993483/1437.jpg", "source_mtime_ns": 1785748275000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28993483/1437.jpg", "source_sha256": "8b2bf83fea1541cf61b9d4a84b6a45046ac5710df89b877c7d384b7b018f5229"}
+
+===== PAGE 1 =====
+{"alpha_words": 61, "chars": 482, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AIR FORCE
+. STAFF MESSAGE BRANCH
+UNCLASSINED MESSAGE
+AF IN : 50181 (18 Ju1 62) | N C 0 M | N G
+Page 1 of 2
+INFO : ARMY-2, JCS-35, OSD-15, NSA-3A C-3- (104)
+0OP-2, 0OP-CP-1,
+DIA-10, DIA-CIIC-3, CIN-14, SAFS-3
+F/jpr
+SM3 3 044
+CH048832C3J3312
+02 TUEAHO
+DE RBMPPG 022
+ZNR
+0 1900032
+FH COMWESTSIAFRON
+INFO PUMP3. CINCPACFLT
+RUAUAAH/ADCC KUNIA
+RBMPC/COMF IRSFLT
+RBWDKE/COMPACMISRAN
+RUECH/ CNO
+RUEAMO/COFS USAF
+RFEMC/ CANAIRDEF
+ROWWM/CANC OMARPAC
+RUMPHI/ KOM HAVSEAF RON

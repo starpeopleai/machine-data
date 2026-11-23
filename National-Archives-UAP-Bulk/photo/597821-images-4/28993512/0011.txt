@@ -1,0 +1,21 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T09:47:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8298651, "source_ctime_ns": 1793385496012355811, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28993512/0011.jpg", "source_mtime_ns": 1785748238000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28993512/0011.jpg", "source_sha256": "5d85a30de71f946a961e62985f2ef8c7c400eab37df1ff809b8ba53bd3e30576"}
+
+===== PAGE 1 =====
+{"alpha_words": 93, "chars": 618, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+UNCLASSIFIED MESSAGE
+INCOMING
+AF IN : 1325 (22 Jul 61)
+Page 4 of 4
+PAGE FOUR RJWFKH 60
+SMALL, VAGUE, NON-PERSISTENT BLIPS SHOWED ON HIS WEATHER RADAR SCOPE
+IN THE GENERAL AREA OF THE SIGHTING SOUTHWEST OF ORANGE, TEXAS.
+THESE WERE APPARENTLY NOT GROUND CLUTTER BUT WERE NOT PERSISTENT OR
+STRONG ENOUGH FOR ANALYSIS. FROM THE INFORMATION OBTAINED A
+PRELIMINARY ANALYSIS OF THE CAUSE IS NOT POSSIBLE. NO PHYSICAL
+EVIDENCE, OUTSIDE OF THE TAPE RECORDING, SUCH AS PHOTOGRAPHY WAS
+OBTAINED. TAPE RECORDING WILL BE RETAINED AT THE AIRPORT FOR 3Ø
+DAYS.
+BT
+22/0040Z JUL RJWFKH

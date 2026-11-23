@@ -1,0 +1,41 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T09:45:12Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7420562, "source_ctime_ns": 1793358233024258301, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-001-073-0001.tif", "source_mtime_ns": 1785681030000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-001-073-0001.tif", "source_sha256": "ed0ac40d584890ef3be5e7c7f5baeca9fd6f3f5eea3c5175d7d18a613cf48798"}
+
+===== PAGE 1 =====
+{"alpha_words": 178, "chars": 1069, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+ACT. DI sUs 1 Sept 53/22
+RR JEDEN SUPVR. JPGU
+ENC B36/27 PD ZDK JUPGU 118/28 Admin
+R JEDEN JEDUP
+JEPRQ JEDKF 444
+DE
+JWPGU 118
+R 261715Z
+EN COMDR 29TH AIR DIV DEF GFAFB
+MONT
+TO JEDEN/COMDR ADC ENT AFB COLO
+JEDUP/COMDR AIR TECH INT CENTER
+WRIGHT PATTERSON AFB OHIO
+JEPHQ/HQ USAF-WASH D C
+INFO JEDKF/COMDR CADF GRANDVIEW AFB MO
+TUEVE SITED AT IT TIMES TORA POT NOR 6 SECONDS EACH. THEY
+LOOKED LIKE LARGE TRACERS WERE ORANGE AND RED IN COLOR NO SOUND•
+DES RENT OUR BY SEVERAL OTHER OCCUPANTS OF BISMARTS DE. THE SKY
+THE NIGHT BEFORE BY SEVERAL OTHER OCCUPANTS OF BISMARCK,
+WAS OCST AT 2000 FT LIGHT RAIN AT TIME OF OBSERVATION. ÓBJECTS MOVED
+IN A SOUTHERLY DIRECTION THEN EAST TO WEST, THEN NORTH TO SOUTH AGAIN®
+THE OBSERVER IS A DEP SHERIFF PRESENTLY EMPLD AT THE SHERIFFS OFF IN
+Bismakk, N. Dak
+2 6A4954
+PAST TRA
+TPOU 118
+BISMARCK, RELIABILITY OF OBSERVERS IS
+MR
+FUSED TO DE A
+MBR OF THE GOC AT BISMARCK, HIS ADDRESS IS
+BISMARCK
+N° DAK,
+• HE 1C 59 YRS OF AGE. THIS OFF HAS NO EXPL FOR
+THIS PHENOMENA•
+26/2310Z AUG JIPGU
+Infa 7600ml

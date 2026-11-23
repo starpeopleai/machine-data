@@ -1,0 +1,66 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T09:59:40Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 16799326, "source_ctime_ns": 1793361150174543167, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-004-0164.tif", "source_mtime_ns": 1785565245000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-004-0164.tif", "source_sha256": "d4b9c23ff3ada967295999594c0313e52e5e45e468ffb538f7036935222bdc51"}
+
+===== PAGE 1 =====
+{"alpha_words": 338, "chars": 2603, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AF FORM 112PART II
+APPROVED 1 JUNE 1948
+FROM (Agency)
+600hth Air Intel Sv Sq
+UNCIASS IF TED
+(CLASSIFICATION)
+AIR INTELLIGENCE INFORMATION REPORT
+REPORT NO.
+IR 652-58
+PAGE
+2
+PAGES
+UNIDENTIFIED FLYING OBJECT (UFOB)
+1. This report was prepared by personnel of the Air Technical Intelligence
+Section, 6004th AISS, in accordance with AFR 200-2, dated 12 August 1954,
+and
+contains information concerning the sighting of an unidentified flying object in
+the vicinity of TACHIKAWA AIR BASE and YOKCTA AIR BASE on 2 January 1958.
+and (6) see Incls 1,2,3,4 and 5.
+For information referred to in AFR 200-2, paragraphs 7d (1), (2), (3), (L)
+3. AFR 200¿¿, paragraph 7d (5) :
+a o
+TACHIKANA AIR BASE, SHIBAZAKICHO, CENTRAL HONSHU, JAPAN (3542N/13921E).
+GEORFF - XJEG132L.
+bo
+GEORFF - XJEG1423.
+YOKOTA AIR BASE, FUSAMACHI, CENTRAL, HONSHU, JAPAN (3544N/13923E).
+4. AFR 200-2, paragraph 7d (7):
+a. Surface winds calm. At 6,000 feet, 19 knots from 270 degrees (true).
+b. Ceiling, 20,000.
+c. Visibility, 7 miles.
+d. Cloud cover, three-tenths, high, thin, scattered,
+e. No thunderstorms.
+5. AFR 200-2, paragraphs 7d (8), (9), (10): Negative.
+6. AFR 200-2, paragraph 7d (11) :
+Preparing officer, OIC, Air Technical Intelligence Section, 600uth
+AISS.
+Sighted object could possibly be a meteor or other meteorological phenomena.
+All civil information pertaining to meteors is forwarded to the Oriental Astronomical
+Society (TOA TEMMON GAKKAI) at Kanaya, Arita-gun, Wakayama-Ken.
+This society
+publishes a monthly magazine on meteors, stars, etc., and includes sightings by
+amateur and professional astronomers in Japan.
+Published data is usually two months
+old.
+Another group dealing with UFOB's is the UFOB Research Group (UFOB KENKYU
+CRUPU HONBU), Box 3, Isogo Post Office, Yokohama.
+A report on this organization is
+published monthly in the World's Aircraft Magazine.
+7. AFR 200-2, paragraph 7d (12): Negative.
+8. AFR 200-2, paragraph 8: Negative.
+9. Due to the presence of fifteen (15) active military and civil airfields in
+this area, monitoring of air activity was waived on the grounds of inordinate time
+consumption.
+NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT. 50 U.S. C.-
+31 AND 32. AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW
+IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF
+INTELLIGENCE, USAF.
+UNCLASS IF TED
+(CLASSIFICATION)
+DECLASSIFIED
+Authority NND 9237007

@@ -1,0 +1,11 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T09:57:28Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 11234824, "source_ctime_ns": 1793367311665663844, "source_file": "National-Archives-UAP-Bulk/photo/542184/341-PBB-704-0169.jpg", "source_mtime_ns": 1785565695000000000, "source_rel": "National-Archives-UAP-Bulk/photo/542184/341-PBB-704-0169.jpg", "source_sha256": "33d341f221f371776c253f9cc0f3851efb4f479b6e06f55e19c193d413e4d41f"}
+
+===== PAGE 1 =====
+{"alpha_words": 13, "chars": 63, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+niin,
+
+Seo wines Nets Ween art ee
+
+Ss babi ab aed athe aes
+
+4

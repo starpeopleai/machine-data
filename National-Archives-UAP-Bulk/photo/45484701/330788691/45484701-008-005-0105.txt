@@ -1,0 +1,51 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T10:18:44Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9920574, "source_ctime_ns": 1793365344799500505, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330788691/45484701-008-005-0105.jpg", "source_mtime_ns": 1785684612000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330788691/45484701-008-005-0105.jpg", "source_sha256": "978df153de3706172553788a79151b55cb54778a90e83e09d7093d61f671e0f4"}
+
+===== PAGE 1 =====
+{"alpha_words": 157, "chars": 1181, "method": "ocr", "page": 1, "variant": "plain-vision"}
+#CSI/Maj Nold/dr-53623
+11 Jul 50
+24-185
+(Unclassified) UNKNOWN OBJECT,
+Dhahran Airfield, Dhahran, Arabia
+SPECIAL INQUIRY
+Directorate of Intelligence, D0S/0
+10 - 15 A
+0 50
+ALN: Documents & Dissemination Br
+1 2 JUL NŘșŘ
+Counter Intelligence Div, Office of Special
+Investigations, The Inspector General
+Maj No1d/dx-53623
+AJOSI
+Attached is a Spot Intelligence Report vith inclosures conceming
+captioned subject, dated 25 June 1950, received from Thahren Airfield, Suudi
+Arabis, through Hq. NAIS.
+Attention is invited to Far 3 of the report which requests proper
+evaluation of the information contained therein.
+Request this correspondendo be returned to this Directorate with
+comments which may be need as basis for reply to the Commending General,
+1414th Air Base Group, HATS.
+1 Inel.
+Spot Intel It,
+25 Jun 50, re
+aby subj
+DAVID B. BORDEN, JR.
+Lt. Colonel, USAP
+Actg Chief, Counter Intelligence Div
+Office of Special Investigations
+The Inspector General
+AFCSI FILE COPY
+CLASSIFICATION CANCELLED RUS
+BY AUTHORITY OF THE
+BY KURT K. KUNZE, Capt, USAFPELOW OF
+HiStorien
+8 DEC 1975
+DATE •
+AFCSI
+185-60071
+USAR
+SPECIAL INVES: ATTO
+JUL 85
+ING
+ASSIFIED
+Declassification Authority: NND 923007

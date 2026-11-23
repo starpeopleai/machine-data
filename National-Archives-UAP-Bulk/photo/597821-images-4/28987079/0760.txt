@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T09:30:41Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8652801, "source_ctime_ns": 1793383468147787953, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28987079/0760.jpg", "source_mtime_ns": 1785747889000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28987079/0760.jpg", "source_sha256": "6b3bccac5f1789f2b4f0316a0bb7685a69837deca8888e7c1383aac5057d20cb"}
+
+===== PAGE 1 =====
+{"alpha_words": 97, "chars": 651, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1980 JON 3
+22 00
+NN NN
+RF137
+SQE9822CBWAS03
+RR RJEDSQ
+DE RJEDBW 19
+R 032120Z ZEX
+FM DETROIT ADS -
+TO RJEDNU/CHANUTE AFB
+INFO RJEDAH/30AD
+RJEDSC/ATIC WRIGHT PATTERSON AFB
+BT
+UNCLAS DADIO 2320.
+ACTION TO CHANUTE AFB IN
+TO 32 AIR DIV, ATTN OIN A
+ATIC, WRIGHT PATTERSON. SUBJECT: UFO SIGHTING.
+DETROIT ADS RECEIVED VERBAL REPORT THRU DETROIT
+ARTCC ON 1 JUN 5% OF A UFO SIGHTING ABOUT 23 MILES
+SOUTH OF JOLIET, ILLINCIS. OBSERVER WAS REPORTED AS
+OF BRAIDWOOD, ILLINOIS
+• OBJECT REPORTEDLY SEEN BY ABOUT
+75 OTHER PERSONS. OBSERVATION PERIOD REPORTEDLY
+COVERED 22 MINUTES AT ABOUT 012432Z JUN. OBJECT
+YEZ
+atie
+SNC
+PRINTED DY THE STANDARD REGISTER CO., DAYTO

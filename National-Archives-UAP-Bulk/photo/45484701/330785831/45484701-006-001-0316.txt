@@ -1,0 +1,48 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T10:14:46Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8571993, "source_ctime_ns": 1793363819348244452, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785831/45484701-006-001-0316.jpg", "source_mtime_ns": 1785684878000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785831/45484701-006-001-0316.jpg", "source_sha256": "90142938f4a8044266d885de780fc471e477f5cac7b2eed913170b164dde6865"}
+
+===== PAGE 1 =====
+{"alpha_words": 184, "chars": 1419, "method": "ocr", "page": 1, "variant": "plain-vision"}
+21-57
+CHECK SHEET
+UNCOVENTIONAL AIRCRAFT - SPECIAL INQUIRY
+1. Date of sighting_
+26 July 1949
+2. Time of sighting (zonal by 24 hr. clock)
+3. Where sighted (observer's nosition):
+1510 hours
+(a). Ground
+Driving south on edge of Mitchell, Nebraska
+(b). Air_
+(c) • Sea
+N/A
+1. Number of objects. Formation type (if any), sketch if possible
+One
+5. Observable celestial phenomena or planets that may account for the
+sighting. (Local facilities or organizations which follow such
+celestial phenomena should be consulted for such information) No
+celestial phenomena or planets were observed in the area of Scottsbluff,.
+Nebraska on 26 July 1949
+6. Distance of object from observer:
+a. Laterally or Horizontally Appeared approximately 4 miles in the
+south
+b. Angle of elevation from horizon?
+30°
+c. Altitude
+7. Time in sight
+5,000 to 7,000 feet
+3 minutes
+8. Appearance of object:
+e. Color Metallic silver with high reflective qualities
+b. Shane (Sketch if possible) Looked like upside down saucer (See Inc #2)
+c. Apparent construction (of what material or substance) Aluminum
+d. Size
+25' diameter
+9. Direction of flight
+Toward southwest
+10. Tactics or maneuvers (Vertical ascent or descent, horizontal, oscil-
+lating, fluttering, evasive, aggressive, erratic, etc.) Appeared to
+maintain level flight with exception of slight dipping motion from
+side to side.
+Anneared to be whirling.
+Inc #3
+Declassification Authority: NND 923007

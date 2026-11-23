@@ -1,0 +1,50 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T09:52:25Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8731510, "source_ctime_ns": 1793379645335879046, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28973060/01171.jpg", "source_mtime_ns": 1785700723000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28973060/01171.jpg", "source_sha256": "7f4bbfa9c165ecae448ca4258c9d14da2dc5895b1e564659157d73d5e12e66a3"}
+
+===== PAGE 1 =====
+{"alpha_words": 87, "chars": 704, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+5
+November 1957
+3. DATE-TIME GROUP
+Local
+GM.T.
+PHOTOS
+05/23107
+• Yes
+• Ho
+7. LENGTH OF.OBSERVATION
+PROJECT 10073 RECORD CARD
+2. LOCATION
+illiams
+Bay,
+4. TYPE OF OBSERVATION
+R Ground- Visual
+Wisconsin
+• Ground-Roder
+• Air-Intercept Rodor
+6. SOURCE
+Civilian
+8. NUMBER OF OBJECTS
+15 minutes
+not given
+10. BRIEF SUMMARY OF SIGHTING
+Round to oval shaped object, with bright
+metal shine.
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aireraft
+Possibly Aireroft
+ax Was Astronomical Venus
+Probably Astronomical
+Possibly Astronomical
+Other
+Insufficient Data for Evaluation
+Unknown
+9. COURSE
+West
+COMMENTS
+Venus in position of obsvation.
+ATIC PORM 329 (REV 26 SEP 52)

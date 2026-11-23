@@ -1,0 +1,55 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T09:28:50Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8071792, "source_ctime_ns": 1793382107997178711, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28982642/1073.jpg", "source_mtime_ns": 1785701022000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28982642/1073.jpg", "source_sha256": "158dd9ca4529244efbce1eedcff3d3835414192b70cd6201df7ff28fe70ff288"}
+
+===== PAGE 1 =====
+{"alpha_words": 164, "chars": 1108, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Page four
+INALASSIFI-I
+If you saw the object at night,
+twilight, or down, what did you notice con-
+corning the stars and moon?
+STARS (Circle one)
+None
+A LOW
+Many
+Don't remember
+MOON (Circle one)
+Bright moon light
+Dull moonlight
+No moonlight - pitch dark
+Don't remerber
+19. Was the object brighter than the background of the sky? (Circle one)
+Yes
+b. No
+Don't. remember
+20. If 1t was BRIGHTER THAN the sky background, was the brightnoss like that of
+an automobile hendlight?
+(Circle one)
+A mile or more away (a distant cur)? b. Several blocks away?
+c.
+A block away? d. Several yords away? o. Other
+21. What were the wind conditions at the time you saw the objoct?
+(Circle ono)
+a. No wind
+b. Slight breeze
+Strong wind
+d. Don't remember
+22. what type of aloud cover were you flying through at the time you saw the
+object?
+(Circle one)
+Clear
+b. Overcast
+Above scattered clouds
+Through scuttered clouds
+c. Undercost
+•. Balow scattered clouds
+B. Other
+23. Did the object appears
+(Circla one)
+a. Solid?
+b.. Transparont?
+c. Don't know.
+D. IT WAS ALIGHT UNCLASSIFIED.
+0.10
+100CTH AISS Classified
+92L09157-1734
+59-1222

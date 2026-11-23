@@ -1,0 +1,11 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T09:51:25Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8497946, "source_ctime_ns": 1793363695871732973, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785831/45484701-006-001-0076.jpg", "source_mtime_ns": 1785684858000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785831/45484701-006-001-0076.jpg", "source_sha256": "3ce1bf92f6b37c7503f22a7b9205f95c4b94d081e118b7e144090731363389f2"}
+
+===== PAGE 1 =====
+{"alpha_words": 10, "chars": 94, "method": "ocr", "note": "retried at 250 DPI after 600 DPI timeout", "page": 1, "variant": "contrast-vision"}
+NETANeTESE
+Lan
+AIR FORCE
+ICNERAL
+Auc 4 0 2 1 '52
+SPEÇI
+Declassification Authority: NND 923007

@@ -1,0 +1,160 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T10:11:12Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6870010, "source_ctime_ns": 1793354968659983424, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989256-001-0003.jpg", "source_mtime_ns": 1785564371000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989256-001-0003.jpg", "source_sha256": "c7aad58d66985f901c2f9d675889a15172b3a51ba3977f5499a856c1bc48a68c"}
+
+===== PAGE 1 =====
+{"alpha_words": 259, "chars": 2185, "method": "ocr", "page": 1, "variant": "plain-vision"}
+SCHEDULED LAUNCH DATE
+10-14 Apr 78
+BALLOON FLIGHT REQUIREMENTS
+1. GENERAL
+2. PROJECT OFFICER
+Mr. Ground/PSI
+UNCH SITE
+Holloman AFB NM
+1. PROJECT NUMBER & TITLE
+Ash Can
+4. FLIGHT OBJECTIVES
+4. 80K Sampling Mission
+B.
+C.
+5. REQUIRED FLIGHT PROFILE
+Climbout to 80K - Sample 6 hrs - Terminate
+7. FLIGHT DURATION
+8. PAYLOAD RECOVERY
+8 hrs
+Aerial/Mandatory
+10. TELEMETRY
+RANGE: MOBILE VAN
+-FIXED STATION
+3. EXPERIMENTER
+DO E
+6. DESIGN CEILING ALTITUDE
+81 Kft
+9. DOCUMENTARY PHOTOGRAPHY
+LAUNCH: STILL X MOTION _A RECOVERY: STILL
+-MOTION
+BALLOON NUMBER
+3. VOLUME (S)
+- OF _
+4
+• 516 × 106
+AFCRL: MOBILE VAN
+- FIXED STATION
+II. BALLOON
+/ S/N _
+26
+2. MANUFACTURER
+F29651-77-90051
+CONTRACT
+Winzen
+MODEL NUMBER (S)
+5.
+LTV-009
+BUBBLE
+BE DEXXXX DOWNWIND OF PAYLOA
+PULL OUT
+9. OTHER
+HI OF DUCTS
+CUT OFF
+OF DUCTS
+MADO NOT USE CORNST
+ARCM ON
+WEIGHTS
+1. BALLOON (S)
+2. TOP MOUNTED PAYLOAD
+330
+N/A
+Chutes)
+SUSPENDED PAYLOAD (Incl. Ballast, Rigging,
+800
+4. GROSS WEIGHT
+1130
+MINIMUM DROPPABLE
+BALLAST
+6.
+DESIRED DROPPABLE BALLAST
+7. DEAD WEIGHT BALLAST
+18.
+% FREE LIFT
+80 Ibs
+80 1bs
+30 lbs
+1.0
+IV. INSTRU
+PACKAGE
+TYPE (S)
+SCADS-2
+4. PRIMARY COMMANDS: TRIG
+ENTATION
+2.
+ALTITUDE SENSOR (S)
+B-60 and Rosemount
+3. RADIOsONDE Laping Modified
+STANDARD
+EXTENDED OMEGA
+SEQUENCED
+(1) Encoder Key
+(4) Beacon off (Antenna drop) (7) Valve Failsafe
+(2) Beacon On (Latch)
+(5) Sampler On
+18) Pour Ballast
+(3) Blow Ballast
+5. BACK-UP COMMANDS:
+SEQUENCED
+(6) Sampler Off
+NON-SEQUENCED
+(9)
+Terminate
+(1) Terminate
+(2) Valve Failsafe
+DROPPABLE BALLAST (Type, Container, Total Flow Rate)
+Glass 2 hoppers/37 ppm
+1. PARACHUTE (S)
+QUANTITY.
+3. BURST SWITCH
+YES X NO C
+_ TYPE Mark V
+4. IMPACT SWITCHES
+QUANTITY
+6. FLASHING LIGHT LOCATIONS
+Package and BTEF
+9. REEL DOWN PACKAGE
+WEIGHT.
+V. MISCELLANEOUS
+DIAMETER (S)
+291
+TYPE
+NA
+=
+7. RECOVERY BEACON
+YES (X] NO [
+N/A
+• DISTANCE TO BE LOWERED
+REQUIREMENTS INITIATED BY
+(3) Ballast
+2. SEPARATION DEVICE
+Qual Cannon Cutters
+5. CAMERA (S)
+UP
+- DOWN.
+N/A
+OTHER
+8.
+TRANSPONDER
+YES [X]
+NO L
+10. AN ACHED DOCUMENTS
+DATE
+T. Danaher
+28 March 1978
+COORDINATION
+LCB:
+BY
+AFCRL
+FORM
+OCT 73 24
+чезт
+DATE 30 W0175
+LCC: BY
+PREVIOUS EDITIONS ARE OBSOLETE
+DATEMAR 29 1978
+AFSC-L G HANSCOM FLD MA 1973

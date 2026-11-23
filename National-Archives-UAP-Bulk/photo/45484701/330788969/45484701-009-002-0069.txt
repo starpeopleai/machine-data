@@ -1,0 +1,14 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T09:38:37Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 18140889, "source_ctime_ns": 1793365542023649519, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330788969/45484701-009-002-0069.jpg", "source_mtime_ns": 1785684827000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330788969/45484701-009-002-0069.jpg", "source_sha256": "48567db95d8b2acccb5eea3125d0c19d83841b3fe16687bdee19551a5cadfd6c"}
+
+===== PAGE 1 =====
+{"alpha_words": 13, "chars": 107, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+> -~ yA .
+a7 / @ ee J i
+
+sf :
+fe wt bee LAL
+
+Declassification Authority: NND 923007
+
+Af
+em fassachusettes

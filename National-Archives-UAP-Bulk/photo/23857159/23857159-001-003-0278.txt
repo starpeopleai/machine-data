@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T10:01:51Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 23724128, "source_ctime_ns": 1793360966457390911, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-003-0278.tif", "source_mtime_ns": 1785565162000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-003-0278.tif", "source_sha256": "7b534e69ee8639b439ceb53f17f20b92b62542c672ae34a7975be43a0ff96875"}
+
+===== PAGE 1 =====
+{"alpha_words": 167, "chars": 1233, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AF FORM 112-PART II
+APPROVED 1 JUNE 1948
+FROM (Agency)
+UNCLED
+AIR INTELLIGENCE INFORMATION REPORT
+PORT NO.
+Commander, SAAMA
+PAGE 2
+(c)
+Ceiling - Unlimited
+(d)
+Visibility - 15 miles
+(e) Amount of cloud cover - 0 to 5/10 scattered cirrus at 6,000 ft
+Thunderstorms in the area - at 22000Z September 1957, one (1) thunder-
+storm with occasional lightning in clouds.
+(8)
+No unusual activity or condition, meteorological astronomical, or otherwise
+which might account for sighting.
+(9)
+(10)
+There were no aircraft from Kelly AFB, Texas in the area at the time of
+sighting
+Chief, Security Division, Kelly AFB, Texas. Possible cause of sighting
+unknown.
+(12)
+No physical evidence of sighting.
+NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S. C.-
+31 AND 32, AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW.
+IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF
+INTELLIGENCE, USAF.
+UNCIASSIHEATION
+16--55570-1 * U.S. GOVERNMENT PRINTING OFFICE: 1950-0-918332
+DECLASSIFIED
+Authority NND 9237007

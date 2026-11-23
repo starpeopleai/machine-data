@@ -1,0 +1,55 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T09:47:29Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8341663, "source_ctime_ns": 1793379262711713078, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28971831/00079.jpg", "source_mtime_ns": 1785700861000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28971831/00079.jpg", "source_sha256": "7dfa42937ec85389661d72264cd041ab4ec7d733fde2ab471843f243364c04da"}
+
+===== PAGE 1 =====
+{"alpha_words": 101, "chars": 794, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+29 September 1957
+3. DATE-TIME GROUP
+Local_
+1205
+GM T.
+29/17052
+5. PHOTOS
+• Yes
+D:No
+7. LENGTH OF.OBSERVATION
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Piqua,
+Ohio
+4. TYPE OF OBSERVATION
+A:Ground Visual
+• Air Visual
+6. SOURCE
+• Ground-Roder
+• Air-Intercept Roder
+Military
+Air
+8. NUMBER OF OBJECTS
+5-7 seconds
+one
+10. BRIEF SUMMARY OF SIGHTING
+An object that looked & acted like an
+aircraft was sighted over Piqua at
+high altitude showing no vapor trail.
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+•
+Possibly Balloon
+DX Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Othe
+Insufficient Data for Evaluation
+Unknown
+Natl Guard
+9. COURSE
+unknown
+11. COMMENTS
+The observer said himself it was
+an a/c.
+ATIC PORM 329 (REV 26 SEP 52)

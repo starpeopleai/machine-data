@@ -1,0 +1,62 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T09:22:50Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10407282, "source_ctime_ns": 1793364950523114480, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787905/45484701-007-006-0162.jpg", "source_mtime_ns": 1785684687000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787905/45484701-007-006-0162.jpg", "source_sha256": "7306d15ce99162a7fc4ec6890ca6904bd03844aee02369e943bed7befac751ff"}
+
+===== PAGE 1 =====
+{"alpha_words": 171, "chars": 1339, "method": "ocr", "page": 1, "variant": "plain-vision"}
+HEADOUARTERS UNITED STATES
+R FORCE
+THE INSPECTOR GENERAL
+OFFICE OF SPECIAL INVESTIGATIONS
+REPORT OF INVESTIGATION
+LERIAL OBJECT (Unidentifed)
+Norfolk, Virginis
+18 February 1952
+SECUOTY INHORMATION
+FILE N8A-60
+DATE 2 9 FEB 1952
+REPORT MEAL R BUNETT, S/A
+ay
+REPORT MADE AT
+DO 121, Adn1 0J APB
+PERIO 27 February 1951
+OFFICE By Wright«Patterson APE
+STATUSREFERRED UPON COMPLETION
+CHARACIERCIAL INQUIRY
+REFERENCE - This is an initial report
+SYNOPSIS
+UNCLASSIFIED
+DISTRIBUTION
+DO #5
+Investigation requested telephonically by Special
+Agent JAMES T BOYCE, DO #5, Wright-Patterson AFB,
+Dayton, Ohio. Unidentified aerial object was re-
+ported to have exploded near Norfolk and subse-
+quent investigation under jurisdiction of United
+States Coast Guard resulted in determination that
+the aerial object was a meteorite which exploded
+when entering the earth's atmosphere.
+CLASSIFICATION CANCELLED
+BY AUTHORITY OF THE DIRECTOR OF SPEC INV
+BY
+KURT K. KUNZE, Capt, USAF
+Historian
+6 DEC 1978
+DATE
+UNAUTHORIZED DISCLOSURE OF INFORMATION
+CONTAINED IN THIS REPORT IS PROMIBITED
+AND WILL BE CONSIDERED A VIOLATION OF
+AFR 205-1 AND AFR 205-6.
+TION COPY FORWARDED TO
+FILE STAMP
+File
+15/51
+OS I 21-4
+UNCLASSIFIED
+APPROVED
+Fella Bernest Capt
+Lt Colonel, USAF
+DISTRICT COMMANDER
+24-185-21-3ł
+UNITED
+THE I
+SECURITY INFORMATON
+Declassification Authority: NND 923007

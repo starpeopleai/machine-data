@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T10:13:51Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8236606, "source_ctime_ns": 1793379864758881970, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28973700/0269.jpg", "source_mtime_ns": 1785700874000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28973700/0269.jpg", "source_sha256": "62319fe1b19cef9654ba077c2e72428cd58672d5cb5a9731fd64b6693dc68160"}
+
+===== PAGE 1 =====
+{"alpha_words": 55, "chars": 460, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+NOV
+3. DATE-TIME GROUP
+Local
+5. PHOTOS
+06/22502
+• Yes
+O NO
+LENGTH OF.OBSERVATION
+10.
+BRIEF SUMMARY OF SIGHTING
+ATIC FORM 329 (RE
+26 SEP 52)
+PROJECT: 10073 RECORD CARD
+2. LOCATION
+Maine
+4. TYPE OF OBSERVATION
+D Ground-Visual
+• Air Visual
+6•
+SOURCE
+• Ground-Roder
+• Air-Intercept Radar
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Pay Alicen
+Ox
+8. NUMBER OF OBJECTS
+9. COURSE
+Other.
+Insufficient Data for Evaluation
+Unknown
+11. COMMENTS

@@ -1,0 +1,121 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T10:06:12Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5063038, "source_ctime_ns": 1793380349782241815, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28975468/00378.jpg", "source_mtime_ns": 1785701112000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28975468/00378.jpg", "source_sha256": "bda72a4e602840590fc1b3b16787c093a8c33056371a015a78f154efb96b23a8"}
+
+===== PAGE 1 =====
+{"alpha_words": 214, "chars": 1728, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DAT'S
+3-4
+DATE
+Dec
+Dec
+Dec
+2
+1 - 4 DECEMBER 1957 SIGHTINGS
+LOCATION
+OBSERVER
+Pottineau, Nortk Dakota
+Hamburg, Germeny
+Civilien (PSICAL S)
+Fairbanks, Alaska
+Augusta, Georgia
+kentucky, indiana, onio
+Milti (Civ & Mil)
+Multi
+Englewood, Ohio
+Montabello, California
+PHOTOS)
+mariette, Georgia
+Atlanta, Georgia
+Military
+AtIanta, Georgia
+Austin, Indiana (CASE MISSING)
+Civilian
+Nount Olive, North Carolina
+Newfoundland, Greenland
+Military & Civilian
+nouma, Louisiana
+Rector, Arkansas
+Russellville, Alabama
+Glouster, Massachunetts
+Military
+Riverside, Caltfornia
+North Atlantic
+Military
+Great Neck, New York
+Columbus, Ohio (CASE MISSING)
+Military
+Saratoga, New York/Lake George, New
+York
+Multi
+Fairchild AFB, Washington
+Military
+Loma Linda, California
+Georgetown, South Carolina
+Cape May, New Jersey
+Military
+Tensleep, Wyoming
+Clinton,. Tennessee
+Military RADAR
+Tempa, Florida
+Johnson Island (Pheifie)
+Baffin Islana, Canada
+Military
+Military
+Dayton, Ohio
+Wayne, Michigan (CASE MISSING)
+Tampa, Florida
+Sunburst, Montana
+Cincinnati, Onio
+EVALUATION
+Astro
+(AURORA/ FLARE)
+Other
+(PARACHINTE)
+Astro (MINIOR)
+Astro
+(VENUE)
+Astro (VENUS)
+Pircraft
+Balloons
+Aircra?t
+Astro (VECA)
+Balloon
+Aircraft
+Astro (VENTS)
+Astro (INTORS)
+Astro (VENUS)
+Insufficient Data
+(P.S.) Other (TIP TANK)
+Astro (METEOR)
+Insufficient Deta
+Insufficient Data
+Insufficient Data
+Astro (METEOR)
+Astro (METEOR)
+Astro (METED R)
+Air craft
+Astro (METEOR)
+Astro
+YINUS
+Astro
+VENUS
+Other (WX RETURIS)
+Aircraft
+Astro (METEOR)
+Balloon
+Aircraft
+Balloon
+Other (HOAX)
+Insufficient Deta
+Astro (METEOR)
+LOCATION
+Universe
+Pacific Ocean
+Yorkshire, England
+Regina, Saskatchewan
+ADDITIONAL REPORTED SIGHTINGS (NOT CASES)
+SOURCE
+Science News Itr
+Newsclipping
+Newsclipping
+Newsclipping
+EVALUATION

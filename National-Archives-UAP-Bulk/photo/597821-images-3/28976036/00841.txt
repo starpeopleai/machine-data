@@ -1,0 +1,58 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T10:05:55Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4972172, "source_ctime_ns": 1793380454602468961, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28976036/00841.jpg", "source_mtime_ns": 1785700788000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28976036/00841.jpg", "source_sha256": "b8ef6af1dede8fb3724beed31f0d3555c138ebf1b48c25850e09401f37d681ab"}
+
+===== PAGE 1 =====
+{"alpha_words": 261, "chars": 1779, "method": "ocr", "page": 1, "variant": "plain-vision"}
+(CLASSIFI
+COUNTRY OF ORIGIN
+United States
+AREA REPORT CONCERNS
+Parkersburg, Ohio
+AGENCY OF ORIGIN
+(SECURITY INFORMATION when filled in)
+REPORT NO
+(Leave blank)
+IR-1-57
+AIR INTELLIGENCE INFORMATION REPORT
+DATE OF REPORT
+58th Air Division (Defense)
+SOURCE OF INFORMATION
+2nd Lt Wayne A. Rhoades, 783rd ACWRON
+Avenger White Flight, 87th FIS
+PREPARING OFFICER
+17 December 1957
+DATE OF INFORMATION
+11 December 1957
+EVALUATION
+JUANITA MANCHA, 2nd Lt, USAF
+REFERENCES (Control number, directive, previona report, de., as applicable)
+B-2
+58th AD Message Cite # 038-12
+SURJECT
+Unidentified Flying Object Report
+SUMMARY (Enter concise summary of report. Give significance in Anal one-sentence paragraph. List inclosures al lower left. Begin leat of report on AF Form 1180.)
+An unidentified flying object was sighted on 12/0300Z approximately
+over Parkersburg, Ohio. Airborne sighting was by Avenger White flight,
+3 F-86L's, out of Lockbourne AFB, Ohio. Ground sighting was on search
+radar by the intercept controller at 783rd ACWAUN, Guthrie, West Virginia.
+Reports indicate that the object was almost circular and was an orange
+color •
+The pilbts report that the object did not move and only change
+appeared to be in range. However, the object moved erratically on the
+radar scope and was estimated at a speed of mach 1.5. It renained in
+sight from 20 to 30 minutes.
+It is possible that the pilot sighting was the moon and that radar
+return was from a low flying aircraft or radar noise. Correlation between
+radar observed position and pilot sighting indicate otherwise.
+ha
+2nd It, USAF
+Intelligence Officer
+APPROVED:
+INCLS,
+є Bunta
+JOHN C. BURNETT
+Lt Col, USAF
+Director of Intelligence
+DISTRIBUTION BY ORIGINATOR
+Origind co ng U
+AF; ATIC, Wright-Patterson AFE, OHIO 1 cy;
+2110 020y 50th

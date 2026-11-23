@@ -1,0 +1,65 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T09:39:31Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 20838870, "source_ctime_ns": 1793360715372300840, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-003-0032.tif", "source_mtime_ns": 1785565115000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-003-0032.tif", "source_sha256": "3a2e97484068493d4af056e1283fb219a7f0022e5583b8d5ca38ef8e09d84e2f"}
+
+===== PAGE 1 =====
+{"alpha_words": 238, "chars": 1633, "method": "ocr", "page": 1, "variant": "plain-vision"}
+(SECURITY INF
+COLANT O
+SOURCE OF INFORMATION
+AIR INTELLIGENCE INFORMATION REPORT
+1g. 552nd :
+WeCon Wing
+Lon AB,
+DATE OF REPORT
+20 May 57
+DATE OF INFORMATION
+4 May 57
+EVALUATION
+1/Ú5078
+ames J.
+layes, 2/It.,
+applicable)
+Unid
+ing Object
+SUMMARY (Enter concise summary of report. Give significance in finch one-sentence paragraph. List inclosures at lower left. Begin text of report on AT Form 118a.)
+At 10252,
+on a routine Airborne Operation Center
+mission,
+Co-pilot, sighted a metcor-like object
+of yellouish-red color ress in front of the Aircraft at 10,000 foct
+going in en Fust-Vest direction. At 10437 an object of the same
+descrintion passed in front of the aircraft at approvinately 8,000 feet
+going in an Fast-Weat direction.
+The objects were described as similar
+to afterburner on F-102." Lend based radar stution int reported no
+known aircraft vere in the area.
+Two ISN submarines were operating
+in the area of the sighting.
+Crew members speculated the TOP's may
+have been rockets from a nearby danger area.
+APPROVED:
+2/19:6-3
+97
+61A/526
+Major,
+Staff
+Intelligence officer
+ABC
+SINBUTON ET ORIGINATON
+ADC -
+DCS/I J..07 -
+WARNING: This dooument contains information aff
+nade Laws, Title 18, U.S. C., Section 793 and 794. Its tra
+person is prohibited by law. it may not be reproduced in whole or in
+permission of the Director of Intolligence, USAF.
+AF, SCT 52112 JUN, WHICH MAY BEUSED
+1 COPY DISTRIBUTION BY 46020 AISS:
+Original to D/I, HADUSAF
+Copy to Comir, ATIC
+Copy to Condir
+48022 AISS
+of the Espio
+av manner to an unauthorized
+rr oy other than united ota
+tes Air Force Agencies, except D
+DECLASSIFIED
+Authority NND 9237007

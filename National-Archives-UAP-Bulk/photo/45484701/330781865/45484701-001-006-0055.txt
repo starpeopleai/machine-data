@@ -1,0 +1,37 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T10:09:07Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6000954, "source_ctime_ns": 1793361950104219418, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330781865/45484701-001-006-0055.jpg", "source_mtime_ns": 1785685163000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330781865/45484701-001-006-0055.jpg", "source_sha256": "af728bc56b549fe4d77ca6ace311c3b3dad102ba1521557c7bacd1ba96addb88"}
+
+===== PAGE 1 =====
+{"alpha_words": 240, "chars": 1545, "method": "ocr", "page": 1, "variant": "plain-vision"}
+SUMMARY OF INFORMATION Date: 19 April 1949
+Preparing Office
+Office of the AC of S, G-2, Headquarters Fourth Army, Fort Sam Houston, Texas
+Subject:
+"Aerial Phenomena"
+452.1 AKADB
+Summary of Information
+Beginning at 2005 hours, 18 April 1949, and ending at 2030 hours on the same
+date, 50 flare-like bursts were seen by 2nd
+Armored Division security observers at
+Camp Hood, Texas.
+The bursts formed white clusters and are believed to have been
+flares. The bursts were in groups of 8 to 10 during the 25-minute period. There
+were 6 observers located at 910.5 - 862.0.
+Magnetic azimuth of the center of the
+burst pattern was measured and found to be 325°. Estimated distance from observers
+was between two and six miles. All units and supply points have been checked. No
+ammunition or pyrotechnical devices were fired or issued. Neither security personnel
+of Site Baker or personnel of any other unit of the 2nd Armored Division observation
+send then, from a post on in the emity of chal, ported wa appeared tobe
+"arcing lights" northwest of them in the vicinity of Antelope Mountains. Antelope
+Mountain is in the same general direction as the "clusters" seen by the 2nd Armored
+Division on 18 April.
+Nothing further is present known. FBI at Waco and San Antonio have been
+notified. Full written report of incident by AC of S, G-2 will follow.
+(B-2)
+Distribution
+C/s, Hq
+_ Fourth Army; DI, GS, USA; CO, ANC, Dayton, Ohio; FBI, Santex; OSI
+Kirtland AFB, ONI, Santex; OSI, Kelly AFB, File
+WD AGO FORM 568
+A COPY
+Declassification Authority: NND 923007

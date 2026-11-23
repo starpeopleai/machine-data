@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T09:25:42Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 15983016, "source_ctime_ns": 1793356485683626924, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0092.tif", "source_mtime_ns": 1785564712000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0092.tif", "source_sha256": "cd40b78fe7bc0ae0e5d6c462a06610564d0fe62a45dd190a862e2c077ea84a4f"}
+
+===== PAGE 1 =====
+{"alpha_words": 256, "chars": 1694, "method": "ocr", "page": 1, "variant": "plain-vision"}
+of a degree of novelty rever before achieved could suffice to explain
+such devices.
+It is doubtful whether a potential enemy would arouse our
+curfosity in so idle a fachion.
+CLASSIFICATION III.
+EXTRA
+TERRESTRIAL, OBJECTS.
+1)
+Meteors:
+It is noteworthy that the British physicist Lovell writing
+in "physics Today" mentions the radar discovery of a néw daytime meteorite
+stream which reached its maxinum during June 1947. The reported objects
+lose little of their interest however if they are of meteoritic origin.
+2)
+Animals. although the objects as described act more like animals than
+anything else, there are fev reliable reports on extra-terrestrial animals.
+3) Space Ships. The following considerations pertain:
+a) If there is an extra terrestrial civilization which can make such ob-
+jects as are reported ther it is most probable that its development is far
+in advance of ours. This ar ament can be supported on probability arguents
+alone without recourse to Astroromical hypotheses.
+b) Such a civilization might observe that on Barth we nov have atomic
+bombs and ere fast developing rockets. in view of the past history of
+mankird they should be alarmed. We should therefore expect at this time
+above all to behcld such visitations.
+Since the acts of mankind most easily observed from a distance are
+A bonb explosions we should expect some relation to obtain between the
+time of A-bomb explosions, the time at which the space ships are seen,
+and the time required for such ships to arrive from and return to homo¿¿
+base.
+FART 111. 250C
+MENDATIONS.
+1) The file should be cortinued.
+2) A meteorologist should compute the approximate energy required to
+Declassification Authority: NND 57565

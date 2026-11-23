@@ -1,0 +1,49 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T10:11:07Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6801205, "source_ctime_ns": 1793361841495851603, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330781540/45484701-001-004-0077.jpg", "source_mtime_ns": 1785685075000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330781540/45484701-001-004-0077.jpg", "source_sha256": "683c2766157ba136a01a6f4ffafd52fd245e5968d56ab35e3acaa64f24b785c0"}
+
+===== PAGE 1 =====
+{"alpha_words": 160, "chars": 1181, "method": "ocr", "page": 1, "variant": "plain-vision"}
+TINA TRYA
+GUIDE TO INVESTIGALION
+UNIDENTIFIED AERIAL OBJECTS
+1•
+2%
+3.
+5.
+Incident Nc.
+Date of Observation 27 Fab 49 Date of Interview 27 Feb 49
+Exact time of observation (local)
+Approximately 1905 hours
+Place of Observation:
+(Map Coordinates)
+35 deg 53 min l
+106 deg 18 min V
+Position of observer (air, car, bldg, location of - give details):
+In car alongside los Alamos, Nes Nexico, airstrip
+What attracted attention to object: Idght
+6. lumber of objects and sketch of formation or grouping:
+One
+7. Apparent size (compare to known object, i.e., sun, moon, thumb or
+fist at arms length):
+8. Color of object: Green-white
+9. Shape (give graphic description - compare with known object):
+N/S
+10. Altitude (Angle of elevation above horizon - 0° at horizon, 90°
+overhead) :
+N/S
+1l. Direction from observer (Angle clockwise from north):
+North
+12. Distance from observer (Distance to town, blds, etc., over which objec
+appeared to be):
+N/S
+13.
+Direction of flight of object (s):
+est to Bast
+Time in sight:
+Approxinately 2 seconds
+14.
+15.
+Speed (time to cover given angular distance):
+Not as fast as a meteor
+16. Sound and odor:
+None (In closed car)
+Declassification Authority: NND 923007

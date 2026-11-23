@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T09:30:50Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8653511, "source_ctime_ns": 1793380849453719910, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28978627/0318.jpg", "source_mtime_ns": 1785700863000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28978627/0318.jpg", "source_sha256": "b9c808b1b6f93eb7917b39874eb5e4817b3e5f6dcbf6100c63637d9dd734b33d"}
+
+===== PAGE 1 =====
+{"alpha_words": 70, "chars": 510, "method": "ocr", "page": 1, "variant": "plain-vision"}
+/ Witness
+26//0027.
+SQH©16 SQC477 YDD821MCZCQYD135ZCDMA173
+PP RJEDDN RJEDSQ
+11:16
+ZCDMA 166
+PP RJEDDN RJEDSQ RJEZHQ
+DE RJWZDM 1C2A
+P 261152Z
+FM COMDR 25TH AIR DIV
+TO RJEDDN/COMDR ADC ENT AFB COLO
+RJEDSQ/COMDR AIR TECHNICAL INTELLIGENCE CENTER
+RJEZHQ/COMDR ASSISTANT CHIEF OF SRAFF INTELLIGENCE HEADQUARTERS USAF
+RJEZHQ/OFFICE OF INFORMATION SERVICES HEADQUARTERS
+USAF
+ZEN/COMDR 25TH AIR DIV
+BT
+UNCLAS/25CADD TAC F 116 PD ATTN: DIRECTOR OF INTELLIGENCE
+1. DESCRIPTION OF OBJECT
+2.
+CIRCULAR>
+3•
+UNK-SIZe ?
+COLOR

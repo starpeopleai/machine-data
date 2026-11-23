@@ -1,0 +1,5 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T09:58:55Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 11800541, "source_ctime_ns": 1793367332208211454, "source_file": "National-Archives-UAP-Bulk/photo/542184/341-PBB-704-0201.jpg", "source_mtime_ns": 1785565699000000000, "source_rel": "National-Archives-UAP-Bulk/photo/542184/341-PBB-704-0201.jpg", "source_sha256": "17e64b0b209e9a9754f8de01e0ab35c5781da4a2865f6f2e8a15d8385fc46156"}
+
+===== PAGE 1 =====
+{"alpha_words": 1, "chars": 8, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 1, "variant": "plain-vision"}
+EASTMAN

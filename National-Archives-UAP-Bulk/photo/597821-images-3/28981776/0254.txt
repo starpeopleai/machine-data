@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T10:09:02Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5980288, "source_ctime_ns": 1793381836774754652, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28981776/0254.jpg", "source_mtime_ns": 1785701074000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28981776/0254.jpg", "source_sha256": "82a44092700e6f4df223f53aedf0e54c3439d97c6ca06b53651739148eb389a0"}
+
+===== PAGE 1 =====
+{"alpha_words": 62, "chars": 447, "method": "ocr", "page": 1, "variant": "plain-vision"}
+KORNBERG
+OFFICIAL FILE COPY
+4F4g/69216
+AFCIN¿¿EAS
+Wo Sighting
+125-1959
+SAFI3-3
+11 AUG 1959
+Reference lettes from
+• dated 24 jay 1959. A thorough
+search of the ATIC files indieates the information regarding the UFO
+sighting and subsequent pursuit by a jet aireraft was not received by
+this offise.
+noost
+GORDON C. HOFMAN
+Colonel, TAP
+Actg. Deputy for Solences
+and Coxponenta
+1 Atch:
+Ltr utd 24 Yay 59. fr
+COORDINATT ON:
+Tichers R. Shoop, Colal usE

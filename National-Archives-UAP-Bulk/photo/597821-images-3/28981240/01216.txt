@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T10:10:23Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6281085, "source_ctime_ns": 1793381679003701763, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28981240/01216.jpg", "source_mtime_ns": 1785700677000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28981240/01216.jpg", "source_sha256": "830b56970230003778f6153d4d5ddd54076d0767f385285b7ebe8f56bb5de7ec"}
+
+===== PAGE 1 =====
+{"alpha_words": 104, "chars": 688, "method": "ocr", "page": 1, "variant": "plain-vision"}
+OR A
+RA 75
+SOU 20
+00-T-ATIC.
+40:652 11 30г
+00 AJEDSO
+DE RJEZHO 333
+0 24/12207
+TO CON ATIC
+076 (RJEZHG)
+UPAFE CHO
+ACLAS E FIO/ PAREN USAF PASSES FROM USAIRA COPENIAGTE DEIMARK
+TO COM ATIC UPAFE ONIO FOR
+INFO X ACTION OTHER MEANS COM AFGRO L C
+HANSCOM FLD
+ASS X INFO OTHER
+MEANS CSAF VASH DO FOR AFCIN DASH ONE
+ALTA ONE X TOTO ZERO THREE TWO ON
+E FOUR SEVEN ZULU X CITE FOUR
+EICHT X UNCLAS EFTO PARE
+SUBJECT CIN SPACE TRACK CO
+M POSSIBLE MOON DUST СИИ OBSERVATION
+PD ALTHOUCH COPENHAGEN IS OVERCAST TONIGRT CMMAND VISUAL AND
+PHOTOGRAPHIC OOSERVATIONS :
+ERE IMPOSSIOLE THE FOLLOWING OBSER-
+VATION IS REPORTED AS OF PPOSSIDI
+NTEREST PD A MA TACOSSA RESIDENT
+E COM ASTRONONER CMN REPORTS THAT

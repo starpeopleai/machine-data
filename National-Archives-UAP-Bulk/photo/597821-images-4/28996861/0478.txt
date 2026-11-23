@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T10:05:23Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4740601, "source_ctime_ns": 1793386633924139550, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28996861/0478.jpg", "source_mtime_ns": 1785747878000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28996861/0478.jpg", "source_sha256": "036e7578007fa69635ee778920604195e25c127fc0049b0d1ae9f583ce24c3bb"}
+
+===== PAGE 1 =====
+{"alpha_words": 135, "chars": 913, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PAGE FOUR RJEDNU 10
+(6) NONE
+(7) SURFACE TEMP OF 22 DEGREES C WITH GRADIENT OF 3 DEGREES PER
+THOUSAND FEET OF ALTITUDE
+H. NONE
+I. NONE
+J. APPROTIMATELY 2322Z COLUMBIA, NO AND PEORIA, ILL
+US WEATHER BUREAU RELEASE UPPER AIR OBSERVATION BALLONS
+K. PREPARING OFFICER, CAPT ROBERT
+. BOOTH, A03333999, 3361ST
+INCTRUCTOR DO., CHANUTE AFE, ILLINOIS, BELIEVES THAT THE GROUND
+SIGHTING WAS A UPPER AIR OBEERVATION BALLON RELEASED BY FACILITIES
+MENTIONED IN PAR J ABOVE.
+WITNESS STATES THAT A BALLON OVER RANTOUL, ILLINOIS SIZE APPROX
+5E INCHEC DIAMETER WOULD GIVE THE APPEARANCE OF THE SIGHTING IN THE
+TELESCOPE. THE CLOSER TO DANVILLE IT MOVED THE SMALLER THE
+DIAMETER WOULD NEED TO BE TO GIVE SAME APPEARANCE. OTHER SIGHTINGE
+IN THE AREA WERE TO CLOSE FOR ANY USEFUL TRIANGULATION. OTHER
+S OF THE SIGHTING WERE. MR
+DANVILLE. MR
+DANVILLE
+DANVILLE. ALL WITNESSES
+AND MR
+ARE BELIEVED TO DE RELIABLE.
+BT
+32/162SZ APR RJEDNU

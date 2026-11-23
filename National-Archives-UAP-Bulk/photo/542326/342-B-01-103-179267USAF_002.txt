@@ -1,0 +1,24 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T09:27:55Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 82024288, "source_ctime_ns": 1793367952575249380, "source_file": "National-Archives-UAP-Bulk/photo/542326/342-B-01-103-179267USAF_002.TIF", "source_mtime_ns": 1785565822000000000, "source_rel": "National-Archives-UAP-Bulk/photo/542326/342-B-01-103-179267USAF_002.TIF", "source_sha256": "203fedaa18bc7a4609e59f42aaed460454bd38fdba343e118a0c900d11759b86"}
+
+===== PAGE 1 =====
+{"alpha_words": 30, "chars": 230, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+"UNO" identifi
+Palomer Mt. (Plate #4. Photo courtesy Mrs
+Z. Runcee)
+
+5 ‘
+; a te
+
+> * ae *
+ae DD ee Ay Ss ,
+~ oF
+a
+a
+*
+
+64 43 a fiin defect,
+
+Copied irom &xl0 print rec'd 1/13/69
+from SAFOI. |
+
+Filed - UNIVENTIVIED FLYING OBJECTS

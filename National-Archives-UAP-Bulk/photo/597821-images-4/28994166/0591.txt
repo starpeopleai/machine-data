@@ -1,0 +1,56 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T10:15:53Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8946871, "source_ctime_ns": 1793385801895644932, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28994166/0591.jpg", "source_mtime_ns": 1785748553000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28994166/0591.jpg", "source_sha256": "32fbcbbf3543341e4057c4d797ece4eba9077d59f5c6041f1e7639e18e827476"}
+
+===== PAGE 1 =====
+{"alpha_words": 118, "chars": 944, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+18 Aug 61
+3. DATE-TIME GROUP
+Local
+GM T
+18/1600Z
+5. PHOTOS
+• Yes
+X• No
+7. LENGTH OF OBSERVATION
+PROJECT 10073 RECORD CARD
+2. LOCATION
+24.53N
+I 150.22W PACIFIC)
+4. TYPE OF OBSERVATION
+XI Ground-Visual
+• Air Visual
+• Ground-Rador
+• Air-Int
+sept Radar
+6. SOURCE
+Civilian
+8. NUMBER OF OBJECTS
+9. COURSE
+12. CONCLUSIONS
+Was Balloor
+Probably Balloon
+•
+•
+Possibly
+Was Aircraft
+Probably Aireror
+Possibly
+sirere
+Was Astronomical
+Probably Astronomice
+Possibly Astronomice
+Other Prob Missile
+Insufficient Data for Eveluation
+Unknown
+S
+5 min
+10. BRIEF sUMMARY of SIGHTING Vapor trail fm horizon tdil. COMMENTSDescription conforms to missile
+horizon. Probable missile. Low altitude vapor
+observation. Location in path of expected
+trail moved Southerly over vessel and spread
+down range flight fm Vandenberg. Launch
+schedule not available fm this location.
+rapidly.
+No info conflicting with analysis as
+probable missile.
+TIC FORM 329 (REV 26 SRP 52)

@@ -1,0 +1,75 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T09:52:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8745786, "source_ctime_ns": 1793363455319979042, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785292/45484701-005-004-0093.jpg", "source_mtime_ns": 1785684656000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785292/45484701-005-004-0093.jpg", "source_sha256": "91a1ea792f4611eadb142fc843d703a0ac8e715c03f1ea66675600634d69cb9b"}
+
+===== PAGE 1 =====
+{"alpha_words": 318, "chars": 2250, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DETESTRIC
+DATE
+SUMMARY OF INFORMATION
+17 April 1950
+PREPARING OFFICE
+112th CIC Detachment, Headquarters Fourth Army
+SUBJECT
+UNIDENTIFIED AERIAL OBJECT SIGHTED BY:
+MRS. L. B. CHARITAT
+NEN
+ORLEANS, LOUISIANA
+CODE FOR USE IN INDIVIDUAL PARAGRAPH EVALUATION
+OF SOURCE:
+COMPLETELY RELIABLE
+USUALLY RELIABLE .
+FAIRLY RELIABLE
+NOT USUALLY RELIABLE
+UNRELIABLE
+RELIABILITY UNKNOWI
+OF INFORMATION:
+CONFIRMED BY OTHER SOURCES
+PROBABLY TRUE
+POSSIBLY TRUE
+DOUBTFULLY TRUE
+IMPROBABLE
+TRUTH CANNOT BE JUDGED
+SUMMARY OF INFORMATION
+14. Time in sight: Approximately twenty (20) seconds.
+15. Speed:
+Faster than any plane she has ever seen in the sky.
+(She
+has never observed a jet plane in flight).
+16. Sound and odor: None.
+17. Trail: Trail was approximately twenty-five (25) times longer than
+object.
+The trail appeared to be a dotted line spaced evenly.
+Trail was in a direct
+line with object and appeared to be approximately one-fourth (1/4) as wide. Color of
+trail was bright yellow, the same color as object but not as bright.
+18. Luminosity: None.
+19. Projections: None.
+20. Maneuvers: None.
+21.
+electric light.
+Manner of disappearance: Disappeared suddenly, like turning off an
+22. Effect on clouds: None.
+23. Additional information concerning object: None.
+24. Weather conditions and light at time of sighting: As appeared to
+observer - fair; clear; observed no moon, stars or clouds.
+According to the United States Weather Bureau, at 1930 hours, on the
+night of 10 April 1950, the wind was blowing south to southeast at eight (8) miles
+per hour; sky was clear; visibility was ten (10) miles.
+25. Name and address of observer: Mrs. L. B. CHARITAT, principal,
+McFadden Home, school for boys, New Orleans, Louisiana. Mr
+Occupation and hobbies: Principal, McFadden Home, school for boys,
+New Orleans, Louisiana.
+Did observer wear glasses: Mrs. CHARITAT was wearing ordinary
+reading glasses.
+She was with her young son at the time of observation, and both
+she and her son observed the object at the same time.
+There was nothing between
+observers and object that would have impaired their visions.
+DISTRIBUTION
+5 - 112th CIC Detachment
+1 - BIO file
+-AGO FORM
+ND i JUN 47 568 pel V Conta
+INTING OFFICE
+16-53396-1
+RESTRICTEBAL
+Declassification Authority: NND 923007

@@ -1,0 +1,23 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T10:03:37Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4148771, "source_ctime_ns": 1793377687887175043, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28964935/1251.jpg", "source_mtime_ns": 1785696436000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28964935/1251.jpg", "source_sha256": "effaee6c3124be295006fdf6751d0f3c828ae6cd0ae50b5ebb0e94ceef2bf910"}
+
+===== PAGE 1 =====
+{"alpha_words": 93, "chars": 626, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AISIC
+UF OB
+AISOP
+AISIC
+22 Jun 56
+WO Holn/al/4101
+1/ Reference IPOB Sighting over Tucson, Arizona, 25 Tab 56, and DF, AISOP
+Subject: WSTA, FIt 1-C, 1 Jum 56a dated & Jun 56.
+Dr. Alvin M. Howell of the Vernallis NAAS contacted Maj. R.I. Braun
+of the Air Farce Research Center, 415 Summer Street, Boston, Haas office symbol
+CHID for the track information of the balloons launched on the 22 and 23 of
+Fob 56.
+The balloon lauschiag mimbers are I8 and 19. The tracks will be
+forvarded upom receipt of a roquest at the above address ATTN: Maj. R.H. Braun.
+RICHARD S. STEPPEL, Captain, ISAF
+Officer In Charge
+ONE SAT
+агегиис
+INc / 8

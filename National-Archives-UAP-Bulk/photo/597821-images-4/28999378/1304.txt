@@ -1,0 +1,50 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T09:30:16Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8570497, "source_ctime_ns": 1793387889224327332, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28999378/1304.jpg", "source_mtime_ns": 1785747943000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28999378/1304.jpg", "source_sha256": "5871050ab5e0dfbde3ab3220d6698c1b97fee6d6f9590301e2b3c23e579d533c"}
+
+===== PAGE 1 =====
+{"alpha_words": 97, "chars": 774, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+October, 1962
+3. DATE-TIME GROUP
+Local Between 1-4PM
+GM T.
+5. PHOTOS
+PROJECT 10073 RECORD CARD
+2. LOCATION
+North Carolina
+4. TYPE OF OBSERVATION
+• Ground-Visual
+• Air Visual
+6. SOURCE
+EYes
+• No
+PLENOTH OF OBSERVATION
+Photo
+BRIEF SUMMARY OF SIGHTING
+Two photos oi
+transparant-like objects
+submitted for analysis.
+civilian
+8. NUMBER OF OBJECTS
+9. COURSE
+two
+TWO
+• Ground-Radar
+• Air-Intercept Radar
+12.
+CONCLUSIONS
+Was Balloon
+Precably Balloor
+Was Aireraft
+Probobly Aireraft
+Possibly Aiseroft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+o. OtherfLaw in negative
+Insufficient Data for Evaluation
+11. COMMENTS
+Most probable cause determined to
+be flaw or spots on the negative
+Complete analysis would require
+the negative.
+ATIC FORM 329 (REV 26 SEP 52)

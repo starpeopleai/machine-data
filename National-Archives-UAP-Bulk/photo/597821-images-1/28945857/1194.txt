@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T10:04:11Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4469213, "source_ctime_ns": 1793373219951990422, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28945857/1194.jpg", "source_mtime_ns": 1785688736000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28945857/1194.jpg", "source_sha256": "4be004375b78a1c7f2d207160416a99e57114efd767d5602829da4511070dda9"}
+
+===== PAGE 1 =====
+{"alpha_words": 85, "chars": 564, "method": "ocr", "page": 1, "variant": "plain-vision"}
+sineck.
+Belfast 5.
+Northenn Incland.
+11 kh November 1961.
+Deah Sin,
+I have come
+achen
+Iseports chat unidentified Flying
+Oljects affeared over Washington D.C. in, the early
+hours of the morning of July 2o ch 1952.
+and agam
+guy 26-27 eh 1952, and were tracked by radar at
+Was hing ton
+national dispont and Andrews Field.
+Sime 9
+am a member of an astrononical
+society, interested in spaceflight and allied subjects,
+and a student, I would be very much obliged
+if you would furnish me with details of there
+sightings and any others connected with them
+Yours faithfull

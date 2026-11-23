@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T09:26:05Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 2, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 16186550, "source_ctime_ns": 1793361537298305056, "source_file": "National-Archives-UAP-Bulk/photo/40027753/40027753-001-0002.tif", "source_mtime_ns": 1785565376000000000, "source_rel": "National-Archives-UAP-Bulk/photo/40027753/40027753-001-0002.tif", "source_sha256": "a65b77c1132327f56834bce91d281b164da846e7c139493af2fe38d8a9e5024e"}
+
+===== PAGE 1 =====
+{"alpha_words": 33, "chars": 244, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+RG 3), Records of Headquarters United States Air Force
+
+Project BLUE BOOK
+
+oe
+
+National Archives and Records Service
+General Services herinistration
+
+a- wwe * a~aweuw
+
+Washington, D.C.
+
+1976
+
+one
+we.
+
+S3AIHOUVY TYNO# AVN 3HL LY CIMOOMdIY
+
+mee
+
+===== PAGE 2 =====
+{"alpha_words": 0, "chars": 1, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 2, "variant": "plain-vision"}

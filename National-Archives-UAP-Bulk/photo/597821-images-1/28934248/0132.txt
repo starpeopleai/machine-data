@@ -1,0 +1,20 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T10:08:34Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5927143, "source_ctime_ns": 1793370285731317467, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28934248/0132.jpg", "source_mtime_ns": 1785688545000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28934248/0132.jpg", "source_sha256": "44a0fff04cd38ea2b8aff2477321a6a3c84ffcdd4b6758a4f81484de451d85c1"}
+
+===== PAGE 1 =====
+{"alpha_words": 38, "chars": 294, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Paje 2
+UNCLASSIFIED
+Incident:
+298
+Name and addres of observer:
+Occupation and hobbies:
+I*. Co1.
+Bid Air Porce Base, Oklahoma
+5, Enid TSAFB
+Pilot 2136 flying hours - 266 hours combat
+Comente of
+nterrog-tor relative to intelligence and charaster of
+observer (s) :
+unquestionable
+NRATE MAAM
+¡FIED

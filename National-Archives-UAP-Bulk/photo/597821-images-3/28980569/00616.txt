@@ -1,0 +1,56 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T10:07:11Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5616123, "source_ctime_ns": 1793381526234054348, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28980569/00616.jpg", "source_mtime_ns": 1785700753000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28980569/00616.jpg", "source_sha256": "465402751d0dd84472f30b5a4adf66ca411880b87fc845dd537c93094040091c"}
+
+===== PAGE 1 =====
+{"alpha_words": 99, "chars": 768, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+14 October
+3. DATE-TIME GROUP
+Local
+1958
+GM T.
+5. PHOTOS
+14/2130Z
+• Yes
+XO: No
+7. LENGTH OF.OBSERVATION
+NUMBER OF OBJECTS
+not given
+one
+I0. BRIEF SUMMARY OF SIGHTING
+Rnd, transparent obj,
+size of soft
+ball, seemed
+to be illuminated.
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Custer
+AFS.
+Michigan
+4. TYPE OF OBSERVATION
+D: Ground- Visual
+nocular
+Air- Vi su
+SOURCE
+• Ground-Radar
+• Air-Intercept Radar
+12. CONCLUSIONS
+Was Balloon
+•
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraf
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other.
+Insufficient Date for Evaluction
+Unk no wn
+9. COURSE
+SSE
+11. COMMENTS
+Description & characteristics
+are of a balloon. Wind direc-
+tion was in accordance.
+ATIC FORM 329 (REV 26 SEP 52)

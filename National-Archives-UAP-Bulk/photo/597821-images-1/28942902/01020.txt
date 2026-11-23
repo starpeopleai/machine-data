@@ -1,0 +1,40 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T10:04:19Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4476872, "source_ctime_ns": 1793372483018974800, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28942902/01020.jpg", "source_mtime_ns": 1785688789000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28942902/01020.jpg", "source_sha256": "1a00baa95a44e59be5737613f39b01f24af49efdc79ee02cabb33efa2908441b"}
+
+===== PAGE 1 =====
+{"alpha_words": 102, "chars": 769, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UNCLASSIFIED
+HEADQUARTERS
+3450TH TECENICAL TRAINIM WING
+FRANCIS E. WARREN AIR FORCE BASE
+WYOMING
+COPY
+1 JUL 1952
+R3-319
+SUBJECT:
+FLYOBRPT
+TO :
+Directer of Intelligence
+Heedquerters, USAF
+Weshington 25, D. C.
+THRU :
+Commending Generel
+Technicel Treining Air Force
+Gulfport, Mississippi
+1.
+At the present time AF Form 112 end 112A, required by AFL 200-5
+es the medis for reporting, are on requisition.
+2. Irclosed ere four (4) copies of subject report, One informa-
+tion copy is for: Chief, Air Technic l Intelligence Center, ATTN:
+ATIAA-2c, Wright Patterson AFB, Ohio.
+FOR THE COMMANDING OFFICER:
+/s/t/ JAMES R. FOEHR
+2nd Lt,
+US AF
+Asst Wing Adjutent
+1 Incl
+FLYOBRPT (In qued.)
+COPY
+DOWNGRADED AT 3 YEAR INTERY A3,
+DECLASSIFIED AFTER 12 YEARS
+DOD DIR 5200.10
+UNCLASSIFI

@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T10:01:31Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 20347076, "source_ctime_ns": 1793357339331992508, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1388-514451-0021.tif", "source_mtime_ns": 1785564879000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1388-514451-0021.tif", "source_sha256": "e78518c767b0cd95e0184f5465ce414302e980ea10dc71610afb1435a55daa3f"}
+
+===== PAGE 1 =====
+{"alpha_words": 75, "chars": 485, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Welche Aufgaben soll unser Frauenousschuß hoben?
+Liede Kalle der
+Über den neben
+der aus Kratzhamm‹
+h1ben wir ur
+gefreut, zeigt er uns doch erneut, daß keiner
+zu klein ist, um beim Aufbau t
+atkräftig mit-
+helfen zu können
+4. Berufswettbeugen der deutscher
+Pe 1050 eit der deut sehen
+der Deuts
+Augen auf,
+Noch viel läßt sich
+verbessern, verein-
+fachen oder irgend-
+wie rationeller ge-
+NPA
+ernaktiv „Kurt Schenk
+Ag gebe
+3. Mic II
+eselotte Buhn, Af 1
+Declassification Authority: NND 57565

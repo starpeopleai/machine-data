@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T10:06:02Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4979327, "source_ctime_ns": 1793382961792593131, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28985979/1190.jpg", "source_mtime_ns": 1785748329000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28985979/1190.jpg", "source_sha256": "c63bb021aaa4fad92af27d4e9ce94ce345b78c3370b7e775a5c3161a3a270b18"}
+
+===== PAGE 1 =====
+{"alpha_words": 47, "chars": 346, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UP
+ATIC
+CONFIDENTIAL
+PRIORITY
+AF IN : 24384 (25 Feb 60) X/j1h
+INFO : CIN
+FROM : CONMAVFORJAPAN
+DIG
+:
+2503132 FEB 60
+DEPARTMENT OF THE AIR FORCE
+' STAFF MESSAGE DIVISION
+4EZ
+Maj. Z ren
+8 MAR 1960
+Classiffcation Cancelled
+TED
+AFHQ = FUN
+x * 0-309a
+PREVIOUS EDITIONS OF THIS FORM
+MAY BE USED.
+REPLACES APHO PORM
+6.20SF 19 TAN 31 WHICH IS OD.
+SOLETE

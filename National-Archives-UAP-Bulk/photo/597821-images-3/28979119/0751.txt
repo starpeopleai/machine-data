@@ -1,0 +1,45 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T10:14:57Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8594648, "source_ctime_ns": 1793381030281822403, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28979119/0751.jpg", "source_mtime_ns": 1785701070000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28979119/0751.jpg", "source_sha256": "cbb5abfba00a8393df3361bc9dd5181cd244932a84f22bac90c6362f77a97308"}
+
+===== PAGE 1 =====
+{"alpha_words": 216, "chars": 1267, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Pago 4
+20. Draw a picture that will show the motion that the object or objects made. Place an "A" at the beginning
+of the path, a "B" at the end of the path, and show any chonges in direction during the course.
+TRATELED
+FROM NE TO E
+21. IF POSSIBLE, try to guess or estimate what the real size of the object was in its longest dimension.
+feet.
+UNADLE
+22. How large did the object or objects appear as compared with one of the following objects held in the hand
+and at about arm's length?
+(Circle One):
+Head of a pin
+Pea
+Dime
+d. Nickel
+•. Quarter
+g. Silver dolla
+1. Baseball
+1. Grapefruit
+¡. Basketball :
+k. Other
+f. Half dollar
+22.1 (Circle One of the following to indicate how certain you are of your answer to Question 22.
+Certain
+c. Not very sure
+• Fairly certain
+d. Uncertain
+23. How did the object or objects disappear from view? SPECTATORS LEAT SCENE BEFORE
+OBJECT DISAPPEARED
+24. In order that you can gi
+construct the object that you
+would it have? Describe in your own w
+as the object which you saw.
+ble of what you saw, we would like for you to imagine that you could
+would you make it? How large would it be, and what shape
+Is a tommon object or objects which when placed up in the sky would give the
+CONSTRUCT
+OUT OF
+METALS
+ROUND SHAPE,
+SIZE UNDETERMINED

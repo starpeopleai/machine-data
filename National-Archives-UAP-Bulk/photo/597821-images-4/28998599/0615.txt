@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T09:22:11Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9995851, "source_ctime_ns": 1793387375098835597, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28998599/0615.jpg", "source_mtime_ns": 1785748311000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28998599/0615.jpg", "source_sha256": "82c50f72f97d81b2ff5fff7731b596344c6472e01967fafdaea576e45faff3ee"}
+
+===== PAGE 1 =====
+{"alpha_words": 73, "chars": 469, "method": "ocr", "page": 1, "variant": "plain-vision"}
+SEEEEESEAR
+PRYSD4DA SSEGHAADSØJL SSETZ
+1114362
+DE SSEWHA AF
+P 1109302
+51L
+ITI AFSSO CONAD
+TO AFSSO USAF
+AFSSO APIS
+APSSO ACIC
+AFSSO PTO
+ZEN USM 49
+EN AFSCO
+EN TUSLOG DET &
+CN DIRNCA
+ZEN CIA
+2211
+U N C L A S E 7 T O FROM 1 AERO 00PS-C 0664S. RELEASABLE QUISIDE
+SSO CHANNELS. AFSSO USAF FOR DIA/CIIC (DIAAP JA3) ATTN: HR R.
+AUMLER. FTD FOR TD-AC. AFIC POR AFCIN SHK. NSA FOR A4L AND
+SPG. CIA FOR OSI MR JONES,
+ESTION 2
+DOLLETIN
+37 0
+CHA *CANNA
+31 o
+IN FOUR PARTS, PART I

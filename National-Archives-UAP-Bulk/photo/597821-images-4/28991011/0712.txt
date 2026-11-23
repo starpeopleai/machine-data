@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T09:46:26Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8028505, "source_ctime_ns": 1793384762363571712, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28991011/0712.jpg", "source_mtime_ns": 1785748214000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28991011/0712.jpg", "source_sha256": "d27b735b43780ca9ff4fe21e2e530dbef773a8969d650134a584764298d5ad45"}
+
+===== PAGE 1 =====
+{"alpha_words": 79, "chars": 623, "method": "ocr", "page": 1, "variant": "plain-vision"}
+C. CEILING CLEAR
+D. VISIBILITY FIFTEEN MILES
+#. AMOUNT OF CLOUD COVER NONE
+F. THUNDERSTORNS NONE IN VICINITY
+G. TEMPERATURE GRADIENT
+A. SFC TO 83321-1 DEG C PER 1002'
+B. 8000' TO 24,000' -2.5 DEG PER 1020'
+C. 24,002' TO 38,200' - 0.6 DEG PER 1020'
+D. 38, 000' TO 82,220' ISCTRERMAL
+F. KNOWLEDGE OF BALLON RELEASE NONE
+ST
+17/23237 JAN RJWFBH
+UNCLAS ABG/BDOO 21-485. SUBJ: UFO. THIS MESSAGE IN SEVEN PARTS.
+PART ONE: DESCRIPTION OF OBJECT
+A• FIRE BALL
+B. QUARTER COIN AT ARMS LENGTH
+C• BLUISH GREEN GLOW LIKE ARC WELDER
+D • ONE
+E. NA
+F• BURNING MASS
+G. EXHAUST TRAIL, FIVE INCHES LONG AT ARMS LENGTH, BLACK
+#. NEGATIVE SOUND

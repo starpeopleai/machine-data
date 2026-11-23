@@ -1,0 +1,62 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T09:59:36Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 2, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 16541916, "source_ctime_ns": 1793361566987524366, "source_file": "National-Archives-UAP-Bulk/photo/40027753/40027753-001-0034.tif", "source_mtime_ns": 1785565381000000000, "source_rel": "National-Archives-UAP-Bulk/photo/40027753/40027753-001-0034.tif", "source_sha256": "0858a8c9279383f157d206cad37cb9bb69230d77ebf162a0deafff5a91a466d7"}
+
+===== PAGE 1 =====
+{"alpha_words": 129, "chars": 1443, "method": "ocr", "page": 1, "variant": "clean-vision"}
+poner gar monen gant oplee aie or
+митер рав реен сонова р) (ре a//Еріcа: ор-
+Can qat day bonga on er (o nodene) ang
+рейсовіся Алогока -тре велорозова
+jerauon Opac: marene Iger
+мар до Воловведа зне прирізока от овер*
+два вересе не доі орости зареко ня,
+#t fos baezer deane bonton einaou.. Epe
+тореррне до1 марі, земле вио сабоста соносто
+деве,, забом-роле роси ореолатй обку 2о0 22
+abesco oi qLose IpR aione-eo to ,,counc-
+била ти сомо внок пивосе ере вор верестр
+Вуай в верев мироса тре сааре
+LetItia
+(CHeado 1092)
+(Емогенон (800) дерео зосле* учазаці ру • вреношенок
+V/l Leice
+200 ar - Can
+piéptoner Fie t0 ape nuise 1200 E concreto
+род крив оріася биям две, 3620)
+Dejong jork ong
+colr (hen cour j002) Babos gono g 11e gebou eu chigau-
+NOS DONE FTO L ANTS DENIANG pON-
+bydaror openwaaa comprete Wese
+СУКГ СУСУИ запрони інніпном цве
+pipel//Seuce"
+отитова под собівсь турее апрокревхоарят
+ріблола соста пре stiona з7rut ввпсе:
+bLeREN JUE JELS 1E D0 GATORNCS (USE YU-
+доко вид, тре іловр солислів емоквсе уı пе
+opeetaspoue ме scLebr onk pe spar sforce
+оли* ровода теолее па ви енетів пе
+pe
+no năupli oplecre
+Brokte G6-
+мOL102 000 TETs
+besado
+(0 nuo1). 01 212
+O Eebr9co.
+mo „couper, (aрce
+en s
+jenGe of ous:
+Блоавиг доле дросе та во олосися дог гро е
+суддевров відни ос возаг вдари
+note semat binte hobrjapee på
+PN dea
+(todesue) or arvire conto po cabeo
+pe anitas onr gor pres aronies arara
+SAONE TANDEN ENL
+wojj
+AdOD*
+HOL-
+SU TO
+mAruE op)ec
+LOR
+
+===== PAGE 2 =====
+{"alpha_words": 0, "chars": 1, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 2, "variant": "plain-vision"}

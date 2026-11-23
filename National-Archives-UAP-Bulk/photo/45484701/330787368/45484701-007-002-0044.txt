@@ -1,0 +1,41 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T09:31:53Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9234630, "source_ctime_ns": 1793364568294548632, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787368/45484701-007-002-0044.jpg", "source_mtime_ns": 1785685194000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787368/45484701-007-002-0044.jpg", "source_sha256": "e80b8c4267511b215a907dd56ff15e52ba6f632494b848194ce158e3d958b600"}
+
+===== PAGE 1 =====
+{"alpha_words": 101, "chars": 787, "method": "ocr", "page": 1, "variant": "plain-vision"}
+TON
+UNCLASSIFIED
+241 UBAP
+АРОВI-6
+District Commander
+18th OSI District (I0)
+2.0. Box 310
+Maywood, California
+MAR 2 6 195ªª
+PRIORITY
+55832
+Netnet =il informsion vitell cen be deveiyed conenvt-dlovaend-lre rondation
+Los Angeles, Californis, through LAC and inquiry of Tunn and Bradatreet be forvarded
+thie leadquertere by TV not later thinn 27 March 1952. Ie inquiries ehould be nade
+heyend those requested above.
+AFCSI FILE
+СОРУ
+CLASSIFICATION CANCELLED #9 BaSle hRA AS 5
+BY AUTHORITY OF THE DIRECTOR OF SPEC INV
+BY
+KURT.K. KUNZE, Capt, USAF
+Historian
+| | 5 DEC 1975
+DATE
+PARAPHRASE NOT REQUIRED,
+NOTIFY
+CRYPTOCENTER BEFORE DECLASSIFYING
+UNCLASSIFIED
+185-18.
+LA TO
+7. 1. Volch
+APOS I-6
+Adweeh
+Wow se 12 11525
+GILBE
+Code 192 x-176 Counter Intal Div,
+Declassification Authority: NND 923007

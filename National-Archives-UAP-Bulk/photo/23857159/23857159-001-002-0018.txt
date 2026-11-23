@@ -1,0 +1,83 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T09:39:22Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 20034204, "source_ctime_ns": 1793360595000584641, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-002-0018.tif", "source_mtime_ns": 1785565081000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-002-0018.tif", "source_sha256": "ec34a5f22eb94d8ec2fd7cccedb32b481fb04cddf5d021df4c0e32bf4a1ca0f8"}
+
+===== PAGE 1 =====
+{"alpha_words": 445, "chars": 3080, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UNCLASSIFIED
+AF FORM 112-PART II
+APPROVED 1 JUNE 1943
+AIR INTELLIGENCE INFORMATION REPORT
+FROM (Agency)
+43d Air Division
+IR-1-56-
+PAGE
+PAGES
+At 16592, 17 January 1956, Site 17 (3445il 13110E) of the 618th ACEV
+Squadron reported an unidentified track in the Lima Gulf area. The track
+was at 30,000 ft., heading Fast, range 72 nautical miles at a speed of 1500
+The track was flashed at 1708Z, and later killed at 17302, unidentified.
+Two F-66D interceptors vere scrmbled at 17167. The first interceptor
+was airborne at 17242 and was under CCI control a 17347. However, the track
+faded before the fighters could make contact.
+The track appeared to be a normal return about the size of a B-29 type
+target. There was continuous presentation consisting of a single paint on
+the scope for each rotation of the antenna from 16592 to 17187. The return
+was bright and cleer with no evidence of fuzzyness.
+Weather at the time vas:
+surface winds, north at 5 mph, ceiling 9,000
+feet overcast, visibility 8 miles, cloud cover was 10/10 altostratus with
+negative thnderstoms or other unusual weather in the area. Winds aloft
+were as follows:
+6,000
+200 degrees
+10,000
+250 degrees
+16,000
+250 degrees
+20,000
+260 degrees
+30,000ł
+280 dégrees
+50,000
+270 degrees
+at 11 knots
+at 13 Imots
+at 59 lots
+at 85 Imots
+at 115 lots
+at 150 knots
+The treck: was first observed by Jerold I. Tuttle, 4/20, Af16314108, the
+scope orerator, bearing 172 degrees, range 72 miles, heading 150 degrees at
+approximately 1000 Iots.
+(See page 5 for graphic display of the track)
+The track proceded on a heading of 150 degrees with the speed increasing fron
+1500 to 1800 mots.
+During the first five minutes that the track was under observation,
+maintenance personnel attempted to determine whether the track was caused by
+Enterference.
+"Parrot" wes turned off to preclude the possibility of inter-
+terence. It was noted that the track crossed over angle markers at severa.
+oints, thus precluding several other types of interference. The determinatior
+at this time by maintenance personnel was that the track was not caused by
+interference.
+The track continued on a heading of 150 degrees to a range of 160 miles,
+at which tine the track slowed its speed to approxinately 500 knots,
+and for
+3 or 4 sweeps of the antenna seemed to stand still. It then moved off on a
+heading of 030 degrees.
+The track continued this heading with speed increasing to approxinatoly
+2000 lots.
+When the track reached a bearing of 100 degrees at 40 miles range
+it turned to a heading of 280 degrees and moved to a bearing of 105 degrees at
+19 miles.
+IOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WI
+IN THE MEANING OF THE ESPIONAGE ACT, 50 U.S. C.
+1 AND 32, AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAY
+IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER T
+STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR O
+INTELLIGENCE, USAF.
+43D INTEL IRO
+600
+10-80570-1 *
+UNCLASSIFIED
+DECLASSIFIED
+Authority NND 9237007
