@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T22:33:11Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 21583696, "source_ctime_ns": 1793360855187175108, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-003-0165.tif", "source_mtime_ns": 1785565142000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-003-0165.tif", "source_sha256": "534a7422b05f75d4c8d97758f32d439778ddedd69d019376907e32f380cf6a2e"}
+
+===== PAGE 1 =====
+{"alpha_words": 187, "chars": 1176, "method": "ocr", "page": 1, "variant": "plain-vision"}
+SEIFIED 1149113 > 12
+DOLAN, James D., PFC, US 55550165
+DMZ Company
+On patrol with Sgt Gonzales at approximately 0450, 6 November 1957,
+we had just finished making a security check to NCS by radio and were
+walking along road when I saw bright flash, light yellow in color, not
+quite as bright as an iluminating flare lighting up the western part of
+the sky. This flash was followed by a vapor trail similar to that of a
+shooting star or Roman Candle, about 12" in length at arm's distance.
+This trail was yellow, and located in same part oi sky as flash and
+followed it immediately. I think the flash and trail were directly connec-
+ted. The object was located approximately 15,000 to 20,000 feet elevation.
+The trail was wider at one end than the other and the "head" end made defi-
+nite progress in the sky traveling from east to west in a moderate arc.
+The sky was overcast, moon was visible and dawn had not yet broken. I
+could not judge speed of object. The trail was luminous but did not
+throw any light. I think it may have been a shooting star.
+Observer - Ö82060
+077/6
+INCL # 8
+INT7-1893
+AC304/
+544-50
+Copy / of 4 copies
+UNCLASSIFIED
+DECLASSIFIED
+Authority NND 9237007

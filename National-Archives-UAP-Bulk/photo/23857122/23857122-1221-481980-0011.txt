@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T22:51:38Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 39571376, "source_ctime_ns": 1793357060402153037, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1221-481980-0011.tif", "source_mtime_ns": 1785564821000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1221-481980-0011.tif", "source_sha256": "0e61309f5305c2f4ee702722500d3a992471957139371cca6c58d354dd72ff69"}
+
+===== PAGE 1 =====
+{"alpha_words": 95, "chars": 738, "method": "ocr", "page": 1, "variant": "plain-vision"}
+WARNING
+AREA
+(W-581)
+- 2°30'E$ -
+AREA
+40
+Warning, National Defer
+perations hazardous to the flight of aircra
+conducted within these are
+• 1000 FEET
+184)
+WARNING AREA
+(W-143)
+(D-1428
+HNL
+2°30'E
+NOTE: It is requested that users of this chart indicate corrections and additions
+which come to their attention and notify
+THE DIRECTOR, U.S. COAST AND GEODETIC SURVEY, WASHINGTON 25, D. C.I:
+TO REFERENCE BY THE GEOREF (SHOWN IN BLUE) TO MINUTES
+(Select nearest intersection south and west of point)
+Sample Point: HUDSON
+1. GH identifies basic 15° quadrangle
+2. HP identifies 1° quadrangle
+3. 18 identifies Georef minute of longitude
+4. 21 identifies Georef minute of latitude
+5. Sample reference: GHHP1821
+Declassification Authority: NND 57565

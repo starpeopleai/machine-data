@@ -1,0 +1,8 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T22:58:48Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 20287474, "source_ctime_ns": 1793365941508724836, "source_file": "National-Archives-UAP-Bulk/photo/542184/341-PBB-528-Roll1-0276.jpg", "source_mtime_ns": 1785565453000000000, "source_rel": "National-Archives-UAP-Bulk/photo/542184/341-PBB-528-Roll1-0276.jpg", "source_sha256": "300cac7d99a2ae42ee74900ce35125baac25724e8dee20e7e6354945d9715848"}
+
+===== PAGE 1 =====
+{"alpha_words": 19, "chars": 112, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+‘
+y x’ 3 ag ri ving ee ve + eae 4 Sienna pehtgp hip TIO 2 ~
+x ie ee! ms x. " at °
+$ ee os i 4 Z z i rs cat id d

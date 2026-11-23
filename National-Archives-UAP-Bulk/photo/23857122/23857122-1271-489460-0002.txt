@@ -1,0 +1,23 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T22:34:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 27558188, "source_ctime_ns": 1793357156433340027, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1271-489460-0002.tif", "source_mtime_ns": 1785564842000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1271-489460-0002.tif", "source_sha256": "bf30c1e63f884bce33dcac920bc555c43d092e2a6195d808c1a69ec5df293a00"}
+
+===== PAGE 1 =====
+{"alpha_words": 136, "chars": 931, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AF FORM 112-PART II
+APPROVED 1 J:
+*=: 1948
+SECURITY INFORMATION
+AIR INTELLIGENCE INFORMATION REPORT
+Director of Intelligence
+Headquarters Command,
+USAF
+_52-3
+At 0915 hours on 6 August 1052
+address:
+reported sighting two (2) disk, size: sane as a fifty cent (50%) pile heading
+toward Seat Pleasact and Andrews AF3. Objects were floating faster than jets,
+bright in color like lighting at high altitude. One (1) disk traveling straight
+line while other was circleing around it.
+IOTS: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U. S. C.-
+SI AND 32, AS AMENDED, ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW.
+IT MAY NOT BE REPRODUÇED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF
+Declassification Authority: NND 57565

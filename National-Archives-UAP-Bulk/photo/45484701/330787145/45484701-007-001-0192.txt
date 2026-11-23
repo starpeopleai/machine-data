@@ -1,0 +1,64 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T22:36:39Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7771488, "source_ctime_ns": 1793364526626854118, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787145/45484701-007-001-0192.jpg", "source_mtime_ns": 1785684571000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787145/45484701-007-001-0192.jpg", "source_sha256": "ef350cd6c6fce42e92ae2c323c66fdbb1ed6d6b20a6f83363c16933f08b06864"}
+
+===== PAGE 1 =====
+{"alpha_words": 253, "chars": 1794, "method": "ocr", "page": 1, "variant": "plain-vision"}
+OLOURE I
+18D 24-0
+SUB JECT :
+DEPARTMENT OF THE AIR FORCE
+HEADQUARTERS UNITED STATES AIR FORCE
+WASHINGTON
+THE INSPECTOR GENERAL USAF
+18th DISTRICT OFFICE OF SPECIAL INVESTIGATIONS
+AF SPECIALIZED DEPOT, BOX 310, MAYWOOD, CALIF.
+24 July 1952
+SPOT INTELLIGENCE REPORT
+Sighting of Unidentified Aerial Object,
+17 July 1952, by Mr. PAUL, BURKE,
+28 Kirkwood, Long Beach, New York
+SPECIAL INQUIRY
+UNCLASSIFIED
+TO:
+Director of Special
+Headquarters, USAF
+Washington 25, D.C.
+CLASSIFICATION CANCELLED
+Investigation OF T
+IT K. KUNZE, Capt, USA
+EY
+Historian
+DATE
+5 DEC 1975
+On 21 July 1952, this office was advised by Mr. PAUL BURKE
+that he had sighted an unidentified aerial object while aboard a
+United Airlines airplane, east of Sandusky, Ohio over Lake Erie, at
+about 11:00 AM on 17 July 1952.
+Mr. BURKE described himself as a private pilot since 1929
+and the owner of a Buick agency in Brooklyn, !...
+According to BURKE,
+the United Airlines plane was approximately 12,000 feet when the obJect
+was sighted at three or four thousand feet, and was estimated to be
+150-200 feet in diameter. This object was
+further described as round,
+with the outer border of approximately 75 feet being a reddish color
+and having a black center. Mr. BURKE stated that during his observance
+the object was stationary.
+He did not make a report of this information
+to the pilot of the plane.
+3•
+In accordance with AFCSI Letter 85, dated 23 October 1950,
+two copies of this letter are being directed to the Commanding General,
+Air Materiel Command, Wright-Patterson AFB, Dayton, Ohio, Attention MCIS.
+4•
+This office does not contemplate further inquiry into this
+matter.
+S
+CG, AMC,
+W-P AFB
+Attn: MCIS
+KEEFE O'KEEFE
+~ Colonel, USAF
+UNCLASSIFIE Bistrict Commander
+CONFIDE
+Declassification Authority: NND 923007
+SMAMA-Jun 51-25M

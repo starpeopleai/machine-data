@@ -1,0 +1,58 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T22:31:58Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 18437206, "source_ctime_ns": 1793355639855817667, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0078.jpg", "source_mtime_ns": 1785564494000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0078.jpg", "source_sha256": "48e55948549ad5196f8718641033fe15e414f2a16022aad4342a05af43493d78"}
+
+===== PAGE 1 =====
+{"alpha_words": 200, "chars": 1379, "method": "ocr", "page": 1, "variant": "plain-vision"}
+142
+GAS BAGS
+FABRIC
+GAS BAGS
+METAL
+GAS
+COMPRESSION
+ENERGY
+ABSORPTION
+LIMITS
+f+/Ibs/Ib
+1-6K
+8-11.5 K
+IMPACT
+VELOCITY
+ft / sec
+20-90
+130-185
+Figure 3. Gas Compression
+ENERGY
+ABSORPTION
+LIMITS
+8-59 K
+ft.-Ibs./Ib.
+IMPACT
+VELOCITY
+130-500
+ft./sec.
+AERIAL SNATCH,
+SPIKE
+Figure 4. Aerial Snatch, Spike
+143
+In the technique of absorbing energy by friction, exemplified in Figure 5 by
+a frangible tube, we have one of the most promising developments to come along
+in some time. This and other devices using similar principles offer a great increase
+in the range of energy-absorption capacity, and I believe we will be seeing more and
+more of these devices.
+FRANGIBLE-TUBE SYSTEM
+ABSORPTION
+IMPACT
+VELOCITIES
+LIMITS
+130-500
+ft./sec.
+Figure 5. Frangible Tube System
+Naturally, the chief advantages to the Retro Rocket shown in Figure 6 are that
+deceleration and deceleration-onset rate can be maintained at relatively low values,
+and the length of stroke is not a problem, as it is in all of the other systems con-
+sidered. Retro rockets do, however, require careful timing and thrust control, and
+they are comparatively expensive.
+Now for ballooning. For reasons of cost, reliability, simplicity and availability
+the majority of balloon users have selected material-deformation devices. In view
+of this I will direct the remainder of my discussion toward this method of energy
+absorption.

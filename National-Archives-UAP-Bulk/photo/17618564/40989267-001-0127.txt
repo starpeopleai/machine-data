@@ -1,0 +1,85 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T22:43:38Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 15989108, "source_ctime_ns": 1793355542939434071, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0127.jpg", "source_mtime_ns": 1785564474000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0127.jpg", "source_sha256": "2a9ac6741490b1de3c7bf27c76b35b0b7dcc2d4c44c2ffdf7464eb8b8ff98a2c"}
+
+===== PAGE 1 =====
+{"alpha_words": 976, "chars": 5885, "method": "ocr", "page": 1, "variant": "plain-vision"}
+244
+with the same lift would perform to the same altitude, but at a rate of rise not
+exceeding 1300 feet per minute. A second balloon, the ML 566, has been developed,
+also under Army/Air Force sponsorship, for daytime performance to 100, 000 feet
+at 1700 feet per minute. This balloon weighs approximately 3000 grams and is
+flown with a total lift of 8500 grams. Nighttime versions of these streamline
+balloons have not been successful, and additional development work is in progress.
+In the late 1950's we started development work on a radar reflective neoprene
+balloon under Navy sponsorship. Dipoles (aluminum foil chaff) are adhered to the
+inner wall of the balloon in a random fashion. These balloons have been used at
+some of the missile tracking stations for obtaining accurate wind data rapidly,
+using available radar equipment. The 100 gram balloons have been used ex-
+tensively, and the larger size sounding balloons have been used in limited tests.
+These balloons are available in sizes from the 30 gram pilot balloon up through
+the 2000 gram sounding balloon. A word of caution here, in that these Rabals are
+not satisfactory with just any radar set, and I cannot say which sets don't work
+with these balloons. Thus far it has been mainly trial and error at certain
+stations to determine if the Rabal balloons will work with the available radar set.
+If a radar set is available that can be used adequately with these balloons, it
+eliminates the need for the crews to man the theodolites which are used to visually
+track the pilot balloons to obtain this wind data.
+In the realm of constant level ballooning, there is a constant level neoprene
+balloon that can be used for loads up to 10 pounds for performance to 110, 000 feet.
+These spherical constant level balloons contain a flapper valve which is tape
+operated. The operation is controlled by the diameter of the balloon. Constant
+level balloons have been flown in the daytime and also at night. They cannot fly
+through a sunset, for they are zero pressure balloons and do not carry ballast.
+In operation the balloon valves off the free lift at floating altitude, leaving only
+sufficient gas in the balloon to hold the balloon and payload at altitude. As the
+gas temperature within the balloon drops at night, there is no longer sufficient
+lift in the balloon to maintain it and its payload at the constant altitude. To obtain
+the longest flight, the balloon should be released after dark. The balloon can fly
+through a sunrise, more gas being valved off as it heats and expands. Flight
+durations as long as 12 hours have been obtained with this balloon. These balloons
+are quite small at release (5-7 feet), have ascent rates of approximately 1100 feet
+per minute, and are available in the seven sounding balloon sizes. Once again, to
+design a flight, the payload, floating altitude, rate of rise, and time of day of the
+flight need to be known.
+245
+Higher and more reliable balloon performance is much in demand these days,
+and a great deal is being done in research to improve the balloon films.
+Other
+phases of the balloon operation need attention to obtain the maximum altitudes
+from these balloons. The film is tender; it is only. 003 to . 005l thick, it is
+easily damaged, and it has low tear resistance. Improved performance can be
+obtained by careful handling. Because some of you may now be involved with
+these balloons or may become involved with them in the future, I have the following
+comments on balloon handling.
+The storage of the balloon is important. Most balloons today do not need to be
+conditioned prior to flight so long as they are less than a year old and have been
+stored at temperatures warmer than 35°F. If the balloons have been stored at a
+temperature lower than 35°F, they should be brought back to 65-100°F for a mini-
+mum of 48 hours, and preferably a week, prior to flight. If storage at the 65-100°F
+temperature is not possible, it is then best to revert to the high humidity oven
+conditioning of balloons at 160-180°F. Balloons that are more than a year old
+should be conditioned for a minimum of 12 hours in a hot, humid chamber. If the
+chamber is not available, the boiling water technique - even with its hazards - is
+probably better than nothing at all. More information on aging and conditioning is
+being generated each year. Many improvements have been made in balloon
+compounds, reducing the need for conditioning. Periodically I am asked about
+diesel oil treatment of balloon films, and in most cases I would not recommend
+this treatment.
+Care needs to be exercised even in opening the box containing the balloon. A
+blunt object should be used to slit the top tape. The balloons fit snugly in the boxes,
+and if a sharp object is used it is very easy to cut into the balloon film.
+The
+balloon in its bag should then be simply dumped out of the box onto the balloon in-
+flation table. At the present time most of the sounding balloons are being packaged
+in heat-sealed plastic bags, although some still are being packaged in paper bags.
+With the paper bag it is best to tear the bag open from the mouth to the bottom and
+let the balloon roll out of the bag onto the inflation table, handling the balloon as
+little as possible. If it is necessary to handle the balloon, cotton or rubber gloves
+should be used.
+With the plastic bag, there is a "Tear Here slit which makes
+opening this bag easier. Again, with this package, let the balloon roll out onto
+the table, holding onto the corners of the plastic bag to tip the balloon out so as
+not to snag the balloon.
+A balloon inflation table is extremely useful to prevent damage to the balloon
+during preparation for flight. The Air Force Cambridge Research Test Facility
+at Bedford, Massachusetts, designed and built an aluminum frame mounted on
+casters to which has been lashed a canvas top. It is easy to tilt this balloon table

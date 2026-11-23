@@ -1,0 +1,17 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T22:45:08Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 17259064, "source_ctime_ns": 1793356530503797927, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0142.tif", "source_mtime_ns": 1785564718000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0142.tif", "source_sha256": "ed27329b1a21b494a53bbc6df28a5463b6b578cee3a9c06cb4cb48a9c31b295e"}
+
+===== PAGE 1 =====
+{"alpha_words": 73, "chars": 526, "method": "ocr", "page": 1, "variant": "plain-vision"}
+KES
+DICTED®
+Incident #218 = near Martinsburg, West Virginia -= 11 December 1948
+As described, the object seen in this incident could have
+been a parachute flare. Under eirounstances of a head-on approach,
+a moteor can appear stationary; however, the time in sight, (one
+minute), if accurate, argues against the object's being a noteor.
+Therefore, while it is possible that the incident has an astrono-
+mical explanation, it is more probable that a flare was peing ob-
+served.
+RESTI
+ICTED
+Declassification Authority: NND 57565

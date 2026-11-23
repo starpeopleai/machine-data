@@ -1,0 +1,77 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T22:58:22Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 17901688, "source_ctime_ns": 1793360911299247584, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-003-0224.tif", "source_mtime_ns": 1785565152000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-003-0224.tif", "source_sha256": "7af3caf4fdb341c57c5f64079836e1d2251274d810f5817d6b172368704414aa"}
+
+===== PAGE 1 =====
+{"alpha_words": 318, "chars": 2260, "method": "ocr", "page": 1, "variant": "plain-vision"}
+NCT
+(CLASSIFICATION)
+COUNTRY OF ORIGIN
+1105098
+(SECURITY INFORMATION when filled in)
+REPORT NO.
+U.S.A.
+552-2-27
+AIR INTELLIGENCE INFORMATION REPORT
+(Leave blank)
+AREA REPORT CONCERNS
+1105098
+AGENCY OF ORIGIN
+DATE OF REPORT
+Hq. 552nd AFW&Con Wing
+McClellan AFB, Californie
+SOURCE OF INFORMATION
+20 May 57
+DATE OF INFORMATION
+Leland M. Martin, 2/It., USAF
+PREPARING OFFICER
+James J. Hayes, 2/It., USAF
+Intelligence Officer
+REFERENCES (Control number, directive, previous report, etc., as applicable)
+4 May 57
+EVALUATION
+A-3
+SUBJECT
+Unidentified Flying Object
+SUMMARY (Enter concise summary of report. Give significance in final one-sentence paragraph. List inclosures at lower left. Begin text of report on AF Form 112a.)
+At 10252, 4 May 57, while on a routine Airborne Operation Center
+mission, 2/it. Ieland M. Martin, Co-pilot, sighted a meteor-like object
+of yellowish-red color pass in front of the Aircraft at 10,000 feet
+going in an East-West direction.
+At 10432 an object of the same
+description passed in front of the aircraft at approximately 8,000 feet
+going in an Fast-West direction.
+The objects were described as similar
+to "afterburner on F-102." Land based radar station Art reported no
+known aircraft were in the area. Two USN submarines were operating
+in the area of the sighting.
+Crew members speculated the UFOB's may
+have been rockets from a nearby danger area.
+APPROVED:
+2/19:6-3
+97
+61141326
+hans Baste
+LUCIUS BERBE,
+Major, USA!
+Staff
+Intelligence Office!
+ABC
+DISTRIBUTION BY ORIGINATOR
+DCS/I ADC - Original and 1 copy
+DISTRIBUTION BY 4602D AISS:
+DCS/I JWADF - 1 copy
+Original to D/I, HEDUSAF
+Copy to Comdr, ATIC
+Copy to Comdr, 4602d AISS
+WARNING: This document contains information affecting the national defense of the United States within the meaning of the Espio-
+nage Laws, Title 18, U.S. C., Section 793 and 794. Its transmission or the revelation of its contents in any manner to an unauthorized
+person is prohibited by law. It may not be reproduced in whole or in part, by other than United States Air Force Agencies, except by
+permission of the Director of Intelligence, USAF.
+AF 1 OCT 52 112
+PLACES AF FORM 112-PART
+N 48, WHICH MAY BE USI
+CLASSIFICATION
+(SECURITY INFORMA
+16-55569-3
+n filled in)
+DECLASSIFIED
+Authority NND 9237007

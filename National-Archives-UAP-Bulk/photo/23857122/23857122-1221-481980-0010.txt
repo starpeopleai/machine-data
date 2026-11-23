@@ -1,0 +1,21 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T22:59:03Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 34768936, "source_ctime_ns": 1793357058448245202, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1221-481980-0010.tif", "source_mtime_ns": 1785564820000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1221-481980-0010.tif", "source_sha256": "ae08e029875d159b00c99cfaf4417a12a236a07da0ff9ed852492d434abfd977"}
+
+===== PAGE 1 =====
+{"alpha_words": 59, "chars": 459, "method": "ocr", "page": 1, "variant": "plain-vision"}
+WARNING
+SURFACE
+FP
+GP
+•FN
+GN
+GH
+PRICE 25 CENTS
+ORLANDO (0-8)
+COMPILED AND PRINTED AT WASHINGTON, D. C.
+BY THE U.S. COAST AND GEODETIC SURVEY
+UNDER AUTHORITY OF THE SECRETARY OF COMMERCE
+Principal Sources: U.S. Geological Survey, U.S. Army
+Corps of Engineers, U.S. Air Force, U.S. Dept. of Agriculture, Civll
+Aeronautics Administration, and the U.S. Coast and Geodetic Survey.
+BASE: Edition of July 1949 Revised June 1951
+Declassification Authority: NND 57565

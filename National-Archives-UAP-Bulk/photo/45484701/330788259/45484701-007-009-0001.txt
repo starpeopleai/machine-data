@@ -1,0 +1,70 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T22:38:09Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8187847, "source_ctime_ns": 1793365057382799004, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330788259/45484701-007-009-0001.jpg", "source_mtime_ns": 1785684984000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330788259/45484701-007-009-0001.jpg", "source_sha256": "37c3cd0ae114d823cb6b0f6726f0238715e91cf05cef2f2465fa9533528091aa"}
+
+===== PAGE 1 =====
+{"alpha_words": 222, "chars": 1674, "method": "ocr", "page": 1, "variant": "plain-vision"}
+LIC. Capt Henley/av/68060
+AFISIIC
+APESYICE 14-185-24-35
+TO:
+AFSC (FTD)
+Wright-Patterson APB, Ohio
+UNCLASSIFIED
+Dec 65
+OSI COMMUNICATION
+SUBJECT
+DATE OF TRANSMITTAL
+20 DEC 1965
+John M. Thomas Jr.
+9140 So. Normal
+Chicago, Illinois 60620
+FROM:
+Hq USAF (AFISIIC)
+Washington, D. C. 20333
+REFERENCE
+ITEMS CHECKED ARE APPLICABLE TO ABOVE SUBJECT
+INVESTIGATION HAS BEEN INITIATED AND REPORTS WILL BE FORWARDED AS SOON AS POSSIBLE.
+ATTACHED IS REPORT OF INVESTIGATION. THIS MATTER IS
+• PENDING • CLOSED.
+REQUEST REPORT OF ACTION TAKEN.
+(AFR 124-4)
+IF THIS IS PROCESSED UNDER AFR
+; REQUEST COMPLIANCE WITH PARAGRAPH
+REPORT OF PRIOR INVESTIGATION/SUMMARY ATTACHED.
+NOTE RESTRICTIVE LEGENDS ON FRONT OF THE ATTACHMENTS).
+RETURN ATTACHMENTS) AFTER HAVING SERVED YOUR PURPOSE.
+REQUEST AN INDICES CHECK ON ABOVE SUBJECT AND INDIVIDUAL(S) LISTED IN OTHER/REMARKS.
+WHEN ATTACHMENTS)
+IS/ARE REMOVED, THE CLASSIFICATION OF THIS CORRESPONDENCE
+WILL BE
+• RETAINED
+• DOWNGRADED TO
+• CANCELED
+• MARKED "FOR OFFICIAL USE ONLY."
+OTHER/ REMARKS
+Attached letter from Subject is forwarded for your information and any action
+deemed appropriate.
+Investigation is not contemplated by this Headquarters.
+2. Directorate OSI files do not contain any record identifiable with Subject.
+20 DFC 1965
+COPIES TO
+UNCLASSIFIED
+ATTACHMENTS
+Ltr im subj,
+cy or
+envelope and 1 Atch.
+NAME, GRADE, TITLE, SIGNATURE
+Kof learn
+irectorate of Special Investications
+ORA
+SI JAN 63 150
+AFISIEC
+Capt Henley Idenle
+Capt Carino
+FILE STAMP AND/OR OTHER
+35
+Read Cy - Capt Henley w/o Atch
+Coord Cy - INV 24-185-24-35
+w/o Atch
+1024 - 185-24-35
+* U. S. GOVERNMENT PRINTING OFFICE: 1963 OF-671761
+Declassification Authority: NND 923007

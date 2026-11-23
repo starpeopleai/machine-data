@@ -1,0 +1,120 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T22:55:37Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 11051802, "source_ctime_ns": 1793363210783138367, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330784816/45484701-005-001-0035.jpg", "source_mtime_ns": 1785684637000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330784816/45484701-005-001-0035.jpg", "source_sha256": "c02861a4c4baac80d750676ae2d9441fbea31959a8c54b9808b191ca5a27fae6"}
+
+===== PAGE 1 =====
+{"alpha_words": 66, "chars": 919, "method": "ocr", "page": 1, "variant": "plain-vision"}
+W. B. FORM 1130 A Revised 7-1-48
+TYPE
+_R
+TIME
+(LŞT)
+0815
+0915
+1/15
+12/3
+1315
+1Y15
+1515
+1615
+1715
+1815
+1915
+2011
+2113
+2215
+CEILING
+(Hundreds
+Feet)
+SKY
+U. S. DEPARTMENT OF COMMERCE, WEATHER BUREAU
+SURFACE WEATHER OBSERVATIONS
+STATION green WU DE, SC
+- DATE 12-29-49
+VISIB-
+ILITY
+(Miles)
+WEATHER
+SEA
+ALTIM-
+and
+LEVEL
+WIND
+PRESS.
+TEMP. DEW
+DIREC-
+TSPEED, CHARAC-
+ETER
+REMARKS AND SUPPLEMENTAL CODED DATA
+OBSTRUCTIONS
+(°F)
+TION
+TER AND
+TO VISION
+(mbs.)
+(°F)
+10
+(m.p. h) | SHIFTS
+SET.
+(ins.)
+13
+10
+12
+15
+15
+15
+15
+15
+33
+_ 27
+I ZE
+42 30 V
+13E1
+5028
+VC IBE!
+54 25
++3E1
+5626
+-I2E
+56 26
+12€
+66327
+63 77
+6327
+50027
+1S
+15
+12
+12
+50 35
+45 3 г
+'ЗЕ !
+13F
+13k\
+{2€}
+43 33
+4/31
+4/31
+→ 12Ei
+12E,
+WBAN 10 A
+VERS
+INITIALS
+14A
+148
+15
+1334;31Řșš
+EHS
+H181320
+148.6.41.0
+3441422₴Řš
+453:5142.7518
+156,3; 43,0
+162,91468 EHS
+163. 2,468
+to3, 4147.0
+1419.9,43.0
+149.9143.0
+145:0|395
+14291382
+141.4.36.8
+172,365
+Declassification Authority: NND 923007

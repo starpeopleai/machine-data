@@ -1,0 +1,13 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T22:32:29Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 19048032, "source_ctime_ns": 1793367503820568640, "source_file": "National-Archives-UAP-Bulk/photo/542184/341-PBB-704-0453.jpg", "source_mtime_ns": 1785565728000000000, "source_rel": "National-Archives-UAP-Bulk/photo/542184/341-PBB-704-0453.jpg", "source_sha256": "9504663a3b0c6914137e795870ed78916b164d1fd8a9bcc695107a5ccb08cf05"}
+
+===== PAGE 1 =====
+{"alpha_words": 4, "chars": 27, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 1, "variant": "plain-psm3"}
+_
+
+OO Pramcaen
+
+;
+
+oe
+
+rth

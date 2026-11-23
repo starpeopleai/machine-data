@@ -1,0 +1,47 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T22:21:35Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10520640, "source_ctime_ns": 1793364899744474700, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787905/45484701-007-006-0076.jpg", "source_mtime_ns": 1785684681000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787905/45484701-007-006-0076.jpg", "source_sha256": "d55bb980a78c22cf023e49a0ddeefe21b7eab25102eab629189b55b76ee27eab"}
+
+===== PAGE 1 =====
+{"alpha_words": 329, "chars": 2352, "method": "ocr", "page": 1, "variant": "plain-vision"}
+* File No: 21D 24-146
+In January 1958, the editor of "The Flyer", a weekly newspaper
+published at Langley
+Air Force Base, received an advertisement from BRYANT
+to be published in "The Flyer, wherein BRYANT was soliciting membership in
+the organization in question.
+Captain OLDENBURGH, who monitors all advertise-
+ments for this paper, was of the opinion that membership in this organization
+on the part of military personnel could possibly result in confliet with or
+violation of paragraph 9, AFR 200-2, and consequently, the advertisement
+from BRYANT was refused.
+Indices of the 2lst District OSI contained no information concerning
+BRIANT or subject organization.
+by Letter, dated 22 Jamary 1958, the
+Directorate bl was requested to furnish 2lst District OSI any informatior
+on instant organization reflected in the files of that Headquarters. By
+letter, dated 4 February 1958, the Directorate OSI advised that the files of
+that Headquarters reflected no information concerning LARRY W. BRYANT or the
+National Investigations Committee on Aerial Phenomena. The Directorate OSI
+further advised that an inquiry concerning BRYANT and this organization had
+been made of the Federal Bureau of Investigation, and any information developed
+would be furnished 2lst District OSI.
+AT HAIPTON, VIRGINIA
+On 6 February 1958, files of the Hampton Police Department were
+reviewed by L. E. PAYNE, Chief Identification Seetion, who advised the files
+reflect no record of SUBJECT. PAYNE advised that no information concerning
+any organizations is recorded in the Police Department files.
+AT NEWPORT NEWS, VIRGINIA
+On 6 February 1958, files of the Newport News Police Department
+were reviewed by Mrs. MARGARET SCHANG, Clerk identification section, wic
+advised the files reflect no record of SUBJECT. Mrs, SCHANZ further advisec
+that no information concerning any organizations is recorded in the Police
+Department files.
+AT WARWICK, VIRGINIA
+6. On 6 February 1958, files of the Warwick Police Department were
+reviewed by Mrs. EIFANOR PRICE, Glerk, who advised the files reflect no
+information concerning SUBJECT. Mrs. PRICE advised the files contain no
+information concerning any organizations.
+7. This report is classified
+that in contains investi-
+gative information requiring protection against unauthorized disclosure.
+PENDING
+Declassification Authority: NND 923007

@@ -1,0 +1,41 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T22:53:31Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9562383, "source_ctime_ns": 1793362457586459531, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330782837/45484701-002-006-0149.jpg", "source_mtime_ns": 1785684703000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330782837/45484701-002-006-0149.jpg", "source_sha256": "006ceca653b121f63ec6a505ff195ddf10a776ca8badce643ba3fd3d20aea297"}
+
+===== PAGE 1 =====
+{"alpha_words": 206, "chars": 1273, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DENTAL
+FEDERAL BUREAU OF INVESTIOATION
+UNITED STATES DEPARTHENT OF JUSTICE
+P.O. Box. 306
+Montana
+Batte, 11, 1949
+July
+Officer in Charge
+Office of Special
+Investigation
+United States Air
+Corps
+H111 Field, Utah
+Dear Sir:
+The followin
+news item appeared in the Idaho Daily Statesman,
+newspaper of Bolse, Idaho, under date of July 6, 1949:
+"Object in Sky Attracts Attention of Boiseangi
+"A woman who two years ago said she saw a 'flying dise!,
+shortly after they were first reported, Tuesday said she
+spotted another of the mysterious objects north of Boise.
+Bix other a delta noted the bet for siren sitely 30 min-
+utes.
+#The group was on Rim View Drive near Mile Bigh north of
+Boise where the object was seen speeding in a northeasterly
+direction at high speed and at a high altitude,
+#Mrs. Commons said they watched it follow the same direc~
+sion for a few minutes, suddenly begin to maneuver and then
+burn and speed due north.
+"We saw what looked like puffs of smoke come from the disc,'
+the woman said.
+This disc appeared to be more 'elongated! than
+the disc which Mrs. Commons said she saw two years ago near Home-
+dale.
+#It was on June 2h, 1947, that Kenneth Arnold of Boise star-
+tled the nation with his reports of flying discs.
+Declassification Authority: NND 923007

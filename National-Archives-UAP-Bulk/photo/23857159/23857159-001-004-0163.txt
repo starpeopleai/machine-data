@@ -1,0 +1,68 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T22:57:40Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 16153526, "source_ctime_ns": 1793361149296869170, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-004-0163.tif", "source_mtime_ns": 1785565245000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-004-0163.tif", "source_sha256": "ac82c9eee6221665b90686ac72a0335a922876fe3c3069f02e2d039d33c560e2"}
+
+===== PAGE 1 =====
+{"alpha_words": 199, "chars": 1520, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UNCLASSIFIED
+Japan
+_IR 652-58Ś
+AIR INTELLIGENCE INFORMATION REPORT
+COUNTRY OR AREA REPORT CONCERNS
+DATE OF INFORMATION
+Japan, Central Honshu
+- Jan 2i
+ACTIVITY SUBMIITING REPORT
+DATE OF COLLECTION
+1161152
+SRI STATUS (If applicable)
+SRI NO.
+6004th Air Intel Sv Sq
+PREPARING INDIVIDUAL
+8 Jan 58
+DATE OF REPORT
+CANCELED/COMPLET
+SRI NO.
+ANTHONY M. PEREIRA, Capt. USAF
+NAME OR DESCRIPTION OF SOURCE
+L Feb 58
+EVALUATION
+SRI NO.
+ACTIV
+ADUIITONAL
+N ON (Date)
+USAF Personnel
+B-6
+REFERENCES (BAIR Subject, previous repor
+, etc., as applicable)
+BAIR 460T
+6004th AISS IP 653-58
+SUBJECT (Descriptive title. Use individual reports for separate subjects)
+UNIDENTIFIED FLYING OBJECTS (UFOB)
+This report contains information concerning the sighting of an
+unidentified flying object at TACHIKAWA AB and YOKOTA Ab on 2. Jan 58.
+APPROVED:
+FRANK L. DUNN
+Colonel,
+USAF
+COMPR, 6002nd A1S0
+391 - 621 132.20
+Kg (5 hob)
+INCLS
+2125:34-2
+1. ATIC Form 164
+2.
+ATIC Form 16L
+ATIC Form 164
+ATIC Form 164
+5. ATIC Form 164
+DISTRIBUTION BY ORIGINATOR (Except USAF and file. Indicate Dupl M/oz and copies w/o inclosu
+ACS/IPACAF 2cys; COMMAVFOR-J ley; CINCPAC lcу; FICPAC lcy; AFCIN-Д lcy.
+(Incis 1 thru 5 to AC#/I USAF gnly.)
+WARNING: This document contains information affecting the national defense o
+Espionage Laws, Title 18, U.S.C., Section 793 and 794. Its transmission
+an unauthorized person is prohibited by law.
+AF 15 SEP 54 112 REPLACES AF FORM 112. 1 OCT 52. WHICH MAY BE USED
+UNCLASSIFIED
+CLASSIFICATION
+315475
+DECLASSIFIED
+Authority NND 9237007

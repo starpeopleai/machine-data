@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T22:57:36Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 16118338, "source_ctime_ns": 1793360987534356888, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-003-0299.tif", "source_mtime_ns": 1785565166000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-003-0299.tif", "source_sha256": "8d25254329750ecb11e1703607b6cfd8795ca56abd159e6d744a10b42e592103"}
+
+===== PAGE 1 =====
+{"alpha_words": 66, "chars": 510, "method": "ocr", "page": 1, "variant": "plain-vision"}
+HEADQUARTERS, TWELFTH AIR FORCE
+United States Air Force
+OFFICE OF THE ASSISTANT CHIEF OF STAFF,
+INTELLIGENCE
+TECHNICAL CHANNEL COMMUNICATION
+APO 12, USAF
+12ITD
+SUBJECT:
+Submission of Report
+TO :
+Director of Intelligence
+Headquarters, USAL
+Washington 2), D.C.
+Inclosed report is submitted in accordance with AFR 200-2,
+12 August 1954.
+FOR THE ASSISTANT CHIEF OF STAFF, INTELLIGENCE
+1 Inel
+Air Intel
+Info Rept
+Tp: Ramstein 7468
+HENRY C. SIMMONS
+It Colonel USAF
+Ass't Executive
+DECLASSIFIED
+Authority NND 9237007

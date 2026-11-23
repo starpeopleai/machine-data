@@ -1,0 +1,19 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T22:54:37Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9910295, "source_ctime_ns": 1793387536834732586, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28998818/0804.jpg", "source_mtime_ns": 1785747976000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28998818/0804.jpg", "source_sha256": "31e4fb8658d6c240e2be89c1c21c42767227d3ad379f0dca0a1dad1f7c7bc79f"}
+
+===== PAGE 1 =====
+{"alpha_words": 73, "chars": 467, "method": "ocr", "page": 1, "variant": "plain-vision"}
+18 Angust 17 60 2
+Srg! Brow
+AF Conmand Poct, Pentagon
+Ext. 339
+1225 Zulu today
+Mir.
+works For Boving of New Orleans
+Location:
+Highvay 80, 25 Mi W of Los Crisis New Mexico
+Observed a UFO which vas flat, black in color, round with a done in
+the center and with vertical fins around the outaide edge.
+law no
+lights, nor heard no sound.
+Altitide: estimated 300 to 500 feet: 1/8 mile of? highvar
+noved Test and disappeared while climbing rapidly at a great rate of speed.

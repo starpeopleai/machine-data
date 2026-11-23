@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T22:43:54Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 16433086, "source_ctime_ns": 1793355603887475874, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0042.jpg", "source_mtime_ns": 1785564487000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0042.jpg", "source_sha256": "a4f46590754683d8958286d24dcb0a8a08af785aa79fa60713421e481a5dacc1"}
+
+===== PAGE 1 =====
+{"alpha_words": 281, "chars": 1857, "method": "ocr", "page": 1, "variant": "plain-vision"}
+70
+5. COLD BRITTLENESS
+The final item to be mentioned has been a preliminary evaluation of the Society
+of Plastics Industry Cold Brittleness Tester (ASTM D1790-62). American Society
+for Testing and Materials advises in the 1962 revision that the tester was developed
+for use with pigmented vinyl, and that its effectiveness with other films must be
+determined by the user. Figure 9 pictures this tester in our environmental chamber.
+In the test, specimens 2 x 5-3/4 inches are formed into loops and stapled to cards.
+The hammer/ anvil tester, proper, was purchased from U.S. Testing, but the rotat-
+ing, indexing disc--as well as the means for remotely elevating the hammer and
+initiating its fall--was designed and constructed by Litton. This modification pro-
+vides a convenient means of testing ten specimens without necessity of opening the
+box. Several different polyethylenes have been tested at temperatures as low as
+-95°C without eliciting brittleness. We have found the unit very discriminating with
+vinyl, for example, all good at -35°C; all bad at -40°C, and mixed results at -37°C.
+The fact that the first unit purchased would not operate in the cold and the replace-
+ment unit bound up before -68°C was reached provided some tip-off that routine
+usage of this tester must not be in the temperature range of interest for balloons.
+While we have a few more ideas as to how we may obtain useful information with
+this equipment, we believe that it is almost hopeless.
+6. SUMMARY
+A brief review of preliminary studies on polyethylene has been presented.
+This work is a part of a larger program designed to find the optimal materials for
+the fabrication of balloons and to accumulate information which will enable most
+intelligent use of that material for the application.
+Figure 9. Device for Conduct of Cold Brittleness Temperature Determinations

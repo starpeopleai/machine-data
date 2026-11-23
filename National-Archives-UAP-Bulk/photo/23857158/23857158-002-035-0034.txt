@@ -1,0 +1,44 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T22:23:32Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 13503734, "source_ctime_ns": 1793358464628946883, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-002-035-0034.tif", "source_mtime_ns": 1785681099000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-002-035-0034.tif", "source_sha256": "a84e35e1769c126a2845056ef3a8d84af4db8a1b3eec879478e85c554f3c55f1"}
+
+===== PAGE 1 =====
+{"alpha_words": 143, "chars": 876, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+-8 $3 3TP
+COM IN PLS
+THIS IS AISS GA PLS
+DO U WANT THIS ONE AS NR 9 OR NR Ø1
+SEND IT AS NR 0Ø9 PLSKZ
+ARIVAN FOR CENTRAL FILES
+AISCR
+AISDC
+A:SAJ
+AISAD
+AISPR
+SAISDO
+soc
+15010
+AISCA
+ADON
+ARDAS
+1/00r.
+O Cx
+FILE
+ORs
+3ТР 2Ø9Р
+ENA218
+TYD21ø
+JEPM. 073
+RR JEDEN
+ф9/2315
+DE JEPME 60
+R 0918002
+FM COMDR 4709TH ADI MCGUIRE AFB TRENTON NJ
+. TO COMDR 46Ø2D AISS ENT AFB COLO SPRINGS COLO
+/UNCLASSIFIED/ 4729ADW 9190 AIS3H PD REF UR IT MSG AISOP 1721 CMM DTD
+8 DEC 54 CMM ATTN CLN MAJ DEBRULER PD INVESTIGATION COMPL PD NO WRITTEN
+ORDERS WILL BE NEC SINCE TRIP WAS COMPL WITHIN 7 HRS PD DUE O FACT HQ
+MSG 1720 AND 1721 WERE SEN ROUTINE INSTEAD PRIORITY ACFT WAS SIND 1 HR
+SKED TAKE-OFF PD CAPT HANSON TALKED TO. BOTH MARINE OBSRS WHO
+COMP FORMS A PD-WEA DATA WAS OBTAINED FROM DEDNTON, OZRFOLK AND
+LANGLEY AFB PD (FORM 112 FOL PD END
+09/2035Z DEC JERME

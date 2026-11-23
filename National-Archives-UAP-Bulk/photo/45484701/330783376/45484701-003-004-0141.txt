@@ -1,0 +1,43 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T22:42:08Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10501807, "source_ctime_ns": 1793362669735294541, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330783376/45484701-003-004-0141.jpg", "source_mtime_ns": 1785685009000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330783376/45484701-003-004-0141.jpg", "source_sha256": "158f888af43b1b1d97f215c79b3a602bbfc3213cb2e6153b2787961fdb6e7d42"}
+
+===== PAGE 1 =====
+{"alpha_words": 181, "chars": 1177, "method": "ocr", "page": 1, "variant": "plain-vision"}
+200 Washington St.
+Marietta, Ohio
+June 10, 1955
+To: President Fisenhover
+Edgar Hoover
+Chief
+Federal Bureau of Investigation
+U.S. Departnent of Justice
+Director
+Office of Special Invostigations
+The Inspector General
+Department of the Air Foree
+The Pentagon
+Gentlemen:
+The four of us ean take the attached hardboiled story of the
+saucere" as it actually happened to ne.
+All I can say is, help me to pull a "Garbo" with the press - so
+fer, so good -- not one chirp or hint has appeared, far as I can find out
+in papers and nagarines.
+I think a good citizen should also use what brains he has toward
+helping his country and partieularly the Department of the Air Force. I
+hope I shall always remain in that category.
+You gentlemen have permission to reproduce all or any part of my
+story where it will serve the purposes of the United States Government. I
+hope some of it will be useful, and that I may continue to serve my
+country in the future.
+Sincerely youre R x 24-185 - 415
+Nik
+Nick Riggs
+schment - iThe
+Invasion Of Flanet Earth".
+14|15/16
+24+185 - 4151
+UNITED STATES AIR FORC
+THE INSPECTOR GENERA!
+Ju: 13 0 8 4 8'55
+0F/7CE OF
+RATIONS.
+Declassification Authority: NND 923007

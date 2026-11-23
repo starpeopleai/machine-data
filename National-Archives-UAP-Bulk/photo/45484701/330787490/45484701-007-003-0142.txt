@@ -1,0 +1,52 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T22:54:51Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10923102, "source_ctime_ns": 1793364692646516117, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787490/45484701-007-003-0142.jpg", "source_mtime_ns": 1785684892000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787490/45484701-007-003-0142.jpg", "source_sha256": "2384fa61041219c0e485c0561a7728bdd3897e7d6b555e2912ac9a39bcd3c805"}
+
+===== PAGE 1 =====
+{"alpha_words": 135, "chars": 1098, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Wrth 22 Nov
+24-185-19
+(Unclassified) UNIDENTIFIED OBJECT, Observed directly overhead San Francisco,
+Calif, at approximately 0930 hrs, 3 Nov 50 - SPECIAL INOUIRY
+Documents & Dissemination Br, Directorate of
+Intelligence, DCS/O
+Counter Intelligence Division, Directorate or
+Special Investigations, The Inspector General
+2 4 NOV
+Maf Detvhler/o3m/71776.
+AFGSI
+Attached for your information is a letter from OSI District 19 concerning cap-
+tioned subject, dated 3 November 1950. No further action is contemplated unless so
+requested by your Directorate.
+1 Incl
+Ltr fr DO 19 dtd
+3 Nov 50, re abv
+subj
+OLEBERT R. LEVY
+Actg Chief, Counter Intelligence Div
+Directorate of Special Investigations
+The Inspector General
+UNCLASSIFIED
+When Incl No, ..
+attached,
+L.- is fare v..dram
+the alassification of
+be cancelled in accordance with
+par 350. AFR 205-1.
+AFCSI FILE COPY
+CLASSIFICATION CANCELLED 9O
+BY AUTHORITY OF THE DIRECTOR OF SPEC INV
+BY
+KURT K. KUNZE, Capt, USAF
+Historian
+1 6, DEC 1975
+DATE
+117. 18/79
+PROX 4 NOY 950
+CEMENT
+2ª
+UNCLASSIFIED
+·85
+USAP
+UPPL
+32×
+A11c0S
+Declassification Authority: NND 923007

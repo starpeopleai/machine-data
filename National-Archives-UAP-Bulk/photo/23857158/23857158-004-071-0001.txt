@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T22:22:03Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10963898, "source_ctime_ns": 1793358927898913732, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-071-0001.tif", "source_mtime_ns": 1785681266000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-071-0001.tif", "source_sha256": "4e6dce0cd36397cd9a67b4c60493f8963fa1ecb6af4b9a62ff734d863ded1398"}
+
+===== PAGE 1 =====
+{"alpha_words": 78, "chars": 548, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+4602D AISS UFOB LOG
+REPORT NO.
+AISS-UF OB-331-55Śś
+LOCATION OF STO
+DATE/TIME OF SICHTING
+24/0300Z Sep 55
+LYG
+RECD HQ 4602D
+25 Sep 55
+LOGGED BY
+Cedar Rapids, Toma
+MEANS RECD
+A/3C Deludder
+ACTION
+TT Mag
+INVES UNIT
+No inreatigation authorized
+DATE INVES ASSIGNED
+ASSIGNING OFFICER
+DATE IR RECD HQ
+DATE IR APPROVED
+I DATE IR TO ATIC
+17/A
+DATE OF FORM 5
+23 Sep 55
+·/A
+N/A
+COMMENTS
+Note observer's age, duration of sighting, and the buzzing noise
+of the object.
+CONCLUSIONS
+POSSIBLE AIRCRAFT
+AISOP FORM 7 (2 APR 55)

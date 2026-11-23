@@ -1,0 +1,13 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T22:41:58Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10439730, "source_ctime_ns": 1793364253844844096, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330786509/45484701-006-006-0339.jpg", "source_mtime_ns": 1785684602000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330786509/45484701-006-006-0339.jpg", "source_sha256": "553b57a271f216cef37265bfacdec633a0495bddb4000a60c17213295b89b41b"}
+
+===== PAGE 1 =====
+{"alpha_words": 39, "chars": 267, "method": "ocr", "page": 1, "variant": "plain-vision"}
+NFI
+UNDEVELOPED LEAD
+DISARICE OFFICE NO. L7, KIRTLAND APB
+AT WALKER AFB, NEW MEXICO
+Will attempt to locate persons who observed object described
+in this report.
+Object disappeared in the direction of Roswell
+and/or Fort Sumner.
+Declassification Authority: NND 923007

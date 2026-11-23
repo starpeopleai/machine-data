@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T22:41:19Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9912065, "source_ctime_ns": 1793383100548922611, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28986305/0094.jpg", "source_mtime_ns": 1785748188000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28986305/0094.jpg", "source_sha256": "9784724b323e261a538b42ccee086fae8ab7ac971707a2e83f7b7e2494f141ed"}
+
+===== PAGE 1 =====
+{"alpha_words": 83, "chars": 561, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE DIVISION
+UNCLASUIRED MAESSAGE
+INCOMING
+AF IN : 59361 (30 Mar 60)
+AGRION: CIN
+INFO : OOP, SAFS,
+H/wg
+OOP-СР, CIA, СИС, ARMY, NAVY, JCS, OSD, NSA
+SMDB126
+CZCHQC916ZCQJB865
+"•• •'YY RJEZHQ
+DE RJWZA· 2
+FM M18039/AFI2
+TO RFENVB/CANAIRDEF
+ROWNC/C ANFLA SPAC
+RBWPPC/C OMWESTSEAFRON
+RJWF AL B/C INCN ORAD
+RJWZSB/C OMDR 28TH ADIV
+RJEZHQ/C OFS USAF
+AF GRNC
+EMERGENCY
+/CIRVIS/ SIGHIED VERY BRIGHT OBJECT APROX 380 MILES SOUTH WEST OF
+HIKAM COLOR BLUE AND GREEN
+30/0845Z MAR RJWZAW
+NOTE: Advance copies delivered to OOP-CP and CTN

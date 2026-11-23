@@ -1,0 +1,52 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T22:52:31Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9295072, "source_ctime_ns": 1793362362508762776, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330782695/45484701-002-005-0099.jpg", "source_mtime_ns": 1785684773000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330782695/45484701-002-005-0099.jpg", "source_sha256": "b7addaafdb063cd94673bd770ae7a0b82ccd9c055c3ec256371976db5bde7458"}
+
+===== PAGE 1 =====
+{"alpha_words": 137, "chars": 971, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DOTALLO S
+AT MOITCOMBRY, ALABAMA
+On 8 July 1969, Mre, SARA NONLIN, Quartere 602-0, Gunter AFB,
+wife of It. D. H. HOWLIN,
+stated that she sighted flying saucers on
+18 June 1940. WORLIN supplied the following detaile:
+Date of observation
+18 June 1949, 1700 hours
+Place of observation
+Approxinately one mile from
+Montgomery, Alabama, city
+limits enroute to Gunter AFS,
+Alabama
+Position of observer
+In automobile while driving
+to Gunter AFB, Alabama
+Other witnesses
+Photographs or sketches of objects
+Number of objects
+Shape of objects
+Sise
+Color
+Speed
+Heading
+Maneuverability
+Altitude
+Souna
+Exhaust
+Position
+None
+20 to 25
+Saucerlike
+Appeared to be sise of
+dinner plate
+Aluminum
+Slower than airplane
+No particular direction.
+Appeared to be bubbling up
+and down around and into large
+thunder head
+Extremely maneuverable
+Over 500 feet. Operating in
+and out of thuderhead.
+None
+Hone
+Over Cunter AFE, Alabama,
+about two miles from observer
+Declassification Authority: NND 923007

@@ -1,0 +1,12 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T22:26:02Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 17877120, "source_ctime_ns": 1793356589436114409, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0205.tif", "source_mtime_ns": 1785564727000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0205.tif", "source_sha256": "1432ed4662e042e1b8efdd0cd6ae28f07cc1c4c451ee46c6302f8018088fd418"}
+
+===== PAGE 1 =====
+{"alpha_words": 74, "chars": 469, "method": "ocr", "page": 1, "variant": "plain-vision"}
+incident #ôc -- Boise, Idaho -- date unknown (probauly November 1947)
+Very little can be said of this incident, inasmuch as the
+date and exact time of observation, speed, altitude and size of
+soject, and length of time in sight are not stated. The speed and
+Eine in sight are particularly important in forming a Judguent.
+In the absence of this information, the most that oan be said is
+that the object might have been a fireball.
+Declassification Authority: NND 57565

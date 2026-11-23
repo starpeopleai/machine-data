@@ -1,0 +1,143 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T22:22:50Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 13099123, "source_ctime_ns": 1793355327081531743, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989265-001-0028.jpg", "source_mtime_ns": 1785564435000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989265-001-0028.jpg", "source_sha256": "bf4e46d3350727c73142a1014594991d8c8725972da5f850b6f50d1ef4c9899d"}
+
+===== PAGE 1 =====
+{"alpha_words": 836, "chars": 5716, "method": "ocr", "page": 1, "variant": "plain-vision"}
+anemometer was suspended beneath it. Test
+flights during 1970 proved the feasibility of
+this design.
+POBAL, or powered balloon, was an U.S.
+Air Force program started in 1969 under a
+contract with Goodyear to test out the sta-
+tionkeeping capability of a powered balloon
+remotely controlled at high altitudes. Both
+streamlined and natural-shaped designs
+were looked into, configured with reciprocat-
+ing engines, turbines and electric motors as
+candidates for possible power supply and
+with fuel cells, solar cells and batteries as
+possible power sources. As conceived, this
+powered polyethylene balloon was larger,
+heavier and more powerful than High Plat-
+form I. In September 1972, POBAL carried
+a 4,000-pound payload to 60,000 feet. In this
+particular configuration, 2,000 pounds were
+taken up by silver-zinc batteries that
+powered an electric motor which in turn
+drove a 35-toot helicopter rotor at 200 rpm.
+A rudder located in the slipstream of the
+propeller controlled the direction of the
+motor thrust.
+Another POBAL design, this one devel-
+oped by Raven Industries, used fuel cells
+rather than batteries and was launched tail
+first using a tow balloon and crane. It was a
+system obviously designed for comparing
+operational data with the Goodyear design.
+One military-applied design by Schjel-
+dahl Company made use of two 3 hp McCul-
+loch chainsaw motors for its propulsion.
+These were later replaced with battery
+powered electric motors, attaining a max-
+imum flight speed of 12 knots. Steering was
+accomplished by varying the speed of either
+outboard engine. The name of the project
+was Silent Joe I. In a follow-up project, call-
+ed Silent Joe II, a propulsion unit was added
+to the stern of the craft consisting of a pro-
+peller driven by a hydraulic motor. These
+devices were used over Southeast Asia.
+With remotely controlled flight path, these
+little drones carried microphones and a radio
+transreceiver, and were capable of detecting
+enemy truck convoys and troop movements
+with radar. Nine flights were reported in
+1968 and '69.
+Microblimp was yet another powered
+type. Built by Raven Industries, this vehicle
+had a class C-shaped hull and a fineness
+ratio of 3:1. The craft had a cruising altitude
+of 5,000 feet and a cruise speed of 30 knots.
+Microblimp's power came from a stern-
+mounted 4 hp Wankel engine driving an
+eight-foot diameter, molded polyurethane,
+three-bladed propeller. Directional control
+was achieved by gimbaling the engine-pro-
+peler assembly. Heading and pitch control
+were maintained by an autopilot. Radio-con-
+trolled, the Microblimp had a range of 5
+miles and completed many flights.
+High Platform III had a volume of
+600,000 cubic feet and a fineness ratio of 5:1.
+This super-pressure balloon was designed
+for constant-level operations at an altitude
+of 85,000 feet. Completed in August 1971, it
+had some very interesting features such as
+fins pressurized by a small air compressor.
+Power to the motor was supplied by a solar
+array capable of providing an airspeed of 15
+knots continuously, 24 hours a day, for four
+months.
+Another comparable design completed
+in 1973 was the High Altitude Station Keep-
+ing Vehicle. Its mission was much the same
+as that for the High Platform III balloon.
+The High Altitude Powered Platform
+(HAPP) was a concept for a remotely con-
+trolled, long-endurance platform combining
+the characteristics of zero-pressure and
+super-pressure balloons with those of an air-
+ship. A U.S. Navy project toward realizing
+this concept was the High Altitude Super-
+pressure Powered Aerostat (HASPA). The
+mission of HASPA was to develop a sur-
+veillance vehicle capable of flying a 200-
+pound payload at an altitude of 70,000 feet
+for periods up to 30 days. On-board power
+was derived from several different sources;
+solar photo voltaic cells, fuel cells and bat-
+teries. Two electric motors produced 5 hp for
+driving the stern propeller. Launched in a
+limp state, the balloon filled as it rose and
+its helium expanded.
+Enough commercial and military in-
+terest was shown for powered balloons that
+Raven Industries in 1974 embarked on the
+development of a manned, thermal, lighter-
+than-air craft. STAR (Small Thermal Air-
+ship) was the result. It was an aerodynamic-
+ally-shaped, powered, hot air balloon. By
+January 1975, it had completed its maiden
+voyage. The 140,000-cubic-foot STAR had a
+speed of 25 mph, a duration of three hours
+and a useful lift of 500 pounds.
+The STAR balloon used hot air generat-
+ed by an on-board propane burner. By regu-
+lating the use of its burner, altitude control
+was achieved; thus the burner was its buoy-
+ancy medium. A 65 hp fan kept the airship
+pressurized. Its service ceiling was 4,000
+feet and its gross load was 2,030 pounds, in-
+cluding 78 gallons of propane. The payload
+was 100 pounds.
+The STAR could be transported on a
+medium truck to any take-off site where the
+primary assembly work involved attaching
+the gondola to the balloon. Deflation was
+achieved through the use of a pull-out panel
+just as used on present-day hot air balloons.
+Remotely controlled low altitude aerostat. Built to demon-
+strate several design concepts.
+(Raven Industries)
+The Starship Enterprise became operational in 1975 as a
+manned, thermal lighter-than-air craft. (Raven Industries)
+Inflataplane package, laid out for inflation and completely
+assembled and inflated. Research ordered by the Office of
+Naval Research and built by Goodyear Aerospace.
+(Goodyear Photo)
+A 50-foot long Rogallo paraglider model with inflated fabric
+tubes is being towed to altitude for tests. The paraglider is
+released in free-flight glides to determine its flight behavior,
+load carrying capability, and landing characteristics.
+(NASA Photo)
+53
+52

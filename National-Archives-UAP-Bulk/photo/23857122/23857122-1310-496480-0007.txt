@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T22:28:11Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 110639412, "source_ctime_ns": 1793357221096507995, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1310-496480-0007.tif", "source_mtime_ns": 1785564856000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1310-496480-0007.tif", "source_sha256": "a020d914381170616891f0f1dbf3816b72510ccc1b60055ebb6b729de1887ff5"}
+
+===== PAGE 1 =====
+{"alpha_words": 40, "chars": 372, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AROOSTOOK (X10)
+EASTERN, CADIZ
+EASTERN
+CANADIAN-®c
+AIR
+INFORMATio
+DÉFENSE
+IDENTIFICA ION-
+EASTERN
+CANADIAN
+DANGER AREA ••
+BANGOR AIR
+DEFENSE
+IDÉNTIFICATION
+ZONE
+resTRiCTed
+SECURITY INFORMATION
+Declassification Authoritv: NND 57565
+AIR DEFENSE
+AROOSTOOK (X10)
+-IDENTIFICATION
+ZONE
+-KA
+22°W 66°K
+× HK
+A ROOSTOOK a.101
+CHIONAL AERONAUTIÇA, CHARY /96/8
+U.S. AIR FORCE EDITION

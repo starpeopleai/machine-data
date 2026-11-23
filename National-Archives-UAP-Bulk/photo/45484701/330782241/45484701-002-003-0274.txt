@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T22:40:07Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9540205, "source_ctime_ns": 1793362225956397441, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330782241/45484701-002-003-0274.jpg", "source_mtime_ns": 1785684728000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330782241/45484701-002-003-0274.jpg", "source_sha256": "3d38cb39b340ee84ea855d7700e1a114aab8b128a64dfe95a31e25b2fd916351"}
+
+===== PAGE 1 =====
+{"alpha_words": 41, "chars": 773, "method": "ocr", "page": 1, "variant": "plain-vision"}
+LORRY AIR FORCE BASE, DENVER, COLORADO, 20 AUGUST 1949
+1527H LET 70030 156/86/55-4/019 / / /6/
+16281 LRY 80030 156/86/34-4/019
+1724 I IRY 080080 159/85/85
+10/018 140° 605 2406 86 25048 ///9/
+140OM RAWIN
+LRY21 RAWIN 09006
+88019 08019 23224
+60504 8406
+80508 2007 08208 28215 48116 68019
+43228 65358 83244 05558 23228 45238
+STAPLETON AIRPIELD, DENVER, COLORADO, 20 AUGUST 1949
+1580M
+DEN 100 50 129/85/40 6/015/ CG DIST N THRU NE
+16800M DEN ‚'100050 125/86/40 6/015/ 160- CB DIST E
+PB 82 201600E 00405 60405 0304 80204 5404 03205 23110 43015 63016
+88016 03214
+55439 03247 55050
+BUCKLEY NAVEL AIR STATION, DENVER, COLORADO, 20 AUGUST 1949
+15301 BUY 80 15+ 140/82/41 5/016
+1680M BUY 80 15+ 140/82/41 6/016
+1730M BUY 80015+ 140/82/41 10/016
+Declassification Authority: NND 923007

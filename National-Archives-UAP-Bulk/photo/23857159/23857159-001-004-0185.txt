@@ -1,0 +1,24 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T22:27:32Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 23929608, "source_ctime_ns": 1793361175318905166, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-004-0185.tif", "source_mtime_ns": 1785565252000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-004-0185.tif", "source_sha256": "dc817980533d79af2b05476bcb498ca3b1d24f80ff0ddeadbbcb27264a472864"}
+
+===== PAGE 1 =====
+{"alpha_words": 93, "chars": 570, "method": "ocr", "page": 1, "variant": "plain-vision"}
+POOR ORIGINAL
+161 foll la a few sorde the following things about the object,
+I. Boud LOLF
+b. color
+17, Draw a pigture that will show the shape of the object or objects. Label and
+include in your sketch any details of the of trot that you son sach as wings,
+protrusions, etc.,
+and especially exhaust trails or vapor trails. Place an
+irrow beside the drawing to show the direction the object was moving.
+18. The adges of the object
+(O1role One) / Cr Pussy or blurred
+bright star
+outlined
+Otber
+Ject, than hov
+arranged, and pu
+NIA
+116112
+DECLASSIFIED
+Authority NND 9237007

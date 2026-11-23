@@ -1,0 +1,88 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T22:45:50Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 21620144, "source_ctime_ns": 1793361339141096425, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-005-0028.tif", "source_mtime_ns": 1785565320000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-005-0028.tif", "source_sha256": "3261c7df956955700036218c04e9985703e60159eed6344fb681b3e7cf50e95d"}
+
+===== PAGE 1 =====
+{"alpha_words": 299, "chars": 2089, "method": "ocr", "page": 1, "variant": "plain-vision"}
+COUNTRY OF
+REPORT NO
+Hong Kong, BCC
+1409250
+AIR INTELLIGENCE INFORMATION REPORT
+COUNTRY OR AREA
+DATE OF
+Communist China
+(Leave blank)
+379005
+ACTIVITY SUBMITTING REFORE
+DATE
+SRI
+STATUS (If applicable)
+SRI NO.
+USAirLO Hong Kong
+PREPARING INDIVIDUAL
+H.E. Kofahl, Colonel, USAF
+Air Liaison Officer
+NAME OR DESCRIPTION OF SOURCE
+Feb
+60
+DATE OF REPORT
+8
+EVALUATION
+60
+PRI 22 & 24
+IONAL INFORMATION ON (Date)
+Overt Int Report
+REFERENCES (BAIR Subject, previous reports, etc
+as applicable)
+AIRG:
+SUBJECT (De
+460 and IRS 1409211 and 1409234
+rate subjects)
+Unidentified Flying Object in Kuldja Area
+SUMMARY (Give summary which highlights the salient factors of nar
+unless report can be fully stated on AF Form 112. List inclosure
+Begin narrative text on AF Form 112a
+Transmitted herewith is Overt Intelligence Report 3086 which furnishes inform-
+ation on an unidentified object sighted over Kuldja in July.
+Two previous re-
+ports 140921l and 1409234 correlate this event.
+This report also mentions
+the
+appearance of nocturnal flashes seen at night rising from the airfield at
+Kuldja. The flashes were not fireworks, but resembled small red balls (in March
+and or April) which formed upon reaching a certain height,
+then disappeared.
+In September and/or October of 1959 two large flashes had
+sembled a huge reddish cloud-like mushroom.
+No explosions had been heard on
+either occasion.
+ACTIVE
+Colonel
+USAF
+Air Liaison Officer
+DOWNGRADED AT 12 YEAR INTERVALS;
+NOT AUTOMATICALLY DECLASSIFIED
+DOD DIR. 5200.10
+INCLS
+1. Rpt 3086 (cys 59 & 60) Ac
+(Cy fuck
+Iled i AFCIN- 303)
+Classifica
+una
+ve on
+under the authority
+by
+NOFORN EXCEPT: U. K.
+DISTRIBUTION BY ORIGINATOR (Except USAF and file. Indicate Dup. M/oz and copies
+Dup Oz Master to 6499th SupGp, w/1 cy of incl 1
+13th AF w/1 ey of inel 1
+WARNING: This document contains information affecting the national defense of th
+Espionage Laws, Title 18, U.S.C., Section 793 and 794. IN transmission or the
+an unauthorized person is prohibited by law.
+FORM
+AF 15 SEP 54 112 REPLACES AF FORM 112.
+1 OCT 52
+1409250
+DECLASSIFIED
+Authority NND 9237007
+ed to
+of the

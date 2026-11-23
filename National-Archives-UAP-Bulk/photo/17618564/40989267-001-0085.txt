@@ -1,0 +1,82 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T22:30:36Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 14839537, "source_ctime_ns": 1793355502470234505, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0085.jpg", "source_mtime_ns": 1785564466000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0085.jpg", "source_sha256": "d603a6e7706fc818ac6ca4288087cd71b345dde4776529df5f5bc60e78cae6c9"}
+
+===== PAGE 1 =====
+{"alpha_words": 954, "chars": 5838, "method": "ocr", "page": 1, "variant": "plain-vision"}
+160
+First, then, we must see whether the arguments in favor of man in space have
+validity when applied to balloon astronomy. Let us, therefore, examine what the
+arguments for man in space are, and let us next examine what balloon astronomy
+is and then make a critical appraisal of the advantages and disadvantages of the
+presence of an astronomer in a balloon astronomy operation.
+There are many arguments given for placing man into space in order to land
+on the moon and, eventually, to go on to the physical exploration of the planets.
+It would, of course, seem at the start that the majority of these arguments must
+be valid in their own context solely from the budgetary support for such a program.
+Isn't it unthinkable that billions of dollars would be committed by this country by
+responsible officers of the government advised by many equally responsible senior
+scientists, to a "moondoggle'? In the August, 1963, issue of ATLANTIC, Robert
+Jastrow and Homer Newell, both top scientific leaders in NASA, state some of the
+man-in-space arguments in their article "Why Land on the Moon?'. They defend
+the expenditures for man in space ably. "Some scientists feel", they write, "that
+most facts of scientific interest about the moon and planets can be learned by
+remote control instruments alone, at less cost than manned operations. An
+editorial in SCIENCE estimates that robot instrument landings will see us through
+all the important phases of the lunar exploration program at 1% of the cost of the
+Manned Space Budget. Actually, an inspection of the NASA budget indicates that
+the Surveyor Project for unmanned lunar landings is more nearly 10% of the cost
+of the Apollo Project including the development costs in each program. On a per-
+flight basis in the long range continuing programs, the cost ratio is 16%. When
+allowance is made for the increased chance of success in the mission which re-
+sults from plugging man into the control system, the comparison of costs is still
+more favorable to manned operations". I pause to remark that if this is true for
+the Man in Space effort, it is even more so in the case of Manned Balloons. If
+balloon astronomy is to become an accepted technique in astronomy, as is today
+the use of radio telescopes and coronagraphs, for instance, then man in the system
+will reduce costs - not increase them - in the long run. Jastrow and Newell go on
+to say, "But a comparison of costs is not the only issue. The question is, will a
+robot instrument do everything that a man can do?" "The answer'', they say, "'is
+that in early stages the simplest observations can be made by remote control. In
+later stages when more difficult experiments are attempted for answers to the
+important questions, the trained human observer brings to the supervision of these
+experiments the ability to deal with unforeseen difficulties and to respond to un-
+anticipated opportunities. The automatic instruments in this advanced stage of the
+161
+program must be designed with great complexity and a heavy price in reliability in
+cost and development to achieve even the crude imitation of sophistication and flexi-
+bility. The balance of cost and reliability then tips in favor of the human participant,
+expensive though it is to bring him to the scene."
+Saying that these arguments would not apply to balloon astronomy simply reflects
+lack of knowledge of the true nature of balloon astronomy. If in balloon astronomy
+we were asking for simple experiments and simple observations, the case for in-
+strumented balloons would be strong - as it is in the relatively simple type of
+balloon experiments in cosmic ray, sky brightness, and air sample studies.
+There
+are indeed a great many scientific observations of various types that can be made
+from balloons in which the presence of a man is just not needed. He is not needed
+for basically uncomplicated or elementary experiments, but the only thing that is
+"elementary" about balloon astronomy is the vehicle. And this is elementary only
+in the sense that we are still at the beginning stages of knowing how to use the
+balloon vehicle as an appropriate booster. Having been painfully involved as an
+intimately interested observer at some balloon launchings, I can attest to the fact
+that watching those procedures was a poignant reminder that we have much more
+to learn.
+Balloon astronomy calls for sophisticated rather than simple experiments and
+observations.
+To defend this I think it is necessary for us to take a look at what
+the astronomer does as part of his regular duties at an earth-based observatory.
+Perhaps I should interject here that I will take it for granted that in this
+audience no time need by spent extolling the virtues of meta-atmospheric ob-
+servations, observations made from above all, or most all, of the earth's
+atmosphere. From a scientific viewpoint, the atmosphere is the astronomer's
+greatest enemy. There is no contesting that point. The only point under discussion
+here is, what are the objectives of balloon astronomy, as distinct from scientific
+ballooning in general, that can best be accomplished in the long run by placing the
+astronomer aloft with the balloon. For this, as I said, it is necessary to have an
+understanding of what the astronomer's problem on earth is. For unless we
+understand precisely what it is he does on earth it is meaningless to discuss
+whether he, or an instrument should do these things at 80, 000 feet.
+At the risk of being elementary, let me point out that an astronomer generally
+works in an observatory dome in an atmospheric environment which is at equili-
+brium with that outside the dome. The raw material the astronomer uses, namely
+the incoming radiation, is gathered by a suitable instrument, and presented to the
+astronomer for his use. Depending on his particular program, and he usually has

@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T22:58:04Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 17276516, "source_ctime_ns": 1793361300498325541, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-004-0315.tif", "source_mtime_ns": 1785565276000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-004-0315.tif", "source_sha256": "1c6bda87e5259492cbb9eef83d333476bc1318e6562a7abd3bc60c9314040a9e"}
+
+===== PAGE 1 =====
+{"alpha_words": 238, "chars": 1514, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Ante el presente caso, el 0,I.0.V.I. se limita a proporaloner la
+recopilación de los datos obtenidos,ya que en esta oportunidad nos encon-
+tramos frente a un fenómeno exclusivo, nuevo, sin antecedentes; sobre el
+que no podrenos pronunciarnos en forme definitiva hasta no obtener más
+datos o la repetición del fenômeno,-
+Creemos necesario, no obatanto, destacar:
+1) que todos los datos contenidos en las Piches de Observación que
+adjuntamos coineiden en lo fundamental.-
+2) que algunos observadores destacan que la trayectoria del obje-
+to estudiado siguió una línea curva cofneidente con la de la bóveda ce-
+leste.-
+3) que un elemento curieso, que nos llana profundamente la aten-
+ción, es que todos los obserradores están de acuerdo en que el tamaño del
+foco luminoso no cambió a lo largo de la observación (que fué casi de ho-
+rizonte a horizonte). Esto sería característica de un objeto que se tras-
+ladara en el espacio exterior. No daría idea de ello, ain embargo, (y ho
+equí lo más curiosu), que los observadores situados en Monterideo señalan
+que pasó por el Conit, mientras que los de Pando indican que pasó "aparen-
+temente sobre Montevideo". La observación de un objeto en transito por el
+espacio exterior (dada su enorme altura) no daría lugar a esa disorepan-
+cia en observadores situados relativae nte cerca (Monterideo Pando).-
+4) que con respecto a la intermitencia de la lus podría traterse
+de un foco luminoso ubicado sobre un cuerpo que girera sobre si misno.-
+DECLASSIFIED
+Authority NND 9237007

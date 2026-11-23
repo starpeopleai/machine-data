@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T22:23:06Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 13415591, "source_ctime_ns": 1793355500664131079, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0083.jpg", "source_mtime_ns": 1785564466000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0083.jpg", "source_sha256": "f43ab17db73a7b86cae9d37d5959ae0a31d1d5d98339e73204987f8e810b994d"}
+
+===== PAGE 1 =====
+{"alpha_words": 221, "chars": 1410, "method": "ocr", "page": 1, "variant": "plain-vision"}
+XI The Case for Manned Balloon Astronomy
+J. Allen Hynek
+Dearborn Observatory
+Northwestern University
+Abstract
+The merits of manned balloons are set forth in terms of the ultimate objectives
+of astronomy. For balloon astronomy to develop into a standard technique applicable
+to a host of astronomical problems (rather than to have one or two special balloon
+flights mounted for the execution of one or two specific narrow tasks) calls for an
+observatory carried routinely to altitude. An astronomer can then perform the
+same tasks he performs in an earth-based observatory dome: exercising on-line
+judgment, performing a series of observations at will, checking instrument calibra-
+tions, and providing final image stabilization. He does the latter not by attempting
+to move the entire telescope mass, but by rapid manual, eye-controlled motions.
+In this way it is possible for him to get sharp stellar images in an exposure of an
+hour or more.
+To provide this sort of stabilization for periods of an hour or so by
+unmanned means is formidable. An astronomer placed in a gondola built to astro-
+nomical specifications (not a left-over medical test box) in which the light from
+celestial objects is admitted directly into the cabin, can serve the cause of astronomy
+much more effectively over the long pull than would a long series of individual
+unmanned flights, each geared to one and only one experiment.
+157

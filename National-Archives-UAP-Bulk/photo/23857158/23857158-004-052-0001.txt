@@ -1,0 +1,41 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T22:49:28Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 13306098, "source_ctime_ns": 1793358843825960307, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-052-0001.tif", "source_mtime_ns": 1785681234000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-052-0001.tif", "source_sha256": "182467a001f5ef5c4c13657d8bb5790f51f38f76d6292ed31a52b393c8adbd03"}
+
+===== PAGE 1 =====
+{"alpha_words": 86, "chars": 645, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+4602D AISS UFOB LOG
+REPORT NO.
+DATE/PIE OF SIGHTING
+RECD HQ 4602D
+AISS-0708-288-55
+26/03102 August 1955
+26 August 1955
+LOCATION OF SIGHTING
+LOGGMD BY
+Chicago, Illinois
+A/1C DeRudder
+MEANS FOOD
+ACTION
+TT Mag
+No investigation Authorized
+INVES UNIT
+DATE INVES ASSIGNED
+ASSIGNING OFFICER
+3/A
+N/A
+N/A
+DATE IR RECD NQ
+DATE IR APPROVED
+I DATE IR TO ATIC
+N/A
+N/A
+1/A
+DATE OF FORM 5
+25 August 1955
+COMMENTS
+Conour with the opinion of the Preparing officer that the witness
+is not rellable, especially at the tine of the sightings
+CONCLUSIONS
+OTHER:
+Unreliable Witnesa (POssibly intoxicated.)
+AISOP FORM 7 (2 APR 55)

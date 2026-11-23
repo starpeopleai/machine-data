@@ -1,0 +1,80 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T22:31:44Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 18246188, "source_ctime_ns": 1793355719070219815, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0157.jpg", "source_mtime_ns": 1785564509000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0157.jpg", "source_sha256": "bfe8823b65ce07368e86d19598e5e9dbd8849741c49190fc1c281e8f99acb3bf"}
+
+===== PAGE 1 =====
+{"alpha_words": 38, "chars": 306, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+=
+5
+E
+O
+fa
+Oy
+”
+fa
+5
+Mn
+n
+fa
+oc
+Ay
+O
+BE
+”
+s)
+fe)
+)
+<
+Q
+a
+5
+<
+iC]
+=
+
+2
+
+1 dyne/cm
+
+So
+om
+t
+
+60,000 ft
+
+°
+i
+
+60,000 ft
+
+=)
+i
+
+70,000 ft Altitude
+
+°
+7
+
+(9p) TAATT AUNSSAUd OLLSNOOV
+
+10
+
+FREQUENCY (cps)
+
+Acoustic Background Noise Levels
+
+Figure 3.
+
+iy
+WHY
+YM
+Yiy
+
+Uy
+L
+
+-
+
+i
+y
+yy
+
+Double Probe Balloon Launch

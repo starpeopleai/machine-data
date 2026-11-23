@@ -1,0 +1,54 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T22:40:20Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9556859, "source_ctime_ns": 1793364754230189939, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787691/45484701-007-004-0044.jpg", "source_mtime_ns": 1785684926000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787691/45484701-007-004-0044.jpg", "source_sha256": "96698980b0736f5b02cca341c56866b933129dc2d742a55098c278991933415c"}
+
+===== PAGE 1 =====
+{"alpha_words": 472, "chars": 3157, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DETAILS:
+AT INGLEWOOD, CALIFORNIA
+1.
+The April 1949 Telephone Directory reflects that MELVIN 0. SHANKS,
+telephone number Orchard 1-1337, resides at 8616 Twelfth Avenue (not street),
+Ingiewood, California.
+2 0
+The most recent City Directory (1942) reflects that MELVIN C. SHANKS,
+wife BEATRICE, is a salesman who resides at 205 West 97th Street, Los Angeles,
+California.
+The following named individuals were interviewed concerning the
+honesty and reliability of Mr. MELVIN SHANKS: WILLIAM L. JENKINS, 8616 Twelfth
+Avenue, who purchased home from Mr. SHANKS, not having previously known him;
+Mrs. SPENCELEY, 8620 Twelfth Avenue, the next door neighbor who haa known the
+SHANKS family for approximately one year; a neighbor residing at 86.? Iwelren
+Avenue who did not desire that his name be used; and Mrs. FRANCES LEGG, 1016
+West Sist Street, Los Angeles, a former neighbor of the SHANKS family for
+approximately two years.
+From the above-named individuals the following information was devel-
+oped. Mr. SHANKS had resided at the Twelfth Avenue address for some five years
+prior to August 1949. He resided there with his wife, BEATRICE, who was employed
+at the THOMPSON CLASS COMPANY, Inglewood, California, and with his two sons
+approximately 17 and 14 years of age.
+Mr. SHANKS' last known employment was as
+a representative of Mr. FRED I. BRASSFIELD, distributor for HYVIS OIL PRODUCIS,
+1015-25 Mateo Street, Los Angeles, California. Mr. SHANKS and his family were
+know to be excellent neighbors whose statements were not doubted in any respect
+and who were regarded as being entirely sober, industrious and reliable in every
+respect.
+There was no indications that Mr. SHANKS had ever been in any diffi-
+culties with the law enforcement agencies and he was considered a model citizen
+of the community.
+It was learned also that Mr. SHANKS had a loan at the FIRST
+FEDERAL SAVINGS AND LOAN COMPANY, 451 North Bedford Drive, Beverly Hills, Cali-
+fornia, which had been made in connection with the purchase of his residence.
+This residence was sold about August 1949 by Mr. SHANKS, with the statement
+that he needed funds to open up a gasoline station at Napa, California.
+Inrough AT. STROM, OITIce manager, FIRST FEDERAL SAVINGS AND LOAI
+COMPANY, the following information was developed. In November 1945, Mr. SHANKS
+made application for a loan of $5,500 to be used in connection with the purchase
+of a residence at Inglewood, California. In his application he indicated that
+he was born 23 August 1907, no place. given; that he was then employed by HAMLIN
+NERNEY, 52nd and Vermont, Los Angeles, as a salesman in the FORD AUTOMOBILE
+AGENCY; that he formerly, for four and one-half years, was employed at CALIFORNIA
+SHIPBUILDERS CORPORATION; and prior to that time at the WESTERN AUTO SUPPLY COM-
+PANY, Los Angeles. His residence was shown as 205 West 97th Street, Los Angeles.
+He was married to BEATRICE SHANKS, whose income was approximately $140 per month.
+SHANKS, himself, had an income of approximately $2,500 a year, and had two children
+ll and 13 years of age. As personal reference he furnished the name of Mir. M.
+Declassification Authority: NND 923007

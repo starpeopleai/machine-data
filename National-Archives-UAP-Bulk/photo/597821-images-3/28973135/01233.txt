@@ -1,0 +1,57 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T22:39:04Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8653326, "source_ctime_ns": 1793379669734538388, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28973135/01233.jpg", "source_mtime_ns": 1785700963000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28973135/01233.jpg", "source_sha256": "31d284d8cd9a9b89144070871e630ff4c1931434f1500854557b0a12d06fb7fd"}
+
+===== PAGE 1 =====
+{"alpha_words": 120, "chars": 913, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD CARD
+2. LOCATION
+1. DATE
+5-10
+November 1957
+3. DATE-TIME GROUP
+Local.
+GM T
+06/0010Z
+5. PHOTOS
+R. Ground-Visual
+• Air Visual
+6. SOURCE
+• Yes
+9:No
+7. LENGTH OF OBSERVATION
+• hours
+1 to 3
+10. BRIEF SUMMARY OF SIGHTING
+Object was observed by all. Was
+described as ranging fm round to oval
+and fm bluish-white to red in color.
+However, he almost precise elevations,
+directions, and azimuths given of the
+objects position identified it.
+• Ground-Radar
+• Air-Intercept Radar
+9. COURSE
+12. CONCLUSIONS
+•
+Was Bailoon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+•
+Probabiy Aireratt
+Possibly Aireraft
+ax Was Astronomical Venus
+Probably Astronomical
+•
+Possibly Astronomical
+Other
+Insufficient Date for Evaluatio
+Unknown
+551
+11. COMMENTS
+Definitely the planet Venus,
+now so bright that both news-
+papers and Journals have
+commented
+on it ( See clipping in UFO
+case file).
+ATIC FORM 329 (REV 26 SEP 32)

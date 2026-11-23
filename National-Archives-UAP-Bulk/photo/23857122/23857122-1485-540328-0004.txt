@@ -1,0 +1,68 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T22:51:30Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 30181088, "source_ctime_ns": 1793357607136631310, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1485-540328-0004.tif", "source_mtime_ns": 1785564936000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1485-540328-0004.tif", "source_sha256": "6f25f6849213589b381a338e5666ddcb7ee75d2c8c80cc043aaaa9725ca5dfd0"}
+
+===== PAGE 1 =====
+{"alpha_words": 386, "chars": 2466, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AF FORM 112° PART II
+APPROVED 1 JUNE 1948
+FROM (Agency)
+CG 10th Air Div (Def) APO 942
+SECRET
+(CLASSIFICATION)
+AIR INTELLIGENCE INFORMATION REPORT
+REPORT NO.
+1OAD-2-53
+4
+SECRET
+SECURITY INFORMATION
+7
+PAGES
+STATEMENT
+I, James N. Burrus, Chief Airways Operations Specialist (Airport),
+residing at King Salmon, Alaska make the following statement.
+On 7 February 1953 at approx 0800Z I observed a light west of the
+CAA Control Tower located at King Salmón Airport, at which i was on duty.
+The light appeared when first noticed by me to be approx 20° elevation
+above the horizon.
+Having served 14 mos. at this airport I have never
+noticed a light at that position or elevation.
+Having no A/C in the
+vicinity at the time I made an attempt to notify radar operations at
+Naknek AFB, in order to do this I had to relay the message through the
+Fighter Det, stationed at King Salmon Airport. I obtained a pair of 6
+›ower Fiedd Glasses so that I might observe the light more closely.
+The
+Light appeared to be oval shaped and changing in color from a reddish
+orange to white.
+The frequency of change was not regular, one time the
+change would be very rapid ant the next very slow.
+I was unable to
+estimate the distance of
+the light.
+The position of the light remained
+stationary with a slight side movement.
+The oval wold become longer
+vertically and then return to a normal oval. There was no noticable
+change in width. When the light changed it was like a piece of metal
+eing made white hot, the white was very distinctive from the reddish
+orange. The size of
+the light looked approx, one foot in diameter.
+After a period of approx. ten minutes I turned away to answer a phone
+call and upon returning to observe the light I was unable to see any-
+thing where the light had been.
+The above is a voluntary statement and is true and correct to
+the best of my knowledge.
+/s/ James N. Burrus
+/t/ James N. Burrus
+King Salmon
+DECLASSIFIED
+о в нів тето
+31/28
+NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S. C.-
+31 AND 32, AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW.
+IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF
+INTELLIGENCE, USAF.
+SECRET
+SECRET
+SECURITY INFORMATION-
+(CLASSIFICATION)
+Declassification Authority: NND 57565

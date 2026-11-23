@@ -1,0 +1,74 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T22:49:05Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 11597728, "source_ctime_ns": 1793361381423181291, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-005-0074.tif", "source_mtime_ns": 1785565327000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-005-0074.tif", "source_sha256": "9a73fff3a416d2fd53f0a8e9642e13b0c4f42b785806fbbcd8fe027d472e9b6c"}
+
+===== PAGE 1 =====
+{"alpha_words": 220, "chars": 1563, "method": "ocr", "page": 1, "variant": "plain-vision"}
+pLon
+AIR INTELLIGENCE INFORMATION REPORT
+COUNTRY OR AREA REPORT CONCERNS
+DATE OF INFORMATION
+Alaska,
+USA
+6 Dec 59
+ACTIVITY SUEMITTING REPORT
+DATE OF COLLECTION
+121950šŘŚ
+SRI STATUS (If applicable)
+Headquarters, Alaskan Air Command
+PREPARING INDIVIDUAL
+7 Dec 59
+DATE OF REPORT
+SRI NO.
+CANCELED/COMPLETE
+SRI NO.
+Captain Thomas M. Conrow
+AN OR DS
+IPTION OF SOURCE
+CANCELED/ INCOMPLETE
+9 Dec 59
+EVALUATION
+SRI NO.
+ACTIVE
+ADDITIONAL INFORMATION ON (Date)
+REFERENCES (BAIR Subject
+B-1
+plicable)
+None
+SUBJECT (Descriptive title. Use individual reports for
+separate subjecta)
+Unusual phenomenon
+SUMMARY (Give sunmary which highlights
+unless report can be fully stated on AF Form 112.
+ve text on AF Form 112a
+At approximately 07/0630Z an intense blue flash was seen SW of Cold Bay, Alaska.
+(55°12'N 162°43'W). A short time later a shock wave was felt and/or heard by
+residents of the area.
+There was no
+immediate explanation of this phenomena:
+341-62A1322
+222
+2/25.42-6-2
+INCLS
+APPROVED:
+Williern 5 Kor
+WILLTAM E. ROSS
+Colonel,
+US AF
+ACS/Intell1gence, AAC
+DISTRIBUTION BY ORIGINATOR (Except USAF and fil
+1 copy PACAF
+1 copy ALCOM J-2
+1 copy 10th A.D.
+WARMIKO: This document contains information affecting the na
+tional defense of the United States
+within the meanind of th
+Espionage Laws, Title 18, U.S.C.. Section 793 and 794. Ita
+or the revelation or it
+contents in any manner
+an unauthorised person is prohibited by law.
+FORM
+AF 1S SEP 54 112 REPLACES AF FORM 112. 1 OCT 52. WHICH MAY BE USED
+UNCLASSIFIED
+CLASSIFICATION
+US GOVERNMEN
+DECLASSIFIED
+Authority NND 9237007

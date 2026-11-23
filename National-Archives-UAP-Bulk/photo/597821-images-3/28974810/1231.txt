@@ -1,0 +1,70 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T22:39:13Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8689836, "source_ctime_ns": 1793380173130600315, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28974810/1231.jpg", "source_mtime_ns": 1785700796000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28974810/1231.jpg", "source_sha256": "6b3fb7d55f91fda25c222be86522c054edcbe0dfaba3ac8021066ddcb25863c7"}
+
+===== PAGE 1 =====
+{"alpha_words": 177, "chars": 1233, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD CARD
+1. DATE
+2. LOCATION
+November
+1957
+3. DATE-TIME GROUP
+Local
+5.
+GMT 1/223_2
+PHOTOS
+20 Mi NE of Hill City, Kansaso
+4. TYPE OF OBSERVATION
+• Ground- Visual
+NO Air Vi suel
+D Ground-Radar
+O Air-Intercept Radar
+D
+6.
+SOURCE
+O Yes
+7. LENGTH OF OBSERVATION
+Military
+8.
+NUMBER OF OBJECTS
+9. COURSE
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircroft
+Dx Was Astronomical Venus
+Probably Astronomical
+Possibly
+Astronomical
+Other
+Insufficient Dato for Evaluatio
+Unknown
+8-9 minutes
+one
+10. BRIEF SUMMARY OF SIGHTING
+Object shape of foot ball with rounder
+ends. Size of pea. Metallic silver grey,
+becoming brighter during movement. Had
+a brighter ring around the oval run-
+ning horizontally across it,
+but not
+extending beyond the edges of the oval.
+The ring similar to that around the
+planet saturn. Object was stationary
+follow anot Be ten appeared to
+ary over
+the B-47 for about
+remaining station-
+minuce.
+Then rose vertically until disappeare
+rising
+COMMENTS
+Venus was observed to be quite
+bright by ground observers at
+Dyess AFB. The position of the
+observer's a/c in relation to
+the planet Venus could have
+caused the sighting.
+ATIC FORM 329 (REV 26 SEP 52)

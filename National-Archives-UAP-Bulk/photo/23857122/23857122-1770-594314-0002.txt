@@ -1,0 +1,47 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T22:33:03Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 20024104, "source_ctime_ns": 1793358004221422745, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1770-594314-0002.tif", "source_mtime_ns": 1785565009000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1770-594314-0002.tif", "source_sha256": "41fbc14e2ac6f0b449e7011875fa5a510a6eece434b513eed4d2c0d312d7c2c6"}
+
+===== PAGE 1 =====
+{"alpha_words": 225, "chars": 1752, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Report of Radar sighting of unidentified object by SCR-584 Rawin Crew,
+0305Z 13 October 1953. UFOB.
+c. Slant Range and Azimuth Angle of object when it dissa-
+ppeared. Slant Range of 20000 yards, Azimuth Angle of 070 degrees.
+d. Description of Flight path and maneuvers of object. The
+"UFOB". The object entered the scope from the Northeast and continued
+on a heading of 250 degrees for about 10 minutes, gradually it changed
+direction and left the scope on a heading of approximately 070 degrees.
+Altitude of object varied from 225000 feet to 37000 feet during sigh-
+ting.
+e, Manner of disappearance of object. Object just faded off
+the Radar Scope.
+f. Length of time in sight. Object in sight for approximately
+36 minutes.
+3. Manner of observations.
+a. Observed by Ground Electronic Equipment SCR-584 on an
+"A" scoe.
+b. Statement as to optical aids. N.
+4. Time and date of sighting.
+a 03002, 13 October 1953.
+DECLASSIFIED
+U SAF
+BY W. GLEEMa 7/31/78
+Date 4/12/79
+b. Light conditions. Day.
+5. Location of observer, 4l degrees 07' N 95 degrees 54' W.
+6. Identifying information of all observers.
+a. Civilian N/A
+b. Military. S/Sgt August A Washington Hq first Weather Go
+"Base Weather Station" Offutt AFB. Ground Equipment operator AFSC
+25150. A/20 Harold M Napier. Hq 1st weather Group "Base Weather Sta
+tion" Offutt Air Force Base.
+Ground Equipment operator AFSC 25130.
+Both airmen regarded as highly competent and reliabhe.
+7. Weather and winds aloft. Conditions at time and place of
+sighting.
+a. Observers account of weather conditions. Clear and un-
+restricted.
+Report from nearest AWS on US Weather Bureau of winds.
+Surface 130/10h,
+6000' 190/19K, 10000' 220/10K, 16000' 200/10K,
+20000 190/5K, 30000' 240/19K.
+Declassification Authority: NND 57565

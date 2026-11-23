@@ -1,0 +1,53 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T22:38:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8529555, "source_ctime_ns": 1793379679726947792, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28973166/01258.jpg", "source_mtime_ns": 1785701012000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28973166/01258.jpg", "source_sha256": "7d7921976e3ceaa8aa541e1d5576398cdce4f1248bc5e41828683eb420142e76"}
+
+===== PAGE 1 =====
+{"alpha_words": 105, "chars": 815, "method": "ocr", "page": 1, "variant": "plain-vision"}
+• DATE
+November
+3. DATE-TIME GROUP
+Local
+GMT 06/01302
+5. PHOTOS
+1957
+• Yes
+E.No
+• LENGTH OF.OBSERVATION
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Roseberg
+Oregon
+TYPE OF OBSERVATION
+ExGround-Visual
+• Air Visual
+6. SOURCE
+• Ground-Roder
+• Air-Intercept Rodor
+Civilian
+8. NUMBER OF OBJECTS
+20 to 30 minutes
+one
+10. BRIEF SUMMARY OF SIGHTING
+Large, white, oblong object, backed
+off toward ocean & faded.
+CONCLUSIONS
+Was Bolloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircrat
+Passibly Aircraf
+Was Astronomical Venus
+CK Probably Astronomical
+Possibly Astronomical
+Other
+Insufficient Data for Evaluation
+Unknown
+9. COURSE
+not given
+11. COMMENTS
+Although azimuth is not given,
+Venus was
+in SW at approximately
+20 degrees elevation at time rptd
+according to astro plot and charts
+ATIC PORM 329 (REV 26 SEP 52)

@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T22:38:41Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8364897, "source_ctime_ns": 1793381181179937428, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28979527/1092.jpg", "source_mtime_ns": 1785701013000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28979527/1092.jpg", "source_sha256": "3f21a3f8006dd1f3cbfde6a014de48f6290d14aa05947557f983a3a3dbe889a5"}
+
+===== PAGE 1 =====
+{"alpha_words": 79, "chars": 542, "method": "ocr", "page": 1, "variant": "plain-vision"}
+б. ?
+RECEIVED
+. 0A0658 07 29
+ATIC
+33 454
+1-4X2
+TELEPHONED
+TO
+NO.
+ВУ
+RCØ45
+MCZCSQB620ZCNBA 121
+PP RJEDSO™
+DE RJEDNB 3
+P. 200255Z
+FM COMDR ENR STEWART AFB NY
+TO RJEDDN/COMADC ENT AFB COLO
+INFO RJEDDN/COMDR 1006TH AISS ENT AFB COLO
+RJEDSQ/COMDR AIR TECH INTEL CENTER WRIGHT PATTERSON AFB OHIO
+• RJEZHQ/ASST CHEIF OF STAFF INTEL HQ USAF WASH DC
+RJEZHQ/OFFICE OF INFORMATION SERVICES HQ USAF WASH DC
+ВТ
+(UNCLASSIFIED FR NEINT 38 PD SUBJC: UFOB
+A• ROUND
+SLIGHTLY LARGER THAN A STAR
+REDDISH
+Choracteristic
+D. ONE
+E. NOT APPLICABLE
+F• NONL
+G• NONE *

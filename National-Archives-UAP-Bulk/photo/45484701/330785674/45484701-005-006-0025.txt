@@ -1,0 +1,55 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T22:39:44Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9100878, "source_ctime_ns": 1793363597928782817, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785674/45484701-005-006-0025.jpg", "source_mtime_ns": 1785684933000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785674/45484701-005-006-0025.jpg", "source_sha256": "80bdf823a14b04513a95647a415c971d3c36dae02ddd391356ea4d9a61048220"}
+
+===== PAGE 1 =====
+{"alpha_words": 125, "chars": 985, "method": "ocr", "page": 1, "variant": "plain-vision"}
+CLASSIFICATION CANCELLED SO
+BY AUTHORITY OF THE DIRECT
+BY
+KURT K. KUNZE, Capt, USAF
+Historian
+* DEC 1975
+5D 24-21-PATE
+SUBJECT:
+/(Unclassified)
+Unidentified Flying Object at
+Neosho, Missouri
+24-185-11-14
+TO:
+Commander
+Air Technical Intelligence Center
+Wright-Patterson Air Force Base
+Ohio
+ATTN: ATIAA-20
+INFORMATION COPY
+From 5th District OSI
+Wright-Patterson Air Force Base
+Ohio
+23 May 1955
+10
+Transmitted herevith for your information is one (1) copy
+of Spot Intelligence Report, dated 17 May 1955, from the llch 051
+District (IG), Tinker AFB, oklahoma City, Oklahoma, concerning
+subject matter.
+2. Your attention is invited to the provisions of AFR 124-1,
+which prohibit the release of investigative information to unauthor-
+ized persons.
+1 Incl
+Spot Rpt dtd 17 May 55
+ce:
+Dir 0SI w/o Incl
+ROBERIS P. JOHNSON, OR.
+Colonel,
+USAF
+District Commander
+034-185-11-19
+When
+OUT
+... in
+JUN1955
+OST
+24-185-11++X
+with Par 25g
+OSL
+3 JUN 1955
+UNCLASSIFIED
+Declassification Authority: NND 923007

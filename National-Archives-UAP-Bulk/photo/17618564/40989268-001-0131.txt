@@ -1,0 +1,76 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T22:30:57Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 17942990, "source_ctime_ns": 1793355693471873135, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0131.jpg", "source_mtime_ns": 1785564504000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0131.jpg", "source_sha256": "0cf02c21a2d864c22ea30c033c7e82dbbe5f5471a8f7f78b97208c5a84394e39"}
+
+===== PAGE 1 =====
+{"alpha_words": 727, "chars": 4871, "method": "ocr", "page": 1, "variant": "plain-vision"}
+248
+Several versions of automatic frost-point hygrometers exist, usually employing
+optical techniques to determine the amount of frost on a cooled mirror. Honeywell's
+Alpha Hygrometer uses an a-particle source in the cooled surface, and employs the
+technique of radioactive-thickness gauging to measure the deposit thickness. Two
+radioactive sources are used; one is cooled and the other is kept at a temperature
+well above the frost point and used to compensate for changes in air density. We
+refer to these as frost and reference channels. The preset deposit or control-
+layer thickness is determined by a thin absorber placed between the reference
+channel source and detector. (In actual practice, both channels have absorbers
+interposed so that the a-particles have nearly reached the end of their range, the
+condition for which the thickness sensitivity is greatest. The control layer is set
+by using a slightly thicker absorber in the reference channel.) Output pulses from
+the frost- and reference-channel Geiger-Mueller tubes are fed into the two gates
+of a flip-flop, and the time spent in each state by the flip-flop depends on the number
+of pulses per second in each channel. The average number of pulses in the frost
+channel decreases as the frost thickness increases and the flip-flop output may be
+integrated to give a d-c signal proportional to frost thickness. This is the error
+signal, which is amplified and fed into a thermoelectric cooler to regulate the
+frost-channel source temperature.
+Some advantages of the alpha gauging technique are as follows:
+The sensitivity is high. Servo response is initiated by a change of less
+than 10-6 cm (less than 30 molecular diameters) in the average condensate
+thickness.
+The mass thickness of the deposit on the cooled surface is measured
+rather than its reflectivity which depends on the physical structure of
+the deposit.
+The control-layer thickness can be precisely set by use of a calibrated
+absorber.
+The cooled surface may be directly exposed to the atmosphere, since
+the detectors are not light-sensitive.
+The radioactive source output is constant.
+The thickness measurement depends solely on the number of pulses and
+virtually eliminates drift problems in detectors and electronics.
+There is no critical mechanical alignment and no operational circuit
+adjustments are necessary.
+249
+3.2 Package Temperature Control
+To insure against possible drift in batteries, power supplies, recorders, and
+so on, we control the interior temperature of the instrument package so that it
+remains above 10°C.
+3.3 Heat Sink
+The thermocooler establishes the cooled-surface temperature and this depends
+not only on the error signal (which, in turn, depends on frost thickness) but also on
+the temperature of the heat sink which serves as the thermocooler reference. If
+for some reason the heat-sink temperature changes, the cooled-surface temperature
+will follow this change until an error signal develops which can correct it. At the
+thermistor readout of the instrument one cannot distinguish whether the frost point
+has changed, or whether the heat-sink temperature is varying. This discourages the
+use of a heat-rejection fin, which will have variations due to changes in free-air
+temperature and solar heating. Similarly, the temperature of a boiling-liquid heat
+sink changes with altitude.
+We have used a frozen liquid (such as ethyl alcohol) to provide a constant
+reference temperature, but the size of the sink required is unduly large. For this
+reason we use a heat sink consisting of a sealed container of dry ice with an
+absolute-pressure relief valve. This valve is set to about 300 millibars, and thus
+gives us a constant temperature above 30,000 feet. Below this altitude, the frost
+point (and mass-transfer rate) is high enough so that a slowly-varying sink tem-
+perature will not give rise to a significant measurement error.
+3.4 Forced Ventilation and Channel-Flow Geometry
+The low mass-transfer rates encountered in the stratosphere set the basic
+limitation on instrument performance, since this determines the ability of an
+automatic hygrometer to follow a changing frost point or, for that matter, to
+distinguish frost-point changes from internal and external sources of drift. We
+have shown, however, that these rates may be considerably enhanced by using the
+proper channel-flow geometry and a high ventilation rate. The flow channels in our
+hygrometer heads have a rectangular cross section 0.030 inch high by 0.30 inch
+wide, and we provide a flow velocity in excess of 3000 feet per minute. To achieve
+high flow velocities in this narrow channel, a miniature vane-type vacuum pump is
+connected to the outlet side of the hygrometer head. This is a positive-displacement
+pump which, when driven at constant speed, provides an essentially constant flow
+velocity over the entire altitude range covered.

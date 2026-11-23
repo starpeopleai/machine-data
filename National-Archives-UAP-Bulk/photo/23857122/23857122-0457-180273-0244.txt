@@ -1,0 +1,15 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T22:58:19Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 17766428, "source_ctime_ns": 1793356625966001621, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0244.tif", "source_mtime_ns": 1785564732000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0244.tif", "source_sha256": "defb0ab33bd5067c150df46f84c216d404a5b4a64a8f4c124ec6d20a5048671c"}
+
+===== PAGE 1 =====
+{"alpha_words": 70, "chars": 479, "method": "ocr", "page": 1, "variant": "plain-vision"}
+RE
+RICTED
+Incident 98 - Houston, Texas
+-- 2 November 1947
+The information given here indicates strongly that the
+object observed was a fireball. There is nothing to suggest that
+it was not. as far as "falling into a noerby field" is concerned,
+that is perhaps the best-ttested illusion with respect to these
+phenomena. Very frequently a fireball is reported to have fallen
+in a "nearby field" all along its track scross two or three states.
+Declassification Authority: NND 57565

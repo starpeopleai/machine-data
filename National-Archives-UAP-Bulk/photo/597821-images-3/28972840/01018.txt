@@ -1,0 +1,71 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T22:39:21Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8706793, "source_ctime_ns": 1793379620336708296, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28972840/01018.jpg", "source_mtime_ns": 1785700827000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28972840/01018.jpg", "source_sha256": "fdfaa31d8b6501d2d8880a6895d00befecbf8ba6715a018ce2c05a27db24179a"}
+
+===== PAGE 1 =====
+{"alpha_words": 146, "chars": 1020, "method": "ocr", "page": 1, "variant": "plain-vision"}
+JOINT
+MESSAGEFORM
+VED FOR
+I ACCOUN
+FROM:
+PRIORITY
+COMDR ATIC
+TO:
+ACS/1,
+WASHINGTON,
+D.O.
+ATTN:
+AFOIN-XL MAJ BYRNES
+CONFIDE
+AFCIN-4E4
+CITE
+IC 41030
+REFERENCE
+PREVIOUS M
+ESSAGE
+PARTS,
+DTD 8 NOVEMBER
+1957.
+THIS IS ADDITIONAL INFO RE HIGHLY
+PUBIICIZED
+INCIDENTS.
+REP, PART 1 OF PREVIOUS MESC: INVESTIGATION OF ANOTHER
+SOURCE
+WHO CLAIMS THAT HIS IGNITION STADLED AT
+TIME OF
+TORTING, DISCLOSED THAT HIS DISTRIBUTOR
+ROTOR W
+CED IN HIS TRUCK DAY BEPORE. FURTHER, STATE-
+MENT FROM MECHANIC INDICATES THAT PIECE OF OID ROTOR LATEF
+FOULD WEDGED IN BETWEEN POINTS,
+REF. PARI IV,
+1S INCIDENT: HOSPITAL BYAMTNATION
+REVEALS NO BURNS
+ON
+UNDER EXAMINATION ADMITS THAT
+HE HAD EXPERIENCED RADIO FADE-OUT IN THAT AREA PREVIOUSLY.
+WITNESSES WHOM
+S CLAIMS TO HAVE JOTTED DOWN CANNOT BE
+POUND AFTER DILIGENT SEARCH,
+EVALUATED AS
+BY AF INVESTIGATORS.
+SYMBOL
+SIGNATURE
+W
+AFCIN2E4
+TYPED NAME AND TITLE (NignO
+PHONE
+Capt Course I. G40m 1°
+_69210
+SECURITY CLASSIFICATION
+_2
+200000
+YPED foI
+157-30530
+TIME
+TE 10
+NOV
+57
+DD.
+FORM
+MAY 5517S
+ES DO FORN

@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T22:34:40Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 24637414, "source_ctime_ns": 1793361060328882617, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-004-0068.tif", "source_mtime_ns": 1785565218000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-004-0068.tif", "source_sha256": "bdea9971ffd775137f61371448a78ad696a03df448462668e262006eb2aadfd6"}
+
+===== PAGE 1 =====
+{"alpha_words": 142, "chars": 861, "method": "ocr", "page": 1, "variant": "plain-vision"}
+POOR ORIGINAL
+U,S, AIR FORCE TECHNICAL IIPORMATION SHELL
+(SUMMARY DATE)
+in order that your infomation way be filed and coded as accurately
+as possible, please use the following space to write out a short descrip-
+tion of the avent that yo observed.
+You may repeat information that you
+have already iven in the questionnaire, and add any further comments,
+statements, or aketches that you believe are importants Try to present
+the details of the observation in the order in which they cocurred.
+additional pages of the same size paper may be attached if they are
+needed.
+WE ARE ONALd E GERRY
+(Please Frinty
+(Do Not Write in This Space)
+CODE:
+DATE
+- We were coming back fren tha
+Care dester to our Carniles + sau the
+spent aming to and is of appened
+round in peget but coiled hadfpant
+dips, a stengel, from cat haught
+Ми 12- 35
+DECLASSIFIED
+Authority NND 9237007

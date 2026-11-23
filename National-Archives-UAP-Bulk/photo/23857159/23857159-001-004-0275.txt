@@ -1,0 +1,51 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T22:30:41Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 17542738, "source_ctime_ns": 1793361265378903882, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-004-0275.tif", "source_mtime_ns": 1785565270000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-004-0275.tif", "source_sha256": "d10de00290996b94666367143527ee63053fb04cd42d499c3a2e545f749ffa4c"}
+
+===== PAGE 1 =====
+{"alpha_words": 56, "chars": 583, "method": "ocr", "page": 1, "variant": "plain-vision"}
+MINICARD CODE SHEET
+(WHEN FILLED IN)
+TITLE PAGE CATABLE OF CONTENTS
+10
+NO. OFPAGES INCLOSURES: [TALL
+-FOLLOWING PARTS
+T1043 41518
+W10121210101
+WØ11001
+QLITI
+Q888881
+REPEAT FIXED CODE
+, LOCATOR NO
+VILINIDIGINIE
+V1501011010
+x 2101/101518
+V580100
+X2Ø1Ø58
+Y/ 111 1518
+CF0101695ł
+/ 61013101010
+Y171158
+4001695Śš
+1603000
+LITEGT
+EC
+AIR
+FORCE DOC.
+NO.
+521015121614
+MULTILICITY
+21101210/012
+Z. 91001
+ZANSØOS
+111
+11111
+0111
+_ 11
+Classification (caneelled) (changed to
+incas, ef'ective on 2 gang
+_under the authority of
+by
+AF// DCS/T, USAF
+F
+(WHEN FILLED IN)
+DECLASSIFIED
+Authority NND 9237007
