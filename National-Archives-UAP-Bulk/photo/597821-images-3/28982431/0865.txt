@@ -1,0 +1,41 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T04:51:19Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5788583, "source_ctime_ns": 1793382019580016823, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28982431/0865.jpg", "source_mtime_ns": 1785700951000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28982431/0865.jpg", "source_sha256": "713cc6fdf0cc3f5d0a0e3596954325fb376a962fe223aae27c312d61f9806653"}
+
+===== PAGE 1 =====
+{"alpha_words": 48, "chars": 443, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+<0 *ovgnete
+ete
+
+(2) SFC 310/15&26 6000 300/10 1000 2g0/5016000
+270/75 20000 260/80 30000 260/145 50000
+
+(3) CLEAR |
+
+(4) 15 NILES
+
+(5) NONE
+
+PAGE THREE RJEDSJ 3
+(6) NONE
+
+He €1) NONE
+
+1, NOTIFIED
+
+J, NOT AVAILABLE
+
+K. AIRDROME CFFICER ON DUTY CAPT ROBERT He NAGEL COMMENT?
+FROM DESCRIPTION IT WOULD APPEAR THAT NR. ODDO HAS SIGHTED
+A PLANET WHOSE BRILLIANCE ATTRACTED HIM.
+
+Le NONE
+
+BT
+
+03/1545Z MAR RJEDSJ
+
+PIATATAIT
+i If iL,
+
+bean’
+
+s G26

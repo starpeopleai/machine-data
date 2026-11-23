@@ -1,0 +1,52 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T05:05:52Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10140102, "source_ctime_ns": 1793363954766121209, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330786313/45484701-006-005-0057.jpg", "source_mtime_ns": 1785684961000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330786313/45484701-006-005-0057.jpg", "source_sha256": "6964630357a8001ac61de08e57f22ab6cb8d8d9a518bd71f382b3acbe850cc48"}
+
+===== PAGE 1 =====
+{"alpha_words": 256, "chars": 1821, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+@e All electrically transnitted reports will be forwaried
+by «multiple eddrees cables to Commending General, Air Defense Command,
+Eat Air Poroe Base, Colorado Springs, Colorate and to the Chief, Alr
+Teehaien] Intelligence Center, Mright-Patterson Air force “ese, Layton,
+hic, fn informticon cory will be sent to the Direstor of Intelligences
+DOS/G, Headquarters UAT, Hashington 25, De Ceo
+
+&, Beperte forwarded by electrienl trenemission will inelale,
+en far as peseibies
+
+(1) A belief degeription of the object(«): ite shape, sine,
+ooler, nomber, formetion If more than ons, serodgnanis
+feeturee, trail or exhaust, propulsion aysten, apeed,
+a0, maneUVerE, sauaner oF disappearance » ond other
+pertinent or unusuel features.
+
+Time eighted in 24-hour elock eonal time, od length
+of time obeerved.
+
+anner of observat'on; visual or ¢leetronde, from air
+(give epewd, altitule, ami type of airersft), or curfages
+éay type of eptionl or electronic equipmest used shenid
+be deecribed,
+
+Leeetion of observer during sighting, civing exmct lati«
+tude and longitude as closely as fecstble, and/or
+reference to a known lendeaurk,. Locetion of ebjest (a)
+with respect te observer, civing cistance, direction,
+aad altitude.
+
+Identifying ioforustion on ebserver(s) and witnesses,
+evtinxte of reliability and experience, and any fectors
+bearing on egtimet ¢ relisbiiity ef the sightings
+
+Reather maxi wind conditions (teletype sequences) st tine
+end plese of sightings.
+
+any activity or conliticn, seterclocical or otherwing,
+whioh might sesoumt ‘or the sighting.
+
+txiatence of any physical evidenoe; freguents, phote=
+graphs ond the line, of the algutinge
+
+Intermevtion of igentiNicat’on ection telat,
+starts Sc should be taken whanever feanible, jienivins
+with existing air de‘ense diree: ives)
+
+Declassification Authority: NND 923007

@@ -1,0 +1,57 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T05:01:41Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8475288, "source_ctime_ns": 1793362782014459219, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330783681/45484701-003-005-0102.jpg", "source_mtime_ns": 1785684555000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330783681/45484701-003-005-0102.jpg", "source_sha256": "cd6370853777068693d9b3083232befb34b75daadffa16b67fd3f624b692ceb3"}
+
+===== PAGE 1 =====
+{"alpha_words": 237, "chars": 1357, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+® (om @
+
+Qe How did you know théy were hydraulic rams?
+
+A. Well, where it sat on the ground it appeared to have a pad of
+rubber and above it was shiny metal that looked as if it might be
+hydraulic.
+
+Qe How long did you estimate the rams to be?
+
+A. About three feet.
+
+Qe How large a diameter?
+
+A. About three inches I would say.
+
+Qe» Was there any other support?
+
+A. Wo.
+
+Qe When the machine took off how fast do you think it rose?
+
+A. I couldn't say but the first ten feet or so it was quite slow
+then picked up speed,
+
+Qe How high was the machine when it stopped rising and took off?
+
+Ae I would say about 150 feet,
+
+Q- Did the object hover when it got to this height?
+
+A. Wo, it took right off in a southwesterly direction.
+
+Q. What distance do you estimate the sound of the machine could be
+heard?
+
+A. It seemed to me that on a quiet day it could be heard for quite
+a distance. There was no exhaust, just a humming sound like large
+fans would make.
+
+This concludes the questioning by Lt. Alexander. Sgt. Pangburn's
+questions follows:
+
+Q. Are you interested in Aircraft and do you know the principles
+of aerial flight?
+
+A. I have flow as a passenger only.
+Q- How do you think the machine got its lift?
+
+A. I really don't know. I was looking for something to come out
+below it when it took off but nothing came out.
+
+Declassification Authority: NND 923007

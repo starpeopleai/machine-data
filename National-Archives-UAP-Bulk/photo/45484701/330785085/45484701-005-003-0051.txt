@@ -1,0 +1,53 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T04:57:51Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7480202, "source_ctime_ns": 1793363340177450932, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785085/45484701-005-003-0051.jpg", "source_mtime_ns": 1785684909000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785085/45484701-005-003-0051.jpg", "source_sha256": "0d5ab89823bdda1f8ceba604fa4453c6a9ac3e9ec4d1070c0c143a98395308c9"}
+
+===== PAGE 1 =====
+{"alpha_words": 287, "chars": 1912, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+8, At 1/1900Z Intell Team arrived Operations Office, Maxwell AFB, Alabama,
+ae The names and locations of the following personnel were obtained:
+
+Col K, L, Atchley
+District Commander
+Sth District OSI (16)
+Maxwell AFB
+
+Capt Marsten
+
+Operations Officer
+
+48th Air Rescue Squadron
+Maxwell AFB
+
+T/Sgt Jack L. Potter
+Control Tower Operator
+A8th Air Rescue Squadron
+Maxwell A¥B
+
+T/Sgt Potter met Sgt Lanz at operations for completion of ATIC Form
+# 164(Ref incl # 2).
+
+Sgt Tennille contacted Capt Marsten, 48th Air Rescue Squadron, and
+was informed that five helicopters were dispatched to different
+locations given at time of flash and/or explosion. One of the
+helicopters piloted by Capt Rogers landed at Sylacauga, Alabema. He
+acquired the object and returned with same to Maxwell AFB, (Itinerary
+of flights being forwarded to Flt 2-C via air mail). 48th Air Rescue
+Squadron transferred object to Col Atchley of OSI,
+
+Sgt Tennille phoned Col Atchley from 48th ARS and was informed that
+Hq 46C2d AISS had contacted Col Atchley regarding object, It was
+decided that Flt 2-C, 4602d AISS would assume custody of object.
+Sgt's Lanz and Tennille proceeded to the District OSI Office and were
+met there by Col Atchley who informed them that according to AFR
+200-2 dtd 12 Aug 54, he would relinquish the object to Flt 2-C's
+investigating team,
+
+Because of unfavorable publicity incurred by the acquisition of the
+object, Col Atchley suggested that the matter should be coordinated
+with the Base Comdr, Col James E, Pratt, 3800 Air Base Group, Maxwell
+AFB, Alabama, Col Atchley and Sgt's Lanz and Tennille proceeded to
+Col Pratt's office where he was bricfed on the situation; He
+suggested a call to Comdr 4602d 4158, outlining aetion for pacifying
+the local people involved in Sylacauga, Alabama - specifically the
+Mayor, Ed J. Howard; and Mrs Hewlett Hodges, the individual struck by
+
+Declassification Authority: NND 923007

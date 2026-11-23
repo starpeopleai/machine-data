@@ -1,0 +1,44 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T04:47:47Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4951130, "source_ctime_ns": 1793375609021874373, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28956986/0127.jpg", "source_mtime_ns": 1785696838000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28956986/0127.jpg", "source_sha256": "4df4a1e69f270708571eba09b9de81c4a680864edaa258f06e96d16ce3f3c96a"}
+
+===== PAGE 1 =====
+{"alpha_words": 99, "chars": 628, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ENERGENCY JEDWP SUBCOR JEN
+JO AS2T7ii
+
+Ja. Al5SS
+"j
+
+o
+
+Joti } . A
+
+a7 ° ee
+
+- -- — tt
+
+oa
+
+EMERGENCY JEDUP ZO¥ JENC
+eran:
+
+~—on*
+
+eee eee
+
+ax
+
+ENERGSNIY JFIC JEQSU JEQC JEDUP 444
+DE JEHC 494 ——~
+Y 1227352 —
+Fi] COMDR 6619TH ABG NARSARSSUAK AB GRNLD
+TO JEPHQ/DIRECTOR OF INTELLIGENCE HQ USAF WASHDC
+JENC/CONDR NEAC PEPPERRELL AFR NFLD
+JEDEN/COMDR ADC ENT AFB COLOREDO SPRI GS COLO
+JKDAG/COMDR AAC ELNENDORF AFB ALASKA
+VJEPAC/COMDR USHS ARGE TIA
+JENC/COMDR 64TH AIR DIV PEPPERRELL AFB NFLD
+JCPDC/CANAIRDEF ST HUBERT QUEBEC
+JFIC/MVCOMICEDEFOR KEFLAVIK ICz
+
+TIF 42 ™A4 Ti 7 . ir . . mr
+JEXC/COMDR 66S80TH AB CP PEPPERREL AFBINFLD

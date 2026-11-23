@@ -1,0 +1,8 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T04:50:56Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5667080, "source_ctime_ns": 1793369420493568372, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28931736/0475.jpg", "source_mtime_ns": 1785688605000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28931736/0475.jpg", "source_sha256": "53609c11261bc5b4a2591cee93776c09e643f118af83ab3d8aa055d6a803e308"}
+
+===== PAGE 1 =====
+{"alpha_words": 37, "chars": 233, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+No, 2023 Time of sizhting was five hours after last scheduled
+rslease bins for‘any rawin or pilot balloon sounding, thus discounting
+a balloon leak, would put it far too high for easy sighting. Defin-
+ately not a weather balloon. |

@@ -1,0 +1,37 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T04:56:04Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7001903, "source_ctime_ns": 1793384639794586120, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28990739/0461.jpg", "source_mtime_ns": 1785748539000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28990739/0461.jpg", "source_sha256": "faf5a26655acfc410b530d939dceb9f9e4e8e15dd74833949acfdfb99baffe44"}
+
+===== PAGE 1 =====
+{"alpha_words": 90, "chars": 646, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+4
+
+MEMO ROUTING SLIP METCONCURRENCES, OR SIMILAR ACTIONS
+T NAME OR TITLE ge INITIALS _ | crrcutate
+ORGANIZATION AND LOCATION OATE COORDINATION
+A e
+2 . FILE
+~Room—LA—-1063;—Pentagonr————>
+. gah tr © Bak Re INFORMATION
+PV ach bo x| 1s
+hae * { ; a Bay NOTE AND
+$2 . RETURN
+4 . ' pas SEE ME
+ae SIGNATURE
+REMARKS A
+| matter pertaining to your office pursuant to
+; telephone conversation between Miss QP your
+office and Miss Grogan, this office. ‘The writer has
+been informed of this referral.
+
+4 1 Incl
+
+’ Ltr from Ca |
+31 Dec &
+
+2
+
+FROM NAME OR TITLE: J J V4 DATE
+}
+
+ORGANIZATION ANO LO€ATION spor |
+Corr & Reg Sec, Op Br, TAGO, 1E 83 52267 |
+fad 2

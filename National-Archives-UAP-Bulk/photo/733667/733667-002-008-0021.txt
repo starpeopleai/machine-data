@@ -1,0 +1,20 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T04:33:46Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1151298, "source_ctime_ns": 1793394361717982745, "source_file": "National-Archives-UAP-Bulk/photo/733667/733667-002-008-0021.jpg", "source_mtime_ns": 1785567359000000000, "source_rel": "National-Archives-UAP-Bulk/photo/733667/733667-002-008-0021.jpg", "source_sha256": "98e432013b1ea59c2daa81564f0f63811e098991926ecd4b50d58483c43a74db"}
+
+===== PAGE 1 =====
+{"alpha_words": 55, "chars": 350, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+3/4/87
+
+From neading an article in the San Jose iencuny, L undenatand that
+you ane offering a UFO PACKAGE. IL further understand that all ondena unden$5. 00
+ane f{nee. Lf would Like all that ir offered fon free, plua a price Lint of other
+
+items of fened.
+
+Thank you,
+
+Sipe MW. O Como
+Stephen MN. O'Connor
+
+3/15 Pacheco Pasar How.
+
+Gilroy, Ca. 95020

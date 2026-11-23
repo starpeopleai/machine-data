@@ -1,0 +1,74 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T04:35:30Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1448803, "source_ctime_ns": 1793355801466323415, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989274-001-0018.jpg", "source_mtime_ns": 1785564529000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989274-001-0018.jpg", "source_sha256": "7deba12d83a23f4f7fe9c7a5a9ff9ed27c7a773c891cdbdbe5e9e31efe202002"}
+
+===== PAGE 1 =====
+{"alpha_words": 210, "chars": 1652, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Kind: TIFF Page # 77
+
+Roswell Report:Rosewell Rpt Images:84StdDmmys1/4
+Kind: TIFF Page # 79
+
+Roswell Report:Rosewell Rpt Images:76DmmyDrp1/4
+Kind: TIFF Page # 82
+
+Roswell Report:Rosewell Rpt Images:77DmyRck1/4
+Kind: TIFF Page # 82
+
+Roswell Report:Rosewell Rpt Images:64MvPrm/PthHImts1/4
+Kind: TIFF Page # 83
+
+Roswell Report:Rosewell Rpt Images:85DmmyRgbg1/4
+Kind: TIFF Page # 83
+
+Roswell Report:Rosewell Rpt Images:37Plane1
+
+Kind: TIFF Page # 84
+
+Roswell Report:Rosewell Rpt Images:38Plane974/1
+Kind: TIFF Page # 84
+
+Roswell Report:Rosewell Rpt Images:78BllnLyout1/4
+Kind:TIFF Page # 85
+
+Roswell Report:Rosewell Rpt Images:86BllnLnch1/4
+Kind: TIFF Page # 86
+
+Roswell Report:Rosewell Rpt Images:67Balloon1/4
+Kind: TIFF Page # 86
+
+Roswell Report:Rosewell Rpt Images:RevNMMap pg 24/68
+Kind:Encapsulated PostScript Page # 88
+
+Roswell Report:Rosewell Rpt Images:01UFOCorner1B
+Kind: TIFF Page # 95
+
+Roswell Report:Rosewell Rpt Images:02NurseFanton2
+Kind: TIFF Page # 102
+
+Roswell Report:Rosewell Rpt Images:SBLogo
+Kind:Encapsulated PostScript Page # 102
+
+Roswell Report:Rosewell Rpt Images:SBLogo
+Kind:Encapsulated PostScript Page # 103
+
+Roswell Report:Rosewell Rpt Images:SBLogo
+Kind:Encapsulated PostScript Page # 104
+
+Roswell Report:Rosewell Rpt Images:04SB2Swndirs2/2B
+Kind: TIFF Page # 104
+
+Roswell Report:Rosewell Rpt Images:03SB1FlngScrs2B
+Kind: TIFF Page # 105
+
+Roswell Report:Rosewell Rpt Images:SBLogo
+Kind:Encapsulated PostScript Page # 105
+
+Roswell Report:Rosewell Rpt Images:05Tour2
+
+Kind: TIFF Page # 107
+
+Roswell Report:Rosewell Rpt Images:06Slattery2
+Kind: TIFF Page # 108
+
+Roswell Report:Rosewell Rpt Images:07Plane2
+
+Kind: TIFF Page # 114

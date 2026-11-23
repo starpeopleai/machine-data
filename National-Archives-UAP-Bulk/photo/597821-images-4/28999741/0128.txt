@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T04:45:18Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4440487, "source_ctime_ns": 1793388031261070725, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28999741/0128.jpg", "source_mtime_ns": 1785748297000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28999741/0128.jpg", "source_sha256": "236b8ef7d3692cf890fc07f1cb6fa14207cf090c9547b673e87ef0537c76dd7c"}
+
+===== PAGE 1 =====
+{"alpha_words": 66, "chars": 462, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+SP : OEPARTMENI OF THE AIR FORCE
+STAFF MESSAGE 3RANCH
+
+INCLASSIFIED MESS 4&Gr
+
+INCOMING
+
+AF IN : 11917. (5 Nov 62) Page 2 of 2
+
+“AF GRNC~
+BT
+UNCLAS/CIRVIS:
+1. BARRIER AIRCRAFT N43218, W-2
+2.UFO LONG BLUE GREEN FLAME
+3. ENTERED UNDERCAST AT THIRTY DEGREE ANGLE
+Aorahornny fost t0-goN (gee4ty,
+Peas a :
+6. ENTERED UNDERCAST STRATUS TOPS 4909FT
+7.HEADING 180 DEGREES
+8. UNK OWN
+NO EVALUATION _ |
+at NOTE: ADV. CYS DEL TO DIA, CIN, AND OOP-CP.
+
+@5/1252Z NOV RUHLKH

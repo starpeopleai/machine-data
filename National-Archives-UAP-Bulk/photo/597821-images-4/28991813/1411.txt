@@ -1,0 +1,45 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T04:57:30Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7377843, "source_ctime_ns": 1793385094838590956, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28991813/1411.jpg", "source_mtime_ns": 1785747967000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28991813/1411.jpg", "source_sha256": "0f7019023f0721deeadead63ffb71d3427e23ae5fa1f656e22982ec4363558c3"}
+
+===== PAGE 1 =====
+{"alpha_words": 157, "chars": 1107, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Tee itainr et eee titer techs bere teint caves garantie taeM Lee ALAN asda Wl bh ink fie Mth deka a te hc ee a
+
+° STAFF MESSAGE DIVISION
+UNCLASSIFIED MESSAGA
+
+INCOMING
+
+AF IN : 43204 (10 Mar 61) F/cgd
+
+ACTION: CIN-14
+INFO : OOP-2, OOP-CP-1, SAFS-3 (21)
+
+SMD A 158
+
+-ZCHOE753ZCQJA5 71
+PP RJEZHO
+DE RJWZKP 16
+ZNR
+P 101915Z
+FM POADS ADAIR AF STN ORE
+TO RJWFAL/HQ ADC ENT AFB COLO
+RJWZBH/25 AIR DIV MCCHORD AFB WASH
+' RJEDSQ/AER TECHNICAL INTELLIGENCE CENTER WPAFB OHIO
+
+RJEZHO/HOS USAF WASHINGTON DC
+RJWZHQ/ SEC OF THE AIR FORCE WASHINGTON DC
+BT
+UNCLAS FROM POOIN 10-C-1.
+
+FOR ADC, 25 AIR DIV, AIR TECH INTEL CENTER, AFCIN, SAFIS. FOLLOWING
+‘UFOB IS FORWARDED IAW AFR 200-2. As 1. ROUND 2. 1/2 DOLLAR/
+3. WHITE 4. 1 5. N/A 6. NONE 7. NONE 8. NONE 9. NONE
+
+B. 1. SLIGHT MOVEMENT CAUGHT BY PILOT 2. 39 DEG ELEVATION NW-SE
+$3. 49 DEG ELEVATION NW-SE 4. NW TO SE 5. ACFT WENT IFR 6. 19 MIN
+
+C. 1. AIR VISUAL 2. NONE 3. DC 6B UNITED 6551 18M 270 DEG 219 KTS
+SEATTLE D. 1. 10/0598 2. NIGHT E. NEAR HEPPNER INTERSECTION
+
+Fo 1. Siem, 45, Me SEATTLE 65, YASH (POLOT);
+CANN, CO-POLOT; WURRRMAIIS ENGINEER; GQ, STEVaRD-

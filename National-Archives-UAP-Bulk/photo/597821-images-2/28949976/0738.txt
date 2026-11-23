@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T04:45:47Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4593592, "source_ctime_ns": 1793374065183384434, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28949976/0738.jpg", "source_mtime_ns": 1785696930000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28949976/0738.jpg", "source_sha256": "25ce8d3c615f4fd644af2442a09721a594bd553956f0df3096577fe70c5ad273"}
+
+===== PAGE 1 =====
+{"alpha_words": 57, "chars": 313, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ath « scicgs One? g oye
+UNITED STATES ATLANTIC FLEET
+
+AIR FORCE
+PATROL SQUADRON TWENTY Six
+
+Operon ofthat ae os oto
+
+of zhe ee 0 tear 68,
+
+tad — “ ae: ad og a as a what
+of rE pon wend Tak Bog x daha, J, bb, ab
+
+3 iS at
+veuhe NS tmmishe, 7 Ahn 15 and 20 fay
+
+f dn ts af
+ae ay ‘a Metz
+fi es Tolal y Cee le ?
+
+A
+
+>

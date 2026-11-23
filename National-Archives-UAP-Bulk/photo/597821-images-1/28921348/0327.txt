@@ -1,0 +1,24 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T04:50:06Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5547084, "source_ctime_ns": 1793368599473467529, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28921348/0327.jpg", "source_mtime_ns": 1785688706000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28921348/0327.jpg", "source_sha256": "61cb82c622ee8173aacc91dff4bd5e2fae62330489e88040fa6e67499b0f342b"}
+
+===== PAGE 1 =====
+{"alpha_words": 78, "chars": 658, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+15 - 31 AUGUST 1964 SIGHTINGS
+
+ADDITIONAL REPORTED SIGHTINGS (NOT CASES)
+
+DATE LOCATION SOURCE EVALUATION
+Aug Universe Science News Ltr
+| @ March AFB, California Newsc lipping
+' | 16 Painesville, Ohio Newse lipping
+4 \ 17 Chardon, Ohio Newselipping
+a yg Clevelend, Ohio Newsclipping
+gd 17 Ashtabula, Ohio Newselipping
+cay | LT Willoughby, Ohio Newsclipping
+54D 18 37K 7hW Msg
+pe 18 Missoula, Montana Newsclipping
+*4 1/20 Jersey City, New Jersey quenmme (Ltr) frst
+a 183 Fostoria, Ohio Newsce lipping
+| | 27 Dan Boros, Ohio Newsce Lipping
+|| 28 Geneva, Ohio Newsc lipping
+‘ 29 Las Curces, New Mexico Newse Lipping
+4 | 31 Garfield Heights, Ohio Newsc lipping

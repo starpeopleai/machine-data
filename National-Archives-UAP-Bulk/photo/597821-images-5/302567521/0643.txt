@@ -1,0 +1,71 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T04:39:47Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1777050, "source_ctime_ns": 1793392369391091624, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302567521/0643.jp2", "source_mtime_ns": 1785808086000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302567521/0643.jp2", "source_sha256": "0c1f2e4a28e1cb5bff115092a1fdac13126714f700bc0108d9cdcc1bd263caf4"}
+
+===== PAGE 1 =====
+{"alpha_words": 135, "chars": 1020, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+‘ : : ; e, 1 Fae s Pad
+The following is the weather data for 3 July 1967,
+‘ 2 _ : on)
+received from the United States Air Force
+
+cations Center (ETAC), Washington, D. C.
+Kansas City 9:00 pem. CDT (4/62002)
+
+3/8 alto-ecumulous coverage
+
+Surface wind from 360 deg at 5 knots
+Visibility - 15 miles
+
+Temperature = 19 deg ©
+
+Dew Foint = 12 deg C
+
+Kansas City 10:00 poem. CDT (4,/0300Z)
+
+Clear
+
+Surface wind from 40 deg at 6 knots
+Visibility - 15 miles
+
+Temperature - 19 deg C
+
+Dew Foint = ll deg ©
+
+4 lal Auer SP iy at CS Be ws
+uly 19 Kansas Git;,
+
+BIASAS,
+
+3¢ Bnvironmental Technical Appli-
+
+Upper air data to 5,000 feet. The closest upper air stations and closest
+
+times available were from:
+
+Columbia, Missouri 7:00 p.m. CDT
+Alt in meters Direction
+580 From 300 deg
+1045 From 300 deg
+1527 From 3°00 deg
+2029 From 290 deg
+Topeka, Kansas > 7:00 pem. CDT
+~+ in meters Direction
+600 From 10 deg
+1066 Fron 40 deg
+54 From 3190 deg
+2055 From 320 deg
+
+knots
+knots
+xnots
+xnots
+
+ee ee
+SO CO ONG
+
+6 knots
+& knots
+& knots
+Q
+4
+
+Le he

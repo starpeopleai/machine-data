@@ -1,0 +1,43 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T04:54:54Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6529259, "source_ctime_ns": 1793362876211529378, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330783823/45484701-004-001-0185.jpg", "source_mtime_ns": 1785685068000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330783823/45484701-004-001-0185.jpg", "source_sha256": "bc0ae370a8e1f8cd54664541abca2b37e8ccee1b497ef92706f747d1873eeb36"}
+
+===== PAGE 1 =====
+{"alpha_words": 158, "chars": 1139, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+@
+
+1D-OSI 1-1-00-1D 28 December 194°
+SUBJECT: Statements - Standard Operational lractice
+
+ey L1ll corrections anc erasures must bear the hancwritten initials
+
+person malin;
+
+Ly '
+J ae
+©
+
+6, Military pcrsonnel and civilians need be advised of their rights
+1 - o nee m3 Os oe
+under the 24th Article of War anc/or Fifth amencment to the Constitution,
+respectively, prior to making a statement only hen the incivicual concerned
+
+ce Proper evaluation of the situation and the exercise of sound
+judgment and technique are prorcquisites to the cesired standarc of conduct
+and reporting of investigations.
+
+&. Each Agent, lst bistrict OSI, will receive a copy of this letter.
+After careful study, explanation by Detachment Commancer, and complete
+understanding of lettcr contents, each Agent will execute attached certifi-
+cate which will be returned to this Listrict Headquarters where it will
+
+— 2
+
+become part of the Agent's personal fil
+
+9. Fach Detachment Commancer will inclvde his of this lettcr
+in his policy guide for future reforence,.
+
+l incl: Riwhid
+Certificate Colonel, USAF
+Distriet Commander
+
+Declassification Authority: NND 923007

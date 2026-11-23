@@ -1,0 +1,8 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T04:32:14Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 997617, "source_ctime_ns": 1793393542496081967, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302578589/1198.jp2", "source_mtime_ns": 1785808327000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302578589/1198.jp2", "source_sha256": "514935ecdf8ec46935b70529aea783eb017c858ac5482f76ab87c91274e4fbbd"}
+
+===== PAGE 1 =====
+{"alpha_words": 25, "chars": 186, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+27. INFORMATION WHICH YOU FEEL IS PERTINENT BUT WHICH IS NOT ADEQUATELY COVERED IN THIS QUESTIONNAIRE,
+ALTERNATIVELY PROVIDE A NARRATIVE EXPLANATION OF THE SIGHTING.
+
+PAGE 9 OF S PAGES

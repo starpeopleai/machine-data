@@ -1,0 +1,44 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T05:13:30Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 16916244, "source_ctime_ns": 1793355556837516169, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0142.jpg", "source_mtime_ns": 1785564476000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0142.jpg", "source_sha256": "fcae0efe689ae2f4c50560a42e51cf368e7ba61ddeb75e3b43ae0a4b8acf58dd"}
+
+===== PAGE 1 =====
+{"alpha_words": 141, "chars": 974, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+|
+
+IN ARBITRARY UNITS
+
+AMPLITUDE
+2
+
+|
+|
+
+it
+H
+|
+
+ao fe)
+FREQUENCY. IN CPS
+
+Figure 7, A Representative Scintillation Versus Frequency Curve. The Date
+Was Obtained by Observing Rigel on Oct. 26, 1961.
+
+a i aa
+
+Sf
+
+Figure 8. Out-of-Focus Images of Rigel Dec. 8, 1962, 9:12 P.M. Elevation
+Angle Approximately 32°.
+
+1.5 Flight on 13 December 1962
+
+Figure 6, The Telescope as Mounted to Obtain Observations of Stars From the Onritic abtve dare a tac edecr 10 Snee ae eerie ae eo er es te
+ae | paper is not to report on the mechanics of the flight, however, the flight was
+
+smooth with a minimum of gondola motion. Maximum rotational rates (during
+ascent and descent) were three degrees per second. During most of the flight
+period the rate was less than one degree per second. The above was determined
+by monitoring a standard aircraft compass. Estimates of pendulous motion were
+
+obtained from an undamped pendulum which indicated rates of approximately one
+
+degree per second.

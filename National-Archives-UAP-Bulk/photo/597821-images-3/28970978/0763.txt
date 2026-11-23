@@ -1,0 +1,40 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T04:48:16Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5053180, "source_ctime_ns": 1793379093727814552, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28970978/0763.jpg", "source_mtime_ns": 1785700934000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28970978/0763.jpg", "source_sha256": "4c930b67219e77e88c3af322e9fe29187d7c751d0abba161bb157381a1506cc1"}
+
+===== PAGE 1 =====
+{"alpha_words": 56, "chars": 361, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+5 s
+: “a4
+a eid
+
+(RBECURITY INFORMA TION when Alled in
+
+Datachment 10,
+
+SUPPLEMENT TO AF FORM 112
+
+REPORT NO
+
+AT Oe totes os, rey
+{
+
+is . & ee ae
+As ee it mf ey
+
+1006th AISS D10-UF0B-1-57
+
+Sketch of path of ooject prepared by Source
+
+‘ d wire
+
+ist
+
+Part Cne,Incl Two
+Pag |
+
+streedihenmesaecemienee nen
+
+SAAT “ume stestenenemenncg ee enim tempeane a:
+
+EY
+
+Gate

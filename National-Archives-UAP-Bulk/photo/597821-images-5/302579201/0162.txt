@@ -1,0 +1,19 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T04:34:46Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1427626, "source_ctime_ns": 1793393595236394908, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302579201/0162.jp2", "source_mtime_ns": 1785808299000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302579201/0162.jp2", "source_sha256": "7ba2341f3932833497c21517a91aeb9d819106de7ad00f49a4d15f5a82c04cbb"}
+
+===== PAGE 1 =====
+{"alpha_words": 84, "chars": 537, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+MEMO POR THE RECORD 31 Aug 68
+‘ Subi: UFO Observation, 20 August 1968
+: WITNSSSES :
+F DATE: 20 Aug 68
+| a ‘IME: 8:30 pm, EDT (2030 hours) |
+DURATION: 15 to 20 minutes
+NUMBER OF OBJS: three /
+LOCATION OF OBJS: one in the west, one inthe east and one in the SE that
+was going north
+4 DISAPPRARANCE: One in the west disappeared while the observer was
+4 in the house. the one in the east disappeared suddenly.
+1 The one going north made a sort of circle and was
+
+DESCRIPTION; A bunch of little lights at the front with a short
+vapor trail.

@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T05:01:05Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8390386, "source_ctime_ns": 1793386998114774190, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28997993/0070.jpg", "source_mtime_ns": 1785747827000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28997993/0070.jpg", "source_sha256": "76f74d8d2247e8ff3dbb1f9684f9684209ba867601f2070d013c5db859721b7b"}
+
+===== PAGE 1 =====
+{"alpha_words": 123, "chars": 867, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+3 DEPARTMENT GF THE
+(AF IN: 33235 (4 Jul 62)B/ CS en MESSAGE 8
+
+THO + Finb, OOP-CPei, SABSAIU 0 tf
+SMB A 193
+KAG7OKHC43 0
+"°°* "00 RUECW RUKAC RUEAHQ RJWFALB RJWXBR
+DE RUHLKH 2
+ZNR
+0 941402,
+FM 326 AIR DIV KUNIA FACILITY Hawall!
+TO RUHLKM/PACAF HICKAM AFB HAWAII
+RUKAC/C OMALSEAFRON KODIAK ALA KA
+RBWPPG/C CIVESTSEAFRON SAN FRANCISCO CALIF
+RUHPO/C (MHAWSEAFRON PEARL HARBOR HAWAII
+INFO RUAHQ/C OFS USAF WASHINGTON DC
+RJWFALB/CINCNORAD ENT AFB COLO
+RUHPA/CINCPAC CAMP H M SMITH HAWAII
+RUHAFS/CINCUSARPAC FT SHAFTER HAWAII
+RUHPBYC INCPACFLT PEARL HARBOR HAWAII
+RUAUAZ/C CMUSJAPAN FUCHU A JAPAF
+RUAMCR/C OMUSKOREA SEOUL KOREA
+RUAGFL/C (MUSTDC TAIPEI TAIWAN
+RUHPD/C QA WFORPAC FORD ISLAFD HAWAII
+RJWX BR/C INCSAC OFFUTT AFB NEBR
+_RUECW/CNO WASHINGTON DC
+RUCW/ SECNAV WASHINGTON DC
+AF GRNC
+
+AIR FORC* Page 1 of 2
+RANCH
+
+ICLASSIFIED MISSAG
+
+P§p-25. NSA-7, CIA-11, O0OP-2,

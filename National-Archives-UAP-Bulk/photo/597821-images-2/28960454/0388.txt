@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T04:40:40Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3194581, "source_ctime_ns": 1793376391080830927, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28960454/0388.jpg", "source_mtime_ns": 1785696401000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28960454/0388.jpg", "source_sha256": "670098fa9f2ac7df6ac2a009166d514b7a022f4fe4e13e492bd184a76e60f228"}
+
+===== PAGE 1 =====
+{"alpha_words": 125, "chars": 779, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Se LRA reer IE, sie ae Oe Ee oO ag, Te RE EN,» ep
+
+Dear Mr. Berrys
+
+This is to acknowledge your letter’ of 25 April 1960
+addressed to this office, liagra Fells Atr Station and
+Griffiss Air Force Base, New York concerning an unidentie
+fied Plying object sighting of 18 November 1954 over
+Western New York.
+
+ldagra Falls Air Station and Griffiss Air Force Base
+have no record of this sighting. This sighting was not.
+reported to the Aerospace Technical Intelligence Center.
+Griffiss Air Force Base at Rome, New York had no major aire
+craft accident or missing aircraft during the month of
+November 1954.
+I regret I could not help you in this miter.
+
+Sincerely,
+
+LAWRENCE J. TACKXER
+
+Sejor, USAF
+
+Public Informetion Division
+Office of Information
+
+328 N. Cth Street
+Olean, New York

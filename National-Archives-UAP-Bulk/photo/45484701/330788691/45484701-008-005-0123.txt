@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T05:00:53Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8307571, "source_ctime_ns": 1793365355977602739, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330788691/45484701-008-005-0123.jpg", "source_mtime_ns": 1785684613000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330788691/45484701-008-005-0123.jpg", "source_sha256": "93d1a1f0c10e5fedf93cf5c093640067af48cabb4248122df8b9b37a68070f34"}
+
+===== PAGE 1 =====
+{"alpha_words": 116, "chars": 743, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+“Kariners whe have had considerale experience Spotting the "flying
+flames” would be able to give a more accurate deseription of them than
+the average man who geee@ one in a Llifetine.
+
+‘inform tion gathered on meteors, comets and other objects seen at
+soa is forwarded to astronomers and observatories to aid ta the work of
+studying heavenly bodies.
+
+"But there are always reports of strange objecta which are never
+verified by any other source than the mawiner who sees them.“
+
+Je AOTION: Air Provest Marshal, Hickam AF Base, T, te, notified 27 March
+
+4e HV.ION FOR RESGHTs Jubmitwed in compliance with Ar0SI Letter Bo. & 5
+
+POR THe COMMAND Eis
+
+Lt Colonel, USAF
+Chief, Investi zations
+
+PPOREIDENT HAL
+
+Declassification Authority: NND 923007

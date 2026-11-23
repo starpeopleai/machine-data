@@ -1,0 +1,21 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T04:30:26Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 839664, "source_ctime_ns": 1793390188417192813, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302547452/0081.jp2", "source_mtime_ns": 1785808075000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302547452/0081.jp2", "source_sha256": "774215975e4751406d7a872b785da9109c69b234996cbd6d42c560e4c435d4cf"}
+
+===== PAGE 1 =====
+{"alpha_words": 66, "chars": 278, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Letlhing pei ge COL, SOL pe!
+bali Bl E “Ay ail Joli
+
+Me “hike C ee ae yy, hve
+pobie ee eee Ailey
+Ss! we Aan- ie ht
+
+ey Bove Le ee hae
+Aide. ‘Ty oo 9) oe ae ad ‘6
+= haan gi tea BE: The dame Fg
+
+ley ges sgh meh Tid ae
+
+ys
+
+on aa eL/ee ee eee HA eo,
+Land so Wy mitir y Dee. il TE

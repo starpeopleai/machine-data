@@ -1,0 +1,9 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T05:10:40Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 14098496, "source_ctime_ns": 1793365507291263777, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330788969/45484701-009-002-0038.jpg", "source_mtime_ns": 1785684819000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330788969/45484701-009-002-0038.jpg", "source_sha256": "bc1a135613843e2ef5be17536ef4f51d621e82455ab13aa9d8774113b290501e"}
+
+===== PAGE 1 =====
+{"alpha_words": 8, "chars": 64, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Ty eee fa,
+
+EKHIBIT MA”
+
+eclassification Authority: NND 923007

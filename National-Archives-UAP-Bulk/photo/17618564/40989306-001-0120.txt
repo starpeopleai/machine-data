@@ -1,0 +1,104 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T04:40:22Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 2434939, "source_ctime_ns": 1793356173127696439, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989306-001-0120.jpg", "source_mtime_ns": 1785564627000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989306-001-0120.jpg", "source_sha256": "4b88b92478ebbc8a3ec2a5ecb8f167a6d83b6bdb823c50af1d19fc8ffda84eb8"}
+
+===== PAGE 1 =====
+{"alpha_words": 319, "chars": 2365, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Saat
+
+ML-11
+
+VELOCITY
+
+Figure 34. Indicator ML-117 or ML-117-B.
+
+Status: Limited/Std. Stock No.: 7A1090. Refer-
+ence: TM 11-424.
+
+Indicator ML-117-(*) represents Indicators
+ML-117, ML-117-A, and ML-117-B. Indicator
+ML-117-—(*) is a wind-indicating instrument used
+with Support ML-29 and Anemometer ML-80.
+It provides an indication of wind direction, as
+
+ML-119-(*)
+
+mrtg
+
+Soe SE
+
+*
+MS
+
+Figure 35. Clinometer ML—119-C.
+
+~ CONFIDENTIAL
+
+3
+
+MODIFIED HANDLING AUTHORIZED
+
+determined by the wind vane, and a means of
+determining instantancous wind speed, as deter-
+mined by the anemometer.
+
+Note. A table which shows the models of Indicator
+
+ML-117-(*), Support ML-29, and ML-80 that may be
+used together is included with the data on Support ML-29.
+
+TECHNICAL CHARACTERISTICS
+WIND DIRECTION INDICATION
+
+METHOD: 8 incandescent lamps, 1 indicating each
+cardinal and intercardinal compass point; connected
+electrically with 8 sets of contacts on cam collar of
+wind vane Bearing ML-129 (p/o Support ML-29).
+
+COMPASS POINTS INDICATED: 16 (2 adjacent lamps
+lighted simultaneously indicate. wind direction between
+cardinal and intercardinal points).
+
+WIND SPEED DETERMINATION
+
+METHOD: Buzzer or incandescent lamp, selected by
+its respective toggle switch; number of buzzes or
+flashes counted in 1 minute indicates wind speed
+in mph.
+
+POWER REQUIREMENT: 6-v to 8-v ac or de, or 110-v,
+60-cye ac (built-in transformer); DPDT switch for
+supply change-over.
+
+INSTALLATION: Indoors, up to 300 ft from Support
+ML-29,
+
+WEIGHTS AND VOLUMES
+
+Un- Export
+
+packed packed
+Total weight (Ib)... 2-2-2 5 10
+Total volume (cu ft)....-.-.--- 19 7
+
+Status: Standard. Stock No.: 7A509.  Refer-
+ence: 'TM 11-2423.
+
+Clinometer ML-119—(*) represents Clinometers
+ML-119-C through -F. Clinometer ML-1 19-(*)
+is an optical instrument that consists of a lensless
+sighting tube with cross wires at the larger end,
+and a quadrant plate assembly; the quadrant is
+graduated in whole degrees from 0° to 90°.
+clinometer is used by an observer, located at one
+end of a measured base line, to determine the
+angle of elevation of a spot of light thrown on a
+cloud by a ceiling light projector located at. the
+opposite end of the base line. Data thus obtained
+are used to compute cloud height (ceiling). The
+equipment, including the carrying case, weighs
+about 5% pounds.
+
+MODIFIED HANDLING AUTHGRIZED
+
+The -
+
+—-;

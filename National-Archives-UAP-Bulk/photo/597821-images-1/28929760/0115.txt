@@ -1,0 +1,21 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T04:47:00Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4827683, "source_ctime_ns": 1793368871587937282, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28929760/0115.jpg", "source_mtime_ns": 1785689002000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28929760/0115.jpg", "source_sha256": "d26226ba02f87cd11ae764a93bf62dd185144c6a5ae88a5e2883e3f2587e23ee"}
+
+===== PAGE 1 =====
+{"alpha_words": 133, "chars": 810, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Bien ye,
+
+Cent Ryherd saw two unidentified aerial objects at approximately 8,000 to
+10,000 ft traveling above a P-20. . He thought they were approximately 15 to
+
+25 feet in diameter. In shape they were circular like a bell on the bottom
+but not completely round. Thefirst flew straight end level but the second
+flying close behind the first at the same altitude seemed to be going from
+left to right and right to left ~ more like a guard in an aircreft formation.
+Due to the noise of the P-80, no sound could be heard from them. They did not
+leave any vavor smoke or visible trail. The weather wes clear and Captain
+Ryher and Lt Ward Stewart watched them until they disappeared in flight
+presumably over Oakland headed toward the ocean.
+
+NOTE: Capt Ryherd showed extreme sincerity throughout the interview
+
+o

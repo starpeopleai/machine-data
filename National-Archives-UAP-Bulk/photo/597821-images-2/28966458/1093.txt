@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T04:53:14Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6023409, "source_ctime_ns": 1793378026957350210, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28966458/1093.jpg", "source_mtime_ns": 1785696688000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28966458/1093.jpg", "source_sha256": "212c6b1f8c9346123dee54e72af8b5d54a0124c9a7325042e16db4cfd83b0267"}
+
+===== PAGE 1 =====
+{"alpha_words": 130, "chars": 949, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+OPTI gg A a air NENA =e DSTORE Rete
+
+PROJECT 10073 RECORD CARD
+
+1. DATE 2. LOCATION 12, CONCLUSIONS
+ia) Boe Baltoae
+O5 u hio QO Probably Balloon
+28 July 1956 Columbus, O B porary Bae
+3. DATE*TIME GROUP 4. TYPE OF OBSERVATION
+; O Was Aircraft
+Local xf Ground- Vi sual O Ground-Radar G Probably Aircraft
+GMT 29/0300Z 0D Air Visual O Air-Intercept Radar QO Possibly Aircraft
+= puotres 6. SOURCE O Was Astronomical
+uti ay GO Probably Astronomical
+zi ed Civilian O Possibly Astronomical
+xX XO No ww s
+° F OSJECTS 9. COURSE Oo, Other
+7. LENGTH OF OBSERVATION 8. NUMBER O 8 glass qreutllG@aal Ola fer ERRICER
+Unknown
+ten to fifteen mins one unknown
+10. BRIEF SUMMARY OF SIGHTING VW. COMMENTS : ae oh
+One star like object, size of penhead; Possible balloon, possible a/c.
+at arms jJength, reddish in color, Address of observers unknown,
+Course a¢ sarently erratic course, Insufficient data for evaluation,
+NO Report In File.
+
+ATIC FORM 329 (REV 26 SEP 52)
