@@ -1,0 +1,65 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T00:50:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6951705, "source_ctime_ns": 1793380031895861037, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28974294/0796.jpg", "source_mtime_ns": 1785700765000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28974294/0796.jpg", "source_sha256": "c61c5c32b9c0e4d2ca45781b9ff69f3bbdfa3b4ffb89d6f6682b0ff7ac02c473"}
+
+===== PAGE 1 =====
+{"alpha_words": 119, "chars": 917, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+a a i tt ee al
+
+UFOCB INDEX CARD AISS=UFOB-498-57
+
+‘1. DATE
+
+’ "
+, / " ’ Fog "
+‘ +
+| Pinte: ,
+-.
+
+2 LOCATION .
+
+Pe
+
+It. Bragg, NCar.
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION
+09/1100z Now 57 CX Ground- Vi sual O Ground-Rador
+| D Air- Visual 0 Air-Intercept Radar
+5. PHOTOS 6. SOURCE
+| O Yes
+| @ No Military
+7. LENGTH OF O8SERVATION 8. NUMBER OF OBJECTS | 9. COURSE
+| .
+Three minutes One S to NG
+
+12, CONCLUSIONS
+
+Was Balloon
+Probably Balloon
+Possibly Balloon
+
+Was Aircraft
+Probably Aircro*
+Possibly Aircraft
+
+Was Astronomical
+Probably Astronomical
+Possibly Astrono:nical
+
+Other
+
+ooo ood ogo ooo
+
+nknown
+
+10, BRIEF SUMMARY OF SIGHTING
+
+Ons mimd white object the size of a base-
+bal... Coject was seen coming from the S then
+to the NE. oCbject tas in sight for 3 mins.
+
+11, COMMENTS
+
+Description, curation, Tlight path
+indicate probability of aircrart.
+
+AISOP Form § (15 Oct 54)
+
+Insufficient Data for Evaluation |. .

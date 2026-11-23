@@ -1,0 +1,34 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T00:59:52Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8203214, "source_ctime_ns": 1793385081229560876, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28991778/1382.jpg", "source_mtime_ns": 1785748280000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28991778/1382.jpg", "source_sha256": "127b48fa42983cb53f54cf96eb11144c257029b43b557698f7c4c39b0786152c"}
+
+===== PAGE 1 =====
+{"alpha_words": 111, "chars": 844, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+beng RPV PETER WR ERIE BON PRN eC SF YEERGL sn Genmng Son aREQPHO ree aie tee
+
+DEPARTMENT OF THE AiR FORCE
+STAFF MASESAGE DIVISION
+UNCLASSIFIED MESSAGE
+
+INCOMING
+AF IN : . 41067 (9 Mar 61) | Page 2 of 3
+PAGE TWO RJWZSBA 1
+
+(7) TAIL APPEARED TO BE 59 TIMES LONGER THAN DIAMETER OF OBJECT
+(8) NZA
+(9) N/A
+B¢1) LOOKED BACK TO OBSERVE ROUGH ENGINE - SIGHTED OBJECT
+(2) INNITIALLY SIGHTED JUST ABOVE ACFT WING AT 255 DEGREES
+FROM NOSE OF ACFT. INCREASED IN AZIMUTH AND CROSSED TO
+210 DEGREES.
+(3) 25 DEGREES ABOVE THAT OF ORIGIONAL SIGHTING - AZIMUTH,
+210 DEGREES.
+(4) SLIGHT ARC - FAIRLY CURVED TRATECTORY
+(5) OBSCURED BY CLOUDS
+(6) 5 SECONDS
+C1) VISUAL
+(2) NONE
+(3) RC=121, ETH 25, 1300 FT, 335 DEGREES MAG.H., 165 K IND,
+MCCLELLAN
+D1) 98/12542Z
+(2) NIGHT
+E 43 DEGREE 11° N X 134 DEGREE 04° W
+F JOHN D. THOMPSON, CAPT 965TH AEW/C SQ, ACFT COMDR.

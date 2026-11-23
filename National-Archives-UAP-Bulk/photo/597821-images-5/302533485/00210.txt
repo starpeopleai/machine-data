@@ -1,0 +1,13 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T01:10:20Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1229277, "source_ctime_ns": 1793388849642877740, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302533485/00210.jp2", "source_mtime_ns": 1785808233000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302533485/00210.jp2", "source_sha256": "c8c72b2f99a2388c160e7e25f647048fb3cdd513e90cbda7f7d31e4e3568dee8"}
+
+===== PAGE 1 =====
+{"alpha_words": 24, "chars": 193, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+mene en etencerneenenee ae eraeenenen ene oensee nescence bes
+
+FOREIGN TECHNOLOGY DIVISION AFSC UNCLASSIFIED
+
+Magnification 184x
+
+Figs 3 Cotton Fibers From a Thread of the Cloth
+
+UNCLASSIFIED

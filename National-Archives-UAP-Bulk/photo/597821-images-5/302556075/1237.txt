@@ -1,0 +1,47 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T01:13:14Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1683615, "source_ctime_ns": 1793391180291281465, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302556075/1237.jp2", "source_mtime_ns": 1785808141000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302556075/1237.jp2", "source_sha256": "b03e75af89b26d42ced29115f1b0dd3256bc8f20fdc2cdc0b0d05251863f06f5"}
+
+===== PAGE 1 =====
+{"alpha_words": 97, "chars": 738, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+te te
+
+“e
+
+1. DATE - TIME GROUP 2. LOCATION ]
+
+> ) | ~ *PROJECT 10073 RECORD | Se on
+
+ot ‘
+; | tr meme.
+
+| 24 Sept 66 24/21002 Richmond, Va. (1 Witness)
+3. SOURCE 10. CONCLUSION
+
+wk
+
+| Civilian Astro (METEOR)
+4. NUMBER OF O8SECTS
+
+One
+5. LENGTH OF OBSERVATION |11. BRIE® SUMMARY AND ANALYSIS
+
+1, Seconds Observer reported e@ silver colored object that traveled
+‘ through an arc of 57 deg in several seconds, Due to the
+6 TYPE OF OBSERVATION
+: : : duration of the signting no detailed features were visible.
+Grourd-Visual The description is cmsistent with that of a meteor observation.
+
+7 COURSE
+
+Eastward
+8. PHOTOS
+
+0 Yes
+XXNo
+9. PHYSICAL EVIDENCE
+
+Dn Yes
+
+XKNo ,
+
+FORM
+FTO sep 43 0-325 (JDE} Previous editions of this form may be vaed,

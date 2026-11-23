@@ -1,0 +1,21 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T01:25:30Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4804197, "source_ctime_ns": 1793386648284245151, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28996910/0524.jpg", "source_mtime_ns": 1785747841000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28996910/0524.jpg", "source_sha256": "02c040bfa9eb6ee2ba2c2fe478efb05fb81d720c76db850533c661f103a6e00b"}
+
+===== PAGE 1 =====
+{"alpha_words": 79, "chars": 454, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+9
+OPR CALLING LA 924 GA OK M
+LA 924-G V OK 1352D LMAFS GA
+
+SAaPOI-35
+
+YILL YOU PLEASE MAKE A COLOR PRINT OF THE FOOTAGE FROM THe
+JOE WALKER FLIGHT IN THE X-15 USEING ONLY THOSE PORTIONS OF
+THE FILM THAT SHOW THOSE UNUSUAL BLOBS AND SEND IT TO
+
+LT COL ROBERT FRIEND HQS FOREIGN TECHNOLOGY DIVISION PAREN
+TD-£ PAREN AIR FORCE SYSTEMS COMMAND WRIGHT PATTERSON AFB OHIO
+THIS IS NEEDED THERE FOR STUDY AND FILE FOR FUTURE REFERENCE USE
+GA
+
+END HERE
+ARL OUTO

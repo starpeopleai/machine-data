@@ -1,0 +1,21 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T00:42:55Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5294576, "source_ctime_ns": 1793359130147476011, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-006-010-0003.tif", "source_mtime_ns": 1785681324000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-006-010-0003.tif", "source_sha256": "604ade4cab6109a48537cea989eae763434820247f63c8bfc70905d096d1911a"}
+
+===== PAGE 1 =====
+{"alpha_words": 61, "chars": 433, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Declassification Authority NND 923007
+
+D2 RJEDEN 922? ,
+PP 19/1830ZS .
+F COMDR 46620 AISS ENT ara COL
+
+tT COMDR NELLIS AF NEV
+
+1
+
+PINCLASSIFTED/ATSOPS98PD. “ATTN CLN Mad “cuRVIN = MILLER aR PD URMSG
+-OTALOH PD: RED INFO. ON ANY ACTIVITY IN DANGER. AREAS R/271. AND P/275_
+“PAREN RADIO FACILITY CHARTS CMM 27 JUN 55. ‘CMM PAREN. WHICH ou
+
+ACCOUNT FOR’ UFOB SIGHTING 17/1 2592 ‘DASH: iT /T2eaz AUG 55 PD. ae
+
+_ BF 19/1851Z AUG RJEDEN

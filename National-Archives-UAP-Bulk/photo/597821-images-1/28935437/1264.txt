@@ -1,0 +1,58 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T00:37:31Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4801593, "source_ctime_ns": 1793370823634901791, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28935437/1264.jpg", "source_mtime_ns": 1785688613000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28935437/1264.jpg", "source_sha256": "afc55a285fadf38dbf855883c3f8448dffaf82afc569ab19540e2e27e570c328"}
+
+===== PAGE 1 =====
+{"alpha_words": 165, "chars": 1253, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+- ‘*
+-
+
+od wwe os
+“ OH ha han
+
+2
+
+> UNCLASSIFIED
+
+16. Sound and odor:
+None.
+
+17. Trail (color, length, width, persistence, ctc.)
+Color = Same as # 8, 1000 yds length, persistency 3/4 of a second,
+
+18,. Luminosity (visible by reflection, incandescence, other = dogrec
+of brilliance):
+About 3 times the brilliancy of meteorite,
+
+19. Projections (fins, wings, rods, antennae, canopies, ctc.):
+None.
+
+20. Manouvers (turns, climbs, dives, ctc. - sketch of flight path):
+Level flight, loseing altitude.
+
+21. Manner of disappezrance:
+Faded out or burned out.
+
+22. Effect on clouds:
+None.
+
+23. Additional information concerning object:
+There were patches of cirrus clouds at 25 to 30,000 ft (6 miles) at an
+
+az of 110 degrees, ;
+24. Weather conditions and light at time of sighting:
+
+Clear, no ceiling, visability unlimited,
+
+Name and address of observer: ea (ent Aviation Officer)
+Hq » Vamp Hood, Texas
+
+Occupation and hobbics:
+Officer U.S. Army
+
+Comments of Intcrrogator relative to intbiligence and character of
+observer (Check neighbors, police dept., FBI records, employer, ctc.):
+
+Excellent Observer.
+
+Did observer woar glasses, especially polariod glasses at time of
+sighting, or was object viewed through canovy, window, or other
+transparent material?

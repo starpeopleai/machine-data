@@ -1,0 +1,64 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T01:07:41Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 962032, "source_ctime_ns": 1793390175426813370, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302547284/1462.jp2", "source_mtime_ns": 1785808188000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302547284/1462.jp2", "source_sha256": "8e3bb5a3f3d3be5a1b9eb30bcb1df61a2a965ce79fe1de78b1bfb3ccd12f4787"}
+
+===== PAGE 1 =====
+{"alpha_words": 236, "chars": 1518, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Poge 2
+
+ey SOE eae Ta ts ares 3 SETS BIR aE Ea
+
+8. IF you saw the object at NIGHT, what did you notice co-cerning the STARS and MOON?
+
+8.1 STARS (Circle Ore): : 8.2 MOON {Circle One):
+a. None a. Gilineeniht
+b. A few . ; b. (Dull moonlight
+c. Many ) c. 'No moonlight —: pitch dark
+d. Don’t remember pie Se att ie d. Don't remember
+
+What were the weather conditions at the time you saw the object?
+
+9.
+CLOUDS (Circle Ove): WEATHER (Circle One):
+b. Hazy — b. Fog, nist, or light rain
+ce. Scattered clouds c. Moderate or heavy rain
+
+d. Thick or heavy clouds d. Snow
+e. Don’! remember
+
+10. The object anveared: (Circle One):
+
+a. Solid dCs a light
+b. Transparent e. Don't remember
+c. Vopor
+
+11. If it appeared as a light, was it brighter than the brightes+ stors? (Circle One):
+
+a. Brighter c.CAbout the sare)
+
+b. Dimmer d. Don't know
+
+11.1 Compare mE 4 some common object:., ,
+
+e - 7 : fe
+ae ae ae
+Li ft (2 Welk vi Y LBS ae:
+re ET ~ Z 44 FR oii
+2 :
+
+12. The edges of the obiect were:
+
+(Circle One): o. Fuzzy or blurred c. Other
+b. Like bri tor
+c.CSharely outlined -
+d. Dar’t remember
+13. Did the object: (Circle One for each question)
+a. Appear to stend still at any time? oD, No Denti kaow
+b. Suddenly soeed up and rush away at any time? cYes > No Don’t know
+c. Break up into parts or explode? es No) Don’t know
+d. Give off smokn? Yes CNo? Don’t know
+e. Change brightoess? CYes> No Don’t know
+f. Change shape? Yes No! Don’t know
+g- Flash or flicker? ‘fes No Don’t know
+
+h. Disappear and reappecr? Yes die) Don’t know
+
+—a

@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T00:51:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7142016, "source_ctime_ns": 1793383325959033139, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28986741/0460.jpg", "source_mtime_ns": 1785747968000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28986741/0460.jpg", "source_sha256": "d8f3a7bd5636316ea22ff77b207a135a87db8c2abd4c0be7dddfcc3400689f91"}
+
+===== PAGE 1 =====
+{"alpha_words": 45, "chars": 286, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+1:90 pm -| gaa
+© 21 June 60
+su iE M BUSPENSE DATE RuMpen
+¢ n/a Letter \
+
+Lt Col. L. Tacker
+
+FI DESIGNATION
+
+“SUMMARY
+
+Req for info on UFO.
+
+Wash Suspense 22 June 60
+
+ UX2afpab/8:55
+
+“TO TO TO TO TO
+BATE ne 69 DATE DATE DATE DATE
+REPLIED OR INDORSED TO FILED (Place) | OTHER ACTION
+
+Wl

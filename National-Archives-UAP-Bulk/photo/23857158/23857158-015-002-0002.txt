@@ -1,0 +1,80 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T00:35:42Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4503408, "source_ctime_ns": 1793360355736184455, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-015-002-0002.tif", "source_mtime_ns": 1785681699000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-015-002-0002.tif", "source_sha256": "277192d156a155b646ead96f2cbb8b45ad9da61e1e9844f5eb3a5ab973816a72"}
+
+===== PAGE 1 =====
+{"alpha_words": 130, "chars": 985, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Declassification Authority NND 923007
+
+ENO 323
+
+ENAQSS YD3125 XYDL43 XM3Q@76DMBQ59
+
+RR RJEDEN RJEDWP RJEPHQ RJWPSB
+
+DE RJWPDM 92a yt...
+
+R 289695Z
+
+Fil COMDR 25TH ADIV MCCHORD AFB WASH
+TO RJEDEN/COMDR ADC: ENT AFB COLO
+RJEDWP/COMDR ATIC WP AFB OHIO
+RJEPHQ/DIR OF INT HQ USAF WASH 25 DC
+-RIWPSB/COMDR WADF HAMILTON AFB CALIF
+
+BT /
+/UNCL/25TH TAC A-261
+
+1 A ROUND |
+
+B PEA : . . . Phise We sh.
+
+C YELLISH RED | .
+
+Da Apher, We
+2°A SIGHTED M MOVING LIGHT MN ngleSof P Bell
+
+B 500F¥ ABOVE SKYLINE OF LUMIS ISLAND 735
+SLOWLY FADED OUT oN M e
+
+Cc
+D GLAIDED DOWN ‘SIMILIAR TO AIRCRAFT IN FLIGHT PATTERN
+E SLOWLY FADED” .
+
+F-29 MIN r
+
+3 A VISUALLY
+
+3 NONE asT.
+
+CN/A ised PHM p
+
+4 A 9499393429 26 JAN 1956K
+
+5 i
+
+6 é | WASH
+
+B
+
+7
+
+B50990 125/20
+
+16203 673/065
+29983 S237 46 °
+32238 358/55
+
+49939 2723/26 ss) Ay fhe at
+C NONE : a a;
+D CLEAR . fin = 2
+E NONE Fr
+8 NONE
+9 NONE
+
+1G NONE. TAKEN SINCE TIME OF SIGHTING HAD PASSED BEFORE REPORT
+li NOT AVAILABLE .
+
+i2 NONE
+
+BT
+
+28/3652Z JAw RJWPDM ‘

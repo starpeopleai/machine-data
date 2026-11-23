@@ -1,0 +1,63 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T01:07:18Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 844088, "source_ctime_ns": 1793390257489926953, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302548410/0916.jp2", "source_mtime_ns": 1785808178000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302548410/0916.jp2", "source_sha256": "b1489997fdcc9e4c4679d712d173ac252d776402e6cfba2430520f0c562634ab"}
+
+===== PAGE 1 =====
+{"alpha_words": 120, "chars": 896, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD
+
+1. DATE - TIME GROUP 2. LOCATION 3 ; ;
+28 March 66 29/0030,0050&0355Z West Milton, Kettering, Fairborn, Ohio
+
+3. SOURCE 10. CONCLUSION
+Civilian SATELLITES :
+
+4. NUMBER OF OBJECTS
+
+Three Separate
+
+ot ECHO II or any of the PEGASUS satellites for which we have
+he schedules, However, there are over 30 satellites orbiting
+he earth which are visable,
+
+5. LENGTH OF OBSERVATION
+
+5-10 Minutes each
+
+11. BRIEF SUMMARY AND ANALYSIS
+
+!
+|
+{
+}
+
+All objects were reported as being satellite like. A bright
+
+6. TYPE OF OBSERVATION
+
+Ground-—Visual
+
+light: like a star moving across the sky at a repid rate of spded.
+The appearance, duration and flight charecteristics are all
+
+7. COURSE
+SEE CASE FILE
+
+VARIED
+
+coherent to those a satellite would have,
+
+8. PHOTOS
+
+O Yes
+
+XIXNo
+
+9. PHYSICAL EVIDENCE
+
+O Yes
+
+HIXNo
+
+FORM
+FTD sep 63 0-329 (TDE)
+
+Previous editions of this form may be used.

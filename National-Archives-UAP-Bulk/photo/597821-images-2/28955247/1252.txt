@@ -1,0 +1,45 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T01:22:39Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4143690, "source_ctime_ns": 1793375236448898779, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28955247/1252.jpg", "source_mtime_ns": 1785696404000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28955247/1252.jpg", "source_sha256": "a4eafe9dc12b5723634fb8d4d4ac919a98988241b5a6ce4d6f61efa2442188c5"}
+
+===== PAGE 1 =====
+{"alpha_words": 185, "chars": 1125, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+a
+
+JEDUP/ALR TECK INTEL GEN WRIGHT PATTERSON APS OHIO i | een (
+INFO JEDENVCOMDA ENT APS COLORADO SPRINGS COLO
+penne TAC LANGLEY AF3 VA
+
+SSDF/NINTH AF Bre AF3 NC UNCLASSIFIED
+
+MMMRATTNSATIAAS2C RAGTH2972 PD FLYOURPT FOL INFO
+SEND Tai PAR ic AFL aes DTD 29 APR oa CLN
+
+Qe THIEL CIRCULAR SHAPED OBJECTS ONE LARGE CMA THO SMALL CHA AND ONE (
+STAZAK OF LIGHT CMA SIZES UNK CMA WHITE IN COLOR CMA NEGATIVE SOUND
+
+CMA TRALL O& EXHAUST PD LARGER OBJECT APPEARED TO HOVER WITH BOdaING
+“MOTION PD
+
+we S20 /9949a EST 2 JULY 53 PD OSSERVED APPROX 2 HRS PD
+jo VISUAL FROM GUAPACE PD
+
+te OBSERVERS LOCATED OWE QUARTER HE RORTH OF SHAY AFB 53 DEG S3'N
+fe DEG 297% PD THS LARGE OBJECT FLAST APPEARED AT TREE TOP WEIGHT CHA K |
+LATZ2 AAPEDLY ASCENDING VEATIOALLY TO UNK ALTITUDE PD 2EIAINING OaJECTS
+CaSERVED IN A -NOATHZALY DIRECTION AT UNK ALT PD
+
+Sy A 10 i. .72c ee
+
+Je CAVU CMA SUAFACE WINDS CALI CNA 22,992 FT 299 DEG AT EIGHT KNOTS CMA
+af p82 FE Q43 DEG AT FIFTEEN KNOTS PD
+
+7e UNKNOWN PD
+
+Se UNKNOWN PD
+
+de NONE PD
+
+oe UNKNOWN PD PUWNGRADLD AY 6 SRVALeES .
+DECLASSIF [ED AY Tsk 3 EARS
+"3/3222 JUL JESDD DOD DIR 5200.10
+
+UNCLASSIFIED

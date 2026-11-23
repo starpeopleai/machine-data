@@ -1,0 +1,34 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T01:12:34Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1467586, "source_ctime_ns": 1793355870938476631, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989282-001-0110.jpg", "source_mtime_ns": 1785564546000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989282-001-0110.jpg", "source_sha256": "25eff4a4d72238f0f7b05a8338ddfcb3c1f42d03e80535688e8930028fe7910f"}
+
+===== PAGE 1 =====
+{"alpha_words": 231, "chars": 1477, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+87
+
+Air Force Base, Texas (ieee, San Antonio Air Materiel Area), and
+to Biggs Air Force Base at El Paso, Texas, The fact that
+Holloman was not on any regular Air Force logistic supply routes
+made these flights appear all the more necessary, but unfortun-~
+ately they went against standing Air Force regulations that
+prohibited scheduled domestic flights by military aircraft save
+under very special conditions. For this reason, and also for
+lack of sufficient C-l7's to keep up the service, it was
+abandoned in mid-1956.°° The number of planes awaiting parts
+promptly went up again, although it never approached the level
+of September 1955. ‘Indeed for all of calendar year 1956 as
+contrasted with calendar 1955 the percentages of aircraft out
+of commission for parts (this time not including * AFNE/IS*" )
+
+were 3.1; and 8.5 respectively. This striking improvement
+reflected greater efficiency in both supply and maintenance,
+
+and better cooperation between the two functions. One of the
+most notable advances has been in preparing for the arrival of
+new aircraft types. Holloman's performance had once been
+rather poor in this respect, but in getting ready for the
+Center's first F-10 the local Supply Squadron abandoned the
+usual requisitioning routine and directly contacted Edwards
+
+Air Force Base, where the plane had been undergoing tests, to
+find out what parts were most likely to be needed. On the basis
+
+of Edwards* experience, Holloman then put in a generous lump

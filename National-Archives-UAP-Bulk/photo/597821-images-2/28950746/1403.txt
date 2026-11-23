@@ -1,0 +1,44 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T01:20:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3947711, "source_ctime_ns": 1793374209872965686, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28950746/1403.jpg", "source_mtime_ns": 1785696539000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28950746/1403.jpg", "source_sha256": "2cb02568519a08a29bec917cc094dc07ad85a9bcbc3e45afee2a9b1c1f99838e"}
+
+===== PAGE 1 =====
+{"alpha_words": 173, "chars": 1220, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Page 3 |
+
+8.1 What direction were you looking when the object disappeared?
+
+(Circle One): a. North e. South _
+b. Northeast (£. Southwest:
+c. East ge West
+d. Southeast he. Worthwest
+
+8.2 Circle one of the following to indicate how certain you are of
+r to the above question and preceding question (8 and
+
+8.1).
+Ae Certain’ ce. wot very sure
+b. Fairly certain ad. Just a guess
+9, Were you wearing eye glasses when you saw the object? (Circle One):
+Yes or = tlo
+10. How was the object seen?
+(Circle One): «a, Through window glass e. Through theodolite
+b. Through windshield f. Through sunglasses
+s. Through binoculars § @. Through open space)
+ad. Through telescope he Other
+11. What do you rerember about the weather conditions at the time you saw the
+object?
+11.1 CLOUDS (-iiecle One). 11.3 WEATHER (Circle One)
+| @. Clear sky) @. Dry
+b. Hazy be Fog, Mist, or light rain
+Ce Scattered clouds c. Moderate or heavy rain
+d. Thick or. heavy clouds d. Snow
+e. Don't remember e. Don't remember
+11.2 WIND (Circle One) 11.4 TEMPERATURE (Circle One)
+1» Mo wind a. Cold
+(o. Slight breeze b, CooD
+c. Strong wind c. Warm
+de Don't remember ad. Hot
+e» Don't remember
+¥
+12, Ustimate how long you saw the object? ?
+
+Hours ‘inutes Seconds

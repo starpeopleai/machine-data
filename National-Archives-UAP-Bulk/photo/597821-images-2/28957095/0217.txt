@@ -1,0 +1,52 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T01:19:39Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3792508, "source_ctime_ns": 1793375636677408990, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28957095/0217.jpg", "source_mtime_ns": 1785696737000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28957095/0217.jpg", "source_sha256": "0fbce875f30431da2ce7cb00e91f20ae107a47f60cbe61535c24b18f6a293f27"}
+
+===== PAGE 1 =====
+{"alpha_words": 102, "chars": 783, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+1, OATE - Time GROUP
+16 Dee 53 16/1754z
+
+2. LOCATION
+MEDITERRANEAN AREA
+
+3, SOURCE
+MILITARY
+
+4. NUMBER OF OBJECTS
+one- twelve
+
+10. CONCLUSION RanaR ANALYSIS
+
+1. Anomalous propagation
+3. Geese or storks in flight
+
+2. Ship-borne jemming
+
+$. LENGTH OF OSSERVATION
+several minutes
+
+6. TYPE OF OBSERVATION
+ground radar
+
+7. COURSE
+ISTATIONARY
+
+8. PHOTOS
+
+5 Ves
+OXNe
+
+9. PHYSICAL EVIDENCE
+
+O Yes
+Q Ne
+
+11. BRIEF SUMMARY AND ANALYSIS
+
+Radar returns, stationary, varying in shape eas a series of
+"y", "mM", and "W". Formation in straight line. Range 20-0
+miles from station. Direction 25 deg az, height finder was
+out. In sight several minutes. Disappeared by fading from
+scope. Targets appeared to be stationary.
+
+FORM bs
+FTD. ser 63 0-329 (TDE) previous editions of this form may be used,

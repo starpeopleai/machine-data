@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T01:28:48Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5594959, "source_ctime_ns": 1793378035819613683, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28966494/1122.jpg", "source_mtime_ns": 1785696948000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28966494/1122.jpg", "source_sha256": "91a382c75328b2be342580c5399705da93e2aa60d8cee0ce98de424b5c197a40"}
+
+===== PAGE 1 =====
+{"alpha_words": 80, "chars": 571, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ere eee» em
+
+. HEADQUARTERS SX
+«SAMS CONNALLY AIR FORCE BASE
+WACO, TEXAS
+
+0 6 AUG 1956
+SUBJECT: (UFOB) Report of Unidentified Flying Object
+
+TO: Commander
+4ir Defense Comnand
+Hnt Air Force Base
+Colorado Springs, Colorado
+
+1. Inclosed letter from Mr.
+® Texple, Texas, is forwarded for action deemed
+
+necessary.
+
+2. This headquarters is unable to summit report in foras
+required ty paragraph 7, AFR 200-2, 12 August 1952, as neither AF
+Form 112 or AF Form 112a is presently available.
+
+FOR THE COMMANDER:
+
+Fel
+berz-riaeg aor. t/ Man & Ju. SS
+
+dl
+
+- “ - . cae >
+
+7
+Cept a |

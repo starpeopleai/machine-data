@@ -1,0 +1,46 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T01:22:18Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4082332, "source_ctime_ns": 1793374563856079818, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28952202/1336.jpg", "source_mtime_ns": 1785696718000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28952202/1336.jpg", "source_sha256": "06125f3be7e6b1b76148df2e5b2d2b0fb6595baf4e6e448065a119f142badd29"}
+
+===== PAGE 1 =====
+{"alpha_words": 108, "chars": 720, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+: ‘ “- aw c: ee
+y - . a \
+. '
+> a,’
+. . ’ .
+HEADQUARTERS
+IN REPLY, ADDRESS BOTH SAN ANTONIO AIR MATERIEL AREA
+« COMMUNICATION AND EN- re
+VELOPE TO ATTENTION OF pe
+FOLLOWING OFFICE SYM- ‘
+Bou es
+- fre . \ ee *
+SUBIICT: (Unélassifisd, 2TYOs ict
+oP imi Te Bik
+imence Division
+te ywyne wel
+spoan (fe Marans Le
+am A, rho “ ,
+at 4 * t +. 5 Dd» Je ts
+* - , ™ a oat §eaeerl
+i de wy TT rN ¥
+“ ‘ * o- ¢@
+X , :
+rf ‘ 7
+Bites . 3 BAA chy i
+F “orn 112 Major, VUoar. 3
+or : veTO
+my. nm sys Ph '~
+ap . ‘ wie cu 1
+ics rayy Ara +! ,
+wy oy ‘ ° ; f att @ ae Bh +e i
+oe be! Sy O ™ vi a art S000 4
+ita 234 °
+
+UNCLASSIFIED
+
+HQ. SAAMA FORM 2
+(REV 18 SEP 51) SUPERSEDES HQ SAAMA FORM 2, REV 2 MAY 1949,
+
+WHICH WILL BE USED UNTIL EXHAUSTED.
+
+ee

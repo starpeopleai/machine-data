@@ -1,0 +1,58 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T01:28:17Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5469954, "source_ctime_ns": 1793362633149168498, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330783376/45484701-003-004-0070.jpg", "source_mtime_ns": 1785685002000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330783376/45484701-003-004-0070.jpg", "source_sha256": "aff3f98da10ae64c4eb6dec7a37ece7a791c643411325b09cbc8a0f4d60aab80"}
+
+===== PAGE 1 =====
+{"alpha_words": 310, "chars": 2082, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+; 4 : “ i / 4
+eer oe | ot” 1 A om. Fo
+ee Az bee Me fey ie .)
+> 4 PP << hs 5% ° al ae: is
+ead pa, ge : a ‘
+- . ye: _ oe & ‘
+— cc
+HEADQUARTERS
+THE ARMJRED COMBAT TRAINING CENTER
+Camp Irwin, California
+AMPal-B 27 February 1956
+
+SUBJECT: Unidentified Flying Objects (U)
+
+TO: Commanding General
+Sixth Army
+Presidio of San Francisco
+California
+ATTN: AC of 5, C=2
+
+1. During the dates 2 February - 21 February 1956, sightings of un-
+identified flying objects by members of this command were noted, Sightings
+were visual and in three instances by radar oscilloscope operated by the
+47th AAA Detachmeat. The radar site is located at coordinate 444118,
+
+2. On 2 February 1956 between the hours 1300 - 1600, Pfc Richard L,
+Walker, Co "C", 723rd Tank Battalion, saw a flying object moving from North
+
+to South. Pfc Walker estimated the speed of the object to be in the thousands
+of miles per hour end at an altitude of over 15,000 feet.
+
+3, On 9 February 1956 at about 1300 hours, Sfc Kenneth D, Marrs, and
+Pfe Ricard, both from Co "C", 723rd Tank Battalion, observed an unidentified
+flying object at grid equare 3114, The object moved from the North to the
+above location, it stayed at the above location for one (1) minute, it
+moved with a tremendous burst of speed from grid square 3114 to grid square
+4502, It was observed in this position for about four (4) minutes, The
+flying object was described as oval in shape, brilliant luminosity, and no
+noise,
+
+4, The sightings were reported to the’ George Airforce 3ace Intelligence
+Officer, Airforce Intelligence personnel made ae visit to this installation
+for further information, Coordination with the 47th AAA Brig, Intelligence
+Section has been made,
+
+5. Radar sightings were made in three (3) different locations of air-
+craft or flying objects that could not be confirmed by visual observations
+or a confirmed report from our Air Det, Tower as to aircraft in the reserva-
+tion area. Radar sightings were within the eight (8) mile limit of the
+Rader band,
+
+RQGRADING DATE CANNOT BE PRIDE TERMI Nv
+
+Declassification Authority: NND 923007

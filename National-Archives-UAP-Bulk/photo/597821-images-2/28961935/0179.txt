@@ -1,0 +1,34 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T00:57:26Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7815698, "source_ctime_ns": 1793376769715526610, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28961935/0179.jpg", "source_mtime_ns": 1785696486000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28961935/0179.jpg", "source_sha256": "57f281a4da5bd7a1fb9d6daf8e42c355d90e84d46dab2d28137b32baffb23907"}
+
+===== PAGE 1 =====
+{"alpha_words": 164, "chars": 1331, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+UFCB INDEX CARD
+
+1. DATE oad 2. LOCATION 12, CONCLUSIONS ,
+“ QO Was Balloon
+aie May 1955 ; Wiclah, California QO Probably Balloon
+GO Possibly Balloon
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION :
+Local 2) Ground-Vi sual G Ground-Radar a Pesdly Averett
+GMT 79/05 “ay 1955 D Air- Visual D Air-Intercept Radar |9 Possibly Aircraft
+5S. PHOTOS 6. SOURCE O - Was Astronomical Jy” Tek
+O Yes 3 Probably Astronomical a
+€2 No Cigili F 5 | ) Possibly Astronomical
+7. LENGTH OF OBSERVATION 8. NUMBER OF OBJECTS | 9. COURSE O Other
+: 0 Insufticient Data for Evaluation
+G Unknown
+0. BRIEF SUMMARY OF SIGHTING , 11, COMMENTS Probably Astronomical: Plane*
+| One (1) object, ailver, circular, was ob- Description of sighting was such that
+served to remain almost stationery in the observation was-“probvably"* astronon-
+sky at point SW from obgerver, This 3 ical phenomena. B/E;-28th-ADiv; is of
+: sighting was characterized by no anvarsnt the--opinion that the sighting was the
+! motion and althouzh whaject was viewed thru result of observers viawing planet, .
+binoculars, there were no other details which may have appeared unusually larga. |
+discerni ble, Analysis-and svaluations-of this’ Has. [
+subdstantiates-the-opinion- ofthe D/I,"} |
+23th-ADiv.——No-further“investization™ |
+Was—autnoriszeds—
+JSATER,
+OEE tet aera
+
+AISOP Form 5 (15 Oet 54)

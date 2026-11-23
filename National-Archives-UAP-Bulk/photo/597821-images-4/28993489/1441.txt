@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T01:20:20Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3966176, "source_ctime_ns": 1793385487773422864, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28993489/1441.jpg", "source_mtime_ns": 1785748218000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28993489/1441.jpg", "source_sha256": "9a78da66a8646e8e76320671fff2b8893aba87d8931aecda153d28ad7e29d253"}
+
+===== PAGE 1 =====
+{"alpha_words": 44, "chars": 378, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+DATE 2. LOCATION
+I
+i | 0 salloon
+j wu ron tory po oon
+| ie - oO
+ote er OE O Ground-Radar Ki
+Oo
+| ; o
+: a ' O Air-Intercapt Radar
+10 Was Astronomical
+| QO Probably Astronomical
+fue 0 Possibly Astronomical
+N 1-9. a Omer. sac deca eaters alas
+| DOD Insufficient Data for Evaluation
+j Q Unknown
+{ |
+lio, BRIEF SUMMARY OF SICHTING 111, COMMENTS
+|
+es ;
+|
+|
+*- !
+}
+|
+j
+|
+|
+36 32> $2)

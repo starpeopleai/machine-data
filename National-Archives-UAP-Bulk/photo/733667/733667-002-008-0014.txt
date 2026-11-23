@@ -1,0 +1,16 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T01:05:50Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 607958, "source_ctime_ns": 1793394360411323993, "source_file": "National-Archives-UAP-Bulk/photo/733667/733667-002-008-0014.jpg", "source_mtime_ns": 1785567359000000000, "source_rel": "National-Archives-UAP-Bulk/photo/733667/733667-002-008-0014.jpg", "source_sha256": "5b9237940ac5745a232e54299cd086bc4292c5f9236c80345a8ba638294c0bc6"}
+
+===== PAGE 1 =====
+{"alpha_words": 16, "chars": 111, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+P-3. Sones
+3)Y N Welkom SR __
+
+18612 =
+atone La
+ca
+
+Federal Aviation Adminis.
+Fol cst,
+Box bY
+Aenea, Al,
+o9S|s

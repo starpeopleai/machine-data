@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T01:08:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 990489, "source_ctime_ns": 1793389165797649839, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302537414/0979.jp2", "source_mtime_ns": 1785808131000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302537414/0979.jp2", "source_sha256": "2e07d6b5495b62fbeb778f15c47dd3a608125d9e23adf46baa8d71d7fcc49ff1"}
+
+===== PAGE 1 =====
+{"alpha_words": 75, "chars": 501, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+i ;
+INCOMING SS ARTI OE GH
+vn ESSAG: al D hie Vi OF sti E AIR FORCE fF UNC| ASS} rich
+Mi STAFF MESSAGE BRANCH 'ULIAG Pie
+
+pi de
+
+AF IN: 28849 (27 Jan 65) Page 2 of 2
+
+UNCLAS 326AD-CO 98113 JAN 65.
+
+CIRVIS REPORT
+
+AC2 BEDFORD W. E
+
+POSSIBLE MISSILE OR SATELLITE
+
+OVER BARBERS POINT NAVAL AIR STATION
+
+27/09392
+ESTIMATE 40M TO 59M UEG-79 37 NottoN AFG
+Wile C&tK £7 MUGu
+
+Necatwe fT bWugu
+
+NORTH EAST TO SOUTHWEST
+HIGH SPEED
+
+OBJECT APPEARED TQ BE CLIMBING.
+
+NOTE: READDRESSED TO CIA PER 1392 # 471-T
+N

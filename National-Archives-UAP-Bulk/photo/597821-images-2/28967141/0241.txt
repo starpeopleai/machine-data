@@ -1,0 +1,42 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T00:40:42Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5200729, "source_ctime_ns": 1793378196728834693, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28967141/0241.jpg", "source_mtime_ns": 1785696463000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28967141/0241.jpg", "source_sha256": "bb10ed5375dc17d62f21b3556e64af7d2b48b6f5f787ede8f5a97ae1d97fe829"}
+
+===== PAGE 1 =====
+{"alpha_words": 45, "chars": 347, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+STATIONARY FADING TO SIZE OF
+SOFTBALL
+
+E. FADE
+
+F. 18 MINUTES :
+
+B. NONE
+C. N/A
+
+4. Ae €157Z 25 AUG 56
+ -B. NIGHT
+
+5. HL 789
+
+BT Hes
+
+1€QQ 27/14382 AUG RJEDFL
+
+Te
+
+B89
+1@-
+lie
+
+12.
+
+Ae CLEAR
+B. CLOUD CONDITION 65¢9
+BROKEN 15 MI VIS WINDS CALM
+
+NEGATIVE
+A MISSION WAS IN PROCESS
+EDWARD LARSON 1/LT. INTEL.
+OFFICER UFOB BELIVED TO BE
+JET A/c
+
+NONE

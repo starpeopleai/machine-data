@@ -1,0 +1,60 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T01:11:59Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1391943, "source_ctime_ns": 1793393598159713311, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302579227/0184.jp2", "source_mtime_ns": 1785808115000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302579227/0184.jp2", "source_sha256": "1d2fd0b7f39d12590cb77a13991b0deaedabc07c44e2b3d3a23d42cfa42f276a"}
+
+===== PAGE 1 =====
+{"alpha_words": 92, "chars": 657, "method": "ocr", "page": 1, "variant": "plain-psm3"}
++ ORE RRM eNO: PR FO Sy ea aE rere
+
+PROJECT 10073 RECORD
+
+fi pare Tine GROUP
+2j30CL
+
+20 Aug 65 21/03002
+
+2. LOCATION ae oe
+
+3. SOURCE -
+
+Civilians
+
+10, CONCLUSION
+
+4. NUMBER OF OBJECTS
+
+One
+
+INSUFFICIENT DATA FOR EVALUATION
+
+5. LENGTH CF OBSERVATION
+
+1 Hour
+
+Weat Carrollton, Ohio (2 Witnesses} ___|
+
+AF Form 117 not returned as of lk Oct a.
+11. BRIEF SUMMARY AND ANALYSIS :
+
+6. TYPE OF OBSERVATION
+
+7 COURSE
+
+W
+
+| Ground="isua)
+
+The ‘observer sighted a twinkling point Daal sources and
+reported it to the Duty Officer.
+
+(8. PHOTOS
+
+0 Yes
+XR No
+
+9. PHYSICAL EVIDENCE ~
+
+D Yes
+
+XX No
+
+FORM
+FTD sep s3 9-329 (TDE) Previous editions of this form may be used,

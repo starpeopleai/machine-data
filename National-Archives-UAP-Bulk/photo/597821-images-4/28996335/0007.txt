@@ -1,0 +1,44 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T00:34:13Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4119195, "source_ctime_ns": 1793386484919057063, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28996335/0007.jpg", "source_mtime_ns": 1785748115000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28996335/0007.jpg", "source_sha256": "2e26843a64683fd7177f3a6d5e7359a2af0e6074c7fcf9064a0dda4c9430d064"}
+
+===== PAGE 1 =====
+{"alpha_words": 162, "chars": 949, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+A913
+
+“00 RJEDSA
+DE RJEZHQ 321
+0 9491327
+FM HED USAF WASH DC
+INFO RJWFALB/CONAD
+RJEDSQ/FTD
+
+P 8216297
+
+FM USAIRA RIO DE JANEIRO BRAZIL
+TO CSAF WASH DC
+
+STATE DEPT WASH DC
+
+| NASA WASH DC
+
+INFO 1127 USAF FAG FT BELVOIR VA
+
+CINCARIE QUARRY HTS C
+
+CAIRB ALBROOK AFB C Z noe
+AMFTC PAFB FLA Av
+
+“See «THs 1s 4 JOINT MESSAGE FROM SCIENTIFIC
+ATTACHE AND AIR ATTACHE X JULIETT DASH ONE X USAF FOR AFCIN X
+NUMEROUS EFFORTS DURING WEEK TWO FIVE DASH THREE ONE MARCH INDICATE
+METAL FRAGMENTS HAVE BEEN RECOVERED FROM WIDE AREA IN SOUTHERN
+PART OF STATE OF MINAS GERAIS AND NORTHERN PART OF STATE OF RIO DE
+JANEIRO PD COORDINATES OF AREA FOLLOWS CLN TWO ONE ZERO FIVE SOUTH » | iat
+
+FOUR THREE TWO FIVE WEST SMCLN TWO ONE THREE FIVE SOUTH FOUR THREE 7
+
+THREE ZERO WEST SMCLN TWO TWO ZERO ZERO SOUTH FOUR TWO ZERO ZERO WEST
+
+PD PIECES ARE REPORTED TO HAVE FALLEN FROM A FALLING OBJECT FROM
+
+sn /
+SY OVER BRAZIL PD AT PRESENT TIME FIVE DIFFERENT PIECES OF METAL

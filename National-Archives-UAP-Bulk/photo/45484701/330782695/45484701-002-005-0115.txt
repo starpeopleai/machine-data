@@ -1,0 +1,22 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T01:02:11Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8744680, "source_ctime_ns": 1793362370586135968, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330782695/45484701-002-005-0115.jpg", "source_mtime_ns": 1785684775000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330782695/45484701-002-005-0115.jpg", "source_sha256": "b2bab7b06338406dc4eea5e2241ebb3d27da7976f991d0170a7689a8da06cffb"}
+
+===== PAGE 1 =====
+{"alpha_words": 148, "chars": 936, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Case file #24-26
+DO #20, MeChord AFB
+
+15. SMITH appeared to this agent to be of above average intelligence. As
+noted above, there was no indication, through law enforcement agencies, that he
+had ever been involved in any type of civil or criminal court action. He appeared
+to be extremely concerned and cautious as to whom he discussed the incident, and
+required complete identification of the interrogator. Me stated that he did not
+use any type of dope and that he did not drink excessively, which points were
+verified by his employer, the Editer in Chief of the Lewiston Tribune, who stated
+that, although he had only known SMITH for a short period of time, he appeared to
+be of above everace intelligence and was considered a trustworthy and honorable
+employee. Photographs of SMITH were taken and are attached as Exhibits "D", "2"
+and "PF".
+
+~ REFERRED UPON COMPLETION TO OFFICE OF ORIGIN -
+
+Declassification Authority: NND 923007

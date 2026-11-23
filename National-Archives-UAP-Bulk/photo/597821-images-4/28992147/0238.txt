@@ -1,0 +1,21 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T01:20:46Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3971559, "source_ctime_ns": 1793385179899166177, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28992147/0238.jpg", "source_mtime_ns": 1785748088000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28992147/0238.jpg", "source_sha256": "fa4149b2fbdddbb580a7300c69ef1e5156c3895ececa590d65b71085b82db395"}
+
+===== PAGE 1 =====
+{"alpha_words": 15, "chars": 72, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ey VI hit
+
+wat a Seer) ee
+
+\
+
+AN
+
+Q a:
+Lag Creve Ns
+je
+
+ps
+
+yn
+yo oR
+‘

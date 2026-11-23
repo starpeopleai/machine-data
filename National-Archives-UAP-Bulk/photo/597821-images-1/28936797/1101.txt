@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T01:17:56Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3298398, "source_ctime_ns": 1793371138577769423, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28936797/1101.jpg", "source_mtime_ns": 1785688858000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28936797/1101.jpg", "source_sha256": "7d99a939f989c059c57333db474d410a4559c58043eade0bbf3ad7d5806b9397"}
+
+===== PAGE 1 =====
+{"alpha_words": 84, "chars": 527, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+WWI YUN U WAS
+
+UNCLASSIFIED
+Ltr Hq, 56th Ftr Wg, Selfridge AFB, Michigan, Subj: heport
+of Information on "Flying Discs", file INT 333 dtd
+
+BASIC:
+
+QM. seemed sincere enough in his belief that he had signted this
+supposedly foreign object. He secured permission from his employer
+
+to be absent from his place of employment in order to make contact
+with the undersigned.
+
+K<saans kl Sy,
+
+COWAN S. HILL, JR
+Capt, USAF
+Intelligence Officer
+
+BHNGR An
+2 DSCLAssi ee APEAR INTERV A
+DOD pr TR 12 YRaRe es?
+
+UNCLASSIFIED
+
+PONEUDEN Aas

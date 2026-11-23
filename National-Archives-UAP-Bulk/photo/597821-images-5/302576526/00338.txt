@@ -1,0 +1,59 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T01:09:00Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 999321, "source_ctime_ns": 1793393357368870671, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302576526/00338.jp2", "source_mtime_ns": 1785808356000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302576526/00338.jp2", "source_sha256": "93abb16fddd470972b95522b927e688dc4c0daefd8556daa238924c72dace806"}
+
+===== PAGE 1 =====
+{"alpha_words": 50, "chars": 356, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+want
+
+PAN
+
+RECORD
+
+SUBJECT:
+
+Telecon from H. A. Miller Concerning
+
+ef Jun
+
+UFO Sightir
+
+no 4 2
+ig Of 13 May 66
+
+called
+
+a]
+
+a7) Py :
+Mr. QU were flying
+) to Santa Domingo, Pue
+had
+
+G&
+
+ta Domingo.
+
+2 helicopter from Managua
+13 May 1968 at 0500 hrs.
+ion to a disc-shaped
+
+seas } r
+
+for a
+
+wt
+; object
+
+ent
+5
+
+LOX 1
+SF S
+
+object.
+Poll
+
+¢
+They
+
+77 oe |
+OW2a

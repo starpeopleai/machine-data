@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T00:46:57Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6050390, "source_ctime_ns": 1793378027518151593, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28966460/1095.jpg", "source_mtime_ns": 1785696851000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28966460/1095.jpg", "source_sha256": "8b740d0ba348fd66b3527b3a5b711bbb67153d5e24fdf73c59a1164242e322b1"}
+
+===== PAGE 1 =====
+{"alpha_words": 65, "chars": 452, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+* 4 /
+oe 30 JULI955 07 30 © Bi,
+SS
+& f mr. fon. }
+i
+
+REO 17 3 4 |
+
+M WUPAOLS YDBO19 TYB102 TMBOSSNTIRAOLA
+Df
+
+00 RJEDEN RJEPNY RJEDUP RJEPHQ - 4. AS Oe
+
+DE RJEPJR 1H pg 0a
+
+0 2904032 a. @ fa
+
+FM COMDR 773D ACWRON MONTAUK AFSTA MONTAUK NY © :
+
+TO RJEDEN/COMDR ADC ENT AFB COLORADO SPRINGS COL
+
+INFO RJEPNY/COMDR 25553551TTH AIR DIV DEF ROSLYN AFSTA NY
+
+co)
+
+RJEDWP/COMDR AIR TECH INTEL WRIGHT PATTERSON AFB
+RJEPHQ/DIR OF INTEL HQ USAF WASHINGTON 25 DC

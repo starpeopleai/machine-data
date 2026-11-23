@@ -1,0 +1,41 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T00:59:22Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8116899, "source_ctime_ns": 1793387481633641880, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28998743/0739.jpg", "source_mtime_ns": 1785748159000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28998743/0739.jpg", "source_sha256": "f4069821220351cbd6966fd0e4659f4e87f8e006baf556d57f2e6755c5c32d45"}
+
+===== PAGE 1 =====
+{"alpha_words": 114, "chars": 810, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+VUE AMT eA AIH FORC
+iS +h S5 IRAK CS
+AR IN : 33674 (23 Aug 62) B/sec page 1 of 2
+INFO : CIN-17, OOP=2, OOP-CP-i, SAFS-3, ca eS DIA CIIC-5
+SM BAA3 9
+KHA367
+
+""**" 00 RUEANQ RUVGALB RUCSER
+
+DE RUHLKH 4
+
+ZNR
+
+0 2311532
+
+Fil 326 AIR DIV KUNIA FACILITY HAWAII
+TO RUHLKM/ PACAF HICKAM AFB HAWATI
+RUKAC/C QIALSEAFRON KODIAK ALASKA
+RUYSPG/C GIVESTSEAFRON SAN FRANCISCO CALIF
+RUHPQ/C (IHAYSEAFRON PEARL HARBOR HAWAII
+INFO RUEAHYCOFS USAF WASHINGTON DC
+RUYGALBYCINCNORAD ENT AFB COLO
+RUHPA/CINCPAC CAMP HM SMITH HAWALI
+RUHKAFS/ CINCUSARPAC FT SHAFTER HAWAII
+RUHPEYCINCPACFLT PEARL HARBOR HAWAII
+RUAUAZ/C GIUSJAPAF FUCHU AS JAPAN
+RUAMCR/C QIUSXOREA SEOUL KOREA
+
+RUAGFL/C QIUSTDC TAIPEI TALWAF
+
+RUHPD/CCOMASWFORPAC FCRD ISLAFD HAWATI
+RUCSBR/CINCSAC OFFUTT AFB NEBR
+
+UZCY/CNO WASHINGTON DC
+RGECW/ SECNAV WASHINGTON DC
+
+BT

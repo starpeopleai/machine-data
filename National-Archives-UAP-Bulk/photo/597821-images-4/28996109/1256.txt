@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T00:30:27Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3475171, "source_ctime_ns": 1793386430169605278, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28996109/1256.jpg", "source_mtime_ns": 1785748092000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28996109/1256.jpg", "source_sha256": "0a40311e041d36030c0da97274b01867052c0aee00192877a2fbe060a73400ea"}
+
+===== PAGE 1 =====
+{"alpha_words": 141, "chars": 1007, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+1. DATE 2. LOCATION 12, CONCLUSIONS
+28 Jan 62 Bethel, Alaska o Bobduiy Balser
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION QO Possibly Balloon
+Local ume — *K Ground- Vi sual 0 Ground-Rodar = pals | hg AER
+GMT 29; 02052 O Air Vi sual O Air-Intercept Rodar QO Possibly Aircraft
+5. PHOTOS 6. SOURCE O Was Astronomical
+O Yes DO Probably Astronomical
+INo Civilian 0 Possibly Astronomical
+7. LENGTH OF.OBSERVATION 8. NUMBER OF OBJECTS | 9. COURSE O Other
+CO Insufficient Date for Evaluation
+O Unknown
+30 Sec. i. NN
+10. BRIEF SUMMARY OF SIGHTING 11. COMMENTS
+nM object described as similar to anair- At 02052, 29 Jan 62, Echo was S of
+raft wit inl reflecting: off of it equator. Object viewed by this witness
+: rom Bethel, Alaska. Object was was probably an aircraft with sunlight
+OSserv “é ind arpesared to be silven % from it. There is no evi-
+i i fog bank the N. , able in this report which
+in ubes object is an interplanetary
+nstitut threat to nat ional
+
+ATIC FORM 329 (REV 26 SEP 52)

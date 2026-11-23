@@ -1,0 +1,19 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T01:02:28Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8946033, "source_ctime_ns": 1793365038251205616, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330788129/45484701-007-008-0094.jpg", "source_mtime_ns": 1785685186000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330788129/45484701-007-008-0094.jpg", "source_sha256": "c6024f1519e42ca9ec471dcfffa069e84b4e1b6572a2861cc678f4f29e8b05cb"}
+
+===== PAGE 1 =====
+{"alpha_words": 92, "chars": 675, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Synopsis (Continued)
+
+photographs taken by HART obtained by Reese AFB Intelligence Officer and
+forwarded in his report to Commanding General, Air Materiel Command.
+
+HART averred he heard no noise and saw no exhaust from the objects.
+Weather observation, Lubbock, Texas, reflected that at 2330 hours, 30
+August 1951, a high line of clouds at 26,000 feet, visibility 15 miles,
+temperature 7&5 degrees, and wind south southeast at eight MPH. HART
+stated he observed two more formations pass over Lubbock at approximately
+
+2332 hours, 1 September 1951. Technical data pertaining to HART!'s photo-
+graphs obtained and set forth in details.
+
+Declassification Authority: NND 923007

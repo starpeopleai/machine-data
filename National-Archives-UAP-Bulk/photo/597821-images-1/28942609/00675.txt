@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T01:23:51Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4400958, "source_ctime_ns": 1793372402673485350, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28942609/00675.jpg", "source_mtime_ns": 1785688503000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28942609/00675.jpg", "source_sha256": "83c0b2bc98a7c89480d1240fb3bacfcf9c04ebc037239244ec647f8ea054cd74"}
+
+===== PAGE 1 =====
+{"alpha_words": 78, "chars": 545, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+>< DE MINN OS ELS a RM 2 OP RRR FD i OT ATT. EELS TNR mE aE
+
+PROJECT 10073 RECORD °
+1. DATE + TIME GROUP ( "2 LOCATION c
+12 sune 52 le3ce =‘ sandolf afc, Texas 1
+3. SOURCE 10. CONCLUSION
+“ilitary Possilble s BIRDS
+
+4. NUMBER OF OBJECTS
+Not “tated
+
+5S. LENGTH OF OBSERVATION |11. BRIEF SUMMARY AND ANALYS!S
+
+} 30 minutes ' SEE CASE FILE
+
+6. TYPE OF OBSERVATION
+
+Ground Visaal
+7. COURSE
+
+Not Stated
+6. PHOTOS
+
+O Yes
+xX No
+
+9 PHYSICAL EVIDENCE
+
+O Yes
+xX No
+
+FORM
+FTD sep 63 0-329 (TOE) Previove editions of thie forms may be used,
+
+Ou + Sewers: +

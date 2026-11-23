@@ -1,0 +1,52 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T00:35:30Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4393536, "source_ctime_ns": 1793376102600804245, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28959253/00774.jpg", "source_mtime_ns": 1785696632000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28959253/00774.jpg", "source_sha256": "7af21ea4e4e3dc15b2ff7859e0774b19624a420028f3011c6da1936ad633c13e"}
+
+===== PAGE 1 =====
+{"alpha_words": 112, "chars": 902, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+1. DATE aa 2. LOCATION
+
+. CONCLUSIONS
+Was Balloon
+
+Prabably Balloon
+Possibly Balloon
+
+~
+a
+
+4 August 1954 Netherlands
+3. DATE-TIME GROUP —T7. TYPE OF OBSERVATION
+Locsl 2300—2,00 £2 Ground- Vi sual 0 Ground-Radar
+
+GMT___£ yg] 2 Loot O Air Visual O Alr-Intercept Radar
+
+y. O Yes
+XXNo ' . Firemen
+
+J. LENGTH OF OBSERVATION j : i 8. NUMBER OF OBJECTS | 9. COURSE
+
+Not Given eee
+10, BRIEF SUMMARY OF SIGHTING 11. COMMENTS
+
+Two objects observed moving at incrediable ATIC evaluated as possible searcnlight
+speed, at times Adfad remaining motionless for| beams, Insu ficient data for analysis.
+
+as long as 30 seconds. They were flat ovals with
+a whitish grey light.
+
+Was Aircraft
+Probably Aircraft -
+Possibly Aircraft
+
+Was Astronomical
+Probably Astronomical
+Possibly Astronemical
+
+‘Other : :
+Insufficient Data for Evaluation
+Unknown :
+
+om ooo ano ooo
+
+ATIC FORM 329 (REV 26 SEP 52)

@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T01:05:59Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 741714, "source_ctime_ns": 1793356273223687436, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989311-001-0124.jpg", "source_mtime_ns": 1785564656000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989311-001-0124.jpg", "source_sha256": "3317c96c9c9a0b254c4c370e41519c849a0a80f526f24fc44284a03df4d88f4b"}
+
+===== PAGE 1 =====
+{"alpha_words": 91, "chars": 632, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+| M6
+
+4 C
+
+O
+ALPGB-SO (7 Oct 54} ist Ind FRS/jca
+SUBJECT: SPILHAUS, Atheletan PF,
+
+HQ FIM ARMY 1665 2 Hyde Park Bivd, Chicago 15, Tli., 12 Qetober 1954
+
+imlustrial security of eee s, Fitth Army, Bldg. 502,
+
+a de
+
+et Araae, kort Soalling, Minnesota.
+
+22 “omply with
+2. The suspense
+
+Oy r
+Os oe
+
+Jo Your attention is invited ts parser ph four of the basic
+Sommunication eherain Air Pores (ZOU) is designated ss the Military
+Departaent asetsned security comalsanes tng facility. Xt 4a
+Sooonnernded thet A &Gar din TU ot maa OF Minneapolis Sub-)ffice ,
+Milweucen Air Materiel Di stirs ich, for the accomplishment of thie 8 request.
+
+*

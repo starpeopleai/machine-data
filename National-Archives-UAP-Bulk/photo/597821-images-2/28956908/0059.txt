@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T01:19:30Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3780397, "source_ctime_ns": 1793375588438892072, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28956908/0059.jpg", "source_mtime_ns": 1785696640000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28956908/0059.jpg", "source_sha256": "491868219d0f0677b057382de3ab6cb07749dabd05d1c9d5173f74360749d5df"}
+
+===== PAGE 1 =====
+{"alpha_words": 136, "chars": 831, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+THE KINROSS INCIDENT
+
+This incident was not reported to ATIC as a UFO sighting and
+therefore we have no case file. Due to the great amount of
+public interest in this incident ATIC contacted the Flying
+Safety Division at Norton AFB, California for information per-
+taining to this aircreft accident. It was determined from
+Norton AFB that the F-09 was scrambled to intercept an uniden-
+tified aircraft which was successfully accomplished. The
+aircraft was reported in as a Dakota (Canadian C-47). From
+the time that the F-89 started to return to base nothing of
+what happened is definitely known. It is presumed by the
+officials at Norton AFB that the pilot probably suffered from
+vertigo and crashed into the lake. The wreckage has never
+been recovered. This case is carried in Air Force Aircraft
+Accident Records.
+
+ee ee
+
+;
+|
+,
+4

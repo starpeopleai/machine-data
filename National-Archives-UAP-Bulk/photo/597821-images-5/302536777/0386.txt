@@ -1,0 +1,37 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T01:08:07Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 982890, "source_ctime_ns": 1793389127909067482, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302536777/0386.jp2", "source_mtime_ns": 1785808423000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302536777/0386.jp2", "source_sha256": "e7798a3e5ce5dfd92d49176ee0428e795b2d89f6b610ac1e1348f33e88d7d151"}
+
+===== PAGE 1 =====
+{"alpha_words": 94, "chars": 731, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+INCOMING DEPARTMENT OF THE AIR FORCE $7.0 = Jab Tics |
+MESSAGE STAFF AWSS.AGE BRANCH UNCLASSIFIED 4
+
+eee
+
+? AF IN : 59984 (30 Nov 64)C/joe ear a PS i gem Fete ‘
+ACTION: NIN-7 Oe tee. |
+INFO +: XOP-1, XOPX-7, SAFOS-3, JCS-OSD41, NSA-7, DIA-15 (42) 1
+a ‘
+5 SMB C@41 CHQA7S3ZCCJA845 ie sae {
+00 RUEAHQ i ae auee é ?
+[DE RUHPY 173 3e/ossez— ,
+BZN se (
+0 3008502
+|” FM USCGC MATAGORDA :
+: 2 TO RUEAHQ/COFS USAF 4d
+|‘ ZEN/CCGD FOURTEEN } ;
+RUHPHH/O6JY/CTF THREE TWO ;
+) . RUWGALB/CINCNORAD oe
+RUMLHL/CINCPACFLT
+INFO RUECJO/COMOT COGARD
+RUWSJ/COMEWESTAREA COGARD i
+BT
+UNCL AS ;
+. MERINT. .
+1. MATAGORDA/NIFV :
+(
+2. ONE BRIGHT OBJECT SIMILAR TO SATELLITE 3, [osu |
+3. 33-59.5N 164-82. 06 ner aaa Ag d
+4. 3098452 ‘ 0 poet
+PPA pdr Ors |
+
+‘

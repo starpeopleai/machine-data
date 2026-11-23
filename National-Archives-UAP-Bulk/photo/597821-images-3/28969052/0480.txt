@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T01:26:17Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4923587, "source_ctime_ns": 1793378735315975809, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28969052/0480.jpg", "source_mtime_ns": 1785700854000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28969052/0480.jpg", "source_sha256": "4014d7227f1dc5af886b061f682225fcc588f62a1bec0c3775aebb2824c0664f"}
+
+===== PAGE 1 =====
+{"alpha_words": 25, "chars": 249, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+“Se EK 1456
+6a
+
+0320-30, 329-35, 399-45, 289-48
+
+&. NO
+ 19.NONE
+
+_ 4 NONE
+
+BT
+—94/19502Z MAR RJEDKF
+
+Bed $-6
+
+A. MUMPPMEEMEEgS, HERINGTON KANSAS
+
+@ N/A |
+Te
+
+PAGE THREE RJEDKF 16M
+Ay CLEAR ; |
+
+Ce 38009
+
+De 45 MI.
+E, BROKEN
+F, NONE |
+
+NONE
+
+A NONE

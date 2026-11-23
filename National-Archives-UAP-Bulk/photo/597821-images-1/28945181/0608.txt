@@ -1,0 +1,44 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T01:21:44Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4060550, "source_ctime_ns": 1793373070615745495, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28945181/0608.jpg", "source_mtime_ns": 1785688725000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28945181/0608.jpg", "source_sha256": "d3645cb7d1019ec0b223d85a2cdc0a0fe6346e7a7486d795d6256888447b426e"}
+
+===== PAGE 1 =====
+{"alpha_words": 142, "chars": 859, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+' yul. Wee -
+
+T
+
+WPB345 | Qy/
+
+YDBA76
+x YBg82 : :
+"KAGLA AC WUN
+XMAQ6AT
+JUZ E4@xX51
+Atag
+BYDK1S .
+P JEPHQ JEDUP JEDEN JEPQW JWPML 535
+
+d= BUDKY i
+
+ot ot i a.
+
+P232351Z-
+
+FM HQ 2378TH -AB‘SQ LBEACH MUNI APRT CALIF
+
+TO JEPHQ/DIR OF INTEL HQ USAF WASHDC ae
+JEDWP/CG AIR TRCH INTEL CENTER WRIGHT PATTERSON AFB OHIO ATTN ATIAA-2C
+i nrnmntiaaeteaed
+JEDEN/CG ENT AFB COLO SPRINGS COLO
+JEPQW/CG CONAC MITEL AFB N Y
+JUPML/CG 4TH AF HAMILTON AFB CALIF
+
+~ AF GRINC {
+
+: 4
+| nT -c 419 PD FLYOBRPT PD I. A. DESCRIPTION CN
+1. SHAPE CMA OVAL ELIPTICAL PD 2. SIZE CMA NICKEL PD 3 COLOR CMA ORANGE «
+RED BRIGHT ON ONE SIDE CMA FADING TOWARDS OTHER SIDE PD 4, NUMBER CMA
+
+ONE PD 5. FORMATION CMA NO PD B. AERODYNAMIC FEATURES CLN 1. TRAIL OR
+EXHAUST CMA NONE PD 2. PROPULSLON CMA UNKNOWN PD 3, SPEED CMA HIGH
+RATE PD 4& SOUND CMA NONE PD 5, MABIGERSO EMA oe ZAG CMA LEFT STOP

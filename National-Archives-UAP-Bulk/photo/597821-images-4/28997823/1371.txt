@@ -1,0 +1,54 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T00:32:09Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3862552, "source_ctime_ns": 1793386920332406052, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28997823/1371.jpg", "source_mtime_ns": 1785747939000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28997823/1371.jpg", "source_sha256": "46e9ca7f6b7ff700319dcb5957690f6887b828ba9e48c422c98d0662dcda9b6e"}
+
+===== PAGE 1 =====
+{"alpha_words": 96, "chars": 736, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+gen Sagres a —— See a er. oe ee eee ee gt a a rer Hee rT rat Sees Se
+
+PROJECT 10073 RECORD CARD
+
+ty
+
+1. DATE 2. LOCATION CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+
+4 3
+
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION
+
+9 Vereyaretre
+d Oa
+
+Wos Aircraft
+Probably Aircraft
+Possibly Aircraft
+
+Lecal O Ground-Vi sual O Greund-Radar
+
+GMT 29217902 D Air Visual O Air-Intercept Radar
+$. SOURCE
+
+Was Astronomical » 2EOOr
+Probably Astronomical
+Possibly Astronomical
+
+O Yes
+~f3-No
+7. LENGTH OF OBSERVATION
+
+SLi Pag
+
+8. NUMBER OF OBJECTS | 9. COURSE
+
+Orher
+
+Insufficient Data for Evaluation
+
+CGO |Get. Bite pee
+
+: Bea a ab Unknown
+10. BRIEF SUMMARY OF SIGHTING 1}. COMMENTS
+to locate obj, will second time.
+
+ATIC FORM 329 (REV 25 SEP 52)

@@ -1,0 +1,72 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T00:31:59Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3808566, "source_ctime_ns": 1793382306604116412, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28983133/0091.jpg", "source_mtime_ns": 1785700658000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28983133/0091.jpg", "source_sha256": "997f9c8487930ebd026a9f6bb0f6dc5d367d92f2b3579ae0856faf62fd4a728a"}
+
+===== PAGE 1 =====
+{"alpha_words": 177, "chars": 1107, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+p
+
+lis: Coty: Melvin Py: ferry, USA
+
+Division Control Officer
+
+Records & Statistics Division
+
+Directorate of Flight & Missile Safety Research
+Norton Air Force Base, California
+
+Dear Colonel Terry
+i refer to your communication dated 1 August 196
+If possible, and they are not classified, I shou
+to request eoones ae the regulations which deny me a
+
+the accident report and/or cause factors of the C-11
+On Ape lL Oo OF,
+
+On 23 March 1960, Lt. Col. Lawrence J. Tacker,
+Public Information Division, Department of the Air
+
+by ct
+
+"The Air Force findings on the C-118
+port crash 1 April 1959 were pilot er
+due to bad judgement."
+
+e. Does the Flight and Missile Safety Res ch Dire
+ig a concur in this statement? If so, why was
+
+the data; and not I?
+
+I would also like to know if the accident report
+e factors of the aforementioned crash are offi
+ified as "Top Secret", "Secret", or "Confidenti
+wit
+
+Sincerely yours,
+
+wa
+,
+Q rr
+
+O-~
+Me
+
+Office of the Secretary, Washington, told Mx , <i
+
+OF
+
+ld like
+ccess
+8 crash
+
+Trans—
+ror
+
+ctorate
+given
+
+and/or
+
+cially
+
+al" or
+
+hheld from the public through some other means,

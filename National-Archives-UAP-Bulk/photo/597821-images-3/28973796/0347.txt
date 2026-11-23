@@ -1,0 +1,44 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T01:01:18Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8601901, "source_ctime_ns": 1793379891984512006, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28973796/0347.jpg", "source_mtime_ns": 1785700800000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28973796/0347.jpg", "source_sha256": "d12d80e68b2b569b379702275057d7389054e804c3809f3cfe60285308f4add0"}
+
+===== PAGE 1 =====
+{"alpha_words": 120, "chars": 874, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+SE OR RAE 9
+
+RJEPHA/DIRECTOR OF INT HQ USAF
+BT
+UNCLAS OPS 441 PD UFOB |
+1 LARGE WHITE GLOWING OPJECT IN SW PD
+(A) ROUND (B) STAR (C) WHITE (D) ONE (E) NONE (F) NONE (G) NONE
+(H) NONE oa ‘
+a romp (A) RETIRED COLONEL Gos (B) O36 DEGREES-269
+| DEGREES ITEMS’ ¢C) (D) (E) NEGATIVE (F) ALL NIGHT
+| 3 CA) GROUND visual
+© 4 €A) 07/91302/NOV/57 (B) NIGHT
+Bs tay EuPr 28e9
+
+| 6 CA ) ii merrmermes ETIRED COLONEL
+
+PAGE TWO RJWFDN 2u
+
+7 219 DEGREES 5g KNOTS 24 DEGREES (A) GOOD (B) NEGATIVE
+| (C) NEGATIVE (D) 6@ MILES (F) NONE.
+
+8 NONE
+
+9 NONE
+
+12 NONE
+
+11 FIRST LT RHODES CMM GORDON E SENIOR DIRECTOR CMM
+
+| COMMENTS CLN LOOKS LIKE A PLANET PD FIGHTER OBSERVATION BY
+
+| LIEUTENANT DAVIS AND LIEUTENANT HUGHS INDICATED IT WAS QUITE FAR
+AWAY BUT AT AN ALTITUDE OF 49909 FEET PD ALSO IT CHANGED IN
+COLOR AND BRIGHTNESS FROM WHITE TO RED TO WHITE PD
+
+12 NONE
+
+BT
+
+477476557 NOV R.TWEDN

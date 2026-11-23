@@ -1,0 +1,62 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T01:03:53Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9067877, "source_ctime_ns": 1793364907996908516, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787905/45484701-007-006-0089.jpg", "source_mtime_ns": 1785684682000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787905/45484701-007-006-0089.jpg", "source_sha256": "9f38f6a8d243c674ae8de70b1443d630ad3407c31de7abe6172350e901f645ce"}
+
+===== PAGE 1 =====
+{"alpha_words": 318, "chars": 2242, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+CLASSIFICATION a Pe
+BY AUTHORITY OF Tu:
+
+U
+ea NCLASSiFig)
+
+u 22 January 1958
+
+AS pe IR. as es
+© 34-le°
+SUBJECT: National Investigations Committee on
+
+Aerial Phenomena,
+Washington, D.C.
+
+Directorate of Special Investigations (IG)
+Headquarters United States Air Force
+Washington 25, D. C.
+
+ATTN: AFCSI-6
+
+1. This District Office received a recent inquiry from
+Captain G. H. Oldenburgh, Office of Information Services, Langley
+Air Force Base, Virginia, relative to the affiliations and activities
+of the National Investigations Committee on Aerial Phenomena, Washing=
+
+ton, D. C. le
+
+2. According to Oldenburgh)’ the inguiry resulted from two
+incidents involving one Larry Wa Bryant; 1002 Arnold Street, Newport
+imse
+
+News, Virginia, who represented as an associate member of
+subject organization. The 16 September 1957 issue of the Times Herald,
+a daily newspaper published in Newport News, Virginie, contained an
+article to the effect that on the previous day a loud explosion was
+heard over the Hampton Roads area, and one Mrs. C. H. Larsen observed
+
+a strange white object fall from the sky. Subsequently a letter, dated
+24 September 1957, addressed to Bureau of Aerial Research, Langley Air
+Force Base, signed by Bryant, was received at Headquarters Langley Air
+Force Base. In this letter Bryant representing himself as an associate
+member of instant organization, made reference to the object allegedly
+seen by Mrs. Larsen. Bryant stated he had contacted Mrs. Larsen and
+was informed the object had been turned over to an officer from Langley
+Air Force Base. Bryant requested he be advised of the results of an
+analysis of the object found by Mrs. Larsen.
+
+In January 1958, the editor of "The Flyer", a weekly newspaper
+published at Langley Air Force Base, received an advertisement from
+Bryant to be published in "The Flyer", wherein Bryant was soliciting
+membership in the organization in question. Captain Oldenburgh, who
+monitors all advertisements for this paper, was of the opinion that
+membership in this organization on the part of military personnel could
+possibly result in conflict with or violation of paragraph 9, AFR 200-2,
+and consequently, the advertisement from BRYANT was refused.
+
+Declassification Authority: NND 923007

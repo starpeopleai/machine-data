@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T00:50:11Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6801547, "source_ctime_ns": 1793361984110474832, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330781979/45484701-001-007-0017.jpg", "source_mtime_ns": 1785684542000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330781979/45484701-001-007-0017.jpg", "source_sha256": "0a2979feca46173161aacc6d88163aa0fdf271ac98fd914196392464fb0d4d92"}
+
+===== PAGE 1 =====
+{"alpha_words": 113, "chars": 746, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Statement of Magor HOMER WILLIAM MORRIS, Conta
+
+Q.
+
+A.
+
+Would it have been possible for coniensation on the canopy from your
+descent to have attracted Lt KUNZMAN's attention?
+
+Bo, The canopies are so designed that you have ventilation which
+will take care of that. Mo moisture actually forms when we descend.
+
+i have read the foregoing statement, which consists of three (3)
+
+pages, and know the contents thereof and swear the same is true to
+the best of my kmowledge end belief. Before executing oath I have
+been given the opportunity to meke eny modifications, additions or
+
+corrections that I desire.
+FURTHER DEPONEN? SAYETH NOP, Aes Ye Berwsin
+
+Sworn to and subscribed before me
+
+Investigative Officer
+
+Declassification Authority: NND 923007

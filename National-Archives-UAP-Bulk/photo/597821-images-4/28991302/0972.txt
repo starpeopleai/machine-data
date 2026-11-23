@@ -1,0 +1,67 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T00:51:46Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7148280, "source_ctime_ns": 1793384890123092450, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28991302/0972.jpg", "source_mtime_ns": 1785748089000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28991302/0972.jpg", "source_sha256": "131d809beb16485e0b5926f885283d6d589d15f0807f5fe8bfde2c3ad702d639"}
+
+===== PAGE 1 =====
+{"alpha_words": 149, "chars": 1142, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+1. DATE
+
+2, LOCATION =.
+Vermont
+a -° . 5 o
+5 Feb 61 “-t’ Presque Isle Area, Maine and
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION
+Locat__ 0244 20 Ground- Vi sual 0 Ground-Rodor
+cmt. O744Z | O Air Visual O Air-Intereept Radar
+5. ‘PHOTOS 6. SOURCE
+O Yes
+X) No Civilian
+
+7. LENGTH OF OBSERVATION
+
+few seconds
+
+8 NUMBER OF OBJECTS | 9. COURSE
+
+NE, sce
+
+bright light. Traveled to NE,
+
+L
+10, BRIEF SUMMARY OF SIGHTING Round, size of full moon
+oright blue, left bright trail, gave off
+
+descending, disappeared over horizon.
+
+12.
+
+Oo0 0o0oe@ aoo goo.
+
+CONCLUSIONS
+
+Wos Bolloon
+Probably Balloon
+Possibly Balloon
+
+Was Aircraft
+Probobly Aircraft
+Possibly Aircraft
+
+Was Astronomical KMejeat.
+Probably Astronomical
+Possibly Astronomical
+
+Other.
+Insufficient Date fer Evaluction
+nown
+
+Descending
+1. COMMENTSOD ject of this sighting poss-
+esses all salient characteristics of that
+appeared to be |class of meteors called "fireballs."
+Color, duration, apparent shape and sized
+are all consistent with description of ffire:
+ball and that it constitutes no threat
+to national security of United States.
+
+ATIC FORM 329 (REV 26 SEP 52)

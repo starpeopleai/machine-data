@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T00:31:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3683818, "source_ctime_ns": 1793371621293327523, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28939157/00333.jpg", "source_mtime_ns": 1785688796000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28939157/00333.jpg", "source_sha256": "0b03a2ed451db75bccd29d3d3c68ec1d74547d8314721d53e229e0565a98c24c"}
+
+===== PAGE 1 =====
+{"alpha_words": 95, "chars": 641, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+_ DEPA .sMENT OF THE AIR\.ACE 2
+STAFF MESSAGE DIVISION AZ
+INCOMING CLASSIFIED MESSAGE
+ee YT
+ROUTINE & omverocsiireR 3 BEFORE ‘DSCEASS IEXING~
+
+—— JM
+FROM: NEAC NEWFOUNDLAND | :
+TO : CS USAF WASHINGTON [Do
+WR : EN 0429 /
+Ref EN 6414.
+A check of all bases and acft control centers within
+
+the NEAC area reveals no acft over the Cartwright, Labr area
+on 13 Mar. This acft is still unidentifiod within the comd.
+
+i.
+
+Note: EN O414 1s CAF DT 65744 (Mar 51).
+
+ACTION: OIN
+
+JBF/reft
+
+UNCLASSIFIED
+OPY No.
+
+THE MAKING OF AN EXACT COPY OF THIS MESSAGE IS FORBIDDEN
+
+AFHQ FORM ()__ vu. 8. NG OF 16-- 56692~2
+15 APR 49 309 B GOVERNMENT PRINTING OFFICE

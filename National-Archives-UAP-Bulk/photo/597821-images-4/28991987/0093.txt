@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T00:33:04Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3984597, "source_ctime_ns": 1793385143359325462, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28991987/0093.jpg", "source_mtime_ns": 1785748402000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28991987/0093.jpg", "source_sha256": "4cbee196a153b330512e0ca8849dc95de0a6a3264fa3701602aa80923f4ada76"}
+
+===== PAGE 1 =====
+{"alpha_words": 127, "chars": 972, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+J
+
+PROJECT 10073 RECORD CARD
+
++ CONCLUSIONS
+
+1. DATE 2. LOCATION 12
+ne . F ei 0 Was Balloon
+30 Mar 61 Akron, Ohio O Probably Balloon
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION O Possibly Balloon
+Local 1090 BEB Ground- Vi sual OD Ground-Radar O Was Aircraft
+Q Probobly Aircraft
+GMT O Air Visual O Air-Intercept Radar 0D Possibly Aircraft
+5. PHOTOS 6. SOURCE 0 Was Astronomicol
+O Yes 0 Probobly Astronomicol
+© No Civilian O Possibly Astronomical
+7. LENGTH OF OBSERVATION 8. NUMBER OF OBJECTS | 9. COURSE O Other
+Insufficient Dota for Evaluction
+O Unknown
+i 10-15 min 1 N-W
+
+BRIEF SUMMARY OF SIGHTING ] objt giving off sparkd'' COMMENTS Tnoomplete info. Until such
+
+owly to W. Objt dard color.
+
+Mr h obtained tapes of interview
+with observers. Request for tapes initiated,
+however they have not as yet (Dec 27, 1961)
+been received.
+
+time as the taped interviews are receive:
+and further evaluation can be made case
+listed as insufficéent data.
+
+ATIC FORM 329 (REV 26 SEP 52)

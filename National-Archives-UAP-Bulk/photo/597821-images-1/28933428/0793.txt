@@ -1,0 +1,18 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T00:40:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5089362, "source_ctime_ns": 1793369983486100030, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28933428/0793.jpg", "source_mtime_ns": 1785688821000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28933428/0793.jpg", "source_sha256": "f34117bd5c1a07f9e2da8ad05fb88ac4d5dde65492ba0f69f77416d81c443da2"}
+
+===== PAGE 1 =====
+{"alpha_words": 85, "chars": 520, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+4 Marca 1949
+
+TO WHOM LT Mal CONCERN:
+
+A% approximately 2:20 p9.m., Mr. SMB axcitediy said,
+"Look up there." [I raised my nead to “here he was pointing,
+und I gaw a 329 flying toward us. After scanning the sky in
+sae general direction pointed out I sighted an odjact travelling
+vary rapidly across the sky. I do not hays any idea of tne
+poysical size of the object, or at what rate of speed it was ;
+travelling. I kept the object in sight for about one winute,
+until it disappeared out of sight.
+
+(See attashed sketch)

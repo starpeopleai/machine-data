@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T00:33:23Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4048044, "source_ctime_ns": 1793379176982967625, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28971405/1135.jpg", "source_mtime_ns": 1785701104000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28971405/1135.jpg", "source_sha256": "c878300bde4d574605532ed5d7f76f33ae71f9f5b11025b8bb1d41b94ec89c2f"}
+
+===== PAGE 1 =====
+{"alpha_words": 140, "chars": 1038, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+] PROJECT 10073 RECORD CARD
+
+_ |. DATE 2. LOCATION 12. CONCLUSIONS
+O Was Balloon
+4 93 Ausust 1957 Bel Air, Md a] Aiba he Beligon
+| | 3. DATE-TIME GROUP 4. TYPE OF OBSERVATION GU Fossimy Bolleen
+3 7 fs O Wos Aircraft
+Local H)>Ground- Vi sual O Ground-Rodor Q Probably Aireroft
+: GMT_24/0357Z 0 Air- Visual O Air-Intercept Radar O Possibly Aircraft
+_ [5 PHOTOS 3. SOURCE Hi Was Autroncmtent
+O Yes O Probably Astronomical
+Ne Military QO Possibly Astronomical
+7. LENGTH OF OBSERVATION 8. NUMBER OF OBJECTS | 9. COURSE OOrhe Aurora Borealis
+D Insufficient Dota for Evaluation
+; nknown
+one hour over 10 changing
+10, BRIEF SUMMARY OF SIGHTING 11. COMMENTS
+
+One object size of half dollar, white, |A number of UFO reports were
+red & yellow to north, changing shape, |received during this period similay
+
+8 or 9 to northeast, one small to to this one, which were found to
+a south, appearance of burning balloon, |be the aurora borealis now seen
+moving very fast in all directions. further south than in many years.
+
+ATIC FORM 329 (REV 26 SEP 52)

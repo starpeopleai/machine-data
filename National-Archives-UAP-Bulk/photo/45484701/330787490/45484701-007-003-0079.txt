@@ -1,0 +1,74 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T00:54:28Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7363109, "source_ctime_ns": 1793364661493520135, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787490/45484701-007-003-0079.jpg", "source_mtime_ns": 1785684887000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787490/45484701-007-003-0079.jpg", "source_sha256": "e7047d538860e34c2347193f95c15b244c5cef957091b3fac758dad908a325a1"}
+
+===== PAGE 1 =====
+{"alpha_words": 224, "chars": 1622, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+AFISIIC/Capt Herma /mmb /68060/21 Oct 65
+TRANSMITTAL OF REPORTS AND/OR REQUESTS FOR INFORMATION
+
+Raymond Spears
+General Delivery AFISTIC
+Pleasanton, California — ——
+
+2185-19
+
+AFSC (FTD) Wright-Patterson AFB, Ohio
+__ ITEMS CHECKED ARE APPLICABLE TO ABOVE SUBJECT
+
+REFERENCE OUR CORRESPONDENCE DATED
+
+ATTACHED REPORT(S) IS/ARE FORWARDED PURSUANT TO THE TELEPHONE REQUEST OF
+
+ATTACHED REPORT(S) IS/ARE FOR YOUR INFORMATION AND ANY ACTION DEEMED APPROPRIATE.
+
+AGENCY CHECKS INDICATED DEVELOPED NO UNFAVORABLE INFORMATION AS OF .
+
+FBI-ID = Osi ACSI-DA ONI
+CIA ae ; STATE(S) _ ie ee Sa eS Eon a ae Ho UACS |
+
+INVESTIGATION IS CONTINUING AND COPIES OF ALL SUBSEQUENT REPORTS WILL BE FURNISHED.
+
+FURTHER INVESTIGATION IS NOT CONTEMPLATED.
+
+RETURN ATTACHMENT(S) AFTER THEY HAVE SERVED YOUR PURPOSE.
+
+is
+ahi ile OF TWHIS/ THESE REPORT (oe BEING FURNISHED TO
+
+THIS DIRECTORATE HAS BEEN ADVISED THAT COMMAND ACTION WAS TAKEN AS A RESULT OF INSTANT INVESTIGATION,
+(SEE REMARKS.)
+
+ATTENTION IS INVITED TO THE RESTRICTIVE LEGEND(S) WHICH APPEAR(S) ON THE FRONT OF THE ATTACHED REPORT(S) OR
+DOCUMENT (s).
+
+WHEN ATTACHMENT(S) % IS/ARE REMOVED, THE CLASSIFICATION ON THIS
+
+CORRESPONDENCE WILL BE [|] RETAINED [_] DOWNGRADED TO _] CANCELLED, [_] MARKED “FOR OFFICIAL USE ONLY.”
+
+¥ a
+
+REMARKS
+
+Directorate OSI files do not reflect any information identifiable with subject.
+
+_
+
+CLASSIFICATION CANCEL LEL
+| BY AUTHORITY ©
+
+4 j ge i
+~ dba bed LS
+
+ead- cy - Capt Henley
+‘96rd cy - 2h-185-19-l6
+
+LL
+
+ek Be
+
+jl
+
+é
+
+AFHQ Voge 0-411 PREVIOUS EDITION OF THIS FORM WILL BE USED UNTIL STOCK IS EXHAUSTED. B~8623
+
+Declassification Authority: NND 923007

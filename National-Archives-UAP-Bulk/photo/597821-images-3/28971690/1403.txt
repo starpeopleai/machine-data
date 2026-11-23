@@ -1,0 +1,46 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T00:35:21Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4361568, "source_ctime_ns": 1793379236274695144, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28971690/1403.jpg", "source_mtime_ns": 1785701080000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28971690/1403.jpg", "source_sha256": "1137c473ec20a5cf8158bae7213e4b2eab46c585ffb06e86b49dddf706be3fdb"}
+
+===== PAGE 1 =====
+{"alpha_words": 316, "chars": 1928, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+eh Sh |
+
+DBCLEASSIEI Gl 2 eR 12
+DOW ite Szuv.i0
+
+3 a ieee aig
+
+th NOL ASIF icv
+
+speed difference. If the track nae decelerated at this rate it should
+have progressed about 530 n.mi. during the dead-reckoned period instead
+of the 280 miles it actually did travel. Since neither segment indicated
+a marked deceleration it would be more logical to suppose that if the
+track decelerated, it did so only for a part of the dead-reckoned time.
+In this case, the time and distance correlation would have been even
+
+less acceptable.
+
+Except for the high blip-scan ratio observed at each station,
+there was virtually no similarity in the scope displays on the track seg-
+ments. The return seen at Montauk appeared to represent a normal target.
+The blips were approximately the same size and shape as normal target
+returns and the only discrepancy observed was the relatively great decrease
+in blip size as the track approached the station. The returns seen at
+
+Benton were larger ‘han normal blips and appeared round in shape. All
+
+blips in Benton's track were identical and exhibited none of the variations |
+in size or intensity characteristic of real target returns. The manner in
+which the second portion of the track faded was entirely unrealistic for
+
+an outbound track. The blips remained large and round out to the point
+where the fade occurred and at this point the "paints" abruptly stopped.
+The fade on the portion of BB-6 carried by Montauk was more abrupt than
+would be expected for such persistent returns but is believed that/a real
+track could fade in this manner.
+
+To summarize the discussion on track correlation: the corre-
+lation in the courses of the two segments of BB-6 is remarkably good while
+the correlation in time and distance, even assuming a highly unlikely speed
+profile, is questionable. There seems to be no similarity between the
+scope displays seen at the two stations. Track BE-l11l carried by Benton

@@ -1,0 +1,41 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T00:50:06Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6693761, "source_ctime_ns": 1793380132284128468, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28974666/1106.jpg", "source_mtime_ns": 1785700882000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28974666/1106.jpg", "source_sha256": "6ad01a0622496fc09dde19cf1346eb9841d9d72aedcc79a029e70c4804380f4c"}
+
+===== PAGE 1 =====
+{"alpha_words": 118, "chars": 922, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+No sound,
+
+Disappeared while observer
+looked away to call neighbor.
+
+%. DATE 2. LOCATION 12. CONCLUSIONS
+O Was Salloon
+12 November 1957 Port Angeles, Washington 5 str A bth
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION sce gel lest via
+" ‘ QO Was Aircroft
+Local 23; Ground- Vi sual O Ground-Radar C1 Probably Aircraft
+GMT L3/090402 0 Air Visvol 0 Air-Intercept Radar Possibly Aircreft
+5. PHOTOS 6. SOURCE O Was Astronomical
+CQ Yes ) Probably Astronomical
+30NNo Civilian QO Possibly Astronomical
+7. LENGTH OF OBSERVATION 8 NUMBER OF OBJECTS | 9. COURSE 0 Other
++O Insufficient Dato for Evaluation
+vere QO Unknowa
+LO seconds one south
+10. BRIEF SUMMARY OF SIGHTING 11. COMMENTS
+Very large, shiny, banama shaped object. Due to limited information given
+
+Fr
+Gx
+
+a mplete analysis is difficult
+The description indicates possib
+meteor, Insufficient for
+analysis.
+
+data
+
+ATIC FORM 329 (REV 26 SEP $2)
+
+es

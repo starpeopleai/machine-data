@@ -1,0 +1,57 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T00:30:59Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3608009, "source_ctime_ns": 1793380669278348204, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28977652/0812.jpg", "source_mtime_ns": 1785700871000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28977652/0812.jpg", "source_sha256": "fa89a876d1e8400caded1b3fd8dfcf82c44a831942e75d278867afb105ce6837"}
+
+===== PAGE 1 =====
+{"alpha_words": 98, "chars": 771, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 1007
+
+3
+
+rt +
+Eoeedouss Etats
+
+Fi pceeortiee
+
+2. LOCATION
+
+‘5. PHOTOS
+
+O Yes
+D No
+
+a
+
+O Ground-Radar
+
+O Ajir-Intercept Radar
+
+7. LENGTH OF OBSERVATION
+
+9. COURSE vs Cc
+
+CONCLUSIONS
+
+Yas Balloon
+
+} !
+Probably Balloon
+Possibly Balloon
+
+Was Aireraft
+Probably Aircroft
+Possibly Aircraft
+
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+
+Other eae
+Insufficient Data for Evaluation
+Unknown
+
+§$ mins one W then E
+10, BRIEF SUMMARY OF SIGHTING | : V1. COMMENTS
+Rnd, silver obj, size of head of pin. |Possibly 3 Apr. No wind info.
+No sound. Observed 70 degrees elev, Possébly Astro (Star), normal
+120 degrees azimuth. Moved slowly obj (balloon), or reflection.
+west & behind clouds at point of Insufficient info for evaluation.
+ATIC FORM 329 (REV 26 SEP 52)

@@ -1,0 +1,44 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T01:18:48Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3555425, "source_ctime_ns": 1793382537483696811, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28984434/1234.jpg", "source_mtime_ns": 1785700992000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28984434/1234.jpg", "source_sha256": "067b742c55fa167fb422e3577da69f9179ba6c694baae4075d3140a617868458"}
+
+===== PAGE 1 =====
+{"alpha_words": 133, "chars": 935, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+NNNNZCZCSQPZ27SQWS36
+
+RR-T=ATIC
+
+HOASEE Rt : i 3 yf 5
+
+RR RJEDSQ ee rer aA oo.
+DE RJAOKC 29D | . | LIS
+
+R 170532Z ZNJ Be ae
+
+FM 313ADIV KADENA AB OKI ALG x
+
+TO RJEZHQ/COFS USAF WASHDC 7
+RJEDSQ/ATIC WPAFB OHIO °
+
+RJWFAL/ADC ENT AFB COLO
+
+INFO RJHPKM/PACAF HICKAM AFB TH
+
+RJAPAA/SAF FUCHU AS JAP
+
+ZEN/19@6 AISS FT BELVOIR VA
+
+BT
+
+JUNCLAS EFT 0/3ROC-IU-9-157. UFO. FOR AFCIN AND SAFIS
+USAF ALL OTTHER ADDRESSESS FOR INTELLIGENCE, REFERENCE PARAGRAPH
+11, AFR 204-2, DATED 5 UEB 58. DATA IS SUBMITTED AS FOLLOWS:
+ITEM ALPHA: DESCRIPTION OF OBJECTS: ¢1) SHAPE: POINT SOURCE
+
+OF LIGHT-STAR-LIKE. (2) SIZE: UNKNOWN, (3) COLOR: WHITE AND
+
+YELLOW. (4)(NOMBER OF OBJECTS; SIX TO EIGHT, (5) FORMATION:
+OBJECTS WERE SIGHTED SINGLY EACH TIME. (6) N/A. (7) N/A.
+
+(8) NO SOUND REPORTED. (9) N/A, ITEM BRAVO: DESCRIPTION OF
+COURSE OF OBJECT: ¢1) OKSILERS REPORTED SUDDEN APPEARANCE OF
+
+BRIGHT WHITE-YELLOW LIGHTED OBJECT MOVING AT JETJALIKE SPEEDS AT

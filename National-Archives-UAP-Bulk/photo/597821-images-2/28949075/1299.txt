@@ -1,0 +1,53 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T01:20:01Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3898744, "source_ctime_ns": 1793373871452465130, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28949075/1299.jpg", "source_mtime_ns": 1785696816000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28949075/1299.jpg", "source_sha256": "e7fcf41cd7c9e5a47153f05f3570c295028f7e68c727b2783b22636f4336fe59"}
+
+===== PAGE 1 =====
+{"alpha_words": 98, "chars": 825, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 WhATEER DATA SHy
+
+le DAVE OF CBSERVATION 2. ThE OF OBSERVATION
+
+tenths at
+
+ne feet.
+
+_ tenths at > aes
+
+ee ee eee
+
+eee ot ee
+
+gn ga ag eg
+ALTITUDE, VELOCITY } DIRECTION ALTIVUDE VELOCITY | DIkECTION |
+(feet) (knots) __ (degrees) fe SOE. (knots) | (@orrees)
+0 25,000 a ier
+1,000 30, 000
+2,000 35,000
+3,000 40,000
+4,000 45,000
+5,000 50,000
+6,000 55,000
+7,000 60,000
+& ,000 65,000
+9,000 70,000 —
+10,000 75,000
+12,000 80,000
+14,000 85,000
+16,000 90,000
+18,000 95,000
+20,000 100, GOO |
+5. WAS AN INVERSION LAYER NOT#“D? 1 Yes tio
+(te yes, at what altitude? aS ek
+6. Wiss ANY THUNDERSTORMS NOTED IN AREA? [C1 Yas Cio
+(If yes, at what quadrant? ie
+7. CLOUD COVER: wart 6. VISIBILITY WAS
+_. tenths at fest. tenths at feet.
+
+Mii,
+
+9. COWLENTS:
+
+ee eee ee ee Oe a oem
+
+AVIC Tost Form 333 (13 Aug 5?)
+
+ee Ne a emeeees oe

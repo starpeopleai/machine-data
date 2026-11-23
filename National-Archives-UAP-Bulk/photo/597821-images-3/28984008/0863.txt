@@ -1,0 +1,71 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T00:31:50Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3778056, "source_ctime_ns": 1793382465976774204, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28984008/0863.jpg", "source_mtime_ns": 1785701087000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28984008/0863.jpg", "source_sha256": "6348695a0aec15f0a360e244c13a6c78fd29493a6d8bf0102ffbd72cbdbb19c7"}
+
+===== PAGE 1 =====
+{"alpha_words": 294, "chars": 2132, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+INTRODUCTION TO THE PuHysiCAL SCIENCES—
+Morris Goran—Free Press, 421 p., illus., paper,
+$6. General science course for college stud
+presenting acai pen SGI
+physics and chemistry as parts au
+whole; includes Bick Faphical etahed
+entists,
+
+LANGUAGE oF PsycHoLoGy —/ ‘ George
+Araitee and William Kessen—Wiley/ 301 Pp.
+$6.75. Analysis of scientific language in psy-
+chology, tracing its development from vernacu-
+lar to the formulation of explicit theories, em- e
+phasizing recent oe in phe logic and pac
+philosophy of scien ) |
+
+Tue Lire or ae “Aresal /FLEMING: Dis- /
+coverer of Penicillin—Andre aakicois, transl. é \ \V\
+from French by Gerard Hopkins, introd. by a
+
+— Robert Cruickshank—Dutto#, 293 p., photo- t \
+graphs, $5. From the background of labora- yt
+\tories, test tubes and pipettes, antiseptics and i
+antibiotics emerges a portrait of the man and ~) es
+great scientist who died jn 1955.
+
+Roap-Cannvinc Capagiry of Roaps as ae
+
+FECTED RY Prost Act ei Final Report—G. A
+
+Meskal, W. W. Srifiler fand Carl E. Vogelgesang
+—Highu ay Researca Bull. 207, 32 P+» illus.,
+
+paper, Kee ¢. Samim: gies of state projects, with
+Oregon ate Indiana/reports in full.
+
+Movers Science aND Human FREEvoM-—
+David L. Miller—Univ. of Texas Press, 297 p.,
+$6. Examinds whether the great traditions of
+Western cultuke can be reconciled with the im-
+pact of science and the theory of evolution. \
+
+Motivarion ok SclENTISTs AND ENGINEERS: A
+Survey of Manayanent Policies and Practices in
+Selected Companie\—Leonard C, Beanland and
+cuete ae dU
+
+ness, iy $
+twelve Stant rd fe ilo s exploring incentives in
+industry
+Paitin ZootocicaL Expeptrion 1946-
+1947: Tabanidae (Dipter
+—Chicago) Ne at. Hist. Mu i
+$2. Repoft on horseflies ahd deerflies collected H
+by the eppedition. |
+Puse AND Pu LL: The Story of aida ag
+
+s, with suggestions for experi
+UALITATIVE AN: ALYSIS AND YALYTICAL
+
+urice M. “Vick. —Macmillan, and ¢
+ilfus., S4.50. Fundamental text
+stmester studies of general chemistry.
+/ Researcr 1x Acinc: VA Prospectus—
+ans Administration Advisory Committee
+forcutens of Aging, Ralph W. Gerard, Chmn.
+Govt. Print. Off., 125 p., illus., $1.50. Trans-\

@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T01:01:42Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8683348, "source_ctime_ns": 1793379681677384878, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28973171/01262.jpg", "source_mtime_ns": 1785700844000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28973171/01262.jpg", "source_sha256": "ae877ff3f89a500b587b75b69f571244dc6131a694b78bcd092420bdf4d7d7e8"}
+
+===== PAGE 1 =====
+{"alpha_words": 87, "chars": 724, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+j
+“ i PROJECT: 10073 RECORD CARD
+1. DATE r 2. LOCATION 12, CONCLUSIONS
+4 0 Wos Bolloon
+4 |___5 November 1957 Lynchburc, Virginia B pocute Balen
+| 3. DATE-TIME GROUP 4. TYPE OF OBSERVATION ne ee
+O Wos Aircroft
+_Leecel EEGround- Vi sual O Ground-Rodar OQ Probobly Aireroft
+MT 06/0137Z O Air Visual O Air-Intercep? Rodor O Possibly Aircroft
+0 Yes O Prebably Astronomical
+1O%No Civilian O Possibly Astronomical
+7. LENGTH OF OBSERVATION 8. NUMBER OF OBJECTS | 9. COURSE O Other ’
+O Insufficient Dete for Evaluation
+i j : GO Unknown
+fe Oo minutes one not given
+- 10. BRIEF SUMMARY OF SIGHTING 11. COMMENTS
+; Red object, pointea on each end, 20- Probably Aurora Borealis.
+2n
+
+wy
+
+It by 200 ft tong,
+
+ATIC FORM 329 (REV 26 SEP 52)

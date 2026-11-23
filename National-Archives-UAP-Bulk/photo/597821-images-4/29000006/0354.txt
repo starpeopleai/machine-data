@@ -1,0 +1,21 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T01:27:05Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5102320, "source_ctime_ns": 1793388099828654305, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/29000006/0354.jpg", "source_mtime_ns": 1785748168000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/29000006/0354.jpg", "source_sha256": "d2d80adc2c1d37b744883f6ca98bad67cb48a4cfd572fd1b880937897271c60a"}
+
+===== PAGE 1 =====
+{"alpha_words": 45, "chars": 293, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+| Sreubeze ez.
+cere (C252
+
+Qin kenk Cousmamad oak
+
+‘ Os;
+
+Ww Reeeuder an tH Ay Qppriusckhls
+5:30 N\ cada bouibanl Lesh y Vous :
+Newas| agaelks Areezudaug an aXeeid
+3 Repo A Rae indo Ara eS AQase Qe ee
+ond Bae hex, Rae suree Rich
+Dor. i. Won Counrbiedt |
+
+Din uekursted’ tke. Sau uredech |
+
+!

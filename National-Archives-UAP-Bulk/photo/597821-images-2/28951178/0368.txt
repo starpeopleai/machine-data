@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T00:39:15Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4873043, "source_ctime_ns": 1793374313276772504, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28951178/0368.jpg", "source_mtime_ns": 1785696683000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28951178/0368.jpg", "source_sha256": "451926bfd95fdae9c803382d3a84cac74f9f62cff51311694702b31cb255725c"}
+
+===== PAGE 1 =====
+{"alpha_words": 151, "chars": 1017, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+( ( +E ocp sore
+| CdITE RICAN GN!
+
+MEDITERRANEAN SEA
+
+Third Officer Frank Kaminski, of the American S. S. Atlantic
+Seaman, Capt. Martin E. Dahl, Master, reports that while en route ©
+to Port Said at 1955 G. M. T., October 18, 1952, in lat. 35°57’ N., |
+lon. 15°48’ E., he observed a comet-like streak which appeared in
+the north at an altitude of 35°, which moved in a westward and
+downward direction for about 2 or 3 seconds when at a bearing :
+of 845° it exploded with a blinding flash which illuminated the
+entire area for about a second. A trail was visible in the path
+of the object to where it exploded, then curved upward and back
+to the eastward in a hook-shaped formation of rust-colored smoke.
+This trail was visible for at least 10 minutes before it disappeared |
+completely.
+
+* A similar observation was made by Mr. Kaminski on the night
+of November 16 in South Suez Bay, but was bright orange in |
+color and cigar shaped. It was headed southward at an altitude |
+of 15° and was visible about 5 seconds.

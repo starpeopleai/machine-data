@@ -1,0 +1,65 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T00:56:32Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7591102, "source_ctime_ns": 1793361729226246552, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330781178/45484701-001-002-0148.jpg", "source_mtime_ns": 1785684763000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330781178/45484701-001-002-0148.jpg", "source_sha256": "e7b3e5c362152adebcf03857c60d1357a025d01871b93d6f589b7edbb76779ae"}
+
+===== PAGE 1 =====
+{"alpha_words": 465, "chars": 3017, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+-
+
+a So: Colonel Doyle Rees December 20, 1948
+
+3.4 -In the case of meteorites that penetrate to a5 low levels «s
+that determined for the fireball of December 12, the observed luminous phc-
+nomena are always accompanied by very violent noises. Wo noises whatever
+have been observed in connection with the various December fireballs so far
+investigated.
+
+3.5 Genuine meteors normally show renarkable variations in bri p..1
+beginning as fine thin hair lines, which are scarcely visible to the obse
+and then brightening up to flash out near the end of their paths. In ths
+
+of the December fireballs most of the observers have reported that tho gr
+balls appeared almost instantly at their full brightness.
+
+3.6 In the case of genuine meteors the paths are directed toward
+all points of the ‘compass eh equal frequency. On the contrary inthe, c2c2
+of the groen fireballs, plots of admissible approach sectors show that thir
+is & very pronounced tendency for the paths to ccwe in from the north hali
+of the skye
+
+gee The three groups of anomalous greenish luminous phenomena si ow
+a curious Sociation with well know. meteor showers, although none of these
+meteor showers normally produce extremely bright grcen fircballs, such as
+those recently obsorved. For example, the observation mentioned by Hr. 1
+appeared near the maximum of the Quadrantid shower of carly Jenuary, “Are
+McCullough's observation of August was near the time of % Persid shower
+the December observotions 211 fell in tho interval covered oe the Geminid
+shower. This relationship might indicate an-attan pt to render the green fir
+balls less conspicuous by causing thom to appea only when rae is: consid
+able meteoric activity.
+
+Sec. AS noted in ano: ie ommunication, the remarkably
+color reported for most of the December fireballs is rarely obsorved
+case of genuine meteors. By laboratory est this peculiar color seon
+identical with that given off by salts in the blowpipe flame.
+identification is correct, the waveleng o radiation from the
+fireballs is noar 5,218 Angstrom Units.
+
+3.9 The duration estimates of between 2 and 3 seconds reported
+the green fireballs are considcrably longer than those (0.4 = 065 soconds)
+for the ordinary visual meteors, but shorter than the duration estimates
+invariably reported in the caso of 2 genuine meteorite fall (5 to 30 ssconds
+or even longer).
+
+3.10 For none of the green fircballs has a train of sparks or | du si
+cloud been reported. This contrasts sharply with the behavior noted in case
+of meteoric fireballse=partioularly those thot penetrate to the very low
+levels where the green fireball of December 12 was observed.
+
+4. On the basis of the various differences to which attention is: coal iweu
+in section 3, the writer remains of the epinion that the fireball of Decembs*
+12 was definitely non-meteoric and that in all probability the same jis truc
+of most, if not all, the other bright gee firsballs, which the OSI has ha:
+under investigation.
+
+9 LINCOLW LaPaZ
+
+Declassification Authority: NND 923007

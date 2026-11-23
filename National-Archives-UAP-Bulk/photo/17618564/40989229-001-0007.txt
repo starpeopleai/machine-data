@@ -1,0 +1,47 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T00:47:06Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6184692, "source_ctime_ns": 1793354868048893761, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989229-001-0007.jpg", "source_mtime_ns": 1785564354000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989229-001-0007.jpg", "source_sha256": "ea0b4a64c0643a203095173782c47c91fa93fc91473d5286172be1e73ab299dc"}
+
+===== PAGE 1 =====
+{"alpha_words": 445, "chars": 2751, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+COl COEMMAN@ 5/25/95
+
+who was a colonel. Had a full staff of physicians and nurses. Ed Bradley, who was my cohort in
+the flight surgeon's office, had taken a quick course in diagnostic radiology, and he read the X-
+rays. I was involved in looking, because of my experience as a flight surgeon, became involved
+in caring for all the patients with head and neck, or primarily ear problems and eye problems. So
+we sort of each did our sub-specialty thing. Ed Bradley had had a year of straight medical
+internship; I'd had a year of rotating internship before I came to San Antonio in '57, and went
+through the School of Aviation Medicine at Randolph. Then went from there to Roswell where I
+became a flight surgeon.
+
+Q: Talking about the staff there. There's been reports that a nurse observed a patient
+in one of the examining rooms, operating rooms there, that did have a big head, and she became
+quite startled at seeing this. Do you recall any nurse being involved in the treatment of this
+particular patient?
+
+A: I can't recall that the patients left the flight surgeon's office, unless it was to get a
+skull X-ray, which I think we got, and a chest X-ray. We did some minor things to try to
+convince ourselves that those weren't serious, although clinically they weren't terribly serious
+injuries.
+
+I think his appearance in this photograph taken at Wright-Patterson is more frightening
+than it was at the time I saw him initially. But I can imagine that a nurse may have seen him, but
+I frankly can't recall the circumstances. We didn't have any nurses in the flight surgeon’ office.
+We had an NCOIC and a number of corpsmen and secretary/typists, that sort of thing. We had
+an optometrist who worked out of the flight surgeon's office. But that was it.
+
+@: On the morning this happened, you said this is an unusual event, a balloon
+accident. Do you remember anyone asking questions or inquiring who these people were and
+why were they here?
+
+A: I don't recall that, because I was primarily concerned about the people who were
+there and who were injured. | don't recall having had any discussions with anyone in the
+surrounding area. They certainly were, except for their minor injuries, were otherwise normal
+people.
+
+Q: In your time when you were there at Walker, did you ever have any involvement
+with the local morticians in town for any type of contracting or anything like that?
+
+A: No. I don't ever remember any contact with the morticians. You had indicated
+that the mortician had provided ambulance service for the base to transport injured Air Force
+personnel to the base hospital. I, frankly, was totally unaware of that contract, nor have I ever
+had contact with a mortician from Roswell, New Mexico at any time during my stay there.

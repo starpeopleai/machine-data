@@ -1,0 +1,58 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T01:17:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1944460, "source_ctime_ns": 1793356059885404546, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989300-001-0188.jpg", "source_mtime_ns": 1785564595000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989300-001-0188.jpg", "source_sha256": "625a6b70e9db0270129865cf2644773616c17a3af775e7e23f30a2fe95f74e87"}
+
+===== PAGE 1 =====
+{"alpha_words": 382, "chars": 2393, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+COPY
+AIR COORDINATING COMMITTEE
+FORT WORTH REGIONAL AIRSPACE SUBCOMMITTEE
+P. O. BOX 1689
+FORT WORTH 1, TEXAS
+
+September 2, 1947
+
+XDUM
+YEMORA
+
+10: L. C. Elliott
+Chairman, Ft. Worth Regional Airspace Subcommittee
+
+Lt. Col. Hall F. Smith, War Dept. Member, Ft. Worth
+Regional Airspace Subcommittee
+
+FROM: Secretary, Ft. Worth Regional Airspace Subcommittee
+
+SUBJECT: Procedure for Release of Free Balloons in the White Sands Danger
+Area
+
+The writer mt with Mr. James R. Smith of New York University and Lt. V. D.
+Thompson of Alamogordo AAF, at El Paso, Texas, on August 27 ‘to discuss procedures
+to be followed during the descent of free balloons released within the White Sands
+Denger Area.
+
+Mr. Smith advised that he had met with the Commarding Officer at Biggs Field who
+had stated he desired no further coordination other thar what the Civil Aeronautics
+Administration might require and that he would write a letter to Mr. Smith to this
+effect. Mr. Smith will forward this to the Chairman of the Subcommittee for the
+record.
+
+Mr. Smith outlined their progrem, which consists for the most part of testing
+‘various types of balloons. Their program will probably be of 5 flights per month
+for the next 6 months, the first flight to be released on Sept. 6, weather per-
+mitting. Weather minimums were agreed on as not more than 4/10 of the sky covered
+or forecasted to be covered within the expected descent area (60 mile radius).
+
+Balloons are tracked by VHF DF stations at Alamogordo and Roswell for the present
+plus an aircraft. When the balloon descends to 20,000 feet, if not in the clear,
+positions will be given every hour or so and will be put out as notams on Schedule
+"A" from the Roswell AAF. ‘This will serve to advise the Army Fields, the airlines,
+and some itinerart traffic. In any case if the balloon is outside the assigned
+danger area, notams will be issued when the balloons descend below 15,000 feet.
+
+The balloons are for the most part 15 feet in diameter and plastic. Suspended
+from the balloon is a 100 foot one thousand pound test nylon line which carries
+_the airborne equipment. Releases are usually made at dawn and the flight terminates
+
+i an average of 8 hours time; it may be from 6 to 12 hours duration.
+
+It is believed the notam procedure will serve to advise pilots of this. activity
+Sifectively enough to provide the desired amount of caution. It is understood

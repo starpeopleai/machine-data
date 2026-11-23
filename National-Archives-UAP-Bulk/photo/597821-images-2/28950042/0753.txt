@@ -1,0 +1,97 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T01:22:57Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4201018, "source_ctime_ns": 1793374068512594096, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28950042/0753.jpg", "source_mtime_ns": 1785696520000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28950042/0753.jpg", "source_sha256": "0acbe78e28821d0e477df99da44e465273acd8fe2c8abc90832127312eea46e5"}
+
+===== PAGE 1 =====
+{"alpha_words": 167, "chars": 1183, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+{ PROJECT 10073 WORKSHEET
+
+I. G&SNERAL
+
+(i. DALES 2. LOCATION
+
+Patel
+
+Local: //4a 24977
+Zebrat 4 Pato
+
+re a ee es fbn’
+Te Wi CssaeT OES SERVED FROM IHE “GROUND?
+
+(J Yes
+rertiaxed Eye
+i) Binoculars
+C) ‘telescope
+[| Thaodolite
+
+(} No
+
+CJ Yes <
+CiBy One Set .
+CJ By Two Sets
+CJ By Three Sets
+
+cr oO Tine AIR?
+
+OYos.
+__.A/C Observed Object
+(“]Interception Attempted
+[]No Intercept Attempted
+
+0
+
+Ys Wolds AIRCRAFT SCRAMBLED TO INTERCEPT?
+
+*
+
+(} fes i
+_..A/C Serambled pa
+(j) Visual Contact Made
+CiA/I Contact Made
+
+_i|No Contact Mado
+
+BS. DID OBJECT CHANGE DIRECTION AT ANY TIME7”
+
+ee ae
+:
+
+C) Yos
+(} Normal
+[1 Violent
+
+‘OQ. IF OBJECT WAS A "LIGHT", WAS IT:
+
+(_} Blinking
+Fl stendy et zy kp
+
+; 7 3
+7
+
+;
+;
+
+ae ay Seconds v
+-5 Mimtes 2 ~~
+fj] Over 10 Mnutes
+
+"SIT REPORTING AGENCY (Unit Nurber and balling Maree}
+
+:
+
+ee ~ gud
+
+II. ASTRONOMICAL DATA
+
+:
+| Alu
+“[5. DID OSdeCT APPEAR TO DISINIDCORATE? : TTY fatio |
+13. GHEING RECATIVE 10 SUWRISE OW SUNSET (Bata 7 From Air Almanac)
+— Night .
+= fay “we ares
+(— Sunrise \
+{* Sunset Gy
+IIT, ATRCRAPT DATA X\
+me iW Tae: > Than. One ecrait j $y
+AS ‘the Ob Ter TIERED ALOVE BG SISTaTTON? ~) 193 ito OW
+‘TLC Tast Form 334 (13 Auge 52)
+
+oe eer es |

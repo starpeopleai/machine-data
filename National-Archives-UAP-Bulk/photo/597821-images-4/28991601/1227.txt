@@ -1,0 +1,37 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T00:50:35Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6938823, "source_ctime_ns": 1793385008598199882, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28991601/1227.jpg", "source_mtime_ns": 1785748551000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28991601/1227.jpg", "source_sha256": "87d60c3a410e0655ce7073037106d3f3407d04cc2af24f399bc40721137c15e9"}
+
+===== PAGE 1 =====
+{"alpha_words": 147, "chars": 1011, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+AEROSPACE TECHNICAL INTELLIGENCE CENTER
+UNITED STATES AIR FORCE
+WRIGHT-PATTERSON AIR FORCE BASE
+
+OHIO |
+REPLY TO
+attw oF: =AFCIN-4X2 |
+sussect: Extract from Duty Officers’ Report 28 Feb 61 |
+
+To: AFCIN-4E2 (Maj Friend)
+
+The foliowing, extracted from 1/Lt Purnell's Report dated 27 Feb 61,
+is quoted for your information:
+
+Received a call at 0100, 28 Feb, from AF Command Post, Wash DC,
+
+A Maj Sizemore reported that he had received an interesting
+report on a UFO. The UFO was observed by a Sergeant at Fort
+
+Mead Missile Master Center and also tracked on radar. The
+following information was given: Place GJQL4515. Time:
+28/0430Z2. Description: Cluster of 3 objects, total illumination
+as large as a star. Heading: 90° Speed: 900 knots with stops
+and starts. Altitude between 7 and 9 thousand feet. The im- -.|
+portant part. of this report seems to be that the objetts were
+tracked by means of radar. Received no message on subject.
+
+oe
+
+/ MICHAEL J, STROFF, JR. 1 Atch
+
+Major, USAF ATIC Fm 164 |
+AFC IN-4X2 |

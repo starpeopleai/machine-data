@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T00:34:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4209163, "source_ctime_ns": 1793376435197801239, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28960673/0574.jpg", "source_mtime_ns": 1785696945000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28960673/0574.jpg", "source_sha256": "3a7848561227741c8a3c5cbdaf512bc6ec1f4c20999cb567d4c3966cde8d2a04"}
+
+===== PAGE 1 =====
+{"alpha_words": 72, "chars": 507, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+HEADQUARTERS 12TH AIR DIVISION... a
+4 March Air Foree Base QOL AS oP ED
+California
+
+j 22D01
+
+SUBJECT: Unidentified Flying Object Report
+
+. TO: Headquarters
+4 Air Defense Com~and |
+Ent Air Force Base
+Colorado Springs, Colorado
+
+4 Transmitted herwith is a report of an unidentified flying object
+q submitted by the 22d Bombardment Wing (uM).
+
+| FOR THE COMMANDER:
+
+1 Incl:
+UFOB (Quad)
+
+i
+ii
+f
+iz ' :
+i f
+faryyarar . :
+BOW NGAI VTPR VAT es ae é
+[ mNety 4 : yr i “s
+4 DBCLASS Age eas i
+
+‘ DR at Rd Bova BS aD)
