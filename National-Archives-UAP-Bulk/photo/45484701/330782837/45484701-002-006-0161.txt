@@ -1,0 +1,81 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T18:43:17Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8864646, "source_ctime_ns": 1793362463523938400, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330782837/45484701-002-006-0161.jpg", "source_mtime_ns": 1785684704000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330782837/45484701-002-006-0161.jpg", "source_sha256": "8fe50261df13da7f18c761d44cc5bb443591b37d0a0c088978280ac928761835"}
+
+===== PAGE 1 =====
+{"alpha_words": 213, "chars": 1601, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UNITED STATES AIR FORCE
+THE INSPECTOR GENERAL
+OFFICE OF SPECIAL INVESTIGATIONS
+REPORT OF INVESTIGATION
+TITLE
+"PROJECT SIGH'
+INIDENTIFIED AERIAI
+PHENOMENON
+ILE NO
+32-12
+REPORT MADE BY
+TROY R. SHERMAN, S/A
+PORT MADE
+0 ¿$9, Barksdale AFB, La
+PERIOD
+15 July 1949
+OFFICE OF ORIGIN
+DO #9, Barksdale AFB, La.
+STATUS
+CLOSED
+DATE
+29 July 1949
+CHARACTER
+SUBVERSIVE ACTIVITY
+REFERENCE
+None. This is an initial report.
+SYNOPSIS
+This investigation was conducted at the request of the
+District Commander, 9th OSI District, upon receipt of informa-
+tion that an unidentified aerial phenomenon had been sighted
+over the City offAlexandria, Louisiana.
+Investigation revealed that on 7 July 1949, Mrs, WARREN
+D. PHILIPS, 1810 Warshauer Streets Mrs. NORA C. POOL, igh-
+Warshauer/Street; and Mrs. GEORGE HART, 1414 Jefferson
+way, Alexandria, Louisiana, sighted an object which they
+described as being round, about six (6) inches in diameter,
+and having no visible means of propulsion.
+CLASSIFICATION CANCELLED 0-SOS Age
+BY AUTHORITY OF THE DIRECTOR OF SPEC INV
+BY
+KURT K. KUNZE, Capt, USAF
+distorian
+8 DEC 1975
+DATE
+CLOSED
+DISTRIBUTION
+CG,
+Wright¿Patterson
+AFB (Action Cy)
+HQ OSI
+DO #9
+2
+ACTION COPY FORWARDED TO
+Commanding General
+Air Materiel Command
+Wright-Patterson AFB
+Dayton, Ohio
+FILE STAMP
+APPROVED
+ONLY
+Edward 1. 7ord.
+EDWARD R. FORD
+Major, USAF
+24.185. 792
+ITED STATES AIR
+2 ARE INSPECTAR GEHEN
+AUG 6 3 02 PM 243
+PECIAL INVESTICATIONS
+District Commander.
+UNCLASSIFIED
+AFHQ FORM
+15 JAN 49
+0-208
+Replaces AFOSI Form 4, 23 Jul 48,
+16-57744-1
+U. S. GOVERNMENT PRINTING OPPICE
+Declassification Authority: NND 923007

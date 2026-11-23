@@ -1,0 +1,43 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T18:28:19Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7222347, "source_ctime_ns": 1793363465264435611, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785292/45484701-005-004-0114.jpg", "source_mtime_ns": 1785684657000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785292/45484701-005-004-0114.jpg", "source_sha256": "5fc6ccd065bb09f16046461e47b925ff95ef5772c4b0e12110d6129b1cf6250a"}
+
+===== PAGE 1 =====
+{"alpha_words": 149, "chars": 1096, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Page 2
+' Essential Elements of Info
+CONFIDENTIAL
+Project "Sign"
+6. Time in sight Approximately 10 Minutes
+7. Appearance of object
+a. Color
+Whitish - Gray
+b. Shape (sketch if possible)
+c. Apparent construction (translucent) clouds or Fog (Gaseous)
+d. Size
+(1) Estimated size 2 It. Diameter
+(2) Size as it appeared from observer's view
+(Compared to known object)
+8. Direction of flight 80°
+9. Tactics or maneuvers None
+a. Vertical ascent or descent, horizontal, oscillating slightly ascend-
+fluttering, evasive, aggressive, erratic, etc. ing, moved south and
+10. Evidence of exhaust peared to be fluttering slightly.
+a. Color of smoke
+Whitish Gray
+b. Length and width
+Unknown
+c. Odor (if any)
+None
+d. Rate of evaporation None Noticed.
+e. Does trail vary with sound? (spurts) No.
+11. Effect on clouds No Clouds in sky.
+a. Opened path thru clouds
+b. Formed cloud or mists
+c. Reflected on cloul
+d. Shown thru cloud
+12, Lights
+a. Reflected or atteched pull reflection, as sun often shines
+thro ugh
+b. Luminous
+c. Blinked on and off in relation to speed
+FIDENTIAL
+Declassification Authority: NND 923007

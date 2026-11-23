@@ -1,0 +1,48 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T18:45:25Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10225461, "source_ctime_ns": 1793364909567716523, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787905/45484701-007-006-0092.jpg", "source_mtime_ns": 1785684683000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787905/45484701-007-006-0092.jpg", "source_sha256": "19f04ff101ff30c5df3e6d6db19e5c66ab10df724d0d9d6397c7304305c68e5e"}
+
+===== PAGE 1 =====
+{"alpha_words": 262, "chars": 1833, "method": "ocr", "page": 1, "variant": "plain-vision"}
+_OSE USAF
+HEADQUARTERS
+21st DISTRICT OSI (IG) USAF
+LANGLEY AFB, VIRGINIA
+UNCLASSIFIED
+File No: 24-147
+SUBJECT:
+11 February 1958
+Unidentified Plying Object, Salem, Virginia,
+12 January 1958
+TO :
+Commander
+Langley Air Force Base
+Virginia
+1. This communication confirms information furnished CLARKE E.
+JOHNSTON, Major, AO 421112, Intelligence Officer, 345th Bombardment
+Wing, Langley Air Force Base, Virginia, on 3 February 1958, relative
+to an alleged sighting of an unidentified flying object in the vicinity
+of Salem, Virginia.
+2. The 12 January 1958 edition of the Roanoke Times, a daily news-
+paper published at Roanoke, Virginia, contained the following article:
+"Strange Objects Reported
+This SectionạẠạẠi Sky in
+Ạ&Strange objects in the sky created concern in the Roanoke
+Valley area early today. State Police at Salem received
+a report from a man who reported a large object in the sky
+with what appeared to be a ball of fire trailing it. He
+said he saw it about 12:20 A.M. In addition, state police
+reported that the object or objects had been seen by persons
+in Floyd County and near Draper in Pulaski. Origin of the
+strange object was not known early today."
+3. On 15 January 1958, Special Agent JOHN R. McNEILL intervieved
+Mr. HENRY E. BRUGH, Route 3, Salem, Virginia, BRUGH furnished the
+following information concerning the unidentified flying object which
+he allegedly sighted on 12 January 1958:
+(1) Description of the Obiect:
+UNCLASSIFED a. Appeared round, with a short cone trashing.
+b. Appeared 10-20 feet in diameter, the face of the
+sphere appeared greening in color, the remaining portion including the
+trailing cone was fire red. The cone appeared to be a cone of fire
+given off from the object itself. The cone was about the same length
+as the object itself.
+(AER JOU 10)
+Declassification Authority: NND 923007

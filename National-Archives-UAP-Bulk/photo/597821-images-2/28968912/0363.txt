@@ -1,0 +1,57 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T19:18:41Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6506724, "source_ctime_ns": 1793378699040604227, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28968912/0363.jpg", "source_mtime_ns": 1785696434000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28968912/0363.jpg", "source_sha256": "5e5753bed15f07bbac59946caec3d892328a9828cadb2708dbf1edb9465a21bf"}
+
+===== PAGE 1 =====
+{"alpha_words": 221, "chars": 1595, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AF FOMM 112-PART 1
+APPROVED 1 JUNE 1948
+COUNTRY
+USA
+(CLASSIFICATION)
+UNCL
+(LEAVE BLANK)
+REPORT NO.
+I8-01-51
+AIR INTELLIGENCE INFORMATION REPORT
+SUBJECT
+UFOB
+AREA REPORTED ON
+VA
+DATE OF REPORT
+12 February 1957
+PREPARED BY (Officer)
+FROM (Agency)
+D/1, 34th Air Div (Def), KAFB, N Mexico
+DATE OF INFORMATION
+EVALUATION
+7 February 1957
+Radar Stations and fighter aircraft
+REFERENCES (Control mumber, directive, precious report, etc., as applicable)
+APR 200-2 and Chapter II, CONADM 55.1
+SUMMARY: (Enter concise summary of report. Give significance in final on
+ence paragraph. List inclonires at lower left. Begin text of report on AF Form 118-Part II.)
+Section's statement as to possibility of temperature inversion, and the opinion of the
+685th Aircraft Control and Warning Squadren's Controller, that the targets were
+caused by a temperatare inveraton.
+Force helia de 205-2, a Slept ted one to seriance with paragraph 30%, dir
+Chales E Meyers
+CHARLES & MOYERS
+VIES USA
+irestor of Intellig
+INCLS.
+DOWNG
+DECLASSIPIRD
+DOQ DIE 5200.10
+STERVALS:
+12 YEARS
+15 18
+D/1 ADC, D/1 CADE, D/1 34EA ADD
+DISTRIBUTICN BY 46020 ASS:
+NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT. 50 U.S.C.-
+31 AND 32. AS AMENDED.
+ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW
+IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF
+INTELLIGENCE, USAF.
+UNCLASSIRIED
+S 34 352
+57
+- 10-33580-1 U. 3. 60V

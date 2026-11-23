@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T18:43:59Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9124160, "source_ctime_ns": 1793361113158043314, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-004-0123.tif", "source_mtime_ns": 1785565233000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-004-0123.tif", "source_sha256": "10b378482e6a39b955c3ffd05886d3c9e8c7ed16e99827e066d5359ee8e06c2f"}
+
+===== PAGE 1 =====
+{"alpha_words": 36, "chars": 285, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+A¥CIN- BI pHOLOSTAT REPRODUCTION
+d
+
+Routing Inst Cont’ REQUIREMENT
+
+¥ NUMBER OF
+
+ORIGINALS RE PRODUCTIONS
+
+NEGS SETS
+
+SIZE PRINTS PRINTS
+TOTAL
+
+OPERATOR NO/DATE
+
+OPERATOR NO/DATE (8/C) a AR YT ]
+@ & APR 1958 g
+OPERATOR noite
+
+COLLATOR BS Abiiggg 5§
+
+DECLASSIFIED
+Authority NND 9237007

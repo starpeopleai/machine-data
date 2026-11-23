@@ -1,0 +1,88 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T18:31:07Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8362845, "source_ctime_ns": 1793385738788019588, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28994018/0476.jpg", "source_mtime_ns": 1785748395000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28994018/0476.jpg", "source_sha256": "4ea0fffb3e60fe553fb45f27eb05c7a17ab0e004b1a967d5571a646449b44af4"}
+
+===== PAGE 1 =====
+{"alpha_words": 112, "chars": 1026, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DATE
+977777711779999005
+>28
+- 20
+→ 29
+- 29
+> 30
+30
+30
+31
+DATE - •
+Aug
+10
+LOCATION
+10 - 31 AUGUST 1961 SIGHTINGS
+OBSERVER
+ts
+Multi
+NOT
+rec's
+32.27N
+Osan, Korea
+Illiccis
+Caroli
+ıia
+ONAL
+RE
+EVALUATION
+Astro (JUPITER)
+Insufficient Data
+UNIDENTIFIED
+Aircraft
+Other (PARACHUTE FLARE)
+Satellite
+Astro (METEOR)
+Other POOR PHOTO
+PROCESSING)
+Balloon
+Aircraft
+Insufficient Data
+Satellite
+Satellite
+Other (UNRELIABLE REPORT.
+Other (MISSILE)
+Other (MISSILE
+Balloon
+Balloon
+Aircraft
+Astro (VENUS)
+Insufficient Data
+Aircraft (REFUEL OPR)
+Aircraft
+Astro (METEOR)
+Satellite
+Satellite
+Aircraft
+Aircraft
+Aircraft (REPULE OPR)
+LOCATION
+Universe
+Southwestern United States
+Hanover, Ontario
+Chicago, Illinois
+Chatham, Massachusetts
+Stillwater, Minnesota
+Farmington, New Mexico
+Bayview, Idaho
+Amity, Oregon
+Wichita, Kansas
+Evanston, Illinois
+Cincinnati, Ohio
+EVALUATION
+Science News Ltr
+American Meteor Society Reports
+Newsclipping
+Newsclipping
+Newsclipping
+Newsclipping
+Newsclipping
+Newsclipping
+Newsclipping
+Newsclipping
+Newsclipping
+Newsclipping

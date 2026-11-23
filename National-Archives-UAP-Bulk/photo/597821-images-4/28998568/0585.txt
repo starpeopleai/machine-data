@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T18:29:19Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7691333, "source_ctime_ns": 1793387349473053623, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28998568/0585.jpg", "source_mtime_ns": 1785747842000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28998568/0585.jpg", "source_sha256": "67317041deec1ba16b7ed91a62e38e3af08c3f1e84ebeaa933479de2ae171762"}
+
+===== PAGE 1 =====
+{"alpha_words": 72, "chars": 567, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+UNCLASSIFIED MESSAGE
+INCOMING
+AF IN : 50345 (6 Sep 52)
+Page 4 of 4
+PAGE FOUR RUKDJA 53A
+80,000
+N/ A
+N/A
+3. CEILING: 8,000 SCATTERED, HIGH SCATTERED
+4. VIS: 25 MILES
+5. CLOUD COVER: 5/10
+6. NONE
+7. TEMPERATURE: 54 DEGREES FAHRENHEIT AT LOCATION OF
+CITING.
+H. UNUUAL CONDITIONS
+NONE
+I. NO RADAR INSTALLATION IN VICINITY HAD ANY OBJECT ON THEIR
+SCOPE
+J. ASSOCIATED ACTIVITIES
+NO AIRCRAFI IN AREA AT TIME OF THIS INCIDENT.
+K. REPORT OF PREPARING OFFICER (LT ANDERSON'S COMMENTS)
+NONE.
+I. EVIDENCE
+NONE
+06/22Ø3Z SEP RUKDJA

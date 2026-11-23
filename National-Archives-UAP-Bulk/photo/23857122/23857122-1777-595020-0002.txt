@@ -1,0 +1,34 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T18:49:38Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 81201596, "source_ctime_ns": 1793358037185586286, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1777-595020-0002.tif", "source_mtime_ns": 1785565016000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1777-595020-0002.tif", "source_sha256": "2203e958cc5c77b8dfc4977a8e828f757309f6b18cddd49c32af31001c19bb72"}
+
+===== PAGE 1 =====
+{"alpha_words": 42, "chars": 301, "method": "ocr", "page": 1, "variant": "plain-vision"}
+(468) GALVESTON BAY
+ELEVATIONS IN FEET
+WORLD AERONAU
+ICAL CHART
+468)
+LC10
+PATH OF
+OBJECT
+WIND
+MQ
+WARNING AREA
+(W-377)
+Pete the prating. Ares
+WARNING AREA
+(W-92)
+G
+WARNING AREA
+(W-223)
+F
+M
+C
+MP
+NP
+OP
+AP
+FH9O A GH
+GALVESTON BAY (468)
+1 U.S. AIR FORCE EDITION -*
+Gł
+Declassification Authority: NND 57565

@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T18:34:48Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 14053178, "source_ctime_ns": 1793360907203323728, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-003-0220.tif", "source_mtime_ns": 1785565151000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-003-0220.tif", "source_sha256": "7b7d9a180df2c30c79e8ed05519434bac9f9009a8ac7bd8c11b31d8ac4117c71"}
+
+===== PAGE 1 =====
+{"alpha_words": 211, "chars": 1323, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Itr to Comdr, Maywad AF Depot, Maywood, California, Subj: Unidentified
+Flying Objects (UFOB)
+(10) Position title and comments of the preparing official,
+including his preliminary analysis of the possible cause of the
+sighting:
+This report was prepared by Glenn I. Cox, Special Agent,
+loth District Office of Special Investigations (IG) USAF.
+is the opinion of this agent that Mr. SIMON is an individual
+that is apparently emotionally stable and based upon his alleged
+background in interrogation work, he should be an individual who
+could give an accurate accounting of any incident he observed.
+His description of the incident was made in a clear and concise
+manner with no noted discrepancies. The writer has no analysis
+as to the probable cause of this incident. According to Mr.
+SIMON the sighting was made in an area that does not normally
+reflect lights from the city of Los Angeles. Also the object
+had no physical connection with any searchlight or etc. that
+could have been located on the ground.
+(11)
+Existence of physical evidence, such as materials and
+photographs:
+SIMON advised that he took no photographs of the object and
+made no drawings or graphs of the same.
+lo harm In. slewer
+It Colonel, USAF
+FRUH: theatence of
+Colonel, USAF
+District Commander
+ce: Dir OST
+1095745_4
+DECLASSIFIED
+Authority NND 9237007

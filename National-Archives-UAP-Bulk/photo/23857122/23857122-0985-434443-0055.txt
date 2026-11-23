@@ -1,0 +1,19 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T18:21:28Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 21968168, "source_ctime_ns": 1793356889667559317, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-0985-434443-0055.tif", "source_mtime_ns": 1785564782000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-0985-434443-0055.tif", "source_sha256": "7b453deaad186983459ccdd873156c4887712de0718d2b82cb115d531bbac506"}
+
+===== PAGE 1 =====
+{"alpha_words": 51, "chars": 344, "method": "ocr", "page": 1, "variant": "plain-vision"}
+3 April 1452
+Alaut 2/000 Lames
+Simpana behnd his tart, He collech
+my attirin
+a meter, i troveling at as very high
+rate
+speel, in a notherk
+divetin. It oppened as a solen
+of fire semen a tril y penta
+St burneat for an
+camople, Cra tinaś
+and finall, disagreemed. St was
+Troneline in a strajut line,
+AF434143
+Declassification Authority: NND 57565

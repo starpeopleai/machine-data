@@ -1,0 +1,59 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T18:43:54Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9001234, "source_ctime_ns": 1793383718020216640, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28987691/1307.jpg", "source_mtime_ns": 1785748486000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28987691/1307.jpg", "source_sha256": "bf3334996d9e4153cf062fae536cd852b3fdff42d0c1af268bb30a2305ea4c4e"}
+
+===== PAGE 1 =====
+{"alpha_words": 133, "chars": 986, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+8 Jul 60
+3. DATE-TIME GROUP
+Local
+2045
+GM T.
+09/01452
+5. PHOTOS
+• Yes
+# No
+7. LENGTH OF OBSERVATION
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Mason, Ohio
+4. TYPE OF OBSERVATION
+Ground• Visu
+nocular
+• Air Visual
+6. SOURCE
+Civilian
+• Ground-Rodar
+• Air-Intercept Rador
+8. NUMBER OF OBJECTS | 9. COURSE
+12.
+CONCLUSIONS
+• 00
+•
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aileraft
+Probably Aireraft
+Possibly Aircraft
+Was Astronomical Arcturus
+Probably Astronomical
+Possibly Astronomical
+Other
+Insufficient Date for Evaluation
+Unknown
+30 min
+one
+10. BRIEF SUMMARY OF SIGHTING
+bright light like a star, flickered, appeared
+o move back and forth - up and down in circles,
+ine of a pea at arm's length. Sources did not
+see object
+disappear.
+varied
+11. COMMENTS
+A check of astro charts indicate the star
+Arcturus, a ist magnitude star, was in
+the position reported for the object.
+There is no reasor to believe the object
+was other than the star Arcturus.
+ATIC FORM 329 (REV 26 SEP 52)

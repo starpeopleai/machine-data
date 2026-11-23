@@ -1,0 +1,24 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T18:21:56Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 59699728, "source_ctime_ns": 1793357422099052658, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1388-514451-0062.tif", "source_mtime_ns": 1785564894000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1388-514451-0062.tif", "source_sha256": "9a19016a459eca1e8457eb67c0200fd4df35e07b7f6ff1502a2f6739b52847eb"}
+
+===== PAGE 1 =====
+{"alpha_words": 67, "chars": 449, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Antwort auf eine Kritik
+Frohe Ferientage für unsere Kinder!
+s Kinde
+in der kinder
+b Sachsenwe
+ach Niedercolmnitz 9.50 U
+nach Schönborr
+9.00 Uhr
+BGL
+Mit den Schlamm-Hexen in der Olmühle
+In den Morgenstunden des 15. Juni, als Zehn-
+Dresdnern
+en Siel taten viten, fuhren Die 100 k
+en das Wort!
+Doch am Ziel angekommen, erfuhren wir.
+Eberhard Arnhold, Sekt. Leichtathletik
+Mußte es soweit ko
+Dietel von der BSG
+KOD
+Declassification Authority: NND 57565

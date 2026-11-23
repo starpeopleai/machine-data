@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T18:53:20Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 19322950, "source_ctime_ns": 1793361108600821682, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-004-0117.tif", "source_mtime_ns": 1785565232000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-004-0117.tif", "source_sha256": "599e82c375a17f1f3042488c3d3d36cce4079621f79c4828b544ef1d20098c25"}
+
+===== PAGE 1 =====
+{"alpha_words": 156, "chars": 1089, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UNCLASSIFIED
+CLASSIFICATION
+SECURITY INFORMATION when filled in)
+SUPPLEMENT TO AF FORM 112
+REPORT NO.
+ORIGINATING AGENCY
+CAirC, Dir. of Intelligence
+IR-4-58
+PAGE
+98087
+PAGES
+12:00
+to avoid jet.
+As soon as jet got close, UFO appeared
+to move away for several miles, then stop.
+Jet returned to Howard.
+Pilot called and advised nothing
+was seen.
+Also advised Weather Build-up.
+Radar advised
+they could distinguish UFO from clouds and build-ups.
+WARNING: This document contains information affecting the national defense of the United States within the meaning of the
+Espionage Laws, Title 18, U.S. C., Sections 793 and 794. Its transmission or the revelation of its contents in any manner to an
+unauthorized person is prohibited by law. It may not be reproduced in whole or in part, by other than United States Air Force
+Agencies, except by permission of the Director of Intelligence, USAF
+AF 1 OCT 52 112a
+WHICH MAYBE USE DI-PART I1, 1 JUN 48,
+CLASSIFICATION
+UNCLASSIFIED
+(SECURITY INFORMATION when filled in)
+AU. S. GOVERNMENT PRINTING OFFICE
+16-68470-źî
+DECLASSIFIED
+Authority NND 9237007

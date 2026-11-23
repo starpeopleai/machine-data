@@ -1,0 +1,80 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T19:15:48Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 17709680, "source_ctime_ns": 1793355638748170921, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0077.jpg", "source_mtime_ns": 1785564494000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0077.jpg", "source_sha256": "bb1786464eb56d88b6b61184379bf26eb2f2e00ba85f4998c9496c31f6676aed"}
+
+===== PAGE 1 =====
+{"alpha_words": 378, "chars": 2658, "method": "ocr", "page": 1, "variant": "plain-vision"}
+140
+Impact velocity
+Deceleration, maximum and average
+Deceleration -Onsetrate (As the name implies this is simply the rate at
+which the deceleration builds up to its peak value. Fairly limited data are
+available on the limits for man and equipment for this factor, but it should
+definitely be considered in manned systems.)
+Mechanical considerations
+Weight
+Size and Shape
+Stroke
+Stability
+Landing terrain
+Orientation of landing
+Reliability
+Before getting into the specifics of ballooning, I would like to briefly cite some
+examples of each of the five classes of energy-absorption methods. Probably the
+most familiar to all of us are the Material-Deformation Systems.
+From Figure 1 we can see that the chief use of paper honeycomb lies in the
+lower impact velocity range, although metal honeycomb can extend that range some-
+what. One of the difficulties with honeycomb is in its directional properties, about
+which I will say more later.
+Figure 2 shows another example of a material-deformation device. The foamed
+plastics and balsa wood can increase both the velocity range and the capacity of this
+class of methods.
+The primary advantages of these systems are that they are simple, very reli-
+able, and require no complex actuating devices. Not to be ignored is the fact that
+they are also relatively inexpensive.
+Gas bags, depicted in Figure 3, offer the designer considerable flexibility in
+obtaining specific desired values of deceleration and deceleration-onset rate.
+Various methods can be used to control the gas pressure and each method has its
+own advantages and disadvantages. One of the chief disadvantages of gas bags,
+however, arises from this very flexibility. Once the bag has been designed to
+satisfy a specified set of conditions, it can tolerate very little deviation from those
+conditions without serious effects. At present gas bags are relatively expensive
+compared to material-deformation devices, and they too suffer from directional
+properties.
+Under the heading of mass acceleration I have shown in Figure 4 aerial snatch
+and the impact spike. Naturally, an indispensable requirement in these techniques
+is auxiliary equipment in a proper location, or a prepared, or at least selected,
+landing surface.
+141
+MATERIAL HONEYCOMB"
+DEFORMATION SYSTEM
+METAL
+HONEYCOMB
+PAPER
+HONEYCOMB
+ENERGY
+ABSORPTION
+LIMITS
+FT-LBS./LB.
+2-11K
+700-230îšŘ
+IMPACT
+VELOCITIES
+FT-SEC.
+30-180
+10-35
+Figure 1. Material-Deformation System Honeycomb
+MATERIAL DEFORMATION SYSTEM
+*FOAMED PLASTIC
+PLASTICS
+BALSA WOOD
+ENERGY
+IMPACT
+ABSORPTION
+VELOCITIES
+LIMITS
+FT-LBS. /LB
+FT-SEC.
+750-450ОîŘŚ
+10-70
+9.24K
+150-400
+Figure 2. Material-Deformation System Foamed Plastic

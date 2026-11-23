@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T18:29:52Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7944951, "source_ctime_ns": 1793365292328304757, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330788691/45484701-008-005-0008.jpg", "source_mtime_ns": 1785684606000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330788691/45484701-008-005-0008.jpg", "source_sha256": "577ed10fc0920ce67e1d78cda9b8eef174d8f8fbef82eae19572ba9a1d9d1a7d"}
+
+===== PAGE 1 =====
+{"alpha_words": 58, "chars": 528, "method": "ocr", "page": 1, "variant": "plain-vision"}
+FIDENTIAL
+B/Itr fr Hq PACD/MATS, Subj: Unconventional Aircraft, 28 May 51
+lst Ind
+MATS 24-243
+13 JUN 1951
+HQ, MILITARY AIR TRANSPORT SERVICE, Andrews AF Base, Washington 25, D. C.
+Director of Special Investigations, Headquarters USAF, Washington
+25, D. C.
+Forwarded for your information,
+FOR THE COMMANDER:
+James G. Hyland
+Colonel, USAF
+eputy Air Inspecto
+HOMAS D. FERGUSON
+/ Colonel, USAF
+Inspector General
+S0180/50
+VOEWENL
+00908k
+24-185-600-24
+R FORCE
+Лон 14 11 29:81
+SPE
+JUN 15 M0I
+CON
+Declassification Authority: NND 923007

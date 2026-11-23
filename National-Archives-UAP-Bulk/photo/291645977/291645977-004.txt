@@ -1,0 +1,11 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T19:19:44Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6802764, "source_ctime_ns": 1793361509185712947, "source_file": "National-Archives-UAP-Bulk/photo/291645977/291645977-004.jpg", "source_mtime_ns": 1785565367000000000, "source_rel": "National-Archives-UAP-Bulk/photo/291645977/291645977-004.jpg", "source_sha256": "4239a680e70fecb7864df71ae443b93eb4a1607c1432374b1eb5e8d9dae9461d"}
+
+===== PAGE 1 =====
+{"alpha_words": 36, "chars": 282, "method": "ocr", "page": 1, "variant": "contrast-vision"}
+11. Position title and comments of the prepering officer.
+ICDS E. L. SINGERIAN, Ale Traffle Control Offieer, B. S. Naval Air
+Station, Poinc Mugu, Califorala.
+b. Poseible cause of the sighting is undetermined.
+12. Existence of physical evidence.
+a. None.
+Enclosure (1) to NAS Serial

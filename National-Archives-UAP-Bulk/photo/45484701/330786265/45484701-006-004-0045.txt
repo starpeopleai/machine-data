@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T18:32:13Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8961911, "source_ctime_ns": 1793363914453875867, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330786265/45484701-006-004-0045.jpg", "source_mtime_ns": 1785685034000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330786265/45484701-006-004-0045.jpg", "source_sha256": "75996abe4cf489909098adbce38d948bfa3f1a67958d104c4870e79a38e2d7b6"}
+
+===== PAGE 1 =====
+{"alpha_words": 177, "chars": 1167, "method": "ocr", "page": 1, "variant": "plain-vision"}
+i- (4)
+(10) Secure an approximation of distance to the west of the Bitter Root
+Mountains, at which the objects passed.
+(As you know, in this area visibility is very high, and it might
+be that these "objects" were actually traveling in the flight line from
+the Panhandle of Idaho to the Central forest fire area of Idaho, and were
+the cause of the "dry lightning" streaks, as upon contact with certain
+atmospheric interferences, the visible "saucers" do at times break up
+into samller "balls of light" or are dissipated as lightning streaks
+emanating from cloudless skies. This latter phenomenon does not occur
+naturally, as clouds are a necessary condition to the formation of
+natural lightning.
+I have witnessed this phenomenon of lightning
+caused by the ray-form, watching it once for over two hours, when 28
+forest fires were set.
+The bolts were nearly all descending on a 45 degree
+angle.)
+Thanking you for your attention to this case, I am,
+Sincerely yours,
+Mrs. Madeline Gwynne Merchant
+cc/ Col. A.J. Hemstreet, Acting Chief,
+Tech. Intelligence Division,
+Intelligence Department,
+Wright-Patterson AFB,
+Wright Field, Ohio.
+Declassification Authority: NND 923007

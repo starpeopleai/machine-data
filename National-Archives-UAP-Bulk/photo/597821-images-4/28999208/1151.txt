@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T18:44:32Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9884540, "source_ctime_ns": 1793387805522090246, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28999208/1151.jpg", "source_mtime_ns": 1785748398000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28999208/1151.jpg", "source_sha256": "3e907ee5a65a2b429584372c5b1f742d71d06f9e66a10d0383eddb8c9df7c742"}
+
+===== PAGE 1 =====
+{"alpha_words": 94, "chars": 779, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+UNCLASSIFIED MESSAGE
+INCOMING
+AF IN: 11631 (22 Sep 62)
+PAGE TWO RUDDU 27
+(8) NONE
+(9) OBJECT APPEARED AS A BRIGHT RAPIDLY FLASKING
+WHITE LIGHT. OBSERVER STATED THAT HE HAS SEEN
+SATELLITES BEFORE BUT THIS MOVED MUCH FASTER.
+3 (1) BRIGHT FLASHING LIGHT MOVING RAPIDLY.
+(2) OBSERVED FROM AIRCRAFT: OBJECT FIEST SEEN AT
+72 DEGREE ELEVATION AND 300 DEGREES AZIMUTH.
+(3) FADED OUT BEFORE REACHING HORIZON AT 120
+DEGREES AZIMUTH.
+(4) STRAIGHT COURSE 120 DEGREES - 130 DEGREES,
+(5) FADED OUT OF SIGHT
+(6) ONE MINUTE 30 SECONDS.
+Cr
+(1) VISUAL FROM AIRCRAFT.
+(2) NONE
+(3) AIRCRAFT FLYING AT 35,500 FEET: 10 MILES S.V.
+OF EVELETH, MINNESOTA.
+D
+(1) 21 SEPTEMBER 0158Z.
+2) NIGHT
+(1) 9230 V. 4722 1șŘŚš
+(2) 10 S.V. EVELETH, MINNESOTA
+Pg 2 of 4

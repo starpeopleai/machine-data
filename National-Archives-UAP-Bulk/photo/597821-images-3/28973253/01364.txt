@@ -1,0 +1,129 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T18:32:06Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8865894, "source_ctime_ns": 1793379724974087063, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28973253/01364.jpg", "source_mtime_ns": 1785700812000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28973253/01364.jpg", "source_sha256": "aa444ed799fabbff0b398a722f6163391f1fe3cd2ce205e390bec0e1d74926e4"}
+
+===== PAGE 1 =====
+{"alpha_words": 258, "chars": 2053, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DATE
+6 MOTMEER 1957 SIORTINOS
+ORSERVER
+LOCATION
+United States /21 Report: (3
+I of Seoul,
+Koren
+Philirpines
+Militar
+R'tory & Civ114er
+ceisons, fores
+Tormingdele, De-
+N ltauxee ,
+Wisconu
+Militery
+inabeim, California
+•( PHOTC)
+Shiroi AB, Japan
+) Whitenan AFB, Mosouri (40
+v Ceorgia, Floride, Alabama
+Military
+Militery
+(RADAR)
+Hulti (6 cases)
+New Orleans, Louisiana
+Zenkiuh, Torth Dazota (CASE MISSING) Civilian
+Laka Couñty, Ohio
+/ Rochins AFB, Georgia
+* Vashington Istan",
+Wisconsin
+Kogaahina, Japan
+Military RADAR & Vis
+* Dembury, Cordectiout
+Atlantic 43.20NŚęŚ
+• 17.30M
+/ Atlentic 35.222 74.14%
+Iaredo AFB, Texas
+Militery
+Civilian Ship
+Military (RADAR)
+• Vassalboro, Naine
+Calma, North Carolina
+Dax Tree, New Jersey
+Revechill, Massechusetts
+Harrisburg, Pernsylvania
+Columbus, Chie (CASE MISSING)
+Dufcato,
+New York
+Abington,
+незт
+infa
+Haw York, Maina
+Iti (6 casas)
+Dreat Weck, New York
+#r Krox, Kentucky
+st Albana, West Virginia (CASE MISSING
+Rydal, Gecrgia
+Macon, Georgia
+Inglishtown, Wew Jersey
+Opento, Wisconsin
+BOATAR ,
+Te kea
+Montville, Chio (FOLDER #3)
+-Cleveland, Ohio
+nempsteac, Long Isiand, New York
+• Chilo, Ohio (CASE MISSING)
+vilian (COC)
+Turner AFB, Georgia
+Dellmoer,
+Long Island, Wew Yor:
+- Ul Paso, Texas
+Greeneboro, North Carolina
+Takavood, California
+Albnquerque, Ne% Penics
+& an following folder
+ETALUATION
+Astro (AURORA)
+Belloor
+Astro (VONJS)
+AS+Po (MOISOR)
+IncaPfieient Det
+Inanfficient Data
+Other (nOAx)
+Astro (MITOR)
+Other (PALSS TARO2T)
+Astro (DETEOR)
+Insulficient Data
+Astro (VENUS)
+InsufPicient Dato
+Other (URELIABLE REPO!
+Aireralt
+1. Aireraft
+2. Renar (WX Eftents)
+Insufficient Data
+Astro (HEIDOR)
+ASTrO (AURORA)
+Other (AMOMALOUS PROP)
+Astro (VINUS)
+Insufficient- Data
+Insufficient Data
+Airera?:
+Insufficient Data
+Airerelt
+Astro (VanuS)
+AiFCEaIt
+Astro (VENUS)
+Airera?t
+Insufficient Data
+Astro (METEOR)
+Aircreft
+Othe: (UNRELIABLE REFOF
+Astro (MOTEOR)
+Insufficient
+Data
+UNEDSIEIFIED
+Aotro (METEOR)
+Other (Seerchli ghr)
+Aircreit
+Otaer (UNRELIABLE RPT)
+Astro (METEOR)
+Insufficiant Cata
+Astro (NETBOR)
+Aircra?t
+Airerait
+Astro (VENUS)

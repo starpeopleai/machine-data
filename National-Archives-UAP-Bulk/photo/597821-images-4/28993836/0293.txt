@@ -1,0 +1,52 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T18:31:16Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8397218, "source_ctime_ns": 1793385643475941115, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28993836/0293.jpg", "source_mtime_ns": 1785748087000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28993836/0293.jpg", "source_sha256": "eda201522ec891471ef9583b1ec137d4f26d5930ef202c8ee1dafe2c6c0cb684"}
+
+===== PAGE 1 =====
+{"alpha_words": 112, "chars": 881, "method": "ocr", "page": 1, "variant": "plain-vision"}
+I. DATE
+3 Aug 61
+3. DATE-TIME GROUP
+Local .
+GM T.
+0314152
+5. PHOTOS
+• Yes
+XO No
+7. LENGTH OF. OBSERVATION
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Sasebo, Japan
+4. TYPE OF OBSERVATION
+X• Ground- Visual
+• Air Visual
+SOURCE
+• Ground-Rodar
+• Air-Intercopt Radar
+Military
+NUMBER OF OBJECTS
+9. COURSE
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aireraft
+Possibly Aireraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other
+Insufficient Data for Evaluation
+Unleno wn
+10-12 sec
+S
+10. BRIEF SUMMARY OF SIGHTING 1 ObjE ObSerVed as
+11. cOMMENTS lould appear to be meteor ex
+red orenge exhaust trail great speed disappeared
+for interval of diseppearance. Ineu
+and reappeared with no obstruction to account
+Deta.
+for disappearance. Sighted 25° elev 175°
+az.
+Disappeared after horizontal flight in clouds.
+ATIC FORM 329 (REV 26 SEP 52)
+icie

@@ -1,0 +1,48 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T18:42:11Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 60290596, "source_ctime_ns": 1793357449984140685, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1388-514451-0076.tif", "source_mtime_ns": 1785564900000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1388-514451-0076.tif", "source_sha256": "8c3e02048342b912a4d76af62ddd58a51b5da2ac959815735ede2665da90429a"}
+
+===== PAGE 1 =====
+{"alpha_words": 192, "chars": 1414, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Nie wieder ein solcher Tag wie der 22. Juni 1941!
+I der standen
+skandi Ouen
+IC YOL
+nen Krieg
+Wirtschaftliche
+Rechnungsführung
+Übernehmt Selbstverpflichtungen innerhalb
+des Betriebskollektivvertrages
+Betriebsarzt Dr. med. Fuchs verpflichtet sich, eine gut ausgebildete Gesundheits-
+elferin des Betriebes in die Sanistelle zu übernehmen und ihr praktisches Wissen
+so weit zu vervollkommnen, daß selbige Ihr Staatsexamen ablegen kann
+Übernehmt Selbstverpflichtungen
+zur Festigung der Freundschaft mit der Sowjetunion,
+der Führerin im Weltfriedenslager!
+g. Maschi
+Wir bauen unser Dresden wieder auf
+Die enge Verbundenheit aller Werktätigen mit der
+Sozialistischen Einheitspartei Deutschlands kam erneut
+om vergangenen Sonnabend und Sonntag zum Ausdruck,
+um den Ver-
+mut Pomsel, Af-Prüff.
+Kollege Hartmut Götz,
+Af-Schlosserei, übernimmt
+die Verpflichtung.
+bis zum 1. September 1952
+einen neuen Brigadeleiter
+zu entwickeln.
+. Mfc.
+Die BPS. Af. VP
+und, wie ihr seht, auch Mfc,
+die woll'n das Rennen machen.
+Ob Regen oder Sonnenschein,
+ob Trümmer oder Ziegelstein
+Los geht's mit 80 Sachen!
+Brigade Sobatky wurde am 1. Mai als „Brigade
+der ausgezeichneten Qualität" prömiiert
+wo zu Ehren der Kreiskonferenz der SED auf allen Bau-
+stellen Aufbauschichten geleistet wurden.
+Hast Du Dir schon überlegt,
+Genosse, welche Verpflichtung
+Du zu Ehren der II. Parteikonferenz
+übernehmen willst?
+Declassification Authority: NND 57565

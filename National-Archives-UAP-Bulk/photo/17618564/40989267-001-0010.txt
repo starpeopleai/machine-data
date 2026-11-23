@@ -1,0 +1,46 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T19:04:53Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 16204426, "source_ctime_ns": 1793355428255069515, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0010.jpg", "source_mtime_ns": 1785564453000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0010.jpg", "source_sha256": "b436c66061bf032588a10325d7e0d593fb81ac392010060336f0174760c86210"}
+
+===== PAGE 1 =====
+{"alpha_words": 487, "chars": 3237, "method": "ocr", "page": 1, "variant": "plain-vision"}
+10
+Such balloons are most frequently launched by the "platform' method wherein
+the size of the gas bubble is carefully controlled to limit the amount of loose balloon
+material that is presented to the wind during the launching period. The successive
+steps in this type of launching are shown in Figs. 2 through 6. As these pictures
+indicate, the lifting gas is fed to the balloon bubble through a small diameter tube
+connected to the gas trailers or gas source. The bubble size is permitted to
+increase slowly as inflation proceeds. When the inflation is complete, the bubble
+is approximately 1/20 to 1/650 of the full volume of the balloon, depending upon the
+design ceiling altitude. That part of the balloon below the launch platform, is still
+uninflated. The balloon base is connected to a deployed parachute which, in turn,
+is connected to the payload. Depending upon the size, weight, and configuration of
+the payload, different payload launching vehicles are utilized; however, all are
+mobile to permit the payload to reach a point directly below the balloon before final
+release. While the capability of this launching system is dependent on balloon type,
+total inflation, payload size, experience of the launching crew, and so on, a major
+limiting factor is the surface wind. A reasonable maximum allowable surface wind
+velocity is 8 knots, although launchings have been made at more than twice that
+value.
+Until recently, nearly all such zero pressure balloons were made from poly-
+ethylene. Polyethylene has a moderate tensile strength, low cold brittleness
+temperature (-68°C), moderate extensibility (this is rate and temperature de-
+pendent) and excellent storage properties. In addition, the heat sealability of this
+film and the inherent low cost of the resin make this an eminently suitable film for
+the low cost balloons required by the majority of scientific experimenters.
+As in earlier days, the advent of increased payloads forced reassessment of
+the balloon capabilities. Tests of polyethylene balloons in the 4,000 pound payload
+range simply were not sufficiently successful to risk using such balloons to carry
+men or even expensive scientific experiments. For these extended requirements
+stronger films were developed. In many of the heavy payload programs the
+material now being used is a Mylar film of 1/2 or 1/3 mil thickness bonded to a
+leno weave of Dacron fibers. This laminate provides an exceedingly useful balloon
+film approximately eight times as strong as polyethylene (on an equal weight basis),
+having extremely high tear strength. As might be expected, the scrim balloon is
+expensive, costing nearly five times as much as an equivalent polyethylene balloon.*
+Figure 7 shows the altitude-payload capability of several balloons of different
+sizes, both polyethylene and scrim. It seems reasonable to expect that the re-
+*NOTE: It is appreciated that the heavy payload high-altitude performance of a
+scrim balloon may be unobtainable with a polyethylene balloon and, therefore, such a
+comparison may be unreasonable, However, the comparison is perfectly valid if one
+considers payloads within the range of polyethylene balloon capability.
+Figure 2. Inflation of a Zero Pressure Balloon in Launch Arm

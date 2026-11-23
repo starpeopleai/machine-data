@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T19:17:45Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6088984, "source_ctime_ns": 1793375149635366589, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28954889/0917.jpg", "source_mtime_ns": 1785696674000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28954889/0917.jpg", "source_sha256": "44b63a95b41e307e10e48e39352c2bde44e2d6c0631fa280049a34108c94c424"}
+
+===== PAGE 1 =====
+{"alpha_words": 147, "chars": 1003, "method": "ocr", "page": 1, "variant": "plain-vision"}
+MINUTES 02 SECONDS WEST; LONGITUDE; 45 DEGREES 15 MIN NORTH; FEFERENCE
+TO KNOWN LANDMARKS; NAS TILAMMOK, ORE
+B. LOCATION OF OBJ WITH RESPECH TO OBSR: UNABLE TO DETERMINE
+DISTANCE AND AXE, YJGW DIR.
+PAGE TWOJWPD 13B
+5. IDENTIFYNG INFO ON OBSRS & WITMESSES: 2ND LT I. N. PATTERSON, AO
+1865653 AND 2ND LT ALFRD SLYNN, AO 223711, MOBY DICK 1320TH ARC SPECIAL
+LAUNCH SITEA;
+TIME AND PLACE OF SIGHTING)
+A. WEATHER COND PREVALENT IN AREA: 1060 250-0 15 64/49 NORTH 2
+20,000 FEET, /120 DEGREES E 25 KNOTS 30,000 FEET
+7. COND WHICH MIGNT ACCT FOR THE SIGHTING: MOON TABLE INDICATES THIS AS
+A POSSIBILITY.
+&. NO EXISTENCE OF ANY PHT EVIDENCE SUCH AS FRAB, PHOTO AND THEE LIKE,
+OF THE SIGHTING.
+9. INTCP OR IDENTIFICATION ACTION TAKEN: RPT TO CONTROLLER, 25 TH AIR DIV
+RESULTING ACTION UNKNOWN.
+10. NO LOC OF ANY AIR TRAF IN GEN AREA AT TIME OF SIGHTING.
+11. NO AGENCIES CONTACTED FOR INFO AND/OF CFM OF FACTS.
+29/149Z JUN JWPD
+DOWNGRADED AT 3 YEAR IN
+DECLASSIFIED AFTER 12 YEARS
+DOD DIR 5200.10
+UNCLASSIFIED
+cy /

@@ -1,0 +1,53 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T18:54:39Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 25775168, "source_ctime_ns": 1793357770079573507, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1652-564182-0002.tif", "source_mtime_ns": 1785564968000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1652-564182-0002.tif", "source_sha256": "d287dd231c62449d9251530fb6a903e077f08a89becb0be6e14e6a31d644db64"}
+
+===== PAGE 1 =====
+{"alpha_words": 359, "chars": 2460, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AF FORM 112.-PART II
+APPROVED 1 JUNE 1948
+AIR INTELLIGENCE INFORMATION REPORT
+REPORT NO.
+Hq Southern Air Procurement Dist
+Fort Worth, Texas
+2
+PAGES
+Information was received from OSI District office No. 23, Carswell Air Force
+Base on this subject as related to them by Mr. Everard Melvin Kinch, employee of
+Consolidated-Vultee Aircraft Corporation,
+Department 28-3 (Production), who resides
+at 4223 Jerry Lane, Haltom City, Fort Worth, Texas.
+Mr. Everard M. Kinch was interviewed 17 July 1953 in accordance with AFL 200-5.
+Mr. Kinch was cooperative and conversant during the interview and offered a signed
+statement which is attached herein.
+Mr. Kinch related the following description:
+The object was blue or purple in color, appeared more of a light then a solid object,
+he was unable to estimate size or any aerodynamic features. Object apparently was
+traveling at a very high rate of speed, and registered no sound.
+Mr. Kinch advised
+the object maneuvered very sharply once or twice then disappeared in a northwesterly
+direction.
+Object was sighted approximately 2115 hours 9 July 1953, and was visible to
+Mr. Kinch about three or four seconds.
+The weather at the time was hot and clear,
+and according to Mr. Kinch there was no activity or condition, meteorological or
+otherwise which might account for the sighting.
+It should be noted Mr. Kinch's estimate of location the Lake Worth area would be
+in the immediate vicinity of Consolidated-Vultee Aircraft Corporation and Carswell
+Air Force Base.
+Employment records reveal Everard Kinch employee #6-9-540938, born 15 July 1918,
+employed as Engineer Liaison Man-B, High School Education.
+The information as developed herein did not warrant further pursuit of the matter
+and other witnesses herein mentioned were not interviewed.
+If inclosure No.
+is withdrawn
+(or not attached) the classification
+of this correspondence will be cancelled
+to FESTRICTED without reference to the
+originating authority.
+NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S. C.-
+31 AND 32, AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW.
+IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF
+INTELLIGENCE, USAF.
+NFIDENTIAI
+(CLASSIFICATION)
+- 4257
+Declassification Authority: NND 57565

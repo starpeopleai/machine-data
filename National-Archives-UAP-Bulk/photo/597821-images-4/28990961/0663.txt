@@ -1,0 +1,61 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T18:31:34Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8549610, "source_ctime_ns": 1793384737354931478, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28990961/0663.jpg", "source_mtime_ns": 1785748580000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28990961/0663.jpg", "source_sha256": "428d83b64df2daf37fbadd4c8f4e8aea580d08966fe1fa36d1179664554a5854"}
+
+===== PAGE 1 =====
+{"alpha_words": 44, "chars": 510, "method": "ocr", "page": 1, "variant": "plain-vision"}
+6220
+10000
+16002ŘŚš
+20003
+30330
+50000
+0002
+KRL
+DIND
+BLOWING FAIRLY MARD. NILO
+ATURDA:
+163/12
+202/16 CU TING
+222/40
+260/33
+273/65
+2:0/73
+270/70
+2:0/30
+WATL
+4302 OVERCA T
+10
+10/10
+250 /25
+262/35
+2:0 /53
+270/40
+2:0/55
+2:3/02
+NOT A/AIL
+E T 9222 OVERCA T
+25 .IL:
+13/13
+NOTE
+MOL TE PERATURE
+CURFACE
+6020
+FRIDAY
+36F
+257
+PAGE
+FIVE RJ ZG? 61
+13020
+16003
+20000
+20 F
+OF
+- 150
+5000ą
+- 61F
+32002
+- 732
+PARA N. NO OTHER UNU VAL ACTIVITI OR CONDITIO
+ACCOUNT FOR THE ICHTLO, PARA I. MONE. PARA
+A LOT OF AIR T A271C 1
+247
+-11:

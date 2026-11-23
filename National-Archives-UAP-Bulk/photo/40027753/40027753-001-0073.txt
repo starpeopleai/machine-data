@@ -1,0 +1,9 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T19:12:55Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 2, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 22489778, "source_ctime_ns": 1793361606812426021, "source_file": "National-Archives-UAP-Bulk/photo/40027753/40027753-001-0073.tif", "source_mtime_ns": 1785565388000000000, "source_rel": "National-Archives-UAP-Bulk/photo/40027753/40027753-001-0073.tif", "source_sha256": "8faca8eefbbc5d0828e3c4b6208c137a0ba1f6bf90dfd40a7499bebd9bc2ea20"}
+
+===== PAGE 1 =====
+{"alpha_words": 1, "chars": 13, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 1, "variant": "plain-vision"}
+Dec 27. 1954
+
+===== PAGE 2 =====
+{"alpha_words": 1, "chars": 6, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 2, "variant": "contrast-vision"}
+Sales

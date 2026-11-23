@@ -1,0 +1,53 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T18:31:40Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8670780, "source_ctime_ns": 1793364801332783690, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787808/45484701-007-005-0008.jpg", "source_mtime_ns": 1785685201000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787808/45484701-007-005-0008.jpg", "source_sha256": "c0f0c9a4d42d344a37551299e397126fe8fea266c84378f78743aa32d24e0311"}
+
+===== PAGE 1 =====
+{"alpha_words": 305, "chars": 2017, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UNCLASSIFIED
+20D OSI 24-0
+20 October 1959
+(U) Unidentified Flying Object Sited East of Seattle, Washington,
+between 4:00 - 4:45 A.M., 10 October 1959
+25 Air Div
+MoChord AFB, Wash
+Reference is made to telephone conversation between lst Lt
+Donald I. Carry, Office of Director of Intelligence, your Head-
+quarters, and Major Earl H. Price, this District, on 19 October
+1959, concerning the above subject.
+20
+Details of the letter report rendered by the FBI, Seattle,
+incidental to above subject are as follows:
+iMrs. Neil Gotschall, 7525 28th S. W., Seattle, telephone
+number West 7-6896, telephonically advised that between 4:00 A.M.
+and 4:45 A.M. on October 10, 1959, she had observed a very bright
+light toward the East from her residence. Mrs. Gotschall said that
+this light, which appeared to be about the size of a dime, had a
+tremendous brilliance. The light reportedly was moving vertica.Ly
+in and out of sight, but did not seem to move horizontally.
+"Mrs. Gotschall said that she awakened her husband who
+is an administrator at the Boeing Airplane Company working on the
+Bomarc project, and asked him to observe this weird light.
+She
+said that her husband had also observed it for a period of time and
+had no explanation as to what it might be.
+"Mrs. Gotschall said that both she and her husband had
+been complete skeptics on the 'business of flying saucers', but
+after observing this phenomenon they are now ready to join the
+club.' She said that she even put on a coat and went out into the
+yard to observe the light more clearly. She safJ the light kept
+appearing and disappearing, but that she noticed that after two air-
+planes had crossed the sky between her and the light, the light
+disappearedại
+No inquiry is being conducted into this matter bychel BI or
+this District Office and the above is furnished sfor your Information.
+N 34 - 185+ 20 20
+PAUL A. HURST
+Colonel, USAF
+District Commander
+Copy ten OCT 59
+UNCLASSIFI
+HQ USAF (AFCSI)
+SPECIAL INY
+1232
+кота
+270cts
+Declassification Authority: NND 923007

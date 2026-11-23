@@ -1,0 +1,58 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T18:40:16Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 17281320, "source_ctime_ns": 1793359958312426929, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-011-058-0001.tif", "source_mtime_ns": 1785681581000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-011-058-0001.tif", "source_sha256": "84c6768696f44fcd974d76725d853449abef45daea659a7336078b7ab8e2e06a"}
+
+===== PAGE 1 =====
+{"alpha_words": 151, "chars": 1122, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+ẠỊ04407
+OPS
+EN0005M ENC047 YMB018 YYD0600A016
+•MM RJEDEN RJEDWP RJEPHQ
+DE RJEDNG. 4G
+1 1022202
+FM COMDR 787TH ACWRON CHANDLER AF STATION MINN
+• TO RJEDEN/COMDR ADC ENT AFB COLORADO SPRINGS COLORADO
+RJEDWP/COMDR AIR TECHNICAL INTELLIGENCE CENTER WRIGHT PATTERSON AFB OHIO
+RJEPHQ/DIRECTOR OF INTELLIGENCE HQ USAF WASHINGTON 25 D C
+ZEN/COMDR 31ST ADIV SNELLING AFS ST PAUL 11 MINN
+MUNCLAS FROM ADJ MIL 773/56 IN ACCORDANCE WITH AFR 200-2, 12 AUG 34,
+THE FOLLOWING REPORT IS LUBMITTED
+PARAGRAPH 1,A ROUND
+18. BASEBALL
+1C FIRST APPERANCE WHITE BUT TURNED GREEN AS IT DECENDED
+ID ONE (1)
+NAA
+IF NONE
+IG NONE
+Wart mateor
+IN NONE
+4602D AISS UFOB REPT..
+400
+DATE-TIME GROUP 09/01:30 ₴ DEC 56
+ChANDLER AFS, MINN
+PAGE TWO RJEDNG 4G
+TTE BRILLIANT LIGHT
+28: APPROX - 45 DEG
+20: 10 DEG
+2D CAME TOWARD EARTH AT APPROX - 20 DEG THEN LEVELED AND STARTED A
+SILIGHT CLIMB BEFORE DISAPPEARING
+2E
+SPLIT ECOND
+20 TO 30 SEC
+3
+GROUND VISUAL
+38 NO OPTICAL AIDS USED
+3C N/A
+0130Z - 9 DEC 56
+43
+*40
+68
+7C
+7Đ:
+NIGHT
+MQ0043 GEOREF
+JOHN W. FLANIGAN A/1C, 787TH ACWRON, RADAR MAINT.
+GLEAR
+15 MI
+SCATTERED
+NONE
+NONE

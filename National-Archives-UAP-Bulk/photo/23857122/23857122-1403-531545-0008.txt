@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T19:13:51Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 15096948, "source_ctime_ns": 1793357475968093652, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1403-531545-0008.tif", "source_mtime_ns": 1785564907000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1403-531545-0008.tif", "source_sha256": "9ec185b83a59f9658f255c666b08fbdd35dbf8c432bbc4c32ce04c8614540679"}
+
+===== PAGE 1 =====
+{"alpha_words": 132, "chars": 845, "method": "ocr", "page": 1, "variant": "plain-vision"}
+RESTRICTED
+6. Tell in a few words the following things bout the object.
+a. Sound
+Could not detect any sound.
+b. Color _
+White, reddish white, bloodlike red.
+Page 3
+17. Draw a picture that will show the shape of the object or objects. Label and include in your sketch any details
+of the object that you saw such as wings, protrusions, etc., and especially exhaust trails or vapor trails. Place
+an arrow beside the drawing to show the direction the object was moving.
+18. The edges of the object were:
+(Circle One): @ Fuzzy or blurred
+b. Like a bright star
+c. Sharply outlined
+d. Don't remember
+e. Other.
+19. IF there was MORE THAN ONE object, then how mony were there?
+Draw a picture of how they were arranged, and put an arrow to show the direction that they were traveling.
+RESTRICTED
+SECURITY INFORMATION
+Declassification Authority: NND 57565

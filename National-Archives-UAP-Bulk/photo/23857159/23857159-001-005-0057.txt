@@ -1,0 +1,250 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T18:35:37Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 16901602, "source_ctime_ns": 1793361367250553725, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-005-0057.tif", "source_mtime_ns": 1785565325000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-005-0057.tif", "source_sha256": "ede4ee836bdf28685c2469773cf539a05594b22fefe5d47e1a216bddb383d459"}
+
+===== PAGE 1 =====
+{"alpha_words": 80, "chars": 1308, "method": "ocr", "page": 1, "variant": "plain-vision"}
+TA
+RED
+DISTRIBUTION CONTROL
+CLASSIFICATION S C
+2
+_3
+81j
+82
+83
+84
+5
+6
+8
+9
+10
+11
+120
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+42
+43
+45
+Цб
+47
+48
+49
+50
+51
+52
+53
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+15
+77
+78
+79
+80
+DECLASSIFIED
+Authority NND 9237007
+86
+87
+88
+89
+90
+91
+92
+93
+94
+95
+96
+97
+98
+99
+100
+101
+102
+103
+104
+105
+1 06
+1C7
+108
+109
+1 1C
+111
+1 12
+113
+1 14
+115
+1 16
+117
+118
+119
+120
+NOFORN
+11211
+1122|
+1231
+124I
+125
+126
+127
+128
+129
+130
+131
+132
+133
+134
+135
+136
+137
+138
+139
+140
+141
+142
+143
+144
+145
+146
+147
+148
+149
+150
+15 1
+152
+153
+154
+155
+156
+157
+158
+159
+160
+DATE RECEIVED
+1264358(12)
+AIR RAW
+NON-AIR RAW
+DEC 1 7 1959
+RR
+FINISHED
+2:00
+CPS RECD
+COPIES DESTD
+201
+202
+SPECIAL ROUTING
+20 3
+CSID
+OCT 21'60
+20 4
+205
+206
+207
+208
+BLUEPRINT REQUIREMENT
+209
+SUB
+MANUAL
+MACHINE
+210
+TOTALS
+211
+COPIES
+PAGES
+TOTALS
+212
+TEXT
+10 4
+213
+214
+SEPIA
+215
+CHARTS
+216
+PHOTOSTAT REQUIREMENT
+217
+218
+219
+SIZE
+ORIGNALS
+PRINTS NEGS
+REPRODUCTIONS
+SETS
+TOTAL
+220
+221
+222
+223
+224
+225
+226
+OPERATOR NO & DATE
+OPERATOR NO. & DATE S-C
+OPERATOR NO. & DATE 11 SAN 1960
+COLLATOR NO. & DATE
+227
+22 8
+229
+DATE CODED
+DEC 1 8 1959/
+MANUAL DISSEM
+230
+231
+DATE AUTO. DISSEM
+DATE MINICARDED
+1232
+233
+234
+REÇO IN REPRO.
+JAN 7
+1960
+DATE DISPATCHED
+14 JAN 1960
+K
+235
+236
+RELEASE SYMBOLS
+237
+238
+239

@@ -1,0 +1,79 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T18:52:21Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 16175055, "source_ctime_ns": 1793355664568910906, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0103.jpg", "source_mtime_ns": 1785564499000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0103.jpg", "source_sha256": "321f7c43d89d1e3418271faec4c400a3eb039de1e5a682c885140c40c97e90f0"}
+
+===== PAGE 1 =====
+{"alpha_words": 599, "chars": 4008, "method": "ocr", "page": 1, "variant": "plain-vision"}
+192
+L - D = m dv
+WHERE
+L = FREE LIFT
+D = DRAG
+m = TOTAL MASS
+v = RATE OF ASCENT
+r = TIME
+Figure 2. Equation of Motion for Meteorological Balloons
+If a constant drag coefficient is assumed then the balloon will accelerate until it
+breaks. In practice, however, the drag coefficient is constantly changing and this
+fact coupled with a critical Reynolds-Number effect leads to the following conclu-
+sions:
+1. A streamlined neoprene balloon, that is, a spherical balloon to which a
+roughly conical tail section has been attached, will accelerate rapidly to an
+altitude of about 50,000 feet. It then shows a rapid deceleration over the
+next 10,000 feet and thereafter accelerates very slowly.
+2. Spherical thick-walled balloons designed for rapid rate of ascent also accel-
+erate rapidly to between 50,000 feet and 60,000 feet. However, almost twice
+the lift is required to produce this acceleration as is necessary with a
+streamlined balloon. These balloons also show a sharp deceleration at
+60,000 feet or thereabouts.
+3. Large thin-walled balloons accelerate throughout the flight to burst, pro-
+vided they do not reach the critical Reynolds Number.
+Their rate of ascent
+is, however, much slower below 50,000 feet than is the case for either of the
+other two balloons.
+Figure 3 shows the relationship between drag coefficient and Reynolds Number
+for theoretical spherical and streamlined balloons.
+Balloons generally leave the
+ground as at the extreme right-hand side of the curve and follow it to the left as they
+ascend. When they reach the state near 3 X 105 the drag coefficient rises sharply.
+If the balloon is sufficiently large and its ascent rate is high enough, it may not
+reach the critical number and will continue to accelerate to burst.
+This effect is
+more pronounced with fast-rising balloons than with slower 1,000 foot per minute
+balloons since other atmospheric parameters can cause ascent rate changes of the
+same magnitude as those encountered on the slower rising balloons.
+Since a meteorological balloon does not behave as a perfect sphere or perfect
+ellipsoid due to deformation and distortion encountered during flight, the theoretical
+equations can only be applied in general terms. Nevertheless, the behavior of
+ML-537 and larger spherical balloons and that of the ML-541 streamlined balloon
+confirm the above theory.
+193
+DRAG COEFFICIENT
+0.7
+0.6
+0.5
+0.4
+0.3
+SPHERE
+ELLIPSOID
+1x105
+10
+REYNOLD NO. = -
+Figure 3. Drag of Rigid Sphere and Ellipsoid
+It appeared to us, therefore, that in order to construct a balloon which is capable
+of reaching an altitude of 100,000 feet at 1,700 feet per minute, it is necessary to
+combine in some manner the characteristics of these two types of balloon. In other
+words, for the first half of the flight the balloon should be of the streamlined type
+and for the second part of the flight it should be a large, thin-walled spherical
+balloon. If we plot the rate of ascent against altitude for these two types of balloon
+we get the results shown in Figure 4. The upper graph is a typical plot of rate of
+ascent versus altitude for a thin-walled spherical high-altitude balloon. The lower
+graph is a typical plot for a streamlined balloon of the ML-541 type.
+Figure 5 shows these two curves superimposed. It can be seen that at 60,000
+feet both types of balloon have the same rate of ascent but whereas the streamlined
+balloon is decelerating, the sphericalballoonis accelerating. If a combination balloon
+could be fabricated which consisted of a high-altitude spherical balloon enclosed in a
+streamlined balloon and the streamlined balloon could burst and fall away at about
+such an altitude, then the spherical high-altitude balloon will accelerate to the top
+of the flight. The graph of the rate of ascent versus altitude for such a combination
+balloon will appear as in Figure 6. Such a balloon would start out with a rate of
+ascent of about 1,400 feet per minute accelerating to 2,500 feet per minute (a con-
+servative figure) at about 50,000 feet.

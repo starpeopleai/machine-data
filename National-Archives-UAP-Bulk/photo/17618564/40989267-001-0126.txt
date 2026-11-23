@@ -1,0 +1,99 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T18:52:03Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 15696309, "source_ctime_ns": 1793355541969861468, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0126.jpg", "source_mtime_ns": 1785564474000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0126.jpg", "source_sha256": "004c33174744b093c9843c752ce310c035c45da3d2ec100ad74cca99c5c5c296"}
+
+===== PAGE 1 =====
+{"alpha_words": 757, "chars": 4996, "method": "ocr", "page": 1, "variant": "plain-vision"}
+242
+compound and is allowed to dwell in this latex to build up a rubber film to a
+predetermined weight. The deposited rubber, called the "gel", must then be
+removed from the mold. After washing, the gel is inflated with air to increase
+the diameter four to five-fold, and to reduce the wall thickness from . 02-. 03
+inches to. 003-. 005 inches. After the gel inflation the balloon is dried at the
+larger diameter. After drying, the balloon is deflated and vulcanized.
+The
+vulcanization step "crosslinks" the rubber molecules in much the same fashion
+that the threads are woven together in our shirts. This vulcanization gives the
+balloon the additional strength and elongation properties which make it a useful
+vehicle for meteorological soundings. The balloons are then individually in-
+flated with air and are inspected for flaws prior to packaging and shipment to the
+customer.
+Sounding balloons are supplied as either daytime or nighttime general purpose
+models. The daytime balloon cannot be flown at night, for it will freeze out
+(become brittle) and burst prematurely near the tropopause. The nighttime
+general purpose balloon can be flown either in the daytime or nighttime. The
+nighttime general purpose balloon has had more plasticizer added to it to prevent
+the balloon from bursting prematurely as it encounters the cold tropopause temp-
+eratures. At night the temperature of the gas within the balloon can be 5-10°C
+colder than the ambient air, whereas in the daytime the temperature within the
+balloon may be 20-30°C warmer than the atmosphere surrounding it. With this
+internal heating the film does not freeze out.
+"Darex' sounding balloons are available in seven basic sizes, all in both
+daytime and nighttime versions. In the left hand column of the table is shown
+the approximate finished weights of the various balloons. The dayflight balloons
+are lighter than the nighttime versions, due to difference in plasticizer content.
+In the middle column is given the burst diameter for these balloons; and in the
+right hand column, the altitude capability. This data has been obtained from a
+multitude of actual flights on which 1100 to 1300 gram radiosondes were used.
+The balloons range in weight from 300 to 7000 grams, have burst diameters
+from 12 to 57 feet, and cost from $3 up to $100. Although most of our balloon
+production is in fulfillment of Government contracts, balloons are available to
+individuals as well. To obtain the desired altitude and rate of rise with the
+prescribed payload, the flight needs to be properly designed. With information
+on payload, desired altitude, and desired rate of rise, balloon recommendations
+can be made with greater confidence.
+243
+TABLE 1. Darex sounding balloons
+Balloon Size
+(gm)
+Burst Diameter
+(feet
+Burst Altitude
+(feet)
+300
+12
+600
+700
+23
+900
+28
+2000
+36
+2400*
+40*
+6000 / 7000*
+57*
+58, 000
+89, 000
+95, 00ł
+105, 000
+114, 000
+120, 000*
+129, 000*
+1100-1300 gram load. Helium. 1000 feet per minute ascent rate or greater.
+*Limited flight data.
+The most widely used balloons at the present time are the 600, 700, and 900
+gram balloons which perform to 85, 000 and 100, 000 feet at an 80% performance
+level, at least in the temperate zones. This performance varies from one season
+to the next and from one location to the next. Inconsistent and unreliable per-
+formance is obtained on balloons used in the Tropics and in the Polar regions.
+In the Tropics an extremely cold tropopause is encountered, and in the Polar
+regions a double inversion - one right off the surface, and the other at the
+tropopause. Even the general purpose nighttime balloon does not perform satis-
+factorily and reliably in these Tropical and Polar regions at night. Special
+purpose balloons for these two regions are under development at the present time.
+The solution is not a simple matter. When antifreeze is increased in the balloon
+formula to protect it through the cold temperatures, strength and elongation
+characteristics decrease. The properties must be balanced off to provide a
+balloon which can be handled in the present shelters, can be released without being
+torn apart in winds up to 25 knots, and still make it through this cold region. In
+recent tests in the Tropics we have had fair success in obtaining a balloon which
+meets the handling and performance requirements. Additional experimental
+balloons were sent to the Antarctic in 1962 for tests; the results have not yet been
+reported.
+The spherical balloons referred to so far have ascent rates in the order of
+1000-1200 feet per minute. For certain applications, faster ascent rates are
+desired. A two piece balloon has been developed by Dewey and Almy under Army
+sponsorship.
+It performs in the daytime to 75, 000 feet at 1700 feet per minute
+with a total lift of 6000 grams, the balloon itself weighing approximately 2300 grams.
+This is the balloon that the Army refers to as an ML 541, and we call it the
+"streamlined'' or "skirted'' balloon. A conventional spherical sounding balloon

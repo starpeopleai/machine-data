@@ -1,0 +1,82 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T19:16:29Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 22776346, "source_ctime_ns": 1793361387568969066, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-005-0081.tif", "source_mtime_ns": 1785565328000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-005-0081.tif", "source_sha256": "b022912650cd3b6e9a3ba2b4c1a1885b1a04bb852674fe2e4edc349347ad51bd"}
+
+===== PAGE 1 =====
+{"alpha_words": 292, "chars": 2107, "method": "ocr", "page": 1, "variant": "plain-vision"}
+CLASSIFICATION
+COUNTRY OF
+ACTIVITY REPORTING
+AUSTRALIA
+1,403,022
+AIR INTELLIGENCE INFORMATION REPORT
+COUNTRY OR AREA REPORT CONCERNS
+DATE OF INFORMATION
+AUSTRALIA (NEW GUINEA)
+Jan 1960
+ACTIVITY SUBMITTING REPORT
+DATE OF COLLECTION
+(Leave blank)
+370000
+379003
+SRI STATUS (If applicable)
+SRI NO.
+Air Attache, AUSTRALIA
+PREPARING INDIVIDUAL
+20 Jan 60
+DATE OF REPORT
+CANCELED/COMPLETE
+SRI NO.
+CANCELED / INCOMPLETE
+MANCE C. SMITH, Major, USAF
+NAME OR DESCRIPTION OF SOURCE
+21 Jan 60
+EVALUATION
+SRI NO.
+ACTIVE
+ADDITIONAL INF
+TION ON (Date)
+REFERENCES (BAIR Subject,
+applicable)
+AIRG 460
+SUBJECT (Descriptive
+reports for separate subjects)
+Report on Investigation UFO Activity in New Guinea
+SUMMARY (Give summary which highlights the salient factors of narrative report. Begin narrative text on AF Form 112a
+unless report can be fully stated on AF Form 112. List inclosures, including number of copies)
+1. Part II of this report contains a report prepared by The Victorian Flying
+Saucer Research Society, P.O. Box 32, Toorak, Melbourne, Vietoria, Australia.
+The report is based on correspondence received from Reverend William B. Gill
+of the Boianai Anglican Mission, Papua, New Guinea.
+2. Included also is an evaluation prepared and furnished this office by an
+interested local agency.
+DOWNGRADED
+NOT AUTOM
+APPROVED:
+S
+I hugue
+ANDREW E. MeDAVID
+Colonel, USAF
+Air Attache
+TALS $1
+SIFIED
+INCLS
+Clas
+unda
+= changed to
+effective on_
+9 9am 29
+under the authority or AS USAF
+→ by AF/INE
+- LTR
+DISTRIBUTION BY ORIGINATOR (Except USAF and file. Indicate Dupl M/oz and copies w/o inclosures, if applicable)
+6002 AISG Det 5 APO 953,
+S.F., Calif - Dupl M/Oz
+D/I Egs 13th AF - Dupl M/Oz
+WARNING: This document contains information affecting the national defense of the United States within the meaning of the
+Espionage Laws, Title 18, U.S.C., Section 793 and 794. Its transmission or the revelation of its contents in any manner to
+an unauthorized person is prohibited by law.
+FORM
+AF 15 SEP 5412 REPLACES AF FORM 112. 1 OCT 52. WHICH MAY BE USED
+US. GOVF
+PRINTING OFFICE: 1954 0 - 315475
+DECLASSIFIED
+Authority NND 9237007

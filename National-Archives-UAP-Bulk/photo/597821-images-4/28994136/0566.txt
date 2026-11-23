@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T18:42:55Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8796762, "source_ctime_ns": 1793385788319724311, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28994136/0566.jpg", "source_mtime_ns": 1785748510000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28994136/0566.jpg", "source_sha256": "af4ff8b2ad63c41e3db2eaa0a0733bb90ae2463340b347f40c313367637efa14"}
+
+===== PAGE 1 =====
+{"alpha_words": 137, "chars": 836, "method": "ocr", "page": 1, "variant": "plain-vision"}
+....
+Inwood 96,N. Y.
+August 19, 1961
+Unidentified Flying Objects
+Air Technical Intelligence Center
+Wright*Patterson AFB, Ohio
+Def would 1ike to tell of a strange flash of light that shone on the
+14, 15, and 16 th of August this year. We saw these flashes between
+2100 and 2300 hours. It was about the size of a baseball and lasted
+from two to four seconds. We spotted the object while looking for a
+satellite that we have been watching for
+the past few nights. The
+object appeared before and after the satellite came. The first time
+we spotted it, it was at a ninety degree angle and traveling
+south.
+It was an orange light that went out after four seconds or observing
+it then it would appear again in another direction.
+Sin
+Phone:
+address above
+Phones
+P.S. Please call the second phone number as it will be more convenient
+If needed.

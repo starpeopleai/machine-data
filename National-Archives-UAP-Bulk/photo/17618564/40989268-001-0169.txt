@@ -1,0 +1,40 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T19:16:13Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 18225091, "source_ctime_ns": 1793355729657645620, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0169.jpg", "source_mtime_ns": 1785564511000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0169.jpg", "source_sha256": "a677c731f78452a930cd40f30346ae60ade283031a2f107db70b7c4526884d38"}
+
+===== PAGE 1 =====
+{"alpha_words": 53, "chars": 462, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Figure 2. Launch of First Nonwoven Scrim Balloon (24 April 1964)
+
+DOLLARS x 10*
+
+ow
+
+Figure 3.
+
+Strato II
+
+Stargazer
+Johns Hopkins No. 1
+Johns Hopkins No. 2
+
+Johns Hopkins No. 3
+
+PG Coronascope II and USWB
+
+GT-12 before [AFI9 (628)-2929]
+oo GT-12 after [AF I9 (628)-2929]
+
+Projected Thread—reinforced Mylar
+
+Tandem system [AFI9 (628)-2929]
+AFI9 (628)-4312
+
+Honeywell
+
+GT-50 [AFI9 (628)-2929]
+
+3
+S:2
+
+VOLUME x 10© (ft5)
+
+Comparative Costs of Heavy-Load Balloons

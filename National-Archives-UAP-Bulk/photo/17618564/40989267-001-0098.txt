@@ -1,0 +1,54 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T18:47:23Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 14999915, "source_ctime_ns": 1793355515122536088, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0098.jpg", "source_mtime_ns": 1785564469000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0098.jpg", "source_sha256": "977f96d1216f88f7959843f639b6c274740c319f8d29db5496ba7212eb708d84"}
+
+===== PAGE 1 =====
+{"alpha_words": 462, "chars": 3170, "method": "ocr", "page": 1, "variant": "plain-vision"}
+186
+AIR RELIEF VALVE
+RIGGING BAND
+BALONE
+Figure 1. German Drachen Balloon
+2. HISTORY OF STREAMLINE SHAPED CAPTIVE BALLOONS
+• Development of streamline shaped captive balloons probably began about 1893
+when Perceval and Sigsfeld designed the German Drachen balloon. At the beginning
+of World War I the French designed and manufactured the Caquot balloon, named
+for its designer Major Caquot. This design was copied by Great Britain, the United
+States, Russia and Germany. 'Many balloons of this basic design were flown. Sizes
+ranged from about 20, 000 cubic feet to about 35, 000 cubic feet.
+The Drachen balloon had a cylindrically shaped envelope with hemispherically
+shaped ends. A large rudder and small parachutes as shown in Figure 1 provided
+directional stability. It was pressurized by ram air only.
+The Caquot balloon was more streamlined. There were many variations of
+envelope shape and tail fin design. A sketch of a typical Caquot type balloon is
+shown in Figure 2. They were also pressurized with ram air.
+During World War I captive balloon development was also pursued in Italy.
+These balloons were similar in design to the Caquot type except that their fineness
+ratio was much smaller.
+Development of the well known barrage balloons began about 1926 in England.
+Other than the construction and flying of these balloons, no further work of
+significance was accomplished until about 1956. At this time under sponsorship
+of the U.S. Air Force, work was started on the development of captive balloons
+using stronger and lighter synthetic films and fibers in their construction.
+AIR SCOOP
+Figure 2. Caquot Balloon
+The first experimental model was constructed of a laminate of polyester and
+polyethylene. This balloon weighed about 17 pounds and had a volume of 775 cubic
+feet.
+This was probably the first captive balloon that employed an electrically
+powered fan to maintain differential pressure.
+In 1957, also under U. S. Air Force sponsorship, a balloon was constructed
+using a nylon cloth envelope and polyethylene liner. This balloon weighed about
+400 pounds and had a volume of about 16, 500 cubic feet. It was also equipped with
+a pressurizing fan. Many shroud-liner balloons of this type were flown during the
+following two year period.
+In 1958 work was started on the design and construction of a captive balloon
+using an old concept, for example, a resin coated fabric, but incorporating nylon,
+a lighter and stronger fabric, and E. I. duPont Hypalon, a better weathering and
+abrasion resistant coating. It had a volume of about 380, 000 cubic feet and
+weighed about 8, 000 pounds. A Navy Class "C' shape of 3 to 1 fineness ratio was
+used with three air inflated airfoil shaped tail fins. Differential pressure was
+maintained with motor driven fans. During the past five years approximately
+thirty balloons of this general type have been constructed and flown. There have
+been many variations in material, size, fineness ratio and shape.
+3. FACTORS WHICH DETERMINE DESIGN OF CAPTIVE BALLOONS
+The design of captive balloons for specific applications is largely dependent
+. on (1) maximum and minimum wind velocity which will be encountered, (2) launch

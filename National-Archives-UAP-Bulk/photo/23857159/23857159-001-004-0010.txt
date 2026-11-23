@@ -1,0 +1,79 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T18:47:53Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 17751458, "source_ctime_ns": 1793360996758479207, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-004-0010.tif", "source_mtime_ns": 1785565202000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-004-0010.tif", "source_sha256": "1c99f67b51fe59da8eeb82bdab4a813c237155d97b9101df14c05a6c0632feb9"}
+
+===== PAGE 1 =====
+{"alpha_words": 295, "chars": 2024, "method": "ocr", "page": 1, "variant": "plain-vision"}
+COUNTRY OF ACTIVITY REPORTING
+REPORT NO.
+any
+AIR INTELLIGENCE INFORMATION REPORT
+COUNTRY OR AREA REPORT CONCERNS
+DATE OF INFORMATION
+cermany
+Dece
+ACTIVITY SUBMITTING REPORT
+DATE OF COLLECTION
+Oth Tactical
+Fighter wing
+APO 83, New York, New York
+PREPARING INDIVIDUAL
+3 December 1958
+DATE OF REPORT
+ajor Orson P. Greer Jr.
+Wing Intelligence Officer
+NAME OR DESCRIPTION OF SOURCE
+4 December 1958
+EVALUATION
+A-6
+(Leave blank)
+1209930
+SRI STATUS (If applicable)
+SRI NO.
+CANCELED/COMPLETE
+SRI NO.
+CANCELED/INCOMPLETE
+SRI NO.
+ACTIVE
+ADDITIONAL INFORMATION ON (Date)
+REFERENCES (BAIR Subject,
+AIR 200-2 dated 5 February 1958
+SUBJECT (Descriptive title. Use individual reports for separate subjects)
+UFO
+Sly stated God For bich bites, alien actor do pisse report. Begin narative text on AF Form 112a unless repore can be
+While on a routine flight,
+noticed a blue flame at an
+altitude of approxinately 26,000 feet.
+It seemed to be going in a northwesterly
+direction and to be gradually descending.
+The duration of the observation was
+approximately four seconds.
+It appeared that the object either flew out of
+sight or disintegrated, although their was no visual evidence of an explosion,
+is regarded as a reliable pilot, consequently we have given
+the source, a high rating.
+On the other¿hand, no unusual reports have been
+coming into us from regular intelligence channels that would offer collaboration
+to this siting, and it therefore has been given a low rating.
+" ORSON P. GREER Jr.
+Major.,
+USAF
+Wing Intelligence Officer
+One
+INCLS
+2/25:42-1
+195
+62A1322
+DISTRIBUTION BY ORIGINATOR (Except USAF and file. Indicate Dup! M/oz
+MEAFE (ADVON)
+Ha SOth TFW
+WARNING: This docu
+Title 18, U.S.C., Section 793
+AF 15 SEP
+ation affecting the national defense of the United States within the meaning of the Espionage Laws,
+mission or the revelation of its contents in any manner to an unauthorized person is prohibited
+REPLACES AF FORM 112,
+I OCT 52, WHICH MAY BE USED
+UNCLASS IF IPD
+CLASSIFICATION
+MING 2:267
+DECLASSIFIED
+Authority NND 9237007

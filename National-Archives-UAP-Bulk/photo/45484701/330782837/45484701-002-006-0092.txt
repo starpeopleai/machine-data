@@ -1,0 +1,78 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T18:31:22Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8433430, "source_ctime_ns": 1793362429575582147, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330782837/45484701-002-006-0092.jpg", "source_mtime_ns": 1785684697000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330782837/45484701-002-006-0092.jpg", "source_sha256": "21b58f07d7fad160a35e31a52aa5493026645925782bd5ad4dbb8c67b8c69c6b"}
+
+===== PAGE 1 =====
+{"alpha_words": 148, "chars": 1055, "method": "ocr", "page": 1, "variant": "plain-vision"}
+TITLE
+UNITED STATES AIR FORCE
+THE INSPECTOR GENERAL
+OFFICE OF SPECIAL INVESTIGATIONS
+REPORT OF INVESTIGATION
+UNKNOWI
+SUBJECTS
+Aerial Phenomen
+FILE NO.
+4-8
+REPORT MADE BY
+REPORT MADE AT
+DO 17,
+OFFICE OF ORIGIN
+00 17.
+STATUS
+DATE
+10 Aurust 1949
+NIEF, S/A
+Kirtland AFB
+1949
+irtland
+A FB
+CHARACTER
+REFERENCE
+SYNOPSIS
+SPECIAL INQUIRY
+Letter from DO
+uisun AFB
+Additional report of observation of monolous plying onesty as of
+30 June 1949. Details reported on form specified.
+- PENDING -
+CLASSIFICATION CANCEL
+BY AUTHORITY OF TRA L
+BY
+KIRT K. KUNZE, Cant, USAF
+Historian
+8 DEC 1975
+DATE
+DISTRIBUTION
+CG, AMC (Action cys)
+Dir of Intel, USAF
+(Info)
+A HA, OSI
+DO #19 (Info)
+File
+ACTION COPY FORWARDED TO
+Commanding General
+ANC,
+Wright¿Patterson AFB
+Dayton,
+Ohio
+ATTN :
+IC IAXO- 3
+FILE STAMP
+24+15.209
+NITED ST
+TE INSP
+AUG LE
+41 14 AM '49
+NVESTIGATION
+AFHQ FORM
+15 JAN 49
+0-208
+Replaces AFCSI Form 4, 23 Jul 48, which may be used
+Res
+DOYLE REES
+It Col,
+USAF
+District Commander.
+AUG S
+UNCLASS B74 EDU. S. OVERNMENT
+ITING OFFICE
+Declassification Authority: NND 923007

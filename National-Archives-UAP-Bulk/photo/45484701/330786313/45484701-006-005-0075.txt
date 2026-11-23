@@ -1,0 +1,66 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T18:32:47Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9467753, "source_ctime_ns": 1793363966577400909, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330786313/45484701-006-005-0075.jpg", "source_mtime_ns": 1785684962000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330786313/45484701-006-005-0075.jpg", "source_sha256": "8e0cea4fa7f133280e773ee636a6ecb9ceeb186e538039039748c73ef8a06323"}
+
+===== PAGE 1 =====
+{"alpha_words": 263, "chars": 1842, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DENTIAL
+DEPARTMENT DE THE AIR FORCE
+IEADQUARTERS UNITED STATES AIR FORCE
+ASHINGTO
+Capt, USA
+CLASSIFICATION CANCEL
+12...77% DEC195 TE.
+BY
+torian
+THE INSPECTOR GENERAL USAF
+17TH D
+STRICT OFFICE OF SPECIAL INVESTIGATIONS
+KIRTLAND AIR FORCE BASE, NEW MEXICO
+9 March 1951
+File No:
+21.
+SUBJECT: Aerial Phenomena
+TO:
+Director of Special Investigations
+Headquarters USAF
+Washington 25, D. C.
+UNCLASSIFIED
+1ø
+Although not coming within the purview of AFCSI Letter No. 85,
+dated 23 October 1950, but as a matter of information only due to the
+widespread publicity subsequently afforded, the following facts are
+submitted:
+On 6 March 1951, at 1430 hours Mountain Standard Time, a
+"fireball" flashed through the air and was observed from Albuquerque,
+New Mexico.
+The aerial phenomena was observed additionally from
+Brilliant, Santa Fe, Las Vegas, Los Alamos, and Clayton, New Mexico,
+and at Alamosa, Colorado.
+c. Allegedly person adjacent to Roy, New Mexico, heard or
+felt a concussion,
+d. Dr. Lincoln La Paz, meteoritics expert and Chief of the
+Meteoritics Department, University of New Mexico, Albuquerque, New Mexico,
+has stated that in his
+opinion aerial phenomena in question were meteors
+and not rocket ships, guided missiles, unconventional type aircraft, or
+other man-made devices.
+Dr. La Paz is following through with his own directed search
+to locate the meteor or fragments resulting from the fragmentation of
+phenomena and, if any pertinent information is developed, it will be
+reported to the Directorate.
+3•
+Attached, for your information and review, are several news-
+paper articles in regards to the aerial phenomena.
+Ruled Yes
+5 Incls
+1. Art fr Denver Post
+2.
+Art fr Albuq Journal
+3. Art fr Albug Journal
+4. Art fr Albug Tribune
+5. Art fr Albug Tribune
+RICHARD G.
+It. Col.,
+USAF
+District
+Commander
+Declassification Authority: NND 923007

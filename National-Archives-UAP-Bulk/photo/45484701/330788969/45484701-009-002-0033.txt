@@ -1,0 +1,20 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T19:08:53Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 23772477, "source_ctime_ns": 1793365502494193639, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330788969/45484701-009-002-0033.jpg", "source_mtime_ns": 1785684819000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330788969/45484701-009-002-0033.jpg", "source_sha256": "bd191aa8388b8f01cba9067bcd476f6cc838b762d154692524875d616990e1ba"}
+
+===== PAGE 1 =====
+{"alpha_words": 66, "chars": 506, "method": "ocr", "page": 1, "variant": "plain-vision"}
+CONFIDENTIAL•
+Case file 24-26
+DO #20, Mochord AFB
+PHOTOGRAPH SHOWING U.S. HIGHWAY #20, FACING EAST TOWARD BOISE,
+IDAHO, AT A POINT APPROXIMATELY TEN MILES BAST OF CALDWELL, IDAHO;
+THE DIRECTION OF TRAVEL OF OBSERVER, ROBERT F. SMITH, AND THE
+APPROXIMATE POINT AT WHICH SMITH REPORTED FIRST SIGHTING THE
+UNIDENTIFIED OBJECTS.
+Taken by: J. E. KUTTLER, Special Agent, OSI
+Camera:
+Ground, 4x5, type C-3
+Setting: 100th sec. at F/16
+Date taken: 10 June 49
+EXHIBIT "A"
+TULI
+Declassification Authority: NND 923007

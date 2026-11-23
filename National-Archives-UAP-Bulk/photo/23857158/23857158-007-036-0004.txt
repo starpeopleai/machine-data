@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T18:47:25Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 15467090, "source_ctime_ns": 1793359327683871696, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-007-036-0004.tif", "source_mtime_ns": 1785681379000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-007-036-0004.tif", "source_sha256": "b8c59334e7027ad3adf2bdc933d7202ede0b1869b287894d0d5d31f57ff1ee95"}
+
+===== PAGE 1 =====
+{"alpha_words": 137, "chars": 937, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+PAGE THREE JWFOM 16
+PARKS AFB CMM CALIF - AFSC 2016.
+WEATHER AND ALOFT CONDITIONS
+AT TIME AND PLACE OF SIGHTING
+A. LOW STRATA BASES AT 1502 BROKEN 7 7 TO 8 TENTHS COVERAGE
+30 APR 55 2729 1200 BROKEN 18000 OVERCAST VIS 10 MILES
+TEMP 69 SURFACE WINDS FR SSE AT 10K NO RAIN SINCE MIDNITE PREVIOUS
+REL HUMIDITY 88 PERCENT WEATHER AT ALTITUDE CONSIDERED INSIGNIFICANT TO
+SIGHTING
+C. 1500 FT
+D. 10 MILES AT SURFACE
+E. BROKEN TO EIGHT TENTHS
+F. NONE
+8. NONE
+9. NONE
+10. NONE
+11. NONE
+12. WING INTEL OFF CMM OBSERVER WAS ALONE AT TIME OF SIGHTING AND
+INSIST SOUNDS OF PASSAGE PRECEDED SIGHTING AND SPEED OF MOVEMENT APPROX
+THREE TIMES SPEED CAPABILITY OF LOW FLYING JET FTR PD AFTER OBJECTS
+PASSED OVERHEAD NO SOUND WAS AUDIBLE PD UNABLE TO DETERMINE ANY POSSIBLE
+CAUSE PD OBSERVER IS A FULLY QUALIFIED STAFF INTEL OFF W/APPROX 10
+YRS EXPERIENCE W/FTR ORGN PD
+BT :
+:03/2320Z MAY JWFGM
+UR 02 0K
+RGR CU LATER

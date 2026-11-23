@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T19:17:52Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6123081, "source_ctime_ns": 1793388555906573701, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/29001535/0616.jpg", "source_mtime_ns": 1785808169000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/29001535/0616.jpg", "source_sha256": "6fa3fad50399114d82e373511858342afb0bec8c7ef12d3aa10ea925dbd4ad8f"}
+
+===== PAGE 1 =====
+{"alpha_words": 86, "chars": 549, "method": "ocr", "page": 1, "variant": "plain-vision"}
+27
+2800302
+VPA014CZCCQC412ZCWYB752
+PP RUCDSO
+DE RUNGNH 21
+ZNR
+P 0114252
+FY
+2851 ABWG KELLY AFE TEX
+TO RUGALE/ADC ENT AFB COLO
+BUNCH/32D AIR DIV OKLA CITY AF STA OKLA L
+RUCDSQ/AFSC FOREIGN TECHNOLOGY DIV WPAFB
+RUEAHQ/HQ USAF WASHDC
+RUEAHQ/SECRETARY OF THE AIR FORCE WASHDC
+I JUL 63 18 8 2
+PRIORITY
+(EQFo)
+4 xm
+UNCLAS SABF 7233. HQ USAF FOR AFCIN. SEC OF THE AF FOR SAFOI.
+TO REPORT. REF PAR 14, AFR 200-2.
+OUR SABF 7028. UFO
+ENTIFIED AS A WEATHER BALLOON RELEASED BY THE US WEATHER BUREAU AT
+SAN ANTONIO INTERNATIONAL AIRPORT.
+BT
+01/16192 JUL RUWGNH

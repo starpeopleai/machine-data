@@ -1,0 +1,23 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T19:16:20Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 18703632, "source_ctime_ns": 1793357911486141296, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1715-582892-0009.tif", "source_mtime_ns": 1785564993000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1715-582892-0009.tif", "source_sha256": "b372441c270afbb272f4f82b284631dd0e4262eb53997afbc860d050862ce781"}
+
+===== PAGE 1 =====
+{"alpha_words": 137, "chars": 911, "method": "ocr", "page": 1, "variant": "plain-vision"}
+S-T-A-T-E-M-E-N-T
+At 0542 Zebra time 6 August 1953, several people including myself
+sighted an unidentified object in the sky, west of the Bismarck Filter Center.
+The movements were very erratic. This object finally dispppeared in the
+north at 0715 Z.
+At 16ll Z another object was seen with the same erratic movements,
+This was north north east of the Filter Center. It would rise, fall, then
+move left and right, disappearing in the west at 0850 &.
+At 0745 Z and 0747 Z two more were seen east and north east respectively
+with the same novements but with more definite changes in color going from
+white to red then green. With less movement and color changes, one could and
+perhaps would have taken these objects for very bright stars. These objects
+faded at 0850 Zebra time.
+SIGNED
+Mrs. Clarence Dahl (Gertrude)
+Mrs Clarence Dall (Lutinde
+AF 582892 - 0
+CADF-43 7 5 - 5 3
+Declassification Authority: NND 57565

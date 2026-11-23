@@ -1,0 +1,41 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T18:24:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6048590, "source_ctime_ns": 1793370479888878163, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28934684/0538.jpg", "source_mtime_ns": 1785688608000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28934684/0538.jpg", "source_sha256": "8b33294deaa2e136c4f4751b1f5e40b767f9f365f12d8f34d1a4a0e8c2827320"}
+
+===== PAGE 1 =====
+{"alpha_words": 106, "chars": 773, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE • TIME GROUP
+My 49
+SOURCE
+0S/0140Z
+Mlitery
+1. NUMBER OF OBJECTS
+INO
+5. LENGTH OF OBSERVATION
+57 sec 2. 40 min
+6. TYPE OF OSSERVATION
+d-Visual (EX)
+7. COURSE
+1. North 2. SE
+S. PHOTOS
+• Yes
+• No
+9. PHYSICAL EVIDENCE
+• Yos
+- No
+FORM
+FTD SFP 63 0-329 (TDF)
+PROJFCT 10073 RECORD
+CATION
+Camp Hood, Texas
+10. CONCLUSION
+1. AIRORAFT
+2. Astro (STARS/PLANETS) Probably Betelgeuse
+3
+.. "
+11. BRIEF SUMMARY AND ANALYSIS
+Coserver sighted a diamond-shaped object. In wis rod to
+greenish-white. It was heading North and dropped in artitude.
+It was in view for about 57 seconds and then it went out.
+2. Observer sighted a diamondschaped object. It also was
+colored red to greonish-white. It wos stationary sloway
+losing altitude. Binoculars were used. This object was
+in the west.

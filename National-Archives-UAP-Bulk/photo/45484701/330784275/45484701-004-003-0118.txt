@@ -1,0 +1,42 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T18:27:02Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6760531, "source_ctime_ns": 1793363028249176929, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330784275/45484701-004-003-0118.jpg", "source_mtime_ns": 1785685132000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330784275/45484701-004-003-0118.jpg", "source_sha256": "d92cc93e5d7df52dcfb108c7bb4d19eb6dce7355718c7c09fb7129f9d8e3f612"}
+
+===== PAGE 1 =====
+{"alpha_words": 241, "chars": 1599, "method": "ocr", "page": 1, "variant": "plain-vision"}
+CONFIDENTIAL
+3DO 1-10-36
+SPOT INTELLIGENCE REPORT
+Subj: Unidentified Flying Objects
+(1) Description of the objects) :
+(a) Shape - Observer stated that the object was in the shape of
+a vapor trail similar to those made by high-flying aircraft;
+that it appeared to him to be about two (2) feet in width
+and that it was equally luminous from beginning to end.
+(b) Size compared to a known object. - Observer stated that he
+could not compare the object he saw to any known object.
+(c) Color. - Luminous - no particular color.
+(d) Number. - One (1).
+(e) Formation, if more than one. - Not applicable.
+(f) Any discernible features or details. - None.
+(g) Tail, trail, or exhaust, including size of same compared to
+size of object(s).
+Observer stated that the whole object
+resembled a vapor trail and stated that he first thought it
+was the exhaust of a jet or the tail of a meteor.
+(h) Sound. If heard, describe sound. - None heard.
+Observer
+stated that truck traffic on a nearby highway may have
+obscured any sound that the object made.
+(i) Other pertinent or unusual features. - None.
+(2) Description of course of object(s) :
+(a) What first called the attention of observers) to the
+objects)? - SABAITIS stated that he was looking into the
+sky while walking home and that he noticed the object while
+doing so.
+(b) Angle of elevation and azimuth of the objects) when first
+observed.
+- SABAITIS estimated that he first saw the
+object at an angle of elevation of about 30°.
+(c) Angle of elevation and azimuth of object(s) upon disappear-
+ance. - Unknown.
+CONFDENTIAL
+Declassification Authority: NND 923007

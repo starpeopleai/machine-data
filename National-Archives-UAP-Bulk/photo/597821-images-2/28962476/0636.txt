@@ -1,0 +1,53 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T18:26:44Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6609024, "source_ctime_ns": 1793377018746385293, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28962476/0636.jpg", "source_mtime_ns": 1785696426000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28962476/0636.jpg", "source_sha256": "a074d3829801a08fd9d683406380f1201b7b75ffbea7c81eaf2255c0a8e81266"}
+
+===== PAGE 1 =====
+{"alpha_words": 148, "chars": 1084, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UFOB INDEX CARD
+1. DATE
+2. LOCATION
+3. DATE TIME GROUP
+Local
+GM T-
+5. PHOTOS
+17208 June 2955
+• Yes
+4. PIPE 3760
+Ground- Visual
+D Air- Visual
+6. SOURCE
+• Ground-Radar
+• Air-Intercept Radar
+7. LENGTH OF OBSERVATION
+8. NUMECH SP OBJECTS
+9. COURSE
+UR912 CONCLUSIONS
+Was Balloon
+Probably Balloon
+•
+Possibly Balloon
+• Was Aireraft
+Probably Aireraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other.
+Insufficient Data for Evaluation
+Unknown
+T BRIEF SUMMARY OF SICHTING S00
+Ono (7)
+PE COMMENTS
+One (1), round, silver object, trailing white
+The two (2) observers wers questioned
+moke, was estinated to be the size, 15-20 feet
+by service personnel and the witnesses
+in diameter. The object gave off a steady
+filled out questionaires on the sightings
+light, and after a period of 10-15 seconds
+It is the opinion of the investigating
+it disappeared behind group of trees.
+Estimatedparty that the sighting could possibly
+speed of 100 MPH. The objeet traveled from
+be attributed the airoraft.
+MINE toward the south and then turned west.
+AISOP Form 5 (15 Oet 54)

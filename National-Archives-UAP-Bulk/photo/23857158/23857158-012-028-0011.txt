@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T18:48:15Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 20501160, "source_ctime_ns": 1793360066931158898, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-012-028-0011.tif", "source_mtime_ns": 1785681617000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-012-028-0011.tif", "source_sha256": "92d7529d5968633e0677defbb55e26c8304449cb12b0328b9058702182195eb9"}
+
+===== PAGE 1 =====
+{"alpha_words": 52, "chars": 390, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+AF FORM 112-PART. II
+APPROVED I JUNE 1948
+вон (Арса)
+Flight 3-D, 4602d AISS.-
+Inci. #2, PART TWO, Report #3D-UFOB 3-56-
+SOURCE'S Memory Sketch of Object
+UNCLASSIFIED
+AIR INTELLIGENCE INFORMATION REPORT,
+PET ST NO. 3D-UFOB-3-55
+PART TWO
+PAGE*
+- PAGES
+BRILLIANT RED
+WHITE
+- SHARPLY OUTLINED
+SIDE VIEW
+WHITE
+* FUZZY
+RED
+SE OF TRE UNITED STA
+OF THE ESPION

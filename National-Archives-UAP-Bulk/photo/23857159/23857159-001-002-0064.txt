@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T18:37:48Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 21202424, "source_ctime_ns": 1793360643549238071, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-002-0064.tif", "source_mtime_ns": 1785565091000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-002-0064.tif", "source_sha256": "4461e74fb7772eafd0c9dc6b1c5a2a5975af1d33217814ac27beddfbaa2b305e"}
+
+===== PAGE 1 =====
+{"alpha_words": 57, "chars": 519, "method": "ocr", "page": 1, "variant": "plain-vision"}
+11 ТАСІ МО НА
+ТОЧЗЯ ОТАМОЧИІ ЗИЗОШЕТИІ ЯА
+70
+Jof no Tselo - gnifie
+rosiron ent of befimiIn - Vilidiai
+noitamio? buolo beretisoa do gof no fieroriA - revoo buolo lo fromA
+(• )
+1000 Tetexas
+A\ - seTs [sof ni amroferebruT
+(z)
+AH (8)
+вело то пото дЕ тести тоів вочелі виті А
+(e)
+on betsta rettal end brs averiA OVol beJosinoo rebnemmos FisToriA
+(ог)
+([г)
+trebioni ent to afarians staTos erom & toelter bluoda Froder Isiti
+A\M (SI)
+TABU
+RECEIVED
+27
+FEB1956
+374TH TC WG
+APO 704
+21015218223
+DECLASSIFIED
+Authority NND 9237007

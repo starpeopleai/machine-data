@@ -1,0 +1,62 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T18:27:26Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7006237, "source_ctime_ns": 1793362685634592867, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330783376/45484701-003-004-0171.jpg", "source_mtime_ns": 1785685012000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330783376/45484701-003-004-0171.jpg", "source_sha256": "11c3eba8feae2e7ee4cba7e463df1a89abc72691643da6581ae77f55caebf33d"}
+
+===== PAGE 1 =====
+{"alpha_words": 173, "chars": 1348, "method": "ocr", "page": 1, "variant": "plain-vision"}
+IDENTA
+INFORMATION COPY
+From 5th District OSI
+Wright-Patterson Air Force Base
+Ohio
+5D 24-21-157Ś
+9 November 1954
+CIVILIAN RESEARGH
+INTERPLANE ARE FLYING OBJECT
+eonard HAtringfield, Director
+7017 Britton Avenue
+Cincinnati 27,
+Shio
+SPECIAL INQUIRY
+CLASSIFICATION CANCELLED SOEM
+132 12 007
+BY AUTHORITY OF THE DIRECTOR OF DAO INV
+BY KURT K KUNZE, Capt, USAF
+TO:
+Commander
+Historian
+3 DEC 1975
+Air Technical Intelligence CenterE
+Wright-Patterson Air Force Base
+Chio
+ATTN: ATIAA¿¿C
+1. Transmitted herewith for your information is carbop copy
+of letter from the Federal Bureau of Investigation, dated 2 Novem-
+ber 1954, concerning subject matter.
+2. No further action is contemplated by the Office of Special
+Investigations in this matter unless specifically requested by your
+command.
+3. Attention is invited to paragraph 51, AFR 205-1, dated 24
+July 1953, which states that classified security information origi-
+nating in an agency outside the Department of Defense will not be
+disseminated outside the Department of Defense without prior consent
+of the originating agency.
+1 Inel
+Gy ltr fr FBI, atd 2 Nov 54
+ROBERTS P. JOHNSON, JR.
+Colonel,
+USAF
+District Commander
+24‡ 185=414
+UNE NEATEN CORLE
+THE INSPFET
+e
+Noy 15
+12 3025ął
+OFFICE OF
+SPECIAL NVESTIGATIONS
+Cuter
+G1
+DEC 1954
+UNCLASSIFED
+CONFIDENTIAL
+5D-F-18321
+Declassification Authority: NND 923007

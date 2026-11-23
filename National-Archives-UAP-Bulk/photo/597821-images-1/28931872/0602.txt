@@ -1,0 +1,13 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T19:18:32Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6443122, "source_ctime_ns": 1793369460003993508, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28931872/0602.jpg", "source_mtime_ns": 1785688479000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28931872/0602.jpg", "source_sha256": "c52d40c98326b17e75e0e6fd8ad59256a270497d85bdd6e3e55893ae2cd63708"}
+
+===== PAGE 1 =====
+{"alpha_words": 48, "chars": 353, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UNCLASSIFIED
+Incident #222 -- Purstenfeldbruck, Germany -- 28 November 1943
+The tooties described by this object, if correct, and
+the implied time in sight (long enough to call othors to see it)
+argue stron, ly against an astronomical interpretation for the in-
+cident,
+The ouject night have been a balloon'with a 11 it on it.
+UNCLASSIFIED
+1- 31/2 - 12

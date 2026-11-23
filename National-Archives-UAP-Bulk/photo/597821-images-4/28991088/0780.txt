@@ -1,0 +1,55 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T18:28:27Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7315142, "source_ctime_ns": 1793384794422742620, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28991088/0780.jpg", "source_mtime_ns": 1785747846000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28991088/0780.jpg", "source_sha256": "4865ce05f783329f52ce6971a7fe0d9d41f18fc8d0939286d47d7161f9bb004f"}
+
+===== PAGE 1 =====
+{"alpha_words": 142, "chars": 1100, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD CARD
+1. DATE
+15 Jan 61
+3. DATE-TIME GROUP
+Local.
+2227
+GM T
+1606272
+5. PHOTOS
+2. LOCATION
+SE of Paine Field, Washington
+4. TYPE OF OBSERVATION
+• Ground-Visual
+• Air Visual
+• Ground-Radar
+• Air-Intercept Radar
+6. SOURCE
+• Yes
+* No
+7. LENGTH OF OBSERVATION
+Military
+8. NUMBER OF OBJECTS | 9. COURSE
+12. CONCLUSIONS
+Was Balloo
+Probably Balloor
+Possibly Balloon
+Was Aircraft
+•
+•
+Probably Aireraft
+Possibly Aircraft
+Was Astronomical METEDR
+Probably Astronomical
+Possibly
+Astronomical
+Other
+Insufficient Date for Evaluation
+Unknown
+5 sec
+10. BRIEF SUMMARY OF SIGHTING Brilliant white object
+I. COMMENTSNo satellites reentering at
+size of basketball. Resembled a strong spot-
+this time. Description and duration are
+light. Then it exploded and a large part of
+characteristic of a meteor. Brightness
+the sky was lit up. There was considerable orange and explosion suggest that object
+and some blue coloring in explosion. No sound
+was a fireball which exploded before it
+heard. Object appeared level with pilot flying reached the earth's surface.
+at 35,000'.
+ATIC FORM 329 (REV 26 SEP 52)

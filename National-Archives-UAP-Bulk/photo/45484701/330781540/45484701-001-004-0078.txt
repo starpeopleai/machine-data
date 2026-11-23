@@ -1,0 +1,42 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T19:18:35Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6470427, "source_ctime_ns": 1793361841882667318, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330781540/45484701-001-004-0078.jpg", "source_mtime_ns": 1785685075000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330781540/45484701-001-004-0078.jpg", "source_sha256": "3206d157f29b388ce39f1583f91e1daf4bceebe70d92a56360b584722f0208b1"}
+
+===== PAGE 1 =====
+{"alpha_words": 136, "chars": 1092, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Page 2
+Guide to Investigation
+17.
+Trail (color, length, width, persistance, etc.)
+None
+Incident Nc.
+18.
+Luminosity (visible by reflection, incandescent, other - degree of
+brilliance):
+Self-luminous
+19. Projections (fins, wings, rods, antennae, canopies, etc.):
+N/S
+20. Maneuvers (turns, climbs, dives, etc. - sketch of flight path):
+N/S
+21.
+Manner of disappearance: Disappeared abruptly
+22.
+Effect on clouds:
+N/S
+23.
+Additional information concerning object:
+Travelled parallel to earth
+24. Weather conditions
+Broken and
+scattered
+and lift st
+aT, 80o in 28;000 feet.
+Name and address of observer:
+It H. E. Dey, Section III, Los Alanos, N Mex
+Occupation and hobbies:
+N/S
+Comments of Interrogator relative to intelligence and character of observer
+(Check neighbors, police dept., FBI records, employer, etc.):
+Complete Background investigation required for employment.
+Did observer wear glasses, especially polaroid glasses at time of sighting,
+or was object viewed through canopy, window, or other transparent material?
+Object seen through glass of car.
+Declassification Authority: NND 923007

@@ -1,0 +1,43 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T19:18:23Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6409212, "source_ctime_ns": 1793354865568501904, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989229-001-0001.jpg", "source_mtime_ns": 1785564354000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989229-001-0001.jpg", "source_sha256": "b74346a242d21af387a08f20c5ddc374f9f919f5a6cb25f6992ed3eb4994cf50"}
+
+===== PAGE 1 =====
+{"alpha_words": 503, "chars": 3066, "method": "ocr", "page": 1, "variant": "plain-vision"}
+STATEMENT OF WITNESS
+Place: San Antonio, IX
+Date: 25 May 95
+I, Charles A. Coltman, Jr., Col, USAF, MC (Ret), hereby state that James McAndrew was
+identified as a Lieutenant, USAFR, on this date at my place of employment and do hereby,
+voluntarily and of my own free will, make the following statement. This was done without
+having been subjected to any coercion, unlawful influence or unlawful inducement.
+I entered the U.S. Air Force in 1957 as a flight surgeon and was assigned to Walker AFB,
+NM, in 1958. Following a residency at Ohio State University from 1959 to 1963, I was
+assigned to Wilford Hall USAF Medical Center, Lackland APB, TX, where I eventually
+became the Chairman of the Department of Medicine. I retired from the Air Force in
+1977. I am presently a Professor at The University of Texas Health Science Center at San
+Antonio, and Chief Executive Officer of the Cancer Therapy and Research Foundation of
+South Texas.
+I remember a balloon crash that happened north of Roswell, NM, in May, 1959. I
+received a phone call from the NCOIC of the Flight Surgeon's office, who informed me of
+the crash. The NCOIC, Earl Wormwood, came to my quarters and we drove, in an old
+blue Air Force "crackerbox" ambulance, to the crash site. I remember the gondola laying
+on its side and the deflated balloon on the ground. The crew members were sitting next to
+the gondola. I examined the pilots and determined they were not seriously injured. They
+told me they were practicing touch-and-go's and a gust of wind had dumped them on the
+ground, and the gondola had struck one of the pilots in the head. Also present were Air
+Force technicians in trucks who tracked the balloon. The injured pilots were transported
+to the Flight Surgeon's office at the hospital at Walker AFB.
+The injury sustained by the crew member was a head abrasion/contusion and a hemotoma
+The hemotoma caused the patient's head to swell; however, it was not serious enough for
+him to be admitted. I remember receiving a call from Col (Dr.) John Stapp. He was in
+charge of the balloon project and was quite famous. Dr Stapp inquired about the injuries
+to the pilots and he wanted them returned to Holloman AFB as quickly as possible.
+The hospital was an old World War II cantonment-type building with long corridors and a
+capacity of fifty beds. I do not recall a nurse assisting me in the treatment of the patient,
+although a nurse may have been on duty and observed the patient. I was the only doctor
+in the hospital that morning. There were no visiting doctors from other bases or facilities
+I do not remember any altercations or arguments that day. During my time at Walker, I
+do not recall that any autopsies were performed at the hospital, since we did not have a
+pathologist on staff. I do not recall any remains brought to the hospital in body bags, or
+wreckage transported in the back of an ambulance. There may have been remains brought
+to the hospital in body bags after a KC-97 crash, but that was before I arrived at Walker.
+Dr. Ed Bradley was involved in the recovery of the remains.

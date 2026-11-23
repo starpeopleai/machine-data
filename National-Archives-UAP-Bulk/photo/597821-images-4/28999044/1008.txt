@@ -1,0 +1,66 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T18:43:12Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8813075, "source_ctime_ns": 1793387721331478296, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28999044/1008.jpg", "source_mtime_ns": 1785748253000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28999044/1008.jpg", "source_sha256": "ff490defb2d1d3589fbbea75887e956714919eb568602c09a0c29334d8645e79"}
+
+===== PAGE 1 =====
+{"alpha_words": 224, "chars": 1468, "method": "ocr", "page": 1, "variant": "plain-vision"}
+U.S. AIR FORCE TECHNICAL INFORMATION SHEET
+This questionnaire has been prepared so that you can give the U.S. Air Force as much
+information as possible concerning the unidentified corial phenomenon that you have observed.
+Please try to answer as many questions as you possibly can.
+The information that you give will
+be used for research purposes, and will be regarded as confidential material. Your name will not
+be used in connection with uny stotements, conclusions, or publicotions without your permission.
+We request this personal information so that, if it is deemed necessary, we may contact you for
+further details.
+When did you see the object?
+SEPT 62
+Month
+3. Time Zone: (Circie One): a.
+Eastern
+Central
+c. Mountain
+d.
+Pacific
+e. Otner
+4. Where were you when you saw the object?
+HIADISONUILLE
+Nearest Postal Address
+Additional remarks:
+5. How long was object in sight?
+5.1 How w1s time in sight determined?
+5. Certain
+Fairly certain
+6. What was the condition of the sky?
+DAY
+1. Brighi
+- Cloud
+07
+12. Time of day:
+Hour
+00
+Minutes
+(Circle One):
+A.M.
+or
+P.M.
+(Circle One): a. Daylight Saving
+b. Standard
+City or Town
+State or Country
+d. Nost a gusus
+Just a guess
+NIGHT
+a. Bright
+>. Cloudy
+7. IF you saw the obiect during DAYLIGHT, where was the SUN located as you looked at the object?
+(Circle One): a. In front of you
+b.
+In back of you
+c. To your right
+d. To your left
+e.
+Overhead
+f. Don't remember
+FORM
+FTD JUL 61 164
+Thie
+ATIC 154, Fob 60, which is obsolele

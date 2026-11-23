@@ -1,0 +1,76 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T18:29:30Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7831870, "source_ctime_ns": 1793381289416252198, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28979749/1295.jpg", "source_mtime_ns": 1785700837000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28979749/1295.jpg", "source_sha256": "0bbe115c07a0d20d158016cb2c14b49670dfad746780bd9dde539221188819bd"}
+
+===== PAGE 1 =====
+{"alpha_words": 171, "chars": 1269, "method": "ocr", "page": 1, "variant": "plain-vision"}
+I. DATE
+PROJECT 10073 RECORD CARD
+2. LOCATION
+1 September 1958
+3. DATE-TIME GROUP
+. Local_
+1820
+GMT 01/2220Z
+S. PHOTOS
+Vexas
+YPE OF OBSERVATIO!
+AyGround Visual
+• Air Vi suol
+T. SOURCE
+• Ground-Reder
+• Air-Intercept Roder
+• Yes
+R 210
+7. LENGTH OF.OBSERVATION
+Civilian
+8. NUMBER OF OBJECTS | 9. COURSE
+12. CONCLUSIONS
+was balloor
+Postably Belleon
+Was Aireraft
+• XProbably Aireraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+•
+Possibly Astronomical
+Other.
+Insufficient Data for Evaluation
+Unknown
+45 to 60
+secs
+TWO
+10. BRIEF SUMMARY OF SIGHTING
+Two round, grey objs flying about
+two mins apart were sighted directly
+overhead going SSE & disappeared be-
+hind clouds in that area.
+SSE
+11. COMMENTS
+A Chance-Vought a/c plant is
+near Dallas. F-9U-1 Nav. a/c
+up at time of sighting. These
+a/c are painted black & would
+stand out in a clear sky.
+ATIC FORM 329 (REV 26 SEP S2)
+Witness
+2220z. 1 sep
+NANN
+RECEIVED
+I L LI
+25'50
+3 SEP 58 07 1șšŚ
+ATIC
+CZCSQD611ZCWYK685
+PP RJEDSQ
+DE RJWFHW 30
+P 8218322
+FN CCMDR 745TH ACWRON DUNCANVILLE TEX
+TC RJEDN/COMDR ADC ENT AFB COLO
+INFO RJEDDN/COMDR 10E6TH AISS ENT AFB COLO
+RJEDSQ/COMDR ATIC WRITHT PATTERSON AFE OHIO
+RJEZH/COMDR INTELLIGENCE HQ UŞAF WASHINGTON DC
+RJEZHG/CCMDR OIS HQ USAF WASHINGTCN DC
+TELEPHONED
+TO
+ЧЕЧ
++4x20

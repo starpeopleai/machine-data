@@ -1,0 +1,45 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T18:31:27Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8495207, "source_ctime_ns": 1793365132212369192, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330788392/45484701-007-010-0007.jpg", "source_mtime_ns": 1785684778000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330788392/45484701-007-010-0007.jpg", "source_sha256": "a2332e9fc58d824cac8ed5cd1a750ad63378d9ac7ffbaed37eb08be72ebd142a"}
+
+===== PAGE 1 =====
+{"alpha_words": 134, "chars": 956, "method": "ocr", "page": 1, "variant": "plain-vision"}
+MANNER OF OBSERVATION:
+OBSERVED WITH - GROUND VISUAL.
+В •
+OPTICAL AIDS - NONE
+SIGHTED WHILE AIRBORNE
+- N/A
+TIME AND DATE OF SIGHTING:
+A. ZULU TIME AT SIGHTING - 0700 ON A
+NIGHT IN NOVEMBER
+OR DECEMBER 1959 (DATE UNK).
+8. LIGHT CONDITION -
+NIGHT, STARS SHOWING.
+LOCATION OF OBSERVER:
+7520 PINE KNOB RD. - MILES NORTH OF PONTIAC, MICHIGAN
+CLARKSTON, MICHIGAN
+IDENTITY OF OBSERVER:
+WEATHER AND WINDS:
+CLEAR WEATHER, CRISP, COLD, LITTLE WIND AND FIRST SNOW
+ON GROUND.
+VISIBILITY - UNLIMITED
+CLOUD COVER - LITTLE TO NONE
+METEROLOGICAL ACTIVITIES TO ACCOUNT FOR SIGHTING:
+NONE
+PHYSICAL EVIDENCE:
+PICTURE, 35MM SLIDE, IN COLOR
+3. MRS. WHITESELL OFFERED THE COLOR SLIDE PHOTOGRAPH WHICH
+WAS ACCEPTED AND A NEGATIVE COPY MADE.
+THE ORIGINAL HAS
+BEEN RETURNED TO MRS. WHITESELL AND THE NEGATIVE COPY IS
+ATTACHED.
+La causas
+STANLEY V
+SZAPIEL
+Colonel,
+USAF
+Conmander
+1 Атси
+PHOTO
+- COPY TO: DIR OSI, W/O ATCH
+FOR OFFICIAL USE ONL
+Declassification Authority: NND 923007

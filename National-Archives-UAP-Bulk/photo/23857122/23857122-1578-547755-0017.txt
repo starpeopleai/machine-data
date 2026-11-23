@@ -1,0 +1,10 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T19:00:43Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 20844612, "source_ctime_ns": 1793357717300794283, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1578-547755-0017.tif", "source_mtime_ns": 1785564960000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1578-547755-0017.tif", "source_sha256": "e0039f469ae6099bf654274021a6a73b97999c75dcbb03f5a4b9aac6d83d1cad"}
+
+===== PAGE 1 =====
+{"alpha_words": 34, "chars": 196, "method": "ocr", "page": 1, "variant": "clean-vision"}
+Drew a pieture that will shon the notion that the object made. Place an At
+at the beginning of its path and a If at the end of its path.
+AF547755
+TESTO.
+STEN
+Declassification Authority: NND 57565

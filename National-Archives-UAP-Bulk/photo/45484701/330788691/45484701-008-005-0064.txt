@@ -1,0 +1,56 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T18:32:57Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10013934, "source_ctime_ns": 1793365323102454634, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330788691/45484701-008-005-0064.jpg", "source_mtime_ns": 1785684610000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330788691/45484701-008-005-0064.jpg", "source_sha256": "2ee3db286543eacebea6c238c4615005c12f1ef41f11d2adf6b4b45c09f0eb99"}
+
+===== PAGE 1 =====
+{"alpha_words": 222, "chars": 1593, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Irin 8 Aug 50
+24-185
+(Unclassified) UNKNOWN OBJECT 28° 38' N, 45° 01' E
+SPECIAL INQUIRY
+Documents & Dissemination Br, Directorate
+of Intelligence, DCS/O
+Counter Intelligence Div, Office of Special
+Investigations, The Inspector General
+1 0 AUG T
+Lt Gol Nold/bjm/53623
+AFCSI
+Attached for your information are copies of Spot Intelligence Report with
+inclosures received in this office from OSI at Dhahran Airfield, Dhahran, Saudi Arabia,
+concerning captioned subject, dated 18 July 1950.
+20
+Attention is invited to the request of Commanding General, Dhahran Airfield,
+that the attached report and inclosures be forwarded for proper evaluation.
+Request that this office be advised of any reply that may be furnished the
+Commanding General, Dhahran Airfield pertinent to this matter.
+1 Incl
+SIR td 18 vul 50 fr Dhahran
+Airfield re abv subJ, w/5
+incle (SIR in quadruplicate)
+Disclosure of the nature, sources, or even the existence of such
+investigatfve information to persons mentioned in the report
+or to other persons not normally entitled to such information.
+may be made only when expresely authorized by the Directer
+of Special Investigations, IG, or higher cuthority.
+GILBERT R. LEVY
+Actg Chief, Counter Intelligence Div
+Office of Special Investigations
+The Inspector General
+CLASSIFICATION CANCELLED
+BY AUTHORITY OF THE DIE
+BY
+KURT K. KUNZE, Capt, USAF
+Historian
+8 DEC 1975
+DATE
+O melosures farmiked AFAIN as action ageney.
+lile in srew of nature
+incident reported.
+AFCSI FILE COPY
+Skiers
+AFCSI
+SI L
+USAF
+IG
+OFFICE OF
+SPECIAL INVEL. ATRON
+UNCLASSIFIED
+Declassification Authority: NND 923007

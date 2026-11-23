@@ -1,0 +1,58 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T18:29:23Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7799808, "source_ctime_ns": 1793387472891621910, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28998733/0729.jpg", "source_mtime_ns": 1785748455000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28998733/0729.jpg", "source_sha256": "5cb707f028e91920ffc10831bf9c1bc413d26d6af6b28fc3a4bc1de3796ea7c9"}
+
+===== PAGE 1 =====
+{"alpha_words": 126, "chars": 986, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD CARD
+1. DATE
+2. LOCATION
+21 August 1962
+3. DATE-TIME GROUP
+Local
+GM T
+22/0040z
+5. PHOTOS
+Newark,
+Ohio
+4. TYPE OF OBSERVATION
+InGround- Visual
+• Air Visual
+6. SOURCE
+• Ground-Radar
+• Air-Intercept Radar
+D Yes
+XENO
+7. LENGTH OF O3SERVATION
+Civilian
+8. NUMBER OF OBJECTS | 9. COURSE
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Airereft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other
+XInsufficient Data for Evaluation
+Unknown
+30 seconds
+one
+0. BRIEF SUMMARY OF SIGHTING
+Obj observed overhead traveling almost
+due North disappearing just above
+horizon after flight of about 30 secs.
+Speed about 2 dgr per/second. Observed
+as a steady light. Light did not change
+in brightness.
+North
+11. COMMENTS
+Insufficient data for analysis.
+Questionnaires sent but no reply
+received. Possible a high flying
+jet or satellite
+just prior to
+decay. 62A Iota 2 decayed this
+date.
+ATIC FORM 329 (REV 26 SEP 52)

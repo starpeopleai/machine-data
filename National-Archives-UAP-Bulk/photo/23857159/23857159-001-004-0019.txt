@@ -1,0 +1,80 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T18:20:14Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 18979918, "source_ctime_ns": 1793361004417517603, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-004-0019.tif", "source_mtime_ns": 1785565204000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-004-0019.tif", "source_sha256": "b670edc0dc07fd5e03287b25ceb467717c6129bd311943c445310bc4f16f8d21"}
+
+===== PAGE 1 =====
+{"alpha_words": 265, "chars": 1952, "method": "ocr", "page": 1, "variant": "plain-vision"}
+COUNTRY OF ACTIVITY REPORTING
+REPORT NO.
+JAPAN
+IR-62-58
+AIR INTELLIGENCE INFORMATION REPORT
+COUNTRY OR AREA REPORT CONCERNS
+DATE OF INFORMATION
+USSR
+22 January 1958
+ACTIVITY SUBMITTING REPORT
+DATE OF COLLECTION
+24 January 1958
+Air Attache, Tokyo, Japan
+PREPARING INDIVIDUAL
+DATE OF REPORT
+Captain J. S. Calhoon
+NAME OR DESCRIPTION OF SOURCE
+30 January 1958
+EVALUATION
+RB-50 Aircrew
+REFERENCES (BAIR Subject,
+B-1
+applicable)
+BAIR 460T
+SUBJECT (Descriptive title
+idual reports for separate subjects)
+1157802
+(Leave blank)
+1157802
+SRI STATUS (If applicable)
+SRI NO.
+CANCELED/COMPLETE
+SRI NO.
+CANCELED/ INCOMPLETE
+SRI NO.
+ACTIVE
+ADDITIONAL INFORMATION ON (Date)
+(Secret/No Forn) Unidentified Object Sighted In Sea Of Okhotsk
+SUMMARY (Give summary which highlights the salient factors of narrative report. Begin narrative text on AF Form 112a
+unless report can be fully stated on AF Form 112. List inclosures, including number of copies)
+This report forwards information concerning an unidentified flash of light
+followed by brilliant blue-green trail which was sighted by RB-50 crew at 57°10'N,
+140°35'E at 221045Z January 1958.
+3+1-62A1322
+26
+2/25:34-/
+AND Referto Herson
+It. Colonel, USAF
+Air Attache
+INCLS
+Classification (eancelled, (changed to
+Undas), effective on
+_under the authority of AFR225
+→ bY AFIS/INS LITR
+SPECIAL HANDLING REQUIRED NOT RELEASABLE
+TO FOREIGN NATIONALS
+The
+information contained in
+this document wil
+isclose 1 to foreign nationals
+their repres
+DISTRIBUTION BY ORIGINATOR (Except USAF and file. Indicate Dupl M/oz and copies w/o inclosu
+Hq PACAF, dupl m/oz cy
+Hq 5th AF,
+1 cy
+Hq ATIC, 1 cy
+Ha 13th AF, 1 cy
+WARNING: This document contains information affecting the national defense of the United Sta
+Espionage Laws, Title 18, U.S.C., Section 793 and 794. Its transmi
+an unauthorized person is prohibited by law
+AF 15 SEP 5412 REPLACES AF FORM 112.
+1 OCT 52. WHICH MAY BE USED
+* U.S. G
+- 31547!
+DECLASSIFIED
+Authority NND 9237007

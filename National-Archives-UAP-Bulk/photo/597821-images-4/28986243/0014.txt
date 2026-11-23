@@ -1,0 +1,63 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T19:19:22Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6682525, "source_ctime_ns": 1793383057410211498, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28986243/0014.jpg", "source_mtime_ns": 1785747869000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28986243/0014.jpg", "source_sha256": "00a57f4e607c5613e7e4802d46eb7bb8aca33fdccd0847560240390a460ee89e"}
+
+===== PAGE 1 =====
+{"alpha_words": 250, "chars": 1645, "method": "ocr", "page": 1, "variant": "plain-vision"}
+V. S. AIR FORCE TECHNICAL INFORHATION SHEET
+This questionnaire has been prepared so that you can giva the U. S. Air Force as much
+Information as possible concorning the unidentified aerial phenomanon that you have observed,
+Please try to answer as many questions as you possibly con. The information that you give will
+be used for rescorch purposes, and will be regarded as confidential material. Your name will not
+be used in connection with any statemants, conclusions, or publications without your permission.
+We request this parsonal informotion so that, if it is deemed necessary, we may contact you for
+further details.
+1. When did you sae the object?
+23 MARCH
+Day
+Month
+3. Time zono:
+1560
+Year
+2. Time of day:
+(Circle One):
+Hour
+- _221
+Minutas
+A.M.)
+o P.M.
+(Circle One): a. Easter
+b. Centrol
+c. Mountain
+d. Pecific
+e. Other _
+(Circle One): a. Daylight Saving
+b, Standard
+4. Where were you when you saw the object?
+Nooreat Postal Address
+Additional remarks:
+City or Town
+State or Country
+5. Estimate how long you saw the object.
+Hours
+Minutes
+Saconda
+5,1. Circle one of the following to indicate how certain you are of your answer to Question 5.
+Certain
+Fairly certain
+c. Not very sure
+d. Just a guess
+6. What was the condition of the sky?
+(Circle One): a, Bright daylight
+b. Dull daylight
+c. Bright twilight
+d. Just a trace of daylight
+e. No trace of daylight
+f. Don't remember
+7. IF you saw the object during DAYLIGHT, TWILIGHT, or DAWN, where was the SUN located as you laoked at
+the object?
+(Circle One): a. In front of you
+b. In back of you
+c. To your right
+d. To your left
+0. Overhead
+f. Don't remember
+ATIC FORM NO. 164 (13 OCT 54)

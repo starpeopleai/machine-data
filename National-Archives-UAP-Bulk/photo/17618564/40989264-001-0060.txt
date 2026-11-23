@@ -1,0 +1,120 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T18:21:13Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 20087095, "source_ctime_ns": 1793355221916634385, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989264-001-0060.jpg", "source_mtime_ns": 1785564415000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989264-001-0060.jpg", "source_sha256": "347f0872edac69d24d275ddc448cbde70bbb8b53afe33e4b5a91bb6e0d94ab81"}
+
+===== PAGE 1 =====
+{"alpha_words": 888, "chars": 6324, "method": "ocr", "page": 1, "variant": "plain-vision"}
+112
+including its apparent reaction to other events in the environment with emphasis
+upon establishing independence or non-independence of separate witnesses. (b)
+Those portions of the problem that result from mass hysteria need to be studied
+intensively to improve our understanding of mass hysteria toward the end of
+controlling its potentially dangerous consequences. (c) Some systematic means
+of monitoring and observing should be developed so as to add well documented
+new cases with specific reports of details obtained independently from different
+observers.
+3. Serious consideration might be given to the idea of setting up a formal
+adversary proceeding, modeled after our system of justice. Just as courts have
+attorneys assigned to build the best possible case for the prosecution and others
+to build the best case for defense, we might have a staff assigned to build the
+strongest possible case for each of the three major explanations of UFO reports.
+If each had to confront the others and answer their criticisms, we would probably
+force a clearer focus on the crucial points that need to be settled
+My closing comment returns to my starting point. The situation that we face in
+UFO reports is an exciting and challenging one which presents a rare scientific
+opportunity, no matter whose interpretation and explanation you may accept.
+REFERENCES
+Bauer, R. A. and Gleicher, D.B., 1953. Word-of-mouth communication in the
+Soviet Union. Public Opinion Quarterly, 1r, 1953, 297-310.
+Cantril, H., 1940. The invasion from Mars. Princeton: Princeton University Press,
+1940.
+Festinger, I., 1957. A theory of cognitive dissonance. Evanston: Row-Peterson,
+1957.
+Hall. R. H. (ed.), 1964. The UFO evidence. Washington, D.C.: N.I.C.A.P., 1964.
+Johnson, D. M., 1945. The "phantom anaesthetist of Mattoon: a field study of
+mass hysteria. Journal of Abnormal and Social Psychology, 1945, 40, 175-186.
+Kerckhoff, A. C., and Back, K., 1968. The June bug. New York: Appleton-Century-
+Crofts, 1968.
+Medalia, N. Z., and Larsen, O. N., 1958. Diffusion and belief in a collective de-
+lusion: the Seattle windshield pitting epidemic. American Sociological Review,
+1958, 23, 180-186.
+Shibutani, T., 1966. Improvised news: a sociological study of rumor. Indianapolis
+and New York: Bobbs-Merrill. 1966.
+Simmons, J. L., 1964. On maintaining deviant belief systems: a case study. Social
+Problems, 11, 1964, 250-256.
+Smelser, N., 1963. Theory of collective behavior. New York: Free Press of Glencoe,
+1963.
+Smith, M. B., Bruner, J. S., and White, R. W., 1956. Opinions and Personality.
+New York: John Wiley & Sons, 1956.
+U.S. Air Force, 1968. Projects Grudge and Bluebook Reports 1-12 (1951-1953)
+Washington, D.C.: N.I.C.A.P., 1968.
+Mr. RousH. Our next participant is Dr. J. A. Harder.
+Dr. Harder, we are delighted that you can participate. We are get-
+ting into another area here now. Again, as with the other gentlemen,
+Dr. Harder has a distinguished career behind him and probably an
+even more distinguished career ahead of him.
+Dr. Harder, will you proceed.
+(The biography of Dr. Harder is as follows:)
+DR. J. A. HARDER
+Born: Fullerton, Calif., 1926.
+B.S. California Institute of Technology. 1948: Ph.D. (fluid mechanics), 1957;
+Associate Professor of Civil Engineering, University of California, Berkeley,
+1962 to present; Assistant Professor, Hydraulic Engineering, 1957-62; Resident
+Engineer, 1952-57 ;
+Design
+1948-50:
+Engineer, soil conservation service, U.S. Department of Agriculture,
+U.S. Navy, 1944-45.
+of Science, Society of Civil Engineering
+Scientific Societies: Fellow of the American Association for the Advancement
+113
+Specialty: Engineering Science
+Fields
+of Interest: Hydraulic systems analysis; surface water hydrology;
+analog simulation.
+STATEMENT OF DR. JAMES A. HARDER, ASSOCIATE PROFESSOR
+OF CIVIL ENGINEERING,
+UNIVERSITY OF CALIFORNIA AT
+BERKELEY, CALIF
+Dr. HARDER. Thank you, Mr. Chairman.
+Your committee has asked me to comment on the problem of pro-
+pulsion as raised by some reports, and to whatever potential benefits
+there might be to the aerospace programs from an intense scrutiny of
+UFO phenomena.
+I am very glad for this opportunity to present to your committee
+some of my views on the problems of unidentified flying objects and
+to indicate some of the areas in which I think a closer investigation
+of this problem might provide us with scientific clues that would
+give us important impetus to basic and applied research in the United
+States.
+As Dr. Hall has said, there have been strong feelings aroused about
+particularly about the extraterrestrial hypothesis for their
+UFO'S mis is entirely understandable. in view of man's historic
+record of considering himself the central figure in the natural scene;
+the extraterrestrial hypothesis tends inevitably to undermine the col-
+lective ego of the human race. These feelings have no place in the
+scientific assessment of facts, but I confess that they have at times
+affected me.
+Over the past 20 vears a vast amount of evidence has been accumu-
+lating that bears on the existence of UFO's. Most of this is little
+He beats on the exis
+known to the general public or to most scientists. But on the basis
+intellectual level but find a difficulty in accepting it on an emotional
+level, in such a way that the facts give a feeling of reality. In this
+respect, we might recall the attitude many of us have toward our own
+deaths: We accept the facts intellectually, but find it difficult to accept
+them emotionally.
+Indeed, there are flying saucer cultists who are as enthusiastic as
+they are naive about UFO's-who see in them some messianic svm-
+bols-they have a counterpart in those individuals who exhibit a mor-
+bid preoccupation with death. Most of the rest of us don't like to think
+or hear about it. This, it seems to me, accurately reflects many of our
+attitudes toward the
+reality of UFO's--natural, and
+somewhat
+healthy, but not scientific.
+In my remaining statements vou will note that I have tacitly as-
+sumed the reality of UFO's as a hvoothesis underlving my assessment
+of the importance of this subject for scientific study.
+1. THE UFO PROPULSION PROBLEM
+By way of introducing the propulsion problem of UFO's, I will
+review a sighting near the city of Corning, in northern California,
+during the nicht of August 13. 1960. by two California highway

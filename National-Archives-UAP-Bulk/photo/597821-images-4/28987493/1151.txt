@@ -1,0 +1,108 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T18:43:25Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8909684, "source_ctime_ns": 1793383651598914363, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28987493/1151.jpg", "source_mtime_ns": 1785748030000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28987493/1151.jpg", "source_sha256": "5fc1f5d3cde5eb68eccb714305e79bec5cfa6233f9d841d2292b9eae7ec1995c"}
+
+===== PAGE 1 =====
+{"alpha_words": 195, "chars": 1521, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DATE
+1
+DATE
+Jul
+1 - 15 JULY 1960 SIGHTINGS
+LOCATION
+OBSERVER
+Morom AB, Spaim
+Mul ci
+Lake Nottewa, Michigan
+Oak Hill, West Virgiaia
+Chamute AFB, Illinois
+Biggs AFB, Texas
+Multiple
+Military
+Mather APB, Califormia
+Kettering, Ohio
+Dayton, Ohio
+Tel Aviv, Israel
+US Naval Attache
+Richfield, Idaho
+Brrorvilie; Loag Island,
+New York
+39.20N 145.50E (Pacific)
+Texas, Louisiana
+Misava AB, Japaa
+Northwest Airlines
+Military Air
+Multi
+S of Portiaad, Oregon
+Minat, North Dakota
+Hawthorme, New Jersey
+Mason, Onda
+Big Delta, Alaska
+Portland, Oregon
+Marlim, Texas
+Independence. Missouri
+Kaasas City, Missouri
+Williaton, North Daketa
+Truk Atell
+Mitho AB, Japaa
+Air
+Portiaad, Oregoa
+Dayton, Ohio
+Pensacola Bay, Fiorida
+ADDITIONAL REPORTED SIGHTINGS (NOT CASES)
+LOCATION
+SOURCE
+Miles, Illinois
+Sheep Rack, Moatana, Coeburn, Va
+Mostrelier, Idaho
+Leafe, Wyomise
+Maiquetia, Vamezuela
+Milwaukee, Viscorsis
+Illinois
+Sam Juas, Puerto Rico
+Stomenam, Massachusetts
+Trey, New York
+(Green 164)
+Newsclipping
+Newsclipping
+kr)
+Newsclipping
+Summary - Fireball Reports
+Newsclipping
+Newscliopiag
+•(ltr)
+Newsclippiag
+EVALUATION
+Astro (METEOR)
+Insufficient Data
+Aircraft
+Astro (METEOR)
+Astro
+(METEOR)
+Other (REFLECTION)
+Astro (METEOR)
+Aireraft:
+Insufficient Data
+Astro (VENUS)
+Aircraft
+Other (MISSIL)
+Astro (METSOR)
+Balloox
+Aircraft
+Astro
+(VEGA)
+Astro
+(METEOR)
+Astre
+(ARCTURUS)
+Astro
+(METEOR )
+Astre METEOR)
+Insufficient Data
+Astro (METEOR)
+Aircrsft
+Other (CONFLICTING INFO)
+Balloon
+Astra (METEOR)
+Other (UNRELIABLE REPORT)
+Aircraft
+Astro (METEOR)
+EVALUATION

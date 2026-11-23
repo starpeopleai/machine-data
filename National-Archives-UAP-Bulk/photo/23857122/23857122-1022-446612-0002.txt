@@ -1,0 +1,87 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T19:09:14Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 31892032, "source_ctime_ns": 1793356921101176889, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1022-446612-0002.tif", "source_mtime_ns": 1785564790000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1022-446612-0002.tif", "source_sha256": "fd54868335f7f0e7f763cddb8896f81346d45fa42c4f0562242201250dd06102"}
+
+===== PAGE 1 =====
+{"alpha_words": 363, "chars": 2513, "method": "ocr", "page": 1, "variant": "plain-vision"}
+CANAL MAY 121952
+31AF446612
+446682ł
+SUBJECT
+REPORT NO.
+(LEAVE
+Germany
+433W-6+52
+AIR INTELLIGENCE INFORMATION REPORT
+Unidentified Aerial Object
+AREA REPORTED ON
+Germany
+DATE OF REPORT
+26 April 52
+DATE OF INFORMATION
+26 April 52
+PREPARED BY (Officer)
+Albert E. Prudence, Capt., USAF
+REFERENCES (Control number, directive, previous report, de., as applicable)
+FROM (Agency)
+433d Troop
+Carrier Wing
+EVALUATION
+0-2
+SUMMARY: (Enter concise
+ne-sentence paragraph. List inclosures it lower left. Begin lest of r
+m 119-Part II.)
+SOURCE:
+aircraft maintenance officer and
+Instructor pilot, C-47, 433d Air Base Group, Rhein Main AB, Germany.
+II. INTERVIEWER:
+Capt. Albert I. Prudance, wing intelligence officer.
+III. RELIABILITY OF SOURCE:
+has been a ratad officer nine years. His juöge
+ment can be
+trusted.
+His observations were confirmed by lst Lt
+pilot, who has been a rated officer eight years.
+IV.
+SUMMARY:
+were on a local instrument
+training flight in a C-47 at Rhein Main Air Base on 25 April 52 when
+they observed a brilliant moving white light at a point about 2000
+feet over DARMSTADT at 2115 local.
+took evasive action when the light appeared to be
+or a collision course. Thinking it might be a landing light of another
+airerart, he contacted the Rhein Main tower. The tower contacted
+Frankfurt Airways and reported no other aireraft in the vicinity.
+The bright light was in view for about two minutes. When last
+seen it was climbing at a high rate of speed in a northwest direction.
+Visibility was five to 10 miles and there were
+scattered clouds.
+However, the two officers reported they could not distinguish any
+the object, except it appeared to be a white circle of light
+approximately two feet in diameter.
+added that 1t
+reninded him of the exhaust of a jet plane.
+DECLASSIFIED
+E.O. 11652, Sec. 3(E) and 5(D) or (E)
+LSAF mEMO
+7/34/28
+Bike Lenis a Osla 9p/38
+AKG
+ALBERT E. PRUDENCE
+captain,
+USAP
+Wing Intelligence Officer
+7E STION BY ORIGINATOR
+10/3, 4 2,
+USAFE (Or1g)
+12 AP
+- 1 cy
+N2, 433 TOW - 1 CJ
+A-2, 60 TOW -10y
+5-2,
+Tempelhof AB - 1 cy
+5-2, 433 TO Gp - 1 ey
+CUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S. S.C.-
+32, AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW.
+OT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF
+CAESAF.
+Infanati
+Declassification Authority: NND 57565

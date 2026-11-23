@@ -1,0 +1,86 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T19:14:43Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 16082721, "source_ctime_ns": 1793355560632822262, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0146.jpg", "source_mtime_ns": 1785564477000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0146.jpg", "source_sha256": "43e83e3ebcd26391fd0bd3b2f271428a9d84208f15b320b4de551811ffd3d176"}
+
+===== PAGE 1 =====
+{"alpha_words": 687, "chars": 5488, "method": "ocr", "page": 1, "variant": "plain-vision"}
+282
+STRATOSCOPE II
+Martin Schwarzschild
+Princeton University Observatory, Princeton, N. J.
+The main characteristics of Stratoscope II, a 36-inch balloon-borne telescope
+will be discussed and its first flight in March 1963 will be described.
+A STABLE SKY-HOOK - THE GOODYEAR VEE-BALLOON
+Robert S. Ross
+Goodyear Aerospace Corporation, Akron, Ohio
+With the development of new lighter and more gastight balloon materials, it
+was natural to re-evaluate the tethered balloon system for current and future
+applications. Greater stability and increased lift under high wind conditions were
+two major aerodynamic improvements needed.
+Through a wind tunnel development
+program, free flight model tests, and full scale balloon flights, the Vee-Balloon
+was developed to correct these deficiencies in previous tethered balloon systems.
+Besides being an aerodynamically stable configuration, it also exhibits high lift-
+drag ratios at small angles of attack and, therefore, can carry a large diameter
+cable to greater heights than previously possible. Because of its shape, the
+Vee-Balloon is readily adaptable to a tandem system configuration which is
+often required for the achievement of high altitude flight with a tethered system.
+The Vee-Balloon is already being applied to a number of missions where
+stability, flight endurance, and high altitude are prime prerequisites, and
+new uses for this versatile sky-hook arise daily.
+FILM REPORT ON PROJECT BANSHEE - PHASE I
+Jack R. Kelso
+Defense Atomic Support Agency, Washington, D.C.
+Project BANSHEE (Balloon and Nike Scaled High Explosive Experiment)
+is a joint Army, Navy, Air Force high altitude blast effects research program
+sponsored by the Defense Atomic Support Agency. This documentary film
+report (in color) covers primarily the development, coordination, and fielding
+of a series of complex scientific experiments in the upper atmosphere. Partic-
+ular attention is devoted to unusual operational techniques utilized to conduct
+balloon flights in support of project activities during 1961 and 1962.
+AIR FORCE SURVEYS IN GEOPHYSICS
+o.100 A Phenomenological Theory of the Scaling of Fireball Minimum Radiant Intensity with Yield an
+Ititude (U), H. K. Sen, Apr 1958. (SECRET Repor
+No. 101 Evaluation of Satellite Observing Network for Project "Space Track", G. R. Miczaika and H. O.
+Curtis, Jun 1958.
+102 An Operational System to Measure, Compute, and Present Approach Visibility Information, T.
+& and W. C. Morton, III. Jun 1S
+No.103 Hazards of Lightning Discharge to Aircraft, G. A. Faucher and H. O. Curtis, Aug 1958.
+o.104 Contrail Prediction and Prevention (U), C. S. Downie, C. E. Anderson, S. J. Birstein and B. A
+ilverman, Aug 1958. (SECRET Report
+No.105 Methods of Artificial Fog Dispersal and Their Evaluation, C. E. Junge, Sep 1958.
+No. 106 Tep 195 Techniques for Dissipating Fog From Aircraft Runways, C. S. Downie and R. B. Smich,
+No.107 Acterao, of Red y W. K. Fikes iT TOck ng Constant-Level Balloons, K. C. Giles and R. E.
+No.108 Tot fe (CoNFIDENTIAL ReACE-Cuided Intercepts (U), E. M. Darling, /r. and C. D. Ker,
+No.109 Behavior of Atmospheric Density Profiles, N. Sissenwine, W. S. Ripley and A. E. Cole, Dec 1958.
+.110 Magnetic Determination of Space Vehicle Attitude (U), J. F. McClay and P. F. Fougere, M
+59. (SECRET Repor
+Jo.111 Final Report on Exhaust Trail Physics: Project 7630, Task 76308 (U), M. H. McKenna, and
+1. O. Curtis, Jul 1959. (SECRET Keport,
+No.112 Accuracy of Mean Monthly Geostrophic Wind Vectors as a Function of Station Network Den
+itv. H. A. Salmela. Jun 1959.
+No.113 40), 9. 4. east ele, Sug fit of (Co AIDENTAL. R poreated by an ICBM Nose Cone Rentry
+Vo.114 The Role of Radiation in Shock Pro
+The Bar FireBada (0, İ. K. Se Prod .. with el 1959. SECRETE Skikd 5411 Report
+- No.115 ARDC Model Atmosphere, 1959, R. A. Minzner, K. S. W. Champion and H. L. Pond, Aug 1959.
+No.116 Refinements in Utilization of Contour Charts for Climatically Specified Wind Profiles, A. E.
+Cole, Oct 1959.
+Jo.117 Design Wind Profiles From Japanese Relay Sounding Data, N. Sissenwine, M. T. Mulker,
+nd H. A. Salmela, Dec 1959.
+No.118 Military Applications of Supercooled Cloud and Fog Dissipation, C. S. Downie, and B. A.
+Silverman, Dec 1959.
+No.119 Factor Analysis and Stepwise Regression Applied to the 24-Hour Prediction of 500-mb Winds,
+Temperatures, and Heights Over a Silent Area (U), E. J. Aubert, I. A. Lund, A. Thomasell, Jr.,
+and J. J. Pazniokas, Feb 1960. (CONFIDENTIAL Report)
+No.120 An Estimate of Precipitable Water Along High-Altitude Ray Paths, Murray Gutnick, Mar 1960.
+No.121 Analyzing and Forecasting Meteorological Conditions in the Upper Troposphere and Lower
+Stratosphere, R. M. Endlich and G. S. McLean, Apr 1960.
+No.122 Analysis and Prediction of the 500-mb Surface in a Silent Area, (U), E. A. Aubert, May 1960.
+(CONFIDENTIAL Report).
+Jo.123 A Diffusion-Deposition Model for In-Flight Release of Fission Fragments, M. L. Barad
+›. A. Haugen, and J. J. Fuquay, Jun 1960
+No. 124 Research and Development in the Field of Geodetic Science, C. E. Ewing, Aug 1960.
+No. 125
+Extreme Value Statistics -- A Method of Application, I. I. Gringorten, Jun 1960.
+No.126 Notes on the Meteorology of the Tropical Pacific and Southeast Asia, W. D. Mount, Jun 1960.
+o.127 Investigations of Ice-Free Sites for Aircraft Landings in East Greenland, 1959, J.H. Hartshon
+• E. Stoertz, A. N. Kover, and S. N. Davis, Sep 196
+No.128 Guide for Computation of Horizontal Geodetic Surveys, H. R. Kahler and N. A. Roy, Dec 1960.

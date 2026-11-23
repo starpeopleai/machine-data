@@ -1,0 +1,101 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T18:55:01Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 31448620, "source_ctime_ns": 1793357467323366691, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1403-531545-0001.tif", "source_mtime_ns": 1785564906000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1403-531545-0001.tif", "source_sha256": "41806ff9e31bd6fb5e1806d1e5dd8fa69a6e67cb7eccf38a69cd0a5c3a48777f"}
+
+===== PAGE 1 =====
+{"alpha_words": 531, "chars": 3745, "method": "ocr", "page": 1, "variant": "plain-vision"}
+ECRET
+LASSIFICA
+FEB 1
+AF FORM 112
+APPROVED 1 JUNE 1948
+COUNTRY
+UNITED STATES
+REPORT NO
+1R-1-53W
+AF5315H5
+AIR INTELLIGENCE INFORMATION REPORT
+SUBJECT
+Unidentified Flying Objects Reporting (FLYOBRPT)
+AREA REPORTED ON
+FROM (Agency) 34th Air Division (Defense)
+Continental Divide, New Mexico
+Kirtland Air Force Base, New Mexico
+DATE OF REPORT
+DATE OF INFORMATION
+EVALUATION
+10 February 1953
+26 January 1953
+B~1
+PREPARED BY (Officer)
+SOURCER I, Welch, A/lc, USAF; J.G. Dennis,
+GLEN D PARRISH, 1st It., USAF
+A/1c, USAF; R.E. Larson, A/3c, USAF
+REFERENCES (Control number, directive, previous report, etc., as applicable)
+AFL 200-5, dated 29 April 1952
+SUMMARY: (Enter concise summary of report. Give significance in final one-sentence paragraph. List inclosures at lower left. Begin tert of report on AF Form 119-Part II.)
+SUBJECT: FLYOBRPT
+In accordance with AFL 200-5, dated 29 April 1952, Subject:
+Unidentified Flying
+Objects Reporting (Short Pitle:
+FLYOBRPT), the following report of Unidentified
+Flying Objects is submitted:
+On 26 January 1953, at 2115 MST, A/1c J..G. Dennis, stationed at 769th AC&W Sq,
+Continental Divide, New Mexico, while on duty in the operations building, observed an
+aerial phenomenon as he stood outside the rear entrance door to the building. The
+object appeared as a very bright reddish-white object approximately ten miles west of
+the radar site.
+The object passed behind a hill and reappeared apparently heading in
+a northerly direction at a very slow speed (est 10-15 MPH). Airman Dennis reported
+this sighting to his crew chief, A/lc R.L. Welch, upon entering the operations build-
+ing. Airman Welch and A/3c R.E. Larson informed Airman Dennis that they had an un-
+identified blip on the radar scope, painting west of the station about 9 miles away.
+The blip was appearing intermittently, moving slowly westward then turning to a north-
+erly heading outbound from the radar site.
+Airman Welch went outside of the building
+to determine if the object was visible. He saw the object west-north-west of the
+site, 10-12 miles away moving slowly northward.
+The bright object appeared oval in
+shepe, and apparently changed color from a very briebt white to a date it faded from
+like red.
+The object seemed to diminish in brightness and size before
+view.
+Airman Welch returned to the scope to observe the phenomenon.
+Welch made
+severàl trips outside to view the object visually during the period of radar obser-
+vation. The object was under visual and radar observation intermittently for forty
+five minutes.
+No other radar station observed a similar sighting.
+The object was
+visually estimated to be 2,000 feet above the terrain.
+The radar estimate was 10-15,
+000 feet above MSL. Dad&s hayation of the 769th AC&N Sq is approximately 7,500 feet
+above MSL.
+3.0. 12065, Sec. 3-402
+USAFmemo 7/31/78
+INCIS, FILED ATIC
+APPROVED:
+INCLSI
+1. USAF Tech Info Sheet (Welch)
+2. USAF Tech Info Sheet (Dennis)
+3. Radar Obs Sheet, ADC Form 123
+4. Radar Plot (Map overlay)
+ISTRIBUTION BY ORIGINATOR
+LensBarnch
+GLEN D PARRISH
+lst It.,
+USAF
+Director of Intelligence
+TO: Commanding General.
+Western Air Defense Force
+ATTN: Director of Intelligence
+Hamilton Air Force Base, California
+E 14213
+NOTE THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S.C.-
+31 AND 32, AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW.
+IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF
+INTELLIGENCE, USAF.
+SECRET
+34-0/14 3
+16-55569-2 U.S. GOVERNMENT F
+(CLASSIFICATION)
+SECURITY TIL..
+Declassification Authority: NND 57565

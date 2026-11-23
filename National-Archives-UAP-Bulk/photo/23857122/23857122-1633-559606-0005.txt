@@ -1,0 +1,21 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T19:10:32Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 18394716, "source_ctime_ns": 1793357746336258852, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1633-559606-0005.tif", "source_mtime_ns": 1785564965000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1633-559606-0005.tif", "source_sha256": "8db029dee0410b44d137f4d560e0afc4b5939c180a5a6c23cdb444349faeae8d"}
+
+===== PAGE 1 =====
+{"alpha_words": 35, "chars": 289, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+list Ind
+
+, hart - wha +. Did & ~ »— 7 ’ io oe —" ‘a “
+1 AMC, Wright-Patterson Air Force Base, Ohio LO Jul 53
+
+7.
+
+Director of Intelligence,
+
+Waa trrsnwhowe THEM BW ok 4 vs 0d ine &
+Headquarters USAF, Washington 2>, Ds Ge
+
+M.M.0,
+
+Form 112 w/13 incl
+
+Declassification Authority: NND 57565
