@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T10:20:56Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 12603072, "source_ctime_ns": 1793358873293144962, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-060-0004.tif", "source_mtime_ns": 1785681246000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-060-0004.tif", "source_sha256": "44ca8edf3b75152561b59879b41ca318036f88c395d2fd8b5787a3d46fce3746"}
+
+===== PAGE 1 =====
+{"alpha_words": 165, "chars": 1152, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+Enclosure
+(1)
+COPY
+10 October 1955
+From:
+To :
+Supply Department
+Executive Officer, U. S. Naval Ammunition Depot, Crane, Ind.
+Subj: Unidentified flying object; report of
+1. At approximately 1638 on the afternoon of 8 October 1955, from a
+point of observation approximately one mile north of Loogootee, Indiana,
+I observed an unidentified flying object, apparently round in design,
+and silver or white in color, passing overhead.
+2. This object was traveling in an cast-south-easterly direction,
+at an estimated altitudo of 5000 feet, and at a specd estimated to be
+"in oxcess of 1000 miles per hour." This object which left no visible
+trail nor made any audible sound was
+was onserved for approximately ten to
+fifteen seconds by myself and Mr.
+Loogootee, Indiana.
+The day was extromely clear, the sun shining brightly, the sky 100%
+cloudless, visibility and ceiling unlimited. There was no surface wind.
+4. I have obsorved, during my tine in service, both piston engine and
+jet aircraft under normal and combat conditions. This object was
+definitely not an airplane of any type that I have ever seen.
+Enclosure (1)

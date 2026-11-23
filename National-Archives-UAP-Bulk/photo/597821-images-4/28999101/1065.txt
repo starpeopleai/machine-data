@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T10:46:32Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9298550, "source_ctime_ns": 1793387756671692549, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28999101/1065.jpg", "source_mtime_ns": 1785748493000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28999101/1065.jpg", "source_sha256": "ac616347ef1cea772578206a50a4de226b482eb6074924bea5d6b0e0eec8739b"}
+
+===== PAGE 1 =====
+{"alpha_words": 43, "chars": 196, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ees ta ead
+
+bie at)
+
+«oF
+
+Poe eg woah’: a
+
+aot
+oe
+
+-
+
+e n
+ng halla
+
+ee
+
+wok
+
+yo
+
+ip ie tance amend laa Statin er
+
+ie stn il sa Ai att enc
+me ae ne es
+
+ee
+
+ie name a amen Sc teal
+
+Pe
+
+a etn anata

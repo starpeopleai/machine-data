@@ -1,0 +1,80 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T10:47:29Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9444161, "source_ctime_ns": 1793385674457921545, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28993884/0352.jpg", "source_mtime_ns": 1785747826000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28993884/0352.jpg", "source_sha256": "878f7281a166e3159c37c389af33f19d1f46e38143deb394776e5d0b476f37fb"}
+
+===== PAGE 1 =====
+{"alpha_words": 230, "chars": 1437, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Force UFO form continued
+Page 3
+tirect-
+Page 4
+ow much of the
+g, how much of
+20. Do you think you can
+sed of the object?
+(Circle One)
+Yes
+No
+If you answered YEs. then what speed would you estimate? ABout 47, cOL) p7. P.M.
+21. Do you think you can
+(Circle One)
+IF you answered YES, then t
+ow far away would you say it was? _
+22. Where were you located when you
+(Circie One):
+aw the object?
+23. Were you (Circle One)
+a. Inside a building
+In a car
+e Surdoon
+n an airplane (type)
+A SCO
+f. Other
+a. In the business section of a city?
+«5: In the residential sestion of a city?
+c. In open countryside?
+d. Near an airfield?
+e. Flying over a city:
+f. Flying over open country?
+g. Other
+24. IF you
+re MOVING IN AN AUTOMOBILE or other v
+ehicle 1t the time, then complete the following questions:
+24.1 What dir
+e you moving? (Circle One)
+a. North
+c. East
+e. South
+b. Northeast
+d. Southeast
+f. Southwest
+g. West
+h. Northwest
+24.2 How fast v
+you moving? _
+-miles per hour
+243 Did you stop or any rime will you were looking at the objer? A/ONe
+(Circle One)
+tails of the object
+eside the drawing
+25. Did you observe the object through any of the following?
+a. Eyeglasses
+Yes
+No
+5. Sun glasses
+Yes
+No
+c. Windshield
+Yes
+No
+d. Window glass
+Yes
+No
+f. Telescope
+g. Theodolite
+h. Other
+Yes
+Yes
+No
+No
+No
+26. In order that you can give as clear a picture as possible of what you saw, describe in your own words a common object or ob-
+Lifeunt directions, then a

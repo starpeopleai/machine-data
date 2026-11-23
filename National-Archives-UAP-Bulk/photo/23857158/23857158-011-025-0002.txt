@@ -1,0 +1,70 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T10:58:30Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 20209604, "source_ctime_ns": 1793359895906704367, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-011-025-0002.tif", "source_mtime_ns": 1785681558000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-011-025-0002.tif", "source_sha256": "be658ac5a20664b471e6175112a0ffe375216b8f67168130b2d7c879c02e5441"}
+
+===== PAGE 1 =====
+{"alpha_words": 163, "chars": 1277, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+TiME lead! 0rg0
+2 JAn 56ą
+See atchel se sun mag
+I ENAZ
+ENA021 YMA013FJA016
+•ITDAUUDGYEDBZ RPE S
+DATE-TIME GROUP COIN
+8020 AISS UFOB PEP Q/217 TONSE
+Battle Creek, Mich
+BBP HHSWAYAYF
+9 5012,:;
+MOMLH : ?5 FI QZSC FORT MXJ
+PNGLMICH
+RO
+TrIst CFW SQ Er Custer, Mich
+CODENACEMERHADC: END AFB
+RJEDBW/COMDR 30TH ADIV WILLOW RUN AFS BELLEVILLE MICH
+RJEDWP/COMDR AIR TECHICAL INTELLIGENCE CENTER WRIGHT PATTERSON
+АРЗ ОНІО
+RJEPHQ/DIRECTOR OF INTELLIGENCE HQ USAF WASHINGTON 25 DC
+INFO RJEPNB/COMDR EADF STEWART AFB N Y
+BI
+/UNCLASSIFIED/OPS 01-029 PD /UFOB/ IAW AFR 200-2 DTD 12 AUG
+54 CMA THE FOLLOWING UFOB IS SMITTED PD
+1 A ROUND
+2 AREDDISH WHITE GLOW
+B SILVER DOLLAR
+B ELEVATION 40 DEGREES AZIMUTH 150 DEGREES
+C REDDISH WHITE
+C UNKNOWN
+D ONE (1)
+D STRAIGHT LINE
+E. NONE
+E UNKNOWN
+F
+NONE
+F TWENTY (20) MINUTES
+NONE
+NONE
+I MONE
+3 A GROUND VISUAL
+7 C CLEAR
+8 BINOCULARS
+D 15 PLUS
+C.N/A
+E NONE
+4 A 09/0215Z JAN 56ł
+F NONE
+5 NIGHT
+8 NONE
+AJALAS H GRAFF 9 NONE
+AGE 44
+10 ABATHEDTIMREE (3) A/C IN THE AREA FLYING EAST
+72 BAITINGHAIENNAICH
+ELBRA
+11 SEND ANGER OLE USAF
+TBASOREAZE NW 10
+OMMENT
+12 NONE
+6088 FT 010 DEGREES 3 KTS
+10000 FT 010 DEGREES 3 KTS
+26000 F1 010 DEGREES 4 KTS
+8 CCC LINE 24 GREGREESHOD READ B N/A REPT B N/A
+09/07097 JAN REDEJ
+BRODGER

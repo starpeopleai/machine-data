@@ -1,0 +1,23 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T10:30:39Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8248206, "source_ctime_ns": 1793385504279469412, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28993512/0027.jpg", "source_mtime_ns": 1785748239000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28993512/0027.jpg", "source_sha256": "04696ea9b5b0b9c7b559155a6e416b9a2ca40c99e2e4563cba8e88b12c486dbb"}
+
+===== PAGE 1 =====
+{"alpha_words": 95, "chars": 616, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Каг
+3 August 1961
+Dear Mr!
+Your note to Pregident Kennedy of July 12th was referred
+to this office.
+Although the Air Force does investigate all reported
+sightinga of unidentified flying objects, it la our beliei
+that thia particular article from the SACRAMENTO UNION way
+published for ita huzorous aspects.
+The attached fact sheet, Air Force UPO Report!, will
+give you an idea of Air Force findings resulting fron analysis
+of UrO sightings. I hope it will be of interest to you.
+Sincerely,
+WILLIAM T. COLEMAN, JR.
+tajor, USA
+UFO Project Ofticer
+Public Information Division
+Office of Information
+Vacaville, califorma

@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T10:55:36Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 21594664, "source_ctime_ns": 1793358652472725449, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-012-0003.tif", "source_mtime_ns": 1785681161000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-012-0003.tif", "source_sha256": "e05c00b1a2909352725a50bb4bf4b5a28df522b4ebaefdfa7e5ea4936151bc06"}
+
+===== PAGE 1 =====
+{"alpha_words": 168, "chars": 1183, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+OPS
+17/2022 г
+по 206
+P XYIRPPPPPPPPEP
+XYD010 XD3034JBA934JBD019
+RJEDEN RJEDWP RJEPHO AF
+E RJWPJ3 2D
+1416002
+COC 672TH ACWRON SPEDRO CALIF
+CO RJWPJ3/COC 27TH AD DEF NORTON AKB CALIF
+JEDEN/CONDR ADS ENT AFB COLO
+JEDWP/COMDR AIR TEC INT CEN WRIGHT PATTERSON AFB OHIO
+JEPHQ/COMDR DIR OF INT HQ USAF WASHINGTON 25,D C
+/U N C L A S S I FI E D/UFOB 670TAC C219 PDNN ACCORD WITH AFR 280-2
+AR 7D CMA REPT OF UNID FLY OBJ THE FOLG IS SUBM CLN
+: A. POUNDAB. DIME C. RED WHITE D. ONE E. N/A F. NONE G. SMALL TRATI
+NONE I. NONE
+• A. HEARD PLANE B. FOUR FIVE DEGREES AT TWO SEVEN ZERO C. SAME AS
+D. STRAIGHT LINE E.
+BEHIND CLOUD F. THREE ZERO SECONDS
+GRND VISUAL B. NONA C. N/A 4. A. 10 D700 CULU B. NIGHI72.TA.
+L1731V B CHARLEY EASY 2901 C. GLEN WRON
+• CMA AGE SIX CMA
+LEN ARON CHA CALIF CMA STUDENE PD B. N/A
+A. CLEAR AND BROKEN 8. 06 ANGELS CALM 10 ANGELS 210 DEGREES AI
+PAGE TWO RJWPJB 2D
+13 KNOTS 30 ANGELS 260; -5 30 KNTS C. 1,000 BKN D. 10 MILES E. 8/12
+N/A
+. A. NONE 9. A. NONE 10.MA. NONE VISIBLE 11. A. CAUSE OF SIGHTING UNK
+MA 1ST LI DONALD K. PETERSON INT OFF USAF 12. NONE
+BT
+14/17.55Z .NOV. RJWPJ3
+THAT WORD IN THE RIR
+HAT WORD IN THE FOIRST WO

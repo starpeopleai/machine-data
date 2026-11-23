@@ -1,0 +1,15 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T10:34:11Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8894849, "source_ctime_ns": 1793383278010108980, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28986634/0371.jpg", "source_mtime_ns": 1785748542000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28986634/0371.jpg", "source_sha256": "6fec14feeb307c530ed4ddcd8e0f892440ea8c4117c26017425c0f208e56ac96"}
+
+===== PAGE 1 =====
+{"alpha_words": 86, "chars": 540, "method": "ocr", "page": 1, "variant": "plain-vision"}
+INENTIFICATION COULD BE A REENTRY OF AN EARTH SATTETITE. AN AIR
+FORCE CAPTAIN WHO WAS PASSING THRU THE CANNON AFB AREA REPORTEN TO
+THE AIRDROME OFFICER THIS INFORMATION. QUOTE: I SAW A BURNING
+OBJECT FALLING OUT OF THE SKY. IT WAS BREAKING UP AND I COULD SEE
+PIECES FALLING APART. I BELIEVE IT TO BE A REENTRY VEHICLE. THE
+TIME WAS 17/22032 APR SO. UNQUOTE: HE IS CAPTAIN WILLIAM N. MASON,
+WHOSE DUTY ADDRESS IS 77STH AC&W SQUADRON, OPHEIM, MONTANA AND HE
+CAN BE REACHED AT HIS LEAVE ANDRESS AI
+CALIFORNIA. (L) NONE.
+БТ
+13/2328Z APR RJWFBH

@@ -1,0 +1,44 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T10:32:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8533988, "source_ctime_ns": 1793362727272107107, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330783376/45484701-003-004-0269.jpg", "source_mtime_ns": 1785685019000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330783376/45484701-003-004-0269.jpg", "source_sha256": "a6d0177868379e3205cdce364a52c61934a92c9cb3358328f80838bad2c6f9a5"}
+
+===== PAGE 1 =====
+{"alpha_words": 147, "chars": 1128, "method": "ocr", "page": 1, "variant": "plain-vision"}
+SECURITY INFORMATION
+MR
+(Restricted) Lab
+Un
+Analysis of
+oil Samples Having Possible Relation to
+dentified Fling Objects
+Counter Intelligence Division
+Directorate of Special Investigations, The IG
+Topical Division
+OCT 3 1952
+Maj Fournet/dbv/75990
+Deputy Director for Estimates, D/I, DOS/O
+1. Referene: our R&R dated 5 September 1952, same subject as above. Recent
+developments have prompted the attachment of increased importance to these samples.
+Specifically, a deposit seeming to have the same general characteristics and also
+related to a flying object incident has been reported from Flat Woods, West Virginia.
+2. in view of this possible relationship and the necessity for a prompt analysis
+of these two incidents, it is requested that utmost priority be given to the lab
+analysis of subject samples.
+WILLIAM A. ADANS
+Colonel, USAF
+Chief, Topical Division
+Deputy Director for Estimates
+Directorate of Intelligence, DCS/O
+CLASSIFICATION CANC
+BY AUTHORITY OF
+KURT K. KUNZE, Capt, USAF
+BY Historian
+8 DEC 1975
+04/09|00
+243185 382
+R FORC
+ENERAL
+Ост
+1 4 30 5ÍŘš
+SPE
+TORMATION
+UNCLASSIFIED
+Declassification Authority: NND 923007

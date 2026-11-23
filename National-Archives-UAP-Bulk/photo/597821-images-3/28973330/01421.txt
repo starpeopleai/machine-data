@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T10:31:30Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8352232, "source_ctime_ns": 1793379749276220357, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28973330/01421.jpg", "source_mtime_ns": 1785700816000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28973330/01421.jpg", "source_sha256": "bbce3b3f314e9dad0da674000ccf5d54ebba0b959585be1512f94bb3c5640ce6"}
+
+===== PAGE 1 =====
+{"alpha_words": 51, "chars": 368, "method": "ocr", "page": 1, "variant": "plain-vision"}
+I. MONE
+F. NONE
+(8) NONE
+(9) NONE
+(10 ) NONEÙ
+(11) T/SGT DAVID F SOSEBEE AF14186943
+(12) NONE
+(13) 1/LT
+PAO221171Z DIRECTOR ON DUTY
+632 OPNS CERTIFIES THAT THIŞ
+REPORT IS SIMILAR
+IN NATURE
+632 OPNS 11-10. TI
+ES OF SIGHTINGS
+CORRELATE AND CHARACTERISTICS OF THE OBJECTS ARE
+SIMILAR
+07/07452 NOV RJEPJM
+pad tele
+Moved very Showedy
+segspent to pontont
+that The
+-ULL MO0N

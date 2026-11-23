@@ -1,0 +1,178 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T10:21:28Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 12772914, "source_ctime_ns": 1793354444707713426, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989207-001-0077.jpg", "source_mtime_ns": 1785564285000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989207-001-0077.jpg", "source_sha256": "fb488eb558165b74f0f88d097a2a4d4d4a0f0ecfc08831d17ede18c095dbeff9"}
+
+===== PAGE 1 =====
+{"alpha_words": 957, "chars": 6444, "method": "ocr", "page": 1, "variant": "plain-vision"}
+OPTICAL AND INFRARED PHYSICS
+Air Force sensors must be able to
+distinguish targets from all other
+sources of radiation in the environ-
+ment. These include the bright back-
+ground radiance of the earth, its atmos-
+phere, the stars, diffuse celestial back-
+grounds, the aurora, and any man-
+made radiation present in the atmos-
+phere. System designers must also know
+the transmission properties of the
+earth's atmosphere over the ultraviolet,
+visible, infrared, and microwave wave-
+lengths under normal and disturbed
+conditions.
+In addition, the Air Force must be
+able to propagate laser beams through
+the atmosphere for communications,
+ranging, and as directed energy weap-
+ons. Atmospheric effects on laser prop-
+agation in the ultraviolet to infrared
+wavelengths include molecular 4 par-
+ticulate absorption and scattering, tur-
+bulence distortion, thermal blooming
+(beam spreading due to laser heat), and
+pointing errors. When given the atmos-
+pheric conditions, system des gners can
+avoid, or minimize, some of these ef-
+fects by proper wavelength choices or
+by designing corrective optical systems.
+Aircraft, surface vehicles, missiles,
+and space objects emit heat, or infrared
+energy, so-called because it lies just
+yond the red end of the visible spec-
+trum. Infrared radiators can be identi-
+fied by their unique signatures and
+tracked by super-cooled, or cryogenic,
+infrared detectors. Before efficient de-
+tectors for missile early warning sys-
+tems can be designed, however, our pre-
+sent knowledge must be extended to
+find out how the natural background
+radiation varies with altitude, solar ac-
+tivity, latitude, the seasons, and the
+time of day. The effects of auroral and
+nuclear disturbances must also be es-
+tablished.
+Programs in optical and infrared
+physics at the Air Force Geophysics
+Laboratory provide this information to
+the Air Force and other agencies of the
+Department of Defense. These pro-
+grams include laboratory studies, field
+measurements, and the development of
+computer-based codes to characterize
+infrared atmospheric radiance, atmos-
+pheric transmission, scattering, tur-
+bulence, airglow, the aurora, and radi-
+ation from other sources.
+The laboratory experiments,
+through the use of cryogenic vacuum
+chambers, provide data on the chemical
+reactions of the upper atmosphere
+which produce infrared radiation. Mol-
+ecules are measured in the laboratory
+by spectrometers with extremely high
+resolution to obtain line structure and
+absorption coefficients. These data
+supplement the field measurement data
+TO. S. AIR FORCE
+and supply information for the com-
+«break-through" technologies and
+puter-based codes.
+testing. Future programs include the
+The AFGL atmospheric transmis-
+implementation of stabilized, high sen-
+sion codes have been adopted as stand-
+s. vity, cryogenically cooled telescopes
+ards by the Department of Defense and
+with advanced detector arrays for lo-
+by the International Radiation Com-
+cating dim targets at long ranges. To
+mission. AFGL maintains and updates
+characterize ground-based laser sites,
+these codes for all three armed services.
+both optical remote sensing and bal-
+The Low Resolution Transmission code
+loon-borne measurements of optical
+(LOWTRAN) provides a simple, rapid
+turbulence are made from the surface
+means of predicting atmospheric ef-
+to altitudes of thirty kilometers. AFGL
+fects (spectrally) on broadband infra-
+is thus extending the capability of
+able to suppress strong background ra-
+red radiation. The High Spectral future Air Force surveillance, detec-
+diation, and to detect less intense
+Resolution model (FASCODE) is ap-
+tion, and tracking systems for missions
+targets such as cruise missiles.
+plicable to laser propagation and
+into the 1990s.
+Sensors with telescopes cooled by
+remote sensing. Computer codes are
+The Laboratory has developed a liquid helium are flown on sounding
+also being developed to characterize at-
+number of lidars (laser radars) to mea-
+rockets to measure the infrared emis-
+mospheric radiance, auroral activity,
+sure the properties of the atmosphere.
+sion of stars and large clouds of gas and
+and the airglow at the earth's horizon.
+Laser signals are scattered by the dust,
+dust in the galaxy, and the thermal
+A wide variety of field measure-
+aerosols, and molecules in the atmos-
+emission from dust in the solar system.
+ments, ranging from space experiments
+phere. Some of this scattered laser light
+Sophisticated measurement and com
+to ground-based observations, are con-
+will be detected by a receiver, where it
+puter processing techniques are being
+ducted by the Laboratory. The effect of
+can be anal zed to find the properties
+developed to analyze these and other
+variable conditions of fog, haze, snow,
+of the atmosphere at various altitudes.
+and rain on transmissions through the
+Both ground based and airborne lidars
+data.
+Through the combined investiga-
+atmosphere near the ground are mea-
+are being tested. Lidars are also being
+tions of theory, laboratory, and field
+sured with a mobile laboratory equip-
+developed to measure atmospheric
+measurements, comprehensive data
+ped for this task. A flying infrared lab-
+winds and wind shear. In addition, the
+characteristic of the wide variations
+oratory, a highly modified NKC-135 air-
+Laboratory is managing the design of
+over the globe and extending to space
+craft, has been instrumented to obtain
+the first lidar to fly on a Defense Mete-
+are being accumulated. This techno-
+signatures of aircraft and ground tar-
+orological Satellite Program vehicle.
+logy base will provide the Air Force the *
+gets, and to provide data validation to
+A sophisticated infrared instru-
+basic information required to design,
+support new airborne and space-based
+ment called CIRRIS, a helium-cooled
+construct, and install the new genera-
+systems being developed. High-
+reflecting telescope containing a Mich-
+tion of tactical and strategic optical and
+resolution spectral measurements can
+elson interferometer, has been devel-
+infrared systems.
+be made aboard the aircraft with wide
+oped to obtain measurements of the au-
+field-of-view Michelson interferom-
+rora and the airglow from the space
+eters and high-resolution spatial mea-
+shuttle. Advanced sensors are also
+surements with advanced two-dimen-
+being developed for use on high-alti-
+sional cryogenic mosaic arrays. The air-
+tude balloons and sounding rockets.
+borne platform acts as a test bed for
+They include "smart" features to be

@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T10:28:08Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7362155, "source_ctime_ns": 1793361639398003228, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330781006/45484701-001-001-0086.jpg", "source_mtime_ns": 1785684843000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330781006/45484701-001-001-0086.jpg", "source_sha256": "cc9803d79070fcaa6bd5b4b507db3ef924404e18ea5defe75d49ae6783ecb2bd"}
+
+===== PAGE 1 =====
+{"alpha_words": 184, "chars": 1155, "method": "ocr", "page": 1, "variant": "plain-vision"}
+19D OSI 24-12
+Liko, Nevada
+8 June 1949
+At approximately two A.M. on the morning of May 29, 1949, while attending
+to routine duties in the freight yard of the Western Pacific Railroad Company
+in Elko, I noticed five amber colored lights approximately five miles distant
+and at an altitude of 1000 feet.
+The lights were in a vee formation about 150
+feet apart and heading West at a speed of over 500 miles per hour. I could
+hear no sound and there were no visible signs of exhaust.
+The lights were
+steady, giving the appearance of being seen through a window, rather than that
+of a ray or beam.
+When they disappeared it was as if an obstruction or
+projection on an aircraft had come into my line of vision.
+I do not know how long the lights were within my sight or the distance
+they covered during that period.
+I could not distinguish any outline around
+them and do not know whether they came from one very large aircraft or five
+smaller ones flying in formation.
+The foregoing statement is true to the best of my knowledge and recollection.
+/s/ RUSSELL B. HENRICH
+WITNESS: THOMAS J. SCANLAN
+WITNESS: CLYDE M. EDWARDS
+Declassification Authority: NND 923007

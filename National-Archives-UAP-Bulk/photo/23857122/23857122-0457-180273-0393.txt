@@ -1,0 +1,51 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T10:44:12Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 20169240, "source_ctime_ns": 1793356770010003672, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0393.tif", "source_mtime_ns": 1785564755000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0393.tif", "source_sha256": "20cbc2e3bfa793d37656fe20670f51a9af3eba35deff5e21bd6afd00d7a77087"}
+
+===== PAGE 1 =====
+{"alpha_words": 429, "chars": 2724, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Ltr, ERH, to CG, AMC, Subj: Analysis of Proj. "Grudge" Reported Incidents
+The description of incident No. 40 is inconsistent with the appearance
+of balloon flight No. ll. Also, in consideratior of the prevailing
+upper winds, it is very unlikely that the balloons would have gone more
+than a few miles westward of Alamogordo, although it must be admitted
+that a long flight west of the launching point could not be ruled out
+as impossible.
+Incident No. 47 compares somewhat in time with balloon
+Launching No. 10 of 5 July 1947. However, balloon No. 10 although not
+recovored was known to have been downed northeast of Albuquerque, New
+Mexico. It was not recovered due to impassability of terrain.
+Incident
+No. l13 is a reasonable description of the 20 ft. plastic balloon and
+instruments used by these Laboratories. This incident was on the date
+of balloon release No. 46 of 9 April 1948 at Alamogordo. However, the
+time of the reported incident (1506 CST) is about 1/2 hour before the
+time of balloon release (1432 MST), thus the incident could not have
+been that balloon.
+de
+It is of interest to note that incident No. 122 was report-
+ed by an employee of these Laboratories who had considerable experience
+in the use of balloons of all kinds, and could have been depended upon
+to know the appearance and behavior of a balloon if it was this he saw.
+Incident No. 163 bears a fair description of the appearance
+of a large plastic balloon in sunset light. The object's disappearance
+could be accounted for either by its movement into the earth's sunset
+shadow or by natural defocusing of the observer's eyes. This incident
+could possibly have been balloon release No. 75 or No. 76 or 20 and 21
+July 48 from Alamogordo. Balloon No. 75 was recovered at Holllster,
+alifornia, which is in the Monterey Bay area, on 22 July 1948 and could
+have easily had a trajectory which wouid have been within sight of the
+Los Angeles area.
+Balloon No. 76 was never recovered. It is possible
+that it had a trajectory similar to No. 75.
+All other reported incidents from 1 to 172 do not seem to
+have reasonable comparison with balloons laurched by these Laboratories.
+3. The balloons used by these Laboratories are now somewhat
+standardized. They are 20 feet long, plastic, white in color, and
+hem sphere-on-cone in shape. Nearly all launchings are made at the
+Holloman AFB at Alamogordo, New Mexico. Two photograph prints are in-
+closed showing the appearance and size of these balloons. The larger
+photograph shows the typical flight appearance at any altitudes where
+it would be visible. It is hoped that this information may be of some
+use to you in identifying future reports of incidents.
+2
+S- 34560
+Declassification Authority: NND 57565

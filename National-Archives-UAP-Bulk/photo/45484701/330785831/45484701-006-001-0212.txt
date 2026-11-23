@@ -1,0 +1,57 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T10:35:07Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9781383, "source_ctime_ns": 1793363767196437623, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785831/45484701-006-001-0212.jpg", "source_mtime_ns": 1785684869000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785831/45484701-006-001-0212.jpg", "source_sha256": "cd4ecaef82bdd45319212e26012de6d6100d55e9aebd2452a5f752a0b5f8e8e2"}
+
+===== PAGE 1 =====
+{"alpha_words": 282, "chars": 1957, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AL
+HEADQUARTERS UNITED STATES AIR FORCE
+THE INSPECTOR GENERAL
+OFFICE OF SPECIAL INVESTIGATIONS
+WASHINGTON 25, D. C.
+15 February 1950
+MEMORANDUM FOR: Major Richard G. Cox
+SUBJECT: Unconventional Aircraft (Plyup Sauces fro
+SPECIAL INQUIRY
+to opit Venus come
+1.
+On 14 February 1950 the bartender at the "Covered Wagon",
+a restaurant and bar located at 14th Street and Rhode Island Avenue,
+N.W., Washington, D. C.,
+supplied the following information regarding
+"Unconventional Aircraft":
+2.
+One Mr. Don Davis, a frequent visitor to the Covered Wagon,
+gave an account of a so-called "Flying Disc." Davis stated in substance
+that recently a "Flying Disc" had developed trouble while flying over
+Utah and was forced to land. Davis further indicated that the inhabitants
+were small pigmy type individuals, wearing clothes of pecullar texture,
+styled similar to that which existed during the 18th century.
+Davis
+further proclaimed that the aircraft contained two or three metals unknown
+to scientists on earth, and that the metal was of such construction that
+it needed no lubricants. Further explaining the pigmy individuals, Davis
+stated that Army officials were keeping them alive in a pressurized roon
+in Utah. Also Davis indicated the Army was keeping the incident quiet
+for a few months, but that Donald Keyhoe, author of a recent article ir
+True Magazine, was aware of the incident and would publish the informatior
+in the July issue of "True Magazine."
+2.
+According to the bartender Davis is a lawyer and works for the
+Department of Labor. Davis claims to be friendly with Keyhoe, whose
+residence is in Alexandria, Virginia. No other pertinent information is
+available concerning Davis.
+ReaP Can Passor
+CLASSIFICATION CANCELLED 26 2OM &
+AN FOSSON
+BY AUTHORITY OF THE DIRECTOR OF SPEC HSpecial Agent, USAF
+KURT K. KUNZE, Capt, USAF
+BY
+Historian
+4 DEC 1975
+DATE
+125-1
+USAF
+IG
+OFFICE OF
+SPECIAL INVESTIGATIONS
+UNCLASSIFIED
+Declassification Authority: NND 923007

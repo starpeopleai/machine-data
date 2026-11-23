@@ -1,0 +1,11 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T10:56:02Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 22827314, "source_ctime_ns": 1793359222536257994, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-006-055-0005.tif", "source_mtime_ns": 1785681348000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-006-055-0005.tif", "source_sha256": "0854148f59d299c26c5a47831df4b5d5aec1f0daca4b4cebf3f8f1e575ceab1c"}
+
+===== PAGE 1 =====
+{"alpha_words": 18, "chars": 155, "method": "ocr", "page": 1, "variant": "clean-vision"}
+Declassification Authority NND 923007
+DESSE
+AIR INTELLIGENCE INFORMATION REPORT
+PART ON
+CA. 224, 46028, A1S9
+2.9:0 tart 0.
+SALICH OF UNDEN IPIED ORIES BED

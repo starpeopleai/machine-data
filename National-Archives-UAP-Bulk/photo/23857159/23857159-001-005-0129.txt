@@ -1,0 +1,17 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T10:42:40Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 17079546, "source_ctime_ns": 1793361434018145830, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-005-0129.tif", "source_mtime_ns": 1785565337000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-005-0129.tif", "source_sha256": "bfe16b2e6c5df10f02b42b3ad09f1b5a006ecc9502c7f91d21b6d1fa7f12e30b"}
+
+===== PAGE 1 =====
+{"alpha_words": 13, "chars": 140, "method": "ocr", "page": 1, "variant": "clean-vision"}
+008 994
+341 - 6781-9979
+2156:797
+TAST
+(TRAN)
+STANDINO
+SIA0 A 00 SOTERI30
+1190
+SEGNA
+- Oder SI YAM
+BRASER
+DECLASSIFIED
+Authority NND 9237007

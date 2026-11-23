@@ -1,0 +1,48 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T10:42:21Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 16068197, "source_ctime_ns": 1793355782315576593, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0226.jpg", "source_mtime_ns": 1785564522000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0226.jpg", "source_sha256": "883e7d95f3ecbc6a0321dc925c1ee41df68fbd860babec6eb27a7ef5b921e0fd"}
+
+===== PAGE 1 =====
+{"alpha_words": 427, "chars": 2823, "method": "ocr", "page": 1, "variant": "plain-vision"}
+440
+During terminal descent of the fully inflated cold balloon, some slight dimples
+and indentations were observed similar to those in the model tests. Also, some
+slow, damped rotation occurred. However, in general, these motions were judged to
+be so moderate as not to warrant the application of a mechanical "fix" to the large
+balloon. An average drag coefficient of about 0.5 based on the horizontal cross-
+sectional area of the balloon was observed for this mode. This was considerably
+higher than had been previously estimated.
+441
+During this program no factors were encountered which would be expected
+to hamper the reasonable extension of system capabilities with regard to
+balloon size and the severity of deployment-event conditions or to prevent the
+orderly development of a practical system.
+5. CONCLUSIONS
+The principal objective of these studies was achieved. Namely, the basic
+feasibility of the concept of aerially deploying and inflating PARAVULCOON
+envelopes has been experimentally demonstrated in both wind-tunnel model tests
+of 6-foot diameter models and free-flight tests of 54-foot-diameter balloons with a
+1,000-pound simulated payload.
+The following general conclusions have been drawn from this study:
+Deployment of the envelope by streaming it out of a deployment package
+was found to be simple, practical, and reliable in both the model and full-scale
+systems at velocities up to 204 fps and dynamic pressures up to 29 psf.
+How-
+ever, for dynamic pressures above 10 psf the PARAVULCOON envelope throat
+must be reefed until the envelope is fully extended.
+The inflation of the PARAVULCOON envelope by ingestion of air through
+the throat opening in its base is feasible. The time and distance required for
+inflation is consistent and repeatable. Since this time is relatively long due to
+the tendency of the balloon throat to close off a large percentage of the time, a
+more practical system can be attained by providing a positive control of infla-
+tion. This will reduce the time required for inflation and thus reduce the
+severity and duration of the envelope motions and the accompanying stresses in
+the balloon fabric during the inflation period.
+Although a terminal instability problem was encountered with the small
+models, the full-scale system was found to be completely stable during the
+development and inflation phases of its activation sequence. During the cold-
+descent phase, the slow rotations observed did not present any problems.
+An average system drag coefficient of about 0.5 was found for the
+equilibrium cold descent of the system. Almost as large a value was observed
+during most of the inflation phase.
+Once deployment has been accomplished, the inflation phase and thus the
+remainder of the activation sequence are relatively independent of the deploy-
+ment environment.

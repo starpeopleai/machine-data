@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T10:58:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 24828204, "source_ctime_ns": 1793356834392456286, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-0985-434443-0009.tif", "source_mtime_ns": 1785564771000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-0985-434443-0009.tif", "source_sha256": "6ce4b47f73cb065b1918efd56974150116a5ae4da7fb13f31ffdc31c1c446383"}
+
+===== PAGE 1 =====
+{"alpha_words": 188, "chars": 1157, "method": "ocr", "page": 1, "variant": "plain-vision"}
+REPORT
+• OF
+"FLYING SAUCERi
+At approximately 2050 hours on 2 April 1952, It. Robert Baldwin of
+the 727th AC& Squadron telephoned the Chief Duty Controller at Exceed
+'that he had Just seen a #flying saucer". It. Baldwin was inspecting the
+guard at an entrance to the area when he saw an object appear from a
+southwesterly direction and pass overhead continuing for some ten (10)
+seconds to the ME at which time it disappeared below the horizon.
+In It. Baldwin's opinion, at no time did the object leave a trail
+such as a meteor gives off. Approximately half way along it's path it
+appeared to add speed, which was evidenced by an increase in the trail
+of fire, lasting approximately three (3) or four (4) seconds, then re.
+verting
+to a slight slow.
+In his estimation the speed of the object was between 1000/1200 mph.
+Immediately after the passage of the object, it was possible to hear it.
+The sound was the same as given off by a jet aircraft at high altitude
+and speed, The object was witnessed by It. Baldwin, Set, Carey and Pfc.
+Barnett.
+Oscar Elushing
+OSCAR E, RUSHING
+lst It., USAF
+Chief Duty Gontroller
+AF434443
+Declassification Authority: NND 57565

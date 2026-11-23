@@ -1,0 +1,59 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T10:35:35Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10012306, "source_ctime_ns": 1793365217111789851, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330788488/45484701-008-001-0069.jpg", "source_mtime_ns": 1785684667000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330788488/45484701-008-001-0069.jpg", "source_sha256": "7c8095e78cfc3a72bdb9f187489da78fb178b30f3b00a5c65efb4abc1632e9a6"}
+
+===== PAGE 1 =====
+{"alpha_words": 464, "chars": 2880, "method": "ocr", "page": 1, "variant": "plain-vision"}
+COmI
+ORAHAL
+CONFIDENTIAL
+AAC 2D OSI 24-52
+occasional mutual inductance line on the seope, but it would
+appear at different positions in azimuth and for only one
+sweep. I attributed this to a possible malfunction of the set
+and ignored it, as I have previously seen this line before on
+Air interceptions to another F-94A with the same type radar,
+thinking it might be caused by my own set.
+The original statement is on file at this office.
+On 22 Jan 52, lst It. CLIFFORD E. GARRETT, AO-2095387, 449th
+Fighter Interceptor Squadron, Ladd AFB, was interviewed and stated the
+following:
+At 10252, 22 January 1952, 1, Ist It. Clifford E. Garrett,
+Pilot of F-94A 492527A, on two minute alert, was scrambled on an
+unidentified target that was traveling at a very high rate of speed.
+We were airborne at about 1030Z. I called ADCC immediately on the
+GCI VHF channel and was ordered to call Crane and fly to Point "J"
+which is 45K from Ladd on a heading of 2150M. Crane came in and
+advised the same thing and we went "Gate" to 20,000 feet to "J".
+As we neared '&, Crane had another plot and vectored us southward
+to try and intercept it.
+The target faded and we were ordered back
+to "J", at 30,000 feet, and saunter. As we neared "J", the Radar
+Observer had an indication of a target at about 40° to the starboard.
+Ny heading was approximately 350° at the time. I had an indication
+of lock on but the Set broke lock at apparently maximum deflection
+starboard. Later I learned that the RO had attempted lock on and
+must have succeeded momentarily, because he immedistely went on
+hand control in an effort to stay on the target.
+I started a port
+turn to go back around when Crane vectored us to the starboard. No
+other plot was picked up by Crane and we patrolled up and dow the
+that we would fly back toward Ladd on a heading of 0400 and we would be
+released to pancake when near Ladd. Approximately 10 miles soutn oi
+"J", the Radar Observer picked up a target at 24,000 yards, 10° low,
+and about dead ahead.
+The "R. O. definitely determined that it was
+a target. I was still at 30,000 feet and "Saunter" indicating about
+170K air speed. I pushed over into a slight dive and centered the
+error cirele and dot. My range cirele indicated an overtaking speed
+of at least one hundred knots.
+I dropped dive brakes and throttled
+back slightly from the 84% I was carrying. Range at this time was
+between 13,000 and 10,000 yards. I kept the target centered all the
+way down.
+At 2,000 yards range my range circle started decreasing
+rapidly and I was still indicating over 100 knot overtaking. At 800
+than so tor. I pulled up slightly and the target moved to not more
+The range was decreasing so rapidly that I didn't have
+the time to do anything other than reflex which caused me to pull up.
+The set broke lock with the target indicating 50 low. My indicated
+5
+Declassification Authority: NND 923007

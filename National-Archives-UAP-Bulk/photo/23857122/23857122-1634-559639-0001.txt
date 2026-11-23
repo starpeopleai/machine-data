@@ -1,0 +1,56 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T10:23:26Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 22581268, "source_ctime_ns": 1793357758110251072, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1634-559639-0001.tif", "source_mtime_ns": 1785564967000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1634-559639-0001.tif", "source_sha256": "4298fb6ad35df2be77e06c1447ae90001a18566c34b62f29974a81f41b5ae60f"}
+
+===== PAGE 1 =====
+{"alpha_words": 266, "chars": 1893, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AF FORM 112-PART.
+PPROVED 1 JUNE 1948
+"RESTRICTED"
+SECURIT (CLASSIFICATION) TION SECURITY
+REPORT NO.
+7 3 59039
+AIR INTELLIGENCE INFORMATION REPORT
+SUBJECT
+AREA REPORTED ON
+DATE OF REPORT
+9 July 1952
+PREPARED BY (Officer)
+Unidentified Flying Objects Reporting
+FROM (Agency) Security Indoctrination Office
+Eg OCAMA, Oklahoma City, Oklahoma
+ATE OF INFORMATION
+July 195} • 8 and g
+EVALUATION
+SOURCEHARRIS, Robert NMI, 1st Lt, USAF
+Iba, Earl H. (Civilian)
+REFERENCES (Control number, directive, previous report, etc., as applicable)
+Message OCEO-2T-7-8-E FIYOBRPT
+SUMMARY: (Enter concise summary of report. Give significance in final on
+ice paragraph. List inclosures at lower left. Begin text of report on AF Form 118-Part II.)
+1.
+Inclosed statements of lst Lt Robert (NMI) Harris and Mr. Earl I. Iba are
+self explanatory.
+ADC radar received no sighting (pick up) in vicinity of observers.
+Radar
+showed storm echo 40 miles South of Tinker Air Force Base from line Sit to I.
+Weather at Tinker AF Base 20,000 feet thin scattered clouds, visibility 15 miles.
+According to weather officer
+the possibility of lights having been from "PIBALL"
+are very slight.
+USA F
+mamo 7/31/78
+I WG. LEWIS
+M2. 719/29
+- INCLS.
+2. Statement - Civil tIme FILED |3
+2. Statement - Civilian - Earl L. Iba
+DISTRIBUTION BY ORIGINATOR
+2 cys: Dir of Intell Hq USAF 25, D. C. Wash.
+1 cy :
+Chief, ATIC, ATTN: ATIAA-2c, W-P AFB, Ohio
+1 cy :
+File
+MOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S.C.-
+31 AND 32, AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW.
+INTELLIGENCE USAPOUCED IN WHOLE OR IN PART ON TERS ACT IT ME THIS AGENCIES, EXCEPT BY PERMISION OF THE DIRECTOR OF
+* U.S. GOVERNMENT PRI ITING OFFICE : 1950-0-918331
+Declassification Authority: NND 57565

@@ -1,0 +1,51 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T10:26:04Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6790545, "source_ctime_ns": 1793362987578266445, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330784275/45484701-004-003-0012.jpg", "source_mtime_ns": 1785685124000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330784275/45484701-004-003-0012.jpg", "source_sha256": "656c9ba42721b232babc5c8601d4786f728a115d1f1d374422050df85ed018dd"}
+
+===== PAGE 1 =====
+{"alpha_words": 243, "chars": 1841, "method": "ocr", "page": 1, "variant": "plain-vision"}
+3DO 24-166ł
+SUBJECT:
+(Confidential) Sighting of Unidentified Flying Object at Philadelphia,
+Pa., at approximately 1100 hours EDT, 9 September 1956 -
+SPOT INTELLIGENCE REPORT CONTID
+The following information concerning the weather on
+Sunday night, 9 September 1956, was supplied tele-
+phonically by Mr. R. J. SMITH, Meteorologist, at the
+U. S. Weather Bureau, Philadelphia, Pa., on 13 Sep-
+tember 1956: At 2300 EDT, the sky was clear, ceiling
+unlimited, visibility 20 miles, no clouds, "no weather."
+At 2325 EDI surface winds were from NNE and 7 MPH.
+Winds aloft at 2215 EDT were:
+from 20 degrees at 17 knots at 6,0001
+350 degrees " 25
+" 10,000'
+" 340 degrees " 42
+" " 16,000'
+320 degrees i
+" 20,0001
+320 degrees "
+" 30,000"
+270 degrees "
+" 50,000'
+" 80,000"
+There was no unusual activity or condition,
+meteorological, astronomical, or otherwise,
+known to the Weather Bureau.
+b. MANHOFF advised that he had contacted Fels Planetarium and the
+Philadelphia International Airport in an effort to clarify what he had sighted,
+but he was unsuccessful. No one had been on duty at the time at the Planetarium
+and the Airport had no information concerning the incident. Both PHILLIP and
+JOSEPH COIN felt that the object was probably a falling star or meteorite
+observed closer than usual, thereby accounting for the size and brightness.
+ACTION: No additional investigation of this matter is contemplated by
+this District unless otherwise requested by competent authority in accordance
+with AFCSI Letter No. 85, dated 7 January 1953.
+This report is classified CONFIENTIAL pursuant to the authority con-
+tained in paragraph 30c(2) (a), AFR 205-1.
+DAVID E. BALES
+It Colonel, USAF
+District Commander
+ce:
+Dir, Sp, Inves, HETUS F, Wash, D.C. (trip)
+Comdr, 82d Ftr Gp (AD)NCCA, Wil., Del. (dupe)
+FOR OFFICIAL USE ONLY
+Declassification Authority: NND 923007

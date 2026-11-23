@@ -1,0 +1,85 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T10:32:42Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8517820, "source_ctime_ns": 1793359937918699430, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-011-049-0001.tif", "source_mtime_ns": 1785681574000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-011-049-0001.tif", "source_sha256": "8f49222ff2ce0bace067bcc38c34a363ef4acc6830002f79773297f99ee0af52"}
+
+===== PAGE 1 =====
+{"alpha_words": 157, "chars": 1258, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+CN0201
+ENC031 YMA009
+F.JA158
+PERJEDEW RJEDEN RJEDWP, RJEPHQ RJEPNB
+RJEDF J 4S
+> 352030Z
+OPS
+060310 ₴
+MY COMDR 661ST ACWRON SELFRIDGE AFB MICH
+FO RJEDEN/COMDR ADC ENT AFB COLORADO SPRINGS COLO
+REPNB/COMDR EADF STEWART AFB NEWBURGH NY
+REDBW/COMDR 3ØTH AIR DIV DEF WILLOW RUN AF STA BELLEVILLE MICH
+RUEDWP/COMDR AIR TECHNICAL INTELLIGENCE CENTER WRIGHT-PATT AFB OHIO
+RJEPHQ/DIRECTOR OF INTELL OENNE HEDSSAF WASH NOTON 25 DC
+/UNCLASSIFIED/OPNS 0210 UFOB IN ACCORDANCE WITH AFR 200-2 DTD
+12 AỤG
+54 THE FOLLOWING EPT IS HEREBY SUBMITTED.
+• (A)
+SHAPE- FROM TRIANGLE TO UNBRELLA
+BFS) SIZE - AMS LENGTH TO BASEOETL
+(C)
+COLOBA GREEN
+BASEBALL
+(D) ONE
+(2) N/A
+(F)/ TAIL
+(G) NEG
+CH ' N/A
+46020 ANISS UFOB REFT 335
+DATETIME GROUP 05/0540 Z def 56
+FLINT, MEN
+PAGE TWO RJEDEJ 4S
+(I) N/A
+35 93N5
+2.:
+(A) UNUSM ET OB NT.
+. (B) 45DEG
+(C)
+NY A
+(D) NORTH TO SOUTH
+(E)
+N/ A
+(F) 1 HR.
+(A)
+GROUND VISUAL
+(B)
+NO OPTICAL AIDS
+( C)
+(A)
+NZA
+954ØZ 5 SEPT 56
+00.40 EST
+(8)
+NIGHT
+GP 1805
+(AX
+38,
+(3) • N/A
+7·
+(A) SKY CONDITION CLEAR TEMP 55DEG
+(3) NEGATIVE
+(C) UNLIMITED
+(D) NEGATIVE
+(E) N/A
+167 sent
+Traser sent -no segy
+POS ASTRO
+Puration an
+N to S cour
+FLINT MICH
+PAGE THREE RJEDFJ 4S
+(F) N/A
+N/ A
+9. *
+• N/A
+10. N/A
+N/A
+12.
+N/ A
+05/20357 SEP JEDJ

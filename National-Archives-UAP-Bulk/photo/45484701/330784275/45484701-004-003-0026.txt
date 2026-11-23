@@ -1,0 +1,51 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T10:28:04Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7208983, "source_ctime_ns": 1793362993421920855, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330784275/45484701-004-003-0026.jpg", "source_mtime_ns": 1785685125000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330784275/45484701-004-003-0026.jpg", "source_sha256": "ce344a30d5ca88fa919d72b9f47faabbc3bf9113ee1937851490fbe23c25e690"}
+
+===== PAGE 1 =====
+{"alpha_words": 224, "chars": 1682, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Hq DO#3, File 3DO 24-213, Subj: Unidentified Flying Object Sighted by
+JAMES ALFRED BRICKETT at Philadelphia, Pa., at 020107Z July 1958
+b. Description of Course of Object:
+(1)
+What first called the attention of observer to the object -
+BRICKETT stated he was looking into the sky in an attempt
+to predict the weather when he saw instant object.
+(2)
+Angle or elevation and azimith of the object when first
+sighted - 45°
+elevation bearing 230-240 magnetic compass.
+(3)
+Angle or elevation and azimuth of object upon disappear-
+ance - Approximately 45° bearing 060 magnetic compass.
+(4) Description of flight path and maneuvers of object -
+Straight across the arch of the sky
+(5)
+How did the object disappear - Disappeared with flashing
+lights going west to east.
+(6) How long was the object visible - Approximately six (6)
+to eight (8) seconds.
+Manner of observation:
+(1)
+Ground-visual
+(2) No optical aids were used
+d. Time and date of Sighting:
+(L)
+Between 0200592 and 0201072 July 1958
+(2)
+Night, full moon
+e. Location of Observer: Approximately 40° latitude north and
+Approximately 75° 10 minutes west, longitude
+f. Identifying Information on Observer:
+DOB: 21 June 1921, at Hingham, Massachusetts
+Address: 438 Anthwyn Road, Narberth, Pa.
+Employed by Arco Corporation, 1500 S. 50th Street
+Philadelphia, Pa., as Assistant Sales Manager
+g. Weather and Winds-Aloft Conditions at Time and Place of Sighting:
+(1)
+Observer's account of weather conditions - No surface winds,
+visibility unlimited, no clouds, hazy near horizon.
+Report from nearest AWS or U.S. Weather Bureau Office
+of wind direction and velocity -
+N
+UNCEACCIFED
+FOR OFFICIAL USE ONLY
+Declassification Authority: NND 923007

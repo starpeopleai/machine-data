@@ -1,0 +1,47 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T10:32:23Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8501682, "source_ctime_ns": 1793362650490992269, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330783376/45484701-003-004-0113.jpg", "source_mtime_ns": 1785685006000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330783376/45484701-003-004-0113.jpg", "source_sha256": "5529fc878db5cae950a391178295b78c88dec0ceb39ea7c8a63d8aec8a2ed5b6"}
+
+===== PAGE 1 =====
+{"alpha_words": 132, "chars": 970, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AFCSI-6D/Mr. O'Donne. es/Code 151/x 8924/29 Dec 54
+80 BEG
+APCSI 6D 24-185-418
+SUBJECT: FLYING SAUCERS - SPECIAL INQUIRY
+TO:
+District Commander
+5th OSI District (IG)
+Wright¿Patterson Air Force Base
+Ohio
+1. Attached for transmission to the Air Technical Intelligence
+Center 1s a copy of a letter from the FBI dated 9 December 1954 con-
+cerning the above subject.
+2. No information pertaining to the 'Aerial Phenomena Investigetor"
+or HAROLD MATTAN was located in the files of this office,
+FOR THE DIRECTOR:
+1 Inel
+Ltr fr FBI
+âtd 9 Dec 54
+munitia
+E. T. MURTHA
+Major, USAF
+Asst Chief, Sabotage and Espionage Br
+Counter Intelligence Division
+Dir of Special Investigations
+The Inspector General
+CLASSIFICATION CANCELLED
+BY
+AUYHORITY OF THE DIRECTOR
+BY
+, KUNZE, Capt, USAF
+3 DEC 1975
+DATE
+24-x85-
+FOR OFFICIAL USE ONLY
+AFCSI-6
+Mr. O'Donnell 0'Druel 29 Lac 59
+Maj Murtha nutha
+& AFCSI FILE CY
+CMBK CY AFCSI-6D
+80 DEG 504
+1855
+UNCLASSIFIED
+Declassification Authority: NND 923007

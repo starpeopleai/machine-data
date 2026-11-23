@@ -1,0 +1,14 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T10:48:53Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9914653, "source_ctime_ns": 1793383165732588646, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28986444/0189.jpg", "source_mtime_ns": 1785748084000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28986444/0189.jpg", "source_sha256": "ee6769d70358c618c07f90529b142689f268d31ca7542bd2ce79c50475f44aa8"}
+
+===== PAGE 1 =====
+{"alpha_words": 60, "chars": 362, "method": "ocr", "page": 1, "variant": "plain-vision"}
+FM CTU 32.2.4
+TO CINCPACFLT
+INFO CNO
+BT
+SIGHTED OBJECT TRÄVELLING ACROSS THE SKY FM SE TO NE X
+DISAPPEARED OVER CLOUDS BEARING 350 DEGREES TRUE ALT 25 DEGREES X
+BRIGHT BLUE AND RED BODY X TAIL WAS BLUE APPROX 1Ø DEGREES LONG X
+BODY APPEARED TO BE ABOUT THE SIZE OF A DUME HELD AT ARMS LENGTH FM
+THE EYE X POSITION AT TIME OF SIGHTING LAT 25-34.5N LONG 179-53E
+N

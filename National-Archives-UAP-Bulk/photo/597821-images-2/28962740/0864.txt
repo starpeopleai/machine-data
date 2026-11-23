@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T10:30:50Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8267790, "source_ctime_ns": 1793377122017043629, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28962740/0864.jpg", "source_mtime_ns": 1785696733000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28962740/0864.jpg", "source_sha256": "010ec4e3bc46d64314839831599462fffd7f5ada9736df54af1f6b11c3455653"}
+
+===== PAGE 1 =====
+{"alpha_words": 112, "chars": 749, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AF FORM 112-PART II
+APPROVED 1 JUNE 1948
+FROM (Agency)
+Fight 1-C, 1602d AISS
+AIR INTELLIGENCE INFORMATION REPORT
+REPORT NO.
+1C-UFOB-11-55
+PART THREE
+PAGE
+Inc1 72, PART TERRE, Rept 10-UFOB-11-55
+SCIRCE's henory Sketch of object's flight
+path in possible relation to mountain range
+OF 20
+PAGES
+N
+Eirst
+HOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, SO U.S. C.-
+3I AND 32, AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW.
+IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF
+INTELLIGENCE, USAF.
+UNCLASSIFIED

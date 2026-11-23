@@ -1,0 +1,64 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T10:54:41Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 15371908, "source_ctime_ns": 1793359766067471896, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-010-046-0003.tif", "source_mtime_ns": 1785681514000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-010-046-0003.tif", "source_sha256": "ac7e8ad2676c7694747211a82ea86733faf3bf7f8fe7666fce6368b21536f66a"}
+
+===== PAGE 1 =====
+{"alpha_words": 107, "chars": 812, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+ops
+1017452
+0008
+ENA088 YMB025
+KFA057KFGØ38FGM002
+RR RJEDEN RJEDWP RJEPAG
+DE RJEDKF 1 GM -
+R 121445Z
+FM COMDR 789TH ACWRON OMAHA NEBR
+TOURJEDKF/COMDR 20TH ADIV GAFB: GRANDVIEW MO
+RJEDEN/COMDR ADC ENT AFB COLO
+RJEDWP/COMDR ATIC WP AFB OHIO
+RJEPAG/DIR OF
+INTELL HQ USAF WASH DC
+RJEDKF/ COMDR CADF GRANDVIEW MO
+/UN CLASSIFIED/ OPNS.475 THE FOL IS AUFOB
+1 -
+A. ROUND
+B. BASEBALL
+C. RED
+ODE
+E. NONE
+F. MOVING SIDETO SIDE
+G. NONE
+H. NONE
+I. NONE
+2.
+A. LIGHT
+B. 150
+C. TO THE GROUND
+D. WEST THEN TO NORTH
+E. NFADE
+F. TEN MINUTES
+A. MR.
+ODEBOLI, IOWA
+A.
+CLEAR
+B. 350/30-2 300/42-4 290/50-10
+C. UNLIMITED
+D. CLEAR
+E. NONE
+NONE
+8. NONE
+9. NONE
+10. NONE
+11. NONE
+A. NONEE
+A. GROUND VISUAL
+B. NONE
+C•
+NONE
+4 .
+A. 0427Z
+B. NIGHT
+5,KN 4715
+10/1700Z SEP RJEDKF
+Pos BUN.
+164 Sent
+28 5a0 56

@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T10:46:39Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9386777, "source_ctime_ns": 1793363196098568804, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330784816/45484701-005-001-0004.jpg", "source_mtime_ns": 1785684635000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330784816/45484701-005-001-0004.jpg", "source_sha256": "d9a38be631331c9041d38910f73d72e7a3576698f8aa07b1fa534fc072ee3b5c"}
+
+===== PAGE 1 =====
+{"alpha_words": 235, "chars": 1659, "method": "ocr", "page": 1, "variant": "plain-vision"}
+2D 24-613Ś
+DETATES:
+This investigation is predicated upon telephone call From 2% Bauds,
+Acting District Comander, District Office Hr T, to Colonel WHAM W.
+ROBARES, District Commander, District office Hr 2, at 1700 hours on 27 May
+1958.
+Ir. FERRIS requested that personnel aboard the 85 KRY TRADER which,
+he stated, was then at Sevaren, New Jersey, be interviewed to furniah all
+informstion available to them concerning a missile which fell into the sea
+neer this vessel in May 1958 (exact date unknow). Directorate had in-
+structed District Office Ir 7 that the information seewed be furnished
+immediately to the Commander, Air Force Miselle fest Center.
+AT SENARSI, NEW JERSEY
+Special Agents DONALD P. CHRISITE and FREDERICK H. DURELS inter-
+Vieved J. Cues, a guard for the Shell 011 Company on 27 Nay 1956 at
+their terminal, and was advised that the SS REY TRADER, after discharging
+its cargo at the Shell facilities had departed at 1305 hours on 27 May
+1958.
+CUMINGS stated that Hire Brothers, 29 Broadway, New York City,
+vere the local agents for such vessel.
+AF WISH YORK
+STORS
+3-
+On 28 May 1958, Special Agent JOHN E, HeROESNES telephonically
+contacted Kure Brothers and was advised that the SS KEY TRADER vas enroute
+to Nev Orleans, Louisiana, due to arrive there on 1 June 1958. This
+Information was immediately furnished by telephone to Mr. FERRIS at
+District Office Ir 7, MoDill Alr Force Base, Florida.
+this report is classified
+IAL pursuant to the provisions
+of paragraph 30c(2) (a), AFR 205-1, because it conteins investigative
+information which requires protection againet unsuthorised disclosure.
+- RUC -
+Declassification Authority: NND 923007

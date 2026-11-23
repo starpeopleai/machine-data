@@ -1,0 +1,16 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T10:34:21Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8911583, "source_ctime_ns": 1793383649203592988, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28987493/1146.jpg", "source_mtime_ns": 1785748030000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28987493/1146.jpg", "source_sha256": "07da0e9baa51f6aea16e1f7dabb54b3df1f57914239ee7b4ed9afcf6e5dd41d6"}
+
+===== PAGE 1 =====
+{"alpha_words": 66, "chars": 393, "method": "ocr", "page": 1, "variant": "plain-vision"}
+No Case (Information Only)
+24 June 1960
+Bermuda
+JUNE
+NEWS BRIEPS: A mysterioum aerial object was seen by several resi-
+'dents of Bermuda on the night of June 24th.
+ạIt was bright in the center, like
+a star, and carried an aura of light around it, It alsc seened to have lights
+like seerchlighte pointed toward the ground;
+The UPO was traveling very fast,
+ạ11kco a bomb..
+a but made no sound..

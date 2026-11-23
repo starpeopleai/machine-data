@@ -1,0 +1,34 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T10:37:22Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 12132554, "source_ctime_ns": 1793358475253608444, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-003-001-0002.tif", "source_mtime_ns": 1785681103000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-003-001-0002.tif", "source_sha256": "85f0f4912edb44b0ed59541935617c48b53dc8965bc7d2e0346f082bb05d250e"}
+
+===== PAGE 1 =====
+{"alpha_words": 100, "chars": 796, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+-HARRE 112-PART IL
+320th DOT, March AFB& Califo
+NOT ASSETED
+AIR INTELLIGENCE INFORMATION REPORT
+REPORT NO:
+4602-0F0B-75-55
+(1) Description of the object:
+(a) Round
+(b) Basketball
+(c) bright flash of light
+(á) one
+(e) WA
+Negative
+(8):
+Wall appearing to be two (2) feet long in comparison to size of basketball
+(b) Negative
+(1) Light seen through thin overcast
+Description of course of object:
+(a) flash of light
+(b) 45 degrees in elevation; directly ahead of aircraft.
+(c) Level in elevation and directly ahead of aircraft.
+(d) Path of flight described as "Straight down".
+(e) Disappearance of light.
+(1) Two (2) seconds.
+(3) Manner of obrervations
+(* Negative
+(b) Negative
+(c) B-47, 22164, 12000 feet, 240 degrees, 260 knots, March AFB, C lif.
+UNGLASS10343D

@@ -1,0 +1,37 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T10:24:27Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6264742, "source_ctime_ns": 1793377829915989135, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28965565/0338.jpg", "source_mtime_ns": 1785696755000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28965565/0338.jpg", "source_sha256": "9bfc459d36f1fdb64e83641b2d49dd68980de5f6b2bd9d6066baa0ec937ddc67"}
+
+===== PAGE 1 =====
+{"alpha_words": 244, "chars": 1540, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AF FORM 112-PART II
+APPROVED 1 JUNE 1348
+UNCLASSIFIEO
+AIR INTELLIGENCE INFORMATION REPORT
+REPORT NO.
+3E-UF03-1-56
+Part Five
+PAGE
+Flight 3-E, 4502D AISS
+OF
+PAGES
+SUPPLEMENTARY INVESTICATIVE EFFORTS:
+1. A telaphone call to the Burlington Airport control tower was made to detar-
+nice if there were any aircraft in the area on the dates and times of sigh-
+tings.
+Tower gave a negative report.
+2. Phone call was made to the Burlington weather station. No balloons releases
+were made at the time of sightings or immediately prior to the time of sigh-
+tings.
+Personnel at the station informed the investigator that the winds at
+altitude were from the NW on both dates, and it was possible for balloons to
+travel from the north central part of the states into the area.
+3. A check was made with the 764th AC&W Squadron, St. Albans, Vermont. Intel-
+Ligence personnel informed the investigator of several projects being con-
+ducted involving the use of balloons.
+Investigator was shown track logs
+made on the dates of the sightings, but no entries were made which would
+identify the objects sighted.
+NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT. 50 U.S. C.-
+31 AND 32. AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW.
+IT MAY NOT BE REPRODICED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF
+INTELLIGENCE, USAF.
+UNCLASCIFLEO

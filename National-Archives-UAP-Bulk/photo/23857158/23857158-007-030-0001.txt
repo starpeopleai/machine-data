@@ -1,0 +1,58 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T10:34:48Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9221720, "source_ctime_ns": 1793359293096288623, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-007-030-0001.tif", "source_mtime_ns": 1785681369000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-007-030-0001.tif", "source_sha256": "ee7f2dcd78046b167e5ef89a4538247aaa515db2dcdf5cda0e11cfd35ab19dfa"}
+
+===== PAGE 1 =====
+{"alpha_words": 129, "chars": 977, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+RGR
+315 002
+15 0
+1 846 ₴
+D1P 004X
+ENA 100
+YDCØ 99
+VYA161 IMB057TYQA029
+PP JEDEN JEDWP: JEPHQ JESDB
+DE
+JESYQ 001B
+P 150300Z
+FM: FLT SVC MAXWELL AFB ALA
+TO JEDEN/CMDR ADC ENT AFB COLO
+JEDWP/CMDR AIR TEC:INTELLIGENCE CENTER WRIGHT PATTERSON. AFB OHIO
+JEPHQ/DIR INTELLENGENCE HQ USAF WASH D C
+JESDB/CMDR 35TH AIR DIVISION DEFENSE DOBBINS AFB GA
+AU FO B/
+DESCRIPTION OF OBJECT (S):
+A. EGG SHAPED
+B. UNKN
+C. WHITE
+DBM ONE LARGE LIGHT
+E. THREE SMALL LIGHT IN FORMATION LE
+F. UNKN
+KN
+G. U
+H. UNKN
+• 15 Jan 55
+Sullivan Island, S.C
+PAOE TWO JESYQ 0218
+I. UNKN
+2. DISCRIHTION OF COUEE OF OBJECTS) :
+A. UNKN
+B. UNKN
+C. UNKN
+D. OBJECT TRAVELLING NORTHEAST
+E. UNKN
+F. 10 MINUTES -
+3.
+MANNER OF OBSERVETION:
+A. GROUND VISUAL
+B. UNKN
+C. GROUND 03
+TIME AND DATE OF SIGHTING:
+E. 15/0110Z TO 15/0120Z
+B. NIGHI
+S•
+LOCATIONS OF OBSERVERS):
+SULLIVAN ISLAND COAST GUARDX
+LIFE BOAT STATION SOUTH CEROLINA
+IDENTIFYING NFORMATION OF ALL OBSERVERS:
+A. CIVILIAN NONE

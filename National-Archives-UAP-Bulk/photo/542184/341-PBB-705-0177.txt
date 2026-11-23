@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T10:29:06Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7505807, "source_ctime_ns": 1793367686739424272, "source_file": "National-Archives-UAP-Bulk/photo/542184/341-PBB-705-0177.jpg", "source_mtime_ns": 1785565761000000000, "source_rel": "National-Archives-UAP-Bulk/photo/542184/341-PBB-705-0177.jpg", "source_sha256": "6ac98e73137359e6ee831602483bdf6516ea469aa1545342fae52def093bb380"}
+
+===== PAGE 1 =====
+{"alpha_words": 17, "chars": 106, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+——
+
+2nRO
+
+id
+Fe ated
+a .
+ae
+oe)
+swneonree
+ie Ps
+»
+id .
+a A : 7
+‘rember, momen < <mN
+
+ion
+z
+ae re
+
+®
+7
+He

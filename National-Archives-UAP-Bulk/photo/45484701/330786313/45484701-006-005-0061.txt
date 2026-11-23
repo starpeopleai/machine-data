@@ -1,0 +1,48 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T10:50:05Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10613365, "source_ctime_ns": 1793363957532114791, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330786313/45484701-006-005-0061.jpg", "source_mtime_ns": 1785684961000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330786313/45484701-006-005-0061.jpg", "source_sha256": "66e44a03de942a647f4cf5e0598e58c57b28e64d889850e2c9627cf62f7063f8"}
+
+===== PAGE 1 =====
+{"alpha_words": 383, "chars": 2318, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DETAILS:
+1. This investigation requested by Commanding Officer, 490lst
+Support Wing (Atomic), Kirtland Air Force Base, New Mexico, to determine
+the circumstances surrounding the reported observation of an unusual
+aerial phenomenon by Mr. and Mrs. HUGH R. YOUNG, 4212 E. Copper,
+Albuquerque, New Mexico, on 25 August 1951.
+AT ALBUQUERQUE, NEW MEXICO
+2.
+On 26 August 1951, Mr. HUGH R. YOUNG was interviewed at his
+trailer home at 4212 E. Copper. YOUNG stated that he is a security
+guard for the Sandia Corporation, and works the night shift at Sandia
+Base. YOUNG revealed that on the night of 25 August 1951, a few minutes
+before ten (10:00) o'clock, he and his wife were standing outside their
+trailer home, waiting for his ride to work, when they both saw an
+unusual type aircraft flying overhead.
+YOUNG and his wife prepared
+statements describing what they observed, which are set forth below;
+#26 August 1951
+"On the 25th of August 1951 at 2158 hours from my home located
+at 4212 East Copper Ave., Albuquerque, New Mexico I observed the follow-
+ing described aircraft.
+ạThis aircraft was flying in a south by east direction at a speed
+I thought to be about 300 miles per hour.
+"The altitude was difficult to judge, but the aircraft was low
+enough so that the lights from Central Ave. reflected from the lower
+side of the wings.
+"This aircraft was unusual in the following ways, there was no
+sound of motors of jets in fact there was no sound at all that I could
+hear.
+I could see no fuselage on this aircraft. The size I judged to
+be at least one and one half times as large as a B-36 and was shaped
+like a spread V with the wings sloping back at an angle of about 15°.
+"On the rear edge of the wings soft white lights were located in
+pairs with not less than six of these on each side of center. These
+lights were very different from motor or jet exhausts as seen at night.
+I am familar with the appearance of these.
+"From the front edge of the wing strips extended to the rear edge
+of the wings with the strip ending between the lights of each pair.
+These strips had poor reflection.
+"Each pair of lights were separated by about eight times the dis-
+tance between the lights of one pair.
+"The wings appeared to retain their size from the center to the
+end without any taper.
+Declassification Authority: NND 923007

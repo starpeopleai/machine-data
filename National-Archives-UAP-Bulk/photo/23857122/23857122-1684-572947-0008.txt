@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T10:21:56Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 15133268, "source_ctime_ns": 1793357826979744695, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1684-572947-0008.tif", "source_mtime_ns": 1785564979000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1684-572947-0008.tif", "source_sha256": "c5b690496e472aa516c74920bcfff5c868523c76848b6527d93b6e7dd935e41b"}
+
+===== PAGE 1 =====
+{"alpha_words": 120, "chars": 792, "method": "ocr", "page": 1, "variant": "plain-vision"}
+HEADQUARTERS
+912TH AIRCRAFT CONTROL AND WARNING SQUADRON
+Hamore, Ontario, Canada
+18 August 1953
+STATEMENT
+on the 15 August 1953, at 2235, I sighted an dject by visual contact
+which was sort of diamond shape and bright or ange in color at approximately
+270 degrees at 4 to 5 miles mut and very low.
+It was hovering at that
+spot. I watched this object for about 2 minutes then it turned to bright
+red and flat in shape and faded away. This object culd not be misinter-
+preted as anything pertaining to weather as the night was clear and there
+was no moon.
+corad P. Luff
+LEONARD P. DUFF
+A/1C, AF 17 286 134
+912th AC&W Squadron
+Subscribed and sworn to before me this 18th Day of August 1953.
+HaroldiSolberg
+HARDOLD E. SOLBERG
+CWO, USAF
+Adjutant
+AF572947 /Śę
+Declassification Authority: NND 57565

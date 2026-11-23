@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T10:47:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9475301, "source_ctime_ns": 1793379619489863344, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28972840/01016.jpg", "source_mtime_ns": 1785700827000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28972840/01016.jpg", "source_sha256": "88a9fada67e4ac2852b48724d3242be6a54e6b3620feca708d0b363644958b59"}
+
+===== PAGE 1 =====
+{"alpha_words": 116, "chars": 778, "method": "ocr", "page": 1, "variant": "plain-vision"}
+JDINT MESSAGEFORM - CONINUATION SHEET
+COMDR ATTO
+NICAP WAS IMMEDIATELY DISPATCHED TO LEVELIAND TEXAS TO
+INVESTIGATE. SIGNIFICANT TO POLNT OUT THAT ALTHOUGH THS
+ORGANIZATION CONTINUOUSIY IMFLIES USAF NOT QUALEFIED TO
+INVESTIGATE, OR DO NOT REUPASE THEIR FINDINGS, IT HAS NOT
+MADE ANY STATEMENTS REGARDING ITS OWN FINDINGS OR CONCL
+SIONS, DESIRABLE IF NICAP WOULD MAKE ITS FINDINGS RHOWN
+FIRST, THEN USAF COULD QUERY HOW ANALYSIS BERFORMED AND
+CONCD SIONS DERIVED, IN ALL PROBABILITY NICAP WILL LEI
+USAF MAKE FIRST STATEMENT, THEN WILL MAKE THE USUAL CHARG
+PART VIIL, MAKING CHECK POR INPORMATION REGARDING ATICIS
+ENTRY INTO UPO IR OGRAM AND EARLY HISTORY REGARDING DOCU-
+MENTS WHICH BROUGHT THIS ABOUT.
+SYMBOL
+257•ó0%5S
+INITIALS
+NR
+Nº. OF
+PAGES
+5
+CLASSIFICATION
+DO: MAY S3 173-1

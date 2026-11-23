@@ -1,0 +1,83 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T10:31:39Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8397374, "source_ctime_ns": 1793385733573425775, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28994018/0466.jpg", "source_mtime_ns": 1785748395000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28994018/0466.jpg", "source_sha256": "092d2d6b4aa53b9407baba5954549facc7398b800ee54d655c2c0d2881a3749f"}
+
+===== PAGE 1 =====
+{"alpha_words": 323, "chars": 2437, "method": "ocr", "page": 1, "variant": "plain-vision"}
+A CONFERENCE ON RESULT!
+OF THE FINDS MANNED SENOR TAL FLIGHT
+-Introd. by Hugh L. Dryden and Lloyd V
+Berkner--GPO, 76 p., illus., paper, 50ç. Papers
+ot 1961 Conference of NASA with
+stitutes of Health and National Academy of
+Sciences.
+THE SCIENCE OF GENETICS-
+-Charlotte Aue
+Illus. by Inge G. Aue
+bach Linker, $5.95.
+bach-Harper, 373 P-Written by geneticist for
+general reade
+to provide
+the
+indispensable
+‹nowledge without
+which the most recent
+advances in genetics cannot be understood.
+THE SCIENTIFIC APPROACH TO CAREER PLAN-
+NING-M. C. Cobb, foreword by David A.
+Shepard-Lantern Press, 142 p., $3.95. Shows
+how the process of inductive inference (result of
+scientific observation, experiment and reasoning)
+can be applied to the subject of career planning
+AKE A NUMBER: New Ideas + Imagina-
+tion==More Fun-Jeanne Bendick and Marcia
+Levin-Whittlesey House, 63 p., illus, by J.
+Bendick,
+$2.50.
+Amusingly presented, shows
+trade school youngsters some of the innumer
+ble uses for number concepts and numeration
+TEACH YOURSELF BOTANY-John H. Elliott-
+coy Pubs
+he scope of the scieus, 2.75. Brief outline o
+the atmos-
+phere without mathematics and outlining prin-
+ciples by which one can predict this behavior
+from observations.
+THE TORCH LIGHTERS: Tomorrow's Teachers
+of Reading--Mary C. Austin, Dir.; foreword by
+Francis Keppel-Harvard Univ. Grad. School o
+Educ. (Harvard Univ. Press), 191 p., paper, $1.
+This Harvard-Carnegie held study reports of
+urrent college preparation of teachers of read
+ing and suggests recommendations for improve-
+mucine.
+TRACE ELEMENTS IN PLANTS-Walter Stiles-
+effects of their deficiency or excess on grazing
+animals. Also refers to soil conditions as they
+relate to availability of trace elements.
+TRANSISTORS AND ACTIVE CIRCUITS-John G
+conductors,
+transistor
+two-port
+network
+theory, and
+circuits.
+U.S.S.R. LITERATURE ON AIR POLLUTH AND
+RELATED OCCUPATIONAL
+DISEASES, Vol.
+3. S. Levine-USPHS (OTS)
+aper, $35n. Latest survey of Russian Pite illur
+with air pollution aspects of industrial
+and public health problems.
+WATER
+OTHER
+TREATMENT
+OR INDUSTRIAL A
+ed., 598 p., illus., $12. Practical reference work
+rought up-to-date to include latest develop
+ments in the technology of water treatmen
+and their application.
+WEATHER MODIFICATION: SEcond Annual Re
+ort for Fiscal Year Ended June 30, 1960-
+National Science Foundation--GPO,
+plutographs, paper, 15€. Research highlight
+and weather modification activities.

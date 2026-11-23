@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T10:44:02Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 19088884, "source_ctime_ns": 1793357613664442841, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1485-540328-0009.tif", "source_mtime_ns": 1785564938000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1485-540328-0009.tif", "source_sha256": "632202c216a765bac6966004eab04fd8373fa89535ad721116d20d382c4d17a0"}
+
+===== PAGE 1 =====
+{"alpha_words": 83, "chars": 654, "method": "ocr", "page": 1, "variant": "plain-vision"}
+ACCESS RESTRICTED
+The item identified below has been withdrawn from this file:
+File Designation
+540 328
+Date
+Fr
+2/20/53
+In the review of this file this item was removed because access to it is
+restricted. Restrictions on records in the National Archives are stated
+in general and specific record group restriction statements which are
+available for examination. The item identified above has been withdrawn
+because it contains:
+WITHDRAWAL NOTICE
+Security-Classified Information
+Otherwise Restricted Information
+5 USC 552(b) 9(2) (c)
+Authorit
+WGLewis
+NNGR
+GENERAL SERVICES ADMINISTRATION
+5/14/29
+GSA FORM 7117 (2-72)
+Declassification Authority: NND 57565

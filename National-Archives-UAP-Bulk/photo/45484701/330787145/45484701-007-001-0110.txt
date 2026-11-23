@@ -1,0 +1,57 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T10:28:16Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7386580, "source_ctime_ns": 1793364486362655551, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787145/45484701-007-001-0110.jpg", "source_mtime_ns": 1785684565000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787145/45484701-007-001-0110.jpg", "source_sha256": "fa3e079385c334b8385a7b0e0793a47375862f59b95a64fd969f03d4a86a32c1"}
+
+===== PAGE 1 =====
+{"alpha_words": 162, "chars": 1287, "method": "ocr", "page": 1, "variant": "plain-vision"}
+FIDENTIAL
+DEPARTMENT OF THE AIR FORCE
+HEADQUARTERS UNITED STATES AIR FORCE
+WASHINGTON
+THE INSPECTOR GENERAL USAF
+18th DISTRICT OFFICE OF SPECIAL INVESTIGATIONS
+AF DEPOT, BOX 310, MAYWOOD, CALIF.
+11 May 1955
+18D 24-0-347
+SUBJECT:
+Unidentified Flying Objects
+WILLIAM T. FOLEY
+Chula Vista, California - Informant
+SPECIAL INQUIRY
+TO :
+UNCLASSIFIED
+Director, Special investigations
+Headquarters USAF
+Washington 25, D. C.
+Attached are two copies of a self-explanatory letter dated
+30 March 1955 from Mr. WILLIAM T. FOLEY, 543 "I" Street, Chula Vista,
+California, concerning the above matter.
+2.
+This District Office contemplates conducting no investigation
+in connection with this matter.
+Two copies of this letter are being
+designated for the 5th District OSI and Air Technical Intelligence
+Center, Wright-Patterson AFB, Ohio.
+This letter is classified CONFIDENTIAL pursuant to the
+authority contained in Par 24a, AFR 205-1,
+1 Incl.
+Cy Itr, fr FOLEY
+30 Mar 55 (dup)
+ce:
+DO #5 - ął
+Cmdr W-P AFB,
+Attn: ATIAA-2C - 1
+ssle
+ARTHUR T. CAMERON
+Colonel, USAF
+District Commander
+CLASSIFICATION CANCELLED FO
+BY AUTHORITY OF THE DIRECTOR OF SPEC INV
+BY
+KURT K. KURZE, Capt, USAF
+Histerian
+BATE
+5 DEC 1975
+24-185-18-41
+8RAFD • OCT 54 - 5M
+UNCLASSIFIED
+CONFIDENTIAL
+Declassification Authority: NND 923007

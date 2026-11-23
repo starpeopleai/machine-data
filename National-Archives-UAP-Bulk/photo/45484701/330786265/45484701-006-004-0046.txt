@@ -1,0 +1,48 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T10:50:54Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10687365, "source_ctime_ns": 1793363915190791929, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330786265/45484701-006-004-0046.jpg", "source_mtime_ns": 1785685034000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330786265/45484701-006-004-0046.jpg", "source_sha256": "527faf74142dcf70dc745631b5db9bf66b421d270d440cfbb375c11317d1dc75"}
+
+===== PAGE 1 =====
+{"alpha_words": 135, "chars": 945, "method": "ocr", "page": 1, "variant": "plain-vision"}
+16D 24-19
+SUBJECT:
+17 November 194g
+HFB/13
+SPECIAL INQUIRY
+UNIDENTIFIED AERIAL OBJECT
+SIOHTED NEAR MOUNTAIN HOUE, IDAHO
+THRUS
+TOg
+District Commander
+Sth District 0SI (IO)
+Wright-Patterson Air Force Base
+Dayton, Ohio
+Commanding General
+Air Materiel Command
+Wright¿P¿atterson Air Force Base
+Dayton, chio
+ATTH:
+MOXAXO-3
+mibject as abore, dated 28 July 1910, fron this office.
+Reference is made to the report of investigation, file and
+2.
+With the subsequent transmission to the Air Materiel Command
+of the evidence (shorted spark pluga) all logical investigative action
+has been completed and this case is being considered closed in the files
+of this office.
+In order that OSI records may be complete, it is requested that
+this office be advised of the remlis of any setion taken concerning this
+subject.
+R. Burett
+> Captain
+U SAF
+District Commande:
+DO F20:
+LATO OS
+CO.•
+00
+DO
+785
+SSIFIED
+08/03
+NUY 6O M
+2013
+Declassification Authority: NND 923007

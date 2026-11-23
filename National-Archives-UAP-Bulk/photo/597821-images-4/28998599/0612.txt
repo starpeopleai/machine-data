@@ -1,0 +1,21 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T10:33:43Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8808929, "source_ctime_ns": 1793387372569930363, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28998599/0612.jpg", "source_mtime_ns": 1785748311000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28998599/0612.jpg", "source_sha256": "b516403f2fcc89311d642788a71330fece8e74d897f75232d6deb1f46daffbc3"}
+
+===== PAGE 1 =====
+{"alpha_words": 78, "chars": 567, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTA
+ICE BRAN
+INCOMIR
+AF IN : 20506 (13 Aug 62)
+Page 2 of 2
+BT
+UNCLAS
+MER INT
+1. COAST GUARD CUTTER TRITON IN POSITION 19-57N. 90-38.5W BETWEEN
+0336Z AND 0338Z SIGHTED BRILLIANT ROUND¿LIKE OBJECT OF YELLOW/WHITE
+INCINDIARY-LIKE HIGH ILLUMINOSITY WITH LONG METEOR-LIKE TAIL OF
+SANE COLOR, PROCEEDING FROM DIRECTION 335 DEG TRUE TO 155 DEGREES
+TRUE, TRAVELING AT MEDIUM ALTITUDE, PARALLEL TO SURFACE, SPEED
+APPROKIMATE THAT OF JET AIRCRAFT. SKY DARK AND CLEAR,
+VISIBILITY UNLIMITED, DEFINITELY NOT FALLING STAR.
+13/ 045 ØZ
+NOTE: Advance copy to OOP-CP, CIN and DIA.

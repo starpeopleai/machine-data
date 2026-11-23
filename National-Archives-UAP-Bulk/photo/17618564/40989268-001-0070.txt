@@ -1,0 +1,47 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T10:42:58Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 17302546, "source_ctime_ns": 1793355631876495742, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0070.jpg", "source_mtime_ns": 1785564492000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0070.jpg", "source_sha256": "5884d5ad6a49996459cebe976db799cc0fc9ad9b042c2db4a01b11554dad0474"}
+
+===== PAGE 1 =====
+{"alpha_words": 486, "chars": 3134, "method": "ocr", "page": 1, "variant": "plain-vision"}
+126
+aircraft applications envisioned. Goodyear Aerospace Corporation research and
+development programs, therefore, included the fabrication of a special pilot loom to
+permit the use of a wide variety of fibers at very precise weave arrangements. This
+loom was the forerunner of the giant Air Force loom just completed. This latter
+piece of equipment is all automatic, numerically controlled, and capable of making
+Airmat shapes large enough to be of interest to the balloon industry. When the pilot
+loom shown in Figure 3 was constructed, it was the largest of its type, being capable
+of weaving basic flat panels six inches thick and sixty inches wide with high precision.
+This piece of equipment was quite versatile and many of the fabrication techniques
+developed later were checked out on it. Figure 4 shows the larger loom developed
+by GAC for the Air Force. It is actually 17 feet high, 80 feet wide and 125 feet long
+and is capable of weaving Airmat in widths up to 21 feet.
+Figure 3. Pilot Loom
+The loom is so large it must be housed in a special high-bay area. It was de-
+signed to be able to make giant wings for space booster systems capable of flying
+back to earth through the high-heating re-entry corridors. It, therefore, is capable
+of handling high-temperature metal filaments such as stainless steel or René 41, as
+well as other types of fibers. Drop-thread lengths or wing thicknesses of eight feet
+or bigger are possible. The coatings to achieve gas-tightness, of course, are then
+compatible with the fibers used and the environments to be encountered.
+127
+Figure 4. Air Force Loom
+To the balloon designer, large sizes are most attractive because they mean large
+volumes and increased static-lift capability from the gas displacement of air. Now
+that Airmat structures of giant dimensions are possible, it is worthwhile to review
+possible applications and material choices to see if balloon-performance capabilities
+cannot be improved through the use of new materials.
+3. APPLICATION
+Perhaps the first place to look for a possible application would be the replace-
+ment of current structures using the web and lobe construction such as the tails of
+conventional barrage balloons or even the new high-lift, highly-stable Vee-Balloon,
+shown in Figures 5 and 6 respectively. Their aerodynamic performance can be
+improved by permitting the choice of good airfoils in place of simulated ones. Even
+the rigid tail surfaces of powered airships can be replaced by this structural tech-
+nique. Studies show not only a possible weight savings, but also an improvement in
+safety because an overload on a pressurized tail surface can only result in a deflec-
+tion and not a failure. (Current airship tail surfaces are already one of the most
+efficient aircraft structures ever made from a strength/weight standpoint, so meeting
+or beating this value is definitely a step forward.) Figure 7 illustrates the largest
+nonrigid airship built. It had a volume of 1,500,000 cubic feet and used tail surfaces
+which were fabric-covered metal framework that is typical of what could be readily
+replaced with the new structural material.

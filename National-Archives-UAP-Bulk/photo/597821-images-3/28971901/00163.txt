@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T10:34:31Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9026869, "source_ctime_ns": 1793379303709068302, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28971901/00163.jpg", "source_mtime_ns": 1785700751000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28971901/00163.jpg", "source_sha256": "06ae89e9b20acccf30e31ba0d9b98477fc9fd9b4485975a71ffbe15954dee532"}
+
+===== PAGE 1 =====
+{"alpha_words": 59, "chars": 422, "method": "ocr", "page": 1, "variant": "plain-vision"}
+INCLE
+REASE
+RIGHTNESS
+Directin,
+Seen f
+A. HAPPENED TO 1OOY UP WHILE AT WORK IN TOLL. BOOTH (NY
+THRUDAY, NEW PALTZ).
+B. DIRECTLY OVERHEAD.
+C. OVER HORIZON
+D. NORTHBOUND ALONG PATH OF THRUMAY.
+ROCEEDED
+VERY SLOWLY
+LONG PATH GENERALLY LIKE THAT OF AN ARC, AND
+SHIFTED POSITION FROM TIME TO TIME
+DISPAPEARED BEHIND TR
+50 MINUTES
+<
+* TIME
+A. VISUAL-
+-G-TOUNd
+B. NEC
+C. NEG
+Movement
+Northward?
+A. 23007-23502 20 OCT 57
+B. NICHT

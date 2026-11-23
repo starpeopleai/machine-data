@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T10:58:55Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 27046972, "source_ctime_ns": 1793358051979829923, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1784-596566-0006.tif", "source_mtime_ns": 1785565019000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1784-596566-0006.tif", "source_sha256": "e2c57e113bd9251d0ccd67985d0f68789ac4b1f36e3c083343d7e9a2f7990626"}
+
+===== PAGE 1 =====
+{"alpha_words": 75, "chars": 614, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Veather sequence at the tine of all sightings in this report was
+as follows:
+Surface wind - Bast at 8 kmote.
+- East at 10 knote.
+b. 10,000 г
+c. 20,0001
+- East at 10 knots.
+€. 30,000*
+- East at 8 knots.
+..
+• Clear with no clouds.
+Y. Ceiling unlimited.
+8. Visibility 10 miles.
+h.
+Temperatures vere conatant to abeve 30,0001.
+9. Preparing officer's evaluation - All sightings probably astronomical
+phenomenon.
+Hauld Briller
+HAROLD R. MILL SEE
+Capt., USAF
+Group Intelligence Officer
+DISTRIBUTION:
+1 cy es:
+D/I USAP
+NEAC
+ADG
+64th AD
+ATIC
+DECLASSIFIED
+USAF
+I LO. E: HAS 0 4 2/12/28
+Declassification Authority: NND 57565

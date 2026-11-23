@@ -1,0 +1,59 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T10:26:59Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7120493, "source_ctime_ns": 1793363178617018940, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330784594/45484701-004-005-0183.jpg", "source_mtime_ns": 1785684749000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330784594/45484701-004-005-0183.jpg", "source_sha256": "7a65ec400b58ef815cbeebf4e95d8b1a8a721d29835f378838ff53145d49c36b"}
+
+===== PAGE 1 =====
+{"alpha_words": 388, "chars": 2583, "method": "ocr", "page": 1, "variant": "plain-vision"}
+INHAL
+DEPARTMENT OF THE AIR FORCE
+HEADQUARTERS UNITED STATES AIR FORCE
+WASHINGTON 25, D. C.
+5 July 1950
+MEMORANDUM FOR: DIRECTOR, SPECIAL INVESTIGATIONS
+SUBJECT: (Unclassified) Unconventional Aircraft
+1. Reference is made to memorandum from Chief, General Investiga-
+tions Division to this Division, concerning captioned subject, dated 5
+July 1950.
+Major Nold has contacted the Technical Capabilities Branch,
+AFOIN, who in tur discussed the request being made of DO #5 with It.
+Colonel Stattler, Acting Executive, AFOIN. Nothing was known about a
+recent personal request from General Cabell that action be taken to obtain
+the motion picture film through contact with the "Courier Journal", Louis-
+ville, Kentucky. Technical Capabilities Branch instructed Major Nold that
+they would take the responsibility for withdrawing any request made by
+that Directorate in view of their conviction that the film would not be
+likely to add anything new on this subject and could probably not be
+secured without compromising the Air Force interest.
+3 .
+Colonel Roth, Executive to General Putt was aware of a request
+to AMC which was based on the desire of Dr. Valley, Research & Development
+Board, to see such a film if one existed. The Directorate of Research and
+Development stresses that they would not desire that any interest in the
+film on the part of the Air Force be revealed to the "Courier Journal."
+Colonel Roth expressed a personal opinion that it would be nice if OSI
+could arrange to secure a copy of the film in some covert manner but if
+that was not feasible he would recontact Dr. Valley and recommend that if
+Dr. Valley still has an interest in seeing the film that he arrange to
+negotiate directly with the "Courier Journal."
+4. It. Colonel O'Connell, District Commander, 5th OSI District, was
+contacted at approximately 1615 hours on this date and informed of the
+above. He proposes to inform Colonel Watson of AMC that OSI representatives
+could not hope to make inquiries in this matter without risking an indica-
+tion of Air Force interest. Colonel O'Connell proposed further to determine
+if Colonel Watson desires to recontact his requestors (AFOIN and AFDRD) for
+further evaluation of the matter.
+5. Colonel O'Connell will advise this headquarters of any further
+development s.
+CLASSIFICATION CANCELLED Y
+BY AUTHORITY OF THE DIRECT
+BY
+KURT K. KUNZE, Capt, USAF
+Historian
+DATE
+4 DEC 1975
+anil deng,
+DAVID B. BORDEN
+It. Colonel, USAF
+Acug Chief, Counter Intelligence Div
+Office of Special Investigations
+UNCLASSIFIED
+Inspector General
+Declassification Authority: NND 923007
