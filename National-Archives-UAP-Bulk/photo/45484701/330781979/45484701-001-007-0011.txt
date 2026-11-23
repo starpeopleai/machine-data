@@ -1,0 +1,64 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T23:53:28Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7145319, "source_ctime_ns": 1793361981714405935, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330781979/45484701-001-007-0011.jpg", "source_mtime_ns": 1785684542000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330781979/45484701-001-007-0011.jpg", "source_sha256": "6fda8cf0c7cff14e8c3d131f1a849c91128c5ccda5d0df42b2b3c476a4be8755"}
+
+===== PAGE 1 =====
+{"alpha_words": 313, "chars": 1982, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Statement taken by:
+
+ROWALD C. HILDRETH
+‘ Special Agent, OSI
+ATEMENT
+
+McChord Air Force Base, Washington
+24 November 1948
+
+Statement of ROBERT 1, KUNZMAN, 2nd Lt A0Q~2027143
+
+(Name and Rank) (ASN)
+it 318th Fighter Squadron
+
+(Organization
+
+My name is ROBERT L. KUNZMAN, 2nd Lt
+
+I was born on the _12th day of June 1922, at _ Bellingham ‘
+Washington I was commissioned in the United States Air Force on the
+
+26th day of March 19.48 , at Hamilton Field, California :
+
+I make the following statement after having heard the 24th Article of War,
+which was read and explained to me by DONALD C. HILDRETH, whom I know to be
+a Special Agent, Office of Special Investigations, USAF. No threats or prom-
+ises have been used to induce me to make this statement and I realize that
+anything I say may be used for or against me in a court of law.
+
+Q. (BY AGENT HILDRUTH) Lt KUNZMAN, I understand that on or about 30 October
+1948, while on a flying mission, you sighted an unidentified flying object.
+Will you state the date and time you sighted this object--giving Zonal Time?
+
+I think it was the 3th of October 1948, but I would have to look it up
+to be sure. We flew practically every day. It was some time in the after-
+noon. I would say it was just about 2230 hours Zonal Time (1430).
+
+What type of aircraft were you in, and what was the speed, altitude and
+direction of flight?
+
+We were flying an F-82-F; speed at the time was approximately 240; our
+altitude was approximately 8,000 feet; our direction was Northerly.
+
+What was your distance and direction from a city, town or known landmark?
+
+We were ten miles West--off the coast--and about fifteen miles North of
+Grays Harbor, Washington.
+
+What was the clock position of this object from your aircraft?
+
+At the time of the initial sighting, it was 10:00 o'clock and they moved
+all the way around to 3:00 o'clock and disappeared just as they came back
+to 2:30,
+
+a ance ee
+" . SENG A ae
+
+INCLOSURE #2
+
+Declassification Authority: NND 923007

@@ -1,0 +1,47 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T00:23:37Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1475288, "source_ctime_ns": 1793356284697116688, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989312-001-0113.jpg", "source_mtime_ns": 1785564660000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989312-001-0113.jpg", "source_sha256": "a59e4226625a8b36fd73b7f650a49d1132957fe697fce287bd8f6a1fe90d7ff5"}
+
+===== PAGE 1 =====
+{"alpha_words": 461, "chars": 2769, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Margin Quote:
+
+“Cartography is very much like art. It is art, in away. The cartographer has to take
+a spherical surface, the Earth, and represent it on a flat piece of paper. A portrait artist
+has to take the solid head and shoulders of the man, and represent it on a canvas.”
+
+“I also developed a map where neither the ocean nor the land masses were interrupted by
+the edge of the map, showing both the ocean and the continents in their entirety. This
+was a revolutionary new approach to cartography. I produced these maps by hand while
+a visiting scholar at the University of Southern California. Now with the help of a
+computer specialist at the U.S. Geological Service, near my home in Middleburg,
+computer-drawn world maps with natural boundaries are being produced.
+
+“I continue to work as a catalyst and stimulator to my old project of colonizing the
+oceans. It seems ridiculous to me that recently President Bush has spoken of colonizing
+the moon, when three-quarters of our world is yet to be colonized.
+
+Athelstan has been involved in and effected many events of the Twentieth Century. His
+life has been interesting beyond measure; but, the thing he enjoys most in his life is his
+antique mechanical toy collection. You always see a smile when the subject of his toys
+comes up. He has recently written and “starred” in a video which features his collection.
+Thus, Athel once again educates and delights yet another generation. He and Kathy have
+written a charming book called Mechanical Toys which was published by Crown
+Publishing, in Christmas, 1989.
+
+Margin Quote:
+
+“People always ask me how and why I got into toy collecting, and that's very hard to
+answer. I usually say that when I was a child, because of living on the farm and going
+away to boarding school in England, I had very few toys when I was a kid. In fact, the
+only toy I remember and cherished, and have to this day was a Meccano set. I continu-
+ally added to it, and I still use parts of it in fixing toys.”
+
+“I can’t say I became interested in toys because I never had them to play with, because I
+don’t think that’s true. When I was furnishing the house in Cape Cod, after World War
+II, I went around to second hand antique stores to get furniture, and I would see curious
+scientific instruments and sometimes toys or music boxes, which at that early date were
+very inexpensive. The antique craze hadn't swept the country and been blown up to the
+extent it is now. I picked up a few music boxes, old clocks, and some toys.
+
+“It was only in 1965, when I was married to my second wife, Gail, that we really began
+enjoying going around together in whatever city we were in, looking for toys. We did it
+casually, but we accumulated a great number of them. She loved them, and it was just our

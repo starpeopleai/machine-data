@@ -1,0 +1,43 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T23:47:58Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6113783, "source_ctime_ns": 1793370414024064132, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28934502/0397.jpg", "source_mtime_ns": 1785688717000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28934502/0397.jpg", "source_sha256": "39fd4aa9f3c859e4507d3927765266056dc1b1639b0cb18c130d1cc14e000211"}
+
+===== PAGE 1 =====
+{"alpha_words": 65, "chars": 442, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+&
+
+CONTROL No,
+
+su yet: LP
+
+MCIMAL FILE NO.
+
+FOLLOW UP ON
+
+Q =» 433 Une @ventiy aircraft |.
+don oat..cmageee yes 7 Ll
+From: Yourth Army Ft Sam Houston Dated 5/2/49
+To: TALS Ta ka S No. INCLS. 2
+RECORDING DATE i Din Pi 7? 2
+ATHL 5/9/49 +14
+DESK RECORDED Hour
+
+ROUTED TO
+
+SUSPENSE DATE
+
+ESTABLISHED BY INirtacs| DATE
+
+{ ,
+LaAsS
+
+}
+iv re
+
+DATS OF REPLY
+
+OTHER DIGPOSITION:
+
+TRANSMITTAL
+A4G FORM MO. 10-2
+129 NOV. 47)
+SES OTHER SIOE
+FOR REMARKS

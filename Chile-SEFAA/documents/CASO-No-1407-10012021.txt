@@ -1,4 +1,4 @@
-{"created_utc": "2026-10-08T04:05:18Z", "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "embedded-text", "pages": 0, "schema": "ufo-files-archive-ocr/v1", "source_bytes": 696059, "source_ctime_ns": 1788502936697042794, "source_file": "Chile-SEFAA/documents/CASO-No-1407-10012021.pdf", "source_mtime_ns": 1788502936585073549, "source_rel": "Chile-SEFAA/documents/CASO-No-1407-10012021.pdf", "source_sha256": "7a904c79c1f205615847dfaeeff9dc5f999903f3f811ae51f8691b6357814644"}
+{"created_utc": "2026-11-23T00:14:54Z", "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "embedded-text", "pages": 0, "schema": "ufo-files-archive-ocr/v1", "source_bytes": 696059, "source_ctime_ns": 1793354223209045780, "source_file": "Chile-SEFAA/documents/CASO-No-1407-10012021.pdf", "source_mtime_ns": 1788502936000000000, "source_rel": "Chile-SEFAA/documents/CASO-No-1407-10012021.pdf", "source_sha256": "7a904c79c1f205615847dfaeeff9dc5f999903f3f811ae51f8691b6357814644"}
 
 Caso Nº 1407 10012021
 

@@ -1,0 +1,76 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T23:36:38Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4306230, "source_ctime_ns": 1793359071683347635, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-005-028-0001.tif", "source_mtime_ns": 1785681309000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-005-028-0001.tif", "source_sha256": "9e5e8cdee5f9a99d73c13adb7f149eab6c564e0982b3a0b6bc85835b651bd811"}
+
+===== PAGE 1 =====
+{"alpha_words": 77, "chars": 604, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Declassification Authority NND 923007
+
+1.402) AISS UFOB LOG’
+
+| REPORT NO.
+
+ATSS-UFOB-353-55
+
+DATE /TLE OF SIGHTING
+
+a
+
+{RECD HQ 602D
+
+10 oct se
+
+10/0002 Oct 55
+
+LOCATION OF Sacrring
+
+I Baltimore, Maxyland
+
+LOGGED BY
+
+q
+
+S/Sgt DeRudder: |
+
+isg
+
+Fy
+
+ACTION
+
+No investigation a uthorized
+
+} INVES. UNIT
+
+3 oe
+
+DATE INVES ASSIGNED
+
+N/A
+
+ASSIGNING OFFICER |
+
+| DATE IR RECD HO
+
+N/A
+
+DATE IR APPROVED
+
+N/A
+
+DATE IR TO ATIC
+
+N/A
+
+Sees
+
+th Oct 59
+
+COMMENTS
+
+The course of the object and the duration of the sighting indicate
+ran aireraft possibility.
+
+CONGLUSIONS
+
+| POSSIBLY ATRCRAST
+
+ATSOP FORM 7 (2 APR 55)

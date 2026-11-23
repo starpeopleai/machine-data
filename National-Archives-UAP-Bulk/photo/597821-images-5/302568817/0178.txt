@@ -1,0 +1,46 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T00:26:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1730518, "source_ctime_ns": 1793392563748309105, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302568817/0178.jp2", "source_mtime_ns": 1785808284000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302568817/0178.jp2", "source_sha256": "a8d62b0e5126131488b842fc0304aeb3c044e98c9bef21058c6aaa8c7075d4ff"}
+
+===== PAGE 1 =====
+{"alpha_words": 210, "chars": 1388, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+TDST/UFO OFFICIAL FILE CY
+
+TDET/UFO (Maj Quintanilla/70916/mhs/30 Sep 67)
+UFO Observation & Photographs
+
+ancaster, Pennsylvania 17503
+
+l. Reference your letter of September 21, 1907 in which you
+
+reported your unidentified ooservation and subsequent photograrhs.
+
+If you wish the Air Force to perform an analysis on your photosrapns
+additional information is necessary. Therefore, request you con-
+plete the attached FTD Porm 164 and photographic data sheet and return
+thea along with your original negatives in the inclosed envelope.
+
+2. Wwe co not wish to steal your negatives from you; they will be
+returned to you uvon completion of analysis «long with our findings.
+If you do not provide the negatives we will be unable to perform an
+analysis.
+
+3. We do not have the funds or the time to visit everyone who has on
+
+S
+unldentifled flying object report. Yor this reason, each Air Yorce
+installation has an U¥TO investigator who is able to conduct on-the-sm'
+
+investigations. The nearest Air Force installation to Lancaster,
+Pennsylvania is Olmstead AF3. If you do not want to forward your
+aegatives to the Aerial Phenomena Branch (Project Blue Book) you may
+
+wisn to contact Olmstead AFB.
+
+4, Thank you for bringing your observation to our attention.
+
+/
+ogres C. MANAT?, Colonel, USAF 2 Atechs
+trector of Technology and Sudsystens 1. FID Form 164 w/envelerve
+
+2. Pnoto Deta Sheet
+
+ee

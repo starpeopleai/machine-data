@@ -1,0 +1,17 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T23:34:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4001951, "source_ctime_ns": 1793379159908111158, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28971327/1066.jpg", "source_mtime_ns": 1785700927000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28971327/1066.jpg", "source_sha256": "14bf65b72a0a1f67254bc39e4116aaea28c9e16b74cb4612a8873bdbc7bc96ab"}
+
+===== PAGE 1 =====
+{"alpha_words": 51, "chars": 314, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+WWRG123 YDC@75 XYA218JBA@75JBG993 ie ae
+PP RJEDEN RJEDWP | > ci § Wi
+DE RJWPJB 36 Soe ee
+
+P 2315452
+
+FM COMDR 751ST ACWRON MT LAGUNA CALIF
+
+| TO RJWPJB/COMDR 27TH AIR DIV DEF NORTON AFB CALIF
+
+RJEDEN/COMDR AIR DEF COMMAND ENT AFB COLORADO
+
+RJEDWP/CCMDR AIR TECHNICAL INTELLIGENCE CENTER WP AFB DAYTON OHIO. .., ‘

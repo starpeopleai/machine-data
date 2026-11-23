@@ -1,0 +1,87 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T00:15:17Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 412522, "source_ctime_ns": 1793365589173087939, "source_file": "National-Archives-UAP-Bulk/photo/5011500/5011500_VolumeI_Page_002.jpg", "source_mtime_ns": 1785565396000000000, "source_rel": "National-Archives-UAP-Bulk/photo/5011500/5011500_VolumeI_Page_002.jpg", "source_sha256": "432e921bd862cf1476952b1c8b133426488f71a659d6e102f0cb1001bf84777c"}
+
+===== PAGE 1 =====
+{"alpha_words": 56, "chars": 598, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+00:00:01
+00:00:02
+00:00:07
+00:00:08
+00:00:12
+00:00319
+00:00:21
+00:00:22
+00:00:23
+00:00:24
+00:00:26
+00:00:50
+00:00:53
+00:00:54
+00:00 359
+00:01:02
+00:01:24
+00:01:41
+00:01:43
+00:01:44
+00:01:45
+
+00:01:48
+
+cc
+Cc
+cc
+
+cc
+
+Cc
+
+Cc
+
+cc
+
+cc
+
+cc
+
+cc
+
+cc
+
+cc
+
+cc
+
+CONFIDENTIAL”
+
+Ts Gy Dy 44 3,12, 4, 0.
+Ignition.
+
+lift-off.
+
+lift-off 19:30:03. Lift-off 19:30:03.
+We're on our way, Frank!
+ooo Right!
+
+Plus 13 Seconds.
+
+Looking real good.
+
+Roli initiate.
+
+eee Yaw.
+
+Roger. Roll.
+
+Pitch initiate.
+
+Roger. Pitch.
+
+MARK. 50 seconds.
+
+Roger. 5.6 on the cabin.
+
+MARK. One plus 40.
+Okay.
+
+Roger. Mode 2.
+
+CONFIDENTIAL”

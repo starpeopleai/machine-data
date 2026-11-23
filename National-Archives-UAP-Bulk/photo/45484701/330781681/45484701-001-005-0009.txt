@@ -1,0 +1,59 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T23:45:06Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5685956, "source_ctime_ns": 1793361868918303520, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330781681/45484701-001-005-0009.jpg", "source_mtime_ns": 1785684786000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330781681/45484701-001-005-0009.jpg", "source_sha256": "0bef71346c3d94ec92d4c8a788d1751fc94000786937e1f8b053375f72223c38"}
+
+===== PAGE 1 =====
+{"alpha_words": 218, "chars": 1573, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Ltr Hq AAA and GM Ctr, AKBAAB, 452.1 6 May 1919, subj, Unconventional
+Aircraft.
+
+1,4. Time in sight: 30 to 50 seconds
+Speed: 200-250 MHP
+
+16. Sound or odor: None
+
+Lie (LraLles none
+
+18. Luminosity: Highly reflective
+
+19. Projections: None
+
+20. Maneuvers: None
+
+al. Manner of disappearance: Object went out of sight
+straight and level course.
+
+22. Effect of e€lquds: None
+23. Additional information concerning object: None
+
+a. Weather conditions and light at time of sighting:
+Clear, light blue sky, no clouds, light gust of wim.
+
+Names and Addresses of Witnesses:
+
+Major Charles D. May, Jr, Box 272 AA & GM Br TAS, Ft Bliss, Tex
+Major James N. Olhausen, 290); Lebanon St., #1 Paso, Téxas
+Capt. Molloy C. Vaughn, 209 Ramona Drive, Fl Paso, Tex
+
+Occupation and hobbies: All persons listed above as witnesses
+are in the military service.
+
+Comments of interrogator relative to intelligence and character
+of observer:
+
+An interview with officers in the Gunnery Department of the AA &
+GM Br, TAS, revealed that the observers are reliable and their character
+
+are above reproach.
+
+Did observer wear glasses, especially polaroid glasses at time of
+sighting or was object viewed through canopy, wimow, or other transparent
+material: Captain Vaughn was wearing Ray Ban sun glasses.
+
+GENERAL
+
+1. Teletype sequences of local weather conditions: Clouds,
+scattered variable tobroken with bases 15,000 feet; visibility: unres-
+tricted; maximum temperature: &5 at 1500; relative humidity: 25%
+
+2. Winds aloft report: no est to north w/speed 10 MPH.
+
+Declassification Authority: NND 923007

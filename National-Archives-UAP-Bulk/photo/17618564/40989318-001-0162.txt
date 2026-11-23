@@ -1,0 +1,45 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T00:18:57Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 986205, "source_ctime_ns": 1793356357046968782, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989318-001-0162.jpg", "source_mtime_ns": 1785564683000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989318-001-0162.jpg", "source_sha256": "81f3f00ce45a10454a38867a91c2a8cf4b927b735967c390a8e2ebfb30fc63bb"}
+
+===== PAGE 1 =====
+{"alpha_words": 141, "chars": 1063, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+A. G. P,. | {
+
+3 TELETYPE MESSAGE
+
+3
+ROUT
+
+| aoe AIR SERVICE COMMAND TELETYPE NETWORK TSSEQUB/LEB/sw
+ADDRESS
+' FROM: AMC DATE: 30 Sept Lé6
+| c. E. JUNG,
+Colonel, Air Ccrps,
+; TO: CC, A‘F Yash 25, D.C. Chief, Zautnmert Sectior
+{ Supvivy ~ivision 5-22):1
+i ~~ J/ne a}, AG 0 an ce NAME, RANK AND TITLE OF AUTHENTICATING OFFICE”
+k Attrs AC, Bly Holy ir recnarc
+| CLASS:
+r
+t TSSEQLBZ-9-S0 2. - we es RESUEST TEST 200 EA. S1HEA BOYB, G.F., LCO-L=
+E
+4 AN-M30 W/FIN, 200 EA. S20W4 FUZE, BCNE, “ECH TI2E, M127 (NCSE) AND 20C 3A.
+| S2AGA ADA PTER BOCST=R M117 BE MADE AVATLABLE TC ORDNAICE PROPERTY CFFICBR,
+WATSC’ LABORATORY, RED BANK, RmY JERSEY FOR USE I? CCNJUCTICK HITE
+| PRECJECT MOGUL, EX. ORDER 13-11, PRICRITY 1c. REQUEST TETS HES ATTN:
+[ TSSEQLB BE ADVISED CF APPLICABLE CHIEF CF ORDNANCE SETPETNG CRDEP FC., TIME,
+I PLACE atD DATE CF AVATLABILITY AND ARRANGEMZNTS TLL BE MADE FOR PERSCNAL
+
+PICKUP OF TETS MATERIEL. DIRECT SHISMENT TO WATSCN LABORATORY IS ‘CT DEST Sr 7
+
+SIGNED SUPPLY DIVISICN.
+
+C
+
+0
+
+P
+Y
+C. G. OR C. O. Sopaa MAINTENANCE ere
+COORDINATION
+
+et /

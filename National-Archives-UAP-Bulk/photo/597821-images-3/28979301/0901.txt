@@ -1,0 +1,44 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T23:49:36Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6579751, "source_ctime_ns": 1793381108814064616, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28979301/0901.jpg", "source_mtime_ns": 1785700954000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28979301/0901.jpg", "source_sha256": "d41d3d9a86e208834f84b132c025e1d43bed1c826f1626fdc096d8ddfe08d3b8"}
+
+===== PAGE 1 =====
+{"alpha_words": 70, "chars": 468, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+) ito
+CZCSOFE93ZCOYB766
+PP RJEDSO
+DE RuWzGU 1H
+FN COMDR 786TH ACW AFS fae
+TO RJEDDN/COMDR ENT AFE
+RJWZGU/COMDR 39TH ADIV DEF
+RJEDSO/COMDR WRIGHT PATTERSON AFE —~
+RJEPHO/COMDR ACOFS G2 USAF
+RJEPHO/COMDR INFO SERVICES HQ USAF
+BT
+UNCLAS UFO?
+Ay DESCRIPTION OF OBJECT
+
+(1) NO DISCERNABLE
+(2)\ PEA
+
+(4) Le
+(5) N/A
+(6) NONE
+(7) NONED
+(&) NONE
+
+($) INTENSE_LIGHT$ LOOKED ai, 28
+
+oid Ag TELE EPHONED |.
+a
+
+—— 7
+
+; i Ps Le - f
+i
+, a ae
+
+Lig
+2 rey
+
+1-4Xe
+
+Ware: Loat-ed (he si

@@ -1,0 +1,44 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T23:50:39Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6682264, "source_ctime_ns": 1793359423138145108, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-008-001-0001.tif", "source_mtime_ns": 1785681410000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-008-001-0001.tif", "source_sha256": "e8b32ead5109ec5f87ea38980c127da8a596531daa2f824e89014386549ed960"}
+
+===== PAGE 1 =====
+{"alpha_words": 151, "chars": 1045, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Declassification Authority NND 923007
+
+eu uw)
+Le att eA
+
+eye =) \ IZOEE
+UFOG Repeers Bor luartnans Mes YS
+
+—gJelay — @(2l/77 ey
+~— ~~ G/B?
+Bsa.
+Sov | Recoer RePeel No Locpatioks
+€ Tone 8) VASE Wh-5e Ala. Biomingham
+Hoy. ary WWS6 B65E , Montaomary
+Far, QS, \A56. (Wone) Asiz.) Salaveite,
+Desh a ) em 3 lo WIS-5la . | Poesce¥
+Avly a8; JAG 20356. Ark.) Ena\
+Avy ar, IASG 35356 ~~ Wensx\y
+Aen, %5 \A5@ 5-5G' Calif.) Wor lor :
+Fo} 3, \SQG AS Slip Vow WvYs
+Felo, “I, \A5G arS5& Son Fasnento
+Fol, 16, IASG %8-Sle AN Rivexsides
+Mec A, ASG G54 LWindhestoe
+Wee 15, \A56. 10-56 Vow NvyS
+Maes IK, \A\SG@ S-Se Folsom ISON
+Mos, a2, JAS “We DEYN
+Mar, Qa, \ASG 15°SG Nantoyo.
+Age: | aX \Agq \OrSo Hunt) naton
+Moy, i \AB@ IS-S@ Sow Di tao
+Ney 1, 5G re Pole Deserh
+Moy \"(, \A5(6 130-S@ Los Angeles :
+May a0, IASG )34-S@ Son Luis Ovisee
+Ave @) 56 MeSo Beanty |
+Avne Wy \ASG \i-5G Linh the
+bar Wy, 1156 \sad& En canto :
+Aone 0, 15@ VIS 56 Scattered pis
+Aviy it, M5e 8i-5@ Lona RBar
+Aviy al \SG a0ase Bobuen
+Aviy 2a \ 156 SASSO Loe pod
+Avl} 450, R2005O Hollywood)

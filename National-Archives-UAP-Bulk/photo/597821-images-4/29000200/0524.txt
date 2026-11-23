@@ -1,0 +1,53 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T23:39:38Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4626041, "source_ctime_ns": 1793388148831690791, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/29000200/0524.jpg", "source_mtime_ns": 1785748274000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/29000200/0524.jpg", "source_sha256": "2c75dcd1c14ad2800c91071d30c627bbb6793f210cfe28600ae3d3349ae4f620"}
+
+===== PAGE 1 =====
+{"alpha_words": 150, "chars": 1130, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+DEPARTMENT OF THE AIR FORCE
+
+STAFF MESSAGE BRANCH
+UNCLASSIFIED MESSAGE
+
+INCOMING
+
+AF IN : 2431 (7 Feb 63) PZ 3 of 3
+PAGE THREE RUEAAM 23
+
+(1) 06/@590Z FEB 63
+
+(2) NIGHT, NO CLOUDS. VISIBILITY UNLIMITED.
+
+E. LOCATION OF OBSERVER - 15 NM SOUTH OF MONTEBELLO VA VOR
+
+F, IDENTIFYING INFORMATION ON OBSERVER:
+
+(1) CIVILIAN PILOT, GIO , ..qgqunmmuaieeeeeppetncs,
+
+DRIVE MACON, GEORGIA, PHONE QO—MMNG@OMER. RELIABILITY - Goop
+
+G. WX CONDITIONS AND WINDS:
+
+(1) NO CLOUDS, VISIBILITY UNLIMITED
+
+(2) WIND 270 DEG 15 KTS 5,900-20,990 CLEAR
+
+H. N/A
+
+I. N/A
+
+Je ANY OTHER UNUSAL ACTIVITY: NASA TEST AIRCRAFT C54, OUT OF
+BALTIMORE FLYING A 25 NM RADIUS OF QUANTICO VA. DEPARTED BALTIMORE
+28/0040Z RETURNED BALTIMORE @6/0620Z. AIRCRAFT OPERATED OFF FL 249
+WITH BOTH LANDING LIGHTS ON MOST OF THE TIME AND OPERATED A STROBE
+LIGHT ON UNDERSIDE OF FUSELAGE. NASA PILOT - CAPTAIN HANDLEY
+
+126 NORTHWOOD DRIVE TIMONIUM MD.
+
+Ke SENIOR DIRECTOR - I BELIEVE THAT THE OBSERVER SAW THE NASA
+AIRCRAFT DURING THE TIME THAT THE AIRCRAFT WAS OPERATING ITS
+
+™*
+
+LANDING LIGHTS AND/OR ITS SPECIAL STROBE LIGHT.
+
+BI NOTE: ADV CY DEL TO DIA.
+97/1917Z FEB RUEAAM

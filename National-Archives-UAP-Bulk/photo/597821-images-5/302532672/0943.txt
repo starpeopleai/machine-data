@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T00:18:12Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 910101, "source_ctime_ns": 1793388798185175471, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302532672/0943.jp2", "source_mtime_ns": 1785808205000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302532672/0943.jp2", "source_sha256": "10adf6c88179cc950b40b6d5f2da86d5bcdbbbf74d9eca787c290a8bea733b8e"}
+
+===== PAGE 1 =====
+{"alpha_words": 127, "chars": 827, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+wT 5
+FOLLOWING MESSAGE RECEIVED BY BLACK PHONE: 5 MAY/ 05342,
+FM: SGT BROWN AF COMMAND POST ~ PENTAGON.
+
+MESSAGE FROM SAC RECEIVED BY SAC AT 0450Z REPORTS
+THAT THE SHERRIFF OF BOISE, IDAHO, CALLED
+MOUNTAIN HOME AFB TO REPORT THAT
+
+2 LARGE RED BALLS WERE SEEN BY
+
+SEVERAL RELIABLE WITNESSES.
+
+WITNESSES REPORTED THE BALLS SEEMED
+
+TO BE LANDING - INSTEAD OF FALLING -
+
+BECAUSE OF A GRADUAL MOVEMENT
+
+DOWNWARD AND FLAMES SHOOTING
+
+DOWNWARD. LANDING AREA WAS
+REPORTED AS 10-12 MILES NW OF
+BOISE. SHERRIFF'S MEN AND
+
+SAC OFFICERS WILL CHECK
+
+THE LANDING AREA IN THE MORNING.
+
+THIS WAS A 20,000 (28%% CANDLE POWER FLARE. MAN AND HIS SON ADMITTED
+
+SHOOTING IT OFF. UFO OFFICER DIDN't GET THERE NAMES. IT WAS
+BROADCASTED OVER THE RADIO. UFO OFFICER DROPPED THE INVESTIGATION BECAUSE:
+IT WAS NO LONGER A UFO. CASE CLOSED.
+
+SGT OBENOUR

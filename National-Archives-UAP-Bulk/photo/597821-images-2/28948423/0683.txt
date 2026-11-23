@@ -1,0 +1,62 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T23:31:34Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3705353, "source_ctime_ns": 1793373737105163945, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28948423/0683.jpg", "source_mtime_ns": 1785696711000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28948423/0683.jpg", "source_sha256": "0be1ecefa734ab7448109b62b140b3a9f263f0f2072f178afa614a9766058623"}
+
+===== PAGE 1 =====
+{"alpha_words": 248, "chars": 1655, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+'
+. ft
+i
+;
+
+ATLO Test Form: 334 (13 Aug 52)
+
+Since at a ( PROJECY 10074 WORKSHERT — ’
+I. GENERAL ;
+ha. DAS 2. LOCATION 3. iThes my
+ve “esa par P Ilncal: 00 £8 Aye
+ht é | ‘Sa fr ttre ie r™ f. f Pam eka f . Zebrar 2 4 =~ 3 |
+Yo WAS OTST OnSERVED FROM THe GxOUND? “ty Yea “ey No |
+| (AT Naked Eye
+i.) Binoculars
+1 CI Yeleseopa
+[| Theedoltta
+“6, WAS O8JECT OBSERVED BY GROUND RADAR? (Jj ius tFTio
+LiBy Ona Set
+CIBy Two Sets
+["|By Threa Seta {
+6. WAS OSdsCr OBSERVED FROM THE AIK? CI Yes t-pio |
+: __MC Observed Objoct
+(]Interception Attempted
+. (CJNo Intercept Attempted
+. fs Weide AIRCRAFT SCRAMBLED TO INTERCEPT? L} Yes {—Hio
+| fy Scrambled
+a CVisual Contact Made
+(Ci A/I Contact Made
+| {ino Contact Mads
+is, DiD OBJECT CHANGE DIRECTION AT ANY TINS? (ST Yes Cj No
+C) Normal
+feTViolent }
+ig, If OBJECT WAS A "LIGHT", WAS Iv: is) Blintcing
+4 . k-Stondy iy oe eA Setlier§
+120, LENGIN OF TIME IN SIGHT: |} i-l5 Seconds JT
+' (J 1-5 Minutes
+a a me kvOver 10 Minutes
+: iL. REPORTING AGENCY (Unit Number and Halling Address) —
+30™ “pp Hamclhnw CEB Gs
+ii z yA
+IL. ASTRONOMICAL DATA
+; 12, WHAT ASTRONOMICAL ACTIVITY WAS noted? Me
+“13, DID OBJECT APPEAR TO ARCH DOWNWARD? |! Yes Pio
+TU, DOD OBJECT HAVE A TAIL? id 7 Yes b+ flo
+15. DED OBJECT APPEAR TO DISINTEGRATE? Yos No
+“IT6> PRES OF SIGHTING RELATIVE TO SUNRISE OR SUNSET (3 a From Air Almanac)
+. Oo? Night
+i_} Day
+| C: Sunrise
+' Sunset
+III. AIRCRAFT DATA
+UT WERE AIRCRAFT NOTcD IN AREA? “) Yes [-fNo
+' !One Aireraft
+‘ lMore Than One Aircraft
+ls. WAS ANY SOUND HEARD? “T¥es_ rit [—Hio |
+TOS WERS THERE INDYCAYTCNS OF HIGH TACKGROUND NOISE’ 3 Yes _ toto |
+oe WAS THE UBSECT Vibe RLOVE L590 ELEVATION? FT Yor Ato |

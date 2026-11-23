@@ -1,0 +1,59 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T00:03:34Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9186091, "source_ctime_ns": 1793364014167196807, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330786313/45484701-006-005-0156.jpg", "source_mtime_ns": 1785684969000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330786313/45484701-006-005-0156.jpg", "source_sha256": "4de345b72dc59bfa412842d45e87b1cc88ea5e92436b14314d2b820e13374385"}
+
+===== PAGE 1 =====
+{"alpha_words": 362, "chars": 2570, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+File No: (24-8)-28
+Subj: Summary of Observations of Aerial Phenomena in
+the New Mexico Area, December 1948 = May 1950 25 May 1950
+
+Director of the Institute of Meteoritics and Head of the Department of
+Mathematics and Astronomy at the University of New Mexico, He was Rew
+search Mathematician at the New Mexico Proving Grounds under an OSRD
+appointment in 1943 and 1944, and Technical Director of the Operations’
+Analysis Section, Headquarters, Second Air Force, 1944-45, Since 1948,
+Dr, LaPaz has served on a voluntary basis as consultant for this Dis-
+trict in connection with the green fireball investigations,
+
+4, On 17 February 1949 and again on 14 October 1949, conferences
+were held at Los Alamos, New Mexico, for the purpose of discussing the
+green fireball phenomena, Representatives of the following organizations
+were present at these meetings: Fourth Army, Armed Forces Special Wea
+pons Project, University of New Mexico, Federal Bureau of Investigation,
+U. S, Atomic Energy Commission, University of California, U, 5, Air Force
+Scientific Advisory Board, Geophysical Research Division Air Materiel
+Command USAF, and the Office of Special Investigations (IG) USAF, A
+logical explanation was not proffered with respect to the origin of the
+green fireballs, It was, however, generally concluded that the phenoe
+mena existed and that they should be studied scientifically umtil these
+occurrences have been satisfactorily explained, Further, that tho
+continued occurrence of unexplained phenomena of this nature in the
+vicinity of sensitive installations is cause for concern,
+
+5. ‘The Geophysical Research Division, Air Metericl Command,
+Cambridge, Massachusetts, has recently let a contract to Land-Air, Inc.,
+Holloman AFB, Alamogordo, New Mexico, for a limited scientific study of
+green fireballs, The results of this scientific approach to the problem
+will undoubtedly be of great value in determining the origin of these
+phenomena.
+
+6- This summary of observations of aerial phenomena has been
+prepared for the purpose of re-emphasizing and reiterating the fact
+that phenomena have continuously occurred in the New Mexico skies
+during the past 18 months and are continuing to occur, and, secondly,
+that these phenomena are occurring in the vicinity of sensitive mili-
+tary and government installations,
+
+eed
+
+Lys
+4 Inels DOY LE /REES
+1. Summary of Sightings Lt Cfgloncl, USAF
+2e Photo of Sighting No, 175 District Commander
+w/comments
+5, Ltr fr Dr, laPaz to Lt Col
+Rees, dtd 23 May 50
+4, Graph indicating maximums
+
+|
+
+Declassification Authority: NND 923007

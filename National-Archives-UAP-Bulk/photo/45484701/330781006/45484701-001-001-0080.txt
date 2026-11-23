@@ -1,0 +1,83 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T23:53:38Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7313023, "source_ctime_ns": 1793361637085930947, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330781006/45484701-001-001-0080.jpg", "source_mtime_ns": 1785684842000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330781006/45484701-001-001-0080.jpg", "source_sha256": "cd68d48c39971f6d4c6d1392632d4a2829158005dbc600d79121a33aa0b4af02"}
+
+===== PAGE 1 =====
+{"alpha_words": 160, "chars": 1154, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+HEADQUARTERS UNITED STATES AIR FORCE
+THE INSPECTOR GENERAL
+OFFICE OF SPECIAL INVESTIGATIONS
+
+FILE NO.
+~~
+
+REPORT MADE BY
+
+REPORT OF INVESTIGATION THOMAS J. SCANLAN
+
+REPORT MADE AT
+
+a4
+
+PERIOD
+
+7 and 8 June 1949
+
+\ Ane Profect "Sign*
+
+OFFICE OF ORIGIN
+
+Rae hevada
+
+STATUS
+
+CHARACTER
+
+REFERENCE
+
+THX from DO #16, Hil) AFB, Ogden, Utah, dtd 3 June 1947
+
+SYNOPSIS
+
+investigation requested by District
+Commander, 16th District OSI, Hill
+
+AF Base, Ogden, Utah. RUSSELL B.
+HENRICH stated that he observed five
+(5) lights in wee formation; estimated
+altitude one thousand feet; five miles
+South of Elko, Nevada; lights moving
+West at high rate of speed. Ho cut-
+line discernible; could not establish
+whether one object or five (5) objects.
+No other witnesses.
+
+~- REFERRED UPON COMPLETION TO THE OFFICE OF ORIGIN ~-
+
+CL sg ATION CANCEL LE ws ote
+
+Historian
+
+DISTRIBUTION 7
+
+bO #5 (Action Copy)
+(2. Incl)
+Bq, 081 (2 Incl)
+pO #16. (2 Inel)
+File (2 Incl)
+
+Command ce Gene
+
+Air Materiel Goacanad
+Wright-Patterson AF Base
+Dayton, Ohic
+
+ATTK: HCIAXO-3
+
+APPROVED
+
+: sda bac ne UNCLASSIFIED
+
+DISTRICT COMMANDER
+
+SMAMA—Nov 48—100M
+
+Declassification Authority: NND 923007

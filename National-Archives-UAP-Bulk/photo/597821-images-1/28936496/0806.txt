@@ -1,0 +1,24 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T23:32:54Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3803505, "source_ctime_ns": 1793371068712113670, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28936496/0806.jpg", "source_mtime_ns": 1785689005000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28936496/0806.jpg", "source_sha256": "cd08b331c8fcde4f2550993f0fe97a501294d3c24b18e2116321cc45df85e0ce"}
+
+===== PAGE 1 =====
+{"alpha_words": 58, "chars": 448, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Brief: B/Ltr from Dept of M.S.&T., Univ of Cincinnati, subject, "Report
+
+of unidentified Airborne object," dated 22 August 1949
+
+94F 000.92 (22 Aug 49) lst Ind HP
+
+HEADQUARTERS NINTH AIR FORCE, Langley Air Force Base, Virginia 1 2 sep 194g
+TO: Commanding Generel, Air Materiel Command, Wright-Patterson Air Force
+Base, Dayton, Ohio, ATIN: MOIAX0-3
+
+FOR THE COMMANDING GENERAL:
+
+Fad
+
+Ver bs
+i ‘
+. JOHN L. BROOKS
+CAPTAIN, USAF -
+
+ASST. ACJ. GENERAL

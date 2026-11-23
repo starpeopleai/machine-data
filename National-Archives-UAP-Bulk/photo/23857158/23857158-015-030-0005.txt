@@ -1,0 +1,47 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T23:31:13Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3625392, "source_ctime_ns": 1793360390303565768, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-015-030-0005.tif", "source_mtime_ns": 1785681709000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-015-030-0005.tif", "source_sha256": "0ba5ac74aa5a29c63c4c842fd81014bc49ffe8c3196ab95c948f61b5110a5e97"}
+
+===== PAGE 1 =====
+{"alpha_words": 271, "chars": 1759, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Declassification Authority NND 923007
+
+At S23 3 =A PR ow m1. ;
+U.S. AIR FORCE TECHNICAL INFORMATION SHEET
+This questionnaire has been prepared so that you can give the U. S. Air Force as much
+information as possible concerning the unidentified aerial phenomenon that you have observed.
+Please try to answer as many questions as you possibly can. The information that you give will
+be used for reasearch purposes, and will be regarded as confidential material. Your name will not
+be used in connection with any statements, conclusions, or publications without your permission.
+We request this personal information so that, if it is deemed necessary, we may contact you for
+further details.
+\
+1, Wher did you see the object? 2. Time of day: = “7 <20
+Hour Minutes
+Aue RYA
+Day Month Year (Circle One): A.M or P.M.
+3. Time zone: ee
+(Circle One): a. Eastern (Circle One): ‘a._Daylight Saving
+b. Central : b. Standard
+c. Mountain
+d. Pacific
+e. Other
+4. Where were you when you saw the object?
+WP tae ee Tv; ia ivan séi no PO AS dla
+Nearest Postal Address City of Town State or Country
+Additional remarks:
+5. Estimate how long you saw the object. 4
+Hours Minutes Seconds
+5.1 Circle one of the following to indicate how cerfain you are of your answer to Question 5,
+_g- Certain c. Not very sure
+&: Pama CIES) d. Justa guess
+Y tee
+6. What was the condition of tn> sky?
+(Circle One): a. Bright sylight d, Just a trace.of daylight
+b. Dull daylight fe. No acetanidaylightan
+c. Bright twilight f. Don’t remember
+7. IF you saw the object during DAYL “HT, TWILIGHT, or DAWN, where was the SUN located as you looked at
+the object?
+(Circle One): a. In front of you d. To your left
+b. In back of you e. Overhead
+c. To your right f, Don’t remember
+
+ATIC FORM NO. 164 (13 OCT 54)

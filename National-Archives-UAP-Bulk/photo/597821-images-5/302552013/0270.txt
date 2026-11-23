@@ -1,0 +1,18 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T00:20:00Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1013472, "source_ctime_ns": 1793390647810253299, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302552013/0270.jp2", "source_mtime_ns": 1785807993000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302552013/0270.jp2", "source_sha256": "e8ebdb171690ad92de57b0f53ea957c4a42e928a93ff3efc0c7bbfc7fd7baf6d"}
+
+===== PAGE 1 =====
+{"alpha_words": 102, "chars": 565, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+266 © APPENDIX Ill
+
+Paget
+
+32. In the following sketch, imagine that you ore of the point shown, Place an ‘A” on the curved line to show how
+high the object was above the horizon (skyline) when you first saw it. Place a “B” on the some evrved line to
+how high the object was above the horizon (skyline) when you las? sew it.
+
+te ene
+
+ra
+
+33. In the following lorger sketch ploce an “A” at the position the object was when you first sow Ht, ond @ °B” of its
+position when you Jas? sow it. Refer to smaller sketch as an anomple of how to complete the lorger sketch.

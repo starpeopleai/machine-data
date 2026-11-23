@@ -1,0 +1,64 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T00:24:42Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1723044, "source_ctime_ns": 1793391047324396317, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302555183/0318.jp2", "source_mtime_ns": 1785808433000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302555183/0318.jp2", "source_sha256": "bcef9148ddb5865ce0a1a777a45d69db643ed80d1f03e02021b0d936430c2bd0"}
+
+===== PAGE 1 =====
+{"alpha_words": 131, "chars": 914, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+FTD WORK ORDER
+‘a . sai , siadieaien
+
+ow
+
+ae
+
+1. Description of Work: (Include title of unscheduled tasks.) | -FROM-
+2. FTD W.0.No.
+
+TITLE: UFO Report
+| 3. Monitor JJ
+
+Request analysis as to the probable cause of the Radar return Maj H. Quintanilla.Jr
+
+a. Extensive Analysis 70916/76678
+5. DIA Task No.
+b. Broad t65-01-59
+6. DIA Priority
+
+6A
+d. 3rd 7. Date Needed
+14 Oct 66
+| 8. Consequence Code
+
+ce. No
+
+e. 4 hrs
+
+yO
+9. Classification of
+Sources
+All Source
+10.Classification of
+
+we End Product
+Unclassified
+
+a. Ay Japhet or Oe Sig.
+Ra
+
+Ci, ah oy eae
+
+-TO-
+
+12. Div./ Dir. Symbol
+TDEER
+
+13. M-H_ Estimate
+
+18. Div. Chiefs Instructions /Modification or Expansion of > 7 -#
+Work Description 14. Wronitor
+* / Yr yom
+ZBv ale po ee Via ie goes ao€ by 15. Phones, —
+7D EER eee” B fo yo One of 2 of 16. Div. Precedence
+, on ee OS ae ae 17. Div. Chiet/Dir. Sig.
+& Froeeran ‘=
+f~
+
+FTD Form13, MAY 66 Copy Nr. 1 to Block 3

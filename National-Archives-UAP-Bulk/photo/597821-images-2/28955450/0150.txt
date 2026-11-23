@@ -1,0 +1,53 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T23:33:30Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3945239, "source_ctime_ns": 1793375279165979576, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28955450/0150.jpg", "source_mtime_ns": 1785696622000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28955450/0150.jpg", "source_sha256": "53346ba542122e9c9260d2bf7fa5a6e06c5904fad39664dfc27a01b63545e17b"}
+
+===== PAGE 1 =====
+{"alpha_words": 103, "chars": 734, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+1. DATE - TIME GROUP
+10 Jul 53 11/01002
+
+2. LOCATION. .
+Forrest City, Arkansas
+
+3, SOURCE
+bivilian
+
+4. NUMBER OF OBJECTS
+one
+
+10. CONCLUSION nartooN: WEATHER BALLOON
+
+1. The manuevers & description are similar to a Weather
+Balloon. 2. Sources seem to be unsure of time and length
+of sighting.
+
+5. LENGTH OF OBSERVATION
+30-45 mins
+
+G TYPE OF OBSERVATION
+ground visual
+
+7. COURSE
+South
+
+& PHOTOS
+
+O Yeo
+Q Ne
+
+9. PHYSICAL EVIDENCE
+
+QO Yes
+O Ne
+
+11. BRIEF SUMMARY AND ANALYSIS
+
+One large bright obj appeared from the NW hovered over the
+city and disappeared to the South. Obj was described as
+silver colored and very bright at a high alt traveling slowly.
+
+FORM
+FTD ser 63 0-329 (TDE) previous editions of this form may be used.
+
+’
+
+——<=

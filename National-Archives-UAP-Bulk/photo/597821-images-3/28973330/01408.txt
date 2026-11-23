@@ -1,0 +1,73 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T00:00:28Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8684180, "source_ctime_ns": 1793379743032853245, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28973330/01408.jpg", "source_mtime_ns": 1785700815000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28973330/01408.jpg", "source_sha256": "776e385e1c4c8657735784eab4bb30a9d5b44e2d8c4a6dfdb0311af11fc910b9"}
+
+===== PAGE 1 =====
+{"alpha_words": 67, "chars": 568, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Tw és ~~ baw bt - a&@ we+ Gee , ~, i pi , /
+; 0 fom Jy A ffheyrs
+
+(£) OVER HORIZON
+
+CFS MIN
+
+C3)
+
+C4)
+
+65)
+(6)
+
+CLR
+
+MANNER OF OBSERVATIONS
+(A) GROUND - VISUAL
+
+(B) NONE
+
+(C) NZA :
+TIME & DATE OF SIGHTING
+
+tas $i,
+
+(A) @7/9149Z NOV 57 2¢YO-7 = »
+
+—
+
+IDENTIFYING INFO OF ALL OBSERVERS
+CA)
+1ST MATE Oj gaaaage”
+
+ROSW
+
+(B) N/A
+
+PF
+
+THREE RJEPNY 48
+
+WEATHER
+
+CA) CLR
+
+KY i 9
+
+(B) SURFACE 258 DEG 9 KT
+
+$,999 338 DEG 29 KT
+vA
+
+19,088 348 DEG 35 KT
+MANA
+
+16,900 348 DEG 56 KT
+
+YW
+
+29,983 319 DEG 75 KT
+
+39,938 289 DEG 45 KT
+
+58,998 27% DEG 7% KT
+
+fC) 89,286 FT
+
+(n>) 19 NM

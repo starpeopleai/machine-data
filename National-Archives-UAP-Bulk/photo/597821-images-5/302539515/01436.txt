@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T00:22:54Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1406551, "source_ctime_ns": 1793389352640602512, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302539515/01436.jp2", "source_mtime_ns": 1785808363000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302539515/01436.jp2", "source_sha256": "6e0d6a6691f73791c77e27a88fca31787f1a3aae476a84febaa89bc1db1175fa"}
+
+===== PAGE 1 =====
+{"alpha_words": 167, "chars": 1330, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ge Weather and winds:
+(1). Observers report clear night, high visibility, no storms.
+
+(2). Winds at surface calm; 6,000', 220-deg. at 24-knots;
+10,000', 220-deg. at M6-knots; 16,000', 220-deg. at 12-knots;
+20,000', 220-deg. at 5-knotss; 30,000', 280-dezg. at 2-knots;
+50,000", 060—deg. at 11-lmots; 80,000', 090-deg, at 48-knots.
+
+(3). Ceiling 3500 scattered, 8000 broken.
+(4). Vis. one mile and fog. (Possibility of error).
+(5). See 3 above.
+(6). No thunderstorms.
+(7). No temperature inversions.
+h. None reported,
+ie None.
+
+je Weather balloon released from different location at 0200
+local; estimated position at 1900Z was 2,00N/12000E, estimated
+height 30,000',.
+
+k. Preparing officer: Capt. Edwaré W. Phillips, AO 3087479,
+Operations Division, this organization.
+
+(1). No preliminary conclusions at this time; sightings
+are continuing, and further reports are being forwarded as they
+are prepared. Latest sightings indicate that objects are luminous
+around the edges with a dark center; persons concerned have not
+all been debriefed as of this date. Report #2 from this organization
+Will cover sightings occurring on 13 and 17 July 65. Weather data
+above may not be accurate, since sources are non-U.S. in this area.
+Request feedback as soon as possible from your headquarters.
+
+FOR THE COMMANDER /
+
+Operations Division. oes

@@ -1,0 +1,44 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T00:15:09Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 342823, "source_ctime_ns": 1793389700577231664, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302543039/0347.jp2", "source_mtime_ns": 1785808174000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302543039/0347.jp2", "source_sha256": "40f175e5766156cf385b646e9cdd18e1aba998ea566a51ef26e8950727b96aa1"}
+
+===== PAGE 1 =====
+{"alpha_words": 138, "chars": 935, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD
+
+1. DATE - TIME GROUP 2. LOCATION
+2 August 65 25/0310Z Rowwell, New Hescico
+3. SOURCE 10, CONCLUSION
+Civilian Other (BIRDS)
+
+1. NUMBER OF OBJECTS
+/ Dim lipht passing thrush ® degrees of are in 3 Seconds,
++. LENGTH OF OBSERVATION 11. BRIEF SUMMARY AND ANALYSIS
+
+S
+
+3 Seconds Very weak light dimer than the brieht stars. Pale white.
+Passed behind trees, Flicht to Sowth. Passed through 30 deg
+of arc. Even flisht. Level (Horizontal),
+
+Sround=Visual Could be a dim reteor om aw object. such as a bird at close
+ranze. More likely something close to the observer in the
+absence of brightness and no tail. More likely a bird.
+
+South Bright night. Small, mie white, shared like a hornets nest.
+Hight vear old described gs looking Like a mrachute,
+
+«4. TYPE OF OBSERVATION
+
+7, COURSE
+
+8. PHOTOS
+
+is] Yes
+XX No
+9. PHY SICAL EVIDENCE
+
+i] Yes
+
+XX No
+
+FORM
+-FTD sep 63 0-329 (TDE) Previous editions of this form may be werd.

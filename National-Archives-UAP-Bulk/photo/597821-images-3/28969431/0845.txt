@@ -1,0 +1,12 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T23:43:02Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5096554, "source_ctime_ns": 1793378830043536116, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28969431/0845.jpg", "source_mtime_ns": 1785701002000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28969431/0845.jpg", "source_sha256": "af0846792528975c3c5cc3dcf8cbc22ed363c17f9fc55374912df91a0cd55460"}
+
+===== PAGE 1 =====
+{"alpha_words": 79, "chars": 479, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+MARCH BP 1957 BAUDETTE. MINNESOTA + + + +~+«tKEYHOE-1960 P 55) 1 WITNESS 00
+‘A PILOT: WITH 21000 HOURS OF FLYING EXPERIENCE» REPORTED SIGHTING AN OBJECTO]
+
+FROM THE GROUND. THE UFO HE SAW WAS CIRCULAR: FROM FIFTEEN “TO EIGHTEEN FEET . 02
+IN DIAMETERe MOVING UPWIND, ITS OOD “GLOW SHONE ON THE SNOW-COVERED GROUND 03
+
+IT WAS SO LOW THAT IT SEEMED TO SUCK THE LOOSE SNOW UP UNDER IT AS IT PASSEDs “04
+BEE III IIE III IOI III EI LILI IT A II III IIIS SI II II IIASA IIIA ASIA ISOS

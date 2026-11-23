@@ -1,0 +1,24 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T23:49:27Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6505812, "source_ctime_ns": 1793354701134848512, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989218-001-0170.jpg", "source_mtime_ns": 1785564326000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989218-001-0170.jpg", "source_sha256": "6708b26088f65e783ec602466715867b3ce6b9fd100c710e3a66ed6cc05f9869"}
+
+===== PAGE 1 =====
+{"alpha_words": 64, "chars": 449, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+HEADQUARTERS
+FIFTEENTH AIR FORCE (SAC)
+March Air Force Base, California
+
+In the foregoing case of LIEUTENANT COLONEL GEORGE F. ADAMS,
+
+A0257543, 6th Tactical Hospital, 6th Bombardment Wing, Heavy, the
+
+sentence is approved and wil duly executed.
+The record of trial is forwarded to The Judge Advocate General,
+
+United States Air Force, for examination under Article 69.
+
+ya
+
+,,
+
+PRCHTE J. OLD, UR.
+(Major General, United States Air Force
+Commander

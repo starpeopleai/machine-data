@@ -1,0 +1,21 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T00:29:38Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 2897141, "source_ctime_ns": 1793371187298764691, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28937026/1317.jpg", "source_mtime_ns": 1785688495000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28937026/1317.jpg", "source_sha256": "06a246f7b686e75a80383d912feabce9916e113ad04e3b7fafd04a9354450c66"}
+
+===== PAGE 1 =====
+{"alpha_words": 80, "chars": 520, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+i C
+ee 0
+oh ooicc P
+
+Y.
+
+ur. aw showed the visitors @ newspaper clipping, where he had
+addressed a local Chamber of Commerce ata luncheon meeting, narrating one
+or two stories of his unusual observations of flying saucers. When he asked
+the gentlemen present if any of them had ever observed similar objects, fully
+25 Or 30 of the members present acknowledged immediately that they had seen
+similar objects, but had been reluctant to report them for fear people would
+think they were "off@ the beam",
+
+BNCLASS:" !E@
+
+<>

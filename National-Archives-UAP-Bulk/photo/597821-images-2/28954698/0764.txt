@@ -1,0 +1,40 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T23:41:34Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4902150, "source_ctime_ns": 1793375111762513287, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28954698/0764.jpg", "source_mtime_ns": 1785696766000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28954698/0764.jpg", "source_sha256": "613d0189c18d5795da63c0ba671f8f6f47621bbcb1ee9cdeb1e0e561b557506d"}
+
+===== PAGE 1 =====
+{"alpha_words": 249, "chars": 1591, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+LOSS OF AIRCRAFT PERFORMANCE DURING HOT WEATHER
+
+Thin Air asaaes Lift. You get thin air at high altitudes and in hot weather. The hotter the temperature, the thinner the
+nir.
+
+Do you realize that Kansas City Airport with an elevation of 744 feet above sea level can have an effective elevation identical
+to Stapleton Field, Denver, at 5325 feet above sea level, under conditions of extreme heat and low pressure?
+
+Do you realize that Brees Airport at Laramie, Wyoming, at 7273 feet above sea level, can be above the safe operational al-
+titude of your aircraft during hot weather?
+
+Note: The effective elevation of Brees Airport at 86°F, for example, is 10,250 feet-Caution!
+The rarified air at higher altitudes lowers the efficiency of engine and propeller, and lessens a plane’s rate of climb. A typical
+
+- light plane has a maximum rate of climb at sea level of 420 feet per minute, whereas its maximum rate of climb at 5,000 feet
+altitude is only 225 feet per minute.
+
+This plane might be able to clear a 400 foot hill or factory stack located a few miles “— a sea level airport, but if the pilot
+tried it at 5,000 feet, he would smack right into the middle of the obstruction.
+
+Remember: Any increase’ in operating altitude (due to elevation or high temperature) greatly increases
+take-off and landing roll.
+
+SEALEVEL ££ ile
+
+en
+
+Ses ee
+
+‘FEET 250 ci e “oe 10008" ie ae
+
+ATMOSPHERIC DENSITY AT SEA LEVEL ENABLES A PLANE TO TAKE OFF IN A RELATIVELY SHORT DISTANCE
+
+FEEF 250 500528 TSO 10008! 1250 & & ISOes
+
+THE DISTANCE REQUIRED FOR A TAKE-OFF INCREASES WITH THE ALTITUDE OF THE FIELD

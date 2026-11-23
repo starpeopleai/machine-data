@@ -1,0 +1,43 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T23:49:15Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6499027, "source_ctime_ns": 1793376853276177824, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28962124/0345.jpg", "source_mtime_ns": 1785696684000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28962124/0345.jpg", "source_sha256": "5fbccec75c289dd6b7b4f12729280dd06cec299c2000f6b0d2b4ec367fc87625"}
+
+===== PAGE 1 =====
+{"alpha_words": 153, "chars": 1113, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Pe te haa ih a
+
+SOR RRP eye pee
+
+PROJECT 10073 RECORD CARD | a
+
+1. DATE 2. LOCATION 12. CONCLUSIONS
+DO Was wien.
+Qh ce ; : 7 ~t0O Probably Balloon
+18 May 1955 Niagara Falls AFR, New York®? Possiuly Balloon
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION
+Local ; ee O Ground: Vi sual O Ground-Radar a Pesbally Aiveratt
+GMT 19/0140 MEX Air Vi sual 0 Air-Intercept Radar O Possibly Aircraft
+5. PHOTOS 6. SOURCE {IX Was Astronomical Meteor
+0 Yes QO Probably foHlacdalchille
+DNo Mili tary (¥86D Pilot) O Possibly Astronomico
+7. LENGTH OF OBSERVATION 8. NUMBER OF OBJECTS | 9. COURSE D , Other
+O Insufficient Data for Evaluation
+‘ QO Unknown
+2 - 3 seconds one descent (slight)
+10. BRIEF SUMMARY OF SIGHTING n
+
+- COMMENTS
+One spherical, white, object approxi
+mately 10 feet in diameter was
+observed by a F86D pilot while
+flying over Niagara AFB, New York,
+Object was observed for a period
+
+of two to three seconds while pilot
+was banking to the left. Pilot cir-
+cled the area three or four times
+to effect a further Sighting with
+negative results,
+
+Sight ing descriptive of meteor
+ebservation,
+
+ATIC FORM 329 (REV 26 SEP 52)

@@ -1,0 +1,41 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T23:51:14Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6815956, "source_ctime_ns": 1793361839033461319, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330781540/45484701-001-004-0071.jpg", "source_mtime_ns": 1785685075000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330781540/45484701-001-004-0071.jpg", "source_sha256": "ed753de17fd2d10f06d4cd045f0f4ea4c4a11c6665b0ff5abb54616756ea78e4"}
+
+===== PAGE 1 =====
+{"alpha_words": 130, "chars": 1092, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+WINDS ALOFT
+0400 Hours =---. ALTITUDE DIREC TION
+1000 180°
+2000
+3000
+
+4900
+
+INC LOS URES
+
+FOR COMMANDING GENERAL, AIR MATERIEL COMMAND, WRIGHT-PATTERSON AFB, DAYTON, OHTOs
+
+Tre enneena—reenereesnunenntnsentsnetsenntfsmeeneesorannenenenenrnnacent ee a gee tek A » ELD
+Exhibit I «eeeliap of Orlando & Winter Park, Fla.
+Exhibit II on--Kipt of Visibility-S/Sgt H, L. OSTSEN
+Exhibit III — ‘ " -Sgt E. H. HATFIELD
+Exhibit IV nak ~Pfo W. B. HINES
+Exhibit ¥ -Pfo E, W. CHEEK
+Exhibit VI -Pfe G. B, DIAS
+Exhibit VII ~Mr. P, J. EARLY
+Exhibit VIII " : W. HUGGING
+Exhibit IX ° Me MEEK
+
+GEDEVELOPZD LEADS
+MacDill Air Force Base, Tampa &, Florida.
+
+AT TAMPA INTERNATIONAL AIRPORT, TAMPA, FLORIDA
+‘soonest seemed somestnanneenomeneomall ansitvemrunann onsen eieatinntaeocameniioeonatete
+
+le Will interview Mr. BH, R. BARRETT, Chie? Commmicator and deter-
+mine substence of report of wmidentified object sighted over Drew Field
+at 0110 hours 31 Jan 49,
+
+22 Will interview individuals named in above report and determine
+extent of observation made by these individuals.
+
+Declassification Authority: NND 923007

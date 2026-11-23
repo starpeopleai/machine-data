@@ -1,0 +1,60 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T23:35:40Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4170396, "source_ctime_ns": 1793374020970713181, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28949767/0541.jpg", "source_mtime_ns": 1785696451000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28949767/0541.jpg", "source_sha256": "3b057cf20acf963829f6de008fbe08f04b9d3ab8d490644787f24e89fca92138"}
+
+===== PAGE 1 =====
+{"alpha_words": 173, "chars": 1163, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+_.__A/C Scrambled
+
+C1 Visual Contact Made
+Ori Contact Made
+No Contact Mads
+
+{ ROJECL 16075 WORKSHEET {
+I. GENERAL
+
+i, DAts 2e LOCATION 5. TLS
+4 tee 4 ae Prd thagirincgh we. Pe al Zabrat DO 0.2
+ye a WOM LHE GROUID? (ves Cj No |
+Coffated Eye !
+i_}] Binoculars !
+Cl telescope
+[| Thsodolite nee
+Sy WAS OBJaC? OBSERVED DY GROUND RADAR? (3 Yus CTNo |
+Ci By Ons Set
+. (1 By Two Sets
+. (_] By Three Sets
+“S. WAS OSdBUr OBSSKVED FROM THe AIR? C) Yos 70
+
+A/C Ovssrved Object
+
+{_}Interception Attezpted
+
+LiNo Intercept Attezpted
+
+7) WERE ATRORAFT SCRAMBLED TO THTERCEPT? CL) ves Cais
+
+Se DID OBUECT CHANGE DInSCTION AT ANY TIME?” CJ] Yes to
+=) Normal
+l) Violent ;
+“Sv TF OBvect WAS A “LIGHT”, WAS IT: _) Blinking |
+peacy
+“jOv LENGTH OF TIE IN SICHT: Seconds 2 dteruls |
+ai 1-5 ii nutes
+[1 Over 10 Minutes :
+“TI. REPORTING AGENCY (Unit Number and Malling Address) = :
+1 /f ’ ™ > '
+ty USase Wak. D., |
+7
+II. ASTRONOMICAL DATA
+‘13. 4 NU’ om
+V
+“13 ¥ No
+mor Seal
+| Lige DID eat he TAIL? Le les ri No
+16. t ETE OF St SE EES Pn SEO SSE (Data From Alr Almanac)
+C Night
+= =! Day )
+(ae unsd 3°
+vSuneet
+ITT. AIRCRAFT DATA 3
+WERE ATRCHAP YT NOTED IN ARAA; ~) Yes ToT
+‘... One Aircraft

@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T23:33:40Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3952144, "source_ctime_ns": 1793382486640515080, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28984122/0960.jpg", "source_mtime_ns": 1785700686000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28984122/0960.jpg", "source_sha256": "1b24724f55d11483b4d69bdb53a9bea99778c724ce5d04091ee30d07b4ea7479"}
+
+===== PAGE 1 =====
+{"alpha_words": 135, "chars": 918, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+DEPARTMENT OF THE AIR FORCE
+
+‘ i STAFF MESSAGE DIVISION (
+SN i UNCLASSIFIED MESSAGE
+4
+PAGE FOUR RJEDJR 5 : INCOMING
+33 NONE,
+Jo NONE,
+
+Ko WILLIAMS. BARNETT, 1/LT, USAF, ASSISTANT INTELLIGENCE OFFICER,
+NEW YORK AIR DEFENSE SECTOR, MCGUIRE AIR FORCE BASE, NEW JERSEY.
+INFORMATION WAS RECEIVED FROM LAKEHURST NAVAL AIR STATION, NEW JERSEY
+THAT A WEATHER BALLOON WAS RELEASED AT 13/2@028Z AND HEADED DUE EAST
+FROM THE STATION. LAKEHURST NAVAL AIR STATION IS LOCATED APPROXI-
+
+MATELY 25 MILES DUE WEST OF THE OBSERVER. PRELIMINARY ANALYSIS OF THE
+
+PREPARING OFFICER INDICATES THAT ATERE IS STRONG POSSIBILITY THAT
+THE WEATHER BALLOON RELEASED FROM LAKEHURST NAVAL AIR STATION WAS IN
+THE VICINITY OF THE OBSERVER AT THE TIME FO THE SIGHTING.
+Lo NONE,
+BT
+14/1389Z AUG RJEDJR
+
+NOTE : Advance copy delivered to CIN
+
+ACTION: CIN |
+
+INFO. 33, O00P, SARS
+
+AF IN 3° 13550 (14 Aug 59) Page 4 of 4 pages
+
+Pie ee a i
+Ww / PS hie a |

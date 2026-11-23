@@ -1,0 +1,23 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T23:30:57Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3524239, "source_ctime_ns": 1793382519134640654, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28984333/1143.jpg", "source_mtime_ns": 1785701050000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28984333/1143.jpg", "source_sha256": "4fc607f46b6f7c3d816106e397209ed7cf743439463f67b1e36876856f57a4ac"}
+
+===== PAGE 1 =====
+{"alpha_words": 77, "chars": 652, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+1. DATE 2. LOCATION 12. CONCLUSIONS
+O Was Balloon
+29 Aug 59 Hoquian, Wash GE robosly Balican
+3. DATE-TIME GROUP &. TYPE OF OBSERVATION Ge roaeiblysbaueer
+Local 2055 GB Ground-Vi sual O Ground-Radar om Peachy Alrerah
+GMT 39/9455 Aug 59 D Air Visual O Air-Intercept Rador 0 Possibly Aircraft
+5. PHOTOS 6. SOURCE O Was Astronomical
+O Yes O Probably Astronomical
+D:No Civilian D Possibly Astronomical
+7. LENGTH OF OBSERVATION 8. NUMBER OF OBJECTS | 9. COURSE O Other.
+D Insufficient Dato for Evaluation
+) se O Unknown
+20 min i On) y
+10, BRIEF SUMMARY OF SIGHTING 11, COMMENTS
+ied out of sight.
+" ATIC FORM 329 (REV 26 SEP $2)
+J

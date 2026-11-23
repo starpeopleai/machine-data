@@ -1,0 +1,96 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T23:58:26Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8482972, "source_ctime_ns": 1793386995251891107, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28997989/0066.jpg", "source_mtime_ns": 1785748034000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28997989/0066.jpg", "source_sha256": "19ab49a092f3c221908669b5ae7d527d29ccf6febddea85377afdc37f2704684"}
+
+===== PAGE 1 =====
+{"alpha_words": 86, "chars": 673, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+3. DATE-TIME GROUP
+
+Local RO
+
+mata?
+
+GUAT eee
+5. PHOTOS
+O Yes
+‘No
+
+7. LENGTH OF OBSERVATION
+
+eee a TT
+1
+
+10. BRIEF SUMMARY OF SIGHTING
+
+ATIC FORM 329 (REV
+
+‘
+
+26 SEP 52)
+
+PROJECT 10073 RECORD CARD
+
+2, LOCATION
+
+San Juan
+4 TYPE OF OBSERVATION
+
+mie 4 Ground-Vi sual
+0 AirVi sual
+
+Puerto Rico
+
+fF OBJECTS 9. COURSE
+
+COMMENTS
+3
+
+t
+
+Oo Ground-Radar
+
+D Air-Intercept Radar
+oO
+
+*
+
+12. CONCLUSIONS
+
+Was Balloon
+Probably Balloon
+
+Wes Ai reraft
+
+Deere en |
+
+|
+i
+
+Probably Airecr oft
+Possibly Ai reraft
+
+|
+
+a
+
+Oo Possioly Balloon
+|
+
+Qa
+
+is)
+
+Was Astronomi cal
+
+Probably Astronomical
+
+Gy, Other
+
+*
+‘
+
+O Possibly Astronomical
+
+Bin Hee Be
+
+D Insufficient Data for Evaluation
+
+O Unknown

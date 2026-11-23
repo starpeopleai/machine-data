@@ -1,0 +1,44 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T00:19:43Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1000410, "source_ctime_ns": 1793391643197923498, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302560559/1048.jp2", "source_mtime_ns": 1785808390000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302560559/1048.jp2", "source_sha256": "c6f79f1f3a221e0ff779e00f4ed257c757e38076eeedf319044ba52e69ba1304"}
+
+===== PAGE 1 =====
+{"alpha_words": 437, "chars": 2587, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Comments and Conclusions
+
+Mrs. SR bas sent a slide to the investigator, a photograph taken with
+an Instamatic (with flash) of a white light seen in the northeast. This cannot
+be a planet or star; there are no bright planets in that direction, and no stars
+would show in such a short exposure (about 1/50 second). It may be a landing
+light. The picture is now being analyzed, and will be forwarded with comments
+when the analysis is finished. The object appears as a slightly elongated white
+dot.
+
+All the witnesses appeared perfectly honest and sincere; moreover,
+they were not suffering from hallucinations or suggestions with respect to any
+of the objects seen by the investigator, since real objects were in fact there.
+However the witnesses were not highly educated, and said as much, so they were
+unaware of the simplest facts of astronomy. Mr. @@@MMMMMB said that the most inter-
+esting thing he learned during the interview was that stars can move in the sky,
+rising and setting like the sun or moon; he said that this fact certainly ex-
+plained a lot of what they had seen, for they had assumed that the slow motion
+of the objects meant that they could not be stars or planets.
+
+The investigator did not express any positive opinions about the worth of
+Quija Boards as means for obtaining information. Instead, he gave a short dis-
+cussion of the unconscious mind, how it can be seen in operation during dreams
+and when one gets inspirations without knowing where they come from, and pointed
+out that since the Ouija Board pointer must be moved by one’s own muscles and
+brain, it is certainly possible that what is written is coming from the uncon-
+scious, although one must still wonder about the ultimate source of the material.
+One of the witnesses pointed out herself that this might account for why the
+"communications" had a different character for each person working the board.
+This discussion met with great interest. The investigator voiced the opinion
+that as long as one were aware of all the possible reasons for the operation of
+the Ouija Board, he saw no harm in exploring the phenomenon, pointing out that
+many scientists study precisely such effects by various means.
+
+At the end of the interview, it became evident that Mrs. qq felt
+greatly relieved, especially to be rid of the idea that something had gone wrong
+with her mind, a thought which had obviously been weighing more and more heavily
+on her (at one point she threw away the board and all written materials associated
+
+with this experience, and tried to forget all about it - but the red lights kept

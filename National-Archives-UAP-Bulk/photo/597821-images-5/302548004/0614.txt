@@ -1,0 +1,44 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T00:17:54Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 843760, "source_ctime_ns": 1793390229576211339, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302548004/0614.jp2", "source_mtime_ns": 1785808424000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302548004/0614.jp2", "source_sha256": "07b33e4150217f0da2a95927d83da1b57674e996ca96f9c17af63ca54c557ccf"}
+
+===== PAGE 1 =====
+{"alpha_words": 120, "chars": 866, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+,, * '
+“pe ; ot ” panel Hh
+hy en v
+yp uF \
+‘
+aii eye Sea g
+
+UNCLASSIFIED
+
+DEPARTMENT OF THE AIR FORCE
+} STAFF MESSAGE BRANCH
+: INCOMING MESSAGE
+
+AF IN: 14959 (26. Mar 66) A/wmj : Pe 1 of 4
+
+ACTION: NIN-7 INFO: XOP-1, XOPX-2, SAFOS-2, DIA-1 (15)
+ADV CY DIA
+SMB CQ45RITU JAW RUWIFPA7585 @850007-UUUU-- RUEBHQA
+
+ZNR UUUUU
+R 2523352
+FM TECHTNGCEN SHEPPARD AFB TEX
+TO RUWMFVA/ADC
+RUWGKG/29AIRDIV RICHARDS GEBAUR AFB MO
+RUCDSQ/AFLC
+q RUEBHQA/CSAF
+RUEBHQA/OSAF WASH DC
+INFO RUWIFJA/ATC
+BT
+UNCLAS XPO 27052 MAR 66.
+FOR: AFLC (FOREIGN TECHNOLOGY DIV); CSAF (AFNIN); OSAF
+: (SAFOID3 ATC <ATCOI). SUBJ: UNIDENTIFIED FLYING OBJECTS.
+7 REFERENCE PARAGRAPH 14, AFR 220-2.
+j A. DESCRIPTION OF THE OBJECT:
+
+(1) RESEMBLED A FISH (AS STATED BY OBSERVER). |
+(2) APPROXIMATELY 11 FT HIGH, 12 FT THICK AND 75 FT LONG.
+(3) SILVER WITH BRIGHT LIGHTS. c
+
+ATHOQ sss O-309C | UNCLASSIFIED |

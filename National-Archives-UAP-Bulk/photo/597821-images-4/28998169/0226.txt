@@ -1,0 +1,63 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T23:52:01Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6968979, "source_ctime_ns": 1793387103664950710, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28998169/0226.jpg", "source_mtime_ns": 1785748434000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28998169/0226.jpg", "source_sha256": "e682102fb762bb27b23de22c88fd956c0b70adf7cc49d7330e290501e5ab5e3f"}
+
+===== PAGE 1 =====
+{"alpha_words": 81, "chars": 602, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+S.B A’ 199
+
+CZCHQC2 07Z¢BuRee7
+RR RUEAHQ
+
+RUHPHC 938
+
+Oo
+a]
+
+ZNR
+
+R 1314932
+
+FM C CM HAWSEAFR ON
+
+_ INFO RJWFALB/C INCNORAD
+RUHLKW/C O41 HADD
+
+° UECW SECNAV
+
+RUHP A/C INCPAC
+
+2 UHL YYW PACAF
+
+RUEAH@/C OSUSAF WASH DC
+RUHAF $/C INCUSARPAC
+
+PR 1396292
+
+i USS FAL GOUT
+
+TO CINCPACF HICKaM
+INFO CNO
+CINCPACFLT
+
+C Ol HAW SEAFRON
+COMDESFLOT FIVE
+COMCORTRON FIVE
+NAVY GR133
+
+BT
+
+UNCLAS
+
+DEPARTMENT OF TRE Och SQACS
+STAFF MESSAGE BRANCH
+
+UNCL ASSIFIFD AESS AGE
+
+AF IN: 44024 (13 July 62) GAfe Page 1 of 3
+INFO
+
+SSV-1, OOP-2, OOP-CP-1, SAFS-3, ORQ-2,
+CIN-14 (24)
+
+ENTAFR COLO
+
+As CINCPACFLT INST 93561.3A NOTAL

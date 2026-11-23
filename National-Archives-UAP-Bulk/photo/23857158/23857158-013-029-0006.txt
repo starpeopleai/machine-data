@@ -1,0 +1,64 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-22T23:30:13Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 2086570, "source_ctime_ns": 1793360190359140112, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-013-029-0006.tif", "source_mtime_ns": 1785681653000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-013-029-0006.tif", "source_sha256": "9fbb301e8696e7c428ac88ab88cb66ea10bca64223a94e384f54f43b4fab64a7"}
+
+===== PAGE 1 =====
+{"alpha_words": 90, "chars": 712, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Declassification Authority NND 923007
+
+746TH ATRCRAFT CONTROL & WARNING SCUADRON
+
+SUBJECT; "UFOBY
+
+33D AIR DIVISION (Defense)
+Tinker Air Force Base
+Oklahoma City, Oklahoma
+
+TOs Commander
+33D Air Division (Defense)
+Tinker Air Force Base
+Oklahoma City, Oklahoma
+
+1, The following information is submitted in accordance with
+Par 906, Part II, Chapter IX, of CONADM 55-1,
+
+a Deseription of the objects.
+
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+(8)
+(9)
+
+Round,
+Match head,
+Silver.
+One,
+
+N/A.
+
+To far out,
+None,
+
+None,
+
+None,
+
+b. Description of course of object:
+
+(1)
+(2)
+(3)
+(4)
+(5)
+
+Out checking weather,
+
+Up = 30° to 40° first,
+
+Went over head and faded out at about same degrees,
+North slowly, no maneuvers,
+
+Just faded out,
