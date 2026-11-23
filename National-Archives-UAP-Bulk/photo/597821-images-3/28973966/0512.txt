@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T21:49:36Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9283410, "source_ctime_ns": 1793379967525459570, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28973966/0512.jpg", "source_mtime_ns": 1785701077000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28973966/0512.jpg", "source_sha256": "c2ab0d4b22c80eeed35aa34bee3ee85ed83afdb83914618ae0c5a3a02800e7ca"}
+
+===== PAGE 1 =====
+{"alpha_words": 69, "chars": 436, "method": "ocr", "page": 1, "variant": "plain-vision"}
+C. NONE PD
+D. 15 PLUS PD
+E. NONE PD
+F. NONE PD
+8. NONE PD
+The observer watched the objet for
+1 kr. 20 mín. t
+roa
+lenoculars am
+couldnt iden
+it or give the azimuths
+ft olemo ore.
+five observer could
+provide chís i
+- .
+9. NONE PD
+10. NO KNOWN TRAFFIC PD
+11. SENIOR DIRECTOR PD 1/LT RICHARD A. CHRISTENSEN PD
+NO COMMENT PD
+12. UNKOWN PD
+the lime duration world suggert
+BT
+the observera sau a star or planeř.
+Ø7/183ØZ NOV RJWPJB
+Poss
+AS/1O

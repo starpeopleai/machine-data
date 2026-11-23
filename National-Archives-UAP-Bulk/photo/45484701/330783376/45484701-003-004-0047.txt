@@ -1,0 +1,62 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T21:48:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8723176, "source_ctime_ns": 1793362623510653977, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330783376/45484701-003-004-0047.jpg", "source_mtime_ns": 1785685000000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330783376/45484701-003-004-0047.jpg", "source_sha256": "9df9a720324cf82a49ff16a3aec7f5a3ecee8742b75208494f2f4d57e175f9de"}
+
+===== PAGE 1 =====
+{"alpha_words": 220, "chars": 1569, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AFCSI-6D/Maj Arentson/z/8896/18 May 56
+AFCSI-6D INV 24-185
+22 MAY 1958
+SUBJECT: (Unclassified) Flying Saucers
+TO :
+District Commander
+14th OSI District (IG)
+Lowry Air Force Base
+Colorado
+Attached for your information and further transmittal to
+Headquarters Air Defense Command are letters received from Mr.
+DAVID CHRENKA (DOB: 14 April 1887), 2932 Walton Road, St. Johns,
+Missouri.
+Mr. CHRENKA was interviewed by OSI agents and he furnished
+a photostatic copy of a letter received from his niece, IDA KOVACS,
+Budapest XI Ker, Lasadi W 22, Hungary.
+This letter, according to
+CHRENKA, is freely translated in part as follows:
+#The so-called flying saucer also through several
+weeks kept the people in nervous state. These very fast
+speeding riyers, kept scientaric group very busy and
+shall keep them busy. Uncle Dan (CHRENKA), I'm sure you
+heard already from the papers 12000 kilometers per hour
+was estimated on those flyers."
+authority contained in paragraph 30c(2) (a), APR 205-1.
+This letter is classified CONFIDENTIAL pursuant to the
+FOR THE DIRECTOR:
+3 Incla
+1.
+Ltr by CHRENKA to
+FBI (iri dup)
+2. Ltr by CHRENKA to
+War Dept (in dup)
+3-
+Photostat of ltr fr
+IDA KOVACS OF SSHFICATION CANCELLED
+AFCSI-6D
+Maj Arentson
+прод кол к поні
+YOB YAUTHORITY OF THE DIRE
+Capt, SAF
+Historian
+1 8 DE & 1975
+DATEO
+GENE P. MORITZ, Lt Ool, USAF
+Chief, Sabotage and Espionage Branch
+Counter Intelligence Division
+Directorate of Special Investigatiens
+The Inspector General
+AGI
+956
+ENT
+Ombk Cy
+SI -60 08
+A AFCSI File INV 24-185
+ASSIFIEZ
+24 - 185
+Declassification Authority: NND 923007

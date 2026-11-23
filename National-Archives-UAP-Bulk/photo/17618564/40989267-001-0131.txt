@@ -1,0 +1,96 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T21:42:54Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 14368101, "source_ctime_ns": 1793355546409744008, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0131.jpg", "source_mtime_ns": 1785564475000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0131.jpg", "source_sha256": "9bf06ae56afc682e7cd601aa2b2fe4fbaa5882bbb33a5d60e4929e1c64d245ef"}
+
+===== PAGE 1 =====
+{"alpha_words": 218, "chars": 1647, "method": "ocr", "page": 1, "variant": "plain-vision"}
+252
+THER MISTOR BEAD
+0.42Ịi
+Dia.
+Alu coated
+THERMISTOR BEAD
+0.14ỊịỊ Dia.
+Alu coated
+THERMISTOR BEAD
+0.07iỊ
+Dia.
+Alu coated
+THERMISTOR ROD
+0.10ồạồiDia.
+Alu coated
+TUNGSTEN WIRE
+Dia.
+Alu coated
+TUNGSTEN WIRE
+polished
+OUTPUT
+Resistance
+Resistance
+Resistance
+TABLE 1. Temperature
+TRANSFER
+FUNCTION
+Coeff. 4%/ °C
+Ro • eB (‡t)
+Coeff. 4%/ °C
+Ro ￾ eB (‡‡)
+Coeff. 4%/ °C
+Ro ￾ cB (‡‡)
+POWER LIMIT
+SELF-HEATING
+5.2° C
+Wat: 10-5
+5 • 10-€łą
+Watt
+2.5 • 10-6
+Watt
+1KR-10MQ
+Ro • cB (77)
+Transfer
+Resistance
+28 N/inch
+Coeff. 0.4%/ °Cł
+Linear
+Transfer
+Resistance
+Coeff. 0.4%/ °C
+260 N/inch Linear
+PULSE POWER
+LIMIT
+3 • 10-6
+2.4 • 10-5
+Watt sec
+7 • 10-4
+Watt sec
+RADIATION
+ERROR
+ACCURACY OF
+MEASURING
+EQUIPMENT
+2.2° C
+1.0°C
+0.5°C
+1 part
+in 250
+- part
+in 250
+1 part
+in 250
+pressure sensors are listed. The most frequently used pressure sensing device is
+ation content of more than 2000 bits. In Table 2 the characteristics of a number of
+in 2000 or better. This usually requires a pulse code transmission with an inform-
+The pressure altitude measurement is often needed with an accuracy of 1 part
+2. PRESSURE
+introduce appreciable errors in temperature measurements.
+can also exchange significant quantities of heat with the surrounding air and so
+temperature is usually undisturbed. Bulky holding brackets for the sensing devices
+the temperature around the gondola to drop considerably. In the wake of a slowly
+rising balloon, the daytime temperature of the air layer may rise 10° to 20°C or
+more above the ambient temperature. Several hundred feet below the gondola the
+Figure 1. Balloon at Floating Altitude
+NIGHT
+COLD AIR
+WASHING DOWN
+DAY
+WARM AIR
+MOVING UP
+253

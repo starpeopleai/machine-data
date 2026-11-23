@@ -1,0 +1,48 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T21:45:03Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7286182, "source_ctime_ns": 1793362128487865485, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330782241/45484701-002-003-0078.jpg", "source_mtime_ns": 1785684714000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330782241/45484701-002-003-0078.jpg", "source_sha256": "d2086a58f40951a199dbc53c85272ca132ab86502d61ebcde6acf170d7e3477c"}
+
+===== PAGE 1 =====
+{"alpha_words": 183, "chars": 1198, "method": "ocr", "page": 1, "variant": "plain-vision"}
+CONFIDE rise, 816 Locust Street,
+Kansas City 6, Missouri,
+Bell Aircraft Corporation,
+Helicopter Division,
+Buffalo 5, New York,
+Gentlemen:
+Please find enclosed drawings and description of a new type sero
+machine,
+together with a witnessed agreement allowing you to consider
+freely this disclosure.
+I call this new machine "Gyro Discus" I believe it to be the
+answer to sarety,
+speed and economy where our present airplane and
+helicopter have failed.
+I am not an educated engineer and cannot express myself in tech-
+nical terms as fully as I would wish,
+if you will bear with me
+I will try to explain this type of machine.
+Should you wish to make comments or suggestions of any kind, they
+will be well received.
+If there are questions that you would like to
+ask, I shall be gled to answer them as fully as possiole.
+Yours very truly,
+оти (Долді
+Homer C. Douglas
+AGREEMENT
+To enaule you to consider freely what I have sent you, and in an
+effort to
+avoid possible misunderstandings later,
+I now agree
+under patents now or hereafter issued to me.
+Witnesses:
+(81 000) time ( Long as
+Homer C. Douglas
+4201 Нови
+Address
+1c me
+Name
+Address
+20. íCmo.
+MAY
+8 RECO
+DENTAL
+Declassification Authority: NND 923007

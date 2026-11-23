@@ -1,0 +1,9 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T22:12:54Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 17514692, "source_ctime_ns": 1793356551710500433, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0165.tif", "source_mtime_ns": 1785564721000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0165.tif", "source_sha256": "18dc1b08e1cbb2de57688f03f2556f124a3ee922fd896c8104def5b48cbc1832"}
+
+===== PAGE 1 =====
+{"alpha_words": 28, "chars": 236, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Incident #70, 70a -- Philadelphia, Pennsyivania - 6 August 1947
+The descriptions given of this object are typical of
+those of relatively slow moving meteors. See report on incident
+#69 for details.
+Declassification Authority: NND 57565

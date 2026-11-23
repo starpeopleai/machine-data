@@ -1,0 +1,43 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T21:37:24Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8728253, "source_ctime_ns": 1793387678306053186, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28998991/0959.jpg", "source_mtime_ns": 1785748327000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28998991/0959.jpg", "source_sha256": "9f9c554b7275e3c4d7d2f78e2c95d8f0284890fe0b67c63337ea7d66d1da68f4"}
+
+===== PAGE 1 =====
+{"alpha_words": 133, "chars": 902, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+UNCLASSIFIED MESSAGE
+INÇOMING
+SMB C 116
+ZCZCHOC265ZCQJD597
+AF IN : 50825 (7 Sep 62) C/cge
+Pg 1 of 4
+ACTION:
+CIN-17
+INFO :
+OOP-2,
+0OP-CP-1
+DIA-CIIC-3
+(37) SAFS-3, DIA-10,
+PPCUEAYO
+DE RUWMHL 7M
+ZNR
+P 070330Z
+FM OOAMA KILL AFB UTAH
+3
+TO RUWGAL/ADC ENT AFB COLO
+RUWHSB/SRF HAMILTON AFB CALIF
+RUCDSO/AFSC WPAFB OHIO
+RUEAHO/HOS USAF
+RUEAHO/SEC AIR FORCE
+BT
+UNCLAS OOBBS
+58853 ATTN: FTD; AFCIN; SAFO1.
+(U) UFO. REFERENCE 230-2/INCOMPLETE. INFORMATION
+ACQUIRED 2137Z 6 SEP 62 BY HAFB UTAH, FROM ARIC SALT
+LAKE CITY, UTAH. EVALUATION B-2. SOURCES BELOW NAMED
+PILOTA.
+OF TWA FLIGHT 121 FROM CHICAGO, ILL
+TO LOS ANGELES CALIF, AT 31,000 FEET REPORTED SHINY
+SILVER OBJECT FLEW PARALLEL WITH AIRCRAFT AND WAS IN
+SIGHT FROM DENVER, COLO TO HECTOR, CALIF. AT 2113Z
+6 SEP 62 OBJECT WAS OVER HANKSVILLE, UTAH AT APPROX
+75,322 TO 80,000 FEET FLYING SOUTHWEST AT EST. 500

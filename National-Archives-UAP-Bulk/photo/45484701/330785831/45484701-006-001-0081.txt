@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T21:48:03Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8534824, "source_ctime_ns": 1793363698331723882, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785831/45484701-006-001-0081.jpg", "source_mtime_ns": 1785684858000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785831/45484701-006-001-0081.jpg", "source_sha256": "3faeb7e18f4751da38a326692e90053bc949c8a30deacdea600c30920dd0acbb"}
+
+===== PAGE 1 =====
+{"alpha_words": 88, "chars": 613, "method": "ocr", "page": 1, "variant": "plain-vision"}
+3 IOWANS REPORT 'FLYING SAUCERS!
+3 lowans Report
+'Flying Saucers'
+¡(The Register's Iowa News Service.)
+IOWA CITY, IA.-Three resi-
+dents of Windham, 12 miles
+southwest of here, reported Sat-
+urday they saw three bright
+round objects Friday evening that
+resembled "flying saucers."
+The residents, who wished to
+remain anonymous, said the ob
+jects were traveling east in a
+"V' formation and were visible
+for about 15 minutes. Each left a
+vapor trail, they said, and made
+a noise "like a blowtorch."
+The Des Moines Tribune
+Des Moines,
+Iowa
+Saturday, 5 July 1952
+Evaluation: C-3
+Declassification Authority: NND 923007

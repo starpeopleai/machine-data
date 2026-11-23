@@ -1,0 +1,172 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T21:53:51Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 2, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 27253922, "source_ctime_ns": 1793361531529618606, "source_file": "National-Archives-UAP-Bulk/photo/37294296/37294296-009-030-0003.tif", "source_mtime_ns": 1785565375000000000, "source_rel": "National-Archives-UAP-Bulk/photo/37294296/37294296-009-030-0003.tif", "source_sha256": "f3bfd38b0ce371207be20fdfc11daa827a02c547083ae674217e09a4cc83f539"}
+
+===== PAGE 1 =====
+{"alpha_words": 405, "chars": 3092, "method": "ocr", "page": 1, "variant": "plain-vision"}
+REQUEST
+(If additional space is requir
+(To be
+TO: (Publications review activity)
+ISSUANCE OS
+PUBLICATION
+continue on reverse
+identifying item
+completed by
+office
+of primary
+THRU: (Approving authority)
+DATE
+10 May 1967
+interest (OPI))
+FROM: (Office symbol of OPI)
+OC BEP
+1. NAME
+OF PROJECT OFFICER
+Kenneth W.
+Thomson, Captain, USAF
+OCNPA
+OCNE
+2. TELEPHONE NO.
+3277
+3. PUBLICATION IS
+4. HANDLE
+NEW
+| REVISED
+CHANGED
+RO
+STINE
+PRIORITY (Explain in item 12.)
+5. TITLE OF PUBLICATION
+Unidentified Flying Objects
+(UFO)
+6. TYPE (Regulation, manual, otc.)
+7. RECOMMENDED
+BASIC SERIES
+NO.
+(See AFR 5- 1)
+Supplement to Regulation
+N/A
+8. SECURITY CLASSIFICATION
+Unclassified
+9.
+PUBLICATION DATA
+YES
+A. CONTAINS COPYRIGHT MATERIAL
+B. IMPLEMENTS A HIGHER HEADQUARTERS PUBLICATION (If
+"yes", indicate publication no. and date.)
+10.
+FORMS DATA
+A.
+FORMS
+ARE PRESCRIBED OR REFERRED TO (If "Yes"
+check
+applicable
+NEW
+EXISTING
+YES
+NO
+C. CONTAINS INFORMATION WHICH MUST BE INSERTED IN
+THE
+FEDERAL REGISTER"
+BECAUSE IT IS OF INTEREST
+TO GENERAL PUBLIC (Usually applicable only to
+departmental publications.)
+B. AF FORMS 1141. REQUEST FOR APPROVAL OF FORM.
+HAVE BEEN FORWARDED TO FORMS MANAGEMENT
+ACTIVITY
+(This form is to be submitted when new or revis-
+ed forms are to be developed.
+Contact your local
+forms management staff for further instructions.)
+D. CAN COPIES BE RELEASED, WITHOUT COST,
+TO
+GEN ER AL
+PUBLIC (individuals, organizations) HAVING PARTI•
+CULAR INTEREST IN SUBJECT MATTER?
+X
+N/A
+E. INDICATE THE FUNCTIONAL AREAS AFFECTED BY THIS PUBLICATION
+C. EXISTING FORMS OBSOLETED
+(Complete if procedural changes
+(i.e., manpower, development,
+Inspector General, etc.). IF
+are making existing forms obsolete and
+unusable.
+ALL AREAS ARE AFFECTED, INDICATE
+" ALL".
+List
+each form below.)
+A11
+N/A
+11.
+COORDINATION
+AND CONCURRENCE HAVE
+BEEN OBTAINED FROM THE FOLLOWING ORGANIZATIONS:
+OFFICE SYMBOL
+-NAME
+EXTENSION
+OFFICE SYMBOL
+OCK
+L. Pixler
+2026
+OCVE
+OCB
+J. K.. Jones
+3443
+31 ODC
+443 DCO
+00N
+00.0.
+Pietrucha 3494
+L70DA
+NAME
+R. E. Davis
+L/C I.W. Hough
+1/It S.A. Bradley
+EXTENSION
+3471
+14-175
+6151
+Nels are
+12. REMARKS
+2187
+13.
+CERTIFICATION
+I CERTIFY THAT THE ATTACHED MANUSCRIPT MEETS AIR FORCE REQUIREMENTS FOR NECESSITY. ACCURACY.
+GOOD TASTE.
+AND CONSONANCE WITH
+AIR FORCE DOCTRINE, EXISTING LAW. AND NATIONAL, DEPARTMENT OF DEFENSE, AND AIR FORCE POLICY.
+TYPER NEEP GRADE RAND TITLE OF APPROVING AUTHORITY
+SIGNATURE
+OFFICE
+SYMBOL AND EXTENSION
+Colonel, USAF
+Director, Materiel Management
+(To be completed by Publications Review activity of the Director of Administrative Services.)
+14. PROJECT NO.
+15. ESTIMATED DATE OF COMPLETION
+34Y3
+18. PROCESSING ACTION (Enter
+ubmitted to printer.)
+See alho ches she
+A. NO. MANUSCRIPT PAGES
+NO. ILLUSTRATIONS
+INSTRUCTIONS
+PROOFS REQUESTED
+D. ADDITIONAL INSTRUCTIONS
+20. SEND ADVANCE COPIES TO (Indicate
+ame of individual
+and quantity.)
+21. TYPED NAME AND SIGNATURE OF INDIVIDUAL APPROVING COPY FOR PRINTING
+22. DATE TO PRINTER
+SCHEDULED
+COMPLETION DATE
+- AF
+FORM
+NOV 60
+673
+PREVIOUS EDITIONS OF THIS FORM WILL BE USED UNTIL STOCK IS EXHAUSTED.
+* U.S. GOVERNMENT
+0-576245
+
+===== PAGE 2 =====
+{"alpha_words": 0, "chars": 1, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 2, "variant": "plain-vision"}

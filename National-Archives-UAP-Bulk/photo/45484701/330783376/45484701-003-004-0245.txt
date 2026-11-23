@@ -1,0 +1,51 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T21:34:30Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7697097, "source_ctime_ns": 1793362717522742616, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330783376/45484701-003-004-0245.jpg", "source_mtime_ns": 1785685017000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330783376/45484701-003-004-0245.jpg", "source_sha256": "58be1ca9619dbee3f4757bee86b0458f7ef57b9d6361233d93e0a1e33899cbfb"}
+
+===== PAGE 1 =====
+{"alpha_words": 328, "chars": 2196, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Unidentified Flying Object
+24-322
+AT NEW YORK, NEW YORK (CONT'D)
+LENGTH OF TIME OBSERVED - A total of 22 seconds. Approxi-
+mately 15 seconds on original flight level, 2 seconds hovering
+time, and 5 seconds on second flight level.
+MANNER OF OBSERVATION - Visual
+WEATHER AND WINDS DRAFT - Bright Sunlight, no haze, visibility
+unlimited - no clouds - sky bright blue - weather cold.
+ACTIVITY RESPONSIBLE - SACKETT could not advise of any activity
+or meteorological condition which could account for the sighting -
+SACKETT did volunteer that there was a colony of Americans at ANTIGUA
+and that they might have observed the incident.
+WITNESSES - SACKETT stated that although the bus in which he
+was riding was full of passengers, 24 with a driver and conductor,
+that they were indigenous persons
+they would not have observed
+the flying object nor if they had seen it, would they recall it.
+However, there was one passenger who had seen the object.
+was Miss EIVIRA GOYZUETA, V. of Pasaje Rubio #118 Guatemala, C.A.
+She advised SACKETT that she saw the "gold thing" for about 4-5
+second.s.
+AIR TRAFFIC - At the time of the sighting there was no air
+traffic other than the flying object observed by SACKETT.
+He did
+advise that on other occasions he had seen DC-3's of AVIA TECA,
+the government domestic airline, flying in that area.
+In conclusion SACKETT stated that he had not previously told
+anyone of this incident; that he expected to return to Guatemala
+in approximately 2 weeks, that is, if his mother's health so
+permitted.
+If he were to be contacted in Guatemala, he could
+be reached through his Post Office Box, APARTADO #59, since he
+was not sure of his new address.
+INGLOSURES
+HEADQUARTERS
+OSI, WASHINGTON,
+Sketch showing observer's location and object seen (in sextuplet)
+Portion of road map of Guatemala showing observer's location
+and Volcano Fuego -scale 1: 1,000,000 (in sextuplet)
+CG, AIR TECHNICAL INTELLIGENCE CENTER, WRIGH-PATTERSON, AFB, OHIO
+Sketch showing observer's location and object seen
+2. Portion of road map of Guatemala showing observer's location
+and Volcano Fuego - scale: 1: 1,000,000
+- CLOSED -
+SECURITY INFORMATION -CONFIDENTIAL
+Declassification Authority: NND 923007

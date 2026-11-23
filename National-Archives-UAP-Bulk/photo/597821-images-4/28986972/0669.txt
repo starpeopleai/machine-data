@@ -1,0 +1,37 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T21:47:57Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8474183, "source_ctime_ns": 1793383422970624024, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28986972/0669.jpg", "source_mtime_ns": 1785748216000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28986972/0669.jpg", "source_sha256": "3afb9a8972e41e964480f63ca25f6e5d1ca3191cd95154e130d1ff301cb70664"}
+
+===== PAGE 1 =====
+{"alpha_words": 189, "chars": 1169, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Keystone Point
+North Miami,
+Florida
+July 19, 1950
+Capt. D.R. Fogguss, A.F.
+2585th Air Base Sqdn.
+Miami International Air Depot
+Miami, Florida
+Dear Captain Bogguss;
+Per your request for additional information; I am herewith enclosing in
+certified form,
+the statements of my mother'
+my next
+door neighbor,
+and my own statements
+I regret that your first request came at a time when my neighbor was out
+of the city on her vacation and that upon the day of her return she was
+called back to Lake wales, due to her mothers sudden illness.
+As you requested, we each described our own observations, in our own
+words. In order to keep our observations objective, we all avoided any
+discussion of the subject, prior to the completetion of the enclosed state-
+ments.
+Should you require any additional information, please do not hesitate to
+call upon us.
+I would also like to compliment the Air Force and you Captain Foggiss,
+for your prompt and courteous attention to cur telephone inquiry, as well
+as your immediate investigation.
+Please be assured that your personal attention to our inquiry was sincerely
+appreciated by all three of us.
+Sincerely yours,
+(Mrs.
+eji/gi
+enclos; 3

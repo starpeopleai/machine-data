@@ -1,0 +1,52 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T21:24:02Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 21982932, "source_ctime_ns": 1793360654153452984, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-002-0073.tif", "source_mtime_ns": 1785565093000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-002-0073.tif", "source_sha256": "69061a401a837af43b840b65eaf6d6f74de6128763c596fb080e38a287ab094d"}
+
+===== PAGE 1 =====
+{"alpha_words": 260, "chars": 1883, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AF FORM 112-PART II
+APPROVED 1 JUNE 1948
+FROM (Agency)
+81ST FIGHTER BOMBER WING
+UNCLASSIFIED
+(CLASSIFICATION)
+AIR INTELLIGENCE INFORMATION REPORT
+REPORT NO.
+IR-1-56
+PAGE
+OF 4
+PAGES
+search were negative. Both officers reported that they observed a bright star on
+the horizon to the east of Bentwaters which might have been mistaken for an
+Unidentified Flying Object by the visual observer. It Rowe also stated that a
+flashing beacon was flashing through a low haze along the east coast of England
+from the vicinity of the village of Orford.
+Weather Report from the Bentwaters weather detachment for the period 2100Z
+to 2200%, 13 August 1956 for the Bentwaters area follows:
+Winds:
+Surface - Direction 2309 velocity 5 to 10 knots.
+6000 ft - Direction 260°, velocity 30 knots
+10,000 ft - Direction 260°, velocity 40 knots.
+16,000 ft - Direction 260°, velocity 55 knots.
+20,000 ft - Direction 260°, velocity 70 knots.
+30,000 ft - Direction 260°, velocity 90 knots.
+50,000 ft - Direction 260°, velocity 40 knots.
+ceiling:
+25,000 ft
+Visibility:
+9 miles
+No thunderstorms were located in the area of the sightings.
+Several aircraft were in the Bentwaters area at the time of these sightings
+but these could not have been mistaken for the Unidentified Flying Objects.
+No physical evidence of the sightings is available.
+Docual Lister.
+Captain USAF
+Air Targets Officer
+NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S. C.-
+31 AND 32, AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW.
+IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF
+INTELLIGENCE, USAF.
+UNCLASSIFIED
+(CLASSIFICATION)
+16-55570-1 *
+NE OPPICE
+DECLASSIFIED
+Authority NND 9237007

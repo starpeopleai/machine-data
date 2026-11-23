@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T22:12:25Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 17194344, "source_ctime_ns": 1793366621426614370, "source_file": "National-Archives-UAP-Bulk/photo/542184/341-PBB-538-0442.jpg", "source_mtime_ns": 1785565562000000000, "source_rel": "National-Archives-UAP-Bulk/photo/542184/341-PBB-538-0442.jpg", "source_sha256": "2e6871d810f7a995b96e8faf44d6ef6d0565ac2bd070dc28bb79e9becce5f19a"}
+
+===== PAGE 1 =====
+{"alpha_words": 22, "chars": 115, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Pe emepenceer ae i
+
+at ce
+ad s
+~ a
+
+Le
+
+Tae
+a> 7
+i. oo
+
+PN, ae eR eR EO Ng I ee ED pe Ree BEAT ye ae
+
+™
+
+(>
+
+“+
+
+»

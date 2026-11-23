@@ -1,0 +1,43 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T21:44:59Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7275347, "source_ctime_ns": 1793378137911172730, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28966920/0059.jpg", "source_mtime_ns": 1785696967000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28966920/0059.jpg", "source_sha256": "4f204bd533f95e31280a950a699269117a18afb060870cdb72c3cf3c3c4eeb9a"}
+
+===== PAGE 1 =====
+{"alpha_words": 56, "chars": 474, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+1956
+PROJECT 10073 RECORD CARD
+2. LOCATION
+DO!
+Warglend
+TYPE OF OBSERVATION
+M Ground- Visual
+D Air- Visual
+6. SOURCE
+• Ground-Radar
+D Air-Intercept Radar
+• Yes
+O No
+LENGTH OF OBSERVATION
+8. NUMEE
+BJECTS
+9. COURSE
+1 12.
+10
+CONCLUSIONS
+Was Balloor
+Probably Balloor
+Possibly
+Balloor
+10
+Was Aircraf
+C Probably Aircraft
+Possibly Aircraft
+Was Astronomical
+Probobly Astronomical
+Possibly Astronomical
+D, Other
+Insufficient Data for Ev
+Unknown
+COMME
+RY OF SIGHTING
+1602d
+re

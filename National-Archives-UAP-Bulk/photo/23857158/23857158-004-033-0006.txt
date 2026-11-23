@@ -1,0 +1,78 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T21:42:13Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 12923430, "source_ctime_ns": 1793358725259092102, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-033-0006.tif", "source_mtime_ns": 1785681183000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-033-0006.tif", "source_sha256": "45e3992d46054fb1808a745d6b0f6dee371aade007efbcac388472e73160cf07"}
+
+===== PAGE 1 =====
+{"alpha_words": 268, "chars": 1804, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+Page 5
+25. Where were you located when you saw the object?
+(Circle One):
+26. Were you (Circle One)
+a. In the business section of a city?
+a. Inside a building
+b.
+In a car
+Outdoors.
+In an airplane
+e. At sea
+f. Other
+In the residential section or a city?
+In open countryside?
+d. Flying near an airfield?
+e. Flying over a city?
+f. Flying over open country?
+g. Other
+27. What were you doing at the time you saw the object, and how did you happen to notice it?ire Far Had
+meas Jopened to veir door d my home to start ny daik
+drive toWPA at osson a saw it dart. doundetti
+triangle travel
+tomyaye, about one yard a 36 iücher..
+28. IF you were MOVING IN AN AUTOMOBILE or other vehicle at the time, then complete the following questions:
+28.1 Whar direction were you moving? (Circle One) Later (a boy t05/3)
+c. East
+Northeast
+d. Southeast
+f• South
+3. West
+Southwest
+1. Northwest
+28.2 How fast were you moving?
+25-35
+miles per hour.
+28.3 Did you stop at any time while you were looking at the object?
+(Circle One)
+Yes
+but Swatched rover myahoulder
+vutil ur disappearea.
+29. Whot direction were you looking when you first saw the object? (Circle One)
+a. North
+b. Northeast
+East
+d. Southeast
+Soutt
+/ Southwes
+g. West
+h. Northwest
+W NW
+30. Whot direction were you looking when you lost saw the object? (Circle One)
+a. North
+b. Northeast
+c. East
+d. Southeast
+e. South
+f. Southwest WSW
+g. West
+h. Northwest
+31. If you are familiar with bearing terms (angular direction), try to estimate the number of degrees the object was
+from true North and also the number of degrees it was upward from the horizon (elevation).
+31.1 When it first appeared:
+a. From true North
+b. From horizon
+80
+- degrees.
+• 0100
+31.2 When it disappeared:
+a. From true North.
+100
+b. From horizon
+- degrees.
+1090

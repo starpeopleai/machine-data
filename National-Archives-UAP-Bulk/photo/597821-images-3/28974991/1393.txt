@@ -1,0 +1,21 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T21:48:28Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8678724, "source_ctime_ns": 1793380241216075353, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28974991/1393.jpg", "source_mtime_ns": 1785700853000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28974991/1393.jpg", "source_sha256": "73c44805418ab1b62b433a2ea4fadf0c0ebcf33ae4ec2ad55d6fac241548648b"}
+
+===== PAGE 1 =====
+{"alpha_words": 119, "chars": 716, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Pog» 3
+T5. Tall in a faw words the following things about the object.
+o. Sound
+B. Color _
+- pure no cala
+17. Draw a picturs thot will show the shope of the object or objects. Lobel and include in your skatch any datails
+of the oblect that you sow such as wings, protrusiona, etc., and especially exhaust trails or vapor fralls. Place
+on arrow beside the drawing to show the direction the oblect was moving.
+- 4 Pete
+18. The edges of the object were:
+(Circis One): a. Fuzzy or blurred
+Like a bright star
+Sharply outlined
+Don't remember
+e. Other
+19, IF there was MORE THAN ONE objact, then how mony were there?
+Draw a picture of how they were arranged, and put an arrow to show the direction that they were travaling.

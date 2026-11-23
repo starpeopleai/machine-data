@@ -1,0 +1,66 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T21:40:51Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10916970, "source_ctime_ns": 1793360989874028081, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-004-0002.tif", "source_mtime_ns": 1785565201000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-004-0002.tif", "source_sha256": "4ae19923d644a4cb2f5510c6d426013c3aa9a27b07840f0108a305167214158b"}
+
+===== PAGE 1 =====
+{"alpha_words": 59, "chars": 623, "method": "ocr", "page": 1, "variant": "plain-vision"}
+LIST OF AIRS
+AF 1154543
+AF 1157802
+AF 1158293
+AF
+1159302
+AF
+1161182
+AF
+1165601
+AF
+1165837
+AF
+1165838
+AF
+1166004
+AF
+1170311
+AF
+1170419
+AF
+1170908
+AF
+1175933
+AF 1178807
+AF 1180923
+AF 1183480
+AF 1196616
+AF 1200208
+1201215
+AF
+1205264
+AF 1205601
+AF 1205695
+AF 1209235
+AF 1219508
+AF 1239070
+AF 1246300
+AF 1246314
+AF 1253104
+AF 1255969
+AF 1264291
+AF 1264350
+AF 1264500
+AF 1264502
+AF 1401710
+AF 1401900
+AF 1403022
+AF 1407429
+AF 1409242
+AF 1409250
+AF 1409282
+AF 1458864
+EP 131687 (Extract)
+EP 134892 (Extract)
+EP 140605 (Extract)
+EP 142005 (Extract)
+EP 152406 (Extract)
+AF 658261 (Extract)
+DECLASSIFIED
+Autority NND 9237007
+Liech 1

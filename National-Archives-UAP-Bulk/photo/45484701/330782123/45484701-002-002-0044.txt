@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T21:49:14Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9087389, "source_ctime_ns": 1793362053310425066, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330782123/45484701-002-002-0044.jpg", "source_mtime_ns": 1785684943000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330782123/45484701-002-002-0044.jpg", "source_sha256": "b6e2ce106a947a73c889c3a03f28de8f164cb165964e95d501ea2730a762026b"}
+
+===== PAGE 1 =====
+{"alpha_words": 94, "chars": 617, "method": "ocr", "page": 1, "variant": "plain-vision"}
+The greatest sources of new wealth
+are new ideas.
+Inventions have paid
+infinitely greater returns than the
+richest gold mines or the biggest oil
+gushers.
+We have spent on this design only
+a small fraction of what is required
+to drill an average oil well. But when
+we "strike oil", figuratively speaking,
+it will produce more "oil" than a
+thousand oil gushers.
+THE SUN
+Confidential
+Shhh!
+You may be reading a State
+secret.
+All newspaper accounts of
+he fying saucers" found last
+week on a farm near Glen
+Burnie
+are
+Washington
+marked
+sified-Confidential,"
+esterday.
+23 August 1949
+Declassification Authority: NND 923007

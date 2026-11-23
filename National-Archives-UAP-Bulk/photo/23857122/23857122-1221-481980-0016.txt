@@ -1,0 +1,15 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T21:44:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 29725552, "source_ctime_ns": 1793357068807192584, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1221-481980-0016.tif", "source_mtime_ns": 1785564822000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1221-481980-0016.tif", "source_sha256": "afb2f7dfe7d2681be70ed1ad62de4b61fb0f7fb850a451ec06aad2ae80297adf"}
+
+===== PAGE 1 =====
+{"alpha_words": 15, "chars": 115, "method": "ocr", "page": 1, "variant": "contrast-vision"}
+11 NY
+DIR
+NOTIES
+0012
+CONG
+poe nr
+#DD€
+Se (Fe a B no STAT)
+opgec¢
+УДОИ ВЕБОВ
+Declassification Authority: NND 57565

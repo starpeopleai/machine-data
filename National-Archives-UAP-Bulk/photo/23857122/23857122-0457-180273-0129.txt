@@ -1,0 +1,9 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T22:00:16Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 16886936, "source_ctime_ns": 1793356518407129561, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0129.tif", "source_mtime_ns": 1785564716000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0129.tif", "source_sha256": "c8a4281e54fbb7a276b68dd7336e3c620e629148cfd025ebf3753aea81c78fcd"}
+
+===== PAGE 1 =====
+{"alpha_words": 24, "chars": 215, "method": "ocr", "page": 1, "variant": "clean-vision"}
+RESTRICTED
+Incident 1232 - Vemarest, New Jersey -- 16 November 1948
+The information available conceming this incident
+is entirely insufficient to serve as a basis for analysis.
+Declassification Authority: NND 57565

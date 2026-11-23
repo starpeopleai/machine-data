@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T21:31:05Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 18534732, "source_ctime_ns": 1793356605374843100, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0222.tif", "source_mtime_ns": 1785564729000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0222.tif", "source_sha256": "d8ca70602a52380a55d4fe20ed0b5961ddebaba74cf5654ecbb0c54a6616c37e"}
+
+===== PAGE 1 =====
+{"alpha_words": 238, "chars": 1449, "method": "ocr", "page": 1, "variant": "plain-vision"}
+ED
+Incident #24 -- Weiser, Idaho -- 12 June 1947
+There is nothing in the description of this incident that is
+fatal to the hypothesis that the objects observed were parts of a
+"double fireball," but any such identification must remain uncertain.
+The most convincing element favoring the meteoric hypothesis
+is the persistent train. Fireballs oceasionally leave trains that per-
+sist for over an hour.
+as far as trajectory is concerned, this is in agreement with
+that to be expected from a meteor on its way out fron the sun (it having
+gone toward the sun several weeks previously and now being on its return
+journey toward outer space). Such a fireball would be travelling rela-
+tively slowly, and could appear to "shoot out from the sun" and to travel
+in a southeasterly direction.
+The absence of bright flame and of noise is not unusual, since
+reported daylight meteors are frequently not luminous (but do leave a
+trail), and often no noise is heard.
+Nor is the fact that there were two such objects fatal to the
+hypothesis. The object could casily have been single and have broken
+in two, either in its Journey around the sun or upon entering the earth's
+atmosphere.
+There have been several cases of comets that were singie
+on their trip toward the.
+sun and double on the way out. Since comets and
+meteors are closely related as
+lar as structure is concerned, the double
+feature is entirely possible.
+more -
+Declassification Authority: NND 57565

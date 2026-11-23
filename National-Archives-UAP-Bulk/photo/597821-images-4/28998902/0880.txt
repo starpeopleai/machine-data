@@ -1,0 +1,44 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T22:07:03Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9837043, "source_ctime_ns": 1793387606379587776, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28998902/0880.jpg", "source_mtime_ns": 1785748407000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28998902/0880.jpg", "source_sha256": "0e6e16051b0c7c4e7a26e88e624da8604dda553d76cb4dfae1efd1b2cf2f936c"}
+
+===== PAGE 1 =====
+{"alpha_words": 104, "chars": 855, "method": "ocr", "page": 1, "variant": "plain-vision"}
+e. Location of Observer
+Intersection of Ivy 45 and 52 about 10 miles south of Antigo, Vis.
+Identifying Information on Observer
+(1)
+, 23,
+salesmon,
+reliability unknown
+(2)
+Not applicable
+Wausau, Wis, insurance
+6 •
+Vesther and winds-aloft Conditions at Tine and Flace of Sighting
+Very dark
+Surface- 270/4
+6000- 340/25
+10000- 290/30
+16000- 250/45
+20000- 260/45
+30000- 250/80
+50000- 240/65
+80000- none available
+Clear
+Better than 15 miles
+Clear
+None
+-1° per 1000 to 46,800 ft an 0° from 46,800 to 80,000 ft
+h.
+None
+1. None
+j. None known
+Intelligence Staff Officer.
+This report was received over one week
+late from the Sheriff's Office,
+Marathon County, Wisconsin. The radar
+base at Antigo, Wisconsin reported no tracks in the respective vicinity.
+No possible cause of the sighting can be given.
+FOR THE COMMANDER:
+J.G. CUCHBRAN
+F/L, ROAP
+Intelligence Officer

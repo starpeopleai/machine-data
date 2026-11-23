@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T21:31:15Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 22759204, "source_ctime_ns": 1793356878917981310, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-0985-434443-0046.tif", "source_mtime_ns": 1785564780000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-0985-434443-0046.tif", "source_sha256": "9ffa801bdd817f69c4bb1871137922b5213649cdf06cb42a1ec892d616fd9390"}
+
+===== PAGE 1 =====
+{"alpha_words": 165, "chars": 1012, "method": "ocr", "page": 1, "variant": "plain-vision"}
+REPORT
+OF
+"FLYING SAUCER
+At approximately 2050 hours on 2 April 1952,
+the 727th AC&d Squadron telephoned the Chief Duty Controller at Exceed
+that he had just seen a flying saucer".
+It. Baldwin was inspecting the
+guard at an entrance to the area when he saw an object appear from a
+southwesterly direction and pass overbead continuing for some ten (10)
+seconds to the ME at which time it disappeared below the horizon.
+In
+opinion, at no time did the object leave a trail
+such as a meteor gives off. Approximately half way along it's path it
+appeared to add speed, which was evidenced by an increase in the trail
+of fire, lasting approximately three (3) or four (4) seconds, then re-
+verting
+to a slight glow.
+In his estiaation the speed of the object was between 1000/1200 moh.
+Immediately after the passage of the object, it was possible to hear it.
+The sound vas the same as given off by a jet aircraft at high altitude
+and spead.
+The object was witnessed by
+3219
+AF434443
+Declassification Authority: NND 57565

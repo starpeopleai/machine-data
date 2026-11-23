@@ -1,0 +1,120 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T21:36:14Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8370891, "source_ctime_ns": 1793376966823149877, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28962375/0547.jpg", "source_mtime_ns": 1785696404000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28962375/0547.jpg", "source_sha256": "70c9e5bc96a3226bf467fc6113c39b4b6903ab92198126e16ea00fa130c24306"}
+
+===== PAGE 1 =====
+{"alpha_words": 328, "chars": 2435, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+14 June 1955
+3. DATE-TIME GROUP
+Locai
+GMT 5/0300Z June 1955
+5. PHOTOS
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Bryan AFB, Texas
+TYPE OF OBSERVATION
+Ka Ground-Visual
+• Air-Visual
+• Ground-Radar
+• Air-Intercept Radar
+6. SOURCE
+• Yes
+• No
+7. LENGTH OF OBSERVATION
+Itary
+8. NUMBER OF OBJECTS
+9. COURSE
+At intervals over 30 min peri
+10. BRIEP SUMMARY OF SIGHTING
+One (1)
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircrati
+Possibly
+Aircraft
+Was Astronomical
+Probably Astronomica
+Possibly
+Astroromical
+•, Other
+Insufficient Data for Evaluation
+Unknown
+weather observer, forecaster, and dispatcher
+at Bryan AFB, Texas noted a cylindrical object
+circling the base at an estimated speed of
+600 MPH. The object seemed complete 11-
+luminated with a white glow. See AF Form 112
+on this case for a detailed summary of
+sighting.
+Circular path Flt
+11. COMMENTS
+Investigated by Flight 2-D, 4602d AISS
+with
+the following conclusions: A rawinsonde
+balloon was released from Bryan AFB at
+the appropriate time of sighting. Winds
+aloft and trackings of this balloon
+seem to indicate that the observers
+saw this balloon.
+Resolved by this hq as probably balloon
+ATIC FORM 329 (REV 26 BEP 52)
+June 1965
+3. DATE-TIME GROUP
+Local
+GM T.
+5. PHOTOS
+15/03002 June 1955
+• Yes
+- NO
+7. LENGTH OF OBSERVATION
+UFOB INDEX CARD AISS-UFOB-175-55
+2. LOCATION
+12. CONCLUSIONS
+Was Balloon
+Pryan AUB, Texas
+TYPE OF OBSERVATION
+al Ground-Visual
+• Air- Visual
+SOURCE
+Probably Balloon
+Possibly Balloor
+•
+Was Aircraft
+• Ground-Radar
+• Air-Intercept Radar
+Probably Aircraft
+Possibly Aircroft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Military
+NUMBER OF OBJECTS | 9. COURSE
+Othe
+Insufficient Data for Evaluation
+Unk no wr
+pariod
+At intervals over 30 Winute
+10. BRIEF SUMMARY OF SIGHTING
+One (1)
+path
+Ciroular flight
+11. COMMENTS
+Heather observer, forecaster,
+and dispatcher
+Investigated by Flight 2-D, 4602d AISS
+at Bryan AFB, Texas noted a oylindrical object
+with the following conclusions: A
+siroling the base at an estimated speed of
+rawinsonda balloon was released from
+SOO MPH.
+The object seemed completely il-
+Bryan AFB at the approzimate time of
+luminated with a white glow. See AP Form 112
+sighting. Winds aloft and trackings
+on this case for a detailad summary of sighting. of this balloon seem to indicate that
+the obeervers saw this balloon.
+Resolved by this by as probably
+balloon.
+AISOP Form 5(15 Oct 54)

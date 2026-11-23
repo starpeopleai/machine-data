@@ -1,0 +1,44 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T21:36:54Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8518178, "source_ctime_ns": 1793363509540004574, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785447/45484701-005-005-0058.jpg", "source_mtime_ns": 1785684621000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785447/45484701-005-005-0058.jpg", "source_sha256": "334b8abde6c510876d8e6285bae434195b64b0b2aa5168d01880ef170201301a"}
+
+===== PAGE 1 =====
+{"alpha_words": 48, "chars": 369, "method": "ocr", "page": 1, "variant": "plain-vision"}
+NEWMEXICO
+RIO GRANDE
+HOT
+RIVER
+SPAÙ NES
+CABAllO
+DAM
+#ARNEY
+# НАтсн
+> MTS
+Л
+OVERIAY FROM AERO MAP 460
+ESTACADO P/AIN
+HEADED DIRECTION
+OF SANTA FE
+NTS
+ACREMENTO
+ALAMOGORDO
+35° ElEVATION
+.
+AROUND
++ - 300,000
+FEET HIGH
+2-0
+° AZ
+45
+OFIEV
+^
+ESTIMATED
+TRACK
+DENING
+LAS
+CRUCES
+5 PER
+SEC
+AROUND
+TOMILES
+DISTANT lEMOVING
+AT ESCAPE VElOCITY
+Declassification Authority: NND 923007

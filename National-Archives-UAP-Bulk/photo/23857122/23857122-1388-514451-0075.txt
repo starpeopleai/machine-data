@@ -1,0 +1,57 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T22:01:53Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 19534856, "source_ctime_ns": 1793357447073290782, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1388-514451-0075.tif", "source_mtime_ns": 1785564899000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1388-514451-0075.tif", "source_sha256": "5e2d17021f166b6d8a939a0ebf1ec1f8f71edac5c72bdf20cded68e75861b8cd"}
+
+===== PAGE 1 =====
+{"alpha_words": 170, "chars": 1086, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Die Qualitätskonferenz
+der SAG „Kabel" in Berlin
+ie Qu1lität
+m 13.ju
+fin un et der Beteili
+Aber die For
+Wer gehört zur
+Die Partei und a
+technischen Intelligenz? Arbeitsproduktiv
+tützen. Das erns
+fiesem Gebiet, die l
+mpf um die ständige Verbe
+nokratischen Republik
+wie es die erfolgr
+(Aus der Rede des Ga
+ung des ZK der SED, 13. bis 15. Juni 1951)
+Massenbewend ng find das Ratsenalisierungs-
+n organisten il auf oder d
+Jst an Deinem Arbeitsplatz
+nichts zu verbessern
+Kollege?
+Denke einmal darüber nach!
+Jeder Verbesserungsvorschlag
+3. Kinder bedu fen in setem Foll der Cre-
+Daum und Unterchiednologen
+grobe Mi können
+7. entweichet der kontoldure un: Ver-
+B. Selbst on del futer
+auna an de
+Verkes 2r
+bode kalinien
+lede Selbst
+meeting de enker inde der v
+inbarung
+lichtungen zu
+ur Arbeit m
+len Men
+utz zu überneh
+rlegen.
+er Zeilen
+es werke
+leder melde sich also bei den obeng
+das Schutzb
+egenstand eurer Selbstverpflichtung sind.
+eino stolze Bilanz der
+Die Betriebsp
+ich bei dem
+Willi Hempel, ehe
+organisation, l
+nit, daß e
+Heinz Ullmann
+Ullrich, BPO
+Declassification Authority: NND 57565

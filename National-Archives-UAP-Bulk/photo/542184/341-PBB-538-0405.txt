@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T22:00:54Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 17174862, "source_ctime_ns": 1793366581917256273, "source_file": "National-Archives-UAP-Bulk/photo/542184/341-PBB-538-0405.jpg", "source_mtime_ns": 1785565556000000000, "source_rel": "National-Archives-UAP-Bulk/photo/542184/341-PBB-538-0405.jpg", "source_sha256": "ccd3e47acc3d892341b35bb8e40fc2bf73810c3261e975c3394727e4a7f88fed"}
+
+===== PAGE 1 =====
+{"alpha_words": 14, "chars": 100, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+&
+
+nena
+
+cd
+
+oe
+
+aah
+
+a a
+
+‘ones
+——4
+‘ f
+
+Sal
+
+a
+
+Pe
+i. |
+he , 3
+eee
+-
+is ”
+
+®
+
+dee eee
+
+Bi Sie
+
+—?

@@ -1,0 +1,18 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T22:01:56Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 19823016, "source_ctime_ns": 1793360591963700047, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-002-0015.tif", "source_mtime_ns": 1785565081000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-002-0015.tif", "source_sha256": "7171500dcea82c9a4dd6a3e4076401073fc82b83902ff2eea7e2a3f059a7b666"}
+
+===== PAGE 1 =====
+{"alpha_words": 56, "chars": 428, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UNCLASSIFIED
+709077
+70907>1
+Quiz the picture: Do the white spots represent the squadrons of mysterious
+flying objects as suggested by warmongers? Of course not. Professor Menzel
+from Harvard University says, in this case the white spots represent the
+reflections of car lights produced by a warm layer of air.
+AF709077
+Inclosure # 1 to AFOIN - 1A1
+IR - 1183 - 55
+18 November 1955
+UNCLASSIFIED
+DECLASSIFIED
+Authority NND 9237007

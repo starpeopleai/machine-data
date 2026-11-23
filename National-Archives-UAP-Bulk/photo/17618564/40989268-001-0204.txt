@@ -1,0 +1,122 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T21:23:51Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 18426824, "source_ctime_ns": 1793355761867758372, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0204.jpg", "source_mtime_ns": 1785564518000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0204.jpg", "source_sha256": "a1af37cd570e7ec0711e201249f7d790d9800e08c95fb2b4abe1c3171c45d621"}
+
+===== PAGE 1 =====
+{"alpha_words": 524, "chars": 3542, "method": "ocr", "page": 1, "variant": "plain-vision"}
+tropopause penetration by polvethylene balloons.
+latitudes in the Spring could further aggravate the already-difficult problem of
+Second, the occurrence of tropopause temperatures as low as -80°C at these
+provide current information about the wind conditions above 120, 000 feet.
+gram will commence about two weeks before the cosmic-ray flights in order to
+will be Hyderabad, but two secondary sites, one on the east and the other on the
+west coast, were also selected to allow for strong easterly or westerly winds at
+floating altitude. In order to make trajectory forecasts, sounding balloons carry-
+ing hypsometers will be launched daily and tracked by our GMD-1 unit.
+This pro-
+AFČRÊ
+K. G.
+NRL
+the last several years, further strengthened our decision.
+The primary launch site
+cessfully flown and recovered 60 cosmic-ray experiments in Central India during
+of the balloon group at the Tata Institute of Fundamental Research, who have suc-
+gists which led to the same conclusions. Additional discussions with members
+noers
+survey trip to India for site location, discussions were held with Indian meteorolo-
+cided to plan launching the flights in the period March-April 1965.
+During a recent
+of the National Center for Atmospheric Research, using available data, it was de-
+120, 000 feet. On the basis of a thorough operational analysis by Mr. Samuel Solot
+flights are possible, essentially nothing is known about wind conditions
+above
+fairly well known up to about 100, 000 feet for Central India where long duration
+ments of long floating times and need for recovery. Although wind conditions are
+First, the location in India and the time of year had to meet the general require-
+nected with diplomatic clearances, logistics and funding.
+Two major problems faced the expedition in addition to the usual ones con-
+problems connected with the origin of cosmic rays and with stellar evolution.
+radiation to reach the detectors. Such data can be used to study astrophysical
+magnetic equator because the earth's magnetic field permits mainly galactic cosmic
+This possibility is of special interest when analyzing data obtained near the geo-
+ray physicists to intercompare data obtained by a large variety of detecting systems.
+chambers and solid-state detectors, it will be possible for the first time for cosmic-
+In addition, due to the development of new measuring techniques such as spark
+part of the solar cycle.
+son with data obtained at other latitudes during the same
+2. To obtain these data during IQSY so as to permit compari-
+equator at altitudes much higher than previously attained.
+1. To obtain cosmic-ray data near the earth's geomagnetic
+India are:
+carrying them out.
+Two important scientific reasons for making these flights in
+Table 1. Cosmic Ray Balloon Expedition to India-1965, IQSY-EQEX
+Type of Apparatus
+No. of Flights
+Weight
+(1b)
+Altitude
+(thousand ft)
+Duration
+(hr)
+Recovery
+Yes
+/ + X-Ray
+ay
+Counters
+Chame
+- Ray Spark
+Charged Particle
+Counter Telescope
+Solid State Detec-
+tor Telescope
+250
+>120
+Yes
+90
+140
+≥10
+Yes
+140
+12
+Yes
+Neutron Counters
+~
+100
+140
+Yes
+Counter Telescope
+120
+Yes
+Nuclear
+Emulsions
+Nuclear
+Emulsions
+Ionization
+Chambers
+Emulsion
+Chamber
+100
+140
+≥12
+120
+140
+≥12
+Yes
+Hithere s
+10
+A ny
+Any
+Yes
+2000
+100
+Yes
+Emulsions
+Several
+Hitchhikes
+Any
+Any
+Yes
+a table summarizing the experiments and the conditions necessary for successfully
+394
+Approximately 16 flights will be flown, all of them being planned to reach at
+least 120, 000 feet and to stay at floating altitude for at least 8 hours. Table 1 is
+395

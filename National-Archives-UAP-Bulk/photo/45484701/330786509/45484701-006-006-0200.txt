@@ -1,0 +1,13 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T21:50:20Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10131886, "source_ctime_ns": 1793364163042860171, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330786509/45484701-006-006-0200.jpg", "source_mtime_ns": 1785684591000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330786509/45484701-006-006-0200.jpg", "source_sha256": "5484626214f9102e7bd731912a163f154acac3392e669a19176f3316b2623739"}
+
+===== PAGE 1 =====
+{"alpha_words": 42, "chars": 308, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ts eee @ ONFIDENFAL | «)
+
+Be Me Fe Co ATWOOD, Deputy Sheriff, Lincoln Courity Shoriff's Office informed
+the writer that riders of various ranches covered this region at regular intervals.
+These ridors were instructed by ATWOOD te report anything wnusual.
+
+~ CLOSED «=
+
+Declassification Authority: NND 923007

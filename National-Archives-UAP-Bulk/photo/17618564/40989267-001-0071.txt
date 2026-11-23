@@ -1,0 +1,23 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T22:10:36Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 13859726, "source_ctime_ns": 1793355489234850669, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0071.jpg", "source_mtime_ns": 1785564464000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0071.jpg", "source_sha256": "cf4f8b88281c6946c9cc7e3f5666fc6f05cd48c3fbc4eea8865033bf19a31c26"}
+
+===== PAGE 1 =====
+{"alpha_words": 208, "chars": 1372, "method": "ocr", "page": 1, "variant": "plain-vision"}
+133
+The orientation of a balloon-borne instrument entails the use oi one, two, or
+three gimbals, depending on whether simple uniaxial control, biaxial pointing, or
+triaxial stabilization is required. Uniaxial control suffices if it is necessary only
+to have one side of the instrument oriented, say, toward the sun; biaxial, if the
+instrument, such as a telescope, must be pointed at a celestial target such as a
+star: and triaxial, if the target is an extended source, the image points of which
+must be held stationary in the focal plane of the instrument, as for high resolution
+photography of the moon. Uniaxial control is perhaps best exemplified by the solar
+azimuth-pointing platform (SAPP) shown in Figure 1. In this instance, the platform
+is the gimbal. the axle of which is a vertical shaft attached to the load lines of the
+balloon through a swivel and a universal joint and to the trapeze bar beneath,
+through a universal joint.
+This platform was built by the Ball Brothers Research
+Corporation for the Air Force Cambridge Research Laboratories [Dolder and
+Johnson. 19601 for use on long duration balloon flights to accommodate various
+solar instruments including a solar sextant. The upper and lower universal joints
+were used to decouple the platform from asymmetrical rigging of the load lines
+(Author's manuscript received for publication 31 December 1963)

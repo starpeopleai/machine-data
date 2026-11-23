@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T21:42:19Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 13318318, "source_ctime_ns": 1793358746086285445, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-038-0001.tif", "source_mtime_ns": 1785681189000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-038-0001.tif", "source_sha256": "ef12504cbfc9cdf50ff13e2f705b4007dac3417049b1341f52404a8e06aedcbf"}
+
+===== PAGE 1 =====
+{"alpha_words": 81, "chars": 632, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+4602D AISS UFOB LCG
+1 REPORT NO.
+AISS-UFOB-226-55
+2 DATE/TIME OF SIGHTING
+09/034oZ July 1955
+3 RECD HQ 4602D
+19 July 1955
+L LOCATION OF SIGHTING
+Tampa, Florida
+5 MEANS RECD
+AF Form 112
+7 INVES UNIT
+N/A
+6 ACTION
+No investigation authorized
+& DATE INVES ASSIGNED
+I/A
+9 ASSIGNING OFFICER
+N/A
+10 DATE IR RECD HG
+111 DATE IR APPROVED
+N/A
+N/A
+13 AISOP FORM 5
+20 Jaly 1955
+12 DATE IR TO ATIC
+N/A
+14 COMMENTS
+the original report, coming in by AF Form 112, is very scant and
+does not supply the needed information for evaluation.
+15 CONCLUSIONS
+• Insufficient Data for Evaluation
+AISOP FORM 7 (2AFk 55)

@@ -1,0 +1,47 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T22:11:09Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 15415772, "source_ctime_ns": 1793359138333198316, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-006-013-0003.tif", "source_mtime_ns": 1785681326000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-006-013-0003.tif", "source_sha256": "9aef7854cca8a47626869e65fe49700cb3f4cd472e81f6f735ed52d64c250791"}
+
+===== PAGE 1 =====
+{"alpha_words": 175, "chars": 1309, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+Robably seter
+3TP A
+Rec
+3TР P 002
+ECA057
+EYD110 XZX
+EUA1Ø6 V
+TUB072RBB066
+PP. UECNS
+DE JEPRB 117A
+P. 141545Z
+FROM COMDR NEWARK TRANSCONTDEP NEWARK NJ
+TO UECNS/COMDR ENT AFB COLORADO SPRINGS COLO,
+INFO JEPNY/COMDR 26TH AIR DIV DEFENSE ROSLYN NY
+JEDWP/COMDR AIR TECH INTEL GEN WRIGHT PATTERSON AFB OHIO
+JEPHQ/DIR OF.
+INTEL USAF WASH DC
+AF GRNC
+FROM MNI1-3-E
+UFOB (1) (A) BALL (B) AIRPLANE (C) FIERY RED (D) ONE (E) N/A (F)
+NEGATIVE (G) LUMINOUS FIRE FOLLOWING (H) NEGATIVE (IT NEGATIVE
+(2) (A) OBSR GLANCING SKYWARD WHEN OBJECT NOTICED (B) APRX 45 DEG
+APPROACHING FROM SOUTH (C) SAME AS 2(B) HEADED NORTH FADED FR SIGHT
+(D) SOUTH TO NORTH ON 45 DEG ANGLE NO MANEUVERING (E) SUDDEN (F)
+APRX 20 SECONDS (3) (A) GND-VIS (B) NEGATIVE (C) N/A (4) (A) 2230
+11 JAN 55 (B) DUSK (5) OBSR FACING WEST ON HUDSON BLVD JERSEY CITY
+NJ OBJECT SIGHTED FR DIRECTION NEWARK APRT (6) (A)
+48,
+(B)
+"N/A (7) (A) CLEAR CLOUDLESS SKY VIS GOOD
+(B) NEWARK APRT WB RERT CLEAR SKIEŞ VIŞ 12 MILES TEMPERATURE 34
+DEG WINDS NORTH AT 14 MPH (C) UNLIMITED (D) GOOD (E) CLEAR (8) NEGATIVE
+(9) N/A (10) NEGATIVE (11) PM OBSR SERVED USAF WW2 BELIEVED OBJECT
+METEORIC TYPE NOT MANMADE POSSIBLE CAUSE OF SIGHTING UNKNOWN
+(12) NEGATIVE
+BT
+14/2128Z
+JANX
+EC 0636Z
+....
+RECD UR NO 259
+AISS DE COMM CNTR ARE U READY

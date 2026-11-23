@@ -1,0 +1,46 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T22:02:54Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 34296148, "source_ctime_ns": 1793356988827536657, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1188-478145-0014.tif", "source_mtime_ns": 1785564804000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1188-478145-0014.tif", "source_sha256": "b37a7fff89182afbb7c6cd1e938246e37b511b1d3e13b7ffbe5c2c951caf0ab0"}
+
+===== PAGE 1 =====
+{"alpha_words": 36, "chars": 228, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+a oew
+Le a
+,
+
+ENS
+
+re
+
+: 2
+AN ee”! ig
+
+Bu x
+Hy ree. nt
+BSH
+
+34.
+¥
+
+<a SS
+“4 ; tk
+
+1
+AM as
+
+ss “4 LETS ant
+t AW =
+
+Tut ant Ao
+RS eel nee
+
+“eat
+A ¥ r:
+
+t
+
+eS es
+¥ “\\ " Sy
+
+r me \
+Pow \a® TF
+
+Declassification Authority: NND 57565

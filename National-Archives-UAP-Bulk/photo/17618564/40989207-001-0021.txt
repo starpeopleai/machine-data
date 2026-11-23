@@ -1,0 +1,51 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T21:37:07Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8612476, "source_ctime_ns": 1793354409408283667, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989207-001-0021.jpg", "source_mtime_ns": 1785564280000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989207-001-0021.jpg", "source_sha256": "766823557ae506c48d6dce5b2dca230d78a95ae944bd402e489cde4313522522"}
+
+===== PAGE 1 =====
+{"alpha_words": 243, "chars": 1682, "method": "ocr", "page": 1, "variant": "plain-vision"}
+FOREWORD
+We feel it is important to document and publicize the total number of
+actual transitions from Phillips Laboratory (PL/GP) to users which take place
+during a given time period, especially with the increasing emphasis in Air Force
+Materiel
+Command (AFMC)
+on technology transition (I?)
+as a
+measure of
+laboratory's performance. Documenting transitions of major "pieces" of geophysics
+technology, be it hardware or software, that occur in a fiscal year is relatively
+easy.
+However,
+there are
+many
+other unheralded but nonetheless important
+technology transitions that also occur. This sixth annual report was prepared
+with
+the
+goal of also
+making
+cnese
+other
+transitions
+known
+to
+higher
+headquarters.
+We believe that the three program elements (PE 62101F, PE 63410F, and PE
+63707F) and the several PE 61102F tasks that PL/GP manages are prolific producers
+of technology needed by the Air Force and the Department of Defense. Over 70%
+of the FY92 technology transition events documented in this report were produced
+by these PEs, whose FY92 funding totaled a modest $61M (giving credence to the
+statement that PL/GP manages the technology transition process very well). Capt
+Edward Harrison, USN, responsible for environmental sciences R&D in the Office
+of the Undersecretary of Defense, Research and Engineering (1987), said,
+"PE 62101F is the single most important PE in DoD in the environmental
+sciences. It has the greatest payback; it is clearly solving requirements and
+is of great breadth and scope."
+Prepared by:
+Mr. Charles C. Gallagher
+Technology Transition Manager
+Geophysics Division (XPG)
+Plans and Programs Directorate
+Phillips Laboratory
+DSN: 478-3606
+April 1993

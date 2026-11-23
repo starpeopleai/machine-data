@@ -1,0 +1,10 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T21:33:55Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7366304, "source_ctime_ns": 1793363232285586182, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330784816/45484701-005-001-0085.jpg", "source_mtime_ns": 1785684641000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330784816/45484701-005-001-0085.jpg", "source_sha256": "38f10b11a2317135ef20ed3ce151ba95819bc4fbc678a24821faac53505afe3a"}
+
+===== PAGE 1 =====
+{"alpha_words": 9, "chars": 78, "method": "ocr", "page": 1, "variant": "contrast-vision"}
+OL
+RECENEO
+9
+JAN 1950
+6th District OSI
+Declassification Authority: NND 923007

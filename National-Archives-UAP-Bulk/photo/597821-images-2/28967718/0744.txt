@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T21:37:50Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8834239, "source_ctime_ns": 1793378359477693148, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28967718/0744.jpg", "source_mtime_ns": 1785696979000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28967718/0744.jpg", "source_sha256": "a8e2158260940c03689fc8f150aab84579e82a1b40e021afd66cfb4c24a95b33"}
+
+===== PAGE 1 =====
+{"alpha_words": 59, "chars": 405, "method": "ocr", "page": 1, "variant": "plain-vision"}
+10. NO AIRCRAFT IN AREA
+1/LT USAF
+INTELLIGENCE OFFICER
+UFOB IS BELIEVED TO BE A ASTROBODY
+THE UFOB WAS NOT PICKED UP BY RADAR
+12. NONE
+ВТ
+03/03302 OCT RJEDFL
+PUNCHASIED/ FODO 0001 PD IN ASFZOST
+AAGRDZZUPPAM THE FOLLOWING
+UNBEDTIFI
+XLMBJECTSSIER
+RGRMITTED PD
+EDOB) SIZEAFL RED ON BOTTOM AND GREENLON TOP
+.. (A)ISS
+ORDO ONE
+(=› NA
+(FISAPPEARS AND FADES LIKE A STAR
+(GO NONE
+RUL
+XOTD CONTINOUS
+30ст 56 08 41

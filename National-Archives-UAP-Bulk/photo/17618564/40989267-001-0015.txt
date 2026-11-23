@@ -1,0 +1,24 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T21:52:34Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 15785042, "source_ctime_ns": 1793355433683335894, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0015.jpg", "source_mtime_ns": 1785564454000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0015.jpg", "source_sha256": "59fe1f8cc66d657ec790c4d3234e5a9794440bd3b3df0bdccf9c883dab21308e"}
+
+===== PAGE 1 =====
+{"alpha_words": 110, "chars": 800, "method": "ocr", "page": 1, "variant": "plain-vision"}
+are used in conjunction with forecasts of the ascent trajectory. In placing a balloon
+within a very limited spatial region, for example, within the eye of a hurricane, mobile
+ground launching is not an adequate solution.
+2.3 Air Launched Balloon Device
+To answer the requirement for very accurate balloon placement, a system was
+conceived for the air launching of a balloon from a fully self-contained package
+shown in Figure 14. Simply described, the package, containing balloon, parachute,
+lifting gas source, and instrumentation payload is released from an airplane. Sub-
+REINFORCED
+TREA MS OF OPERATION
+I NOV. 62T
+TAPELESS
+REINEORCEDI
+10,000
+Figure 10. Realms of Operation of Balloons as of November 1962
+BALLOON TYPE: C MYLAR LAMINATE
+WEIGHT: 46 LBS
+PAYLOAD: 48 LBS
+FLIGHT DURATION: 10 DAYS
+qui

@@ -1,0 +1,40 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T21:42:16Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 12987548, "source_ctime_ns": 1793358631230342658, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-010-0001.tif", "source_mtime_ns": 1785681154000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-010-0001.tif", "source_sha256": "a7d8b229229ef66d38d561c20a5d663cb67c84420ebd7f1f8a42b4118b1d50b8"}
+
+===== PAGE 1 =====
+{"alpha_words": 88, "chars": 627, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+4602D AISS UFOB LOG
+REPORT NO.
+AISS-UFOB-392-55
+LOCATION OF SIGHTING
+Fairfield, California
+MEANS RECD
+DATE/TIME OF SIGHTING
+29/2350Z Oct 55
+RECD HQ 4602D
+10 Nov 55
+LOGGED BY
+S/Sgt Deludder
+AF Form 112
+INVES UNIT
+ACTION
+No invesitgation authorized
+DATE INVES ASSIGNED
+N/A
+DATE IN APPROVED
+N/A
+ASSIGNING OFFICER
+N/A
+DATE IR TO ATIC
+NA
+DATE IR RECD HQ
+N/A
+DATE OF FORM 5
+10 November 1955
+COMMENTS
+Due to the delay in receiving the report and the discrepancies in
+the report no investigation authorized. This report is forwarded
+to ATIC as unknown.
+CONCLUSIONS
+UNKNOWN
+AISOP FORM 7 (2 APR 55)

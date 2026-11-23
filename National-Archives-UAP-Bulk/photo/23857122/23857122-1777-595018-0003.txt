@@ -1,0 +1,20 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T21:24:52Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 67222376, "source_ctime_ns": 1793358016595972945, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1777-595018-0003.tif", "source_mtime_ns": 1785565012000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1777-595018-0003.tif", "source_sha256": "ba85f21d6c4f8d4a3f05e7522b66d8ed16b3afe5b34f6cd29610e2044684ee60"}
+
+===== PAGE 1 =====
+{"alpha_words": 45, "chars": 352, "method": "ocr", "page": 1, "variant": "plain-vision"}
+TAPLE HERE
+To:
+The Director
+U.S. Coast and Geodetic Survey
+Washington, 25, D.C.
+U.S. DANGER AREAS ON WORLD AERONAUTICAL CHART 468
+Eh Army: Camp Pal, Li
+70 50,000
+NORTH POLAR AREA
+SOUTH POLAR AREA
+WORLD AERONAUTICAL CHART INDEX
+Scale of Series 1:1,000,000
+AERONAUTICAL SYMBOLS
+AIR NAVIGATION LIGHTS
+Declassification Authority: NND 57565
+I THAT AND MICE

@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T21:32:34Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 23055518, "source_ctime_ns": 1793359229426101165, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-006-055-0011.tif", "source_mtime_ns": 1785681349000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-006-055-0011.tif", "source_sha256": "4c05d83cfdaeb9c4d5e9b602a4396abe64d2584ef14d55520a78450ce1a19145"}
+
+===== PAGE 1 =====
+{"alpha_words": 128, "chars": 813, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+FLORM 112 PART I
+ROVED JUNE 1948
+KUNGLASSTETED
+(CLASSIFICATION)
+AIR INTELLIGENCE INFORMATION REPORT
+REPORT NO.
+CARL FIVE
+PAGE:
+COMMENTS OF PREPARING OFFICEEY
+Le In the opinion of the Preparing Officer this sighting was probably
+caused by the helianiane described in para 13 Part Fourt.
+The description of the flight path of the aircraft and the object
+coincide s
+As far as can be determined the red revolving beacon was torned off
+at the time the plane started horizontal.
+straight Tine light,
+The times given
+by the observers coincide very closely with the take off time of the afreraft,
+HAMME DE SAMPSOR
+SUSAD
+2nd his pit 2-4
+COMMENS OF APPROVING OFFICERE
+Concur with the opim on of the Preparing officer that sighting was caused
+by the helfaplane descr bed in the report,

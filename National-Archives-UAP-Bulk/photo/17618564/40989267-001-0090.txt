@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T21:25:46Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 12537669, "source_ctime_ns": 1793355507340561195, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0090.jpg", "source_mtime_ns": 1785564467000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0090.jpg", "source_sha256": "69807162085175596b4976a62e51e01d00728428efd51ebcc6e4be29dbab0849"}
+
+===== PAGE 1 =====
+{"alpha_words": 230, "chars": 1479, "method": "ocr", "page": 1, "variant": "plain-vision"}
+INTRODUCTION
+The development of MERFAB, a new light balloon fabric, is involved primarily
+with the desire to go to altitudes of 150,000 feet and above. This desire stems from
+the fact that conventional balloon practice appears to have an asymptote ceiling at
+150,000 feet. This is a barrier which SSS would hope to raise. In order to do this,
+it is necessary to achieve a considerably lighter fabric than is generally available,
+the latter being associated with Mylar, polypropylene, polyethylene and some of the
+more recent scrim types. Three years ago, it was the conclusion that, in order to
+go towards lighter fabrics, a thinner film was required; and, that going to thinner
+films it would be found they were necessarily rather weak and would not handle the
+loads that would be experienced in a flight from launch thru the tropopause to alti-
+tudes of 150,000 feet. As a consequence the films would have to be reinforced to
+some degree.
+Thus, it was necessary to create a very thin film which would take
+the gas pressure and then by the use of reinforcing mesh, the strength requirements
+could be met.
+The films used for MERFAB in SSS' current efforts are directed primarily
+towards the utilization of a 1/4 mil thickness made from a polyethylene derivative.
+Strength members are nylon bonded to the polyethylene in a number of different
+grid patterns depending upon the particular strength requirements of the
+(Author's manuscript received for publication 31 December 1963)

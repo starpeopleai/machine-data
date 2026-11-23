@@ -1,0 +1,55 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T21:24:29Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 31249740, "source_ctime_ns": 1793357867634389462, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1713-582569-0001.tif", "source_mtime_ns": 1785564986000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1713-582569-0001.tif", "source_sha256": "5b0e5e63fdac4625a85e0f8bed3800eed5994844aa908109eff68de4a25966cc"}
+
+===== PAGE 1 =====
+{"alpha_words": 205, "chars": 1559, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AF FORM 1124
+APPROVED 1 JUNE 1948
+COUNTRY
+RESTRICTED
+(CLASSIFICATION)
+AF582569
+United States of America
+NETOR N
+1-53
+AIR INTELLIGENCE INFORMATION REPORT
+r38 2569
+SUBJECT
+Unidentified Flying Objects
+AREA REPORTED ON
+Vicinity, Lewisdale, Maryland
+DATE OF REPORT
+8 September 1953
+PREPARED BY (Officer)
+2nd It Albert N. Hutchinson, Jr.
+REFERENCES (Control number, directive, previous report, etc., as applicable)
+None
+FROM (Agency)
+DATE OF INFORMATION
+1 September 1953
+SOURCE
+Director of Intelligence, Hq Command, USAF
+EVALUATION
+Unknown
+Mrs. James Duvall, Lewisdale, Maryland
+SUMMARY: (Enter concise summary of report. Give significance in final one-sentence paragraph. List inclosures at lower left. Begin text of report on AF Form 112-Part II.)
+The following information is submitted in accordance with Air Force Regulation
+200-2, dated 26 August 1953.
+ALBERT N. HUTCHINSON, JR.
+2nd Lieutenant, USAF
+Director of Intelligence
+Headquarters Command, USAF
+. INCLS.
+DECLASSIFIED
+USAF
+Memo 7/31/28
+BY W.& LeMMARS, Dato 4/12/29
+DISTRIBUTION BY ORIGINATOR
+NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S.C.-
+31 AND 32, AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW.
+IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF
+INTELLIGENCE, USAF.
+RESTRiCTED
+(CLASSIFICATION)
+OFFICE
+# 1
+Declassification Authority: NND 57565

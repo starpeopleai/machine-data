@@ -1,0 +1,49 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T21:38:06Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8934538, "source_ctime_ns": 1793385775658107944, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28994110/0543.jpg", "source_mtime_ns": 1785748345000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28994110/0543.jpg", "source_sha256": "25d0d57281950e5ce0d6546b36537869db7fa35b0e364d2214c8184735b6d5ca"}
+
+===== PAGE 1 =====
+{"alpha_words": 114, "chars": 891, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. 'DATE
+14 Aug 61
+3. DATE-TIME GROUP
+LocoP255
+GMT 1503552
+5. PHOTOS
+• Yos
+XX No
+7. LENOTH OF OBSERVATION
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Dayton, Ohio
+4. TYPE OF OBSERVATION
+IXGround Visual
+• Air Visual
+6. SOURCE
+• Ground-Reder
+• Air-Intercept Roder
+Civilian
+8. NUMBER OF OBJECTS
+9. COURSE
+12. CONCLUSIONS
+Was Balloon
+Possibly Balloo
+Salloo
+Was Aircratt
+Probably Aireraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomice
+Other
+Insufficient Data for Evaluation
+Unk no wn
+2-3 min
+1
+N then E
+I0. BRIEF SUMMARY OF SIGHTING Bright light appearing
+11. cOMMENTS2 separate sightings of same obit.
+Im S going N and turning E. estimated 35-50000' Both aprox each other with exception of
+altitude. Twice as briaght as brightest star.
+color and size of light. Apparently high-
+flying a c due to flight and speed (in sight
+2-3 min). Altitude estimated at 35-50000
+0 00

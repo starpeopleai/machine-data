@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T21:48:13Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8582572, "source_ctime_ns": 1793380248292339593, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28975016/1408.jpg", "source_mtime_ns": 1785700634000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28975016/1408.jpg", "source_sha256": "810a91590ff0e9ece377b08c55b8b5e3a4499458401c2be3818bd41a7dad3454"}
+
+===== PAGE 1 =====
+{"alpha_words": 75, "chars": 543, "method": "ocr", "page": 1, "variant": "plain-vision"}
+20
+Nüitress
+1 05002
+510
+3-4x21
+NNNNSQH032 SQB124 YDC077 WYB093 WMB096QBAC59
+MM RJEDDN RJEDSQ RJEPHQ RJWFNK
+DE RJWEOB 29
+M 261538Z
+FIL COMADIV 19 CARSWELL
+TO RJEDDN/COMADC ENT AFB COLO
+RJEDSO COMATIC WRIGHT PATTERSON AFE OHIO
+RJEPHG/DIR OF INTELL HQ USAF WASH
+RJWFKL/COMF 2 BARKSDALE AFB LA
+RJEDBRZOINCSAC OFFUTT AFB NEBR
+alic
+RJWFNK/COMADIV 33 OKLA
+BT
+/UNCLAS/7DOI 1775. SUBJECT: UFOB. FOLLOWING UFOB REPORT
+IS SUBMITTED IN ACCORDANCE WITH AFR 200-2:
+1. DESCRIPTION OF OBJECT:
+A.-ROUND TO OVAL
+PEA
+C. WHITE GLOW
+D.* ONE
+E• N/A
+F. NONE
+G. NONE

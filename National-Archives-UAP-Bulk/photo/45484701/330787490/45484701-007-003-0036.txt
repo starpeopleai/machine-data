@@ -1,0 +1,56 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T21:38:11Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9019995, "source_ctime_ns": 1793364637026488493, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787490/45484701-007-003-0036.jpg", "source_mtime_ns": 1785684884000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787490/45484701-007-003-0036.jpg", "source_sha256": "69bb56daba0503bb6da8b3405d5c5999963a640a6a9475ae6dabca76f6890f83"}
+
+===== PAGE 1 =====
+{"alpha_words": 135, "chars": 1101, "method": "ocr", "page": 1, "variant": "plain-vision"}
+CHIEF, SECURITY BRANCH/HJJ/1ae
+COORDINATION
+CO
+UNCLASSIRED
+DEPUTY CO
+19D OSI 24-40 SIR 8
+21. June 1950
+SPOT INTELLIGENCE REPORT
+EX OFFICER
+SUBJECT: Flying Saucer Photograph
+PAUL TRENT
+McMinnville, Oregon
+CHIEF AGENT
+TO
+: Director of Special Investigations,
+Headquarters USAF,
+washington 25, D. C.
+FILE CLERK
+1. SYNOPSIS Photograph in the Independent Journal,
+Wednesday, 14 June 1950 of a strange wingless object resembling STAT CONTROL
+"flying saucer.
+DETAILS: The Independent-Journal, San Rafael, California
+carried a photograph of a strange wingless object resembling
+"flying sauceriwhich was photographed by PAUL, THENT of MolinnuffIN,
+Oregon as it soared over his farm.
+3. ACTION: None.
+ORIGINATOR
+1 Inel: Paper clipping taken
+from Independent¿¿ournal,
+san harael,
+California,
+Wednesday 14 June 1950.
+CLASSIFICATION CANCELLED
+BY AUTHORITY OF THE DIRECTOR OF
+BY
+KURT K. KUNZE, Capt, USAF
+historian
+DATE
+5 DE C 1975
+JOHN G. SHOPS,
+COLOneL, USAF,
+District Commander
+UNCLASSIFIED
+CHIEF CLERK
+DET COMDR
+OSI 124-10
+(25 Aug 48)
+SIR-8
+21 JUN19
+Feb 50 5M (30a)
+IGATO
+Declassification Authority: NND 923007

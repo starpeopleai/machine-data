@@ -1,0 +1,45 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T22:11:44Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 17088514, "source_ctime_ns": 1793360985649002263, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-003-0297.tif", "source_mtime_ns": 1785565166000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-003-0297.tif", "source_sha256": "1b3bd683524d73104a66007ffb092bb5bdf0877a54a6ab3f0a4955207e72fc21"}
+
+===== PAGE 1 =====
+{"alpha_words": 125, "chars": 855, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AIRPORT TRAFFIC AND TAXI PATTERNS
+PATTERN FOR EAST WIND
+(RUNWAY 9)
+600-800 FT. ALTITUDE
+TYPICAL RECTANGULAR
+PATTERN
+OR SLOW FOR
+LIGHT
+AIRCRAFT
+2001 AN
+RECOMMENDED
+PATTERN FOR WEST WIND
+1200 FT. ALł
+PATTERN FOR SOUTH WIND
+SOD AREA
+LIGHI OR SLO
+_TRAFFIC _
+500 - 800 FT. ALT.
+FOR
+COMBINATION PATTERN
+FAST
+AND SLOW AIRCRAFT
+TYPICAL
+TRAFFIC PATTERNS FOR
+AIRPORTS CLOSE TO EACH OTHER
+PATTERN FOR RUNWAY 9 EAST WIND
+PATTERN FOR RUNWAY 5 NORTHEAST WIND
+TYPICAL TAXI PATTERNS FOR AN AIRPORT WITHOUT TAXI STRIPS
+PATTERN FOR NORTH WIND
+TYPICAL TRAFFIC AND TAXI PATTERNS
+FOR SOD FIELD, SHOWING SEPARATION
+OF PRACTICE LANDINGS FROM OTHER TRAFFIC
+TAXIING ROUTE FOR TAKE-OFF.
+TAXIING ROUTE AFTER LANDING.
+TYPICAL TAXI PATTERN FOR
+AN AIRPORT HAVING TAXIWAYS
+SYMBOLS
+FLIGHT PATH IN TRAFFIC PATTERN.
+WIND OR TRAFFIC DIRECTION INDICATORS.
+DECLASSIFIED
+Authority NND 9237007

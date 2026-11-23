@@ -1,0 +1,34 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T21:48:42Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8798598, "source_ctime_ns": 1793377142141385562, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28962810/0907.jpg", "source_mtime_ns": 1785696975000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28962810/0907.jpg", "source_sha256": "edd1452d6aedb697edbab090a77622d6af0d54a35226fdf272428564356131b1"}
+
+===== PAGE 1 =====
+{"alpha_words": 46, "chars": 329, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Itness Pis
+10 JOL 035 07 34
+ACTION
+15 JUL55 06 57zšę
+Co
+LATIA
+3NTIG
++ Pfi
+2
+· 0710 E
+SECT / CO
+JEP 0/ DT.
+СтО.
+/OD. 201.
+C- :
+AL DIVIS
+MON OF OS1
+D0oST
+AND:
+• ROUND
+• LACE
+• O.
+........
+G• TRAIL: LOG AND ORIG
+DESCRITTION OF COURSE OF OBJECT.)
+A• LIGHT 5. LEVEL EAST TO
+FOUL SIGHT F. 1> TO 17
+ANER OF
+OD.-AVATTON:
+T C. LEVEL EAST

@@ -1,0 +1,87 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T21:24:17Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 25640316, "source_ctime_ns": 1793361135572990388, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-004-0147.tif", "source_mtime_ns": 1785565241000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-004-0147.tif", "source_sha256": "ee85c76b26f8e55ac041864821abdba909787234e3685405b3f1b4d98618e384"}
+
+===== PAGE 1 =====
+{"alpha_words": 285, "chars": 2128, "method": "ocr", "page": 1, "variant": "plain-vision"}
+11.503.0%
+CLASSIFICATION
+COUNTRY OF ACTIVITY REPORTING
+REPORT NO.
+Japan
+IR-39-57
+UNCLASSIFTED
+"(Leave blank)
+AIR INTELLIGENCE INFORMATION REPORT
+1156/62ł
+COUNTRY OR AREA REPORT CONCERNS
+DATE OF INFORMATION
+Japan
+26 Nov 57
+ACTIVITY SUBMITTING REPORT
+DATE OF COLLECTION
+SRI STATUS (If applicable)
+SRI NO.
+5th AF ATILO
+PREPARING INDIVIDUAL
+Captain William J. Buchanan, ATLO
+Captain Joseph A. Calhoon, ATILO
+NAME OR DESCRIPTION OF SOURCE
+4 Dec 57
+DATE OF REPORT
+CANCELED /COMPLETE
+SRI NO.
+CANCELED / INCOMPLETE
+26 Dec 57
+EVALUATION
+SRI NO.
+ACTIVE
+B-50 Aircrew
+REFERENCES (BAIR Subject, previous repo
+B-2
+ADDITIONAL INFORMATION ON (Date)
+as applicable)
+BAIR 460-T, COMOC R-8, 67th Tactical Reconnaissance Wing, 281022Z
+SUBJECT (Descriptive title. Use individual reports for separate subjects)
+(U) Unidentified Flying Object
+which highlights the salient factors of narrative report
+Seport can defy stated on A Form 12. List inclosures. including number of copies,
+Begin narrative text on AF Form 112a
+This report forwards available data to supplement the information provided
+by COMOC R-8, 67th Tactical Reconnaissance Wing, 281022Z, regarding an unidenti-
+fied flying object sighted in the Sea of Okhotsk.
+APPROVED:
+jack
+PACK S. ZEIGLET
+(It Colone ATIO
+USAF
+Director.
+DCS/Intelligence
+2/25:32-1
+Classification (cancelled) (changed to
+(nolas ), effective on
+1 5 aps2ął
+_under the authority of
+ACS 7
+DY AELS LOS A
+22
+SPECIAL HANDLING REQUIRED.
+62A 1322 Not Releasable to Foreign
+Nationals.
+The information contained in
+this document will not be
+disclosed to foreign nationals
+or their representatives.
+DISTRIBUTION BY ORIGINATOR (Except USAF and file. Indicate Dupl M/oz and copies w/o inclos
+if applicable)
+AFCIN-4, W-P AFB, O.; PACAF ATILO, APO 953
+WARNING: This document contains information affecting the national defense of the United States within the meaning of the
+Espionage Laws, Title 18, U.S.C., Section 793 and 794. Its transm
+or the
+tion of its contents in any manner to
+an unauthorized person is
+AF
+15 SEP 54 112 REPLACES AF FORM 112.
+1 OCT 52. WHICH MAY BE USED
+UNCLASSIFIED
+MINICODED
+DECLASSIFIED
+Authority NND 9237007

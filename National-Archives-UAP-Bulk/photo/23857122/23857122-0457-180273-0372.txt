@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T21:52:43Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 17454316, "source_ctime_ns": 1793356747649317731, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0372.tif", "source_mtime_ns": 1785564751000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0372.tif", "source_sha256": "2a140128625a081f85a7355d05ebb53394640b9ec4ce96be6e6e6ef642028da9"}
+
+===== PAGE 1 =====
+{"alpha_words": 109, "chars": 769, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UNITED STATES DEPARTMENT OF COMMERCE
+WEATHER BUREAU
+Washington 25
+In Reply Please Address
+CHIEF OF BUREAU
+and Refer to
+Dec. 16, 1948
+Commanding General
+Air Materiel Command
+Attention: NOIAXO
+Wright-Patterson Air Force Base
+Dayton, Ohio
+Dear Sir:
+Your letter of October 20, 1946, addressed to the National Bureau
+of Standards and requesting information on the subject of "Ball
+Lightning" has been referred to this Bureau for reply.
+Attached is a tabulation filling in as well as practicable the in-
+formation called for by the outline presented in your letter. We
+shall be glad to be of further assistance in connection with this
+matter.
+Very truly yours,
+/s/
+F. W. Reicholderfer
+F. W. Reichelderfer
+Chief of Bureau
+Attachment
+0081
+Declassification Authority: NND 57565

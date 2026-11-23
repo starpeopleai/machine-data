@@ -1,0 +1,42 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T21:34:02Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7467074, "source_ctime_ns": 1793363641497258805, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785767/45484701-005-007-0031.jpg", "source_mtime_ns": 1785684980000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785767/45484701-005-007-0031.jpg", "source_sha256": "3ff9d477add4e5f9e12c59d1744d61c975481c36468f01040ecf008eb67437ea"}
+
+===== PAGE 1 =====
+{"alpha_words": 99, "chars": 794, "method": "ocr", "page": 1, "variant": "plain-vision"}
+SECURITY INFOR
+ATIUI
+DEPARTMENT OF THE AIR FORCE
+HEADQUARTERS UNITED STATES AIR FORCE
+WASHINGTON
+THE INSPECTOR GENERAL USAF
+12TH DISTRICT OFFICE OF SPECIAL INVESTIGATIONS
+CHANUTE
+AIR FORCE BASE, ILLINOIS
+29 July 1952
+12D 1-11
+SUBJECT: Unconventional Aircraft Sighting
+TO :
+Director
+UNCLASSIF
+Office of Special Investigations
+Washington, D.C.
+Inclosed herewith as a matter of interest to your office is
+' a newspaper clipping from the Indianapolis Times of 28 July 1952,
+pertaining to a recent "Flying Saucer" report.
+›Incl.
+newspaper clipping
+Indianapolis Times
+28 July 1952
+eddy Pilen
+LeROY BITCON
+Lt. Col., USAF
+District Commander
+CLASSIFICATION CANCELLED E
+BY AUTHORITY
+BY
+KURT K. KUNZE, Capt, ÜSAFA.
+Historian
+DATE# BEC 1975
+SEGURIT
+AHUN
+UNCLASSIFIED
+Declassification Authority: NND 923007

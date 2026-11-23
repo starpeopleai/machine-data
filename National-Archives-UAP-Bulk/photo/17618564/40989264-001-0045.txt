@@ -1,0 +1,140 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T21:43:41Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 21923364, "source_ctime_ns": 1793355203170746815, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989264-001-0045.jpg", "source_mtime_ns": 1785564412000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989264-001-0045.jpg", "source_sha256": "0dc8c5d8402f167300b32ef7245188c7c6bb18cf605e7a5dc8586d607356b48b"}
+
+===== PAGE 1 =====
+{"alpha_words": 1440, "chars": 9328, "method": "ocr", "page": 1, "variant": "plain-vision"}
+82
+To experience a looming mirage, the observer's eye must be located in the atmos-
+pheric layer wherein the temperature anomalously increases with height (in-
+version layer), and the miraged target in the object-field must also lie in or near
+the inversion layer. Inversion layers are essentially horizontally, and the actually-
+encountered values of the inversion lapse rates are such that refraction anoma-
+lies are confined to very small departures from the horizontal, as noted above
+under remarks on mirages. All of these points are well-understood principles of
+meteorological optics. However, Menzel has attempted to account for such UFOS
+as Dr. Clyde Tombaugh saw overhead at Las Cruces in August 1949 in terms of
+'inversion' refraction or reflection effects. Since I have discussed the quantita-
+tive unreasonableness of this contention elsewhere, I will not here elaborate the
+point, except to say that if inversions were capable of producing the optical
+disturbances that Menzel has assumed, astronomers would long since have given
+up any attempt to study the stars by looking at them through our atmosphere.
+Other atmospheric-optical anomalies have been adduced by Menzel in his
+UFO discussions. He has repeatedly suggested that layers of haze or mist cause
+remarkable enlargement of the apparent images of stars and planets. By enlarge-
+ment, he makes very clear that he means radial enlargements in all directions
+such that the eye sees not a vertical streak of the sort well-known to astronomers
+as resulting from near-horizon refraction effects, but rather a circular image of
+very large angular size. Menzel even describes a sighting that he himself made,
+over Arctic regions in an Air Force aircraft, in which the image of Sirius was
+enlarged to an angular size of over ten minutes of arc (one-third of lunar
+diameter). I have discussed that sighting with a number of astronomers, and not
+one is aware of anything that has ever been seen by any astronomer that approxi-
+mates such an instance. In fact, it would require such a peculiar axially-
+symmetric distribution of refractive index, which miraculously followed the
+speeding aircraft along as it moved through the atmosphere, that it seems quite
+hopeless to explain what Menzel has reported seeing in terms of refraction effects.
+Since Dr. Menzel's writings on UFO's have evidently had, in some quarters,
+a marked effect on attitudes towards UFOS, I regard that effect as deleterious.
+If I felt that we were dealing here with just a slight difference of opinion about
+rather controversial scientific matters on the edge of present knowledge. I would
+withhold strong comment. However, I wish to say for the record, that I regard
+the majority of Dr. Menzel's purported meteorological-optical UFO explanations
+as simply scientifically incorrect. I could,
+but shall not here, enlarge upon
+similar critique of official explanations that have invoked such arguments.
+3. Atmospheric electricity
+One phenomenon in the area of atmospheric electricity to which appeal has
+been made from the earliest years of investigations of the UFO phenomena
+is that of ball lightning. For example, a fairly extensive discussion of ball
+lightning was prepared by the U.S. Weather Bureau for inclusion in the 1949
+Project Grudge report (Ref. 6). It was concluded in that report that ball light-
+ning was most unlikely as an explanation for any of the cases which were
+considered in that report (about 250). Periodically, in succeeding years, one
+or another writer has come up with that same idea that maybe people who
+report UFOs are really seeing ball lightning. No one ever tried to pursue this
+idea very far, until P. J. Klass began writing on it. Although his ideas have
+received some attention in magazines, there is little enough scientific backur
+o his contentions that they are quite unlikely to have the same measure of
+effect that Menzel's previous writings have had. For that reason, I shall not
+here elaborate on my strong objections to Klass' arguments. I spelled them
+out in considerable detail in a talk presented last March at a UFO Svmposium
+in Montreal held by the Canadian Aeronautics and Space Institute. Klass has
+ienored most of what is known about ball lightning and most of what is known
+about plasmas and also most of what is known about interesting UFOs in
+develoning his curious thesis. It cannot be regarded as a scientifically significant
+contribution to illumination of the UFO problem.
+4. Radar propagation anomalies
+In the past twenty years, there have been many instances in which unidenti
+ied obiects have been tracked on radar, manv of them with concurrent visual
+observations. Some examples have been cited above. It is always necessary to
+approach a radar unidentified with full knowledge of the numerous
+ways in
+which false returns can be produced on radar sets. The physics of "ducting»
+83
+or "trapping" is generally quite well understood. As with mirages, the allowed
+angle of elevation of the radar beam can only depart from zero by a few tens
+of minutes of arc for typically occurring inversions and humidity gradients.
+Ducting with beam angles in excess of a degree or so woulld require unheard
+of atmospheric temperature or humidity gradients. Care must be taken in inter-
+preting that statement, since beam-angles have to be distinguished from angles
+of elevation of the beam axis. For the latter reason, a beam-axis elevation of,
+say, two degrees still involves emission of some radar energy at angles so low
+that some may be trapped, yielding "ground returns" despite the higher eleva-
+tion of the axis. All such points are well described in an extensive literature
+of radar propagation physics.
+In addition to trapping and ground return effects, spurious returns can come
+from insects, birds, and atmospheric refractive-index anomalies that generate
+radar echoes termed "angels". These are low-intensity returns that no experi-
+enced operator would be likely to confuse with the strong return from an air-
+craft or other large metallic object.
+Also, other peculiar radar effects such as interference with other nearby
+sets, forward scatter from weak tropospheric discontinuities
+(see work of
+Atlas and others), and odd secondary reflections from ground targets need to
+be kept in mind.
+When one analyzes some of the famous radar-tracking cases in the UFO
+literature, none of these propagation anomalies seem typical as accounting
+for the more interesting cases. (Several examples have already been discussed,
+(cases 32, 35, 36, 37, 38, and 39).)
+SUMMARY AND RECOMMENDATIONS
+In summary, I wish to emphasize that my own study of the UFO problem
+has convinced me that we must rapidly escalate serious scientific attention to
+this extraordinarily intriguing puzzle.
+I believe that the scientific
+community has been seriously misinformed for
+twenty years about the potential importance of UFOS. I do not wish here to
+elaborate on my own interpretation of the history behind that long period of
+misinformation; I only wish to urge the Committee on Science and Astronautics
+to take whatever steps are within their power to alter this situation without
+further delay.
+The present Symposium is an excellent step in the latter direction. I strongly
+urge your Committee that further efforts in the same direction be made in
+the near future. I believe that extensive hearings before your Committee, as
+well as before other Congressional committees having concern with this problem,
+are needed.
+The possibility that the Earth might be under surveillance by some high
+civilization in command of a technology far beyond ours must not be overlooked
+in weighing the UFO problem. I am one of those who lean strongly towards the
+extraterrestrial hypothesis. I arrived at that point by a process of elimination
+of other alternative hypotheses, not by arguments based
+on what I could call
+'irrefutable proof.' I am convinced that the recurrent observations by reliable
+citizens here and abroad over the past twenty years cannot be brushed aside as
+nonsense, but rather need to be taken extremely seriously as evidence that some
+phenomenon is going on which we simply do not understand. Although there is no
+current basis for concluding that hostility and grave hazard lie behind the UFO
+henomenology. we cannot be entirely sure of that. For all of these reasons
+greatly expanded scientific and public attention to the UFO problem is urgentl
+needed.
+The proposal that serious attention be given to the hypothesis of an extrater-
+restrial origin of UFOs raises many intriguing questions, only a few of which
+can be discussed meaningfully. A very standard question of skepticism is "Why
+to contact?" Here, the best answer is merely a cautionary remark that one would
+ertainly be uniustified in extrapolating all human motives and reasons to ans
+other intelligent civilization. It is conceivable that an avoidance of premature
+contact would be one of the characteristic features of surveillance of a less ad-
+vanced civilization; other conceivable rationales can be suggested. All are specula-
+tive, however: what is urgently needed is a far more vigorous scientific investiga-
+tion of the full spectrum of UFO phenomena,
+and the House Committee
+on Science and Astronautics could perform a very significant service by taking
+steps aimed in that direction.

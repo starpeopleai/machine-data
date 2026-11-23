@@ -1,0 +1,80 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T21:49:26Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9252235, "source_ctime_ns": 1793364570849566179, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787368/45484701-007-002-0048.jpg", "source_mtime_ns": 1785685194000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787368/45484701-007-002-0048.jpg", "source_sha256": "1d40bea75f3776b7357642ec2271c443b0e8b3d7b1ddbb8b93e56646a49ce8df"}
+
+===== PAGE 1 =====
+{"alpha_words": 283, "chars": 2051, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UNITED STATES AIR FORCE
+THE INSPECTOR GENERAL
+OFFICE OF SPECIAL INVESTIGATIONS
+REPORT OF INVESTIGATION
+TITLE
+Photograph of an Unidentified
+COX B.
+California
+CHEETAL INQUIRY
+FILE NO.
+24-16ąłą
+У255E BY
+MoSWAI
+REPORT MADE AT
+DO #18, Maywood, California
+PERIOD
+21, 22 & 24 March 1952
+UNCLASSIFIED 18, Haywood, Call formie
+CLOSED
+CLASSIFICATION CANCELLED O
+BY AUTHORITY OF THE DIRECTOR OF SPEC INV
+DATE
+28 March 1952
+#None, this is an initial report
+SYNOPSIS
+BY
+KURT K. KUNZE, Capt, USAF
+5 DEC 1975
+Investigation requested by
+CO, ANC, and predicated upon publication of
+photograph of alleged flying saucer taken by GUY B. MARQUAND, JR.,
+Riverside, Calif.
+TWX from CG, AMO, advised photo interpretation dis-
+closes belief object in photo is automobile hub-cap but findings not
+conclusive. TWX requested authenticity of photo be determined. Appoint-
+ment made with MARQUAND for 22 Mar 52 not kept by MARQUAND because of
+his "imperative" need to be in Phoenix.
+Inquiry disclosed MARQUAND of
+questioned reliability and integrity and has reputation of being prank-
+ster. Mr. OSTER, person who sold photograph to newspepers, interviewed
+and declared photograph authentic in his opinion. Mr. OSTER reported
+personal sighting of numerous flying saucers over Riverside, California.
+Mr. MARQUAND contacted 24 March 1952 and consented to interview at
+March APB. MARQUAND immediately declared photograph "phony"; was
+originally started as a gag, and mushroomed beyond his control. He
+reported object in photograph is tire cover from about 1937 Ford auto-
+mobile and was buried at the site where photograph taken.
+Exact loca-
+tion presently unknown to MARQUAND.
+DISTRIBUTION
+CG, AMC (Action Cys)
+DO #5
+OS I
+File
+2
+ACTION COPY FORWARDED TO
+Commanding General
+Air Materiel Command
+Wright-Patterson APB
+Ohio
+UNCLASSIFE
+FILE STAMP
+1=185-18-11
+2
+APPROVED
+TO BE A YIOLATION OF AFR 200-1.
+Colonel, USAF
+District Commander.
+AFHQ FORM
+15 JAN 49
+0-208
+Replaces AFCSI Form 4, 23 Jul 48, which may be used.
+AFCSI-S AFCSIT
+16-
+PRINTING OFFICE
+Declassification Authority: NND 923007

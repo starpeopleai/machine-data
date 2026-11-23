@@ -1,0 +1,55 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T21:20:43Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 25845300, "source_ctime_ns": 1793357527245104829, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1472-539243-0008.tif", "source_mtime_ns": 1785564919000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1472-539243-0008.tif", "source_sha256": "cb9f7c26feb88b8a41420fbc58956fcb9e036f5ccd9791c0aed5038206e8effc"}
+
+===== PAGE 1 =====
+{"alpha_words": 207, "chars": 1576, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AF FORM 112-PART 1
+APPROVED 1 JUNE 1948
+Restinered
+TSA
+F3C-7-5
+AIR INTELLIGENCE INFORMATION REPORT
+A 537.243
+UBJECT
+SIGHTING OF UNIDENTIFIED LICHT
+APEA REPORTED ON
+FROM (Agency)
+TEFAN CENTER COMUNITY, E(NONO) FLIGHT 2-G, 46020 AISS, PIAPB
+4 March 1953
+2 March 1953
+F-O
+PREPARED BY (Officer)
+JOHN F.
+Report # F3C-T-4 dated 27 February 1953
+SUMMARY: (Enter concise summary of report. Give significance in finai one-sentence paragraph.
+& 118-Part II.)
+I.
+CONTENTS:
+Report # F3G-T-5A Sighting of Unidentified Light
+II. PREAMBIE:
+This report contains information pertaining to sighting of an
+unidentified light in the Vicinity of EASTON CENTER COMMUNITY, MAINE (N46°
+37' W6?°47'), by one (1) civilian resident of that community.
+III. TECHNICAL INVESTIGATORS:
+M/Set. Willis B. Minor
+T/Sgt. Frank K. Wasowski
+Jhu F. Farntam
+JOHN F. FARNHAM
+1/17.,
+USAT
+OIC, FLIGHT 3-G
+DECLASSIFIED
+OSAT MENO
+L￾B}
+DIETRIBUTION BY ORIGI
+NATOR
+1 cy-D/I, USAF
+1 cy-CHIEF ATIC, atta ATIAA-2c
+1 cy-SCO, 46024 AISS, Ent AFB, Colo.
+1 cy-D/I 32d Air Div., Syracuse, NY
+1су-CO, PIAFB, Maine
+TS THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT. U. U.S.C.-
+31 AND 32. AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW.
+IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF
+INTELLIGENCE, USAF.
+* U.S. GOVERNMENT PRINTING OFFICE: 1350-O-918331
+Declassification Authority: NND 57565

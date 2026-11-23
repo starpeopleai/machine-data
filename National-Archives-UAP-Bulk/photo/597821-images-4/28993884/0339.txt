@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T21:37:16Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8685597, "source_ctime_ns": 1793385667502085560, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28993884/0339.jpg", "source_mtime_ns": 1785747825000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28993884/0339.jpg", "source_sha256": "5ed8350dedf90d5d541a19c88db8d57f632b40d3d47e05dc86bdf451625efb7e"}
+
+===== PAGE 1 =====
+{"alpha_words": 83, "chars": 600, "method": "ocr", "page": 1, "variant": "plain-vision"}
+8-4-61
+OFFICIAL FILE COPY
+TD -E
+TD-S/Hajor:Fr1end/vw/69216
+UPO Sighting
+Ashland, Kentucky
+Dear Mr.
+Your letter to the Departnent of the Air Force, in which you report
+the sighting of a UPO, has been forwarded to the Foreign Technology
+Division. Tour letter does not contain sufficient information for a
+valid conclusion; therefore, request you complete the attached form and
+return it in the attached self-addressed envelope.
+Sincerely
+Aritas
+Colonel, USAP
+Deputy for Science
+and Components
+2 Atchs
+1. ATIC Porn 164.
+2. Self-addressed envelope.
+COORDINATION: TD-E
+Kohi
+напоро бино во DATE 16 слу 61.

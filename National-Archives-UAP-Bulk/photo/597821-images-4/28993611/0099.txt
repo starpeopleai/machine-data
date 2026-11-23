@@ -1,0 +1,23 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T22:19:45Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9420887, "source_ctime_ns": 1793385542453586720, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28993611/0099.jpg", "source_mtime_ns": 1785747995000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28993611/0099.jpg", "source_sha256": "ed1cc6936715e313c5959ea1242c036fc508e3918794673ae3f3d7dbc40f5700"}
+
+===== PAGE 1 =====
+{"alpha_words": 42, "chars": 377, "method": "ocr", "page": 1, "variant": "plain-vision"}
+A7 IN: 3252 (25 Jul 61)
+DIPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+UNCLASSTIRD MESSAGE
+INCOMING
+Pg 2 of 2
+A. LOCATING ONE
+B. UFO
+C. 4452N 3705W
+D. 250530Z
+E. COURSE 130 SPEED UNKNOWN
+F. VISUAL
+G. UNKNOWN
+054370
+H. REPORTED BY BARRIER ACFT AT POSITION 4058N 3650W. UFO DISAPPEARED
+25/06372
+NOTS: Correotion to AF IN:
+3235 (25 Jul 61) .
+Advance copy delivered to CIN 0405.

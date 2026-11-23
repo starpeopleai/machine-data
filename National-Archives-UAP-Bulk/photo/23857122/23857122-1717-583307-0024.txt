@@ -1,0 +1,34 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T22:02:03Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 20864332, "source_ctime_ns": 1793357940388037008, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1717-583307-0024.tif", "source_mtime_ns": 1785564998000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1717-583307-0024.tif", "source_sha256": "27d5c1b65c2151a49b9dc1d6cf5d03108e32cee16cfe53ee20c8a44fc0eaab7c"}
+
+===== PAGE 1 =====
+{"alpha_words": 109, "chars": 752, "method": "ocr", "page": 1, "variant": "plain-vision"}
+STATEMENI
+At approximately 2315 MST on 5 August 1953, I noticed an unidentified
+object northeast of Black Hawk, South Dakota. It appeared six or seven
+times while I was watching it and through the binoculars it looked like
+a basketball. It had various colors and a lot of speed. It would
+appear and disappear and would never appear in the same place. When
+the last jet appeared in the vicinity, it disappeared and I never saw it
+again.
+Olaf Aldren
+OLAF ALDREN
+Black Hawk, South Dakota
+DECLASSIFIED
+USAF
+By W. GLowie memo
+1/31/78
+NARS, Date 4 112/77
+AF583307
+(Cancelled)
+Classification
+(changed to) RESTRISTED
+By Auth CG, 29 Air Div (D) CS SctS..5
+(Date)
+(Name)
+ваддал
+(Grade)
+leat hate
+(Branch)
+RESTRICTED
+Grel 10
+Declassification Authority: NND 57565

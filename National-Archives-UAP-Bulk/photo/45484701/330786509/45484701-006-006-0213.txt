@@ -1,0 +1,40 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T22:07:08Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10381294, "source_ctime_ns": 1793364170662169896, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330786509/45484701-006-006-0213.jpg", "source_mtime_ns": 1785684592000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330786509/45484701-006-006-0213.jpg", "source_sha256": "580717a85fbe844847c355fd53c29f93c02c1534504f10adba9b99adc7a39afe"}
+
+===== PAGE 1 =====
+{"alpha_words": 124, "chars": 876, "method": "ocr", "page": 1, "variant": "plain-vision"}
+ONFIDENTIA
+Direction from obedrver: go
+Angle of elevation: unable to estimate
+Distance from observer:
+- unknow
+1.
+Time in sight:
+one¿¿fifth of a second
+Color of object: green
+Size of object: unlow
+• Shape of object: round
+Apparent construction:
+unknow
+Direction of flight: East to Northeast
+Tactics or maneuvers: sloping descent
+Oe
+Evidence or trail or exhaust:
+none observed
+Effect on clouds:
+not stated
+Luminosity:
+very oright
+Te
+• Projections and depressions: not stated
+Means of propulsion:
+' control and stability: not stated
+t. Speed of object (MPH): Unable to estim te
+Sound and oder:
+none
+V. Manner of disappearances just disappeared behind mountains
+5. The observers, Mr. ROBERT M. POTTER, and J. i. PARSONS, are employees
+of the Los Alamos Scientific laboratory.
+It is believed that their observations
+are reliable.
+- CLOSED -
+Declassification Authority: NND 923007

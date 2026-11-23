@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T21:58:30Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 13995324, "source_ctime_ns": 1793355468384106961, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0050.jpg", "source_mtime_ns": 1785564460000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0050.jpg", "source_sha256": "9c4dd3dfd939f84a6977e087e01a25248b593e4124e21cbca20739b22cbc9651"}
+
+===== PAGE 1 =====
+{"alpha_words": 247, "chars": 1702, "method": "ocr", "page": 1, "variant": "plain-vision"}
+ROSE is presently being used at the Atlantic Missile Range and other sites to
+support both Air Force and NASA missile programs. In addition, the Climatological
+Branch of the Aerospace Instrumentation Laboratory is conducting a program at
+Eglin AFB whereby a ROSE flight will be made daily for a year to determine day to
+day variability of the wind. In addition, on some days multiple flights will be made
+to investigate the diurnal variability.
+The ROSE program has its problem area also. Recent flights in the Lakehurst,
+N. J. Hangar under calm conditions indicate a somewhat oscillatory pattern to the
+flight path in several tests. We are investigating this phenomenon at the present
+time to try to determine its cause and magnitude. While future events could con-
+ceivably force us to modify the ROSE system, we believe it will still continue to be
+a valuable tool for meteorological sounding.
+VII Balloon-Borne Sampling
+Program in the Stratosphere
+Arthur A. Anderson
+Applied Science Division
+Litton Systems, Inc.
+Abstract
+Programs involving unmanned balloon flights have been successfully conducted
+to determine the concentration and distribution of radioactive debris and viable
+microorganisms in the stratosphere. These programs have required development
+of high-efficiency filtration and impaction units, associated with high-volume, high-
+velocity air-moving equipment. By proper design of sampling equipment and suit-
+able programming of the flight, it is possible to minimize contamination from non-
+stratospheric sources. Balloon flights provide a suitable and inexpensive method
+for conducting routine probes for sampline of large volumes of air within discrete
+strata of our stratosphere.

@@ -1,0 +1,17 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T21:22:08Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 12611581, "source_ctime_ns": 1793366673541533921, "source_file": "National-Archives-UAP-Bulk/photo/542184/341-PBB-689-0066.jpg", "source_mtime_ns": 1785565573000000000, "source_rel": "National-Archives-UAP-Bulk/photo/542184/341-PBB-689-0066.jpg", "source_sha256": "0458386ffef6065fa0f4ba283236452fcf27de3eb983c7edf7ac180c005784ee"}
+
+===== PAGE 1 =====
+{"alpha_words": 0, "chars": 57, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 1, "variant": "plain-vision"}
+330
+300
+80
+100 81
+240
+230
+180 120 10
+220
+210
+20~
+10
+C
+5.

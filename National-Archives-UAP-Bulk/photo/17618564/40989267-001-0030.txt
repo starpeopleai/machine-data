@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T22:11:41Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 16472961, "source_ctime_ns": 1793355447819060635, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0030.jpg", "source_mtime_ns": 1785564457000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0030.jpg", "source_sha256": "7ae955207d6e0b026ba3d05362d3ce0fbebffb45e683de0ad0fee7616e525307"}
+
+===== PAGE 1 =====
+{"alpha_words": 232, "chars": 1694, "method": "ocr", "page": 1, "variant": "plain-vision"}
+50
+MYLAR FILM
+0.0001ỊADHESIVE
+LAYER GT-300
+Figure 6. Bi-Lam Materials
+With Mylar film available in various thicknesses from 0.15-mil, 0. 25-mil,
+0. 35-mil, 0.50-mil, 0. 75-mil, 1. 0-mil, and so on, multi-layer laminations canbe
+made to satisfy most balloon design requirements. Although at the present time
+the heaviest payload carried on a Mylar superpressure balloon has been approxi-
+mately 80 pounds, heavier loads are within the capability of present designs.
+4. COMMUNICATION SATELLITES
+The Echo I communication satellite extended the use of the plastic balloon from
+the stratosphere into space orbit. Echo I was an inflatable sphere 100-foot in
+diameter made of 1/2-mil metalized Mylar. The aluminum thickness on this sphere
+was approximately 2, 500 angstroms, or equivalent to approximately 4 pounds of
+aluminum on the entire surface of the 100-foot diameter sphere (Figure 7).
+Before launching, 10 pounds of benzoic acid and 20 pounds of anthraquinone
+were inserted into the deflated sphere. The balloon was then folded accordion
+fashion and placed inside a 26. 5-inch diameter magnesium container which carried
+this sphere into orbit. Two minutes after the payload was injected into orbit the
+magnesium container was separated by an explosive charge and the benzoic acid
+expanded to inflate the Echo I sphere into a spherical shape. The antraquinone
+provided a progressive subliming inflation material to keep the sphere inflated for
+approximately seven days, even though micrometeorite punctures of approximately
+0.5 square inch per day were expected.
+Figure 7. Static Inflation Test Echo I.
+Sphere,
+100-ft dia meter
+. 0005-in. thick metalized Mylar and sealed with Schjel-Bond 301.

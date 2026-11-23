@@ -1,0 +1,17 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T22:03:05Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 59682960, "source_ctime_ns": 1793357414060754338, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1388-514451-0058.tif", "source_mtime_ns": 1785564892000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1388-514451-0058.tif", "source_sha256": "684f9d37661562bcdb5cb005814dcd562db076881d35aa40fb8db3aa8e4b03ce"}
+
+===== PAGE 1 =====
+{"alpha_words": 60, "chars": 512, "method": "ocr", "page": 1, "variant": "plain-vision"}
+11. Juli 1952 - Jahrgang 3 Nr. 25 - 5 Pf.
+Sachsenwerk-
+SPIEGEL
+Betriebszeitung der Belegschaft des Sachsenwerkes I
+Herusgegeben von der SED-Betriebsparte
+Der Frieden kann gerettet werden!
+Der Frieden muß gerettet werden!
+r sieben lahren fc
+• Potsdamer Konferenz st
+ter der USA. Grol
+Wir fordern den beschleunigten Abschluß eines Friedensvertrages auf der Grundlage des Potsdamer
+Abkommens als Voroussetzung für eine friedliche, demokratische Entwicklung in ganz Deutschland
+Declassification Authority: NND 57565

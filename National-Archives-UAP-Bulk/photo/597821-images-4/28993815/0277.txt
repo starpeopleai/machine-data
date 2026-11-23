@@ -1,0 +1,44 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T21:46:58Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8398552, "source_ctime_ns": 1793385635131602382, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28993815/0277.jpg", "source_mtime_ns": 1785748350000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28993815/0277.jpg", "source_sha256": "8165ee95dbba9b5415834304d29587d5d2244f6f75dcc63f427aaa326bb85910"}
+
+===== PAGE 1 =====
+{"alpha_words": 156, "chars": 1134, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AF IN
+ACTION
+INFO
+SMB C 179
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+UNCLASSIFED MESSACE
+: 12000 (2 Aug 61N CA/m | N G
+CIN-17
+ARMY-2,. NAVY-2, CMC-8, JCS-35, OSD-15, NSA-7, CIA-11,
+OOP-2, OOP-CP-1, SAFS-3îŚ
+(104)
+ZCHQA672ZCFJB071
+YY RJEZHQ
+ZOY
+BVBØ33
+"*''YY RJWFALB RBEGUH RJEZHQ
+DE RFEMVB 79/02
+Y 021730Z
+FM NR DINT ST HUBERT
+TO RJWFALB/CINCNORAD
+Но Колита
+RBEGUH/COMEASTSEAFRON, NEW YORK, N.Y.
+RJEZHQ/ COFS, Q USAF, WASHINGION, D.C.
+CEHC/ CANFLAGLANT
+ВТ
+UNCLAS NRDI-6 2 AUG
+CIRVIS REPORT. TELEPHONE CALL FROM
+GOBC - PORT
+CHIBOUGAMOU (50. 20N 074.30W) QUEBEC. HE SAW AN EXPLOSION IN THE AIR
+AROUND 40.022 FT - 40 MILES NW OF CHIBOUGMOU. HE SAID THE EXPLOSION
+SEEM TO LAST ABOUT THREE SECONDS THEN SOMETHING SHOT OUT FROM THE
+FLASH AND LEFT A TRAIL OF SMOKE FOR ABOUT FIFTEEN SECONDSMQ TIME C
+EXPLOSION WAS 02Ø230Z; WEATHER CLEAR, HE SAID A SIMILIAR EXPLOSION
+WAS REPORTED ABOUT 1800Z 1 AUG 61 IN THE SAME VICINITY WHICH POSSIELY
+CAUSED A FOREST FIRE WHICH ACTUALLY OCCURRED IN THAT AREA. MR.
+S EMPLOYED BY FECTEAU AIRWAYS - LAKE CACHE, QUEBEC AN-
+ASSESSED A RELIABLE WITNESS,
+NOTE
+Advnace copy delivered to 00P-CP at 0214201

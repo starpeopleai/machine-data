@@ -1,0 +1,71 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T22:02:06Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 21021056, "source_ctime_ns": 1793360724147526874, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-003-0040.tif", "source_mtime_ns": 1785565117000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-003-0040.tif", "source_sha256": "ee64f0d76d922addc5421abd36a0c23bb62d2da2fd942d4d6d3b5126c7b77f32"}
+
+===== PAGE 1 =====
+{"alpha_words": 223, "chars": 1603, "method": "ocr", "page": 1, "variant": "plain-vision"}
+(SECURITY INFORMATION when Alled in)
+SUPPLEMENT TO AF FORM 112
+ORIGINATING AGENCY
+REPORT NO.
+HQ 10TH AIR DIVISION (DEFENSE)
+IR 10AD-1-57
+АРО 942, ОБАР?LE, WASHINORON
+PAGE
+3
+OF
+a.
+b.
+Generally cloudy
+ALTITUDE
+Surface
+- 6,000
+10,000
+16,000
+20,000
+30,000
+no further data
+c. 8,000 feet
+d. 10 miles
+DIRECTIO!!
+True North
+350°
+030°
+VELOCITI
+180°
+Calm
+7 kts
+8 kts
+Calm
+Calm
+15 kts
+•. Broken
+1. Thunderstorms Southwest by West
+8. a. Forest fires in the interior region
+9. a. Negativa
+10. a. None unaccountable
+11.
+Chief, Intelligence Division. Except for the unusually long
+period of observation, this sighting conforms to previous
+reports of weather balloons.
+No balloons of any nature were /N
+the area although investigation was incomplete due to class-
+ified source.
+Reflection from such an object could be from tha
+sun which was at a slight declination below the horizon or from
+the forest fires in the area.
+1l. Negative
+PAGES
+Hanoll Hos
+HAROLD HART
+It Colonel, USAF
+Chief, Intelligence
+WARNING: This document contains information affecting the national delense of the United States within the meaning of the
+Espionage Lawa, Title 18, U.S. C., Sections 793 and 794. Its transmission or tho revelation of its contents in any manner to an
+unauthorized person is prohibited by law. It may not be reproduced in whole or in part, by other than United States Air Force
+racies, except py permission of the Director of intelligence, UsAr
+AF, 801 52 112a WHICH MAY BE USE 112-PART I1, I JUN 48,
+WHICH MAY BE USED.
+CASS CATT
+(SECURITY INFORMATION when filled ir
+PPP USARAL 2540-55
+DECLASSIFIED
+Authority NND 9237007

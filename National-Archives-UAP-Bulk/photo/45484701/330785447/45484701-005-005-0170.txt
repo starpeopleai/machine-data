@@ -1,0 +1,49 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T21:35:02Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8142202, "source_ctime_ns": 1793363561869005128, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785447/45484701-005-005-0170.jpg", "source_mtime_ns": 1785684628000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785447/45484701-005-005-0170.jpg", "source_sha256": "70712df87a6d5479fdf83580a8bc8a64deb663dab4c73bc4b577f2c2621acb35"}
+
+===== PAGE 1 =====
+{"alpha_words": 186, "chars": 1362, "method": "ocr", "page": 1, "variant": "plain-vision"}
+GONFIDENTIAL
+SECURITY INFORI
+MATION
+-39/6
+TO
+ETAILS (Cont' d)
+Q. Altitude (angle of elevation above horizon - 0° at horizon,
+90° overhead)?
+A. Approximately 30°.
+Direction from observer (angle cloakwise from north)?
+A. Directly south.
+Q. Direction of flight of object?
+A. Flight was from east to west.
+Time in sight?
+A. Probably one-half (1/2) minute.
+Q. Speed (time to cover given angular distance)?
+A. One-half (1/2) minute to cover 15°.
+Q• Sound and odor?
+A. No sounde No odor.
+Q. Distance from observer (distance to town, building, etc., over
+which object appeared to be)?
+A. One half (1/2) mile from observer. Was between observer and
+Gonzales, Texas.
+Q. Trail (color, length, width, persistance, ete.)?
+A •
+No trail.
+Q. Luminosity (visible by reflection, incandesence, other - degree
+A. Outer edge of outer ring semed to have light reflecting from
+it as sun shining on alumimum.
+Projections (fins, wings, rods, antennae, canopies, eto.)?
+A. None.
+Q. Maneuvers (turns, olimbs, dives, eto. - sketch of flight path)?
+A. Straight course of flight, seemed to float.
+Q. Manner of disappearance?
+Observer moved down hill then the object was beyond the hill out
+of sight.
+Effect on clouds?
+Sun was shining - some clouds in the background.
+out prominent from clouds. No effect on clouds.
+Object stood
+15
+CONFIDE
+SECURIT
+ATION
+Declassification Authority: NND 923007

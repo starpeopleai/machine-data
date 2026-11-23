@@ -1,0 +1,20 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T21:23:35Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 15554536, "source_ctime_ns": 1793366357034940911, "source_file": "National-Archives-UAP-Bulk/photo/542184/341-PBB-538-0199.jpg", "source_mtime_ns": 1785565521000000000, "source_rel": "National-Archives-UAP-Bulk/photo/542184/341-PBB-538-0199.jpg", "source_sha256": "831735a83e9d925d05e8d74e1b9a1c2f6015cb6ce402b62964f8512b7835113c"}
+
+===== PAGE 1 =====
+{"alpha_words": 7, "chars": 83, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 1, "variant": "plain-psm3"}
+Bs i, Sas rita
+,
+ae s
+Usted :
+Renene . 7
+\
+‘
+:
+?
+A a
+2 , 4 es
+‘ “ “
+\
+“i ‘
+< \
+i ‘

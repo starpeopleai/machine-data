@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T21:43:12Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 17014753, "source_ctime_ns": 1793355720992660091, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0159.jpg", "source_mtime_ns": 1785564509000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0159.jpg", "source_sha256": "d8cb47c692ef95cdbffb60799d5a8e5123dd74cff64e331d5984f418eb04ea63"}
+
+===== PAGE 1 =====
+{"alpha_words": 193, "chars": 1299, "method": "ocr", "page": 1, "variant": "plain-vision"}
+304
+Inside the van, as shown in Figure 8, tracking information is displayed and re-
+corded by the equipment bay on the right. The second bay from the right contains
+a demodulator for acoustic data, and meteorological recording components used
+during standard Radiosonde flights.
+The third bay from the right contains a
+7-channel FM tape recorder which preserves all acoustic data and voice commen-
+tary for later processing. The bay on the left contains a motor-drive amplifier
+for the tape recorder, and an oscilloscope for making circuit checks.
+Figure 8. Tracking Van, Interior View
+A block diagram of the two-channel receíving system (Figure 9) shows how it
+works. The feature of this system is that it requires only one high-gain, automatic-
+tracking antenna. Advantage is taken of the fact that two different IF frequencies
+will be developed by one local oscillator and mixer circuit by merely tuning the
+balloon-borne transmitters to slightly different frequencies. The frequencies
+chosen were 1680 and 1695 MC. Two standard GMD receivers were used in the
+van, with the local oscillator of the second receiver modified as indicated.
+TWO-CHANNEL RECEIVING SYSTEM
+Receiver #1
+1680 MC RF
+Recorder
+1695 MC RF
+Receiver #2
+Follower
+45 MC
+Preamp
+Detector
+Figure 9. Block Diagram of Receiving System

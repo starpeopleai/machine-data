@@ -1,0 +1,58 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T21:39:03Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9592878, "source_ctime_ns": 1793379707164590484, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28973253/01330.jpg", "source_mtime_ns": 1785700810000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28973253/01330.jpg", "source_sha256": "27aa885a45a9c465df159357fe2fb55849766258c98cf3435a507912f2d7e424"}
+
+===== PAGE 1 =====
+{"alpha_words": 114, "chars": 874, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+November 1957
+3.
+DATE-TIME GROUP
+Local.
+GM T
+06/0722z
+5. PHOTOS
+• Yes
+CANo
+7. LENGTH OF.OBSERVATION
+30
+seconds
+10. BRIEF SUMMARY OF SIGHTING
+One round very bright yellowish red
+light seen on two occasions one minute
+for a duration of thirty seconds.
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Des Rosa,
+California
+TYPE OF OBSERVATION
+AGround- Vi sual
+• Air Visual
+6. SOURCE
+• Ground-Rodar
+• Air-Intercept Radar
+Civilian
+8. NUMBER OF OBJECTS
+one
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Wos Aircraft
+OX Probably Airerart
+•
+Possibly Aireratt
+Was Astronomical.
+Probably Astronomical
+Possibly Astronomical
+Other.
+Insufficient Date for Evaluatior
+Unknown
+9. COURSE
+unknown
+11. COMMENTS
+Description, duration indicate
+that this sighting was probably
+caused by an aircraft or more
+over
+Norton at the time of
+sighting reported.
+ATIC FORM 329 (REV 26 SEP 32)

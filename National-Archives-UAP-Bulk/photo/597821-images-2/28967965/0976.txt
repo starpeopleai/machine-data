@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T21:37:41Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8812162, "source_ctime_ns": 1793378438805422322, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28967965/0976.jpg", "source_mtime_ns": 1785696934000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28967965/0976.jpg", "source_sha256": "3f506f6c9bd0d89a85af07f6d9a20d39d4e95d028bbcb526085baecf562d4898"}
+
+===== PAGE 1 =====
+{"alpha_words": 42, "chars": 247, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+~ See _ oe
+acca i
+
+A s , d P 5;
+; Lege ag Re eae 5 :
+FAA Log CPL 2, Oe Le
+
+a
+Bs ” tis rf e wos
+> oe
+
+Ps
+eS ee MgO
+
+* e s - a gist,
+Ap fh fr Pd Pa a
+. ote Lion, Sus : ae ¢ Te
+6-2-3. nee ee hee Se Ye
+t . - ~L— d a > =,
+Ree -¢€ anes lll aoe
+
+/ PP :

@@ -1,0 +1,44 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T21:33:17Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7323896, "source_ctime_ns": 1793356052758341119, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989300-001-0153.jpg", "source_mtime_ns": 1785564593000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989300-001-0153.jpg", "source_sha256": "3a2a672a5f4647db55d20a7ec863b5fbd8f74f3cddfab1e77bf424ec2df3ba65"}
+
+===== PAGE 1 =====
+{"alpha_words": 51, "chars": 420, "method": "ocr", "page": 1, "variant": "plain-vision"}
+75000
+65000
+55000
+NYU BALLOON PROJECT
+HE CHT-TIME CURVE FOR
+FUGHT
+- JUNE 4T
+ALA MORDO, NEW MEXCO
+LAUNCHING TME:O52100MST
+LAST WEIER BORST
+*PO MAIN
+Z LIFA ERST
+BLASTI
+SHIMAN BURST (IELERT)
+TI MAIN BURST (I6 LEET)
+WEIER BURSE
+45000
+35000
+755 F /min
+"BURNOFF BALLOON DURST
+MUCH SAND-FELI
+EMAIN BURST
+(18 LEFF)
+-SAND PELL
+25000E
+I MAIN BURST
+15000
+FIG 35
+166 mi)
+(1 MIN)
+5000
+4069
+25
+50
+75
+100
+125
+150
+KEUFFEL
+ESSER C2. N Y

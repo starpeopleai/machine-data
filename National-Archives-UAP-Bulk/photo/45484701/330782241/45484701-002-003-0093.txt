@@ -1,0 +1,42 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T22:19:50Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9504775, "source_ctime_ns": 1793362134286941582, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330782241/45484701-002-003-0093.jpg", "source_mtime_ns": 1785684715000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330782241/45484701-002-003-0093.jpg", "source_sha256": "5caa206ee22dfc7ea33cd8a64f3c0bc0a4d65022a0d81a61ea07ffc9eff4825d"}
+
+===== PAGE 1 =====
+{"alpha_words": 236, "chars": 1713, "method": "ocr", "page": 1, "variant": "plain-vision"}
+CONFIDENTIAL
+File No. 24-185/1
+DETAILS :
+27 Sept 1949
+1e
+This investigation was conducted in conformity with AFCSI Letter No,
+85, dated 12 August 1949, subject: Unconventional Aircraft, "Special Inquiry".
+This report is based upon a personal interview of WILLIAM A. CRISMON
+by this agent on 22 September 1949 at the Federal Building, Los Angeles, Calif.
+Contact was established with CRISMON by means of a telephone call to OSI District
+Office No. 18 by Warrant Officer LeASTER in the Los Angeles Communication Center,
+Room 1418 Federal Building. LeMASTER stated that CRISMON was in the office
+relating that he had seen flying discs and desired permission of the military
+authorities to photograph future sightings of discs wth the object of commercial
+The details set forth below are the observations, comments and estimates
+AT LOS ANGELES, CALIFORNIA
+Date of sighting:
+24 June 1949.
+Time of sighting:
+1545 - 1630 hours.
+There sighted (observers position):
+From the ground on western outskirts of Mesa, Arigona.
+Number of objects:
+Four (4) initially, later a fifth disc appeared.
+Observable celestial phenomens or planets that may account for the
+sighting:
+Sighting occurred between the hours 1545 • 1630.
+Destance of objects from observer:
+Distance varied, Initially, the four (4) observed together were
+approximately 85 degrees above the horison. Objects appeared to hover around
+small cloud, estimated to be at an extremely high altitude. The fifth disc,
+which moved from west to east, was at a lower altitude than the other four (4)
+but was also extremely high.
+9. Time in sight:
+Four (4) objects - approximately 30 minutes. Fifth object - about
+25 seconds.
+INFIDENTIAL
+Declassification Authority: NND 923007

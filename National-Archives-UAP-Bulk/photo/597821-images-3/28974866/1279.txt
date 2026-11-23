@@ -1,0 +1,21 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T22:06:54Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9768648, "source_ctime_ns": 1793380191999458588, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28974866/1279.jpg", "source_mtime_ns": 1785700966000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28974866/1279.jpg", "source_sha256": "7a0198fad6fa4102e9ebd60824073df5b6331e838531bf5f1437a2f2b4063fff"}
+
+===== PAGE 1 =====
+{"alpha_words": 40, "chars": 288, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Multi
+Called 0 D
+07102
+107: 57 03 25
+AL 50
+V SQF 43 YDD046 VYE833 VMC2 18KEA209
+PP RJEPNE RJEDEN RJEDWP RJEPHQ RJESKE
+DE RJESKE 2E
+P 160230 Z
+FH COMDR 861 ACWRON
+TO RJEPNE/COMDR EADF
+AJEDEN/COMDR ADC
+ROIDWP/COMDR ATIC
+RJEPHO/DIR OF INTEL HDORS WASH 25 DC
+BJESKS/COMDR 35TH ADD
+454
+- 4x20

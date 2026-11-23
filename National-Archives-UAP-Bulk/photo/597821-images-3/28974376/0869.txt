@@ -1,0 +1,37 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T21:36:05Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8365515, "source_ctime_ns": 1793380057913997684, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28974376/0869.jpg", "source_mtime_ns": 1785700621000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28974376/0869.jpg", "source_sha256": "38bf0cea6cc1addd514e3497580cb82b704c34fe7414c1aff4166aa2b134c487"}
+
+===== PAGE 1 =====
+{"alpha_words": 86, "chars": 566, "method": "ocr", "page": 1, "variant": "plain-vision"}
+09 02
+15 Noy 57Śę
+PAzY
+3 4xr6
+JEDNP H050 WPB157 YMB113TKFA126KFG964
+RR RJEDON RJEDUP RJEPHQ
+ZEL RJEDKF
+KFGØ26
+RR. RJEDON RJEDWP RJEPHO
+DE RJEDKF 9G
+R 1008992
+FM COMDR COC 20TH CONAD DIV
+TO RJEDDN/COMDR ENT AFB COLO
+RJEDWP/COMDR AIR TECH INTEL CEN WPAFB
+RJEPHQ/DIR INTEL HQ USAF WASHDC
+BT
+//UNCLASSIFIED//20TH ADCC 11-060
+IN ACCORDANCE WITH JCADF INTERIM CHANGE 1 TO CONADM 55-1
+THE FOLLOWING UFOB REPORT
+IS SUBM.
+ITED
+A. 1. OBLONG
+2. VERY LARGE
+No la
+20,1
+200t
+3. BRIGHT WHITE WITH REDDISH TINT
+4. ONE
+5. N/A
+6. NONE
+7. NO TAIL, TRAIL OR EXHAUST
+*. NO SOUND
+Lal ima

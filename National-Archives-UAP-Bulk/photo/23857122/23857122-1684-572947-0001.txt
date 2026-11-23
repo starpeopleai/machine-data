@@ -1,0 +1,67 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T22:02:30Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 33315128, "source_ctime_ns": 1793357819760351781, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1684-572947-0001.tif", "source_mtime_ns": 1785564978000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1684-572947-0001.tif", "source_sha256": "10ef34eeac7f41ef46f2cbc5540ebb1b9cd4dc7a0eee8d373ae2b1bf613500ba"}
+
+===== PAGE 1 =====
+{"alpha_words": 287, "chars": 2052, "method": "ocr", "page": 1, "variant": "plain-vision"}
+EMICTED
+(CLASSIFICATION)
+COUNTRY OF ORIGIN
+Canada
+NESTRICTED
+(SECURITY INFORMATION when filled in)
+REPORT NO.
+53-3
+AIR INTELLIGENCE INFORMATION REPORT
+AREA REPORT CONCERNS
+Ramore, Ontario, Canada
+AGENCY OF ORIGIN
+(Leave blank)
+AF572947
+912th AC&W Squadron
+SOURCE OF INFORMATION
+Statements by witnesses
+PREPARING OFFICER
+LOUIS J. SAVINO
+Captain, USAF
+REFERENCES (Control number, directive, previ
+DATE OF REPORT
+18 Aug 1953
+DATE OF INFORMATION
+16 Aug 1953
+EVALUATION
+s applicable)
+SUBJECT
+BLYOBRPT.
+SUMMARY (Enter concise summary of report. Give significance in final one-sentence paragraph. List inclosures at lower left. Begin text of report on AF Form 112a.)
+The attached report is in reference to an unidentified object seen in
+the sky at about 2235 EDST, 16 Aug 1953, by seven airmen, at approximately
+It has been described as diamond shaped or as a pie section
+with the piont downward, also as laying on its side.
+Its color was a solid
+It disappeared beyond the horizon but reappeared again weaker for
+a brief period of time.
+All witnesses were sober.
+This is the third flying object sighting at this organization.
+1 аз
+(4 8).
+Seven INCLS.
+@G. LEWiS
+USAF mEMo 1/54/78
+mit
+6819729
+Cyr birector of Intelligence, Headquarters USAF, Washington 25, D.C.
+Cy, Chief, Air Technical
+Intelligence Center, ATTN: ATIAA-2C, Wright-Patterson
+CY, #3 ADCC, RCAF, Scarboro, Ontario, Canada
+AFB, Ohio
+Cy, #33rd ACEW Squadron, RCAF, Falconbridge, Ontario, Canada
+WARNING: This document contains information affecting the national defense of the United States within the meaning of the Espio-
+nage Laws, Title 18, U.S. C., Section 793 and 794. Its transmission or the revelation of its contents in any manner to an unauthorized
+person is prohibited by law. It may not be reproduced in whole or in part, by other than United States Air Force Agencies, except b
+permission of the Director of Intelligence, USAF.
+AF 1 OCT 52 112îŚę
+RESTRICTER ES TRIC FED
+(SECURITY INFORMATION when filled in
+16 U. U.S. GOVE
+MENT PRINTING OFFICE
+772
+Declassification Authority: NND 57565
