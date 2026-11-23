@@ -1,0 +1,42 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T03:54:28Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4004113, "source_ctime_ns": 1793371102492015531, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28936626/0940.jpg", "source_mtime_ns": 1785688926000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28936626/0940.jpg", "source_sha256": "6abc320fee2f5bceb47c51eaf07d3531b96bb401c7deb5476b86ec59e9b9ec54"}
+
+===== PAGE 1 =====
+{"alpha_words": 125, "chars": 925, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+DEPARTMENT OF THE AIR FORCE —
+HEADQUARTERS UNITED STATES AIR FORCE 5D-0SI /DML/fmn
+WASHINGTON
+
+THE INSPECTOR GENERAL Usar
+H DISTRICT OFFICE OF SPECIAL INVESTIGAT ONS
+
+UNCLASSIFIES:..: PATTERSON AIR FORCE BASE DAYTON O10
+in REPLY Reren TO. 5D 2h-23 ally 27 October 10h9
+
+SUBJECT: PROJECT GRUDGE, Incidents at Alexandria, Louisiana
+SPECIAL INQUIRY
+
+Commanding Generel
+
+Air lateriel Conmand
+Wright-Patterson Air Force Base
+Dayton, Chio
+
+ATTN: MC
+
+le Inclosed for your information end any action deemed necessary
+are two reports of investigetion by Special Agent TILLUS B. JENKINS,
+DO #9, dated 1; Ootober ami 17 October 19),9, and covering two separate
+incidents at Alexandria, Louisiana,
+
+2. These investigations were not requested by or through this
+District Office, and no investigation is contemplated by this office.
+
+JAMES Fe. X. O'CONNELL
+Lt Colonel, USAF
+District Commander
+
+UNCLASSIFIED
+
+e a ee
+
+Gacsu., ~~“ ums% omen

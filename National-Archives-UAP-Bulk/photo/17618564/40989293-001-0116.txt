@@ -1,0 +1,151 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T03:49:47Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 2084037, "source_ctime_ns": 1793355955583024628, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989293-001-0116.jpg", "source_mtime_ns": 1785564567000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989293-001-0116.jpg", "source_sha256": "c7701c033720ec8cfbaf8786a9a58fae1fd41979d86df09ca59c0129a19952cf"}
+
+===== PAGE 1 =====
+{"alpha_words": 307, "chars": 3165, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Armed Forces Institute of Pathology, 16,
+17, 70.
+
+Armed services: interservice research ac-
+tivities, 6, 41, 70, 94; plan to adopt auto-
+motive seat belts, 83. See also Defense
+Department.
+
+Army, United States: auto accident fa-
+talities, 81; cooperation with Man-High,
+25. See also White Sands Proving
+Ground.
+
+Army Tank Laboratory, Fort Knox, Ky.,
+89.
+
+Atlantic Ocean, 16, 26.
+
+Atmospheric studies: biological, see Space
+biology; physical and meteorological, 1,
+5, 6, 19, 25-27, 31, 55, 70, 72. For arti-
+ficial sealed-cabin atmospheres, see Cap-
+sules.
+
+Atomic blasts, 79.
+Atomic Energy Commission, 17.
+
+Austerity drive of 1957, Air Force-wide,
+39, 40.
+
+Automobile: crash forces, see Crash re-
+search; industry, 81, 83, 84 (see also
+Ford, General Motors); seat belts, 45,
+66, 81-84, 94.
+
+Automotive Crash Forces (Task 78507 of
+Project 7850), 65, 66, 77, 81-84, 89, 92-
+94.
+
+Aviation Medical Acceleration Laboratory,
+Naval Air Development Center, Johns-
+ville, Pa., 70, 71.
+
+Aviation Medicine Board, 96.
+
+B-29 aircraft, 57.
+
+B-52 aircraft, 77.
+
+Ballinger, Dr. E.R., subgravity investiga-
+tor, 35, 38.
+
+Ballistic missiles, as biological research
+vehicles, 40, 41, 73, 94.
+
+Balloons: 33; manned-flight programs,
+12, 19, 54-56, 63 (see also Man-High) ;
+manufacturers and flight contractors,
+see General Mills, Winzen Research;
+manufacturing and flight techniques, 5-
+7, 11, 12, 16, 18, 25 (see also Recovery,
+Tracking); record altitudes, 12, 23, 26;
+research use, 1, 4-7, 9, 13-18, 21, 23, 72,
+91-93, 95.
+
+Balloon Branch, Unit, AFMDC, 5-7, 12, 13,
+25, 55, 95.
+
+Baylor University, 49.
+
+Beamer, Mr. John V., Indiana Congress-
+man, 84
+
+104
+
+Bears, 75, 84, 85, 97.
+
+Beeding, Capt. Eli L., Task Scientist, Tol-
+erance to Impact Forces, 75-77, 79.
+
+Bell Aircraft Corporation, 59.
+“Bends,” 26.
+
+Bio-Acoustics Branch, Aero Medical Lab-
+oratory, WADC, 52.
+
+Bio-Acoustics Unit,
+Laboratory, 95.
+
+Biodynamics, 45, 65, 91, 96, 97. See also
+Acceleration, Crash research, Decelera-
+Hon Impact forces, Project 7850, Wind-
+
+last.
+
+Aeromedical Field
+
+Biodynamics Branch, Aeromedical Field
+Laboratory, 11, 51, 52, 65, 70, 71, 75,
+95, 97; Chief, see Michalski, Mosely.
+
+Biodynamics of Human Factors in Avi-
+ation, Project 7850, 45, 46, 51, 53, 65, 66,
+81, 92-95. See also Project 7850.
+
+Biodynamics of Space Flight, Project 7850
+(since March 1958), 45, 53, 66, 68, 70,
+81, 92-95. See also Project 7850.
+
+Biophysics Branch, Aero Medical Labora-
+tory, WADC, 2, 25, 92.
+
+Biophysics of Abrupt Deceleration, pro-
+ject, 45, 46, 51, 92, 95.
+
+Biophysics of Cosmic Radiation, project,
+
+’
+
+Biophysics of Escape [from Aircraft], Pro-
+ject 7218, 12, 19, 21, 55, 58, 92.
+
+Biophysics of Space Flight, Project 7222,
+55:
+
+Biosatellite Coordination Committee, 41,
+94.
+
+Biosatellites: 40, 41, 65, 84; manned (pro-
+posed), 11, 19, 27, 36, 96; Russian (Sput-
+nik II), 35, 36, 85, 87.
+
+Blocks of wood, as test subjects, 71.
+Blood vessels, 79.
+“Blossom” project, 2. See also V-2.
+
+Blount, Lt. Wilbur C., Task Scientist, Tol-
+erance to Impact Forces, 75, 79.
+
+Bopper, 66, 67, 71, 77, 82, 84.
+
+Braking, on test tracks, 46, 47, 66, 73, 75.
+Brown University, 17.
+
+C-47 aircraft, 15, 25, 57.
+
+C-97 aircraft, 63.

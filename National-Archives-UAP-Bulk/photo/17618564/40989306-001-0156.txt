@@ -1,0 +1,84 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T03:49:51Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 2267237, "source_ctime_ns": 1793356178244405241, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989306-001-0156.jpg", "source_mtime_ns": 1785564628000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989306-001-0156.jpg", "source_sha256": "22b55790d287df90fac8618a685eecd22c61959b786b44eefaa970adb6863138"}
+
+===== PAGE 1 =====
+{"alpha_words": 276, "chars": 1957, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+CONFI
+
+ML-330/FM
+
+BAROMETER
+ML~330/FM
+
+BAROMETER
+ML-331/TM.
+
+Figure 54.
+Status: Standard. Stock No.:
+erence: TM 11-2421.
+Barometer ML-330/FM is a mercurial barom-
+eter of laboratory precision which is individually
+calibrated by comparison with the United States
+Army primary-standard barometers at Evans
+Signal Laboratory. It is available in two ranges,
+one for general use and one for use in high altitudes.
+It is mounted in a metal case which is equipped
+with fluorescent Jights that illuminate the uppet
+partof the glass tube and the cistern of the barom-
+eter; a thermometer is attached to the casing.
+A special carrying case for transporting the
+barometer is provided. Barometers ML-331/TM,
+ML-332/TM, and ML-333/TM, precision ancroid
+barometers which have different ranges, are used
+
+7A317-330. Ref-
+
+Actual scale range
+[23.5 to 32.8 in. Hg (9.3 in.).
+*|800 to 1,110 mb (310 mb).
+f21.2 to 32.8 in. Hg (11.6 in.).
+2.|717 to 1,110 mb (393 mb).
+
+ONFIDEN TIAL
+
+52
+
+[200% HANDLING AUTHORILED
+
+coomererenr may resorrnen
+
+i
+}
+j
+
+BAROMETER
+ML~332/1TM
+
+Set of harometers (ML- 330/F M, ML-831/TM, and ML-8332/7T'M) fore use in weather squadron headquarters.
+
+in conjunction with Barometer ML-330/FM.
+Three barometers, one Barometer. MI-330/FM
+and a pair of these aneriod barometers (in any
+combination of ranges), comprise a set of standard
+reference barometers; a set is used in each weather
+squadron headquarters of the Air Weather Service.
+Barometer ML-330/FM is installed permanently
+in the weather squadron headquarters as the
+standard for the region; the pair of aneriod
+barometers is used in the field to check station
+barometers.
+
+TECHNICAL CHARACTERISTICS
+
+TYP: Mereury, Fortin-type (adjustable cistern).
+RANGE OF SCALES (Barometer ML-330/F M is issued
+in one of two seale ranges):
+
+Effective seale range
+23.7 to 31.3 in. He (7.6 in.).
+805 to 1,060 mb (225 mb).
+21.5 to 31.3 in. He (9.8 in.).
+725 to 1,060 mb (335 mb).
+
+MODIFIED alate AUTHORIZED
+
+er.

@@ -1,0 +1,50 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T03:59:57Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5334139, "source_ctime_ns": 1793378387301897032, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28967813/0824.jpg", "source_mtime_ns": 1785696823000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28967813/0824.jpg", "source_sha256": "4fa87233a26a89570ea2d4eb6a0539fbaa2834ef14d46a4b7dcaf35174a3dd06"}
+
+===== PAGE 1 =====
+{"alpha_words": 131, "chars": 956, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+“
+
+PROJECT 10073 RECORD CARD
+
+1. DATE 2. LOCATION 12, CONCLUSIONS
+0 Was Balloon
+2? October 1956 Odebolt, Lowa > ant i
+3. DATE-TIME GROUP... 4. TYPE OF OBSERVATION sc ae cant
+a ao w
+Locol pr xX Ground- Vi sual 0 Ground-Redar a sprobade biverds
+GMT GS/ {<3 12 0 Air Visual Q Air-Intercept Rador GO Possibly Aircraft
+5. PHOTOS 6. SOURCE QO Was Astronomical
+rate O Yes O Probobly Astronomical
+Gi He Civilian O Possibly Astronomical
+7. LENGTH OF OBSERVATION 6. NUMBER OF OBJECTS | 9 COURSE DO Osher:
+= ererert Date for Evaluotion
+nknown
+
+eleven minutes
+
+one southwes
+
+10. BRIEF SUMMARY OF SICHTING
+
+One object withblinking red
+wreen lights, size of a nickel at arm's
+tength. O}ject moved east to west
+
+and slowly faded out of sight in the
+SY. Object was viewed visually for elevgdn
+
+ninutes,
+
+11. COMMENTS
+
+above Course &
+
+lights of object indi-
+cate sighting was probably cause
+by an aircraft.
+
+probable aircraft,
+
+Evaluated as
+
+ATIC FORM 329 (REV 26 SEP 52)

@@ -1,0 +1,8 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T03:37:45Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1841444, "source_ctime_ns": 1794605122693832266, "source_file": "Brazil-Government-UAP/Municipio-de-Varginha/CASO-ET-VARGINHA/banner-mobile.png", "source_mtime_ns": 1794605122644501251, "source_rel": "Brazil-Government-UAP/Municipio-de-Varginha/CASO-ET-VARGINHA/banner-mobile.png", "source_sha256": "71fce469c945af2e19ef2bb71e0be0fd6bfe2812b840717bf05732133ed5da4e"}
+
+===== PAGE 1 =====
+{"alpha_words": 5, "chars": 48, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 1, "variant": "plain-psm3"}
+OPIN TURISMO E
+VARGINHA A COMERCIO
+
+Varginha ~

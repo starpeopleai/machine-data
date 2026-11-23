@@ -1,4 +1,4 @@
-{"created_utc": "2026-10-12T12:44:16Z", "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "embedded-text", "pages": 0, "schema": "ufo-files-archive-ocr/v1", "source_bytes": 827686, "source_ctime_ns": 1788503746519273689, "source_file": "Chile-SEFAA/documents/CASO-N--2140-11072025.pdf", "source_mtime_ns": 1788503746495061522, "source_rel": "Chile-SEFAA/documents/CASO-N--2140-11072025.pdf", "source_sha256": "8513cb8883c90943e83b1d6eca2ebe192b293309856d85d1031ff4f898fac88c"}
+{"created_utc": "2026-11-23T03:38:19Z", "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "embedded-text", "pages": 0, "schema": "ufo-files-archive-ocr/v1", "source_bytes": 827686, "source_ctime_ns": 1793354202409623237, "source_file": "Chile-SEFAA/documents/CASO-N--2140-11072025.pdf", "source_mtime_ns": 1788503746000000000, "source_rel": "Chile-SEFAA/documents/CASO-N--2140-11072025.pdf", "source_sha256": "8513cb8883c90943e83b1d6eca2ebe192b293309856d85d1031ff4f898fac88c"}
 
 Fecha                          Fecha
   Caso N°:             2140                       11-07-2025                          18-07-2025

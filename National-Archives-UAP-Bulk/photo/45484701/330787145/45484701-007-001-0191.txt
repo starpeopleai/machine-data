@@ -1,0 +1,15 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T04:14:02Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9007664, "source_ctime_ns": 1793364526172350380, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787145/45484701-007-001-0191.jpg", "source_mtime_ns": 1785684571000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787145/45484701-007-001-0191.jpg", "source_sha256": "8a050a7adede37f0c464f4eb2f0c0b2749032bb4d26e88b1d45bda53e428b23c"}
+
+===== PAGE 1 =====
+{"alpha_words": 52, "chars": 281, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+; : , ¢ Z é
+. « Le a eal Yt bl ¥
+BON WU Oe NET re Na RRR OTA RRS UT AMOR AN NH
+
+eo OAR VA cA BD Aa AGRO a MBLC RENTED PWNS RANE GENE HNRUTI CALITO iP tenes croneron em eRS cnpsmcacwNn eH
+
+s ees
+* » teh
+SVE te SN A INDORE 2 SEES Tt oth Om ae
+
+Declassification Authority: NND 923007

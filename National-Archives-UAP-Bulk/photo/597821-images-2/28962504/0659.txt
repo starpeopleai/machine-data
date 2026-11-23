@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T04:12:14Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8422096, "source_ctime_ns": 1793377030715372915, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28962504/0659.jpg", "source_mtime_ns": 1785696545000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28962504/0659.jpg", "source_sha256": "c73c275ca6d6f622e31453dd7cb8eb101f5dd0a9289eef4f66cbaba4433157b9"}
+
+===== PAGE 1 =====
+{"alpha_words": 106, "chars": 729, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+AF FORM 112—PART ID | — ss
+APPROVED 1 JUNE 1948.
+| AJR INTELLIGENCE INFORMATION REPORT
+FROM (Agency) - REPORT NO.
+Tlickh 3-1, Ucoe@d ATS : SMUT Daa S ecce JA . oF 9 PAGES
+APPHOVD
+Fd
+
+JLT 16 WHITE JR
+
+Colonel, UCAP
+Commander
+
+NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S, C.--
+3] AND 22, AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF 1TS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON 1S PROHIGITCD GY LAW,
+IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF
+INTELLIGENCE, USAF.
+
+(CLASSIFICATION)
+
+1d--58570-1 YoU. &. GOVERNMENT PatAting OFFICE

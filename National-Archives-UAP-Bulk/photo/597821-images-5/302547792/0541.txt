@@ -1,0 +1,47 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T03:39:21Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 810887, "source_ctime_ns": 1793390223994908748, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302547792/0541.jp2", "source_mtime_ns": 1785808502000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302547792/0541.jp2", "source_sha256": "23f9063bfa46d01b425d90946173fa50293bb6fd47d45aaca0f074e8d462e1cb"}
+
+===== PAGE 1 =====
+{"alpha_words": 95, "chars": 669, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+(
+| UNCLASSIFIED |
+
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+INCOMING MESSAGE
+
+AF IN: 6714 (23 Mar 66) Page 3 of 5
+
+“ DUSK TO NIGHT
+
+LOCATION OF OBSERVER CLN 8 MILES NW OF ANN ARBOR OUTSIDE OF SMALL
+PAGE 3 RUWIPQAZ@41 UNCLAS
+
+TOWN OF DEXTER 8356W 4219N. ‘
+OBSERVER:
+
+1, ees: | EXTER, MICH. AcE 47,
+FARMER. APPEARS RELIABLE, HAS HUNTED FREQUENTLY IN THIS AREA AND
+STATES POSITIVELY THE LIGHTS WERE NOT FIRES CAUSED BY NATURAL GAS
+IN THE SWAMP OR MARSHLAND.
+
+WEATHER AND WINDS
+te CLEAR
+
+>, WINDS CLN
+
+SURFACE 210-15 C bz)
+
+6M 319-25 A crea hh§ )
+
+1am 320-35 (GwAz of Chand ean)
+
+rot 319-60 (PR ere
+
+AFHQ jiwes O-309C i UNCLASSIFIED ]
+
+~ ie
+
+yA
+
+“ot,
+warpabincnte

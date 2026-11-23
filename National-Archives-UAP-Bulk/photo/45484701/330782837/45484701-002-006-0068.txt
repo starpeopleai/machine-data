@@ -1,0 +1,57 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T04:09:37Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7661707, "source_ctime_ns": 1793362417749139480, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330782837/45484701-002-006-0068.jpg", "source_mtime_ns": 1785684696000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330782837/45484701-002-006-0068.jpg", "source_sha256": "0f3372f57133fc92ba4f9c25cf2e6a8529c9fcca0b6e2c23005e65b49f30ac76"}
+
+===== PAGE 1 =====
+{"alpha_words": 167, "chars": 1230, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Page 2
+
+Guide to Investigation Incident Nc.
+
+17. Trail (color, length, width, persistance, etc.)
+
+. , . . fil v a mi
+
+Looked to be 3' long, whit | wide, 2 seconds.
+
+Luminosity (visible by reflection, incandescent, other - degree of
+brilliance):
+
+Senewhat brighter than etare Gright enough to attract his attention
+when he was locking in another directions
+
+Projections (fins, wings, rods, antennae, canopies, etce):
+
+None
+
+Maneuvers (turns, climbs, dives, etc. - sketch of flight path):
+
+Straignt pathe
+
+Manner of disappearance: Di eanve 6 tied r
+Meappeared behind a buildings
+
+Effect on clouds: ho clouds
+
+Additional information concerning object: Bong
+
+24, Weather conditions and light at time of sightinz:
+
+Clear, darke
+
+Neme and address of observer: ppg Sicherd Le Poirier,
+
+Occupation and hobbies: Battery clerk, Hq Btry ist Bt
+
+Comments of Interrogator relative to intelligence and character of observer
+(Check neighbors, police dept., FBI records, employer, ete.):
+
+young, ratoner indefinite in some answers
+
+Di@ observer wear glasses, especially polaroid glasses at time of sighting,
+or was object viewed through canopy, window, or other transparent material?
+
+Ts am,
+ROT
+
+OETA BON
+
+Declassification Authority: NND 923007

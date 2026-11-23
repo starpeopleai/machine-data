@@ -1,0 +1,18 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T04:06:36Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6725529, "source_ctime_ns": 1793363178997866125, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330784594/45484701-004-005-0184.jpg", "source_mtime_ns": 1785684749000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330784594/45484701-004-005-0184.jpg", "source_sha256": "aec1c027879f777e07b2c12e1cfca6c0811184bdc15aa60d8c6ba568670f6bbb"}
+
+===== PAGE 1 =====
+{"alpha_words": 37, "chars": 282, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+DEPARTMENT OF THE AIR @DRCE
+STAFF MESSAGE DIVISION
+
+INCOMING CLASSIFIED MESSAGE
+Rare
+
+COPY No.
+THE MAKING OF AN EXACT COPY OF THIS MESSAGE IS FORBIDDEN
+AFHQ FORM 0-309 B U. S. GOVERNMENT PRINTING OFFICE 16—56692-2
+15 APR 49 MAR |
+
+[ DIV] Ilo
+
+Declassification Authority: NND 923007

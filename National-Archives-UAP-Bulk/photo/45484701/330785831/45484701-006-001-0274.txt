@@ -1,0 +1,52 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T04:18:08Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10964830, "source_ctime_ns": 1793363799627187361, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785831/45484701-006-001-0274.jpg", "source_mtime_ns": 1785684874000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785831/45484701-006-001-0274.jpg", "source_sha256": "7a1a4fafb5aa9f99c179bbdffbfa67efef53cd5fb8a0b476d650f71b24ac8656"}
+
+===== PAGE 1 =====
+{"alpha_words": 293, "chars": 1981, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+24-64
+
+DETAILS:
+
+1. ‘Investigation initiated by Lt Colonel MATTHEW THOMPSON, District
+Commander, 15th Mistrict OSI, predicated upon information obtained from a
+newspaper clipping captioned "Flying Dises Are Claimed Sighted in Downs
+Vicinity," which was obtained from the Selina, Kansas, Journal of 24 Ceto~-
+ber 1949, by the writer. Copies of this elipping are appended to this re-
+port as Inelosure #1. |
+
+AT DOWNS, KANSAS
+2e Mr. GEORGE RICHARD VERHAGE and Mr. EDWARD LATHAM were interviewed
+
+by the writer at the home of Mr. VERUAGR near Downs, Kensas, regarding their
+
+sighting .of ai unconventional type aircraft and the results are set forth
+
+in attached check sheet, designated as Inclosure #5.
+
+AT SALINA, KANSAS
+
+Se Lt Colonel ORVAL J, ABUL, 0«322786, Officer in Charge, Salina,
+Kensas, Area Ground Force Reserve, and Captain HERBERT M. CHITTENDEN,
+06340826, Assistent Officer in Charge, Salina, Kansas, Area Ground Force
+Reserve, were interviewed and stated they had known VERHAGE for one year
+and one and one-half years respectively, and had found him to be very ac-
+tive in Opganized Reserve work, quiet, reliable, of high morals, well~-thought
+of in his noemmunity and a loyal American. Both stated VERHACE was presently
+assigned to an eetive unit of the Organized Reserve as a ist Lieutenant, and
+that he is very good at aircraft recomition tests,
+
+4, Records of Base Operations, Smoky Hill APB, Selina, Kansas,
+disclosed none of the aireraft stationed at this base, nor eny transit air-
+craft departing from this base on 12 Ogtober 1949, were headed for a west
+or northwestern point of designation.
+
+§ INCLOSURES:
+
+Copy of clipping from Salina, Kansas, Journal, 24 October 1949
+Sketeh of Fiying Diee as it first appeared to Mr, VERHAGE
+Sketch of Plying Dise in its finel appearance to Mr. VERHAGE
+Sketeh of maneuvers of Flying Diso as observed by Mr. VERHAGE
+Check Sheet - “Unconventional Aircraft - Special. Inquiry”
+
+«CLOSED
+
+Declassification Authority: NND 923007

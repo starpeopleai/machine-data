@@ -1,4 +1,4 @@
-{"created_utc": "2026-09-11T16:32:01Z", "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "embedded-text", "pages": 0, "schema": "ufo-files-archive-ocr/v1", "source_bytes": 238131, "source_ctime_ns": 1788502545455707705, "source_file": "Chile-SEFAA/documents/CASO-N-972-13082019.pdf", "source_mtime_ns": 1788502545447297188, "source_rel": "Chile-SEFAA/documents/CASO-N-972-13082019.pdf", "source_sha256": "7fa295ef93074438b15d484f2abace3122bcc347ba7e88d06f6ff41cdb382c2e"}
+{"created_utc": "2026-11-23T03:38:15Z", "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "embedded-text", "pages": 0, "schema": "ufo-files-archive-ocr/v1", "source_bytes": 238131, "source_ctime_ns": 1793354217998708730, "source_file": "Chile-SEFAA/documents/CASO-N-972-13082019.pdf", "source_mtime_ns": 1788502545000000000, "source_rel": "Chile-SEFAA/documents/CASO-N-972-13082019.pdf", "source_sha256": "7fa295ef93074438b15d484f2abace3122bcc347ba7e88d06f6ff41cdb382c2e"}
 
 Fecha                              Fecha
       Caso N°:        972 13082019                       13-08-2019                           04-11-2019

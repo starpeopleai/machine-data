@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T03:48:57Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1769652, "source_ctime_ns": 1793392347808656305, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302567329/0340.jp2", "source_mtime_ns": 1785808286000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302567329/0340.jp2", "source_sha256": "ea27f7988cafd1e41e8f4ce938075f7df94eeddf7fedfa2eb4a3aeee5382f7c9"}
+
+===== PAGE 1 =====
+{"alpha_words": 83, "chars": 593, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+DEPARTMENT OF THE AIR FORCE
+HEADQUARTERS FOREIGN TECHNOLOGY DIVISION (AFSC)
+WRIGHT.PATTERGON AIR FORCE BABE, OHIO 43433
+
+AUG i057
+EY ge TDEI/UFO one
+
+suaseet = =—- UFO + tgtane lect 6 June 1967
+
+335
+
+Manville, New Jersey
+
+Reference your unidentified observation. The information which
+
+we have received is not sufficient for a scientific evaluation.
+
+Request you complete the attached FTD Form 164 end return it in
+
+the envelope provided. Thank you for reporting your observation
+to the Air Force.
+
+SC. MANATT, Colonel, USAF 1 Atch
+rector of Technology and Subsystems FTD Form 164 w/envelope

@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T03:41:36Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1016878, "source_ctime_ns": 1793393794870562491, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302580576/0060.jp2", "source_mtime_ns": 1785808323000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302580576/0060.jp2", "source_sha256": "a89af97f0107a47e41d642eddb547372952f8f7e2787910ce10160836f2c000b"}
+
+===== PAGE 1 =====
+{"alpha_words": 36, "chars": 201, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+YOUR
+
+ENOMENO
+
+lA a a nt Be
+
+ee tN a Sat
+
+OME N
+
+CRISE
+
+‘PORN. ane mi Mts ese tae
+S2rst object nted, the
+wa car ra lowever, ha
+
+Sizhted,
+
+res ;
+vronnda
+
+for
+bwewted Lo
+
+ne etneeenee eae ee
+
+WAYS
+- ‘*

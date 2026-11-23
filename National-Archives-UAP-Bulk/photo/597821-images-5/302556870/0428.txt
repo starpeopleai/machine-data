@@ -1,0 +1,72 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T03:39:13Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 799134, "source_ctime_ns": 1793391254611887223, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302556870/0428.jp2", "source_mtime_ns": 1785808026000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302556870/0428.jp2", "source_sha256": "96f2db413e8f6013632d42ce5b89222bae28e2c4ac179f230c2fa0ac0cf8242b"}
+
+===== PAGE 1 =====
+{"alpha_words": 215, "chars": 1433, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Page 2
+
+8. IF you saw the object at NIGHT, what did you notice concerning the STARS and MOON?
+
+8.1 STARS (Circle One): ze i f < os, 82 MOON (Circle One):
+rx ge Oe None . pri Pe ya a. “Bright moonlightia
+) be A few Ry rb. Dull moonlight: ;
+5 c) Many- > 5 “ ¢.. No meonlight—pitch dares
+
+ee. Don’t remember -
+
+“<> ds Don'tremember: >.
+
+ran
+
+9. What were the weather conditions at the time you saw the object?»
+
+cloups (Circle One): Pag WEATHER (Circle Noyes
+Clear sky hee : (ay Dry 3
+b. Hazy ° ae So. b.. Fog, mist, or light hee
+¢. Scattered clouds . ¢. Moderate or heavy rain E
+d. Thick or heavy clouds d.. Snow
+
+e. Don't remember
+
+SS
+
+10. The object appecred: (Circia One):
+
+(a) Solid. oj d. Asa light
+b) Transparent e. Don't remember
+c. Vapor :
+
+11. If it appeared os a light, was it brighter than the brightest stars? (Circle One):
+
+_@. Brighter c. About the same
+b. Dimmer d. Don't know
+
+11.1. Compare brightness to some common object:
+
+12. The edges of the object were:
+
+(Circle One):(a) Fuzzy or blurred
+b. Like-a bright ster
+
+©)sherply outlined
+
+. Don'trememoer
+
+13. Did the object:
+
+a. Appear to stand still at any time? ” No
+b. Suddenly speed ue and rush away at any time? No
+¢. Break up into parts or explode? (>
+d. Give off smoke? No
+e. Change brightness? No
+f, Change shape? No
+g. Flash or flicker? No
+h. Disappear and reappear? No
+
+Don’t know
+Don’t know
+Don’t know
+Don’t know
+Don’t know
+Don’t know
+Don’t know
+Don’t know

@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T03:53:18Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3851769, "source_ctime_ns": 1793377610808784327, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28964563/0923.jpg", "source_mtime_ns": 1785696810000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28964563/0923.jpg", "source_sha256": "ba5bc5032a074a9fa4fb386e954861b786e90d497c6076a653e86b62cb0dde04"}
+
+===== PAGE 1 =====
+{"alpha_words": 142, "chars": 1064, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+{
+
+1. DATE 2. LOCATION 12. CONCLUSIONS
+: : Q Was Balloon
+16 January 1956 Wurtsmith AFB, Michigan O Probably Balloon
+O Possibly Boileon
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION
+Leeal XO Ground- Vi sual D Ground-Radar q Brabsuly Aiverahs
+GMT 17/0108Z to D Air Visual D Air-Intercept Radar O Possibly Aircraft
+5. PHOTOS ULI2ZZ CN) 6. SOURCE O Was Astronomical
+O Yes o Sontieate oeteromacst
+ens Militagy O Possibly Astronomics
+. Le Vv N 8. NUMBER OF OBJECTS | 9. COURSE O Othe
+PMENe NO or mem ee : BX Insufficient Data for Evaluation
+QO Unknown f
+4 minutes one unknown
+10. BRIEF SUMMARY OF SIGHTING 11. COMMENTS
+Round oblong shape color milky-white Possible balloon sighting.
+then dull green then bright red. No Disappearance by fading tends to
+trail - no exhaust. Moved up and to rule out refraction of setting «
+the right then faded, Initial observa-| astro body since this type of
+tion at 05 dgr elevation 250 dgr phenomena disappears with more
+azimuth, . sudden rising. Insufficient data
+for evaluation.
+
+ATIC FORM 329 (REV 26 SEP 52)

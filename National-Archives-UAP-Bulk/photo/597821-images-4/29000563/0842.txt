@@ -1,0 +1,42 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T03:57:40Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4596277, "source_ctime_ns": 1793388244849575223, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/29000563/0842.jpg", "source_mtime_ns": 1785747822000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/29000563/0842.jpg", "source_sha256": "205b87124f0818b25e905f8cc4e55f4a4bb08e93f0a58eaf829f432c0638f7ea"}
+
+===== PAGE 1 =====
+{"alpha_words": 263, "chars": 1641, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+bd ~ ~
+20. Do you think you can estimate the speed of the object?
+STS
+(Circle One) Yes ( No)
+IF you answered YES, then what speed would you estimata? A
+21. Do you think you can estimate how far away from you the object was?
+Po
+(Circle One) Yes { No )
+IF you answered YES, then how far away would you say it was?
+22. Where were you located when you saw the object? 23. Were you (Circle One} i
+(Circle One):
+a. jn the business section of a city?
+@, Inside a building &, In the residential section of u city? i
+b. Ina car ¢. in coan countryside? {
+c. Outdoors: d, Near an airfield? > '
+d. {nan airplane (type) a, Flying over o city? (
+e. At sea #, Flying over oren country? j
+H §
+f, Other ge Otter: so. ;
+ies i vai pide ties 4
+24, |F you were MOVING IN AN AUTOMOBILE or other vehic!s at the tims, then comp!+ie the following quesiiens: |
+24,1 Whar direction were you moving? (Circle One)
+¢. North c, East a. South g. Wast i
+b. Northeast d, Southeast #, Southwest h. Nevinwes? ;
+24.2 How fast were you moving? miles per hour.
+24.3 Did you stop ot any time while you were looking ct the object? }
+i
+‘
+(Circle Onej Yes No i
+As
+25. Did you observe the object through any of the following? ea iS ZAR A ee A \;
+Ea / } 7s ES icairae oe ipied §
+a. ‘Eyeglasses. C Yes_ No e. Binoculars Yes No! ae
+b. Sun glasses Yes No f. Telescope Yes ae Niet Y ;
+c. Windshield Yes No g. Theodolite Yes No ;
+d. Window glass Yes No h. Other :
+26. In order that you can give as clear a picture as possible of what you saw, describe in your own words ¢ comms:
+object or objects which, when placed up in the sky, would give the same appearance as hs obieet which wou soy.

@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T03:48:13Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1743485, "source_ctime_ns": 1793389005029341854, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302535390/00391.jp2", "source_mtime_ns": 1785808301000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302535390/00391.jp2", "source_sha256": "4010d254d994af576b2d1c234c92dbf068bafd68768c2794fab2f768550318cd"}
+
+===== PAGE 1 =====
+{"alpha_words": 6, "chars": 80, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 1, "variant": "plain-psm3"}
+Sean petaes
+
+<
+-
+=
+
+7
+
+; |
+* .
+| :
+os 3 os *
+,
+{> +
+? f4 fF
+o
+- z :
+F
+a
+ae
+&
+—

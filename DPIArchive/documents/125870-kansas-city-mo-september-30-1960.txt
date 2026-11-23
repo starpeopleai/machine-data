@@ -1,4 +1,4 @@
-{"created_utc": "2026-09-13T07:06:04Z", "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "embedded-text", "pages": 0, "schema": "ufo-files-archive-ocr/v1", "source_bytes": 295450, "source_ctime_ns": 1788304341102956169, "source_file": "DPIArchive/documents/125870-kansas-city-mo-september-30-1960.pdf", "source_mtime_ns": 1785541133860000000, "source_rel": "DPIArchive/documents/125870-kansas-city-mo-september-30-1960.pdf", "source_sha256": "9c6be868880849c84b829affe3af0cb717528d0c4d5f9f76ee29c6630db24c06"}
+{"created_utc": "2026-11-23T03:38:12Z", "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "embedded-text", "pages": 0, "schema": "ufo-files-archive-ocr/v1", "source_bytes": 295450, "source_ctime_ns": 1793476239482037008, "source_file": "DPIArchive/documents/125870-kansas-city-mo-september-30-1960.pdf", "source_mtime_ns": 1793476239467021032, "source_rel": "DPIArchive/documents/125870-kansas-city-mo-september-30-1960.pdf", "source_sha256": "9c6be868880849c84b829affe3af0cb717528d0c4d5f9f76ee29c6630db24c06"}
 
 August 23, 1982
 

@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T04:07:01Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6785004, "source_ctime_ns": 1793376919577930270, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28962265/0457.jpg", "source_mtime_ns": 1785696560000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28962265/0457.jpg", "source_sha256": "5cdee824890ea7431395b02b63f92210ae6eaa301c0e4bd1af782c205fc37d28"}
+
+===== PAGE 1 =====
+{"alpha_words": 169, "chars": 1201, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+on nears POMEL CONE ORRIN te re ty
+
+oe hes UFCB INDEX CARD . een |
+1, DATE 2. LOCATION 12, CONCLUSIONS
+ya “lay 1955 Sacramento, California
+ov Ss Beauly Balle
+t robably Balloon
+3. DATE-TIME GROUP | 4. TYPE OF OBSERVATION D Possibly Balloon
+Local CXGround- Vi sual a OFOuna Rae Gr a Beaiaily Nivevett
+GMT 29/0330 Z May 55 O Air Visual OD Air-Intercept Radar O Possibly Aircraft
+5. PHOTOS 6. SOURCE O Was Astronomical
+CG Yes leg Matar pd etlaekebail lied
+: 5D No : Civilian ossibly Astronomical
+7. LENGTH OF OBSERVATION : 8. NUMBER OF OBJECTS | 9. COURSE | QO Other-
+5~'L0 seconds . one (2) faane away frond ell ean Data for Evaluation
+10. BRIEF SUMMARY OF SIGHTING 11. COMMENTS
+One (1) silver object, possible spherical, {| = Due to the brevity of aichting and
+aoproximately the size of a pemy held at arm's the delay in tha receipt of the
+Length was observed to fly directly away preliminary report at this Head
+from the observer at what was estimated a - . Quarters and the improbabdility of
+speed much greater than that of a conventio furtyer investigation uncovering
+Jobe. new significant information, no ~
+| followup investigation was author~
+ized.
+
+AISOP Form 5 (15 Oct 54) saat ceks wentih need

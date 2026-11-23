@@ -1,0 +1,47 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T04:16:32Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9571329, "source_ctime_ns": 1793383415756362193, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28986960/0654.jpg", "source_mtime_ns": 1785748061000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28986960/0654.jpg", "source_sha256": "f950e94a3caf31b41096a33e4d94d0f7101ef3beaba5086e5d228253607ad638"}
+
+===== PAGE 1 =====
+{"alpha_words": 111, "chars": 998, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+LOCATION OF OBSERVERS IN GEOREFs
+
+AIRBORNE SIGHTING, DKLE 1938; SASKATOON MOUNTAIN SIGHTING;
+
+EKAL 2828; BALDY HUGHES SIGHTING, DKNJ 1925
+
+PART VI
+
+(1) NEGATIVE |
+
+(2) AIRBORNE SIGHTING, FO T.S. NEILL, RCAF, COMOX AIR STATION B.C.
+CANADA, RELIABLE; SASKATOON MOUNTAIN SIGHTING, TSCT@gpa@we
+
+4B , 919 SQUADRON SASKATOON MOUNTAIN CANADA, VERY RELIABLE; qQuar
+
+WER SICHTING, GUMOONNMINM, 915 SQUADRON, BALDY HUGHES B.C.
+CANADA; RELEABILITY UNKNOWN, | 2 |
+PART VII
+(1) AIRBORNE SIGHTING, SCATTERED RAIN SHOWERS; SASKATOON
+| MOUNTAIN, CLEAR; BALDY HUGHES, SCATTERED RAIN SHOWERS
+| (2) WIND REPORT COMOX:
+
+29,988 FT 14% DEGREES 1% KNOTS
+
+_...... 39,088 -FT .149-DEGREES 25 KNOTS. .2 2. ee
+49,082 FT 11@ DEGREES 25 KNOTS | |
+
+. PAGE. FOUR RJWZBH 3B
+
+: 59,988 FT 13@ DEGREES 15 KNOTS
+| WIND REPORT SASKATOON MOUNTAIN
+
+| 29,999 FT 16@ DEGREES 29 KNOTS
+30,083 FT 16@ DEGREES 4¢ KNOTS’
+49,992 FT 189 DEGREES 2@ KNOTS
+58,998 FT 18@ DEGREES 2% KNOTS
+
+' WIND ‘REPORT BALDY HUGHES
+
+Weg Mey A)
+a NRT Nl:
+
+bit eid

@@ -1,0 +1,41 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T04:29:23Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 806759, "source_ctime_ns": 1793393083146447754, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302573748/0547.jp2", "source_mtime_ns": 1785808332000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302573748/0547.jp2", "source_sha256": "1b6a74ffd54da1413c163dc7f9f3178078d3bf35a9700228ad4d7b458a8757d2"}
+
+===== PAGE 1 =====
+{"alpha_words": 128, "chars": 845, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+d a) 1 QOD:
+j 4 HELD | :
+i 1INDOW OF VEHICLE | THEODOLITE 4
+PY ¥ NC DWRPANE OTHER oan 4
+
+yOu ORDINARIL Y WE “AR GLAS 5. DO YOU USE READING iS GLASSE eae 5 Sey
+
+i T WAS YOUR IMPRESSION OF THE SP ,\| 19. WHAT WAS YOUR }
+
+NOMENON? GIVE ESTIMATE OF SPEE PHENOMENON?
+
+3 ORDER THAT WE MAY OBTAIN AS CLEAR A PICTURE AS POSS & OF WHAT YO
+i % COMMON OBJECT OR OBJECTS Wake CH, WHEN PLACED IN THE SKY, SIMILAR TO WHEE
+i WOULD BEAR SOME RESEMBLANC — TO WHA y YOU SAW. DESCRIGE SIMILARITIES AND
+3 COMMON OBJECT AND WHAT Yous AW
+
+d
+4
+|
+4
+4
+
+j 21. DID YOU HOTICE ANY ODOR, NOISE, OR HEAT EMANATING FROM THE PHENOMENON OR ANY EFFECT ON YOURSELF, }
+ANIMALS OR MACHINERY IN THE VICINITY? []YES {X[NO. IF "YES," DESCRIBE. j
+
+?
+3
+i
+2 ‘
+j
+Fy 4. DIO THE PHENOMENON OISTURS THE GROUND OR LEAVE ANY PHYSICAL EVIDENCE. [] YES ;
+iF "YES,° OSSCRIBE ae |
+2
+’
+; ;
+; j
+r 2

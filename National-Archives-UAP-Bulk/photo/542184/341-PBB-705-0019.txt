@@ -1,0 +1,17 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T04:26:53Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 22072746, "source_ctime_ns": 1793367575346847574, "source_file": "National-Archives-UAP-Bulk/photo/542184/341-PBB-705-0019.jpg", "source_mtime_ns": 1785565742000000000, "source_rel": "National-Archives-UAP-Bulk/photo/542184/341-PBB-705-0019.jpg", "source_sha256": "2fcc3eba0159517659f02ed3b0e369d18e99651b62d7b992e9aa161413c793a1"}
+
+===== PAGE 1 =====
+{"alpha_words": 32, "chars": 139, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ont ee te ct Ege ong oe
+
+Pee Protea ap do Sh ay sg
+
+ee
+
+ne
+
+AL beesinns &
+
+So OTS he 2 A ca nels coe ah eR Eig a aT a ae a ee eee te
+
+3 a

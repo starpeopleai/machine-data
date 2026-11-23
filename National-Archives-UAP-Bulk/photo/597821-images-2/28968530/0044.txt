@@ -1,0 +1,17 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T04:00:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5373782, "source_ctime_ns": 1793378604520911055, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28968530/0044.jpg", "source_mtime_ns": 1785696667000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28968530/0044.jpg", "source_sha256": "43ec539520bd499a372218d6cdacc17fe37eb76391f566f26010300a3ccc7250"}
+
+===== PAGE 1 =====
+{"alpha_words": 52, "chars": 368, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+OSO, Hq Shth Ftr Gru, 5 Dec 56, Subj: Unidentified Flying Object Report
+ADIPM lst Ind 19 DEC “356
+
+Hq Air Defense Command, Ent Air Force Base, Colorado Springs, Colorado
+
+TO: Commander, 1602d Air Intelligence Service Squadron, Ent Air Force
+Base, Colorado Springs, Colorado
+
+Forwarded in compliance with Paragraph lib, ADCR 200-7.
+BY ORDER OF THE COMMANDER:
+
+1 Incl
+o

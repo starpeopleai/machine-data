@@ -1,0 +1,52 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T04:06:48Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6741340, "source_ctime_ns": 1793362863968708744, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330783823/45484701-004-001-0162.jpg", "source_mtime_ns": 1785685066000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330783823/45484701-004-001-0162.jpg", "source_sha256": "ba954da28c67040ed8aed38f9a659716669831378c92621ce35d591b14feb7b4"}
+
+===== PAGE 1 =====
+{"alpha_words": 106, "chars": 870, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+sd @
+
+DEPARTMENT OF THE AIR FORCE
+HEADQUARTERS UNITED STATES AIR FORCE LLM /AVGD /ams
+WASHINGTON
+
+THE INSPECTOR GENERAL, USAF
+1ST DISTRICT OFFICE OF SPECIAL INVESTIGATIONS
+WESTOVER AIR FORCE BASE, MASSACHUSETTS
+
+1D-OSI 24-0-104 3 February 1950
+
+SUBJECT: ROBERT/A BREEN
+Hazardville, Conn.
+Unconventional Aircraft
+
+Washington 25, D.C.
+
+1. Forwarded for your information and possible future reference
+newspaper article pertaining to the intended construction, by BREEN,
+model "flying saucer" which would fly on the helicopter principle.
+y a This article appeared in the
+ary
+
+on Thursday, 2 February 1950.
+
+ao
+
+opringfield Daily News, Springfield,
+
+) ‘1h
+lL iIncls L.L. MARTIN
+
+Newspaper Article Colonel, USAF
+District Commander
+
+——
+
+uN : D STATES nIR E08
+THE INSPECTOR S!
+a. 2 »
+Fea 7M 37 AM “50
+ur FiCe OF
+
+octal INVESTIGATION
+| na
+
+Declassification Authority: NND 923007

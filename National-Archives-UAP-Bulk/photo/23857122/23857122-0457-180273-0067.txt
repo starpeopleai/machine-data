@@ -1,0 +1,24 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T04:22:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 18505144, "source_ctime_ns": 1793356462534672068, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0067.tif", "source_mtime_ns": 1785564708000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0067.tif", "source_sha256": "49949cc44b97ce2cc64b27b173d0798410f52b23321b1bf8743c5b9aca6542e1"}
+
+===== PAGE 1 =====
+{"alpha_words": 62, "chars": 516, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+| » 4 é
+» j mm? a 3m yr ¢ * "tar “9 ?
+«
+mie , 2 vn mat id * i + : 4 ‘Wal-sot. =
+. - Woe SS Ej : ¢ , ,
+$5 wt hehe & . : » J 2 4 ve ws x
+; *
+t way ~ < mt sn oe 4 1% ‘4
+UU LS ] . ; rriga + ey ~ ee + “~ a inn "9
+3 Ye ‘. s el @ hed Wuldotsl or ‘ ee Fe ¥ - 119 33-08
+: s C : £i9 { I¢
+abatats be fad } - +} + {
+¥t ; ; cy +’ + $ i oo | “ +~ > o +
+J eas LAL et a er ; a OA wllte ‘ 4 i) i ‘Ce VIEAS 3 4
+_ : ; 4
+L . AG ONS OoOSservey Waid vi
+¥ ; LZ im Nis estima?
+: aad wed d ne? VOY LR
+
+Declassification Authority: NND 57565

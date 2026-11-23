@@ -1,0 +1,6 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T04:12:40Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8643281, "source_ctime_ns": 1793367879551913564, "source_file": "National-Archives-UAP-Bulk/photo/542185/342-AF-078971AC_34-3795M.TIF", "source_mtime_ns": 1785565795000000000, "source_rel": "National-Archives-UAP-Bulk/photo/542185/342-AF-078971AC_34-3795M.TIF", "source_sha256": "a6b2b8a7cb73605eab1f070a4ed0cc330570ed4a5e85c56b92f806f785a12e74"}
+
+===== PAGE 1 =====
+{"alpha_words": 6, "chars": 27, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 1, "variant": "plain-psm3"}
+ve wie “i Ne ee een
+ane *

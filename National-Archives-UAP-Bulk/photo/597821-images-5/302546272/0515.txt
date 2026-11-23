@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T03:41:57Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1044471, "source_ctime_ns": 1793390078258856157, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302546272/0515.jp2", "source_mtime_ns": 1785808058000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302546272/0515.jp2", "source_sha256": "6b8600e61240ce11099011e0b831ea51c5ac6ecacf3af018bdf5bf384a317615"}
+
+===== PAGE 1 =====
+{"alpha_words": 73, "chars": 514, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+| | ) PROJECT 10073 RECORD : cased
+|. DATE - TIME GROUP. . 2. LOCATION :
+
+3. SOURCE : 10, CONCLUSION
+Military, Missle (Atlas Bb)
+kota doco am wl 2D GS Yebtao Wy
+4. NUMBER OF OBJECTS
+5.. LENGTH OF O35ERVATION 11. “BRIEF SUMMARY AND ANALYSIS
+4 wat oar Seayroie + ” a
+6. TYPE OF OBSERVATION uhe water, “aber sp ray ig ae ‘
+have climbed is orbita. alt ude at & nr iy
+
+8. PHOTOS : | pay |
+
+O Yas :
+x41 No : i |
+9. PHYSICAL EVIDENCE
+
+O Yes
+xO No
+
+FORM
+FTD SEP 63 0-329 (TDE) Previous editions of this form.may be used.

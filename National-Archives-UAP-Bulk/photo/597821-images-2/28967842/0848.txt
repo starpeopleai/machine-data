@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T03:59:36Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5244161, "source_ctime_ns": 1793378394904396765, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28967842/0848.jpg", "source_mtime_ns": 1785696995000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28967842/0848.jpg", "source_sha256": "d925206a706feabfc73fc6e34d2bba2bd300393d2d405d56348729a7bad66594"}
+
+===== PAGE 1 =====
+{"alpha_words": 72, "chars": 541, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Val he
+
+HEADQUARTERS
+656TH AIRCRAFT CONTROL 4D WAMTING SUADRON
+United States Air Force
+Saratoga Springs Air rorce Station
+Saratoza Springs, New York
+
+ACNOPS & Oebober 1°56
+sy2gicl: Unidentified Flying Objects Yepert
+
+TOs Cornusander
+Air Defense Comsaind
+Ent Air Force Base
+Colorado Sprinzs, Colorato
+
+The attached Unidentified Flying Ovjects Report is subiiitted
+in accordance with Air Force Regulation 200-2, paragraph 7e%e(2){a),
+dated 12 Auvust 1951.
+
+ow
+
+FOR THE COMMAND:
+
+a/s : Major, USAP
+
+1 Incl FRED Me LAGEDGREN
+Asst Adjuta
+
+sy
+nt

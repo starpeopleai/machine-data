@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T04:12:25Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8591357, "source_ctime_ns": 1793363261201128497, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330784816/45484701-005-001-0148.jpg", "source_mtime_ns": 1785684645000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330784816/45484701-005-001-0148.jpg", "source_sha256": "d4260d5ecb410377a353d361a62ab01e6a5f785439941df2d022d5ed2e526e23"}
+
+===== PAGE 1 =====
+{"alpha_words": 82, "chars": 618, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ow pramateen ay A ce ‘d » “
+Lf Fe 4
+“i a4
+
+File 24-0, subj: “Unconventional Aircraft Sighted in Greenville, S$. CG,
+Aree « 15 May 1952
+
+III. ACTION: Wo action ia contemplated at present by 6th
+District OSI (IG) in reference to this matter, Lt. PALMER has advised thet
+Air Intelligenee Information Report, Form 112, Part I, concerning this
+incident was forwarded Headquarters JSAP on 18 May 1952.
+
+LEO H, JOHNSON
+Lt Colonel, USAF
+District Commanier
+
+eo: CG, AMC
+Wright-Patterson AFB, Ohio
+ATTN: MCIS
+
+~
+ge tc
+spetin. ¥s wae a rv a
+
+iiahieaiiiaiind A leis a FORCE
+
+A stg SIAR i :
+
+Declassification Authority: NND 923007

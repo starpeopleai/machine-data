@@ -1,0 +1,22 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T03:39:16Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 808330, "source_ctime_ns": 1793355923498630781, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989290-001-0054.jpg", "source_mtime_ns": 1785564559000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989290-001-0054.jpg", "source_sha256": "d977f685143682dc66af419210f2a386ac9f3d41f48d5d4935569efb5657c6c4"}
+
+===== PAGE 1 =====
+{"alpha_words": 145, "chars": 927, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+hl
+
+As a matter of fact, neither the Convair "BY seat nor any
+escape capsule so far envisaged would be of much use for bailing
+out of a spaceship midway between Earth and Marse Nevertheless,
+much of the research so far accomplished on escape physiology at
+Holloman and elsewhere has a direct significance for manned
+space flight. The most obvious example is the applicability of
+data on g=-tolerances acquired from Colonel Stapp's Holloman
+sled rides to the coming problems of rocket acceleration and
+deceleration. Those same sled rides, along with other rocket=
+track experiments on windblast and deceleration, formed the point
+of departure for the devel opment at Holloman of research efforts
+on a broad range of biodynamics problems to be treated in a
+Subsequent monograph. And, needkess to say, they will long be
+remembered among the dramatic highlights in the history of the
+
+entire Air Force Missile Development Center.

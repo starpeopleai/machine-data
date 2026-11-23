@@ -1,0 +1,86 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T04:02:59Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5859009, "source_ctime_ns": 1793378427922014849, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28967962/0946.jpg", "source_mtime_ns": 1785696803000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28967962/0946.jpg", "source_sha256": "9970bed06d399ade5960b6b739db6e2e072ce9d468caa1a1f75ef2a654ff886e"}
+
+===== PAGE 1 =====
+{"alpha_words": 143, "chars": 1067, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+error Pome ieee Skee eS
+
+1. DATE 2. LOCATION
+
+19 Octover 1956 Point Arguell
+
+Oo, California
+
+3. DATE-TIME GROUP
+
+4. TYPE OF OBSERVATION
+
+O Grovnd-Rodor
+
+Locol XO Ground- Vi sual
+cur__i 3//03224 O Air Visual 0 Air-intercep? Rador
+5. PHOTOS — 6. SOURCE
+O Yes
+Xl No Civilian
+
+7. LENGTH OF OBSERVATION 8. NUMBER OF OBJECTS
+
+five minutes one
+
+9. COURSE
+
+> ett, naat
+northeast
+
+ooo o9oc aac aod
+
+12. CONCLUSIONS
+
+Was Balloon
+Probably Balloon
+Possibly Bolloon
+
+Was Aircraft
+Probobly Aireref?
+Possibly Aircroft
+
+Was Astronomical
+Probably Astronomicol
+Possibly Astronomical
+
+Other
+Insufficient Data for Evaluation
+Unknown
+
+10, BRIEF SUMMARY OF SIGHTING
+One small round object, red, white,
+
+rapidly. Object moved out of sight at
+45 der azimuth after having been obser
+visually & through binoculars for five
+minutes,
+
+and green in color, Object was initial
+sighted at 45 dgr azimuth & was moving
+
+11, COMMENTS
+
+lyAndicate
+ably caused
+
+yod
+
+Details and duration of sighting
+chat sighting
+
+b ¥
+
+was prob-
+
+Cs
+
+ee
+an a/Ce
+
+ATIC FORM 329 (REV 26 SEP $2)

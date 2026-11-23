@@ -1,0 +1,16 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T04:05:38Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6517366, "source_ctime_ns": 1793361889812689222, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330781681/45484701-001-005-0069.jpg", "source_mtime_ns": 1785684789000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330781681/45484701-001-005-0069.jpg", "source_sha256": "7383ad431cd5cf430a3d3df126b0fe8cd8a250ea6cdd577f0407924748d61029"}
+
+===== PAGE 1 =====
+{"alpha_words": 33, "chars": 268, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+INCLOSURES (Cont'd)
+EADQUARTERS UNITED STATES AIR FORCE, OFFICE OF SPECTAL INVESTIGATIONS;
+
+Dillen area,
+
+1. Teletype sequence of lecal weather conditions in
+
+2. Report of winds aleft,
+
+Se Regional map ef Bitterroot Range (268)
+
+Declassification Authority: NND 923007

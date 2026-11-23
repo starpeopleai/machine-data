@@ -1,0 +1,40 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T03:49:41Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1791252, "source_ctime_ns": 1793388688753971189, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302531084/0872.jp2", "source_mtime_ns": 1785808381000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302531084/0872.jp2", "source_sha256": "f19126e026844f7127e30ec74505007d0c83cb800bd9b6bde9de0dec941210e9"}
+
+===== PAGE 1 =====
+{"alpha_words": 68, "chars": 524, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+DEPARTMANT OF THE AIR FORCE
+
+UNGLASISED MESS AGS
+i} = a 7% a2 | "4 os
+a Aes Yamees F :
+2) : 4 *\3] 3 ~
+rINGOMIENG
+
+3
+4
+
+&
+
+AF IN : 31110 (20 Nov 63) | Pe 2 of 2
+
+UNCLAS
+
+1. CIRVIS REPORT
+
+2. NAVY 43209
+
+Se UFO-ONE OBJECT YELLOW-ORANGE IN COLOR
+TRAILING FLAME. HELD FCR THREE OR FOUR SECONDS
+
+4, SIGHTED
+
+FROM POSITION LAT 37-@@N 173-30 OBJECT NORTH OF
+
+6, UNABLE TO ESTIMATE
+
+7- GENERAL DIRECTION OF TRAVEL APPEARED TO BE SOUTHWEST
+8, EXTREMELY HIGH
+9, NONE
+
+NOTE: ADVANCE CY DEL TO XOPX, NIN, DIA-CIIC.
+br XMITTED TO CIA,
