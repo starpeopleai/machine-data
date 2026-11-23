@@ -1,0 +1,81 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T15:37:45Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 22362502, "source_ctime_ns": 1793361229697237985, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-004-0235.tif", "source_mtime_ns": 1785565263000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-004-0235.tif", "source_sha256": "a335ec6e7d0db6091a27751f89f30dd0fc82fd1b25b9f5f9e1deda34adecd26f"}
+
+===== PAGE 1 =====
+{"alpha_words": 399, "chars": 2800, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UNCLASSIFIED
+CLASSIFICATION
+13
+(SECURITY INFORMATION when filled in)
+SUPPLEMENT TO AF FORM 112
+REPORT NO.
+IR-17-58
+ORIGINATING AGENCY
+PFICO-C, Hq PACAF
+PAGE 3
+OF
+PAGES
+Identification:
+1. Aircraft Commander:
+Capt William R. Faurot, AO 843363, 42lst
+Air Refueling Sq, pilot, estimated to be reliable (see Comments of Preparing
+Officerại
+20
+Co-Pilot: Ist It Andrew S. Dehner, AO 2094171, 421st Air
+Refueling Sq, pilot, reliable (see below).
+Navigator:
+Ist It Douglas De Smith, AO 3030400, 421st Air
+Refueling Sq, navigator (see below).
+Flight Engineer: S/Sgt James A. Isaac Jr, AF 39309217, 42lst
+Air Refueling Sq, flight engineer, (see below).
+Radio Operator:
+S/Sgt Frank C. Harris, AF 17350722, 6202nd
+Operations Sq, radio operator (see below).
+Weather and Winds
+Clear above, 2/10 scattered well below flight altitude,
+wind 36k/240 degrees at flight altitude.
+20
+Winds aloft (recorded at Wake Island 131200Z): 5M-4SE;
+10M-10SE; 13 5M-10SW; 18M-10NW; 23M-20NW; 30M-15WNW; 34M-15WNW; 38M-20WNW.
+Clouds 2/10 at 2,000', visibility unlimited,
+Ceiling: 2000 scattered.
+40
+Visibility: plus 15 knotse
+5e
+Cloud cover: 2/10 at 2000'.
+Thunderstorms: None.
+Unusual Activities:
+This office
+has learned of no unusual activities which could be
+related to this sighting. Specifically, no weapon tests were conducted at
+the Eniwetok Proving Grounds at this times Other sightings, which occurred
+before and after the event, are described below,
+Interception or Identification:
+The aircraft fired a red-green challenge flare and orbited three
+times in a right-hand race-track pattern before continuing on course. No
+visual sighting was made during this time.
+Air Traffic
+at an approximate position some
+According to ARIC Wake 70 miles south of the reporting aircraft
+a Flying Tiger Constellation was westbound
+at the time of the sightings One other USAF C-54D, SN-42-72523, Project
+DAF 53, was eastbound to Wake and landed not more than ten minutes ahead of
+reporting aircraft. N-2, CINCPACFLT, reports that there were no naval
+surface vessels in the area at this time,
+confirming
+the above, indicated there was no military air or naval activity
+Hawaiian Sea Frontier' in the aren
+at this time.
+WARNING: This document contains information affecting the national defense of the United States within the meaning of the
+Espionage Laws, Title 18, U.S. C., Sections 793 and 794.
+Its transmission or the revelation of its contents in any manner to an
+unauthorized person is prohibited by law. It may not be reproduced in whole or in part, by other than United States Air Force
+Agencies, except by permission of the Director of Intelligence, USAF.
+AF 1 oC1 52 112a
+WHICH MAY BE USED. PART II, 1 JUN 48,
+CLASSIFICATION
+UNCLASSIFIED
+(SECURITY INFORMATION when filled in)
+TING OFFICE
+16-68470-1
+DECLASSIFIED
+Authority NND 9237007

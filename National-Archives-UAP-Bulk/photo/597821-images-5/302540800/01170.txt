@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T16:14:36Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 993827, "source_ctime_ns": 1793389436429024668, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302540800/01170.jp2", "source_mtime_ns": 1785808267000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302540800/01170.jp2", "source_sha256": "7ff859bc5cf56e360c3fc169b8e5e6b4865a1f7ec46a1f27b2cdd3e7393d62d5"}
+
+===== PAGE 1 =====
+{"alpha_words": 107, "chars": 682, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Mrs. Hunt/man/SAPOICC/72842/27 Sep 65
+SEP 2 8 1966:
+Dear ris
+This is in reply to your unidentified flying object report.
+The object you sighte
+as not depicted on the negatives
+which you forvarded with your report.
+The direction and flight of the object which you observed
+are consistent with those of an aircraft observation. It ia
+possible that a belicopter from waney Air Fores Base was oper-
+ating in the area at the tise.
+Thank you for reporting your observation to the Air Force.
+Sincerely,
+Atch
+Wegativer
+SO1 72 22A05DING
+It Colonel, USAP
+Chier, Civil Branch
+Community Relationa Division
+Office of Information
+Aquada, Puerto Rico
+HArT) 37 (Office Symbol,
+- Name
+Date)
+SAFOI-2

@@ -1,0 +1,60 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T15:45:12Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9907743, "source_ctime_ns": 1793362144059750108, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330782241/45484701-002-003-0111.jpg", "source_mtime_ns": 1785684716000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330782241/45484701-002-003-0111.jpg", "source_sha256": "f053a5c86e49214731a1e8dc9f17746b7250e599f31ee136e6735dd1979648fe"}
+
+===== PAGE 1 =====
+{"alpha_words": 167, "chars": 1212, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AF HQ-44
+3 Dec 1947
+AFCSI
+Mr. Gould/lse/72231
+Wrtn 21 Sept 49
+OFFICE OF SPECIAL INVESTIGATIONS
+THE INSPECTOR GENERAL
+02
+21-185
+SUEJ ECT :
+(Confidential) MRS. MADELINE GWYNNE MERCHANT
+SPECIAL INQUIRY
+TO:
+District Commander
+15th OSI District, IG
+Great Falls Air Force Base
+Great Falls, Montana
+1.
+This refers to the FEI letter dated 8 August 1949,
+addressed to MRS. MADELINE GWYNNE MERCHANT, 918 N.E. 18th Street,
+Oklahona City, Oklahoma, a copy of which was forwarded to you by
+W. G. Banister, Special Agent in Charge of the PBI Office at Butte,
+fontana .
+For your information, this Office has been advised that
+MRS. MERCHANT associates with known Communists and is considered
+dangerous.
+MRS. MERCHANT's letter is being forwarded to the Air Materiel
+Command for evaluation.
+FOR THE DIRECTOR:
+SEP 194šîŘ
+MANAGEMENT
+DIV
+WILLIA
+TURN ER
+Lt. Colonel, USA:
+Executive, Special Investigations
+The Inspector General, USAF
+AFCSI-FILES
+CLASSIFICATION CANCELLED
+BY AUTHORITY OF
+KURT K. K
+BY
+1 8 DEN 1975
+(NOTE FOR RECORD) Exact letter als 4eFt to Districts 16 and 20 this date)
+-183
+49
+OFFICE SYMBOL
+GRADE AND
+SURNAME OF
+COORDINATING
+OFFICERS
+AFCSI
+OCT
+3 18%
+GOVERNMENT PRINTING OFFICE
+Declassification Authority: NND 923007

@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T16:08:47Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 20567572, "source_ctime_ns": 1793360741968528936, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-003-0057.tif", "source_mtime_ns": 1785565120000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-003-0057.tif", "source_sha256": "c7ea19b3e09790a9fcc5fea43f85746454b09dd5a53f2996abb010d04e1b5141"}
+
+===== PAGE 1 =====
+{"alpha_words": 143, "chars": 972, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AF FORM 112-PART II
+PROVED 1 JUNE 1948
+(CLASSIFICATION)
+AIR INTELLIGENCE INFORMATION REPORT
+REPORT NO.
+KHOM (Agency)
+lobin: Air Force Base, Ga
+PAGE
+C. Three planets were visible at this time.
+9. No interception or identification action taken.
+10.
+3-57 landed at O2hhz which was flying in area during reported sighting.
+Pilot stated he saw only two planets, nothing else.
+11. Jerry E. Moore, Captain, USAF, Airdrome Officer.
+Believes
+mistaken Venus or Jupiter for a piloted object.
+12. None.
+PAGES
+NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S. C.-
+31 ANDO2. AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW.
+IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF
+INTELLIGENCE, USAF.
+UNCL
+DECLASSIFIED
+Authority NND 9237007

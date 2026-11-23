@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T15:40:18Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8129388, "source_ctime_ns": 1793379345376124671, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28972033/00265.jpg", "source_mtime_ns": 1785700834000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28972033/00265.jpg", "source_sha256": "021aed194f80fdc6784a8e8128e59e2ad526be0d022547deb8e5c142dfc7b64d"}
+
+===== PAGE 1 =====
+{"alpha_words": 85, "chars": 632, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PAGE TWO RJWPDM 124A
+APPEARED AS 2 WHITE PARASHUTES BELOW AND TO REAR
+AIRLINES•
+AIRLINER MOVING FROM NW
+TO SE
+2. APPX. 30 DEGREE 5750M AZ
+3. APPX 3Ø
+DEGREES 5620M AZ.
+IRREGULAR
+FLIGHT PATH WITH FREQUENT BASAN
+5. DISAPPEARED INBANK TO THE NORTH WEST
+6. 25 TO 30 SECONDS
+III 1. VISUAL
+2. NONE
+3. N/A
+IV 1. APPX. 08/17172
+2. BRIGHT DAYLIGHT- VISIGILITY EXCELLENT
+V. DKNC
+2254.
+VI.
+1. N/A
+2. HOÜSLEY, WALTER W, JR; M/SGT. RO
+19340 931
+BATTERY D, 313TH AAA MSL BN
+(NIKE)
+S25 SERGENT;
+EST. RELIAGLE
+LEE,MERREL E; SERGENT FIRST CLASS; RA 18223708
+BATTERY D, 513TH AAA MSL BN (NIKE›;
+IFC PLATOON SERGENT; EST. RELIAGLE.
+is rules at posalis

@@ -1,0 +1,41 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T15:25:16Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7058885, "source_ctime_ns": 1793380965913550379, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28978961/0616.jpg", "source_mtime_ns": 1785700679000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28978961/0616.jpg", "source_sha256": "b9f3c88f606a73d1cf00766b64ece9f1b4587924e4a6ff97bb8a9c023a6dac60"}
+
+===== PAGE 1 =====
+{"alpha_words": 47, "chars": 402, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PAGE THREE RJWZDM 52A
+10,008 - 070DEGREES - 15 KNOTS
+16,000 - 020DEGREES - 18 KNOTS
+20,000 - 360DEGREES - 8 KNOTS
+30,000 - 360DEGREES - 18 KNOTS
+40,900 - 31ØDEGREES - 18 KNOTS
+50,008 - 33ØDEGREES - 15 KNOTS
+3. CLEAR
+4. 15
+5. NONE
+6. NONE
+VIII NONE
+IX
+NONE
+NONE
+NONE
+XI
+XI1
+BT
+NONE
+16/1226Z JUL RJWZDM
+•
+•
+Loe
+Zackg garn
+Proffcat dete
+Jor
+sching
+Somo
+dm es
+"fragten
+sharo,o
+30
+seas
+West - Them
+Ewor
+SW.

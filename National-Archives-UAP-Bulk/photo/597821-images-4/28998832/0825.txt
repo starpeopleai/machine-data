@@ -1,0 +1,48 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T15:44:58Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9885071, "source_ctime_ns": 1793387555741589218, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28998832/0825.jpg", "source_mtime_ns": 1785748537000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28998832/0825.jpg", "source_sha256": "0add9a225381904260ca985ca8d36b490a53f7998313b23299ef6fa1a0945634"}
+
+===== PAGE 1 =====
+{"alpha_words": 50, "chars": 331, "method": "ocr", "page": 1, "variant": "plain-vision"}
+OV
+₴
+NOV T
+₴
+PARr
+NOV ENG
+TANDARD
+A B
+ABOVE
+AROVE
+AB
+HORIZON
+HORIZON
+BOR 1ZON
+HORIZON
+TAUDAPE
+MOVING NE
+NIVING
+KUVING
+MOVING NE
+MOVING
+HORIZON
+HOVING NE
+HORIZUN
+MUV ING
+HORIZON
+MOVING NE
+HORIZON
+POVING NE
+MOVING N
+HOP 1/ON
+STANDARD
+MOVING
+TIME
+HORIZON
+HAD 1208
+H00 12110
+HORIZON
+HORIZON
+MOVING
+MOVING NI
+POVING N
+ROVING I
+MOVING N

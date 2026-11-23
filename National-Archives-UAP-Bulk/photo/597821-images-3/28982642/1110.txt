@@ -1,0 +1,54 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T15:27:19Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8229122, "source_ctime_ns": 1793382128778997942, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28982642/1110.jpg", "source_mtime_ns": 1785701024000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28982642/1110.jpg", "source_sha256": "702420eec3728c4465774288d16a19d6bd338459db377df2122261e9a53a0d58"}
+
+===== PAGE 1 =====
+{"alpha_words": 143, "chars": 920, "method": "ocr", "page": 1, "variant": "plain-vision"}
+12.
+TINCI ACCIEED
+here any unusual disturbances. noted on the compass or radio?
+(Circle one)
+Yes
+Comments:
+Page threo
+13. Was any turbulence noted?
+Comments:
+(Circle one)
+Yes
+Nơ
+I. Estimate how long you saw the object.
+Minutes
+Saconds
+Circle one of the following to indicate how certain you are of your answer
+to Question 14.
+Certain
+b. Fairly certain
+c. Not very sure
+d. Just a guess
+15. Did you observe the object through any of the following?.
+9 .
+Byeglasses
+b.
+Sun glasses
+c.
+• Other
+Yes
+Yes
+NO
+to
+16. What was the condition of the sky?
+-a. Bright daylight
+b. Dull daylight
+c. Bright twilight
+(Circle one)
+d. Just a trace of daylight
+No trace of, daylight
+Don't remember
+17. If you saw the object during daylight, twilight, or dawn, where was the sun
+located as you looked at the object?
+(Circle one)
+In front of you
+o. In back of you
+d. Ta your left
+AUNCLASSIFIED .. Overhead
+c. To your right
+Document Log.
+5401612

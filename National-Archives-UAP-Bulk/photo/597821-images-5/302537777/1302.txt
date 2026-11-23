@@ -1,0 +1,40 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T16:13:29Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 797705, "source_ctime_ns": 1793389185892023494, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302537777/1302.jp2", "source_mtime_ns": 1785808364000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302537777/1302.jp2", "source_sha256": "9f46844ae870c095b72ec8817d9b8954e7b089769edcb58166fd215e4d3e05c6"}
+
+===== PAGE 1 =====
+{"alpha_words": 101, "chars": 792, "method": "ocr", "page": 1, "variant": "plain-vision"}
+• DATE - TIME GROUP
+2. LOCATION
+21 February 65 21/0950Z
+3. SOURCE
+Kingsley Field, Oregon
+Military
+4. NUMBER OF OBJECTS
+One
+5. LENGTH OF OBSERVATION
+1 - 2 Seconds
+6. TYPE OF OBSERVATION
+Ground-Visual
+10. CONCLUSION
+Astronomical (METFOR)
+Dat indicates that of a neteer obbervation.
+Althought there was
+several decays on this date,
+Characteristics are of the fireball
+class. Evaluated as a Meteor observation.
+11.
+BRIEF SUMMARY AND ANALYSIS
+Object was of tear-drop shape.
+After object disappeared behind hill, a flash was observed
+which covered 10 per cent of the horizon. It traveled 10 deg
+elevation, 270 deg azimuth. Disappearance was 265 deg azimth.
+7. COURSE
+Descending
+8. PHOTOS
+• Y•s
+EXNO
+9. PHYSICAL EVIDENCE
+• Yes
+KKNO
+FORM
+FTD SEP 63 0-329 (TDE) provious oditione of thie 1
+y be used.

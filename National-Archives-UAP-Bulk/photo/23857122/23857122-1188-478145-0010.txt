@@ -1,0 +1,48 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T15:23:13Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 27780004, "source_ctime_ns": 1793356983514968456, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1188-478145-0010.tif", "source_mtime_ns": 1785564803000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1188-478145-0010.tif", "source_sha256": "9f002beb1ac64976ad2cd024241b23114303701fd8e1a2aa4d935410e37b4017"}
+
+===== PAGE 1 =====
+{"alpha_words": 287, "chars": 1964, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AF FORM 112-PART II
+APPROVED 1 JUNE 1948
+AIR INTELLIGENCE INFORMATION REPORT
+FROM (Agency)
+Directorate of Intelligence
+PAGE
+PAGES
+1. Large, green light, solid in center with a nebula surrounding it with a
+trail of isolated red lights. The nebula on the object was constant and gave no
+indication of resistance by the atmosphere. Nebula was irregular, slightly lighter
+in color than the core. In the momentary view of it, it appeared to be equivalent
+in size to the full moon. There was no noticeable sound. Estimated approximata
+speed 400 MPH. Disappeared behind clouds which were too dense to permit further
+observation.
+2. Observed at 2015 hours, 7 July 1952. Visible for approximately three (3)
+seconds«
+3. Visual sighting observed from ground.
+4. Observed at Ft Bragg, N. C., flying WW by N with the trail of scattered
+red lights on the Eastern side of the object. Altitude appeared to be 3000-5000
+feet, but this estimate is subject to considerable error as there was no means of
+estimating the size of the object or other comparative data. Position in sky 45°-
+50°.
+5 +
+Observed by
+, N. C.)
+/at Muroc
+AFB (Edwards) and was assigned as interviewer and observer on project
+for Air Materiel Command. Captain Theodore Winch, USAF of Hq Air Materiel
+Command knows about
+connection with
+6, Weather Conditions: Clouds:
+5 Cumulus, 2000 feet
+10
+15 Cirzo-Stratus, 20,000 fest (Estimated)
+Winds: Surface, caln.
+2000 ft - 1300 at 10 kots
+4000 ft - 1300 at 15 kots
+6000 ft - 1600 at 15 knots
+8000 ft - 1600 at 15 knots
+O DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S. C.
+MID 32, AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW.
+AY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF
+LIGENCE, USAF.
+Declassification Authority: NND 57565

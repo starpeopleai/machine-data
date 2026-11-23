@@ -1,0 +1,13 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T15:32:03Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9760901, "source_ctime_ns": 1793362525263260403, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330783011/45484701-003-001-0118.jpg", "source_mtime_ns": 1785685154000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330783011/45484701-003-001-0118.jpg", "source_sha256": "8fab308a385b8e0b56d8ae1a066483a0b8e4a38db61d62e76448399dfe79c37b"}
+
+===== PAGE 1 =====
+{"alpha_words": 38, "chars": 303, "method": "ocr", "page": 1, "variant": "plain-vision"}
+4, Your practice of furnishing the Commander, Atlantic Division,
+MATS, copies of your reports concerning these incidents is entirely
+appropriate.
+FOR THE DIRECTOR:
+GILBERE R. LEVY
+Chief, Counter Intelligence Div
+Dir of Special Investigations
+The Inspector General
+Declassification Authority: NND 923007

@@ -1,0 +1,67 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T16:18:16Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1443487, "source_ctime_ns": 1793355876891014336, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989283-001-0061.jpg", "source_mtime_ns": 1785564548000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989283-001-0061.jpg", "source_sha256": "3270bd26fc10fcd50057eaea14a734bf638d7dd071237be731efea911906a86e"}
+
+===== PAGE 1 =====
+{"alpha_words": 152, "chars": 1345, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Nike project, 5, 19, 76-77,
+120
+9393rd Technical Service
+32-95. Detachment 3, v111,
+'See also Army,
+Aviation Franch.
+Northrop Aircraft Incorporated,
+Morton Air Porce Base, Caltf.,
+Wallo flights, 37-38
+Ogden, Utah, 3
+Oklahoma City Air Materiel
+Area, 86
+og-19 drone, 14
+Operation IT, 11
+operas in to te sad tic
+support, Misahes, Range.
+Operations Division, DCS/O,
+HADC, ·-V1, 106Ù
+Operations Office, Directo-
+rate of Test and Evaluation,
+HADC, ahart following 28
+Operations and Plans Division
+[hange], Directorate oi
+Aircraft Hissile lest,
+HADC, 30, 78, 111-112, 114-
+Operations Policy Guidance
+Number 1, 81
+149
+Operations Squadron.
+See
+6580th Operations Sq.
+Ordnance Department, United
+States Army, 3-4
+Ordnance Mission, WSPG, 76
+Organization: of air sup-
+port functions, see
+Holloman; as air support
+problem area, 110-115
+Overall, Lawrence W., Con-
+tract Specialist, Alamo-
+gordo Air Procurement
+office, vii
+P-l7 aircraft, 11
+P-63 aircraft, 3, 5
+Parabomb, 77-78
+Parachutes drops, 57, 79;
+missile recovery systems,
+o; 10; 75, 103; targete
+5, 43, 52-53, 77-78, 111
+Pardun,
+office, 125
+Partridge, It. Gen. Earle E.,
+Cndr., ARDC, 14, 22
+Passenger transportation
+(air). See Administra-
+tive flying, Chartered
+plane service, Continental
+Airlines.
+Patterson, Capt. Jack i.
+Mying Safety Officer,
+HADCS Aircraft Allo-
+cations Officer, DCS/O,
+11, 105-108

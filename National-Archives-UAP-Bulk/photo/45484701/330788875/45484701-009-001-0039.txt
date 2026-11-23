@@ -1,0 +1,11 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T16:11:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 23536309, "source_ctime_ns": 1793365412319575758, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330788875/45484701-009-001-0039.jpg", "source_mtime_ns": 1785685084000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330788875/45484701-009-001-0039.jpg", "source_sha256": "52451c90e290691416200210affbe717e9112591eb75792eafea7226c69041df"}
+
+===== PAGE 1 =====
+{"alpha_words": 17, "chars": 143, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+DO # 23 Case No. abe 54 UNKNOWN SUBJECTS
+Unidentified Objects in Flight over
+Lubbock, Texas
+
+Incl. # 8
+
+Declassification Authority: NND 923007

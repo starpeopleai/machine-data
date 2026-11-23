@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T15:59:19Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 22933666, "source_ctime_ns": 1793358203433011052, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-001-060-0006.tif", "source_mtime_ns": 1785681021000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-001-060-0006.tif", "source_sha256": "97854fc93b4603f3faa5259f6a82c1d2afa3b5c21dad3dbfe54fdaf0fdbc4862"}
+
+===== PAGE 1 =====
+{"alpha_words": 58, "chars": 445, "method": "ocr", "page": 1, "variant": "plain-vision"}
+ST LOUIS
+WATERLO
+(950)
+Declassification Authority NND S
+Wood River
+WOOD RIVER
+EDWARDSVILLE
+GRANITE
+LaurŞ
+BELLEVILLE
+Baldwin
+90°00'
+89°45
+100|
+115
+NOTE: It is requested that users of this chart indicate corrections and additions
+which come to their attention and notity
+**THE DIRECTOR, U.S. COAST AND GEODETIC SURVEY, WASHINGTON 25, D. C.*
+BLUE TINT INDICATES AIR TRAFFIC CONTROLLED AREAS
+SCALE 1:250,0
+500 feet or higher abo
+Less man ovo veet a

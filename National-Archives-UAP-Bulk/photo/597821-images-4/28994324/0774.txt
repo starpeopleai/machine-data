@@ -1,0 +1,21 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T15:44:25Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9402690, "source_ctime_ns": 1793385898056975357, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28994324/0774.jpg", "source_mtime_ns": 1785747933000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28994324/0774.jpg", "source_sha256": "9cfa6b46596414d597b6f29f5a96777d04cc84d32c6bdfd03e92892762db013e"}
+
+===== PAGE 1 =====
+{"alpha_words": 74, "chars": 501, "method": "ocr", "page": 1, "variant": "plain-vision"}
+6 October 1961
+Dear Mr.
+In an earlier letter I replied to you concerning the sightings
+you mentioned in previous correspondence.
+The latest Department of Defense release on the subject of UFOs
+is enclosed. I had formarded you this relcase several months back.
+It will be several weeks before the new fact cheet is published.
+Sincerely,
+MILAN T. COLAN, SR.
+rajor,
+. USAT
+UTO Project Officer
+Publie Infomation Division
+Office of Information
+01v11gan UrO Rescarch
+North Trake Avenue
+Chicago 10, Illinoia

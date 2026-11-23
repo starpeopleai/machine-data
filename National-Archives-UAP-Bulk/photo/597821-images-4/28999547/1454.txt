@@ -1,0 +1,22 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T15:25:24Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7063403, "source_ctime_ns": 1793387970486811072, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28999547/1454.jpg", "source_mtime_ns": 1785748052000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28999547/1454.jpg", "source_sha256": "3ef7571fc8f10e0cd789dce02e7afbba98cc476bd0cc3f34bc38cf783bb42b74"}
+
+===== PAGE 1 =====
+{"alpha_words": 101, "chars": 703, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+UNCLASSIFIED MESSAGE
+INCOMING
+AF IN: 46336 (17 Oct 62)
+Pg 2 of 2 .
+QUOTE 171119Z SIGHTED WHILE AT ANCHOR IN MISSISSIPPI RIVER ONE
+QUARTER MILE BELOW DONALDSONVILLE, LA FERRY ON RIGHT DESCENDING
+BANK. A CELESTIAL PHENOMENA APPEARING OVER EASTERN HORIZON
+BEARING 090 DEGS FROM ANCHORED POSIT, APPEARED IN BRILLIANT WHITE
+GLOW OF CIRCULAR SHAPE AT 090 DEGS, DESCENDED TO APPROX 30 DEGS,
+AND APPEARED TO MAKE RAGGED CIRCULAR COURSE LEAVING HUGE WHITE
+VAPOR TRAILS AND DISAPPEARED ON INCLINE COURSE OF APPROX 50 DEGS,
+TRAVELING SOUTH AT PHENOMENA SPEED. VISIBILITY 8 MI WITH BROKEN
+CLOUD BANKS. UNQUOTE.
+BT
+17/13132
+NOTE: ADVANCE COPY TO CIN, DIA AND OOP-CP.

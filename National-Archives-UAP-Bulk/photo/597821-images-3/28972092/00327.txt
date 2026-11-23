@@ -1,0 +1,20 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T15:40:53Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8236024, "source_ctime_ns": 1793379373311761315, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28972092/00327.jpg", "source_mtime_ns": 1785700673000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28972092/00327.jpg", "source_sha256": "5186782e1f0929cc43ecbcbfba07499d76063590295dc02aaf9837bb8d4e9d5d"}
+
+===== PAGE 1 =====
+{"alpha_words": 76, "chars": 458, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PG RADIO TRACKERS IN WASHINGTON REPORTED THAT THE FIREBALL was NOT ” he
+y aoe: -OTHER | OBSERVERS AT THE NAVAL RESEARCH LABORATORY SAID THE
+
+‘ RADIO SIGNALS. FROM THE SPUTNIK WERE INTERCEPTED STRONG AND CLEAR.
+
+| Souturast ORBITS: Uk LABORATORY SALDs | Ba Natty
+
+ue
+~ itt nt. d
+% 2 oP tit
+\ PAN Sy “ De
+# ae ies a tits,
+
+gh bar pees aes ORS ENLRE caiekaWlrin ROR Said ta Coat ti
+
+‘AS THE SOVIET: MOON SPED OVER THE UNITED. STATES ON ITS NORTHWEST TO . Dies

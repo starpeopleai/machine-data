@@ -1,0 +1,74 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T16:02:51Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 24429764, "source_ctime_ns": 1793356868964646099, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-0985-434443-0038.tif", "source_mtime_ns": 1785564778000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-0985-434443-0038.tif", "source_sha256": "b3077a93dabcc200644452fff22d960b8770070b5e214d61c4a635e3084f5f85"}
+
+===== PAGE 1 =====
+{"alpha_words": 264, "chars": 1991, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AF FORM 112-PART 1
+APPROVED 1 JUNE 1948
+COUNTRY
+BESTRICTED
+(CLASSIFICATION)
+REPORT NO.
+(LEAVE BLANK)
+United States of America
+IR 2 - 50
+SUEJECT
+AIR INTELLIGENCE INFORMATION REPORT Of 4,34443
+Sightize of Unidentified Object
+AREA REPORTED ON
+FROM (Agency Directorata of Intelligence, Ninth
+IA
+1r Force (Ady), Fort Hood, Texa
+DATE OF REPCP.T
+= A11 1952
+PREPARED BY (Officer)
+DATE OF INFORMATION
+3-6 Apr11 1952
+SOURCE
+VALUATIO
+A-6
+Josepo No Hensley, Exec Dir of Intel
+20 Observers
+(Control number, directive, previou
+report, etc., as applicable)
+2RX 917 (487) 0621152
+SUMMARY: (Enter concise summary of report. Give significance in final
+ce paragraph.
+List inclos
+-Begin tert of report on AP Form 118-Part II.)
+Object was reported by 15 observers at Draughon-Miller Airport,
+Temple, Taxas, 97025'W 31 10°N; by 2 observers on flight near Evant,
+Texas, 98 10'N 31 28'N; 2 observers at Stephensville, Texas,
+98°12'W 32°13'N; and 1 observer in Temple, Texas, 97°20'W 31 07'N,
+at approximately 2045 hours 2 April 1952 for a period of 10 - 40
+saconds.
+Object appeared to be round ball of fire giving off greenish
+glow and having a red and yellow tail of fire and sparks.
+Object
+emitted two or three smaller balls of fire which burned out. It
+traveled a straight South - North course West of Temple, Texas,
+at about 030 degrees heading and disappeared behind olouds« Speed
+estimated from 500 to 6,000 MPH. Altitude estimated 10,000 to
+150,000 feet, flat trajectory. Sound reported similar to that
+of jet airoraft. All sightings visual.
+I#o observers at Evant, Texas, were in RB-26 at 4500' altitude
+flying South. All others were at ground level.
+Weather sequence 2028 hours, olouds thin seattered 25,000';
+risibility l2 miles, surface winds Bast at 4 knots.
+PREPARED BY:
+1952.
+APPROVED:
+JOSH W. HENSLEY
+Wr.jbc, USAF
+Bego Dir of Intel
+IR
+6 x-19 in
+n usti
+It Col, USAF
+Director of Intelligence
+1./ monta (6 copies)
+E.O. 11
+USAF MEMO 7/31/35
+E/l Lewis
+AK G
+* 9/15/78
+Declassification Authority: NND 57565

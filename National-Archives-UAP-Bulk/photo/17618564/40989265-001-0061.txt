@@ -1,0 +1,204 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T15:33:40Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10460307, "source_ctime_ns": 1793355352634125988, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989265-001-0061.jpg", "source_mtime_ns": 1785564439000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989265-001-0061.jpg", "source_sha256": "60d1e2f4835255107747ba9a217f1771c6f9e4900dcf9c981d8cb79bed73ec41"}
+
+===== PAGE 1 =====
+{"alpha_words": 661, "chars": 6144, "method": "ocr", "page": 1, "variant": "plain-vision"}
+APPENDIX 'C'
+Federation
+Aeronautique Internationale's
+(FAI) Official World Balloon Records* (up to 1980)
+CLASS "A"-BALLOONS
+Sub-Class A-1
+Less than 250 Cubic Meters
+7/24/60 Altitude, USA, 1,140 meters, 3,740 feet.
+Donald L. Piccard, Piccard S-10 "Holiday" balloon,
+Minneapolis, Minnesota.
+8/12/72 Distance, USA, 28.33 KMS, 17.60 miles.
+Wilma Piccard, Piccard S-10 "Holiday" balloon,
+Indianola, Iowa.
+Duration No official Record Established.
+Sub-Class A-2
+Between 250 and 400 Cubic Meters
+8/24/62 Altitude, USA, 5,409.28 meters, 17,747
+feet.
+Donald L. Piccard, "Sioux City Sue" balloon, Sioux
+City, Iowa.
+5/3/53 Distance, France, 208.622 KMS, 129.631
+miles.
+Audouin Dollfus, "Zodiac" F. AIFA balloon, Senilis
+to Cheverny, France.
+5/3/53 Duration, France, 4 hours, 00 minutes.
+Audouin Dollfus, "Zodiac" F. AIFA balloon, Senilis
+to Cheverny, France.
+Sub-Class A-3
+Between 400 and 600 Cubic Meters
+5/10/64 Altitude, USA, 11,780 meters, 38,650
+feet.
+Tracy Barnes, Barnes 14-A balloon, Rosemount,
+Minnesota.
+7/1/22 Distance, France, 804.173 KMS, 499.69
+miles.
+Georges Cormier
+3/30/41 Duration, USSR, 46 hours, 10 minutes.
+Serge Sinoveev, URSS-VR 80 balloon, Dolgoproud-
+naia. USSR.
+*FAT's Official World Balloon Records to 1980.
+Sub-Class A-4
+Between 600 and 900 Cubic Meters
+5/10/64 Altitude, USA, 11,780 meters, 38,650
+feet.
+Tracy Barnes, Barnes 14-A balloon, Rosemount,
+Minnesota.
+4/3/39 Distance, USSR, 1,701.81 KMS, 1,056.95
+miles.
+350
+feet.
+int,
+Minnesota.
+4/3/39 Distance, USSR, 1,701.81 KMS, 1,056.95
+miles.
+F. Bourlouski, Moscow to Charaboulski, USSR.
+4/3/39 Duration, USSR, 61 hours, 30 minutes.
+F. Bourlouski, Moscow to Charaboulski, USSR.
+Sub-Class A-6
+Between 1,200 and 1,600 Cubic Meters
+5/10/64, Altitude, USA, 11,780 meters, 38,650 feet.
+Tracy Barnes, Barnes 14-A balloons, Rosemont,
+Minnesota.
+3/13/41 Distance, USSR, 2,766.814 KMS,
+1,719.21 miles.
+Boris Nevernov, URSS-VR 73 balloon, Dolgoproud-
+naia to Novosibirski, USSR.
+3/13/41 Duration, USSR, 69 hours, 20 minutes.
+Boris Nevernov, URSS-VR 73 balloon, Dolgoproud-
+naia to Novosibirski, USSR.
+Sub-Class A-7
+Between 1,600 and 2,000 Cubic Meters
+5/10/64, Altitude, USA, 11,780 meters, 38,650
+feet.
+Tracy Barnes, Barnes 14-A balloon, Rosemount,
+Minnesota.
+3/1
+Bo
+na
+1.719.21 miles.
+3/
+utes.
+na
+5/
+feet.
+Tracy Barnes, Barnes 14-A balloon, Rosemount,
+Minnesota.
+F Rourlousk: Moscow to Charaboulski, USSR.
+10/5-10/76 Distance, USA, 3,983.18 KMS,
+2.475.03 miles.
+4/3/39 Duration, USSR, 61 hours, 30 minutes.
+Edward Yost, Silver Fox GB-47, Milbridge Maine to
+F Rourlouski Moscow to Charaboulski, USSR.
+Lat. 37° 11' N. Long. 20° 52' W.
+*Credit: National Aeronautics Association, Washington, D.C. (the U.S. member to the international association, FAI).
+116
+10/5-10/76 Duration, USA, 107 hours, 37 min-
+utes.
+Edward Yost, Siver Fox GB-47, Milbridge, Maine to
+Lat. 37° 11' N. Long. 20° 52' W.
+Sub-Class A-9
+Between 3,000 and 4,000 Cubic Meters
+5/10/64, Altitude, USA, 11,780 meters, 38,550
+feet.
+Tracy Barnes, Barnes 14-A balloon, Rosemount,
+Minnesota.
+10/5-10/76 Distance, USA, 3,983.18 KMS,
+2,475.03 miles.
+Edward Yost, Silver Fox GB-47, Milbridge Maine to
+Lat. 37° 11' N Long. 20° W. 52'W.
+10/5-10/76 Duration, USA, 107 hours, 37 min-
+utes.
+Edward Yost, Silver Fox GB-47, Milbridge Maine to
+Lat. 37° 11' N. Long. 20° W. 52' W.
+feet.
+5/4/61 Altitude, USA, 34,688 meters, 113,739.9
+feet.
+Cdr. Malcolm D. Ross USNR, "Lee Lewis
+Memorial", Gulf of Mexico.
+10/5-10/76, Distance, USA, 3,983.18 KMS,
+2,475.03 miles.
+Edward Yost, Silver Fox GB-47, Milbridge Maine to
+Lat. 37° 11' N. Long. 20° 52' W.
+10/5-1/76, Duration, USA, 107 hours, 37
+minutes.
+Edward Yost, Silver Fox GB-47, Milbridge Maine to
+Lat. 37° 11' N. Long 20° 52' W
+Sub-Class AA-11, AA-12, AA-13, AA-14, AA-
+15
+8/12-17/78, Distance, USA, 5001.22 KMS,
+3,107.61 miles.
+Ben L. Abruzzo & Maxie L. Anderson, Co-
+Commanders, Larry M. Newman, Radio Operator,
+Double Eagle II, Presque Isle, Maine, USA to Mis-
+erey, France.
+8/12-17/78, Duration, USA, 137 hours, 5 minutes
+50 seconds.
+Ben L. Abruzzo & Maxie L. Anderson, Co
+Commanders, Double Eagle II, Presque Isle, Maine
+USA to Miserey, France.
+HOT AIR BALLOONS
+Sub-Class AX-1
+Less Than 250 Cubic Meters
+11/2/78, Altitude, USA, 3477 meters, 11.407 feet.
+Katherine E. Boland, Boland Balloon, Monarch
+Pass, Colorado.
+7/29/78, Distance, USA, 4.81 KMS, 2.99 miles.
+Katherine E. Boland, Boland Balloon, Farmington,
+Connecticut.
+7/29/78, Duration, USA, 30 minutes, 5 seconds.
+Katherine E. Boland, Boland Balloon, Farmington,
+Connecticut.
+Sub-Class AX-2
+Between 250 and 400 Cubic Meters
+11/2/78, Altitude, USA, 3477 meters, 11,407 feet.
+Katherine E. Boland, Boland Balloon, Monarch
+Pass, Colorado.
+3/13/75, Distance, USA, 18.01 KMS, 11.19 miles.
+Donna Wiederkehr, Modified Raven Hot Air Bal-
+loon, St. Paul, Minnesota.
+3/13/75, Duration, USA, 2 hours, 40 minutes.
+Donna Wiederkehr, Modified Raven Hot Air Bal-
+loon, St. Paul, Minnesota.
+Sub-Class AX-3
+Between 400 and 600 Cubic Meters
+11/1/78, Altitude, USA, 4642 meters, 15,231 feet.
+Brian Boland, Boland Balloon, Fairplay, Colorado.
+8/27/78, Distance, USA, 57.30 KMS, 35.60 miles.
+Brian Boland, Boland Balloon, Bridgeport, Connect-
+icut/Long Island Sound, New York.
+8/27/78, Duration, USA, 3 hours, 46 minutes.
+Brian Boland, Boland Balloon, Bridgeport, Connect-
+icut/Long Island Sound, New York.
+10/12/78, Altitude, Hong Kong, 6,941 meters,
+22,766.48 feet.
+Capt. Geoff Green, Cameron C-031, Northan, W.A.
+Australia.
+3/19/73, Distance, USA, 137.48 KMS, 85.43
+miles.
+Matt H. Wiederkehr, Raven S40 Balloon, St. Paul,
+Minnesota.
+3/19/73, Duration, USA, 5 hrs. 5 mins. 55 secs.
+Matt H. Wiederkehr, Raven S40 Balloon, St. Paul,
+Minnesota.
+Sub-Class AX-5
+Between 900 and 1,200 Cubic Meters
+2/19/79, Altitude, USA, 7546.84 meters, 24,760
+feet.
+Carol Davis, Firefly, Moriarty, New Mexico.
+11/18/78, Distance, UK, 178 KMS, 110.6 miles.
+Simon Faithfull, Balloon Thunder, Munster-Eversen
+FRG.
+3/19/73, Duration, USA, 5 hrs. 5 mins. 55 secs.
+Matt H. Wiederkehr, Raven S40 Balloon, St. Paul,
+Minnesota.
+Sub-Class AX-6
+Between 1,200 and 1,600 Cubic Meters
+8/26/77, Altitude, UK, 9,296.4 meters, 30,492.19
+feet.
+G. Green, Cameron 0-56, Northam, Australia.
+117

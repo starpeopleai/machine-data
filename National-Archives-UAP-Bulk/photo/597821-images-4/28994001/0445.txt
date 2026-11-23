@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T15:27:56Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8251212, "source_ctime_ns": 1793385722546141462, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28994001/0445.jpg", "source_mtime_ns": 1785748457000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28994001/0445.jpg", "source_sha256": "6859f6128b5ae4decda5c2ad92a2cdde0f8143132eaf5068b179d1f2653d2e31"}
+
+===== PAGE 1 =====
+{"alpha_words": 37, "chars": 327, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+c
+PAGE THREE RJWZSBA 8
+
+39,993 190/32 ’
+59,090 224/15
+
+3. UNLIMITED :
+
+4. 15 PLUS.
+
+5. AND 6. NONE
+
+7. INVERSION LAYERS AT 1,200 FT, 1,500 FT, AND 46,009 FT” 3
+He THROUGH J. NONE
+
+Ke RICHARD A KAHANE, 2/LT, INTELLIGENCE OFFICER, POSSIBLE
+
+ARTIFICAL EARTH SATELLITE OR ESV. :
+le NONE
+
+BT
+
+(
+Q@9/2245Z AUG RJWZSBA
+
+a eee eg ere

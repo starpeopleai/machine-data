@@ -1,0 +1,52 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T15:45:57Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10286115, "source_ctime_ns": 1793363954052526197, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330786313/45484701-006-005-0056.jpg", "source_mtime_ns": 1785684961000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330786313/45484701-006-005-0056.jpg", "source_sha256": "551fd3d70d69cd6d5612a87917d7881777251ef4617b2a2352af8e937e52c713"}
+
+===== PAGE 1 =====
+{"alpha_words": 268, "chars": 1959, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AFOJ-C/CC-2 Col Berry/8в/71067
+Wrt
+14 November 1951
+AFOIN-C/CC-2
+SUBJECT: (Unclassified)
+Flying Objects
+Reporting of Information on Unidentified
+TO:
+Commanding Generals, Major Air Commands, ZI and verseas
+All United States Air Attaches
+1. This letter supersedes letter, this ig, AFOIC-CC-l, dated
+8 September 1950 with subject:
+"Reporting of -nformation on Uncon-
+ventional Aircraft".
+2. The United States Air Force has a continuing requirement for
+the reporting and technical analysis of observations of unidentified
+flying objects which might indicate an advance in technological progress
+of a foreign power.
+An unidentified flying object within the meaning of
+this directive, is defined as any airborne object which by performance,
+aerodynamic characteristics, or unusual features, does not conform to any
+presently known airoraft type.
+As concerns unidentified flying objects, the Air Technical
+Intelligence Center, Wright-Patterson Air Force Base, Dayton, Ohio is
+responsible for conducting analysis of all information and material
+received.
+In order to aid investigations and the production of air
+technical intelligence by that center, Air Materiel Command facilities,
+to include AMC depot personnel and/or special teams, Air Research and
+Development Command facilities and personnel, and investigative services
+by OSI personnel will be made available to the Chief, Air Technical
+Intelligence Center as required and feasible,
+Reporting on Unidentified Flying
+bjects
+a. Each report will concern a single incident only and will not
+include information other than that bearing on the reported incident.
+b. Priority and method of transmission accorded the repart will
+be that appropriate in the judgment of the forwarding agency, socording
+to its apparent authenticity and importance as intelligence.
+UNCLASSIFIED
+CLASSIFICATION CANCELLED
+BY AUTHORITY OF TI
+KURT K. KUNZE, Capt, USAF
+BY
+Historian
+Y.4 DEC 1975
+NATION
+Declassification Authority: NND 923007

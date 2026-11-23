@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T15:37:30Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 18656377, "source_ctime_ns": 1793366562250721553, "source_file": "National-Archives-UAP-Bulk/photo/542184/341-PBB-538-0386.jpg", "source_mtime_ns": 1785565553000000000, "source_rel": "National-Archives-UAP-Bulk/photo/542184/341-PBB-538-0386.jpg", "source_sha256": "70338fb243e68ec8039885a3cb3256c9dd5a7e2c2e631ad668edec7a0ddcde48"}
+
+===== PAGE 1 =====
+{"alpha_words": 30, "chars": 155, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Eee tec oea eens
+oh Seem tae Seto pie tad eee Re OL LE TM Mee shaheciebcns
+‘
+re
+a
+
+Sere neo tip
+
+sa tpt TR OTT E
+-eeleert
+“eee
+Pas
+- ee
+a
+t
+.
+Z,
+se
+
+&
+
+*

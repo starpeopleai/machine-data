@@ -1,0 +1,52 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T15:23:43Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 60418896, "source_ctime_ns": 1793357442169440564, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1388-514451-0072.tif", "source_mtime_ns": 1785564898000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1388-514451-0072.tif", "source_sha256": "577ee1c3bd37c62dca63643fe955928dc3642a6aaedc0ada7e72e1292fb9aeb3"}
+
+===== PAGE 1 =====
+{"alpha_words": 217, "chars": 1354, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Neues Leben
+Es ist ein andrer, ein neuer Mensch,
+der mit blitzenden Augen die Kelle schwingt,
+dort, auf des Neubaus Gerist.
+Der mit zähem Willen die Technik zwingt
+und ein Neu'rer der Zukunft ist.
+Es ist ein andrer, ein neuer Mensch,
+der beschwingt und bewußt zur Arbeit geht.
+Ob er sät und erntet das tägliche Brot,
+oder glänzend voll Schweiß in den Schächten steht, -
+seine Leistung bannt Hunger und Not.
+Es ist ein andrer, ein neuer Geist,
+der aus den Worten des Dichters spricht
+und die Jugend zu wahren Menschen erzieht.
+Er erfüllt unser Leben mit Zuversicht
+und will, daß die Welt wächst und blüht.
+Es ist eine andere, neue Zeit,
+die die hemmenden Fesseln nun sprengt.
+Die das Leben der Menschen freudvoll erhellt.
+weil es machtvoll und stürmisch zum Durchbruch drängt
+für die friedliche Zukunft der Welt.
+Irene Scherf, VP
+Das IV. Parlament in Leipzig
+war
+ein
+voller Erfolg!
+Unsere Akkordeongruppe errang
+im Kreisausscheid den 3. Preis
+Frohe Ferientage für unsere Kinder
+chinen. Die Untersuchung wagen
+Clara Zetkin,
+die große Vorkämpferin
+unserer Frauenbewegung
+Zu ihrem Tod
+stag am 20. Juni
+Im 20, Juni 1933 verstarb Clara Zetkir
+3. PREISTRAGER
+1952 in Leipzi
+Tag be
+anchten Friedens eur
+Clara Wehnert, Afl
+chlunheit sind Erlebnis von
+Sie Kumpel ließer
+Berger on
+Undertung voti
+Herbert Tscherney. Feuerwehr
+D
+Declassification Authority: NND 57565

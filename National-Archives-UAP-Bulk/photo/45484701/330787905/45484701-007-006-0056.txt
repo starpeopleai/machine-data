@@ -1,0 +1,52 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T15:31:16Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9376026, "source_ctime_ns": 1793364886106211598, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787905/45484701-007-006-0056.jpg", "source_mtime_ns": 1785684680000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787905/45484701-007-006-0056.jpg", "source_sha256": "d064dba2abf3d554b814b087d61fbbd8b034d3d6cd0a3f1fd94c1980ff500e46"}
+
+===== PAGE 1 =====
+{"alpha_words": 197, "chars": 1448, "method": "ocr", "page": 1, "variant": "plain-vision"}
+2lst District OSI (IG)
+Subj: LARRY W. BRIANT, Civilian
+File Nr: 24-146
+26 Sept 1958
+Director of Administration; Captain Mary M. Mackey, 44744N, Information
+Services officer, relative to the potential insertion or request therefor
+in The Flyer, a weekly Bese publication.
+4. Colonel Weldon H. Smith, 34074, Deputy Director of Intelligence,
+Tactical Air Command and Colonel Nelson C. Voshel, AO 262859, Deputy for
+Administration, Tactical Air Command, were apprised of the situation
+for the following reasons:
+Colonel Smith as Deputy Director of Intelligence has the
+overall primary concernment relative to data involving Unidentified Fly-
+ing Objects and Colonel Voshel has the responsibility for the publication
+of Ho TAC Daily Bulletin.
+Major Hartness was requested to diplomatically ascertain the
+authority for the statement implying "cooperetion with the U.S. Air Porcer
+as contained in paragraph 17, Hq CONARC Daily Bulletin Number 185, dated
+22 September 1958 from Subject.
+When this information is obtained you
+will be promony notified or the results thereor.
+1 Inel:
+Cpy of CONARC Daily Bulletin
+SC:
+CO :
+Gomdr, TAC (in dup) w/
+copies of incl
+(l copy to be forwarded to
+Col Smith, Dep Dir of Intel)
+02110/7
+OUT
+L6 OCT1958
+CI DIV
+OST
+C-MURRELLE,
+sure, for,
+For and in the absence of
+RICHARD G. COX
+Lt Colonel, USAF
+District Commander
+24-185-21-30
+24 NOV 1958
+24185-461
+2
+24=185ą
+EP 30 08 0356
+OFFICE OF
+Declassification Authority: NND 923007

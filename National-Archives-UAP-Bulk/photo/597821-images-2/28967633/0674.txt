@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T15:42:20Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8744268, "source_ctime_ns": 1793378333122468408, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28967633/0674.jpg", "source_mtime_ns": 1785696645000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28967633/0674.jpg", "source_sha256": "0b5d6dde28bca7d10bc4aa8e290b18cac99c497bbe83060b288e8de4d35b0e8f"}
+
+===== PAGE 1 =====
+{"alpha_words": 28, "chars": 251, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+WEATHER IN FORMAT ICN
+bINDS ¢
+Surface /ESE/),
+6,090/119/20
+Li OOOALG/L
+16,500/1. 20/16
+29,000/'110/6
+20,900,289 /ar
+EOD /29O Ae
+
+CEILINGS 3,000 feet
+
+THUNDERSTORMS Nora
+
+LEMPEYEY IRE INVERS [ON ;
+;
+a
+
+\ 2 ee, a oe 3.9
+AY tg! Peet and 3.200 feet,
+
+ee

@@ -1,0 +1,42 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T15:48:17Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 18492658, "source_ctime_ns": 1793360928806090480, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-003-0242.tif", "source_mtime_ns": 1785565156000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-003-0242.tif", "source_sha256": "2f69fdbc2f9673a7005323ceaf16237cac198339fc2d07d4ccb68f1db71d4008"}
+
+===== PAGE 1 =====
+{"alpha_words": 149, "chars": 1109, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Unclassified
+CLASSIFICATION
+- (SECURITY INFORMATION when flled in)
+SUPPLEMENT TO AF FORM 112
+REPORT NO.
+IR-01-57
+ORIGINATING AGENCY
+Ha 26th Air Division (Def)
+(8) None
+(9) None
+(10) Unknown
+PAGE
+3
+(11) Intelligence Officer. The sighting may have
+been a helicopter.
+(12) Negative
+PAGES
+THEODORE MARACHE
+- Captain
+USAFR
+Intelligence Officer
+COMMENTS of Approving Officer:
+Concur with the opinion of the Preparing Officer; item (11) above.
+Fitt.W
+WARNING: This document contains information affecting the national defense of the United States within the meaning of the
+Espionage Laws, Title 18, U.S. C., Sections 793 and 794. Its transmission or the revelation of its contents in any manner to an
+unauthorized person is prohibited by law. It may not be reproduced in whole or in part, by other than United States Air Force
+Agencies, except by permission of the Director of Intelligence, USAF.
+AF, 601 52 112a
+REPLACES AF FORM 112-PART II, 1 JUN 48,
+WHICH MAY BE USED.
+CLASSIFICATION
+Unclassified
+(SECURITY INFORMATION when filled in)
+U.S. GOVERNMENT PRINTING OFFICE
+16-68470-1
+DECLASSIFIED
+Authority NND 9237007

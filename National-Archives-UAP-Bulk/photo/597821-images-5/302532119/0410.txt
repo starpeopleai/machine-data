@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T16:14:31Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 990064, "source_ctime_ns": 1793388765196249681, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302532119/0410.jp2", "source_mtime_ns": 1785808237000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302532119/0410.jp2", "source_sha256": "e5c04e30969c07022efea3ddec3b4f343c8f95e4ccc12a9a2bd974c9d43ed897"}
+
+===== PAGE 1 =====
+{"alpha_words": 77, "chars": 577, "method": "ocr", "page": 1, "variant": "plain-vision"}
+2O11L0
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+INCOMING MESSAGE
+AF IN: 4438 (23Apr64))
+Page 2 of 2
+4. SIGHTED VISUALLY AND OBSERVED THROUGH TELESCOPE.
+5. FIRST SIGHTED APPROX 230715Z AND VISIBLE INTERMITTENTLY UNTIL
+230810Z.
+6. WEATHER ON SCENE WIND SW 10 KTS, CLOUDY 5/10 COVERAGE, VISIBILITY
+10-12 MILES, CIRRUS CEILING UNAVAILABLE.
+7. ADDITIONAL REPORT WILL FOLLOW IF RESIGHTED.
+BT
+NOTE: Advance copy to NIN and DIA
+Message received garbled service will be initiated upon request
+PEAS:
+ISSIFIED
+FORM
+AFHQ APRIL •, 0-309a
+PREVIOUS EDITIONS OF THIS FORM
+MAY BE USED.

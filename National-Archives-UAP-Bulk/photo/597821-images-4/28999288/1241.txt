@@ -1,0 +1,103 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T15:30:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9039908, "source_ctime_ns": 1793387854711183536, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28999288/1241.jpg", "source_mtime_ns": 1785747889000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28999288/1241.jpg", "source_sha256": "9634f423e8eb25ffc53ddced07c00463feaa8c4a405a8106109391766ff06f0f"}
+
+===== PAGE 1 =====
+{"alpha_words": 180, "chars": 1430, "method": "ocr", "page": 1, "variant": "plain-vision"}
+042
+9:7
+TRANS WORLD AIRLINES
+NORTH ATLANTIC C/L CHARTS
+C) 1960 JEPPESEN & CO.
+8025 E. 40th AVE DENVER,COLO. USA
+All rights reserved
+TWA
+NA CA-T
+INA C/L -2
+REVISION DATA
+CHART NA C/L-1 FEB 13-62 Loran rates I-L-0 and I-L-4 added. Cork
+Ireland, VOR added. Facility frequencies and identifiers revised as applicable.
+CHART. NA C/L-2
+FEB 13-62 Loran rates 1-1-U and 1-1
+- 4 added. Cork,
+Ireland, VOR added.
+Facility frequencies and identifiers revised
+as applicable.
+CANADIAN RADAR ASSISTANCE
+norme! Air Defense commitments preclude Adv
+3. Radar Advisery will provide her expienetion
+isoly will provide
+• radar wil
+) position. of ground speed check
+ircraft by GEOREF un!
+ectors to designated points
+following to aircraft in distre
+sri
+VOLMET BROADCASTS - 3001, 5559, 8828.5, 13264.5 K
+00-05
+NEW YORK
+OVERSEAS RADIO
+NEW YORK
+INTERNATIONAL
+BOSTON
+WASHINGTON
+05-10
+GANDER
+10-15
+GANDER
+15-20
+SHANNON AERADIO
+SHANNON AERADIC
+GANDER
+GOOSE
+STEPHENVILLE
+MONCION
+SYDNEY
+MONTREAL
+SHANNON
+PRESTWICK
+LONDON/LONDON
+25-30
+PARIS RADIO
+FRENCH LANGUAGE
+PARIS/ORLY
+LYON
+TOURS
+35-40
+GANDER
+40-45
+GANDER
+45-50
+SHANNON AERADIO
+AMSTERDAM/
+SCHIPHOL
+BRUXELLES
+VATIONA
+DUBIN
+50-55
+SHANNON AERADIO
+55-60
+PARIS RADIO
+NEW YORK
+OVERSEAS RADIO
+NEW YORK
+INTERNATIONAL
+BOSTON
+WASHINGTON
+GANDER
+GOOSE
+STEPHENVILLE
+MONCION
+SYDNEY
+MONTREAL
+SHANNON
+PRESTWICK
+LONDON/LONDON
+AMSTERDAM/
+SCHIPHOL
+BRUXELIES/
+NATIONAL
+PARIS/ORLY
+FRANKFURT MAIN
+GENEVE
+DOMESTIC
+CADI
+NANTUCKET

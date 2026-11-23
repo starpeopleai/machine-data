@@ -1,0 +1,49 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T15:21:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 18314900, "source_ctime_ns": 1793356413237912685, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0014.tif", "source_mtime_ns": 1785564700000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0014.tif", "source_sha256": "175ab69f53241ec95da8bdb65aade3cebd8af5a045ca7d93afcc0e03b0ab1606"}
+
+===== PAGE 1 =====
+{"alpha_words": 363, "chars": 2524, "method": "ocr", "page": 1, "variant": "plain-vision"}
+entirely satisfactory, due to the fact that the number of personnel avail-
+able was not sufficient to cover each report adequately and have time for
+recording and analyzing material collected. Furthermore, it was leamed
+that project personnel could not be well enough versed in all the techno
+logical and scientific fields involved in this study to efficiently execute
+all phases of this work. Therefore, in September 1948 the method of opera-
+tion of the project was revised. Enough experience had been gained to
+make it evident that a large proportion of disc reports arose from sight-
+ings of unfamiliar objects and failure to recognize know objects for
+what they were. The course then became apparent. It has since been the
+endeavor to have adequate investigations of all'reports, systematic tabu-
+lation of all information, and analysis of information by competent tech-
+nical personnel in all branches of science and engineering into which the
+reported object may conceivably fall. In this way misrepresented and
+generally unfamiliar objects, hoax makers, and psychopathological reporters
+may be identified, and these reports eliminated from the study. With these
+out of the way, the succeeding steps would develop.
+In implementing the above plan, the following general procedure
+was established and followed:
+A. Receipt of Initial Reports
+1. Personal letter and personal contact.
+2. Newspaper clippings and radio news broadcasts.
+3 •
+Reports from military and naval installations, (as a
+result of official directives; these make up the largest bulk of reports).
+B•
+Investigation of Reports
+A few reports are investigated by Headquarters, Air-
+lateriel Command personnel, ATI field teams or project personnel.
+2. When a sighting involves only military personnel, es-
+pecially in out-of-the-way locations, local base intelligence officers
+are requested to investigate.
+3. The largest number of reports are investigated by the
+appropriate CSI Listrict, by request through 5th District CSI.
+All investigators are instructed to use ALC form
+titled, Cuide to Investigation Unidentified Flying Objects" to assure
+collection of all available, pertinent information.
+The Cuide to In-
+vestigation is frequently revised to incorporate recommendations of
+technical consultants to the project.
+C. Recording of Information After Receipt of Report of In-
+vestigation
+1. Upon completion of investigation, the reported sight-
+ing is then treated as an incident and assigned a consecutive number.
+Declassification Authority: NND 57565

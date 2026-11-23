@@ -1,0 +1,158 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T15:24:28Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6902058, "source_ctime_ns": 1793359422469416399, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-007-080-0002.tif", "source_mtime_ns": 1785681410000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-007-080-0002.tif", "source_sha256": "47942ac34487e411398c3173a3a25bdbb94bf433e8bc4a881d29bf49058c9517"}
+
+===== PAGE 1 =====
+{"alpha_words": 106, "chars": 1124, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+UFOB REporTS
+8/8/77
+- 8/31/77
+PON URITZMAN, MAS USAFRE
+DAVE MILES , LT.C USAFR
+8/31/77
+Dem
+No
+Sept.
+Oct.
+Novi
+Apr
+Tune
+Tune
+July
+Augi
+Octi
+Oct.
+Octi
+Nov.
+AUg
+Septi
+Octi
+Jan:
+Feb
+Арг
+may
+Aug:
+Deci
+Tune
+Tune
+Tune
+Tune
+July
+July
+JUlY
+July
+JUlY
+July
+REPOSET
+DATE
+2o,
+20,
+30,
+15,
+21,
+10,
+10,
+12.
+19,
+3,
+28,
+Ne,
+134,
+221
+222,
+28,
+19,
+21,
+21,
+22,
+23,
+29,
+REPORT NO
+1955
+1955
+1955
+1955
+1955
+1955
+1955
+1955
+1955
+1955
+1955
+1955
+1955
+1955
+1955
+1955
+1955
+1955
+1935
+1955
+1955
+1955
+1955
+1955
+1955
+1955
+1955
+1955
+1955
+1955
+1955
+310-55
+367-55
+405-55šŚŘŚ
+117-55ł
+175-55ŚŘ
+183-55
+932-55
+26255
+356-55
+368-55
+363-55
+384-55ŚŘŚ
+297-55
+313-55
+369-55ŚŘł
+NA
+95-55
+116-55ł
+285-55
+414-55
+173-55
+8855
+87-55šŚ
+197-55
+233-55
+234-55
+229-55
+244-55
+245-55
+249-55
+LOCATION
+Tenn. H/coa
+20 miles NW of Knovville
+Lake City tOak Ridge
+Tex., Travis
+Bryan AFB
+Dallas
+Big Foot
+Levelland
+Marshall
+50 mi. N of Del Rio
+Nw of San Angelo
+Corpus Christi
+Un, i del overtion.
+Va., Ball tatsburg
+Dah/gren Naval Rise
+Winchester
+Arlington
+Arlington
+Wash, Paine Island
+Poulsbo
+Seattle
+Seattle
+seattle
+Richland
+Aber deen
+seattle
+Washington

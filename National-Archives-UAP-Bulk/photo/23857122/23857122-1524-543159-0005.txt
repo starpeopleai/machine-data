@@ -1,0 +1,72 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T15:59:43Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 31880256, "source_ctime_ns": 1793357665810971027, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1524-543159-0005.tif", "source_mtime_ns": 1785564950000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1524-543159-0005.tif", "source_sha256": "13d8083622d6b61f5f6d883a917a261a5088d25acf471646395ab56f66656428"}
+
+===== PAGE 1 =====
+{"alpha_words": 346, "chars": 2316, "method": "ocr", "page": 1, "variant": "plain-vision"}
+SECR
+(USE REVERSE SIDE OF SHEET IF MORE SPACE IS REQUIRED)
+5. Has anomalous propagation been observed to extend the range of ground clutter
+by this radar at this site, and did this condition exist during or near the
+time that unknown target was observed?
+Average amount of clutter.
+No other Unknown aircraft were in the area
+6. what effects of rain storms and lightning have been observed on this radar?
+Usual scope weather, Nothern light were clearly visiable during
+this period.
+7. Were any checks made to determine if unknown target could have been one of our
+own aircraft? Yes.
+8. Was any interception attempted? If so, give details.
+No •
+9. Was a visual and/or Auditory observation made simultaneously with scope
+observation?
+No.
+If so, give detailed description.
+III. SPECIFIC TARGET QUESTIONS
+1. Did any technical personnel observe the unknown target on the Radar Scope?
+Have they been questioned thoroughly? What was their opinion?
+Yes, interference, but of unknown origin, possible shipborne radar.
+2. Was a permanent record "track" made of the target positions as they appeared
+on the indicators? If so, attach to this report. (Plot on back of page 1.)
+Yes. see attached report. on back page 1.
+3. At attitude, a road, dould bi train he target aered track long enough
+to obtain altitude.
+4. How did the target appear in size and shapers companed a th cont tigel.
+aircraft targets? Same, very defined,
+SECRET
+315°
+›45°
+T-61-7 0139
+0139130 ₴
+T-10-T 0138-
+0138\45 ₴ą
+T-13-7 0145-0146
+225°
+Indicate
+Ranges
+In Miles
+135°
+5. Was the target of consistent size, or did it change rapidly?
+Consistent.
+6. Won the speed of the target constant or variable? Explain.
+7. Did rat barge a shar mf very or elnadand sharp as compared with a knowm
+Sharp, very defined.
+8. what other (aircraft) targets were observed in the same general area, altitude,
+and time as that of the unknown target?
+Track No. X-12-T
+Ident. VC 1489
+Alt. 8,000ft. Time. 01122, Position.-
+co 3657.
+Track No. A-66-I Ident. ICA # 2 Alt. 17,000 ft. Time 0114Z Position. CO 0981
+ADC Form 123
+Page 2 of 3
+20 October 1952
+SECRET
+SECURITY INFORMATION
+INSTRUCTIONS:
+PLOT TRACK OF TARGET, INDICATE RANGE AND
+AZIMUTH. GIVE TIME AT START AND END OF TRACK.
+ADC Form 123
+20 October 1952
+Page 3 of 3
+SECRET
+SECURITY INFORMATION
+Declassification Authority: NND 57565

@@ -1,0 +1,55 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T15:41:26Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8382077, "source_ctime_ns": 1793385939513917643, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28994450/0854.jpg", "source_mtime_ns": 1785748572000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28994450/0854.jpg", "source_sha256": "8f9daac1151f0b55093ae43152e484b55ab61800f0479ed686bc4ce02659e308"}
+
+===== PAGE 1 =====
+{"alpha_words": 111, "chars": 888, "method": "ocr", "page": 1, "variant": "plain-vision"}
+I. DATE
+7 Sep 61
+3. DATE-TIME GROUP
+Local
+0303
+GMTO 1003Z
+5.
+PHOTOS
+• Yes
+*KNo
+7. LENGTH OF OBSERVATION
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Dayton, Ohio
+4. TYPE OF OBSERVATION
+XX Ground-Visual
+• Air Visual
+6. SOURCE
+• Ground-Rader
+• Air-Intercept Radar
+Civilian
+8. NUMBER OF OBJECTS
+9. COURSE
+12. CONCLUSIONS
+Was Balloon
+•
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+• robably Aireral
+Possiby Aircrat
+•
+Was Astronomical METEOR
+EX Probably Astronomica
+•
+Possibly Astronomical
+•
+Other.
+Insufficient Data for Evaluation
+Unknown
+1 1/2 sec
+1
+WNW
+o. BRIEF SUMMARY oF SIGHTING 1 red-blue-green objt,
+Il. COMMENTs Description of objt is limited
+no sound described as a 4th of July rocket on however short duration coupled with rocket
+larger.
+appearance is characteristic of a meteor
+observation. It is therefore concluded
+that sighting was a meteor observation.
+ATIC PORM 329 (REV 26 SEPAS2

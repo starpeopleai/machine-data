@@ -1,0 +1,46 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T16:11:59Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 26385000, "source_ctime_ns": 1793357163773207035, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1278-492335-0003.tif", "source_mtime_ns": 1785564844000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1278-492335-0003.tif", "source_sha256": "bb8c5a50139c69df479578dd933c1e0b00e7a5a5c3cc85c3d8803d14d187e83a"}
+
+===== PAGE 1 =====
+{"alpha_words": 145, "chars": 1193, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AF FORM 112-PART II
+APPROVED 1 JUNE 1948
+FROM (Agency)
+Director of Intelligence
+Hgs, Tenth Air Force
+AIR INTELLIGENCE INFORMATION REPORT
+REPORI NO
+AFXOI FLYOBRPT 7-52
+PAGE
+2
+OF
+PAGES
+b. Winds
+(1) Surface - Calm
+(2)
+5,000'
+- 290°/16 knots
+(3)
+10,000' - 3000/18 knots
+(4)
+15,000' - 300°/28 knots
+(5) 20,000' - 3100/30 knots
+(6)
+25,000! - 3300/47 knots
+(7) 30,0001 - 3300/54 knots
+(8) 35,000' - 330/06 knots
+(9) 40,000' - 3200/52 knots
+(10) 50,000' - 3100/36 knots
+5. The undersigned officer interprets the sighting as a reflection of man-
+made light which was suddenly turned off, appeared again and was turned off again.
+George H. Janezenshi
+GEORGE H. JANCZEWSKI
+2nd It.
+USAF
+Director of Intelligence
+THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S. C.-
+3: AND 32, AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW.
+IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF
+INTELLIGENCE, USAF.
+Dea 7o7
+(CLASSIFICATION)
+Declassification Authority: NND 57565

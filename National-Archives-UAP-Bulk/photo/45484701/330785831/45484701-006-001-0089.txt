@@ -1,0 +1,44 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T15:42:58Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8871548, "source_ctime_ns": 1793363702167593687, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785831/45484701-006-001-0089.jpg", "source_mtime_ns": 1785684859000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785831/45484701-006-001-0089.jpg", "source_sha256": "a6ddc3bd25f9533d9e96e5fd52cd7c67480b170d0dc7cf0851db00f283ee279d"}
+
+===== PAGE 1 =====
+{"alpha_words": 147, "chars": 882, "method": "ocr", "page": 1, "variant": "plain-vision"}
+CIGAR SHAPED 'SAUCER! SEEN IN SKY HERE
+Cigar Shaped
+'Saucer' Seen
+In Sky Here
+A new kind of flying saucer was
+reported Monday morning by Bill
+Atkisson, 15, Carol Van Wormer, 15
+and Headen Claycomb, 15, from the
+200 block North Battin.
+Bill Atkisson reported that the
+flying saucer, or whatever it was
+they saw, was cigar shaped, But we
+almost like a
+dirigible.
+don't believe it was a dirigible he
+He said that they were just walk-
+ing along when the noticed the ob-
+ject through a break in the clouds,
+which were rather low at the time
+"It
+just seemed to
+be floating
+along" he said, "but it was travel-
+ling real fast.
+We do not think it
+was
+an optical illusion.
+It was
+kinda silver colored.
+There was no
+smoke.
+We saw it for about 10
+seconds about 10:30 a.m.
+We all
+saw it."
+Wichita Eagle
+Wichita, Kansas
+Monday, 14 July 1952
+Evaluation: C-3
+Declassification Authority: NND 923007

@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T15:47:07Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 15261220, "source_ctime_ns": 1793357827786415869, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1684-572947-0009.tif", "source_mtime_ns": 1785564979000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1684-572947-0009.tif", "source_sha256": "7b150fdbb999f2b592a13b09957fc25b3a16a6c21cb02301750b38a5fcd9380e"}
+
+===== PAGE 1 =====
+{"alpha_words": 98, "chars": 681, "method": "ocr", "page": 1, "variant": "plain-vision"}
+HEADQUARTERS
+912TH AIRCRAFT CONTROL AND WARNING SQUADRON
+Ramore, Ontario, Canada
+18 August 1953
+STATEMENT
+At about 2230 hours, 16 Aug 1953, my attention was called to a
+very bright glow in the sky. Thisobject seemed to be of cone shape as
+if it were a piece of pie.
+The object seemed to disappear then return
+for about a minute, then disappeared entirely. Azimuth, about 270,
+range, 4 to 7 miles, speed, unknown, shape, pie shape, color, red and
+orange, weather, clear.
+EARL S. REYNOLDS
+T Sgt, AF 27 050 956
+912th AC&W Squadron
+Subscribed and sworn to before me this 18th day of August 1953.
+Harold ang
+AROLD E
+CWO, USAF
+Adjutant
+AF572947 / 6
+Declassification Authority: NND 57565

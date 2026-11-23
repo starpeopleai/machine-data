@@ -1,0 +1,40 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T15:41:48Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8673102, "source_ctime_ns": 1793365332156633091, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330788691/45484701-008-005-0081.jpg", "source_mtime_ns": 1785684611000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330788691/45484701-008-005-0081.jpg", "source_sha256": "c795edc49cc6d416a20ba57eec86ace3a38c8ba261f6dd4b94794de2a2a076cb"}
+
+===== PAGE 1 =====
+{"alpha_words": 72, "chars": 583, "method": "ocr", "page": 1, "variant": "plain-vision"}
+SECI
+By Authority of
+Cobeander, MATS
+24 lu
+(Date)
+(Initial
+4-2-NFBC
+Ist Ind
+1G
+HQ, MILITARY AIR TRANSPORT SERVICE,
+Andrews APB, Washington 25, DC
+IUG 1950
+TO :
+Headquarters USAF, The Inspector General, ATTN: Dr of Special
+Investigations, Washington 25, DC
+Forwarded for information
+CLASSIFICATION CANCELLED
+FOR THE COMMANDER:
+BY AUTHORITY OF T
+KURT K. KUNZE, Capt, USAF
+BY Historian
+8 DEC 1975
+1 Incl
+n/c (3 cys w/d)
+DATE
+ARTHUR ANDREWS
+Colonel, USAF
+Deputy Inspector General
+24 - 185
+UNCLASSIFIED
+SPECIAL INVES
+SEP 1 8 108%
+73
+g/00 AM 250
+pim
+Declassification Authority: NND 923007

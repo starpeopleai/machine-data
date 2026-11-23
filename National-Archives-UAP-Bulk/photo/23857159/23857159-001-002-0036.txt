@@ -1,0 +1,55 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T16:08:43Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 20256080, "source_ctime_ns": 1793360613250436872, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-002-0036.tif", "source_mtime_ns": 1785565085000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-002-0036.tif", "source_sha256": "a0420617b8b566f38c7fb0b1a8ed239ee24482220fb0157d589834ada425c4d7"}
+
+===== PAGE 1 =====
+{"alpha_words": 255, "chars": 1868, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AF FORM 112-PART I|
+APPROVED 1 JUNE 1348
+FROM ( 1yecy)
+81ST FIGHTER BONDER WING
+UNCLASSIFIED
+(CLASSIFICATION)
+AIR INTELLIGENCE INFORMATION REPORT
+REPORT NO.
+IR-1-56
+4
+PAGE
+OF
+4
+PAGES
+search were negative.
+Both officers reported that they observed a bright star on
+the horizon to the east of Bentwaters which might have been ristaken for an
+Unidentified Flying Object by the visual observer. w
+I also stated that a
+flashing beacon was flashing through a low haze along the east coast of Ergland
+from the vicinity of the village of Orford.
+Weather Report from the Bentwaters weather detachment for the period 21002
+to 22002, 13 August 1956 for the Bentwaters area follows:
+winds:
+Surface - Direction 2309 velocity 5 to 10 knots.
+6000 ft - Direction 2600, velocity 30 knots.
+10,000 ft - Direction 260°, velocity 40 knots.
+16,000 ft - Direction 260°, velocity 55 knots.
+20,000 ft - Direction 2600, velocity 70 knots.
+30,000 ft - Direction 260°, velocity 90 knots.
+50,000 ft - Direction 260°, velocity 40 knots.
+ceiling:
+25,000 It
+Visibility:
+9 miles
+No thunderstorms vere located in the area of the sightings.
+Several aircraft were in the Bentwaters area at the time of these sightings
+but these could not have been mistaken for the Unidentified Flying Objects.
+No physical evidence of the sightings is available.
+EDWARD L HOL
+Captain USA?
+Air Targets Officer
+NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S. C.
+31 AND 32, AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW
+IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF
+INTELLIGENCE, @SAF.
+UNCLASSIFIED
+(CLASSIFICATION)
+16 - 55570-1
+DECLASSIFIED
+Authority NND 9237007

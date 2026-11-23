@@ -1,0 +1,92 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T15:56:29Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 17727259, "source_ctime_ns": 1793355244801461155, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989264-001-0079.jpg", "source_mtime_ns": 1785564419000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989264-001-0079.jpg", "source_sha256": "8ec2e9cc16f7f93acf0bfbbdbec75fd72617ebd0b57d0bbb3d124c1ef84af7a6"}
+
+===== PAGE 1 =====
+{"alpha_words": 422, "chars": 3716, "method": "ocr", "page": 1, "variant": "plain-vision"}
+00056
+00057
+00058
+00059
+00060
+00061
+00062
+00063
+00064
+00065
+00066
+0006šŚłš
+00068
+150
+"Review of Space Mechanics, by W. C. Nelson and E. E. Loft, " Journal
+of Astronautical Sciences, Winter 1963.
+"A Bibliography of General Perturbation Solutions of Earth Satellite Motion, "
+by Taylor Gabbard Jr. and Eugene Levin. Astronautics and Aerospace
+Engineering, November 1963.
+"Review of Introduction to Celestial Mechanics, by S. W. MCuskey, "
+Journal of Astronautical Sciences, Winter 1963.
+"Review of Space Flight Vo. II Dynamics, by Kraft Enricke, " Journal of
+Astronautical Sciences, Winter 1963.
+"Influence of Martian Ephemeris and Constants on Interplanetary Trajectories, "
+Chapter in Exploration of Mars, American Astronautical Society, 1963.
+"Orbit Determination by Linearized Drag Analysis, " (with Kurt Forster).
+AIAA Preprint No. 63-428, presented to AIAA Astrodynamics Conference
+August 19-21, 1963, Yale University, New Haven, Connecticut.
+"Extension of f and g Series to Non-Two-Body Forces, " AIAA Preprint No.
+64-33. Presented at the Aerospace Sciences Meeting, New York, New York,
+January 20-22, 1964, also AIAA Journal, July, 1964.
+"Review of Orbital Dynamics of Space Vehicles, "by Ralph Deutsch,
+Prentice-Hall, Inc., Journal of Astronautical Sciences, Spring 1964.
+"An Introduction to Astrodynamics, " (with Maud Makemson) Academic Press,
+New York, October 1960, third printing, 1963), Fourth Printing in preparation.
+"1964 State of the Art in Astrodynamics, " AIAA Annual Meeting, Wash., D. C.
+June 19 - July 2, 1964, AIAA Preprint No. 64-535. (Also lecture given at
+Univ. of Wash., Seattle, May 29, 1964, and at Boeing Scientific Research
+Laboratory, June 1, 1964).
+"Space Mechanics, " Chapter in Space/Aeronautics. Research and Development
+Tech. Handbook, 1964/1965, pp. 11-13, published by Conover-Mast, 1964.
+(New York).
+"Radiation on a Satellite in the Presence of Partly Diffuse and Partly Specular
+Reflecting Body, " presented at the Joint Symposium on the TRAJECTORIES OF
+ARTIFICIAL CELESTIAL BODIES AS DETERMINED FROM OBSERVATIONS;
+Paris, France, April 20-23, 1965.
+"Possible Residual Effects of Metoer and Comet Explosions on Desert Pave-
+ments, " with Donald L. Lamar; presented at the 28th Meteoritical Society
+Meeting, Odessa, Texas, October 1965.
+00069
+00070
+00071/
+00072/
+00073
+00074
+00075
+00076
+00077
+00078
+00079/
+00080
+151
+Proc. of COSPAR/IUTAM/IAU Symp., Springer/Verlag,
+1966 (Same as 00067)
+An Introduction to Astrodynamics - 2nd Edition, Academic Press,
+New York, 1967. (With M. W. Makemson)
+Astrodynamics - Applications and Advanced Topics, Academic Press,
+New York, 1967.
+"Recent Advances in Astrodynamics, 1961, " (with Mary P. Francis),
+UCLA Astrodynamical Report #13, January 1962. (Similar to 00046)
+'Review of Theory of Orbits by V. Szebehely," Journal of The
+Franklin Institute, Vol. 284, No. 6, December 1967.
+"Observational Evidence of Anomalistic Phenomena, ' 1968,
+Journal of the Astronautical Sciences, Volume XV, No. 1, pr. 31-36.
+"Future Experiments on Anomalistic Observational Phenomena, "
+1968, letter to editor, Journal of the Astronautical Sciences,
+Volume XV, No. 1, pp. 44-45.
+"Astrodynamics, ' 1968, in Encyclopaedic Dictionary of Physics,
+Pergamon Press.
+"Performance Analysis of Space-Population Cataloging Systems (U), "
+1968, Secret, SAR, NOFORN Report completed under Air Force
+Contract F04701-68-C-0219. (With K. C. Ford), April 22, 1968.
+"Hydrofoil Sailcraft Water Conveyance Optimum Lift-off Speed, "
+1968, Science, in press.
+"Preliminary Orbit Determination for High-Data-Rate Sensors, "
+1968, Journal of the Astronautical Sciences, Volume XV, No. 5.
+"Surveillance System Sensor Mis-Association of One Object with
+Another, " 1968, to be published.

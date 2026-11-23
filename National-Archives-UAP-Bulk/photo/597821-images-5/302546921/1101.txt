@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T16:15:31Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1032001, "source_ctime_ns": 1793390138271684388, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302546921/1101.jp2", "source_mtime_ns": 1785808029000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302546921/1101.jp2", "source_sha256": "01b72c52fa008dbaa5b59c7ec8c1a4852980eea2207ca61ec7bd0357113293eb"}
+
+===== PAGE 1 =====
+{"alpha_words": 72, "chars": 695, "method": "ocr", "page": 1, "variant": "plain-vision"}
+C. Manner of Observation
+1. Ground - visual
+2. Optical Aids - None
+D. Time and Date of Sighting
+1. Thursday, 20 Jan 66, 22307
+2. Light Conditions: Dark
+E. Location of Observer: On Route 9W, 2 miles north of Marlboro, New York.
+F. Identifying Information on Observer:
+1. Name -
+2. Age - 26
+3. Mailing Address:
+•New York.
+4. Occupation - Research Technician for International Nickel.
+5. Estimate of Reliability - Fair
+G. Weather and Winds:
+1. Observer's account of weather conditions: high clouds.
+2. Report from U.S. Weather Bureau Office or AWS
+a. Wind direction and velocity at:
+Surface
+6000'
+10,000'
+16,000'
+20, 000ł
+30,000'
+50,000*
+80,000'
+060/06
+020/15
+340/10
+110/05
+260/05
+200/0źł
+280/55
+2

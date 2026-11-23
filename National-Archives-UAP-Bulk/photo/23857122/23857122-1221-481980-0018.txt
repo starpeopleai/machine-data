@@ -1,0 +1,49 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T16:10:31Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 23380332, "source_ctime_ns": 1793357071248030942, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1221-481980-0018.tif", "source_mtime_ns": 1785564823000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1221-481980-0018.tif", "source_sha256": "fc17fce94ca5f2fe83785b11cc84d242ce8734b80f152aac2e936735b709eb76"}
+
+===== PAGE 1 =====
+{"alpha_words": 320, "chars": 1923, "method": "ocr", "page": 1, "variant": "plain-vision"}
+MIFPW Subject:
+The Testimony of Mr. V. I. Black Regarding Unidenti-
+fied Citing
+QUESTION: Where was the location of your point of observation?
+ANSWER:
+I was at that time on my own property which I was clearing
+for a house to be built. This property is located on the
+south side of Otter Creek on Otter Point. Otter Point is
+almost four miles north of sau Gallie, Florida. This prop-
+erty is on US Highway 1, east side and west bank of the
+Indian River.
+QUESTION: What was the distance, direction, and altitude of the craft?
+ANSWER:
+I had walked to my car and was facing approximately south.
+I glanced to the right and upward. This unidentified ob-
+ject came into my line of view over my right shoulder. It
+appeared to be lower than 500 feet, and the bottom outline
+was reflected in the neon lights of the Westchester Motor
+Court which lies directly west of the position described,
+about 250 to 350 feet away. I estimated the speed to be
+500 miles an hour or excess.
+QUESTION: What was the condition of the evening?
+ANSWER:
+QUESTION:
+ANSWER:
+This was the evening of 4 January 1953. The atmospheric
+condition was exceptionally clear.
+It was quite cold, the
+temperature being about 500 F. There was little or no wind;
+in fact, it was calm.
+Would you please state what background and knowledge you
+have with regard to aircraft.
+I have, over the past six years, done a great deal of travel
+by airplane. In fact, while living in Puerto Rico it was
+my main mode of transportation. I have flown at the rate
+of 20,000 to 30,000 miles a year. Too, I have been on Patrick
+over one and one-half years during which time I have observed
+the movement of aircraft to and from the Base. I have also
+been at Eglin Air Force Base where I observed B-36's daily.
+I do not fly any type of aircraft myself.
+"I certify that to the best of my knowledge, the above is true and
+correct."
+U: Z. Black
+1. I. BLACK
+Declassification Authority: NND 57565

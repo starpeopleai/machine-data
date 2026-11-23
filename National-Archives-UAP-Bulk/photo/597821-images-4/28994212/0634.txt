@@ -1,0 +1,52 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T15:42:29Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8764577, "source_ctime_ns": 1793385822625479908, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28994212/0634.jpg", "source_mtime_ns": 1785747984000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28994212/0634.jpg", "source_sha256": "c13ebedda50da6d0e7c434be583ef3c3ed9ec0148e71491590072fc751f075a9"}
+
+===== PAGE 1 =====
+{"alpha_words": 118, "chars": 913, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+25 Aug 61
+3. DATE-TIME GROUP
+Local _2020
+GMT
+260120Z
+5. PHOTOS
+• Yes
+> No
+7. LENGTH OF OBSERVATION
+20 min
+10. BRIEF SUMMARY OF SIGHTING Flat bright brilliant
+shiny flickering objt in view for 20 min.
+Seemed to have tail following objt. Viewed
+at night. Figight NW to SE gradual fading.
+Winds SW at 25-30 knots.
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Brooklyn, New york
+4. TYPE OF OBSERVATION
+XXGround-Visual
+• Air Visual
+6. SOURCE
+• Ground-Radar
+• Air-Intercept Radar
+Civilian
+8. NUMBER OF OBJECTS
+9. COURSE
+12. CONCLUSIONS
+Was Balloo
+X›Probably Balloo
+Possibly Balloon
+Was Aircraft
+Probably Aireratt
+•
+Possibly Aircraft
+Was Astronomical
+Probably Astronomico
+Possibly Astronomica
+Other
+Insufficient Data for Evaluation
+Unknown
+SE
+11. COMMENTSReport indicates that sighting
+was of balloon released at New York
+International Airport. Winds conform to
+flight of balloon relesse.
+ATIC FORM 329 (REV 26 SEP 52)

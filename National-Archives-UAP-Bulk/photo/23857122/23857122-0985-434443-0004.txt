@@ -1,0 +1,47 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T15:22:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 22320876, "source_ctime_ns": 1793356828419652838, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-0985-434443-0004.tif", "source_mtime_ns": 1785564769000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-0985-434443-0004.tif", "source_sha256": "9afc70ee5922405ed20c84bffbd4525d1633c2147b43c0995297895a9bdd5c6b"}
+
+===== PAGE 1 =====
+{"alpha_words": 261, "chars": 1670, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Draughon-Miller Airport
+Temple, Texas
+April 3, 1958
+STATEMENT:
+On 2 April 1952 at approxinately 2040 hours at Draughon-Miller Airport
+the undersigned observed an object moving through the air in the direction
+of North.
+It is estimated the object was moving at a speed of 1500 MTH or
+better and appeared to be at an altitude of 20,000 to 40,000 feet. All
+that could be seen was a streak of fire and at intervals the fire would
+brighton or flare up. Object appeared to maintain a straight course
+and maintain a constant altitude. There was no sound at all observed.
+/s/ Harold C. HOJAF434413
+1/Lt, USAF
+ДО 2070513
+185th Tee Recon Sq
+3 April 1952
+About 2100 hours on 2 April I was talking to Lt Col Simpson behind
+his tent. He called my attention to an object in the sky. I saw what I
+believe to be a meteor, travoling at a very high rate of speed in a hortnerly
+direction. It ap cared as a ball of fire leaving a trail of flame, It
+burned for an unusally long time and finally disappeared. It was traveling
+in a straight line.
+/S/ Clasen B. Saunders
+Major, USAF
+8513 A
+155th Tac Recon AF434443
+3 April 1952
+TIME UNK
+PLACE IN TEMPLE TEXAS ACROSS STRAST FRON FIRE STATION
+A Ball of fire with a tail crossed heavens from South to North as I
+faced West. At 3/8 of its course 3 individual balls with tails broke from
+main object and burned out the main light continued on at sane speed and
+altitude till it faded from view.
+Characteristics: Maintained a constant speed and altitude as far AF434443
+as I could determine, through its entire orbit of my position.
+Xxx
+TAils
+/S/ Taylor L. Lamkin
+WEST out of ViEw
+Capt, USAF
+185th Tac Recon 5g
+Declassification Authority: NND 57565

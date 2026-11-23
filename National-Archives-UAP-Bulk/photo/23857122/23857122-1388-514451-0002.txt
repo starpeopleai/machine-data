@@ -1,0 +1,43 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T16:12:08Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 28646356, "source_ctime_ns": 1793357302799177695, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1388-514451-0002.tif", "source_mtime_ns": 1785564872000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1388-514451-0002.tif", "source_sha256": "92e5fa087b955acdc68b063d3ea09b83db4e8b337655e899f2587c37838d0bce"}
+
+===== PAGE 1 =====
+{"alpha_words": 209, "chars": 1602, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AF FOR.
+M2-PART II
+APPROVED 1 JUNE 1948
+CORTIDENTIAL
+AIR INTELLIGENCE INFORMATION REPORT
+REPORT NO.
+FROM (Agency)
+7350 BASE COMPLEMENT SQ.
+1044-52
+PAGE
+PAGES
+1. PREAMBLE:
+Source, Capt. Webster, A0-674917 was interviewed upon completion of a
+scheduled courier flight from Frankfurt to Berlin.
+USAF C-47 type Aireraft,
+Vumber 3722, departed Rhein/Main at 0703Z and arrived TEMPELHOF at 09372,
+20 September 1952. Altitude 5,500 feet, Visibility ten (10) miles with clouds.
+Doile (5224N/1137E) Maneuver Area.
+Unidentified objects in N portion of cleared corridor in Born (5222N/1128E)
+An undetermined number of unidentified dirt covered objects were located
+at approximately (5229N/1133E) in N portion of cleared corridor.
+Objects
+appeared to be of an unknown structure covered by dirt with doors facing a
+S direction, Objects were arranged in three (3) rows running in a E/W
+direction. Dimensions undetermined.
+No apparent activity.
+Aircraft passed over Born/Dolle Maneuver Area at approximately 09012,
+20 September 1952, TAS 150 knots.
+Ist It.,
+USAF
+Air Intelligence Officer
+NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S. C.—
+31 AND 32, AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW.
+IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF
+INTELLIGENCE, USAF.
+CONFIDENTIAL
+16-55570-1ł
+S. GOVERNMENT PRINTING OFFICE
+Declassification Authority: NND 57565

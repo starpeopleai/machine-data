@@ -1,0 +1,17 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T15:41:02Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8282100, "source_ctime_ns": 1793384757049288115, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28990961/0701.jpg", "source_mtime_ns": 1785748582000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28990961/0701.jpg", "source_sha256": "f63740e34882e87390df08fa31fba351a8bae47a226d8e748eade6bcd6157c5b"}
+
+===== PAGE 1 =====
+{"alpha_words": 84, "chars": 470, "method": "ocr", "page": 1, "variant": "plain-vision"}
+B. Did the rate of novenent hare an
+No.
+ta on the moler of the obdrot?
+9. Tow long was each object in sight?
+Five minutes.
+10, Did the objects seen on lb January have the amme chereateristic
+movementa as thosa seen or 13 January?
+Didn't see it on the lhth.
+13% Give a detailed account of cach objects maneuvers.
+I would have had to say this was a stax, but the object moved to the right
+and to the left.
+12, What was the ceiling height on 13 January?
+DEMO Have no idea.

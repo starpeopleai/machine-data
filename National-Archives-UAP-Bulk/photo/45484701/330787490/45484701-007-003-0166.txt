@@ -1,0 +1,44 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T15:32:41Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10301173, "source_ctime_ns": 1793364703570432706, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787490/45484701-007-003-0166.jpg", "source_mtime_ns": 1785684894000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787490/45484701-007-003-0166.jpg", "source_sha256": "70c685562f4e9cea0aa1ae0b96f6a31c8afca53a0a281549cc52eca8b5297fac"}
+
+===== PAGE 1 =====
+{"alpha_words": 108, "chars": 852, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AFOS
+Maj Detwily /ks/71776
+26 October 1950
+24-18ął
+(Unclassified) RADAR PHENOMBIA WHITE SANDS, NEW MEXICO 00TOBER 1949
+Directorete of Intelligence, D0S/0
+Counter Intelligence DiV, Office of Special
+Investigations, The Inspector General
+Naj Detvil er/ke/71776
+AFCSI
+Additional information requested in Comment No. 2 is forvarded
+herewith in attached OSI Report of Investigation, dated 11 October 1950.
+2 Inels
+1. Ltr fr 10 19 re above
+subj ded 27 July 50 v/incla
+2. R/1 D0/19 re above
+subj ate 11 Oct 50 (dup)
+GILBERT R. LEVY
+Acte Chier,
+Counter Intelligence Div
+Office of Special Investigetions
+The Inspector Generel
+ONES
+AFOSI FILE COPY
+CLASSIFICATION CANCELLED
+BY AUTHORITY OF THE
+BY
+Historian
+KURT K. KUNZE, Capt, USAF
+liste:
+DATEiẠ
+capt, USAF
+112 12
+OUT
+27 OCT 195ął
+SENT
+5 DEC 1975
+Paned for g. A. Serg
+NOVO
+Declassification Authority: NND 923007

@@ -1,0 +1,147 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T15:56:11Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 12660160, "source_ctime_ns": 1793355314956086293, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989265-001-0014.jpg", "source_mtime_ns": 1785564433000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989265-001-0014.jpg", "source_sha256": "75da0cee096ceccb28a676ef35a4ed107155ea6dbb7ade3f1fe13e79e23b0b9d"}
+
+===== PAGE 1 =====
+{"alpha_words": 750, "chars": 4994, "method": "ocr", "page": 1, "variant": "plain-vision"}
+The National Scientific Balloon Facil-
+ity (NSBF) in Palestine, Texas. The site
+consists of an asphalt launch area ar-
+ranged with six arms which radiate
+through a 180-degree arc to permit
+launch with the wind blowing in any
+direction. An operations/laboratory
+building, machine shop and various
+specially built launch and radar vehi-
+cles.
+(NCAR Photo)
+Mammoth balloon launch in July
+1966.
+(NCAR Photo)
+Double-balloon launch from NCAR
+Scientific Balloon Flight Station, Pales-
+tine, Texas, November 13, 1964. The
+tandem balloon system shown here,
+shortly before its early morning launch
+from Palestine, was sent aloft equipped
+with cameras to test the feasibility of
+photographing the stresses on a balloon
+as it ascends through the tropopause.
+The flight was part of NCAR's efforts to
+improve the performance and reliability
+of balloons as unmanned vehicles for
+scientific research.
+(NASA Photo)
+24
+loon to gondola, and launch, tracking and re-
+covery services.
+In a typical flight, the scientists usually
+bring their instruments to one of the operat-
+ing sites, and spend between a week and a
+month in final instrument preparation and
+checkout. The balloon crew is then respon-
+sible for attaching the scientific package to
+the balloon, as well as the launch, tracking
+and recovery of the instrument. Often there
+is a wait of several days after the instrument
+is ready before suitable launch weather ar-
+rives with surface winds of less than 17 feet
+per second and minimal cloud cover.
+Once launched, the balloon ascends to
+the float altitude in two to four hours and
+will then float at a constant altitude for sev-
+eral hours to two or three days. Throughout
+the flight, the scientific package hangs from
+a parachute which in turn is attached to the
+base of the balloon. On a radio command,
+the parachute is separated from the balloon
+and the package falls to the ground under
+the open chute, while the balloon is de-
+stroyed and falls separately. The instru-
+ments are recovered and often flown again.
+Normally, each balloon carries one sci-
+entific instrument set and the control pack-
+age provided by the balloon crew for track-
+ing and radio command. Scientific data can
+be recorded on board or telemetered during
+the flight, using either a downlink provided
+by the balloon crew or one provided by the
+scientists themselves. Small, simple experi-
+ments are sometimes flown as "hitchhikers
+on a balloon principally devoted to another,
+larger instrument. However, flights with
+more than one instrument package are rare.
+In 1961, through an international agen-
+cy, a program was set up called GARP
+(Global Atmospheric Research Program).
+This program concentrates on the problems
+of long-range forecasting, atmospheric fluc-
+tuations that control changes in weather
+and on designing a suitable observational
+system for systematizing global investiga-
+tions. In a plan for the '70s GARP outlined
+requirements for primary world measure-
+ments of wind, temperature, pressure and
+humidity.
+NASA's Ames Research Center report-
+ed in 1977 on large orbiting solar reflectors
+and described the SOLARES design as the
+one providing large amounts of solar energy
+reflected to Earth collector sites for conver-
+sion to electrical power. The design of the
+SOLARES spacecraft showed a rigid toroi-
+APEX GAS
+VALVE
+POLYETHYLENE
+BALLOON
+PRIMARY AND SECONDARY
+SEPARATION
+DEVICES
+- BURST SWITCH
+• PARACHUTE
+PARACHUTE RISER
+RELEASE DEVICE
+BALLAST HOPPER
+SAMPLERS AND
+INSTRUMENTATION
+IMPACT SWITCHES
+COMMAND REPLIES
+AND DATA
+CONTROL
+COMMANDO
+GROUND
+STATION
+Typical Sampling System Flight Configuration
+(NCAR)
+dal structure which was very similar to an
+earlier inflatable reflector introduced by
+NASA Aerospace Technologist John E.
+Canady, Jr., at the Langley Reserach Cen-
+ter. The inflatable solar reflector employed
+gas to inflate the torus and expand the
+structure. The skin of the torus with the
+other structural elements were impregnated
+with a gel of polyurethane which had a vola-
+tile solvent plasticizer that evaporated soon
+after the structure expanded and was ex-
+posed to the hard vacuum of space.
+This structural design was no longer de-
+pendent upon pressurized gas for maintain-
+ing its shape and rigidity. The Langley Cen-
+ter has continued to examine and evaluate
+solar energy systems within its general sys-
+tems studies of orbiting reflectors. It was
+concluded in the late 1970's that it was pos-
+sible to package an inflatable 1-kilometer
+reflector spacecraft in a single space shuttle.
+ASH CAN... a descriptive title given to
+this balloon system's payload and used by
+the Atomic Energy Commission (now the
+Department of Energy) to monitor radioac-
+tivity in the environment. Launches began
+in 1956, collecting stratospheric particulate
+air samples from various locations. In 1966
+the project expanded concurrently with air-
+launched, air-recoverable rockets which
+placed payloads at higher altitudes than
+with a balloon alone. The DOD's Advanced
+Research Project Agency cosponsored with
+25

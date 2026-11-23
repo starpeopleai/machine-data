@@ -1,0 +1,34 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T15:52:39Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 28155664, "source_ctime_ns": 1793357137330334526, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1266-487902-0004.tif", "source_mtime_ns": 1785564838000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1266-487902-0004.tif", "source_sha256": "174151b37177f2afac4e367b4875cca4c376bdca8e8db56eec394a8e1f08cfd2"}
+
+===== PAGE 1 =====
+{"alpha_words": 151, "chars": 1052, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AF FORM 112-PART II
+APPROVED 1 JUNE 1948
+FROM (Agency)
+Director of Intelligence
+Hgs Tenth AF
+TRICTED
+(CLASSIFICATION)
+AIR INTELLIGENCE INFORMATION REPORT
+REPORT NO.
+AFXOI FLYOBRPT 3-52
+PAGE
+PAGES
+1e
+Mr. Reidel is a S/Sgt in the inactive reserve component of USAF
+presently assigned to Headquarters Tenth Air Force, having completed his
+last tour of active duty on 9 August 1951.
+2. The preparing officer can offer no explanation for this phenomenon.
+Jeone H. Janzeush"
+GEORGE H. JANCZE
+2nd It
+• USAFR
+Director of Intelligence
+NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S. C.-
+31 AND 32, AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW.
+IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF
+INTELLIGENCE, USAF.
+HESTRIETED
+(CLASSIFICATION)
+ERNMENT PRINTING OFFICE
+Declassification Authority: NND 57565

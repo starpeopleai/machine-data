@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T16:18:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1634012, "source_ctime_ns": 1793389102759916241, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302536278/00769.jp2", "source_mtime_ns": 1785808193000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302536278/00769.jp2", "source_sha256": "707ee10613401edcb6a12bd6dba38f260dd0fffd2e43bd47b3cad3a2e3f6cf8e"}
+
+===== PAGE 1 =====
+{"alpha_words": 199, "chars": 1231, "method": "ocr", "page": 1, "variant": "plain-vision"}
+23 tu/6x
+WEBSTEr
+DIELSA
+FID (TOEW)
+Wright-Patterson AFB, Ohio 45433
+11 September 1964
+1 COP
+3 1
+Mr's
+Webater, Massachusetts
+Dear Mrs
+1. We are in receipt of your unidentified flying object report.
+we
+are forwarding an FID Form 164 for completion in order that we may
+determine a possible cause for your sighting. In addition to the
+questions on this form the folloving data is desired:
+a.
+The statement "disappeared repidly to the West and returned b
+hover at high altitude for approximately one hour" needs clarification.
+In particular we should like to mow:
+1. How long the object disappeared prior to ita return?
+appearance during that portion of the sighting when the
+object, hovered?
+3. As the object hovered, did the edges appear sharp or fuzzy?
+4. Wes there any color to the object?
+5. As the object hovered, was there any motion?
+6. Did the object appear to change in shape or size?
+7. Did the object appear to change in brightness or intensity?
+8.
+what was the total duration of each phase of the sighting?
+That is how long was the object in flight to the Weat, how
+long did it disappear, what portion of the time was consumed
+in its return, and what portion included in hovering.
+9. Was the object observed to disappear?

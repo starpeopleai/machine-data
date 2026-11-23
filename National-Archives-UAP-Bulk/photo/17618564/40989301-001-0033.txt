@@ -1,0 +1,82 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T16:15:20Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1015902, "source_ctime_ns": 1793356063877204708, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989301-001-0033.jpg", "source_mtime_ns": 1785564597000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989301-001-0033.jpg", "source_sha256": "ef12c6e911ae973a9bc3f1e962d1b3a9657f55ce44887e4088c14b251c1a4037"}
+
+===== PAGE 1 =====
+{"alpha_words": 190, "chars": 1458, "method": "ocr", "page": 1, "variant": "plain-vision"}
+3/19/47
+Unexcelled Chem. Corp.
+New Brunswick, W. J.
+Att: Mr. Tegen
+3/21/47 Manne-Knollton Insul.
+CO., i. I. C.
+3/24/47 General Mills
+Minneapolis, Minn.
+Mr. O. C. Winzen
+3/24/47
+Mr. R. S. Hassard
+5 ilollywood Ave.
+Tuckahoe, N. I.
+3/25/47
+Mr. George F. Weidner
+Engineer Board
+Barrage Balloon Branch
+Ft. Belvoir, Va.
+3/27/47 H. A. Smith
+Manaroneck, N. I.
+3/29/47
+H. A. Smith
+Mamaroneck, I. I.
+3/29/47
+Seyfange Laboratories
+1300 Mediterranean Ave.
+Atlantic City, N. J.
+Confirming telephone
+conversation in which
+authorization was given
+to ship polyetnylene
+film to NYU and advis-
+ing once again of cor-
+rect shipping address.
+Film shipped.
+quotation supplie
+Requesting quote and
+delivery date on fibre
+screws 1¿" long, filli-
+stor head and 8-32
+thread.
+quotation supplie
+Acknowledge letter of
+3/1l and advising that
+our representatives
+would be pleased to
+discuss construction
+details of the balloons.
+Asked for con-
+ference in April.
+Advising him of possibi- Hassard employed
+lity of full-time posi-
+tion in Research Div.
+of WYU. Requesting
+that he make appointment
+for interview.
+Requesting permission
+Invited to visit
+for MU representatives Mr. Weidner.
+to visit with him to
+discuss constant level
+balloons and safety
+valves and control
+devices.
+Requesting quote on
+valves.
+Supplied
+Request for quote on
+balloons fabricated
+from nylon and forti-
+san film coated with
+butyl rubber.
+Not received.
+Requesting quote on
+3 sets of stabalizer
+fins.
+Received.
+- 11 -

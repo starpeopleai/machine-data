@@ -1,0 +1,62 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T16:12:13Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 29499012, "source_ctime_ns": 1793358053457705195, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1784-596567-0001.tif", "source_mtime_ns": 1785565019000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1784-596567-0001.tif", "source_sha256": "34d68529d046f49edbf4788370cf0a84fe51e916733384568e4d0cd6e5057d54"}
+
+===== PAGE 1 =====
+{"alpha_words": 352, "chars": 2382, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AF596667
+INTELLIGENCE REPORT NO. T - TR - 11 - 53
+SUBJECT: Unidentified Flying Object Sighting
+DECLASSIFIED
+USAF
+немо
+7/31/r
+By IN. 6. Lew MARS, Date CAs
+COUNTRI & AREA: Greenland, Thule Air Base Area
+DATE OF REPORT: 10 December 1953 DATE OF INFORMATION: 9 December 1953
+PREPARING OFFICER: Harold R. Miller, Captain, USAF
+SOURCE(S): See Below
+REFERENCES: 6612th Air Base Group Messages THOPT 7624 and THOPI 7627
+The following information was elicited in interrogation of James N.
+Hendon, Ist It., pilot and Walter O. Rich, let It., radar observer of the
+318th Fighter Interceptor Squadron, Thule Air Base, Greenland.
+Both
+observers concur in details.
+Observers were on an airborne training mission at the time of sighting,
+approximately 092220Z. They were making a radar approach in an F-94 air-
+oraft at 2,5001 altitude, heading 340°, speed 200 knots at a position approx-
+imately 8 miles North West of Thule Air Base. It. Hendon was looking around,
+saw the object and called it to the attention of It. Rich. The object was a
+green light the size and shape of a navigation light. No tail, trail exhaust
+or sound were noted. When first sighted, the object was at the same alti-
+sude as the observer aircraft, l - 1g miles away at an azimuth of 120° to
+starboard. The flight path of the object was parallel to the observer air-
+craft, straight and level at a speed of approximately 400 knots, The object
+appeared to go out with no fade out at the same altitude of the observer air-
+craft on an azimuth of 20° to starboard. The object was observed by Lt.
+Hendon for 5 - 7 seconds and by It. Rich for 2 seconds.
+No interception was
+attempted or airborne radar contact established.
+the only known traffic in
+the area at the time of sighting was 1 F-94 aireraft, 6 miles West of obser-
+ver aircrait and. Cy aireraft, 12 miles west of observer aircraft. Nega-
+tive information available from other sources.
+10 miles, eurface winde East at 5 knote, 20,0001 - at at kno knots, 20,000l -
+020 at 10 knots and 30,0001 - 240° at 5 knots. Both observers stated they
+did not believe object to be a meteor. Observers can be considered fairly
+reliable.
+Preparing officer's evaluation - Probably astronomical phenomenon.
+DISTRIBUTION:
+Harold Ri hiller
+IR
+HAROLD R. MILLER
+Capt., USAL
+Group
+Intelligence Officer
+1 cy ea:
+D/T USAF
+NEAC
+ADO
+64th
+AD
+ATIC
+3-2522(6)
+Declassification Authority: NND 57565

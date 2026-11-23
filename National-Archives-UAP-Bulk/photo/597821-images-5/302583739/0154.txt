@@ -1,0 +1,24 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T16:14:09Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 969944, "source_ctime_ns": 1793394108552476329, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302583739/0154.jp2", "source_mtime_ns": 1785808610000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302583739/0154.jp2", "source_sha256": "a69b0503c96dc84e82cfb9e003c2d192b1f58938ae33f0e1e7cf2bd9d97000ac"}
+
+===== PAGE 1 =====
+{"alpha_words": 117, "chars": 682, "method": "ocr", "page": 1, "variant": "plain-vision"}
+6A. NOW IMAGINE YOU ARE AT THE CENTER OF THE COMPASS ROS
+DIRECTION TO THE PHENOMENON WHEN FIRST SEEN. PLACE A
+THE PHENOMENON WHEN LAST SEEN
+PLACE AN
+iA" ON THE COMPASS TO INDICATE THE
+P• ON THE COMPASS TO INDICATE THE DIRECTION TO
+NNW
+IN E
+ENE
+WSY
+ESE
+SE
+IN THE SKETCH BELOW, PLACE AN A AT THE POSITION OF THE PHENOMENON WHEN FIRST SEEN, AND A 3" AT THE
+POSITION OF THE PHENOMENON WHEN LAST SEEN.
+CONNECT THE "A AND B" WITH A LINE TO APPROXIMATE THE
+MOVEMENT OF THE PHENOMENON BETWEEN A AND *8".
+THAT IS, SCHEMATICALLY SHOW WHETHER THE MOVEMENT
+PPEARED TO BE STRAIGHT, CURVED OR ZIG-ZAG. REFER TO SMALLER SKETCH AS AN EXAMPLE OF HOW TO COMPLETE
+THE LARGER SKETCH.
+PAGE 2 OF 9 PAGES

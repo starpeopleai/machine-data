@@ -1,0 +1,47 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T15:48:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 20978768, "source_ctime_ns": 1793357766350846569, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1638-561241-0003.tif", "source_mtime_ns": 1785564968000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1638-561241-0003.tif", "source_sha256": "f328998e39ca9dab6a9bd3342911cd175a4bbaf25e837e0232b0db11346fc5ab"}
+
+===== PAGE 1 =====
+{"alpha_words": 155, "chars": 1106, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AF FORM.112-PART II
+APPROVED 1 JUNE 1948
+FROM (Agency)
+D/I Hq 20t
+RESTRICTED
+(CLASSIFICATION)
+AIR INTELLIGENCE INFORMATION REPORT
+REPORT NO.
+ДРО 239
+IR 1-53
+PAGE
+MSI
+availabl
+PAGES
+9001 - 55001
+idences are
+leodolite.
+of
+not
+be discounte
+Laurence E Pandall
+Capt,
+ENTS OF AP.
+inis is second reported sighting
+of unidentified object in this vicinity during
+1953.
+(Reference FIYOBRPT IR 1-53,
+Ho 6351st Air
+ling dated 20 Tebruary 1953)
+Unidentified object cited in February report was
+.tracked on radar scope as well as
+seen visually by U
+S jet aireraft crew.
+NAUN
+NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S. C.-
+31 AND 32, AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW.
+IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF
+INTELLIGENCE, USAF.
+SECURITY
+RESTRICTED
+(CLASSIFICATION)
+0166-FEC Printing Plant-12/49-18M
+Declassification Authority: NND 57565

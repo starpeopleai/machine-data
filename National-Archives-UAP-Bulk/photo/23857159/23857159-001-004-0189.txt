@@ -1,0 +1,40 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T15:48:40Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 24342092, "source_ctime_ns": 1793361180262717345, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-004-0189.tif", "source_mtime_ns": 1785565253000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-004-0189.tif", "source_sha256": "f8b2e511e49cee33ae460463e75e8152489595bbe0da8069c0f045a44cb3d3ab"}
+
+===== PAGE 1 =====
+{"alpha_words": 112, "chars": 662, "method": "ocr", "page": 1, "variant": "plain-vision"}
+OOR ORIGINAL
+CLOUDS (Circle One)
+Fred olouds
+of heiry clouds
+Dor, L remenber
+ISA THER
+e One
+Pog, mist
+Moderate or heavy tall
+light rain
+Snow
+Don't remember
+conditiots at the time you aav the object?
+34,2 WIND (01202e One)
+No wind
+Strong wind
+Don't remember
+34.4 TEMPERATURE (Circle One)
+COrA
+Cool
+Hot
+Don't remember
+with you at the time you sau the object?
+se
+(Circle One)
+I you anguered 12S, did they see the object too?
+(Girole One
+of this the firat
+that you had aven an object or objects like thiat
+Cirole One
+aid one other onan shen, where and water that cheaters
+VIA
+4116/8?
+you think the object tap and what night law yo
+DECLASSIFIED
+Authority NND 9237007

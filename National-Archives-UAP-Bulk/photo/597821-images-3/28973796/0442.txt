@@ -1,0 +1,73 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T15:42:52Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8836222, "source_ctime_ns": 1793379935894113707, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28973796/0442.jpg", "source_mtime_ns": 1785700805000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28973796/0442.jpg", "source_sha256": "563ebf28083b767a5eb17b806672703192289107628612cd80b59bee2c8e3c2f"}
+
+===== PAGE 1 =====
+{"alpha_words": 138, "chars": 1060, "method": "ocr", "page": 1, "variant": "plain-vision"}
+SECURITY CLASSIFICAT
+JOINT MESSAGEFORM
+UNCLASSIFIED
+SPACE BELOW RESERVED FOR COMMUNIOATION CENTER
+13 FeB58 23 15г
+• SC+73/57
+PRECEDENCE
+ROUTINE
+TYPE MSG (Oheck)
+BOOK
+MULTI
+SINGLE
+ACTION
+INFO
+FROM:
+ACCOUNTING
+SYMBOL
+AF
+ORIG. OR REFERS TO
+ORIGINAL
+COMDR ATIC
+TO:
+COMDR,
+CANTON FILTER CENTSE, 916 B. CLEVELAND AVENUE, N.W.
+CANTON, OHIO
+/UNCLASSIPIED/FROM: AFCIR-LE4 2-307 - E
+REQUEST CHECK OF YOUR RECORDS IF ANY UFO SIGHTINGS REPORTED FROM
+YOUR AREA OF JURISDICTION ON 6 NOVEMEER 1957, PARTICULARY RADAR.
+REPLY SOONEST: IN REPLY REFER TO QUOTE UFO CASE
+iS: G12
+A QUER QUO
+CLASSIFICATION
+REFERENCE
+TRUCTIONS
+COORDINATION
+AFCIN-4E4
+D. конуси Жів
+Miley
+AFCIN-4E
+Col H. K. Gilbert
+- DATE 18 722 ST
+DATE
+Dilen Mone
+DAT 18
+MONTH
+7 0900
+* Sẵ
+SYMBOL
+AFCIN-4E4
+TYPED NAME AND TIT
+LE (Signature, if r
+Capt G.T. Gregory
+PHONE
+69216
+SECURITY
+CLASSIFICATION
+UNCLASSIFIED
+PORN
+DI MAY 55 17 C
+PAGE 1
+SIGNATURE
+INR. OF 1
+PAGE
+Maci
+TYPED (or orampad) NAME ANC
+WALLACE W. ELWOOD
+Captain, USAF
+Assistant Adjutant:
+REPLACES DO FORM 173, 1 CCT 49, WHICH WILL BE USED UNTIL EXHAUSTED

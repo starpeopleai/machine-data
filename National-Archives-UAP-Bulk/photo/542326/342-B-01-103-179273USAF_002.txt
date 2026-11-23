@@ -1,0 +1,20 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T16:00:19Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 82717244, "source_ctime_ns": 1793367992759500915, "source_file": "National-Archives-UAP-Bulk/photo/542326/342-B-01-103-179273USAF_002.TIF", "source_mtime_ns": 1785565846000000000, "source_rel": "National-Archives-UAP-Bulk/photo/542326/342-B-01-103-179273USAF_002.TIF", "source_sha256": "92b5e102121d61d21cfb9e1ab0952f9f8319cbd32f2cb7f0ab1d7d63006c7455"}
+
+===== PAGE 1 =====
+{"alpha_words": 38, "chars": 314, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+a et
+
+179273 USAF » SCIENTIFIC STUDY OF UFOs « "Optically
+fabricated" UFO phetegraph. Double
+
+exposure o. elliptical lemp superimposed on
+
+a landscape, (Cf, El Guapo, Venezuela, case
+
+AP20 bulletin.) (Plate #10. Phote by euthor
+
+te «6 oS
+
+Copied from 8x10 print rec'd 1/13/69
+
+Filed ~ UNIDENTIFISD FLYING OBJLCTS

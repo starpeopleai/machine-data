@@ -1,0 +1,44 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T15:52:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 60233596, "source_ctime_ns": 1793357321691946547, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1388-514451-0012.tif", "source_mtime_ns": 1785564875000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1388-514451-0012.tif", "source_sha256": "9bf30edf4b4ef1ead7f510009cf9d12d5278ada1ef186cfaf79c904c90418b60"}
+
+===== PAGE 1 =====
+{"alpha_words": 131, "chars": 921, "method": "ocr", "page": 1, "variant": "plain-vision"}
+n die Effetung und
+misatio a Vetellen tonnen. Die
+vurt de
+Vorb. Betr. III
+der SED-Betrieb
+achsenwerk Nied
+Kampfprogramm
+2. Erfüllung und Übererfüllung des Fünfjahrplanes
+und die
+Material ded
+erluste tür Oud
+3. Wachsamkeit
+Die in letzter Zeit du
+agem ithi
+egschaft des Sachsenwerkes zur Fr-
+Es wird ein Sicher
+tonat ihre Funktio
+in enger
+he gute
+bert: Durch
+onat ein sc
+Der Wettbewe
+iten mit der
+ollege Wiecho
+Zerschlagung der Rias-Hetze und zur Erzielung eines ka
+Zuge der V
+ender Materi
+In den kapitalistischen Betrieben, wo
+die Arbeiter nicht für sich, sondern für
+die Ausbeuter arbeiten, bereichert jed
+Produktionsneueruna den Kapitalistes
+ie verschlechtert die Lage der Arbeite
+und führt zu einer Zunahme der Ar
+beitslosigkeit. In der sozialistischen
+Gesellschaft gereichen
+Arbeitsproduktivität der ganzen Ge
+ellschaft und jedem einzelnen Werk
+tätigen zum Nutzen.
+(J. W. Stalin)
+Declassification Authority: NND 57565

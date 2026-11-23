@@ -1,0 +1,46 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T15:41:42Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8608495, "source_ctime_ns": 1793383470297512966, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28987079/0764.jpg", "source_mtime_ns": 1785747889000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28987079/0764.jpg", "source_sha256": "094693be796bbc89ecfb6643bd97938615d464c82ae7415b99258e50555f7ea0"}
+
+===== PAGE 1 =====
+{"alpha_words": 241, "chars": 1823, "method": "ocr", "page": 1, "variant": "plain-vision"}
+REPORT OF INVESTIGATION OF UNIDENTIFIED FLYING OBJECT SIGHTING
+BRAIDWOOD, ILLINOIS
+AUTHORITY: AFR 200-2, unclassified message DAOIO 2000, 3 June 1960,
+from Detroit ADS and Special Orders A-322, 8 June 1960, Hq Chanute
+Technical Training Center (ATC).
+PROCEEDINGS OF THE INVESTIGATION: On 9 June 1960, Captain Donald W.
+Hartranft, AO3004690, 3345th Maintenance and Supply Group, Chanute Techni-
+cal Training Center (ATC), appointed by Special Order A-322, Hq CTTC,
+8 June 1960, proceeded to Braidwood, Illinois to investigate the reported
+sighting of an unidentified flying object. During the course of this investigation,
+the following persons were contacted and interviewed in accordance with para-
+graph 15, AFR 200-2:
+, Braidwood, Illinois
+St. Joseph Ave., Joliet, Illinois
+Spencer Road, Joliet, Illinois
+•Rowell Ave., Joliet, Illinois
+FINDINGS: After careful evaluation of facts disclosed by the persons contacted
+and encyclopedic research, it was found that:
+, in company with
+and Mr.
+observed a brilliantly lighted object in the SE
+quadrant of the sky at 0400Z, 1 June 1960.
+b. Simultaneously, Mr.
+, amateur astronomer,
+observed a similar object at somewhat the same azimuth and elevation.
+c. The two observation points cited in a. and b. above are some 32 statute
+miles apart.
+d. The Encyclopedia Americanna and the Encyclopedia Britannica sub-
+stantiates the data reported by the persons interviewed to be that of a natural
+phenomenon, probably the planet Jupiter.
+RECOMMENDATIONS: In view of the above findings, the investigating officer
+recommends that no further investigation be conducted.
+А.ПУршія
+0. MOSHER L. Car. 43.AF.
+Colonel, USAF
+Operations Officer
+10 Atch
+1. SO A-322, 8 Jun 60, SO A-327, 10 Jun 60
+2. Msg ADOIO 2000, 3 Jun 60
+3. Reporting Data of Mr. William E.
+Gomora
+(Atch cont'd on attached sheet)

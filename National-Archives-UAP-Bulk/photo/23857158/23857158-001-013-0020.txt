@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T15:44:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9777822, "source_ctime_ns": 1793358112114204477, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-001-013-0020.tif", "source_mtime_ns": 1785680995000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-001-013-0020.tif", "source_sha256": "b7ee078bd048e5129f9f5324111251830a7a865ec551e39867eb273b1ed79d01"}
+
+===== PAGE 1 =====
+{"alpha_words": 144, "chars": 1008, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+Antossifer
+CLARBUTICATIONE
+(SECURITY INFORMATION when alled in)
+SUPPLEMENT TO AF FORM 112
+ORIGINATIHG AGENCY
+REPORT NO.:
+FLight 1-C. 4602D AISS
+1C-UHOB T PART FIVE
+Incl. #1, PART FIVE, Rept. #1C-UFOB-1
+FLight Plan
+PAGE:
+16 * 16
+PAGES
+C-O-P-Y
+AF51365 KC97 JACT MER 10/0TP BEL DAG BED PRC-EED: DAG BFL
+MER 23 D1538P 530/1000/32 1US 8 RMKS NAV TRNG FLI CODE 211
+MAN 3 PASS TO ADF
+C-O-P-Y
+TRUE COPY:
+Edward A. Wise
+EDWARD A WISE
+Captain, USAF
+WARNING: Thic document contains information afecting the national defense of the United States within the meaning of the
+Espionate Lawa. Title 18. U.S. C.. Sections Sections and and Its tranamission or the revelation of its contents inary, manner to an
+unauthorited person is prohibited by law It may not be roproduced in whole or in part, by other than United States Air Force
+Atencies, except by permission of the Director of Intelligence, USAF.
+(SECURITY INFORMATION when Alled in)
+OL. S. COVE
+AT PAINTING OFFICE.
+3: 16-68470-3

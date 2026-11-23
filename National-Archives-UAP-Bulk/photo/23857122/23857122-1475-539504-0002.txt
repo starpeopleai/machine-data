@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T15:59:29Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 30688936, "source_ctime_ns": 1793357541600952652, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1475-539504-0002.tif", "source_mtime_ns": 1785564923000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1475-539504-0002.tif", "source_sha256": "bb0e44cad9bfdfe1d86ed2b3919b8db225b605eb0355094c91754173d1e20eed"}
+
+===== PAGE 1 =====
+{"alpha_words": 68, "chars": 562, "method": "ocr", "page": 1, "variant": "plain-vision"}
+НоТААРоРИТ
+POZ PEZZA
+SH MAO TA
+ARUT
+ТОЧЕЯ ОТАМОНИ ЗДИЗОШЕТИ! ЯА
+E-O
+ЧАВИ НОСАМ УВА Я СТАНО
+THE IN d180 T be 2-00S ITA
+(¿1) neeftit Tetemixorqas bne begana stleb toetdo gairit beitinebinu efgnia
+(S)
+(4)
+-[lever bus teet (000,2) beavont evil to ebuditie betamite ne ta ed of berseqqe
+beTebians erS aTeveado edT (d)
+eldsiler
+(or)
+diasel asw moitos noitsoitinebi To noifqoretni ou (Q)
+•eldanisido
+noiteveado to emit ent ta sere end ni oiliat on aw ered!
+УТЕВАО Я СТАЛОС
+TARU
+T901770
+CHAD YE OSTISIN
+НО нотоВЯС ВНТ:
+МезОЛ гІНТ вто
+LEASE GHA 16
+!8 TOU YAM TI
+13731973

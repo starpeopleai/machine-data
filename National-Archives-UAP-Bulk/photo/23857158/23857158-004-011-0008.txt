@@ -1,0 +1,51 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T16:05:12Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 17080032, "source_ctime_ns": 1793358641545640843, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-011-0008.tif", "source_mtime_ns": 1785681157000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-011-0008.tif", "source_sha256": "1ef9776b6c4261f403b7fa85cdbb148e8e24ef9e34ad18a9134d172828e83078"}
+
+===== PAGE 1 =====
+{"alpha_words": 199, "chars": 1468, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+AF FORM 112-PART I
+APPROVED I JUNE 1948-
+UNCLASSIFIED
+(CLASSIFICATION).
+AIR INTELLIGENCE INFORMATION REPORT
+D1-UFOB-2-55
+PART ONE
+Det 1, 4602d AISS
+1. SOURCES: Chester E Mcihorter
+Address: Box 686, Soledad State Prison
+Soledad, California
+Age: 21
+Occupation:
+PAGES
+Inmate, SOLEDAD PRISON for the past 2 1/2 years.
+Previously served in US Marine Corps as Radio
+Operator for 2 1/2 years:
+Education:
+Completed 10th grada. Badio School USMC.
+Qualifications: Seven months experience as GOC observer
+Billy Joe Long
+Address: Box 686, Soledad State Prison
+Soledad,
+California
+Age: 28
+Occupation:
+Inmate SOLEDAD STATE PRISON, nine months.
+Telephone lineman, previously served in US Navy
+as cook for 2 1/2 years.
+Education:
+High School Graduate
+Qualifications: GOC observer for 1 month.
+Dwayne Hooker
+Address:
+Box 686, Soledad State Prison
+Soledad, California
+Occupation:
+Inmate SOLEDAD STATE PRISON, 21 months.
+NONE.
+Education: 2 years High School
+Qualifications: COC observer for two months
+MOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT. 50 U.S. C.-
+31 AND 32, AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW.
+IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF
+INTELLIGENCE, USAF
+UNCLE SOLED

@@ -1,0 +1,63 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T15:32:47Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10382595, "source_ctime_ns": 1793364112261232580, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330786509/45484701-006-006-0123.jpg", "source_mtime_ns": 1785684585000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330786509/45484701-006-006-0123.jpg", "source_sha256": "9c0bd624192a9ba5968453f2eb2ed068423e60389e43b2710ea73fde529d7934"}
+
+===== PAGE 1 =====
+{"alpha_words": 163, "chars": 1199, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Wrtn 27 Mar 50
+24-185
+(Unclassified) UNIDENTIFIED ABRIAL OBJECTS, Fireball Sighted at Los Alamos,
+New Mexico, at 1555 hours, 25 February 1950 - SPECIAL INQUIRY 2 9 MARIOU
+Directorate of Intelligence,
+Air Intelligence
+28 March 1950
+Requirements Div, Collection Br
+Office of Special Investigations, IG
+Maj Nold/bjn/3623
+AFCSI
+Attached for your information is copy of OSI report of investigation, dated ?
+March 1950, concerning captioned Subject.
+1 Inel
+Gy Rpt of Inves atd
+7 Mar 50, fr DO #17,
+re abv subj
+GILBERT R. LEVY
+Actg Chief, Counter Intelligence Div
+OSI, IO, USAF
+G. COZ
+Disclosure of the nature, source
+investigative ink
+or
+may
+le of such
+ned in the re
+not normally entitled to such inform
+IELASSIFICATION CANCELLED 2
+made only when expressly authorized by the Dire
+BY AUTHOR OSIGE LUS
+OF SPEC IN
+of Special Investigations, IG, or higher authority.
+BY
+KURT K. KUNZE, Capt, USAF
+•Historian
+4 DEC 1975
+DATE
+When Inel No. _.
+. is (ere) withdrawn
+not
+attached
+_cation of
+fidential on this corrospondence
+cancelled in accordance with
+par 25e, AFR 205-1.
+UNCLASSIFIED
+AFCSI-FILES
+T08109 107
+20 MAX1950
+MANAGEMEN
+DIV.
+OSI
+Pe 22 22 12
+I.m.nold
+AFCSI
+- 3
+S50 M
+Declassification Authority: NND 923007

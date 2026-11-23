@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T16:13:58Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 837833, "source_ctime_ns": 1793390280964246458, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302548763/1338.jp2", "source_mtime_ns": 1785808697000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302548763/1338.jp2", "source_sha256": "627ffbcc303f2bbff7d63f9a0ca15782e3910667f28d65f49646b89677d058cb"}
+
+===== PAGE 1 =====
+{"alpha_words": 158, "chars": 983, "method": "ocr", "page": 1, "variant": "plain-vision"}
+May 11, 1966
+ew Jersey
+07746
+Director
+Proiect Blue Pook
+Wright-Patterson Air Force Base
+Denver, Colorado
+Dear Sir:
+I should like to report the sighting of an unidentified flving
+cbject on March 31, 1966. These are the details:
+Around 7:30 I went out to look at the stars, since I had been
+studving astronomy in school. I had not been out long when I not-
+iced an elliptical object darker then the rest of the sky. It was
+spinning rapidly from left to right, or counter-clockwise. Across
+the front were four alternating blue-white lights. On the ton and
+bottom were two lichts, the ton one being slighting bink.
+We hed learned to use a protractor as an amateur astrolabe, so
+I tried to measure its position. It was. about 50 degrees up in the
+western 9k7.
+It was glowly waning and fiving away into the west., By 7:45
+it was completelv gone.
+Enclosed is a sketch I have made of the object from memory.
+would also be glad to answer any further questions.
+Respectfully vours,
+(send 164)

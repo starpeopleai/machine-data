@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T15:36:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 15171348, "source_ctime_ns": 1793355734860430636, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0175.jpg", "source_mtime_ns": 1785564512000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0175.jpg", "source_sha256": "86efa9c8524ee589281197227f2078b4393fe9c8a5faa8bac0bdbe5a090994d9"}
+
+===== PAGE 1 =====
+{"alpha_words": 200, "chars": 1346, "method": "ocr", "page": 1, "variant": "plain-vision"}
+337
+XXVIII. Woter in the Atmospheres of Planets
+John Strong
+Laboratory of Astrophysics and Physical Meteorology
+The Johns Hopkins University
+Baltimore, Maryland
+With an automatic daytime telescope of 30-cm aperture carried by balloon to
+26.5 km we have made a determination of the amount of water vapor present above
+the reflective cloud layer on the planet Venus. Radiation was measured in the band
+at 1.13 M, with a grating spectrometer of 2-Å resolving power. This portion of the
+spectrum was scanned once every ten seconds with a set of 21 exit slits arrayed to
+match 21 H20 absorption line groups. The radiation passing through was received
+by a chilled photomultiplier with S-1 surface, and its response was recorded on
+paper.
+From 120 such records we have determined that the modulation produced by
+the water absorption, when the line groups were scanned, was (10.5 + 0.5) percent.
+By calibration, this modulation is the same as that produced by 9.8 x 10-3
+g/cm 2
+of water vapor at atmospheric pressure.
+Possible influence of water vapor in the earth's atmosphere above the balloon
+was assessed in two ways. Immediately after the observing period, and at the
+same altitude, radiation received from a piece of white cloth illuminated by the
+sun was analyzed. A much smaller modulation, resulting from water in the solar
+path, was measured.

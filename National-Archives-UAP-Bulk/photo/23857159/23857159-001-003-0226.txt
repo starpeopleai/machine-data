@@ -1,0 +1,64 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T15:37:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 22691424, "source_ctime_ns": 1793360913382282488, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-003-0226.tif", "source_mtime_ns": 1785565153000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-003-0226.tif", "source_sha256": "1b9e4ca9368a440b5b662682b045712e685e45f8e1ad966aa5a07d19e8b81baf"}
+
+===== PAGE 1 =====
+{"alpha_words": 264, "chars": 1826, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AF FORM 112-PART I
+APPROVED 1 JUNE 1948
+COUNTRY
+France
+INGLASS TETE
+LASSIFICATIOI
+11083
+REPORT NO.
+(LEAVE BLANK)
+IR-50-1-57
+AIR INTELLIGENCE INFORMATION REPORT
+108-
+SUBJECT
+UFOB
+AREA REPORTED ON
+FROM (Agency)
+France
+Hg 50th Fighter Bomber Wing
+DATE OF REPORT
+DATE OF INFORMATION
+EVALUATION
+з мау
+1957
+11 May 195?
+REPARED BY (Officer) Captain Raymond P. Hutchinsor
+SOURCE
+A-1
+Office Wing Intelligence
+Military Observers
+REFERENCES (Control number, directive, previous report, etc., as applicable)
+IR-50-1-56 and AFR 200-2 dtd 12 AUG 54
+SUMMARY: (Enter concise summary of report. Give significance in final one-sentence paragraph. List inclosures at lower left. Begin text of report on AF Form 112--Part II.)
+Twe star like objects were sighted from Toul Air Base, France as a result of an
+alert to these objects by Chambley Air Base at 2245 ZULU HRS.
+The plotting of
+bearings taken from Chambley and Toul towers places one object (if both towers
+were in fact observing the same object) due South of Thiaucourt in the highest
+terrain between Chambley and Toul Air Bases. UFOB report in accordance with the
+provisions of AFR 200-2 dtd 12 August 1954.
+RAYMOND P. HUTCHINSON
+Captain.,
+USAF
+Wing Intelligence Officer
+2/19:64
+105
+6141326
+One (1) INCLS.
+ABC
+DISTRIBUTION BY ORIGINATOR
+1 cy Hq 12th AF
+1 cy Hq 50FBW
+NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S.C.-
+31 AND 32, AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW.
+IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF
+INTELLIGENCE, USAF.
+UNCLASSIFTED
+(CLASSIFICATION)
+ENT PRINTING OFFICE
+DECLASSIFIED
+Authority NND 9237007

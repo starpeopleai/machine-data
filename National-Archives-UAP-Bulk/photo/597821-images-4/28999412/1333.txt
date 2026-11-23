@@ -1,0 +1,64 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T15:28:13Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8394505, "source_ctime_ns": 1793387905230016749, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28999412/1333.jpg", "source_mtime_ns": 1785748576000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28999412/1333.jpg", "source_sha256": "466b10ae94906009a0f5c27aa1aa1a71dce7986625d31b3b84370057d1a2de26"}
+
+===== PAGE 1 =====
+{"alpha_words": 159, "chars": 1166, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD CARD
+1. DATE
+2. LOCATION
+2 October 1962
+MONTANA
+Moses
+_Lake,
+Washington
+3. DATE-TIME GROUP
+TYPE OF OBSERVATION
+Local
+GM T.
+03/0300Z
+5. PHOTOS
+AGround- Vi sual
+• Air Vi sual
+6. SOURCE
+• Ground-Rodor
+• Air-Intercept Radar
+• Yes
+XX NO
+7. LENGTH OF.OBSERVATION
+Military
+8. NUMBER OF OBJECTS | 9. COURSE
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aireraft
+Probably Aircrat
+Possibly Aircraf
+Was Astronomical
+robably Astronomic
+ossibly Astronomic
+on Other aurora Reflectio
+Insufficient Date for Evaluation
+Unk no wn
+1. 20 sec 2. 30 sec
+two
+10. BRIEF SUMMARY OF SIGHTING
+1) Oval obj observed at 30 dgr elev
+250dgr azimuth descending for 20
+secs. Disappeared by fading.
+2) 60 secs after first sighting two
+objs of the same description appeared
+in the same position but did not
+descend. Also disappeared by fading.
+Color reddish orange. In sight for about
+30 seconds.
+Local investigators believe reflections
+as cause.
+descending
+11. COMMENTS
+Investigaors at local level
+checked for flashing fm power
+lines in direction of obsvation.
+Aurora was obsvd in area. Sight
+ing attributed to auroral dis-
+play.
+ATIC FORM 329 (REV 26 SEP 52)

@@ -1,0 +1,107 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T15:28:25Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8634207, "source_ctime_ns": 1793361719635469093, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330781178/45484701-001-002-0122.jpg", "source_mtime_ns": 1785684760000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330781178/45484701-001-002-0122.jpg", "source_sha256": "6a052cfe5467cd7d5575bee37422d875ff9fb47bb5149d127500063c3d00c03f"}
+
+===== PAGE 1 =====
+{"alpha_words": 592, "chars": 3732, "method": "ocr", "page": 1, "variant": "plain-vision"}
+(d)
+914.700 - 851.510
+Communications - See Figure 3
+Procedure:
+(a)
+Upon arrival at the OP, the plane table and all observer
+instruments will be oriented at each OP so that the "O" (zero) of all scales
+is toward the
+red light on top of West Tank at Camp Hood. A stake will be
+set up at each OP approximately 20 yards from the instruments and in line
+with West Tank for orientation in inclement weather.
+Open sided tents will
+be erected over the plane tables where terrain permits.
+(b)
+The telephones will be comected so that the observer has
+a head and chest set on circuit #l, observer circuit;the reader has a head
+and chest set on circuit #2, plotter circuit; the NCO has a hand set on
+circuit #3,
+administration circuit.
+hours until 0530 hours, ires a varget scken siented during the time
+(d) The NCO will report "ready to observe" to the Plotting
+than 1900 hours each evening. The NCO will operate the
+Center not later
+BC Scope.
+Plotting Stat:
+quipment for the installation:
+(a)
+Large plotting table to be constructed by Division Artil-
+lery; complete with scales and equipment necessary for oper-
+ation, (Figure 2) and 1/2 track with 506 and 508 radios.
+(b)
+(c)
+Large tent capable of being blacked out.
+Personal equipment of men.
+(d)
+Head and chest for each plotter and recorder. (3 extra)
+(e
+Two hand telephones
+(2)
+(£)
+1 stop watch
+Personnel:
+(a)
+1 Officer--Artillery Training Force Commander
+(b) Two teams each consisting of a "plotter! for each obser-
+vation post being operated and a "recorder". (MOS 22,645-
+Personnel as listed above provide 2 reliefs.
+Officer to be on alert all night.
+(e)
+Personnel will be especially alert during the hours 1830-
+2130.
+(3)
+(4)
+(5)
+General Location:
+Plotting center - 913.390-858.700, Camp
+Hood Photomap, scale 1/25,000.
+Communications - See Figure 3.
+Procedure:
+(a)
+The Artillery Training Force Commander will check into
+the Killeen Base and Field Force radio and wire nets daily at 1830 hours.
+(b)
+The Artillery Training Force Commander will cause the com-
+munications of his Force's nets to be checked at 1830 hours.
+(c)
+The plotting table will be set up in the plotting room
+tent. Tracing
+paper will be oriented over the expected target area.
+The OP&s and West Tank will be plotted.
+Scales in mils
+will be superimposed over each OP and oriented with
+the "O-3200" (zero
+thirty two hundred) line toward the plotted point of West Tank.
+Plotting
+strings will extend from each plotted OP to the plotter stationed on the
+opposite side of the table. (See Figure #2)
+Processing a "call":
+(1) Observation Posts:
+(a)
+As soon as the observer sights a target, he will command
+"light" and repeat the command at intervals of 1 or 2 seconds until the tar-
+get disappears, at which time he will command "dark". The observer who
+first sights the target will be the only one to speak on the observer cir-
+cuit until his command of "dark" is heard. If at this time an observer at
+one of the other 3 OP's can still see the target, he will continue the com-
+mand of 'light" until the target disappears for him, and then he will com-
+mand "dark".
+(b) As soon as the command of "light" is heard, all observers
+will alert their readers and attempt to get on the target.
+(c)
+All observers seeing the target will immediately line up
+their alidade on the target and follow it until it disappears.
+(a)
+Reader:
+As soon as the target is sighed at his post and the ob-
+server has aimed his alidade at the target, the reader will, by aid of his
+flash light, announce the scale reading in mils to his corresponding plott-
+er at the Plotting Center.
+He will continue readings at 1 or 2 second in-
+tervals even though there is no change. When the target is out of sight,
+CONFIR
+Declassification Authority: NND 923007

@@ -1,0 +1,49 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T15:31:39Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9607502, "source_ctime_ns": 1793363439166345632, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785292/45484701-005-004-0058.jpg", "source_mtime_ns": 1785684653000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785292/45484701-005-004-0058.jpg", "source_sha256": "8e794b5b9b7ea2e2cf30879638049ca553cc028ee461a7084dee3eca8cca8a5e"}
+
+===== PAGE 1 =====
+{"alpha_words": 355, "chars": 2374, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DETAILS:
+1.
+This investigation was requested by the Commander, Keesler Air Force
+Mississippi, orally, through Colonel JAMES C. BEAM, 7544A, Wing T/0
+on 20 Wey 1954, and predicated on information furnished by Keesier Detachment
+9th District OSI, (IG), Keesler Air Force Base, Mississippi.
+2. Special Agent LOUIS E. COLEMAN assisted in this investigation.
+AT KEESLER AIR FORCE BASE, MISSISSIPPI
+3. At 0920 hours 20 May 1954, Special Agent COLEMAN received a telephone
+call from Special Agent RICHARD V. TERRELL, New Orleans Deatchment, 9th
+District OSI (IG), New Orleans, Louisiana, in which Special Agent TERRELL
+related that at 0850 hours 20 May 1954 he received information from Mr.
+ROBERT COOPER, Special Agent, FBI, New Orleans, Louisiana, concerning a
+report of an unidentified flying object. Mr. COOPER informed Special Agent
+TERRELL that Mr. EDDIE HOELZEL had telephonically informed him that at approxi-
+nately 2030 hours 19 May 1954, he had observed three large obje ots which
+appeared to be large balls of
+fire, flying in a weaving and bobbing manner
+at a low altitude over the water near Bay St. Louis, Mississippi. HOELZEL,
+further reported that the objects made a loud humming sound and were defi-
+nitely not conventional aircraft; that he observed these objects for appro-
+rimately 20 minutes before calling the FBI and they were still visible
+during his conversation with the FBI in NewOrleans; that he knew the objects
+were not conventional aircraft and that the light from the objects was plainly
+reflected in the water of the bay, and other persons beside himself had seen
+the objects. HOELZEL related that he was a veteran of the Air Force and was
+familiar with all types of conventional aircraft but had never seen anything
+similar to this before.
+AL BAY ST. LOUIS, MISSISSIPPI
+On 20 May 1954, Mr. EDWARD W. HOELZEL, General Delivery, North Beach,
+Bay St. Louis, Mississippi, stated that he operates a fishing comp at the
+mouth of the Jordan River on Bay St. Louis; that he has been in Bay St. Louis
+a relatively short time and formerly resided in New Orleans, Louisiana.
+Mr •
+HOELZEL described the incident concerning the unidentified flying objects as
+follows:
+a. Shape:
+b. Sige:
+Appeared to be stars but had a reddish-
+yellow glow.
+Appeared to be about twice as large
+as other stars.
+o. Color:
+Reddish yellow hue
+Declassification Authority: NND 923007

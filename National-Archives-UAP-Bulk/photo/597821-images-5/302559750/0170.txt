@@ -1,0 +1,10 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T16:13:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 822344, "source_ctime_ns": 1793391581414942652, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302559750/0170.jp2", "source_mtime_ns": 1785808558000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302559750/0170.jp2", "source_sha256": "527e486083258f3b4ec5e3f539413d1db854fd7e8ba18d1f4e76a2be313a6172"}
+
+===== PAGE 1 =====
+{"alpha_words": 12, "chars": 155, "method": "ocr", "page": 1, "variant": "plain-vision"}
+This case encludes three (3) 5"17"
+1104 122
+рати діало терне (2) 8'11 "
+prestossaghs, sand three (3) 5XVi
+negatives, and seven (7) 21" x 34½"
+photzningho.

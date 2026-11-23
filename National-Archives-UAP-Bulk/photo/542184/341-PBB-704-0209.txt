@@ -1,0 +1,9 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T15:33:29Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10410014, "source_ctime_ns": 1793367337115256875, "source_file": "National-Archives-UAP-Bulk/photo/542184/341-PBB-704-0209.jpg", "source_mtime_ns": 1785565699000000000, "source_rel": "National-Archives-UAP-Bulk/photo/542184/341-PBB-704-0209.jpg", "source_sha256": "d446f0e38e2a40bf28a7a1a616103fbdd4fa69984c0226f9dce31485f5928c5c"}
+
+===== PAGE 1 =====
+{"alpha_words": 4, "chars": 23, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 1, "variant": "plain-psm3"}
+sig
+
+Pad
+
+PERLE TEPER

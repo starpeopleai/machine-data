@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T15:26:01Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7254706, "source_ctime_ns": 1793364447339597190, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787145/45484701-007-001-0034.jpg", "source_mtime_ns": 1785684561000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787145/45484701-007-001-0034.jpg", "source_sha256": "18a2abfb51f4711f52390cd88ce63b60583f44969bb5b9aef979afdee34be278"}
+
+===== PAGE 1 =====
+{"alpha_words": 68, "chars": 509, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AIR FORCE
+HEADQUARTERS UNITED STATES AIR FORCE
+WASHINGTON 25, D.C.
+REPLY TO
+ATTN OF:
+SUBJECT:
+AFCIN-R3
+Transmittal of Tapes
+JAN 2 7 1900
+TO:
+AFCSI
+Attached is a package US Register No. 7014 containing 3 tapes.
+This package was received by this office with no other identifying
+correspondence.
+Reman Sella
+VERNON NOBLES
+CHO W-2, USAF
+Office, ACS/Intelligence
+1 Atch
+One package fr George M.
+Allerder, Lexington, Ky
+containing 3 tapes.
+UNCLASSIFIE
+ath 1
+Declassification Authority: NND 923007

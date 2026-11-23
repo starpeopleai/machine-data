@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T15:35:19Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 11234403, "source_ctime_ns": 1793367734687891520, "source_file": "National-Archives-UAP-Bulk/photo/542184/341-PBB-705-0278.jpg", "source_mtime_ns": 1785565769000000000, "source_rel": "National-Archives-UAP-Bulk/photo/542184/341-PBB-705-0278.jpg", "source_sha256": "8bde36faf1b4f4b953c4b1b117f32cf04798c0653e3dd0a5e158e16603d47132"}
+
+===== PAGE 1 =====
+{"alpha_words": 20, "chars": 105, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Sey ped eed ad Obey +
+& re :
+
+oat
+von
+Vad
+wv?
+ae
+id |
+*
+Sead
+% o
+# a
+#4 :
+ne :
+as 7
+at
+OT
+
+wn?
+
+Kk
+Ke
+a

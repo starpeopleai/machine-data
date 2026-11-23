@@ -1,0 +1,51 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T15:28:56Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8718494, "source_ctime_ns": 1793383167081401035, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28986449/0191.jpg", "source_mtime_ns": 1785748243000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28986449/0191.jpg", "source_sha256": "e9c3be8d729b03c24e6e73c43504f8c0ddfcd7a7d14dc9e549e89576bcce2661"}
+
+===== PAGE 1 =====
+{"alpha_words": 115, "chars": 870, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+9 Apr 60
+3. DATE-TIME GROUP
+Local.
+1850
+5. PHOTOS
+960250₴
+› Yes
+D No
+7. LENGTH OF OBSERVATION
+n/з
+10, BRIEF SUMMARY OF SIGHTING
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Arcata, California
+TYPE OF OBSERVATION
+& Ground-Visual
+D Ground-Rodar
+• Air-Intercept Roder
+8. SOURCE
+Civilian
+3. NUMBER OF OBJECTS
+9. COURSE
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aireraft
+Was Astronomical
+Probably Astronomicol
+Possibly Astrnomical
+Other_
+Emulsion Flew
+Insufficient Date for Evaluation
+Unknown
+one
+n/a
+11. COMMENTS
+Source was taking a picture of the setting su
+Analysis of the photograph led to the
+through an & inch belescope and when the pic-
+opinion that the spot was a defect in
+ture was developed an object was on the picture the emulsion.
+between the camera and the setting sun.
+ATIC PORM 329 (REV 26 SEP 52)

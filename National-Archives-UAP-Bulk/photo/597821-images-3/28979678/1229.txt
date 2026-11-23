@@ -1,0 +1,37 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T15:40:35Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8160886, "source_ctime_ns": 1793381251390031011, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28979678/1229.jpg", "source_mtime_ns": 1785701113000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28979678/1229.jpg", "source_sha256": "74d8cfe14d2cde21f03b795be87c4f878dfca96531210a771be8a308509db50e"}
+
+===== PAGE 1 =====
+{"alpha_words": 53, "chars": 506, "method": "ocr", "page": 1, "variant": "plain-vision"}
+15A. (1) ROUND
+(2) SIZE OF A STAB (LARGE)
+(3)
+RED
+(4 X THREE
+(5) STRAIGHT LINE
+(6) NONED
+(7) NONE
+PAGE TWO RJWFAM 1
+(8) NONE
+(9) NONE
+B. (1) LOOKED LIYE FALLING STAR
+(2) 1
+DEGREES N PPAiNTY
+(3) 25
+DEGREES N dIENT Mere.
+(4) STRAIGHT - IN whaT dIrZiTTeN?
+INCONSISTENT
+(5) BEHIND TREES
+(6) 4 MINUTES
+C. (1) VISUAL
+(2) NONE
+D. (1) 02102 1 SEPT 58 0/-10-7 =/91C
+(2)
+DUSK
+•HOME ADDRESS
+F• CIVILIAN,
+ABOUT 40,
+DENVER, COLO,
+SOUNDED RELIABLE, BUSINESS MAN
+G• CLEAR W/CB DSNT
+S MOONROSE 1937 MST (02 372)
+(1) CLEAR

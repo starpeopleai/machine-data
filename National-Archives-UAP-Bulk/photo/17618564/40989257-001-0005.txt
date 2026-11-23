@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T15:56:23Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 12799889, "source_ctime_ns": 1793355004805006534, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989257-001-0005.jpg", "source_mtime_ns": 1785564377000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989257-001-0005.jpg", "source_sha256": "e798d3d5fe6ee6726d1980e0415c73d56cd583fbc6508a44f714bb7f7d3bc491"}
+
+===== PAGE 1 =====
+{"alpha_words": 63, "chars": 479, "method": "ocr", "page": 1, "variant": "plain-vision"}
+HEADQUARTERS
+2709TH AIR FORCE VEH CONTROL GROUP (AFLC)
+UNITED STATES AIR FORCE
+MEMPHIS TENNESSEE
+REPLY TO
+ATTN OF:
+MPNVREM
+suBJEc: Mobile Cranes
+13 Dec 1962
+To: AFCRL (CRZE/Sgt Benedict)
+L G Hanscom Fld
+Bedford Mass
+Photographs of Mobile Cranes are herewith attached as requested.
+FOR THE COMMANDER
+Milo Mathis
+MILO J
+Ror
+Grou
+Inventory /
+upment
+-_ement Division
+2 Atch
+1. Photograph (38105802993)
+2. Photograph (38107891464)
+MRS. ELSIE BROWN AREA CODE 901
+GLENDALE 8-4411 X-368
