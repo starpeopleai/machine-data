@@ -1,0 +1,37 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T02:22:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5255433, "source_ctime_ns": 1793380316728332474, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28975343/00256.jpg", "source_mtime_ns": 1785700625000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28975343/00256.jpg", "source_sha256": "2806d7dfcac49ef5d0e80d7d834e99d12ca406c74cc5013d69295c0c388a6828"}
+
+===== PAGE 1 =====
+{"alpha_words": 80, "chars": 517, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+wen? sf , fpote
+C6 Guage 2
+Ul / Pee >
+/ — 9 wD) f a
+
+; me i. } be Se i seees
+
+SQBG27 YDPD15 WYAG19 WDAG 19DNADD4
+RR RJEBDN RJEDWP RJEPHQ
+DE RJWFDN 14 a
+R 2623552
+FM COMDR 34TH ADD ae
+TO RJEDDN/COMDR ENT AFB ADC Se aie.
+RJEDWP/COMDE WRIGHT PATTERSON AFB ATIC ue
+ERJEPHQ/DIR OF INT HQ USAF
+BR 3
+UNCLAS INT 5923 UFOB REPT IAW AFR 209-2 AND ADCR 294-7 IS
+SUBMITTED.
+1 Ay’ UNKNOWN 3/9 PE
+' Ba AIRCRAFT SIZE, TRANSPORT
+
+DCL
+
+E. N/A
+
+Fe SURFACE REFLECTION SUNL - SHAPE UNDETERMINED
+G. NONE
+
+He NONE
+
+PAGE TWO RJWFDN 11
+
+ae

@@ -1,0 +1,50 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T02:11:56Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3730224, "source_ctime_ns": 1793371096921806967, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28936614/0916.jpg", "source_mtime_ns": 1785688540000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28936614/0916.jpg", "source_sha256": "8e2c35a91ec7b6632782eb1426fbef029e2ad70415e576dec60a13261b9835ee"}
+
+===== PAGE 1 =====
+{"alpha_words": 46, "chars": 564, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+18000 W 23
+1000 hrs:
+2000 NNW 15
+| 4000 nw 14
+[ 6000 NW 16
+E 8000 Nw 16
+18000 wy 11
+; 1600 hrs
+; 2000 — NNW 10
+4000 N 7
+: 6000 N 9
+‘ 8000 NNE 12
+. 10000 NNW 10
+18000 WwswW 16
+i | 2200 hrs
+‘ 200), ~~” NNE 11
+4000 E 10
+6000 ESE 10
+8000 E 12
+10000 ENE 13
+18000 WwW 11
+AT NASHVILLE, TENN (Balloon)
+es rs ep 49
+00 NNW 22
+4000 NW 15
+6000 WNW 17
+8000 ww 22
+10000 ww 17
+18000 Wwhw 37
+1000 hrss
+2000, ~~ NNE 10
+4000 Nw 11
+6000 Nw 12
+8000 NW 19
+10000 Nw 22
+18000 ww 23
+1600 hrs
+Woo N )
+4000 NNE 10
+6000 WNW 11
+8000 wiw 12
+10000 ww 9
+18000 mi 19
+, UNCLASSIFIED
+5
+a pene. re

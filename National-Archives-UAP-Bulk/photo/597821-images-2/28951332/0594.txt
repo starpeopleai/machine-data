@@ -1,0 +1,68 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T02:16:08Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4323772, "source_ctime_ns": 1793374369895832740, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28951332/0594.jpg", "source_mtime_ns": 1785696775000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28951332/0594.jpg", "source_sha256": "98a8f98fff6b76dd20341407ce50bae32c2603a20efeeff4ba816e0501a930b1"}
+
+===== PAGE 1 =====
+{"alpha_words": 207, "chars": 1279, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+13.
+Lye
+
+15.
+
+16.
+
+17.
+
+18.
+
+Page h
+12.1 Circle one of the following to indicate how certain you are of your
+answer tO
+
+answer Question 12:
+
+ae Certain Ce Not very sure
+Qo) Fairly sure . ad. Just a guess
+
+Did the object look: (Circle One) Solid oor ‘Transparert/ Dark Grey not
+transparent
+Did the object at any time:
+
+(Circle One for each question)
+14.1 Change direction? (Ye
+
+No Don't know
+14.2 Change speed? e Wo Don't know
+1;.3 Change size? es) No Don't know
+14.4 Change color? es (No) Don't know
+14.5 Break up into parts or Yes Yo) Don't know
+
+explode?
+
+14.6 Give off smoke? Yes Bie} Don't know
+14.7 Change brightness? Yes fo) Dontt know
+14.8 Flicker, throb, or Yes ) Dontt know
+
+pulsate? ee
+14-9 Remain motionless?
+
+=.
+@&
+
+e No Don't know
+
+Did the object give off a light? (Circle One): Yes od Don't know
+
+15.1 IF you answered YES, what was the color of the light?
+
+Tell in a few wrds the following things about the object?
+16.1 Sound ANone
+
+16.2 Color Grey
+
+IF there was MORE THAN ONE object, then how many were there? 'é One)
+
+Draw a picture of how they were arranged and put an arrow to show the
+direction they were traveling.
+
+Did the object at any time:
+18.1 Move behind something? (Circle One) Yes (No) Don't know
+IF you answered YES, then tell what it moved behind,

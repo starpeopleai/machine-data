@@ -1,0 +1,54 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T01:30:26Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5986313, "source_ctime_ns": 1793386342090086955, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28995762/0978.jpg", "source_mtime_ns": 1785748302000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28995762/0978.jpg", "source_sha256": "1e16f3572af52fbfda60a7b67bd7ae7e9548a1aeaf168bdf969d7b5483663425"}
+
+===== PAGE 1 =====
+{"alpha_words": 136, "chars": 945, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+"WASHINGTON |
+*AONUMENT
+
+et ee
+Frama Zs
+uneworaad
+
+WASHINGTON
+NATIONAL
+AIRPORT
+
+Vi4nd Tacka ik WY 7
+eet t
+
+Free Travel Service
+RCUTES MARKED BY EXPERTS
+Experienced travel counselors at Esso Touring
+Service will mark an individual route for your
+trip inthe United States or abroad. For a busi-
+ness @ pleasure trip, the shortest or most scenic,
+these-iravel experts know the best roads and
+how te avoid construction. Ask your Esso Dealer
+fora bondy, prepaid Esso Touring Service post-
+card—er stop in at our office, near the Capitol,
+open fom 9 to 4:45 Mondays to Fridays and
+
+from $ to 1 Saturdeys.
+
+Késs0) Touring Seaviad:
+- Capitol Servicenter
+261 Consirution Aven NW, Washington 1, D.C, MAtional 8-9032
+ees
+G vax SSO TOURING SERVICE OFFICES *
+‘ 15-1 $ist St., New York 19, 21. + Phone Plaza 7-1200
+0,£mo8 Street, New Orieams by ba. * Phone Magnolia 5782
+
+pat Foie 2. von ee
+
+Wilson vibe
+(19 MtVernc
+
+}7. McNair
+
+Lesley
+
+T
+
+Wa
+
+gooosoegosecon

@@ -1,0 +1,59 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T01:59:57Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1360153, "source_ctime_ns": 1793356072265771825, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989301-001-0121.jpg", "source_mtime_ns": 1785564599000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989301-001-0121.jpg", "source_sha256": "5e1d50ea7cf43bcc6325a6caf3fe1580494035e9b3cd8d20d2e87703565ddbdf"}
+
+===== PAGE 1 =====
+{"alpha_words": 298, "chars": 1812, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROFESSOR MOORE - 6/8/94 22
+
+A: No. We were the balloonists. This was all ground-
+based stuff. There was also an operation in Bermuda. Then later
+you'll find...
+
+Q: Crary also initiated that?
+
+A: He was in charge of it. He was running it. They went
+and got a whole bunch of 500 pound bombs out of the Earl
+Ammunition Depot in New Jersey. Later. you'll find that they did
+a bunch down in the Canal zone. Then eventually they went to
+Alaska.
+
+OG: This was prior to '47?
+
+AS The New Jersey, and I think the Bermuda operation,
+you'll find a hint in this diary I gave you, you'll find a hint
+about Bermuda and so on in there. He was talking about trying to
+measure the sky waves coming in.
+
+If you're interested, we can go extract, there's a paper in
+the Journal of Meteorology in something like '47.
+
+QO: I believe I have that. Is that the same one?
+A: No, this is by Crary.
+Q: Crary did quite a few publications for Red Bank and
+
+then for Cambridge Labs.
+
+A: Correct. But you'll find one, I think it's either '74
+or '49. If you want we can go over to our library and make you a
+xerox of it.
+
+Q: I'm familiar with that one.
+
+A: It's very circumspect as far as classified matter.
+
+Q: So Peoples and Crary had Columbia University
+affiliation?
+
+A: Well, Watson. They were derived from Columbia. Both
+of them were derived... I think Peoples got his PhD under Ewing
+
+at Columbia, and Crary didn't get his doctorate until later.
+
+©: You said Crary's ground station was Alamagordo, but he
+was actually doing explosions in Alaska, off Bermuda, Panama, the
+Jersey coast.
+
+A: In the late '46, early '47 era, he was in Alamagordo,
+in and around Alamagordo. He was very concerned about explosions
+off the Jersey coast and I think off Bermuda. The Panama Canal
+operation I think was not associated with Alamagordo at that
+time.

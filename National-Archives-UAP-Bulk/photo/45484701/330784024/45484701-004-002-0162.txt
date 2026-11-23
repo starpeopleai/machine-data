@@ -1,0 +1,83 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T02:28:51Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6622968, "source_ctime_ns": 1793362949374825746, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330784024/45484701-004-002-0162.jpg", "source_mtime_ns": 1785685048000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330784024/45484701-004-002-0162.jpg", "source_sha256": "7cde0c5cdd69b00fbc4a7faae77cd49f681558e68018926e2ac5c8ed40203c6b"}
+
+===== PAGE 1 =====
+{"alpha_words": 290, "chars": 1696, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+@ ee ashe tate
+ae te
+
+Lt. Lunsford:
+Mrs. Speraz
+Lt. Lunsford:
+Mrs. Spera:
+Lt. Lunsford:
+Mrs. Speras
+
+Lt. Lunsford:
+
+Mrs. Speras
+
+Ite Lunsford:
+
+Mrs. Speras
+
+Lt. Lunsford:
+Mrs. Speray:
+Lt. Lunsford:
+Mrs. Speras
+
+Lt. Lunsford:
+
+Mrs. Speras
+
+UNIDENTIFIED FLYING OBJECTS
+
+From what direction did the object come?
+It cane from the East.
+
+In what direction did it disappears
+
+It veered straight North.
+
+Did it go at an angle?
+
+It seemed to go in a straight line,
+
+How long would you say you saw this object before it
+dis appe a ed?
+
+About four minutes,
+
+Do you remember which way the wind was blowing at
+that time?
+
+I can't remember, We have a breeze all the time out
+here. I can't remember which direction it was blowing,
+
+What color did you say it was?
+I would say a silver blue,
+
+In what direction was the sun?
+The sun was in the southwest,
+
+Mrs. Spera, would you like to make anymore comments on
+this object?
+
+People are afraid to report these things because they
+are afraid the public will say they are hysterical or
+crazy. I do not believe this is right or patriotic.
+
+I believe we should report all such things we see and
+try to find out about these 'flying saucers', I had
+my little grandson here with me and haven't read the
+paper much lately outside of reading Dick Tracy to
+
+hime So I hadn't amy thoughts lately of flying saucers,
+After I saw this object ] told my neighbor about it the
+next day and she showed me the paper of the evening
+before where these objects had been reported at 12:00
+noon at Titusville and then later at Pottsville, Pa.
+
+It also stated in the paper that it could be hysteria,
+planetary or atmospheric. I definitely say it is
+
+Declassification Authority: NND 923007

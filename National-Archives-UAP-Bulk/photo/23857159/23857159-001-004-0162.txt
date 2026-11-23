@@ -1,0 +1,64 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T01:49:07Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 17440194, "source_ctime_ns": 1793361148449351142, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-004-0162.tif", "source_mtime_ns": 1785565245000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-004-0162.tif", "source_sha256": "309cd1d34b8e55c1b8d33a8c5db946661a1e92a14a03926666fc1e71d1e70c07"}
+
+===== PAGE 1 =====
+{"alpha_words": 435, "chars": 2898, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+AF FORM 112—PART I | aE ee ? Tie
+APPROVED 1 JUNE 1948 . eae A as Ca
+
+AIR INTELLIGENCE INFORMATION REPORT
+
+Air Attache, Tokyo, Japan IR-62-58
+
+PAGE a OF 2 PAGES
+
+1. <A RB-50 No. 47161 on project 47-58 mission F132 from the 6091st Reconnaissance
+Squadron made an unusual sighting at 2210452 January 1958, Alreraft position at this
+time was 57°10'North, 140°35'East, heading 240 , altitude 15,000 feet. Weather at the
+time of sighting was clear with unlimited visibility.
+
+2. A flash was observed high and to the left of the aircraft (10-1130 o'clock
+position) followed by a brilliant blue-green light trail. This trail appeared to
+originate from the flash and followed a flat descending trajectory to the 1230 o'clock
+position at which time it went out within an estimated 500 feet of the aircraft. At
+this time the trailwas still above the aircraft. Total time of observation was an
+estimated three seconds.
+
+3. Observation was made by the Aircraft Commander Captain Jack M. Reed,
+
+Pilot 1/Lt Terrence E, Turner, re, Central Fire Control S/Sgt Ronaid ss
+Thiele, BF and Left Scanner S/Sgt Thomas N. “mith, ot Saget
+crew members are with the 609lst Reconnaissance Squadron,
+
+Above
+
+4. Further debriefing of the crew provided basic confirmation of the above details.
+The color of the flash of light could only be described as white or yellowish white
+due to the short duration. A brief time delay (split second) was reported between
+the flash and the appearance of the brilliant blue~green trail. During this period
+the pilot described what appeared to him as a trail of sparks dull red or orange
+color, The blue-green trail went out abruptly and did not fade out slowly. Those
+of the crew that observed the incident are in general agreement that at its closest
+| point the blue-green trail was within 500 feet of the aircraft.
+
+COMMENT OF PREPARING OFTICER: -
+5. The crew was on alert for any activity prior to the incident. No aircraft was
+observed prior to or after the incident. The light flash wes the first indication
+of the incident. While an approximation of distance at Hight 238 ditiicult, 1% is
+believed that the crews' experience lends credence to the approximaticn of the
+nearest distance. Basic information was previously reported by COMOC R-8, 2300552
+January 1958, from 67th Tactical Reconnaissance Wing.
+
+JOSEPH A. CALHOON
+
+Captain, USAF
+ATILO
+
+NOTE: ae DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U. S. C.—
+1 AND 32, AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW
+IT aay NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF
+INTELLIGENCE, USAF.
+
+(CLASSIE ZATION) can sams 16—55570-1 YU. & GOVERNMENT PRINTING OFFICE
+
+DECLASSIFIED
+Authority NND 9237007

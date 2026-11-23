@@ -1,0 +1,12 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T02:22:27Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5246026, "source_ctime_ns": 1793368751829872021, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28929393/0772.jpg", "source_mtime_ns": 1785688669000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28929393/0772.jpg", "source_sha256": "b970a088cc98ee87e9529218df8f63407cc6592b6b702824ba3defebc7c3d214"}
+
+===== PAGE 1 =====
+{"alpha_words": 20, "chars": 178, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+~ ’
+3 {
+Incident 712 <~ Vancouver, Washington <= 4 Yuly 1947 |
+: there is no astrononmicul explanation for tuis incident.
+See report on incident iS. |
+. ng ;
+| PA * "¢ af
+P 9 ,

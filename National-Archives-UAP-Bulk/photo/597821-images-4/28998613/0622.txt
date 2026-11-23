@@ -1,0 +1,44 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T01:40:58Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8693896, "source_ctime_ns": 1793387381118555046, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28998613/0622.jpg", "source_mtime_ns": 1785748340000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28998613/0622.jpg", "source_sha256": "c510a54f5ab7d10945af1805184682ba489c59db04638a6cf89a4b88679061f9"}
+
+===== PAGE 1 =====
+{"alpha_words": 135, "chars": 896, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+=a aa a 7 eee MECH Mop te eee Heoe: ret:
+
+AF ‘ID 23549 ne Avs 6) as,
+
+Ja |
+‘ . a rf +
+Action Control:
+
+ARA iy i Rec'd: August 14, 1962
+2:03 p.m.
+
+FROM: Managua
+
+info i
+| “ae
+ae TQ: Secretary of State Es
+SSA : &
+P re a ey I hak meg oe Ae =.
+veya ‘NO: SO, August 14, 9. a.m. Sat Che UU Bi
+wy) Bb J we eel f* i
+en Wd
+AOA : ‘
+OSD DEPARTMENT PASS DA FOR ACSI INFORMATION GTWO CINCARIB, GTWO
+Navy USARCARTB,
+‘AtR? 2
+RMR Gite CX-19
+REF my. CX=18 correct time object sighted TV read 121540Z August.
+Local newspapers RPT (repeated RPT) many persons in Western
+‘ Nicaragua observed unidentified flying object. Consensus ah
+observers agrée that altitude of object too low to be svac
+J Fs
+vehicle. No further identification made,
+SCP=3;
+SGD MORGAN,
+BROWN
+DM
+NOTE: .RELAYED TO DEPTAR, .CI} ea, USARCARIB, 8-14-62, HEBD.
+AF Dist: CIN-9, SAFS-3, XPD-3, OOP-CP-1, SMS-3 -19-
+[|
+PROHIBITED UNLESS “UNCLASSIFIED”

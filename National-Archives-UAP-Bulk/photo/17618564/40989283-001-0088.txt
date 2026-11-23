@@ -1,0 +1,46 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T01:58:27Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1155946, "source_ctime_ns": 1793355879000884544, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989283-001-0088.jpg", "source_mtime_ns": 1785564549000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989283-001-0088.jpg", "source_sha256": "98e418363505ead9fb9da076efd52dcb0407c260d7530cf881eb26e01205e2d9"}
+
+===== PAGE 1 =====
+{"alpha_words": 109, "chars": 893, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Corr
+
+TENANT AND
+BAILED AIRCRAFT AT HADC
+
+TENANE ‘TYPE SN TENANT TYPE SN
+AFAC F-}02A 53-1807 DOUGLAS F-89D 5382560 BT
+F.l02A 53-1018 F-86 51-8282 BT
+C AFFTC F-102A 1,08 NORTHROP JF-89J 53-2670 BT
+~ F-102k 80 =i9 JB-57B  55-h245 BT
+CONVAIR YFA-102A 53-1788 BT RADIO- B-l7B  -S1-2328 «BT
+F~102h 53-1793 BT JBel7B 51-2350 BT
+F-l02C 5361797 BT .
+-) 2 ., GPOD- 1-33 48-360 BT
+Y-102C 53-1806 Br YEAR -
+T-33 52-937) BT
+HUGHES B-25 3-86888 BT T-33 52-9375 BT
+B-25 1,3=30648 BT T-33 48-919 BT
+B25 WoT BE BELL Beh? §3+2315
+3=2 BT
+E-89D 51-08 Br — :
+EYDB-))\7E 51-5219 BT
+Fa89D 51-109 Br |
+EYDB-),\7E 51-5220 BT
+F-100D Br
+EDB-36H 51-5710 BT
+a Fel02A 9 5341799 ss BT
+: “4EDB-36H 51-5706 BT
+# Fel02A «5 5=995 Br - nee
+F: 85 BT
+| Ba57 53-125 BF - —
+| <b yoo 9 ~ Br
+LOCKHEED JB-2°N h-86102 BT
+B-298 hh=6h073 BT
+JTB-50 = bh-290siBT
+JB-50D 4-068 BY .# To come in later
+## To lose ons B-36 soon
+-
+
+Jo
+. bs.
+it

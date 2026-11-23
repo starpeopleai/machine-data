@@ -1,0 +1,37 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T01:50:09Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 19846830, "source_ctime_ns": 1793361098702487304, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-004-0107.tif", "source_mtime_ns": 1785565230000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-004-0107.tif", "source_sha256": "f990b9771e7da3761028dfab641f64fd1b9b8fb1440d9065348f9da0c64f41e4"}
+
+===== PAGE 1 =====
+{"alpha_words": 125, "chars": 886, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+AF FORM 112—PARTJI aie (Cy
+AIR INTELLIGENCE INFORMATION REPORT
+
+REPORT NO.
+
+FRANKFURT TEAM, 7053rd AISS
+7050TH Air INTSERGRU (USAPE) IR-540-58 pace | D or 8 PAGES
+
+. No details on wind direction and velocity
+(3) No clouds
+(4) Usual night-time visibility.
+(5) None
+(6) None
+h. None
+i. B/dr
+je None
+k. W/A.
+1. None,
+
+MICHAEL NOVAKOVIC
+let Lt.<, “USAF
+Commander
+
+NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U. S. C.—
+31 AND 32, ASAMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW.
+IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF
+
+INTELLIGENCE, USAF.
+
+(CLASSIFICATION) Air Force—USAFE, Wsbn, Ger-55-6709
+
+DECLASSIFIED
+Authority NND 9237007

@@ -1,0 +1,68 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T01:31:36Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6636166, "source_ctime_ns": 1793361748896129360, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330781368/45484701-001-003-0008.jpg", "source_mtime_ns": 1785685135000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330781368/45484701-001-003-0008.jpg", "source_sha256": "75f6b12bc916871dbea9f329aa6765eb4573bcbb60e95bb57c874ba11be7c86c"}
+
+===== PAGE 1 =====
+{"alpha_words": 229, "chars": 1571, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Fourth Army
+
+Intelligence Liaison Office
+
+Box 23), Sandia Base
+
+Albuquerque, N. M. 18 February 1919
+
+REPORT OF TRIP TO LOS ALAMOS, NEW MEXICO, 16 FEBRUARY 1919, BY COMMANDER
+RICHARD S. MANDELKORN, U.S.N., RESEARCH AND DEVELOPMENT DIVISION, SANDIA
+BASE.
+
+Subject: Project "Grudge".
+
+1. On 16 February, a conference was held at Los Alamos to consider
+the so-called green fireball phenomena which commenced about 5 December
+1948. The following were present:
+
+For Los Alamos:
+
+Mr. N. E. 5radbury
+My. Marshall Holloway
+' My. Fred Reines
+Mr. John Manley
+Mr. Edward Teller
+Mr. Elmo Morgan (AEC)
+Mr. Sidney Neuberger (Security)
+Mr. Maxwell (AESS)
+Mr. Hoyt
+
+the Fourth Army: CLASSIFICATION CANC TELEED 3 ei
+BY AUTHORITY OF THz DIRECTORAOP SPEC INV
+rinT W NTE an nr
+Major William A. Godsoe KURT K. KUNZE, pt
+Major Wynn nIStOr an
+
+n= ne tae eatetee piven eteeen 5 5
+
+the U. S. Air Force: DATE
+
+Captain Neef
+
+the University of New Mexico:
+
+Dr. Lincoln LaPaz
+
+Sandia Base:
+
+Commander Richard Mandelkorn
+
+2. Captain Neef opened the meeting by saying that the problem was
+
+being presented to Los Alamos scientists in hopes that they would be able
+to indicate some mode of attack on the problem and offer some explana-
+tions for the phenomena observed. He stated that this question had been
+classified military SECRET under the name, Project "Grudge", and that the
+
+investigation was now the primary responsibility of USAF, Air Materiel
+Command, T-2. He then turned over the discussion to Dr. LaPaz.
+
+’ HA re he eSIFIED
+A corr: Jf 2@ Se UNCLASoH
+
+Declassification Authority: NND 923007

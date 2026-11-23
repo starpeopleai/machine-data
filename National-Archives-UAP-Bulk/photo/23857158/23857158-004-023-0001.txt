@@ -1,0 +1,56 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T01:46:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 12729370, "source_ctime_ns": 1793358688906130258, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-023-0001.tif", "source_mtime_ns": 1785681172000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-023-0001.tif", "source_sha256": "647929c3e0091d2c8bdf9182480bcc126fc4a73e03062e5d5de7ebb573d85cd5"}
+
+===== PAGE 1 =====
+{"alpha_words": 81, "chars": 592, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Declassification Authority NND 923007
+
+1602D AISS UFOB LOG
+
+' | REPORT NO.
+
+Phone.
+
+DATE TEE OF SYEITNG {RECD HQ 1:602D
+ ATSS=UPOB 21-55 31/2805Z Dee 55 3 Jan 56
+PIQORTION OF Sart iG LOGGED BY
+Bergan Park, Colerade . S/Sg% DeRudder
+RS eet ZOTTON
+
+Limited telephenie investigation
+
+| INVES UNIT
+
+Hqa
+
+DATE INVES ASSIGNED
+
+3 Jan 56
+
+ASSIGNING OFFICER
+
+DATE IR RECD HO
+
+aa
+
+DATE IR APPROVED
+
+N/A
+
+DATE ERO ALC
+
+H/a
+
+| DATE OF FO2M 5
+
+1h Jan 56
+
+Ag any possible leads were checked
+{has been resolved as as
+
+without results this sighting
+
+CONCLUSIONS
+
+‘POSSIBLE ATRCRAFY
+
+AISOP FORM 7 (2 APR 55)

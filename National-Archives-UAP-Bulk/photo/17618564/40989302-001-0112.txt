@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T01:58:43Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1216969, "source_ctime_ns": 1793356099927850026, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989302-001-0112.jpg", "source_mtime_ns": 1785564607000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989302-001-0112.jpg", "source_sha256": "563bec5ba9f9c0c7c14a9a552b0142322ee942b58a80ff768ac9d48c37d7922b"}
+
+===== PAGE 1 =====
+{"alpha_words": 235, "chars": 1436, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+MITCHELL, William, 0-63 Docket Number 56-290
+
+38.
+
+What relevancy or materiality this type of character
+assassination had to the specific charge is difficult to
+comprehend. Nevertheless it went on unchecked and unrestrained
+
+by the court. But it did prove what really was in issue.
+
+At least one member of the Court sensed what was on trial and
+
+voted to acquit. (See exchange of correspondence between
+
+Senator Wiley and General Douglas MacArthur, an exhibit to petitioner':
+brief.) Little doubt exists that he could have so voted unless he
+believed that most of the things that Mitchell said about the
+
+future of aviation were right (and perhaps needed saying), or
+
+in any event the intent alleged was lacking.
+
+With the so-called wild imaginings or pipe dreams of Mitchell spread
+on the record in contrast with pat, conventional and outmoded
+
+views of witnesses from the General Staff it is small wonder that
+contemporaries of the latter on the court should find Mitchell
+guilty of harboring delusions about the capabilities of air power.
+Not until sentence was pronounced did the real purpose of the
+court-martial become exposed. It did not sentence him to dismissal
+from the service as it could have done. It kept him in the service
+but without rank, command, or pay for five years. Nore important,
+this would keep him from talking, from upsetting the status quo -
+
+&t least so it was thought or hoped. Only by modification by the

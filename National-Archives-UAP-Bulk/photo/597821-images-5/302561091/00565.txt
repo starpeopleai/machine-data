@@ -1,0 +1,40 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T02:06:00Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1743255, "source_ctime_ns": 1793391697451391031, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302561091/00565.jp2", "source_mtime_ns": 1785808626000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302561091/00565.jp2", "source_sha256": "9471beb18225f7eb8ee97dc40f35be5621f037aaae7434a2b13bf76d721e725f"}
+
+===== PAGE 1 =====
+{"alpha_words": 248, "chars": 1610, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+U.S. AIR FORCE TECHNICAL INFORMATION
+This questionnaire has been prepared so that you can give the U.S. Air Force as much
+information as possible concerning the unidentified aerial phenomenon that you have oliserveii,
+Please try to onswer as many questions as you possibly can. The information that ycu give will
+be used for research purposes. Your nome will not be used in connection with any statemenis,
+conclusions, or publications without your permission. We request this personal information se
+that if it is deemed necessary, we may contact you for further details.
+: 1. Whan did you see the object? 2. Time of day: ft the I 34
+i Houe Minutsa
+’ Si mM i sca liciew ‘cpus cecal tue (Circle One): ZAM: oF P.M.
+q Day Month Yeur Regen o
+4 3. Time Zone; ee ae
+7 (Cirele One): a. Eastern (Circle One); a. Daylight Scving
+q b.-Central ib. Standard
+q c. Mountain | hes
+: d. Pacific on
+4 e. Other celiac
+4 4. Where were you when you saw the obisct?
+4 Neorss City or Town Stote o Gaurey pee
+q 5. How long wes abject in sight? (Tors! Ouration) ce
+q Hours Minutes Saconds
+; ‘i ne c. Not very sure
+4 b. Fairly certain — d. Justo guess
+4 5.1 How was time In sight determines?
+4 5.2 Was obiect in sisht continuously? Yes _< CT Sainte
+6. What was the sarc:cion of the sky?
+DAY NIGHT
+a. Bright a. Bright
+b, Cloudy b. Cloudy
+7. IF you sow the objact during DAYLIGHT, whara was the SUN located as you locked at tha objent?
+(Circle One): a, In front of you d. To your left |
+. b. In back of you e. Overhead
+: c. To your right f, Don’t remember
+
+FORM
+FTD oct 62 164 — thie form supersedes FTD 164, Jul 61, which te obsolete.

@@ -1,0 +1,53 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T02:01:51Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1480437, "source_ctime_ns": 1793356040052941141, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989300-001-0033.jpg", "source_mtime_ns": 1785564590000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989300-001-0033.jpg", "source_sha256": "689cf362c1100abeae4caa27f9997a7253672df783dd12d54425f8ff4314a58d"}
+
+===== PAGE 1 =====
+{"alpha_words": 231, "chars": 1645, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Flight 58: Released from Alamogordo, New Mexico, 2033 MST, May 10, 1948
+Recovered at Val D'Or, Quebec
+
+A .001" polyethylene balloon was the vehicle on this flight oarrying a
+barograph as well as an early model of the Olland-cycle pressure modulator,
+This flight was released at night with a fixed ballast flow of about 300
+
+rams per hour expected to keep the balloon afloat. From the barogram
+(ies 22) (12-hour rotation) it appears that the orifice did not permit
+sufficient (if any) flow to maintain buoyancy during the first several
+hours (perhaps the orifice was clogged or frozen). After a descent to about
+55,000 feet at smricea floating level was maintained with 4 kilograms of
+ballast available. The full flow rate could not have been maintained much
+more than the 11 hours during which the balloon was at this pressure,
+
+a a 7 “iy 48
+eee Cee ae
+Pri it TSE
+oft tet | TN |
+
+SOIC CC oN
+
+PVA TTL _ \_ \ \\ she. ce
+2000 2100 2200 2300 0000 0100 ~=0200 0300 0400 0500 0600 0700
+0800 03900 1000 1100 1200 1300 1400 1500 1600 (700 1gs00
+
+Time- MST.
+NYU BALLOON PROJECT FLIGHT 58
+Barograph Record Of G.M 20 ft. Plastic Balloon With
+300 gm/hr Fixed Ballast Leak
+RELEASED AT ALAMOGORDO, N.M. — 2033 MST, 10 MAY, 1948
+
+RECOVERED AT VAL D'OR, QUEBEC, CANADA- 24 MAY,I948
+ESTIMATED DURATION— 24 \/2 hres.
+
+ght In Thousan
+
+i:
+
+Figure 22
+
+On this flight, oscillations in the pressure record were seen. With
+no control system which could cause such behavior, they must be attributed
+to atmospheric motion.
+
+The descent point was compared with that expected from analyses of the
+pressure field. The results of a number of such analyses are shown in
+
+=S0=

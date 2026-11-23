@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T02:24:51Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5678675, "source_ctime_ns": 1793378688026931073, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28968872/0326.jpg", "source_mtime_ns": 1785696486000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28968872/0326.jpg", "source_sha256": "1ce3a394db159a8ae2f2847959da2e149be36c82a7f75430e532302756e93fed"}
+
+===== PAGE 1 =====
+{"alpha_words": 142, "chars": 1055, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+Cee
+1, DATE 2. LOCATION 12. CONCLUSIONS
+|
+‘ ages Was Balloon
+a7 Jvandarny. 1957 Glendora, California O Probably Balloon
+ay oy O Possibly Balloon
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION
+oveuera’ Cy Vi Oo is a] Was Aircrofr |
+Local 9O0% ~O- Ground- Vi sual Ground Radar Gl Probably Aircraft
+GMT 23/035207 0 Air- Vi suai D Air-Intarcept Radar O Possibly Aircraft
+5. PHOTOS 6 SOURCE O Was Astronomical
+QO Yes 0 Probably Astronomical
+SOKNo Civilian O Possibly Astronomical
+7. LENGTH OF OBSERVATION 8 NUMBER OF OBJECTS | 9. COURSE O Other
+(xX insufficient Data far Evaluation
+: Hf ee O Unknown
+not rptd one teeibe ola) tuna gh BH Oe
+10. BRIEF SUMMARY OF SIGHTING 11. COMMENTS
+Rpt from Chief of Police, Glendora, Evaluated a probable a/c in TWX
+salifornia that an object was sighted requesting investigation; how-
+by resident and son. Described as a ever, data not sufficient to
+bright disc hovered, made a swishing establish this evaluation,
+sound and shook house, Case listed as insufficient data,
+
+ATIC FORM 329 (REV 26 S3ZP 52)

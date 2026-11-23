@@ -1,0 +1,47 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T02:15:58Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4319142, "source_ctime_ns": 1793375712103124194, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28957338/0429.jpg", "source_mtime_ns": 1785696700000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28957338/0429.jpg", "source_sha256": "873cc79f358547080c92bf521faa6895a3b73af474cd30041ba7e79f2697ac2b"}
+
+===== PAGE 1 =====
+{"alpha_words": 77, "chars": 502, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ae ssf
+wecaaa OY 7
+
+weDesa * Ny
+WDAL9S
+
+JUFMB A193
+
+PP JEDEN Jepy@-JEPHA 333
+
+| Pio
+DE JWFM2 ar
+P 1421
+FM COMDR SAAMA KELLY A:
+
+TO JEDEN/COMDR AIR DEF: .
+JEDWP/COMDR AIR TECHNICA
+JePHQ/C OF S USAF WASH ©
+JEDWP/COMDR AMC WRIGHT -
+
+SAABBe1-9-E FOR DIR OF
+UFOB_IN ACCORDANCE WITH
+
+vD2807 ‘i b, ye"
+
+im YE aceyars FE.
+
+\
+
+}
+
+dave
+s\
+SS
+
+a Ce
+COMMAND ENT AFB COLO
+L INTELLIGENCE CEN WRIGHT PATTENSCN AFB O410
+gia
+"PRSN AFON OH1
+[\TELLIGENCE FOR MCEP AMC
+
+AY 202-2 THE FOLLOWING REPORT IS SURMITTED ~ ‘°° ‘

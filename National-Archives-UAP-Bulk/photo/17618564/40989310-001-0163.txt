@@ -1,0 +1,48 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T02:08:55Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 2202092, "source_ctime_ns": 1793356246374890921, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989310-001-0163.jpg", "source_mtime_ns": 1785564648000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989310-001-0163.jpg", "source_sha256": "3ba4b64f6a5dfd0956713407996fd97b62d7fda3c06ec365bdf1649c43cbcdca"}
+
+===== PAGE 1 =====
+{"alpha_words": 381, "chars": 2674, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+being pilloried as incompetents or worse, those involved disposed of all
+record of their work and its unfortunate outcome.
+
+As for the bodies, "Whoops!" offers two alternatives. Alternative 1:
+Despite Herculean efforts to preserve the cadavers, they quickly decomposed.
+Since there was nothing unique about their chemical components, no physical
+proof of their extraterrestrial origin remained. Alternative 2: After the
+spacecraft wreckage was destroyed, the biological teams continued their
+work, but other than confirming the bodies' extraordinary nature, nothing
+more was learned. The bodies were put in storage, labeled as anthropological
+specimens or the like, and those who worked on them went on to other
+projects. Over time, as those who knew of the bodies retired and died,
+institutional memory of what they were faded and winked out Thus,
+reminiscent of the closing scene in /ndiana Jones and the Raiders of the Lost
+Ark, the Roswell bodies became nothing more than just another box of bones
+and a file entry among millions in, say, the Smithsonian Institution.
+
+Roswell remains an enigma worth cracking. It could well be the event of the
+millennium, proof at last we are not alone in the universe. It could be a key to
+important insights into excesses committed in the name of national security at
+the dawn of the Cold War and having nothing to do with a crashed flying
+saucer. It could be something else entirely. Whatever the answer, I hope we
+are up to it.
+
+End Nete
+
+1. Letter from Lieutenant General Nathan F. Twining, commanding
+general, Air Materiel Command, to Brigadier General George Schulgen, chief,
+Air Intelligence Requirements Division, Office of the Assistant Chief of Air
+Staff, September 23, 1947, subject "AMC Opinion Concerning ‘Flying Discs”;
+“Analysis of ‘Flying Disc’ Reports," prepared by Air Intelligence Division staff,
+Headquarters, U.S. Air Force, undated but completed before December 18,
+1947 (a reanalyzed and rewritten version of a memorandum dated October 6,
+1947, subject "Recommendations Relative to Unidentified Flying Objects");
+draft intelligence collection memorandum prepared by the Air Force Office of
+Intelligence Requirements (General Schulgen, chief), October 30, 1947,
+"Intelligence Collection Requirements on Flying Saucer Type Aircraft’;
+Technical Report TR-2274-IA, Technical Intelligence Division, Air Material
+Command (Project Sign final report), February 11, 1949. An alternative to
+Berliner’s interpretation of the Schulgen collection memorandum is that the
+memo was nothing more than a standard foreign air vehicle intelligence
+requirements document hastily modified to address the flying saucer problem.
+
+11?

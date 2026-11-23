@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T02:06:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1749345, "source_ctime_ns": 1793390289417376116, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302548828/0054.jp2", "source_mtime_ns": 1785808612000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302548828/0054.jp2", "source_sha256": "bb2e00ac5705210d2e179f23a5244333866edb7fc0690102ca75fdcc97ae6c47"}
+
+===== PAGE 1 =====
+{"alpha_words": 121, "chars": 832, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD
+
+1.’ DATE » TIME GROUP 2. LOCATION ya fy
+31 March 1966 01/0300Z Guntersville, Alabama
+3 SOURCE 10. CONCLUSION L
+Civilian Possible (AIRCRAFT) Rey AH eusvyes
+4. NUMBER OF OBJECTS VASA wt ps vSou nett
+One c - ok
+S. LENGTH OF OBSERVATION |11. BRIEF SUMMARY AND ANALYSIS |
+50 Seconds Object looked like a shooting star only slower. Also Light
+PEO VATION was pulsating from bright to dim. Observer also noted aircraft
+gy acm cenin in the area, Object moved downward and stopped atthe jet lelel
+Ground-Visual - for a few secamds, then speeded very fast eastward.
+17, COURSE _— Brom the infarmtion available ther is no indication that the
+reported sighting was not that of an A/c.
+EB
+6. PHOTOS
+O Yes
+| XC No
+
+9. PHYSICAL EVIDENCE
+
+O Yes
+XK Ne
+
+FORM ;
+FTD sep 63 0-329 (TDE) Previous editions of thie form may be used.

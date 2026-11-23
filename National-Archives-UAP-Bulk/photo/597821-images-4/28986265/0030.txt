@@ -1,0 +1,37 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T01:35:07Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7328274, "source_ctime_ns": 1793383065025792967, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28986265/0030.jpg", "source_mtime_ns": 1785748059000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28986265/0030.jpg", "source_sha256": "491bec6e9aa02d3d71614b18df3ad1c2fa38da43b80ba3fad67303b7d639130c"}
+
+===== PAGE 1 =====
+{"alpha_words": 58, "chars": 426, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+REPLY TO
+ATIN OF:
+
+SUBJEOT:
+
+MAAIN
+
+HEADQUARTERS gatRAl
+MILITARY AIR TRANSPORT SERVICE an.
+UNITED STATES AIR FORCE fcc Aaeae
+SCOTT AIR FORCE BASE, ILLINOIS ace 13
+
+UFO
+
+a OS
+a .
+Lae |
+
+1
+
+C2
+
+Keference Paragraph 1, Unclassified message MAXIN 25 C O4, 25 Harch
+1960, subject as above. Letter from 12th OSI District forwarded
+herewith.
+
+FOR THE COMMANDER
+
+O/a C, Afrbe— Ae ah
+
+t
+
+GGRG os PE ODE, C510) Usan Ltr, OSL, 25. Mar 60

@@ -1,0 +1,53 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T02:07:20Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1771599, "source_ctime_ns": 1793391932025931920, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302562670/0452.jp2", "source_mtime_ns": 1785808701000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302562670/0452.jp2", "source_sha256": "3dbf8d0c184b9b9a091e9c7df9e18ffda031eca105a7ea45e74a552ba8fc0699"}
+
+===== PAGE 1 =====
+{"alpha_words": 276, "chars": 1790, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+JRIV
+
+$ ‘ hf t 6 ~ . ier %
+3 ~s ’ s M - Page:2
+8. IF you saw the object at NIGHT, what did you notice concerning the STARS and MOON?
+8.1 STARS (Circle One): age Hohe 8.2 MOON (Circle One): _ ;
+a. None ent i ae: Beet i a. Bright moonlight sh .
+Bo Bb. A few rk eed ; {TS be Dull moonlight +: 4
+‘Ye. Many’ RR es Mak oe No moonlight—pitch dark ; his SIS ia 2
+«<, d. Don’t remember: “ aaa a Biba” aati i CG Reon't remembs OP LR ae gah raiat: EK Rr cant
+9. What were the weather conditions or the time you sow the object? Sooty a Meh a poled ‘
+CLOUDS (Circle One)e 2 = SO WEATHER (Circle One): © co :
+b. Hazy ta RSD eae es 0 b.. Fog, mist, or light rain ‘as ‘ ies
+c. Scattered clouds . aera c.. Moderate or heavy rain:
+d. Thick or heavy clouds os edie ~ d. Snow.
+> e. Don’tremember
+®&
+10. The object appeared: (Circle One):
+a. Solid
+b. Transparent _.. @. Don’t remember
+c. Vapor ;
+11... If it appeared as a light, was it arlguiee than the brightest:stars? (Circle One):
+: c. About the same airs | ’
+€, b. Dimmer d. Don'tknew - : ae
+11.3 Compare drightness to some common object: |
+
+Feet an %
+
+PJecrdod ‘'f€ Was Light an top o\ enttnnas
+(motel,
+
+12. The edges of the object were:
+
+(Circie One): cs. Fuzzy or blurred: ; ; e. + on Spilled Spapks shi
+
+d. Don’t-remember:. sh oat Cwse PK a Or- = oe fend. 4 2 aad
+it ot
+13. Did the object: on (Circle One for each question) —- |
+;
+a. Appear to stand still at.any time? Yes No: Don't know |
+b. Suddenly speed up and rush away at any time? ( Yes 4 Now Don’t know
+c. Break up into parts or explode? ~ - apes VO® No <-» Don'tknow~ — |
+d. Give off smoke? Roa . - Yes: Now? Don't know Fern |
+2. Change brightness? Yes No Don’t know:
+f. Change shape? Yes No Don't know |
+g. Flash or flicker? Yes No Don't know
+h. Disappear and reappear? Yes No Don't know
+
+/

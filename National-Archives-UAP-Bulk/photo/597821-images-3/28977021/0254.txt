@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T02:10:18Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3458729, "source_ctime_ns": 1793380588958228077, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28977021/0254.jpg", "source_mtime_ns": 1785701021000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28977021/0254.jpg", "source_sha256": "3c2200ad43b3a72048286dbba2a9309d7499ad19c6160a3f3ff9ec5c620837ab"}
+
+===== PAGE 1 =====
+{"alpha_words": 125, "chars": 938, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+1. DATE 2. LOCATION 12. CONCLUSIONS
+ao , O Was Balloon
+3 Feb 58 West of Wake Island QO Probably Balloon
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION G Possibly Balloon
+. O Was Aircraft
+Local D Ground- Visual O Ground-Radar Gi. Prebably Aiveeats
+io} cr i = hy BG . .
+(aor 13/0914Z 78 Air Visual 2TX Air-intercept Rader 4 & Possibly Aircroft
+5. PHOTOS 6. SOURCE O Was Astronomicel VOtoor
+0 Yes O Probably Astronomical
+8 No Military vis Tf Possibly Astronomical
+7. LENGTH OF OBSERVATION 8. NUMBER OF OBJECTS | 9. COURSE DBD Other
+OQ Insufficient Data for Evaluation
+i ; Qo
+flash one N/A
+0. BRIEF SUMMARY OF SIGHTING 11. COMMENTS
+Circular greenish-blue obj, size of Obj appeared as flash. Characte:
+grapeinuit. Gave bright, iustantansoud istic of meteor of short duratic
+flash. wo objs picked up on radar. Radar contacts of reported A/C
+Pilot believed he was being "shot at''J in area,
+
+ATIC FORM 329 (REV 25 SEP 52)

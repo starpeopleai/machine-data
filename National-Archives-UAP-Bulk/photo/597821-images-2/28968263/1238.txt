@@ -1,0 +1,11 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T02:27:47Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6265344, "source_ctime_ns": 1793378529123300413, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28968263/1238.jpg", "source_mtime_ns": 1785696616000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28968263/1238.jpg", "source_sha256": "b3543a4d0a4b204e4ea6ab282de5c60e4bf75973445218210c7f6187bbd04d2b"}
+
+===== PAGE 1 =====
+{"alpha_words": 11, "chars": 79, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+4 ‘oe gametes’ <*
+
+usA {iC -ahoa~ # SOf5/ ZL FORO
+
+a
+
+“2g scoPl f df NOOSE. -

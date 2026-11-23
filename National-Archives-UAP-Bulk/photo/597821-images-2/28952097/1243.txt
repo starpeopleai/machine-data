@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T02:18:30Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4730818, "source_ctime_ns": 1793374539851445189, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28952097/1243.jpg", "source_mtime_ns": 1785696587000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28952097/1243.jpg", "source_sha256": "fe64ad59d18446f9fe0a16a90cf0f066977a7a367b69accf5afdf45262b6512f"}
+
+===== PAGE 1 =====
+{"alpha_words": 135, "chars": 925, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+TO ATIAA=3 RUPPELT FP AFOINe2A2 FOURNET wpe
+FOLG MSS CM 1165 NTN 26 NOV 52 FR CO 59TH AY 4 i'd
+
+TCP $Q GOOSE BAY AB LABRADOR
+‘POR YOUR INFOS
+MCIRVIS CONFIRM, UNIDENTIFIED OBJECT
+SIGHTED GOOSE BAY ARFA AT 2521582 BY F-94543
+AIRCREW, ‘OBJEET SIGHTED OVER GOOSE AIRBASE |
+AND TRACED geass ‘ON igg REGRET COURSE.
+ALTITUDE 1522. FO 12803 FT, SPFFD 259 TO 425
+
+KNOTS INDICA NO DEFINITE SUAPF, COLOR
+'RPIGHT ORANGE AND RED. KO SCI CONTACT,
+| AIRE ORNE RADAR INOPERATIVE 4 OBJECT MAINTAINED
+
+canes ane A
+
+SAME DISTANCE FROM FSB DESPITE FRIENPLYS
+
+| VIOLENT AERIAL WANEUVERING., NO ATTACK PASSES
+MADE EY UNKNOWN OBJECT, NO JET OR ROCKET
+FXKAUST NOTED, VEATHER CAVUy WIND 315
+
+| DEGREES/13 TO 29 KNOTS, OTHER AIRCRAFT IN
+
+| AREA WERE AS FOLLOWS: (+125, C47, DCS,
+
+| CANADIAN NORTNSTAR, PILOT REPORTS SICHTING
+
+THESE AIRCRATT. PILOT NAME JOHNGON, EDUIN Te,
+AIRCRAFT NO, 43S~ BETAILED REPORT FOLLOUS."
+
+i
+PND OF CSAF ITT NEP 5 PMA Lb |

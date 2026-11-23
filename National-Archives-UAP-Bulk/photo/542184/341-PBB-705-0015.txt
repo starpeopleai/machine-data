@@ -1,0 +1,7 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T01:50:44Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 22003024, "source_ctime_ns": 1793367570531206246, "source_file": "National-Archives-UAP-Bulk/photo/542184/341-PBB-705-0015.jpg", "source_mtime_ns": 1785565741000000000, "source_rel": "National-Archives-UAP-Bulk/photo/542184/341-PBB-705-0015.jpg", "source_sha256": "61c8dc2f43e9bf9231af1919b949b48d34a99fc3fd2f243890cf5b08bc47854c"}
+
+===== PAGE 1 =====
+{"alpha_words": 32, "chars": 168, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Dereethar incense oi
+
+male eaiopat- SF man aat ane iaean Pe Tco. A craserieconre apna drainer a REA SOREaneRT Pe ham ial ct tain aa gin ah en beet haa rpms te tabi gh

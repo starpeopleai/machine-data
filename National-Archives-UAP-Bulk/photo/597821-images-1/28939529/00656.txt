@@ -1,0 +1,44 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T02:12:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3791163, "source_ctime_ns": 1793371709839518077, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28939529/00656.jpg", "source_mtime_ns": 1785689025000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28939529/00656.jpg", "source_sha256": "5063014d9619aa5b5e125b73896a0effd2ddac0af5873524cb5000dd6796f465"}
+
+===== PAGE 1 =====
+{"alpha_words": 132, "chars": 1033, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+(
+
+1. DATE 2. LOCATION 12. CONCLUSIONS
+: . OD Wes Beolloon
+6 Sep 51 Hollywood, California © Probably Belleon
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION © Possibly Bollcon
+O Wes Ai:croft
+Loco! __ 1920 [XGround- Vi suel D Greund-Reder 3 fae now
+GMT__7/ o32e & 0 Air Vi suol O Air-Intercep) Redor |9 Possibly Aircroft
+5. PHOTOS wits $b. SOURCE O Wes Astronomicol
+O Yes D Probobly Astronomicol
+Ne Civilian O Possibly Astronomicol
+7. LENGTH OF OBSERVATION 8. NUMBER OF OBJECTS | 9. COURSE YK Other PBYCHOLOGIC
+O Insufficient Dota for Evoluction
+5 - 10 mins Two To MOON O Unknown
+10, BRIEF SUMMARY OF SIGHTING = Round 11. COMMENTS
+
+Glowing, deep red objects appeared,
+One object ahd a flash of
+Other object was
+Ship was three X as long as
+Disappeared by going up.
+
+tweards moon,
+
+brilliant white light.
+
+benind moon.
+moon's diameter.
+
+Headed
+
+Observation attributed to over active
+imagination. Witmass probably saw
+something such as an a/c meteor or
+balloon, triggering her report.
+
+“IC FORM 329 (REV 26 SEP S2)

@@ -1,0 +1,82 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T02:18:39Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4755227, "source_ctime_ns": 1793380350883938565, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28975503/00387.jpg", "source_mtime_ns": 1785700837000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28975503/00387.jpg", "source_sha256": "c37a3959f1b1f8b319164286fa97097f3f97c1d28d9cb2f51010e5b0bd479989"}
+
+===== PAGE 1 =====
+{"alpha_words": 104, "chars": 797, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+1. DATE
+
+lL December 1957
+
+2. LOCATION
+
+SE of Augusta, Georgia
+
+CONCLUSIONS
+
+Was Balloon
+Probably Balloon
+
+3. DATE-TIME GROUP
+
+4. TYPE OF OBSERVATION
+
+Dit & 4 cd ba ha
+one
+
+Lecol
+cut ___01/20002
+5 PHOTOS
+: O Yes
+XG No
+
+Possibly Balloon
+
+Was Aircraft
+Probobly Aircroft
+Possibly Aircraft
+
+O Ground-Rador
+
+DO Air-Intercept Radar
+
+6. SOURCE
+
+Military & Civilian
+
+K
+
+Was Astronomical Venus
+XP robably Astronomica
+Possibly Astronomical
+
+7. LENGTH OF OBSERVATION
+
+not given
+
+6. NUMBER OF OBJECTS
+
+one
+
+9. COURSE
+NE to SW
+then SW to NE
+
+Orher
+
+Insufficient Dota for Evaluation
+nknown
+
+ooo off6 900 ooo §
+
+10. BRIEF SUMMARY OF SIGHTING
+
+bag,
+
+Round object, white and/or silver,
+Appearance of partially filled plastic
+
+11. COMMENTS
+Probably Venus,
+
+ATIC FORM 329 (REV 26 SEP 52)

@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T01:54:45Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 820752, "source_ctime_ns": 1793392234583062400, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302565978/0419.jp2", "source_mtime_ns": 1785808208000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302565978/0419.jp2", "source_sha256": "c621aa37e7ab09db02c1957952c19e258fc64d261d6e5a0987407da8ad3911be"}
+
+===== PAGE 1 =====
+{"alpha_words": 143, "chars": 898, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Teey ines
+
+4 tate
+
+ii ae HO opaAGE W! OF wees PAGES
+PHOTO ANALYSIS REPORT pa Oreie | sf RAS
+Jlrebod fea (heat Nee Eee ey
+| DATE OF REPORT LO October 1967
+SUBJECT JNLDENTIFIED FLYING OBJECT
+LOCATIC Ventnor, New Jersey ow 13 May 1967
+PHOTOGRAPHY
+AF IR quaLity —__Fair
+PNRS
+1. PURPOS: This report is written to fulfill a request,Work Order Number 67-82, submitted by
+Major H. Quintanilla, Jr., TDET/UFO, to identify the flying object which appears in the
+attached photo.
+2. ANALYSIS: Lack of image definition in the photo precludes identification of the referenc
+object. An analysis of the original negative, however, may possibly reveal new information
+which cannot be gleaned from the pa raat
+
+APPROVED BY:
+Ye. a enteee
+VAY), aA Ts , LAse 2 tS
+eo lnn Lett =
+as ot L. TUR WER
+arch Specialist Major, USAF 1
+Chief, af Ana} Ro Branch
+
+hh ey
+
+WILBER PRICE, JR
+
+ave
+
+Chief, Photo ‘Eeplot tabiok Division

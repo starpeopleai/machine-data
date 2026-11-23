@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T01:40:28Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8615444, "source_ctime_ns": 1793387387228622329, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28998624/0629.jpg", "source_mtime_ns": 1785747887000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28998624/0629.jpg", "source_sha256": "ad3c8a5f1a38603e8857a057da5478f380d71910e050324ed24b6de08168a8a1"}
+
+===== PAGE 1 =====
+{"alpha_words": 120, "chars": 915, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+1. DATE 2. LOCATION 12. CONCLUSIONS
+0 Was Balloon
+14 August 1962 Upper Volta, Africa - ha td te re
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION ibly Bolloon
+Locol 3PM xX Ground: Vi sual OG Ground-Roder a Tesbeuly taverets
+GMT 14/1500Z D Air Vi sual 0 Air-lntercept Rodor OD Possibly Aircroft
+3.. PHOTOS é. SOURCE GXWas Astronomical Metecorilte
+OYes Physical 0 Probably Astronomical
+MXNe Specimen Civilian =. Tossitiy Mewonomted
+7. LENGTH OF OBSERVATION 8. NUMBER OF OBJECTS | 9. COURSE O Other
+0D Insufficient Dota for Evaluation
+O Unknown
+recovered object one found on grouhd
+10. BRIEF SUMMARY OF SIGHTING 11, COMMENTS
+Object fell causing alarm to field Assumed meteorite. Sent to
+workers. Loud noise and bright light Brookhaven for analysis,
+overhead in afternoon. Size of vrape-
+fruit, object weighing 8 kilos. Found
+in hole 40 cm deep 3 meters wide,
+4 J‘
+
+ATIC FORM 329 (REV 26 SEP $2)

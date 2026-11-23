@@ -1,0 +1,41 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T02:29:24Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6844470, "source_ctime_ns": 1793379995197798080, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28974148/0679.jpg", "source_mtime_ns": 1785701083000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28974148/0679.jpg", "source_sha256": "a8e982dcb2d6ca83e7745e6dac9788b6e040e4b7078ecf95a0e612be4cb13ec6"}
+
+===== PAGE 1 =====
+{"alpha_words": 66, "chars": 439, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+KR RJEPNB RJEPHQ RJEDDN RJEDWP
+DE RJEPNY 26
+
+R 9815392
+
+FM 26TH ADIV. VV
+
+TO RJEDDN/COMDR ADC
+RJEDWP/COMDR ATIC
+
+RJEPHQ/. AC OF S INTEL HQ USAF
+INFO RJEPNB/COMDR EADF
+
+BT
+
+(1) DESCRIPTION:
+¢A) UNK — tts expat
+
+(B > (Dime
+
+«c ( WHITE) VERY BRIGHT
+
+CD) UMK — teen: Ze
+(Zz) NvA— nee oan
+(F) UNK
+(G) UNK
+¢H) NONE
+
+JEDWP H924 WPB138 YDC#76 TYD11@ TMBi34 TTBOSPNYAG39. Meats t
+
+oben.
+
+tla La Lomees saad
+
+/UNCLASS/UFOB REPORT ATTNs CIC EADF
+
+A

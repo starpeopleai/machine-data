@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T02:02:50Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1692842, "source_ctime_ns": 1793391106958134092, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302555518/0860.jp2", "source_mtime_ns": 1785808389000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302555518/0860.jp2", "source_sha256": "ac096c4fb00707817c787e3e67bdfa50370dafb4a6460a8175177fbe463c426c"}
+
+===== PAGE 1 =====
+{"alpha_words": 77, "chars": 542, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+?
+
+rrp (rtpstr) 44
+Wright-Patterson AFB, Ohio 45433
+9 September 1966
+
+Dr. Aone.
+
+ae,
+Bowling Green, Ohio 43402
+
+Dear Dr ai
+
+Reference your unidentified observation of 8 September 1966,
+which you reported to the Smithsonian Institute. The infor-
+mation which we have received is not sufficient for evaluation.
+Request you complete the attached FID Form 164 and return it
+in the envelope provided.
+
+We wish to thank you for reporting your observation to the
+Air Force.
+
+Sincerely,
+\y
+
+TOR QUINTANILLA, Jr, Major, USAF
+Chief, Project Blue Book

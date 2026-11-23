@@ -1,0 +1,60 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T02:20:15Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4912356, "source_ctime_ns": 1793377708679552119, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28965052/1338.jpg", "source_mtime_ns": 1785696433000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28965052/1338.jpg", "source_sha256": "4e514bcc516966db1a0aeccd17e6bc4670f6cb4b82f3c1f7eb9951378e7c5650"}
+
+===== PAGE 1 =====
+{"alpha_words": 108, "chars": 716, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+‘Rpg4. wPFa24
+PRR RJEDWP
+[DE RJEPHQ 1174
+
+B7T224902
+
+ve
+(FM HEDUSAF WASHDC
+1 TO ATIC. WPAFB On LO
+
+[Rr 9592592 /
+
+‘
+
+ry COMDR 755TH ac&W SQ WILLIAMS BAY WISC
+
+iro RJEDEN/COMDR ADC ENT AFB COLO
+
+|RJEDAE/COMDR 37TH ADIV TRUAX FLD MADISON WISC
+
+B 2JEPNB/COMDR EAF STEWART AFB N Y
+
+;23EPHQ/DIR OF INTELLIGENCE HQ USAF WASHDC
+
+| INFO RJEDHR/COMDR 4746TH ADW OHARE INTL APRT PA
+
+, BT
+
+E@12HQB214
+
+on
+a , is / ¥
+(f A eres.
+
+hs
+
+Kk popem Ui
+
+B7/U NCLASSIFI E D//YBOOT 9728 UFOB IN ACCORDANCE WITH AFR
+
+| 254-2 CMM DTD 7 DTD 12 AUG 54 CMM FOLLOWING REPORT IS SUBMITTED:
+
+1. CA) ROUND
+
+(B) SIZE OF SHIRT BUTTON
+
+(C) WHITE
+(D) THREE
+(E) N/A
+
+PAGE TWO RJEPHQ 1174
+
+CI) NONE
+
+O. CA) OBS SAID fT WAS FLYING LOW
+CB) APPROX 832 FT

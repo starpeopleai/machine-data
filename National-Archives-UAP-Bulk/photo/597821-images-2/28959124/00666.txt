@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T02:09:25Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3146350, "source_ctime_ns": 1793376079685682862, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28959124/00666.jpg", "source_mtime_ns": 1785696868000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28959124/00666.jpg", "source_sha256": "832f172fa9fce8a4d2cd13b4d10e0f6c069782d7683201ba9d381069dab4d50b"}
+
+===== PAGE 1 =====
+{"alpha_words": 109, "chars": 828, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+From: Commandant, SIXTH aval District
+Tor Director of intelligence, Headquarters, USA™, Washington, BD. C.
+_- Air Technical Intelligence Center, Wright-Patterson AFB, Oh
+Commander, Eastern Air Defense Force, Stewart AYB, Newburch, N.Y.
+Commander, Air Defense Command, Ent AFB, Colorado "Springs y. OOd eS
+
+Subj: Report of unidentiried Piying object; forwarding of
+Ref: (a) COMEASTSRAFRON Instruction 3820.2 of 15 Tuly 195)
+
+Gnel: {2) Commander y US Naval Base, Key West, Fla. conf ltr ser 023
+dtd 5 August 195), with enclosure
+
+1. Enclosure (1) is forwarded herewith in accordance with reference (a).
+
+2, The files of DID-6ND contain no derogatory data concerning M, J.
+BROWN, QMC, USN.
+
+fA
+By direction
+TIO COPY Td:
+oS 7 5 YEAR INTERVALS?
+
+ED a> 3 ot rk 3, ) VE ARS.
+DOWNGRADE op AFTER 12 YE
+DECLASS Op Dis 5700.10
+
+TRA-~T4a1A

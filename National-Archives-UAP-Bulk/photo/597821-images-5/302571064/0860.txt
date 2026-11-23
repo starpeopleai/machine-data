@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T01:54:37Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 813462, "source_ctime_ns": 1793392796385829470, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302571064/0860.jp2", "source_mtime_ns": 1785808420000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302571064/0860.jp2", "source_sha256": "4c416b427844abb6e911c946ffdfe4ed754b8b75b53b114d57bc2d5e0708a0ae"}
+
+===== PAGE 1 =====
+{"alpha_words": 72, "chars": 457, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Wisids
+
+eee pe VEEL
+
+TDET/UFO (Maj. Quintanilla/70916/jaf/13 Oct 67) OCT 17 1967
+
+6
+
+UFO. Observation of 9 Oct 1967
+
+Tucson, Arizona. 35710
+
+1. Reference your UFO sighting of 9 October 1967. We would
+like to. have shite ee whet eae sed FID Form 164 and also
+writ onal info you can remember
+abous the eee:
+
+hei
+
+: ats Fr is : ye ole arian
+2. Thank you ror reportinsy shting to the Air Force.
+
+gate eee USAF L Atch
+of Technolosy ane Subsystems FYD Form 1604

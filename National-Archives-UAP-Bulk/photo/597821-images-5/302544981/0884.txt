@@ -1,0 +1,18 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T02:04:38Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1723151, "source_ctime_ns": 1793389939763883641, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302544981/0884.jp2", "source_mtime_ns": 1785808595000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302544981/0884.jp2", "source_sha256": "db1b414a0675d273993e0b673d0d7dccf2ac22d14c1954508238adb810a9d5ed"}
+
+===== PAGE 1 =====
+{"alpha_words": 52, "chars": 357, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+DEPARTMENT Of THE AIR FORCE
+STAFF (AESSAGE BRANCH
+INCOMING FAESSAGE
+
+AR IN: 50243 (5 Aug 65)
+SOUTH OF TINKER AFB.
+
+J. LOCATION, APPROXIMATE ALTITUDE, AND GENERAL DIRECTION
+OF FLIGHT OF ANY AIR TRAFFIC OR BALLOON RELEASED: US WEATHER
+STATION, WILL ROGERS FIELD, OKLAHOMA CITY, OKLA. RELEASED A
+
+ome: SECTION: IT IS AFIN: 50158 (3 Aug 65).
+
+ia mag rye Ree °

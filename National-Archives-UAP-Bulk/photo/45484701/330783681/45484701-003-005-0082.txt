@@ -1,0 +1,42 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T01:32:58Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6859853, "source_ctime_ns": 1793362773790148230, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330783681/45484701-003-005-0082.jpg", "source_mtime_ns": 1785684554000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330783681/45484701-003-005-0082.jpg", "source_sha256": "521db1cddfb3c8c95ebdcaa96e96a65406685acdea8aa65310d0c74b562f0565"}
+
+===== PAGE 1 =====
+{"alpha_words": 110, "chars": 845, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+OCT 8 1958
+
+Typed: 6 Oct 58
+24°18 5-486 AFCSI-6D/Capt Osen/ayg/CLE1/ 88%
+
+MEMORANDUM FOR ASSISTANT CHIEF OF STAFF, INTELLIGENC Ch, USAF
+SUBJECT: Transmittal of Information
+
+1. Transmitted is information considered of interest to
+your office. The inclosure is for your retention,
+
+2e Remarks -
+
+2 Incl: \HOMER L. MOORE, Lt Colonel, USAF
+
+1. Ltr dtd 22 Sep 58
+fr Donald E. Keyhoe
+te Mr. J. Edgar Hoover.
+2. Cy ltr fr J. Edgar
+seives to Donald By.
+Keyhoe dtd<26 Sep 580), UPON WITHDRAWAL OF ve INCLOSURES,
+Loy ft “e\ THE CLASSIFICATION ON TH{S CORRE-
+SPONDENCE WILL BE pce
+
+Chief, Sabotage and Espionage Branch
+Counterintelligence Division
+Directorate of Special Investigations
+The Inspector General
+
+p 13 00! ss
+
+File Copy -- AFCSI-6D INV 24-185-486
+GaptL. F. Olsen
+
+May(is>M. Arentson
+TILt Cok‘H, L. Moore
+
+Declassification Authority: NND 923007

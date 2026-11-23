@@ -1,0 +1,55 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T02:04:55Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1726352, "source_ctime_ns": 1793390867115228174, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302553956/0719.jp2", "source_mtime_ns": 1785808117000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302553956/0719.jp2", "source_sha256": "15fc3a9c0c974c9cc069bf355b0699373e51d7879e73579fce1e2f4e1b723fb3"}
+
+===== PAGE 1 =====
+{"alpha_words": 69, "chars": 534, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD
+
+1. DATE + TIME GROUP
+3 Ausust 55 04/0200Z
+
+2. LOCATION
+Dayton, Ohio
+
+3. SOURCE
+
+4. NUMBER CF OBJECTS
+
+n/ A
+
+10, CONCLUSION ae
+INSUFFICIENT DATA FOR EVALUATION ae We :
+
+5. LENGTH CF OBSERVATION
+
+1 Minute
+
+6 TYPE OF OSSERVATION
+
+Ground-Vi sual
+
+7. COURSE
+
+T/A
+ans nr
+
+8. PHOTOS
+
+_ se
+iv=-
+
+—_
+———
+cy Jr}
+fale O
+
+9. PHYSICAL EViOENCE
+
+O Yes
+GUNo
+
+11, BRIEF SUMMARY AND ANALYSIS
+Form 164 was seit to observer and returned due to "ADDRESS
+
+FORM
+
+FTD sep 63 0-229 (TD E) Previous editions of this form may be used, a

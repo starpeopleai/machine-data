@@ -1,0 +1,11 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T01:58:00Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1075107, "source_ctime_ns": 1793389396248299191, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302540063/00384.jp2", "source_mtime_ns": 1785808203000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302540063/00384.jp2", "source_sha256": "171210b907eb397a9fc2d42fb5feb6937046fd7fb925a2f0f8ac29af6c23975d"}
+
+===== PAGE 1 =====
+{"alpha_words": 16, "chars": 67, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+wg nae Gah oY ga Chae
+
+nent
+
+vey oe
+PAR Pe ats Set 1
+ape Aan bona

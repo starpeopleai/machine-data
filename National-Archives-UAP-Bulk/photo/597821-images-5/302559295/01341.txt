@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T02:03:03Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1707622, "source_ctime_ns": 1793391533533348997, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302559295/01341.jp2", "source_mtime_ns": 1785808341000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302559295/01341.jp2", "source_sha256": "22a239fcf5ff1359701f119e45f96ef19432656c35b2e846c7cf35989d4853ee"}
+
+===== PAGE 1 =====
+{"alpha_words": 149, "chars": 857, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+’ \ aa e
+.
+° Page 5
+27. In the following skereh, imagine that you ara at the point shown, Place an ‘'A’’ on the curved lina to show how
+
+nigh the object was above the horizon (skyline) when you firsi saw it. Place a ''B”’ on the same curved line to
+show how high tha object was above the horizon (skyline) when you last saw it. Place an ‘‘A”’ on the compass
+when you firs? saw it, Place a ‘'B”’ on the compass where you /ast saw the object.
+
+Ge
+30 75°
+
+~
+aye ‘\
+of “atfe 2
+
+28. Draw a picture thar will show the motion rhat the object or objects made. Place an ‘’A’’ at the baginuing of the.
+path, a ''B”’ at the end of the path, and shuw ony changes in direction during the course.
+
+29. IF there was MORE THAN ONE object, then how many were there?
+Draw a picture of how they were arranged, and put an arrow to show the direction that they were traveling.

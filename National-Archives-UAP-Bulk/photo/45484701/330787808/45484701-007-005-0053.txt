@@ -1,0 +1,40 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T01:40:03Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8562865, "source_ctime_ns": 1793364827873469776, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787808/45484701-007-005-0053.jpg", "source_mtime_ns": 1785685204000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787808/45484701-007-005-0053.jpg", "source_sha256": "5f32b1f56a75e02d57c7f411a337cc0d4e23f199dee675fda5afa70875906b8f"}
+
+===== PAGE 1 =====
+{"alpha_words": 102, "chars": 724, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+# UNCLASSIFIED
+
+Wrtn 11 July 50
+rhy185~20
+
+Unidentified Explosions in Oregon “tate
+SPECIAL INQUIRY
+
+Air Provost Marshal, ‘the inspewtor General
+
+Counter Intelligence “ivision, Office of Special Mir. Stilwell /71776/Lse
+investi ga ti ong, the 4nspect tor General AFCSI
+
+The attached copy of Spot Intelligence Report, 20th District Office,
+OSI, dated 27 June 1950, is forwarded for the information of your office.
+
+Spot Intel Rpt, OST lt. Colonel, USér
+
+DO20, dtd 27 Jun 50, Actg Chief, Counter intelligence Div
+
+Subj as abv. Office of Special Investigations
+The Inspector General
+
+CLASSIFICATION CANCELLED Has best. bk
+BY heat kh OF THE DIREC TCO,
+
+y Vay ty VuUF
+
+Declassification Authority: NND 923007
+
+FILE COPY
+
+AFCS
+
+£
+A

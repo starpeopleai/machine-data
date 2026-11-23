@@ -1,0 +1,45 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T01:41:12Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8715718, "source_ctime_ns": 1793387704691644522, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28999023/0988.jpg", "source_mtime_ns": 1785747872000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28999023/0988.jpg", "source_sha256": "ca1edd5520e41feff615cd4b20690a3ae621041ed4a3d6b5cac43e565bc759ab"}
+
+===== PAGE 1 =====
+{"alpha_words": 129, "chars": 809, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+fia f
+HEADQUARTERS RII.
+FOREIGN TECHNOLOGY DIVISION ascot Ha
+AIR FORCE SYSTEMS COMMAND een |
+UNITED STATES AIR FORCE By ga TV
+
+REPLY TO
+ATTN OF:
+
+SUBJECT:
+
+TO:
+
+WRIGHT-PATTERSON AIR FORCE BASE, OHIO an eee
+
+TD-E/Col
+
+Request for UFO Information (Letters from NASA)
+
+Wyan
+
+Ho USAF
+SAFOI-3b (Major Hart)
+Wash 25, DC
+1, Reference the attached letters forwarded to this office fr
+the NASA requesting information on unidentified flying siseote.
+These letters are forwarded to your office for whatever action
+you deem necessary.
+2. fhe tin foil referred to in these letters is chaff, proba-
+bly dropped by USAF Aircraft during a practice mission.
+FOR THE COMMANDER
+" eee Sy Mef
+
+Kher 4
+EDVARD WYNN 2 Atchs
+Colonel, USAF Ltr fm Mr. Qe
+Deputy for Science dtd 13 Sep 62,
+
+ar Components Ltr fm Mrs, Qe
+
+dtd 10 Sep Gz.

@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T02:24:37Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5546678, "source_ctime_ns": 1793370170420149586, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28933949/1292.jpg", "source_mtime_ns": 1785688552000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28933949/1292.jpg", "source_sha256": "973d606d47465a361df180f71ee296ae240b64d17b3a3546a05ca3dd58fe1c69"}
+
+===== PAGE 1 =====
+{"alpha_words": 66, "chars": 501, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Ost MOTAXS 2 Vay 1949 lé
+5 ae Med
+
+It ts requested your office initiate an investigation of the
+ng of allesed flying saucers as rapbrtead by inclosed confidential
+
+ation
+
+w *
+
+Information as oublined itn the inclosed juide to Investization
+
+is jdiesired,
+
+2 Incls W. R. CLINGSRMAN sit /amt
+1. Gon? Ltr 06400/0P-321D Colonal, USar 333338
+2, Guide to Investisation Chisf, Tesh Intell Division B 288
+
+in trip) Intellizencs Devartment P2133
+,
+
+DO% WNG RADED \. Oe ig,
+SCLASS' ria 4 Last iy
+
+}{ i
+
+4
+= a3

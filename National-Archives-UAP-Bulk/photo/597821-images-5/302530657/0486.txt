@@ -1,0 +1,98 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T02:08:50Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1923276, "source_ctime_ns": 1793388645244569287, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302530657/0486.jp2", "source_mtime_ns": 1785808218000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302530657/0486.jp2", "source_sha256": "10c21c882c5ac287c7248e014c04271f9f545dc2ba704af679bb20559fa7c9e2"}
+
+===== PAGE 1 =====
+{"alpha_words": 116, "chars": 868, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+se ag Es, ENE RTT
+
+rq
+
+Md
+
+PROJECT 10073 RECORD CARD
+
+‘¥. DATE
+
+FY Hat QO“
+{ Awe v7 2) J,
+
+2. LOCATION
+
+Lannan, Maryland
+
+12. CONCLUSIONS
+
+4. DATE-TIME GROUP
+
+MAS Am
+Local LOD ot
+
+flan AAS
+
+4. TYPE OF OBSERVATION
+~& Ground. Vi sual 0 Ground-Rodor
+
+D Air Vi sual
+
+O Alr-Intercopt Rodor
+
+aS) Was Bolloon
+Probably Balloon
+
+Possibly Bolioon
+O Was Aiveraft
+
+Probably Aircroft
+Possibly Aircroft
+
+"§. PHOTOS
+Yes
+CR No
+
+8. SOURCE
+
+Wes Astronomicol
+Probably Astronomical
+
+7. LENGTH OF OBSERYATION
+
+45 Minutes
+
+8 NUMBER OF OBJECTS | % COURSE
+
+OSes os
+
+~ @ + ¢
+One Stationary
+
+Possibly Astronomical
+
+Insufficient Data for Evaluotion
+
+ogg goo ag
+
+10. BRIEF SUMMARY OF SIGHT
+
+&- iz “_-
+Stationary oof
+
+Son Ne
+
++ wrt
+
+, 1 2 . —.
+at 60 deg elevation in NE
+“ ff. /, ° ° ca .
+
+of object without
+
+11, COMMENTS
+
+6 Ff Ge ae
+
+we LAL
+
+Sun reflecting
+
+pendii
+
+ATIC FORM 329 (REV 26 3EP 52)

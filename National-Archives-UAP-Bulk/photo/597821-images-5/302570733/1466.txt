@@ -1,0 +1,24 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T01:55:53Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 982603, "source_ctime_ns": 1793392774674335474, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302570733/1466.jp2", "source_mtime_ns": 1785808145000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302570733/1466.jp2", "source_sha256": "4d0acd052f7ac9abc314323249ae9271910f2e06ebd4a691c8e3dbe1f57df5df"}
+
+===== PAGE 1 =====
+{"alpha_words": 96, "chars": 589, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+é 18. DRAW A PICTURE THAT WILL SHOW THE SHAPE OF THE PHENOMENON. INCLUDE AND LABEL ANY DETAILS THAT MIGH r
+HAVE APPEARED AS WINGS OR PROTRUSIONS, AND INDICATE EXHAUST OR VAPOR TRAILS. INDICATE BY AN ARROW THE
+DIRECTION THE PHENOMENON WAS MOVING.
+: i
+: |
+H
+! t
+4
+j
+z
+4
+v
+f
+?
+1s. ULAR SIZE? HOLD A MATCH AT ARM’S LENGTH IN FRONT OF A KNOWN OBJECY, SUCH AS A STREET 4
+NOTE HOW MUCH OCF THE OAJECT IS COVERED GY THE HEAD OF THE M4 TH. NOW IF YOU HAD
+FORM THIS EXPERIMENT AT THE TIME OF THE SIGHTING, ESTIMATE WHAT FRACTION OF THE
+SOULD HAVE BEEN COVERED 8Y THE MATCH HEAD.
+
+PAGE 6 OF 9 PAGES

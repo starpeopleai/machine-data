@@ -1,0 +1,19 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T01:52:11Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 24902728, "source_ctime_ns": 1793359265043185537, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-007-014-0005.tif", "source_mtime_ns": 1785681360000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-007-014-0005.tif", "source_sha256": "7bb28ef77340e9a31f3137be65c66ec77c833284fe9663a7b5e28abf9e37ef37"}
+
+===== PAGE 1 =====
+{"alpha_words": 24, "chars": 182, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Declassification At
+
+AE COMMIS
+
+APPROVED fJUNE (9a
+
+onversation with B
+
+bof report. Give significance tm final one-sentence paragroph. Ast imclogures of lower left.
+
+ras (
+
+ots
+
+ue

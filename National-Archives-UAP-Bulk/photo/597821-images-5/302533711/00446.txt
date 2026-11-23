@@ -1,0 +1,43 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T01:59:42Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1283495, "source_ctime_ns": 1793388864937393437, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302533711/00446.jp2", "source_mtime_ns": 1785808674000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302533711/00446.jp2", "source_sha256": "69834e32294d6b98fe52f0dbedcb40baffcb9cc1ab664a1d8d9ebebf7d7a76ca"}
+
+===== PAGE 1 =====
+{"alpha_words": 86, "chars": 725, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+2. LOCATION
+
+—
+
+~
+
+12.
+0
+O
+o
+
+3. DATE-TIME GROUP
+
+i 4, TYPE OF OBSERVATION
+
+CONCLUSIONS
+
+Was Balloon
+Probably Baliocon
+
+Possibly Salloon
+
+Local ' “<XGround- Vi suol O Ground-Redar ved Wos Aircraft
+i ( Probably Aircraft
+GMT 23+ 25% 0 Air Visual 0 Air-Intercopt Radar MQ Possibly Aircraft
+5. PHOTOS } 6. SOURCE fC) Was Astronomical
+0 Yes i 1 Probably Astronomical
+sNo civilian QO Possibly Astronomica
+7. LENGTH OF OBSERVATION 8. NUMBER OF OBJECTS | 9% COURSE O Other __
+' 0D Insufficient Data for Evaluation
+N { Int
+not reported one not reported Boeneen
+9, BRIEF SUMMARY OF SIGHTING 1i,. COMMENTS
+5 : ZO sy £ / OT URO
+apparently BS on- jet, ights showing. Esti-
+7 ‘
+‘a ATIC FORM 329 (REV 26 3EP 52)

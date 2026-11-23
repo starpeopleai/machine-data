@@ -1,0 +1,52 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T01:49:57Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 19169138, "source_ctime_ns": 1793355432703662773, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0014.jpg", "source_mtime_ns": 1785564454000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0014.jpg", "source_sha256": "0d1faf82e3c3df1926d6cfbce0b6c3602459f89bc14f5559a69540de405382db"}
+
+===== PAGE 1 =====
+{"alpha_words": 187, "chars": 1306, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+= Tain Ve
+
+Se eiitaiadinimniamiaesdoeee ee a
+
+nar
+
+a
+
+we
+
+Sa
+
+Figure 9. Inspection of Ultra-thin Film Balloon
+
+However, as long as the lifting gas pres-
+
+) lifting gas pressure to vary accordingly.
+© sure does not fall below that of the surrounding air, the balloon stays full and the
+
+Figure 11 illustrates
+
+® constant density, level flight performance is maintained.
+
+) both the constant altitude profile and the diurnal variation in differential pressure.
+
+" Figures 12 and 13, show the trajectories of our flights P-27, P- 20,-and P- 34,
+
+In each case, the time of flight termination was controlled by pre-set timer, or by
+
+These flights represent the limit of the demonstrated
+
+radio command, as indicated.
+
+The existing technology and the
+
+capability of superpressure balloons, as of today.
+available high-strength, gas-tight materials can unquestionably support the exten-
+
+sion of the superpressure balloon flight capability to higher flying balloons carrying
+
+greater loads (1, 000 plus pounds to 100, 000 ft).
+It is most desirable to launch balloons from fixed ground installations when-
+
+ever possible. However, when it is required to launch in remote areas, or to
+
+F igure 8 Ultra-thi i
+: in Film Model Balloon
+locate the balloon in space at a specified time, mobile ground launching stations

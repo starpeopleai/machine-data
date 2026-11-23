@@ -1,0 +1,52 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T01:35:59Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7800275, "source_ctime_ns": 1793363339750428064, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785085/45484701-005-003-0050.jpg", "source_mtime_ns": 1785684909000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785085/45484701-005-003-0050.jpg", "source_sha256": "d6e502b606dc5c5c86b4fbb623af49f1899bb2ef58327ef5f022a265f28b0895"}
+
+===== PAGE 1 =====
+{"alpha_words": 309, "chars": 2320, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+At 30/2030Z Birmingham, Alabama(BHM) Tower advised Weather Bureau had
+received a report that a meteorite had fallen at Sylacauga, Alabama,
+
+Maxwell Flight Service(MXFFS) advised 30/20322Z.
+
+At 30/2108Z Alabama State Patrol advised Birmingham(BHM) Tower a
+woman was injured (broken hip) by a falling object near Sylacauga,
+Alabama, Woman in hospital at Sylacauga, Alabama.
+
+At 30/2115Z Eastern Airline Aircraft Trip # 181 advised Birmingham
+(BHM) Tower of the following: sighted a helicopter in a field 140
+degrees bearing from Birmingham, Alabama and 210 degrees bearing from
+Anniston, Alabama(ANB). Appeared to be a fire in the field and
+helicopter appeared to be investigating.
+
+5. Team departed Atlanta Municipal Airport at 1/0430Z for Lawson Air Force
+Base, Fort Benning, Georgia and arrived 1/09002,.
+
+6, At 1/13002 Mr. J, V. Warren (Civilian), Chief Dispatcher at Lawson AFB and
+SFC Harold S. Murray of the Dispatchers Office LAFB were interviewed. They related
+the following information:
+
+a. At 30/1850Z telephone call was received from Mr. Marion Jones, Phenix
+City, Alabama, reporting the sighting of a falling object. Since Jones
+inferred that this was obviously an aircraft crash, emergency
+procedures were instituted by Lawson Operations Officer. Refer to
+incl # 1, UFOB rept (Completed ATIC form 164).
+
+At 30/1915Z two helicopters were dispatched to alleged crash site
+with Capt Charles D, Lang in charge. Simultaneously, a ground rescue
+party departed to search the area, Both parties were recalled at
+30/2130Z. Results of search were negative.
+
+At 30/1945Z telephone call was received from W. M. Coker, Smith
+Station, Alabama reporting falling object.
+
+At 30/1950Z Cayt D. W. Read, 464 Try Carr Wg, Fope AFB, Fort Bragg,
+North Carolina phoned Dispatcher (Warren) that a moving object was
+observed from downtown Columbus, Georgia (GEOKEF: GJFC 0329), bearing
+270 to 280 degrees. The object with a long brilliant trail of fire
+exploded at approximately 40 degrees azimuth from surface.
+
+7, An unsuccessful attempt was made to locate Capt Read, An ATIC form 164
+(USAF Technical Information Sheet) was left with Mr. Warren for completion and
+forwarding to Flight 2-C, 4602d AISS, DAFB, Maricita, Georgia by Capt Read. Team
+departed for Maxwell AFB, Alabama at 1/15002,
+
+Declassification Authority: NND 923007

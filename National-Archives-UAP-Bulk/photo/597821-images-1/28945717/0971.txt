@@ -1,0 +1,15 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T02:16:28Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4379842, "source_ctime_ns": 1793373169025847783, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28945717/0971.jpg", "source_mtime_ns": 1785688791000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28945717/0971.jpg", "source_sha256": "1f71660d00d8fe0d57c6d20bcbf78dbc146ad8a815a34b4909cfc13e3f450d94"}
+
+===== PAGE 1 =====
+{"alpha_words": 43, "chars": 284, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+; a ad big
+
+Poser PC -/wccese @e 22 - REP * AT 2-S2 ee
+C”Chirs sFTARGET (WhOIM oF AW Alle, ARC Ek Tenens —
+FRom Tre _jisAzmetht9o MAoticaAl MiLES TOTAE
+
+142 AD AZ/m oThAS?® WALTICAL MULES OT Flam Seghtime STATLow _
+C77 PACT WY SQAH.
+
+OSCeL OLA, ly £S Con Erp
+_tShis w= 22S 3PLEY tas

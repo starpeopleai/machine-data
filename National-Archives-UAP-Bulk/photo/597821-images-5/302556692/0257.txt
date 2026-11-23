@@ -1,0 +1,64 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T01:53:23Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 777496, "source_ctime_ns": 1793391242758103722, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302556692/0257.jp2", "source_mtime_ns": 1785808481000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302556692/0257.jp2", "source_sha256": "6a8ab08a8a74a110d8cbec1dda44a48bfa36cc18b67df861b5732518fd6f5ed4"}
+
+===== PAGE 1 =====
+{"alpha_words": 223, "chars": 1543, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+REPLY TO
+ATTN OF:
+
+SUBJECT:
+
+TO:
+
+DEPARTMENT OF THE AIR FORCE
+HEADQUARTERS FOREIGN TECHNOLOGY DIVISION (AFSC)
+WRIGHT-PATTERSON AIR FORCE BASE, OHIO 45433
+
+TDETR
+
+UFO Photographs OCT 12 1966
+
+oar,
+
+Mrs. eliiRhi@umenees-..
+
+1. Reference your letter of 2 October 1966, regarding slides of
+unknown objects photographed over Price, Utah, on 7 April 1966. If
+you wish to submit your original slides to our office for analysis
+we will return them along with a print of each negative after the
+analysis has been completed. Request you also complete the enclosed
+FTD Form 164 describing your observation and forward both to our
+office.
+
+2. The following information on your camera will be most helpful in
+evaluating the photographs:
+
+a. Type and make of camera, Jloca - Quick A 455MM
+
+b. e, focal length, and make of lens.
+Jloca -jJlitar-Anastlgmat .V.1;43,5 .F=45NM
+c. Brand and type of filn.
+Kodak Kodachrome II Color Film K 135-20
+a. Shutter speed used.
+Information enclosed in envelopes
+e. Lens opening used; that is "f" stop.
+Bo
+f. Filiters used.
+x. Was tripods or solid stand used.
+No
+h. Was “panning” used.
+Yo
+
+i. Exact direction camera was pointing with relation to true
+north, and its angle with ag tery to the ground.
+Nertheast 15°% 25@
+air reurent b 9 supplemental fade faantan is unobtainable, the minimwm ,
+camera data required are the type of camera, and the smallest and
+largest "f" stop and shutterspeed readings of the camera.
+
+FOR THE COMMANDER
+
+”~
+
+UIS DE GOES, Colonel, USAF 1 Atch
+
+Deputy for Technology & Subsystems FTD Form 164

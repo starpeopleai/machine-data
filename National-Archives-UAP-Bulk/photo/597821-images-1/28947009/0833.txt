@@ -1,0 +1,12 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T02:12:22Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3748084, "source_ctime_ns": 1793373458540625787, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28947009/0833.jpg", "source_mtime_ns": 1785688743000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28947009/0833.jpg", "source_sha256": "45d4d93c9fc58344cfbe69227ff43c8d26be6d99e11f09880945ecdd82be01c4"}
+
+===== PAGE 1 =====
+{"alpha_words": 21, "chars": 188, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PAGE TWO JESDB 07
+
+WINDS ALOFT
+19,309'/343 DEGRIES AT 5 KNOTS$ 29,209'/35g DEgREts aT 5
+MNOTS$ 30,999°/189 DEGREES AT 15 KNOTS3 49,209'/193 DEGcREcs AT 14
+KNOTS PD ee
+
+31/28352 JUL JESDE
