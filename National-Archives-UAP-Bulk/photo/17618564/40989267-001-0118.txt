@@ -1,0 +1,50 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:39:36Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 15171587, "source_ctime_ns": 1793355533975685331, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0118.jpg", "source_mtime_ns": 1785564473000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0118.jpg", "source_sha256": "27b779b48bc2ee9a1193f96f37988d791079cf91d1b1719e10363b11abc3deb3"}
+
+===== PAGE 1 =====
+{"alpha_words": 441, "chars": 2741, "method": "ocr", "page": 1, "variant": "plain-vision"}
+226
+air at ambient temperature. In either event, the fully inflated envelope will be rapidly
+heated to operational temperature. This rapid heating can be accomplished by an
+in-flight heater with a large capacity and/or an auxiliary one-shot heater which can
+be jettisoned after warmup is completed. Figure 13 is a time/ altitude plot of a
+Raven Industries, Inc. drop test in which the envelope was filled by ram air at am-
+bient temperature. The inflated envelope was then heated by a propane burner to
+bring about float and ascent. No attempt was made to control the heat output to
+bring about level flight, therefore, the system ascended until the fuel supply was ex-
+hausted.
+Another means of heating the ingested ram air is by the use of pyrotechnic heat
+and/or gas generators. For some specialized applications the use of pyrotechnics
+is advisable.
+2.3.3 IN-FLIGHT CONTROL
+Balloon system control is limited to controlling the ascent or descent rates.
+Since the hot air balloon acts as a reefed parachute, the terminal velocity is low,
+even if in-flight heating is discontinued. This is illustrated in Figure 13 where the
+descent rate, after burnout, was approximately 15 ft/sec. In the 2-man personnel
+balloon, it has been found necessary to open vents in the balloon in order to descend
+at a rate in excess of 1,000 feet per minute.
+Unlike actual parachutes, the hot air balloon can become buoyant at any given
+level within its operating range. Once the heat input is matched to heat losses, the
+system resembles a retro-rocket with a prolonged zero velocity capability. Alti-
+tude adjustments stepwise, and in either direction, may be repeated at will for as
+many times as desired, within the limit of fuel carried on board.
+The maximum rate of rise which can be achieved by hot air balloons has not
+been clearly established but it is believed to lie between 1000 and 1500 fom. It is
+not known what effect the heat output of the balloon will have on drag. The boundary
+control possibilities of hot air balloons remain to be studied.
+2.3.4 LANDING
+The ability of a hot air balloon to remain airborne at low altitudes for extended
+periods makes for ease in selecting a landing area. Once a landing site has been
+selected, the fuel is turned off and the balloon descends. For maneuvering in areas
+with limited space, a side vent may be opened to accelerate descent. Prior to
+touchdown all fuel valves may be turned off, to preclude any fires.
+After the balloon load has reached the ground, the balloon may be rapidly defla-
+ted by a method in use on the reusable manned versions. A large aperture is opened
+LIGHT
+mi
+TIME (CST)
+Figure 13. Recovery Test of September 26, 1961
+AUNCHSITE
+8 N.W. STANLEY CORNER, S.D.
+0717 .36 CST
+5000.
+1000-

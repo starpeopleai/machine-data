@@ -1,0 +1,52 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T18:09:08Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7175169, "source_ctime_ns": 1793362383327509509, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330782837/45484701-002-006-0001.jpg", "source_mtime_ns": 1785684690000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330782837/45484701-002-006-0001.jpg", "source_sha256": "3ba88275ce5861ef7fb476a2e44d34b448e209940af540277a617664bb9578de"}
+
+===== PAGE 1 =====
+{"alpha_words": 118, "chars": 921, "method": "ocr", "page": 1, "variant": "plain-vision"}
+SECRET
+Auth: CS USAF
+BBB
+AUG 3 0 194ął
+DEPARTMENT OF THE AIR FORCE
+HEADQUARTERS UNITED STATES AIR FORCE
+WASHINGTON
+THE INSPECTOR GENERAL USAF
+3RD DISTRICT OFFICE OF SPECIAL INVESTIGATIONS
+1612 S. CAMERON STREET, HARRISBURG, PA.
+30 August 1949
+3DO 21-28
+SUBJECT:
+(UNKNOWN SUBJECT (S)
+(Aerial Phenomena)
+TO
+: Director of Special Investigations
+Headquarters, USAF
+Washington, 25, D.C.
+Transmitted herewith is correspondence and attachments thereto
+designated for Headquarters, OSI which originated from the 17th OSI District
+and was sent to this Office
+in error.
+FOR THE DISTRICT COMMANDER:
+Baccha B Burete
+Captain
+CORUS B. BIR USA
+Deputy Commander
+CLASSIFICATION CANCELLED 1OB02
+BY AUTHORITY OF TRE DIRECTOA OF SPEC INV
+BY
+KURT K. KUNZE, Capt, USAF
+Historian
+8 DEC 1975
+DATE
+Dile
+24-185 214
+UNITED STATES AIR
+HE INSPECTOR GE
+A
+SEP
+2 11 05 AM 243
+S
+SEP 1
+194g**
+2* H-1089
+UNCLASSIFIED
+Declassification Authority: NND 923007

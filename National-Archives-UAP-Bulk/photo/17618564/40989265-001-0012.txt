@@ -1,0 +1,118 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:47:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 12884304, "source_ctime_ns": 1793355313477954915, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989265-001-0012.jpg", "source_mtime_ns": 1785564433000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989265-001-0012.jpg", "source_sha256": "9dec243b5fa444b568b537181358ed18db60e995554a982e4e0f7970747b5597"}
+
+===== PAGE 1 =====
+{"alpha_words": 563, "chars": 4067, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Large super-pressure balloons were
+launched using a tow balloon to support the
+ballast. The ballast equals the free lift and is
+dispensed after reaching altitude. The super-
+pressure balloon manifests positive differen-
+tial pressure, stability and long, unballasted
+flight. Large balloons, while occasionally us-
+ed for attaining extreme altitudes, are
+principally used for carrying heavier loads.
+(b) Super-pressure Balloons
+From the late 1950s, the U.S. Air Force
+designed and tested super-pressure, spheric-
+al balloons mostly in the class of 120-foot
+diameter and 300-pound payload. But with
+the development of polyester films and bi-
+tape sealing, the super-pressure came into
+its own as a weather type. Extremely effi-
+cient as wind tracers in the field of meteor-
+ology, the wide use of super-pressures fol-
+lowed the development of durable light-
+weight electronics and the early evolution of
+command telemetry.
+Long-duration balloons continue to be
+developed today; for example, tracking has
+been improved by use of on-board comput-
+ers such as used in the Omega system. Con-
+trol range has been improved through new
+command systems with greater-than-radio-
+horizon reach; balloon design and launch
+Superpressure spherical balloon, while somewhat larger, is
+similar in design and contruction to the twelve balloons used
+in the Forbes Magazine's Atlantic Project.
+(National Center for Atmospheric Research/NSF)
+Small superpressure balloons are used in a global meteoro-
+logical experiments. Balloons of this type have remained aloft
+for as much as 744 days.
+(National Center for Atmospheric Research/NSF)
+technique are also areas yielding to re-
+finement.
+Balloon flights with 4,000 to 5,000
+pounds of payload have been quite common;
+lifted by balloons in excess of 20 million
+cubic feet. One notable example was the
+June 1975 flight of a 52-million-cubic-foot
+balloon carrying a 3,100-pound payload.
+(Payloads in excess of 10,000 pounds have
+since been flown with special balloon sys-
+tems.)
+(c) Zero-pressure Balloons
+Not only were balloons made better dur-
+ing the decade of the '50s, but bigger, too.
+Several enormous balloons of the zero-
+pressure type were launched in 1958 and '59.
+In November 1958, the first military plastic
+balloon, 3.75 million cubic feet of 2 mil. poly-
+ethylene, was launched as part of a high-
+mach parachute test. Then in 1959, a six-
+million-cubic-foot
+monster
+carried a
+94-pound payload to an altitude of 149.000
+feet; a significant accomplishment in those
+days.
+Extreme altitudes, above 170,000 feet
+are achieved only by minimizing balloon
+weights and designing for maximum distri-
+bution of stress. Zero-pressure balloons
+Superpressure balloon.
+National Center for Atmospheric
+Research/National Science Foundation)
+20
+SUPERPRESSURE
+TOW BALLOON
+FREON BALLAST
+RADAR TARGET
+TYPICAL
+BALLOON
+FLIGHT
+TRAIN
+PARACHUTE
+NCAR
+ELECTRONICS
+SCIENTIFIC
+(NCAR/NSF Photo)
+SOLAR CELLS
+A typical global circling, recoverable superpressure (non-
+extensible closed) balloon carrying a scientific payload at
+80,000 feet. Completed on March 1, 1973, it made two orbits
+of the globe in 36 days.
+(NCAR/NSF Drawing)
+answer these requirements better than any
+other type and have, since the '50s become
+associated with high altitude achievements.
+High-altitude balloons have played an
+important role in magnetosphere research,
+exploring the solar wind, magnetospheric in-
+teractions, plasma convection, the origin of
+radiation belts and interaction of diverse
+plasma wave particles. It was a balloon-
+borne flight that first detected the existence
+of solar cosmic rays in 1958.
+High-altitude, tethered aerostats have
+applications in defense, telecommunications
+and broadcast functions. A single airborne
+communications payload, suspended from
+an aerostat at an altitude of 10,000 feet, pro-
+vides coverage over distances of 250 miles
+and serves a ground area greater than
+50,000 square miles. At 15,000 feet, the
+operating payload range increases to 300
+miles and the ground area coverage exceeds
+70,000 square miles.
+Wallops
+Flight Center disclosed

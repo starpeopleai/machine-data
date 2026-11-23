@@ -1,0 +1,23 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:41:09Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 23552216, "source_ctime_ns": 1793361190049965158, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-004-0197.tif", "source_mtime_ns": 1785565256000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-004-0197.tif", "source_sha256": "d2d11d10d6868ccb3ddc9fa724e5ef4d5a746c4d71c8a14ce392d00201fe8359"}
+
+===== PAGE 1 =====
+{"alpha_words": 44, "chars": 263, "method": "ocr", "page": 1, "variant": "plain-vision"}
+POOR ORIGINAL
+an the following sketch, imagine that you
+point
+to show how
+high the
+vas a bo
+Flace
+the
+above the horizon (akylim) whe
+you last say it,
+A-
+BKS
+1008
+M. To the follouing larger
+sketon place
+car wher you firat
+preten
+DECLASSIFIED
+Authority NND 9237007

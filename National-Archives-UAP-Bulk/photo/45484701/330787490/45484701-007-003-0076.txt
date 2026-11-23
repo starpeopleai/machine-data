@@ -1,0 +1,44 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:43:18Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8559692, "source_ctime_ns": 1793364660166360758, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787490/45484701-007-003-0076.jpg", "source_mtime_ns": 1785684887000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787490/45484701-007-003-0076.jpg", "source_sha256": "2702fc89cd51a76895e05d70955c9905f6bf449b3b2d57c32b3aab1e7c52a7c4"}
+
+===== PAGE 1 =====
+{"alpha_words": 177, "chars": 1287, "method": "ocr", "page": 1, "variant": "plain-vision"}
+INCREPEY BEFER TO:
+HEADQUARTERS 78th FIGHTER WING
+HAMILTON AIR FORCE BASE
+BY WASTE TICAL FACELLED W
+IORITY OF THE DIRECTOR OF SPEC INV
+UNCLASSIFIED
+DATE
+TO
+Commanding General
+Fourth Air Force
+Hamilton Air Force Base,
+Hamilton, California
+Attn: Director of Intelligence
+5 DEC 1975
+Under the provisions of Per 4, ConAC Letter 200-1, dated
+10 October 1949, the following report of information on "Flying
+Dises" is submitted:
+(1) Location and time of sighting: Over Alamede, California
+1730 PST 7 February 1950.
+(2) Weather: Cleer, 10 miles visibility.
+(3) Names, occupations, and addresses of witnesses:
+Mr Clark, 1456 Sylvia Way, San Leandro, California.
+Mr Clark is a civilian employee at Alameda Naval Air
+Station. He works the night shift in the Power Plant.
+Mr Page, 799 Victoria Ave, San Leandro, California.
+Mr Page is a civilian employee at Alameda Naval Air
+Station. He works the night shift in the Power Plant.
+(4) Photographs: None available.
+(5)
+Sketch of objects' configuration:
+(6) Objects sighted:
+(a) Number: One (1).
+Shape: Conical, with the base much like an ice-cream
+cone, and the top rounded somewhat like the canopy of
+a parachute.
+(c) One-half (1/2) to three-fourths (3/4) the size of an
+ordinary parachute.
+UNCLASSIRED
+INGL #/
+Declassification Authority: NND 923007

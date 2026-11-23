@@ -1,0 +1,12 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:39:39Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 15261226, "source_ctime_ns": 1793361288533714524, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-004-0302.tif", "source_mtime_ns": 1785565274000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-004-0302.tif", "source_sha256": "63eaefa8c8b442febdec281213b79b81152c8b8d5b54c7b59101534e71a3b16d"}
+
+===== PAGE 1 =====
+{"alpha_words": 61, "chars": 402, "method": "ocr", "page": 1, "variant": "plain-vision"}
+objeto estuvo oculto detrás de los arboles que bordean un peque-
+ño arrojo a unos 200 mt. Son muchos los antecedentes que indi -
+can que algunos de estos aparatos se surten de agua dulce.
+Por todo lo anterior, 0.1.0.V.I. reitera 1o evidente que se tra -
+taba de un Objeto Volador Inidentificado, que en algunos arrecion
+presenta caractéres nuevos, tal como su forma.
+DECLASSIFIED
+Authority NND 9237007

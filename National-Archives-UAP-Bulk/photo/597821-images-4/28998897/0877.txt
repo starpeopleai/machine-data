@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:37:44Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8823144, "source_ctime_ns": 1793387603571644210, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28998897/0877.jpg", "source_mtime_ns": 1785748448000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28998897/0877.jpg", "source_sha256": "aba8be55f8d3596b1917b0962a51c3d2d912b1e8cc02b170e2bedc4ef4af1de2"}
+
+===== PAGE 1 =====
+{"alpha_words": 70, "chars": 501, "method": "ocr", "page": 1, "variant": "plain-vision"}
+ANALYSIS TEST REPORT
+wro Jdntifieatim & Sangles
+TASK NR
+3.146 - 147
+SUOMITTED LT. COL. FRIEND
+DATE RECEIVED
+PURPOSE
+Jo Determine whethe the tompan ave
+FACTUAL DATA
+Ferretríl in Natere.
+the samples subnitted were as tigred
+Control numbers 3-146 anl 3-177
+Minor chemical anl plyaisol examnation
+confin that these souple are terrestrial
+is usture anl commor to segern op
+pret glacial a étienn.
+cuon to confiun verbol regout trousautted.
+8 Fehumy 63.
+DATE REPORTED
+FORM
+ASD JUL 62
+B4
+s enon 7 Brotetouldn

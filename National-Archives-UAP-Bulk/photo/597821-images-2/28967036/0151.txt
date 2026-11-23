@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T18:06:30Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5817238, "source_ctime_ns": 1793378169722297189, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28967036/0151.jpg", "source_mtime_ns": 1785696910000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28967036/0151.jpg", "source_sha256": "e1022ae82b54f19a34a5f5178749d73b8249d318cab46d54288744584e922816"}
+
+===== PAGE 1 =====
+{"alpha_words": 84, "chars": 589, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Миій
+ACTION /
+CALLEd #T
+20 / 0y20¢
+RCØ21
+0 WPDQ27 YDD#14 XYC028 XDB024DMA023
+0O RJEDEN RJEDUP RJEPHIQ
+DE RJUPDM 11A
+0 1927422
+FM CONDR 25TH AIR DIV MCCHORD AFB WASH
+TO RJEDEN/COMDR ADC ENT AFE COLORADO SPRINGS COLO
+RJEDWP/COMDR ATIC WRIGHT PATTERSON AFB OHIO
+RJEPHQ/DIRECTOR OF INTELLIGENCE HEADQUARTERS WASH 25 D C
+ZEN/COMDR 25TH AIR DIV MCCHORD AFB WASH
+ВТ
+/UNCL/UFOB/25TH TAC H227
+1. A ROUND
+B DIME
+C ALTCRNATING BLUE AND WHITE
+D 1
+E NA
+F LIGHTS INCREASED AND DECREASED
+G NONE
+H NONE
+I FORMS TRIANGLE OF TOW OTHER STARS MOVING SW
+2. A HIGH RATE OF SPEED IN SKY
+B 080 DEGREES
+4F/4
+4-4xz

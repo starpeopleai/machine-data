@@ -1,0 +1,37 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:42:39Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7497673, "source_ctime_ns": 1793381338014946629, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28979882/1405.jpg", "source_mtime_ns": 1785701089000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28979882/1405.jpg", "source_sha256": "0b3008941bc570d35d2d56e72dd7413781254274ddf75c245b705fef3e5a10ee"}
+
+===== PAGE 1 =====
+{"alpha_words": 63, "chars": 442, "method": "ocr", "page": 1, "variant": "plain-vision"}
+RJEPHB/CHIDE EASTERN ADC STEWART AFE
+RJEZIM/DIRECTOR OF INTELLIGENCE HALCAR WARN 25 D.C.
+BT
+UNCLAS/UTOD
+• DESCRIFTION OF OBJECT
+15
+CLUI
+/. CE
+T. LITE AT BOTTON CHANGES ELUE TO GRI
+G. NO.
+.. NON
+1. BLUISH GRET LITE AT COTTON
+AL
+PAGE TWO ROCHEJ 125A
+2. DESCRIPTION OF COURSE OF OBJECT
+A. NORMAL SKY SCAL
+• I...G
+D. ELEVATION
+IS DES
+ESË
+MUTH :
+DEGREES
+c.
+D•
+DdidNT ISAPPeAr
+INSIGHI
+F•
+NUTES
+MINUT
+ER OF OBSERVATION:
+A. GROUND VISUAL
+B .
+> NOTE:

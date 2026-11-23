@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:30:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 14322311, "source_ctime_ns": 1793355637675388171, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0076.jpg", "source_mtime_ns": 1785564494000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0076.jpg", "source_sha256": "5583d8c76fa878ef1db8269b63d6ff655adfce68c6072a4c05de22eef5e5e553"}
+
+===== PAGE 1 =====
+{"alpha_words": 140, "chars": 970, "method": "ocr", "page": 1, "variant": "plain-vision"}
+139
+XIV. Design Considertions for Soft Londing
+of Balloon Payloads
+J. P. Jackson
+Vitro Laboratories
+Division of Vitro Corporation of America
+Silver Spring, Maryland
+1. METHODS OF ENERGY ABSORPTION
+There are quite a number of techniques for absorbing the energy of a payload's
+impact with the earth or sea, and these methods can be grouped into the five follow-
+ing classes:
+a. Material Deformation
+b. Gas Compression
+c. Mass Acceleration
+d. Friction
+e. Chemical Energy
+The differences in the choice of techniques within these classes are to be found
+chiefly in efficiency (under which heading I will include weight, cost, or whatever
+factor is of primary concern to the user) and in that technique's applicability to the
+limiting conditions of a particular case.
+For example, some primary considerations in the selection of an energy ab-
+sorption system would include:
+Required energy dissipation capacity (defined as foot-pounds of energy
+absorbed per pound of device)

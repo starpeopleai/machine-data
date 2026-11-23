@@ -1,0 +1,19 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T18:17:06Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 11517303, "source_ctime_ns": 1793355891160985698, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989285-001-0007.jpg", "source_mtime_ns": 1785564552000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989285-001-0007.jpg", "source_sha256": "2f96d494839e2a749a85ccb2941263a7137da1f05b6a2c947deae2a9f2ccb93a"}
+
+===== PAGE 1 =====
+{"alpha_words": 44, "chars": 268, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+APY Mati aaal a IF PRINTS OR Eh ENTS DESIRED OPPOSITE
+THN IMPORTANT: DO NOT CUT NEGATIVES
+REGULAR PR
+
+ENLARGEMENTS
+
+[j0 RMR ROR PRU Bo sn HE
+
+sare SIZE i SPECIAL INSTRUCTIONS
+
+SS SES SSS a see SSS SSS Ss es a Ss res secs a
+
+Subject
+
+O2E Worthy @) Amsterdam, NY 12010

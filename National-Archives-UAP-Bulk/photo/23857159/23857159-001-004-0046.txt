@@ -1,0 +1,40 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:52:58Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 24324294, "source_ctime_ns": 1793361032542989247, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-004-0046.tif", "source_mtime_ns": 1785565211000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-004-0046.tif", "source_sha256": "11461440ced05e18ba0580ca594f7e368f6b29377afc30ac5e68fdf8f4c9a9f0"}
+
+===== PAGE 1 =====
+{"alpha_words": 40, "chars": 233, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+r: f
+
+& ; oe
+
+ted
+
+os
+
+i mgt tie ae erat ems segs
+
+ae North:
+ae 8
+
+Nie bege4
+
+a tS ER Pe a
+
+a
+ny
+rn
+£
+
+DECLASSIFIED
+Authority NND 9237007
+
+Se See ‘ ee
+‘ son . . is
+
+Couey Tete
+
+f *
+BRS
+
+(ANG Ulin dtrecs fon
+PO She fic eh and wie:
+'

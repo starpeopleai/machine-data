@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T18:14:25Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8993244, "source_ctime_ns": 1793385745104630570, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28994048/0488.jpg", "source_mtime_ns": 1785748573000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28994048/0488.jpg", "source_sha256": "809a4bbee4ade9136b4b74ba5fe840a1da5a43e5d145c0652f56715b8f92d48c"}
+
+===== PAGE 1 =====
+{"alpha_words": 110, "chars": 708, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Dear
+Your :
+Jatter of August 19th has been referred to this office.
+Before we can adequately evaluate your sighting we will need
+iore infomation.
+In addition to the date which you have furnished,
+we need the followings
+The tine in Eastern Daylight or Greenvich
+Mean Time; your location when you made the sighting; the approximate
+altitude of the objeet above the horizon; the azimuth of the object
+fron your position (compans direction); and a description of the
+object to include color, brightness, shape and movement.
+Your interest ia appreciated..
+Sincerely,
+VILIAN T. COLEMAN, JR.
+Major, USAT
+UFO Project Officer
+Publie Information Division
+Office of Infomation
+Miss
+Miss
+Camp Higimount
+Roscoe, Jew York

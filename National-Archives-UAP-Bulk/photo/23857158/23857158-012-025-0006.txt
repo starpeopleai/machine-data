@@ -1,0 +1,55 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:49:34Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 16033158, "source_ctime_ns": 1793360050646625877, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-012-025-0006.tif", "source_mtime_ns": 1785681612000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-012-025-0006.tif", "source_sha256": "169d652016bf89a2dc85e2e872e7bb470bce65ffcaeacbe3c56ec6f71730ae15"}
+
+===== PAGE 1 =====
+{"alpha_words": 168, "chars": 1127, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+Хінано
+(Dictator's Name)
+COCRD INATION
+SHEET
+Candr., 4602d AISS
+Long Distance Telephone Call
+Det 3, 4602d ATSS
+Captain Seibel
+AISCR
+15 Feb 56
+1230 Hours
+Mia Line Call
+M/Sgt Linane/hh98
+AISEC
+AISAJ
+MEMORANDUM FOR RECORD:
+AISAD
+L. Long distance telephone coversation between Captain Seibel, Det 3,
+and Sergeant Linane, this headquarters.
+AISPR
+A IS DD
+2. Captain Seibel called to transmit UFOB information which was requested
+by It. McEntee, 14 Feb 56.
+AISOP
+3. UPOB information was formished as follows:
+AIS OC
+Ho Wavy alimps were operating in the New York area on 18 Jan 56.
+AISFC
+b. Griffis AFB no longer sends up RAOBS. This operation vas dis-
+AIS TR
+contimed two (2) months ago. Baffalo now handles this operation.
+AISCM
+c. The weather officer at Mitchell AFB stated that it would have been AISOU
+imposaible for a weather balloon to have drifted over the area as the winda
+were from a I-NW direction at the time in question.
+AISMS
+AIS UP
+OSEPH E, INANE, M/Sgt, USA
+Coic Operation
+Prep By:
+Thiral
+Recd Eval
+(Circle
+one )
+NONRECD
+TEMP
+PERM
+AISAD Form #16
+(25 June 1955)
+CENTRAL FILE COPY

@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:48:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 15106664, "source_ctime_ns": 1793365846737010402, "source_file": "National-Archives-UAP-Bulk/photo/542184/341-PBB-528-Roll1-0174.jpg", "source_mtime_ns": 1785565438000000000, "source_rel": "National-Archives-UAP-Bulk/photo/542184/341-PBB-528-Roll1-0174.jpg", "source_sha256": "95289784cf6a0073ebe54e7bd10be42c6a15b4b920a9883afafdcee4c45a9d9a"}
+
+===== PAGE 1 =====
+{"alpha_words": 22, "chars": 162, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Ol
+
+pasate tr metinanditn inti tht A
+
+f
+
+REE Re CN tO mee
+
+|
+t
+}
+}
+|
+|
+}
+|
+¥
+‘
+i
+
+en ee ee
+
+ee eer
+
+cain A i enh htonitnnt,
+
+(NACA RE i NEVE 4
+t
+{
+|
+| ;
+}
+\
+{
+{

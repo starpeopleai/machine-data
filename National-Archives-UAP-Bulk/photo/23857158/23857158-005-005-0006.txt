@@ -1,0 +1,56 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T18:18:58Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 16582276, "source_ctime_ns": 1793358983627820676, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-005-005-0006.tif", "source_mtime_ns": 1785681285000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-005-005-0006.tif", "source_sha256": "742334c329be42b8be0e29f467e868ae8bde021ba60280fb069558b513e4842c"}
+
+===== PAGE 1 =====
+{"alpha_words": 124, "chars": 1005, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+PAGE THREE JESY 01B
+7. WEATHER AND WINDS ALOFT AT TIME AND PLACE OF SIGHTING
+A. BOWLING GREEN KENTUCKS
+2025CST SKY 20000 OVERCAST VSIBILITY 12
+MILES PRESSURE 1019.0 MBS TEMP 45DEWPONT 40
+B. SURFACE
+DEGREES/
+KNOTS CALM
+6000 FEET
+DEGREES/190
+KNOTS22
+10000 FEET
+DEGREES/200
+KNOTS 15
+16000 FEET
+DEGREES/240
+KNOTS 25
+20000 FEET
+DEGREES 260
+KNOTS 25
+30000 FEET
+DEGREES 300
+KNOTS40
+50000 FEET
+DEGREES/310
+KNOTS 30
+80000 FEET
+DEGREES/
+KNOTS
+C. CEILING 20000
+FEET
+D. VISIBILITY 12 MILES
+E. CLOUD COVER OVERCAST
+#THUNDERSTORMS NONE
+8. NONE
+9 NONE
+10. NUMEROUS B47 AND T33 TYPE AIRCRAFT IN AREA OF SIGHTING DURING THE
+THE PAST 4 TO 5 HOURS
+11. OPERATIONS OFFICE MAXWELL FLIGHT SERVICE CENTER MAXWELL AFB ALA
+PAGE FOUR JESYQ 01B
+12. COMMENTS
+REPORT RECEIVED AT CAMPBELL AFB KENTUCKY FROM FBI AGENT M.S.
+WALLACE AT BOWLING GREEN KENTUCKY PD WALLACE ORIGONALLY RECIEVED
+REPOR FROM
+AND
+SIGNED GOLINSKY END
+Вт
+19/0518Z FEB JESYQ
+PRAGRUR ENO 99 1 001
+RGR UR ENO 002
+14&4 .-53RGR MATE

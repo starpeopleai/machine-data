@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:52:05Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 20777648, "source_ctime_ns": 1793361368311267746, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-005-0058.tif", "source_mtime_ns": 1785565325000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-005-0058.tif", "source_sha256": "2ca1aea693139facda33a4c3242b9ab3839de904368f9e615f5f23b7ddfe88f2"}
+
+===== PAGE 1 =====
+{"alpha_words": 48, "chars": 394, "method": "ocr", "page": 1, "variant": "plain-vision"}
+(when filLed in)
+MINICARD
+- COVER
+ges INCLOSURES
+CF
+CF80518 108
+WOTTIST
+SYSTEM OI
+·231259
+ACCESSTON DATE 9
+EC
+CODE
+SHEET MU
+→ NONE ENC. At
+293.994
+- 6ờ300
+5264350
+261959
+AX261959
+2N61 801
+1.0.01
+ZAKR ++E
+V4d1059
+JØ01059
+Classification
+Unda l, effective on..
+(rective (change an
+_under the authority of as
+bY AT/INE LTR
+AFHQ
+FORM
+APR 59 0-10ą
+DECLASSIFIED
+Authority NND 9237007
+(when filled in)

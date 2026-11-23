@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T18:10:18Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7471304, "source_ctime_ns": 1793363124407111133, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330784594/45484701-004-005-0046.jpg", "source_mtime_ns": 1785684738000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330784594/45484701-004-005-0046.jpg", "source_sha256": "35ced4b6ecc00be222166c724cc3d4f5091cb03e226bcc03350bef181f514528"}
+
+===== PAGE 1 =====
+{"alpha_words": 98, "chars": 754, "method": "ocr", "page": 1, "variant": "plain-vision"}
+NFORMATION COPY
+From 5th District OSI
+Wright-Patterson Air Force Base
+Ohio
+5D-24C-21-211
+21 February 1963
+Unidentified Flying Object (UFO)
+WA Maysville Kentucky
+Sighted by JAMBS L
+FID (TD-E)
+Attached letter from JAMES L. PYLES, dated 12 February 1963, concerning
+subject, referred to this office by the Louisville, Kentucky Field
+office, Federel Bureau of Investigation, is furnished for your informa-
+tion and action deemed appropriate,
+ELMER M. NEVILLE
+Colonel, USAF
+Commander
+1 Atch
+Ltr, PYLES, 12 Feb 63
+Copies to:
+HQ USAP (AFISI-6D) w/atch (also cy 1tr FBI)
+W-PAFB (EWL) w/atch
+8 MAR 1963
+UNCLASSIFED
+THE INSPECTOR GENERAL
+UNITED STATES AIR FORCE
+24-185-5- 5ŘšŚ
+1 MAR 63 09 4·
+OFFICE OF
+SPECIAL INVESTIGATIONS
+Declassification Authority: NND 923007

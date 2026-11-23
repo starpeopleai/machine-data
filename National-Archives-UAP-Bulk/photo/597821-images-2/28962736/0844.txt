@@ -1,0 +1,64 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:33:17Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6264254, "source_ctime_ns": 1793377112098947829, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28962736/0844.jpg", "source_mtime_ns": 1785696985000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28962736/0844.jpg", "source_sha256": "6ca43f8758c9f071a987ccab2278743d47ae52685c3cc9d1c615fa170de11040"}
+
+===== PAGE 1 =====
+{"alpha_words": 191, "chars": 1316, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+July 1955
+DATE-TIME GROUP
+Local
+GM T
+5. PHOTOS
+12/03572 July 1955
+• Yes
+I No
+7. LENGTH OF OBSERVATION
+UFOB INDEX CARD AISS -UFOB-208-55:
+2. LOCATION
+12. CONCLUSIONS
+B-17 a/e over Southern Cali?.
+4. TYPE OF OBSERVATION
+* Ground-Visual
+Air Visual
+6. SOURCE
+Was Balloon
+Probably Balloon
+Possibly Balloon
+• Ground-Radar
+• Air-Intercept Radr
+Was Aircraft
+- Probably Aireraft
+Possibly Aircraft
+Was Astronomical /12 e7 k0,
+Probably Astronomical
+Military and Civilian
+8. NUMBER OF OBJECTS
+9. COURSE
+Possibly Astronomical
+Other
+Insufficient Data for Evaluation
+•
+Unk no wn
+Seven (7) Minutes
+10. BRIEF SUMMARY OF SIGHTING
+One (1)
+ITH
+11. COMMENTS
+Flight 1-C cheoked the time of sighting
+One (1) bright red objeot with a luminous
+and duration of sighting, which differed
+trail, appeared as a ball of fire.
+the object
+fron the original times on the UFOB report.
+appeared to be as large as a nickel held at
+From the time of sighting and the descrip-
+arms length, The object exploded in a oloud
+tion of the sighting it appears that this
+of smoke.
+UPOB and AISS-UF0B-210-55 are one in the
+same sighting. Flight path was approx
+the same. The fact that this object was
+seen by two parties at the distance apar
+they were indicates an astronomical UTOB.
+Evaluated by this has as Probably Astro.
+11 unan
+AISOP Form 5(15 Oet 54)

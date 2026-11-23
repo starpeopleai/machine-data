@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:25:26Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8825818, "source_ctime_ns": 1793358421018223487, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-002-026-0020.tif", "source_mtime_ns": 1785681085000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-002-026-0020.tif", "source_sha256": "ffeba39b85dc1705675125d548eba886b85e8ced4582e9679652b7f60e16b673"}
+
+===== PAGE 1 =====
+{"alpha_words": 94, "chars": 704, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+AE FORM 112 PART I|
+APPROVED 1 JUNE 1948
+ROM (AImS)
+Flight 2-D, 4602d AISS
+UNCLASSIFIED
+(CLASSIFICATION)
+AIR INTELLIGENCE INFORMATION REPORT
+REPORT NO
+2D-UFOB-4 PART ONE
+PAGE
+6
+OF 6
+• PAGES
+Inc1 #2, Rept 2D-UFOB-4,
+Flight Path of H-13 Helicopter
+Pt. 1 Fort Sam Houston
+Pt 2 H 13 Helicopter Flight Path
+Pur 3 Plight Pattern for Kelly 'raffic
+Pt. L Kelly AFB Runways
+THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT. SO US.C.-
+IRENE AROUND IN POLE A IN PANT OF OTE THAN UNTED STATES A TORE ONCE, ECOTE PERSON OF I RETORIE
+UNCLASSIFIED
+/ESIFICATION
+16-670-1 24 1 00
+MAC 0тICE : 1851 0-91873

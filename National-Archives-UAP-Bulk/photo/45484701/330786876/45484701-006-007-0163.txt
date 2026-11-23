@@ -1,0 +1,90 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:46:38Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10514366, "source_ctime_ns": 1793364368946436114, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330786876/45484701-006-007-0163.jpg", "source_mtime_ns": 1785685114000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330786876/45484701-006-007-0163.jpg", "source_sha256": "f390afd6fce4e2a6366ec57fa9dfa9b1bd7b3b7a6ea1bf4096e7d371c509448e"}
+
+===== PAGE 1 =====
+{"alpha_words": 298, "chars": 1896, "method": "ocr", "page": 1, "variant": "plain-vision"}
+9 •
+Was the object
+orighter than the background of
+(Circle One):
+Yes
+b. No
+e sky?
+c. Don't remember
+10. If It was BRIGHTER THAN the sky background, was the brightness like that
+of an automobile headlight?:
+(Circle One)
+a. A mile or more away (a distant car)?
+› Several blocks away?
+c. A block away?
+d. Several yards away?
+e. Other
+11. Did the object:
+(Circle One for each question)
+a. Appear to stand still at any time?
+Yes
+Don't know
+b. Suddenly speed up and rush away at any time? Yes
+Don't know
+c. Break up into parts or explode?
+d. Give off smoke?
+Yes
+Don't know
+Yes
+Don't know
+e. Change brightness?
+Yes
+Don't know
+1. Change shape?
+g. Flicker, throb, or pulsate?
+Yes
+Don't know
+Yes No Don't know
+12. Did the object move
+behind something at anytime, particularly a cloud?
+(Circle One) :
+Yes
+No
+Don't know.
+If you answered YES, then
+tell what it moved behind:
+DISAPPEARED BEHIND MOUNTAIN
+13. Did the object move in front of something at anytime, particularly a cloud?
+Circle One:
+Yes
+Don't Know.
+IF you answered YES, then tell
+what it moved in front of:
+14. Did the object appear: (Circle One) : a. Solid
+b. Transparent?
+• Don't Know.
+15. Did you observe the object through any of the following?
+a. Eyeglasses
+e. Binoculars
+b. Sun glasses
+Yes
+Yes
+c. Windshield
+Yes
+d. Window glass
+Yes
+No
+NO
+1. Telescope
+g• Theodolite
+Yes
+h. Other.
+NONE
+16. Tell in a few words the following things about the object.
+a. Sound
+CHATTERING SOUND, SIMILAR TO HI VELOCITY SHELL
+b. Color
+FIRE RED
+17. Draw a picture that will show the shape of the object or objects. Label
+and include in your sketch any details of the object that you saw such as
+wings, protrusions, etc., and especially exhaust trails or vapor trails.
+Place an arrow beside the drawing to show the direction the object was
+moving •
+APPEARED TO BE A ROUND FIRE BALL.
+LEFT NO TRAIL OF VAPOR, FIRE, OR
+PARTICLES.
+Declassification Authority: NND 923007

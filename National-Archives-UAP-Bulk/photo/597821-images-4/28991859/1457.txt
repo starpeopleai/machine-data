@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:56:04Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8001271, "source_ctime_ns": 1793385116479230200, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28991859/1457.jpg", "source_mtime_ns": 1785748451000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28991859/1457.jpg", "source_sha256": "bd00ef1e34158e20eedb0dd24b0e8bce42adc6bb7313d54823b40f7007e9d045"}
+
+===== PAGE 1 =====
+{"alpha_words": 169, "chars": 1065, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AIR FORCE
+WASHINGTON
+OFFICE OF THE SECRETARY
+JUN 30 1965
+Dear Mrs.
+This is in reply to your letter concerning unidentified
+flying objects.
+I am enclosing a copy of FTD Form 164 which is used for
+reporting an unidentified flying objectto the Air Force.
+you will complete the form as fully as possible and return it
+to this office, we will evaluate your report, and you will be
+informed of the results.
+The material that you found in your yard was probably
+"one of raining radar operatore the event of themy attack.
+I am enclosing an information sheet on this subject which will
+help you gain a better insight into the cause of such operations.
+I am also enclosing the current report on Project Blue Book,
+the Air Force project on unidentified flying objects, for your
+perusal. I hope this report will be of interest to you.
+Sincerely,
+22 .
+JOHN P. SPAULDING
+'It Colonel, USAF
+Chief, Civil Branch
+Community Relations Division
+Office of Information
+3 Atch
+1. FTD Form 164
+2, Electronic Warfare Info Sheet
+3. Blue Book Report
+Mrs•
+Kemah, Texas, 77565

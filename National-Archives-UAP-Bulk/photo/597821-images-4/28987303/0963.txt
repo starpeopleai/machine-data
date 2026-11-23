@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:23:12Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8311094, "source_ctime_ns": 1793383571379327473, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28987303/0963.jpg", "source_mtime_ns": 1785747972000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28987303/0963.jpg", "source_sha256": "6a15b267af256a710b8b1470c4392fa3f4abe88c946d59ab1ad27cbfe5bb521e"}
+
+===== PAGE 1 =====
+{"alpha_words": 61, "chars": 567, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PART III:
+A. (1) CYLINDERICAL SHAPED.
+(2) TWO LIGHS LIKE DC-6 LANDING LIGHS AT CONSIDERABLE
+DISTANCE.
+(3) WHITE.
+(4) TWO.
+(5) NONE•
+10(6) NONE•4
+(7) NONE.
+(8) NONE.
+(9) ESTIMATED 1500 MPH SPEED.
+B. (1) ANOTHER PERSON HIE
+(2) ELEVATION 45 DEGREES, AZIMUTH 270 DEGREES MAGNETIC.
+(3) ELEVATION 45 DEGREES, AZIMUTH 255 DEGREES MAGNETIC.
+(4) LEVEL FLIGHT PATH, NNW TO SSE.
+(5) GRADUAL DIMMING•
+(6) ESTIMATED 5 SECONDS.
+C. (1) NAKED EYE.
+PAGE FIVE RJWZKPH 4
+(2) NONEął
+(3) N/A
+D. (1) 2126352
+(2) NIGHT.
+E. CONTROL TOWER, PORTLAND INTL APRI, OREGON.
+F. CIVILIAN
+DAYTON
+OHIO

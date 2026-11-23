@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:43:46Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8797251, "source_ctime_ns": 1793385105105338878, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28991840/1433.jpg", "source_mtime_ns": 1785748334000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28991840/1433.jpg", "source_sha256": "20de4dd11bfbfe041527a4b10468a392e34f3198a158b36c890b0f6fb21e2683"}
+
+===== PAGE 1 =====
+{"alpha_words": 147, "chars": 993, "method": "ocr", "page": 1, "variant": "plain-vision"}
+4E2x
+~ Max 61
+AFCIN-462x
+UFO Sighting, Oegood, Indiana (Mr
+* 3 MAR 1961
+SAFOI-3d (L/Col Tacker)
+1. On 17 March 1901 Mr
+& of Osgocd, Indians forwarded
+to ATIC the report of a UFO sighting which he experienced on 13 Narch
+1961. Mra
+I requested thet he be advised of our firfings
+regarding his sighting.
+2. The vitness reported that the object appeared as a star oscillating
+in brightness. The UFO was reported as traveling from low in the acuth
+45 above the horizon. The ight occured at god, inana end
+above the horizon.
+The sighting occurred at Cagood, Indiana sod
+laated from 1955 to 2000 hours EST.
+3-
+Coordination with the National Spece Surveillance Center revealed
+that the object sighted by fr
+on 13 March 1961 was the U.S.
+Setellite Scho I. It is requested that the witness be advised of this
+conclusion regarding his sighting.
+The address of the witness is as follows:
+Cagood, Indiana
+FOR THE COMMANDER:
+Antos.
+C. EY 3/22/6
+Colonel, USAT
+Deputy for Science and Components
+COORDINATION:

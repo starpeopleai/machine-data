@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:34:45Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7389837, "source_ctime_ns": 1793383577057284801, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28987321/0977.jpg", "source_mtime_ns": 1785748090000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28987321/0977.jpg", "source_sha256": "b9b6404de3e7d3824ff318300c03ae96a7806e48dd8d6d156234c6ac0225c82b"}
+
+===== PAGE 1 =====
+{"alpha_words": 46, "chars": 429, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. OBSERVER WAS ON SKYWATCH.
+2. NEGATIVE.
+3. TRAVELING NW TO SE.
+4. SEE REMARKS
+5. FADED INTO MILKYWAY•
+6. FIFTY-FOUR SECONDS.
+PART 3.
+1. VISUAL.
+2. NEGATIVE.
+3. NEGATIVE.
+PART 4.
+1. 220904Z JUNE 60.
+2. NIGHT•
+PART 6.
+1, N/A.
+PART 7.
+PART 5. OBSERVER ON DUTY AT RADAR SITE LOCATED AT DKGF5Ø3Ø.
+2. L.A.C.E. DXIEPAK, HOLBERG AIR SIN, BC; FAIR.
+1. CLEAR•
+2. N/A.
+PAGE THREE
+3. N/A.
+4. N/A.
+5. N/A.
+6. N/A.
+7. NEGATIVE.
+~
+FORM 805-S

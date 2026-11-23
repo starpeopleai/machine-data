@@ -1,0 +1,223 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:31:45Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 20608836, "source_ctime_ns": 1793361328717414940, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-005-0017.tif", "source_mtime_ns": 1785565318000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-005-0017.tif", "source_sha256": "254382e17b2d06f9e4a3459bc130352ca5de294ba9df7f60bd3580e30dab09b6"}
+
+===== PAGE 1 =====
+{"alpha_words": 147, "chars": 1450, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DISTRIBUTION CONTROL
+RECORD
+CLASSIFICATION.
+NOFORN
+NUMBER
+DATE RECEIVED
+MANURL
+001
+IXI
+002
+XIC
+004
+IAI-O
+005
+LAI-E
+006
+LAR
+007
+LAI-S
+008
+194
+0/0
+AID
+012
+183
+014
+2AI
+015
+PRSD
+016
+2A4
+027
+3C2
+045
+AMP-CASL
+QUZ
+MMP-AIMI
+048
+XPD-SP
+060
+ACIC-DC
+071
+DOSD/ISA
+073
+TREAS
+080
+NSA --
+088
+COMRC
+082
+ARPA
+CUSTOMERS
+1959
+SAT
+MACHINE
+BAT ENTO CO 19597
+003
+009
+011
+013
+018
+019
+021
+022
+024
+X-5
+192
+DETO ACOSTM
+184
+2C1
+2C2
+204
+2CБ
+206
+028
+DA APR 195ª
+029
+38
+030
+ATIC 22 APR 1959
+031
+3X3 (ARD)
+032
+NTPC
+033
+3FAF-E
+034
+3 FAF-W
+035
+AFCSI
+039
+ADAP-R
+040
+RAND
+042
+AFooP-ES
+043
+OT-1
+044
+AFOAC
+046
+AFPEP-D
+050
+A FMMS-EY
+051
+SAC
+APR
+1959
+053
+MATS (AWS)
+054
+MATS
+056
+ACIC-SL
+057
+AUL
+058
+AFSCC
+1059 |5AMAPR 23 1090
+DATE MATEO
+1958 PATE AUTS DISS
+063
+066
+067
+068
+069
+070
+074
+075
+076
+077
+078
+079
+081
+082
+083
+084
+085.
+086
+087
+091
+092
+093
+094
+095
+096
+097
+098
+099
+1246314ł
+2240157
+CUSTOMERS
+ARDC
+AAC
+PACAF
+ALCOM
+GMIC
+CONAD/ APR 1959
+НЕС
+LA SOR
+NASA
+AFSWP
+ARMY
+STATE
+NAYY
+CIA
+CAB
+USIA
+BJSM I
+AJSS
+AFOSR
+1006TH
+FFSWC
+AFORC
+RADC
+WADC
+3X6 (MS)
+376 (RS)
+AFMTC
+SPECIAL
+05C 3
+5С З (Ш)
+ROUTING
+DISSEMINATION
+10421) 658203
+5716198 2 71959P RINT - OUT
+SUB
+TOFALS
+MANUAL
+MACHINE
+и
+COPIES
+PAGES
+TOTAL
+TEXT
+SEPIA
+CHARTS
+AFCIN-IBI PHOTOSTAT REPRODUCTIO:
+REQUIREMENT
+ORIGINA LE
+SIZ. E
+PRINTS
+NEGE
+NUMBER OF
+I REPRODUCTIONS
+SETS
+PRINTS
+TOTAL
+RELEASE SYM
+DECLASSIFIED
+Authority NND 9237007
+OPERATOR NO/DATE
+5 MAY 1959 E
+OPERATOR NO/DATE (S/C)
+OPERATOR NO/DATE
+COLLATOR NO/DATE
+4 MAY 1959
+MAY 1959
+56

@@ -1,0 +1,52 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T18:00:24Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9358026, "source_ctime_ns": 1793363891513615093, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330786265/45484701-006-004-0010.jpg", "source_mtime_ns": 1785685031000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330786265/45484701-006-004-0010.jpg", "source_sha256": "f79fe05ba881842902dd056f34821ac6a59dc746269301bf5613b509753762be"}
+
+===== PAGE 1 =====
+{"alpha_words": 177, "chars": 1266, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AIR FORCE
+HEADQUARTERS UNITED STATES AIR FORCE
+WASHINGTON
+5D-OSI/fmn
+THE INSPECTOR GENERAL, USAF
+STH DISTRICT OFFICE OF SPECIAL INVESTIGATIONS
+WRIGHT-PATTERSON AIR FORCE BASE, DAYTON, OHIO
+22 November 1949
+IN REPLY REFER TO: 5D 24-21AA (10D 241-19)
+SUBJECT :
+ROJECT GRUDGE, Unidentified Aerial Object
+Sighted near Mountain Home, Idaho
+SPECIAL INQUIRY
+TO:
+District Commander
+16th OSI District (IG)
+Hill Air Force Base
+Hill Field, Utah
+Reference is made to letter, your District, subject and file
+as above, dated 17 November 1949.
+2. Regarding paragraph three of your letter, you are advised that
+subject investigation was closed by this District at the request of
+Director of Technical Intelligence, AMC, for the reason that there was
+no evidence of damage to the spark plugs other than that caused by
+normal usage.
+Tames J.x. Moanil SIFIED
+JAMES F. X. O'CONNELL
+It Colonel, USAF
+District Commander
+CLASSIFICATION CANCELLED TO PER
+BY AUTHORITY OF THE DIRECTOR OF SPECI
+KURT K. KUNZE, Capt, USAF
+BY
+Historian
+DATE
+4 DEC 1975
+7JAN 28669
+F. LE
+WF-O-5 OCT 48 15M
+OFFICE OF
+10/057
+24-185-16-1
+UNCLASSIFIED UNITED STATES AIR FORCE
+THE INSPECTOR GENERAL
+OFFICE OF SPECIAL INVOSTIGATIONS
+ROBERT N. DENNIS
+CAPTAIN USAF
+Declassification Authority: NND 923007

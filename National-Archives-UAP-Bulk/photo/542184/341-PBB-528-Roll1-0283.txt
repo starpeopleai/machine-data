@@ -1,0 +1,58 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T18:03:40Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 19469079, "source_ctime_ns": 1793365950143018882, "source_file": "National-Archives-UAP-Bulk/photo/542184/341-PBB-528-Roll1-0283.jpg", "source_mtime_ns": 1785565454000000000, "source_rel": "National-Archives-UAP-Bulk/photo/542184/341-PBB-528-Roll1-0283.jpg", "source_sha256": "ffbd19ef923a79e882e1a1956c85b6d0f96a06aca24c0974a82f5b7d0dc9ef01"}
+
+===== PAGE 1 =====
+{"alpha_words": 12, "chars": 138, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+a
+
+eee
+
+i
+i
+;
+t
+
+_
+
+fh
+
+4
++
+*
+/
+f
+‘
+*
+it
+}
+* i
+2
+I
+te
+} Z
+t ;
+f
+»
+t
+©
+i
+
+Fae
+
+paver eos
+
+sat a
+
+Bibs SE Soin,
+
+a
+
+—— at
+
+|
+|
+j
+i
+i
+|
+{
+i

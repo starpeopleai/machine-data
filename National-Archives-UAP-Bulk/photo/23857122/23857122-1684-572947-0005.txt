@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T18:01:56Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 15257080, "source_ctime_ns": 1793357824582792390, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1684-572947-0005.tif", "source_mtime_ns": 1785564979000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1684-572947-0005.tif", "source_sha256": "2cd00cf46026cadbe634e104f2478583f3cd9f1d7b783d9ddb734e502bf69d9d"}
+
+===== PAGE 1 =====
+{"alpha_words": 112, "chars": 775, "method": "ocr", "page": 1, "variant": "plain-vision"}
+HEADQUARTERS
+912TH AIRCRAFT CONTROL AND WARNING SQUADRON
+Ramore, Ontario, Canada
+18 August 1953
+STATEMENT
+At approximately 2245 EDST on the night of August 16, I went to
+the barracks to get a pack of cigarettes. On my return I noticed through
+the trees in a sourth-westerly direction what I believed to be a forest
+fire. Upon noticing this, I drew it to the attention of A/2C Lysakowski.
+I asked him to call operations for a check and location so that if it was
+a forest fire, I could report it to the Lands and Forests Department of
+Ontario.
+Rical H. Mallet
+1. HALLSTRON
+I Sgt, AF 12 373 323
+912th AC&W Squadron
+Subscribed and sworn to before me this 18th day of August 1953.
+Harold solbera
+HAROLDE. SOLBERG
+CWO, USAF
+Adjutant
+AF572947
+Declassification Authority: NND 57565

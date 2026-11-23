@@ -1,0 +1,43 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:24:09Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8415668, "source_ctime_ns": 1793384513858676328, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28990496/0234.jpg", "source_mtime_ns": 1785748514000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28990496/0234.jpg", "source_sha256": "adc87f20e93c1d9a5fb50e5b042fe670debf797919c3667be46dd9b2332030b2"}
+
+===== PAGE 1 =====
+{"alpha_words": 96, "chars": 792, "method": "ocr", "page": 1, "variant": "plain-vision"}
+LRCRAP T
+LOST SIGHI.
+PASSED BEHIND.
+SIX MINUTES »
+1. VISUAL SIGHTING.
+2. NONE USED.
+3. KC-135, SHORE 12, 32000 FEET, 250 DEGREES, FAIRCHILD
+AFB, WASH
+D. 4. 15/0337Z TO 15/03432.
+5. NIGHT
+E. 6. 30 MILES EAST OF COEUR D' ALENE LAKE, IDAHO TO 30 MILES
+WEST OF LAKE. (NEAR SPOKANE, WASH.)
+F •
+AIRCRAFT COMMANDER- KC-135, CALL-SIGN SHORE 12,
+FAIRCHILD AFB, WASH. VERY GOOD.
+GENERAL WEATHER CONDITIONS VERY GOOD.
+WINDS (GEG AT 0300Z). 35M-
+-310/55
+40M---290/55
+45M---230/50
+50M---270/50ł
+60M-¿¿280/35ź
+3. UNLIN
+HITED
+4. UNLIMITED
+5. NONE
+6. NONE
+7. TEMPERATURE AT 45M, MINUS 55 DEGREES CENTIGRADE,
+NONE
+N/A
+NA
+INTELLIGENCE OFFICER, APPARENT VALID SIGHTING,
+CORRELATES WITH VISUAL SIGHTING BY PERSONNEL AT
+CANADIAN ACQW SITE. POSSIBLE SATELITE VEHICLE
+RE-ENTRY.
+' NONE
+BT .
+15/0602Z DEC RJW2GS
+NANN

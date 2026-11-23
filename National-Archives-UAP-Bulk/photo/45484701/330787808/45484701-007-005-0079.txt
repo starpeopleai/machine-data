@@ -1,0 +1,89 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:46:19Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10406996, "source_ctime_ns": 1793364843140386187, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787808/45484701-007-005-0079.jpg", "source_mtime_ns": 1785685206000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787808/45484701-007-005-0079.jpg", "source_sha256": "e3d0450347781a287d4d5dbe78ebde1ff3b6cfe0878b9f2e9fb70634d1c76c1d"}
+
+===== PAGE 1 =====
+{"alpha_words": 241, "chars": 1792, "method": "ocr", "page": 1, "variant": "plain-vision"}
+_ HEADQUARTERS UNITED
+ES AIR FORCE
+THE INSPECTOR
+IERAL
+OFFICE OF SPECIAL INVESTIGATION
+REPORT OF INVESTIGATION
+ITLE
+UNCONVENTIONAL AIRCRAPT
+Sighted by EDWARD GERARD
+on 26 July 1949 at Bellingham,
+Washington
+FILE NO.
+24-39
+DATE
+17 October 1949
+REPORT MADE
+MARLE L. CLEVELAND, S/A
+REPORT MADE AT
+DO #20, McChord APB, Washington
+PERIOD
+30 Aug; 22, 23 Sept 1949
+OFFICE OF ORIGIN
+DO #20, McChord AFB, Washington
+STATUS
+CLOSED
+CHARACTER
+SPECIAL INQUIRY - UNCONVENTIONAL AIRCRAFT
+REFERENCE
+None - this is an initial report
+SYNOPSIS
+UNCLASSIFIED
+Investigation requested by Commander, DO #20, McChord AFB, Wash-
+ington. The object was stationary during the ten seconds it was sighted.
+It disappeared by decreasing in size. Investigation determined that there
+was a broken overcast at 7,000 feet and scattered and broken clouds at
+3,500 feet, A ceiling light is turned on at the Bellingham Airport, forma-
+ingham, Washington, by the CAA Station attendant to determine cloud
+tion.
+GERARD may have seen this light reflected off one of the scattered
+clouds. Only one known aircraft in the vicinity at the time of sighting.
+The planet, Jupiter, located at an altitude of 20 degrees above the horizon
+directly south from Bellingham, Washington, was shining intermittently with
+a yellowish-white to orange light.
+CLASSIFICATION CANCELLED *
+BY AUTHORITY OF
+BY
+KURT K. KUNZE, Capt, USAF
+Historian
+DATE
+• DEO 19
+UNCLASSIFIED
+FILE STAMP
+DISTRIBUTION
+CG, AMC
+(Action copies)
+HQ OSI
+File
+2
+2
+ACTION COPY FORWARDED TO
+Commanding General, AMC,
+Wright-Patterson AFB,
+Dayton, ento
+ATTN :
+ANCIAXO-3
+8
+APPROVE
+AR. D. MELCHESTE
+Major, USAF
+ActE
+DISTRICT COMMANDER
+1450
+D
+04-185-24-YșŚ
+STATES AIR
+TOR GE
+11/46 AM '49
+NOWA C
+WINGER
+7 ill
+IGATION
+9-1073, Aęł
+AFCSI FORM 4
+23 JULY 1948
+Declassification Authority: NND 923007

@@ -1,0 +1,82 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:58:28Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8995821, "source_ctime_ns": 1793362171473018349, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330782241/45484701-002-003-0166.jpg", "source_mtime_ns": 1785684720000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330782241/45484701-002-003-0166.jpg", "source_sha256": "060e4b4bbd1df2b03f659d1ea3c94f5df45ec90c2f2d9ea97da0e8e26fe21e67"}
+
+===== PAGE 1 =====
+{"alpha_words": 212, "chars": 1605, "method": "ocr", "page": 1, "variant": "plain-vision"}
+ENTIAS
+UNITED STATES AIR FORCE
+THE INSPECTOR GENERAL
+OFFICE OF SPECIAL INVESTIGATIONS
+REPORT OF INVESTIGATION
+TITLE
+SIGHTING OF UNTDENTIFIED FLYING
+OBJECT ON 1 SEPTEMSER 1949 AS
+ANOAVILLE, TENNESSEE BY MR PAT
+MOGANN AND MR. DON GILLEY
+ena
+FILE NO.
+DATE
+24-45
+REPORT MADE BY
+ARTHUR J. DALE
+REPORT MADE AT
+DO 16, Laxwell AFB, Alabame
+PERIOD
+3, 4 September 1949
+OFFICE OF ORIGIN
+DO #8, Marvell APB, Alabana
+STATUS
+PENDING
+12 September 1949
+CHARACTER
+eval
+SPECIAL INQUIRY
+REFERENCE
+AFOSI Letter No, 85, dabed 12 August 1949
+SYNOPSIS
+On 5 September 1949 DON GILLEY, 5000 Elizabeth Street, and
+PAT McGANN, 919 West Highland Drive, both of Knoxville,
+Tennessee, reported to the Knoxville News-Sentinel Newspaper
+that while on a camping trip to Sharps Ridge approximately
+five miles north of Knoxville that at approximately 1750 hours,
+1 September 1949, they signted an unidentified object flying
+at high altitude
+and great speed.
+This object was Plying
+approximately from Northeast (45 degrees) to Southwest (825
+degrees).
+CLASSIFICATION CANCELLED
+BY AUTHORITY OF THE L
+BY
+RIK. KUNZE, Capt, USAF
+ẠHistorian
+ACTOR OF SPEC INV
+3 DEC 1975
+DATE
+DISTRIBUTION
+Ng OS1
+DO 15 (Info)
+File
+ACTION COPY FORWARDED TO
+Commanding General
+Air Materiel Command
+Wright¿P¿atterson APB, Ohio
+ATEN: MOTAXO‚¿5
+APPROVED
+PATRICK N. HAYE!"
+Lt. Colonel, USAF
+District Commander.
+AFHO FORM
+15 JAN 49
+0-208
+Replaces A FCSI Form 4, 2
+Jul 48, which
+FILE STAMP
+292115-239
+UNITED STATES AIR FOR
+THE INSPECTOR GENERA
+SEP 22Ị4 33 PM '4șŘ
+PECIAL INVESTIGATIONS
+LASER 1949
+SEr 3 U 184%
+• S. GOVERNMENT PRINTI
+Declassification Authority: NND 923007

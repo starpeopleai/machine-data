@@ -1,0 +1,115 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:25:03Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8604994, "source_ctime_ns": 1793385617704537666, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28993758/0243.jpg", "source_mtime_ns": 1785748082000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28993758/0243.jpg", "source_sha256": "ba705be6b03f533424ea3c0cb98ff81e15423938d221ff74c1a3e45bed387fd0"}
+
+===== PAGE 1 =====
+{"alpha_words": 200, "chars": 1668, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1 - 9 AUGUST 1961 SICHTINGS
+DATE
+LOCATION
+923ERVER
+- AUS
+Fontana, California
+Mid Aug
+Ostrada, Poland (CASE MIsSINE)
+(Pheze)
+Civilian
+- Mid Aug to 6 Sep
+Chippera Falls, Misc.
+Stockbridge, Massachusetts
+50N 74.30% (Quebec, Canada)
+Phoenix, Arizona
+Multiple
+Northampton, Massachusetts
+Fortland, Oregon
+26.21N 126.50E (Far East)
+Sasebo, Japan
+Multiple
+Military
+Military
+Dayton, Ohio
+Dayton, Ohio
+Kentland, Indiana
+42.30M 173.08% (Facific)
+Military
+Seattle, Washington
+Ashland, Kentucky
+49.23N 158.5C: (Far Bast)CASE Misinilitary
+Caribbean See
+CAJE
+PASSING Militery
+-Hardinsburg, Kentucky
+Fort Edwari,
+Hey York
+Multiple
+.22.270: 175.-
+# (Far East)
+Fairborn,
+Suffolk, Virginia
+Las Vegas,
+Middletown,
+Chio
+31.53N 1290CE (Far East)
+Military
+Dayton, Ohis
+Cape Canareral, Florida
+Sk of Carlisle, Pennsylvania
+Worth Highlands, California
+Point Pleasant, New Jersey
+Newport Hews & Carroliton, Va.
+Maltiple
+Cyprus Gardens. Florida
+ADDITIONAL REPORTED SIGHTINGS ( NOT CASES)
+DATE
+AUS
+4
+LOCATION
+Universe
+Unknown
+Canton Island
+SOURCE
+Science News Ltr
+(Itr)
+Message
+Wt. Hale, Australia
+News Clipping
+Hahaha Beach (Island of Cahu, Hawaii) Message
+Gresham, Oregon
+News Clipping
+Naples, Maine
+Madisonville, Kentucky
+EVALDATION
+Cther (HOAK)
+INSUFTICIENT DATA
+INSUFFICIENT DATA
+AIRCRATT
+Astro (METEOR)
+BAIL CON
+AIRORAFT
+INSUFFICIENT DATA
+SATELLITE
+INSUPTICIENT DATA
+Other (LIGHT FRELECTI
+Astro (JUPITER)
+AIRCRAFT
+SATELLITE
+BALLOON
+1. Astro (METEOR)
+2. AIRCRAFT
+SATELLITE
+Other (MISSILE)
+AIFORAFT
+BALLOON
+INSUFTICIENT DATA
+BALLOON
+Other (REFLECTION OF:
+SATELLITE
+PIR
+Astro (CAFELLA)
+SATELLITE
+Astro (ANTARES)
+Astro (METEOR)
+INSUFFICIENT DATA
+SATELLITE
+SATELLITE
+BALLOON
+AIRCRAFT
+EVALUATION

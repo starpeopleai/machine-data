@@ -1,0 +1,21 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T18:01:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 13159396, "source_ctime_ns": 1793355442953177638, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0025.jpg", "source_mtime_ns": 1785564456000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0025.jpg", "source_sha256": "1b8aaff21f2ee40f120788609e7667af6597f7b214c6c131d8b7166c9190591b"}
+
+===== PAGE 1 =====
+{"alpha_words": 139, "chars": 961, "method": "ocr", "page": 1, "variant": "plain-vision"}
+IV Expanded Use of Inflatables
+Through New Materials
+R. J. Slater
+G. T. Schjeldahl Company
+Northfield, Minnesota
+Abstract
+This paper covers the latest advances made in laminate materials which have
+made possible heavy load carrying balloons, long duration flights without ballast,
+space communication satellites, and space inflatables. Scrim-reinforced plastic
+films have made possible balloons capable of carrying loads like the 14,500 pound
+gross of the Stratoscope II program and 7,000-pound gross of the Stargazer pro-
+gram, and at the same time permit shock-free static launches in 20 MPH winds.
+Bi-lam Mylar spheres have demonstrated 30-day flights at a constant altitude
+without ballast. The Echo II communication satellite is built of a 7-layer laminate
+material which is less than 1 mil thick, yet when this thin plastic is deployed in
+space, it becomes rigid enough to hold its shape against the forces of solar pres-
+sure, drag, and micrometeorites.

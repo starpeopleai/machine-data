@@ -1,0 +1,23 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:42:24Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7178496, "source_ctime_ns": 1793383960794476366, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28988404/0513.jpg", "source_mtime_ns": 1785748459000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28988404/0513.jpg", "source_sha256": "1fc18df7257f885db6806550ea7dc6e7a9769d9240f995598faab38e3cbc55e3"}
+
+===== PAGE 1 =====
+{"alpha_words": 140, "chars": 1059, "method": "ocr", "page": 1, "variant": "plain-vision"}
+SAF, INFO CNO, CINCPAC FLT, COMDR 7 FLEET, CTF 75, COMNAVJAP.
+QUOTE: UNCLAS X UFO X CINCPACFLT INST 3820.3 X 1. A OBLONG B HEAD
+OF A MATCH C WHITE D ONE E NOT APPLICABLE F NO G NONE H NONE I NONE
+2. A SIEN BY 0OD AND NAVIGATOR B 10 DEG AT 285 C 15 DEC AT 350 D
+SMOOTH CURVED TRAJECTORY E DISAPPEARED IN CLOUDS F FIVE MIN 3. A
+GROUND VISUAL B BINOCULARS C NOT APPLICABLE 4. A 211214Z B NIGHT
+5. A LAT 32-52N LONG 139-21E Y. A NONE B LTJG C M HALE USNR
+NAVIGATOR RELIABLE LT F M CURTIS USN OOD RELIABLE CPO C TYLER USN
+PAGE IWO RJAPAA 23A
+CHIEF QUARTERMASTER RELIABLE 7. A CLEAR ON SURFACE E 240 DEG 12
+KNOTS ON SURFACE C UNLIMITED D UNLIMITED E 5 PERCENT F NONE &. NONE
+9. NONE 12. NONE ON RADAR 11. COMMANDING OFFICER CAPT USN ESTIMATED
+CHT BE POSSIBLE AIR MAPS IN TRAINING OFF JAPAN 12. NONE UNQUOTE
+COMMENT: NO REPORT OF UNUSUAL VISUAL SICHTING OR RADAR OBSERVATIONS
+BY AC&N UNITS OF SAF• BELIEVE REORT IS PROBBLY OBSERVATION
+ECHO I EXPECTED OVER THIS AREA AT APPROXIMATE TIME OF SIGHTING
+AND MEETING DESCRIPTION OF OBSERVATION.
+21/1739Z AUG RJAPAA
+1003559

@@ -1,0 +1,52 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:26:39Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9391945, "source_ctime_ns": 1793363706620933286, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785831/45484701-006-001-0098.jpg", "source_mtime_ns": 1785684860000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785831/45484701-006-001-0098.jpg", "source_sha256": "cc0f63395bfbcaf6d79623fcfc177f0cff35fc239cbaf02b13f23800c3d28849"}
+
+===== PAGE 1 =====
+{"alpha_words": 330, "chars": 2026, "method": "ocr", "page": 1, "variant": "plain-vision"}
+KES
+SECURITY
+24-0
+29 July 1952
+SUBJ: "Flying Discs" Reportedly Sighted Near Peru, Nebraska, Dec 51
+it approximately ten or twenty seconds. Mr. BARRY gave the following
+description of the object;
+25-30 feet in diameter, appeared to be made
+of cast-iron due to its black color, shaped like a large kettle drum
+in an upright position; and about one foot from the top was a row of
+port-holes approximately ten inches in diameter. He said this was
+where the orange glow was coming from. He stated that a short distance
+down from these port-holes was another row of port-holes about the
+same size.
+He said that from the south end of the object from these
+port-holes a blue-ish type of flame was projected. He advised that
+there was no sign of activity or life in or around the object, and,
+further, there was neither an antenna nor projections from the object,
+and there was no sound heard.
+Ạr. BARRY advised he was the only one in his car, and
+there were no other cars in sight on the highway.
+"r. BARRY stated he had not previously reported this
+instance (sic) to anyone because, at the time, there was a great I-y-
+ing saucer scare throughout the country, and those to whom he might
+report the incident might treat it lightly. He stated that the incident
+has been prying (sic) on his mind and he finally decided to report it
+to the FBI.
+e.
+"There is no record contained in the files of this
+office relative to WARREN BARRY, and the above infomation is being
+forwarded to your office for whatever action you deem necessary."
+3. Files of this District Office contain no information regard-
+ing WARREN BARRY, 325 Witherbee Blvd., Lincoln, Nebraska.
+ACTION:
+In the absence of a specific request by competent
+authority, no active investigation of this incident is presently con-
+templated by this District Office regarding above recounted matter.
+Ohas raren
+CHARLES P. MARTIN
+Colonel, USAF
+District Commander
+CC g
+CG, SAC, ATTN: D/Intell (Info)
+CG, AMC, ATTN: ATIC (Dup)
+SECURIT
+FRICTED
+RMATION
+Declassification Authority: NND 923007

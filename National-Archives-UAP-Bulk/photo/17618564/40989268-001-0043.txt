@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T18:01:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 13813383, "source_ctime_ns": 1793355604743824730, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0043.jpg", "source_mtime_ns": 1785564487000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0043.jpg", "source_sha256": "423ce81c9904a14021b1aae9945e7eef8dd4bfec786ff13356ebc71fd3a192b2"}
+
+===== PAGE 1 =====
+{"alpha_words": 239, "chars": 1461, "method": "ocr", "page": 1, "variant": "plain-vision"}
+73
+VI. A New High-Altitude Plastic
+Balloon Launch Method
+Fr1ncis X. Doherty
+Air Force Cambridge Research Laboratories
+Bedford, Massachusetts
+The ability to launch large balloon systems on land increases in difficulty as a
+function of surface wind velocity.
+My association with balloon launchings over the last 10 years, until recently,
+that is, has been limited to those in which the conventional or " dynamic' launch
+method was used. Briefly, for those of you not acquainted with the "dynamic'
+method, the full length of a balloon is laid out on an aircraft runway or some other
+suitable launch pad -- depending on the balloon size, the length required for this
+layout can exceed 300 feet -- the bottom end fitting is tied into the top apex of a
+safety parachute and the parachute risers are tied into the payload, usually sus-
+pended on a suitable motor vehicle. About 70 feet down from the top of the balloon,
+we run the balloon under the roller arm of a vehicle we call the launch arm vehicle.
+Lifting gas, helium or hydrogen, is then transferred to this top section of the
+balloon. When the proper amount of gas has been transferred to the balloon, the
+balloon is released at the launch arm vehicle and the plan is that it erect itself
+vertically over the vehicle carrying the payload. This vehicle then either maneuvers
+or stands still, depending on the surface wind, to keep the balloon directly over the
+payload for the final release and system launch.

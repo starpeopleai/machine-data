@@ -1,0 +1,37 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T18:13:13Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8224018, "source_ctime_ns": 1793385720511007131, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28993997/0441.jpg", "source_mtime_ns": 1785747887000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28993997/0441.jpg", "source_sha256": "37fe28de5a5dee6f1fc31003f5f9f04e09de4a8206b3c981ee88157a76113601"}
+
+===== PAGE 1 =====
+{"alpha_words": 194, "chars": 1207, "method": "ocr", "page": 1, "variant": "plain-vision"}
+COPY
+Carlisle, Pennsylvania
+August 10, 1961
+Mr.
+Chief Inspector
+Federal Bureau of Investigation
+Washington, D.C.
+Dear Mr
+Our company possesses a guest house on a mountain top Southwest of Carlisle.
+A number of us were holding a meeting Tuesday Evening, August 8. It was
+warm and we were sitting on an uncovered veranda.
+At two minutes of ten we noted a bright light overhead longitudinally but
+a few degrees Northwest latitudinally. It moved in an East by North
+direction.
+At five minutes after ten it disappeared behind the tree tops.
+The night was clear, stars were plainly visible.
+The North star provided a
+sense of direction.
+The light was brighter than any star.
+As we followed the course of the light it seemed to move a bit erratically
+from side to side and on a few occasions seemed to jump ahead.
+Though all
+of us observed these variable movements, I recognize they could be attrib-
+uted to atmospheric conditions or eye concentration.
+I have been at a loss as to whether to report this and, if so, to whom.
+I would like to assure you that the light observed was not an airplane.
+With the sky so full of
+"exotic objects" one hesitates to report any
+observation today.
+Sincerely yours,
+/ s/
+D
+COPY

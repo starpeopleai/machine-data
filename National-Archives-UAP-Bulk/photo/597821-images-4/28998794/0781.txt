@@ -1,0 +1,65 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:22:31Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8039462, "source_ctime_ns": 1793387517824548001, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28998794/0781.jpg", "source_mtime_ns": 1785748088000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28998794/0781.jpg", "source_sha256": "afc7297541a9735ce6a6a13068d93fd2904f58d316f5ff8a4507a3e68b39b75c"}
+
+===== PAGE 1 =====
+{"alpha_words": 172, "chars": 1285, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD CARD
+2. LOCATION
+I. DATE
+26
+August
+1962
+3. DATE-TIME GROUP
+Local _
+1845
+CMT. 27/01452
+S. PHOTOS
+TYPE OF OBSERVATION
+ado.
+LI Ground-Visuol
+• Air Visual
+6. SOURCE
+O Yes
+7. LENGTH OF OBSERVATION
+8. NUMBER OF OBJECTS
+• Ground-Radar
+D Air-Intercept Rador
+9. COURSE
+12. CONCLUSIONS
+Was Balloon
+Probably Bailoon
+Possibiy Bailoon
+Was Aireraft
+Probobly Airereft
+Possibly Aireraft
+Has Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other.
+EX Insufficient Date for Evaluation
+Unknown
+seconds
+one
+10. BRIEF SUMMARY OF SIGHTING
+Sighting just after sunset in dusk. No
+stars. Object larger than DC-8(about
+2X) appearing at West over mountains
+approaching in Easterly direction.
+Colden in color, brighter than Venus
+3-4X. Core of obj golden grey & darker
+than remainder. Shape between egg &
+varied
+11. COMMENTS
+Possibility of light reflected
+Em bird; however, data not
+conclusive. Case considered as
+insufficient data because the
+quality of the information is
+not sufficient for a firm analy-
+sis.
+cigar. Finger width above horizon.
+Made right angle turn & headed South
+for distance viewed thru 2 telephone
+poles, made another right angle turn & went straight up. Did backward
+roll & was lost fm sight, Brightness
+fonstant during sighting.
+ATIC FORM 329 (RUV 26 SEP 52)

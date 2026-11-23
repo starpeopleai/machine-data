@@ -1,0 +1,9 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T18:04:08Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 21865267, "source_ctime_ns": 1793367598444908421, "source_file": "National-Archives-UAP-Bulk/photo/542184/341-PBB-705-0039.jpg", "source_mtime_ns": 1785565746000000000, "source_rel": "National-Archives-UAP-Bulk/photo/542184/341-PBB-705-0039.jpg", "source_sha256": "6ebddfb8854bb8c9951bf0ab51c436dd08d256e3ce9e3d195b57e15e57bc8ab2"}
+
+===== PAGE 1 =====
+{"alpha_words": 31, "chars": 142, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+mate ee eet rereas en wns a cine et mene etcetera eee thf nee etn pine leat sf ahead ae haa
+
+SSRs ee Cee ARE ORE ANT aE TET TR
+
+agthirtet ee

@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:43:37Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8750180, "source_ctime_ns": 1793387680018371218, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28998991/0961.jpg", "source_mtime_ns": 1785748328000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28998991/0961.jpg", "source_sha256": "fba0dee531b9487bc72f3c750728b0bde38b566c911d8dd2e1a5ee5bdc27dd29"}
+
+===== PAGE 1 =====
+{"alpha_words": 109, "chars": 1155, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+UNCLASSIFIED MESSAGE
+INCOMING
+AF IN : 50825 (7 Sep 62)
+₽g 3 of 4
+PAGE THREE RUWHHL 7H
+(7) UNDETERMINED, 14A(8) NONE, 14A(9) UNDETERMINED.
+14B(1) UNDETERMINED, 14B(2) 75,000 TO 80,029 FEET IN
+SOUTHWEST DIRECTION, 14B(3) UNDETERMINED, 14B(4)
+UNDETERMINED, 14B(5) UNDETERMINED, 14B(6) UNDETERMINED.
+14C(1) AIR-VISUAL, 14C(2) UNDETERMINED, 14C(3) CONVAIR
+880, FLYING NORTHEAST AT 33,200 FEET, NEW YORK, NY.
+14D(1) 2132Z 6 SEP 62, 14D(2) DAY. 14E(1) OVER
+HANKSVILLE, UTAH (38 25N, 110 42W). 14F(1) W. BUTLER,
+TRANS WORLD AIRWAYS, CHICAGO (O'HARE), ILL, AIRLINE
+PILOT, NO ESTIMATE OF RELIABILITY. PART III.
+PILOT
+_OF AMERICAN AIRLINES FLIGHT 195 FROM
+CHICAGO (O'HARE) TO LOS ANGELES, CALIF,
+AT 35,980
+FEET, ELEVEN MILES SOUTH OF BRYCE CANYON, UTAH (37
+42N, 112 12W) REPORTED SEEING THE SAME TYPE OBJECT AT
+2124Z ON 6 SEP 62. 14A(1) UNDETERMINED,
+14A(2)
+UNDETERNINED, 14A(3) SHINY SILVER, 14A(4) ONE,
+14A
+(5) NONE, 14A(6) UNDETERMINED, 14A(7) UNDETERMINED,
+14A(8) NONE, 14A(9) UNDETERMINED. 14B(1)
+UNDETERMINED
+143(2) SOUTHWEST DIRECTION AI 75,022 TO 80,230 FEET,
+143(3) UNDETERMINED, 14B(4) UNDETERMINED, 14B(5)

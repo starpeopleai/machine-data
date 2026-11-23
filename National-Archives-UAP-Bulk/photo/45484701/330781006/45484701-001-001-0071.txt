@@ -1,0 +1,13 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:54:56Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7430076, "source_ctime_ns": 1793361633680268201, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330781006/45484701-001-001-0071.jpg", "source_mtime_ns": 1785684842000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330781006/45484701-001-001-0071.jpg", "source_sha256": "1095f01e29cbb714e17a302623ced5189503eb0aafc5786189429c8651306eab"}
+
+===== PAGE 1 =====
+{"alpha_words": 57, "chars": 406, "method": "ocr", "page": 1, "variant": "plain-vision"}
+that the place of aighting in located approxiantely 379 45" 7. takitude and
+105° 10ại
+I Longitude, Prom a description given by the writer as to the
+apparent direebion of
+the flight it was determined that it was proceeding on a
+true heading between 30 and 85 degrees and would have passed very near to Fueble
+Muniaipal Airport had they maintained that headings
+CLOSED
+Declassification Authority: NND 923007

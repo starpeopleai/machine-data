@@ -1,0 +1,53 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:27:28Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9654124, "source_ctime_ns": 1793383201486526357, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28986513/0249.jpg", "source_mtime_ns": 1785747945000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28986513/0249.jpg", "source_sha256": "6fedfcab7fe69822b0d9c4c49a2e7f448fdbc4f69d33f298df56dc44bc61b311"}
+
+===== PAGE 1 =====
+{"alpha_words": 105, "chars": 831, "method": "ocr", "page": 1, "variant": "plain-vision"}
+I. DATE
+13 Apc 60
+DATE-TIME GROUP
+Local
+GM T...
+13/0035źęŘš
+5. PHOTOS
+D Yes
+B No
+LENGTH OF OBSERYATION
+3-4 min
+BRIEF SUMMARY OF SIGHTING
+Round, yellow object, size of grapefruit,
+1-500
+lots speed. No trail, dropping fast,
+straight down.
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Rhein Main AB, Germany
+TYPE OF OBSERVATION
+Cl Ground- Visual
+D Air Visual
+& SOURCE
+12. CONCLUSIONS
+Was Balloon
+•
+Probably Balloon
+Possibly Balloon
+D Ground-Rodor
+• Air-Intercept Redar
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomicol
+Probably Astronomical
+Military
+Possibly Astronomical
+B. NUMBER OF OBJECTS | 9. COURSE
+Othar.
+Insulticiant Data for Evaluation
+one
+descending
+Unknown
+11. COMMENTS
+Concur with reporting officer's report
+that sighting corresponded with a/c
+known to be landing at Rhein Main airport
+ATIC FORM 329 (REV
+BRP 32)

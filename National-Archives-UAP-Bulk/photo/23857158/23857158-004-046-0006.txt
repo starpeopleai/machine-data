@@ -1,0 +1,34 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:38:55Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 12827598, "source_ctime_ns": 1793358778139701418, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-046-0006.tif", "source_mtime_ns": 1785681199000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-046-0006.tif", "source_sha256": "8a270af2a310bc123f945bdf602f933a8f33657ee3ce9ebdd935fc78ac3f8bc0"}
+
+===== PAGE 1 =====
+{"alpha_words": 63, "chars": 528, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+4602D AISS UFOB ICG
+. REPORT NO.
+AISS-UFOВ-91-55
+2 DATE/TIME OF SIGHTING
+12/1h30% January 1955
+4 LOCATION OF SIGHTING
+Forsyth, Georgia
+5 MEANS RECD
+16 ACTION
+•hak
+7 INVES UNIT
+Investigation Authorised
+8 DATE INVES ASSIGNED
+2-0.
+12 Jaruary 1955
+10 DATE IR RECD HQ
+11 DATE IR APPROVED
+13 AISOP FORM 5
+2 Jma 1955ł
+14 COMMENTS
+Investigated by Flight 2-0.
+13 RECD HQ 4602D
+Unk
+19 ASSIGNING OFFICER
+Unk
+12 DATE IR TO ATIC
+15 CONCLUSIONS
+Optical phenomenas Optical Illusion
+AISOP FORM 7 (2AFk 55)

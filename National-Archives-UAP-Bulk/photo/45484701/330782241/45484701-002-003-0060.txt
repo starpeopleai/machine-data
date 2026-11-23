@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T18:14:59Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9486411, "source_ctime_ns": 1793362119454109874, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330782241/45484701-002-003-0060.jpg", "source_mtime_ns": 1785684712000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330782241/45484701-002-003-0060.jpg", "source_sha256": "a714c57f5b568a82c6cd43dd30f25a63d8fd35c0a5340570b17bf4f9ebd2a125"}
+
+===== PAGE 1 =====
+{"alpha_words": 251, "chars": 1701, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UNDEVELOPED LEADS
+FOR DISTRICT OFFICE NO. 12, SCOTT AFB
+AT ST. LOUIS, MISSOURI
+Wi11 contact Captain EDWARD D. DETCHEMENDY, 4104 Castleman Street,
+to determine his knowledge regarding sighting of flying discs at White
+Sands Proving Ground, New Mexico, as disclosed in an article, Los Angeles
+Times, dated 30 August 1949, wherein it is stated that such information
+was obtained by MARVIN MILES and CLETE ROBERTS from two senior officers
+and an enlisted technician. Ascertain, if possible, from whom MiLes and
+ROBERTS obtained their information. Obtain all information regarding the
+occasion when this information was given to MILES and ROBERTS. MILES
+and ROBERTS are Los Angeles Times reporter and KFWB newscaster respectively.
+FOR DISTRICT OFFICE NO. 18, MAYWOOD SPEC DEPOT
+AT LOS ANGELES, CALIFORNIA
+Will locate and interview Mr. MARVIN MILES, Seporter, Los Angeles
+Times, to determine from whom he obtained information at White Sands Proving
+Ground regarding the sightings of flying discs at White Sands Proving Ground.
+MILES was member of press conference at White Sands Proving Ground during
+a Navy exhibition firing on or about 24 August 1949, at which time he
+obtained the information for an article in the Los Angeles Times dated
+30 August 1949.
+AT LOS ANGELES, CALIFORNIA
+Will locate and interview Mr. CLEIE ROBERIS, Newscaster, Radio
+Station AFNB, Los Angeles, to determine from whom he obtained information
+at White Sands Proving Ground regarding the sightings of flying discs at
+White Sands Proving Ground. ROBERTS was member of press conference at
+White Sands Proving Ground during the Navy exhibition firing of a rocket
+scheduled for 24 August 1949.
+Declassification Authority: NND 923007

@@ -1,0 +1,16 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:58:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9013998, "source_ctime_ns": 1793364682100754943, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787490/45484701-007-003-0122.jpg", "source_mtime_ns": 1785684891000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787490/45484701-007-003-0122.jpg", "source_sha256": "0bffc7a3b8882d4040fa91b4e619fa69463edf63c20b5c6cb4db18bbe8749635"}
+
+===== PAGE 1 =====
+{"alpha_words": 17, "chars": 147, "method": "ocr", "page": 1, "variant": "plain-vision"}
+900-9
+180 toltaid die mc
+CADTRIRRAJO
+ORTUA YE
+ever 030 a
+RTAO
+AUG 1952
+07 De 0e7
+INVW
+ЛОТТАМНО
+e fe oa aile
+Declassification Authority: NND 923007

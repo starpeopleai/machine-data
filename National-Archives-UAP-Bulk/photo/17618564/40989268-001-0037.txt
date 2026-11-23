@@ -1,0 +1,59 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:39:12Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 13955260, "source_ctime_ns": 1793355598948767532, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0037.jpg", "source_mtime_ns": 1785564486000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0037.jpg", "source_sha256": "10e42fbdc1e94159aab91f7c785f854d032943c3f274513bc854ab99e27f949d"}
+
+===== PAGE 1 =====
+{"alpha_words": 107, "chars": 911, "method": "ocr", "page": 1, "variant": "plain-vision"}
+60
+TEMPERATURE (°C)
+-20
+SPECIMENS - 2-MIL POLYETHYLENE, 1 INCH WIDE,
+10 INCHES LONG (MACHINE DIRECTION)
+PRELOAD - 1 LB (300 PSI), 1 HR AND 50 MIN
+RATE OF TEMPERATURE DECREASE - 2 C/MIN
+BASE LENGTH - EXISTING AT TIME TEMPERATURE DECREASE BEGAN
+Figure 3. Influence of Temperature Change on Preloaded Polyethylene Specimens
+Table 2. Length Changes in Loaded Polyethylene
+Type Run
+MD 1°/min
+Preload Period
+1 hr 24 min
+Elongation at Room
+Temperature
+300 psi
+0.689
+500 psi
+1.167
+Maximum Contraction
+(cm)
+300 psi
+~0.45
+500 psi
+~0.4śął
+Comments
+MD 2° /min
+1 hr 50 min
+0.487
+0.939ł
+~0.40
+~ 0.40
+ID 1°/min
+TD 2°/ min
+1 hr 40 min
+42 min
+0.584
+0.451
+1.120
+0.851
+~0.50
+~0.36
+~0.50
+~0.32
+Contraction of 300 and 500 psi
+loaded specimens about the same
+at all temperatures
+500 psi specimens showed most
+contraction at intermediate
+As above
+300 and 500 psi specimens about
+equal in contraction at inter-
+mediate temperatures
+61

@@ -1,0 +1,44 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:38:41Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10697739, "source_ctime_ns": 1793364235284718459, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330786509/45484701-006-006-0310.jpg", "source_mtime_ns": 1785684600000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330786509/45484701-006-006-0310.jpg", "source_sha256": "8f0caa31a97aa9ce16d1598bfeb031d45b801b8661ac1bb9d849c4e6cca0a948"}
+
+===== PAGE 1 =====
+{"alpha_words": 345, "chars": 2261, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DETAILS :
+This investigation was conducted in order to determine who had
+furnished information at White Sands Proving Ground regarding the sighting
+of flying disks to MARVIN MILES, Reporter, Los Angeles Pimes, and CLETE
+RUBERTS, Newscaster, Radio Station KPMB.
+AT LOS ANGELES, CAMFORNIA
+Prior to interview with MILES, a copy of his article released in
+The Los Angeles Times on Tuesday, 30 August 1949, was secured and is being
+forwarded to DO #17 with copies of this report.
+The article reads as follows:
+ẠỊU. S. OFFICERS SEE FLYING SAUCERS
+BY MARVIN MILES
+WHITE SANDS PROVING GROUND, N.M., Aug. 29-FLying saucers--or at
+Least mysterious flying "objects"- have been sighted by service personne.
+at this vital center of America's upper air research.
+ạiI talked with three men, two senior officers and an enlisted tech-
+nician, who reported seeing strange objects in the sky, one as recently
+as last Friday during preparation for a high-altitude missile flight.
+ạiIn all fairness, it must be pointed out that other officers and
+engineers at White Sands scoff at the reports and put them down to
+imagination, weather balloons, dual images in high-powered optical equip-
+ment, or possibly distant planes reflecting sunlight.
+"Experienced Observers
+"Yet the men who gave these reports presumably are familiar with such
+possibilities and well acquainted with the appearance of balloons and
+planes and the quixotie results of staring at a fixed point in the sky for
+long moments,
+shipe and offion.
+Ạne officer believes, sincerely, that the objects seen are space
+ships and declared that a ballistic formula applied to one observation
+through a photo theodolite showed the 'ship! was 35 to 40 miles high--an
+'egg-shaped' craft of fantastic size and traveling at incredible speeds
+of three to four miles a second!
+"The observer in this case, he said, was tracking a balloon into the
+upper air when the object swept across the balloon's path and cavorted
+for some 10 seconds--taking turns up to 22 times the force of gravity--
+before it disappeared. It had no visible means of propulsion.
+The enlisted technician reported seeing an object at 3:35 P.m., last
+June 14, as he was tracking the course of a V-2 test rocket in a 20-power
+Declassification Authority: NND 923007

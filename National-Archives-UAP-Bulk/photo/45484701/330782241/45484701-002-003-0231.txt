@@ -1,0 +1,11 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:58:55Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9044369, "source_ctime_ns": 1793362203493710275, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330782241/45484701-002-003-0231.jpg", "source_mtime_ns": 1785684725000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330782241/45484701-002-003-0231.jpg", "source_sha256": "9914e95c26709b29dc49c948b0c7f501785a80475bb0371fabe87aa0ceff63fa"}
+
+===== PAGE 1 =====
+{"alpha_words": 47, "chars": 348, "method": "ocr", "page": 1, "variant": "plain-vision"}
+2l. Weather conditions at time of sighting: Clear.
+25. Name and address of observer: He Kenneth W. Howell and Cpl John I. Ramplain
+Ist Provost Security Sq, Killeen Base, Texas
+Occupation: Soldiers.
+Conments: Pair observers of average intelligence.
+Observers were in the open and neither were wearing glasses.
+Declassification Authority: NND 923007

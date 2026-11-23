@@ -1,0 +1,71 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:24:23Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8423299, "source_ctime_ns": 1793362632352000382, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330783376/45484701-003-004-0067.jpg", "source_mtime_ns": 1785685002000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330783376/45484701-003-004-0067.jpg", "source_sha256": "64a34b581d2c1a78825ff24ce339f5f5160f88ac45a58e6722727331638ce1df"}
+
+===== PAGE 1 =====
+{"alpha_words": 312, "chars": 2067, "method": "ocr", "page": 1, "variant": "plain-vision"}
+SUMMARY OF INFORMATION
+(SR 380-320-10)
+24TE
+Feb 56
+PREPARING OFFICE Office of the Assistant Chief
+of Staff, G-2, Intel, Hq First Army,
+Governors Island, New York 4, New York AHFKB-OD
+SUBJECT
+CODE FOR USE IN INDIVIDUAL PARAGRAPH EVALUATION
+Unidentified Flying Object
+OF SOURCE:
+OF INFORMATION:
+COMPLETELY RELIABLE
+CONFIRMED BY OTHER SOURCES.1
+USUALLY RELIABLE
+PROBABLY TRUE • •
+FAIRLY RELIABLE
+POSSIBLY TRUE
+NOT USUALLY RELIABLE
+DOUBTFULLY TRUE
+UNRELIABLE
+IMPROBABLE
+RELIABILITY UNKNOWN
+TRUTH CANNOT BE JUDGED
+SUMMARY OF INFORMATION
+The following report was received at 2018 hours, 23 February 56, by the First
+Army Staff Duty Officer, by an individual identifying himself as Bill BANCKERT or
+BORCHARDT, of the NY Journal American.
+1. A Sgt George PIERCE, further identifying data unknown, but believed to be
+a member of the U.S.Army, was walking a dog near his mother's residence on Moffet
+Ave., in Bklyn, NY at approximately 2000 hours, 23 Feb 56, Sgt PIERCE was on leave
+at the time.
+2. Sgt PIERCE heard a noise as from an airplane in trouble and, upon looking
+up, saw a round, big, blue flugrescent lighted object in the sky, which went in
+the direction of Idlewild Airport, circled the airport, and then left in the direc-
+tion of lower New York. Sgt PIERCE described this object as a flying saucer.
+3. The caller described Sgt PIERCE as apparently rational and sober and added
+that the Sgt was due to go overseas in the near future.
+CLASSIFICATION CANCELLED
+BY AUTHORITY OF
+LE DIRECTOR OF
+KURT K KUNZE,
+apt, Us.
+BY
+Historian g DEC 1975
+DATE
+"Attention is invited to the Pect that the information cof
+tained herein has horn derive.
+es other than the
+Department of the il
+1 20800»
+on of the informa»
+tion contained havin pill not
+outaide Department
+of the Air Forco chancels without prior approval from the
+Office of Special Investigations, IQ."
+DISTRIBUTIONI - ACSI, DA V
+1 - EADF
+1 - Sec Div
+1 - DI Branch
+FORM
+DA I DEC SI 568 5A AGOT
+WEICH MAY BE US FORM POP
+* U.S. GOVERNMENT PRINTING OFFICE: 1953
+-O-247710
+UNCLASSIFIED
+Declassification Authority: NND 923007

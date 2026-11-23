@@ -1,0 +1,56 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:27:20Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9523098, "source_ctime_ns": 1793364882571337164, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787905/45484701-007-006-0050.jpg", "source_mtime_ns": 1785684680000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787905/45484701-007-006-0050.jpg", "source_sha256": "2b8ce407c256d75c7e7a64b3b7c583518f56319337bda412d3115c4b946b7e8a"}
+
+===== PAGE 1 =====
+{"alpha_words": 214, "chars": 1516, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DUOSI, USAF
+HEADQUARTERS
+21st DISTRICT OSI (IG) USAF
+LANCLEY AFP, VIRGINIA
+UNCLASSIHED
+File Nr: 24-146
+30 September 1958
+SUBJECT:
+LARRY W. BRYANT, Civilian
+1002 Arnold Street, Newport News, Va.
+TO :
+Commander
+Langley Air Force Base
+Virginia
+1. Reference is made to a communication confirming the oral brief-
+ing of Lt Colonel Eugene O'Neill, Executive, by Major A. C-hurrelle, Il,
+this District, 24 September 1958, Subject as above, dated 26 September
+1958.
+2. Inclosed is a letter, Subject Air Research Group, dated
+27 September 1958 by Lyman D. Bothwell, Colonel, GS, Dofs for Intelli-
+gence, nq U. S. Continental Army Command, Fort Monroe, Virginia, which
+sets forth the results of an interview with one LARRY W. BRYANT, Depart-
+ment of the Army civilian employed at Fort Monroe, Va., relative to the
+insertion of an ad in the Hq CONARC Bulletin inferring that BRYANT was
+cooperating with the Air Force concerning unidentified flying objects.
+PRIANT's explanations of authority for claiming cooperation with the Air
+Force patently illogical, nevertheless are forwarded as a matter of
+interest to you.
+1 Inel:
+a/s (in dup)
+et: Dir OSI (w/ Inol in dup)
+cer fonde, TAC (w/ Inel in dup)
+(1 copy to be forvarded to
+Col We d. Suith, Dep Dir of Intell)
+OUT
+12 NOV1958
+CI DIV
+OSI
+Bumelle
+A. C-MURABLE, 11, Major, USAL
+For and in the absence of
+RICHARD G. COX
+It Colonel, USAP
+District Commander
+12-4 NOV 1958
+24-185.21-31
+24-185-461
+24185-46 X.
+ED STALES IR
+THE INSPECTOR GENERA
+UN
+Declassification Authority: NND 923007

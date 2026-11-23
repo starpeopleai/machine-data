@@ -1,0 +1,212 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T18:03:44Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 21324450, "source_ctime_ns": 1793361325952276473, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-005-0014.tif", "source_mtime_ns": 1785565318000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-005-0014.tif", "source_sha256": "173e9bcae87a5d65e64853b7e83a8c441c7b758d606b6e58363b6fd3cf4750a7"}
+
+===== PAGE 1 =====
+{"alpha_words": 134, "chars": 1324, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DISTEN CONTRO
+RECORD
+CLASSIFICATION:
+NUMBER
+MANURL
+001
+IXI
+002
+XIC
+004
+ІAI-0
+005
+JAI-E
+006
+LAR
+007
+LAI-S
+008
+174
+0/0
+AID
+012
+183
+014
+2AI
+015
+PRSD
+016
+284
+027
+3C2
+045
+EMP-CASL
+047
+MMP-AMJ
+048
+XPD-SP
+060
+ACIC-DC
+071
+DOSD/ ISA
+073
+TREAS
+080 NSA
+088
+COMRC
+089 ARPA
+CUSTOMERS
+DATE RECEIVED
+MACHINE
+003
+X-5
+009
+1A2
+0/1
+DET 1O 1006THą
+013
+184
+018
+2C1
+019
+2C2
+021
+204
+022
+2C5
+024
+206
+028
+ап
+029
+38
+030
+ATIC
+031
+3X3 (ARD)
+032
+NTPC
+033
+3FAF-E
+034
+3 FAF-W
+035
+AFCSI
+039
+ADAP-R
+040
+RAND
+042
+AFoop-ES
+043
+OFT-L
+о44
+AFORC
+046
+AFPCP-D
+050
+AFMMS-EV
+058
+SAC
+053
+MATS (AWS)
+054
+I MATS
+056
+ACIC-SL
+057
+AUL
+058
+AFSCC
+059 5FAPR 151959ł
+ATE SAPRI /1959:
+DATE MINICARRED
+063
+066
+067
+068
+069
+070
+074
+D75
+076
+077
+078
+079
+081
+082
+083
+084
+085
+086
+087
+091
+092
+093
+094
+095
+096
+097
+098
+099
+1246300
+MAR 2 6 1959
+CUSTOMERS
+ARDC
+NAC.
+PACAF
+ALCOM
+GMIC
+CONAO
+LASOR
+NASA
+AFSWP
+ARMY
+STATE
+NAVY
+CIA
+USIA
+BJSM
+CJS
+AJSS
+AFOSR
+1006TH
+FFSWC
+AFORC
+RADC
+WADE
+3X6 (MS)
+3X6 (RS)
+AFMTC
+STE SITA DICSI
+SPECIAL:
+_ROUTING
+CSIO
+OCT 21'60
+DISSEMINATION
+* PRINT-OUT
+SUB
+MANUAL
+MACHINE
+TOTALS
+2
+COPIES
+PAGES
+TOTAL
+TEXT
+2 3
+23
+SEPIR
+CHARTS
+AFCIN-IBI PHOTOSTAT REPRODUCTION
+REQUIREMENT
+ORIGINA LS
+SIZ E
+PRINTS
+NUMBER OF
+REPRODUCTIONS
+SETS
+OTA
+ATE DISPATCHED
+17 APR 195ª
+ODFRATOR NO/DATE (S/COM
+OPERATOR NO/DATE
+COLLATOR NO/DATE
+16 APR 1959
+_5 8
+DECLASSIFIED
+Authority NND 9237007

@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T18:02:20Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 18357880, "source_ctime_ns": 1793356452270896328, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0056.tif", "source_mtime_ns": 1785564706000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0056.tif", "source_sha256": "bc30d8c79bbe1c378514d2231dcbf7a0078102113602e189a5df100c8e4f5291"}
+
+===== PAGE 1 =====
+{"alpha_words": 238, "chars": 1488, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Incident #17 - It. Ranier, Washington -- 24 June 1947%
+There appears to be no astronomical explanation for this
+elassic incident, whien is the prototype of many of the later flying
+saucer stories.
+It is impossible to explain this incident away as sheer
+nonsense, if any credence at all is given to Mr. Arnold's integrity.
+however, certain inconsistencies can be pointed out in the facts as
+reported:
+Arnold's attention was first drawm to the objects by a
+bright flash on his plane, which was followed oy numerous other similar
+flashes.
+If these were something like the flash one gets from a dis-
+tant mirror, it means that the reflection was specular, or direct.
+For a direct reflection, the angle between the observer, sun, and ob-
+ject must be "just right," and at such distances as 20 or 25 miles,
+the chance of a series of direct reflections is extremely small. If
+the object was a diffuse reflector -- that is, scattering the sunlight
+falling on it, much as the moon or a balloon does -- then at such a
+distance it seems quite unlikely that Er. Amold would have been
+startled, or that our attention would have been oalled to it, unless
+the objects reflecting were extremely large.
+The supersonic speeds oalled for if the estimated distance
+is dorrect also throw suspicion on the original calculations; by
+computetion (see below) it can be seen that, considering the detail
+which arnold observed in the objects, at least one of his estimates
+KES
+Declassification Authority: NND 57565

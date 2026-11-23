@@ -1,0 +1,24 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:44:31Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9429252, "source_ctime_ns": 1793387430096140103, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28998674/0677.jpg", "source_mtime_ns": 1785748566000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28998674/0677.jpg", "source_sha256": "a43a0d9c22e661dbe5e92e4180940c927227ffd452d420bba50010ba2fd6f8fc"}
+
+===== PAGE 1 =====
+{"alpha_words": 90, "chars": 489, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Medine, New York
+Dear Sir:
+on August the 17th. we had a rainfall in
+Western New York and a number of the en
+closed peices of foil came down with the
+rein. No one around here seems to know what
+they are, so I am enclosing a few peicos.
+I would not bother with them but I recall
+reading a while back where you shot space
+needles into space and they disappered.
+I thought if these peices are some of them
+you would like to inow about them,
+SMO
+Yours Sincerly.
+H
+arl
+Tell tunn
+Run as
+aul
+USAF

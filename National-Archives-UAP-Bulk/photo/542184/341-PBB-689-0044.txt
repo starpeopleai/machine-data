@@ -1,0 +1,16 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T18:01:15Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 11797086, "source_ctime_ns": 1793366658396289052, "source_file": "National-Archives-UAP-Bulk/photo/542184/341-PBB-689-0044.jpg", "source_mtime_ns": 1785565570000000000, "source_rel": "National-Archives-UAP-Bulk/photo/542184/341-PBB-689-0044.jpg", "source_sha256": "6a54dbd680251b9c527e6c4ca949ceb438396a1dbbbe427290a766fe52032408"}
+
+===== PAGE 1 =====
+{"alpha_words": 2, "chars": 55, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 1, "variant": "clean-vision"}
+330
+-320.
+310
+300
+210
+200
+330
+100
+124"
+22
+LEES
+EASTMAN

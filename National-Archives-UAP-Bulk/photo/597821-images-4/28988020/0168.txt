@@ -1,0 +1,40 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T18:06:52Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6467999, "source_ctime_ns": 1793383834491105927, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28988020/0168.jpg", "source_mtime_ns": 1785748242000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28988020/0168.jpg", "source_sha256": "f4fc55b6f7a55ec23ee171738b9d075b3132078ac88fabd6f0c62fa44fc31864"}
+
+===== PAGE 1 =====
+{"alpha_words": 89, "chars": 594, "method": "ocr", "page": 1, "variant": "plain-vision"}
+"0.Do you think you can estimate how far away
+from you the object was? (Circle One): YesNo
+IF you answered YES, then how far away would
+you estimate it was?
+or, Y0,tee, coa miles.
+211, 260,000,000 Io0t;
+41.Blease sive us the following information
+about yourseif:
+NAME_
+Last Name
+First Name
+Midate Name
+ADDRESS
+Springliela
+Street
+STUc
+TELEPHONE NUMBER
+What is your present job?
+None
+A8312
+Sex Boy
+Please indicate
+any special education training
+that you have had.
+a Grade school
+D..o1 S0.001
+e. colla 0_
+duato_
+•. -ec.
+tical scnoo._
+( Lpe)
+42. Dete
+ou completed this questionare:
+1251
+Month
+Lear

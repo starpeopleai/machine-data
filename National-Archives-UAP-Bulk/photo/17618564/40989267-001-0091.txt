@@ -1,0 +1,45 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:51:07Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 18238634, "source_ctime_ns": 1793355508421542702, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0091.jpg", "source_mtime_ns": 1785564467000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0091.jpg", "source_sha256": "55e02160894ae04b5e41ab31bb66c57d1acd1618531f8e7222873d1f49421446"}
+
+===== PAGE 1 =====
+{"alpha_words": 487, "chars": 3228, "method": "ocr", "page": 1, "variant": "plain-vision"}
+172
+system. The test units in Figure 1 embody several different approaches to grid pat-
+terns. Some initial problems were encountered with delamination at altitude environ-
+mental temperatures of minus 90 degrees F; handling temperatures in the regime of
+minus 110 degrees F are now easily satisfied. A second aspect, that of fabricating
+an operational balloon of this very light material, involves the problem of quality
+control. It was found that the conventionaltechniques for quality control do not apply
+because the material is relatively fragile; thus, the handling processes require
+special attention and seaming techniques are unique. These factors have received
+developmental effort over the past two years with a resulting low weight high strength
+fabric and a compatible processing technique.
+It is interesting to note that, originally when SSS first started making the very
+light fabrics, it was done by hand on a loom with weavers passing the shuttle back
+and forth; this, of course, was a very laborious process. About the time a crew of
+Navajo Indian rug weavers was engaged, Mr. Tom Kelly said we were violating the
+child labor laws, and it would have to be done a different way. Consequently, during
+the summer of 1963, SSS completed the development of a prototype fabrication
+machine to effect the weaving automatically. The machine not only weaves, but it
+also laminates and cures in one continuous process.
+Now, turning to the potential of this fabric, the drive to date has been directed
+primarily toward very high altitude flights. If lower flight altitudes are desired --
+say 100,000 feet or less -- and the job can be done with a polyethylene or neoprene
+type balloon, MERFAB does not appear to have application; however, if altitudes in
+excess of 100,000 feet are required and in particular altitudes of 150,000 feet, then
+MERFAB is strongly indicated. For future reference in the case of superpressure
+balloons and/or load carriers, it appears that the material has excellent potential.
+As a first step in using MERFAB for an operational application it was felt that
+a modest case should be attempted involving a sounding balloon which would carry
+a small payload to an altitude of 150,000 feet. This useage means generating the
+capability of built-in gas containment with a large expansion ratio. By way of visual-
+ization, if one starts with a cubic foot of lifting gas at sea level, it will expand to well
+over 350 cubic feet by the time it gets to the altitudes of interest; MERFAB canrepre-
+sent this type of volumetric change capacity.
+Now for this first step, what are the specifics that would be desirable? Cer-
+tainly, there are a number of scientists and military personnel who would be interested
+in carrying scientific payloads to 150,000 feet. As a consequence, it was determined
+that a reasonably small scientific payload to that altitude would be commensurate
+with a radiosonde. Thus a design point of 150,000 feet with a 3.5 pound payload was
+chosen. Certainly, weather considerations were paramount including the accommo-
+dation of temperatures in the equitorial regions to minus 90 degrees F; the latter
+Figure 1. Inflation of Balloon Samples Prior to the Environmental Test Sequence

@@ -1,0 +1,59 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:26:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8909436, "source_ctime_ns": 1793383416226819377, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28986960/0655.jpg", "source_mtime_ns": 1785748061000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28986960/0655.jpg", "source_sha256": "8578acd1dec1a6a9d60bd32525c068aee76092c7c84333bd5c1052a8348bf865"}
+
+===== PAGE 1 =====
+{"alpha_words": 132, "chars": 901, "method": "ocr", "page": 1, "variant": "plain-vision"}
+JOINT MESSAGSFORM
+SECURITY CLASSIPICA
+UNCLASSIFIED
+SPACE BELOW RESERVED FOR COMMUNICATION CENTER
+1950 JUN 10
+PRECEDENCX
+ROUTINE
+7772 MaG (Clach)
+ACTION
+INFO
+FROM:
+TO:
+ASHUNTING
+541
+cl0 9 2
+ORIG. OR REFERS TO
+25 OIN X101
+OF REFERENCE
+REPERENC:
+UNCLAS
+SPECIAL INSTRUCTIONS
+ATIC W-P AFB
+MOCHORD AFB, WASH RTZDM
+/UNCLASSIFIED/FROM: AFCIN-LE2
+6-17722
+ATTN COC 25TH ADIV. YOUR MSG 25 OIN X101, DID 25 MAY 60. ARE THE
+HEADING DIRECTIONS AN INDICATTON OF THE VECTOR OF THE OBJ, OR
+AZIMUTH FROM THE POSITIONS OF THE WITNESSES? IF THE STATED
+HEADINGS ARE VECTORS, IT IS REQUESTED THAT THE AZIMUTH OF THE
+OBJ FR EACH WITNESS BE FWD TO THIS CTR.
+GYMBOL
+DATE
+10
+MONTH
+JUNE
+TIME
+0750
+YEAR
+1960
+AFCIN-LE2
+Major Robert d. Friend
+PHONK
+69216
+10 1
+SECURITY
+UNCLASSIFIED
+FORM
+DD, MAY 98 173
+DED for st
+I NAAN AND TITLE
+PHILIP G. EVANS
+Colonel, USAF
+AFCIN-4E
+REPLACES DO PORN
+I OUT 49, WHICH WILL EE USED UNTIL EXHAUSTED

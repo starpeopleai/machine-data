@@ -1,0 +1,42 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:36:17Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8171919, "source_ctime_ns": 1793387310212988512, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28998515/0537.jpg", "source_mtime_ns": 1785748526000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28998515/0537.jpg", "source_sha256": "c27001b80de9911476b2180074d75bf64d55b85ee1be4dabdc1b7c197b83cdb5"}
+
+===== PAGE 1 =====
+{"alpha_words": 105, "chars": 739, "method": "ocr", "page": 1, "variant": "plain-vision"}
+SUB A 169
+SUBJECT TO CORRECTION
+SUSPECTED DUPLICATE
+CHQ47 17ZCWJX 18 9
+00 RUEAHQ
+ZNR ZOV ZFD RUNGSU
+CZCSUB744ZCALA410
+O0 RUDOSQ RUEAHQ RUVGKF
+DENRUW GAL 55
+0 2711305
+ZMPEREOPOH ABVG
+TO RUCDSO/FTD WPAFB OHIO
+RUVGKF/29 AIRDIV RICHARDS GEBAUR EFB MO
+RUEAHO HQ USAF WASH DC
+RUEAHO/SECRETARY OF THZ AIR FORCE WASH DC
+INFO ZEN/ ADC ENT AFB COLO
+ZEN/NORAD ENT AFB COLO
+ZEN/4600 ABW ENT AFB COLO
+DEPARIMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+UNCLASSIFED MASSADE
+INCOMING
+AF IN : 13427 (7 Aug 62) N/bmg pg 1 of 3
+ACTTON: CIN-17
+INFO : 00P-2, 00P-CP-1,
+SAFS-3, DIA-10,
+DIA (CITC) -3
+(37)
+SUGIASOPS SQ 2050.
+UFO INVESTIGATION/REPORT (AFR 200-2)
+(1) OBLONG-ROUND ENDS.
+(2) WATERMELL ON
+(3) HREDDISH ORANGE
+(4) ONE
+(5) NA
+(6) NONE
+(7) NONE
+(3) NQTE

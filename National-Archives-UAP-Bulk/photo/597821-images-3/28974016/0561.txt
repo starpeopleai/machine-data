@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:27:13Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9480982, "source_ctime_ns": 1793379989336198308, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28974016/0561.jpg", "source_mtime_ns": 1785700891000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28974016/0561.jpg", "source_sha256": "12d68117cd6e27586bd5dfc3e5e9107644117a3b95f60a09730b1162a89b0850"}
+
+===== PAGE 1 =====
+{"alpha_words": 47, "chars": 373, "method": "ocr", "page": 1, "variant": "contrast-vision"}
+WINDS
+F20M
+WRIGHT F.LD
+APER=X
+TOPM 10000-rio
+270
+S-SW
+- 7000.10i 620
+28K
+5-54
+as Ja t cay
+Va zens 1 1.
+Cv. 34,8
+Meit
+Lima, Ohio
+• Uniopolis
+Ballo
+det ped laenens
+L jute.
+35 - /m
+3 0!
+2: PM
+\û·
+Siesta Grane Wy' Ulant
+Balcon relemet it L:30 P.M - vimis S-54 21K
+Baliem released + 12:30 A11 - wnd=5-54 21K
+Ballon nonet have lin et keten
+5 2 - 55 milas cre il cond s geso
+juan

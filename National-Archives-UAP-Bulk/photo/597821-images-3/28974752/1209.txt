@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:38:28Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9389626, "source_ctime_ns": 1793380163960813402, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28974752/1209.jpg", "source_mtime_ns": 1785700704000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28974752/1209.jpg", "source_sha256": "851253b68ad051aeb1af43d36a02ef26182cc431c725e8fe562e98d593ce548b"}
+
+===== PAGE 1 =====
+{"alpha_words": 18, "chars": 113, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Che ee
+eke
+eg
+
+r
+a ty
+
+5 +.
+|
+
+me)
+injfot'e Oye ew
+=
+
+%
+
+ae Pens
+
+AIRFIELD ELEVATION
+
+na.
+
+ay
+
+a Phe
+
+bb cae
+&)

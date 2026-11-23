@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:56:58Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8273850, "source_ctime_ns": 1793377084164771193, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28962649/0782.jpg", "source_mtime_ns": 1785696707000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28962649/0782.jpg", "source_sha256": "77b39a0c0baaad30972d0452901dfa7d84cf7d5fd8b7311b112d8a891001299a"}
+
+===== PAGE 1 =====
+{"alpha_words": 98, "chars": 587, "method": "ocr", "page": 1, "variant": "plain-vision"}
+7OEPd.
+2242S:
+CONDE SASTH ACAN SODI DETO!
+I COLOR CANSE
+T AFD COLO.
+CS COL
+SPRE/CORD. ISTH ADIV ROSLY AFS
+NOBL
+A.1C
+LENT PAT
+ENSO. AFB ORIO
+AS SO AISS ACCUIRE AFE TR
+C USAF ASHI
+RO RJIPJ / CONOR 9TR ADV ADVICEUINS AT TRENTON J
+CEDLS/ DET ST 45.7EA A1SS GRT PIT APT CORAPOLIS PA
+CEPHS/ CORDR ZADZ STE ART AFD NEWBUR MY
+LATIN
+BATIG
+4 Afile
+CLASSIFIED/ ACDOOT 36. RET MY NSG ACDOOT31. UFOR REPORT. FOI
+LOUTHS
+JO IS SUBHITTED:
+1• PIECE OF WALLBOARD
+-• SHAPED LIKE ARROTHCAD
+• SEVEN INCHES LONE' FROM TIP OF A ROMEZAD
+*• EXPANDED FROM POINT TO ABOUT THREE I CHES WIDE. END
+5/15322 JUL RJEPOR

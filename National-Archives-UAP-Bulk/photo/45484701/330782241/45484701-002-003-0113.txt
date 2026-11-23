@@ -1,0 +1,69 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:46:07Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9786298, "source_ctime_ns": 1793362145166183406, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330782241/45484701-002-003-0113.jpg", "source_mtime_ns": 1785684717000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330782241/45484701-002-003-0113.jpg", "source_sha256": "eb2165a7ea1045d31c288fbbbef720e749533b33e395081911f3f5a2b92b4c9e"}
+
+===== PAGE 1 =====
+{"alpha_words": 208, "chars": 1453, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AF HQ-44
+3 Dec 1947
+AFC
+Mx
+ould/1se/72231
+Wrtn 21 July 49
+OFFICE OF SPECIAL INVESTICATIONS
+THE INSPECTOR GENERAL
+24-185
+SUBJECT:
+(Confidential) MRS. MADELINE GWYNNE MERCHANT
+SPECIAL INQUIRY
+TO:
+District Commander
+5th OST District,
+Wright-Patterson Air Force Base
+Dayton, Ohio
+.. Attacned is a letter from the FBI, dated 8 August 1949,
+addressed to Mrs. MADELINE GWYNNE MERCHANT, 918 Northeast 18th Street,
+Oklahoma City, Oklahoma, a copy of a letter from Mrs. MERCHANT to the
+(7) and a series of questions Wes. MERCHANT is asking concerning seven
+V-shaped objects sighted over Mountain Home Desert on 24 July 1949.
+2.
+This is sent to you for transmittal to the Air Materiel Command
+for an evaluation of the questions being asked by Mrs. MERCHANT.
+3. It is requested that this matter be given prompt attention.
+FOR THE DIRECTOR:
+5 Incls
+1. Ltr fr FBI to MERCHANT
+dtd 8 Aug 49 (Cy:)
+2. Cy ltr fr MERCHANT to
+FBI dtd 25 Jul 49
+3. Cy List of Questions
+4. Cy Envelope fr MERCHANT
+to FBI
+5. Cy Newspaper Clippings fr
+CLASSIFICATION CANCELLED :
+"The Idaho Daily Statesman
+BY AUTHORITY OF THE DI
+Boise, Idaho, 25 Jul 49
+BY
+KURT K. KUNZE, Capt, USAF
+historian
+1 8 DEC 1975
+DATE
+SpẠi
+WILLIAM M. TURNER
+It. Colonel, USAF
+Executive, Special Investigations
+The Inspector General, USAF
+AFCSI
+OF SPEC INV
+<6
+OUT
+MANAGEMEN
+SEP 1940
+OFFICE SYMBOL
+GRADE AND
+SURNAME OF
+COORDINATING
+OFFICERS
+USA
+FESI
+U.S. GOVERNMENT PRINTING OFFICE
+Declassification Authority: NND 923007

@@ -1,0 +1,34 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:33:51Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6938897, "source_ctime_ns": 1793361675406765159, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330781178/45484701-001-002-0009.jpg", "source_mtime_ns": 1785684753000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330781178/45484701-001-002-0009.jpg", "source_sha256": "170bf4d01e27baf380c5f2fe3cf1d56babe8f2df6afc5a1c345bb990e27c7639"}
+
+===== PAGE 1 =====
+{"alpha_words": 279, "chars": 1776, "method": "ocr", "page": 1, "variant": "plain-vision"}
+19D OSI 24-11
+Elko, Nevada
+13 May 1949
+At approximately 10:15 Pacific Standard Time on 2 May 1949 I was working on
+my car located in front of my house at 789 Carlin Court, Elko, Nevada, I glanced
+at the sky North of Elko and noticed three objects in an inverted vee formation
+proceeding in a south westerly direction. The objects were approximately 1/4
+inch across to my naked eyes were roughly circular in shape and seemed to be
+made of metal with the appearance of oxidized aluminum. Based on my contact
+with aircraft at the Elko airport, I judged the objects to be flying about 5
+miles from town at an altitude of 14000 feet. On this basis they would be
+approximately 30 feet in diameter and traveling at a speed of 250 or 300 miles per
+hour. I could see no indications of exhaust, or vapor trails and heard no sound
+and there were no extensions or projections on the objects. I entered my house
+and returned with a pair of binoculars, but before I could use them (the
+binoculars), the three objects seemed to veer left to a more southerly directions;
+all three tilted at an angle, in what seemed a precision movement and disappeared
+from my sight. The speed of the objects seemed to increase as they started to
+veer and upon tilting they seemed extremely thin and flat. I was unable to
+again locate the objects with either the binoculars or my naked eve. The objecis
+were within my vision for approximately two minutes and upon their disappearance
+I immediately notified my superior at the Civil Aeronautics Administration, Elko,
+Nevada, by telephone.
+I have read the foregoing statement and it is true to the best of my
+knowledge and recollection.
+/s/ Marvin L. Small
+Witness: Thomas J. Scanlan
+Witness: Clyde M. Edwards
+Exhibit A°
+Declassification Authority: NND 923007

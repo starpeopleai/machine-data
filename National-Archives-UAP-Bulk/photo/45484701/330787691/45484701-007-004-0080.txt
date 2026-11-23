@@ -1,0 +1,73 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:37:26Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8717542, "source_ctime_ns": 1793364777257631422, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787691/45484701-007-004-0080.jpg", "source_mtime_ns": 1785684929000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787691/45484701-007-004-0080.jpg", "source_sha256": "54317c758dd336911b97951e6210603424c720d9dfbd87e4f3fffd44179eb073"}
+
+===== PAGE 1 =====
+{"alpha_words": 176, "chars": 1364, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UNITED STATES AIR FORCE
+THE INSPECTOR GENERAL
+OFFICE OF SPECIAL INVESTIGATIONS
+REPORT OF INVESTIGATION
+FILE NO.
+DATE
+24 October 1949
+TITLE
+#PROJECT SIGN
+UNCONPENTIONAL AIRCRAFT SIGHTED
+IN SOUTHERN OREGON ON
+27 May 1949
+EPORT MADE
+REPORT MADE AT
+RALPH R, HOUSER, SA
+PERIOD DO #20, MoCherd AFB
+OFFICE OF ORIGIN P+, 11 Oct 1949
+STATUS DO #20, MeChord AFB
+FADING
+CHARACTER
+SPECIAL INQUIRY
+REFERENCE Report of S/A BRYDAN E. MOON, DO #19, Fairfield Suisun ARB, California,
+dated 8 July 1949. File No. 24-15
+SYNOPSIS
+Investigation predicated upon report of S/A BRYDEN E. MOON, DO #19,
+Fairfield-Suisun AFB, California, dated 8 July 1949, File No. 24-15.
+The writer was unable to contact anyone who had seen any unconventional
+aircraft in the Hart Mountain area.
+UNCLASSIFED
+CLASSIFICATION CANCELLED F
+BY AUTHORITY OF THE DIRECTOR
+BY KURT K, KUNZE, Capt, USAF
+DO INV
+DATE
+/ 6 DEC 1975ł
+ONTA
+UNCLASSIFIED
+DISTRIBUTION
+ACTION COPY FORWARDED TO
+FILE STAMP
+OG, ANG, -PATB
+ATTN:
+MOIAXO-3
+(Action Copies)
+Hgs OSI
+File
+2
+Commanding General
+Air Materiel Command
+Wright-Patterson AFB
+Dayton, Ohio
+ATTENTION: MOIAXO-3
+185-19:
+32 4M '49
+APPROVED
+Effort, bout wask
+EATIGARUN
+A il
+1450
+AFHQ FORM
+15 JAN 49
+0-208
+Major, USAF
+Acting
+District Commander.
+Replaces AFCSI Form 4, 23 Jul 48, which may be used
+16-57744-1
+U.S. GOVERNMENT PRINTING OFFICE
+Declassification Authority: NND 923007

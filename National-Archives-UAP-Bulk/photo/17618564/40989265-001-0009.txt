@@ -1,0 +1,160 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:29:25Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 13236095, "source_ctime_ns": 1793355311080469395, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989265-001-0009.jpg", "source_mtime_ns": 1785564432000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989265-001-0009.jpg", "source_sha256": "f96ddcb81a5cad1e82181cca906b80ee8a96aaba063b30d4f48e6985c28665e9"}
+
+===== PAGE 1 =====
+{"alpha_words": 997, "chars": 6334, "method": "ocr", "page": 1, "variant": "plain-vision"}
+These widely publicized balloon exploits
+combined with the publication of Edgar
+Allen Poe's story, "Balloon Hoax," which
+described a three-day balloon flight across
+the Atlantic, sparked Verne. He became so
+interested in balloons and ballooning that he
+personally gathered and read every avail-
+able technical source in addition to seeking
+out and interviewing many notable scien-
+tists and balloonists. This done, he wrote a
+story entitled "A Balloon Journey." This
+story foreshadowed by many
+years any
+other novels about flight and helped to
+establish Verne as the father of science fic-
+tion.
+Enthused with the mission of making
+ballooning popular, one of Verne's acquain-
+tances, Felix
+Tournchon, who was known
+to all Paris as "Nadar," set out in 1861, to
+build the world's largest, most luxurious,
+passenger balloon. Nadar had made his
+name as a writer, pioneer photographer and
+balloonist. (In 1858, it was he who took his-
+tory's first aerial photo, from a balloon
+above Paris.) His abilities as a promoter re-
+sulted in the 'Geant'
+(Giant), a
+210,000-cubic-foot balloon made from
+thousands of yards of Lyons' silk. The
+passenger car was big enough to hold a
+dozen people and was equipped with double-
+decker bunks, a kitchen and a darkroom.
+The Geant was in the final stages of con-
+struction when Verne released a new book
+entitled "Five Weeks In A Balloon,' which
+promptly captured the imagination of an
+avid public.
+On the fourth of October, 1863, the
+Geant lifted to its first ascent. From the
+Champs de Mars, the traditional balloon
+launching site in Paris, Nadar, his wife, the
+aeronauts Jules and Louis Godard, and a
+few intrepit others, sailed comfortably to a
+landing 25 miles away at Meux. The princi-
+pal mission of those ensconced in the com-
+forts of the two-story, wicker-work car was
+to sit down to a meal of "ham, fowl and
+dessert." After such an auspicious beginn-
+ing everything seemed perfect for the pro-
+mise of the second flight. On October 18,
+just a few weeks after her inaugural voyage,
+the Geant set out on what was to prove a
+400-mile trial of wind and storm. Nadar,
+fearfully mistaking a cloud bank for the sur-
+face of the North Sea, fought the balloon
+down in a high wind near Hanover, Ger-
+many. Demolishing everything in its path,
+the Geant finally came to rest. Miraculous-
+Nadar's giant balloon at Paris in 1853. This sumptuous two-
+story gondola was made of wicker. Le Geant was the largest
+balloon made up to that time.
+(Library of Congress)
+ly, there were no casualties. Nadar contin-
+ued to exhibit the craft on tours throughout
+the continent, but never flew it again.
+Notwithstanding the efforts and imag-
+ination of all these, the problem of altitude
+remained to be solved.
+When in 1903 the brilliant Russian,
+Konstanin E. Tsiolkovsky published his sci-
+entific paper entitled, "The Exploration of
+Cosmic
+Space by Means of Reaction
+Motors," he plainly heralded the opening of
+the Aerospace Era. Tsiolkovsky's work ex-
+amined the use of fuels and rockets for space
+flight. His paper was to influence two im-
+portant pioneers; Robert H. Goddard of the
+U.S.A., and Herman J. Oberth, a Hungarian
+who later became a German citizen. By 1919
+Goddard had published a book on rocketry
+and, in 1926, it was he who fired the first liq-
+uid-fueled rocket. Oberth, meanwhile,
+authored papers examining how rockets
+could be made to escape earth's gravita-
+tional pull. It was not until the mid-1950's
+when the inflatable space balloon and the rock-
+et were combined to prepare for the explora-
+tion of space beyond the earth's atmo-
+sphere.
+Working independently, lit by the spark
+LES MACHINES VOLANTES
+Franco-Prussian War, 1870-1871-Manufacture of balloons within railroad stations (the works of Godard in the Orleans
+Station, Paris). During the seige of Paris, Felix Nadar organized a mail and passenger emergency service by balloon.
+(Smithsonian Institute)
+of Tsiolkovsky's imagination, Oberth and
+Goddard were the first to wrestle with the
+technical issues of rocketry and high-alti-
+tude research. It was their efforts that suc-
+ceeded in awakening the scientific com-
+munity's interest in space and space travel.
+But, it was balloons, not rockets, which
+first took men to the very limits of the at-
+mosphere where the life-sustaining envelope
+of earth verges on the vast emptiness of
+space. And just as in Guy-Lussac's time, it
+was the problem of pressure, not the prob-
+lem of gravity, which faced the aeronauts of
+the early decades of this Twentieth Century.
+With two separate ascents in 1931 and
+1932, the Swiss physicist Auguste Piccard
+took the lead in the climb upward.
+In his
+first flight Piccard and an assistant lifted off
+from Augsberg, Germany inside an enclos-
+ed, pressurized, spherical gondola made of
+aluminum. Suspended from a rubberized,
+hydrogen filled balloon, they attained the
+record altitude of 51,961 feet. On the second
+flight, again with an assistant, the old
+record was broken, the gondola reaching an
+altitude of 53,139 feet.
+Not only had Piccard reached into the
+stratosphere... where no man had gone
+before... but while there, was able to glean
+new information on the nature of gamma
+rays and cosmic rays as they exit earth's at-
+mosphere. Compounding his success was
+the unique design and operation of his
+balloon; this became his major contribution
+to the scientific efforts of his time.
+In the next year, on November 20, 1933,
+Navy Lieutenant Commander T.G.W. Settle
+and Marine Major C.L. Fordney climbed in-
+to the gondola of their 105-foot balloon nam-
+ed, "The Century of Progress.' This giant
+lifted to a new record height of 61,237 feet.
+Like Piccard, they used a sealed cabin and
+life-support system making them pioneers
+in the development of those systems now be-
+ing used in the manned space program. The
+flight of the "Century" was notable also for
+one particular response engendered at the
+time. Congratulations and challenge came
+from the USSR's then foreign minister, M.
+Litvinoff, who declared, "May both our
+countries continue to contest the heights in
+every sphere of science and technique. Lit-
+vinoff's pronouncement was made all the
+more singular and moving by events occur-
+ring only 50 days earlier. Then, three Rus-
+sian aeronauts; Prokofier, Gudonov and
+Birnbaum, also using a sealed, high-altitude
+cabin, had flown their balloon to an un-

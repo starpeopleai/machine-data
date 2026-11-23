@@ -1,0 +1,42 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T18:07:04Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6612662, "source_ctime_ns": 1793383820730114021, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28987982/0129.jpg", "source_mtime_ns": 1785748550000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28987982/0129.jpg", "source_sha256": "7e1701a65716c1fecc805caac74730da766d59bbb98c9f832d39c5a4df046869"}
+
+===== PAGE 1 =====
+{"alpha_words": 96, "chars": 718, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE DIVISION
+UNCLASSIFIED MESSAGE
+INCOMING
+AF IN : 4918 (30 Ju1 60)
+ACTION: CIN
+INFO : SAFS, OOP
+SD 018
+CZCHOE 110ZCYJF692
+PP RJEZ HO
+DE RJEDNU 66
+P 292155Z ZEX
+FM CHANUTE TECH TNG CEN ATC CHANUTE AFB ILL
+TO RJWFAL/ADC ENT AFD COLO
+RJEDSQ/ATIC WPAFB OHIO
+• RJEZHQ/HQ USAF AFCIN WASH DC
+RJEZHQ/SEC OF AF SAF IS WASH DC
+H/wg
+UNCLAS OSD 32G. FINAL SECTION OF TWO SUBJECT: UFO
+(2) SPRINGFIELD: ILL. APPROXIMATELY 30 MILES W.
+27/01002
+CLEAR 15 MILES
+80/72 W5 FEW CU
+27/12002
+70SCATTERED 15 MILES
+78/71NW2
+27/0002
+30 SCATTERED 15 MILES
+76/71 S3
+90 SCATTERED
+(3) CHAMPAIGN, ILL. APPROXIMATELY 25 MILES ENE.
+27/01202
+27/02002
+MSG
+CLEAR 15
+75/69 SWS
+20020/12
+HI THIN BROKEN 15 MILES 73/69

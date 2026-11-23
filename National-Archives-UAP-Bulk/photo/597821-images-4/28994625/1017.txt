@@ -1,0 +1,17 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:55:55Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7996194, "source_ctime_ns": 1793386024993502056, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28994625/1017.jpg", "source_mtime_ns": 1785748254000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28994625/1017.jpg", "source_sha256": "a8d50c181cc2a4fb30cf2bcf5349c0f8290db2f5c11d82e28a21f6ac67163b85"}
+
+===== PAGE 1 =====
+{"alpha_words": 63, "chars": 436, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Wed. Sent. 27th. 1961
+Washington D.C..
+To: Major William T. Coleman Jr.
+U.F.O. Project Officer
+Publin Information Division
+Office of Information.
+Dear Sir:
+Enclosed is the questionnaire concerning the sighting
+I reported, I am returning the other form unanswered in a
+seperate envelope. because my friend does not whish to fill
+it out. I have tried to fill it out exactly as I rembered
+it. I hope you find this information useful.
+Sinc

@@ -1,0 +1,65 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T18:15:09Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9895211, "source_ctime_ns": 1793362524659008935, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330783011/45484701-003-001-0117.jpg", "source_mtime_ns": 1785685154000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330783011/45484701-003-001-0117.jpg", "source_sha256": "0572b0ed9427e08215251f030509077cc99410dad919c4d7b189977fd67b1c0e"}
+
+===== PAGE 1 =====
+{"alpha_words": 358, "chars": 2470, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Lt Col Free/es/Code 192/x140
+AFCSI-6
+Wrtn: 10 Sep $2
+DIRECTORATE OF SPECIAL INVESTICATIONS
+THN INSPECTOR GENERAL
+15 SEP 1802
+24-185
+SUBJROT:
+20:
+(Unclassified)
+Aircraft
+SPECIAL INQUIRY
+District Commander
+let OSI Distriet (IG)
+Westover Air Force Base
+Nassachusetts
+Reporting of Information on Unconventional
+AFOSI FILE COPY
+Reference is nade to your letter, file f24-00-4), dated 4 August
+1952, in regard to the above subject. For your information, an AFCSI
+Letter superseding the reporting procedures outlined in AFOSI Letter No
+No. 85, dated 23 October 1950, is being prepered and will be published
+within the immediate future.
+2.
+With respect to the request contained in paragraph four (4) of
+your letter, the provisions of paragraph 7e, AFL 200-5 are considered
+applicable to OSI District Offices not physically located on Air Force
+Bases, since technically such offices nay be deemed as falling within
+the meaning of the term installation. Hovever, when a District Office
+or Detachment is located on an Air Force installation, as in your case,
+receives a report of an unidentified object, complete data should be
+obtained from the person maling the report or sighting and the inforna-
+tion immediately referred to the installation commander in order that
+he nay prepare the reports required in paragraph 7c and d, AFL 200-5.
+These reports should be confirmed in writing with a copy of the con-
+firmatory letter designated for Headquarters, OSI.
+3. All Spot Intelligence Reporte or Reporte of Investigation con-
+cerniag these incidents should be directed to Headquarters, OSI with a
+copy to the Chief, Air Technical Intelligence Center, Wright Patterson
+Al: Force Base.
+These reports should be submitted to this office in
+duplicate in order that a copy may be furnished the Director of Intel-
+ligence, Headquarters, USAF.
+Any TW reports which might be necessary
+by OSI Districts concerning these incidents should be addressed to the
+Directorate of Special Investigations rather than the Directorate of
+Intelligence. The Director of Intelligence will be furnished copies
+of these messages as received by this office.
+Other addresses for TWX
+reports will be as show in AFL 200-5.
+Distribution of reports con-
+cerning unidentified flying objects to the Commanding General, Anc
+ATIN:
+NOIS, as shown in AFCST Letter No. 85, dated 23 October 1950, 34g
+is no longer required and will be discontin
+24-
+- /82-1
+AFCSI-6
+Lt Col F
+Mr. Levy
+Declassification Authority: NND 923007

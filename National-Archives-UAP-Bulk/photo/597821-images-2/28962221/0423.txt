@@ -1,0 +1,57 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:42:57Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8062873, "source_ctime_ns": 1793376898469088768, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28962221/0423.jpg", "source_mtime_ns": 1785696895000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28962221/0423.jpg", "source_sha256": "eeeaec83b56b99bf9e46a0b87a578a12467f91b1e8a140a4adfe6b78589539fc"}
+
+===== PAGE 1 =====
+{"alpha_words": 113, "chars": 883, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+25 May 1955
+3. DATE-TIME GROUP
+Local
+GMT_
+25/2215zął
+5. PHOTOS
+D Yes
+7. LENGTH OF OBSERVATION
+3 minutes, 10 secondsl
+10. BRIEF SUMMARY OF SIGHTING
+Round disc amber red in color.
+Erratic motions, approached American
+four engined bomber.
+PROJECT 10073 RECORD CARD
+2. LOCATION
+London,
+EngLand
+4. TYPE OF OBSERVATION
+MKGround- Visual
+• Air-Visual
+6. SOURCE
+• Ground-Radar
+Cl Air-Intercept Radar
+British Civilian
+8. NUMBER OF OBJECTS 9. COURSE
+one
+N.
+ta
+_WL
+11. COMMENTS
+12.
+CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+Possibly
+Astronomical
+uxorher_ Amaginatlon
+Insufficient Dato for Evaluation
+Unknown
+Rpting AF officer states
+that
+source of this rpt is a "fana-
+aticạẠạbeliever in flying saucers
+This is 3d time he has seen them
+in last 9 years.
+ATIC FORM 329 (REV 26 SEP 52)

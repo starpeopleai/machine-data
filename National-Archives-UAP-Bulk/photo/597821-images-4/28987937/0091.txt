@@ -1,0 +1,42 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T18:07:21Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6636972, "source_ctime_ns": 1793383806833702248, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28987937/0091.jpg", "source_mtime_ns": 1785747919000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28987937/0091.jpg", "source_sha256": "42d9dfa332662b356ce8aa48a8c5c214683cab98cecafda8d57d3ee5489c6bec"}
+
+===== PAGE 1 =====
+{"alpha_words": 81, "chars": 658, "method": "ocr", "page": 1, "variant": "plain-vision"}
+NNNN
+RA 156
+CZCSQB573ZCWYB494
+PP RJEDSQ
+DE RJWFFD 22A
+P 0320002 ZEX
+FM 401ST TFW ENGLAND AFB
+TO RJWFAL/ADC
+RJWFKF/33RD ADIV
+RJEDSQ/ATIC WP AFB
+RJEZHQ/HO USAF (AFCIN)
+RJEZHO/SAF (SAFIS)
+2 3 23 13
+UNCLAS TFW/DO/INTEL 8-76.
+IMMEDIATE ATTENTION REQUIRED. THIS MESSAGE IN TWO PARTS. PART I•
+SUPPLEMENTAL INFORMATION TO UFO REPORT SUBMITTED ON 25 JULY 1962,
+CITE: TEW/DO/INTEL 7-591. REFERENCE AFR 202-2, PARAGRAPH 15G(2),
+ADD THE FOLLOWING TEMPERATURES FOR THE ALTITUDES INDICATED:
+ALTITUDES
+TEMPERATURE
+ALTITUDES
+TEMPERATURE
+SURFACE
+PLUS 33C
+6,288
+PLUS 15C
+20,200
+28,086
+5k ,892
+PLUS 11C
+MINUS 13C
+16,000
+MINUS 4C
+30,982
+MINUS 33C
+MINUS 68C
+82,890
+NOT AVAILABLE

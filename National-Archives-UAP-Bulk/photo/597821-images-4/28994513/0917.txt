@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:36:25Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8190960, "source_ctime_ns": 1793385972039039877, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28994513/0917.jpg", "source_mtime_ns": 1785748329000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28994513/0917.jpg", "source_sha256": "e2da9ce3dfb5a3682a53ea210179787a54ffafa13c0b23b414c128bfe690f6ff"}
+
+===== PAGE 1 =====
+{"alpha_words": 100, "chars": 779, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AIR FORCE
+TAFF MESSAGE BRANCH
+JNCLASSIFIED MESSAGI
+INCOMING
+AF IN: 51782(11 Sep 61)
+2 of 3
+PAGE TWO RJEDNU 7
+(8) NO SOUND
+B. DISCRIPTION OF COURSE
+(1) ATTENTION WAS DIRECTED BY THE COLOR
+(2) 3Ø DEGREES NORTH NORTH EAST
+(4) 45 DEGRESS TO 5Ø DEGREES NORTH NORTH EAST
+(4) STRAIGHT LINE VERY, VERY SLOW
+(5) DISAPPEARED SLOWLY NORTH NORTH EAST
+(6) SIGHTED FOR THREE AND ONE HALF HOURS
+C. MANNER OF OBSERVATION
+(1) GROUND VISUAL SIGHTING
+(2) OBSERVED WITH TURRED TELESCOPE 20X4ØX60 MADE IN JAPAN
+LENS DIAMETER 2.5 INCHES WITH TRIPOD. BINCOLUARS 7X35.
+(3). N/A
+D. TIME AND DATE OF SIGHTING:
+(1) 02302
+(2) NIGHT, CLEAR
+E. 41 DEGREES 35 FT N/87 DEGREES 30 FT W HAMMOND, INDIANA
+FS
+AGE 21
+CLAUDE AVE, HAMMOND, IND. SUTDENT.
+G. (1) CLEAR 15 PLUS 76 - 58 CALM
+(2) SFC CALM

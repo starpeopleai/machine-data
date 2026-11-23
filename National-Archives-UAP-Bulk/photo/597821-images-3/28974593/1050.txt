@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:23:05Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8203088, "source_ctime_ns": 1793380119332729093, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28974593/1050.jpg", "source_mtime_ns": 1785700672000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28974593/1050.jpg", "source_sha256": "262b030e49b71d90d527f386a55efe9d534559d5b599c93d7968263381e3a39c"}
+
+===== PAGE 1 =====
+{"alpha_words": 73, "chars": 506, "method": "ocr", "page": 1, "variant": "plain-vision"}
+11-
+Multi
+12/0125₴
+ATIC
+15 Nov57 14 04
+34xr6
+SOHD06 SQG132 YMB#88KFA969
+MM RJEDDN RJEDWP RJEPHQ
+DE RJEDKE 6
+M 1422182
+FM COMDR 328TH FTR GP
+TO RJEDDN/COMDR ADC
+ZEN/COMDR 20TH AIR DIV
+RJEDWP/COMDR AIR TECH INTEL CENTER
+RJEPHQ DIR OF INTEL HQ USAF
+UNCLASSIFIED FROM FSA 4796.
+11 .
+IN ACCORDANCE WITH AFR 209-2 DTD 12 AUG 54 THE FOLLOWING RPT
+IS SUBMITTED
+PAR (1)
+CAD
+OVAL
+(B) GRAPEFRUIT
+(C › FLUORESCENT
+(D: ONE THEN FOUR
+(E) CLOSE
+(F) NONE
+PAGE TWO RJEDKF 6
+(G) EITHER EXHAUST OR CONTRAIL
+(H) NONE
+(I> NONE

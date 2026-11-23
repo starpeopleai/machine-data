@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T18:07:29Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6672836, "source_ctime_ns": 1793361936428279123, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330781865/45484701-001-006-0016.jpg", "source_mtime_ns": 1785685161000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330781865/45484701-001-006-0016.jpg", "source_sha256": "f2138a8026b38699653a8f363b626e709c744f10cc7445e7708120b5b140232f"}
+
+===== PAGE 1 =====
+{"alpha_words": 89, "chars": 695, "method": "ocr", "page": 1, "variant": "plain-vision"}
+TAL
+Page 2
+Essential Elements of Info
+Project ạSign"
+9. Tactics or maneuvers:
+a. Very little movement if any noticed
+10. Evidence of exhaust:
+No evidence of exhaust noticed
+11. Effect of clouds:
+No clouds
+18. Lighta:
+Sighted in Daylight
+18. Support:
+d. Rotating cylinder
+14. Propulaion:
+Not determined
+15€
+Air dueta:
+Not determined
+16.
+Control and stability:
+Not determined
+17. Speed - H.P.Il.
+8. Stationary at time sighted
+18. Sounds
+a. No sound determined at time of sighting.
+19. Manner of disappearance:
+Still in view when I left
+Relative to the Observer
+1. A. Rable ANGIER
+2. 2620 Proctor Street, Naco, Texas
+3. Neon Sign manufacturer
+4. Own employer
+Declassification Authority: NND 923007

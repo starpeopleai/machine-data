@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:59:58Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9253833, "source_ctime_ns": 1793380167889099803, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28974752/1217.jpg", "source_mtime_ns": 1785700704000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28974752/1217.jpg", "source_sha256": "3de5dce199602806bd6b15d2616fcc170c3e9986a12209a7074e67b6a52f2b9a"}
+
+===== PAGE 1 =====
+{"alpha_words": 16, "chars": 143, "method": "ocr", "page": 1, "variant": "plain-vision"}
+APPROACH
+ZONE
+1:50
+TO KAWAGOE
+CRASH
+BARRIER
+CLEAR
+TO 00"
+ZONE
+1000
+SODDED
+OVERRUN
+ZONE
+ELEV.
+69.00
+/W17
+17
+STRUMENT
+1 7-1853-
+WAETHER
+150
+PRON

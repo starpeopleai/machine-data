@@ -1,0 +1,10 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:30:57Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 17491172, "source_ctime_ns": 1793356680261323155, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0302.tif", "source_mtime_ns": 1785564741000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0302.tif", "source_sha256": "9f4a77ad352aac070bb36cf22a3ba18a1d4b2be6abed5990a76f2104c92cdeaa"}
+
+===== PAGE 1 =====
+{"alpha_words": 32, "chars": 269, "method": "ocr", "page": 1, "variant": "clean-vision"}
+D
+Incident #179 -- San Francisco, Celifornia -- Oetober: 1947
+There is no astronomical explanation for this incident.
+the extremely incoherent and unreliable nature of the
+report of the incident makes serious consideration futile.
+Declassification Authority: NND 57565

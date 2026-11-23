@@ -1,0 +1,94 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:33:23Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6423998, "source_ctime_ns": 1793378523576145459, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28968263/1221.jpg", "source_mtime_ns": 1785696615000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28968263/1221.jpg", "source_sha256": "67a9a8bc970ed6d3e849ca927b99240fcb0aa8d4fbe28f3bd55b1b71567344bd"}
+
+===== PAGE 1 =====
+{"alpha_words": 359, "chars": 2530, "method": "ocr", "page": 1, "variant": "plain-vision"}
+INOLASSIFIED
+AF FORM 112-PART II
+APPROVED 1 JUNE 1948
+FROM (ALgency)
+Flight 1-C, 4602d AISS
+AIR INTELLIGENCE INFORMATION REPORT
+REPORT NO.
+PART FOUR
+ISS-UFOB-451-56
+SUFOB-4X
+PAGE
+OF 17
+PAGES
+0400 - C-47 # AF 16140 reported at 10,000 feet over Los Angeles.
+6. The two fighter pilots involved were contacted and reported that they
+arrived in the area at approxinately 0400 PST, made a visual search and
+then took vectors from the El Toro GCA operator. After searching for
+approximately twenty rive minutes, they landed at bi foro, refueled and
+continued the search until daybreak. They reported that they were vectored
+into the objects several times but never made contact, visually or radar.
+Shortly after 0600, they were assigned three targets which they intercepted
+and identified as two American Airlines DC-7's and a Constellation. At
+this time they were instructed by the Control Center to return to George
+APB. During refueling at El Toro, they wedt to the GCA trailer and personall
+The pilots were 1/Lt Frank i. Satterfield and
+2/Lt HF. Drye of the 329th Fighter Interceptor Squadron, George AFB, Calif.
+7% Other personnel present at il Toro during this period vers questioned
+and requested to mako statements. Statenents varied from negative observat-
+ions to seeing several groups of lights coing in all directions and at
+vary respeeds, See Incis # 2,3, 4 o 5
+8. Photographs of the El Toro GCA screen taken at approximate four (4)
+second intervals at approximately 1130 Phl PST ( 2330 y were obtained
+from the photographer requested by Captain Shumaker. See Incls
+Allowing the possibility of a malfunctioning radar set,
+the commanding
+officer of the GCA detachment was approached and he stated that the set
+had been completely checked and was found to be in perfoct working order
+and in addation to this, during the period of observation an alternate set
+was turned on and revealed the same targets.
+10.
+CAA officials at Los Angeles International Airport were contacted
+and gave the following information:
+AIRCRAFT NR TYPE DIRECTION REPORTED OVER
+THE
+ALTITUDE
+IN OR OUT
+AF 49049
+C-54 Inbound
+United 629
+DC-6 Inbound
+Ontario
+Los Angeles
+Ontario
+Downey
+20:55
+21:08
+Descending from 10,000 It
+21:40
+21:46
+Descending from 14,000 ft
+Navy 27738
+P2V
+Southed
+Southbd
+Northbd
+Northbd
+ANG 35226
+T-33 Inbound
+Long Beach
+Oceanside
+Oceanside
+Long Beach
+Riverside
+Bur bank
+21:59
+22:14
+22:34
+22350
+22:33
+22853
+10,000 rt
+10,000 ft
+11,000 ft
+11,000 £t
+Descending from 30,000 ft
+Western 65
+DC-6 Inbound
+Covina
+22:40
+Descending from q n00 f+

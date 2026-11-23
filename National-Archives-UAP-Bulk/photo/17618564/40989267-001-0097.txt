@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T18:18:50Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 13626414, "source_ctime_ns": 1793355514183757165, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0097.jpg", "source_mtime_ns": 1785564469000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0097.jpg", "source_sha256": "de93697e047e9b73757cb7229c1e10bab1b4940c3777bd5100386d22da3658b5"}
+
+===== PAGE 1 =====
+{"alpha_words": 189, "chars": 1292, "method": "ocr", "page": 1, "variant": "plain-vision"}
+185
+1. NATURAL SHAPED CAPTIVE BALLOONS
+The first large 'Natural Shaped' (inverted tear drop) captive balloons, of
+modern vintage, were built in 1956 for use as aerial supports for nuclear weapons
+and measurement devices. The largest of these balloons had a gross lift of
+11, 000 pounds at 6, 000 feet above Mean Sea Level and were elevated to about 1500
+feet above the terrain.
+These balloons were built utilizing a nylon cloth shroud and a polyethylene
+liner. The nylon weighed 3. 4 oz. / sq. yd. and had a warp and fill strength in excess
+of 300 Ibs. /in. Liners were made from 2 mil thick polyethylene.
+End fittings were
+coupled together after the liner was placed in the shroud.
+Tests in various wind conditions indicate that the drag coefficient of large
+natural shaped captive balloons is about 0.45. Also since these balloons are not
+pressurized, high wind loading conditions cause severe ''sails' or cupping to occur
+which can produce cable loads in excess of 25, 000 pounds. Shroud-liner natural
+Shaped balloons have safely withstood such forces.
+The greatest deterrent to the use of natural shaped shroud-liner balloons is
+the high drag coefficient which causes a large horizontal displacement in winds
+over 20 knots.
+(Author's manuscript received for publication 31 December 1963)

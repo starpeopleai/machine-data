@@ -1,0 +1,55 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:42:08Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6964110, "source_ctime_ns": 1793378322561296955, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28967604/0645.jpg", "source_mtime_ns": 1785696894000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28967604/0645.jpg", "source_sha256": "c7d7737dc5859947e055cbb5f1049282153cdab2b13bfe075a783338124ce939"}
+
+===== PAGE 1 =====
+{"alpha_words": 115, "chars": 895, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+20 September 1956
+3. DATE-TIME GROUP
+Local_1840,1910
+GM T.
+3. PHOTOS
+• Yes
+7. LENGTH OF OBSERVATION
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Ashford,
+Kent,
+England
+TYPE OF OBSERVATION
+XD: Ground- Visual
+• Air Visual
+• Ground-Rador
+• Air-Intercept Radar
+SOURCE
+Civilian,
+8. NUMBER OF OBJECTS
+Military
+9. COURSE
+not rptd
+one each
+10. BRIEP SUMMARY OF SIGHTING
+Calls to AFB tower concerning UFO,s
+Reported as bright object in sky
+SW of base.
+12. CONCLUSIONS
+000
+000
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Insufficient Date for Eveluation
+Unknown•
+11. COMMENTS
+Information received four days
+after sighting. No followup
+other than check w/tower operator
+who could give no additional
+details. Only names and towns
+of witness received (no address).
+ATIC FORM 329 (REV 25 92P 52)

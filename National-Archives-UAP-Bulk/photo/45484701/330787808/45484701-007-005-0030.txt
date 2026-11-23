@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T18:11:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7894614, "source_ctime_ns": 1793364814523680187, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787808/45484701-007-005-0030.jpg", "source_mtime_ns": 1785685202000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787808/45484701-007-005-0030.jpg", "source_sha256": "a498aca10d5a1c4c794cc99af7a014293242f03917da3101effba3c68732f262"}
+
+===== PAGE 1 =====
+{"alpha_words": 137, "chars": 1007, "method": "ocr", "page": 1, "variant": "plain-vision"}
+4. What was the conditi
+of the sky?
+•. Bright deylight ( )
+b. Dull daylight (.).
+d. Just a trace of daylight ( )
+e. No trece of deylight ( )
+c. Bright twilight ( )
+3. Was the object brighter than the background of the sky? Yes) No)
+6. Did the object:
+a. Appear to stand still at any time ( )
+b. Suddenly speed up and rush away at any time ( )
+c. Break up into perts ( )
+d. Explode ( )
+e. Change brightness ( )
+f. Change shape ( )
+6. Give off smoke ( )
+h. Flicker, throb, or pulsate ( )
+Z. Did the object appear: a. Solid ( )
+b. Transparent ( )
+8. Did you observe the object through any of the following?
+a. Eyoglasses ( )
+e. Binoculors ( )
+b. Sun glasses ( )
+f. Telescope ( )
+c. Windshield ( )
+g. Theodolite ( )
+d. Window glass ( )
+Other
+2. Describe the sound coming from the object
+. What was the color of the object?_
+1. Draw a pieture that will show the shepe of the object or objects.
+Place an arrow beside the drewing to show the direction the object
+was moving.
+Declassification Authority: NND 923007

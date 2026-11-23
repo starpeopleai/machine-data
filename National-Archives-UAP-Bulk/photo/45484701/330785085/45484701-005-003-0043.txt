@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:54:45Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7292132, "source_ctime_ns": 1793363336758647479, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785085/45484701-005-003-0043.jpg", "source_mtime_ns": 1785684908000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785085/45484701-005-003-0043.jpg", "source_sha256": "fee488e618c0b3c4f715804c7ab789a7275733e0b1962bb938f31f84475cab8f"}
+
+===== PAGE 1 =====
+{"alpha_words": 322, "chars": 2008, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Confidential®
+"Plunges Through Roof of House-
+"METEORITE HITS SYLACAUGA WIFE
+3 States View Air Explosions
+"Woman is First Person in History Known to be Struck by Sky Object
+"A large meteor exploded high in the heavens above Alabama yesterday afternco:
+and a piece of it fell through the roof of a Sylacauga house and bruised a 3l-year.
+old housewife.
+Mrs. Hewlett Hodges, a plump, cheerful woman, was lying asleep on a sofa in
+her living room when she became the first person in history known to have been
+struck by a meteorite.
+"The fragment, torn loose from the meteor by one of three terrific explosions
+of fire and smoke, smashed a three-foot wide hole in the roof of the Hodges' home.
+ạThe meteorite, identified by experts as being of the sulphide variety,
+landed on Mrs. Hodges hip and 'nade a big bruised place'.
+"''It also hit me on the hand and it swelled up', she said.
+"Her hand still was swollen last night, and was turning blue-black and green.
+"She said the bruises of her hip were even more colored.
+"The object which struck Nrs. Hodges was identified as a meteorite (a metcor
+which strikes the ground) by George Swindle, field representative of the U.S.
+Geological Survey.
+"The explosion which tore the meteor to bits happened at 12:45 p.m. and
+caused wild excitement not only in Sylacauga where everyone seemed to have been
+viewing the heavens, but also in other parts of Alabama, Georgia and Mississippi.
+"The explosion probably occured some 40 miles up, but was heard over a wide
+distance and seen even further.
+"A Birmingham man who saw the explosion but did not hear it, said a mush-
+roomed-shaped cloud formed in the direction of Sylacauga from Birmingham and
+lasted for about 15 minutes before dissapating,
+"Observers in Sylacauga could see the smoke but could not tell its shape since
+it was directly overhead.
+"The piece which hit Mrs. Hodges was examined by Swindle on the scene. He
+harpened to be in Sylacauga conducting a water survey.
+onju
+Declassification Authority: NND 923007

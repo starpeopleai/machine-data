@@ -1,0 +1,45 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:33:36Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6742350, "source_ctime_ns": 1793379998565182199, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28974158/0688.jpg", "source_mtime_ns": 1785701089000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28974158/0688.jpg", "source_sha256": "e55435e5c262ddbeda0b4c8f49609a5761bca8893a9c080d54de3ab97b3ada02"}
+
+===== PAGE 1 =====
+{"alpha_words": 68, "chars": 534, "method": "ocr", "page": 1, "variant": "plain-vision"}
+(7)
+BEAT
+(A) CLEAR WITH GOOD VISIBILITY
+(B) SURFACE 240
+DEG & KI
+NW
+310
+DEG 30 KT
+050
+300
+DEG 45 KT
+DEG
+50 KT
+375 DEG
+5ø KT
+300
+DEG 45 KT
+UNKNOWN KI
+20,30
+37, 22ął
+58,20ŚęšŚ
+80,220
+(C) CLEAR
+(D) 15
+(E) NONE
+(F) NONE
+(8) NONE
+(9) MANCHESTER, N.H. GOC HAD FOUR OTHE
+ALL.
+SUBSTANTIALY THE SAM
+OF THIS UFOR
+(10) NONE UNDER OUR
+(11) 1/LT B3 FISHER JR. 752D ARWRON NORTH TRURON MASS.
+SENIOR DIRECTOR•
+(12) NONE
+27/23337 NOV RJEPNB
+No elevations, azimuthe or tirection
+Travel given withort which
+This report
+Ịicannot be properly
+INSUFF INFO

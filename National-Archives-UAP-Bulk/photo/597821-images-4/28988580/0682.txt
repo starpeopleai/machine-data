@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T18:08:58Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7140061, "source_ctime_ns": 1793384027131788106, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28988580/0682.jpg", "source_mtime_ns": 1785747969000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28988580/0682.jpg", "source_sha256": "7762bac88c69e9d0b8cc0013763d290766a986575858dd7470afc73e32b95f48"}
+
+===== PAGE 1 =====
+{"alpha_words": 155, "chars": 1009, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UFO ANALYSIS SHEET
+Location_
+Centerville, Onio
+Date
+27 Aug 1960
+_Hour (½)
+2020
+WX
+Hazy
+Description
+One object that appeared to be a star was seen in the south
+at 60-80 deg above the horizon. It appeared to
+move from side to side. The
+Object was viewed for 5 minutes, but was not seen to disappear.
+Stationary
+Direction of Motion -
+Satellite: (AFCIN-4F3, Fhone 69219) -
+Ruled out
+Astronomical Phenomena (Meteor, Comet, Planet, etc) Prob Altair
+Radar Analysis (ANCIN-4E1).
+None
+Natural Phemomena (Ball Lightning, etc)
+Aircraft, Balloons, Airships, etc._
+Ruled out
+Other
+Evaluation of Source Reliability
+Unreliable
+Analysis and Conclusions: The witness reporting the sighting was lying in a
+Laamock. It is highly doubtful that he would be looking directly overnead where
+the star Vega was located. However, the star Altair was located at approx 50 deg
+above the horizon in the SSE.
+The witnesses probably was looking at Altair
+and they had the impression that it was moving do to looking at it through the
+naze.

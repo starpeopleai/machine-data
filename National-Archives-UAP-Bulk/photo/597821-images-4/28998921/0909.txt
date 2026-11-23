@@ -1,0 +1,42 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:28:15Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10062150, "source_ctime_ns": 1793387633174313450, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28998921/0909.jpg", "source_mtime_ns": 1785748316000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28998921/0909.jpg", "source_sha256": "36a7e711b4657195d8a32912dfc317afe7d6f05338e824c01dbe6719d66f7880"}
+
+===== PAGE 1 =====
+{"alpha_words": 96, "chars": 772, "method": "ocr", "page": 1, "variant": "plain-vision"}
+SINGE APPEARING TO GAIN
+APPEARED TO BE 3 IN TR
+(6) NONE
+(7) OBJECTS LOOKED 1
+WERE EXHAUSTS.
+(8) NONE
+(9) NONE
+4. DESCRIPTION OF COURSE
+(1) LIGHT AND MOVING
+(2) 9 O,CLOCK HIGH (1,222,)
+(3) 9 O,CLOCK HIGH
+(4) STRAIGHT AND LEVEL
+(5) SLOWLY ON SE HEADING FROM LANSE, MICH.
+(6) 30 SECONDS
+C. MANNER OF OBSERVATION:
+(1) GROUND/VISUAL
+(2) NO OPTICAL AIDS
+(3) NOT APPLICABLE
+>. TIME AND DATE OF SIGHTINGO:
+(1) 0509502 SEP 62
+SECOND GROUP. EACH GROUP
+LITTLE HIGHER
+HAUSTS. OBSERVER FIRST THOUGHT
+TRA
+PAGE THREE RUCDGS 9
+(2) NIGHT
+• LOCATION OF CESERVER: ON A RILL APPROX 1/4 MILE FACT OF
+NTER OF L,ANCE, MICH.
+. IDENTIFYING DATA OF OB.
+(1) CIVILIAN -•
+4 AGE UNK,
+(2) NOT APPLICABLE
+• WEATHER AND WINDS:
+(1) CLEAR
+12) CURFACE - CALM
+6232, - 323/25
+13,220, - 312/33
+10,202, - 302/30

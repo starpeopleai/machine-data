@@ -1,0 +1,59 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T18:01:17Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 12242848, "source_ctime_ns": 1793358884678643140, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-064-0002.tif", "source_mtime_ns": 1785681251000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-064-0002.tif", "source_sha256": "a04bfab74e28d579bd864f994793e9b15dca6e553ca93a0004ecde5c9b33f912"}
+
+===== PAGE 1 =====
+{"alpha_words": 113, "chars": 784, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+Pessidly
+- 1210007 AvY 55
+OPS
+ENO 201
+M ENB103 YMA091
+PO RJEDEN RUEDWP RJERAG RJEDKE
+DE RJED
+ZUL
+ZEP NGA 023 DE RJEDNG 1I ZDKZENGA027 IVA009
+RJEDEN RJEDWD RJEPAG RJEDKE
+DE
+RJEONG 11
+P 122745Z
+FY COMDR
+789TH ACQW SQ OMAHA NEBR
+TO
+RJEDEN/COMDR ADC ENT AFB COLORADO SPRINGS COLO
+RJEDP/COMDR ATIC WRIGHT PATTERSON AFB OHIO
+RJEPAG/DIR OF INTELLIGENCE HQ USAF WASHINGTON 25 DC
+INFO RJEDKF/COMDR CADF GRANDVIEW AFB MO
+RJEONG/COMDR 31ST ADIV ST PAUL MINN
+BT
+/U N C L A S S IF I E D/OPNS 547 UFOB REPORT AS FOLLOWS
+1
+ROUND
+TINY
+SILVER
+DI
+TWO (2)
+SIDE BY SIDE
+F: NEGATIVE
+G
+NONE
+PAGE IWO
+RJEONG 1I
+H. NONE
+H NONE
+MONE
+STATIONARY
+UNK
+:З
+UNK
+UNK
+NEGATIVE
+UN K
+SEVEN (7) MINUTES
+C
+GROUND VISUAL
+BINOCULARS
+ANZA
+2315Z 11 AUG 55
+Y DAYLIGHT
+К 1012
+GLENWOOD COMA

@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:41:54Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6886963, "source_ctime_ns": 1793365370581468355, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330788691/45484701-008-005-0154.jpg", "source_mtime_ns": 1785684615000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330788691/45484701-008-005-0154.jpg", "source_sha256": "223550242e247680ca88d406822eea5a6d37e704a139a99f23a8fa917e7e5123"}
+
+===== PAGE 1 =====
+{"alpha_words": 69, "chars": 556, "method": "ocr", "page": 1, "variant": "plain-vision"}
+B/L fr HQ PACD MATS, APO 953
+Subj: Unconventional Aircraft
+dtd 25 Mar 50
+1st Ind
+IG
+1 3 APR 1950
+MATS 24-173 (24-24)
+HQ, MILITARY AIR TRANSPORT SERVICE, Andrews AFB, Washington 25, DC
+Headquarters USAF, The Inspector General, ATTN: Director of
+Special Investigations, Washington 25, DC
+Forwarded for information.
+FOR THE COMMANDER:
+CLASSIFICATION CANCELLED W
+BY AUTHORITY OF THE DIRECTO.
+BY
+KURT K. KUNZE, Capt, USAF
+Historian
+3 DEC 1975
+DATE
+ARTHUR ANDREWS
+Colonel, USAF
+Deputy Inspector Ceneral
+Vie no
+*# 7676
+2485
+Declassification Authority: NND 923007

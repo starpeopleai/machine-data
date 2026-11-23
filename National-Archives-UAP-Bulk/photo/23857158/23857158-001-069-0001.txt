@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:51:09Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 18301632, "source_ctime_ns": 1793358228702229383, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-001-069-0001.tif", "source_mtime_ns": 1785681029000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-001-069-0001.tif", "source_sha256": "2274d59d0ba6262e16f22ed79c2fb86c136dd0fa7a23b101b089d79f62d05d16"}
+
+===== PAGE 1 =====
+{"alpha_words": 156, "chars": 1054, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+AISS I HAVE A MGS FOR U
+CQ HEND GO AHEAD
+143 pZ 25 NoV 54
+ops
+N.m
+Make is file card
+în duplicate staling
+that the contents of
+the seport indicate
+meteorolopical phenomena
+send one copy to ATIe
+lopia, New Meter
+23 10054
+3TP 001V
+ENA218.
+YDD229
+WYD191
+WDA289
+JFR 036
+•MM JEDEN JEDWP JEPHQ 333
+JWFRD 21A
+M 242125Z
+EM COMDR 34TH ADD KIRTLAND AFB N MEX
+TO JEDEN/COMDR ADC ENT AFB COLO
+JEDWP/COMDR AIR TECHNICAL INTELLIGENCE CENTER WRIGHT-PATTERSON AFB OHIO
+INFO JEPHQ/DIRECTOR OF INTELLIGENCE HEADQUARTERS USAF WASH 25,D•C
+/UN CLASS IF I E D/ OIN 7243 PD UFOB PD IN ACCORDANCE WITH FORMAT
+CNTN IN AFR 200-2 CMM THE FOL IS SUBMITTED PD
+(1) DESCRIPTION OF THE OBJECT (S) CLN (A) NEGATIVE (B) VERY LARGE (C)
+WHITE FLASH (D) ONE (E) NEGATIVE. (F) NEGATIVE (G) NEGATIVE (H)
+NEGATIVE CI) BRIGHT FLASH CMM VERY BRILLIANT CMM LIGHT UP INSIDE OF
+COCKPIT PD. PILOT REPT IT WAS BLINDING PD
+(2) DESCRIPTION OF COURSE OF OBJEVT (S) CLM (A) BRIGHT FLASH (B) ONE
+ZERO ZERO ZERO ZERO FT TWO FIVE ZERO DEGREES (C) ONE ZERO ZERO ZERO ZERO

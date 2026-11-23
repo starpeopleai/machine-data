@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:33:48Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6919792, "source_ctime_ns": 1793382020403529468, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28982436/0867.jpg", "source_mtime_ns": 1785700778000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28982436/0867.jpg", "source_sha256": "d1da9118cf7126ce121bef77c3170cf5ca5c81aa0be8859b72ba10d84e5712cf"}
+
+===== PAGE 1 =====
+{"alpha_words": 148, "chars": 1014, "method": "ocr", "page": 1, "variant": "plain-vision"}
+CZCQC135ZCQYA791
+PP RJEDSQ
+ATIC
+DE RJKDG 202
+P 110300Z
+11MR59 08 05
+ELMENDORF AFB ALASKA
+FM COMDR 10TH AIR DIV
+TO RJWFAL/COMDR AIR DEF COMMAND
+RJWFAL/COMDR 1006TH AISS ENT AFB
+RJEDSQ/COMDR AIR TECHNICAL INTELLIGENCE CENTER WPAFB
+REEZIQ/ASSISTANT CHIEF OF STAFF INTELLIGENCE CENTER WPAFB
+RJEZHQ/ASSISTANT CHIEF OF STAFF INTELLIGENCE HQS USAF
+RJEZHQ/OFFICE OF INFORMATION SERVICES HQS USAF WASHDC
+INFO ZEN/ASSISTANT COS INTELL HQS AAC
+ZEN/COMANDER IN CHIF ALASKAN COMMAND
+03 50 00
+UNCLASSIFIED FROM 10DO-I 9145. UFO
+ALFA. (1)
+POINT OF LIGHT (2) (SLIGHTLY LARGER THAN STAR (3)
+BRIGHT GREE!
+(4) ONE (5) N/A (6) N/A (7) APPEARED AS
+STREAK DUE TO SPEED (8) N/A (9) NONE
+BRAVO. (1) BRIGHT COLOR. AT FIRST, THROUGHT WAS AIRCRAFT NAVIGATION
+LIGHT. (2) ENTERED FIELD OF VISION AT RIGHT SIDE OF WINDSCREEN
+SLIGHTLY ABOVE LINE OF FLIGHT (3) TO LEFT OF WINDSCREEN AT SAME
+HORIZONTAL LEVEL. E*C4)
+HORIZONTAL FLIGHT DID NOT APPEAR TO DROP.
+(5) IN A FLASH OF BRIGHT LIGHT LIKE AN EXPLOSION TO THE NORTH.
+(6)
+TWO TO THREE SECONDS.

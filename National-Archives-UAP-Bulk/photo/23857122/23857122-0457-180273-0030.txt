@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:51:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 19328012, "source_ctime_ns": 1793356428278059773, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0030.tif", "source_mtime_ns": 1785564703000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0030.tif", "source_sha256": "f61b815479149b7827568b5fceff1ceef2d1b275cdd352efb16f32f4876d55e9"}
+
+===== PAGE 1 =====
+{"alpha_words": 240, "chars": 1564, "method": "ocr", "page": 1, "variant": "plain-vision"}
+RESTRICTED
+solely to indicate the possible astronomical content of the reports
+at hand, in the primary analysis all evidence was accepted at face
+value, with no attempt to evaluate psychological factors. Fre-
+quently, however, when fairly liberal limits of tolerance were al-
+lowed, the report made sense physically, whereas the literal
+statement did not. (Whenever allowance was made for possible errors
+arising from subjective reporting, the fact was noted.) Further-
+more, while some of the reports verge on the ludicrous, the atti-
+tude deliberately adopted was to assume honesty and sincerity on
+the part of the reporter. Among the general public, two attitudes
+toward "flying saucers" seem to be prevalent: one, that all are
+obviously illusions, hallucinations, or hoaxes; the other, that
+"there must be something to it."
+From the outset, this investigator
+has attempted to regard each report, insofar as is logically possible,
+as an honest statement by the observer, and to adhere to neither of
+the two schools of thought.
+One further comment should be made: almost all of the data
+dealt with in this investigation are extremely tenuous. Many of the
+observers' reports are incomplete and inexact, and some are distinctly
+contradictory. Therefore, it has obviously been impossible to reach
+definite, scientific conclusions. most explanations are offered in
+terms of probability, the degree of which is discussed in the indivi-
+dual reports, but can be indicated only generally in the statistics
+which follow.
+RESTRICTED
+Declassification Authority: NND 57565

@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:49:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 15396628, "source_ctime_ns": 1793355654798765769, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0093.jpg", "source_mtime_ns": 1785564497000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0093.jpg", "source_sha256": "14f4f125354511293d48888f12f6340f2411e6e76a6b8cdea1f0a0599e4ee06e"}
+
+===== PAGE 1 =====
+{"alpha_words": 259, "chars": 1843, "method": "ocr", "page": 1, "variant": "plain-vision"}
+172
+NO COVERAGE
+Figure 3. System Coverage of U.S.A. 80 K Feet, 260 N. Miles, Six Frequencies
+bearing stations using six frequencies at 80,000 feet. These limited coverage areas
+can provide at least two bearing stations which would still be sufficient to provide
+adequate fix information. Figure 4 shows possible coverage using only three fre-
+quencies at 80,000 feet based upon 350 nautical-mile-range circles. The radiation
+from these stations is a vertical cone which can be received when the balloon-borne
+receiver is in the line-of-sight with the VOR transmitter. Stations are separated by
+a sufficient distance and radiation-controlled to minimize any interference between
+vertical cones. This interference and separation distance is established by altitude
+and transmitter power output. Power outputs range between 50 and 200 watts.
+Above certain altitudes and in specific areas as shown by Figure 5, limited confusion
+may exist on some channels but such interference is easily detected and the resulting
+anomaly will be discounted by the receiver and a new channel will be interrogated
+for bearing information. The airborne VOR system shown in Figure 6 resolves the
+complex radiated signal from the ground VOR station into a signal that is propor-
+tional to the magnetic bearing from the airborne unit to the ground station relative
+to magnetic north. The transmission principle of the omnirange is based on the
+creation of a phase difference between two radio signals as shown by Figure 7. One
+of these signals, called the reference phase, is omnidirectional and radiates from
+the station in a circular pattern.
+173
+NO COVERAGE
+Figure 4. System Coverage of U.S.A. 80 K Feet, 350 N. Miles, Three Frequencies
+OR
+TION
+POSSIBLE AREA
+OF CONFUSION
+ALTITUDE # 2
+ALTITUDE # I
+VOR
+STATION
+EARTH
+Figure 5. Confusion from Co-Channel Interference

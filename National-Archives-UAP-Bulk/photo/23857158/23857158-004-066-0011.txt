@@ -1,0 +1,45 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:38:58Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 12996164, "source_ctime_ns": 1793358894761196059, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-066-0011.tif", "source_mtime_ns": 1785681253000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-066-0011.tif", "source_sha256": "f84c83b527ea0cd0f1caf2ad37db87064e131c156cd75dcf44293979b77228b0"}
+
+===== PAGE 1 =====
+{"alpha_words": 270, "chars": 1733, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+AF FORM 112-PART !!
+APPROVED 1 JUNE 1948
+UNclassiFird
+(CLASSIFICATION
+AIR INTELLIGENCE INFORMATION REPORT
+: D2-UFOB-2-55
+Part Twa
+PAGE
+Det, 2, 4002D AISS
+OF
+PAGES
+SUPPLEMENTARY INVESTIGATIVE EFFORTS:
+1. Inquiries were made of farmers around the area in an effort to find a
+parachuta.
+It vas learned that one had been found on 2 Cot 55 by a farmer's gon.
+He was located and the parachute obtained.
+The boy stated he had found the chute in
+a nearby field (about three and a half miles NE of COC observation point)ại
+The
+parachute was of paper and had radiosonde attached to it.
+It was definitely identified
+as the type being used on ordinary weather balloons.
+2=:
+Winds aloft for the Omaha,
+Nebraska area were checked and found to be
+20 to 25 knots at 5000 feet. from 250 degrees, at 10000 feet 270 degrees 25 to 30 knots.
+Surface wirds vere light at about 5 to 10 knots. The winds were the same direction
+and velocity for about 24 hours.
+3. A check of the COC aircraft log showed a total of five planes in area from
+0121552 Oct 55 to 012315Z Oct 55.
+The five planes were identified as three single
+engine, one twin engine and one multi-engine. Altitudes varied from low to very high.
+4. A flight of two fighteer interceptors were dispatched from Sioux City, Iowa
+GEOREF FJJN 3730ẠỊ
+They were airborne at 0123452 Oct 55 and checked the area around
+Shelby, Iowa at an altitude of 1400 feet. They reported seeing nothing unusual.
+NOTE: THIS DOCUMENT COMTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED ST
+IT WAY NOT P
+SE MIDY NOT ATE LI TRANSMSEOF OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNNUTE
+OFE IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EA

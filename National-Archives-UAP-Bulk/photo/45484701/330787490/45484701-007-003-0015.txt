@@ -1,0 +1,43 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T18:14:16Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8989276, "source_ctime_ns": 1793364624891050454, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787490/45484701-007-003-0015.jpg", "source_mtime_ns": 1785684881000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787490/45484701-007-003-0015.jpg", "source_sha256": "087a49a76cb22ec239766a32d5b118ebcb893e6dc8b0e357d931f8427e9653ef"}
+
+===== PAGE 1 =====
+{"alpha_words": 122, "chars": 914, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UNCE OSINED
+DEPARTMENT OF THE AIR FORCE
+HEADQUARTERS UNITED STATES AIR FORCE
+WASHINGTON
+THE INSPECTOR GENERAL USAF
+19th DISTRICT OFFICE OF SPECIAL INVESTIGATIONS
+FAIRFIELD-SUISUN AIR FORCE BASE, CALIFORNIA
+# August 1950
+FiLe No. 21/40 ST-17
+SUBJECT:
+PRES
+2021 West Third Street
+Tos Angeles 5, California
+UNCONVENT TONAL AIRGRAFT
+TO
+: Headquarters, USAP
+Director of Special Investigations
+Weebington 25, D. C.
+1. Hererence is made to Letter fron Assistant chiel ol Stars,
+C-2, Sixth Army, Presidio of San Francisco, California, dated 1 Aug-
+1950 and inelosed letter sent to them from the Far East Command
+related to SUBJECT, copies of which are inclosed.
+2.
+Thie information is being forearded for such value as It may
+possibly have.
+DISTRIBUTION:
+Ho, 051 winel
+2
+DO
+118 (info) v/inc]. 1
+File winel
+2
+JOHN G. SHOPE
+coloneL,
+USAF
+District Commander
+UNCLASSIFIED
+SMAMA-Feb 505M
+Declassification Authority: NND 923007

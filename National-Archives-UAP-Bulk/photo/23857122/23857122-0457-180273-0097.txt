@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:40:16Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 16703500, "source_ctime_ns": 1793356489993456661, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0097.tif", "source_mtime_ns": 1785564712000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0097.tif", "source_sha256": "20c28696a0382ddaa062c39de391b96fead868fdf3f51606d2a7fc94a4e03449"}
+
+===== PAGE 1 =====
+{"alpha_words": 276, "chars": 1729, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Thus even if the effect were large onough to use it would still be un-
+reliable and unpredictable.
+METHOD III.
+Support of an Electrically Charged Object by Causing It to
+Move
+Transverse to the Earth's
+Magretic Field.
+A positively charged body moving from West to East, or a negatively
+charged body moving from East to West will experience an upward force due
+to the Barth's magnetic field.
+A sphere 10 meters diameter noving at a speed of one kilometer/second
+would experience an upward force of one pound at the equator if charged to
+a potential of 5 x 102 volts.
+This is obviously ridiculous.
+SECTION
+has been proposed, by various writers, perhaps first by H. G. Nells,
+that it might be possible to construct a means of shielding a massive body
+from the influence of gravity. Such an object would then float. Recently
+there appeared in the press a notice that a prominent economist has
+offered to support research on such an enterprise.
+Obviously, conservation of energy demands that considerable energy
+be given the supported object in order to place it on the shield. However
+this amount of erergy is in no way prohibitive, and furthernore it can be
+gotten back when the object lands.
+Aside from the fact that we have no suggestions as to how such a de-
+vice is to be made, the various theories of general relativity all agree
+in assuming that gravitatioral force and force due to acceleration are in
+-distinguishable, and from this assumption the theories predict certain
+effects which are in fact observed. The assumption therefore is probably
+correct, and a corollary of it is essentially that only by means of an
+acceleration can gravity be counteracted. This we can successfully do
+Declassification Authority: NND 57565

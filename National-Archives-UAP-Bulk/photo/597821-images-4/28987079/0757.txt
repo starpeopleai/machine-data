@@ -1,0 +1,62 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:58:23Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8918511, "source_ctime_ns": 1793383466380643546, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28987079/0757.jpg", "source_mtime_ns": 1785747889000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28987079/0757.jpg", "source_sha256": "0c8ef0330a0c50d8bcb3bc2b0b61b09a797f3c6d037217bd7979efd977ca4f5d"}
+
+===== PAGE 1 =====
+{"alpha_words": 171, "chars": 1202, "method": "ocr", "page": 1, "variant": "plain-vision"}
+MULTIPLE PROJECT 10073 RECORD CARD
+1. DATE
+31 May, 1960
+3. DATE-TIME GROUP
+Local
+GMT 01/0400Z June 1960
+5. PHOTOS
+2. LOCATION
+23 mi S of Joliet, Illinois
+TOERATION
+Xi Ground-Visual
+• Air Visual
+• Ground-Radar
+• Air-Intercept Radar
+6. SOURCE
+Xy Yo.
+• No
+Civilian
+7. LENGTH OF OBSERVATION
+STILL VISIBLE
+8. NUMBER OF OBJECTS | 9. COURSE
+20 minutes
+HEORS LATER
+One
+10. BRIEF SUMMARY OF SIGHTING
+Object with round base and irregulary shaped
+upper portion of brilliant white, like molter
+retal, , intermittantly changing to pale
+yellow. From the lower left portion there
+appeared to trail a faint beam of light,
+amber colored. The object appeared to swing
+to and fro.
+12. CONCLUSIONS
+Was Balloon
+•
+Probably Balloon
+Possibly Balloon
+Was Aireraft
+a
+Probably Aircraft
+Possibly Aircraft
+¿ Was Astronomical
+Jupiter
+Probably Astronomical
+Possibly Astronomica
+Other
+Insufficient Data for Evaluation
+Unknown
+We st
+11. COMMENTS
+The position of the object for 20
+minutes in the same relative location
+fits that of the planet Jupiter. This
+planet was as close to the Earth as
+it will be this year and is therefore
+at it's brightest. It is concluded
+that the object was the planet Jupiter.
+ATIC FORM 329 (REV 26 SEP 52)

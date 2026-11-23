@@ -1,0 +1,44 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:24:46Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8446782, "source_ctime_ns": 1793362692022324233, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330783376/45484701-003-004-0184.jpg", "source_mtime_ns": 1785685013000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330783376/45484701-003-004-0184.jpg", "source_sha256": "a6819a8ae313974734b6ab2325b953a43020722b6e70d36b7071de54208559b3"}
+
+===== PAGE 1 =====
+{"alpha_words": 99, "chars": 802, "method": "ocr", "page": 1, "variant": "plain-vision"}
+j Riebman/1H/AFCSI-6D
+de 151, X-8896 29 Nov 54^
+AFCSI-6D 24-185-411
+1 DEC 1954
+SUBJECT: Unidentified Flying Object
+TO:
+District Conmander
+5th OSI District (IG)
+Wright-Patterson AFB
+Ohio
+Attached for transmission to the Air Technical Intelligence Center
+1s a copy of an ONI report, dated 13 October 1954, concerning the sighting
+of an unidentified flying object.
+FOR THE DIRECTOR:
+1 Inel
+ONI Rpt,
+54-54,
+dtd 13 Oet 54, winel
+A em 8 Monty 2911/54
+CHENE P. MORITZ
+Lt Colonel, USAF
+Chief, Sabotage and Espionage Branch
+Counter Intelligence Division
+Dir of Special Investigations
+The Inspector General
+DSURES
+CANCELLED
+LASSIFICATION CANCI
+AUTHORITY OFFI
+-Bant, USAF
+954 8 DEC 1975
+DATE
+AFCSI-6D
+Maj Rebman
+AFCSI FILE CY
+CMBK CY, AFCSI-6D
+24 - 185-411
+411
+UNCLASSIFIED
+Declassification Authority: NND 923007

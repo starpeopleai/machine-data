@@ -1,0 +1,55 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T18:11:23Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7991159, "source_ctime_ns": 1793364484393272168, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787145/45484701-007-001-0106.jpg", "source_mtime_ns": 1785684565000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787145/45484701-007-001-0106.jpg", "source_sha256": "a7d59ab55da5d34350095a0a82f500bf2371fa0d9a3715ddb879e655f44d6fc5"}
+
+===== PAGE 1 =====
+{"alpha_words": 251, "chars": 1900, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Department of the Air Force
+HEADQUARTERS UNITED STATES AIR FORCE
+Washington
+18D 24-434
+SUBJECT:
+TO:
+The Inspector General USAF
+18 th DISTRICT OFFICE OF SPECIAL INVESTIGATIONS
+Cheli AF Station, Box 310, Maywood, Calif.
+9 May 1956
+SPOT INTELLIGENCE REPORT
+UNCLASSIFIED
+Unidentified Flying Objects
+JACK I. MCGRAW
+- Intormant
+CLASSIFICATION CANCELLED
+BY AUTHORITY OF THE DIRECTOR O
+BY
+KURT K. KUNZE, Capt, USAF
+Director, Special Investigations
+-Historian
+Headquarters USAF
+DATE
+Washington 25, D. Co
+5 DEC 1975
+SYNOPSIS: JOHN J. THOMPSON, Lockheed Aircraft Corporation
+sessed five tape reproductions of various messages from other planets.
+McGRAW arranged for representatives of this office to hear one recording.
+GREEN related that he had received his recordings, at a nomina. cost,
+from his friend GSNER. GESNER allegedly received the original inter-
+planetary messages without the use of any receiving or recording equip-
+ment. Special Agents RAGSDALE and COX heard recording #5 which had been
+transmitted in English and without the normal transmission noises, This
+message contained information on the geographic, economic and social
+structure of Mars.
+The entire message was allegedly transmitted with
+a classical type of musical background.
+20
+DETAILS: This investigation was performed by Special Agent
+GLENN T. COX, assisted by Special Agents FRED T. RAGSDALF and WILLIAM
+M. MOYER.
+On 19 April 1956, Special Agent RAGSDALE was telephonically
+contacted by JOHN J. THOMPSON, Security Officer, Lockheed Aircraft Corp.,
+Burbank, California. THOMPSON reported that one of their employees,
+JACK LACY MCGRAW, 2ll Furness Ave, Los Angeles 42, California, had
+written to Mr. ROBERT L. GROSS, President of Lockheed, regarding various
+voice recordings from outer space. This written information was con-
+firmed by THOMPSON's personal interview with McGRAW.
+S
+UNCTACCFED
+Declassification Authority: NND 923007

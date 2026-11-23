@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T18:02:12Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 17779340, "source_ctime_ns": 1793356524960727874, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0136.tif", "source_mtime_ns": 1785564717000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0136.tif", "source_sha256": "b5e97a5dc0a3ec14dbbde4c900939c0da8a325e6efc7a57123e3f50f3749544e"}
+
+===== PAGE 1 =====
+{"alpha_words": 163, "chars": 1084, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Incident 1223, a-e -- page 2
+head in a consistent direction. These points alone are sufficient to
+dismiss the meteorio hypothesis. it is entirely possible that, among
+the many incidents reported, one or two of the objects may nave been
+fireballs, thus serving to confuse the issue, but a blanket explanation
+of that sort is improbable.
+I would suggest that br. Jack workmen, Director of the New
+Mexico School of Mines, be contacted. lie is conducting highly classi-
+Pied experiments in very
+high velocity projectiles and may be in a
+position to offer a wort
+hwhile opinion. High velocity experiments,
+probably in donnection :
+ath preliminary trials in the production of
+artificial meteors or artificial satellites, may prove to be the ex-
+planation of these incidents. Such experiments would not be conducted
+at any of the recognized air bases so far contacted.
+above th
+3, p. 150)
+December
+coin
+las come to my attention since
+writing of the
+tho*
+March issue of Fopula
+astronomy (IVII,
+norcneastern
+would
+1943
+unusual
+occurred
+he ap-
+contradicti
+Declassification Authority: NND 57565

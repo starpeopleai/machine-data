@@ -1,0 +1,37 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:55:46Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7960593, "source_ctime_ns": 1793376741419283498, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28961872/0129.jpg", "source_mtime_ns": 1785696852000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28961872/0129.jpg", "source_sha256": "7121a244e81bfb29613f5745a70a48bd62b4f3b16ae716e89e5abd4e7f005d11"}
+
+===== PAGE 1 =====
+{"alpha_words": 83, "chars": 572, "method": "ocr", "page": 1, "variant": "plain-vision"}
+-2 NA71955 07 27ł
+ATIC -I
+AGNON!
+БІ МА/
+1*55 06 032
+¿ ATTA
+BATIMG
+PJ S
+C VA VA026YCA20
+JEL
+EPEC JESK
+JESYO 321
+1.94.2
+CD PLIGHT SERV CET 22 LL
+JIDE/COLDE AIMEFENSE COLLARD TIT ATE COLORADO SPRINGS COLORADO
+DUP/CADA AIT TENCHNICAL INTELLIGENCE CRETER URIGHTPATTERSO
+PRO/DIRECTOR OF INTELLIZE C HEADO ARTEAS ISAR MASHE STOR 25 D.C.
+. VARIETTA GE
+FOR/
+1. DESCRIPTION
+OF OBJECT
+A. CALL OF FIRE
+C. FIREY RED
+D. 2
+E. SIDE BY SIDE AT FIRST THEN SEEMED TO DIVERGE
+HONE
+G. TAIL
+H. NONE OTHER THAN ACFT FROM WHICK IT CAME
+I. NONE
+COURS
+• OBJECT
+OBJECTS CANE FRON BOTH VINGS
+TAN SIC

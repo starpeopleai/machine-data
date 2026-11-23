@@ -1,0 +1,58 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:54:21Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7065815, "source_ctime_ns": 1793384675423011882, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28990820/0531.jpg", "source_mtime_ns": 1785748510000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28990820/0531.jpg", "source_sha256": "ff9b40791325a92f1843a5af68156039ae1f8992c4a363e8fb26a81592a0f6d5"}
+
+===== PAGE 1 =====
+{"alpha_words": 177, "chars": 1224, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD CARD
+1. DATE
+2. LOCATION
+12. CONCLUSIONS
+10
+Was Balloon
+9 Jan 61
+3. DATE-TIME GROUP
+Local
+0719
+GM T
+0915192 Jan 61
+5. PHOTOS
+Bothell, Washington
+TYPE OF OBSERVATION
+I Ground-Visual
+• Air-Visual
+| 6. SOURCE
+Probably Balloon
+Possibly Balloon
+• Ground-Rodar
+• Air-Intercept Radar
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical
+• Yes
+D
+Probably Astronomica
+• No
+7. LENGTH OF.OBSERVATION
+Civilian
+Possibly Astronomica
+8. NUMBER OF OBJECTS
+9. COURSE
+Insufficient Data for Evaluatior
+Unknown
+6 min
+2
+Descending
+10. BRIEF SUMMARY OF SIGHTINGObject was burnt-orange (I1. COMMENTSIt is possible the objects ver
+in color, moving very swiftly toward the W and a/c flying in the area fron one of the many
+alling as it moved. It had gone down behind the military and civilian airports in the
+horizon in an over and over manner such as
+area.
+Paine Field is located in the di:
+tumbling. As it disappeared ansther object
+tion the objects were observed and it is
+burst with real glory very high in the sky and possible that they were a/c preparing to
+out of a cloud of white and it too turned al-
+land.
+most at once a burnt-orange color and started
+the same type process.
+ATIC FORM 329 (REV 25 SEP 52)

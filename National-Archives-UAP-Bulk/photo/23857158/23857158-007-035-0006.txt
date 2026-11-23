@@ -1,0 +1,69 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:20:25Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 19849526, "source_ctime_ns": 1793359318422995703, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-007-035-0006.tif", "source_mtime_ns": 1785681376000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-007-035-0006.tif", "source_sha256": "8e3afc695d2925548c0c4d8d4542dbd831a54e64cdbfa27165ae8a2e2d2b5b6b"}
+
+===== PAGE 1 =====
+{"alpha_words": 289, "chars": 1972, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+AF FORM 112.
+TOVED 1 JUNE 1948
+TSA
+Unclassified
+AIR INTELLIGENCE INFORMATION REPORT
+ORTED ON
+FROM (Agency)
+LAKE CITY AND ALEXANDRIA, TENNESS S7, USA
+: Flight 2-3, 46029 AISS
+DATE OF INFORMATION
+10 December 1955
+20 November 1955
+ED BY (OTON)
+SOURCE
+SIONSY STEIN, Captain, USAF
+SIVARD O DENKLER, Captain, USAF and others
+eS (Controi animber; directias, previous
+5, 9s applicabia).
+663rd. ACQW IT INT 101, 221700Z Nov. 55
+MARY: CEn
+my of report, Gice su
+nipeanee in jial ones
+ace paragraph. List inclanures a
+& louer left. Begin Itst of report on,.A.V Form 118-Part 11.)
+I. CONTENTS:
+PART ONE: Description of sighting by Captain Edward G Denkler
+109 Arizona
+St, Oak Ridge, Tenn.
+Capt Denkler 1s 35 years old, a college graduate and Operations
+Officer of the 663rd ACEw Sq.
+PART TWO:
+Desoription of sighting by Ist It Martin L Anderson, 663rd AC&
+Sq,
+ake City, Tenn. Lt Anderson is 23 Jears old,:
+college graduate and
+Aircraft Controller of the 6o3rd AC&f Sq.
+PART THREE: Description of sighting by S/Sgt Robert & Manning, 663rd AC&W
+Sq, Laks City,
+Tenn.
+Secu
+Sgt Manning is 22 years old, a high school graduate and the
+ty Sgt of the 663rd AC&W Sq.
+PART FOUR, Description of sighting by A/2C John J Kupcho, 663rd AC&W Sq,
+Lake City,
+Tenn.
+Airman Yuccho is 18 years old, a high school graduate and a Radar
+Operator of the 663rd ACOW Sq.
+PART FIVE::
+Description of sighting by A/2C Gerald T Lassiter, 663rd AC&w
+Sq, Lake City,. Tenn.
+Airman Lassiter is 20 years old, a high school graduate and a
+Radar Operator of the 663rd ACQW Sq.
+PART SIX:
+Description of sighting by A/2C Gordon B Jessess, 663rd AC&N Sqy
+Lake City,
+Henna
+Airman Jessee is 19 years old, a high school graduate and a
+Radar Operator of the 663rd ACQW 3q.
+PART SEVEN: Description of sighting by
+PART RIGHT: Supplementary Investigative Efforts
+FART NINE:
+Comments of Preparing Officer
+NATOR
+D/I, USAF, Comdr, ATIC; D/I, 58th ADiv; Comdr, 4602d AISS, OIC, FIt 2-B, L602d AISS

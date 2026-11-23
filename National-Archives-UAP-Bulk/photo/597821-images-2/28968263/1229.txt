@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:33:29Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6669816, "source_ctime_ns": 1793378526260256028, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28968263/1229.jpg", "source_mtime_ns": 1785696616000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28968263/1229.jpg", "source_sha256": "98e4b2da313f6804f2b111af9b26b4a7fa1bf8e5f9a8c29e14ae6d6bb9e4f9d2"}
+
+===== PAGE 1 =====
+{"alpha_words": 97, "chars": 640, "method": "ocr", "page": 1, "variant": "plain-vision"}
+•iF NORM: 112-PART II
+APPROVED 1 JUNE 1948
+AIR INTELLIGENCE INFORMATION REPORT
+FROM (- lyency)
+REPORT NO.1C-UFOB-4-56
+PART FOUR
+FLight 1-C, 4602D AISS
+AISS-UFOB-451-56
+16 OF 17
+PAGES
+Inal #5 Statement of GCA outside observer
+STATEMENT
+Ardund 2130, I noticed Sgt Word and i/Sit Karnowald looking towards the
+North at a red light, which I never saw. We then turned on the scopes and
+picked up a olear target about five miles north. It moved very alowly in
+to about 2 miles north.
+Thats all I saw. The rest of the morning I was outside observer for
+Sgt Hora.
+THE COPY
+C.
+Santa
+LOUIS
+C.
+SAUTER
+1/It
+USAT
+DOWNGRADED AT S YEAR 2 YEARAIS
+HiEn
+AFT

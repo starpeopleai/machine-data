@@ -1,0 +1,64 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:42:32Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7247017, "source_ctime_ns": 1793377314095345869, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28963241/1253.jpg", "source_mtime_ns": 1785696846000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28963241/1253.jpg", "source_sha256": "b31864a4ecc5236680d9cf89df3fa2e2a8c9e6d2d3447b164c6ed6ed74d5b7d5"}
+
+===== PAGE 1 =====
+{"alpha_words": 229, "chars": 1678, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AF FORM 112-PART II
+APPROVED 1 JUNE 1948
+04 (Agency)
+F11ght 3-H, 4602d AISS
+INCAREED
+AIR INTELLIGENCE INFORMATION REPORT
+REPORT NO.
+Part Three
+ЗН-ШР ОВ-7-55
+PAGE
+5
+OF
+PAGES
+SUPPLEMENTARY INVESTIGATIVE EFFORTS: (cont.)
+sighting and nothing unusual was reported by his various installations.
+In addition he mentioned that he has 6-7 sets operating in the Arlington vicinity.
+10. It. Beale of the 647th AC&W Sq, Marassas, Virginia reported that he had
+received no information which might serve to confirm the Arlington sighting.
+The Baltimore-Washington Filter Benter gave a negative report on the
+WFOB sighting when approached by the Flight 3-H investigator.
+12. Finally, Olmstead Flight Service Center was questioned about the sighting.
+Capt. Anderson, the Officer on duty in Middleton, reported that his office had received
+no information in confirmation of the UrB sighting on 23 August.
+13. Weather data during observed flight of UFOB was as follows:
+Ceiling
+Condition of Clouds
+is1b111t
+Unlimited
+Clar
+12 Miles
+Winds Aloft:
+Altitude
+6,000
+10,000
+18,000
+20,000
+30,000
+45,000
+50,000
+80,000
+Degrees
+350
+320
+270
+250
+280
+280
+270
+100
+Knots
+1 Inel:
+1.
+TT MSG AISOP 713 FM COMDR 4602D AISS,ENT AFB,COLO.
+NOTE THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 US. S.C.-
+31 AND 32. AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW.
+IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF
+INTELLIGENCE, USAF.
+LINCLASSIFIED_
+(CLASSIFICATION:
+16 (SUTo |

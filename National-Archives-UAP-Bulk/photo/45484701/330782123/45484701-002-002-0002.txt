@@ -1,0 +1,87 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:27:59Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9828416, "source_ctime_ns": 1793362031504946860, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330782123/45484701-002-002-0002.jpg", "source_mtime_ns": 1785684939000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330782123/45484701-002-002-0002.jpg", "source_sha256": "362d949cbd7582f8bf9f2fbb1db63abc9656aa1be4dd3487e4a6f0ee054c71a7"}
+
+===== PAGE 1 =====
+{"alpha_words": 202, "chars": 1620, "method": "ocr", "page": 1, "variant": "plain-vision"}
+TITLE
+HEADQUARTERS
+UNITED STATES AIR FORCE
+THE INSPECTOR GENERAL
+OFFICE OF SPECIAL INVESTIGATIONS
+REPORT OF INVESTIGATION
+JONATHAN E.
+CALDWELL
+GRAY GOOSE CORPORATION
+ROTOR-PLANE COMPANY
+CONFIDENTIAL
+FILE NO.
+24-93
+DATE
+31 August 1949
+REPORT MADE BY
+CLAUDIUS E. BELK
+_jds
+REPORT MADE • AT
+D.O.# 4, BOLLING AIR FORCE BASE
+PER 100
+23 August - 31 August 1949
+OFFICE OF ORIGIN
+DO F4, Bolling Air Force Base
+STATUS
+CHARACTER
+PENDING
+Special Inquiry (Unconventional Aircraft Models)
+REFERENCE
+Pending rpt. S/A C. E. BELK, DO 4, atd 25 August 49, file #24-93
+SYNOPS IS
+Photostatic copies of material received from Mr.
+STEWART F. SMITH, Baltimore, Maryland, include
+Patent Office Brief 2108839 and Stock Certificates.
+Photostatic copies of newspaper articles 20 August
+1949 indicate latest newspaper coverage in this
+area.
+Numerous letters have been received by this
+office from civilians desiring to aid this inves-
+tigation. Newspaper article the Washington "Times-
+Herald" 25 August 1949, indicates that CALDWELL is
+still working on aeronautical designs at Las Vegas,
+Nevada.
+CLASSIFICATION CANCELLED
+BY AUTHOR TO LE, Capt, USAF
+BY
+Tosterian-
+Ị 8 DEC 197śłźł
+DATE
+DISTRIBUTION
+ACTION COPY FORWARDED TO
+CG, Air Materiel Command
+ATTN: MCIAXS
+D Hgs OSI
+2
+Director of Special
+DO# 4,
+Investigations
+DO #5
+4
+Headquarters
+USAF
+(for forwarding to
+Washington 25,
+• Do C.
+C.G., Air Materiel Commar dAPPROVED
+ATTN: MCIAXS
+KIRBY M: GILLETTE
+LT. COLONEL, USAF
+AFCSI FORM 4
+23 JULY 1948
+DISTRICT COMMANDER
+ONFIDENTIAL
+FILE STAMP
+24-185-221x
+A
+_ SEP/ I
+2 03 PM 249
+Sil
+15 SEP 1949
+UNCLASSIFIED
+9-1078.
+Declassification Authority: NND 923007

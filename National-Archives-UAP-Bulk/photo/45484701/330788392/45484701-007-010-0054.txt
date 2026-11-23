@@ -1,0 +1,43 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:44:14Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9193117, "source_ctime_ns": 1793365158190419604, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330788392/45484701-007-010-0054.jpg", "source_mtime_ns": 1785684782000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330788392/45484701-007-010-0054.jpg", "source_sha256": "c822bc9285face5915a390ce51737dfb31b142bfe41e158ca9a4837277b69dc5"}
+
+===== PAGE 1 =====
+{"alpha_words": 183, "chars": 1265, "method": "ocr", "page": 1, "variant": "plain-vision"}
+25th District OSI (IG) USAF, Selfriäge Air Force Base, Michigan,
+Subj:
+Unidentified Flying Object Sighted Detroit, Michigan, 2150
+hours, 18 July 1958
+8. Description of the object:
+(1) Round or disc¿shaped.
+(2) About the aise of a dime held at am's length.
+(3) Dull gray in color with two light colored spots
+opposite each other on the sides of the object.
+(4) No sound or other discernible features vere
+observed.
+b. Description of the course of the object:
+(1)
+MICHAEL MILLER, age 14,
+firet observed it in the
+back yard of the MILLER hone.
+(2) Object vas at approxinately 45 degree angle in the
+aky when first observed.
+(3)
+Object had just passed overhead when it diseppeared
+behind clouds.
+(4) Object traveled from dowtow ares of Detroit
+passing directly overhead and swinging a little
+to the right (this would indicate object cane
+fron northeast direction svinging to vest, south
+west) .
+(5) Object disappeared above clouds just as it passed
+overhead.
+(6)
+object was visible for a period of 15 to 25
+minutes.
+c. Mammer of observation:
+(1) Ground-visual, no instruments or devices vere
+used in the observation.
+d. Time and date of sighting:
+(1) 2130 hours, Detroit local tine, 18 July 1958.
+(2) Night.
+FOR OFFICIAL USE ONLY
+Declassification Authority: NND 923007

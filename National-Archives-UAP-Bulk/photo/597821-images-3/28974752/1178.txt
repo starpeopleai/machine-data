@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T18:11:42Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8117623, "source_ctime_ns": 1793380151612249905, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28974752/1178.jpg", "source_mtime_ns": 1785700702000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28974752/1178.jpg", "source_sha256": "157b0c4b6bd360058a624504520ef30652463413e8eed1c464bb0fcddb13eb5a"}
+
+===== PAGE 1 =====
+{"alpha_words": 100, "chars": 690, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Multi
+21 NoV 5?
+Prob balloo
+NANNK
+AK147/15
+VHPB283PRA091 PHA179Ś
+RR RJHPHM
+DE RJAPHC 88
+R 150730ZŚ
+FM COMOR 6041ST AIR BASE GROUP
+TO RJHPHM/CBMOR PACIFIC AIR COMMAND AIR FORCE
+INFO ZEN/COMOR 41ST AIR DIVISION
+ZEN/COMDR DETACHMENT 4 OSI
+PFICO
+CADJ
+/UNCLASS/JB 5Ø21 K-OC-P PD THE FOLLOWING IS A UFOB REPORT PD
+(1)
+DESCRIPTON OF THE OBJECT:
+(A) SHAPED LIKE A FOUNTAIN PEN, CYLINDRICAL WITH ENDS TAPERING
+TO A OULL POINT.
+8) SIZE COMPARED TO A NINE INCH PENCIL HELD AT ARMS LENGTH.
+(C) PALE YELLOW OR WHITE LIGHT RESEMBLING THE LIGHT GIVEN BY
+THE MOON DURING DAYLIGHT.
+(D) ONE ONLY.
+ACSI
+D/C
+ADV-COPY
+CADJ-TOR
+INCOMING MESSAGEFORM
+FEAF FORM 162 1 January 1957
+CADJ-NUMBER
+424100
+SUSPEN
+9 30000

@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T18:13:22Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8299435, "source_ctime_ns": 1793385521571209939, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28993566/0060.jpg", "source_mtime_ns": 1785747973000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28993566/0060.jpg", "source_sha256": "80a70f0a510e9bd555795eb5e7378c64df7ef37be6123418630fcaf8797105bf"}
+
+===== PAGE 1 =====
+{"alpha_words": 72, "chars": 578, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AR FO
+STAPE MESSAGE BRANON
+UNCLASSIFED MESSAGE
+INCOMING
+AF IN : 1988 (23 Jul 61)
+Page 2 of 3
+PAGE TWO RJEZGF 2A
+(9) NONE
+B. DESCRIPTION OF COURSE
+(1) HAPPENED TO BE LOOKING
+(2) NORTHWEST ON HORIZON
+(3) SOUTHEAST ON HORIZON
+(4) SLOW UP AND DOWN MOVEMENT
+(5) 15 MINUTES
+C. MANNER OF OBSERVATION
+(1) GROUND-VISUAL
+(2) NONE
+(3) NOT APPLICABLE
+D. TIME AND DATE
+(1) 1045Z - 1100Z 22 JULY 1961
+(2) DAY
+E. LOCATION OF OBSERVERS KANE PA
+F. IDENTIFYING INFORMATION
+(1)
+KANE PA UNKNOWN RELIABILITY
+KANE PA UNKNOWN RELIABILITY
+G. WEATHER AND WINDS ALOFT
+(1) NONE OBTAINED

@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:58:14Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8768420, "source_ctime_ns": 1793362100223934983, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330782241/45484701-002-003-0020.jpg", "source_mtime_ns": 1785684709000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330782241/45484701-002-003-0020.jpg", "source_sha256": "7e3b8932c2b6df6bd759f35524049fe0e37d1927885a450c110b7d360a53a42d"}
+
+===== PAGE 1 =====
+{"alpha_words": 121, "chars": 797, "method": "ocr", "page": 1, "variant": "plain-vision"}
+20D OSI 24-0-23
+SUBJECT: Report of Incident - Aerial Phenomena
+26 Sep 49
+and, through the description which "PLORENCE" had given her concerning
+the party who had hired her sons, they identified the lost scientist
+as being one and the same individual.
+SENECHAL felt that he should report this to the Air Force
+in view of the fact that flying discs were predominant in this area.
+SENECHAL did not want to report the information to the FBI in view of
+the attitude they apparently took in 1943 when his mother reported
+the incident.
+5 -
+According to the aforementioned agent, SENECHAL is employed
+as a contractor in Spokane and, from all appearances, was sincere in
+relating the foregoing incident.
+CC :
+2d OSIRegion
+teller
+Major, USAF
+Acting District Commander
+Declassification Authority: NND 923007

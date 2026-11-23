@@ -1,0 +1,37 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T18:09:37Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7224682, "source_ctime_ns": 1793384968838354252, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28991498/1141.jpg", "source_mtime_ns": 1785748192000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28991498/1141.jpg", "source_sha256": "af52f706856a6fdf67eba44d178c098e90d0df3856faa69fc1d40314b9cd0a3f"}
+
+===== PAGE 1 =====
+{"alpha_words": 101, "chars": 711, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE DIVISION
+AF IN :
+UNCLASSIFIED MESSAGE
+ACTION:
+26942 (23 Feb 61) | N CO M IN G
+CIN-14
+INFO: 00P-2, 00P-CP-1, SAFS-3
+(21)
+W/scc
+NNNN SMD C Ø10
+CHQC73ØZCWJA290
+PP RJEZHQ
+DE RJWFKFS 1
+ZNR
+P 230145Z
+FM 793 ACWRON HUTCHINSON AFS KANSAS
+TO RJWFAL/ADC ENT AFD COLORADO
+RJWFKF/33ADIV RICHARDS GEBAUR AFB MO
+RJEDSQ/AIR TECHICNAL INTELLIGENCE CENTER WRIGHT PATTERSON AFB OHIO
+RJEZ HQ/ HQ USAF
+RJEZHQ/SECRETARY OF THE AIR FORCE WASH DC
+BT
+/ UNCLAS/7930P 129-B-23 ATIN: USAF AFCIN, SAFIS. SUBJECT: UFO.
+A. 1. A POINT OF LIGHT (LIKE A STAR) RESEMBLED A SATELLITE LIKE
+ECHO ' 1.
+2. ABOUT THE SIZE OF A STAR.
+3. WHITE
+4. ONE (1)
+5. NOT APPLICABLE
+6. NONE AVAILABLE
+7. NO
+8. NONE HEARD
