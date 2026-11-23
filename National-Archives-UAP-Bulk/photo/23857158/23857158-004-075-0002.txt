@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T12:07:28Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10362178, "source_ctime_ns": 1793358935693098434, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-075-0002.tif", "source_mtime_ns": 1785681268000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-075-0002.tif", "source_sha256": "a4e53cce593f7ba3e505511aeba07bfc6e3dcad999cbcbf8f77cd063dd266204"}
+
+===== PAGE 1 =====
+{"alpha_words": 201, "chars": 1406, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+Info Copy
+Operations ore.
+Tos Control:
+AIS OP
+Condr, 4602d AISS
+Incoming Long Distance Call (Tie-line)
+AIS OP
+8 Cot 55
+0930 hours
+A/10 DeRudder/1438
+MEMORANDUM FOR RECORD:
+1, Telephone conversation between A/1C Deludder, Headquarters, 4602d AISS,
+and Captain Bischofs, Detachment 2, 4602d AI3S.
+Captain Bischofs called the undersigned concerning an inveatigation of
+the rash of UTOB sightings in Towa during the past nonth, A check of observa-
+tories ascertained that all the sightings in question could probably be attributed
+to astronomical activity, Captain Bischofs stated that investigation revealed
+that many stars, especially during the fall, have the appearance of changing
+colors, Altarnating red, Green, white, and
+blue are the predominant colors changes.
+3, It was requested that Detachment 2 investigata a UF03 sighting at Shelby,
+Detachent 2 was informed that a copy of the UrOB report was available at
+CADE, Grandriaw APD, Missouri
+4. Captain Bischofs informed the undersigned that at the present tine they
+have a man on liaison in Iowa and the possibility exists that he might be con-
+tacted to perform the investigation of this sighting. In the event that the man
+on liaison cannot be contacted it was roquested that Detachment 2 send one man and
+one man only to Shelby, Iowa, to perform the inrestigation.
+A/10 Ronald Deludder, USAF
+AIG, 12OB Program

@@ -1,0 +1,34 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T12:01:57Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8177725, "source_ctime_ns": 1793385684429183961, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28993921/0371.jpg", "source_mtime_ns": 1785748380000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28993921/0371.jpg", "source_sha256": "8d86cb1a86187c233bf01f2526ee94634fe242767ef416f6392507f03a5e2e5e"}
+
+===== PAGE 1 =====
+{"alpha_words": 51, "chars": 404, "method": "ocr", "page": 1, "variant": "plain-vision"}
+N
+ATI
+N
+A
+L
+AERONAUTICS
+AND
+S
+PACE
+ADMINISTRATION
+GODDARD SPACE FLIGHT CENTER
+GREENBELT.
+MARYLAND
+GRANITE 4-9000
+TWX: BYN MD 857
+FILE
+0373
+SEP 2 0 1961
+Foreign Technical Intelligence Center
+AFCIN-4E2X
+Wright-Patterson AFB, Ohio
+Gentlemen:
+Enclosed is a letter from
+which is self.
+explanatory.
+We understand your office is handling this type
+of letter.
+Yours very truly,
+Tracking & Data Systems
+Enclosure

@@ -1,0 +1,18 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T12:15:01Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 24035346, "source_ctime_ns": 1793361036265775885, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-004-0049.tif", "source_mtime_ns": 1785565212000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-004-0049.tif", "source_sha256": "466f5862e3fe37c7241155597296b916e904695f8c6fbcc6a0b43fbe2cbcdd7f"}
+
+===== PAGE 1 =====
+{"alpha_words": 18, "chars": 109, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+DECL
+Au
+
+SSIFIED
+rity NND 9237007
+
+S
+ihe HET a
+“Figs
+
+Serial: a at go pein
+
+spac is’ a :
+ope ee inte paren,

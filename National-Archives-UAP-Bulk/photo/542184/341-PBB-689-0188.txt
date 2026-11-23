@@ -1,0 +1,8 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T12:08:58Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 12820452, "source_ctime_ns": 1793366765569188381, "source_file": "National-Archives-UAP-Bulk/photo/542184/341-PBB-689-0188.jpg", "source_mtime_ns": 1785565589000000000, "source_rel": "National-Archives-UAP-Bulk/photo/542184/341-PBB-689-0188.jpg", "source_sha256": "8e3dbd8a9bf77afc69ade7f582bcc90b1b43d90cd02e350db8444761872c4f2b"}
+
+===== PAGE 1 =====
+{"alpha_words": 6, "chars": 25, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 1, "variant": "plain-psm3"}
+1
+od Meyu
+MTEL ON Ww)
+Me

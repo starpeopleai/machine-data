@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T12:00:54Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7959565, "source_ctime_ns": 1793379980720119057, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28974001/0541.jpg", "source_mtime_ns": 1785700606000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28974001/0541.jpg", "source_sha256": "46b4fa389ead2a3073847e1a371b85d3b8d3549b0a650584ada77063e762222d"}
+
+===== PAGE 1 =====
+{"alpha_words": 55, "chars": 415, "method": "ocr", "page": 1, "variant": "plain-vision"}
+HEL
+HEADQUARTERS
+AIR DEFENSE COMMAND
+UNITED STATES AIR FORCE
+ENT AIR FORCE BASE, COLORADO
+SET 22051
+EXT .
+ADODI-B
+SUBJECT:
+UFOB Query
+TO:
+Commander
+Air Technical Intelligence Center
+ATTN: AFCIN 4E4
+Wright-Patterson Air Force Base
+Ohio
+The attached letter from
+Hereford, Texas, is forwarded for your information.
+FOR THE COMMANDER:
+21 NOV 1957
+Attorney-at-law,
+1 I/e1
+Robert Liling
+Colonel,
+Director of Intelligence

@@ -1,0 +1,22 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T12:07:25Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10232542, "source_ctime_ns": 1793364576362429998, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787368/45484701-007-002-0057.jpg", "source_mtime_ns": 1785685195000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787368/45484701-007-002-0057.jpg", "source_sha256": "9aec47d0ca0c7ebadfb1bb07a28e3e316a79bca3e6130b3d2015d87fe031ded8"}
+
+===== PAGE 1 =====
+{"alpha_words": 132, "chars": 863, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PRIORITY
+CONTINUED
+AS PRANK STER PD OSTER ADVISED THREE PERSONS CMA NAMES UNKNOWN TO HIM CHA PRESENT
+WHEN PHOTOGRAPH MADE PD OSTER VAGUE ABOUT SIZE AND DISTANCE OF OBJECT MHEN
+PHOTOGRAFHED PD NEGATIVE DEVELOPED COMMERCIALLY CMA REPOFT'S OSTER OMA ALTHOUCH
+MARQUAND NORMAILY PROCESSES FILMS AT OSTERS PHOTO SHOP PD NEITHER NEGATIVE OR
+PRINT PRESENTLY AVAILABLE PD OSTER ADVISES NEGATIVE FORWARDED PREVIOUS WEEK TO
+LIFE MAGAZINE MA LOS ANGELES CMA FOR FORWARDENG TO LIFE MAGAZINE CHA NEW YORK
+OMA FOR STORY ON FLYING OBJECTS PD OSTER WILL RELEASE NEGATIVES CMA IF DESTRED
+CMA TO OST UPON RETURN FROM LIFE MAGAZINE PD INVESTIGATION CONTINUING PD WHEN
+DETERMINATION OF AUTHENTICITY MADE CMA RESULTS WILL BE WIRED YOUR HEADQUARTERS PD
+JESSE MOSWAIN
+18D OST
+Ime S/ lei
+AN5292 x-167
+KEEFE O KEEFE, Colonel, USAF
+District Commander
+Declassification Authority: NND 923007

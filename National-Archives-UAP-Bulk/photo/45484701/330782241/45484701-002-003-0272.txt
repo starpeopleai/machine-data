@@ -1,0 +1,55 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T12:06:36Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9929726, "source_ctime_ns": 1793362224870609917, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330782241/45484701-002-003-0272.jpg", "source_mtime_ns": 1785684728000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330782241/45484701-002-003-0272.jpg", "source_sha256": "9c9cd73ea9c6e0e5226194a805337e174f45f443159236e4f04c3ac2e2207e36"}
+
+===== PAGE 1 =====
+{"alpha_words": 243, "chars": 1795, "method": "ocr", "page": 1, "variant": "plain-vision"}
+CON
+COPI
+BASE WEATHER STATION
+Detachment 19-3L
+Lowry Air Force Base
+Denver, Colorado
+LRY 388.1
+25 August 1949
+SUBJEOT :
+Investigation of Heterologieal Activities in Vicinity of
+Denver, Colorado, on Evening of 20 August 1949
+TO :
+Commanding General
+Lowry Air Force Base
+Denver, Colorado
+ATTN :
+Bing Intelligence Officer
+1. An investigation of all upper air and radar sctivities of
+weather agencies at or adjacent to Lowry Air Force Base, Denver, Coloại
+rado, was conducted by the underaigied on this date. Results by or-
+ganization follow:
+a. Activities of Det 19¿&L, 19th Weather Squadron:
+(1)
+Surface observations (teletype sequences) indicate
+seattered oumulus type clouds at 7000 to 8000 feet
+and an occasional thunderstorms were prevalent in the
+Denver ares. Visibility was excellent with no obatrue-
+tions. (copy of weather report attached).
+Upper Air Observation consisting of radio set SCR 658
+tracking transmitter attached to a balloon was conducted
+from 1415 to 1442 when run was terminated due to fad«
+ing signal. Set was operated on 408 megacyoles with
+Cause of interference was undeter-
+mined. Copy upper wind report (RAWTH) attached.
+Radar observations with APQ/18 were made at 1500 and
+1700.
+Each report lasted approximately 20 minutes and
+nothing musual was reported.
+b. Activities of U.8. Weather Bureau weather station at
+Stapleton Pield, Penver, Colorado:
+(1) Surface observations (teletype sequences) indicate
+seattered cumulus clouds in the general area with
+visibility unlimited. Copy of reports attached.
+(2)
+Upper air observation consisted of tracking of a weather
+balloon through optical means (theodolite) from 1400
+to 1488.
+Run was terminated when balloon burst. (A
+white balloon was used.) Copy of report (PIBAL) attached.
+CUNTI
+Declassification Authority: NND 923007

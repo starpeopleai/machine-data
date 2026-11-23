@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T12:04:17Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8640692, "source_ctime_ns": 1793385978807003405, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28994531/0930.jpg", "source_mtime_ns": 1785748024000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28994531/0930.jpg", "source_sha256": "4efcd09eb96424f859f0cdd21c78b80f88702ea3e88a2a5da78189337df6d2ea"}
+
+===== PAGE 1 =====
+{"alpha_words": 53, "chars": 326, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Wee PRR i etornasn iis 7
+Ai we € FOR EE Ee eng tg me EEE FUT ne 289 te LAR ate tape ny
+
+an DLEGO, CA
+
+De tee te nee
+
+af ; { : (-é wf ;
+tte? gE hth py, y" wPe. ok a ree ihe oo te Oe
+\? eee « oa! ‘ 7 ee | . S
+S og i pot remains ax Vigil as aa Pay ;
+’ aes ! ° f 3
+
+a
+
+> 4 ,
+
+O72 94
+r
+
+F 4 ;
+; f j
+{
+i
+
+?
+:
+;
++2
+}
+}
+i }
+EB e ;
+t

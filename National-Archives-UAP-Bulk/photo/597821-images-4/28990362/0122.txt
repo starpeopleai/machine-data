@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T12:00:02Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7540946, "source_ctime_ns": 1793384451330436097, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28990362/0122.jpg", "source_mtime_ns": 1785747905000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28990362/0122.jpg", "source_sha256": "80f78843ba5967d768f291f9502f00b5921306221984f46d0458aeb71dccbe80"}
+
+===== PAGE 1 =====
+{"alpha_words": 71, "chars": 515, "method": "ocr", "page": 1, "variant": "plain-vision"}
+10421
+TS DEC 60
+OFER IMED
+TIN DET 26 S VEA SF RANDOLFIL AFB Z
+TO COFS WASH DO
+ATIC UPAFE OHIC
+L G HANSCON /LD BEDFORD MASS
+ES14
+OPE
+RATIONAL
+MEDIAT
+FROM S WG 26 DET CO1-
+1B1; ATTH: AFCIN-AA; ATTR PROJECT TRACK, FOLLO ING INFO
+MEON
+SUBMITTED IN ACCORDANCE VITH ANS NESSACE AVE
+SSS 1-B OBJECT EI11
+APFZARANCE OF SHOOTING STAR, VERY BRIGHT, SICHTED 11-72,
+S DECENBER
+1960. FIRST SIGHTED AZIMUTH 140, ELEVATION 1
+:: LAST SICHTED
+AZIMUTI 135, ELEVATION S DECREES, TRAVELING U
+APPEARANCE: DESS THAN 1 MINUTE
+15/15/92 DEC

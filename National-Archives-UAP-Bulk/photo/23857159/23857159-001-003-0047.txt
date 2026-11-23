@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T12:13:34Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 19955564, "source_ctime_ns": 1793360731847569009, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-003-0047.tif", "source_mtime_ns": 1785565119000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-003-0047.tif", "source_sha256": "422c775cf669483c27335f934205ad3d5dd4afcba61497ba1c663365acecc113"}
+
+===== PAGE 1 =====
+{"alpha_words": 114, "chars": 775, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AF FORM 112-PART II
+APPROVED 1 JUNE 1948
+FROM (Agency)
+UNG
+AIR INTELLIGENCE INFORMATION REPORT
+REPORT NO.
+Fifteenth Air Force
+PAGE
+OF
+PAGES
+12.
+No physical evidence available.
+Francis l. Bresti
+FRANCIS JUGRESLI
+Major,
+USAF
+•Acting Chief,
+Combat Intelligence Division
+Directorate of Intelligence
+NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, SOU S C-
+31 AND 32. AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHISITED BY LAN
+IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF
+INTELLIGENCE, USAF.
+UICIASSIFIED
+DECLASSIFIED
+Authority NND 9237007

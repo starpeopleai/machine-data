@@ -1,0 +1,56 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T11:23:21Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 19453216, "source_ctime_ns": 1793356768027801171, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0391.tif", "source_mtime_ns": 1785564754000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0391.tif", "source_sha256": "3037b0f785b304f6721128c7eadeea2b89347d4b7f026193782703410230ad44"}
+
+===== PAGE 1 =====
+{"alpha_words": 315, "chars": 2081, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Ltr, ERH, to CG, ANC, Subj:
+Analysis of Proj. "Grudge" Reported Incidents
+"one flying saucer; two flying saucers, three flying saucers" ---ete.
+At a normal speaking speed.
+On the other hand it is not easy to count.
+seconds and at the same time make all the other desirable observations.
+It must be remembered that when a person is excited his estimates of
+time are apt to be rather inaccurate.
+d. Estimation of the elevation angle of the object. Almost
+all persons will overestimate elevation angles.
+This tendency can be
+reduced by the observer extending one arm vertically and the other
+horizontally to observe a 90° angle. The vertical arm can then be
+lowered to point to the observed object.
+In this way the observed
+angle can be compared with a 90° angle and a more accurate estimate
+obtained.
+It is realized that it might not be possible for an observer
+to perform the opeations suggested in the preceding paragraph, during
+the period the object is sighted. If he would immediately reoonsider
+what he saw and then estimate such measurements, he should be able to
+give quantitative answers accurate to at least 25%. In interrogating
+observers, they should also be asked to reconstruct their observations
+and then estimate these same factors. It is suggested that instructions
+for making such quick and estimated observations be given to weather
+observers, control tower operators, civil police, forest and fire
+rangers, and other such people who might have good chance of seeing
+unidentified flying objects.
+If any information concerning unidentified
+flying objects 1s given to the public, instructions for reliable observa-
+tion should be included.
+70
+This organizat on will be pleased to be of any further assistance
+required in connection with this matter.
+FOR THE COMMANDING OFFICER:
+3 Incls
+1.
+List of balloons
+launched (in trip)
+2.
+g" x 10" photo print
+of plastic balloon
+3•
+4" x 5" photo print
+of plastic balloon
+=. C. Trakowski, Jr.
+A. C. TRAKOWSKI, JR. -
+Captain, USAF
+Director, Base Directorate
+for Geophysical Research
+S-34560
+Declassification Authority: NND 57565

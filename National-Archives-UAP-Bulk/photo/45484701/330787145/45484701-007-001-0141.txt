@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T12:00:45Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7943153, "source_ctime_ns": 1793364502022720491, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787145/45484701-007-001-0141.jpg", "source_mtime_ns": 1785684567000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787145/45484701-007-001-0141.jpg", "source_sha256": "adaa7b67838e142da4fd0ecfeec8bb75bcf1885d3a589a699910f4c5e32346ef"}
+
+===== PAGE 1 =====
+{"alpha_words": 148, "chars": 1041, "method": "ocr", "page": 1, "variant": "plain-vision"}
+CONFIDENTIAL
+SPOT INTELLIGENCE RPT 18D 24-317, dated 8 Apr 54, Subject: Unidentified
+Flying Objects Sighted 24 Dec 53, El Cajon, California, by Naval Aviators
+5. The weather was clear with ceiling and visibility unlimited
+with little or no wind. There was no meteorological condition which
+Interception was impossible due to
+would account for sighting There was other air traffic in the general
+greater speed of objects.
+area at Brown Field; however, there were no reports from them,
+ACT ION:
+No action will be taken by this District. A copy
+of this report is being made available to the Air Technical Intelligence
+Center, Wright-Patterson Air Force Base, Dayton, Ohio.
+Edward
+Haudes
+For and in the absence of
+maj USAF
+ARTHUR T. CAMERON
+Colonel,
+USAF
+District Commander
+cc: DO #5 (3 cys)
+wright-Patterson
+APB, AFTN: ATTAA-2C, Air
+Technical Intelligence
+Center, Dayton, Ohio - 2)
+w/incl - Diagram of Flying
+Formation of Unidentified Objects
+prepared by Naval Lieutenants
+who sighted objects
+ONFIDENTIAL
+Declassification Authority: NND 923007

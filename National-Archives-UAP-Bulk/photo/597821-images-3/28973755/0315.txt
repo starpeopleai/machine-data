@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T12:02:51Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8271029, "source_ctime_ns": 1793379881173360091, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28973755/0315.jpg", "source_mtime_ns": 1785701086000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28973755/0315.jpg", "source_sha256": "66cbc443c8696002fc32af0ea56fec2bf125ed2d7e14378c1c5dcb05dfa38fc8"}
+
+===== PAGE 1 =====
+{"alpha_words": 125, "chars": 924, "method": "ocr", "page": 1, "variant": "plain-vision"}
+7/00/07
+I litress
+NINA
+1.00 /
+0 1 57
+149 YMA375BWA125
+PP RJEDDN RJESEW RJEDEW RJEDWP RJEPHQ
+DE RJEDEW 3B
+P 0715004
+FM COMDR 662D ACWRON
+TO RJEDDN/COMDR ADC ENT AFB
+RJESEW/COMDR EADF STEWART AFE
+RJEDBW/COMDR 30TH ADIV WRAFS
+RJEDWP/COMDR AISS WRIGHT PATTERSON AFE
+RJEPHQ/DIRCETOR OF INTELLIGENCE HQ USAF
+BT
+/ UNCLASSIFIED INT 11-322.
+UFOE REPORT: 1<
+ROUND
+SHAPE
+SIZE OF
+BASKEISALL. COLOR
+LUE-GREEN, ONE OBJECT.
+ALTITUDE
+Ø ANGELS,
+DIRECTION OF MOVEMENT COUNTER-CLOCKWISE,
+IN SIGHT 5 MINUTES, SPEED
+UNKNOWN, 3, VISUAL SIGHTING. 4. DATE: 0010Z,
+7 NOV 1957, NIGHT.
+I. OBJECT SEEN OVER CLEVELEAND, OHIO. 6. MR.
+MAYFIELD OHIO. NOT AN EXPERIENCED OBSERVER. 7. WXZC
+SCATTERED CLOUD FORMATIONS OVER CLEVELAND AT SO ANGELS, ACCORDING TO
+YOUNGSTOWN OHIO WEATHER. UFOB OBSERVER REPORTED WX CLEAR. 6. NEG.
+$. SILVERTONE HAD FILL USTER CROWN FLIGHT UNDER CONTROL AND FASTAG
+REQUESTED THEY BE VECTORED TO CLEVELAND FOR OBSERVATION. THIS WAS

@@ -1,0 +1,46 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T12:00:37Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7942047, "source_ctime_ns": 1793363804374138936, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785831/45484701-006-001-0284.jpg", "source_mtime_ns": 1785684875000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785831/45484701-006-001-0284.jpg", "source_sha256": "5574d36b1578a5a07d56d8f52f56c16e1101271bc0f1dcc57995232061ef9c9f"}
+
+===== PAGE 1 =====
+{"alpha_words": 198, "chars": 1360, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Check Sheet - Unconventional Aircraft (Cont)
+c. Degree of fatigue and duretion of flight at time of sighting in
+cases here observer is airborne
+Not applicable
+9.
+Withesses:
+Mr. EDWIN LATHAN (aka "RED")
+8. Addrosses
+Downs, Kansas
+Farm hand
+b. Ocoupetion
+c. Reliability
+Believed truthful but inexperienced regerding air-
+craft, sightings and altitudes
+10. Commente of interrogator regarding the intelligence and cheracter of
+person interrogated. VERHAGE seemed to have above-average intelligence
+and appeared quiet, reliable and to have the best interests of the
+U.S. at heart
+Beletave co Redar Sightinga
+Re radare operating on ground:
+a. Observations of range, speed, altitude and size of torget
+Not applicable.
+b. Did terget ezecute any turne? If so, what angle (180°), etc, end
+what radius of turn?
+ạIf radius of turn 1e not observable, how d1d
+the target stay in the turn and what wee Its speed?
+Not applicable
+Foto particularly any coperation of distant target into several
+tergote upon approsch. Treck ell 12 possible
+Not applicable
+If airborne when object eighte
+Were there any radar induc
+or extra noise on radio circuita?
+Not applicable
+b. Give estimates of size, speed, menouvore, etc.
+Not applicable
+Goneral
+Teletype sequences of Looal vesther conditions
+See back of pase
+2. Winds aloft report
+-See back of page
+Declassification Authority: NND 923007

@@ -1,0 +1,72 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T12:13:37Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 20093618, "source_ctime_ns": 1793361264345915272, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-004-0274.tif", "source_mtime_ns": 1785565270000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-004-0274.tif", "source_sha256": "0e69aff5405088e5c017de91c99619389d85dbba5065fc7d95df82ff0b6c11a5"}
+
+===== PAGE 1 =====
+{"alpha_words": 283, "chars": 2072, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UNCLASSIFIED
+CLASSIFICATION
+120526îŚłŚŘę
+COUNTRY OF ACTIVITY REPORTING
+REPORT NO.
+Republic of Indonesia
+IR-434-58
+AIR INTELLIGENCE INFORMATION REPORT
+COUNTRY OR AREA REPORT CONCERNS
+DATE OF INFORMATION
+Indonesia
+July 1958
+ACTIVITY SUBMITTING REPORT
+DATE OF COLLECTION
+US Air Attache, Djakarta, Indonesia
+July 1958
+PREPARING INDIVIDUAL
+DATE OF REPORT
+It Colonel Edward C. Smith
+20 October 1958
+NAME OR DESCRIPTION OF SOURCE
+Local Press
+EVALUATION
+C—3
+(Leave blank)
+1205264
+SRI STATUS (If applicable)
+SRI NO.
+CANCELED /COMPLETE
+SRI NO.
+CANCELED / INCOMPLETE
+SRI NO.
+ACTIVE
+ADDITIONAL INFORMATION ON (Date)
+REFERENCES (BAIR Subject, previous report
+tc., as applicable)
+BAIR Subj: 460I
+SUBJECT (Descriptive title. Use individual reports for separate subjects)
+(Uncl) Unidentified Flying Objects Over Bandjermasin
+SUMMARY (Give summary which highlights the sa
+factors of narrative report. Begin narrative text on AF Form 112a
+inless report can be fully stated on AF Form 112. List inclosures, including number of copies)
+Bandjarmasin, July 30 (Antara). A mysterious object was seen flying over
+this town yesterday at 1300 hours sharp.
+The object had an oblong shape looked whitish and flew from West to East.
+So far nobody knows what it really is.
+Airforce circles in this town could not yet explain the queer flying object.
+They said they are investigating into the matter.
+341-62A1322
+175
+2125:40-5
+INCLS
+{ c Smith
+E. C. SMITH
+It Colonel, USAF
+Air Attache
+DISTRIBUTION BY ORIGINATOR (Except USAF and file. Indicate Dupl M/oz and copies w/o inclosures, if applicable)
+PACAF (Dup m/oz cy), 13AT, ARMA
+WARNING: This document contains information affecting the national defense of the United States within the meaning of the
+Espionage Laws, Title 18, U.S.C., Section 793 and 794. Its transmission or the revelation of its contents in any manner to
+an unauthorized person is prohibited by law.
+FORM
+AF iS SEP 54 112 REPLACES AF FORM 112. 1 OCT 52. WHICH MAY BE USED
+* U.S. GOVERNMENT PRINTING OFFICE: 1954 0 - 315475
+UNCLASSIFLED
+CLASSIFICATION
+DECLASSIFIED
+Authority NND 9237007

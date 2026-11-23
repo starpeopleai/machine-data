@@ -1,0 +1,43 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T12:02:40Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8270775, "source_ctime_ns": 1793385711670964163, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28993979/0424.jpg", "source_mtime_ns": 1785748424000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28993979/0424.jpg", "source_sha256": "03e87d67da497fbff4d2c13828afa77f66742ab013bef48ccd19cb994856ad6a"}
+
+===== PAGE 1 =====
+{"alpha_words": 80, "chars": 565, "method": "ocr", "page": 1, "variant": "plain-vision"}
+OPERATIONAL
+IMMEDIATE
+1951 AUG 7 21 26
+• ELEPHONED
+NO.
+TIME
+Date
+RA263
+CZCSQC56@ZCFJA159
+00 RJEDSQ
+ZNR ZFD RJEDEJ
+QYA 124ZCRQA207
+O0 RJEDSQ
+ZNR ZFD RJHPSX
+ZCRQA 96 1ZCPRB110
+00 RJEZHQ RJWFALB RJEDSQ
+DE RJAPAAK 20
+Z NR.
+0 071745
+FM 5AFOC FUCHA AS JAPAN
+TO RJHPKM/CINCPAF
+RJEZHQHQ USAF
+RJWFALB/CINCNORAC
+RJEDSQ/HQ ATIC
+0 05 14292
+FM HALEAKALA AE25 USN
+TO 5AF FUCTU AS JAPAN
+SECRETART OF THE NAVY
+COMINCHIF PAC FLT
+COMNAVFOR JAPAN
+COMSEVFLT
+COMSVC SQ 3
+COMSVC FORCE PACFT
+GR 48
+RT
+SUSPECTED DUPLICATE OF MESSAGE
+PREVIOUSLY RELEASED. CHECK
+BEFORE TAKING ACTION.
+-(UFO)

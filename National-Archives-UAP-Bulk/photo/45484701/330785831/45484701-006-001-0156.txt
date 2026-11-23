@@ -1,0 +1,20 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T12:07:48Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10468818, "source_ctime_ns": 1793363736760830876, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785831/45484701-006-001-0156.jpg", "source_mtime_ns": 1785684864000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785831/45484701-006-001-0156.jpg", "source_sha256": "32abf663c1880a6912f1b73938ac79ecc319b4524e3db3a048f9e85cdf7438a4"}
+
+===== PAGE 1 =====
+{"alpha_words": 18, "chars": 196, "method": "ocr", "page": 1, "variant": "clean-vision"}
+r2el 837 8
+пенаеводвувавіс/кой сук
+ME 102 214
+YA
+-o% Jonl conh
+code
+Berosite 3on 2o
+Ico
+I-50S STA ° 88 254
+STAU
+Frotar ont
+СВRІ2ВАJDИU
+- TƯO
+• тиЗмЗр
+10g 10
+Declassification Authority: NND 923007

@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T11:59:52Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7524741, "source_ctime_ns": 1793364552071883389, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787368/45484701-007-002-0014.jpg", "source_mtime_ns": 1785685192000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787368/45484701-007-002-0014.jpg", "source_sha256": "97f1782497fc0809fc55cf5c8aa48b8dec460c72fd7918228140ec84344c8a2e"}
+
+===== PAGE 1 =====
+{"alpha_words": 93, "chars": 739, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AFDR.D
+DEPARTMENT OF THE AIR FORCE
+HEADQUARTERS UNITED STATES AIR FORCE
+WASHINGTON 25, D. C.
+UNCLASSIFIED
+2 2 SEP 1952
+MEMORANDUM FOR MAJOR GENERAL JOSEPH F. CARROLL
+Deputy Inspector General, USAF
+SUBJECT:
+Townsend-Brown Foundation
+Reference is made to Memorandum from this office, same
+subject as above, dated 18 September 1952.
+2. This office has been advised by Office of Naval Research
+letter, serial 23480, that Mr. Cady's Report on the subject "An
+Investigation Relative to Mr. Townsend-Brown" has been downgraded
+from CONFIDENTIAL to UNCLASSIFIED.
+Amitious
+ALBERT E. LOMBARD, JR.
+Scientific Advisor
+Dfrectorate of Research & Development
+Office, Deputy Chief of Staff,
+Development
+UNCLASSIFIED
+Declassification Authority: NND 923007

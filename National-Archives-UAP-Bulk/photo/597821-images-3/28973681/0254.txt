@@ -1,0 +1,42 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T12:02:07Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8181823, "source_ctime_ns": 1793379863970135823, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28973681/0254.jpg", "source_mtime_ns": 1785701071000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28973681/0254.jpg", "source_sha256": "1438c23638506d1d7b1d8431c9a9160f839ed34eaff7ce6a5b77c93dc6d7cb49"}
+
+===== PAGE 1 =====
+{"alpha_words": 68, "chars": 465, "method": "ocr", "page": 1, "variant": "plain-vision"}
+10/72300
+| teless
+CN.- 51
+• ГЦ
+1 3 157
+45/r0
+- (Venus)
+CO
+CANI CA
+: -C C•
+TRILIG
+C IS RUP-
+Light in Their Eyes
+Caused by Venus
+Buffalo, Nov. 6 (/P).-Scores of
+persons.
+flooded
+police
+switch-
+boards tonight with reports of a
+luninous object
+fiving
+in
+the
+southwestern sky. The Air Force,
+which sent a jet interceptor.
+investigate,
+reported no sighting
+and
+was
+said
+the
+object
+the planet Venus.
+apparently
+similar
+of phone calls in the Boston
+was blamed on Venus and

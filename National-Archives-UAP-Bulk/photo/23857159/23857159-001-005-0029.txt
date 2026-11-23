@@ -1,0 +1,59 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T12:13:30Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 19468674, "source_ctime_ns": 1793361340129191940, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-005-0029.tif", "source_mtime_ns": 1785565320000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-005-0029.tif", "source_sha256": "228f13da95714cb44c7e3de4dfe2205889495b1e7e0fefe77478156523be7bea"}
+
+===== PAGE 1 =====
+{"alpha_words": 349, "chars": 2145, "method": "ocr", "page": 1, "variant": "plain-vision"}
+REPORT NO. 3086
+60
+Copy No.... ....
+Date: 16 Jan 60
+CHINA (Sinkiang) - A: AIR
+Source :
+Alorry driver fran KUDJA, in his mid-thirties (para 1) and a
+young mechanic from the same town (para 2)
+1. Appearance of unidentified Lying object in the KUIDJA area
+F1 29
+In Jul 59 at approximately 2100 hours ane evening,
+an unidentified flying
+object had been seen in the KULDJA area.
+It resembled a ball of fire, which
+burnt with an intense orange glow.
+The object had appeared to the west of
+the town and had disappeared over the mountains to the north.
+One casual
+observer had formed no estimate of its height, but had noticed that it had been
+moving at a great speed and had remained in sight for some two minutes.
+This phenomenon had caused quite a stir of public interest in KULDJA, as
+many people had seen it, and it had remained the main subject of conversation
+for several days.
+There had been much idle speculation among the inhabitants
+of KULDJA concerning the nature and origin of this object but the press and
+radio had made no reference to it:
+2.
+Appearance of nocturnal flashes in the KUIDJA area
+1959
+In March or April of 1959 for about two months, flashes had been seen at
+night rising from the airfield in KULDJA.
+They were not fireworks.
+reaching certain heights they had formed themselves into small red balls,
+floated away in all directions and disappeared. They had always been seen
+at about 11 pm to 12 midnight, but had not appeared every night. No
+explosions nad been neard.
+On two occasions in about September or October of 1959, two very large
+flashes had been seen at about 10 pm emanating from some point over the
+Soviet border, north-west of KULDJA.
+A large red flash would be seen at
+first and then a huge reddish cloud, resembling a mishroom, would appear.
+This cloud had gradually changed from a red to a dull grey colour and then
+slowly disintegrated.
+After the cloud formed it would remain in view from
+ten to fifteen minutes.
+No explosions nad been neard on either occasion,
+the second of which took place a week after the first.
+END
+9. S. Air Liaison Office
+Hong mone
+C.
+Inci
+1409250
+DECLASSIFIED
+Authority NND 9237007

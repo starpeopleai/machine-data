@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T12:01:21Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7964157, "source_ctime_ns": 1793364326979037588, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330786876/45484701-006-007-0091.jpg", "source_mtime_ns": 1785685108000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330786876/45484701-006-007-0091.jpg", "source_sha256": "1a56f09750298c6efc4eb8f79751042528d2686c30b79cb8ca07800dffaf8cd4"}
+
+===== PAGE 1 =====
+{"alpha_words": 35, "chars": 273, "method": "ocr", "page": 1, "variant": "plain-vision"}
+TORTOLLITA MTS.
+ARANA
+SANTA
+CABINS
+AND
+RECREATION AREA
+CAT
+SUMMERHAVEN
+• SOLDIERS CAMP
+RILLITO
+MYS
+CORTARO
+CITRUS
+GROVES
+SABINO CANYON DA
+~ AND RECREATIONAL
+AREA
+JAGUAYRO
+QRS.
+TANQUE
+MUNICIPAL
+AIRPORT
+SMISSION
+MOUNTAIN VIEW
+SAHUARITA
+Declassification Authority: NND 923007

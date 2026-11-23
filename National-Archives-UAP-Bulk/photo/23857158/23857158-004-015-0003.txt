@@ -1,0 +1,59 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T12:14:21Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 23494940, "source_ctime_ns": 1793358661829884707, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-015-0003.tif", "source_mtime_ns": 1785681164000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-015-0003.tif", "source_sha256": "e86d41b2fdd957c8f8e65bd090850d1b3b6c470e738dcbffb2d6fc6a4fe9cf0b"}
+
+===== PAGE 1 =====
+{"alpha_words": 152, "chars": 1186, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+ops
+12/06502 Dee stł
+Homos
+NAAE XY8027SBA011LCA02
+YY RUEDEN
+DE RJWPSB
+ZUI ENA018/12 AND ENA024/12 ZDK RJWPSB Y120448Z
+PEYY RJEDEN RJEDWP RJEPHQ RJWPSS
+FU FLIGHI SERVICE HAMILTON AFB CALIF
+TO RJEDEN/COMDR ADC ENT AFD COLO
+EDWP/AIR LECH INIEL CENWRIGHT PATTERSON AFB UnIO
+RJEPHQ/DIR OF INTEL HQ USAF WASH 2',
+D.C.
+ROWPSB/COMDR WADE HAMLLION ALB CALIF
+/N CLASSIFIED/UFO BATIN ALTIAA-2C
+1. DESCRIPLION OF OBJECI:
+(AD
+UNKNOWN
+(B)
+PEN
+PEA
+(0)
+MULI-COLORED - GREEN, YELLOW, WHITE
+(D) ONE
+(E) NZA
+(7) SHINING OBJECI WITH FLASHING LIGHIS
+(G) NONE:
+(HO NONE
+12/0350
+11/2750
+0700
+11/02:50
+11/1950
+PAGE TWO JRWPSB 111G
+(L) NONE
+2. DESCRIPTION OF COURSE OF OBJECT:
+(A) NORMAL FIRE SEARCH
+(3) ELEVALION >>DEG AZMITH 90DEG M
+(C) ELEVATION 45DEG AZMITH 90DEG M
+(D) OBJECT STATIONARY AT 55DEG - 90DEG M FOR 10-15 MINUTES THEN
+SLOWLY VANISHED IN EASTERLY DIRECTION
+(E) OBJECT SLOWLY MOVED EASTWARD - OBSERVERS VISION THEN OBSCURED
+BY TREES.
+(P) 20-25 MIN
+MANNER OF OBSERVATION:
+(A) GROUND - VISUAL
+(9) BINOCULARS
+(C) N/A
+(1) 1243502
+TIME AND DATE OF SIGHTING
+(3) NIGHT
+PLOCATION OF/OBSERVEJ:
+(A) 37DEG 25MIN N 122DEG 23MIN W.
+6. IDENTIFYING INFORMATION OF OBSERVER:

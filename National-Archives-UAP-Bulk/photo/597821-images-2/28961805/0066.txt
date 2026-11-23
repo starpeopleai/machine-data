@@ -1,0 +1,74 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T12:01:46Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8033322, "source_ctime_ns": 1793376707511208663, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28961805/0066.jpg", "source_mtime_ns": 1785696457000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28961805/0066.jpg", "source_sha256": "fe52df17f7dd9727ebc68f0d43756b3b4b45745900fed3bffd2abc5844f86dfe"}
+
+===== PAGE 1 =====
+{"alpha_words": 198, "chars": 1394, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD CARD
+1. DATE
+2. LOCATION
+12. CONCLUSIONS
+Was Balloon
+23
+April 1955
+3. DATE-TIME GROUP
+Local _
+GM T
+PHOTOS
+23/09152ZîŘę
+lathead Lake, Montana
+4.
+TYPE OF OBSERVATION
+• Ground-Visual
+PAir- Vi sual
+6. SOURCE
+Probably Balloon
+Possibly Balloon
+• Ground-Rodar
+• Air-Intercept Radar
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical Meteor
+• Yes
+X.No
+7. LENGTH OF OBSERVATION
+Probably Astronomical
+EX Possibly Astronomical
+Civilian
+8.
+•, Other
+750 0
+Insufficient Data for Evaluation
+Unk no wn
+five to seven
+secs
+one
+West to East
+10. BRIEF SUMMARY OF SIGHTING
+COMMENTS
+of pin hold at aimes langth, whead
+Due to brevity of sighting, 5-7
+of pin held at arm's
+seconds, & the improbability of
+other discernible features was obser-
+further
+investigation producing
+ved by civilian pilot. Obj was seen
+significant results,
+no follow-
+to fly/in a parallel course w/the a/c.
+up investigation authorized.
+flying approx east at 23,000 feet (
+Although the observer did not
+(Boeing Stratocruiser), but at a
+recognize the obj as astro, the
+speed estimated at being five times
+description of this sighting, &
+that of jet a/c. Observer had seen
+the fact that observer did not
+many meteors, but did not believe
+view obj for any period of time
+that this sighting was astronomical.
+led to opinion that sighting
+No Report In File.
+probably astro (Meteor).
+ATIC FORM 329 (REV 26 SEP 52)

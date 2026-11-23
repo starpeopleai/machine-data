@@ -1,0 +1,73 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T12:14:09Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 21723116, "source_ctime_ns": 1793360550876726986, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-001-0126.tiff", "source_mtime_ns": 1785565049000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-001-0126.tiff", "source_sha256": "3492bb8f54a50a9b8a7b2a58e47ab118f318a00894f42628b100c55780bd50a1"}
+
+===== PAGE 1 =====
+{"alpha_words": 303, "chars": 2284, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DECLASSIFIED
+Authority NND 9237007
+VNCEASSIFICO
+CLASSIFICATION
+- (SECURITY INFORMATION when filled in)
+SUPPLEMENT TO AF FORM 112
+REPORT NO.
+ORIGINATING AGENCY
+34th Air Division (Defense)
+PAGE 3 OF 3
+PAGES
+(a) Civilian; Name - B. H. Blankenship; Age - Negative; mailing address -
+Negative; Occupation - Pilot (Civ) Ex-USAF pilot
+(b) Military - Not applicable
+(7) Weather and winds-aloft conditions at time and place of sighting
+(a) Observers account of weather conditions - Negative
+(b)
+Report from AWS - 34th Air Division (Defense) of wind direction and
+velocity in degrees and knots (at El Paso,
+Texas, the nearest
+geographical location available) at
+Surface
+248 degrees at 12 knots
+6,000 ft
+260 degrees at 15 knots
+10,000 ft 300 degrees at 17 knots
+16,000 ft
+280 degrees at 15 knots
+20,000 ft
+270 degrees at 25 knots
+30,000 £t
+260 degrees at 25 knots
+50,000 It
+280 degrees at 32 knots
+64,000 It
+250 degrees at 16 knots
+(e)
+Ceiling - Clear
+(d) Visibility - 60 miles
+(e) Amount of cloud cover - None
+(f) Thunderstorms in area and quadrant in which located - None
+(8) Any other unusual activity or conditions which might account for the
+sighting - None
+(9) Interception or identification action taken - None
+(10) Location of any air traffic in the area at time of sighting - Negative
+(11)
+Position title and comments of the preparing officer - Director of
+intelligence, 34th Air Division (Defense), Kirtland AFB, New Mexico;
+Sighting believed to be misinterpretation of conventional aircraft
+in turn reflecting rays of sun.
+(12) Physical evidence - None
+Chale 2. Llama.
+CHARLES L. DEWEFS
+Captain,
+USAF
+Director of Intelligence
+34th Air Division (Defense)
+WARNING: This document contains information affecting the national defense of the United States within the meaning of the
+Espionage Laws, Title 18, U.S. C., Sections 793 and 794. Its transmission or the revelation of its contents in any manner to an
+unauthorized person is prohibited by law. It may not be reproduced in whole or in part, by other than United States Air Force
+Agencies, except by permission of the Director of Intelligence, USAF.
+AF, 601 52 112a
+REPLACES AF FORM 112-PART II, 1 JUN 48,
+CLASSIFICATION
+WHICH MAY BE USED,
+UNCLASSIFIED
+(SECURITY INFORMATION when filled in)
+U.S. GOVERNMENT PRINTING OFFICE
+16-68170-1

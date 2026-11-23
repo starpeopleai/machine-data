@@ -1,0 +1,8 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T12:13:58Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 20469886, "source_ctime_ns": 1793360507783106343, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-001-0089.tiff", "source_mtime_ns": 1785565037000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-001-0089.tiff", "source_sha256": "7c012ee99e18a5726c4969dfcc404798e797f0491c4402d3ec44ac3d71823b57"}
+
+===== PAGE 1 =====
+{"alpha_words": 5, "chars": 64, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 1, "variant": "plain-psm3"}
+DECLASSIFIED
+Authority NND 9237007
+
+UNCLASSIFIED . Ak '6S2255]

@@ -1,0 +1,6 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T12:07:06Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9978357, "source_ctime_ns": 1793354823273520318, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989220-001-0030.jpg", "source_mtime_ns": 1785564346000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989220-001-0030.jpg", "source_sha256": "b2ba8086e86c35e0fb4f2824769178d390bd1efd4773522adca11d725c3c6aec"}
+
+===== PAGE 1 =====
+{"alpha_words": 23, "chars": 96, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+om ere - wa = — ~ Le — ~ SS) a co FR
+| ene ee aR ea a el i Se eae So To ES So ea Ge Pale Se Se

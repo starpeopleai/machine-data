@@ -1,0 +1,69 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T12:15:20Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 29284148, "source_ctime_ns": 1793357534130113041, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1473-539395-0001.tif", "source_mtime_ns": 1785564921000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1473-539395-0001.tif", "source_sha256": "398a612eb7e285920ce1a83a9efdc2dc5dd7ea73c01b2e1f0f40ad45a6f612a9"}
+
+===== PAGE 1 =====
+{"alpha_words": 384, "chars": 2677, "method": "ocr", "page": 1, "variant": "plain-vision"}
+SECU
+AF FORM 112-PART I
+APPROVED 1 JUNE 1948
+COUNTRY
+U.S.A.
+(CLASSIFICATION)
+REPORT NO.
+ENT 539395
+AIR INTELLIGENCE INFORMATION REPORT
+SUBJECT
+FLYOBEPT, CROUND OBSERVER POST REPORT OF UNIDENTIFIED ELYING OBJECT
+AREA REPORTED ON
+WAI PRIONN, NEW YORK
+PQ 5010
+DATE OF REPORT
+DATE OF INFORMATION
+655TH AC&N SQUADRON, WATERTON, JEW YORK
+12 MARCH 1953
+1825 EST, 11 MARCH 1953
+RESTRICTED
+PREPARED BY (Officer)
+SOURCE
+GOC POST, WATERTOWN, NEW YORK
+REFERENCES (Control number, directive, previous report, etc., as applicable)
+AFL 200-5, DATED 29 APRIL 1953
+SUMMARY: (Enter concise summary of report. Give significance in final on
+MSG THIS HQ ACL 0304-, 12 MARCH 1953
+tence paragraph. List inclosures at lower left. Begin text of report on AF Form 112-Part II.)
+At approximately 1825 EST, 11 March 1953, the following information was received
+by this station (P-49) from the GOC Post at Watertown, New York:
+GOC post at Watertown, New York notified this station that an unidentified fly-
+ing object was observed approximately one (1) mile West of their post located 43 de-
+grees 58 minutes N, 75 degrees 5h minutes W, at approximately 1810 EST, 11 March 1953.
+This object was observed by twelve (12) persons of the GOC, and was reported as oval
+in shape, with two (2) fairly large shafts, glowing like a star, white, orange, blue,
+and green in color, traveling at jet speed, at an altitude of approximately 20,000 to
+25,000 feet.
+Color was later given as orange,
+No sound was audible. Object was
+observed for approximately two hours and 10 minutes.
+Weather in that vicinity was 5,000 thinly overcast, with winds 20 to 25 knots.
+The authenticity of this report seems fairly genuine since it was observed by
+twelve persons of the GOC for approximately two hours.
+This object was not picked up on the radar at this site at any time.
+THOMAS C. SCHIEBEL
+Captain, USAF
+Intelligence Officer
+DECLASSIFIED
+Ep, 11652, Soc. 3(E) and Bly 7/3%/7ęł
+INCLS.
+DISTRIBUTION BY ORIGINATOR
+Thru channels to:
+2 cys - DI, USAF,Wash 25,D.C.
+2 cys - Chief, Air Tech Intell Cent
+Wright-Patterson AFB, Ohio
+1 cy - CG,EADF
+1 cy - CG, 32d
+1 cy - C0,4711th Def Wg
+NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S.C.-
+31 AND 32, AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW.
+IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF
+INTELLIGENCE, USAF.
+(CLASSIFICATION)
+TO 18-55569-1 * U.S. GOVERNMENT PRINTING OFFICE: 1950 0-918331
+Declassification Authority: NND 57565
