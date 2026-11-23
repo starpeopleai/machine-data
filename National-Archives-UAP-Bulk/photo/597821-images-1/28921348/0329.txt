@@ -1,0 +1,23 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T03:07:09Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5234666, "source_ctime_ns": 1793368600083139217, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28921348/0329.jpg", "source_mtime_ns": 1785688706000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28921348/0329.jpg", "source_sha256": "89e7bcbd47aefe740fceaee5a690c4445390191de201e0b9331a48ed1b651c47"}
+
+===== PAGE 1 =====
+{"alpha_words": 64, "chars": 605, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+SEPTEMBER 1964 SIGHTINGS
+
+-ADDITIONAL REPORTED SIGHTINGS (NOT CASES)
+
+DATE LOCATION SOURCE EVALUAPION
+Visalia, California Newsclipping
+3 Mt Ellis, California Newsclipping
+6 Medford, Massachusetts Fowler (NICAP Rpt)
+T Central Missouri Newsclipping
+9 New River, Ranford, Virginia Newsclipping
+g100 12 Dodge City, Kansas Newsclipping
+ew \14 Brecksville, Ohio Newsclipping
+; Westford, Massachusetts Newsclipping
+: 118 Ansedonia, Italy Perez (Ltr)
+= 2h Rio Del, California Newsclipping
+5 jh Titusville, Pennsylvania Newsclipping
+s (25 San Francisco Bay Area Newse lipping
+
+29 Bath Township, Ohio Newsclipping

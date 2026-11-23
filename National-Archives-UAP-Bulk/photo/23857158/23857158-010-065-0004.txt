@@ -1,0 +1,34 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T02:38:39Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 12598918, "source_ctime_ns": 1793359840788848369, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-010-065-0004.tif", "source_mtime_ns": 1785681538000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-010-065-0004.tif", "source_sha256": "faf1014e05c453b04ea3f5119579479258310a68b60378e13e75521f7e47bc01"}
+
+===== PAGE 1 =====
+{"alpha_words": 121, "chars": 817, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Declassification Authority NND 923007
+
+ee i
+Se
+
+ENOGBENBCOSB.
+SNB@Z24SNUGISE |
+RR RJEDEN
+
+DE RJEPSN 18d
+
+~R 1413492
+
+FM OFFICER IN CHARGE FLT 3-G 4602D AISS PRESQUE ISLE AFB ME.
+TO COMDR 4602E°AISS ENT AFB COLO | ee wees 3
+BT eee eee : Cone fogged aise Jee =
+- FUNCLASSIF IED/AIS3G-A-92 PD REFERENCE, UFOB SIGHTING 02502 °11 ‘SEP «)
+56, BOSTON CONTROL HAS NO INFORMATION CONCERNING AIRCRAFT IN VICI~
+NITY AND AT TIME OF SIGHTING PD. PREVAILING: WEATHER CONDITIONS <= “ee
+INDICATED NO AIRCRAFT ON INSTRUMENT FLIGHT RULES AT LOW ALTITUDE PD»! ~
+VISUAL FLIGHT RULES FLIGHTS NOT MONITORED PD CHECK WITH ‘LORING /AFB >
+NEGATIVE PD POSSIBLE. HELICOPTERS IN ARES COULD COME FROM ANY: ONE.
+OF SEVERAL: CIVILIAN AND MILITARY AIRFIELDS NEARBY.” FD CHECT ON HE-
+
+BI Re ee
+1A/1501Z SEP RJEPSN
+
+eK
+
+DE AISS ROGER YOUR @@5 AND 206

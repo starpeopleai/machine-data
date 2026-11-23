@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T02:29:55Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6899082, "source_ctime_ns": 1793384984995452407, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28991542/1176.jpg", "source_mtime_ns": 1785748548000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28991542/1176.jpg", "source_sha256": "d231b89b19c2ed1a44efaa8deb6036570664205407eec848f5e0122b7cae7946"}
+
+===== PAGE 1 =====
+{"alpha_words": 119, "chars": 933, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD CARD
+
+1. DATE 2. LOCATION 12. CONCLUSIONS
+OG Was Bolloon
+23 Feb 61 Oakwood, Ohio O Probably Balloon
+3. DATE-TIME GROUP 4. TYPE OF OBSERVATION __ Se eee
+oud , 7 0 Was Aircraft
+.Local 1935 40) Ground- Vi sual OD Ground-Rador Q Probobly Airereft
+Gmt__240035Z, GC Air Visual O Air-Intereept Redor | 7 Possibly Aireraft
+5. ‘PHOTOS 6. SOURCE O Was Astronomicel
+O Yes 0 Probebly Astronomical
+10 Ne Civilian 0D Possibly Astronomical
+7. LENGTH OF OBSERVATION 8. NUMBER OF OBJECTS | 9. COURSE O Other
+. 4 Hh saab Deta for Evaluction
+2 min 1 SW-NE nknown
+
+10. BRIEF SUMMARY OF SIGHTINGWhite objt size of star.|!'. COMMENTS Tioht observed was possibly o7
+
+Very bright and very fast. Disappeared behind an a/c. Even after re-contacting witneg
+trees. Appeared in SW. Disappeared in Ne. enough info could not be geebese to form
+Appeared to turn toward N a little. a valid conclusion. OBTAIWED
+
+ATIC FORM 329 (REV 26 SEP 52)
+
+n

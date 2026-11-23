@@ -1,0 +1,9 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T02:43:00Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 21564340, "source_ctime_ns": 1793366416488133390, "source_file": "National-Archives-UAP-Bulk/photo/542184/341-PBB-538-0256.jpg", "source_mtime_ns": 1785565531000000000, "source_rel": "National-Archives-UAP-Bulk/photo/542184/341-PBB-538-0256.jpg", "source_sha256": "d647bb4616216d293845936f26f7eae63345ab739a5f63f15ff74c4d8976f8bf"}
+
+===== PAGE 1 =====
+{"alpha_words": 23, "chars": 92, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+enous — los ora cn Mia
+
+Be Aare OE wens Me Sa iD nv a re fir. Dea Pe SP,
+
+PE eas Rate SN ee

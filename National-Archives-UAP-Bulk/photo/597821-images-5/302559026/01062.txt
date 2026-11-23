@@ -1,0 +1,42 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T02:53:32Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1703165, "source_ctime_ns": 1793391491428581399, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302559026/01062.jp2", "source_mtime_ns": 1785808410000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302559026/01062.jp2", "source_sha256": "dbd4a571adf1619aa64050e65a13634b6ff74dbb976054d5bd3decd4e18aa17d"}
+
+===== PAGE 1 =====
+{"alpha_words": 80, "chars": 596, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD
+
+“1. NATE - Tiw= GROUP
+
+2. LOCATION :
+
+Bid, Dec. 66 20552 Dallas, Georgia multiple
+: SOURCE 10. CONCLUSION i
+Civilian
+NUMBER OF OBJECTS Airecaft(possiole)
+One
+LENGTH OF OBSERVATION |11. BRIEF SUMMARY AND ANALYSIS
+
+N/A
+
+TYPE OF OBSERVATION
+
+Ground Visual
+
+7, COURSE
+
+Northward
+
+PHOTOS
+
+_o Yes
+KK No
+
+9. PHYSICAL EVIDENCE
+
+Six observers watched a shiny silver coloted object move
+Slowly toward the north. The object was too high to
+
+be a helicopter, out did have a noise that was like that
+of a helicopter.
+
+The description is consistent with that of an aircraft
+observation.

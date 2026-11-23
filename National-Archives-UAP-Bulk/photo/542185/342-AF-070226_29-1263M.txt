@@ -1,0 +1,65 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T02:30:05Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6933281, "source_ctime_ns": 1793367869106706540, "source_file": "National-Archives-UAP-Bulk/photo/542185/342-AF-070226_29-1263M.TIF", "source_mtime_ns": 1785565793000000000, "source_rel": "National-Archives-UAP-Bulk/photo/542185/342-AF-070226_29-1263M.TIF", "source_sha256": "a0917d213023e686cec1271d18c1ab1dc8c51167253cbb966703f93cab9bbf83"}
+
+===== PAGE 1 =====
+{"alpha_words": 287, "chars": 1778, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+: eee Bas "1 eh is ’ et ee ee AVE
+
+WAR DEPARTMEN
+
+OFFICE OF THE CHIEF OF STAFF
+WASHINGTON 25, D.C.
+
+25 July 1945
+
+General Carl Spaats
+Commanding General
+United States Army Strategic Air Forces
+
+,
+eee eames Hh © tne Se ee ee ee ee
+
+1. The 509 Composite Group, 20th Air Force will
+deliver its first special bomb as soon as weather will
+permit visual bombing after about 3 August 1945 on one of the
+targets: ‘Hiroshima, Kokura, Niigata and Nagasaki, To
+carry military and civilian scientific personnel from the
+War Department to observe and record the effects of the
+explosion of the bomb, additional aircraft will accompany
+the airplane carrying the bomb. The observing planes will
+stay several miles distant from the point of impact ofthe
+bonb.
+
+~2. Additional bombs will be delivered on the above
+targets as soon as made ready by the project staff. Further
+instructions will be issued concerning targets other than
+those listed above,
+
+3. Dissemination of any and all information concerning
+the use of the weapon against Japan is reserved to the :
+Secretary of War and the President of the United States.
+No communiques on the subject or releases of information
+et be ret by Sommanders in the field without specifte =
+prior authority. Any news stories wi'l be sent to the War
+Department for special clearance, ;
+
+4e The foregoing directive is issued to you by direae
+tion and with the approval of the Secretary of War and of
+the Chief of Staff, USA, It is desired that you personally
+deliver one copy of this directive to General MacArthur and
+one copy to Admiral Nimitz for their information,
+
+Hye RlaawdayE
+THOS. T. HANDY ee
+General, G,.S.C. ag! ORUER an al
+
+Actidig Chief of Staft. 1S! a tag ny =|
+f met ieee 4 A 4 ud i—]
+
+/ PR ORD eee rege: oe
+
+J ¢ f
+f sf :
+é TF
+;
+
+7 a od

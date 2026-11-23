@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T03:09:59Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5662112, "source_ctime_ns": 1793369243410858424, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28931059/1368.jpg", "source_mtime_ns": 1785688780000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28931059/1368.jpg", "source_sha256": "d7953a00ce2208af6bccf98eb4107aa937e54a422017d3e9f547ccbc6cfb00b2"}
+
+===== PAGE 1 =====
+{"alpha_words": 65, "chars": 407, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+igB sy
+iia
+
+:
+in
+ir
+
+te
+‘EDC
+id
+
+UZAHL 1/CO GUNTER AZ SAST MONTGOMERY ALA 24229072
+
+3 rie see ie ime of he ast ant OT ed g ty , ¢ ~e a
+JEDE/CG 2 AMG CMA ATTN MCIAXO-3 WRIGHT PATTERSON AF3 OHIO
+
+s3013 PD REURTEL MCLAXO-7-5 PD NO AIRCRAFT ARRIVALS CR DEPARTURES
+
+we
+
+TWEEN TYENTY FOUR HUNDRED AND 3592 OURS TYENTY FOURTH JULY 1948
+
+(iS STATION £3) SULLEND COAB END
+
+oN GAPB@15 MCIAXOe7=3 5538 1948
+
+wtf 233SZ

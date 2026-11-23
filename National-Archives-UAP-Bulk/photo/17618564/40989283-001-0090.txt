@@ -1,0 +1,51 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T02:45:50Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 512175, "source_ctime_ns": 1793355879065522131, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989283-001-0090.jpg", "source_mtime_ns": 1785564549000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989283-001-0090.jpg", "source_sha256": "184623f42bcf5c9ce72e0fd88747297a658e36ee96c4ef8468fa9f3f450195ec"}
+
+===== PAGE 1 =====
+{"alpha_words": 35, "chars": 284, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+1a
+lo:
+Ne
+ir
+
+TENANT AND
+
+BAILED AIRCRAFT AT HADC -
+
+TENANT TYPE
+MC DONNELL  F=lO1A
+‘FelOlA
+€ ‘MC DONNELL § Fel01B
+
+Sh-2h36
+
+- 54-2h27
+
+56=233
+
+56-236
+56-241
+
+- 56-243
+
+56-252
+56m252
+
+56-25)
+
+ie
+Io
+in
+
+8
+
+8 8338 8
+
+To come in FY 1958
+
+Phase. VI
+Phase vI
+‘Phase VI
+
+AFFTC
+AFFTC
+AFFTC

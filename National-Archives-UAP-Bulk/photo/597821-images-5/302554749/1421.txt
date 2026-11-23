@@ -1,0 +1,52 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T02:51:28Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1399060, "source_ctime_ns": 1793390980721272966, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302554749/1421.jp2", "source_mtime_ns": 1785808198000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302554749/1421.jp2", "source_sha256": "61b4814d71320dfc77a8e8a6a1e83cd1bfecdcc993ee9e09f4159231a5ca185b"}
+
+===== PAGE 1 =====
+{"alpha_words": 101, "chars": 725, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PROJECT 10073 RECORD
+
+fi. DATE - TIME GROUP 2. LOCATION
+18 August 66 19/0252z Tijeras Canyon, New iiexico
+3. SOURCE 10. CONCLUSION :
+Civilian Possib&e (AIRCRAFT) (jeot
+4. NUMBER OF O8JECTS
+Ae o data presented to indicate object could not have been an A/C.,
+
+but further investigation necessary. ;
+
+5. LENGTH OF CB5SERVATION
+
+Several Minutes
+
+—_
+
+11, BRIEF SUMMARY AND ANAL YSIS
+SEE CASE FILE. oe
+
+-
+
+6. TYPE OF OBSERVATION
+
+Ground=Vigial (BX)
+
+Aircraft was over the area at 39,000 ft during the time of
+sighting. In view of excellent letter, case shoud be given
+
+7 COURSE
+
+W
+
+more attention.
+
+8. PHOTOS
+
+0 Yes
+
+XX No
+
+9. PHYSICAL EVIDENCE
+
+0 Yes
+XKNo
+
+FORM
+FTD sep 63 0-329 (TDE) Previous editions of this form may be used.

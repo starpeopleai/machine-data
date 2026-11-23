@@ -1,0 +1,40 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T02:58:55Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 2317970, "source_ctime_ns": 1793394198090394739, "source_file": "National-Archives-UAP-Bulk/photo/733667/733667-001-011-0081.jpg", "source_mtime_ns": 1785567336000000000, "source_rel": "National-Archives-UAP-Bulk/photo/733667/733667-001-011-0081.jpg", "source_sha256": "ec385e6a17ba1ce061099d047854d27494e87fc78b847918a09f39036d868a45"}
+
+===== PAGE 1 =====
+{"alpha_words": 215, "chars": 1511, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PERSONNEL STATEMENT
+
+FEDERAL AVIATION ADMINISTRATION
+Anchorage Air Route Traffic Control Center
+
+January 9, 1986
+
+The following is a report concerning the incident to Japan Airlines Flight
+1628 (JL1628) north of Fairbanks, Alaska on November 18, 1986 at 0218 UTC.
+
+My name is John L. Aarnink (AA). I am employed as an Air Traffic Control
+Specialist by the Federal Aviation Administration at the Anchorage Air Route
+Traffic Control Center (ARTCC), Anchorage, Alaska. During the period of 2230
+UTC, November 17, 1986 to 0630 November 18, 1986 I was on duty in the
+Anchorage ARTCC. I was training on Sector D13 from 2300 UTC, November 1/7,
+1986, to 0300 UTC, November 18, 1986.
+
+I was on my way to take a break when I noticed the unusual activity at the
+Sector 15 positions. I plugged into the C15 position and assisted them by
+answering telephone lines, making and taking handoffs, and coordinating as
+necessary. As to the specific incident, I monitored the aircrafts
+transmissions and observed data-on the radar that coinsided with information
+that the pilot of JL1628 reported. I coordinated with the ROCC on the BRAVO
+and CHARLIE lines. They confirmed they also saw data in the same location.
+At approximately abeam CAWIN intersection, I no longer saw the data and the
+pilot advised he no longer saw the traffic. I called the ROCC and they
+advised they had lost the target. I then unplugged from the position and
+went on a break.
+
+-
+
+LAS.
+
+” Jofm-L. Aarnink
+‘Air Traffic Control Specialist
+7" dmeborage ARTCC

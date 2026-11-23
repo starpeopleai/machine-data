@@ -1,0 +1,48 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T02:49:14Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1047912, "source_ctime_ns": 1793390069633783912, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302546154/0417.jp2", "source_mtime_ns": 1785808128000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302546154/0417.jp2", "source_sha256": "8ef8b76de1823ec7cbe8fa5d186b1a995a18440875b89e3860abde786ffff49d"}
+
+===== PAGE 1 =====
+{"alpha_words": 130, "chars": 908, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+UNCLASSIFIED
+
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+INCOMING MESSAGE
+
+AP IN : 36356 (20 Nov 65) F/ric Page 1 of 3
+ACTION : NIN-7
+INFO : XOP-1, XOPX-2, SAFOS-3, DIA-1, (15)
+
+SMB 81532 CZCHQA5 322 CAMA 114
+
+DE RUEAAML 2 3242600
+
+“ZNR UUUUU
+
+PR 28169982
+
+FM 6497.4 RADAR SQ BEDFORD AFS VA
+
+O RUNGALE/ADC ENT AFB COLO
+RUEAKN/26 AIR DIVISION STEWART AFB NY
+
+RUCOS/AFSCCFTD) WRIGHT PATTERSON AFB OHIO
+
+RUEAHO/HEADQUARTERS USAF CAFNIND WASH OC
+
+RUEAHQ/SECRETARY OF THE AIR FORCE CSAFOIDWASH DC |
+INFO RUEAAM/WAADS FT LEE AFS VA 3
+RUEAAM/CAPT CARTER WAODC-1 FT LEE AFS VA
+
+BT
+
+UNCLAS 64900? 18 NOV 55 FINAL SECTION OF TW0./7 —
+
+OFFICIAL CHECKED WITH CHARLESTON WEATHER DET AND WAS. INFORMED ~~
+
+CHARLESTON WEATSER DET AMD NO KNOWLEDGE OF ANY SCHEDULED OR
+
+UNSCHEDULED WEATHER BALLOONS BEING LAUNCHED.
+
+Me POSITION, TITLE, AND COMMENTS OF THE PREPARIN OFFICER:
+
+RICHARD Cs RENAIRI, 2. TMN CEM SUPERVISOR.

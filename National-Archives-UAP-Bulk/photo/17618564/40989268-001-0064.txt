@@ -1,0 +1,40 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T02:39:04Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 14334662, "source_ctime_ns": 1793355625844247862, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0064.jpg", "source_mtime_ns": 1785564491000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0064.jpg", "source_sha256": "37890e3d8111bd37527ae44e4d1f6e6625c8f2d7109d4fbc449fbf8d8f293952"}
+
+===== PAGE 1 =====
+{"alpha_words": 230, "chars": 1574, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Figure 25,
+
+Balloon After Release From Fill Line
+
+X. Ultra Thin Film Balloons
+
+Dale W. Cox, Jr.
+Sea-Space Systems, Inc.
+Torrance, California
+
+Achieving float altitudes in excess of 150,000 feet has always been a balloon
+performance goal at Sea-Space Systems. To realize such performance, lightweight
+fabrics are mandatory. Our thin-film philosophy at Sea- Space, since the start of
+the Corporation three years ago, started from the premise that 1/2-mil poly-
+ethylene is a heavy-gauge material. Last year at this Symposium some eyebrows
+were raised when Dewey Struble announced that polyethylene derivative films of
+1/7-mil gauge had been extruded by our company. Films of such thin gauges are
+used in the fabrication of SSS composite balloon film -- MERFAB. This year we
+are happy to report that further improvements have been made. Using special ex-
+perimental resins, good quality films have been extruded with a gauge of
+1/10 mil (5 x io Ib /#t) - Such materials are part of a program leading toward
+
+an advanced passive satellite, one example of the need for such ultra-light- gauge
+
+films.
+For balloon applications, Sea-Space uses these lightweight plastics as the raw
+
+materials to fabricate the MERFAB family of fiber-reinforced, composite poly-
+
+ethylene-derivative balloon films. MERFAB is produced in widths up to 12 feet
+
+and can be programmed for strength to 40 Ibs/inch. The strength of the composite
+
+film is a straightforward manufacturing problem dependent upon the type of
+
+reinforcing fibers and the fiber spacing. With such lightweight materials, float

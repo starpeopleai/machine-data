@@ -1,0 +1,46 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T03:14:58Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7128997, "source_ctime_ns": 1793385103159079480, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28991834/1429.jpg", "source_mtime_ns": 1785747965000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28991834/1429.jpg", "source_sha256": "a0adf16c05e1487464b1702b0b87d8139860675410b9378ce20f6f986186fff4"}
+
+===== PAGE 1 =====
+{"alpha_words": 89, "chars": 744, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+pEepAmamanas OF THE AR FORCE
+STAFF MESSAGE DIVISION
+YNCLASSIFIED MESSAGE
+
+INCOM! WG
+
+AF IN : 48096 (16 Mar 61) Page 2 of 4
+
+| PAGE TWO RUWFSK 67
+
+H, NO SOUND
+
+B. DESCRIPTION OF COURSE:
+
+A. ON SUN DECK OF CARSWELL USAF HOSPITAL
+B. NORTHEAST-DIRECTLY OVERHEAD-40,08 FT
+C. ONE OBJECT DISAPPEARED GOING STRAIGHT UP SECOND OBJECT DISAPPEARED
+GOING SOUTHWARD
+
+D. OBJECTS SIDE-BY-SIDE FOR SEVERAL MINUTES. THEN THEY
+SEPARATED AS DESCRIBED ABOVEQHE. INSTANTANEOUGLY
+
+Fo. 5 MINUTES
+
+C. MANNER OBSERVATION
+
+A, “GROUND-VISUAL
+
+Bol »9 90582-) -8$
+
+D, TIME AND DATE OF SIGHTING
+
+Ao 2212Z 12 MARCH 1961
+
+B, DAY
+
+C. USAF HOSPITAL, CARSWELL AFB, TEXAS
+
+F, IDENTIFYING INFORMATION ON OBSERVORS
+
+A. NONE
+B. JOHN G. NIBER, SSGT 7BW FIELD MAINTENANCE RELIABILITY

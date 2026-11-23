@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T03:01:58Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4176200, "source_ctime_ns": 1793377484434027347, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28963963/0399.jpg", "source_mtime_ns": 1785696750000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28963963/0399.jpg", "source_sha256": "ae6b7f3156d7c0e3622d56b895f6394da9e92c6cf4cb4bb32cb5f4cd4f38a5a9"}
+
+===== PAGE 1 =====
+{"alpha_words": 124, "chars": 915, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+/ PROJECT 10073 RECORD CARD
+
+CONCLUSIONS
+
+| 1. DATE 2. LOCATION 12.
+D Wes Ball
+19 Oct 55 Essex Junction, Vt Oo Probably Balloon
+3. DATE-TIME GROUP i. TYPE OF OBSERVATION O Possibly Balloon
+Local & Ground: Vi suel D Ground-Rader = Pocbasly Alvcr as
+GMT 19/23382 D Air Visual D Air-Intercept Radar D Possibly Aircroft
+5. PHOTOS 6. SOURCE 0 Was Astronomical
+D Yes 0 Probably Astronomical
+tr Ne civilian andmilita O Possibly Astronomical
+7. LENGTH OF OBSERVATION 2. NUMBER OF OBJECTS | % COURSE a. OMe
+5 Insufficient Data for Evaluation
+mins 1 Fading in sou
+10. BRIEF SUMMARY OF SIGHTING 11. COMMENTS
+e obj shaped like a half moon and then een by member of 4602a AISS. From the
+: to a disk shape. Size of a head of escription of the obj and comments
+pea held at arms length. Dull orange at pe h6022 AISS observer sighting waa
+irst then changing to blue-whit. enerated by & jet a/c.
+
+dee
+
+ATIC FORM 329 (REV 26 SEP 52)

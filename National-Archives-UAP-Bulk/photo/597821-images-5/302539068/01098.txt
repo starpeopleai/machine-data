@@ -1,0 +1,46 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T02:58:11Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1771497, "source_ctime_ns": 1793389311625013950, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302539068/01098.jp2", "source_mtime_ns": 1785808650000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302539068/01098.jp2", "source_sha256": "12433647773590da8bb7a303160145dcc40d7cc9d8d17705f1b61be3711f380c"}
+
+===== PAGE 1 =====
+{"alpha_words": 111, "chars": 705, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+30. Have you ever seen this, or a similar object before. if 80 give date or dates and location.
+
+/
+f
+
+J ;
+/ / Pf. ‘
+yw ‘
+
+OF
+
+~ ape
+Yes. No
+
+No
+
+31. Was anyone else with you at the time you sow the object? (Circle One)
+
+31.1 IF you answered YES, did they see the object too? (Circle One) Ves
+
+31.2 Please list their names and addresses: —
+
+32. Please give the following information about yourself:
+
+ee
+
+NAME
+Lost Neme First Neme Middle Neme
+i
+‘treet City Zone State
+
+TELEPHONE NUMBE AGE —-— SEX
+
+indicate any additional information about yourself, including any special experience, which migh? be pertinenr.
+
+a ff
+
+tes G
+
+33, When and to whom did you report that you had seen the object?
+
+Day Month Yeor

@@ -1,0 +1,56 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T03:05:42Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5043368, "source_ctime_ns": 1793354403914310588, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989207-001-0004.jpg", "source_mtime_ns": 1785564279000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989207-001-0004.jpg", "source_sha256": "6f742ec713aa1fba3813420a1bb1b84c5f2fe3b104ca157bf9d96895fdefdccd"}
+
+===== PAGE 1 =====
+{"alpha_words": 399, "chars": 2892, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PHILLIPS LABORATORY/GEOPHYSICS DIRECTORATE
+
+History
+
+The Geophysics Directorate of Phillips Laboratory, which was formed on
+13 December 1990, traces its origins back to 1947. In a 26 March 1947 directive
+General Curtis LeMay at Army Air Forces Headquarters ordered the Air Materiel
+Command (AMC) to assume responsibility for research and development in
+meteorology and related geophysical fields in the Air Force.
+
+The responsibility for meteorological R & D had previously been delegated to the
+Air Weather Service, and so trained AWS personnel were transferred over to AMC.
+The Air Materiel Command immediately established an Atmospheric Laboratory
+as part of its Watson Laboratories in Red Bank, New Jersey.
+
+This unit moved to Cambridge, Massachusetts, in November 1948 where it joined
+an existing electronics research group which had been recruited from the MIT
+Radiation Laboratory and Harvard’s Radio Research Laboratory at the end of
+World War II. These two units became, respectively, the Geophysics Research
+Directorate (GRD) and the Electronics Research Directorate (ERD) under the Air
+Force Cambridge Research Laboratories (AFCRL).
+
+Until the 1950s the laboratories were quartered in rented industrial space in
+Cambridge and Boston. Between 1954 and 1961 they gradually moved out to newly
+constructed permanent facilities at Hanscom Air Force Base, Bedford, MA. In 1976
+the two electronics research laboratories were reassigned to the Rome Air
+Development Center (RADC) at Griffiss AFB, NY, and the eight geophysics
+laboratories of AFCRL were redesignated the Air Force Geophysics Laboratory
+(AFGL).
+
+In December 1990 AFGL, together with the Air Force Weapons Laboratory and the
+Air Force Astronautics Laboratory (formerly the Rocket Propulsion Laboratory),
+were merged to form the new Air Force Phillips Laboratory (PL). Phillips
+Laboratory has its headquarters at Kirtland AFB, NM, and is managed by the Space
+and Missiles Center (SMC), Los Angeles, CA.
+
+In the late 1940s the initial programs of the Geophysics Research Directorate
+focused on ionospheric propagation, meteorology, upper atmospheric and solar
+research, seismic-acoustic propagation, and rocket and balloon technology. By the
+1960s GRD had also expanded into optical/infrared studies, space physics, satellite
+meteorology, geodesy and gravity, and technology for scientific payloads in space.
+
+The programs conducted by the Directorate range from laboratory research and
+field measurements to theoretical studies, analyses, and modeling. In order to
+conduct geophysical field programs it maintains specialized mobile equipment, off-
+site facilities, and memoranda of understanding for support at a variety of global
+locations. The technical staff of the Geophysical Directorate currently consists of
+231 assigned scientists and engineers (including military) of whom 99 have their
+doctorates.
+
+December 1992
+RPL

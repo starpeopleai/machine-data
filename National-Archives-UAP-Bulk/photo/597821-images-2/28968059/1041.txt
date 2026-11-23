@@ -1,0 +1,56 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T03:15:39Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7397741, "source_ctime_ns": 1793378461766523077, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28968059/1041.jpg", "source_mtime_ns": 1785696416000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28968059/1041.jpg", "source_sha256": "9b30825411c058151c1c60d64ba44fd5a4223fa07882de08d2d63a995820829a"}
+
+===== PAGE 1 =====
+{"alpha_words": 63, "chars": 548, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ee:
+
+JACKSON MISS
+
+-B NZA
+
+°AGE THREE DE RJESKB 1A
+
+(7) A CAVU
+B 6399
+12989
+15028
+23928
+33299
+CAEL
+89988
+
+2 WISPY CLOUDS
+
+FT 49 DEGREES 6 KNOTS
+
+FT &3 DEGREES 11 KNOTS
+FT 34 DEGREES 36 KNOTS
+FT 34 DEGREES 12 KNOTS
+FT 31 DEGREES 34 KNOTS
+FT 29 DEGREES 34 KNOTS
+FT 12 DEGREES 1 KNOTS
+
+¢ NO CEILING
+
+D 12 US GROUND UNLIMITED AIR TO AIR
+
+E 1/19
+
+F NO TW
+
+CLOUD COVER
+
+REMARKS
+42582 WX
+43993 12 78/535 1/138 CUM CLOUDS
+
+€3) NONE
+(9) N/A
+
+(413) NO LOCAL TRAFFIC
+
+(141) CAPT LAWRENCE STAGE JR JACKSON FILTER CENTER 23343
+
+(32) NONE
+
+':/2345Z2 OCT RJESKB

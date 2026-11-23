@@ -1,0 +1,85 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T02:38:17Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 11318395, "source_ctime_ns": 1793355330155666149, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989265-001-0032.jpg", "source_mtime_ns": 1785564435000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989265-001-0032.jpg", "source_sha256": "d7b5896e7cff6a342b10edcc64efdd8f57d9efc91a050fcd717adc4c9cb1a3a4"}
+
+===== PAGE 1 =====
+{"alpha_words": 385, "chars": 2613, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+tethered balloon systems. Automatic inhaul
+begins when the line tension drops below a
+preselected actuated tension. The winch ac-
+celerates whenever it needs to maintain pro-
+per tension. Inhaul ceases as line tension re-
+turns to an acceptable value. A basic winch
+system consists of a constant torque storage
+drum, an overrunning clutch and line.
+
+The aerodynamically-tethered balloon is
+the next logical step in hot air ballooning. In
+accomplishing this, improvements to the
+heat distribution network are needed to as-
+sure uniform temperature throughout the
+envelope. As a certain amount of air is con-
+stantly being driven into the envelope to
+support combustion, a venting system to
+balance the outflow with the inflow is essen-
+tial while maintaining constant pressuriza-
+tion. Any natural leakage from the present-
+ly-designed balloons may be considered rea-
+sonable for balancing out needed inflow
+caused by combustion. As the high winds
+
+Helium ball used in logging operations. Normally, it would be
+
+left flying on its tether from one day’s shift to another.
+
+(Raven Industries)
+
+may cause heat losses, the aerodynamic bal-
+loon requires an insulated skin and a vent-
+ing system.
+
+The recent innovation of the Skyhook-
+logging balloon, developed by Goodyear
+Aerospace, Soderberg and Raven Industries,
+permits logging from inaccessible areas to
+roads or waterways, at lower levels, at
+minimum expense, and acceptable environ-
+mental conditions.
+
+The Forest Research Institute of Swe-
+den first investigated balloon for logging in
+1956. In 1963, a Canadian, using a variation
+of the Swedish concept, demonstrated bal-
+loon logging in British Columbia, using two
+barrage balloon in tandem. In that same
+year, Goodyear Aerospace conducted the
+first flight of its “‘baby’’ Vee-Balloon for the
+Defense Department. The following Jan-
+uary, the U.S. Forest Service contracted
+with Goodyear to investigate the economic
+and design aspect of balloon logging; the
+timber business being a $25 billion a year
+industry, with $3 billion being spent on
+direct harvesting of timber! The timber
+business works on a 100-year cycle; that is,
+
+LOW ALTITUDE
+
+vel
+
+Sky Anchor— Tandem Aerostat Designs
+
+HIGH ALTITUDE
+
+EXPANDED GAS
+
+TO TAIL ONLY
+RAM AIR SCOOP
+
+Se
+
+A 53,000 cubic foot logging balloon in its “bedded down "position. The balloon is brought down to this position for service, major OR SUSPENSION POINT
+
+maintenance or when not in use for a prolonged period. The heavy-lift balloon is for short haul of heavy tonnage material over
+
+difficult or rugged terrain. (Raven Industries) A tethered balloon design.
+
+60 61

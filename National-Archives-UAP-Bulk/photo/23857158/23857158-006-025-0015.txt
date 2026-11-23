@@ -1,0 +1,13 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T03:21:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9207046, "source_ctime_ns": 1793359168838099483, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-006-025-0015.tif", "source_mtime_ns": 1785681333000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-006-025-0015.tif", "source_sha256": "5f86e258fc3908437408f7f06f0c1dbcfe2d98f5c3d4bd6c96c320842a3d6e6a"}
+
+===== PAGE 1 =====
+{"alpha_words": 31, "chars": 234, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Declassification
+
+SUPPLEMENT: TO: AF FORM: 112
+
+« Remained in- view. alncat: constantly:
+-interaittently:
+
+WARNINGs Thie document contains irons ye phir msn the th . & Si
+Kepionsge: Laws, Title, 18, U.S.C. 6 ees Spt Shey sr Semi tsi

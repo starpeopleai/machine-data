@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T02:36:39Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8689016, "source_ctime_ns": 1793362449700844816, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330782837/45484701-002-006-0133.jpg", "source_mtime_ns": 1785684701000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330782837/45484701-002-006-0133.jpg", "source_sha256": "9ccbd6d3e838cf4616b4fa64d8ca55ecfb566c59bbd160b19b252f53ac949b6a"}
+
+===== PAGE 1 =====
+{"alpha_words": 53, "chars": 413, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+UNITED STATES AIR FORCE FILE NOs 1
+THE INSPECTOR GENERAL oe oe
+OFFICE OF SPECIAL INVESTIGATIONS —
+
+REPORT OF INVESTIGATION Peron ay
+
+REPORT .MADE, AT
+
+shea. %
+
+PERIOD
+
+OFFICE.OF ORIGIN
+
+STATUS,
+
+CHARACTER
+
+REFERENCE
+
+SYNOPSIS
+
+MONA Naty 0 DoW
+
+‘ DISTRIBUTION ‘. ’ 4 ACTION COPY FORWARDED TO FILE STAMP
+
+HQ FORM : 16-*57744-1 YU. S. GOVERNMENT PRINTING OFFICE
+
+1 JAN 49 inn
+
+Declassification Authority: NND 923007

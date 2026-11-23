@@ -1,0 +1,44 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T02:30:50Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7071030, "source_ctime_ns": 1793361629261881047, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330781006/45484701-001-001-0060.jpg", "source_mtime_ns": 1785684841000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330781006/45484701-001-001-0060.jpg", "source_sha256": "43c2823285d6f834ff8f4bb98aec58893ff3b512fcbb5e586566d7ee30c27644"}
+
+===== PAGE 1 =====
+{"alpha_words": 133, "chars": 956, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ES{
+
+5D-~OSI/¥G/mag
+
+5D-2)-21P 22 June i9h9
+
+SUBJECT: \ PROJECT "GRUDGE" 325
+\fnoident, 13 May i9h9
+Bt. louis, Missouri
+SPECIAL INQUIRY
+
+Commanding General
+
+Air Materiel Command
+Wright-Patterson Air Force Base
+Dayton, Chico
+
+ATTN: UCIAIS
+
+le Reference is made te your R&R, dated 2, May lglg, requesting
+an investigation of unidentified aerial phenomenon reported on 15 May
+igho at St. Louis, Missouri.
+
+2. Transmitted herewith are two (2) copies of Report of Investi-
+gation by Special Agent BENJAHIN Ff. SBLLARS, dre, dated & june 1949, with
+inclesures, for your information.
+
+3. This report constitutes the development of ali iogical ieads
+in this case and no further investigation is contemplated by this office.
+
+1 Incl 3 TaémaG. DOYLE, JR.
+Rot of inv by S/A SELLARS Captain, USAF
+dtd 3 Jan lg (in dup) Acting District Comander
+
+INFORMATION Copy
+From 5th District OS}
+Wright-Patterson Air Forse Bas
+Dayton, Ohio
+
+Declassification Authority: NND 923007

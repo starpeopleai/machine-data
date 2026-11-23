@@ -1,0 +1,14 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T03:22:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9799638, "source_ctime_ns": 1793364363625560701, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330786876/45484701-006-007-0154.jpg", "source_mtime_ns": 1785685113000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330786876/45484701-006-007-0154.jpg", "source_sha256": "e20b2ae15f29a06c09e80c1e78b5969b85885b381ed2e0c150e6f00ece6d56bd"}
+
+===== PAGE 1 =====
+{"alpha_words": 22, "chars": 129, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Br ome Aer Ry el
+Don! GU KNOW
+
+(Hr STO gn tence eter etna ectnaerenaee
+
+i
+lO KA is
+PHO 6
+
+Declassification Authority: NND 923007

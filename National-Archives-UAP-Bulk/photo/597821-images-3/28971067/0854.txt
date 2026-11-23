@@ -1,0 +1,47 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T03:04:22Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4880809, "source_ctime_ns": 1793379116663275161, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28971067/0854.jpg", "source_mtime_ns": 1785701016000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28971067/0854.jpg", "source_sha256": "93c9aac2335494776779572d4499d79484e738ef914c6347c4ecf39eaf1a1946"}
+
+===== PAGE 1 =====
+{"alpha_words": 101, "chars": 595, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Rane
+t
+
+(cee dae sh
+
+im orcer tnat y
+
+the following space to write outa short description of the event that you ob
+ti dd
+
+r-
+
+ORCE
+
+ur information may be filed and coded as accurately as possible, please
+
+Pago ?
+SHEET
+Use
+
+v
+served, You may ra-
+,
+
+peat information that you have already given in the questionnaire, and add any further comments,
+
+statements, or sxe?
+
+‘~
+tion in the orcer in w
+
+hich they occurred. Additional pages of the same size
+
+te ¢
+
+3 that you believe are important. Try to present the detai!s of the observa-
+a]
+
+aper may be attached
+
+(Do Not Write in This Space)
+
+CODE:

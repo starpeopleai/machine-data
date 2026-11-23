@@ -1,0 +1,44 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T02:48:35Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1010768, "source_ctime_ns": 1793389685378427118, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302542837/0286.jp2", "source_mtime_ns": 1785808704000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302542837/0286.jp2", "source_sha256": "9df5aa5dfd840a6e55e82c5191067cd1c2c8fca25a2d2ac0c8674a9c59794ade"}
+
+===== PAGE 1 =====
+{"alpha_words": 114, "chars": 824, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+| UNCLASSIFIED |
+
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+INCOMING MESSAGE
+
+AF IN: 17580 (24 Aug 65)
+G. TAIL, TRAIL OF EXHAUST s NONE pg 2 of 4
+
+PAGE 2 RUCDDU 8 UNCLAS
+
+He SOUND: NONE
+
+1, UNUSUAL FEATURES® BRIGHTER THAN BRIGHTEST STAR
+
+2. DESCRIPTION OF COURSE OF OBJECT :
+
+A, WHY NOTICED: SON NOTICED MOVING OBJECT
+
+8, ~ENITIAL ELEVATION AND AZ IMUTH: ON HORIZON AT 189 DEGREES
+Co ELEVATION AND AZIMUTH AS OBJECT DISAPPEREDs ON HORIZON AT
+369 DEGREES
+
+D. FLIGHT PATH AND MANEUVERABILITY: SOUTH TO NOR TH=
+
+at ee
+
+MOVING “HESIATING THEN MOVE AGAIN. es
+MANNER OF DISAPPERANCEs DISAPPERED BEHINO HORIZON
+| LENGTH OF TIME IN SIGHT: 19 MINUTES
+MANNER OF OBSERVATION:
+METHOD: EYES
+OPTICAL AIDS: NONE
+AIRBORNE SIGHTING INFORMATION NONE
+TIME AND DATE OF SIGHTING:
+DTG CZ): 23/0390Z
+
+NIGHT
+
+arHa i 0.309C | UNCLASSIFIED |

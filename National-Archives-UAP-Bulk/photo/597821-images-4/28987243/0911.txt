@@ -1,0 +1,70 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T02:32:03Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7375526, "source_ctime_ns": 1793383550325509615, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28987243/0911.jpg", "source_mtime_ns": 1785748005000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28987243/0911.jpg", "source_sha256": "9a46a1b61a10e65eb3448948fe81389aa7cc74f9da81cb6469f658f3398ec2b6"}
+
+===== PAGE 1 =====
+{"alpha_words": 80, "chars": 781, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Se ee tS er ws " Tera ee
+
+?
+
+. JOINT MESSAGEFORM - CONTINUATION SHEET
+
+ARES
+SECURITY CLASSIFICATION
+
+(2)
+(3)
+(4)
+(5)
+
+(2)
+(3)
+y~D. (2)
+(2)
+
+(6).
+C. (1)~
+
+10 DEGREES ABOVE HORIZON
+
+UNKNOWN
+
+ROSE TO 30 DEGREES ABOVE HORIZON
+UNKNOWN |
+
+5 TO 7 MINUTES
+
+GROUND VISUAL
+
+NONE
+
+N/A
+
+0802004
+
+NIGHT
+
+UNCLASSIFIED
+FROM:
+2046 AACSRON WRIGHT PATTERSON AFB OHIO
+Be (1) UNKNOWN
+
+E. 78
+F.
+G. (1) NOT REPORTED
+(2) 6000 360 DEGREES 15 KTS
+10000 340 DEGREES 15 KTS
+16000 340 DEGREES 10 KTS
+20000 340 DEGREES 15 KTS
+30000 280 DEGREES 60 KTS :
+50000 240 DEGREES 15 KTS
+80000 UNKNOWN
+(3) NONE
+(4) 15 MILES
+(5) SCATTERED
+SYMBOL PAGE We OF SECURITY CLASSIFICATION INITIALS
+2046th AACS Sq 2 |3 UNCLASSIFIED
+FX U. S. GOVERNMENT PRINTING OFFICH, 19535—~352236
+
+D 1
+} MAY 55 al
+par a pee We oe NS a a La 8p

@@ -1,0 +1,18 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T02:39:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 17004552, "source_ctime_ns": 1793358421899876178, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-002-027-0001.tif", "source_mtime_ns": 1785681087000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-002-027-0001.tif", "source_sha256": "5f828d615bba13e58473406be11d416c9dc725f00f445ec333120f192deb13d3"}
+
+===== PAGE 1 =====
+{"alpha_words": 49, "chars": 306, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Declassification Authority NND 923007
+
+meer FS
+
+“PP JEDEN: JEDST JEDUP “JEP
+PES J AELN 33
+oP 39/28302°:
+EM cee pee ELLINGTON
+
+FiFGO/CouDR. STAR.
+-SEPHO/DIR POF) INTEL“ #Q<USE |
+aan NFO. JE DST/COMDR ATRC. ‘SCOTT. AFBS IMG IE
+G-261S- ier  elolatdips “AFR. 202-25 °DT iD 26 AUS. cose
+ny HOUND = sda ding pe

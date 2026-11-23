@@ -1,0 +1,37 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T02:36:16Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8501351, "source_ctime_ns": 1793387879827470602, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28999356/1287.jpg", "source_mtime_ns": 1785747819000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28999356/1287.jpg", "source_sha256": "fd79783796b717f8cd46553b556ea38920430702d277a3332309c65f4fb5bea4"}
+
+===== PAGE 1 =====
+{"alpha_words": 55, "chars": 373, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+DEPARTMENT GF THE AIR FORCE
+
+STAFF MESSAGE BRANCH
+UNCLASSIFIED MESSAGE
+
+INCOMING
+
+AF IN : 25100 (30 Sep 62)
+PAGE TWO RUEGUH 999
+
+PAGE 2 of 2
+
+Vereen aon armed
+
+A. BROOKLYN, NEW YORK __
+
+~ e+e -. . Ea
+:
+
+3. 3$99930Z
+
+6. 2009 FT
+
+Te WESTERLY
+
+8. 5 = 109 MPH
+9. NO MARKINGS
+
+BT NOTE: ADV CY TO DIA
+S9/9523Z
+
+, ~~ eS:
+CN ee em ER eS RE ee es TID yO Hee 7 oo: Fatt ane oe eam)

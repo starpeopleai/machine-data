@@ -1,0 +1,146 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T03:12:31Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6253495, "source_ctime_ns": 1793354473755172752, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989211-001-0006.jpg", "source_mtime_ns": 1785564291000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989211-001-0006.jpg", "source_sha256": "2a6111853d7101a85593368d2d492e53d4d307e9590c3a5909f5e2bff14f7595"}
+
+===== PAGE 1 =====
+{"alpha_words": 1090, "chars": 7261, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+La Physique au Canada 3
+
+Collaboration in Geophysics — Canada and the United States 1948-1955
+
+by N.C. Gerson
+877 Oakdale Circle, Millersville, MD, 21108
+
+1. Introduction
+
+It may be of interest to outline the actions that led to an era of
+material advances in geophysics in North America in the 1950s.
+Some of these arose from a conscious attempt to harness talent
+and to strive towards advancing the frontiers of knowledge in
+upper atmospheric physics. To accomplish this end one vital aspect
+was the establishment of a stimulating environment for research.
+Only in this fashion could a cadre of knowledgeable, motivated
+younger individuals, who could supply the needed creativity, be
+assembled. It was my good fortune to be able to participate and in
+some small way to influence that effort, especially during the
+period 1948-1955.
+
+The account which follows traces the development of the overall
+program and the reasons that brought it about. However, before
+describing them in detail, some background comments leading to
+my involvement seem pertinent.
+
+My field was physics, and after graduating, I became involved with
+meteorological thermodynamics. One day in 1946 as J was happily
+slaving away, an old professor of mine appeared in the office and
+told my boss that ] should work for him. In the ensuing three
+hour discussion they both totally ignored me. However, I did
+learn for the first time that my boss appreciated me. The net result
+of this debate was my transfer from the U.S. Weather Bureau to
+the USAF Watson Laboratories at Fort Monmiouth, and thence-
+forth to my preoccupation with electromagnetics.
+
+Five weeks after that meeting, on a Monday morning, I left Wash-
+ington for New Jersey. I promised my tearful wife that ] would
+return Friday after work. On Wednesday | was given 120-day
+travel orders (later extended for another 120 days) for locations
+that for the most part J had never heard of; Ottawa, Winnipeg.
+Gimli, Portage la Prairie, Hamlin, Edmonton, Churchill, Baker
+Lake, Yellowknife, Norman Wells and “‘CIPAP.” I never knew
+the English for this acronym, but it meant “wherever else ordered.”
+
+My work involved an evaluation of the experimental LF Loran
+Chain, a joint RCAF - USAF project in southwestern Canada.
+It originally had the name Musk Ox, then Musk Calf, and then
+a variety of derivatives. The transmitters were located at North
+Battleford, Gimli and Dawson Creek. All other sites were monitors
+of one type or another. In addition, several B29s were employed
+to check operational performance from the North Pole to Bermuda.
+Because of its stability, reliability and accuracies, the concept was
+adopted and exists today as the Loran C 100 KHz hyperbolic
+navigational system.
+
+I was one of two men who spent six months criss-crossing Canada
+(and Alaska), visiting all fixed sites, and checking the reliability
+and accuracy of the system. I finally saw my wife again a few days
+before Christmas, 1946, and also for the first time, my three month
+old son. When my wife learned that I had almost crash landed on
+the frozen Great Slave Lake only about one week earlier, she
+decreed that | leave the job.
+
+My boss, Col. George Higginson, countered with another offer;
+evaluate the LF Loran records and the 180 KHz noise data being
+obtained. Shortly thereafter, Ralph Cole, Director of the Labo-
+ratories, encouraged me to complete a master’s degree in physics
+at New York University. Watson Laboratories split in 1948:
+most of the Units were moved to Griffiss Air Force Base and
+became known as the Rome Air Development Center. Four Lab-
+oratories including mine, (all mainly on paper) were ordered
+to Massachussetts where we founded the Geophysics Research
+Directorate of the USAF Cambridge Research Laboratories.
+
+2. Initial Planning
+
+My involvement in United States - Canadian collaboration in
+geophysics began in 1948, before our group moved to Massachu-
+setts. By that time, I had already completed my thesis, “‘Nocturnal
+Ionization in the Ionosphere,” (later published in the Reviews of
+of Modern Physics) under the guidance of Drs. Haurwitz and
+Korff of NYU. Also, I had been asked to head an Electromagnetic
+Propagation Laboratory and develop a research program for
+USAF. To assist me, a secretary and an office were provided.
+
+Development of the overall program required about seven months.
+I] was given very wide latitude in deciding what topics to include
+or exclude. The long term objectives were improved electromagnetic
+(mainly radio but also other frequencies) propagation in the
+terrestrial atmosphere. Operational difficulties arose from the
+general unpredictability of the received intensity, from the onset
+of polar blackouts at high latitudes, or from the various types
+of fading.
+
+These problems arise because the medium, the atmosphere, is a
+fluid in a constant state of flux. We did not know the energy sources
+and sinks or their time variability. (We still do not.) We did not
+understand the dynamics involved, the energy density of incoming
+particles, or the spectral distribution of the solar radiation. I felt
+that as a first approach a better understanding of the atmosphere,
+through which the man made radiation travelled, was needed. |
+was most reluctant and refused. to adopt the then standard pro-
+cedure for examining propagation: establish a transmitter at point
+A and a receiver at point B, operate both for a month or a year at
+the prescribed frequency, and then obtain diurnal and monthly
+statistics. ] complained that we could repeat this procedure forever
+whenever A and B ‘‘were moved 10 meters” and still never know
+what caused the differences.
+
+USAF was involved with frequencies from kHz through GHz
+into infrared. The interacting medium for GHz and IR was prin-
+cipally the troposphere, and for the remaining frequencies, pri-
+marily the ionosphere. However, since most emphasis was in the
+band VLF to VHF, I renamed the laboratory, ‘‘lonospheric Physics
+Laboratory.” It contained four Sections; Ionospheric Physics,
+Auroral Physics, Infrared, and Radio Meteorology. Geomagnetics,
+excitational processes and solar terrestrial relationships were
+implicitly included. Emphasis had been given to the aurora because
+of the polar blackout problem. At a later time, the Radio Meteo-
+rological Section moved elsewhere, and for it I substituted a Geo-
+magnetics Section.
+
+3. Implementation
+
+It should be noted that from the beginning I had two enormous
+advantages. Because of the preparation for my thesis, | knew
+ionospheric and upper atmospheric physics, and already had com-
+piled a list of deficiencies which should be attacked. (Helmut
+Landsberg later induced me to publish a portion as “Some Unsolved
+Problems in Atmospheric Physics.” in “Advances in Geophysics.”’)
+Secondly, I had very strong administrative backing within USAF,
+and was well aware of their practical problems.
+
+To implement the program, a double pronged approach was
+chosen — both in-house and contractual efforts which complemented
+each other. I felt that the internal staff (yet to be hired) must be
+active researchers in their own right if they were to guide any
+University effort.
+
+The initial moves trom planning to implementation occured during
+spring and fall, 1948. In this account, the second action will be

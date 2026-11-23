@@ -1,0 +1,44 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T03:06:18Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5157721, "source_ctime_ns": 1793378878095026385, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28969642/1015.jpg", "source_mtime_ns": 1785700791000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28969642/1015.jpg", "source_sha256": "820d4317ff40c9f074b17a3d1bb2d5d3dd944f8b1a805661d6d7ce4f81626b48"}
+
+===== PAGE 1 =====
+{"alpha_words": 115, "chars": 787, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Bee Bt ns peg en cent ta ree Benen - Ads Se Step gig see aces ‘ " a a area eae yrerereres
+
+HEADQUARTERS
+PACIFIC ATR FORCE/FAR EAST ATR FORCES (REAR)
+
+APO 953, SAN.FRANCISCO, CALIFORNIA
+ii be Be " = 4 ;
+PFICO 5. MAY.
+
+SUBJCT; (Unclas) Intelligence Report
+
+TO: Commander
+Air Defense Command
+ant Air force Base, Colorado
+Ll. in accordance with AFR 200-3 dated 13 hay 1955, the attached
+
+"CIRVIS" report is submitted,
+&. Copies of the attached inclosures were ? rwarded to the
+16 LOrWarase to tae
+
+following addressees;
+
+Chie? of Stati, Usar
+
+Headquarters FaAr, ATILO
+Commander in Chief, Pacific
+Comaander in Chief, Pacific Fleet
+Headquarters, Thirteenth Air Force
+
+<
+
+ROSERT P. BLISS
+
+Colonel, USAF
+
+1 Incl As:'t Deputy for Intell
+Ltr, 7 May 57, Subj: Intell
+Rept, w/2 incls
+
+Ree. / ae oe

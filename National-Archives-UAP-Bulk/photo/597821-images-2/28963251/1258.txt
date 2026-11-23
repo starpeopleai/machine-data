@@ -1,0 +1,40 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T02:31:39Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7227286, "source_ctime_ns": 1793377316072394131, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28963251/1258.jpg", "source_mtime_ns": 1785696771000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28963251/1258.jpg", "source_sha256": "e3dbb5b791c640f756111e09274117aa28d7c624dcb7112ae722f0a011f74cf4"}
+
+===== PAGE 1 =====
+{"alpha_words": 97, "chars": 619, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ASPEN TS Seay ae erases a : il
+
+RJEDLS/46E7TH AISS GRT PIT APT CARAPOLIS PA
+RJEPNB/COMDR EADF STEWART AFB NEWBURGH NY
+
+BT
+
+/UNCLASSIFIED/ ACDODT 264. UFOB REPORT IN ACCORD. WITH AFR 20-2.
+WaM OBJECT" SMALL" CHANGI G COLORS DISAPPEARING SPEED.
+Ae ROUND
+
+Be PEA
+
+‘CWM RED-WHITE=BLUE
+
+Del 953
+
+i3e NEG
+
+Fe NEG
+
+Ge NEG
+
+VHWM NEG
+
+P PAGE TWO RJEPUR 14S
+eB OBSERPER THOUGHT OBJECT TO BE VERY HIGH
+“2h OBSERVER WAS WATCHING STARS.
+UB. NEG
+Scan NEG
+|D. OBJECT WOBBLED ALONG IT's PATH" NORTH TO SOUTH.
+DE. DISAPPEARED IN CITY LIGHTS. SECONE TIME DISAPPEARED INSTA TLY.
+E 46 SEC. EACHs!
+U3A. GROUND VISUAL.
+ie. NEG
+Ic. NEC. . ,

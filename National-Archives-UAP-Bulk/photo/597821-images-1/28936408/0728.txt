@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T02:59:08Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3209918, "source_ctime_ns": 1793371052533250448, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28936408/0728.jpg", "source_mtime_ns": 1785688615000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28936408/0728.jpg", "source_sha256": "5681bb3e4a343d58b9718045890415bd2d2a11b9bb276165aafbe4b0894d79f6"}
+
+===== PAGE 1 =====
+{"alpha_words": 86, "chars": 661, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+UNCLASSIFIED
+
+TEADQUARTERS FOURTH ARMY
+Officc of tho 4C of S, G-2
+Fort Sam Houston, Texas
+
+SUBJECT: Unidentificd Acrial Phenonena
+
+TOs Commanding Goncral
+ir iatericl Command
+Wright Patterson Air Forco Base
+Deyton, Ohio
+ATTENTION: HcI
+
+The follovring rcport(s) ro unidentifiod acric1 phenomena observed
+Dallas, Texas on date ond timo indicated, forwarded ter
+
+at
+
+your informations
+OBSERVER DATE TILE
+Mrs. Seeeecaaeilaapey 15 Aug 9 1615 (Incl 1)
+irs. S3aReReen 15 Aug h9 Between
+
+1615-1630 (Incl 2)
+
+GEORGES /A. A. JONES
+
+2 Incls ae . 3
+As sated Coloncl, GSC
+aC df /S,/G-
+WNGRADED AT 3 Yriak INTERVALS;
+pO CLASSIFIED AFTER 12 YEARS
+DOD DIR 6200.10
+UNCLASSIFIED

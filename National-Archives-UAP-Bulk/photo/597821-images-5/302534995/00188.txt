@@ -1,0 +1,55 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T02:57:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1757631, "source_ctime_ns": 1793388963589174480, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302534995/00188.jp2", "source_mtime_ns": 1785808200000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302534995/00188.jp2", "source_sha256": "e284d3c90b4108e9801736785d390d627236f1ed19f09f74854769e4954f79cf"}
+
+===== PAGE 1 =====
+{"alpha_words": 97, "chars": 654, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ei ’ Py hey
+{
+1
+, “eo re isi : : “=
+~ VIN { eT/ . : eae :
+;
+
+. ~~ ;
+| STAFF M ; i bd
+
+\ Sort if vit tinct oe ane
+
+; an Lee ah ne A tN IH EAR RE NH OE a eRe = eneaetn me He ep
+
+ii ala sinciipnasdenatssienyton
+
+37835 (1 AUG 64) T/chs 1 of 2
+
+5
+INFO: NIN-7, XOP-1, XOPX-5, SAF~08-3, ARMY-2, CMC~9, JCS-35,
+wink Pe ke ° . 9 a . . P , ot A “~~ \ ’ i
+OSD-15, NSA-7, DIA-15 1.00)
+~
+
+DE RUHLKH 4 01/0835Z |
+
+Fil S26AIRDIV KUNIA FACILITY HA
+TO RUHLKM /PACAF
+
+R UHPHH/COMHAWSEAFRON
+
+INFO RUEAHQ/CSAF
+
+QUE CU JOND
+MUU Sue
+
+Ne es eg POE Pe
+
+»
+ih
+WAR B preg | ‘ iA
+Oe id sew We aie Wh V
+
+RUHLHO/CINCPAC
+R UHLHS/CINCUSARPAC
+
+RUHLHL/CINCPACFLT
+
+RUCSBR /CINCSAC
+
+-_ ed

@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T02:59:24Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3415210, "source_ctime_ns": 1793376483667448058, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28960907/0771.jpg", "source_mtime_ns": 1785696771000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28960907/0771.jpg", "source_sha256": "5e2aac3bc7b74849941b48ee5d82531f831187f33bfa00e3a01e3e60b9fc2f5a"}
+
+===== PAGE 1 =====
+{"alpha_words": 45, "chars": 284, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Vue
+s\¥
+TONI5S9D YHNADASENAT LY
+DD MIpA IeHwp
+~ | eS OGieusys ]
+
+FM COMDR 4672D AISS ENT AFB COLO
+
+JEDWP/COMDR ATIC WPAFS
+
+c
+
+/UNCLASSIFIED/AISOP ©7353 PD CONDU
+
+ON UFOB REPORTED 24¢¢55Z BY SOUR
+
+OT REPORT PD SK
+\ a Yo seleh
+
+on
+pet
+
+AD /@*7259 TAN TOPwN
+foted & Ae aes GOAN Eels EAN

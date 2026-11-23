@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T02:49:19Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1077730, "source_ctime_ns": 1793355845905067723, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989280-001-0020.jpg", "source_mtime_ns": 1785564540000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989280-001-0020.jpg", "source_sha256": "39537861b804c8d75438253eead821a27b806acb56d6315c576d1c709ff6ca79"}
+
+===== PAGE 1 =====
+{"alpha_words": 160, "chars": 1267, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Number of Total Pounds Total Hours Total Miles
+Fiscal Year Flights Payload Flown Airborne Traversed
+1951 20 13hh 92 LL70
+1952 3 9326 69), 16123
+1953 85 23827 1470 20162
+195, 91 26302 732 15177
+1955 70 2,822 317 657k
+1956 132 34993 4.88 13603
+1957 2h3 57607 583 10,08
+1958 215 70996 557 1289),
+1959 (to 18 Dec)101 4.0957 288 4236
+
+1000 290174 5221 103617
+
+The table refers to plastic balloons launched for all types of
+projects, including the target balloons that have been used, starting
+in 1955, for missile test operations. On the other hand, some
+rubber~type balloons were still being launched and are not consi-
+dered in these figures, Their number fell off steadily, just as
+
+the number of polyethylene balloon flights rose,
+
+Members of the Balloon Branch have graphically summarized the
+progress made since 1950 by pointing out that the first 1000 plastic
+balloon flights, if all rolled into one, would have carried 15 tons
+of payload, remained aloft some 217 days, and traversed a total
+distance forty-three percent of the way to the moon. The longest
+Single flight was over eight days, the highest altitude 123,000
+feet, and the heaviest single payload 3,000 pounds, This last
+figure was more than the total flown on the first thirty-three
+
+plastic fiigneas

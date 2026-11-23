@@ -1,0 +1,44 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T03:01:47Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4042177, "source_ctime_ns": 1793375284416073768, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28955450/0174.jpg", "source_mtime_ns": 1785696623000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28955450/0174.jpg", "source_sha256": "1d19e10d61bc1634598098cd96b9a90770f8b589b29fa47a9f66ee29a8b641e7"}
+
+===== PAGE 1 =====
+{"alpha_words": 170, "chars": 1037, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+34. What were the weather conditions at the time you sow the object?
+
+34,1 CLOUDS (Circle One) 34.2 WIND (Circle One)
+a. Clear sky a. No wind
+Hazy b. Slight breeze
+ec. Scattered clouds Strong wind
+d. Thick or heavy clouds Don't remember
+e. Don't remember
+34,3 WEATHER (Circle One) 34.4 TEMPERATURE (Circle One)
+®) Dry a. Cold
++ Fog, mist, of light rain (@)) Cool
+¢. Moderate orheavy rain Warm
+d. Snow
+e. Don't remember e. Don't remember
+
+35. When did you report to some official that you had seen the object?
+
+Day Month Yeor
+
+36. Was anyone else with you at the time you saw the object?
+
+(Circle One) fo») No
+
+36.1 IF you answered YES, did they see the object too?
+(Cirele One) (Yes) Ne
+
+36.2 Please addresses:
+
+th, AK.
+
+37. Was this the first time thal you hed seen an object or objects like this?
+
+(Cirele One) (Yes No
+37,1 IF yeu answered NO, then when, where, and under what circumstances did you see other ones?
+
+38. In your opinion what do you think the object was and whet might hove caused it?
+
+Mont Kroger
+
+ee em ee ee 8 re ee

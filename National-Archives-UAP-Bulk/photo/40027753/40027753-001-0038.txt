@@ -1,0 +1,69 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T03:28:47Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 2, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 22368454, "source_ctime_ns": 1793361571146041837, "source_file": "National-Archives-UAP-Bulk/photo/40027753/40027753-001-0038.tif", "source_mtime_ns": 1785565382000000000, "source_rel": "National-Archives-UAP-Bulk/photo/40027753/40027753-001-0038.tif", "source_sha256": "fd0221570f856a7bab7ef8e6e9f5617b1775eff593bce8e51d39e79012cd79ef"}
+
+===== PAGE 1 =====
+{"alpha_words": 227, "chars": 1487, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+wi
+
+: on a oc
+
+—
+
+_ Allen invasion __
+
+| There’ve been stories recent)
+
+about documents that walked
+away from the National Archies.
+This story, though, is about a @c-
+ument that may have been
+planted in the Archives. Sup-
+posedly, it’s a secret memo from ~
+Robert Cutler, special assistant tO”
+
+President Eisenhower, to Gen. Na-
+than Twining, dated July 14, 1954.
+It’s about a briefing on the recov-
+ery of'a crashed flying saucer
+and four alien bodies near Ros-
+well, N.M., in July of 1947.
+
+Several prominent UFO re-
+searchers, including nuclear
+physicist Stanton Friedman, say
+the document was found in de-
+classified Archives files. They
+were challenged this week by the
+Committee for the Scientific In-
+vestigation of Claims of the Para-
+normal. That group labeled the
+document — and other related
+documents — “clumsy counter-
+feits” a “hoax” anda “forgery.
+
+William Moore, one of the UFO
+researchers, told us his group
+“never said the documents are au-
+thentic. We believe they are.” He
+denounced the committee that de-
+nounced him, saying they “have
+never taken a rational approach.”
+And he accused the primary
+accuser, Philip J. Klass, of being
+“a sloppy researcher who pirates
+other people’s work.”
+
+The National Archives staff
+studied the Cutler memo and
+found 10 indications that it was
+not a legitimate document. Mr.
+Moore has counterarguments to
+most of their findings. And he
+says he has more documents re-
+
+lated to the UFO crash that he
+will release soon.
+
+(E—=E—E———E—
+
+===== PAGE 2 =====
+{"alpha_words": 0, "chars": 0, "method": "ocr", "note": "no OCR text extracted", "page": 2, "variant": "no-text"}

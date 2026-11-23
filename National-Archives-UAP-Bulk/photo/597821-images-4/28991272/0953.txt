@@ -1,0 +1,80 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T03:14:29Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6935033, "source_ctime_ns": 1793384881103434880, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28991272/0953.jpg", "source_mtime_ns": 1785748406000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28991272/0953.jpg", "source_sha256": "d8dbe3ed818eb0522d3edf7d225da2251382f6b6bd08ea73229801a5508c576c"}
+
+===== PAGE 1 =====
+{"alpha_words": 188, "chars": 1454, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+1961 January 16.58
+
+Date
+
+25°36’
+
+Sidereal time at end point
+
+indeterminate
+
+Began over
+
+A\=119°54'W, $=34°43'N, at 21.7 km
+
+Ended over
+
+over 170 kra
+
+Leng.i: of path
+
+5.75 -- sec.
+
+Duratioa
+
+,@2277°, n=21°
+
+Radiant uncorrected
+
+Zeaith correction parabolic
+
+—*
+a=277°, h=17°
+
+idiant corrected
+
+a=98°, '=+4°
+\=98°, B=—19°
+
+Parabolic orbit: i=11°, Q=117°, 27=172°, q=0.77 A.U. ; rae
+For comparison’s sake Russeli's two elliptical orbits are copied from his paper,
+their differences due to what velocity he adoptod:
+
+1) a=1.7 A.U., e=0.51, i= 14°, 0=117°, w=53°, q=0.85 AU, P=2.3y
+2) ax=2.5 A.U., e=0.66, i= 16°, 2 =117°, W=49°, 90.85 AU. P=4.0y
+
+It is rather surprising that our para-
+bolic orbit agrees fairiy well in inclina-
+tion, longitude of perihelion and peri-
+helion distance—the node being longi-
+tude of Sun + 150° had to agree—
+when our radiants differed considerably,
+namely 4° in altitude and 14° ia
+azimuth, it was impossible for us to
+
+compute an elliptical orbit as our data
+did not give the beginning point, Had
+either Dr. Russell or we had all the
+
+data obtained separately a far better
+orbit would have been obtained.
+
+Both Petersen and Bagby collected
+the data and put them in form for use.
+Without this no solution would have
+been possible. Olivier made the final
+calculations. Our sincere thanks go to
+the numerous observers who sent in
+reports and to the newspapers which
+kindly published the requests for them.
+
+we ote ¢
+aT
+/
+
+t
+}

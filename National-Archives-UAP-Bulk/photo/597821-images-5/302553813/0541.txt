@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T02:54:18Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1709000, "source_ctime_ns": 1793390839968374823, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302553813/0541.jp2", "source_mtime_ns": 1785808181000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302553813/0541.jp2", "source_sha256": "acb64e255ee75f0a15cb5990be7596766e66afd106acfe18a3f904d89adb3de6"}
+
+===== PAGE 1 =====
+{"alpha_words": 126, "chars": 792, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+UNCLASSIFIED
+
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+INCOMING MESSAGE
+
+AS IN: 20255 (2 Aug 66) ; Pe 4 of 4
+
+I TALKED TO PR. GEO COUNTY POLICE SEVERAL TIMES AND STATE
+POLICE THREE TIMES AND THEIR UNITS WERE ALL REPORT ING SIGHT -
+ING. CHECKED ANDREWS TOWER BLT THER WERE NO SIGHT INGS
+HERE, CHECKED RADAR AND WAS TCLD THAT NOTHING APPEARED
+PACE 4 RUESS\A 7793 UNCLAS |
+
+(N RADAR SCREENS. I WENT OUTSIDE AND DD SEE A SATELLITE
+WHICH CHECKED QUT WITH THE SATELL ITE TRACKING REPCRT. THOT
+IS THE QLY THING I SAW. SOMEHOW A RUMOR WAS STARTED THAT
+ANDREWS WAS SENDING OUT A PLANE TO CHECK ON THESE OBJECTS.
+STATE PQDICE CALLED ME TO CONFIRM THAT AND I INFORMED THEM
+THAT NO SUCH ACTION HAD TAKEN PLACE TO MY KNOWLEDCE.
+SIGIED A2C ALEERT J. CRAY.
+
+EI
+
+NNNN
+
+AFHO ines O-309C UNCLASSIFIED

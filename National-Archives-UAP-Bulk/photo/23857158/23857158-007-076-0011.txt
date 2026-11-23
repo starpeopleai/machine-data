@@ -1,0 +1,46 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T03:03:41Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4704220, "source_ctime_ns": 1793359414660052234, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-007-076-0011.tif", "source_mtime_ns": 1785681407000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-007-076-0011.tif", "source_sha256": "12e6adb269e776871d0efb7433fb583432d418d938db9c7e3ceb1bb8bb2abbe3"}
+
+===== PAGE 1 =====
+{"alpha_words": 175, "chars": 1117, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Declassification Authority NND 923007
+
+2
+
+Eb yih ASS/FIEK
+
+CLASSIFICATION (SECURITY INFORMATION when filled in)
+
+SUPPLEMENT TO AF FORM 112
+
+REPORT NO, P e , 7 = aiid
+Plight S-A, 4602D AISs B~ AK US'OB— 2~55 eAGe PAGES
+
+ORIGINATING AGENCY
+
+COMMENTS OF PRSPARING OFFICER»
+
+il. Dus te fantasy of UFOB, and apparent fabrication on the part
+af the source, and the fact that on several other occasions source has
+claimed te have observed what appear to be phenomenal happenings, the
+reliability of the information is mary doubtful.
+
+2o The value. of the phyeica® evicance is not pertinent to this case ..
+in.so far as the observer stated that. he personally did not believe it fell
+off of, or was part of the UFOB.. The: pottery further appears to be part
+of a fabricated UFOB, in the hoax category.
+
+?
+onal E im
+RONALD & LIZP
+
+2nd Lte, USAP
+officer in Charge
+
+COMMENTS of- Approving Officer:
+
+Concur with the opinion of the Propar ing Officer that the sighting was.
+fabricated and is a hoax. *
+
+wh
+
+WARNING: This document contains information affecting the national defense of the United States within the meaning of the

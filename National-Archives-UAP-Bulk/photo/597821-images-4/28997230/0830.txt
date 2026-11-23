@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T03:04:00Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4778003, "source_ctime_ns": 1793386744257947368, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28997230/0830.jpg", "source_mtime_ns": 1785748006000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28997230/0830.jpg", "source_sha256": "1365623dcdfc5c029a2075ed60a08f40d2f30309d5255e9316616c54e60af12d"}
+
+===== PAGE 1 =====
+{"alpha_words": 94, "chars": 752, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+i b- Tg onde ae earn eae
+a “, Mt
+
+PROJECT 10073 RECORD CARD
+
+l. DATE 2 LOCATION 12. CONCLUSIONS
+Nandi, aja - Honolult O Was Balloon
++2 Wo Ot. Canto Ysland , 10 Probably Balloon
+es 7 = ———— — . “Sioa ERE a4 Possibly Balloon
+< e ©) 4. TYPE OF OBSERVATIO}
+‘ : “k Was Aircraft
+Local 0 Ground- Vi sual © Ground-Radar Cl Probably Aircraft
+M Anh? Z &-Air Vi sual O Air-Intercept Radar O Possibly Aircraft
+5. PHOTOS 6. SOURCE O Was Astronomical
+G Yes Q Probably Astronomical
++ BNo Civil Airlines QO Possibly Astronomical
+7. LENGTH OF OBSERVATION 8. NUMBER OF O3JECTS | 9. COURSE O Other
+0 Insufficient Data for Evaluation
+O Unknown
+10. BRIE# SUMMARY OF SIGHTING 11. COMMENTS
+rpting other a/c only known flight
+in ¢ yo WA CLeOAr
+
+ATIC FORM 329 (REV 26 SEP 52)

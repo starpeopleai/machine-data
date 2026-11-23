@@ -1,0 +1,57 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T02:51:19Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1390743, "source_ctime_ns": 1793392661940105321, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302569593/1336.jp2", "source_mtime_ns": 1785808176000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302569593/1336.jp2", "source_sha256": "b90a1b7d31ee090302ba97acb748cf9405d688a3e607a4f13d97d7b6518e7004"}
+
+===== PAGE 1 =====
+{"alpha_words": 204, "chars": 1384, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Page 2
+
+8. IF you saw the object ot NIGHT, what did you notice concerning the STARS and MOON?
+8.1 STARS (Circle One): 7 8.2 MOON (Circle One):
+
+a. | a. Bright moonlight
+b. (A fe |
+
+c. Many — c. No moonlight — pitch dark
+d. Don'’tremember = : d. Don't remember
+
+9. What wore the weather conditions at the time you sow the object?
+
+CLOUDS (Circle One): WEATHER (Circle One):
+a. Clear sky
+b. Hazy . b. Fog, mist, or light rain
+Co, Scattered clouds. c. Moderate or heavy rain
+d. Thick or heavy clouds d. Snow
+. e. Don’t remember
+
+10. The object appeared; (Circle One):
+
+a, Solid Cd. As a light)
+
+b. Tronsparent e. Don’t remember
+c. Vapor
+
+11. If it appeared as a light, was it brighter than the brightest stars? (Circle One):
+
+<@. Brighter)... c. About the same
+b. Dimmer d. Don’t know
+
+11.1 Compare brightness to some common object;
+
+12. The edges of the object were:
+
+| (Circle One): a. Fuzzy or blurred ' @. Other
+
+: b. Likea sal stor
+
+| d. Don’t rememt
+
+: 13. Did the object: (Circle One for each question)
+a. Appear to stand still at any time? CYes ) No Don’t know
+b. Suddenly speed up and rush away at any time? Yes He) Don’t know
+c. Break up into parts or explode? Yes Don’t know
+d. Give off smoke? Yes ° Don’t know
+e. Change brightness? No Don’? know .
+f, Change shape? Yes ‘ No) Don't know
+
+| g- Flash or flicker? Yes Don’? know -
+
+h. Disoppear and reappear? Yes (No Don’t know

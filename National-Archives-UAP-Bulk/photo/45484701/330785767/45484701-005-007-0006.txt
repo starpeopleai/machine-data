@@ -1,0 +1,58 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T02:34:46Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8005521, "source_ctime_ns": 1793363629958814505, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785767/45484701-005-007-0006.jpg", "source_mtime_ns": 1785684978000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785767/45484701-005-007-0006.jpg", "source_sha256": "6389b70489ca9ff3e1d965d071d4eddc2316bc93cda636772f149db1917843c7"}
+
+===== PAGE 1 =====
+{"alpha_words": 203, "chars": 1383, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+HEADQUARTERS
+
+FOREIGN TECHNOLOGY DIVISION
+AIR FORCE SYSTEMS COMMAND
+UNITED STATES AIR FORCE
+WRIGHT-PATTERSON AIR FORCE BASE, OHIO
+
+TD-E/Col Wynn
+UFO Sighting, Steelville, Missouri
+
+23 October 1962
+
+MATS
+Scott AFB [11
+
+1, Mrs, Harrison Jamison of Steelville, Missouri, has written
+
+to the President of the United States reporting the occurrence
+
+of numerous unidentified flying objects in the vicinity of her
+home, Mrs. Jamison reports that these objects appear as big
+
+green balls at tree-top level and on occasion appear to land in
+the woods. The witness reports that her television and radio
+
+have more static than normal when the UFO's are in the area. It
+was reported that there were others in the area who have witnessed
+the objects,
+
+2. It is suggested that you investigate this UFO Sighting in
+accordance with the provisions of paragraph 3b of A,F.R, 200-2,
+Unidentified Flying Objects, dated 20 July 1962, Though the
+witness's description of the objects is limited, it appears to us
+that misidentification of ball lightning was the cause of this
+Sighting. This information is provided as possible assistance
+
+to you during your investigation,
+
+3. The complete address of the witness is as follows;
+
+Mrs, Harrison Jamison
+Box #43
+Steelville, Missouri
+
+FOR THE COMMANDER
+
+EDWARD H, WYNN
+
+Colonel, USAF
+
+Deputy for Science
+and Components
+
+Declassification Authority: NND 923007

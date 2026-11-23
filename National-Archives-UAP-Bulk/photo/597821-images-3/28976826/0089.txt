@@ -1,0 +1,23 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T02:59:34Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3508314, "source_ctime_ns": 1793380558941860495, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28976826/0089.jpg", "source_mtime_ns": 1785700872000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28976826/0089.jpg", "source_sha256": "c69d0ed6f4a0fe5829d78e3721407757278832f05b57b81cca35e974c8dfd205"}
+
+===== PAGE 1 =====
+{"alpha_words": 66, "chars": 415, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Se he on ea nee ee
+
+SUBJECT: (U) Request Review of UFO Reports from Okhotsk Area
+Mr. Laxson/Maj Hoey/ jk a
+69219/Bldg 263/Rm Al12
+
+There is no known surface-to-air, surface-to-surface or air-to-air
+missile activity in the area on the dates of information. No suggestions
+as to what the incidents were.
+
+n/c fe“, Tt Colonel,-“USAF
+AFCIN-4F3
+
+atin Pan anf}
+“ON Cancelled
+“Aaod ¢
+i mae LO 47 i)
+i . tO pals
+A sy EY 4

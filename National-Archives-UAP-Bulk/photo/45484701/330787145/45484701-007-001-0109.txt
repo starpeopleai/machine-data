@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T02:31:50Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7284496, "source_ctime_ns": 1793364485883770586, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787145/45484701-007-001-0109.jpg", "source_mtime_ns": 1785684565000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787145/45484701-007-001-0109.jpg", "source_sha256": "bed390295f8febda3111dd141ee9b37ddbed6d04d5fb45304e2dba08e93a4a04"}
+
+===== PAGE 1 =====
+{"alpha_words": 86, "chars": 714, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+Spot Intelligence Report, dtd 9 May 56, Subj: Unidentified Flying
+Objects, JACK L. McGRAW - Informant, 18 D 2hel3h
+
+GABRIEL GREEN, 200) N,. Hoover, Los Angeles
+M. R. GREEN (Father of above GREEN) 200); N. Hoover,
+Los Angeles
+ROBERT COLLINS, 1632 Orange Tree Lane, LaCanada, Calif,
+JACK L. McGRAW
+
+9. ACTION: Unless so requested, the 18th District OSI contemplates
+conducting no further investigation regarding this matter,
+
+1O. This report is classified CONFIDENTIAL pursuant to the authority
+contained in Par 2ha, AFR 205-1,
+
+ARTHUR T. CAMERON
+Colonel, USAF
+cc: DO #5 = Infoel District Commander
+Cmdx Air Intelligence
+Center, Attn: ATIAA-2C,
+Wright-Patterson AFB,Ohio «= 2
+
+Declassification Authority: NND 923007

@@ -1,0 +1,42 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T02:37:28Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9397649, "source_ctime_ns": 1793363689949016067, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785831/45484701-006-001-0065.jpg", "source_mtime_ns": 1785684857000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785831/45484701-006-001-0065.jpg", "source_sha256": "beb5cd53c03f715e6600dc84d21187682a64ef06f0372d0d431d054388493f38"}
+
+===== PAGE 1 =====
+{"alpha_words": 222, "chars": 1473, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+2h.0 eoermtns 25 August 1952
+SUBJ: Unidentified Flying Object Reportedly Sighted in Vicinity of Forbes AFB
+
+NOTE; During the interview, the observer appeared somewhat irrational and
+stated that upon first seeing the object she believed it to be the Lord Jesus
+Christ returning to earth as the Bible predicted, but on second thought, de-
+cided He (the Lord) would not be Spying on earth so it must heave been inter-
+planetary travelers.
+
+Topeka Municipal Airport and Forbes AFB Weather Station reported CAVU
+weather condition and no Meteorological Balloons released on the night of 30
+July 1952.
+
+Mr. R. S. ALEXANDER, Washburn University, stated upon interview that
+no known celestial phenomena were present on the night of 50 July 1952 which
+could account for the sighting.
+
+Mrs. ANNA M. TABOR has previously been employed at the 832d Specialized
+Depot, Topeka, Kans., and has seen a great number of aircraft at Forbes AFB both
+in the air and on the ground. Observer was approximately 28 years old and had
+been employed at the 832d AFSD as an Air Police woman during World War II and
+later as a shipping clerk, and is presently employed as a stenographer at the
+Hill Packing Company, Topeka, Kans.
+
+Dd. ACTION: In absence of specific request by competent authority, no
+active investigation of this incident is presently contemplated by this District
+Office.
+
+Dy
+
+_AAwYi Zetec
+CHARITIES P, MARTIN
+Colonel, USAF
+District Commander
+
+Pd
+
+Declassification Authority: NND 923007

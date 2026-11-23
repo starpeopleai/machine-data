@@ -1,0 +1,49 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T02:31:15Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7091871, "source_ctime_ns": 1793385024511908758, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28991636/1261.jpg", "source_mtime_ns": 1785748281000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28991636/1261.jpg", "source_sha256": "a6fb397db471f456cb15bcf92653f82345dedb6ea140735494f51fcc90f01f7f"}
+
+===== PAGE 1 =====
+{"alpha_words": 129, "chars": 962, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+a ee
+{
+
+788TH.RADAR SQUADRON. (SAGE) - (ADC)
+United States Air. Farce
+Waverly Air Force Station
+Waverly, Iowa
+
+REPLY TO
+ATTN OFs 7880AC LT. WADDLE
+
+SUBJECT: Report of U.F.O. 0316Z = 0326Z 1 March 1961.
+
+TO: CADS (CHOIN)
+
+1. Reference telephone conversation between It. Waddle this squadron
+and Sgt Packard, CADS Intellegence. Enclosed is a reproduction of
+the track made by the U.F.0. reported by this squadron. This repro-
+duction covers the period from 0316Z to 0326Z 1 March 1961.
+
+Lidl
+
+GORDON C WADDLE 1 Atch
+lst Lt., USAF U.F.O. Track
+Operations Officer
+
+lst Ind (CHOIN) 9 March 1961
+
+Hq Chicago ADS, Truax Field, Wisconsin
+
+To: 30 ADiv (SAGE) (OIN) Truax Field, Wis
+ADC (ADOIN) Ent AFB, Colo
+
+_ATIC, Wright-Patterson AFB, Ohio
+
+1. Reference our message CHOIN 3001, 1 March 1961, Remarks. The attached
+Scope Tracing is forwarded for your information.
+
+FOR THE COMMANDER:
+
+4 ey ‘ be
+
+BENJAMIN L BERKOW 1 atch
+Captain, USAF a/s
+Chief, Intelligence Division

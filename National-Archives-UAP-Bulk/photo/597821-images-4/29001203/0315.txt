@@ -1,0 +1,44 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T03:10:18Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5722059, "source_ctime_ns": 1793388445506535270, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/29001203/0315.jpg", "source_mtime_ns": 1785748003000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/29001203/0315.jpg", "source_sha256": "1156573b268f32b387386604185931550a11b117814410f0459175c49147c6d8"}
+
+===== PAGE 1 =====
+{"alpha_words": 99, "chars": 665, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+a |
+" DEPARTMENT OF THE AIR FORCE |
+AF IN: 2174 (17 Jun 63) 1 NSQGcBEM ING Bike: easy. © F
+Bg) eh Oe ee orccuiie Gea) |
+a
+
+SMB AQ25
+
+HQAS 85ZC QJA2Z29
+
+00 RUEAKQ.
+
+DE RUHLKH 4
+
+ZNR
+
+O 1709152
+
+FM 326 AIR DIV KUNIA FACILITY HAWAII!
+
+TO RUHLKM/PACAF HICKAM AFB HAWAII
+RUHPHH/COMHAWSEAFRON PEARL HARBOR HAWAII
+INFO RUEAHQ@/CSAF USAF WASH DC
+
+RUECW/CNO WASH DC
+
+RUECW/SECNAV WASH DC
+
+RUWGALB/C INCNORAD ENT AFB COLO
+
+RUHPA/C INCPAG CAMP H M SMITH HAWAII
+RUHAFS/C INCUSARPAC FT SHAFTER HAWAII
+RUHPBY CINCPACFLT PEARL HARBOR HAWAII
+RUAUAZ/COMUSJAPAN FUCHU AS JAPAN /
+RYAMC/COMUSKOREA SEOUL KOREA
+RUAGFL/COMUSTDC TAIPEI TAIWAN
+
+RUCSBRB/CINCSAC OFFUTT AFB NEBR
+AF GRNC
+ou

@@ -1,0 +1,51 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T02:52:15Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1611906, "source_ctime_ns": 1793355973164917165, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989295-001-0076.jpg", "source_mtime_ns": 1785564572000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989295-001-0076.jpg", "source_sha256": "4143ff8ea4f43f0648aa43bdd674529fa125805c22a8dc7d98fab474527bc70e"}
+
+===== PAGE 1 =====
+{"alpha_words": 301, "chars": 2040, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+65
+
+A program of experiments with the High Performance Linear
+
+Decelerator to study tolerance and survival limits for (1)
+
+Linear Deceleration, [as caused by wind drag following
+
+ejection from a moving plane], (2) Wind-blast in a Linear
+
+Deceleration Field, (3) Tumbling in a Linear Deceleration
+
+Field, and () Linear Deceleration with Tumbling and
+
+Windblast, as factors of the problem of escape from high
+
+speed, high altitude aircrafte...Recommended limiting
+
+values established by these experiments will determine
+
+the design of escape devices and the choice of ejection
+
+seats or of ejection capsules for a particular aircraft.
+
+This test directive, with later amendments, was the official basis
+for Colonel Stapp's research at Holloman until the new and broader Project
+7850, Biodynamics of Human Factors in Aviation, became fully operative
+early in 1955, It stated further that the "current military need" was to
+study tolerance to deceleration up to fifty-five g, but this figure was
+subsequently revised,< and all such figures were naturally for rough
+guidance only. In any case, the maximum number of g's was only one of the
+factors involved in this study, Not only were tumbling and windblast to
+be explored, as stated in the test directive, but also the rate of onset
+and duration of g-forces would be considered as affecting the total decele~
+ration that a human body can withstand.
+
+Planning and preparations, including design and construction of a
+new rocket sled especially for the forthcoming aeromedical tests, began
+well before Stapp himself came to Holloman to begin a regular tour of duty
+in April 1953. While making the preliminary arrangements, Stapp was
+actually assigned to the Aero Medical Laboratory at Wright Air Development
+Center; and at first glance it may even appear surprising that Holloman
+should have been picked as the ultimate test site. The 2,000-foot Edwards
+
+deceleration track lacked the required performance capability, but the
+
+10,000-foot main track at Edwards was another possible alternatives

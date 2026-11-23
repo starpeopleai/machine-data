@@ -1,0 +1,9 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T02:34:26Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7808662, "source_ctime_ns": 1793364803818142623, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787808/45484701-007-005-0012.jpg", "source_mtime_ns": 1785685201000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787808/45484701-007-005-0012.jpg", "source_sha256": "4015c43a64762f571da58b031dd925f09601db8af9a1713facad099a52d9a7e7"}
+
+===== PAGE 1 =====
+{"alpha_words": 6, "chars": 77, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 1, "variant": "plain-psm3"}
+Ald V3LNI Y3LNNOI
+
+6y 80 0e 190 0961
+
+Declassification Authority: NND 923007

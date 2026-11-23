@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T02:58:43Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1801837, "source_ctime_ns": 1793392525268552808, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302568543/0306.jp2", "source_mtime_ns": 1785808199000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302568543/0306.jp2", "source_sha256": "78de770176c5e58b73e0d62f67020f3d8298c9c8abc24231e2a7952f977f2d0d"}
+
+===== PAGE 1 =====
+{"alpha_words": 97, "chars": 645, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+OT 5 July 1967
+
+TFO Photos
+
+FTD (TDETR)
+Wright-Patterson AFB, Ohio 45433
+
+1. The attached letter and undeveloped roll of film was received
+by this office on 5 July 1967. The individual concerned has moved
+out of the Wichita area as stated in the last paragraph of his letter.
+
+2. In accordance with AFR 80-17 the material conoerned is forwarded
+for further investigation.
+
+3, A letter stating the disposition of this material by this office
+is being prepared for the individual who submitted the film.
+
+FOR THE COMMANDER
+
+DANA MN. NASUTI, Capt., USAF 2 Atchs
+Information Officer i: roll of film
+2: UFO letter
+
+Info tos,
+
+Union City, New Jersey
