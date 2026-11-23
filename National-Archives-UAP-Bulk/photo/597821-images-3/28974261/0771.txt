@@ -1,0 +1,11 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T15:05:12Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7779254, "source_ctime_ns": 1793380025895636787, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28974261/0771.jpg", "source_mtime_ns": 1785701089000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28974261/0771.jpg", "source_sha256": "a4c388b09a5876765b03eee28268b1af55ec6a33eb3314df58399c4ea2311d16"}
+
+===== PAGE 1 =====
+{"alpha_words": 19, "chars": 128, "method": "ocr", "page": 1, "variant": "plain-vision"}
+19107302 NOV RBETNFS The istriers ice Cocated Lice
+tly..undir
+• Iren 6 mururys.
+shey probal
+ey observeśąś
+an airdiner:
+Prob AlC

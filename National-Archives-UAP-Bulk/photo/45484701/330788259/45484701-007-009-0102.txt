@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T14:30:40Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8540411, "source_ctime_ns": 1793365114216938855, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330788259/45484701-007-009-0102.jpg", "source_mtime_ns": 1785684992000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330788259/45484701-007-009-0102.jpg", "source_sha256": "f4058485a152384cbda30d6a00a4cc8353faaa027f890e66bcb0f9165f6fb013"}
+
+===== PAGE 1 =====
+{"alpha_words": 138, "chars": 918, "method": "ocr", "page": 1, "variant": "plain-vision"}
+colorful rings were caused by the reflections of sun and moon
+rays on ice crystals in the upper atmosphere. According to
+R. N. BUCKSTAFF of the Buckstaff observatory, the ring around
+the moon was a "halo," while that around the sun was a par-
+helion. The moon ring, with slight tinges of rainbow colors,
+was closer to earth's atmosphere than most moon rings. It
+was visible for several hours. The parhelion, a mock sun,
+had "sun dogs" or bright spots in the ring, which was on a
+horizontal plane with the sun. Disagreeable weather may fol-
+low the moon and sun rings, but that is not expected to come
+tonight and Friday (31 March 1950) as higher temperatures are
+predictedạẠỊạ
+3. ACTION: No action was taken in the instant matter.
+12
+Cohou
+WALLACE B. SCHOLES,
+Lt• Colonel, USAF,
+District Commander.
+DERraRA
+2/51/0C
+-185-27-3
+M
+APR 19 3 37 PMẠ
+CIAL INVESTIGATON
+6551
+APR 2 7 1950
+Declassification Authority: NND 923007

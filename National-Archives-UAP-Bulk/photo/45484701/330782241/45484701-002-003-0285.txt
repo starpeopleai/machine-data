@@ -1,0 +1,17 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T14:31:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8948470, "source_ctime_ns": 1793362231785801856, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330782241/45484701-002-003-0285.jpg", "source_mtime_ns": 1785684729000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330782241/45484701-002-003-0285.jpg", "source_sha256": "65f22a246b49f576f29248bc41881f6f03cd7ed8bd1811d68d7b163ae2c7399b"}
+
+===== PAGE 1 =====
+{"alpha_words": 93, "chars": 613, "method": "ocr", "page": 1, "variant": "plain-vision"}
+CONFIDEN
+INDEVETOPED LEADS
+FOR DO 5, BARGIE PATTER ON ARE,
+AL DATION: 0,O
+Will confer with the proper authorities at Aerial Medical
+Laboratory Research Departnenty Wright-Patterson AFB, Dayton, Olde
+to determine 1f the theory of Urandun polsoning as expounded by DR. PARRISH has
+any basis in fact.
+If Aorial Nedical Laboratory is unable to supply an anaver to this
+question of Uranium poisoningy and its connection with ble socalled flying
+saucers, and the current Pollo epidemie, steps will be taken to initiate in=
+quiry in this direction to prove or disprove the thecry.
+Declassification Authority: NND 923007

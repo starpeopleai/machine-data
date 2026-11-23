@@ -1,0 +1,77 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T14:48:07Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 2, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 26184632, "source_ctime_ns": 1793361530168857584, "source_file": "National-Archives-UAP-Bulk/photo/37294296/37294296-009-030-0002.tif", "source_mtime_ns": 1785565375000000000, "source_rel": "National-Archives-UAP-Bulk/photo/37294296/37294296-009-030-0002.tif", "source_sha256": "0e24d200dcc643eb7cbb4d48cda08c5e1e744c65c36789839eb799a4d420bf3a"}
+
+===== PAGE 1 =====
+{"alpha_words": 264, "chars": 1860, "method": "ocr", "page": 1, "variant": "plain-vision"}
+OCAMA SUPPLEMENT 1
+TO AFR 80-17
+AFR 80-17/OCAMA Sup 1
+OKLAHOMA CITY AIR MATERIEL AREA
+Tinker Air Force Base, Oklahoma 73145
+26 May 1967
+Research and Development
+UNIDENTIFIED FLYING OBJECTS (UFO)
+AFR 80-17,
+19 September 1966, is supplemented as follows to establish responsibilities for screening,
+investigating and reporting of UFO sightings within the Tinker Air Force Base area.
+3.
+The Service Engineering Division (OCNE)
+will be responsible for the UFO program at
+OCAMA.
+(a) During normal duty hours,
+Ext 3276.
+3c. 1
+bilities:
+Investigative and reporting responsi-
+(1) OCNE wil1:
+(a) Investigate all UFO sightings
+reported within the Tinker Air Force Base area.
+(b) Refer reports of UFO sightings
+occurring outside the Tinker Air Force Base
+area to the commander of the Air Force base
+nearest the scene of the reported sighting.
+(2) The Base Operations and Training
+Division (OCBO) will furnish all available
+information of UFO sightings by persons in
+airborne military or civilian aircraft
+within the Tinker Air Force Base area.
+(3)
+All organizations in the Tinker Air
+Force Base area will
+telephone reports of UFO
+sightings to the UFO project officer:
+CITY AIR M
+OFFICIAL
+US AF
+BERNARD HESTER
+Chief, Administrative Services
+(b) During nonduty hours, OCAMA
+Command Post, Ext 2171.
+The Command Post
+will then contact the UFO project officer.
+Minimum information required is name,
+address and telephone number of persons
+reporting the sightings.
+Prompt reporting
+is required for timely investigation of
+UFO sightings.
+50.
+OCNE will notify the Office of Informa-
+tion (OCK) of each UFO sighting.
+OCK will
+be responsible for release of information
+for the base commander in accordance with
+paragraph 5c,
+AFR 80-17.
+6.
+OCNE will prepare and submit reports
+as required.
+MELVIN F. MeNICKLE
+Major General, USAF
+Commander
+OPR:
+OCNE
+DISTRIBUTION: M, B, X: MCOOI...1
+
+===== PAGE 2 =====
+{"alpha_words": 0, "chars": 2, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 2, "variant": "plain-vision"}
+•

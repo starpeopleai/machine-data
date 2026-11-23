@@ -1,0 +1,42 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T15:07:39Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8468188, "source_ctime_ns": 1793387957141774634, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28999518/1427.jpg", "source_mtime_ns": 1785748162000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28999518/1427.jpg", "source_sha256": "074d016c59739a4b8b015f4f9c1f8dd48956ee5c5b1013e4c74f35516259670a"}
+
+===== PAGE 1 =====
+{"alpha_words": 125, "chars": 891, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AIR FORCE
+AF IN: 43397 (15 Oct 62) I/GENF MESSAGE BRANCH
+SMB B 015
+ACTION: PI-670 M IN G
+INFO:
+OOP-2, OOP-CP-1, SAFS-3, DIA-10, DIA/CIIC-3 (37)
+CHQA427ZCBJB1 10
+.....
+YY RUEAHQ
+DE RUCKYN 29
+ZNR
+Y 151303Z
+FM CCGDEIGHT
+NOTE: ADVANCE COPY TO CIN AND DIA.
+SAFOO-
+TO RUWGHW/THIRTYSECOND ADDIV SAGE OKLAHOMA CITY AFSTA
+RUWGALB/CINCNORAD
+RUEGUH/ COM EASTSEAF RON
+RUEAHQ/COFS USAF
+INFO RUECW/SECNAV
+RUECW/CNO
+RUECJD/COMDT COGARD
+RUEGUF / COM EASTAREA
+RUCKKC/COMSIX
+RUCKYC/COMEIGHT
+RUCKSH/COMFAIRWING ELEVEN
+RUCKHC/CINCLANTFLT
+JSCG GRNC
+BT
+UNCLAS
+AT 0640S CAPT.
+SISSIPPI RIVER PILOT REPORTED
+THAT HE OBSERVED AN UNIDENTIFIED FLYING OBJECT AT 0518S BEARING
+Ø55 DEGREES TRUE FROM MILE 6 SW PASS, MISSISSIPPI RIVER. POSITION
+ANGLE 40 TO 45 DEGREES. ESTIMATED ALTITUDE 20,000 FEET. OBJECT
+LEFT CONTRAIL AND DISINTERGRATED WITHIN 4 OR GT SECONDS FROM
+FIRST SIGHTING. NOT A METEORITE.
+BT

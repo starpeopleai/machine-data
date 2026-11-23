@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T15:00:29Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 2, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 16812428, "source_ctime_ns": 1793361553070692624, "source_file": "National-Archives-UAP-Bulk/photo/40027753/40027753-001-0019.tif", "source_mtime_ns": 1785565379000000000, "source_rel": "National-Archives-UAP-Bulk/photo/40027753/40027753-001-0019.tif", "source_sha256": "e706945f36abdad705b80a09d01aeb1ea85a6c000c0f7dad6b3aa1e6b31f8099"}
+
+===== PAGE 1 =====
+{"alpha_words": 286, "chars": 1854, "method": "ocr", "page": 1, "variant": "plain-vision"}
+CONCLUSIONS
+To date, the firm conclusions of Project Blue Book are: (1) no unidentified flying object reported,
+investigated, and evaluated by the Air Force has ever given any indication of threat to our national
+security; (2) there has been no evidence submitted to or discovered by the Air Force that sightings
+categorized as UNIDENTIFIED represent technological developments or principles beyond the range
+of present-day scientific knowledge; and (3) there has been no evidence indicating that sightings
+categorized as UNDENTIFIED are extraterrestrial vehicles.
+The Air Force will continue to investigate all reports of unusual aerial phenomena over the
+United States. The services of qualified scientists and technicians will continue to be used to investi-
+gate and analyze these reports, and periodic reports on the subject will be made.
+The Air Force takes no stand on whether or not extraterrestrial life could or does exist. Scien-
+tists believe that it is entirely possible that the universe contains life on planets other than our own.
+No evidence yet exists that there is other life. The Air Force continues to extend an open invitation
+to anyone who feels that he possesses any evidence of extraterrestrial vehicles operating within the
+earth's space envelope to subm: his evidence for analysis. Initial contact for this purpose is through
+• PROJECT BLUE BOOK INFORMATION OFFICE
+SAFOI
+WASHINGTON, D.C. 20330
+Anyone observing what he considers to be an unidentified flying object should report it to the
+nearest Air Force Base. Persons submitting a UFO report to the Air Force are free to discuss any
+aspect of the report with anyone. The Air Force does not seek to limit discussion on such reports
+and does not withhold or censor any information pertaining to this unclassified program.
+·
+4
+REPRODUCED FROM HOLDINGS OF THE NATIONAL ARCHIVES
+
+===== PAGE 2 =====
+{"alpha_words": 0, "chars": 1, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 2, "variant": "plain-vision"}

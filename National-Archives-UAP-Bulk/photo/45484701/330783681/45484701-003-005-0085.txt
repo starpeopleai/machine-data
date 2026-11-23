@@ -1,0 +1,54 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T15:08:59Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8962906, "source_ctime_ns": 1793362775019913870, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330783681/45484701-003-005-0085.jpg", "source_mtime_ns": 1785684554000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330783681/45484701-003-005-0085.jpg", "source_sha256": "f0676c662fadce7913a09558328c5e664cda41d1dc7493314b3671c5118e32d7"}
+
+===== PAGE 1 =====
+{"alpha_words": 301, "chars": 2009, "method": "ocr", "page": 1, "variant": "plain-vision"}
+NATIONAL INVESTIGATIONS COMMITTEE
+ON AERIAL PHENOMENA
+NICAP
+MAJOR DONALD E. KEYHOE, Director
+1536 Connecticut Avenue
+Washington 6, D. C.
+NOrth 7-9434
+ept
+August 22 1958
+Rose Hackett Campbell
+Richard Hall
+Boss-Clask
+Elizabeth Ann Kendall
+Mr. J. Edgar Hoover
+Director
+Federal Bureau of Investigation
+Washington 25, D.C.
+Dear Mr. Hoover:
+Some time ago I wrote to you about the subject of unidentified
+flying objects.
+you and the FBI for the exposure
+of the so-called "Venus swindle": at that time I told you that
+this committee is making a serious, factual investigation of UFOs;
+we have a mass of verified evidence which disproves suggestions
+that these sightings are caused by mirages, hallucinations, etc.
+The standing and serious aim of our committee may be
+examining a list of our Board members and Special Advisers. Among
+them are such distinguished citizens as: Vice Admiral R. H.
+and Pilots Association; and other citizens well known in the fields
+of education, religion, and science.
+I am writing to ask what part, if any, the Federal Bureau of In-
+vestigation plays in the official investigation of UFose
+years ago, Air Force Intelligence officers once told me, FBI
+agents helped the Air Force interrogate witnesses on some crca-
+sions -- particularly when Air Force representatives were not
+immediately available.
+I understand that to a limited extent
+this has occurred in the last year or so.
+I have also been told
+that the FBI has a general directive to help the Air Force in its
+collection of any UFO information.
+These of course would be normal functions of which anyone would
+approve.
+In this connection, however, we have received several
+reports which may or may not be correct. We have been told that
+on certain occasions FBI agents ordered, or warned, witnesses
+to UFO sightings not to discuss what they had seen, nor to reveal
+that they had been interviewed officially.
+A PRIVATELY SUPPORTED FACT FINDING CIVILIAN COMMITTEE SERVING THE PUBLIC INTERESTS
+Declassification Authority: NND 923007

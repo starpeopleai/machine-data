@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T15:16:03Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9229763, "source_ctime_ns": 1793387045803024829, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28998074/0138.jpg", "source_mtime_ns": 1785748111000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28998074/0138.jpg", "source_sha256": "372e59ede87a6f89d25d385cd1ddd80982a947ef22e27425bdd96b15a3d3d125"}
+
+===== PAGE 1 =====
+{"alpha_words": 144, "chars": 1041, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+UNCLASSIFIED MESSAGE
+INCOMING
+AF IN : 39699 (10 Jul 62)
+ACTION: CIN-17
+INPO : SAFS-3, OOP-2, OOP-CP-1, DIA-10, DIA-CIIC-3 (37)
+SMB A 226
+ZCZCHQE728ZCV JC 933
+PP RUEAHQ
+DE RJESHN 3ØB
+ZNR
+P 1020077
+FM 2BOMBWG HUNTER AFB GA
+TO RJWFAL/ADC ENT AFB COLO
+RJESAH/ 73AIRDIV TYNDALL AFB FLA
+RJEDS@/ATIC WPAFB OHIO
+RUEAH/CSAF WASH D C
+RUEAH OSAF WASH D C
+M/ jvh
+Page 1 of 2
+UNCLAS BDAS 7-1012. UFO. FOR CSAF (AFCIN). FOR OSAF (SAFIS).
+THE FOLLOWING UFO REPORT SUBMITTED IAW PAR 4, AFR 200-2: 15A (1)
+SHAPED LIKE A STAR, COMPARABLE TO PLANET VENUS. (2) COMPARABLE
+IN SIZE TO VENUS. (3) BRIGHT WHITE AT FIRST WITH MAGNITUDE OF
+VENUS. CHANGED TO RED AFTER SEPARATION. (4) ONE OBJECT. (5) N/A.
+(6) NA. (7) CONTRAILS BETWEEN THE TWO PARTS AI TIME OF SEPARATION.
+(8) NONE. (9) NONE. B(1). SPEED OF OBJECT. (2) ALMOSI DUE
+SOUTH OF JACKSONVILLE N.A.S. AT 60 DEGREE ELEVATION. (3) 450
+DEGREE WESTWARD ACROSS HORIZON ENDING UP AT A SW POSITION OF
+JACKSONVILLE N.A.S. DISAPPEARED AT A 45 DEGREE ANGLE OF ELEVATION

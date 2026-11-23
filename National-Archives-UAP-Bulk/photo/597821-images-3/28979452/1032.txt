@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T14:33:37Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9470090, "source_ctime_ns": 1793381162582246888, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28979452/1032.jpg", "source_mtime_ns": 1785700954000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28979452/1032.jpg", "source_sha256": "61baa744fca9bb4fe74bf9d13a2d4025517026358301584e6a97d82449a8866f"}
+
+===== PAGE 1 =====
+{"alpha_words": 46, "chars": 407, "method": "ocr", "page": 1, "variant": "plain-vision"}
+B. NEG
+C. NEG
+I A. 1: 11302 AUG 0100-55 2000
+D. NIGHT
+V A. 414311-7430WO
+CHEURCH MY
+VI A.
+- LABOREN,
+NEWBURGH, NY
+VII A. CLEAR NO CLOUTS
+55 W
+B. 10
+202 3 KTS
+2. 250 23 KT-
+3. 2300
+25 KT:
+260
+25 KTS
+AGE THREE RJEPMB 5
+6. 4559
+63 KT~
+7. 26: 35 KT
+C. 8. 053 10 KT8
+C. 31,220 BROKEN
+D. 4 MILES WITH HAZ
+NOTE: HAZe
+~ IY TENTHS
+F. YES.
+• ThundersTOrMS INAreA
+AT TIMe OF SIghTINg
+VIII A. NEG
+B. NEG
+C. NEG
+IX HONE

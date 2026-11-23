@@ -1,0 +1,20 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T15:14:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 84676092, "source_ctime_ns": 1793368358399843747, "source_file": "National-Archives-UAP-Bulk/photo/542326/342-B-01-103-179330USAF_002.TIF", "source_mtime_ns": 1785566063000000000, "source_rel": "National-Archives-UAP-Bulk/photo/542326/342-B-01-103-179330USAF_002.TIF", "source_sha256": "a8ef183fb709eb6311f15231034cb34fad63ecde3c5a11207e68456662edcb6c"}
+
+===== PAGE 1 =====
+{"alpha_words": 21, "chars": 198, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+y \ ms
+J
+4
+/
+i
+|
+} 4 :
+{
+
+179330 USAF « SCIENTIFIC STUDY OF U0s ~ les —
+of radio interferneee. (Plate #67 iy
+
+Copied from &x10 print rec'd 1/13/69
+fron SAPOI.
+
+Failed - UNIDENTIFIS) + LYING OBJECTS

@@ -1,0 +1,63 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T14:48:23Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 29727252, "source_ctime_ns": 1793356822072005691, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-0880-393936-0003.tif", "source_mtime_ns": 1785564768000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-0880-393936-0003.tif", "source_sha256": "cab7a53e7105dc5bcf2fb634077b9c9a7fe1b9382d5483ca492ee72f812c4247"}
+
+===== PAGE 1 =====
+{"alpha_words": 280, "chars": 2021, "method": "ocr", "page": 1, "variant": "plain-vision"}
+FORM 2-PART
+approved | June 1948
+SECURITY INFORMATION
+EDENTA
+(Classification)
+AF393936 /łą
+try
+U.S.A.
+Report No.
+AIR INTELLIGENCE INFORMATION REPORT
+Subject Report of Unusual Airborne Object
+Area Reported On 40 SW of Minneapolis
+Unidentite d
+Date of Report 1 December 1951
+Prepared by (officer)Captain William H. Pairgrother
+References (Control number, directive, previous report, etc., as applicable)
+us
+9545
+troopecta
+Evaluation
+Sourceisual Observation
+Summary: (Enter concise summary of report. Give significance in final one-sentence paragraph.
+List
+The
+he rowing Report
+It lower lt is submitted in accordance with Paragraph 56 ADOL 200-1,
+accordance
+dated 11 April 1951:
+Northrup Flying Wing, color milky white, approximately 8f wing span.
+object East - level flight - appeared to be hanging in the air.
+Altitude 25,000 ft.
+51 Flight was heading West. Weather CAVU, vis. approximately 50 miles at 25,000 ft.
+Wingmen did not see object.
+CCI controller has nothing other than the 5l's on the scope
+Object passed approximately 100 ft, over and 100 it. to left of flight leader. Wingman
+on left wing.
+Checked MPIS ARTCC for balloon flights and received word that last one was
+released from University airport at 24/14462, landed 24/1901% 250 miles ESE of MSP
+Checked Lowry MFSC to see if any classified flight plans had been received
+during last 24 hours. Answer was negative.
+JAN 8
+"DECLASSIFIED
+EU. 11652, Sec.
+3(E) and 5(D) or (E)
+1SAF MEmO 7/31/78.
+By heLenD 52. Date 2/12/28
+AKG
+Distribution by Originator
+MOTE:
+This document contains information affecting the national defense of the United States within
+the meaning of the Espionage Act, 50 U.S.C.--31 and 32 as amended.
+Its transmission or the
+revelation of its contents in any manner to an unauthorized person is prohibited by law.
+It
+may not be reproduced in whole or in part by other than United States Air Force agencies,
+except by permission of the Director of Intelligence, USAF.
+SECURITY INFORMATION
+(Classification)
+Declassification Authority: NND 57565

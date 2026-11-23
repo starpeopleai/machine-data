@@ -1,0 +1,69 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T15:03:14Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 32244476, "source_ctime_ns": 1793357846850693413, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1713-582469-0003.tif", "source_mtime_ns": 1785564982000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1713-582469-0003.tif", "source_sha256": "88dfe10a094093434b87f87b4bcf8213e68a0f093cd0cecf5f7ce3983e2cae52"}
+
+===== PAGE 1 =====
+{"alpha_words": 423, "chars": 2795, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AF FORM 112-PART II
+APPROVED 1 JUNE 1948
+FROM (Agency)
+RESTRICTED
+CLASSIFICATION)
+AIR INTELLIGENCE INFORMATION REPORT
+REPORI NO.
+53-1
+STATEMENT
+on a routine navigational proficiency flight to Wethersfield RAF Station, England.
+About 1830Z over the approximate position of 4715N/0430E (South-Central France),
+cruising altitude 36,500 feet, magnetic heading 320 degrees, we observed an uniden-
+tified aerial object nine o'clock high to our flight path, in a southwesterly
+direction.
+The position of the sun at this time was approximately 20 to 30 degrees
+above the horizon.
+With sky conditions in this area clear and visibility unlimited, the initial
+sighting was very distinct.
+The object appeared to be brilliant,
+shining white in
+color, round or spherical in shape, with no sign of smoke, contrail, etc. (the
+light appeared to originated from within the object).
+Because of the unusual appearance and altitude of this object, we altered our
+flight path for a closer look.
+At this time we increased our power setting to 100%
+rpm, approaching the object at maximum indicated air speed (.82 mach) on an approx-
+imate heading of 240 degrees.
+Six minutes later we passed under the object at
+40,000 feet.
+Considering our speed and the time consumed, together with the apparent
+lack of horizontal motion of the object, we calculated it to have been about 50 miles
+distant at the initial sighting.
+By the rate of horizontal closure we estimated the
+object to be at an approximate altitude of 55,000 to 60,000 feet, and 75 to 100 feet
+in diameter.
+We made three 360 degree circles under the object, climbing out to 43,000 feet.
+There was very little apparent decrease in the distance of our separation,
+and little
+or no movement of the object. From all points of observation there was no change
+in appearance.
+On our final passage under the object at 45,000 feet, the glowing
+white light, slightly less than a magnesium flare or arc welding light in intensity,
+appeared to separate into two lights of equal size and brilliance.
+The total length of observation of the object was approximately 15 minutes, at
+which time we were forced to leave due to shortage of fuel.
+Thome. iny
+THOMAS N. CAIRNEY
+Is t Lt., USAF
+Dalia Stente
+Capt., USAF
+USAF
+DECLASSIFIED
+Memo
+2/31/78
+4/12/29
+AF582169
+INCL. #I
+NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S. C.-
+31 AND 32, AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW.
+IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF
+INTELLIGENCE, USAF.
+RESTRITED
+SEGUR FASCION FORMATION
+*
+Declassification Authority: NND 57565

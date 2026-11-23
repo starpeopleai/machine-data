@@ -1,0 +1,86 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T15:16:15Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9288541, "source_ctime_ns": 1793354419118391392, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989207-001-0037.jpg", "source_mtime_ns": 1785564282000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989207-001-0037.jpg", "source_sha256": "bc936845f660fc719f0fb14354e9cb7f96ef4125d9144926e207e35885bf09f6"}
+
+===== PAGE 1 =====
+{"alpha_words": 91, "chars": 742, "method": "ocr", "page": 1, "variant": "plain-vision"}
+25
+DATE
+BRANCH USER
+22.
+23.
+Mar 92 GPEG DMA
+Mar 92 GPEG DMA
+24. 14 Apr 92
+GPIA AFSPACECOM
+25. 15 Apr 92
+26. 22 Apr 92
+28. 12 May 92 GPSS
+GPIA
+NAVY
+GPID
+AEDC
+SMC ,
+ARMY
+ESC
+DATE
+BRANCH USER
+29. 15 May 92 GPAP
+AWS
+30.
+FC
+31. 20 May 92 GPA
+NASP
+32.
+May 92 GPEG
+PL/ SX
+33.
+May 92 GPEG
+PL/ SX
+34. 15 Jun 92 GPIA ESC
+35. 19 Jun 92 GPEG
+SMC
+(Stellar,
+System.
+the-Vertical
+system.
+Mark
+Mark IV-B.
+provides
+model).
+Systems.
+for Use
+radar noise.
+Gravity
+(1.e.,
+PAYOFF TO USER
+navigation
+flight paths.
+data base of
+COBRA DANE.
+Code (SPURC)
+Network (SEON)
+upgrade.
+PAYOFF TO USER
+Provides
+"first-in"
+combat
+weather
+support.
+satellite.
+system.
+III.
+Site
+PE
+61102F
+61102F
+62101F
+62101F
+61102F
+62101F
+61102F
+62101F
+62101F
+62101F
+61102F
+61102F
+62101F
+61102F

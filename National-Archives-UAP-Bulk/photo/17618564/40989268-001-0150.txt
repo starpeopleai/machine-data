@@ -1,0 +1,51 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T15:19:02Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 15386317, "source_ctime_ns": 1793355712662959777, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0150.jpg", "source_mtime_ns": 1785564508000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0150.jpg", "source_sha256": "88ffed5c475c02d84221264001cd510e27644d1d50f1856aa2a786d438d7f0ac"}
+
+===== PAGE 1 =====
+{"alpha_words": 74, "chars": 577, "method": "ocr", "page": 1, "variant": "plain-vision"}
+287
+1680 MC
+MICRO-
+PHONE
+AMPLIFIER
+BLOCKING
+OSCILL ATOR
+3000
+pps
+RF
+TRANS-
+MITTER
+ELECTRONIC CALIBRATION PULSE
+ACOUSTIC CALIBRATION PULSE
+CALIBRATION CIRCUIT
+ALTITUDE SWITCH
+BOARD
+CUTDOWN
+CIRCUIT
+Figure 6. Block Diagram of Instrument
+Vent & Suspension Point
+Container
+Orifice
+Sealing Washer
+Bellows Bracket
+Ball Retainer
+Ball
+Pin & Anvil
+Spring
+Sleeve
+Sleeve Guide
+Bellows
+¡COMPONENTS IN GMD 1
+AM
+DETECTOR
+PULSE
+AMPLIFIER
+LIMITER
+MONOSTABLE
+MULTIVIBRATOR
+CATHODE
+FOLLOWER
+LOW PASS DETECTED
+FILTER
+SIGNAL
+Figure 7. Receiving System - Block Diagram
+Figure 5. Sketch of Ballastor

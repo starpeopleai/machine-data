@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T14:46:01Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 19969216, "source_ctime_ns": 1793360765015721366, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-003-0079.tif", "source_mtime_ns": 1785565125000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-003-0079.tif", "source_sha256": "b48326d1b85ee6e51741eb7f3dcfaf806754d8f2bc08186264e94b6de9d5f0e0"}
+
+===== PAGE 1 =====
+{"alpha_words": 115, "chars": 794, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AF FORM 112-PART II
+APPROVED 1 JUNE 1948
+FROM (ADERCY)
+HQȘ, USAF
+AFCIN- 162
+UN CLASSIFIA
+(CLASSIFICATION)
+AIR INTELLIGENCE INFORMATION REPORT
+REPORT NO.
+1R-8-58
+PAGE
+70
+→ 2 OF
+- 3
+PAGES St
+Rua Profes. Cide Freitaas 191
+Theresopolis
+Porto Alegre, R.G.S.
+Brazil
+Oct 15, 1957
+OSAK
+Washington
+Dear Sirs:
+This is in addition to my letters of September 17, 25 and 30
+I am sending you herevith, for your information, an article from tae
+"Jornal do Dia I Daily Journal of April 13, 1957, entitieds aHas the
+arrival of occupants of flying saucers in Porto Alegre been proved?"
+I am sure that you have taken the necessary steps upon the entry of
+the "Trojan horses" in the Mediterranean.
+Surprises and and will be coming.
+Sincerely.
+your friend
+signed Jose Floriam fo.
+DECLASSIFIED
+Authority NND 9237007

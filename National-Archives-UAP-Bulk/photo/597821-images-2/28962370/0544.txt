@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T14:22:38Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6856057, "source_ctime_ns": 1793376965392582221, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28962370/0544.jpg", "source_mtime_ns": 1785697003000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28962370/0544.jpg", "source_sha256": "78b076b854fba7d4b65e9b47904e0df8e0a8551076ea4783382557245c66a04b"}
+
+===== PAGE 1 =====
+{"alpha_words": 144, "chars": 994, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Nitress
+INFORMATION
+RE158
+EWPE206 YDC184 XYA384 XDE186JBA102JBD@20
+MN RJWPJB RJEDEN RJEDWP RJEPHQ
+DE RJWPJB 1D
+M 1118202
+FM COC 672THA CRON SPEDRO CALIF
+TO RJEPJB/COC 27TH AD DEF NORTON AFB CALIF
+1. Атін
+3. АnтG2
++ P. File
+RJEDEN/COMDR ADC ENT AFB COLO
+RJEDWP/COMDR AIR TECH INT CEN WRIGHT-PATTERSON AFB OHIO
+RJEPHQ/COMDR DIR OF INT HQ USAF WASHINGTON 25
+DC
+ВТ
+/UN C L A S S I F I ED/672TAC C-212 PD IN ACCORD WITH AFR 220-2 PAR
+7D CMA REPT OF UNID FLY OBJ THE FOLG IS SUBM CLN 1. A ROUND B. BASKET
+C. SILVER WITH ORANGE MARKING D. ONE E. N/A F. SWEPT BACK WINGS G. NONE
+H. NONE I. FALLING 2. A. UFOB WAS TURNING
+END OVER END AND FALLING
+B. 845 DEGREES C. 090 DEGREES EAST D. 1/
+WOULD FALL FOR AWHILE THEN
+FLOAT F. TWO MINUTES 3. A. GROUND VISUA. B. BINOCULARS C. N/A 4. A.
+10 2125Z B. DAY 5. A. CHARLIE EASY 247 CHA WAC AREA EASY JIGG PD B.
+ONTARIO CMA CALIF PD 60
+MA ACE FOUR THREE CMA NE
+ONTARIOCMA CALIT CHA HOUSE WIFE B. N/A
+7. A HAZY B. 5 ANGELS 272 AT 5KTS
+10 ANGLS 222 AT 15 KTS CMA 20

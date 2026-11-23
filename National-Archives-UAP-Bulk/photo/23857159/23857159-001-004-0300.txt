@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T15:11:41Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 15228332, "source_ctime_ns": 1793361286792869409, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-004-0300.tif", "source_mtime_ns": 1785565274000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-004-0300.tif", "source_sha256": "8e236eafb74d52bbf444502d7cf6c23a85ca68d0a1e0db1e77e249995c444735"}
+
+===== PAGE 1 =====
+{"alpha_words": 32, "chars": 214, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+png tt a D " = . er. Pre, = Seriya, Se prt v a ) f .
+
+shins ratte bB S62 SS) hls eMC. i ALR Cp 9 SU amb
+
+See
+|
+
+26 DE Junio 1958
+
+1209235
+
+IE ed
+
+DECLASSIFIED
+Authority NND 9237007
+
+OS Bes
+
+nat npn ene
+
+iat a pee

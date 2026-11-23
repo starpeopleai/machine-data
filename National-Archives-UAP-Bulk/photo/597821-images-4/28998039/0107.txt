@@ -1,0 +1,64 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T15:06:12Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8191648, "source_ctime_ns": 1793387023730486501, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28998039/0107.jpg", "source_mtime_ns": 1785748453000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28998039/0107.jpg", "source_sha256": "1cd32a0d5c17d2b8bbed9e0f22c55513933a76a8ffab242ba8a61c2b183ca5ff"}
+
+===== PAGE 1 =====
+{"alpha_words": 92, "chars": 723, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD CARD
+1. DATE
+2 LOCATION
+7 Jul 62
+3. DATE-TIME GROUP
+Local
+GM T.
+5. PHOTOS
+08/03157
+Malden,
+Massachusetts
+L. TYPE OF OBSERVATION
+XO Ground-Visual
+• Air Visual
+• Ground-Radar
+• Air-Intercept Radar
+6. SOURCE
+• Yes
+DANo
+LENGTH OF OBSERVATION
+rpt
+mins
+20 mins
+nor
+10. BRIEF SUMMARY OF SIGHTING
+One
+te obj w/one
+down
+0b
+Civ:
+8. NUMBER OF OBJECTS
+one
+9. COURSE
+ight
+disappeared
+to
+cireu
+1. COMMENTS
+No elev:
+Possi
+Lng •
+positio
+listed
+str
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+•
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other
+ax Insufficient Data for Evaluation
+Unknown
+azimuths given.
+ATIC FORM 329 (REV 26 SEP 52)

@@ -1,0 +1,101 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T14:24:58Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7828748, "source_ctime_ns": 1793363114297720493, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330784594/45484701-004-005-0018.jpg", "source_mtime_ns": 1785684736000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330784594/45484701-004-005-0018.jpg", "source_sha256": "c277c593fc18908a3ac84b7bdf50b116e47025f807a4cfc1b9bd784ad5dd04db"}
+
+===== PAGE 1 =====
+{"alpha_words": 150, "chars": 1218, "method": "ocr", "page": 1, "variant": "plain-vision"}
+YPE OF
+CORRESPONDENCE
+ROI
+Letter
+Letter
+Letter
+Letter
+ROI
+Letter
+ROI
+F040
+FOLO
+F04ął
+FOLO
+*(Name of individual
+SUBJECT
+UFO,
+Vicinity Nowasseur Air
+Depot, French Morocco, 1900 -
+2200 hours, 5 March 54
+UFO *(A3C KEITH BRAKINS)
+UFO, LEONARD R. OGLE, LOWELL
+FLON, WELDON BERGREEN
+Informants
+UFO, Observed in vicinity of
+Bethesda, Maryland on 10 Feb 55
+FLYOBRT
+UFO, GEORGE M. ALLENDER
+Informant
+Flying Saucer, 23 Feb 55 at
+Wilton, Conn., seen by ROBERT C.
+HARDY
+Sighting of UFO at Philadelphia,
+Pa., between 2110 and 2200 hours,
+Eastern Daylight Time, 27 Apr 55
+May
+UFO, 55 at Little Falls, N.J.
+Seen by NELSON KLANER, 15
+OFFICE OF ORIGIN
+(FILE NR.)
+DATED
+North Africa Dist.
+(24-16)
+15 Mar 54
+DO 7(24-0)
+DO 18(24-373)
+DO 4(24-0-359)
+DO 18(24-383)ł
+DO 2(24-420)
+DO 3 (56-1łł
+DO 2(24-421)
+19 Jan 55
+7 Feb 55
+24 Feb 55
+23 Mar 55
+15 Apr 55
+5 May 55
+19 May 55
+reporting information is indicated to more fully identify
+correspondence)
+COPY TO
+DIR OSI
+Yes
+TRANSMITTAL
+OFFICE
+DO 5
+FILE
+NR
+24-21-143
+Yes
+Yes
+DO 5
+DO 5
+24-21-164ł
+24-21-165
+Yes
+Yes
+DO 5
+24-21-167
+Yes
+DO 5
+24-21-168
+Yes
+DO 5
+24-21-170
+Yes
+DO 5
+24-21-173
+Declassification Authority: NND 923007
+DATE
+25 Jun 54
+25 Jan 55
+17 Feb 55
+7 Apr 55
+20 Apr 55
+12 May 55
+24 May 55

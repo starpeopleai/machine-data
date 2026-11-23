@@ -1,0 +1,64 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T14:30:51Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8701239, "source_ctime_ns": 1793387896402029141, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28999393/1317.jpg", "source_mtime_ns": 1785748064000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28999393/1317.jpg", "source_sha256": "045a77c588f66891634664284644eca09c6e6347f46feb3296d87fc56d543822"}
+
+===== PAGE 1 =====
+{"alpha_words": 134, "chars": 1007, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD CARD
+1. DATE
+2. LOCATION
+October 1962
+3. DATE-TIME GROUP
+Local
+GM T.
+02/11527
+5. 'PHOTOS
+28.18N 144.26W (Pacific)
+TYPE OF OBSERVATION
+• Ground- Visual
+AMir Visual
+• Ground-Radar
+• Air-Intercept Radar
+6. SOURCE
+• Yes
+X MO
+7. LENGTH OF OBSERVATION
+Military & Civi
+8. NUMBER OF OBJECTS
+not rptd
+10. BRIEF SUMMARY OF SIGHTING
+one
+CIRVIS report of obj sighted by mili-
+tary air & United Airlines flight.
+Described as a large burning obj
+traci
+ing 064
+dgr.
+Did not appear to be
+Meteor.
+12. CONCLUSIONS
+Was Balloon
+Probably Bailoon
+Possibly Balloon
+•
+Was Aircraft
+Probobly Aircraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other
+*OK Insufficient Dete for Evaluation
+Unknown
+lian air
+9. COURSE
+064 ders
+COMMENTS
+Time 0052 local. There were three
+decays on Ol
+October but none
+listed for 2 Oct. Duration
+not rptd. Possibly a meteor
+sighting; however, rpting
+observer did not feel that it
+was. Insufficient data for
+evaluation.
+ATIC FORM 329 (REV 26 SEP 52)

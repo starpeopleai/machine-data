@@ -1,0 +1,21 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T15:09:05Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8978846, "source_ctime_ns": 1793362461229332105, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330782837/45484701-002-006-0156.jpg", "source_mtime_ns": 1785684703000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330782837/45484701-002-006-0156.jpg", "source_sha256": "3dc95c20b00712ce38a21c914d12926a5ba5a0635a344c5a62bb56ac4bee48e1"}
+
+===== PAGE 1 =====
+{"alpha_words": 74, "chars": 567, "method": "ocr", "page": 1, "variant": "plain-vision"}
+19D 05I 24-24
+UNDEVEIOPED ISADS
+DISTRICE OPFZOE HO. 80, HOOLORD ASB
+AF MEDFORD, OREGON
+W1l1 obtain weather report and teletype sequence
+for 24 May 1948, for vicinity oi cold Beach,
+oregon, at led-
+Ford, Oregon, Airways Communications Stations
+DISPRICE OPFICE NO, 18, FAIRFIED-SUISUN APE
+AT SAN FRANOISCO, CALIVOREIA
+Will make intergleva vith people to evaluste re-
+liability of observers.
+2. Will cheek possibility of Goverment testing de-
+vices being used in this arese
+3, Will obtain signed statements from observerse
+S-70171
+Declassification Authority: NND 923007

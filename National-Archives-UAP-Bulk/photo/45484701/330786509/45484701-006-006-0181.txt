@@ -1,0 +1,53 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T14:57:47Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10595157, "source_ctime_ns": 1793364150814886955, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330786509/45484701-006-006-0181.jpg", "source_mtime_ns": 1785684590000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330786509/45484701-006-006-0181.jpg", "source_sha256": "d614c7ea531bdd9ff413a456b47764a01534eeb23d22f550a23c7e965ea22ab1"}
+
+===== PAGE 1 =====
+{"alpha_words": 166, "chars": 1182, "method": "ocr", "page": 1, "variant": "plain-vision"}
+IDENTIAT
+Wrtn 28 Feb 50
+24-185
+(Unclassified) Communist Material Received from Czechoslovakia by
+DR. LINCOLN LA PAZ - SPECIAL INQUIRY
+Directorate of Air Provost Marshal, IO
+1 MAD 1950
+Office of Special Investigations, IG
+Maj Nold/lse/71776
+APOSI
+1. Attached is report of investigation received from OSI District
+Office No. 17, Kirtland AFB, New Mexico, concerning above Subject.
+Report reflects that Dr. LINCOLN IA PAZ, the recipient of the
+enclosed Communist material from Czechoslovakia, is an advisor in certain
+capacities with Air Materiel Command, USAP.
+Attached report and the inclosures are forwarded for the information
+of your Directorate. Copies have also been forwarded ilq Air Materiel Conmand
+through OSI District Office No. 5 and to the Directorate of Air Intelligence.
+1 Incl
+Bpt of Inv, DOF17
+27 Jan 50, re aby
+subj, w/3 Incle.
+OILBERT R. IEVI
+Actg. Chief, Counter Intelligence Div.
+OST, IO, USAF
+CLASSIFICATION CANCELLED A
+BUTOR OF SPE
+BY AUTHORITY OF T KURT K. KUNZE, Cant, USAF
+BY
+Historian
+4 DEC 1975
+DATE
+UNCLASSIFIED
+OUT
+1950
+MANAGEME
+DIV
+AFCSI
+tom nold
+IRR
+785-
+USAF
+PECTAS IN
+OFFICE OF
+SFIGATIONS
+BAR
+1950/
+AFCSI-FILES
+Declassification Authority: NND 923007

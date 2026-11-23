@@ -1,0 +1,41 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T14:45:07Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 16354056, "source_ctime_ns": 1793361140621330844, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-004-0153.tif", "source_mtime_ns": 1785565243000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-004-0153.tif", "source_sha256": "b564ff135cf56195dda0ec59067cf7abdd874609e793e3458f700a968792cb31"}
+
+===== PAGE 1 =====
+{"alpha_words": 108, "chars": 704, "method": "ocr", "page": 1, "variant": "plain-vision"}
+APPENDIX III
+Form A
+U.S. AIR FORCE TECH
+This questionnaire fas
+JICAL INFORMATION SNEET
+: yo can give the U.S. A
+Gas, If 08
+I. When did
+2057
+3. Time zone
+2. Time of day:.
+(Circle One): A.M. or P.M.
+(Circle One): B. Salice Saring -
+mand
+4. Where
+Additional r
+you saw the objecti
+Cy o
+5. Estimace Bowi
+u saw the oilse Houre Minutes
+Seconds
+wer to
+• SI Criese of the following to Indicate bove er
+2. Fairly cortal
+6. What was the coadition of the sky f
+(Cre On: B. Britaines
+trace of dayligi
+ce of dayligh
+Brishe twilighe
+& Don'e remember
+saw the ebject durig DAYLIGHT, TWIGHT, or DAWN, where wa d
+• SUN located as you to sked as the object
+o your rigi
+i Dead rame ear
+245
+DECLASSIFIED
+Authority NND 9237007

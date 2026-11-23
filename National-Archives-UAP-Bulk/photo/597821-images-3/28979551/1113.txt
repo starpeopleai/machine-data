@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T14:32:58Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9340753, "source_ctime_ns": 1793381190604085804, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28979551/1113.jpg", "source_mtime_ns": 1785701108000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28979551/1113.jpg", "source_sha256": "863c9cd77c0f1fabfc6c000b8bf4e0e76532c59c6b2e32d1159b965e858b4d41"}
+
+===== PAGE 1 =====
+{"alpha_words": 135, "chars": 904, "method": "ocr", "page": 1, "variant": "plain-vision"}
+S: H
+21 AUGUST
+17 September 1958
+Dear Mr.
+Your letter of 23 August 1958 concerning an unidentified fly-
+ing object vas referred to the Air Technical Intelligence Center
+for analysis and/or evaluation.
+As you knov, a thorough check of the circumstances surrounding
+this sighting vas made by qualified investigators.
+The evaluation revealed that several Air Force planes vere in
+the area that night and one aircraft was in the exact position and
+heading reported by you. These planes had completed training
+mission and vere preparing to descend and land.
+Also it 1s
+common practice prior to landing to check wing lights and landing
+lights or to flash lights when other aircraft are in the area.
+Evidentially this is the solution to your sighting on that
+particular night.
+Sincerely,
+LAWRENCE J. TACKER
+MaJor, USAF
+Executive Officer
+Public Information Division
+Office of Information Services
+28036 18 TO 21

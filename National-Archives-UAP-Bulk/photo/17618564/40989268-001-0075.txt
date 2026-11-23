@@ -1,0 +1,70 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T15:00:25Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 16613158, "source_ctime_ns": 1793355636804842190, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0075.jpg", "source_mtime_ns": 1785564493000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0075.jpg", "source_sha256": "0ffe1909bcd1ae7022c34bb852e8ab909a2eb4dca8a679f34199582ecbbdf50c"}
+
+===== PAGE 1 =====
+{"alpha_words": 685, "chars": 4414, "method": "ocr", "page": 1, "variant": "plain-vision"}
+136
+balloon test bed provided the user with a tower having no structual impediments
+or with a hovering helicopter without vibration and atmospheric turbulence.
+These Surveyor tests generated some rather special meteorological require-
+ments. Approximately seven hours prior to drop, a layout direction for the drop
+must be provided, so that the winch-equipped venicies can pe positioned.
+This
+airection is based on the wind flow at the tethering altitude at sunrise. A balloon-
+layout direction must also be provided for the initial balloon release.
+The seven-hour forecast for the sunrise direction is particularly tricky,
+because the winds are generally shifting from a nighttime to a daytime flow.
+The surface-temperature inversion must also be carerully monitored,
+because a strong inversion will reduce the effective free lift of the balloon. Wind
+shear just above the inversion may sometimes generate an especially prohibitive
+barrier.
+• Pibals are released at the launch site every 30 minutes, in order to
+facilitate forecasting of these parameters.
+The Balloon R & D Test Branch located at Holloman AFB, New Mexico,
+currently employs a rather unique method for providing a stable and accurately-
+positioned platform for pre-flight and soft landing tests of the NASA Lunar Sur-
+veyor venicie.
+In order to achieve the aforementioned stable platform and to allow the
+Surveyor vehicle to be dropped free of any possible entanglement with tethering
+lines and to impact within 50 feet of ground zero, three winch-equipped trucks
+are employed. The tether lines form a triangle and are secured to the bottom end
+fitting of a balloon. The Surveyor vehicle is suspended beneath an open parachute
+that is also tied to the same bottom end fitting.
+After the Surveyor vehicle pre-flight testing has been completed, the balloon
+with its payload is ready for release and reel-up. Following inflation and release
+from the roller arms, the balloon is restrained through the use of an explosive-
+type release device at the end of a crane boom. When the release is fired, the
+balloon rises to about one hundred feet and is then restrained by the three tether
+lines. At this time, the winch operators are given the command to begin reel-up.
+As the balloon is being reeled-up, the problem is to contain the balloon
+vertically over ground zero; this is accomplished through a simple but precise
+positioning system. Two 20-power telescopes are gimbal-mounted, with one being
+located on a base line which goes through ground zero and the other on a line
+perpendicular to it. Electrical resolvers are mounted on the telescope axis. The
+telescopes are boresighted to ground zero for reference on both resolvers. The
+resolver output is fed into an analog computer that in turn drives the X Y pens of
+a plotting board. The X data are also presented on two 4-inch, zero-centered
+meters which are calibrated in ten-foot increments.
+137
+One meter represents East- West deviation from ground zero while the other
+meter represents North-South deviation from ground zero. The Y data are pre-
+sented on a third meter which also reads altitude in increments of 10 feet.
+Using this means of determining the X Y position of the test vehicle, the only
+other problem remaining is that of conveying the information to the winch opera-
+tors.
+Each winch truck is equipped with a VHF FM radio-telephone set.
+'The
+Field Test Director observes the X Y meters and the plotting board and then
+directs the reeling operation.
+With experienced crews operating the winches, it has been found that about
+twenty minutes are required to position the balloon at 1200 feet over ground zero.
+With the balloon finally positioned the operation is then turned over to the
+Surveyor Test Director or Project Manager.
+After the vehicle has been dropped and the area cleared, the balloon is
+lowered for a repeat performance. At this time, the up-wind winch truck is
+driven toward ground zero until its tether line is slack enough to be placed in a
+sheave anchored in concrete at ground zero. After the truck is slowly backed to
+its original position, the reel-down continues until the balloon and its train can
+again be secured to the crane boom.
+In summary, the balloon tether phase of Project Surveyor has proved to be
+relatively straightforward. This is but one specific requirement which was
+attacked through the use of a balloon envelope as a low altitude platform.

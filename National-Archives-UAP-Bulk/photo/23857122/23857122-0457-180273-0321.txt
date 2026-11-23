@@ -1,0 +1,18 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T14:46:14Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 20295248, "source_ctime_ns": 1793356699564498955, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0321.tif", "source_mtime_ns": 1785564743000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0321.tif", "source_sha256": "7ce763bb3552cb9070a2ad61f6f223502803dcbdfbf5bc631b21801321f865a9"}
+
+===== PAGE 1 =====
+{"alpha_words": 122, "chars": 774, "method": "ocr", "page": 1, "variant": "plain-vision"}
+TRICTED
+Inöident #192 -- near Moorhead, Minnesota -- 24 October 1948
+Despite the observer's statement that the object seen
+could not have been a meteor, the possibility is not ruled out.
+Early evening is the most propitious time for the observation of.
+slow, bri ht neteors. This is the time of day when a meteor in-
+bound. to the sun and caught by the earth's gravitational field
+would appear to travel from east to west, and could appear to rise
+slightly. Host people identify meteors with sharp, fast flashes
+of light, which are not at all characteristic of slow fireballs.
+The observed turn is difficult but not impossible to explain;
+this investigator would prefer, however, to think that it was an
+illusion caused by perspective.
+Declassification Authority: NND 57565

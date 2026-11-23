@@ -1,0 +1,34 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T14:33:28Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9401221, "source_ctime_ns": 1793364850058840467, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787808/45484701-007-005-0090.jpg", "source_mtime_ns": 1785685207000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787808/45484701-007-005-0090.jpg", "source_sha256": "5424bb4c12b6cfe8a099e9e9fddcb33d43b04ea38cd4c8410e4168f446ad69d3"}
+
+===== PAGE 1 =====
+{"alpha_words": 26, "chars": 345, "method": "ocr", "page": 1, "variant": "plain-vision"}
+МОТАНТЕЗИ
+HOITADITSOVH
+АТО ОРТІКИ СЛЕТЛАОСАВИ
+COWT
+AS0340 30 301930
+3.0
+R013.
+Т80938
+00193
+MIPIRO R0 301990
+RUTATE
+FASTOARA
+CEFI22A
+JSnU
+ОДО ПОТТАЗІВТЕВАО
+УТІЛОПТИА УЕ
+RAU J03 ,33Н A TRUN
+eshotaie
+ЧАТЕ 3Л17
+TORT DORANPON ·903 WOTTOA
+MOITUВІRTа:
+SECURITY
+DIV.
+OÛT
+27 OCT 1949
+MANAGEMENT
+ON-
+OSI
+B40I YJUG E
+Declassification Authority: NND 923007

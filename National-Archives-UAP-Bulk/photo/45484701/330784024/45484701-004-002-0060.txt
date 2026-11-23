@@ -1,0 +1,74 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T14:23:31Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7281895, "source_ctime_ns": 1793362905802081191, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330784024/45484701-004-002-0060.jpg", "source_mtime_ns": 1785685041000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330784024/45484701-004-002-0060.jpg", "source_sha256": "10327045294d2fec6c809905c2b0de4c35f23e0f7647c7cb20e91201d5632d08"}
+
+===== PAGE 1 =====
+{"alpha_words": 183, "chars": 1348, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UNITED STATES AIR FORCE
+THE INSPECTOR GENERAL
+OFFICE OF SPECIAL INVESTIGATIONS
+REPORT OF INVESTIGATION
+TITLE
+(Unclassified)
+UNKNOWN SUBJECTS)
+Unidentified Flying Object Sighted at
+Greenwood Lake, New York, on
+14 July 1956
+CHARACTER
+SPECIAL INQUIRY
+REFERENCE
+INITIAL REPORT
+SYNOPSIS
+FILE NO.
+24-515
+DJUL 23 195G
+mih
+REPORT MADE BY
+ROBERT S. HERMANN, S/A
+REPORT MADE AT
+DO #2, 111 East 16th St., New York 3,N.Y.
+PERIOD
+18 July 1956
+OFFICE OF ORIGIN
+DO #2, 111 East 16th St., New York 3,N.Y.
+CLOSED
+Investigation predicated upon receipt of a telephone call
+from RAYMOND HITE, civilian, that he had sighted an un-
+identified flying object both in the afternoon and in the
+evening of 14 July 1956 at Greenwood Lake, New York.
+Such details which WHITE could remember, based upon his
+observation and description of what he had observed, were
+obtained.
+HOR
+CLASSIFICATION CANCELLED
+BY AUTHORITY OF THE DIR
+BY
+KURT K. KUNZE, Capt, USAF
+Historian
+| 4 DEBE C. 1975
+DATE
+DISTRIBUTION
+Dir OSI
+DO #5
+2
+(ALIC, Wright-Patterson
+AFB,
+Ohio, ATIN:
+ATIAA-2C-Info-1)
+COMDR, EADF
+(Info)
+1
+File
+2
+ACTION COPY FORWARDED TO
+FILE STAMP
+APPROVED
+AFHQ FORM
+15 JAN 49
+UNCLASSIFIED
+ROBERT S. JONES
+Lt Colonel, USAF
+District Commander.
+0-208
+Replaces A FCSI Form 4, 23 Jul 48, which may be used.
+16-57744-1
+U. S. GOVERNMENT PRINTING OFFICE
+Declassification Authority: NND 923007

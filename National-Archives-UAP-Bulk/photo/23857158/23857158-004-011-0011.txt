@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T15:11:26Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 14958036, "source_ctime_ns": 1793358644437590600, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-011-0011.tif", "source_mtime_ns": 1785681158000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-011-0011.tif", "source_sha256": "79c7efb1ae5a1a84c25228bed72571f67a9f5fa0b5d6adf49b1316b04dcf361d"}
+
+===== PAGE 1 =====
+{"alpha_words": 133, "chars": 944, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+UNCLASSIFIBD
+(SECURITY INFORMATION when filled in)
+SUPPLEMENT TO AF FORM 112-
+REPORT NO.
+D1-UFOB-2-55
+IGINATING AGENCY
+Det 1, 4502d AISS
+PART ONE
+PAGE
+5
+OF 11
+Inclosure 1 to Part One
+Skatch of Courge of Objects, dramn by Investigator as described
+by SOURCES.
+PAGES
+SE
+ParL
+Obje .t
+T
+Object
+Vasa
+here
+disappeara
+here
+Montain Range
+WARNING: This document contains information affecting the national defense of the United States within the meaning of the
+Espionage Laws, Title 18; U.S. C., Sections 793 and 794. Its transmission or the revelation of its contents in any manner to an
+unauthorized person is prohibited by law. It may not be reproduced in whole or in part, by other than United States Air Force
+Agencies, except by permission of the Director of Intelligence, USAF.
+F1 OCT 52 112a REPLACES AF FORM 112-PART 11, 1 JUN 4
+CLASSIFICATION
+UNCLASSIFIED
+(SECURITY INFORMATION when filled in)
+16-68170-1

@@ -1,0 +1,476 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T15:10:40Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 13355419, "source_ctime_ns": 1793362246500340641, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330782241/45484701-002-003-0312.jpg", "source_mtime_ns": 1785684732000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330782241/45484701-002-003-0312.jpg", "source_sha256": "c24f28c0984da9bef1f8b492f3d6830eea9cfee92eb416868d595381e7459d53"}
+
+===== PAGE 1 =====
+{"alpha_words": 134, "chars": 3440, "method": "ocr", "page": 1, "variant": "plain-vision"}
+ẠStarting Bate and Time
+Year
+Month
+ER SERVICE
+14717
+Day
+Time
+U. S. ARMY WEA
+WBAN-20
+WINDS ALOFT COMPUTATION SHEET
+(LAND STATION FORM)
+OAC Beu y C stion
+Ascension No._
+Method of observation_.
+155 AFB NOM EN4
+730
+(Station)
+750 (aido) 5 in
+• (Longitude)
+Elevation of observation point above MSL 77 (feet) 4
+Minute
+Elayation
+Horizontal
+angle
+Slant
+AWI
+(yards)
+12
+164.0
+13 622
+·44.0
+14 6/:2
+124.0
+15 57/
+16 5 %
+127..
+2
+1720.2
+V0l018
+18 +/5,9
+100.9
+19 4/3.4 2%.0
+20
+1/0.2
+94,2
+2138,2 [2, ł
+22
+8 7
+23
+33,0
+24 30,5-
+43
+182:2
+25 -2818
+18 0,5
+26
+27
+21.3
+28
+29
+2/,3
+30
+20.4
+31
+18.5
+32
+33
+7.8
+9. 1
+69.7
+34
+35
+36
+37
+38
+39
+40
+45
+Observer_C
+Amount
+Clouds
+Type
+49
+Direction
+High
+Middle
+Low
+Distance
+Altitude
+from
+observa
+100
+30
+tion point
+gram
+Wind
+(yards)
+balloon
+Other
+velocity
+Minute
+(feet)
+(TeeT)
+m. p. h.
+SURFACE WIND at time of release
+350
+90
+04
+40
+720
+250
+1, 170
+04
+46
+2, 310
+1, 380
+700
+70
+07
+525
+47
+3, 450ł
+2, 040
+/050
+70
+725
+08
+4, 560
+2, 670
+400
+70
+48
+250
+12
+49
+5, 670
+3, 30îźš
+750
+2/00
+60
+6, 750
+3, 900
+13
+14600
+50
+40
+78 0
+7, 830
+4, 500
+10
+51
+2500
+900
+10
+52
+8, 910
+5, 100
+2800
+20
+10
+53
+18/0
+9, 960
+5, 700
+3200
+3550
+340
+10
+1880
+11, 010
+6, 300ł
+54
+320
+14/0
+12, 030
+6, 900
+19
+55
+2 900
+-280
+26
+56
+1560
+13, 020
+7, 500
+4300
+-270
+2/00
+26
+14, 010
+8, 100
+4150
+28 0
+57
+2880
+34
+58
+15, 000
+8, 700
+5000
+270
+35
+59
+3720
+15, 960
+9, 300
+5400
+418.0
+5150
+270
+26
+16, 920
+270
+60
+26
+15020
+9, 900
+17, 880
+10, 50ął
+(0 140
+240
+61
+16310
+18, 840
+11, 100
+0500
+260
+40
+62
+45
+63
+2460
+19, 800
+11, 700ł
+400
+260
+42
+8420
+64
+20, 760ł
+12, 300
+7250
+42
+9800
+21, 720
+12, 900ł
+260
+1650
+260
+52
+65
+11450
+22, 68ł
+13, 500
+8000ł
+23, 640ł
+250
+66
+6.0
+67
+2900
+14, 100
+5700
+240
+63
+68
+14950ł
+24, 600
+14, 700
+8750
+250
+45
+16600
+25, 56ł
+15, 30ąźł
+9/50
+250
+68
+69
+70
+8900
+26, 520
+15, 900
+4500
+260
+63
+71
+22000
+27, 480
+16, 500
+700 250
+79
+72
+123500
+28, 44ł
+17, 100ł
+300 250
+127.000
+29, 400
+17, 700
+600
+260
+99
+73
+30200
+30, 360
+115
+74
+18, 300
+11050
+250
+110
+75
+3 9(0 0 31,320
+18, 900
+37000
+32, 280
+11450 25łął
+115
+76
+19, 500
+33, 24îŚ
+20, 100
+11900250 /17ł
+77
+78
+34, 200
+20, 700
+79
+35, 16îšŚÍ
+21, 300
+36, 12ł
+80
+21, 900
+37, 110
+22, 50ł
+81
+82
+38, 100
+23, 10ł
+39, 060
+23, 70ł
+40, 050
+24, 300ł
+41, 040
+24, 900łł
+42, 03îŚł
+25, 500ł
+42, 990
+26, 10ł
+43, 980ł
+26, 70łął
+44, 970
+27, 300
+90
+Recorder C/E
+Termination due to.
+Weight of balloon/099
+-grams
+Weight of lantern_/25 0_ grams
+Ascensional rate
+1086
+Wei trasmater /e
+- grams
+Free lift ..... (4 0 O grams
+or transmitter Zo 9//
+Type of ground
+RAWIN Total weight/00 grams
+5C3658
+45, 930
+27, 900
+46, 920
+28, 500
+47, 910
+29, 100
+48, 870
+29, 700
+49, 860
+30, 300
+50, 850
+30, 900
+51, 840
+31, 500
+52, 800
+32, 100
+53, 790
+32, 700
+54, 780
+33, 300šźš
+55, 74ął
+33, 900
+56, 730
+34, 500
+57, 720
+35, 10ął
+58, 680
+35, 700
+59, 670
+36, 300
+60, 660
+36, 900ł
+61, 620
+37, 500
+62, 610
+38, 100
+63, 60łął
+38, 700
+64, 59ął
+39, 300
+65, 550
+39, 900ł
+66, 540
+40, 500
+67, 530
+41, 100
+68, 49łąźł
+41, 700
+69, 480
+42, 30îšŚ
+70, 47łął
+42, 90ął
+71, 430
+43, 500
+72, 42ął
+44, 100
+73, 410ł
+44, 700
+74,400
+45, 30ął
+75, 36ął
+45, 90ął
+76, 350
+46, 500
+77, 340
+47, 100
+78, 30ął
+47, 700
+79, 290
+48, 300ł
+80, 28ąźł
+48, 900
+81, 240
+49, 50ął
+82, 23ł
+50, 100
+83, 220
+50, 700
+84, 210
+51, 300źł
+85, 170
+51, 900
+86, 160
+52, 500
+87, 150
+53, 100
+88, 110
+53, 700
+89, 100 | 54, 300
+EADINC
+SI.G NA1
+NOTES_
+BAWIN
+TRANS
+ModutatortE
+35 0ął
+12 28
+57/º20 40 826 3606 77 825
+18/20 52
+H= Standard level indicator
+dd= Direction in tens of degrees
+vv= Velocity in miles per hour (knots).
+Declassification Authority: NND 923007

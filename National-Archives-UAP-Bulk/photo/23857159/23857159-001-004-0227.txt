@@ -1,0 +1,59 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T14:55:44Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 22231700, "source_ctime_ns": 1793361221032062802, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-004-0227.tif", "source_mtime_ns": 1785565262000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-004-0227.tif", "source_sha256": "458f6e03559fbdcd142bd420892d2bef56588b37116588375aff13ed18e30fc9"}
+
+===== PAGE 1 =====
+{"alpha_words": 52, "chars": 486, "method": "ocr", "page": 1, "variant": "plain-vision"}
+RADIO CALLS
+TACTICAL
+VOICE
+7172505
+COLLECTIVE
+SPECIAL
+TIME
+0928
+TO/FROM-
+72545
+CURTES
+4134
+0157)
+to l2g
+23,2
+DATE
+В1В:
+TAXI
+RADIO LOG
+COUP DR
+OVER FIELD
+1/12
+LAND
+AIRBORNE
+010:
+MISSION OR NET
+FREQ
+132.51
+EQUIP DAT
+Pass a of page
+LIENT DO
+SQUADRON
+127=7
+A/C NUMBER OF LOCATION
+PILOT OR OIC
+CAPT FAUROT
+OPERATOR
+VERIS
+MESSAGE/REMARKS
+•STC O1 211
+21432
+1043
+WAKE
+92505 / 3
+326 093 32 1211E 01.
+602 P.
+откг шн
+2290 00
+2 WAKE IS
+2100
+92505
+1180923 10
+$ 35
+DECLASSIFIED
+Authority NND 9237007

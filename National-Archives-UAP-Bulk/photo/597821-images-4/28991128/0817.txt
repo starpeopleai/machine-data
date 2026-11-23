@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T15:04:25Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7487068, "source_ctime_ns": 1793384812485451759, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28991128/0817.jpg", "source_mtime_ns": 1785748435000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28991128/0817.jpg", "source_sha256": "1ec3db6794581a70d88cb512bdaa1a14a2d169acd20fa2e52c3d0004c7b1bdab"}
+
+===== PAGE 1 =====
+{"alpha_words": 110, "chars": 766, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE DIVISION
+UNCLASSIFIED MESSAGE
+INCOMING
+AF IN : 53029 (21 Jan 61) D/swc
+ACTION: CIN-14
+INFO: ARMY-30, NAVY-90, CMC-6, JCS-20, OSD-15, NSA-7, CIA-11, 90P-2
+O@P-CP-1, SAFS-3
+(208)
+SMD C 115
+CZCHQD424ZCBJA105
+••••• YY RJEZHQ
+DE RBEGMH 009
+ZNR
+YY 2107Ø2Z
+FM CCGDONE
+TO RJWFALB/CINCNORAD
+RJEZHQ/COFS USAF
+RBEKHC/ COMASDEFORLANT
+RBEGUH/ COMEAST SEAFRON
+RCE HC / CAN FLAGLANT
+RFEMVB/CANAIRDEF
+RJEZSN/26TH NORAD
+RBEPJD/ COMDT COGARD
+RBEGUF / COMEAST AREA
+ERGE
+UNCLAS,
+CIRVIS.
+FOLLOWING REPORTED FROM NANTUCKET ISLAND BRANT POINT COAST GUARD
+LIFE BOAT STATION. OFFICER IN CHARGE AND MAN ON WATCH SAW UFO
+AI 20230ØR OBJECT MOVED FROM NORTH TO NORTHEAST. WHEN FIRST SEEN
+SHOWED RED AND WHITE FLASHING LIGHT THEN CHANGED TO STEADY WHITE

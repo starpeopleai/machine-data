@@ -1,0 +1,52 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T15:06:42Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8376291, "source_ctime_ns": 1793385948286196766, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28994469/0872.jpg", "source_mtime_ns": 1785748027000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28994469/0872.jpg", "source_sha256": "7f19a15485b0242c8b260383a7586b673180d9bcc5640c445aab35abc95f4fab"}
+
+===== PAGE 1 =====
+{"alpha_words": 91, "chars": 728, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+7 Sep 61
+3. DATE-TIME GROUP
+Local
+GMT.
+0801372
+5.
+PHOTOS
+• Yos
+¿KNO
+7. LENGTH OF OBSERVATION
+10.
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Cape Canaveral, Florida
+4. TYPE OF OBSERVATION
+• Ground-Visual
+• Air Visual
+6.
+SOURCE
+Military
+8. NUMBER OF OBJECTS
+CONCLUSIONS
+Vas Balloon
+Probably Balloo
+Possibly Balloon
+4 sec
+BRIEF SUMMARY OF SIGHTING Objt moving vertically
+in tracking scope. During missile launch.
+XI Ground-Reder
+• Air-Intercept Radar
+Was Aireraft
+Probably Aircrat
+•
+Possibly Aircraf
+Web at Atone (S (P)
+Probably Astronom
+Possibly Astronomica
+9. COURSE
+Other
+Insufficient Data for Evaluation
+•
+Unknown
+Vertically
+11. COMMENTS Image
+in scope was determined
+to be star Gamma Piscium.
+ATIC FORM 329 (REV 26 SEP 52)

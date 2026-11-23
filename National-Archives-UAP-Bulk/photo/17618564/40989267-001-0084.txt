@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T15:18:40Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 14275573, "source_ctime_ns": 1793355501544379116, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0084.jpg", "source_mtime_ns": 1785564466000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0084.jpg", "source_sha256": "f1d811e3def915adf82eb7da54ff5d654248395617c17d336db1f34a9d890eda"}
+
+===== PAGE 1 =====
+{"alpha_words": 239, "chars": 1500, "method": "ocr", "page": 1, "variant": "plain-vision"}
+159
+It is paradoxical that in the national space effort the emphasis --- billions of
+dollars worth of emphasis --- is being placed on the goal of man in space, as
+distinct from emphasis on having instruments in space, yet in balloon astronomy
+there is great difficulty in finding support for sending even one competent astron-
+omer aloft (as the fate of Project Stargazer eloquently attests) even though the
+arguments for the former are trenchantly germane to the latter.
+Indeed, the arguments for man in space can so logically and with such great
+force, be applied to man in local "balloon space" that one might defend the thesis
+that the cart is very much before the horse. That is, for experiments and
+observations in "near-space", which is just a stone's throw from the surface of
+the earth, man is the logical experimenter and observer. In astronautical space,
+it might be argued, in a territory that has many more unknowns than does balloon
+space, and where the hazards are more long-range and generally greater, instru-
+ments could well precede man in the natural course of evolution, as fishes and
+reptiles preceded man on earth.
+Before these arguments are examined, it should be stressed that we are not
+dealing with an "either-or' situation. The case for manned balloon astronomy does
+not imply the case against instrumented balloon astronomy. It is a cuestion of
+complementarity and of emphasis, not of mutual exclusiveness.
+(Author's manuscript received for publication 31 December 1963)

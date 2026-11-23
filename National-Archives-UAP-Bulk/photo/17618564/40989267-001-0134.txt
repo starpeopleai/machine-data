@@ -1,0 +1,73 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T14:36:24Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 14333428, "source_ctime_ns": 1793355549139865937, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0134.jpg", "source_mtime_ns": 1785564475000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0134.jpg", "source_sha256": "d866dd4a2c1821e774db2810c44100d9df4b99320069e98922c2687dff31800c"}
+
+===== PAGE 1 =====
+{"alpha_words": 160, "chars": 1115, "method": "ocr", "page": 1, "variant": "plain-vision"}
+TABLE 3. Rate of climb transducer
+RANGE OUTPUT
+THERMISTOR
+30 K FT
+TYPE
+AN EROID
+70 K FT
+TYPE
+STRETCHED
+DIAPHRAGM
+TYPE
+AN EROID
+FORCE
+BALANCE
+100 K FT
+60 K FT
+VOLTAGE
+SYNCHRO
+MOTOR
+SHAFT
+POSITION
+VOLTAGE
+SER VO
+SYSTEM
+SHAFT
+POSITION
+TRANSFER
+FUNCTION
+LINEAR
+LINEAR
+ACCURACY
+30 - 50%
+5 - 10%
+SEA LEVEL
+10 SEC
+5 SEC
+TIME CONSTANT
+30 K FT
+30 SEC
+60 K FT
+15 SEC
+60 SEC
+90 K FT
+LINEAR
+LINEAR
+5 - 15%
+.1 SEC
+.33 SEC
+1.4 SEC
+6 SEC
+10%
+.1 SEC
+.33 SEC
+1.4 SEC
+this problem can be solved using thermoelectric cooling devices or other techniques
+50 km altitudes the ambient temperature may rise to 20°C or higher. However,
+the ambient temperature may be low enough for this purpose, but in summertime, at
+supply of liquid replenished during the desired period of operation. In wintertime
+enough cooling available to guarantee condensation of the vapor in order to keep the
+higher than the balloon will ever reach! In practice, however, there must always be
+The theoretical upper altitude limit for the use of the hypsometer is surely much
+BUTYLBENZENE
+CONTROL
+THERMISTORS
+VACUUM=
+Figure 2. Hypsome
+HEATER
+SENSING
+• THERMISTORS

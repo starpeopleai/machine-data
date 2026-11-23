@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T15:18:23Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 13813416, "source_ctime_ns": 1793366206828703549, "source_file": "National-Archives-UAP-Bulk/photo/542184/341-PBB-538-0043.jpg", "source_mtime_ns": 1785565498000000000, "source_rel": "National-Archives-UAP-Bulk/photo/542184/341-PBB-538-0043.jpg", "source_sha256": "3a123e27b25a7d62e876491f0b77448a8aa747ced5707d4a49c2d3488dbc5b71"}
+
+===== PAGE 1 =====
+{"alpha_words": 24, "chars": 202, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+i
+ie = ~ ‘
+3 4
+’
+ne &
+Li ionsinemmemenmmenemnl
+4 "
++ LJ
+"yh t
+i
+ui .
+ieee a
++ ee x
+oy :
+A
+: _
+s i cate — - oy in
++ ae
+- —~ + -
+~ t a aa
+; =
+an
+2 q
+- we \
+Z al,
+tia
+\
+\
+=~
+— ny ¥
+ese
+one eee
+‘ x 4
+Re —

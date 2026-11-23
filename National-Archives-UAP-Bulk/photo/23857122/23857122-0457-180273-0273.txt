@@ -1,0 +1,13 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T15:00:38Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 17878888, "source_ctime_ns": 1793356653449719442, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0273.tif", "source_mtime_ns": 1785564736000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0273.tif", "source_sha256": "3fc723af2d0a1ed2fed478ebd67955d1153fb9912de3df21ab4939c568333789"}
+
+===== PAGE 1 =====
+{"alpha_words": 41, "chars": 310, "method": "ocr", "page": 1, "variant": "plain-vision"}
+RESTRIC
+D
+Incident #145 -- Fielding Lake -- 9 July 1948
+The lack of any exhaust trail and/luminosity elimtnates
+an astronomical explanation for the objects reported nere.
+It seehs more probable that they were distant aircraft
+flying in fornation, or migrating birds.
+REST
+Declassification Authority: NND 57565

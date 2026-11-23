@@ -1,0 +1,49 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T15:11:50Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 17600440, "source_ctime_ns": 1793356497970469155, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0106.tif", "source_mtime_ns": 1785564713000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0106.tif", "source_sha256": "09ebdbdbed9b472913f8e9fc2930219e03a408b843037e75ebaf4046a95d52f9"}
+
+===== PAGE 1 =====
+{"alpha_words": 343, "chars": 2289, "method": "ocr", "page": 1, "variant": "plain-vision"}
+No. l6l: This obviously inaccurate report says in effect that
+the object was seen about 30 minutes after pilot balloon sounding and
+rawinsonde release time. From the known releast points, wind direction
+and speed at the level mentioned, this object or objects could not
+possibly have been a weather balloon.
+No. 16: No balloons released within 120 miles of this position,
+but if wind were from west it could have been a leaking balloon from
+Norfolk or Hatteras which was not rising as it should. However, the
+date of incident cannot be read from the questionnaire, hence no definite
+conclusion can be drawn.
+No. 183: Purely a radar report. If this report is accurate, couldn't
+possibly be a balloon.
+No. 184 - 185: Very controversial accounts of speed (0 - 3 tines that
+of a Jet); description sounds like burning pilot balloon sounding with
+lantern.
+dowever, nearest release was two hours earlier at St. Cloud.
+Could have been this pilot balloon sounding assuming a leaky balloon to
+keep it at a low altitude. Not at all probable, but possibly a balloon.
+No. 186: Object reported moving directly into headwind of 20K. Only
+possible weather balloon would have been moving SE from Salt Lake City.
+If speed is any criterion, this was dofinitely not a balloon.
+No. 187: A heavenly body. Venus.
+No. 188:
+lo actual sighting; a radar report, if accurate, definitely
+no weather balloon.
+No. 189:
+Rawinsondes released at Montgomery and Atlanta 1 1/2 hours
+earlier and would have been blown into sighted area by upper winds.
+Only
+a faulty balloon, however, could have descended to that low altitude.
+From description, balloon
+is most unlikely.
+No. 190: Every indication seems to poirt to this object being a
+rawinsonde balloon. Rawinsonde scheduled to be released from Munich
+approximately one hour previous to sighting. Very light winds in Munich
+area.
+Definitely a balloon.
+No. 191: Only balloon released in wind pattern that would carry it
+over Junction City was released at Dodge City approxinately one hour
+before sighting time.
+If reported direction and speed of object were at
+all accurate, balloon not possible.
+No. 192: Balloons released from St. Clord and Duluth just prior to
+sighting. Tird perfect for carrying balloon it into observer's path. Wind
+Declassification Authority: NND 57565

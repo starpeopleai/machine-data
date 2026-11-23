@@ -1,0 +1,19 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T15:05:24Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7906214, "source_ctime_ns": 1793377385642494122, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28963358/1461.jpg", "source_mtime_ns": 1785696893000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28963358/1461.jpg", "source_sha256": "46f9726213376cbe369c958b63be50ba5a2010c64a7198562b7b4b37f163c597"}
+
+===== PAGE 1 =====
+{"alpha_words": 129, "chars": 834, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Peport on Hopkinsville Finisned,
+Must Still be Printed: The long-awaited "Hop-
+cinsville landing report,'
+by CSI members Isabel Davis and Arthur Ledwith,
+nas now been completed in preliminary typescript form, under the title of
+The Landing at Kelly. - August 21-22, 1955. This landing case - which the
+authors consider genuine - is one of the most protracted and most extra-
+ordinary on record. The authors have investigated it very thoroughly and
+they present their results in detail, including mans, diagrams, photographs,
+and sketches of the "little men" as described to Mr. Ledwith by the eye-
+witnesses the day after the incident occurred.
+The report,
+80 pages long as it now stands, will be made available
+to members after final revisions have been made, a fair copy has been typed,
+and a photo-offset edition has been printed.

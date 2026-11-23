@@ -1,0 +1,47 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T14:30:56Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8704195, "source_ctime_ns": 1793354414852414546, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989207-001-0030.jpg", "source_mtime_ns": 1785564281000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989207-001-0030.jpg", "source_sha256": "79cfb53ffe142a0bec950b03eb26c7e35a8df5d4b3cdd07bd07a468ae6e356f1"}
+
+===== PAGE 1 =====
+{"alpha_words": 391, "chars": 2782, "method": "ocr", "page": 1, "variant": "plain-vision"}
+particularly in the area of weather prediction techniques, could not be of the
+form needed or sufficiently validated (because of its 6.2 nature) to make a
+transition. PE 63707F is now providing that bridging mechanism. Initially, the
+PE 63707F Program Management Directive (PMD) accommodated only the transition
+of a few specific and narrowly defined technologies. In 1986, a new PMD entitled
+Environmental Technology Transition was astablished. This PE 63707F PMD provides
+the mechanism to transition essentially any 6.2 geophysics technology required
+by AWS.
+4. PL/GP FY92 T2 STATISTICS
+There were seventy-six geophysics technology transition events produced
+by PL/GP in FY92. The wellspring program elements (as defined in Section 1) for
+most of these transitions were PEs 61102F, 62101F, 63410F, and 63707F. These
+events are listed in Appendix A and include:
+• Technology of various types, e.g., specification/information, models,
+software, and hardware;
+- Various users from Air Force operational commands to AFMC and other
+- Contributions in many mission areas; and
+- Contributions from all of GP's major thrusts.
+Appendixes B,C,and D, respectively, give the statistics by technology type,
+users, and GP major thrusts.
+10
+4.1 TECHNOLOGY TYPE ANALYSIS
+Geophysics technology is primarily specifications or information on the
+environment so that systems can be designed to operate in this environment.
+Appendix B shows that in FY92, 51% of the transitions were of this nature.
+Geophysics technology is also models, software, and algorithms used for designing
+or to support system operations. This second type of technology accounted for
+38% of the FY92 transitions. GP's main technology is not hardware. Hardware type
+technology only accounted for 11% of the transitions.
+4.2 USER ANALYSIS
+Appendix C is the analysis of the PL/GP FY92 technology transition events
+by users. GP tailors its technology to meet the needs of specific users. However,
+because geophysics is a pervasive technology, a given technology transition
+event, even though tailored, may have provided technology to more than one user.
+Of the technology transition events, several went to two or more users. These
+events translate into technology contributions. A total of 109 technology
+contributions occured in FY92. Also, it should be pointed out that in several
+instances the same technology transitioned to other customers in previous years,
+but only the new customers in FY92 are listed in this report. The Air Force
+Materiel Command accounted for 40% of the technology contributions. All together,
+the Air Force received 69% of the contributions. Outside of the Air Force, the
+other major recipients of geophysics technology were the Strategic Defense
+Initiate Office (SDIO) with 8% and the Navy with 9%.

@@ -1,0 +1,85 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T15:09:36Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9354280, "source_ctime_ns": 1793363266435026283, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330784816/45484701-005-001-0159.jpg", "source_mtime_ns": 1785684646000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330784816/45484701-005-001-0159.jpg", "source_sha256": "91b083df525aaedd5dbdea3119dc9582198255ba381ff7d72444a81fa8a180e8"}
+
+===== PAGE 1 =====
+{"alpha_words": 219, "chars": 1634, "method": "ocr", "page": 1, "variant": "plain-vision"}
+TITLE
+CHARACTER
+REFERENCE
+SYNOPSIS
+CONFI
+UNITED STATES AIR FORCE
+THE INSPECTOR GENERAL
+OFFICE OF SPECIAL INVESTIGATIONS
+REPORT OF INVESTIGATION
+JNIDENTLEIED BALLOON FOUND 3 MILES
+SOUTH OF McDONOUGH, GA. -
+17 December 1951
+SPECIAL INQUIRY
+FILE NO.
+24-84
+REPORT MADE BY
+Frederick F. Hansen S/A
+REPORT MADE AT
+DO #14, Lowry AFB, Colorado
+PERIOD
+12 February 1952
+FFICE OF ORIGI
+0 #6, Robins AFB, Ga
+STATUS
+RUC
+Rpt of S/A Morris A. Strickland, DO #6, file 24-126, dtd 6 Feb 52.
+DATE 1 5 FEB 1902
+hk
+Interviews with Colonel WRIGHT J. SHERRARD and staff members
+disclosed ADC not releasing balloons for radar tracking training
+but that ADC requested releasing agencies to furnish ADC with such
+information. It Col GEORGE W. MOXON, 2103rd Weather Squadron ADC,
+advised his records reflect a balloon release 01232, 17 Dec 1951 by
+General Mills Inc. flight 709, with estimated impact area in vicinity
+where instant balloon was found.
+CLASSIFICATION CANCELLED
+BY AUTHORITY OF THE DIRECT
+BY
+Historian
+KURT K. KUNZE, Capt, USAF
+| & DEC 1975
+DATE
+BaTES N/0
+ATTENTION:
+Unauthorized disclosure of Information
+ontained in this report wi.l be con
+idered to be a violation or AFR 205-1. SECURITY ANFORMATION
+ACTION COPY FORWARDED TO
+FILE STAMP
+DISTRIBUTION
+CO Dobbins AFB
+(Action cys)
+2
+Hqs OSI
+DO #6
+2
+Commanding Officer
+Dobbins Air Force Base
+Marietta, Georgia
+UNCLASSIFIED
+08/02 10 13
+DO #24
+APPROVED
+File
+1-195-6 -81
+THE W6P
+AIR FORCE
+RAI
+FEB 18 17 21'52
+MAR 159
+NICE OF
+SPECIAL INVESTIGATIONS
+WILLIA
+It Colone pist
+OFF
+Don Ader.
+AFHQ FORM
+15 JAN 49
+0-208
+Replaces A FCSI Form 4, 23 Jul 48, which may be used.
+Declassification Authority: NND 923007

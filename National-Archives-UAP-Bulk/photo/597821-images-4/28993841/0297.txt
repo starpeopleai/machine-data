@@ -1,0 +1,60 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T14:30:12Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8424918, "source_ctime_ns": 1793385645563004256, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28993841/0297.jpg", "source_mtime_ns": 1785748133000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28993841/0297.jpg", "source_sha256": "493b1035d6726db91e1ae05b5e412fbc7f45aecef4a36291327dd57092e4ccf7"}
+
+===== PAGE 1 =====
+{"alpha_words": 150, "chars": 1080, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD CARD
+1. DATE
+2. LOCATION
+3 Aug 61
+3. DATE-TIME GROUP
+Local _
+2203šŘŚš
+GMT.
+0803932
+5. PHOTOS
+Dayton Ohio
+4. TYPE OF OBSERVATION
+::Ground- Visual
+• Air Visual
+S. SOURCE
+• Ground-Rodor
+• Air-Intercept Radar
+• Yes
+7. LENGTH OF.OBSERYATION
+lan
+NUMBER OF OBJECTS 9. COURSE
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aireraft
+Posaibly Aircroft
+Was Astronomical
+Probably Astronomica
+Possibly Astronomical
+D Other Poss
+Insufficient Data for Evolvation
+•
+Unknowm
+Fion
+30 nfn
+1
+10. BRIEF SUMMARY OF SIGHTING LIGHD
+nevang around in
+sky always circular confined to one general
+area. Same intensity.
+Stationary
+11. coMMENTSWitness reporting sighting
+apparently had been watching objt for
+30 min prior to calling and objt vas
+still in view. Witness could only repor
+that he was looking toward 3rd st, which
+is to il of him, and objt apperently re-
+mained in same general area. It is possible
+that, since obje did not disappear, it
+SS I
+reflection of undetermined light source
+ofr
+of a high haze layer.
+ATIC PORM 329 (REV 26 SEP 52)

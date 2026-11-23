@@ -1,0 +1,24 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T15:09:30Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9118867, "source_ctime_ns": 1793379692659578068, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28973206/01301.jpg", "source_mtime_ns": 1785700623000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28973206/01301.jpg", "source_sha256": "b55fe5aef19df5e85d0078d4b716e039803d6831df8a0fe6c503ab7f92e2c298"}
+
+===== PAGE 1 =====
+{"alpha_words": 56, "chars": 361, "method": "ocr", "page": 1, "variant": "plain-vision"}
+6/03102
+5 Witness
+6 Noo- 57
+RoW 7
+WPC263 YD5056 XYA285HXMA021 XXB222EXA045EWD COS5PWDK111
+PP ROWPNF RJWPSE RJEPHQ RJEDDN RJEDWP -
+DE REWDKW 7
+P #622302
+OTher
+OPTICA( Il/USION)
+FM COMARFC 2347
+TO RJWPNF/COM 27 AIR DIVISION DEF
+RJEPHO/DIR OF INTEL HQ USAF
+RJEDEN/COM AIR DEF COMMAND
+RJEDWP/COM AIR TECH INTEL CEN
+INFC RJWPSE/COM 4 AF
+AF GRNC
+06 02'57
+454
+4- 4xza

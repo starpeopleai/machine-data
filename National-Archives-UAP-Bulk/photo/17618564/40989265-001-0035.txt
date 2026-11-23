@@ -1,0 +1,152 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T14:44:09Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 11867059, "source_ctime_ns": 1793355332499240019, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989265-001-0035.jpg", "source_mtime_ns": 1785564436000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989265-001-0035.jpg", "source_sha256": "6b180195766dcd3028e1fec2f47a6386eb6e35ea1ee6f019bcb376f6901e1193"}
+
+===== PAGE 1 =====
+{"alpha_words": 945, "chars": 6008, "method": "ocr", "page": 1, "variant": "plain-vision"}
+pressure of the Mars entry body, the 15-foot
+test vehicle was checked out by the Voyager
+tandem balloon at around 130,000 feet. At
+that altitude, the payload was released from
+the balloon at a flight axis pointed slightly
+upward. Then, twelve small rocket motors
+accelerated the test vehicle to Mach 1.2 in
+level flight. This velocity simulated closely
+the maximum anticipated speed for the cap-
+sule at the time it entered the Martian at-
+mosphere.
+The Voyager balloon was developed by
+the Schjeldahl Corporation for the Air Force
+Research Laboratories with Martin-Mariet-
+ta Corporation building the payload and
+flight unit, and integrating the parachute
+package into the flight unit.
+(j) Venus Project
+NASA also developed plans to explore
+the planet Venus using the balloon. While
+never developed beyond the planning stage,
+the general concept was to build a series of
+"floaters" which would be set adrift in the
+Venusian atmosphere. These floating sta-
+tions were to gather scientific data from the
+lower atmosphere and from the surface of
+the planet. Once gathered, the information
+was to be relayed back to earth via a trans-
+mitting satellite orbiting the subject planet.
+The type of information gleaned by such
+balloon probes was to include such things as:
+the horizontal location of the floating probe;
+the altitude, the atmospheric pressure, tem-
+perature, density, composition and wind
+velocity. Other meteorological data collected
+would include such things as: electromagnetic
+fields, gravitation and radiation, measure-
+ments below the buoyant station dealing with
+surface radiation and its characteristics, the
+cloud top and height, and the composition of
+the cloud particles.
+(k) Russian & French Proiects
+Picking up where the United States left
+off, France and the Soviet Union launched
+Venera 83, a project designed to place two
+balloons into the mysterious sulfuric-acid
+clouds circling the planet Venus: which per-
+petually obscures its surface. This was the first
+time France had a role in planetary explora-
+tion, so long the province of the United
+States and the Soviet Union. (The U.S. was
+invited to participate in this venture, but
+was already committed to the Pioneer pro-
+gram.)
+Jaques Blamont, France's chief space
+scientist was the architect of this unique ef-
+fort. He believed that the four U.S. probes of
+Venus made previously under the Pioneer
+program were weak in what they revealed
+about the dynamics of the Venusian sulfur-
+ic-acid clouds. Blamont's intent with the
+Venera project was to examine more careful-
+ly the updrafts, sidewinds and downdrafts
+that appeared to be churning the clouds.
+France built the two 27-foot high balloons
+which carried the instruments to measure
+such data as the Venusian horizontal and
+vertical wind changes in the clouds. The
+Russians suplied the two rocket spacecraft
+that carried the balloons on their journey.
+The balloons were packed in metal spheres
+which dropped into the planet's atmosphere
+where they opened up and released their
+cargo over the Venusian nightside. The two
+spacecraft then took up planetary orbits,
+acting as relay stations to earth. France also
+supplied the 66 pounds of instruments for
+each balloon and furnished some of the 170
+pounds of instruments that were aboard
+each of the orbiters. Among the instruments
+France made for the orbiter was an ultra-
+violet telescope to measure the chemical
+makeup of the Venusian stratosphere and
+the tops of the clouds.
+The construction of the French balloons
+consisted of five separate layers of plastic,
+the innermost and outermost being made of
+Teflon in order to resist the corrosive effects
+of the acid clouds. The most difficult part of
+constructing the balloons, according to Bla-
+mont, was finding a glue which would bond
+the five layers together.
+Once released into the atmosphere, the
+balloons began to inflate with helium at a
+height of about 37 miles. They then de-
+scended to the bottom of the cloud layer
+where they completed their inflation and
+from there rose back through the strata.
+This climb leveled off at an altitude of about
+35 miles. The aerostats was then in the zone
+where Pioneer's instruments found a stra-
+tum consisting of sulfuric-acid and solid par-
+ticles of free sulfur.
+As the winds blow from the day side to
+the night side they carried the balloons
+away from the night side around to the day
+side of the planet. The balloons traveled
+from the night to the day side in about four
+days, which was none too soon, as the acid in
+the clouds could eat away the balloons' skin
+in six.
+66
+(1) 1976 National Research
+Council Report
+In 1976 the National Research Council
+(NRC) published its report entitled, "The
+Uses of Balloons for Physics and Astrono-
+my" which for the first, time exhibited the
+varied range of uses to which balloons are
+being put by the scientists of this country.
+A broad segment of the scientific com-
+munity assessed the balloon's limitations
+and potentials for scientific uses in physics
+and astronomy (atmospheric science was
+not included, that being the domain of the
+NCAR).
+The NRC found that balloons have
+made, and continue to make, very signifi-
+cant contributions to science. That they con-
+tinue to manifest important advantages
+over the alternatives of aircraft or space-
+craft such as; short lead times; relatively
+low costs; greater availability of flight op-
+portunities; and the potential of considerab-
+ly increased effectiveness through low-cost
+technical improvement. In exploring the
+near-space environment, the NRC found
+that, while satellites provide broader area
+A giant balloon stands ready to be launched from the Air
+Force Missile Development Center Holloman AFB, New Mex-
+ico, by a blue suit launch crew. Numerous balloons are
+launched each year in support of many government research
+programs. A 26 million cubic foot Voyager balloon, the largest
+launched to date was sent aloft from Holloman on July 18,
+1966.
+(USAF Photo)
+(USAF Photo)
+Preparation of an Air Force balloon system prior to launch.

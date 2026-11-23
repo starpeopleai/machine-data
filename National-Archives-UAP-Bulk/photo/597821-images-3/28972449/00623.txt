@@ -1,0 +1,24 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T14:26:08Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8216924, "source_ctime_ns": 1793379492772806050, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28972449/00623.jpg", "source_mtime_ns": 1785700832000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28972449/00623.jpg", "source_sha256": "fdda9af656a604a45dba1bd007261c97eb135c6d66d0557fff7ac4cba9359fbe"}
+
+===== PAGE 1 =====
+{"alpha_words": 57, "chars": 423, "method": "ocr", "page": 1, "variant": "plain-vision"}
+25
+Multi 26/0036 zął
+B4E+76
+290cT 57 09 24
+Ост 29 00 4 4 '57
+RD228
+WPD004 YM8323TAHA882AHRRRRRRRRRR243AHZ217
+MM RJEDDN RJEDWP RJEPHQ
+DE RJEDAH 17Z
+N 2818302
+atic
+57 001 29
+FM COMDR 2475D ARFC MILWAUKEE WISC
+TO RJEDDN/COMDR ADC ENT AFB COLO SPRINGS COLO
+INFO RJEDAH/COMDR 37TH AIR DIV TRUA
+FLD MADISON WISC
+RJEDP/CONDE AIR TECHNICAL INTELLIGENCE CTR WRIGHT PAT AFB OHIO
+RJEPHO/DIR OF INTELLIGENCE HQS USAF WASH DC
+ЭТ-
+07:52

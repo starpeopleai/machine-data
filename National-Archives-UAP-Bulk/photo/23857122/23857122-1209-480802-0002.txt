@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T14:55:41Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 21779576, "source_ctime_ns": 1793356991118047258, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1209-480802-0002.tif", "source_mtime_ns": 1785564805000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1209-480802-0002.tif", "source_sha256": "8714e2edc85c05eea7c0d858e8adac658dc9d0e84082bb0ea142772fb8f8396c"}
+
+===== PAGE 1 =====
+{"alpha_words": 137, "chars": 938, "method": "ocr", "page": 1, "variant": "plain-vision"}
+P102
+TRUE COPY
+On the 17th of December, 1952 at 0757 hours at
+the campus of Cornell University, Ithaca, New York
+the following aerial phenomenon was observed: a
+Light resembling a jet exhaust, greenish-blue with
+an orange-red trail was moving in a westerly direction
+at a very high speed. It appeared to traverse 30
+degrees of arc in approximately two seconds. High
+cirrus clouds estimated at more that 20,000 feet
+altitude were present. The light disappeared from
+view behind the leading edge of the cloud. No air-
+craft structure was visible. The light appeared to
+be elongated and traveling in a horizonal plane.
+Considering the altitude and arc traversed, the ob-
+servers estimated the speed to be in excess of 700
+miles per hour. The local civil defense authority
+was notified.
+/s/
+/s/
+A CERTIFIED TRUE COPY
+Nonald L Myers
+DONALD I. MYERS, 2d/It., USAF
+AO 2231652
+/s/
+TRUE COPY
+2ml #з of 490802
+Declassification Authority: NND 57565

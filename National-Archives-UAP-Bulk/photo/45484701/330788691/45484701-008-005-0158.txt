@@ -1,0 +1,51 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T14:23:12Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7009628, "source_ctime_ns": 1793365372172334561, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330788691/45484701-008-005-0158.jpg", "source_mtime_ns": 1785684615000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330788691/45484701-008-005-0158.jpg", "source_sha256": "87e2cb570a160e7ed8306a72b3eb70de25c521ce0a1ab12534c1729c453195e8"}
+
+===== PAGE 1 =====
+{"alpha_words": 198, "chars": 1476, "method": "ocr", "page": 1, "variant": "plain-vision"}
+HEADQUARTERS
+I/PFOID/ahc
+PACIFIC DIVISION
+24-24
+SUBJECT: Unconventional Aircraft
+THRU
+: Commander
+ALTAEY AR TE SO LA BICATION CANCEL
+APO 953
+15 March 1950
+BY Wetorian.
+Militery Air Transport Service
+Andrews Air Force Base
+Washington 20, D. C.
+DATE
+ATTENTION: Inspector General. (OSI)
+3 DEC 1975
+TO
+: Director of Special Investigations
+Headquarters United States Air Force
+Washington 25, D. C.
+1. SYNOPSIS: Press reports a round shining disc in sky over Kailua,
+Cahu, at about 0900 hours 7 March 50.
+2, DETAILS: The #5 Star Final" 14 Narch 1950 edition of the Honolulu
+Star-Bulletin, a daily English language newspaper published at Honolulu,
+T. H., carried the following news story on page 1:
+MASTERY DISO REPORTO SUEN OVER/NIVA, CalLO
+"KATLUA, Oahu, March 14 - A round shining disc with several
+smaller shining streaks trailing it was seen in the sky at approdmately
+9 a.m. March 7 by Robert Chinen, Oneawa St., Kailua, as he was working
+in a field.
+"Mr. Chinen reports the object was not falling but traveling in a
+northwesterly direction and disappeared into space as he watched it*
+"He looked about for planes, thinking it might have come from one,
+but could see none."
+3. ACTION: Air Provost Marshal, Hickam AF Base, I. H., notified 15 March
+1950฿
+4. REASON FOR REPORT: Submitted in compliance with AFCSI Letter No. 85,
+8 February 1950•
+FOR THE COMMANDER:
+PERRY F. O'DONNEN
+It Colonel, USAF
+Chief, InvestiZẺtions
+S
+UNCLASSIFIED
+2121
+Declassification Authority: NND 923007

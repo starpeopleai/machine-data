@@ -1,0 +1,40 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T15:04:44Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7645706, "source_ctime_ns": 1793354424356145889, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989207-001-0046.jpg", "source_mtime_ns": 1785564282000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989207-001-0046.jpg", "source_sha256": "51d7dc2257275f3408131a88667a8949ad1d9900dd9cbff91679ada6fc1dc669"}
+
+===== PAGE 1 =====
+{"alpha_words": 62, "chars": 563, "method": "ocr", "page": 1, "variant": "plain-vision"}
+GEOPHYSICS DIRECTORATE
+ENVIRONMENT
+SIMULATION OFFICE
+Mr. R.V. Cormier
+DIRECTOR D
+DEPUTY DIRECTOR
+Col (Sel) B.L. Smith
+CHIEF SCIENTIST
+Dr. R. G. Hendl
+OPERATIONS & SUPPORT
+Mr. L. C. Michaud
+PLANS & PROGRAMS
+Mr. R. V. Cormier
+COMPTROLLER
+Mr. N. L. Shlager
+SPACE
+EXPERIMENTS
+Mr. C.N. Stark
+EARTH SCIENCES
+DIVISION
+Dr. D. H. Eckhardt
+IONOSPERIC PHYSICS
+DIVISION
+Mr. W. K. Vickery
+OPTICAL ENVIRONMENT
+DIVISION
+Dr. R. Vantassel
+SPACE PHYSICS
+DIVISION
+Ms. R. C. Sagalyn
+ATMOSPHERIC SCIENCES
+DIVISION
+Dr. R. A. McClatchey
+DATA SYSTEMS
+MR. R.E. McInerney
+4-1-93 (gporg93)

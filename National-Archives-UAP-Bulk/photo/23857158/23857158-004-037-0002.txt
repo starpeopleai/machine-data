@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T14:44:12Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 12126224, "source_ctime_ns": 1793358742168750454, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-037-0002.tif", "source_mtime_ns": 1785681188000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-037-0002.tif", "source_sha256": "6b6e6f2c91f86751ec8c9bc5c50096728a37dd30020ae8e8af4a26be4a87452a"}
+
+===== PAGE 1 =====
+{"alpha_words": 148, "chars": 1049, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+17 AUG 1955
+Hq Int AFB Subj: UFOB Reports, 6 Jul 55
+Ist Ind
+DCS/0-0&7/ID: JW/ep
+HEADQUARTERS, AIR PROVING GROUND COMMAND, Tell AP base, ALCIUSS
+Commander, 4602d Air Intelligence Service Sqda (ADC), Ent AFB,
+Colorado Springs, Colorado
+I.
+Reference AIIR No. 1-55, dated 28 June 1955, Hq APGC,
+Eglin ATB, Florida.
+2. Further inquiries concerning the
+an observer who
+reported referenced sighting, revealed that
+subject airman is w
+and on previous occasions
+he reported pres
+3-
+Therefore, it is requested that AIIR No. 1-55 be removed
+from your files, destroyed, and disregarded completely. In the
+future persons reporting Unidentified Flying Objects to this Head-
+quarters will be
+before a
+formal report is submitted,
+4. In view of the foregoing, US Air Force Technical Informa-
+tion Sheets, Form A, are not being completed as requested in para-
+graph 1, basic letter. They have been withdrawn, however, for future
+reference in this Command.
+FOR THE COMMANDER:
+1 Incl:
+w/¿
+Nana Sunil
+patons & Training
+• Operations

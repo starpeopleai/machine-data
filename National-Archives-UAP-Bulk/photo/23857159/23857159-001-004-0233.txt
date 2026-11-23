@@ -1,0 +1,87 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T15:02:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 20287534, "source_ctime_ns": 1793361227461223022, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-004-0233.tif", "source_mtime_ns": 1785565263000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-004-0233.tif", "source_sha256": "55cef0d183375bb85a9123170eeab094f859001cb5d3482f2c4109f27c238ed5"}
+
+===== PAGE 1 =====
+{"alpha_words": 302, "chars": 2171, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UNCLASSIFIED
+CLASSIFICATION
+COUNTRY OF ACTIVITY REPORTING
+REPORT NO.
+Hawaii, T. He
+IR-17-58
+AIR INTELLIGENCE INFORMATION REPORT
+COUNTRY OR AREA REPORT CONCERNS
+DATE OF INFORMATION
+Pacific Ocean
+14 Feb
+ACTIVITY SUBMITTING REPORT
+DATE OF COLLECTION
+Collection Operations Div
+Dir of Collection, ACS/I, Hq PACAF
+PREPARING INDIVIDUAL
+28 Feb 58
+DATE OF REPORT
+Ist It Harald We Ingholt
+NAME OR DESCRIPTION OF SOURCE
+2 May 58
+EVALUA ON
+1180923
+Leave blank)
+180923
+SRI STATUS (If applicable)
+SRI NO.
+CANCELED /COMPLETE
+ORINO
+SRI NO.
+Aircrew (named below)
+REFERENCES (BAIR Subject, previous reports
+as applicable)
+AFR 200-2, BAIR 460-T
+SUBJECT (Descriptive title. Use individual reports for separate
+Unidentified Flying Object Report
+SUMMARY (Give summary which highlights the salient factors of nar)
+tive report. Begin narrative text on AF Form 112a
+unless report can be fully stated on AF Form 112. List inclosures, including number of copies)
+A bright, flare-like explosion was sighted by the crew of an Air Force
+C-54 approximately two hour's flying time West of Wake Island.
+During the
+our within which the sighting occurred, one visual and two radar contacts
+were made.
+Tracing action has uncovered no routine sea or air traffic in
+the area at the time of sightingo
+HARRY J.
+KIELING
+Colonel,
+USAF
+Director of Collection
+AC/S Intelligence
+1g (TRel)
+341-6241322šŚ
+93
+2/25:36-5
+20
+3.
+40
+5ø
+INCLS
+Acft Comdr's Statement
+Co-pilot's
+Navigator's
+Flight Engr's
+Radio Operator's "
+Navigator's Log
+Radio Log
+DISTRIBUTION BY ORIGINATOR (Except USAF and file. Indicate Dupl M/oz and copies w/o inclosures, if applicable)
+Condr, ATIC, Comdr, 42lst ARflg Sq, CO, FLEINTPAC, Ford Ise T. He,
+DC/S Intell, Ha 5AF, DI, 6486th ABW
+WARNING: This document contains information affecting the national defense of the United States within the meaning of the
+Espionage Laws, Title 18, U.S.C., Section 793 and 794. Its transmission or the revelation of its contents in any manner to
+an unauthorized person is prohibited by law.
+FORM
+AF 15 SEP 54 112 REPLACES AF FORM 112. 1 OCT 52. WHICH MAY BE USED
+UNCLASSIFIED
+CLASSIFICATION
+* U.S. GOVERNMENT
+: 1954 0 - 315475
++
+DECLASSIFIED
+Authority NND 9237007

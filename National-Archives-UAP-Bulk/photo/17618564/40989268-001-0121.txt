@@ -1,0 +1,23 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T14:37:15Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 15694125, "source_ctime_ns": 1793355682312642184, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0121.jpg", "source_mtime_ns": 1785564502000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0121.jpg", "source_sha256": "b60b3a88aa6fec8d54eef72722ac365c212c4d7550bcb98ad7361e05b77f65a1"}
+
+===== PAGE 1 =====
+{"alpha_words": 119, "chars": 879, "method": "ocr", "page": 1, "variant": "plain-vision"}
+229
+XX. A Preliminary Investigation of High
+Altitude Minimum Wind Fields *
+George F. Nolan
+Aerospace Instrumentution Laboratory
+Air Force Cambridge Research Laboratories
+Cambridge, Massachusetts
+Abstract
+During the summer months, a relatively stable layer of minimum winds
+exists in the lower stratosphere above the North American continent between
+latitudes 25°N and 65°N.
+Within the layer there are levels where the wind speed
+is close to zero.
+These phenomena can be utilized for balloon operations that
+require flights of long duration with minimum horizontal displacement from a
+fixed geographic location, and for high-altitude tethered-balloon operations that
+require float altitudes where dynamic pressure is minimum.
+*This talk was based on an AFCRL in-house report of the same title, AFCRL
+64-843, by Mr. Nolan and Ralland A. Smith, published in October 1964. - Editor.

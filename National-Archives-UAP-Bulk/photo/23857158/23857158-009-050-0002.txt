@@ -1,0 +1,68 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T15:08:27Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8660162, "source_ctime_ns": 1793359636183195527, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-009-050-0002.tif", "source_mtime_ns": 1785681477000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-009-050-0002.tif", "source_sha256": "beb1f07fbc114477b8f307e53051585380ce33671e8c14de967c02610609c6a3"}
+
+===== PAGE 1 =====
+{"alpha_words": 153, "chars": 1078, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+13/544ł
+OPS
+ENO 0231
+ENA046 YDA016 VYA009 VDA011KBA016
+RR RJEDEN RJEDWP RJEPHQ RJEPNB
+ZWL RJESKB
+DE RJESKB 1D
+R 121246Z
+FM COMDR 660TH ACWRON MACDILL AFB FLA
+TO RJEDEN/COMDR ADC ENT AFB COLO SPRGS COLO
+RJESKB/COMDR 35TH ADIV /D/ DOBBINS AFB GA
+RJEDWP/COMDR AIR TECH INT CNTR WPAFB OHIO
+RJEPHQ/DIR OF INT HQ USAF WASHDC
+INFO RJEPNB/COMDR EADF STEWART AFB NY
+ST
+/UN CLASS IF IE D/OPS 0122 UFOB PD /EADF ATTN CIC/
+15
+A. ROUND AND SMALL
+B. PING PONG BALL
+C. WHITE GLOW
+D. ONE
+E. NONE
+F. NONE
+G. NONE
+H. NONE
+I. NONE
+A. FAST MOVING LIGHT
+B. OVERHEAD
+C•
+OVERHEAD
+D. STRAIGHT NORTH
+E•
+FADED OUT
+F. •
+TWENTY /20/ SECONDS
+A.
+GROUND VISUAL
+NONE
+C. NONE
+A -
+B. NIGHT
+19/99992 Mar56
+KL 4342
+4602D AISS UFOB REPT.
+1060
+SATETIME GROUP 10/040DZ HAR56
+Miani, Forida
+MIAMI CMA FLA STUDENT
+7•
+A. CLEAR
+B. 080/7 CMA 080/8 CMA 140/8 CMA 260/10 CMA 260/25 CMA 270/45 CMA
+UNAVAIL CMA UNAVAIL
+C. CLEAR
+D. FIFTEEN /15/ MILES
+E. NONE
+F. NONE
+8 NONE
+9. NO FIGHTERS IN LOCATION CMA NOT ON RADAR.
+10. NONE
+11-
+BELIEVED TO BE SHOOTING STAR
+12. NONE
+12/1402Z MAR RJESKB

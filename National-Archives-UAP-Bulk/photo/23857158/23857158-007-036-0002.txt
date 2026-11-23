@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T14:45:00Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 15399528, "source_ctime_ns": 1793359326115445275, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-007-036-0002.tif", "source_mtime_ns": 1785681379000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-007-036-0002.tif", "source_sha256": "6ecadf000391b5171813a3dc4ac413c69591fff9e8110d04cf7e3c7b3debe5db"}
+
+===== PAGE 1 =====
+{"alpha_words": 97, "chars": 683, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+RGR 00 L
+- 43
+ARE U THERE
+5.V.
+• VMGO AHEAD
+ENO 02
+EB057 YMB048 WYD064 WMA029 WWD018GMA015
+MM JEDEN JEDMH JEDWP JEPHQ JWFKL JWFLK
+DE JWFGM 16
+M 232229ZŚš
+FM COMAIRDIV 42 BERGSTROM AFB TEX
+TO JEDEN/CONDRADC ENT AFB COLO SPRINGS COLO
+JEDWP/COMDRATIC WRIGHT PATTERSON AFB OHIO
+JEPHQ/DIR OF INTEL HQ USAF WASADC
+JWFLK/COMDRADIV 34 WALKER AFB NMEX
+• INFOJEDMH/CINC SAC OFFUTT AFB NEBR
+JFKL/COMAF 2 BERKSDALE AFB LA
+/UNCLASSIFIED/ 12 DOI 4014 PD UFOB FORMAT AS PRESCRIBED IN AFR 200-2 PD
+1. DESCRIPTION OF OBJECT
+A. ROUND
+B.
+HEAD OF A PENCIL ERASER
+C.
+BLACK
+D.
+FOUB
+CLUSTER OF GAGGLE W/NO VARIATIONS
+F.
+NEGATIVE
+Q. NEGATIVE
+WHOOSH SOUND LIKE A ZEPHYR

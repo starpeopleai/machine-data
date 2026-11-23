@@ -1,0 +1,136 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T14:46:25Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 22067529, "source_ctime_ns": 1793355272782400063, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989264-001-0103.jpg", "source_mtime_ns": 1785564424000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989264-001-0103.jpg", "source_sha256": "d21fa2b392778814a5f342b077040e1986fa70b10bf9724330f91b5d657de9df"}
+
+===== PAGE 1 =====
+{"alpha_words": 1407, "chars": 9082, "method": "ocr", "page": 1, "variant": "plain-vision"}
+198
+The committee stands adjourned.
+(Whereupon, at 4:39 p.m., the committee was adjourned.)
+In addition to the six symposium participants, the chairman, Mr.
+Roush, invited other scientists to submit written papers expressing
+their views of unidentified flying objects. Their papers follow as a
+part of the record of the symposium.
+(The biography of Dr. Menzel follows :)
+DR. DONALD H. MENZEL
+Dr. Donald H. Menzel, a native of Colorado, received his Ph. D. from Princeton
+University in 1924. After one year as instructor at the University of Iowa, another
+year as Assistant Professor at Ohio State University, Dr. Menzel went to Lick
+Observatory in 1926, as Assistant Astronomer. While at Lick he participated
+in many observing programs with the large telescopic equipment. His major
+work, however, was in the interpretation of the spectrum of the atmosphere
+of the sun, from photographs taken at various total solar eclipses. He participated
+in the observation of two such eclipses, in the years 1930 and 1932.
+In the fall of 1932, Dr. Menzel came to Harvard University, where he has been
+ver since, except for three years of service as a Commander in the U.S. Navy
+luring World War II. His studies have covered a large number of fields, from
+pure physics to pure astronomy. Of special concern has been the sun itself, in
+which field he is a recognized authority. His studies have employed a combination
+of observation and theory. In 1936 he was director of the Harvard-M.I.T. eclipse
+expedition to USSR. In 1945 he directed the joint U.S.-Canadian eclipse expedi-
+tion to Saskatchewan. He has also observed the total eclipses of 1918, 1923, 1954,
+1959, 1961, 1963 and 1967. In an attempt to obtain basic information outside of a
+total solar eclipse, Dr. Menzel developed the first coronagraph in the United
+States and established the station at Climax, Colorado, where it is now known
+as the High Altitude Observatory. Originally operated jointly by Harvard and
+the University of Colorado, this scientific institution is now wholly under the
+jurisdiction of the latter university. The observations of solar activity obtained
+at Climax had an immediate application to problems of solar-terrestrial relation-
+ships, especially on the propagation of radio waves. To expand the work in this
+field and to provide for more nearly unbroken records of solar activity, after
+World War II, Dr. Menzel suggested that the Air Forces establish a second
+solar station. After several years of site surveying, Sacramento Peak Observa-
+tory was established near Alamogordo, New Mexico on a mountain some 5000
+feet above the Tularosa Basin, overlooking the White Sands Proving Ground and
+the Holloman Air Force Base. The large instruments, including the 16-inch corona-
+graph, were all designed and built under Harvard auspices, collaboratively with
+scientific personnel from the High Altitude Observatory. In 1956, with Air Force
+sponsorship, Harvard built a Solar Radio Observatory near Fort Davis, Texas,
+to record the radio waves of solar origin. The data from these observatories are
+revolutionizing our knowledge of the sun and solar activity.
+In 1952 Dr. Menzel became acting Director of Harvard College Observatory
+and, in 1954, was advanced to the Directorship. He resigned as Director on March
+31, 1966. In Harvard University he is Paine Professor of Practical Astronomy
+and Professor of Astrophysics. On July 1, 1966 he also accepted appointment as
+Research Scientist on the Smithsonian Astrophysical Observatory staff. He has
+lectured extensively in Spanish throughout Latin America. In 1963 he was a
+Visiting Professor at the University of Chile, and served as State Department
+Specialist for Latin America in 1964.
+From 1954-56 he was President of the American Astronomical Society. He is
+Vice President of the American Philosophical Society, a member of the National
+Academy of Sciences, the American Academy of Arts and Sciences, and a large
+number of other professional organizations. He is a senior member of the Insti-
+tute of Electrical and Electronics Engineers and a Foreign Associate of the
+Roval Astronomical Society. From 1948-1955 he was President of the Commission
+on Solar Eclipses of the International Astronomical Union, and from 1961-1967
+was President of the Commission on the moon. He is also a member of the Inter-
+national Radio Scientific Union (URSI), and the International Union for Geodesy
+and Geophysics. He has been Chief Scientist of GCA Corporation since 1959.
+He was a member of the Board of Directors of the Association of Universities
+for Research in Astronomy, Inc. from 1957-1966. (In 1954 he received the honorary
+199
+degree of D.Sc. from the University of Denver, his Alma Mater, and their John
+Evans Award in 1965.)
+Dr. Menzel has been a prolific writer. His books, articles, and scientific papers
+cover a broad field, and have been translated into many languages. He has even
+ventured briefly into the realm of science fiction.
+His book, "Our Sun," published by the Harvard University Press, is one of the
+so-called Harvard series on astronomy and a standard reference work, despite
+the fact that it is written in popular style for the general public. Two popular
+books on the subject of Flying Saucers, the second written with Lyle Boyd and
+published in 1963, analyze the various reports and demonstrate conclusively that
+these highly controversial objects" are only various manifestation of different
+natural phenomena, not machines from outer space. His first book on Flying
+Saucers
+was translated into Russian. He has lectured extensively on UFO's
+around the world, including South America and Mexico.
+Dr. Menzel's interest in promoting good writing by scientists, led him to pro-
+duce "Writing a Techincal Paper," co-authored by Professor Howard Mumford
+Jones of the Harvard Department of English and Lyle Boyd, a science editor.
+He is also author of a "Field Guide to the Stars and Planets," a popular hand-
+book for beginning astronomers.
+PREPARED STATEMENT BY DONALD H. MENZEL
+UFO: FACT OR FICTION?
+Flying saucers or UFO's have been with us for a long time. June 24, 1968
+marked the 21st anniversary of the sighting of nine bright disks moving rapidly
+along the hogback of Mount Rainier. However, similar sightings go far back
+in history, where they have assumed various forms for different people. Old
+records refer to them as fiery dragons, fiery chariots, wills-o'-the-wisp, jack-o'-
+lanterns, ignis fatuus, fredrakes, fox-fire, and even the devil himself.
+And now a new legenda modern myth-has arisen to explain a new rash
+of mysterious sightings. Certain UFO buffs argue that the peculiar properties
+and maneuvers of these apparitions, as reported by reliable people of all kinds,
+are so remarkable that only one explanation for them is possible. They must
+be vehicles from outer space, manned by beings far more intelligent than we.
+because the operators have clearly built vehicles with capabilities far bevond
+anything we can conceive of.
+On the face of it, this reasoning sounds much like that of Sherlock Holmes.
+who said on several occasions: "It is an old maxim of mine that when you have
+excluded the impossible, whatever remains, however improbable, must be the
+I am willing to go along with this formula, but only after we have followed
+Holmes and excluded every possibility but that of manned UFO's. And we must
+also show that no further possible solutions exist.
+The believers are too eager to reach a decision. Their method is simple. They
+try to find someone, whom they can establish as an authority, who will support
+their views. They then quote and often misquote various authorities or
+one
+another until they believe what they are saying. Having no real logic on their
+side, they resort to innuendo as a weapon and try to discredit those who fail
+to support their view. The UFO magazines refer to me as the arch-demon of
+saucerdom !
+I concede that the concept of manned spaceships is not an absolute impossi-
+bility. Neither are the concepts of ghosts, spirits, witches, fairies, elves, hob
+goblins, or the devil. The only trouble with this last list is the fact they are
+out of date. We live in the age of space. Is it not natural that beings from
+outer space should exhibit an interest in us? But, when we consider that these
+beings if indeed they are beings-
+-have been bugging us for centuries.
+should one not have landed and shown himself to the President of the United
+States, to a member of the National Academy of Sciences, or at least to some
+member of Congress?
+Please don't misunderstand me. I think it is very possible that intelligent
+life-perhaps more intelligent than we-may exist somewhere in the vast reaches
+of outer space. But it is the very vastness of this space that complicates the
+problem. The distances are almost inconceivable.
+The time required to reach
+the earth-even at speeds comparable with that of light-range in hundreds if
+not thousands of years for our near neighbors. And it takes light some billions
+of years to reach us from the most distant galaxies, times comparable with that

@@ -1,0 +1,66 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T14:33:05Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9350738, "source_ctime_ns": 1793363461906539008, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785292/45484701-005-004-0107.jpg", "source_mtime_ns": 1785684657000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785292/45484701-005-004-0107.jpg", "source_sha256": "2db3506f0e601121afa608bf3ee9e06bb1b78c1015de4bac570a4e2350534b54"}
+
+===== PAGE 1 =====
+{"alpha_words": 448, "chars": 2899, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DETATIS:
+This investigation was initiated upon receipt of
+letter, 9th OSI District, Barkadale Air Force Base, Louisiana,
+File 24-41, dated 9 December 1949.
+AT BILOXI, MISSISSIPPI:
+An unidentified aerial object was observed 18 November 1949,
+at 1000 hours directly south of the Biloxi Veterans Hospital, Pass
+Road, Biloxi, Mississippi, by Chief Guard JAMES CICERO RICE and
+Guards ELMER A. STEVENS and ALVA P. ST. JOHN, according to informa-
+tion received during interviews with aforementioned persons on 15
+December 1949. Guard ST. JOHN first sighted the object while on
+duty at the Hospital Main Gate and notified his superior, Chief
+Guard RICE.
+At this first appearance, the object was approximately
+over Ship Island, which lies off the Biloxi coast about ten (10)
+miles to the south. There was only one (1) object. At the distance
+of ten (10) miles, the altitude of this object appeared to be between
+2500 and 3000 feet. The object remained in sight for approximately
+twenty-five (25) minutes.
+It was white and reflected the sunlight.
+The shape was
+similar to a cigar.
+Nothing could be determined as
+to the type of construction.
+Chief Guard JAMES C. RICE stated
+that, using similar type planes and aerial objects as a guide,
+the size of the object appeared to be approximately two hundrec
+feet (200!) in length and a proportionate diameter to that of a
+cigar of that size.
+The line of flight was from New Orleans, La.,
+to Mobile, Alabama.
+It maintained a steady flight with no change
+of altitude while in the view of these observers.
+There was
+apparently no exhaust or any engine sound.
+The day was clear and
+no clouds were viewed near this object.
+Being daylight at the
+time the object was sighted, no lights of any type were observed
+in connection with the object.
+No wings or normal control surfaces
+were observed. The method of propulsion could not be determined
+as there was no sound of any power or any visible evidence of engine and
+Control and stability was apparently excellent, however,
+the method of control could not be determined.
+The speed was
+approximately fifty (50) miles per hour and this object was
+completely silent in its passage through the air. It finally
+passed from sight behind the trees surrounding the area from which
+the object was observed, after having remained within view for
+approximately twenty-five (25) minutes.
+Observers, Chief Guard JAMES C. RICE and Guards ALVA P.
+ST. JOHN and ELMER A. STEVENS, are employed by the Biloxi Veterans
+Hospital, Pass Road,
+Biloxi, Mississippi. All of these men, in
+connection with their assigned duties,. are trained to observe and
+report unusual incidents.
+The Executive Officer of the Veterans
+Hospital, Mr. EISWORT J. SACKS, was interviewed regarding the
+reliability of these observers and stated that, in his opinion,
+they were entirely reliable personnel, that all had been employed
+Declassification Authority: NND 923007

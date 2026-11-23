@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T14:22:48Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6908771, "source_ctime_ns": 1793384664561587450, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28990790/0508.jpg", "source_mtime_ns": 1785748422000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28990790/0508.jpg", "source_sha256": "8c58033d90e9f3180c849ddf9a8b2e1577352ed6058887848808ab52c5a552f9"}
+
+===== PAGE 1 =====
+{"alpha_words": 202, "chars": 1163, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Puge 1
+20. Draw a picture that will show the motion that the object or objects made. Place an "A" at the beginning
+of the path, a "B° at the and of the path, and show any changes in direction during the course.
+Feon
+21. IF POSSIBLE, try to guess or estimate what the real size of the object was in its longest dimension.
+_feet.
+22. How large did the obiect or objects appear as compared with one of the following objects. held in the hand
+and at about arm's longth?
+(Circle One):
+a. Head of a pin
+b. Pea
+c. Dime
+d. Nickat
+Quarter
+Silvar doller
+h. Baseball
+I. Grapafruit
+j. Basketball
+k. Other
+Half doller
+22.1 (Circle One of the following to indicate how certain you are of your answer to Question 22.
+a. Certain
+LC. Not very sure
+b. Fairly certain
+d. Uncertain
+23. How did the object or objects disappear from viaw?
+APPEARSO
+24. In order that you can g
+sible of what you saw, we would like for you to imogine that you couid
+construct the object that you saw. Of what typs materlal would you make it? How large would It be, and what shape
+lould it hav
+be in your own words a comr
+non object or objects which when placed up in the sky would give the
+ret which you

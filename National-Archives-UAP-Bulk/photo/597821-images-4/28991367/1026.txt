@@ -1,0 +1,62 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T15:05:51Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8139763, "source_ctime_ns": 1793384914934026028, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28991367/1026.jpg", "source_mtime_ns": 1785747845000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28991367/1026.jpg", "source_sha256": "5e0e1f71b52b4aca5ce0b31175e6ba34faa53b1adf1ec9ea8a21815d1cf5ca41"}
+
+===== PAGE 1 =====
+{"alpha_words": 173, "chars": 1242, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD CARD
+1. DATE
+8 Feb 61
+3.
+DATE-TIME GROUP
+Local
+2130
+GM T.
+090230Z
+5.
+•PHOTOS
+2. LOCATION
+Dayton, Ohio
+4. TYPE OF OBSERVATION
+• Ground-Visual
+• Air Visual
+6. SOURCE
+• Ground-Roder
+• Air-Intercept Radar
+• Yes
+* No
+7. LENGTH OF.OBSERVATION
+Civilian
+8. NUMBER OF OBJECTS | 9. COURSE
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+•
+Possibly Balloon
+Was Aircraft
+Probably Aircraf
+Possibly Aircraft
+Nob Astronomi col ALDEBARAN
+Probably Astronomica
+•
+Possibly Astronomical
+Other.
+Insufficient Data for Evaluation
+Unknown
+30 Min.
+1
+Stationary
+10. BRIEF SUMMARY OF SIGHTING Shiny bright objt with
+11. cOMMENTS If reported elevation is right
+appearance of a large spotlight. No motion.
+objt was probably first magnitude star
+About 3 times size of an automobile headlight. Aldebaran. There was a number of calls
+Appeared 90° fm true N, 60° fm horizon.
+made to newspapers and other agencies
+prior to this sighting, however due to time
+and reported elevation they were not
+same objt as in this report. Planet Mar:
+was observed in SW almost overhead by
+analyst and it was very bright and red.
+There was a number of bright stars in
+SW at this time. Aldebaran was to w and
+about position reported by witness.
+ATIC FORM 329 (REV 26 SEP 52)

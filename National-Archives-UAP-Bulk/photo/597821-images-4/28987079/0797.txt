@@ -1,0 +1,16 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T14:34:02Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9921108, "source_ctime_ns": 1793383489046582527, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28987079/0797.jpg", "source_mtime_ns": 1785747895000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28987079/0797.jpg", "source_sha256": "79074ca162ca76cfbcd41f83d83687dcd2c84bf9d44a6d19fb44f979345a74af"}
+
+===== PAGE 1 =====
+{"alpha_words": 57, "chars": 366, "method": "ocr", "page": 1, "variant": "plain-vision"}
+No Case (Information Only)
+24 May
+• 1960
+Ocumare Del Tuy, Venezuela
+Two da
+do l
+oror,
+On lay 34 at Ocumare Del Tuy, Venezuela a doctor, a topgrapher
+and a policeman watched three UFOs descerding in formation with one
+of the objects landing on the ground. After the cbjects left the
+area the tall weeds were found flattened and scorched in a diamond-
+shaped pattern.

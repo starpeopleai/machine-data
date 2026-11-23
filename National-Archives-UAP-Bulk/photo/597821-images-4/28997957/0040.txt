@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T15:06:02Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8165992, "source_ctime_ns": 1793386977615374610, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28997957/0040.jpg", "source_mtime_ns": 1785748120000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28997957/0040.jpg", "source_sha256": "f992f9eeb90ef8830b4d63832ed3abb0be6cd451ab9a9a6244c3082b00da71c7"}
+
+===== PAGE 1 =====
+{"alpha_words": 175, "chars": 1096, "method": "ocr", "page": 1, "variant": "plain-vision"}
+10 9
+ve •
+New York 21, N. Y.
+July 11, 1962
+Bureau Of Unidentified Flying Objects
+Pentagon, Wasnington D.C.
+Gentlemen:
+As spokesmen for the Zoological Astronomical Terra-
+nautical Association I, Miss
+President, Miss •
+feel there ia a matter
+that should come to your attention. We would like to re-
+port two celestial occurrences which neither the hayden
+Planetarium, nor the Weatner Bureau, nor any of the news-
+pepers coulu satisfactorily explain.
+The first incident was seen by both miss Kosen and
+myself, on July 2, 1962. The object in the sky took the
+form of a lighted electric light bulb. it had no tail,
+but it save the appearance of making a streak behind it
+as any rapidly moving light does. It was seen in manhat-
+tan, above Central Park Mall at approximately 9:30.
+It seemed very low in the sky(e.g. slightly lower than
+standard airplanes). It went from east to west, but
+it aid not come from the horizon. it moved a short dis-
+tance near the pointers of ursa wajor, and then vanished.
+The secona incident was seen by another member,
+and myself. It took place at approximately 9:45, on

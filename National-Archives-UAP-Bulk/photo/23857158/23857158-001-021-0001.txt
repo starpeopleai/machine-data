@@ -1,0 +1,63 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T14:36:06Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 12365804, "source_ctime_ns": 1793358134089278096, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-001-021-0001.tif", "source_mtime_ns": 1785681003000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-001-021-0001.tif", "source_sha256": "29cc5e9ed16433eb0b0638f0bb3eb0e8adc1d78bf09d00ced75333581652d32c"}
+
+===== PAGE 1 =====
+{"alpha_words": 181, "chars": 1308, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+ADC BØ05
+ENB219
+YDD211
+VYD22S
+VDD229
+JESPT 132
+RR JEDEN JEDWP JEPHQ JEPYB 444
+DE JESPT 104
+AT 92 SUE Sept 2
+Aus 27 18 2 5 54.
+it cond Ve cos admin
+cond ady
+53340
+82705DE ANTC PATRICK AXB FLA
+TO JEDEN/COMDR ADC ENT AFBICOLOER
+JEDWP/COMDR AIR TEC INT CNTR WRIGHT PATTERSON AEB OHIO
+JEPHO/DOI HQ USAF D. C
+JEP
+10/ COMDR ARDC MD
+MTI-7-2365 IN ACCORDANCE IITH PAR 6 AFR 200-2 DID 26 AUG 53 THE FOL
+RPT IS SUBMITTED SMCLN
+•AFF PAR 6 B (1) DESCRIPTION OF OBJECTS
+CA:
+......
+- BASE TOWARDS EARTH PD
+(B) PEA SIZE PD
+(C) WHITE WITH OCCASIONAL RED FLASHES PD
+(D.)
+ONE PD
+(F) NZA
+(Q) N/A
+Киро
+4602d
+Patrick AFB, Florida
+21 Aug 54
+PAGE TWO JESPT 104
+(I) NEGATIVE
+B. REF 6 B (2) DESCRIPTION OF COURSE OF OBJECT SMCLN
+(A) SCANNING OF SKY PD
+(B) 28 POINT 6 DEGREES ELEVATION 246 POINT 8 DEGREES AZIMUTH PD
+(C) 14 POINT 5 DEGREES ELEVATION 257 POIN 6 DEGREES AZIMUTH PDN
+(D) ŞLIGHTLY WAVERING STRAIGHT LINE PD
+(E) LOST SIGHT UPON APPEARANCE OF CUMULUS CLOUDS PD
+C. REF PAR S B (3) SMCLN
+(A) GROUND VISUAL PD
+(B) THEODOLITE CMA ORIENTATIOO TELESCOPE ATTACHED TO RAWIN SET
+AN/ CMD -1 A PD
+(C) N/A.
+D• REF PAR 6 B (4)
+SMCLN
+(A) 23352 CMA 21 AUG. 54 PD
+(B) DUSK AND NIGHT PD
+E. REF PAR 6 B (5)NSMCLN 28 POINT VQE DEGREES N CMA 80 POINT 36 DEGREES
+M PD
+FO REE
+PAR 6 B (S) SMCLN
+(A) NA
+- over

@@ -1,0 +1,144 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T14:48:15Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 28263028, "source_ctime_ns": 1793357848269945470, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1713-582469-0004.tif", "source_mtime_ns": 1785564983000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1713-582469-0004.tif", "source_sha256": "e24a342b1176dd8d1db0a7669aaffffbc76abcd371294015f3b10efbaf3a07b2"}
+
+===== PAGE 1 =====
+{"alpha_words": 160, "chars": 1292, "method": "ocr", "page": 1, "variant": "plain-vision"}
+& Chernsford
+Rotterd
+Nijmege
+WATFORD
+223 MYW .:
+-Southend-On-Sea RNG
+BRUSSELS
+254 BR:
+Chatkam
+• Tunbridge Wells
+287.5 MYE •
+DOVER
+Boulogne D
+E TOUQUET
+• Bruge
+NDSAR
+Anve
+(Antwe
+Tuburg
+STRAIT
+Dunkerque
+Calais
+AREA
+Bruxelles
+Charlero
+_lege
+DUNSFOLD
+957 MYD :.-
+CHANNEL
+Arras
+@ Cambrar
+351 DP
+DAbbeville
+L50°L
+DO Dieppe Amiens
+Rouen
+TILLE
+1056
+CAUTION
+AREA
+Reims
+bourg
+• Lisieux
+LE BOURGET
+364.5 KMB "..
+IRGDI
+/ Versailles
+\Dreux
+608 Pariso
+Chalons
+VOISINS
+Sur-Marne
+rOUSSUS - DE-NOBLE
+Chartres 10
+HAMPHOL
+Etampes
+Troyes
+Metz
+FRESCATY
+ST DIZIER
+• Nancy
+sens
+934
+Orleans •
+DANGER
+AREA
+PROHIBITED
+Enbassighi
+Epinal
+O Lan DEA
+Blois
+ST SYMPHORIEN
+Tours
+Montargis
+Gie
+CORBIGN
+382 FNC
+ROHIBITED
+DANGER
+ARE Appr
+• Chinon
+¿OLOCATION GET GHTING
+BOURGES
+• Chateauroux
+Chalon
+'oitiers
+Gueret _
+Approx
+• Montlucon
+RHUE
+ichy
+FROREATED
+Macont
+• Roanne
+Aubusson
+• Limoges
+> Clerment O
+AULNAT 174 ENL
+Lyon
+Greno
+NK• Pefigueux
+• Brive
+aux
+QMarmang2 FOX
+• Figeac
+Rodez u
+• Montauban
+* Alais
+CARITAT
+3132
+Nimes
+Albi St Affria
+oulouse • Castres
+FREJORGUES 4D
+ẠSt Gaudens
+ISTRES
+Na banne 1216 S
+GULF OF LIONS
+@ Marseille HYERES !
+shon
+Declassification Authority: NND 57565
+GERM
+rtmuna
+Krefeld
+* Dusseldorf
+WAHN
+Koln
+(Cologne)
+Aachen
+Koblenz
+150°
+Saarbrucken
+Karls
+ENTZHEIM
+Strasbourg
+Base
+Berna
+© Nice
+LE VAR
+824169

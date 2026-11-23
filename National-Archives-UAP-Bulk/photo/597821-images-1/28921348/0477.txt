@@ -1,0 +1,59 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T14:21:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6399153, "source_ctime_ns": 1793368648849753523, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28921348/0477.jpg", "source_mtime_ns": 1785688712000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28921348/0477.jpg", "source_sha256": "fa5e2ab8e28e311d510b16b503704460922fd34f2149652a5fc6741b81285dff"}
+
+===== PAGE 1 =====
+{"alpha_words": 80, "chars": 730, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DATE
+12674 Jun
+12675
+_ 4
+126765
+126776
+126788
+126798
+12680 10
+1268/25
+1208220
+12683 30
+DANTE
+12/084/30ł
+1 - 30 JUNE 1969
+LOCATION
+OBSERVER
+West Carrollton, Ohio
+Dayton, Onio
+Illinois, Iowa, Missouri Area
+West Babylon, New York
+New Richmond, Ohio
+Kettering, Ohio
+Kettering, Ohio
+Jacksonville, Florida
+Fort Myer, Virginia
+California and Oregon
+Civilian
+Civilian
+Multiple Civilian
+Civilian
+Civilian
+Civilian
+Civilian
+Civilian
+Civilian
+Multiple Civilian
+ADDITIONAL REPORTED SIGHTINGS (NOT CASES)
+LOCATION
+SOURCE
+Flatwoods, Kentucky
+Ltr
+EVALUACION
+Insufficient Data
+Insufficient Data
+Astro (METEOR)
+Possible Balloon (HO
+Insufficient Deta
+Probable Astro (MARS
+Aircraft
+Possible Satellite
+Possible Astro
+(METE
+Other (MISSILE)
+EVALUATION

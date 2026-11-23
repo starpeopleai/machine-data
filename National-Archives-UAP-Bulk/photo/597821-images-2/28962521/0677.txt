@@ -1,0 +1,47 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T14:22:30Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6736257, "source_ctime_ns": 1793377038793397231, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28962521/0677.jpg", "source_mtime_ns": 1785696695000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28962521/0677.jpg", "source_sha256": "261d511a04faaf281c6f29fcd3524743cb61b2fbb4503a194e5bc04917516a75"}
+
+===== PAGE 1 =====
+{"alpha_words": 134, "chars": 830, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Page 8
+39. Do you think you can estimate the speed of the object?
+(Circle One)
+Yes
+No
+(But it had on apparent angular
+vilority of 5° for ininuts.)
+IF you answered YES, then what speed would you estimate?
+_m.p.h.
+40. Do you think you con estimate how far away from you the object was?
+(Circle One)
+Yes
+No
+IF you answered YES, then how far away would you say it was?
+41. Please give the following informotion about yourself:
+NAME
+_ feet.
+Last Name
+ADDRESS
+First Name
+Tot Worth
+City
+Middle Name
+10 Jards
+Zone
+State
+TELEPHONE NUMBER
+What is your present job?
+Age 7
+Sex
+Finching school this gear
+mala
+Please indicate any special educational training that you have had.
+Grade school
+G5. High school
+c. College
+d. Post graduate
+e. e. Technical school
+(Type)
+cial.
+Suf Fort Wah
+42. Date you completed this questionnire:
+Dor O taber 19,56

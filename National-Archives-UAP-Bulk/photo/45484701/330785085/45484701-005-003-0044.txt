@@ -1,0 +1,40 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T14:24:04Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7385548, "source_ctime_ns": 1793363337179195767, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785085/45484701-005-003-0044.jpg", "source_mtime_ns": 1785684908000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785085/45484701-005-003-0044.jpg", "source_sha256": "0fc1f4e533c80d2bf544858d72db9911e6a2b06fef36ab2aa7b394a0f261b231"}
+
+===== PAGE 1 =====
+{"alpha_words": 329, "chars": 2006, "method": "ocr", "page": 1, "variant": "plain-vision"}
+fidential
+"After he viewed it, an Air Force cartain in a helicopter landed in the
+small city 50 miles southeast of Birmingham and whisked the meteorite away to
+Maxwell Field at Montgomery.
+"Swindle said Sylacauga Mayor Ed J. Howard gave assurances that the object
+will be placed in the State Museum of Natural History at the University of
+Alabama when it is returned by the Air Force.
+"But Nrs. Hodges' husband, who didn't know about the incident until he got
+home from work early last night, was furious about the loss of the meteorite.
+"'I am going to demand that the Air Force return the stone to me', he said.
+'They had no business taking it away in the first place.'
+"Hodges did not get to see the meteorite before it was flown away.
+Hodges, an employs_ of Bell Telerhone Co., said he thught he could 'get
+enough evidence that the thing fell in my house.
+"The meteorite which hit Mrs. Hodges weighed almost 10 pounds.
+ỊPolice Chief W. D. Ashcraft and other officers who handled it before it was
+turned over to the Air Force, said it was a retallic object, black and scorched-
+looking.
+ạiSwindle, the geologist, said the meteorite was six inches in dianeter. He
+said the inside was a metallic, gray granular substance which responded to tests
+given for sulphides.
+"The outside coating was a black satin appearing substance.
+"Besides striking Nrs. Hodges, the meteorite caused quite a stir in Sylacauga.
+"Almost everyone in town saw the smoke which followed the explosion and a
+goodly number saw the explosion itself.
+"C. C. Landers, a country store operator and farmer, was outside his home
+when he heard the explosions.
+"'First there was a loud boom', he said. 'Then in a few seconds there was
+another one and then a third'.
+"Landers said after the first and second explosions, he located the direction
+of the noise and looked aloft and saw the third. There was a little fire and a
+lot of black smoke.
+"He was about two miles from the Hodges house.
+9
+nfidential
+Declassification Authority: NND 923007

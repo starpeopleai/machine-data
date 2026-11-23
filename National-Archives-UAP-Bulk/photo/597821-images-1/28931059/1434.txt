@@ -1,0 +1,15 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T14:20:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6109519, "source_ctime_ns": 1793369263066657609, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28931059/1434.jpg", "source_mtime_ns": 1785688783000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28931059/1434.jpg", "source_sha256": "d92e54ad06afbaa61cb759188dcf3eec12ba3d877eaca75d7ad3058d933d1f56"}
+
+===== PAGE 1 =====
+{"alpha_words": 23, "chars": 137, "method": "ocr", "page": 1, "variant": "clean-vision"}
+LARGE WINDOWS
+орг
+INE5
+RED FlAmE
+TRAILING ABOUT
+So FILI
+L BLOE GhOW ONDER FUSELAGE
+VRY BRENT WHITE LIENT
+SZEN
+IN ANDRUS
+NO WINES VISIBLE

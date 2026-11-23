@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T15:16:24Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9455848, "source_ctime_ns": 1793379726472159897, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28973289/01367.jpg", "source_mtime_ns": 1785700739000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28973289/01367.jpg", "source_sha256": "1315608367b871f0134d38f7259c19606f3bf030bdb57df398c6fc510392dfa8"}
+
+===== PAGE 1 =====
+{"alpha_words": 173, "chars": 1122, "method": "ocr", "page": 1, "variant": "plain-vision"}
+weird-looking red glows,
+On Wednesday nient›. thar confused the issue;
+November 6th, an unus'al auroral display, featuring
+and by Thursday the Air
+Force had rotten into the act in characteristic fashion, having replayed their
+all-purpose tape recording about no evidence of saucers, etc.
+This seems to
+have been taken as gospel by most papers, although there was some praisemorthy
+editorial skepticism conerning the
+"explanations."
+Notable in this respect
+was George Todt, editorial writer and columnist for the San Fernando Valley
+Tines;
+and Arthur Edson, Associated Press reporter in Washington.
+Northern Lights Give
+Bright, Colorful Show
+Salmmering area and Sery curtal
+red, SPece and whike bia
+across the sky in a dassling pheno
+wa as the nortbara lig
+or aurora borealls Monday wight,
+Sky-razers throughout Fairborn and moat of the nation observed th
+northern Hasts which sorrally are seen at high latitudes.
+The musually intense display had marked affect on radio trans
+rafasion and teletype wires. Radio hame in the Miancapolls arse re-
+ported isey were unable to operate durias the display.
+Sonist Satollito Stron.

@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T14:34:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10057097, "source_ctime_ns": 1793387792025108330, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28999160/1127.jpg", "source_mtime_ns": 1785748159000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28999160/1127.jpg", "source_sha256": "162342ad5190b8a850961924680c2f4fb42647440ab67c8c9fee6e07009aea9e"}
+
+===== PAGE 1 =====
+{"alpha_words": 152, "chars": 950, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Pago 9
+U.S. AIR FORCE TECHNICAL INFORMATION SHEET
+(SUMMARY DATA)
+In order that your information may be filed and coded os accurately as possible, please use
+the following space to write out a short description of the event that you obsorved. You may re-
+peat information that you have already given in the questionnaire, and add any further comments,
+statements, or sketches that you believe are important. Try to present the details of the observa-
+tion in the order in which they occurred.. Additional pages of the same size paper may be attached
+if they. ore needed..
+47461-
+NAME.
+SIGNATURE
+DATE
+(Do Not Write in This Space)
+CODE:
+Jelephone report to 0/D.
+"I was flug at 33, 000i 63 NA
+i trail behind the B-47 flor by
+CAPT WETZEL. Om TAS Was 430 Knots.
+hocatin 3530 N/ $700 W... June. 09052
+May Heading 0370% Noted finned shaped
+cloud out ahead unth bright get
+at its aper. sor bright for afte burner.
+Capt wetzel flew through the decay nig clond
