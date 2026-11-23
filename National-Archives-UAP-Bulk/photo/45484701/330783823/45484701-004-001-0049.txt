@@ -1,0 +1,55 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T08:20:40Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7147578, "source_ctime_ns": 1793362817762911371, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330783823/45484701-004-001-0049.jpg", "source_mtime_ns": 1785685058000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330783823/45484701-004-001-0049.jpg", "source_sha256": "b7c7255983728f602b97c2ef3294bdc73e5b4a22457d07a67810e38bf0947aee"}
+
+===== PAGE 1 =====
+{"alpha_words": 370, "chars": 2460, "method": "ocr", "page": 1, "variant": "plain-vision"}
+WHAL
+1D-OSI 24-155
+b. The object was sighted at approximately 2130 hours,
+EDI, on 22 July 1952 and was observed for seven (7) or eight (8) minutes.
+C.
+Sighting was by visual observation only.
+faces north, when she observed the object to her left. The distance could
+not be estimated, however, the object appeared to be over the Connecticut
+River, and seemed to be following the course of the river, southward. Mrs.
+HANRAHAN called her daughter, KATHERINE, and both observed the object from
+the front porch until its disappearance.
+Mrs. HANRAHAN and KATHERINE then
+ran through the house to the back yard and observed it from there for about
+two (2) minutes until it disappeared behind trees in the yard next door.
+3. Mrs. HANRAHAN, age 52, housewife, and KATHERINE, age 15, high
+school student, have both observed various aircraft which fly over often;
+however, the object seen could not be associated with any type of aircraft
+they had ever observed before.
+4•
+Weather conditions as reported by Westover AFB Weather
+Station for 2125 hours, EDT, 22 July 1952 are as follows: sky clear,
+twelve miles visibility, temperature 830F, wind west by northwest at
+seven (7) miles per hour.
+5. On 24 July 1952, Mr. ARTHUR CATAW, Manager of Mountain Park
+Amusement Center, Holyoke, Mass., advised that fireworks are set off every
+Tuesday during July at 2230 hours.
+The fireworks usually last about twenty
+(20) minutes and are over not later than 2300 hours. Mr. CATAW advised
+that amoung the fireworks there are aerial bombs and displays which sometimes
+reach as high as Little Mt. Tom (altitude 540 feet). The aerial displays,
+according to Mr. CAIAN, are composed of rocket fireworks in the shape of a
+wheel, and when set off in the air, go through unpredictable motions. Mr.
+CATAW further stated that from the
+top of Little Mt. Tom, one could see both
+Springfield (approximately 10 miles distance) and Holyoke (approximately 2
+miles distance) and that Mountain Park is in a northwesterly direction from
+both cities.
+6. No physical evidence exists and no interception or identification
+action taken.
+ACTION:
+Two (2) copies of this report have been forwarded to the Commanding
+General, Air Materiel Command, Wright-Patterson Air Force Base, Dayton, Ohio,
+Attention: MCIS. No further action is contemplated by this District Office.
+cc:
+CG, AMC (dup)
+Cmdr, ATID-MATS (Info)
+ROBERT S. JONES
+It Colonel, USAF
+District Commander
+HUENTIAL
+Declassification Authority: NND 923007

@@ -1,0 +1,8 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T08:24:15Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8606784, "source_ctime_ns": 1793362298851732932, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330782569/45484701-002-004-0089.jpg", "source_mtime_ns": 1785685175000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330782569/45484701-002-004-0089.jpg", "source_sha256": "c1a7260b1709703a81d556f19bb71f4f1a7f55025a84cced54f36f19aeeaa669"}
+
+===== PAGE 1 =====
+{"alpha_words": 7, "chars": 76, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 1, "variant": "plain-vision"}
+ЗИЛО ПОІТАЛІВВАЛО
+NO TTIROHTUA YA
+YE
+Declassification Authority: NND 923007

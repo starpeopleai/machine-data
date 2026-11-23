@@ -1,0 +1,13 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T09:05:50Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9763950, "source_ctime_ns": 1793363924990685501, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330786313/45484701-006-005-0013.jpg", "source_mtime_ns": 1785684957000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330786313/45484701-006-005-0013.jpg", "source_sha256": "f7c13e3fd8b3198ab8aecc5283bca2585fd90ca67997eb1c795830f9e8773820"}
+
+===== PAGE 1 =====
+{"alpha_words": 44, "chars": 348, "method": "ocr", "page": 1, "variant": "plain-vision"}
+ENTIAL SECURITY INFO MATION
+INCLOSURE:
+FOR COMMANDING GENERAL, AIR TECHNICAL INTELLIGENCE CENTER, WRIGHT-
+PATTERSON AIR FORCE BASE, OHIO
+1. Sketch of Captain MeELWAIN's observation of the obiect.
+2. Sketch of location of object in relation to city of Albuquerque.
+- CLOSED -
+CONFIDENTIAL SECURITY INFORMATION
+Declassification Authority: NND 923007

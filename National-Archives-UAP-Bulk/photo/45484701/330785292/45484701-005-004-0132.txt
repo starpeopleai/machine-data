@@ -1,0 +1,46 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T08:33:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7200362, "source_ctime_ns": 1793363473058025962, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785292/45484701-005-004-0132.jpg", "source_mtime_ns": 1785684658000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785292/45484701-005-004-0132.jpg", "source_sha256": "3866d31a99ac4eabf1ae084c8cf48620e00f99aed4bd2632b47123cd87e4053d"}
+
+===== PAGE 1 =====
+{"alpha_words": 157, "chars": 1131, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Page 2
+Essential Elements of Info
+Project "Sign"
+6. Time in sight Approximately five (5) seconds.
+ONEDENTIAL
+7. Appearance of object
+a. Color led on top. blending into orchid at bottom point.
+b. Shape (sketch if possible)
+c. Apparent construction (translucent) Solid
+BLENDED
+d. Size
+(1) Estimated size
+(2)
+Size as it appeared from observer's view Approximately 12" by 14"
+(Compared to known object) (about size of a serving platter)
+8. Direction of flight About south 180°
+9. Tactics or maneuvers
+2.
+doe2114c1ng,
+described a
+fluttering, evasay edent, valental a, it descendid nath,
+wavering up and cow, dropping suddenly behind the cloud bank lying
+10. Evidence of exhaust NONE
+to the south.
+a. Golor of smoke
+b. Length and width
+c. Odor (if any)
+d. Rate of evaporation
+e. Does trail very with sound? (spurts)
+11. Effect on clouds
+a. Opened path thru clouds
+b. Formed cloud or mists
+c. Reflected on cloud
+Reflected either on or above cloud; seemed to
+vanish behind it.
+d. Shown thru cloud
+12. Lights NONE
+a. Reflected or atteched
+b. Luminous
+c. Blinked on and off in relation to speed
+ONHLEN
+Declassification Authority: NND 923007

@@ -1,0 +1,48 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T08:34:51Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7697112, "source_ctime_ns": 1793361855500902109, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330781540/45484701-001-004-0114.jpg", "source_mtime_ns": 1785685077000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330781540/45484701-001-004-0114.jpg", "source_sha256": "6ee210048c5ac563bafc410b88178a1d26f4d69942270a8047b4d06fe3bd71e9"}
+
+===== PAGE 1 =====
+{"alpha_words": 454, "chars": 3029, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DETAILS:
+1. This investigation was requested by the District Commander, 14th OSI
+District, Lowry AF Base, who at 1100 hours (UST), 7 April 1949, was telephonically
+informed by WAND W. HALLORAN, Special Agent, Federal Sureau of Investigation,
+Denver District Office, that on the previous night, 6 April 1949, at approximate y
+1950 hours (IST), while prked at Stapleton Airport, Penver, Colorado, he had
+sighted an identified aerial object which pursued an extremoly fast and
+erratic flighte
+AT DENVER, COLORADO
+Mr. EDWARD W. HALLORAT, 455 Harrison St., Penver, a Special Agent of the
+FBI, Denver Dietriet Office, was interviewed and stated that he and his wife
+had been sitting in a parked sutomobile at approximately 1950 hours (19T), 6
+April 1949, in the parking lot at Stapleton Airport, watching commercial aireraft
+landing and taking off. Mr. HALLORAN said that he observed a rather brilliant,
+bluish, white light coming from the Northwest at a high rate of speed, at
+approximately fifteen thousand (15,000) feet altitude. Mr. HALLORAN said that the
+light traveled in an erretic, jerky flight and gained altitude as it passed over
+the airport, rising to about twenty-five thousand (25,000) feet altitude, at which
+point it seemed to pick up additional speed.
+Mr. HALLORAN further stated that the
+light seemed to flicker at times and he continued to watch it as it traveled due
+east for approximately twelve (12) or fifteen (15) more minutes, et which time
+it disappeared from view. Ir. HALLORAN said that a Mr. and Mrs. HERBERT KURZ,
+who were sitsing in an adjacent oar, had observed the same object, and all had
+concluded that it could not have been an airplane.
+On 7 April 1949, Mr. and lira, HERBERT I, KURZ, 310 Jeokson St., Denver,
+were interviewed and stated substantially the follovings They had been sitting
+in their automobile parked in the parking lot at Stapleton Airport at approximately
+2000 hours (MST), 6 April 1949, when Mr. KURZ noticed a bright bluish-white light,
+coming from the northwest and traveling in an erratic, jerky path at a high
+rate of speed. Mr. KURZ stated that the object traveled in a due east direction
+directly over the airport, gaining altitude as it went. Mr. KURZ further stated
+that the object seemed to olimb mch faster than an airplane and he observed it
+for approxinately twelve (18) to fifteen (15) minutes before it was lost to sight.
+Mr. KURZ said that he could not estinate the altitude of the object observed,
+but he did not believe it was an airplone or a star.
+AT STAPLETON AIRPORT
+Investigetion and inquiries made at U. S, Weather Bureau, Weather
+Station, revealed that a one hundred (100) gram weather balloon with a small
+light suspended therefrom, was released at approximately 2003 hours (MST),
+6 April 1949. This balloon was tracked by optical means, to 2029 hours (MST),
+at which time the balloon burst or was lost to sight, Weather conditions on
+6 April 1949 indicated olear skies with unlimited visibility. Woather conditions
+Declassification Authority: NND 923007

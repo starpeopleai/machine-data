@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T09:09:02Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 15615376, "source_ctime_ns": 1793358953844559274, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-080-0005.tif", "source_mtime_ns": 1785681275000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-080-0005.tif", "source_sha256": "18f1106476b3b19e6616efdc074882446294938d1f8071c9efc55df6920ea11b"}
+
+===== PAGE 1 =====
+{"alpha_words": 43, "chars": 345, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+GROUND VISUAL
+NONE
+• NYA
+1. 18-21502
+2. DA
+F. UN 4515
+1 ›
+REVEREND SOEBEL SLOAN IOWA
+AGE 35 OLERGYMAN
+HOME RHONE
+83571
+PAGE THREE RJEDNG 1I
+2. NVA
+1. VERY SLIGHT WIND
+2. NONE
+3. UNLIMITED
+4. NONE
+5. NONE
+NOME
+NONE
+J. NONEN
+4.5
+TOR 6 T-33 ON PENETRATION RUNS
+AT
+SOUIK CITY
+NO EXPLANATION
+18/23542 OCT RJEDNG

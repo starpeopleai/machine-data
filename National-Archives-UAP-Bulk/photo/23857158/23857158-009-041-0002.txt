@@ -1,0 +1,73 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T08:50:45Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9659378, "source_ctime_ns": 1793359628250102103, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-009-041-0002.tif", "source_mtime_ns": 1785681475000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-009-041-0002.tif", "source_sha256": "a1583a7e0eb44c73363e81b09732c0fd5a8fff49a6dfb21c9f90cb38926599e4"}
+
+===== PAGE 1 =====
+{"alpha_words": 185, "chars": 1194, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+EN0012 ENC121 YDB150VYB152 VDB18ØKBA047
+PP RJEDEN RJEDWP RJEPHQ RJEPNB
+DE RJESKB 4D
+P 101635Z
+FM COMDR 660TH ACWRON MACDILL AFB FLA
+TO RJEDEN/COMDR ADC ENT AFB COLO
+RJEDWP/COMDR AIR TECH INT CNTR WRIGHT PATTERSON AFB OHIO
+ZWL/COMDR 35TH ADIV D DOBBINS AFB GA
+RJEPHQ/HEDUSAF WASHDC
+INFO RJEPNB/COMDR EADF STEWART AFB NY
+BT
+Probaly
+Axtonemen
+/UN C LA SS IF I E D/OPS 019 ATTEN: DIR OF INTELLIGENCE
+REPOKT ON UNIDENTIFIED FLYING OBJECTS PD
+1. GLOWING OBJECT ROUND AND SMALL
+A -
+ROUND
+B•
+c
+SMALL AS COMPARED TO A DIME HELD AT ARMS LENGTH
+WHITE
+Metcor
+PAREY
+1 PAREN ONE
+E. NONE
+F.
+NONE
+G
+TAIL 5 TO 6 TIMES LONGER THAN THE OBJECT
+SOIND
+I. SLOAER THAN A METEOR
+2.. FROM NE TO SW
+NONE
+32 DEGREES ABOVE HORIZON NE
+0 DEGREES UW
+Da
+STRAIGHT COURSE CONSTANT SPEED
+NONE
+PAREN 3 PAREN THREE SECONDS
+NONE
+NONE
+3. HAD NO AID SIGHTED BY NAKED EYE
+C. NONE
+4. 9 JAN 1840 EST
+A. 9 JAM 23407
+NIG.T
+5. JUST SW CENTER OF GREATER
+MIAMI TA
+6. MR
+CMA CAROL GABLES
+FLA
+PHOTOGRAPER MRS
+PAREN WIFE PAREN
+7. WX CLEAR UNLIMITED VIS WINDS 25 TO 40000 FT WNW 90KTS
+A. VERY GOOD VIS
+B. NONE
+C. NONE
+D. NONE
+UNLIMITED
+F. NONE
+8. NONE
+9 NONE
+10: NONE
+11. NONE
+12. NONE
+BT
+10/1936Z JAN RJESKB

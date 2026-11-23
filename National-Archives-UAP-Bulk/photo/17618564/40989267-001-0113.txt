@@ -1,0 +1,64 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T08:44:45Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 14966356, "source_ctime_ns": 1793355529183279972, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0113.jpg", "source_mtime_ns": 1785564472000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0113.jpg", "source_sha256": "b65a69f9efa863b9e94cadc3bdf71fa2033cee4a8dffd70a378fb121a1df3b75"}
+
+===== PAGE 1 =====
+{"alpha_words": 403, "chars": 2758, "method": "ocr", "page": 1, "variant": "plain-vision"}
+105-
+ENVELOPE
+WEIGHT (POUNDS)
+ı0ª
+PARAMETERS
+BALLOON
+AVERAGE INTERNAL
+TEMP.(T.) = 250°F
+ALTITUDE = SEA
+LEVEL
+A.R. D. C.
+MODEL
+ATMOSPHERE
+DYNAMIC FACTOR = 2
+FACTOR OF SAFETY = 2
+NOTE:
+BALLOON WITH A DIAMETER LARGER THAN
+0O FEET UTILIZE A TAPERED THICKNESS
+FABRIC
+BALLOON
+DIAMETER (FEET)
+Figure 7. Envelope Weight Vs Diameter (ideal fabric)
+217
+a. Dynamic load factor = 2 (ground launched)
+b.
+Factor of safety = 2 (manned system)
+c.
+Balloon average internal temperature = 250°F
+d. Operational altitude = from sea level up to 40,000 feet
+e.
+An ARDC model atmosphere
+Figure 7 assumes an ideal fabric (stepped above 100 feet) which is of such a
+thickness and weight as to have the required allowable strength at the throat of the
+envelope. This fabric will be extrapolated from an existing acrylic-coated nylon
+fabric which weighs .010 1b/ft?, has a strength of 40 1b/lin inch, and a thickness of
+3 mil. The 50 foot balloons that are now in use on the manned flight programs are
+constructed from this fabric and have a weight of approximately 100 pounds.
+By specifically designing each balloon individually, reduction below the values
+of Figure 7 may be realized in the higher weights. For example, a 300 ft. envelope
+will weigh approximately 12,000 lbs when constructed of a combination of 2.3 and
+2.7 ounce base fabric (heavier fabric in throat section).
+2.2.2 RIGGING
+The function of rigging is to support a useful load beneath the balloon envelope.
+For most of the applications of current interest, this load will include a heating sys-
+tem and fuel supply so arranged as to provide heat for extended flight duration.
+Generally, the heating system is supported at the base of the balloon with a number
+of load lines joining a stress distributing catenary curtain which is built into the
+balloon and a ring or bar to which the burner is mounted (Figure 8). Fuel tanks
+may be carried beside or below the burner, in any convenient location, as deter-
+mined by the payload configuration. The payload itself, is generally suspended from
+the same load lines as the heater.
+2.2.3 INFLIGHT HEATING SYSTEM
+The most important single feature of the modern Montgolfier balloon systems
+is the ability to carry an inflight heating system. This inflight heating system not
+only extends the flight duration capability but permits accurate altitude control of
+the balloon system during flight. By regulating the heat input into the balloon the
+gross lift may be controlled to yield ascent, level flight, or descent as desired.
+In theory, almost any fuel can be used to supply inflight heat. In practice,
+liquid fuels have the desirable quality of continually adjustable volumetric control.
+With suitable burners, any liquid fuel which is compatible with the operational envi-

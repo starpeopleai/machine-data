@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T08:25:58Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10389777, "source_ctime_ns": 1793364618635972965, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787490/45484701-007-003-0005.jpg", "source_mtime_ns": 1785684880000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787490/45484701-007-003-0005.jpg", "source_sha256": "66835449b353aa01ff2cc5b53a1559a4e1587f1073b80c0a0d660bc75bdf36d3"}
+
+===== PAGE 1 =====
+{"alpha_words": 122, "chars": 802, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PAGE 6-Vallejo News-Chronicle
+Friday, Sept.. I, 1950~
+WHAT IS IT?-Mrs. Ilene Brink displays the
+strange kite that fell in her yard.
+After flying
+saucer and Russian balloon theories were dis-
+News-Chronicle Photo
+carded, it was decided that the kite had been
+used in wind current studies.
+FLYING SAUCER
+WRONG AGAIN
+Another flying saucer possibil-
+ity exploded yesterday in the
+yard of Mrs. Ilene Brink, 907
+Amador street.
+The balloon attached to what
+appeared to be a large wind cur-
+rent observation kite broke and
+dropped the odd-shaped white and
+silver object beside her hedge.
+Mrs. Brink and her neighbors
+investigated the object cautiously
+until they found a message on it
+requesting that the finder notify
+airman in a U. S. Air Force
+con at Treasure Island.
+Declassification Authority: NND 923007

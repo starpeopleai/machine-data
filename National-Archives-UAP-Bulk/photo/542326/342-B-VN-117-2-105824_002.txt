@@ -1,0 +1,14 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T09:02:17Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7693880, "source_ctime_ns": 1793368478831681720, "source_file": "National-Archives-UAP-Bulk/photo/542326/342-B-VN-117-2-105824_002.tif", "source_mtime_ns": 1785566122000000000, "source_rel": "National-Archives-UAP-Bulk/photo/542326/342-B-VN-117-2-105824_002.tif", "source_sha256": "536e59bf5960aafdf06ed9b3be991a6c004f404b93595844d5b5651cad444f18"}
+
+===== PAGE 1 =====
+{"alpha_words": 32, "chars": 257, "method": "ocr", "page": 1, "variant": "plain-vision"}
+342-13-VN-117-105824
+105824 USAF - STATUS?
+(PW Briefing)
+Maj J. N. Kesier, USAP, lying on hospital
+cart.
+SOURCE UNKNOWN
+4x5 copy neg 014 rec'd 9/26/69 from OASDạẠPA
+Filed & AIR FORCE ACTIVITIES (Vietnam)
+PRISONERS OF WAR
+Index: PERSONNEL - Maj J. H. Kaeler

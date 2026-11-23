@@ -1,0 +1,56 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T08:36:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8620203, "source_ctime_ns": 1793355354681324870, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989265-001-0064.jpg", "source_mtime_ns": 1785564440000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989265-001-0064.jpg", "source_sha256": "1639949817018b3f699eef4578b9b46573872d40efe87a8a3203fa1d5bb59c52"}
+
+===== PAGE 1 =====
+{"alpha_words": 475, "chars": 3186, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Aerospace Balloons: From Montgolfiere to Space
+Edwin J. Kirschner
+"In this overview, author Kirschner limns the historical develop-
+ment of ballooning, examining such events as Auguste Piccard's
+ascents into the stratosphere in the 1930s and retired Air Force Col.
+Joseph Kittinger's 1984 solo crossing of the Atlantic in the Rosie
+O'Grady. In addition to the many photographs and illustrations, a
+set of appendices on termis and tables, regulations and safety, and
+ballooning records rounds out the text. Enthusiasts will find this book
+a tour de force of the sport and science of ballooningiẠại
+-AIR FORCE Magazine
+From the first baroquely decorated hot-air balloon floated at Versailles
+by the Montgolfiere brothers to the grand Seppelins of the early part of this
+century to the space-age Mylar models circling the globe today, man has
+been fascinated by the possibilities of lighter-than-air flight. If you're one of
+these balloon enthusiasts, you won't want to miss this detailed and pictori-
+ally rich presentation of the history, development, scientific research, spe-
+cial events, and modern applications of the numerous types of balloons.
+Beginning with the balloon's early period and following it into the Twen-
+tieth Century when there was an upsurge in military, sport, and high-altitude
+scientific ballooning... the evolution of the balloon is examined in an en-
+grossing narrative and portrayed by hundreds of outstanding photographs
+and drawings. You'll go back over the hot-air balloon's 200-year-history, reliv-
+ing the milestones and achievements in the development of the balloon.
+Every type of balloon imaginable is covered from hot air, gas, and
+powered balloons to tethered, and special balloons such those used in the
+Viking Project, Mars Voyager, and Venus Project. The developments in the
+design and operation of hot-air and gas ballooning are also studied. You'll
+discover how the atmospheric balloon has moved forward into the aerospace
+era and space structure technology, linking the early heritage of adventurous
+pioneers to the future technology of space. The present developments and
+potentials still being unfolded are examined. You'll get a look at the various
+forms and types of balloons used in the atmosphere and space and some
+produced by NASA scientists for the U.S. space program. In addition, a com-
+prehensive look is taken at the increasing popular sport of ballooning, with
+details on types of balloons, racing, specifications, and operations. Finally,
+making this a complete source on balloons, is a handy section of terms, ta-
+bles, regulations and safety, and world balloon records.
+A pilot and retired Air Force colonel, Edwin J. Kirschner has earned a
+Ph.D. degree and is employed in key government and industry positions,
+and as an educator. He has contributed to five encyclopedias and profes-
+sional publications on lighter-than-air, aerospace, and transportation sub-
+jects and is Chairman, Board of Trustees, of the American Airship
+Association.
+TAB
+TAB BOOKS Inc.
+Blue Ridge Summit, Pa. 17214
+Send for FREE TAB Catalog describing over 1200 current titles in print.
+FPT > $12.95
+ISBN 0-8306-8851-X
+PRICES HIGHER IN CANADA
+1260-0185

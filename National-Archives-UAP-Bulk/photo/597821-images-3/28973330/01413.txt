@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T08:40:52Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9143719, "source_ctime_ns": 1793379745462381934, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28973330/01413.jpg", "source_mtime_ns": 1785700815000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28973330/01413.jpg", "source_sha256": "00002844f9085c7277ae8012ef04fcc9298e547f2ead8c2524aee96597932b1c"}
+
+===== PAGE 1 =====
+{"alpha_words": 42, "chars": 303, "method": "ocr", "page": 1, "variant": "plain-vision"}
+B. NA
+(7) A. CLEAR AND COLD
+Astro
+O Le
+dat altit. 4;
+Berl
+PAGE THREE RJERJM 2L
+5• NEG
+C. NO CEILING
+D- EXCELLENT
+ANONE
+• NONE
+(S) A THREE (5) SHOOTING STARS AT ABOUT
+(9) NONE
+(10) NONE
+(11) NONE
+(12) NONE
+(13) NONE
+NOT A
+ShooTINg SIAr
+FOr 3 MINUTeS
+SAM
+4 ATIC
+et elha
+27/27122 NOV RJEPJM
+Tosall als
+L
+K

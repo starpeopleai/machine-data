@@ -1,0 +1,19 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T09:06:08Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9896089, "source_ctime_ns": 1793383115467419409, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28986357/0116.jpg", "source_mtime_ns": 1785748396000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28986357/0116.jpg", "source_sha256": "96571960fb0e2ce6f05578c9130f4d2d0cb95c2f3f28e3df55002b74f3d2e9fc"}
+
+===== PAGE 1 =====
+{"alpha_words": 60, "chars": 421, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Itr, ig 1st Missile Div, VAFB, 10 May 60, Letter of Transmittal
+28 Ind., Hq AFEMD (WDYI)
+MAY 2 4 1960
+TO: ATIC (APCIN-4F30, ATIN: INCol Jomes C. Pox), WPAPB, Ohio
+1. Forwarded as possibly being a source of information on Sputnik IV.
+2. Attached is copy of a letter of acknowledgnent sent to
+FOR THE COMMANDER:
+must 1U Wickland
+DANIEL W. WICKTAND
+Colonel, USAF
+DCS/ Intelligence
+2 Atch
+1 n/c
+Added 1 atch
+2. Cy Itr, WDII,

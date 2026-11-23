@@ -1,0 +1,65 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T09:13:17Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 22205608, "source_ctime_ns": 1793361412878381946, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-005-0104.tif", "source_mtime_ns": 1785565333000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-005-0104.tif", "source_sha256": "9fd150f50280cbbf1f2b9f2209830f78d05e085edaa87a8bef2ebd6c118d2e55"}
+
+===== PAGE 1 =====
+{"alpha_words": 237, "chars": 1714, "method": "ocr", "page": 1, "variant": "plain-vision"}
+. UNCLASSIFIED
+CLASSIFICATION
+COUNTRY OF ACTIVITY REPORTING
+REPORT NO.
+Finland
+IR-1407429
+AIR INTELLIGENCE INFORMATION REPORT
+COUNTRY OR AREA REPORT CONCERNS
+DATE OF INFORMATION
+Finland
+Various
+ACTIVITY SUBMITTING REPORT
+DATE OF COLLECTION
+Office of the Air Attache
+Helsinki, Finland
+PREPARING INDIVIDUAL
+28 Mar 60
+DATE OF REPORT
+Major Lee R. Thornton, A/AirA
+NAME OR DESCRIPTION OF SOURCE
+30 Mar 60
+EVALUATION
+Local Press
+REFERENCES (BAIR Subject, previous reports, etc
+B-2
+as applicable)
+AIRG 600
+SUBJECT (Descriptive title. Use individual reports for separate subjects)
+(Leave blank)
+379005
+SRI STATUS (If applicable)
+SRI NO.
+CANCELED/COMPLETE
+SRI NO.
+CANCELED/INCOMPLETE
+SRI NO.
+ACTIVE
+ADDITIONAL INFORMATION ON (Date)
+Appearance of Unusual Light Phenomenon over Finland UFO
+Fully stated form bich
+highliostet, i elicit name of copic report. Begin narrative text on AP Form 112a ales teport can be
+This report transmits articles which have been translated
+from various Finnish newspapers concerning the sighting of strange
+lights in the sky during March over Finland.
+APPROVED:
+KARL T. RAUK
+Colonel, USAF
+Air Attache
+INCLS
+DISTRIBUTION BY ORIGINATOR (Except USAF and file. Indicate Dapl M/oz and copies w/o inclosures, if applicable)
+USAFE (Dup M/oz cy)
+WARNING: This document contains information affecting the national defense of the United States within the meaning of the Espionage Laws,
+Title 18, U.S.C., Section 793 and 794. Its transmission or the revelation of its contents in any manner to an unauthorized person is probibited
+by laro.
+AF 15 SEP 54 112
+Air Force-USAFE, Wsba, Ger-57-9027
+REPLACES AF FORM 112, 1 OCT 52, WHICH MAY BE USED
+UNCLASSIFIED
+CLASSIFICATION
+DECLASSIFIED
+Authority NND 9237007

@@ -1,0 +1,64 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T08:33:59Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7462112, "source_ctime_ns": 1793382171695507476, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28982642/1189.jpg", "source_mtime_ns": 1785701028000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28982642/1189.jpg", "source_sha256": "1d784897989fc6d83875824a3e013b78151542fe7f7d971961d3630f42f268eb"}
+
+===== PAGE 1 =====
+{"alpha_words": 400, "chars": 2878, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AF FORM 112-PART II
+APPROVED 1 JUNE 1948
+AIR INTELLIGENCE INFORMATION REPORT
+FROM (Agency)
+Detachment 7, 1006th AISS
+Snelling AFS, St Paul 1l, Minn
+D7-UFO3-2-59
+PART FIVE
+PAGE
+11.
+OF
+13
+PAGES
+SUFPLERENTARY INVESTIGATIVE EFFORTS:
+A check with SiG Headquarters, Omaha, Nebraska vas made by Detachment 7,
+1006th AISS, for any SAC aircraft in the FINLAND, Minnesota area at the time of
+sighting.
+SAC reported single B-52 aircraft working area during specified tine.
+Refer to inclosure #l, Part Five, of this report.
+2. A check with Flight Service Genter, Lowry ATB, Colorado was made for aircra
+in the same area. Research of their Flight Service Center recorde failed to reveal
+any aircraft activity in the vicinity of the UTOB sightings during the dates and time
+specified. Refer to inclosure #2, Part Five, this report.
+A check with the DULUTH Municipal Airport,
+Minnesota, Control Tower revealed
+that on 13 March 1959 (CST) no flight data was filed during the time of UTOB sighting
+A check was made with the following civilian companies which conduct balloon
+operations in the state of Minnesota to determine possible balloon flights in sight-
+ing erea at time of sighting:
+General Mills, Inc., MINNEAPOLIS, Minnesota - Negative resulta.
+University of Minnesota, MINNEAPOLIS, Minnesota - Negative results.
+Winzen Research, MINIAPOLIS, Minnesota - Negative results.
+SCHJELDAIL - MORTIFIED, Minnesota - Negative results.
+Raven Industries - SIOUX FALLS, South Dakota - Negative results.
+A check was made with Detachment 4, 19th Weather Squadron,
+DULUTH, Minnesota
+The weather from 1800 Local Standard Time to 2359 LST on 13 March 1959 was as follows:
+The sky was clear.
+Visibility was 15 plus.
+Temperatures ranged from a high
+of 35° F to a low of 270 P.
+Winds were West - Northwest from 10 to 15 hots.
+to inclosure #3, Part Five, this report.
+A check was made with Operations Section of the 756th AC&MRON, FINLAND,
+Minnesota, for aircraft plotted within the ACQW's area of responsibility on this date.
+The following aircraft were plotted as follows: (Refer to inclosure Fl
+One (1) B-52 aircraft 14/0225Z March 1959.
+One (1) B-52 aircraft 14/0242Z March 1959.
+One (1) 0-45 aircraft 14/0348Z March 1957.
+One (1) I-33 aircraft 14/02052 March 1957.
+One (1) Super Constellation 14/02222 March 1959.
+One (1) Super Constellation 14/02372 harch 1959.
+One (1) North Star 14/01232 March 1959.
+One (1) North Star 14/01202 March 1957.
+TE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 US. C.
+31 AND 32, AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW.
+IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF
+INTELLIGENCE, USAF.
+HUNTING CHEC
+1351 0-918739

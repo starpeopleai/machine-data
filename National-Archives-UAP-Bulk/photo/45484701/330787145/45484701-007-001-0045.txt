@@ -1,0 +1,63 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T09:19:16Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8726091, "source_ctime_ns": 1793364453488435123, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787145/45484701-007-001-0045.jpg", "source_mtime_ns": 1785684561000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787145/45484701-007-001-0045.jpg", "source_sha256": "48797163d5b775e324101ff3702f8752cdce9a339448dec8f45f4ed6a9745981"}
+
+===== PAGE 1 =====
+{"alpha_words": 212, "chars": 1588, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UNCLASS REP
+istrict OSI (IG) USAF
+Maywood Air Force Depot
+Cheli Air Force Station
+Maywood, California
+26 MAR 1959
+CLASSIFICATION CANCELLED A
+BY AUTHORITY OF THE DIRECTOR OF SPEC INV
+BY
+KURT K. KUNZ:, Capt, USAF
+Historian
+18D
+49-10
+DATE -
+374/6 5 0ЕС 19îŘșŚ
+SUBJECT:
+Location of large cylindrical 61]
+ery Object
+Sinaloa Province, Mexico
+TO:
+Chief,
+Western Office
+Air Technical Intelligence Center
+P. 0. Box 378
+Pasadena, California
+1. Reference is made to your letter dated 20 March 1959 requesting
+that this office attempt to recover the object described in letter, this
+district office, dated 11 March 1959.
+On 23 March 1959 the OSI Detachment Commander at San Diego
+interviewed ESTHER OBREGON, the daughter of ESPIRIDION OBREGON. She
+advised that she had received a letter dated 28 February 1959 from her
+cousin, MARGARITA ICEDO (a relative of JOSE YCEDO). The letter stated
+in part: "A Colonel in the Mexican Army from the State of Chihuahua
+Evidently the unidentified individual who first found the object
+had also reported its location to local Mexican police authorities.
+The
+present location of the object is unlow to our Detachment Commander at
+San Diego.
+4 •
+The classification of CONFIDENTIAL is required on this letter
+for protection of investigative information against unauthorized
+disclosure which could be prejudicial to further investigative efforts.
+9 APR 1959
+ce: Dir 05I
+121119)
+OUT
+APR 1959
+fx
+F. P. DUNNINGTON, JR
+Colonel, SA:
+District Commander
+N24-185-18
+THE INSECTOS DESERL
+5 2
+UNCLASSIFIED
+38 WAR 59 18
+SPECIADFEUCE DE
+AINS
+Declassification Authority: NND 923007

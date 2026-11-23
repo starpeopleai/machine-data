@@ -1,0 +1,60 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T08:50:44Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9527563, "source_ctime_ns": 1793363246893933765, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330784816/45484701-005-001-0118.jpg", "source_mtime_ns": 1785684643000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330784816/45484701-005-001-0118.jpg", "source_sha256": "e6e3921de156865ddbf8ff4623267e2d0a2e6568952731ae24337a1584b67bb6"}
+
+===== PAGE 1 =====
+{"alpha_words": 224, "chars": 1686, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DiRECTOR,
+O ST
+DEPARTMENT OF THE AIR FORCE
+CLASSIFICATION CANEADQUARTERS UNITED STATES AIR FORCE
+BY AUTHORITY OF THE DIRECTOR OF SPEARHINBTUR
+BY
+KURT K. KUNZE, Capt, USAF
+"Historian,
+DATE
+· DEC 1975
+24-01
+THE INSPECTOR GENERAL USAF
+6TH
+DISTRICT OFFICE OF SPECIAL INVESTIGATIONS
+ROBINS AIR FORCE BASE, ROBINS FIELD, GEORGIA
+SUBJECT:
+Report of
+Unidentified Flying Object
+TO:
+Commander
+•Dobbins Air Jorce Bass
+Marietta, Georgia
+This is in confirmation of a conversation between the
+Base Conmander, Dobbins 'AFE and Ar. E. D. WALKER, Detachmeht
+Commander, Atlanta Detachment, Office of Special
+Investigations,
+concerning a report of an unidentified flying object:
+on 10 say 1954 Mr. BRAN, Asic, Atlanta Field Office,
+rederal sureau of investigation, telephonically advised S/A
+EMBERT D. WALKER, that ROY K. JAIPON, 4830 Hidvale Road, Tucker,
+Georgia, had reported to Ar. BRANT the sighting of three objects
+that, in his estimation, were not conventional type aircraft.
+On 11 May 1954, Mr. ROY H. TAIPON, was intervieved on
+Harvood Drive, Fast Point, Georgis., the location from which TALTON
+viewed the objects. PALTON gave the following information which is
+set forth in the sequence outlined in AFL 200-5:
+SHAPE:
+Round; flying in horizontal position in relation
+to earth.
+SIZE:
+Estimated 20' diameter; thick in center, tapering to
+thinner edges.
+COLOR: Shiny appearance.
+FORMATION: Three objects, flying in a V formation.
+'ABRODYNAMIC FRATURES: Wone recognized.
+VAPOR TRAIL OR AXEAUST TRAIL: None.
+PROPULSION SYSTEM:
+/ Unknown
+SPEED: Betimated 500 - 600 MPH.
+SOUND: None.
+MANEUVERS:
+None; straight flight.
+24-185-6
+UNCLASSIFIED
+RAFB 28 APR 50-50,000
+Declassification Authority: NND 923007

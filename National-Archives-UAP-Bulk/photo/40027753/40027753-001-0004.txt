@@ -1,0 +1,96 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T08:31:20Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 2, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 18005140, "source_ctime_ns": 1793361539186995618, "source_file": "National-Archives-UAP-Bulk/photo/40027753/40027753-001-0004.tif", "source_mtime_ns": 1785565377000000000, "source_rel": "National-Archives-UAP-Bulk/photo/40027753/40027753-001-0004.tif", "source_sha256": "ff9510aea1146b6bb59ee82d49ad5f67b0eb0d82f03816bb5b22cb798f413b62"}
+
+===== PAGE 1 =====
+{"alpha_words": 100, "chars": 1433, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Roll No.
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50 *
+51
+52
+53
+54
+55
+56
+57
+58
+59
+- 60
+File NO.
+7129 - 7521
+7322 - 7509
+7509 - 7641
+7641 - 7818
+7819 - 7970
+7971 - 8180
+8181 - 8360
+8367 - 8512
+8513 - 8700
+8701 - 8848
+8849 - 896šŚšŚš
+8969 - 9148
+9148 - 9312źŚš
+9313 - 9462
+9403 - 9647
+9648 - 9786
+9737 - 9902
+9903 - 10043îŚš
+10044 - 10216
+10217 - 10345
+Date
+11/23/60 - Spring 1961
+3/14/61 - 7/19/61
+7/20/61 - 9/20/61
+9/20/61 - 2/25/62
+2/26/62 - July 1962
+July 1962 - 10/22/62
+10/23/62 - 5/26/63
+5/28/63 - 8/13/63
+8/13/63 - 2/23/64
+2/24/64 - 5/30/64
+5/30/64 - 7/25-26/64
+7/27/64 - 10/30/64
+10/30/64 - 3/12-13/65
+3/13/65 - 7/4/65
+7/4/65 - 8/2/65
+8/2/65 - 8/15/65
+8/15/65 - 9/4/65
+9/4/65 - 10/27/65
+10/27/65 - 3/1/66
+3/1/66 - 3/31/66
+Location
+Kansas City, KS - Kenah, TX
+San Diego, CA - Haailton, Oil
+39.30V 125.5SW (Pacific) - Lincoln, NH
+Lincoln, NII - Kotzebue, AK
+9.14N00.32W(Panana Canal) -
+North Brunswick, NJ
+Glenside,. PA - 65.20N28.50W(Atlantic)
+60.14N13.36W(Atlantic) - Gulf of
+Mexico
+Philadelphia, PA - Borger, TX
+Smithland, IA - Philadelphia, PA.
+California & Oregon - COMANVSUP for
+Antarctica
+REPRODUCED AT THE NAT WONAL ARCHIVES
+Orangeville, CA - Hanilton, NI
+Norwich, NY - Yorkshire, Engländ
+Yorkshire, England - Brooklyn, WY
+Rochester, NY - Taiwan
+Bloomsburg, PA - Albuquerque, NI!
+Florence, AZ - Thackery, Oil
+Dayton, OH. - Pittsburgh, PA
+Ketchikan, AK - Newton Center, MA
+Cloverdale, OH - Stafford Springs, CT
+Beloit, WI - Uttica, NY
+
+===== PAGE 2 =====
+{"alpha_words": 0, "chars": 6, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 2, "variant": "plain-vision"}
+.....

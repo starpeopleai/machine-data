@@ -1,0 +1,56 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T08:42:40Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10592122, "source_ctime_ns": 1793365108762179751, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330788259/45484701-007-009-0092.jpg", "source_mtime_ns": 1785684992000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330788259/45484701-007-009-0092.jpg", "source_sha256": "e1246b2f3092200d00b144a4709bae24a5c392cde8251fd6eb7113af2a0c48a0"}
+
+===== PAGE 1 =====
+{"alpha_words": 146, "chars": 1129, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Wrtn 10 Aug 50
+UNCLASSIFIED
+24-185/24
+(Unclassified) Receipt of Letter for Publication by Mr. ROBERT R. PETRONE,
+Publisher, Midwest Times, Chicago, Ill. - SPECIAL INQUIRY
+Documents & Dissemination Br, Directorate of
+Intelligence, DCS/0
+Counter Intelligence Div, Office of Special
+Investigations, The Inspector General
+11 AUG 1850
+Lt Gol No1a/o3m/53623
+AFOSI
+Attached for your information is a Spot Intelligence Report concerning captioned
+Subject, dated 4 August 1950.
+1 Inel
+SIR fr DO /24 dtd
+4 Aug 50
+GILBERT R. LEVI
+Actg Chief, Counter Intelligence Div
+Office of Special Investigations
+The Inspector General
+When Incl No.
+is (are) withdrawn
+lassification
+identeal.
+CLASSIFICATION CANCELLED
+will be cancelled in accordance with
+COrrespondenedY AUT KURT K: KUNZ, Capt, USAFOR OF SEN
+par 25е, AFT 205-1.
+LY
+Historian
+DEC 1975
+AFCSI FILE COPY-
+DATE
+may
+of Sp
+ven the existence of such
+red in that report
+a to such information
+y authorised by the Director
+ugations, IG, or higher authority.
+UNCLASSIFIED,
+VAUG
+AFCSI
+34-182
+USAR
+-24-5
+OreICE dr
+SPECIAL 10V8Cl. ATIONS
+18/02 6.
+AUG 1 4 1850 CL
+Declassification Authority: NND 923007

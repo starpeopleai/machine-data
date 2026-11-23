@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T08:50:31Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9386474, "source_ctime_ns": 1793385824324968558, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28994212/0637.jpg", "source_mtime_ns": 1785747984000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28994212/0637.jpg", "source_sha256": "8a8bef9880dea95c1a246b5bdb4d7663f0ba64604ca9936bc9360ac78f3ca763"}
+
+===== PAGE 1 =====
+{"alpha_words": 135, "chars": 982, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PAGE FOUR RJEZUR 16
+30,0201
+. NOT AVAILABLE
+(3) CEILING--NONE
+(4) VISIBILITY--8 TO L MILES PLUS.
+(5) AMOUNT OF CLOUD COVER--2/8 TO 3/8
+(6) THUNDERSTORMS IN AREA: NONE
+(7) TEMPERATURE GRADIENT: WEAK INVERSION AT 16,800 FEET.
+H. ANY OTHER UNUSUAL ACTIVITY OR CONDITIONS: NONE. TROPOPAUSE
+AT 43,730 FEET
+I. INTERCEPTION OR IDENTIFICATION ACTION TAKEN:
+NONE •
+J. NEW YORK INTERNATIONAL AIRPORT RELEASED A BALLOON WITHIN ONE
+HOUR QF D330Z WHICH IS SHORTLY BEFORE SIGHTING WAS
+MADE. DIRECTION OF DRIFT WAS IN DIRECTION OF OBSERVER FROM
+NEW YORK INTERNATIONAL AIRPORT.
+K. CAPTAIN WILLIAN S. BARNETT, CHIEF, INTELLIGENCE
+DIVISION,
+NEU YORK AIR DEFENSE SECTOR, MCGUIRE AFB N. J. OBSERVER WAS
+WATCHING A PARTIAL ECLIPSE OF THE MOON WHICH WAS SCHEDULED TO
+BEGIN AT 2 135Z 26 AUGUST 1961. SINCE OBSERVATION OF THIS UFO
+TOOK PLACE JUST BEFORE THE SCHEDULED ECLIPSE IT IS THE FEELING
+OF THIS OFFICER THAT WHAT MRS. BIANCO SAW WAS PROBABLY THE
+RESULTS OF THE BALLOON RELEASE FROM
+YORK INT
+ITIONAL

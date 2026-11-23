@@ -1,0 +1,23 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T09:01:40Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7300255, "source_ctime_ns": 1793383386020044165, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28986886/0590.jpg", "source_mtime_ns": 1785748339000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28986886/0590.jpg", "source_sha256": "d2b520b0a56f4e1a906344eefe3fc79d10c59fbace55498feaa44b79cad159aa"}
+
+===== PAGE 1 =====
+{"alpha_words": 76, "chars": 553, "method": "ocr", "page": 1, "variant": "plain-vision"}
+(A) WEATHER WAS CLEAR
+(B) SCATTERED TO BROKEN SKYS CONDITIONS
+(C) SCATTERED TOBROKEN SKY CONDITIONS
+(D) 15 MILES
+(E) NO INFORMATON AVAILABLE
+(F) NONE IN AREA
+(8) NO UNUSAL ACTIVITY
+(9 NO ACTION TAKEN
+(16) NO TRAFFIC IN AREA
+(11) CAPTAIN JOSEPH SCHWARZ-OPERATION OFFICER
+MRS
+BEING UNTRAINED OBSERVER COULD HAVE BEEN MISTAKEN IN
+HER ANALYSIS OF THE SIGHTING, SINCE THERE WERE NO OTHER REPORTS
+DURING THE 45 MINUTES SIGHTING PERIOD. ALSO, MOON RISE WAS AT 01277
+WHICH COULD HAVE POSSIBLE ACCOUNTED FOR THE SIGHTING•
+(1) NONE
+BT
+18/1743Z MAY RJESKBP
+NNNNVV

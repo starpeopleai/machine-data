@@ -1,0 +1,54 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T08:35:17Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8062405, "source_ctime_ns": 1793362988479024906, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330784275/45484701-004-003-0014.jpg", "source_mtime_ns": 1785685124000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330784275/45484701-004-003-0014.jpg", "source_sha256": "e15633caa378f8bd06ee306195ba35fe29c66dd49dd2c36a87919aae11cad9a0"}
+
+===== PAGE 1 =====
+{"alpha_words": 469, "chars": 2939, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Letter, 3D0 24-0-21h, Subj: Unidentified Flying Object Sighted at
+2335 hours, 20 July 1961, above Willow Grove, Pennsylvania
+Source stated that her husband first noticed this object as it
+soared across the sky at a position of about ll o'clock; that he called
+It to her attention when it reached about 12:30 o'clock, and that they
+both watched it until it disappeared behind a copse of trees appearing
+about 2:30 o'clock above the horizon. The object following a general
+course from the direction of Philadelphia, Pa., passing over Willow Grove,
+Pa., and headed in the direction of the Johnsville Naval Air Development
+Center, Johnsville, Pa. Source stated the object was under her observa-
+tion from 2335 hours until it disappeared at 2350 hours. According to
+source, the sky was illuminated by a moon in the first quarter; there
+was an absence of clouds or overcast; the full array of stars were in
+view, and during the period of observation, source neither saw nor heard
+aircraft in the area.
+Eastern Daylight Savings Time Groups were used to
+describe this sighting.
+b. Source went on to state that in the past, she and her husband
+have been able to spot and follow the course of other alien objects in
+the sky, and that during the summer of 1960, when the United States had
+placed a large weather balloon into orbit, and when the local news media
+had informed the people of when and approximately where this balloon could
+be sighted, she and her husband had spotted it each time. As a point for
+comparison, source indicated the object which she and her husband had seen
+as covered by this report was several times larger than the weather satel-
+lite, and traveled quite a bit slower than the balloon. She stated that
+if she recalled correctly, the directions of travel varied 180 degrees.
+Source indicated that she and her husband may be contacted any
+time during the night or day at the above address in the event such con-
+tact is necessary.
+Pa., disclosed that weather conditions for the vicinity at
+20 July 1961, were clear, visibility ? miles, with surface winds from
+the WW at 6 miles per hour, and at 2400 hours that date, were clear,
+visibility 7 miles and winds from the west at 6 miles per hour. A. D.
+DUBIN, Meteorological Technician, indicated there is no record of any un-
+usual activity or condition observed within the area; that no sky and
+ceiling observations were made for altitudes over 3000 feet due to lack
+of air traffic, and that a complete rundow of all weather conditions for
+the Delaware Valley, Pa., area for the period in question could be ob-
+tained through the Weather Bureau Service, Chattanooga, Tenn.
+It Col, USAF
+Commander
+2
+Copy to: AFISI-6
+NOTE: Due to a minunderstanding at Det #304, Philadelphia, Pa., the above
+information was not telephonically reported as required by Paragrap
+90L, OSIB 51. Action has been taken to comply
+with instant Bulleti
+instances.
+Declassification Authority: NND 923007

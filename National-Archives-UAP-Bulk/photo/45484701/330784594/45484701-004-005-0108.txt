@@ -1,0 +1,51 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T08:21:02Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7345614, "source_ctime_ns": 1793363148068037876, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330784594/45484701-004-005-0108.jpg", "source_mtime_ns": 1785684743000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330784594/45484701-004-005-0108.jpg", "source_sha256": "400ed46fe93213bc8af66ead015450a5c046e32a108d6e26ae492d4b8937b610"}
+
+===== PAGE 1 =====
+{"alpha_words": 143, "chars": 1122, "method": "ocr", "page": 1, "variant": "plain-vision"}
+5D 24-21-119
+22 April 1954
+SUBJECT:
+UNIDENTIFIED FLYING OBJECT ALLEGEDLY
+PHOPOGRAPHED BY GEORGE/ADAMSKI
+SPECIAL INQUIRY
+24-185-5-27
+TO:
+Commander
+Air Technical Intelligence Center
+Wright-Patterson Air Force Base
+Ohio
+ATTN: ATIAA¿C
+1. Reference is made to our letter of 20 August 1953,
+concerning subject matter.
+2. Attached herewith for your information is one (1)
+photostatic copy of a letter describing a book written by
+DESMOND LESLIE and GECRGE ADAMSKI, entitled,ạiFlying Saucers
+Have Landed".
+3.
+Attention is invited to paragraph 5f, APR 205-l, dated
+24 July 1953, which states that classified security information
+originating in an agency outside the Department of Defense will not
+be disseminated outside the Department of Defense without prior
+consent of the originating agency.
+1 Inel
+Ltr fr Louisville, dtd
+9 Nar 54, to PBI
+ce: Dir 0SI w/o inel
+ROBERTS P. JOHNSON, JR.
+Colonel,
+USAP
+Distriet Commander
+24 - 185+5
+AIR FORCE
+APR 23 21 7 T- 54"
+CLASSIFICATION CANCELLED
+BY AUTHORITY OF THE D
+BY
+KURT K. KUNZE, Capt, USAF
+Historian
+4 DEC 1975
+DATE
+Caj
+UNCLASSIFIED
+58-F- 6013Ś
+Declassification Authority: NND 923007

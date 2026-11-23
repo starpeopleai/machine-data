@@ -1,0 +1,58 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T08:42:35Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10277865, "source_ctime_ns": 1793364006710723391, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330786313/45484701-006-005-0143.jpg", "source_mtime_ns": 1785684968000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330786313/45484701-006-005-0143.jpg", "source_sha256": "8f38f579b9d6d187f2518b498f818cae67b6593625392ad645f8d23ebcc9e450"}
+
+===== PAGE 1 =====
+{"alpha_words": 190, "chars": 1360, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AFCSI/Lt Col Nold/Ujm/53623
+Wrtn 2 Aug 50
+24-185
+& AUG 1950
+lar. Bruce Uthus
+Chief, Physical Security Branch
+A.S.C. Security Division
+1901 Constitution Avenue
+Washington, D. C.
+CLASSIFICATION CANCELLED A
+BY AUTHORITY OF TH
+KURT K. KUNZE, Capt, USAF
+BY
+Historian
+| 44 DBEC 975
+DATE
+Dear Mr. Uthus:
+This headquarters is in receipt of a request from the Security
+Division, Atomic Energy Commission, Los Alamos, New Mexico, that your
+Division be furnished a copy of a compilation entitled Summary of Obser-
+vations of Aerial Phenomena in the New Mexico Area, December 1948 - Way
+Investigations, IG, Kirtland APD, New Mexico.
+The request was directed to the 17th District, Office of Special
+In compliance with above request, there is being attached a copy
+of Summary.
+This compilation is furnished for inforaational purposes
+and is based on unevaluated individual reportings from various sources
+in the New Mexico area to the 17th OSI District Office.
+Sincerely,
+UNCLASSIFIED
+1 Inel
+Sum of Sightings of
+Unknown Aerial Phenomena
+by DO 17, OSI (IG)
+WILLIAM M. TURNER
+Colonel, USAP
+Executive, Special Investigations
+The Inspector General
+AUGISAFCSI
+MANAGEMEN
+DIV.
+OST
+ROY A. LANGE
+MAJOR, USAF
+A ASSeT EXECUTIVE, SPECTAL, INVESTICATTONS
+THE INSPECTOR GENERAL
+tomola
+She KD
+USAF
+IG
+OFFICE OF
+SPECIAL INVEST SATIONS
+Declassification Authority: NND 923007
+AFCSI FILE COPY

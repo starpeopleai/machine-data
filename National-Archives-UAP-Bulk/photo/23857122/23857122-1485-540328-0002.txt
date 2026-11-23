@@ -1,0 +1,77 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T08:32:06Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 30426616, "source_ctime_ns": 1793357604071549467, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1485-540328-0002.tif", "source_mtime_ns": 1785564935000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1485-540328-0002.tif", "source_sha256": "efc6a1f6cbe41c82a382634d21fdfcfcf01d8242496c3341cf7a99376daa5ec0"}
+
+===== PAGE 1 =====
+{"alpha_words": 349, "chars": 2506, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AF FORM 112-PART II
+APPROVED 1 JUNE 1948
+FROM (Agency)
+CG 10th Air Div (Def) APO 942
+SECRET
+(CLASSIFICATION)
+SECRET
+AIR INTELLIGENCE INFORMATION REPORTSECUBITY INFOR
+REPORT NO.
+10AD-2-53
+PAGE
+OF
+705TH AIRCRAFT CONTROL AND WARNING SQUADRON
+APO 948, c/o Postmaster
+Seattle, Washington
+PAGES
+11 February 1953
+SUBJECT: FLYOBRPT
+TO:
+Commanding General
+10th Air Division,
+Defense
+APO 942, U. S. Air Force
+On 6 February 1953 at 2000 A.S.T. the Naknek Detachment of the
+64th Fighter-Interceptor Squadron informed 795th AC&M Squadron radar
+operations that personnel at King Salmon Tower, King Salmon, Alaska had
+sighted a light in the sky to the west of the field. Nothing unusual
+could be detected by radar.
+The 705th AC&W Squadron controller called
+the tower asking for more information and was informed that the object
+had dissappeared.
+King Salmon, Alaska is an isolated C.A.A. airfield located at
+156° 39'W, 58° 41'N.
+There was no reported air traffic in the area.
+Weather observers at King Salmon Airport reported they had not sent up
+weather ballons that night. The sky was very clear and the temperature
+was very low approximately -22°F.
+3. The Chief Controller later interviewed James N. Burris, Chief
+Airways Operations Specialist (Airport), Mrs. Marcelle L. Adair, wife of
+Joe L. Adair, Chief Airways Operations Specialist (Communications), and
+Victor Mahler, Aircraft Communicator.
+These are all Civil Aeronautic
+Administration personnel and all saw the light.
+Their signed statements
+are inclosed.
+The magnetic headings given in the statements were deter-
+mined at the time of the interview from land marks observed at the time
+of the sighting.
+AF Form 112, Air Intelligence Information Report, required by
+AFL 200-5 dated 29 April 1952 are not available at this station.
+FOR THE COMMANDING OFFICER:
+/s/ William F. Farlej
+/t/ WILLIAM F.
+FARIEY
+Ist Lt, USAF
+Assistant Adjutant
+DECLASSIFIED
+Y W. ALeWiS NARS MO
+NARS, Date
+7/51/79
+4112/72
+116223
+NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S. C.-
+31 AND 32, AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW.
+IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF
+INTELLIGENCE, USAF.
+SECRET
+SECRET
+SECURITY INFORMATION
+(CLASSIFICATION)
+-55570-1 X U. 8. 0
+INTING OFFICE
+Declassification Authority: NND 57565

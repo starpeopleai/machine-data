@@ -1,0 +1,70 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T08:21:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7612118, "source_ctime_ns": 1793364830959595050, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787808/45484701-007-005-0059.jpg", "source_mtime_ns": 1785685204000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787808/45484701-007-005-0059.jpg", "source_sha256": "699c4ca105d8a86e5ce5f92693561cce7c288bd471c39c128828c26a03d5fc1c"}
+
+===== PAGE 1 =====
+{"alpha_words": 231, "chars": 1649, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AIR
+STAFF MESSAGE DIVISION
+ORCE
+INCOMING CLASSIFIED MESSAGE
+wm
+RESTRECTED
+OPERATTONAL IIMEDIATE
+PARAPHRASE NOT REQUTRED
+UNCLASSIFIED
+FROM: HQ 26TH AIR DIV (DEF), Everett, Fashington
+To : Co ALC, Wright-Patterson AlB, Dayton, Ohio.
+AGEn: MOTAMO-E
+CG CONAC, Mitchel AFB, New York, Abin: DIr of Intelle
+INFO: CS USAF, Vashingtón D.C., Attn: Dir of Intell
+Requirementa Div
+CG FOURTH AIR FORCE,
+Hamilton AFB, Hamilton, CallIes
+Attn: Dir of Intelle
+NR : 25ADIVC 640
+16 March 1950
+Project sign: sighted visually 0730 GM, 15 Has 50g
+object first sighted 560 deg true from Pacific Beach, Washinge
+toniẠạẠ
+Altitude, speed and heading
+unknown.
+Observed for A minutes 270 degrees and descended fron
+Bearing changed to
+15 degrees on horizon. 1 object, no ostiation of size
+decelerated to comparatively slow speed and began a series of
+incalculable movements while maintaining relative position in
+alre
+Only l major course change noted while balence of changes
+appeared as random movements.
+No weather sequence available.
+No color reported. No sketches available, as yet, no photos
+graphs, no sound, no exhaust trail observed by HaL. Ballieu,
+Alrborne Civilian Technical Representativeại
+Lotter report
+followS.
+INFO : OIN, OPY, OPL, OOP, OPO, CSI, CIG, SPR
+CAR IN: 6 8 5
+(16 Mar 50)
+DIG:
+RESTR
+59/16
+CLASSIFICATION CANCELLED DO
+BY AUTHORITY OF THE DIRECTO
+BY
+KURT K. KUNZE, Capt, USAF
+Historian
+DATE
+AFHQ FOR 0-309 ZłŚ
+15 APR 49
+5 DEC 1975
+550
+UNCLASS
+THE MAKING OF AN EXACT COPY OF THIS MESSAGE IS FORBIDDEN
+U.S. GOVERNMENT PRINTING OFFICE
+16-56692-2
+USAF
+IG
+OFFICE OF
+SPECI
+VINVESTIGATIONS
+COPY No. TOLD
+Declassification Authority: NND 923007

@@ -1,0 +1,43 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T08:32:24Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 62169056, "source_ctime_ns": 1793357342325493566, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1388-514451-0022.tif", "source_mtime_ns": 1785564879000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1388-514451-0022.tif", "source_sha256": "9a7fad3fb7c64d878982892777f009f51d23a1b4fda650222e4e8fd1274cc9bd"}
+
+===== PAGE 1 =====
+{"alpha_words": 314, "chars": 2224, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Sachsenwerk-
+SPIEGEL
+triebszeitung der Belegschaft des Sachsenwerkes. Niede
+Herausgegeben von der SED-Betriebsporteiorganisc
+Den Weg in eine glückliche Zukunft
+gehen Inge, Klaus und Rosemarie und die vielen tousend Jungen Pioniere
+unserer Deutschen Demokratischen Republik, deren Delegierte am Dienstag
+im Rudolf-Harbig-Stadion unserem Ministerpräsidenten Otto Grotewohl zu-
+jubelten. Keiner von uns Großen, die diese Feierstunde miterleben durften,
+wird den Augenblick vergessen, als unsere Kinder in vorbildlicher Disziplin in
+das weite Rund des Stadions einmarschierten. Hell strahlten ihre Augen und
+ein festlicher Glanz lag auf ihren Gesichtern. Und jeder von uns dachte wohl
+heit auszeichnen. Sie werden sich des stolzen Namens „ERNST THÄLMANN",
+den der Verband der Jungen Pioniere durch Otto Grotewohl erhielt, würdig
+erweisen und im Sinne dieses treuesten Sohnes der Arbeiterklasse ihre Auf-
+gaben beim Aufbau des Sozialismus erfüllen. Unsere Pflicht ist es, alles zu
+tun, ihnen den Frieden zu erhalten, ihr junges Leben zu schützen und gegen
+glückliche Zukunft.
+Damit unseren Jungen Pionieren
+der Weg zum Sozialismus offen steht ...
+verpflichten wir uns, den persönlichen Schutz unseres Arbeitsplatzes zu über-
+nehmen - schreibt Kollege Friebel ous der Brigode Wendt. - Solche und ähn-
+liche Verpflichtungen gingen zahlreich bei uns ein. Die Erzieher und Ausbilder
+unserer Lehrwerkstatt, Ziegler, Härtel, Lintner, Bürger, Kühnelt und Wagner
+verpflichten sie sich, bis zum Pioniertreffen die Bedingungen für das Schieß-
+abzeichen abzulegen. Gleichzeitig verpflichten sie sich zum persönlichen Schutz
+ihres Arbeitsplatzes und zur Überwachung des Durchgangsverkehrs in und
+zur Lehrwerkstatt. - Viele Kolleginnen und Kollegen wollen durch die Spende
+eines Stundenlohnes zum Gelingen des großen Pioniertreffens beitr1en, so
+als erste die Kolleginnen und Kollegen der Brigade Reinhardt in der AF-E-
+Kontrolle, die auch gleichzeitig ihre Arbeitsplätze vorbildlich geschmückt haben
+so daß sie mit einem Preis ausgezeichnet wurden. Ebenso spendeten einen
+Stundenlohn die Kolleginnen und Kollegen des Lages 16.
+Lied der Jungen Pioniere
+Sohn.
+serem Held
+Tief im Herzen wächst die Liebe
+D
+Declassification Authority: NND 57565

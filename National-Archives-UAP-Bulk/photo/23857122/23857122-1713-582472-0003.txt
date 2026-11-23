@@ -1,0 +1,51 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T08:32:00Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 30403604, "source_ctime_ns": 1793357864840248522, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1713-582472-0003.tif", "source_mtime_ns": 1785564985000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1713-582472-0003.tif", "source_sha256": "a1174b9d6b6b1012293765b1102241883a3984f88e11bd85f590f4fe5352dd38"}
+
+===== PAGE 1 =====
+{"alpha_words": 160, "chars": 1189, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AF FORM 112-PART II
+APPROVED 1 JUNE 1948
+FROM (Agency)
+DOS/I, ADC
+RESTRICTED
+SOCUT (CLASSIFICATION)
+ation
+AIR INTELLIGENCE INFORMATION REPORT
+REPORI NO
+5
+PAGE
+OF 2
+PAGES
+33.
+34. 34.1 Clear sky 34.2 No wind 34.3 Dry 34.4 Warm
+1 Sept 53
+36.
+Yes
+36.1 Yes
+36.2
+Miss Cathy Dolan - 541 St. Elmo, Colorado Springs, Colo.
+37.
+Mespi371 Flying object and probably flown by man
+38.
+No opinion
+39.
+About the speed of a jet aircraft
+40 .
+About 15,000 feet
+41.
+Robert D. Cravatt - 218 East Espanola - Colorado Springs, Colo
+METrose 4-6456
+Age 17
+Male
+Figi School graduate - In Naval Reserve for 6 months
+42. 9 September 1953
+Allan Sykun
+ILLIAM H STEPHENS
+Major, USAF
+Chief, ATC Div, DCS/I
+NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S. C.-
+31 AND 32, AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW.
+IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF
+INTELLIGENCE, USAF.
+(CLASSIFICATION? O I
+16-55570-1 * U. •.
+Declassification Authority: NND 57565

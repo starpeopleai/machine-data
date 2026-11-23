@@ -1,0 +1,52 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T08:36:05Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8534904, "source_ctime_ns": 1793363420419226380, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785292/45484701-005-004-0020.jpg", "source_mtime_ns": 1785684651000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785292/45484701-005-004-0020.jpg", "source_sha256": "b078b35536b3acefb052f5fe81d98a8d3bff29fb6deb1e2e245a2cff63683077"}
+
+===== PAGE 1 =====
+{"alpha_words": 178, "chars": 1439, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Location of Observer:
+89° 50' longitude and 29° 35'
+latitude.
+Lake Hermitage is located 32 miles South of
+New Orleans, Louisiana.
+f. Identifying Information on Observers:
+(1) GUY RALPH McDONALD
+Age 27
+1942 Manor Heights Drive
+Marrero, Louisiana
+Insurance Salesman, National Life Insurance Agency
+(2)
+Mr. ROSENDO VASQUEZ
+Approximately 35 years of age
+2713 Hero Drive
+Gretna, Louisiana
+Employee of Crescent City Typewriter Exchange,
+New Orleans, Louisiana
+(3)
+Mr. CANNON FAULKNER
+56 years old
+Friendly Fisherman's Camp
+Lake Hermitage, Louisiana
+Proprietor
+(4) Mr. FAULKNER's son (name unknown)
+Weather conditions at time and place of sighting. Observer
+described weather condition as partly cloudy, a slight
+overcast and fairly good visibility. He estimated the
+wind to be blowing from the East at approximately four
+knots. Temperature estimated by observer to be 76 degrees F.
+Weather conditions obtained from U. S. Westher Bureau
+Office, New Orleans, Louisiana, are as follows:
+(2)
+According to U.S. Weather Bureau Office, weather
+conditions at Alvin Callender Field (10 miles from
+Lake Hermitage) at 0400 hours, 15 August 1960, vere
+reported accordingly:
+(a)
+Winds - Direction 045°, 2 knots velocity
+Ceiling - High scattered clouds
+Visibility - Unrestricted, 10 miles visibility
+Amount of cloud cover - Three tenths of sky
+covered.
+(e)
+(₽)
+Thunderstorms in area - None reported
+Temperature - 81° F.
+Declassification Authority: NND 923007

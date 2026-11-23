@@ -1,0 +1,34 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T09:18:00Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8535478, "source_ctime_ns": 1793354538901033840, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989217-001-0021.jpg", "source_mtime_ns": 1785564302000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989217-001-0021.jpg", "source_sha256": "1052e22815602ad20092d32a1a6eb7f00ca9074fd55c82729656629ca207d474"}
+
+===== PAGE 1 =====
+{"alpha_words": 122, "chars": 879, "method": "ocr", "page": 1, "variant": "plain-vision"}
+SMD D 030
+DEPARTMENT OF THE AIR FORCE.
+STAFF MESSAGE DIVISION
+UNCLASSIFIED MESSAGE
+HQC841 WTC044LKAØ01
+PP RJEPHQ
+DERJWFLK 42 A
+P 052 1492
+FM COMDRADIV 47 WALKER AFB NMEX
+TO RJEPHQ HEDUSAF WASH D C
+INFO RJEDMH/ CINCSAC OFFUTT AFB NEBR
+RJWPRH/COMAF 15 MARCH AFB CALIF
+ВГ
+INCLAS/ FROM BJA 7-12064 •
+FOR THE JUDGE ADVOCATE GENERAL SUBJECT ARTICLE 32
+INVESTIGATION. REFERNCE MESSAGE DPRPO 37163 FROM COMDR
+15 AF MARCH AFB CALIF ARTICLE 32 INVESTIGATION
+OF LIEUTENANT COLONEL GEORGE F ADAMS, AO 257543 IS IN PROGRESS
+THE EVIDENCE HAS BEEN GATHERED BY THE INVESTIGATING OFFICER AND THE
+REPORT IS NOW BEING COMPLIED• THE REPORT OF INVESTIGATION WILL BE
+FORWARDED TO THE STAFF JUDGE ADVOCATE HEADQUATERS 15AF NOT LATER
+THAN 7 JUNE 1957•
+05/2320Z JUN RJWFLK
+• NOTE : 37163 is AF IN 25684 (5 Jun 57)
+ACTION: CJA
+INFO : PMP
+AF Ix: 26495 (6 Jun 57) THON COPY
+M/jtr
+File 68mes>
+E.G. Delventon

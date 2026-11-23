@@ -1,0 +1,5 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T09:14:54Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7942751, "source_ctime_ns": 1793385115973997602, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28991859/1456.jpg", "source_mtime_ns": 1785748451000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28991859/1456.jpg", "source_sha256": "180a7823b04d697ef816b96afa5d99846b3d0e745bb5b5d4fe92e9fca2098e75"}
+
+===== PAGE 1 =====
+{"alpha_words": 22, "chars": 90, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+COE ICT UO ANE ENE ASD ica 5 eg Cane Tr ersers na Mae WET gt PPR Or EES ‘ LYM BrW IY “Fe

@@ -1,0 +1,45 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T08:33:51Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7429846, "source_ctime_ns": 1793364058069237459, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330786509/45484701-006-006-0030.jpg", "source_mtime_ns": 1785684578000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330786509/45484701-006-006-0030.jpg", "source_sha256": "782f1514df5e39573885af67b93fe514cfab7b1364ad13e0915cbf40e9df55ff"}
+
+===== PAGE 1 =====
+{"alpha_words": 125, "chars": 922, "method": "ocr", "page": 1, "variant": "plain-vision"}
+CONFIDENT
+Subj: Unidentified Aerial Phenomena
+SPOT INTELLIGENCE REPORT
+24 April 1950
+Number :
+Objects in motion:
+Formation:
+Speed:
+Direction of Flight:
+Manner of Disappearance:
+Trajectory:
+Observed for a period of:
+Observers in immediate area:
+Remarks:
+Twelve to fifteen
+Turned on their axes and maneuvered
+up and down, sometimes turning at very
+sharp angles
+No specific formation (staggered)
+Unknown.
+Faster than conventional
+aircraft
+North to Northeast
+Did not continue observation until
+objects went out of sight
+Ascended and descended at about 75°
+elevation, travelling from north to
+northeast
+Three to five minutes
+Approximately ten
+Mr. BODY asserted that there was a
+garble in his teletype the three days
+following said observation
+3. ACTION:
+Report furnished Headquarters, Office of Special Investigations,
+Washington, D. C.
+Jade ea
+DOYLE REES
+It Col, USAF
+District Commander
+Declassification Authority: NND 923007

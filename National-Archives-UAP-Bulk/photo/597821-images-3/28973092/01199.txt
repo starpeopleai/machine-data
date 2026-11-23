@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T09:05:59Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9765674, "source_ctime_ns": 1793379656449101341, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28973092/01199.jpg", "source_mtime_ns": 1785700617000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28973092/01199.jpg", "source_sha256": "8911b0b243504051c6eeefa804157390f3e171dd43b6bc8ca1d2ae3a3b6fbb32"}
+
+===== PAGE 1 =====
+{"alpha_words": 66, "chars": 427, "method": "ocr", "page": 1, "variant": "plain-vision"}
+area
+on November
+described
+as being about 50 years of
+age,
+feet 10 inches,
+heavy bulld, weight 248
+pounds, dark hair,
+round smooth
+face
+He prosumes
+1s a used-furniture dealer
+and is undo ibtedly known to the pepple who operate the
+auction sale at Kearney,
+Nebraska.
+In the event any further information is obtained,
+it will be immediately relayed to you.
+very truly yourse
+6.1 hormon
+JOSEPH E.
+THORNYON
+Special Agent In Charge

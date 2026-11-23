@@ -1,0 +1,18 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T08:44:55Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 14993520, "source_ctime_ns": 1793357678753293475, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1539-544185-0006.tif", "source_mtime_ns": 1785564952000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1539-544185-0006.tif", "source_sha256": "dec53ad45ab6fdfbc70376e62050b29a03ba35633a719860dccbc1e2a588f817"}
+
+===== PAGE 1 =====
+{"alpha_words": 83, "chars": 504, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AF54
+she saw them it is quite possible she saw spots caused by the sun glare. My
+wife and I had the sun spots but I checked my sight by looking away from the
+objects. Then when I looked back the objects were still there.
+I sincerely hope my information will be of some help and if I can be
+of any further assistance pleas write.
+Yours turly,
+/w/ Weldon W. Watson
+WELDON W. WATSON
+THIS IS A CERTIFIED TRUE COPY:
+Jamestall
+JAMES H. WEBB
+Major, United States Air Force
+Declassification Authority: NND 57565

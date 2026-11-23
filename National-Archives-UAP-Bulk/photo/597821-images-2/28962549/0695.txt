@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T08:21:21Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7500943, "source_ctime_ns": 1793377046406099828, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28962549/0695.jpg", "source_mtime_ns": 1785696851000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28962549/0695.jpg", "source_sha256": "28261fe66d7d27927525d7537258646a4f38ee2fdc4b14f7e743b04253c8e9c5"}
+
+===== PAGE 1 =====
+{"alpha_words": 54, "chars": 375, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PAGE TWO RJ-DA
+D2A
+02000-19
+DEG-SH
+4:260~21
+LEC-02A
+- 15K
+L •
+CVERCA
+2. 1...
+LIGHT RAIN
+VEG
+.. ...
+....
+1. THG
+REPORT CRIGICRALLY RECEIVED
+BY SEATTIE FRI AND FARCED TO SEATTLE DA
+ODI. CHECK WITH SEATTLE FRI RELULTED IN NO FURTHER INFO. CHECK WITH
+REVEALD RAYMOND KENT
+NONT REGISTERED, THIS IC ALL THE
+INFO AVAILABIR. AF FORD 112 VILL NOT DE SU MITTED.
+ET
+20/20292 JUN ROMPDR

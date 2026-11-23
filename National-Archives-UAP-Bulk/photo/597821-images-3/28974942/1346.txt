@@ -1,0 +1,42 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T08:51:05Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10012140, "source_ctime_ns": 1793380221454370969, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28974942/1346.jpg", "source_mtime_ns": 1785700742000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28974942/1346.jpg", "source_sha256": "de882d9d6bf0d2005b084e13f151abd201829467b6db62476652ba9a805f754c"}
+
+===== PAGE 1 =====
+{"alpha_words": 105, "chars": 677, "method": "ocr", "page": 1, "variant": "plain-vision"}
+SOF0297 YDB062 XYD054 XDD052JBA093
+PP RJEDEN RJEDWP RJEPHQ
+DE RJWPJB 3G
+P 1821172
+FM COMDR 751ST ACRON MT LAGUNA CALIF
+TO RJEDEN/COMDR ADC
+RJWPJB/COMDR 27TH ADIV
+FEDUP/CMDR AIR TECH INTELL CENTER
+RJEPHQ/DIR OF INTELL
+ToV18 20
+57$57
+HEY
+44x>
+UNCLAS 751ST 1015 AJ PD
+1. A.
+PHERICAL PD
+GRAPEFRUIT
+JPD
+C.
+SILVER GRAY PD
+D. ONE PD
+E. NONE PD
+BLADES UNDERNEATH PD
+G. NYA PD
+PAGE THO RJMPJS 3C
+H. NONE PD
+1. NOME PD
+A• OBSERVING THE SKY PD
+DEGREES ELEVATION CMA(060/DEGREES AZIMUTH PD
+DEGREES ELEVATION CMA 219/DEGREES AZIMUTH PD
+TOC
+JOVER THE OCEAN IN CUAVED PATTERN OF FLIGHL PL
+OVER OCEAN PD
+MINUTES PD
+• A• FROUND VISUAL PD
+B. NONE PD
+C. MA PD
+• 1. 1811820 Z PD 1800-8=1000 Local

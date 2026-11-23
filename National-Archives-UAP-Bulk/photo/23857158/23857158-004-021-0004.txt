@@ -1,0 +1,46 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T08:53:20Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 12728046, "source_ctime_ns": 1793358683641988299, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-021-0004.tif", "source_mtime_ns": 1785681170000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-021-0004.tif", "source_sha256": "f4451fd8c3dfd8caa2850a8ec82858bf493c5c910a08c077ff2b67d162fcd4f4"}
+
+===== PAGE 1 =====
+{"alpha_words": 194, "chars": 1387, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+DF AISMS
+SUBJECT: UPOB Report
+weather balloon releases. None were released in this vicinity. Captain
+Chaney, ADG Moby Dick Project Officer, was not in.
+1652
+Phoned It Mcintee. He could not spot UTOB.
+8. 1659
+(1)
+Duty Officer personally sighted UPOB:
+UFOB was 25 miles north by northwest at an altitude of
+30,000 It.
+(2)
+Sky was clear.
+(3) Observed it for four minutes.
+(L)
+Object was stationary.
+(5) Appeared to be a balloon, white, circular.
+1700
+Received call from M/Sgt Pangburn, 4602d AISS parachutist.
+Reported that he saw UPOB thru fiald glasses identified it as
+balloon with package attached,
+1. 1705 Duty Officer and T/Sgt Johnnie Britton observed UPOB thru
+field glasses. Both concurred on appearance of objects as a
+balloon with package attached,
+3. 1715
+Phoned Captein Chaney at COC weather for information on
+Toby Dick releases. Following infomation receivedi
+(3)
+Three Moby ick launching occured on that day, 29th May from
+Lowry Air Force Base.
+#. 7 released at 1223 zebra
+# 8 released at 1613 zebra
+# 9 released at 2000 zebra
+(2) # 7 released went down at 1339 zebra, coordinates 39-25,
+104-18.
+Conclusions: Times of release mumber 8 and Q coincide with
+tine and altitude of UTOB. Condluded that UFOB was Moby Dick
+release # 8 or #9 form Lowry Air Force Base.
+AS Gaul;: Cait USAF
+AN. G. HANDGIS, Captain, USAF
+Duty Officer 29 Lay 1955

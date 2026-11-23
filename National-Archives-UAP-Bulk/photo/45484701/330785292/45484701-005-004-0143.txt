@@ -1,0 +1,47 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T09:01:20Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7231144, "source_ctime_ns": 1793363477713428011, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785292/45484701-005-004-0143.jpg", "source_mtime_ns": 1785684659000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785292/45484701-005-004-0143.jpg", "source_sha256": "ddc76a4264813a5f91158d0e6fe9b663fe8498cc259b5dfc1116a9c7a9a53be3"}
+
+===== PAGE 1 =====
+{"alpha_words": 107, "chars": 884, "method": "ocr", "page": 1, "variant": "plain-vision"}
+CONFIDEN
+Page 4
+Essential Elements of Info
+Project "SIGN"
+19. Manner of disappearance Sped beyond observer's range of vision.
+a. Explode
+(1) Possibility of fragments
+(2) Other physical evidence
+b. Faded from view
+c. Disappeared behind obstacle
+Relative to the Observer
+1. Name of observer
+MUS. JOHN N. SERRILL
+Born on 9 August 1580
+2. Address
+1766 Jackson Avenue
+Alexmdria, Louisiana
+3. Occupation
+setired, composer of poeme, journalist, historian,
+columnist, genealogist, reporter, etc.
+4. Place of business
+a. Employer or employee
+5. Hobbies
+a. Time engaged in hobby (experience)
+Is observer amateur astronomer, pilot, engineer, etc.? Writer
+6. Ability to determine
+a. Color
+Normal
+b. Speed of moving objects Nomal
+c. Size at distance
+Normal
+7. Reliability of observer
+a. Sources
+(2)
+Neighbor
+A~1
+Police Dept
+FBI records
+Employer
+N/R
+N/R
+NONE
+Declassification Authority: NND 923007

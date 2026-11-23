@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T08:22:17Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8223922, "source_ctime_ns": 1793384655505480299, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28990771/0488.jpg", "source_mtime_ns": 1785748544000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28990771/0488.jpg", "source_sha256": "e7ba71805b0558072538dac268c3e5d980145cd30a181890d4c937540308bceb"}
+
+===== PAGE 1 =====
+{"alpha_words": 85, "chars": 585, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Detachment 3 (EURATIC)
+1125th USAF Field Activities Group (ATIC)
+UNITED STATES AIR FORCE
+APO 633, New York, New York
+REPLY TO
+ATTN OF: ITIAC
+17 JAN 1961
+SUBJECT: Transmittal of Unidentified Flying Object (UFO) Report
+TO: Hq USAP (AFCIN) Washington 25, D.C.
+1.
+The inclosed is a UFO'report from Lt Colonel Ralph E. Keyes.
+The
+report does not give the exact time of the sighting, however, telephone
+conversation between this office and the individual, SP4 Schuelke,
+reported the sighting as of 3 January 1951.
+PAUL
+MEARS
+@ Colonel, USAF
+Commander
+1 Atch
+Ltr, UFO Rpt, dtd 6 Jan 6l
+3 cys

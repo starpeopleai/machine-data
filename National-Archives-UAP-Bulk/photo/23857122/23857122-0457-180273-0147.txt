@@ -1,0 +1,40 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T08:31:16Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 17539376, "source_ctime_ns": 1793356534988037686, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0147.tif", "source_mtime_ns": 1785564718000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0147.tif", "source_sha256": "7eaf09cf29bc643095bcb7d10e87f409dc9918dadc013cd60c6178ad0f608e6d"}
+
+===== PAGE 1 =====
+{"alpha_words": 194, "chars": 1263, "method": "ocr", "page": 1, "variant": "plain-vision"}
+EDI
+Incident #215 -- Fairfield Suisun AFB, California -- 3 vecember 1948
+If the observations were exactly as stated by witnesses,
+this "ball of light" could not have been a fireball. However, o
+astronomers receive such outlandish reports about fireballs that
+they are prepared for almost any kind of a story.
+sven trained observers are somotimes greatly fooled by
+the illusion of oloseness; cases are on record of fireballs which
+were reported to have fallen in adjacent fields, but actually cane
+to earth some 200 miles away.
+A fireball would not come into view at 1000' and rise to
+20,000%.
+If this observation is correct, an astronomical interpre-
+tation for the incident can be ruled out. Under unusual conditions
+a fireball might, however, appear to rise somewhat, as a result of
+perspective as
+slants into the earth's atmosphere.
+absence of trail and sound definitely does not favor the
+meteoric hypothesis, but, us in many other cuses, does not rule it
+out with finality.
+meteorolo ical
+or
+ou ject was
+auroral
+phenomenon would have been
+bright
+reported to be.
+In the almost
+hopeless absence of any other natural
+planation,
+er the possivility of the object's
+having
+HE LOOS
+even
+the description does not fit very well.
+Declassification Authority: NND 57565

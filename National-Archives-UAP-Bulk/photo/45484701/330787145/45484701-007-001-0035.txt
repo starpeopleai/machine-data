@@ -1,0 +1,9 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T08:20:27Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7133492, "source_ctime_ns": 1793364447810969165, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787145/45484701-007-001-0035.jpg", "source_mtime_ns": 1785684561000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787145/45484701-007-001-0035.jpg", "source_sha256": "1c2b03a2c65926a2c76de2fa11c9941914b950253e798ea5000e9591180e7664"}
+
+===== PAGE 1 =====
+{"alpha_words": 11, "chars": 120, "method": "ocr", "page": 1, "variant": "clean-vision"}
+UNITED STATESMIR FORC
+THEISPFOTOR GENERA
+WAN 48 110 0 5'60
+SECIAL ANVESTIGATIONS
+Declassification Authority: NND 923007

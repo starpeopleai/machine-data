@@ -1,0 +1,45 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T08:40:34Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9003527, "source_ctime_ns": 1793364660683999157, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787490/45484701-007-003-0077.jpg", "source_mtime_ns": 1785684887000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787490/45484701-007-003-0077.jpg", "source_sha256": "dec339ebe739b0dc1c0aabeaae3825fe9441f5b4e9bc679701be688f500fd133"}
+
+===== PAGE 1 =====
+{"alpha_words": 212, "chars": 1404, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Itr., Hg 78th Ftr Wing, Sub: Reporting of Information on "Flying
+DiscsẠỊẠ
+(d) Color: Bright Silver.
+(e) Speed: Sixty (60) to seventy (70) miles per hour.
+Heading: No definite heading. The objeet appeared to hover
+at times and then "lazily" move on to another position and
+hover again. Ir Clark and ir Page observed the object for
+a period of ten (10) minutes.
+It finally disappeared in a
+South-east direction from Alameda.
+(g) Maneuverability: In addition to the movements as indicated
+in (I) above, the object would change from the perpendicular
+ya hort poet out.
+position to a horizontal position in flight.
+(h)
+Altitude:
+Both individuals reported the object to be
+2500 to 5000 feet altitude.
+(i)
+Sound: None.
+Exhaust trail: One observer states an exhaust trail appeared
+to be much like that of a jet or a rocket. The other
+states no exhaust trail observed.
+Remarks:
+The Ass't O.D. at Alameda Naval Air Station interviewed
+the two observers and indicated that he was sure they
+had seen something worth while reporting and seemed
+impressed by their story. Alameda Navel Air Station
+Operations informed Hamilton Flight Service that the
+only investigation that they were making was informing
+Hamilton Air Force Base for further investigation.
+FOR THE COMLANDING OFFICER:
+GEORGE 1. PAUL
+It Colonel, USAF
+Adjutant
+Letter Report Sent to:
+CG 4AF
+CG CONAC
+CG AMC
+DI USAF
+Declassification Authority: NND 923007

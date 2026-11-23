@@ -1,0 +1,82 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T08:55:00Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 17721946, "source_ctime_ns": 1793355708501937080, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0145.jpg", "source_mtime_ns": 1785564507000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0145.jpg", "source_sha256": "f95674a95a899014dd540ff7455fff2ebf966a42a8bd73ee3508df4f5c9dfb7e"}
+
+===== PAGE 1 =====
+{"alpha_words": 838, "chars": 5636, "method": "ocr", "page": 1, "variant": "plain-vision"}
+276
+acceptable and operationally attractive or it doesn't have much chance of finding
+its way into inventory. By operationally attractive we mean easy to transport,
+handle, install and maintain and make a vital contribution to the assigned mission.
+In addition to the availability and reliability of a balloon as a communication
+platform, radio communications must be designed with a fade margin. Here we
+must take into account at least propagation fade, equipment variation, and antenna
+misalignment. The need for a suitable high altitude platform to extend the line-of-
+sight coverage of microwave (broadband) radio dates from the inception of its
+use in the late 1930's. The fact that balloons are not in wide use for this purpose
+now, 25 years later, suggests major problems. It is realized that great strides
+are being made in balloon technology however, and we as communication engineers
+are making an effort to have at hand suitable ground and airborne communication
+gear by the time some of the problems in the use of balloons have been resolved.
+An area in which circumstances might justify early use of balloons is jungle
+environment. Here we may find a double incentive; the fact that communications
+are generally nonexistent, and the need to get above the forest canopy to avoid
+the severe attenuation of radio signals being propagated through dense foliage at
+a low take-off angle. If we assume a canopy approximately 100 feet above ground
+and a balloon tethered 500 feet above the ground for smooth earth we can assume
+line-of-sight to a point of tangency 25 to 30 miles distant. Here we would still be
+faced with the problem of getting through the canopy at a thin angle at the remote
+end. If we use another balloon tethered at 500 feet the distance can be approximate-
+ly doubled, but now we are faced with the problem of two balloons on a single link.
+Some of the difficulties anticipated in the use of balloons in support of com-
+munications are summarized as follows: first, there is need of a suitable cleared
+area to avoid tether fouling. Improvement in ground handling facilities might ease
+this problem. Second, around-the-clock ground support for balloons is needed.
+An essentially unattended operation is desirable. Third, there is need for periodic
+"topping-off' of the balloon with buoyant gas. Again it would be desirable if this
+could be done on a demand basis without lowering the balloon. Fourth, it is neces-
+sary to make balloons less vulnerable to seasonal weather extremes. New fabrics
+and handling, bridling and tethering techniques may hold promise in this area.
+Fifth, balloons pose a hazard to friendly aircraft. This may necessitate the
+development of a specialized radio transponder or some new approach to assureair-
+craft safety. Sixth, balloons could provide fixed markers for enemy attack. This is an
+operational problem which can be solved in part by judicious deployment away from
+communicationand command centers. Seventh, we currently lack suitable prime-
+power sources for use with active balloon-borne radio repeater equipments. Eighth,
+there is at present no equipment available to maintain orientation of a high-gain,
+277
+pencil-beam-type antenna on board a balloon. Antenna design improvements, ap-
+plication of tracking methods, and some stabilization of the airborne platform
+should help. Ninth, extremely lightweight electronic packages need to be assembled.
+Techniques are available, but packaging has yet to be done.
+The picture really isn't all black however. For example, there are in various
+stages of progress at Rome Air Development Center (RADC) several balloon-related
+projects among which are:
+a. Development of a 100-watt butane-fired thermoelectric prime-power
+source for balloon use.
+b. Development of a balloon-borne UHF repeater which could extend ground -
+to-air control coverage to ultimate ranges of 500 to 1000 miles.
+c. Design and development, which is well along, of a pseudo-passive micro-
+wave repeater, the prime-power requirements for which is quite small.
+d. Exploration of the feasibility of transmitting primary power to balloons by
+beamed radio energy.
+e. As a result of work on another project, some microwave radio repeater
+hardware suitable for use in a balloon-borne complex should become available in
+about 18 months.
+f. A balloon-borne microwave transponder is currently being used as a bore-
+sighting target for radar antenna alignment. This could serve in part as a test
+bed for pseudo-passive circuit elements.
+g. A project is being initiated to examine the feasibility of transmitting pri-
+mary power to balloons along a metallic tether with a "G String' type radio-
+frequency transmission.
+h. Similarly it is proposed that a project be initiated to consider the use of
+flat and partial spherical surfaces for reflecting directional microwave beamed
+energy from balloons toward selected terminal stations.
+3. CONCLUSIONS
+In the area of tethered balloons suitable for communications platforms much
+remains to be done. Ruggedness, long endurance, stability and suitable power
+sources head the list. Much in the way of simplification and automation needs to
+be worked out. In the area of free-floating balloons some attractive applications
+seem already within reach, the only remaining problem being to work out payloads.
+What the future holds in the use of balloons for the solution of communications
+problems is not easy to foretell. Some day microwave radio repeaters, riding the
+natural currents of the thin upper reaches of the stratosphere and powered with
+solar cells, may bridge great distances, competing in a small way with orbiting

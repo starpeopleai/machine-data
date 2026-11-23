@@ -1,0 +1,49 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T09:11:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 18627386, "source_ctime_ns": 1793358116565040183, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-001-014-0004.tif", "source_mtime_ns": 1785680998000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-001-014-0004.tif", "source_sha256": "4fae03856d52ebd7391dc1e013697551f69c09598800934e57f36891522b89ef"}
+
+===== PAGE 1 =====
+{"alpha_words": 95, "chars": 811, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+BO-L 0045 PD
+A TWO FOOT WIDE TEN FOOT LONG
+B LONG OBJECT
+CRED
+D. 100
+E NOT SPECIFIED
+F NEGATIVE
+G NEGATIVE
+H NEGATIVE
+PAGE TWO BUDKW 21
+I NEGATIVE
+2
+A CASUAL OBSERVATION:
+฿ 45
+C GOING WEST
+D STRAIGHT LINE
+E SUDDEN
+F
+FIVE MINUTES
+A GROUND VISUAL
+B NEGATIVE
+C NEGATIVE
+4
+: 02/0500Z
+B MIGAL
+ONLY ONE OBSERVER NO REFERENCE
+INSPECTOR
+A CLEAR
+LONG BEACH CALIFORNIA
+PAGE THRBE BWDKU 21
+3 LONG BEACH AIR WEATHER SERVICE DET REPORTED WINDS AS FOLLOWS
+6009 FI 160 DEG 14 KTS CMM 10200 200 26 CMM 16000 220 88
+20000: 220 72 CMM 30000 220 103 CMM 50000 220
+C UNLIMITED
+D FIVETEEN NILES VISIBILITY
+NEGATIVE
+NEGATIVE
+NEGATIVE
+9 NEGATIVE.
+10, NEGATIVE
+11 NEGATIVE
+12 OFFICER OF THE DAY 1/LT WILLIAM H CUTHBERTSON PD INFO
+RECEIVED VIA TELEPHONE PD NEGATIVE ANALYSIS PD
+:02/9758Z DEC BVDKU

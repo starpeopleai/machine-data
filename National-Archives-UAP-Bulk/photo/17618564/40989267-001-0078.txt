@@ -1,0 +1,60 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T08:45:13Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 15320028, "source_ctime_ns": 1793355496179604735, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0078.jpg", "source_mtime_ns": 1785564465000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0078.jpg", "source_sha256": "598c98de5a6d5d9762b393e17d23485ec5d57ea34ce5f7dd1b71851c3522f223"}
+
+===== PAGE 1 =====
+{"alpha_words": 278, "chars": 1844, "method": "ocr", "page": 1, "variant": "plain-vision"}
+EL 2
+PRISM DRIVE
+OFF-SET ANGLE
+ADJUSTMENT
+DOVE PRISM
+RESOLVER
+REED
+SWITCH
+MAGNET
+SUN
+SENSOR
+SUNSENSOR
+DRIVE
+300 R PM
+SUN SENSOR -
+STARTRACKER
+SUN
+MONOCFNTRIC
+MIRROR
+SERVO MOTOR
+DEVICE
+Figure 3. The B -o Device, Schematic.
+ELEVATION
+DRIVE
+RELAY LENS
+ORQUE MOTOR
+RATTERY
+BATTERY
+REACTION WHEEL
+SUPPORTING STEM
+The Bal-Ast Balloon Borne Spectrometer - Telescope With Tracking
+Devices.
+Figure 2. Spectrometer Not Shown).
+2.3 Tracking Procedure
+With the above system, acquisition and tracking is achieved in the following
+steps:
+1)
+After arrival of the balloon at float altitude (25 - 30 km) a programmer
+switches on a set of 4 sunsensors (so called coarse eyes) mounted in pairs outside
+the gondola, which adjust the platform in azimuth, so that the telescope, preset in
+elevation, is pointing at Venus within a few degrees. At the same time, the sun is
+brought into the 20° field of the sun tracker.
+2)
+Shortly after the sun has been acquired the sun tracker is switched on. If
+the balloon is close enough to the predicted position, (for example within 50 km) the
+ß-p device will bring Venus into the 1° field of the centered startracker and Venus
+acquisition follows. Unexpected deviations from the predicted balloon trajectory
+may, however, occur. In such an event the startracker may not be able to locate
+Venus. in which case a scanning mode of the prism rotation is initiated. Since B is
+invariable, a scan in p of sufficient amplitude (for example 3°) will necessarily in time
+time bring Venus in the startracker field.
+3)
+After Venus acquisition the ß-0 device and the startracker remain in over-
+ation for the duration of the observations. During this period the startracker can
+follow Venus out to 3° from the telescope axis, thus allowing deviations of the
+balloon traiector up to several 100 kilometers in the later part of the flight.

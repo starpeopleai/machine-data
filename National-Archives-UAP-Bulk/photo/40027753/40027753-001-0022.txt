@@ -1,0 +1,75 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T08:43:46Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 2, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 14727300, "source_ctime_ns": 1793361555666679187, "source_file": "National-Archives-UAP-Bulk/photo/40027753/40027753-001-0022.tif", "source_mtime_ns": 1785565380000000000, "source_rel": "National-Archives-UAP-Bulk/photo/40027753/40027753-001-0022.tif", "source_sha256": "3aba608698f8c4d3f2512094a9269f9552ace20e3e9be5bfdd1d82b7b54e3aac"}
+
+===== PAGE 1 =====
+{"alpha_words": 61, "chars": 555, "method": "ocr", "page": 1, "variant": "plain-vision"}
+YEAR
+1947
+1948
+1949
+1950
+1951
+1952
+1953
+1954
+1955
+1956
+1957
+1958
+1959
+1960
+1961
+1962
+1963
+1964
+1965
+1966
+TOTAL
+TOTAL UFO (OBJECT) SIGHTINGS
+(Compiled 15 Feb 67)
+TOTAL
+SIGHTINGS
+122
+156
+186
+210
+169
+UNIDENTIFIED
+12
+7
+22
+27
+22
+562
+887
+1,060
+11,108
+19
+16
+30
+676
+SOURCE
+Case Files
+Case Files
+Blue Book, Page 108
+Case Files
+Case Files
+Blue Book, Page 108
+Case Files
+Case Files
+Case Files
+Case Files
+Case Files
+Case Files
+Case Files
+Case Files
+Case Files
+Case Files
+Case Files
+Case Files
+Case Files
+Case Files
+7
+REPRODUCED FROM HOLDINGS OF THE NATIONAL ARCHIVES
+
+===== PAGE 2 =====
+{"alpha_words": 0, "chars": 1, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 2, "variant": "plain-vision"}

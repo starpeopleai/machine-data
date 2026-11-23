@@ -1,0 +1,63 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T08:25:04Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9013520, "source_ctime_ns": 1793365336965492423, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330788691/45484701-008-005-0090.jpg", "source_mtime_ns": 1785684611000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330788691/45484701-008-005-0090.jpg", "source_sha256": "947c8d8f0ac71449c9cb9966cc4b6f8709683de583b54171083c2b4b4d03fcf7"}
+
+===== PAGE 1 =====
+{"alpha_words": 290, "chars": 1982, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AFCSI/It Col Nold/dr-53623
+Aug 50
+CLASSIFICATION CANCELLED
+C INV
+24-185
+BY Historiay
+AUG 1°
+SUBJROT:
+• DEC 1975
+(Unclessifi@TEmown Object,
+Thahran Airfield,
+Dhooran,
+Seudi Arabia - S220IA INQUIRE
+20:
+Commander, Mlitary Air Transport Service
+Andreve Air Torce Dase,
+Bashington 25, D. C.
+ATTE: Inspector General
+Reference is ande to Spot Intelligence Report fron 051, Dhabran
+Airfield, Whahran, Saudi Arabia, file 49-0, concerning captioned subject,
+dated 25 June 1950.
+Paregreph & of reference report reflects that Commanding General,
+l4leth Air Base Group, MArs, Dhahran Airfield, Whahran, saudi Arable, re-
+quested that the Information contained in the report and inclosures be
+Torvarded for proper evaluation.
+in accordance with above request the appropriate agency of this
+Headquerters has exained the raport and inclosures and submiited informa-
+tion as follows:
+Fron the testimony given, the object appeared on film
+which hed been exposed at randon and at approximately a 15-
+degree angle at waist level, The exposures vere made after
+nightfall and the lighis of Dhahran Afrfield vere said to have
+been on.
+The person who made the exposures elso states that he
+noticed nothing wasual and for thet reason does not even
+remember the exact date on which the so-called object may have
+been photogreghed. Assuming no defect in the film and proper
+processing, it seems likely that the so-called objest which
+appears on the film is an image or reflection of one of the
+surface lights at Dhahran Airfield.
+There is no evidence or data presented in this report
+to suggest anything other than the explanation that a photo-
+graph of surface lights is the so-called un mown object.
+Request that above information be forwarded to the Hoadquarters
+BY COLAND OF THE CHINE OF SEAT:
+AFCSI
+Ramold
+1(5-600-1
+12
+OFFICE
+ROI A. HANGSFECIAL LAVES.
+CATION
+Major, USAF
+Asst Exebative, Special Investigations
+he Inspector General
+UNCLASSIFIED
+SEP I 1950
+Declassification Authority: NND 923007
+FILE COPY

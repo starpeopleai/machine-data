@@ -1,0 +1,125 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T08:53:32Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 12941217, "source_ctime_ns": 1793354954519561962, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989253-001-0044.jpg", "source_mtime_ns": 1785564369000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989253-001-0044.jpg", "source_sha256": "e9bde95b9827e72546ab9ceea76e83996ddfc89661a2e056ef14904883eabecb"}
+
+===== PAGE 1 =====
+{"alpha_words": 169, "chars": 1520, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Grade
+Lt Col
+Capt
+Ist Lt
+MSgt
+TSgt
+SSgt
+AIC
+BALLOON R & D TEST BRANCH (Det 1)
+AF CAMBRIDGE RESEARCH LABORATORIES (OAR)
+UNITED STATES AIR FORCE
+HOLLOMAN AIR FORCE BASE, NEW MEXICO
+MILITARY PERSONNEL
+Name
+Clemenson, Robert C.
+Jessen, Richard H.
+Steinke, Shawn H.
+Howard, Robert M. Jr
+Carter, Harold V.
+Johnson, Melvin D.
+Backs, Roland H. M.
+Cole, Grady C.
+Ford, Dalmer R.
+Kyriazi, Ernest N.
+Oravec, Albert C.
+Benton, Joseph R.
+Chesanek, Thomas
+Cross, James E.
+Gresham, Donald G.
+Johnson, Edward t.
+Kerr, William J.
+Norris, Earl .
+Potts, Joseph F. III
+Shaffer, Walter O.
+Walch, Walter G.
+Wescoat, Ear! H.
+Woods, Roderick F.
+Serial No
+FR 17385
+FR 58235
+FR 30207
+FR 70671
+AF 34851439
+AF 14240420
+AF 16375606
+AF 14327161
+AF 18091499
+AF 13287506
+AF 33473832
+AF 24993332
+AF 21003459
+AF 13269900
+AF 14651472
+AF 27056287
+AF 28787877
+AF 15535229
+AF 11364076
+AF 13455473
+AF 33952434
+AF 14655698
+AF 14602002
+DOS
+Indefinite
+Indefinite
+Indefinite
+Indefinite
+18 Apr 67
+14 Jul 69
+19 Feb 67
+29 Apr 68
+13 Apr 68
+12 May 68
+26 Aug 67
+22 May
+67
+18
+Feb
+• 70
+2 Dec 66
+31
+May 67
+4
+Aug 66
+14
+Jan 67
+23
+Oct 68
+12
+Aug 66/
+30 Apr 67
+20 Jan 69
+2 Jun 69
+20 Dec 68
+Crawley, William G.
+Cunningham, Larry B.
+Dalton, Ronald F.
+DiMaria, Joseph Michael Jr
+Hyer, James A. Jr
+Johnson, William H.
+William, Clifton
+Sperry, Charles W.
+Stanley, Rush R.
+AF 16512601
+AF 13694791
+AF 14712018
+AF 13755170
+AF 18564513
+AF 19644964
+AF 18545277
+AF 12678814
+AF 16051033
+13 Aug 67
+21 Nov 68
+4 May 67
+11 Apr 67
+10 Oct 67
+14 Aug 6г
+11 Jan 70
+27 Feb 67
+25 Jun 67
+17 June 1966

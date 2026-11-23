@@ -1,0 +1,102 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T08:31:37Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 22613154, "source_ctime_ns": 1793361383870582988, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-005-0077.tif", "source_mtime_ns": 1785565327000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-005-0077.tif", "source_sha256": "b94ff6a5b9f3aac74ace581327deb564e6a94235fbe8b698c609645476faa73c"}
+
+===== PAGE 1 =====
+{"alpha_words": 481, "chars": 3234, "method": "ocr", "page": 1, "variant": "plain-vision"}
+COUNTRY OF ACT!'
+Y REPORTING
+Hong Kong, BCC
+ПЕРО 10108А2 / 409242
+AIR INTELLIGENCE INFORMATION REPORT
+COUNTRY OR AREA REPORT CONCERNS
+DATE OF
+Communist China
+19 Dec 1959
+ACTIVITY SUBMITTING REPORT
+DATE OF COLLECTION
+18 Feb 1960
+DATE OF REPORT
+(Leave blank)
+376200
+607510
+SRI STATUS (If applicable)
+USAirLO Hong Kong
+PREPARING INDIVIDUAL
+Walter H. Tegler, CWO (W-2) USAF
+Project Officer
+NAME OR DESCRIPTION OF SOURCE
+CANCELED /COMPLETE
+CANCELED / INCOMPLETE
+29 Feb 1960
+EVALUATION
+SRI NO.
+ACT IVE
+Surveillance Radar Station
+REFERENCES (BAIR Subject, previous reports,
+etc., as applicable -6
+AIRG: 650
+SUBJECT (Descriptive title. Use individual reports for separate
+Unusual Air Movement Sighted by Radar
+which highlights the salient factors of
+unless report can be
+UMMARY (Give summafully stated on AF Form 112. List inclosure
+ive text on Ar rorm 1128
+1•
+On 19 December 1959, the RAF radar at Tai Mo Shan detected two unusual form-
+ations moving in a southwesterly direction toward the Colony of Hong Kong.
+The
+first formation was picked up at 1544Z at an altitude of 5000 ft., the bearing was
+060 degrees and the ground speed was 45 mph.
+The range at the time of pick-up
+was 47 statute miles. It traveled soutwest for a distance of 38 miles when it
+faded at 1659Z at a bearing of 042 degrees.
+The altitude at the time of fade was
+3000 feet.
+The second formation was observed at 1549Z at an altitude of 5000 ft., a range
+of 55 miles. The ground speed was 45 mph and the bearing at the time of pick-up
+was 060 degrees.
+It traveled a similar course,
+parallel to that of the first form
+ation, for a distance of 35 miles.
+It faded at 1629Z at a bearing of 043 degrees.
+Preliminary analysis by the RAF gives three possibles: (1) wild fowl which can
+possibly be discounted by reason of the time of day when, it is felt, that large
+formations of fowl would not be flying; (2) propaganda balloons launched by the
+Nationalists. Assuming this, it then becomes apparent that the wind shifted after
+the balloons entered the mainland area.
+This could account for the direction of
+travel at the time of pick-up. (3) Propaganda balloons launched by the Communists
+There is nothing firm on this possibility since prior use of the balloons by the
+Communists in this area is not known.
+There is insufficient available data relating to this incident which could
+assist in a positive identification. The possibility that the objects are weather
+alloons should not be ignored
+Очопи 9. бана
+ROME G. LOWE
+EXCLUDED
+MATIC REGRADING;
+DOD DIR. 5200.10 DOES NOT APPLY
+Asst
+Mkiaisch officer
+lassification
+changed to
+APPROVED:
+Undas ), effective on
+KOF AHI
+under the authority of
+Colonel USA
+→ Dy.
+INE
+Air Liaison Officer
+DIASteR BOGINATOR (Except USAF and file. Indicate Dupl M/oz and copies w/o inclosures, if applicable)
+Det #5, 6499th SupGp, Hickam AFB, w/2 incls: (1) Radar Track & (2) Plot
+Cy to 13th AF wo incl
+WARNING: This document contains information affecting the national defense of the United St
+ithin the meaning of the
+Espionage Laws, Title 18, U.S.C., Section 793 and 794. Its transmission or the revelation of it
+s contents in any manner to
+n unauthorized person is prohibited by law.
+FORM
+AF 15 SEP 54 2
+1049242
+DECLASSIFIED
+Authority NND 9237007

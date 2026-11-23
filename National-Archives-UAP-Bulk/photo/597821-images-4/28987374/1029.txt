@@ -1,0 +1,70 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T09:01:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7368788, "source_ctime_ns": 1793383598098527451, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28987374/1029.jpg", "source_mtime_ns": 1785748360000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28987374/1029.jpg", "source_sha256": "d9befc5902f293676bb63c57047fe0a3a49178c88617f27f87f8e6ef2ca78e20"}
+
+===== PAGE 1 =====
+{"alpha_words": 131, "chars": 931, "method": "ocr", "page": 1, "variant": "plain-vision"}
+SU
+30
+PRIORI
+Ser 60
+ORDER
+FOR SERVICE IN SUPPOFT OF:
+SYSTEM NO.
+(Soo WADCR 63-16)
+4. • FILE OR LEDGER NO.
+INITIATING ORON
+SUPPORTING ORGN
+6177.6178
+DATE COMP
+JETION REQ
+TION
+F WORK REQUI
+A/C
+TASK NO 710L
+TECH GROUPING
+OTHER
+ORM
+THON OR NORK
+ANALYSIS DE ForeiA MATeriAL
+ANALYSIS OF MATerIAL SeNT TO ATIC
+From Syracuse, N.y. For Possible CoMPosiTioN.
+2 savaples
+CONTINUED ON REVERSE SIDE C
+FOR USE OF RESPONSIBLE ORGANIZATION
+SECTION CHIEF
+INITIATOR
+"JAMeS O. DoLIeu 69716i
+AFCIN-4E2+
+13. CHIEF (Reaponeible Orgn or Rep)
+ORGN CODE
+EXT
+ESTIMATED
+COMPLETION
+DATE
+ORGN CODE
+EXT
+FOR USE OF SUPPORTING ORGANIZATION
+15. PROJECT ENGINEER OR PLANNER
+Wade it Jones
+HIEF (Supporting Orgn or Ke
+demon J. British cildi.
+capt, USAF
+MAN-HOURS
+İWRIPA 20236
+ORGN CODE
+EXT
+CLOSING ACTION
+REASON:
+~ COMPLETED
+20.
+CHIEF (Supporting Orgn or Rop)
+→ CANCELLED
+CHIEF (Responsible Orgn or Rap)
+E COMPL
+60
+M/HRS
+8
+EXP
+WADC
+FORM
+SEP 54 49
+AF-WP-O-JUL 58 100M

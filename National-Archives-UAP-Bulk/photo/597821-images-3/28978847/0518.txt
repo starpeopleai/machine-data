@@ -1,0 +1,41 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T09:00:44Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7051987, "source_ctime_ns": 1793380922918917420, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28978847/0518.jpg", "source_mtime_ns": 1785700984000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28978847/0518.jpg", "source_sha256": "5d0fd768887ea166b7ab83d0d73e81ba8ca3fe69fef63a71e23168b773cf0185"}
+
+===== PAGE 1 =====
+{"alpha_words": 40, "chars": 377, "method": "ocr", "page": 1, "variant": "plain-vision"}
+G• WEATHER AND WINDS-ALOFT CONDITION TIME AND PLACE OF SIGHTING:
+(1) CLEAR
+(2) SURFACE
+192 DEG
+6,220
+10,522
+10,-22
+252 DEG
+242 DEG
+202 DEG
+2-,--2
+30,200
+52,222
+32,220
+(3) UNLIMITED
+290 DEG
+242
+DIG
+292 DEG
+(4) 12 MILES
+(5) BROKEN SKY
+(5) THUNDERSTORNS TO NU
+H• NONE
+I. NONE
+J. NONE
+L. NONE
+15 KT
+25 KT
+25 KT
+20 KT
+22 KT
+2% KT
+32 KT
+11/2332 JUL RJEDFL
+Reed 424g
+1145ẠỌ¿e,38
+NNNN

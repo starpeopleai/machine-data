@@ -1,0 +1,45 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T08:35:37Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8221154, "source_ctime_ns": 1793363814173651506, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785831/45484701-006-001-0305.jpg", "source_mtime_ns": 1785684877000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785831/45484701-006-001-0305.jpg", "source_sha256": "e8d678744ae8d9230dc29ea8b4a884481a25c1a53beedaabb2d101c8d4c8753c"}
+
+===== PAGE 1 =====
+{"alpha_words": 131, "chars": 976, "method": "ocr", "page": 1, "variant": "plain-vision"}
+24-48
+CHECK SHEET - Unconventional Aircraft (Cont)
+11. Evidence of exhaust: None noted.
+a. Color of smoke
+b. Length and width
+c. Odor (if any)
+d. Rate of evaporation
+e. Does trail vary with sound? (spurts)
+12. Effect on clouds:
+Opened path thru clouds Only one sizeable cloud in sky in north-
+east - object appeared to fly out of it.
+b. Forced cloud or mists_
+N/A
+c. Reflected on cloud
+d. Showed thru cloud
+NA
+NA
+13. Lights: None Noted
+a. Reflected or attached
+b. Luminous
+c. Blinked on and off in relation to speed
+14¢
+Support:
+a. Wings
+See sketch (Inclosure #2) approximately 8" in length
+b. Aerodynamic list of fuselage
+c. Vertical jet
+d. Rotating cylinder or cone
+N/A
+e. Aerostatie lift (balloon or dirigible) N/A
+15. Propulsion:
+a. Propeller or jet
+N/A
+N/A
+b. Rotor_
+c. Aerodynamic vanes (flapping or oscillating) Oscillation of wings
+(Katz Mayer effect)
+appeared to provide provulsion
+d. Visible exhaust or jet openings
+None Noted
+Declassification Authority: NND 923007

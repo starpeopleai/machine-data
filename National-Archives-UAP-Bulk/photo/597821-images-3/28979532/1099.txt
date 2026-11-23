@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T08:22:07Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7961862, "source_ctime_ns": 1793381184907802236, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28979532/1099.jpg", "source_mtime_ns": 1785700858000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28979532/1099.jpg", "source_sha256": "7ab5cd065f62e47078c84cbc9e129907313b1e85b0fa6f4c65026bc01319f39b"}
+
+===== PAGE 1 =====
+{"alpha_words": 66, "chars": 487, "method": "ocr", "page": 1, "variant": "plain-vision"}
+OUAS ALKE LA
+•' COMIDEASTFOR
+SECNAV
+CNO
+CIMCLANTTFLT
+USCINCEUT
+20 Au 1 8
+18557
+FLEINTCENELM
+CINCUSATE
+CINCONAD
+BT
+MY 201855Z AMPLIFYING X LOST 201842PTS BRNG 145 ILEV 46 DEG X EST
+BRNG WHEN SIGHTED 110 ELEV 88 DEG X SEEN BY CO OOD AND SIX OTHERS
+& APPRNCE SLOW MOVING INTERMITTENTLY PULSATING STAR X JOOD STATES
+SIMILAR SPUTNIK THREE SEEN BY HIM 14 JUL / VIS UNLIMITED & EVALN
+USO
+BT
+26/19382 AUG RJEZHQ
+by Capt Gregory
+Instructions
+Tost Dolieu
+HANN
+4E4G
+Chark antf
+- abital
+Miatech
+110

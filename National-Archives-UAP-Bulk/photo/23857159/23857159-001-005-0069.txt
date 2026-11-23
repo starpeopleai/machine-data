@@ -1,0 +1,78 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T08:46:52Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 19202462, "source_ctime_ns": 1793361377423773498, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-005-0069.tif", "source_mtime_ns": 1785565326000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-005-0069.tif", "source_sha256": "7d40e6281fd92107b29ef04224e85c9748a934d282d880e39e41c0ff527a889e"}
+
+===== PAGE 1 =====
+{"alpha_words": 237, "chars": 1751, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UNCLASSIFIED
+CLASSIFICATION
+COUNTRY OF
+REPORTING
+SPORT NO.
+USA
+1219508
+AIR INTELLIGENCE INFORMATION REPORT
+COUNTRY OR AREA REPORT CONCERNS
+DATE OF
+INFORMATION
+Alaska, USA
+6 Dec 59
+ACTIVITY SUBMITTING REPORT
+DATE OF COLLECTION
+(LeaVe DIanK)
+SRI STATUS (If applicable)
+Headquarters, Alaskan Air Command
+PREPARING INDIVIDUAL
+7 Dec 59
+DATE OF REPORT
+SRI NO
+CANCELED/COMPLETE
+SRI NO
+Captain Thomas M. Conrow
+NAME OR DESCRIPTION OF SOURCE
+Mr. Cal Reeves
+Mr. Wallace G. McNiese
+REFERENCES (BAIR Subject, previous report
+9 Dec 59
+EVALUATION
+CANCELED / INCOMPLETE
+SRI NO
+B-1
+s applicable)
+None
+SUBJECT (Descriptive title. Use individual rep
+ts ror separate suojects
+Unusual phenomenon
+which highlights the salient factors of
+unless report can be
+SUMMARY (Give summatully stated on AF Form 112. List inclosur
+rative text on AF Form 112a
+At approximately 07/0630Z an intense blue flash was seen
+SW of Cold Bay,
+Alaska.
+(55°12'N 162°43'W).
+A short time later a shock wave was felt and/or heard by
+residents of the area.
+There was no immediate explanation of this phenomena.
+341-62A1322ął
+2125:42-6-2
+INCLS
+APPROVED:
+Willie
+WILLIAM E. ROSS
+Colonel, USAF
+ACS/Intelligence, AAC
+DISTRIBUTION BY ORIGINATOR (Except USAF and file. Indicate Dupl M/oz and copies w/o inclosure
+1 copy PACAF
+1 copy ALCOM J-2
+1 copy 10th A.D.
+WARNING: This document contains information affecting the national defense of the United Stat
+Espionage Laws, Title 18, U.S.C., Section 793 and 794. Its transmission or the revelation of its
+an unauthorized person is prohibited by law.
+if applicable)
+ning of the
+FORM
+AF 15 SEP 54 112 REPLACES AF FORM 112. 1 OCT 52. WHICH MAY BE USED
+UNCLASSIFIED
+CLASSIFICATION
+U.S. GOVERNMENT PRINTING OFFICE: 1954 0 - 315475
+DECLASSIFIED
+Authority NND 9237007

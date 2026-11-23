@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T08:21:27Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7541633, "source_ctime_ns": 1793383680778746379, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28987581/1211.jpg", "source_mtime_ns": 1785748023000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28987581/1211.jpg", "source_sha256": "1dccad1834d85d4c8fdc14d22c452f5f877dc5b716b668e2b70b2cc04f83e44e"}
+
+===== PAGE 1 =====
+{"alpha_words": 55, "chars": 350, "method": "ocr", "page": 1, "variant": "plain-vision"}
+July 10
+tingele Ori
+onio 11,
+1950
+e Air Forde
+Dear
+cal s
+apendent
+no
+unidents t able
+pse objects.
+nd observa
+Jens
+cable
+esor
+to 1D0 phenoment
+probable that sig Wings have deccensed
+becoming ever more since einscions. Res
+question the nets conviese to not enem
+.c:
+acas
+21p1
+ckie:
+o Air Porce its post bion as to
+inos, and there
+o extebunce
+lint
+cour

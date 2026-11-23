@@ -1,0 +1,21 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T08:41:19Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9275191, "source_ctime_ns": 1793363592558360164, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785674/45484701-005-006-0014.jpg", "source_mtime_ns": 1785684933000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785674/45484701-005-006-0014.jpg", "source_sha256": "7faa5ab9a3aba0a13e11b52b0e0faf52b597ebaa8c25408f9a66f8dcb796f4ac"}
+
+===== PAGE 1 =====
+{"alpha_words": 26, "chars": 194, "method": "ocr", "page": 1, "variant": "contrast-vision"}
+saer
+OOP1a
+sceldn
+conx erpe EToNiạii
+TJ0 1-ACS
+ST13€
+HONVHS
+8961100 T8
+NI
+or/eoleo
+1303 0
+COITADITIZEANO
+PIORTOA YU
+UN M TRUA
+COUNTER INTEL DIV
+CERIRRAJDU
+Declassification Authority: NND 923007

@@ -1,0 +1,20 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T08:34:35Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7615561, "source_ctime_ns": 1793383933646204910, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28988281/0436.jpg", "source_mtime_ns": 1785748483000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28988281/0436.jpg", "source_sha256": "99d7e1cc9e049fbabb7cfa47e56f849a63a1fde94154c907c56c6a7574bf6c6a"}
+
+===== PAGE 1 =====
+{"alpha_words": 12, "chars": 95, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+yod
+i
+
+‘x
+i
+
+yos49?
+
+| Juniper
+| Pt,
+
+“ed Four Mile
+ay<-HOuse —_
+
+| Mothewson \
+iylor |» Mh i

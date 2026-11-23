@@ -1,0 +1,55 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T08:25:12Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9100043, "source_ctime_ns": 1793363992395435656, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330786313/45484701-006-005-0115.jpg", "source_mtime_ns": 1785684966000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330786313/45484701-006-005-0115.jpg", "source_sha256": "44c5c752fbd20ff8385275bb58f24bf4ff84fe1dcb0becf0c28a1ecc73d0bcce"}
+
+===== PAGE 1 =====
+{"alpha_words": 197, "chars": 1433, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AIR FORCE
+HEADQUARTERS UNITED STATES AIR FORCE
+WASHINGTON
+RGC/PIR/ jdk
+THE INSPECTOR GENERAL USAF
+17TH DISTRICT OFFICE OF SPECIAL INVESTIGATIONS
+KIRTLAND AIR FORCE BASE, NEW MEXICO
+18 August 1950
+SPOT
+File No: 24-8-0
+SUBJECT: UNIDENIFIED
+WELLED SAY
+BY AUTHORITY OF THE DIRE FOR OF SPAG
+BY
+AERIAL PHENOMENA
+KURT K. KUNZE, Capt, USAF
+Historian
+DATE
+* DEC 1975
+TO:
+Director of Special Investigations
+Headquarters, United States Air Force
+Washington 25, D. C.
+UNCLASSIFIED
+SYNOPSIS:
+On 19 July 1950 at approximately 2330 hours (MST),
+Sergeant A. H. RABORN and Corporal HOWARD D. LOCKE, Air Police Squadron,
+Holloman Air Force Base, New Mexico observed two objects about the size
+of a softball, changing in colœ from green to red, red to green and
+reddish brown. Observation was at Datil, New Mexico.
+2. DETAILS: Information provided by Sergeant A. H. RABORN and
+Corporal HOWARD D. IOCKE regarding these objects sighted on 19 July 1950
+is as follows:
+Time and Date of Sighting - 19 July 1950, at approximately
+2330 hours (MST).
+b. Point of Observation - Datil, New Mexico
+c. Number of Objects - Two (2)
+d. Distance of Object from Observer - unable to estimate
+(1) Elevation from Horizon - about ten (10) degrees
+e. Appearance of Object:
+(1)
+Color - Changing from green to red to green to red-
+dish brown.
+(2) Shape - Round
+24-185-11-79
+S AIR F
+HUG LY
+44 PM
+SEP 12 1950 INVEST
+NOLD
+Declassification Authority: NND 923007

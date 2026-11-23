@@ -1,0 +1,58 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T08:33:12Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7210130, "source_ctime_ns": 1793359864840329238, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-011-009-0004.tif", "source_mtime_ns": 1785681547000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-011-009-0004.tif", "source_sha256": "25139cf1af0366af44bf8016c8a869caefb9cfe4cf7f456f3948e09684e3ce98"}
+
+===== PAGE 1 =====
+{"alpha_words": 123, "chars": 957, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+EN0022
+NNBC00
+OR S
+16/01152
+ENC157 YDC229 YD190 HQC128
+PP RJEDEN RJEDWP
+DE RJEPHQ 1028
+P 152012Z
+FM HEDUSAF WASHDC
+TO RJEDEN/COMAIRDEFCOM ENT AFB COLO
+RJEDWP/COM ATIC. W-PAFB.OHIO:
+B1
+FROM: AFOIN 43082
+UFOB REPORT FOLLOWS:
+A/ROUND, SUCER-SHAPED
+B. DIME
+C. REDDISH-SILVER-POLISHED
+D. FOUR
+E. THREE IN FORMATION
+F. NONE
+G. NONE
+H. SLOW HUMMING OR THROBBING
+4602D AISS UFOB REPT. 27L
+DATETIME CROUP 15/01.57. Z Oug 5b
+ANNAPOLIS, MD.
+•Pos ACT
+CHECK HELICOPTERS
+PAGE TWO RJEDPHQ 1028
+I. NONE
+2.
+A. LOOKED LIKE JETS FLYING NEAR SMALL CLOUD AT FIRST.
+THEN OBJECTS STOPPED AND WOULD GO-UP AND DOWN MANEUVERING
+RAPIDLY. THEN HEARD ODD NOISE: WOULD DISAPPERAR WHEN
+TURNING.
+B. SIXTY DEGREES
+C. SIXTY DEGREES
+SCE 2. A.
+E. DISAPPEARED IN A TURN
+FIVE MINUTES •
+3% A. GROUND VISUAL
+B. NONE
+C. N/A
+..
+A. 195,7 EDT
+B •
+DUSK
+* ANNARD IS, MARYLAND
+5 -
+NO. PHONE CAN
+AGES UP TO SIXTY YEARS
+4. A. FAIR WEATHER
+ANNAPOLIS,
+PLUS SEVEN OTHERS

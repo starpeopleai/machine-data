@@ -1,0 +1,56 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T09:03:54Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8594633, "source_ctime_ns": 1793385544083589942, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28993618/0102.jpg", "source_mtime_ns": 1785748461000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28993618/0102.jpg", "source_sha256": "2f4cb1280c01a6812b67c75061942ffe3539ae79171df5516f003cb4e740abe7"}
+
+===== PAGE 1 =====
+{"alpha_words": 149, "chars": 1116, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD CARD
+1. DATE
+2. LOCATION
+25 July,
+1962 / 7/îźš
+3. DATE-TIME GROUP
+Local .
+0200
+GM T.
+25/10007
+5. PHOTOS
+Miäwest and Southwest US
+TYPE OF OBSERVATION
+CI Ground- Visual
+KIK Air Vi sual
+• Ground-Radar
+• Air-Intercept Radar
+ẠSOURCE
+• Yes
+CONO
+7. LENGTH OF OSSERVATION
+Civilian Multiple sighting
+8. NUMBER OF OBJECTS
+9. COURSE
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Bolloon
+Was Aircraft
+Probably Aireraft
+Possibly Aircraft
+D: Was Astronomicel(COMI
+Probably Astronomical
+Possibly Astronomical
+Other
+Insufficient Data for Evaluation
+Unknown
+nr approx
+10. BRIEF SUMMARY OF SIGHTING Round Obj, bright blue-11. cOMMENTSObjt reported has all
+white with a faint tail or glow,
+looking like
+a characteristics of a comet. Science
+comet not in motion. Disappeared as daylight
+News Weekly of 5 August 61 reports that
+not brighter. Tail 4 times width of objt, 30°
+a new Comet was discovered on 23 July
+above horizon at 030° azmith. Appeared
+in position reported by many of the
+stationary.
+witnesses, it is,therefore, concluded
+that these are observations of the comet
+ATIC PORM 329 (REV 26 SEP 52)

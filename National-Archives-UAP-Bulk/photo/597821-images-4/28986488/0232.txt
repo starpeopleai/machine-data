@@ -1,0 +1,56 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T08:33:43Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7355644, "source_ctime_ns": 1793383191656203080, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28986488/0232.jpg", "source_mtime_ns": 1785747879000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28986488/0232.jpg", "source_sha256": "d033b9889d717bfdfd40db607f41d992e4c89848fb872c0017384f737749bd1b"}
+
+===== PAGE 1 =====
+{"alpha_words": 136, "chars": 833, "method": "ocr", "page": 1, "variant": "plain-vision"}
+JOINT MESSAGEFORM
+UNCL
+SPACE BELOW RESERVED POR COM
+21. 20
+PRECEDENCE
+ROUTINE
+TYPE MSG (CL
+BOOK
+MULTI
+ACTION
+INFO
+FROM:
+TO:
+ORIG, OR REFERS TO
+PLN 11-D-12
+OF REFERENCE
+RENCE
+UNCLAS
+ATTO,
+W-P AFB
+DOVER APB, DEL
+/UNCLAS/FROM: AFCIN¿E2_
+1243-2
+ATTN 1607 AIRTRANSPNG. YOUR MSG PIN 11-D-12, DTD 11 APR 60. WAS
+THE OBJ ROUND OR OBLONG? WAS IT THE STZE OF A GRAPEFRUTT HELD AT
+ARM'S LENGTH, OR AT SOME OTHER DISTANCE? PIRASE CLARIFY PAR A(9).
+WHAT WAS THE ELEVATION AND AZINUTH OF THE OBJ WHEN FIRST AND LAST
+SEEN? WERE OBSERVERS IN A CAR AT TIME OF SIGHTING? IF SO, WORR
+THE WINDOWS DOWN AT THE TIME? REQ
+BE CONTACTED AND
+HIS IMPRESSIONS OF THE SIGHTING BE FWD TO THIS CENTER.
+РАТЕЗ
+MONTH
+APR
+153:
+YEAR
+1960
+SYMBOL
+АРСТ
+-1|02
+TYPED NAME ANO TITL
+E (Sig
+ajor Robert d. Friend
+69216
+I NR
+ICATION
+UNCL
+SSIFTED
+E AND TITLE
+EVANS
+Cotonel,
+USAF

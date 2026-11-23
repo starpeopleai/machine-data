@@ -1,0 +1,41 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T09:04:47Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9090143, "source_ctime_ns": 1793362514341353261, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330783011/45484701-003-001-0096.jpg", "source_mtime_ns": 1785685152000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330783011/45484701-003-001-0096.jpg", "source_sha256": "8d4f84bbf4aff0517007f6ef78787b7f6cfc848803efcf7f8d1be98958c8d40e"}
+
+===== PAGE 1 =====
+{"alpha_words": 182, "chars": 1119, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Walnut Avenue
+Fairmont,
+W. Va.
+Phone 3765
+August 1, 1952
+Hon.J. Edgar Hoover
+Dept.F.B.I.
+Washington, D.C.
+Dear Sir:
+I have been hearing so much about the
+objects called Flying Saucers that I begin
+to speculate as to whether we are the only
+Nation or country to witness such a display.
+Of course it could be that those odd
+objects are pest filled Radar controlled
+waiting to be puctured.
+Te heve been so
+accused by another Nation that no doubt
+they have devised some diabolical plan to
+test on us.
+I am not inclined to pass those over
+lightly, because I believe that those gadgets
+can be made and controlled to the extent of
+great numbers in groupings.
+Also, I believe it is very unwise to
+Any one wise enur to perfect such would
+not only know their travel distance but also
+their location, therefore no talk or publications
+could benefit us in thaters
+I hope that someone has had the integrity
+and foresight to learn where If in any other
+country these 'things have been seen.
+Thanking you in advance for the courtesy-
+of a reply, I remain
+Respectfully yours,
+/s/ Mrs. Fred Haufe
+Declassification Authority: NND 923007

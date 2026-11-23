@@ -1,0 +1,71 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T08:47:52Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 21832432, "source_ctime_ns": 1793360699774382665, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-003-0017.tif", "source_mtime_ns": 1785565112000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-003-0017.tif", "source_sha256": "21c68e6131579fe5131be4ec8c0df85672c2c1b884c2649fbe8f8d552e9e2803"}
+
+===== PAGE 1 =====
+{"alpha_words": 297, "chars": 2102, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AF FORM 112-PART I1
+APPROVED 1 JUNE 1948
+AIR INTELLIGENCE INFORMATION REPORT
+REPORT NO.
+Robins Air Force Base, Ga
+1. Description of the object.
+PAGE
+PAGES
+a.
+b.
+C•
+d•
+e.
+Shape resembled that of a ghord with handle or a tadpole.
+Size of a grapefruit.
+Green.
+Number of objects, one.
+N/A.
+Described as traveling at approximately the speed of a jet aircraft but was
+definitely not a jet.
+At time of observation the moon was shining and object
+was clearly visible.
+g •
+Yellow glowing substance.seemed to drip from the tail.
+h•
+No sound heard.
+i.
+None •
+2. Description of course of object.
+a. Sighted by engineer of train during normal observation of area on Southern
+Railway trip number 153 from Macon, Georgia to Brunswick, Georgia.
+b. Object was traveling on a straight and level course from southwest to north
+east at an estimated 5000 to 8000 feet at an estimated distance of one mile
+from the observer when first sighted.
+c. Straight and level.
+d. Entire time in view object traveled a straight and level course with no
+maneuvers.
+e. Object appeared to disappear from view due to distance.
+f. Object was in sight for approximately one minute.
+3. Manner of Observation.
+a. Cround visual only.
+b.
+No optical aids used.
+C. NA.
+4. Time and date of sighting.
+a. 0907147.
+b. Night bright moonlight.
+5. Location of Observers.
+a. Pine Grove, Georgia.
+6. Identifying information of all observers.
+a.
+Civilian
+age 63,
+Georgia. Engineer Southern
+age 55,
+Macon, Georgia. Brakeman
+age approximately 36, % Atlanta Division, Southern
+Railway Yard Cifice, Macon, Georgia. Fireman Southern Railway.
+%. Military - N/A.
+NOTE: THIS DOCUMENI CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S. C.-
+31 AND 32. AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHISITED BY LAW.
+IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF
+INTELLIGENCE, USAF.
+UNCLASSIFIED
+(CLASSIFICATION)
+DECLASSIFIED
+Authority NND 9237007

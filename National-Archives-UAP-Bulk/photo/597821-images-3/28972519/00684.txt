@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T09:03:11Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8219430, "source_ctime_ns": 1793379520633177882, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28972519/00684.jpg", "source_mtime_ns": 1785700872000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28972519/00684.jpg", "source_sha256": "145a19d6b8af7c7263a4fd70700f493590291417259c8bd8da122b389119048c"}
+
+===== PAGE 1 =====
+{"alpha_words": 53, "chars": 324, "method": "ocr", "page": 1, "variant": "plain-vision"}
+28/1530₴
+Nulle
+29 0cr 57
+13 55
+ДнЕ¢
+ORD F
+1V WPD 94 YDB078 VYA 73 VDB04 KEA 27
+PP RJEDD
+. RJEDIP RJEPHO RJE
+DE RJESKO 1D
+P 2914502
+I COMDR GSUTH ACURON
+MACDILL AFB
+TO RJEDDN/CONDR ADC
+T AFD COLO SPGS COLO
+JESKE/COMDR 35TH
+ADIV DE
+F DOBL II
+FB CA
+ORO.-/COMDR AIR TECH .
+IL PATTERSON AFE OHIO
+JEPHO/DIR OF
+INT KO USAF VASH DC

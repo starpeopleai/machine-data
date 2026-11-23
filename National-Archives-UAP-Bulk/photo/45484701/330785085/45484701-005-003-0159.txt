@@ -1,0 +1,44 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T08:50:37Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9390877, "source_ctime_ns": 1793363387343750901, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785085/45484701-005-003-0159.jpg", "source_mtime_ns": 1785684918000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785085/45484701-005-003-0159.jpg", "source_sha256": "4c952b1b2b00e613d377f123a8994310b9893303abbd5c703b87d18187aee7fb"}
+
+===== PAGE 1 =====
+{"alpha_words": 382, "chars": 2512, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Capt. P. W. Henderson - Office, Director of Intelligence (A-2)
+Headquarters, L4the Air Force.
+1st Lt. J. #. Clancy - Office, Director of Communications and Elec-
+tronics, Headquarters, With Air Force.
+2. To the best of the writer's understanding, concurred in by Messrs.
+Goedjen, Price, Seagraves, McSwain and Callaghan, the Third Army did not
+take prompt, positive action to effect an on-the-site investigation of the
+reported incident, even though AFC ORO and the Liaison Office of the Ten-
+nessee Military District at ORO took immediate steps to report the situa-
+tion as soon as it was brought to their attention, i.e.--on 2 March 1950.
+Illustrating this point, Third Army personnel have still not arrived as of
+this writing and l4th Air Force personnel called into the case by the Third
+Army did not arrive in Knoxville until the afternoon of 7 March 1950.
+3. There is apparently something wrong with the system presently
+established to insure prompt, positive action by responsible defense au-
+thorities in case of a threat to Oak Ridge. It is not seen, for instance,
+how the Third Army or, for that matter, any other responsible military or-
+ganization charged with protecting Oak Ridge, can effectively interpret
+the meaning of observations illustrated by the Adcock case, without at least
+sending a competent individual to the site to make a personal investigation.
+For all anyone knows, Mr. Adcock's observations could very easily have beer
+authentic, and it seems that the Third Army should have dispatched or ar-
+ranged for dispatch immediately upon receipt of the first report, suitably
+qualified personnel and equipment to cither confirm or deny the report. On
+the other hand, the matter was left to be accommodated by a group of people
+who had no direct responsibility (other than securing intelligence) but who
+took on the task, within their limited abilities, in an attempt to either
+confirm or deny Mr. Adcock's observations.
+In view of the apparent delay by responsible military authorities
+in taking on-the-site investigative or protective measures on behalf of an
+installation as vital to the national welfare and defense of the United
+States as is represented by Oak Ridge, it is strongly recommended that this
+matter should be immediately brought to the attention of appropriate Depart-
+ment of Defense authorities with a view toward taking corrective action.
+C. D. GASSER
+Colonel, USAF
+AMC Engineering Field Officer
+Inclosure:
+Memorandum for Record
+Declassification Authority: NND 923007

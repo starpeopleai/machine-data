@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T08:24:27Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8621577, "source_ctime_ns": 1793386010066173961, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28994594/0989.jpg", "source_mtime_ns": 1785748118000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28994594/0989.jpg", "source_sha256": "eefc86748c936f4f68715c90fac226eb0ccfa775c50eddf6cf7c6060f0682333"}
+
+===== PAGE 1 =====
+{"alpha_words": 106, "chars": 765, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AIR FONCE
+STAFF MESSAGE BRANCH
+INCLASSIFIED MESSAGE
+INCOMING
+AF IN : 57843 (15 Sep 61)
+PAGE THREE RJAPDR 24A
+N/A 6. EXTREMELY BRIGHT, LOOKED LIKE AN EXPLOSION.
+7. VERY SHORT TAIL 8. NONE •8 NO VIBRATION FELT
+IN THE A/C. B. DESCRIPTION OF COURSE OF OBJECT
+1. BLINDING Z
+Page 3 of 3
+ITE LIGHT 2. 120 DEGREES FROM NOSE
+OF A/C,:260 DEGREES ELEVATION FROMA/C.
+3. APPROX SAME 4. IF MOVING AT ALL, FROM WEST TO EAST
+5. BLEW UP 6. ONE TENTH OF A SECOND C. MANNER OF
+OBSERVATION: 1. AIR VISUAL 2. NONE 3. F1Ø2ABN
+553412, 35,000°, 360 DEGREES, MACH .85, YOKOTA AB
+D. SAME AS PART ONE E. SAME AS PART ONE F.
+SOREN A. POZ-IELSN, 1ST LT USAF, 40TH FIS, INICP
+PILOT, USUALLY RELIABLE. G. SAME AS PART I H. - K.
+SAME XAS PART ONE. L. NONE
+BT
+15/0123Z SEP RJAPDR

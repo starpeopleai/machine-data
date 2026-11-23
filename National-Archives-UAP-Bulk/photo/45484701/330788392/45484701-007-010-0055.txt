@@ -1,0 +1,60 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T08:25:40Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9681156, "source_ctime_ns": 1793365158815285003, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330788392/45484701-007-010-0055.jpg", "source_mtime_ns": 1785684782000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330788392/45484701-007-010-0055.jpg", "source_sha256": "bef06ac12ab0acaad428c6bef1690abc5c59c95057961f386da7ff364267e565"}
+
+===== PAGE 1 =====
+{"alpha_words": 252, "chars": 1714, "method": "ocr", "page": 1, "variant": "plain-vision"}
+25th District 051 (10) USAP, SelFridge Air Porce Base, Michigan,
+Subj:
+Unidentiried Paying Object Sighted Detroft, Michigen, 2150
+hours, 18 July 1958
+Weather:
+(1) LAWRENCE MILLER advised that there vere some
+cLouds, but ne vas unable to estimate their
+altitude. The stars were visible over down-
+town Detroit.
+OST Comment.
+FREDERICK MILLER, who Was interviewed at
+his place of work, was in the U.S. Army for one year and vas
+released from the Amy because, according to him,
+"I woon't smart
+enough." His story and description vere vague and confusing. He
+continually referred to his younger brother, LAWRENCE, to authen-
+ticate anything he might say. LAWEENCE MILLER, seemingly intelli-
+gent and a good student according to his father and older sister,
+is intensely interested in military life and he stated he intended
+to make a career of the Amed Forces.
+When he was questioned as to
+the possibility that the object might have been a weather balloon,
+LAWRENCE stated that it couldn't have been a vesther balloon because
+his physics book has a picture of a weather balloon and they have
+instruments hanging from them.
+When LAWRENCE was infomed that
+westher balloons did not necessarily have instruments attached to
+them, he stated that the object may have been like a balloon but
+he wean't sure.
+7. Action. This office contemplates no further action in
+this matter.
+Distribution effected as indicated below.
+1218/16/15/70
+OUT
+13 AUG1958
+DISTRIBUTON: CI DIV
+PRASSE
+It Col, USAP
+District Commander
+15 4L1
+SEIC
+Com: Chief,
+telligence Div.
+2 copies - Co
+M0,: 30th Alr Div.
+028
+24-185-25-
+TES AIR FORC
+ENERAL
+Aue 5
+Ф
+14 5 2'58Ś
+FOR OFFICIAL USE ONLY
+OFFICE OF
+ECIAL INVESTIDATION
+Declassification Authority: NND 923007

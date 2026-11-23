@@ -1,0 +1,46 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T08:31:34Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 18149627, "source_ctime_ns": 1793355435945453245, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0017.jpg", "source_mtime_ns": 1785564455000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0017.jpg", "source_sha256": "e86c626f8b1228ba1c673eb90060c5ae39f6e22a037694812436836dd2199e6f"}
+
+===== PAGE 1 =====
+{"alpha_words": 417, "chars": 2753, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AIR LAUNCHED
+BALLOON DEVICE
+Figure 14. Air Launched Balloon Device
+sequent to deployment of the main parachute the balloon unrolls from a protective
+bag at the parachute apex and a time programmed gas inflation begins.
+The lifting
+gas flows from the compressed gas cylinder through a high pressure hose to the
+parachute apex and into the balloon. After a period of 60 to 90 seconds, the in-
+flation is completed and the balloon is released from the parachute and launching
+device.
+The balloon then ascends to its design ceiling altitude and performs as
+programmed; the launching device descends and may be recovered and reused.
+Although such a launching system is costly and surely will not fill all needs, it is
+not dependent upon surface winds, places no weight penalty on the balloon by
+virtue of the launching technique and can be extended to balloon and payload com-
+binations well in excess of the 70 pounds launched to date. Release of these
+launching devices has been achieved at altitudes up to 45,000 feet at MACH 0.9, and
+beyond separation of the launching device from the aircraft, there appears to be
+no serious problem related to higher altitudes and greater speeds. Figure 15 is
+useful for determining 'ball park' figures for balloon size and package size for a
+given payload-altitude requirement. However, the launching speed, device cost,
+launching altitude, and time at altitude are all exceedingly important considerations
+which in selected cases can considerably alter this graphical information.
+3. SUMMARY
+It is apparent that this talk amounted to a simple broad-brush treatment of the
+entire field of ballooning and left much unsaid. However, it was my intention to
+provide something of a framework for the specific balloon technology talks which
+follow. Surely these talks will both fill the voids in my integrated picture of the
+field of ballooning and provide an insight into the course of current developmental
+efforts. Since many areas have been discussed, let me emphasize a few important
+points.
+1. Unsupported film balloons have carried payloads to 4500 pounds, but the
+reliability above 3000 pounds leaves much to be desired. A great deal of develop-
+mental effort is being directed toward obtaining more reliable low cost balloons,
+since a major segment of the scientific balloon experimenters simply cannot afford
+expensive balloons.
+2.
+The flight of payloads in the 10, 000 to 20, 000 pound range is clearly
+feasible with supported film balloons. The current cost of such balloons is high.
+Major cost savings can be made through value engineering, redesign, careful
+materials selection, and recovery. Such procedures will, it appears, result in a
+substantial reduction in costs with little or no reduction in quality.

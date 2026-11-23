@@ -1,0 +1,50 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T08:23:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8393843, "source_ctime_ns": 1793385637187251662, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28993818/0281.jpg", "source_mtime_ns": 1785748285000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28993818/0281.jpg", "source_sha256": "2ca821bb0d587302ecd47066f383440a3f0fc67ed2d588255e3ab5693568957e"}
+
+===== PAGE 1 =====
+{"alpha_words": 307, "chars": 2106, "method": "ocr", "page": 1, "variant": "plain-vision"}
+g. Weather and Winds - Aloft Conditions at Time and Place of Sightings:
+(1) Observers account of weather conditions: fairly clear, dark
+and light clouds in the vicinity and distance. Occasional lightning from
+cloud to cloud and cloud to ground.
+(2) Wind direction and velocity in degrees and knots:
+6,000 ft - 340° at 10K
+10,000 ft - 230° at
+16,000 ft - 150° at 10K
+20,000 ft - 140° at 8K
+30,000 ft - 150°
+at 9K
+50,000 ft - 150°
+at 12K
+80,000 ft - 080° at 35K
+(3) Ceiling - general ceiling of high broken to high overcast
+between the hours of 0200Z and 0500Z hours.
+(4) Visibility at 0200% 40 +; at 0300Z 35 f; at 0400Z 15 +.
+(5) Approximately 14,000 ft scattered sky condition with a high
+overcast, 35 mile visibility.
+Towering cumulus nimbus and frequent
+lightning cloud to cloud and cloud to ground, NW and NE, S and SW point
+of sighting. Variable broken to overcast.
+(6) Thunderstorms in the area of NW, NE and S to Sw.
+(7) Gradual
+temperature gradient decreasing from + 22°C at
+5,000 ft to minus 67°C at 50,000 ft.
+h. No other unusual activity or condition.
+i. No interception or identification action taken.
+The known air activity was at Fort Huachuca, Arizona. Weather
+balloons were reported to have been flow in the preceeding forty-eight
+hour period. As of this date, none of the balloons have been recovered.
+Second report - Yuma Marine Corp Test Station reported the Army tested
+ten weather balloons between the hours of 1300 and 1800 hours, Tuesday,
+1 August 1961, at one-half hour intervals. These balloons will expand to
+seven feet in diameter while some others may reach as much as forty feet
+They are radio equipped and have parachute packages attached
+for jettison. They are released at ground level and have been known to
+fly at approximately 75,000 feet.
+Preparing officer is
+n, AO 812076, Assistent
+Base Operations Officer at Luke AFB.
+It is his belief that this sighted
+object could have been one of the balloons released by either Yuma or
+Fort Huachuca,
+which could have drifted over this area at high or medium
+altitude. Due to the afmosphere conditions, the time of day (dusk), the

@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T08:22:44Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8283879, "source_ctime_ns": 1793385981489112528, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28994537/0935.jpg", "source_mtime_ns": 1785748177000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28994537/0935.jpg", "source_sha256": "be69b3218ee8172636ba70a2cae189907f20c6b067e31baaf5d6a37d5aef59c6"}
+
+===== PAGE 1 =====
+{"alpha_words": 62, "chars": 431, "method": "ocr", "page": 1, "variant": "plain-vision"}
+FORM DS-378
+7-18-55
+DEPARTMENT OF STATE
+Division of Language Services
+LS No. _25044
+T-24/T-9
+TRANSLATOR'S SUMMARY OF COMMUNICATION •
+Language:
+Date of Communication:
+Addressed to:
+Name and address of writer:
+Polish
+Postmarked September 14, 1961
+The President
+Miss or Mrs.7
+Substance of writer's statement:
+The writer states that she saw an airplane which
+flew in the air without wings and wheels and without noise.
+VO
+=
+GPO 888355

@@ -1,0 +1,11 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T09:06:20Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10386650, "source_ctime_ns": 1793379711128937699, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28973253/01338.jpg", "source_mtime_ns": 1785700810000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28973253/01338.jpg", "source_sha256": "964673de34a0abae85212246af0329a3c0806f3f7da806bc9ac077c7896d8f9e"}
+
+===== PAGE 1 =====
+{"alpha_words": 45, "chars": 303, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Two hours later; from 5:10 tc 5:30 a.m., radarmen on the Coast Guard cutter
+Sebago, 200 miles south of New Orleans
+in the
+Gulf of Mexico, reported tracking an
+unknown object;
+the high-speed target was also observed visually for several
+seconds at 5:22, and was described as "planet-like" in appearance.

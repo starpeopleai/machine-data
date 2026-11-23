@@ -1,0 +1,42 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T09:19:06Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8683706, "source_ctime_ns": 1793365205927985833, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330788488/45484701-008-001-0048.jpg", "source_mtime_ns": 1785684665000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330788488/45484701-008-001-0048.jpg", "source_sha256": "5a2333b42bd42b3db3828b8120b835d1901c97aab11563337c8c0604fbd433c4"}
+
+===== PAGE 1 =====
+{"alpha_words": 333, "chars": 2076, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DETAILS:
+1°
+Investigation initiated by District Commander, DO #l, Elmendorf
+AFB, Alaska, who, at 1130 hours on 16 July 1950, received a call from
+Intelligence Office, Headquarters AAC, stating that a Mr. GINE BRADY,
+Anchorage, Alaska, had sighted an object flying over Knik Arm which could
+not be explained as a conventional type aircraft.
+AT ANCHORAGE, ALASKA:
+Mr. GENE BRADY, 515 N. Street, Anchorage, Alaska, was contacted
+at 1145 hours 16 July 1950. He alleged that at about 1020 hours he had
+been in the company of his son, BILL BRADY, and Mr. CLARENCE STRUTZ.
+That
+they had been watching sea gulls and jet aircraft flying over Knik Arm.
+They noticed, almost directly over their heads, a round object flying in
+a westwardly direction at an extreme rate of speed. He alleged the object
+was rising at about a twenty (20) degree angle and seemed to be increasing
+in speed as it was climbing. He observed the object for approximately seven
+(7) seconds, during which time he could not see any flame or vapor trail and
+could hear no sounds. He could give no details as to color or construction
+and could not tell whether the object was rotating or undulating in any
+manner. He alleged the other two (2) men in his company observed the object
+at the same time as he and also saw it disappear at the same time. Inter-
+view of these two persons revealed no further information concerning the
+BRADY alleged he could not give a definite altitude of the obJect,
+but did allege that it was flying at approximately the same altitude as the
+jet airplanes which usually fly over Anchorage.
+He estimated the diameter
+of the object to be about twenty-seven (27) feet.
+3.
+Weather station at Merrill Field was contacted,
+Information was
+obtained that no weather balloons had been released from that station at
+the approximate time the object was sighted by BRADY. Information was also
+received from the station to the effect that at the time BRADY alleged he
+saw the object, the skies over Anchorage were clear with only a few scattered
+clouds.
+CLOSED
+Declassification Authority: NND 923007

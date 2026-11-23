@@ -1,0 +1,105 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T08:47:48Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 21018078, "source_ctime_ns": 1793355267743187340, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989264-001-0099.jpg", "source_mtime_ns": 1785564423000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989264-001-0099.jpg", "source_sha256": "fb241f87eddad3a063ca2936f251e64be1380ba70a39b8e208e763bf3481cb26"}
+
+===== PAGE 1 =====
+{"alpha_words": 968, "chars": 5717, "method": "ocr", "page": 1, "variant": "plain-vision"}
+190
+Mr. RousH. Thank you, Dr. Baker.
+I anticipated we would have difficulty keeping the members of the
+committee here at a time when important legislation is considered on
+the floor. We thought we would reserve the final few minutes for
+those of you who have made presentations to discuss among yourselves
+questions which may have been aroused by one of your colleagues'
+presentation today.
+With that in mind, we are going to permit you to have a real free
+for all. Dr. Sagan.
+Dr. SAGAN. I just wanted to underline one point that Dr. Baker
+made, Congressman Roush, in his detailed presentation of the various
+lir Force systems. I am afraid that the main point won't come across
+o a lay audience, and that is that with relatively little expenditure
+of funds, it would be possible to significantly improve the available
+Apparently what is now happening is that the Air Force surveillance
+radar is throwing away the data that is of relevance for this inquiry.
+In other words, if it sees something that is not on a ballistic trajectory,
+or not in orbit, it ignores it, it throws it in the garbage.
+Well, that garbage is just the area of our interest. So if some method
+could be devised by the Air Force to save the output that they are
+throwing away from these space surveillance radars, it might be the
+least expensive way to significantly improve our information about
+these phenomena.
+Mr. RousH. Thank you.
+Dr. BAKER. Let me just make a comment: That is quite true. At
+the present time our space surveillance sensors are about 200 percent
+overtasked. That means they could make about 50 percent of their
+time available to us. Thev task too many space objects, their capacity
+is much greater than the space objects that they are tasked to watch.
+The space population mav grow to fill this void, but currently what
+Dr. Sagan says is true, we could as I indicated in conclusion (4)
+modify our current space surveillance system.
+It is not an expensive thing to modify existing radars. The FPS-85
+itself costs something like $100 million. The software modification
+called for here I am sure would be much less.
+Mr. RoUSH. Dr. Hynek.
+Dr. HYNEK. I would just like to concur in what Dr. Sagan has said.
+I understand there are several hundred UCT's a month, uncorrelated
+targets, that because they don't-I understand-which since thev do
+not follow ballistic trajectory, they are tossed out. It would not be
+expensive to introduce a subroutine into the computer to take care of
+chese things for a short while. I strongly second Dr. Sagan's and Dr.
+Baker's suggestions.
+Mr. BoONE. Mr. Chairman.
+Mr. RouSH. Mr. Boone.
+Mr. BooNE. I think the gentleman should advise you too, though,
+when you do that, you must make a trajectory determination on each
+target including aircraft which may put a terrific burden on the radar
+you are insisting on upgradino
+Or HYNEK. I will certainly grant that
+Or HARDER. I would only respond to Mr. Boone by suggesting you
+ould reject all objects that were found. for instance. under 90.000 feet
+191
+Dr. SAGAN. That is just what I was going to say. Certain velocity
+and altitude limitations.
+Mr. BooNE. With that I agree. But I don't think we make many
+sightings at that altitude. We do have a problem here of what you
+want to look at. So in fact I think the thrust of Dr. Baker's argument
+here was that most of the Air Force equipment do not supply the
+material you would like to have.
+So you are going to have to go to a much lower altitude, and you
+are going to have to check a much larger number of targets.
+Dr. SAGAN. I may have misunderstood, but my understanding was,
+since all of these "uninteresting," trajectory objects are thrown away,
+we have no way of knowing at the present time whether there are or
+are not large numbers of interesting objects at altitudes above 90,000
+Mr. BooNE. What this means is you check each one and determine
+ts trajectory, and then throw it away, so it no longer becomes a sim-
+ole task of saving 'Oh, I only want to look at the unidentified ones.
+I have to check each one, and discard it.
+Dr. SAGAN. Isn't that being done already?
+Mr. BooNE. No, it doesn't do it below certain altitudes.
+Dr. SAGAN. Right.
+Mr. BooNs. All right. Certain targets are picked up at certain
+ranges, are they
+Dr. SAGAN. Right. So therefore the suggestion is that within the
+altitude range, that is being used anyway by the surveillance radar-
+Mr. BoONE. You complicate the procedure.
+Dr. SAGAN. Slightly.
+Mr. BooNE. The procedure is used but it involves the software again
+which is much more difficult to add to the systems than I believe is
+being presented. It can be done, there is no question it can be done.
+HARDER. I would agree the amount of effort that goes into the
+relative softwares, although by no means a $100 million project, it is
+not a very simple project.
+Mr. RousH. Dr. McDonald, do you have a comment?
+Dr. MCDONALD. Yes. I would underscore another one of the points,
+one is struck with in studying each of these systems in turn is the large
+degree of selectivity that is necessarily built into them. Good examples
+were cited by Dr. Baker.
+It has to be kept well in mind that even systems like SAGE when
+they were developed necessarily had to have programed into them
+certain speed limits both lower and upper, certain safe requirements
+like if the target was on an outbound path it could be ignored. In
+almost every monitoring system you set up, whether for defense or
+scientific purposes, if you don't want to be snowed with data, you in-
+tentionally built selectivity in, and then you do not see what you are
+not looking for.
+Consequently, this point is important, that despite our many sensing
+and monitoring systems, the fact that they don't repeatedly turn up
