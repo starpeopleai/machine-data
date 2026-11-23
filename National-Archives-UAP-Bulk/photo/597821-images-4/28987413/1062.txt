@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:09:14Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7471876, "source_ctime_ns": 1793383611354922341, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28987413/1062.jpg", "source_mtime_ns": 1785748255000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28987413/1062.jpg", "source_sha256": "0e6623f63884b59f1cc2c90a11fcc78f0f84c834529f62a20e37570a13fab69d"}
+
+===== PAGE 1 =====
+{"alpha_words": 80, "chars": 584, "method": "ocr", "page": 1, "variant": "plain-vision"}
+NNAN
+RC 152
+CZCSQB944ZCBWA657
+PP RJEDSQ
+DE RJEDBW 16
+1550 NUS 5 21 5 TELEPHONEDł
+P. 052100Z
+FM COMDR DETROIT ADS CUSTER AFS MICH
+NO.
+2200 г
+TIME
+112
+Tate,
+Су:
+TO ATIC WRIGHT PATTERSON AFB OHIO
+ВТ
+UNCLAS DAOIO 2535.. FOR YOUR IMMEDIATE ATTENTION. REFERENCE YOUR
+MSG 0428432. INQUIRY AS TO ACFT OVER TURTLE LAKE AREA, 26 JUVE
+2130Z. RESULTS AS FOLLOWS:
+SECTOR FIGHTERS - NEGATIVE
+DETROIT AADCP - NEGATIVE
+CLEVELAND AADCP - NEGATIVE
+TAPE CHECK IMPOSSIBLE AS TAPES ARE ERASED UNLESS SPECIAL HOLD
+IS PLACED ON THEM. UFOB REPORT DID NOT COME BEFOR ERASURE.
+ВТ
+Ø5/2117Z AUG RJEDBW
+24€г
+NNNN

@@ -1,0 +1,46 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:13:43Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9800748, "source_ctime_ns": 1793364643816679607, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787490/45484701-007-003-0047.jpg", "source_mtime_ns": 1785684885000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787490/45484701-007-003-0047.jpg", "source_sha256": "821ca09f717fa8caf660e32a392fe23c996b145f3dcaaafe6e7ecd94e285047b"}
+
+===== PAGE 1 =====
+{"alpha_words": 301, "chars": 1986, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UNCLACOMED
+19D 0SI 24-40 SIR-5 - SPOL INTEILIGENCE FEPORT, Subj: Unconventional
+Aircraft Sighting,
+Hedford Airpert, Hedford,
+Oregon, 8 August 1949.
+the objects were at an altitude estinated at 10,000 feet. The diameter
+of each object vas estimated to be 35 feet.
+HEDONALD stated the pilot
+called the tower and asked if they had observed anythings The tover
+reported that they had seen flying saucers overhead. Pilot JuLL requested
+clearance for take-off and the tower asked if they intended to attain
+altitude enough to follow the objects.
+MeDOMAN further stated that on
+attaining 8000 feet altitude the formation of the objects could still be
+seen and their shapes appeared to be that similar to a camera lens;
+over (convex) on top, and flat on the bottom. They appeared to be traveling
+at a speed of 150 miles per hour, east southeast from the ledford Airport
+noving in a straight line, Time of observation was between 1300 and 1330
+8 August 1949. The objects did not reflect color but gave off "fluorescent
+glowi No sound was heard or exhaust trails observed. The objects
+remained in sight for a peried of thirty (30) minutes. From an altitude
+of 8000 feet in the air HeDONAID stated the objects appeared to be 10,000
+feet higher than their aireraft. MeDONAID attempted to obtain a photograph
+but was unable to do so as his camera had a six inch focal length lene and
+a nine inch plate which was not adequate for photographing the objects
+at such a distance. During the period of observation one object dropped
+dom an estimated 1,000 feet out of the formation and then returned, This
+object was the last one of the right echelon.
+ACTTON: Hone. Assistant Chief of Staff, C=2 Sixch
+Army forvarded this information without action.
+Evalustion: (B-3).
+no copy cos commanding Genera.,
+Headquarters Sixth Army,
+Presidio of San Francisco,
+California,
+AlAN: Asst, Chief of Staff, G-2.
+JOHN G. SHORE,
+Dolonel, USAF,
+District Commander.
+C90E
+UNCLASSIFTED
+Declassification Authority: NND 923007

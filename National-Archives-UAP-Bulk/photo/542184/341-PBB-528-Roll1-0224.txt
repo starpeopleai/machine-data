@@ -1,0 +1,19 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T16:59:05Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 15972114, "source_ctime_ns": 1793365893406740770, "source_file": "National-Archives-UAP-Bulk/photo/542184/341-PBB-528-Roll1-0224.jpg", "source_mtime_ns": 1785565445000000000, "source_rel": "National-Archives-UAP-Bulk/photo/542184/341-PBB-528-Roll1-0224.jpg", "source_sha256": "72b61e5c33ada0ce31164ef1f859a37dc7838f3353272fdfae2cbf68062385f0"}
+
+===== PAGE 1 =====
+{"alpha_words": 20, "chars": 147, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+a ea ares
+
+_ nn amcesesen cnet sna taneisciteRnai stan ee
+
+ncaa treba Bats in
+
+Percents es oe
+
+778
+
+rats 8
+
+aaeeeennamiememmedinimemmanme
+
+ai AON

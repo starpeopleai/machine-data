@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T16:24:14Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4525875, "source_ctime_ns": 1793378589370760448, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28968493/0010.jpg", "source_mtime_ns": 1785696523000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28968493/0010.jpg", "source_sha256": "010486a180f50b4f737cc027d204e54d8d4e825f139699510d950fe102eaac58"}
+
+===== PAGE 1 =====
+{"alpha_words": 77, "chars": 622, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PAGE THREE RJESYQ 2B
+B. MILITARY MAJOR
+314TH TRP CAR GP SEKWART AFB
+TENN.
+7. WEATHER AND WINDS ALOFT AT TIME AND PLACE OF SIGHTING
+A. OBSERVER REPORTS WEATHER WAS CLEAR NEARES REPORTING STATION CHS
+CLEAR 15 MILE VISIBILITY
+B. SURFACE
+6000 FEET
+300
+DEGREES/
+DEGREES/
+15 KNOTS
+3g KNOTS
+280
+10,DØØFEET 270 DEGREES/.
+35 KNOTS
+16,090 FEET
+24Ø DEGREES 42 KNOTS
+20,00D FEET 240 DEGREES/ 5g KNOTS
+30,20Ø FEET 240 DEGREES/ 120 KNOTS
+50,002 FEET 240 DEGREES/ 109 KNOTS
+C. CEILING NONE
+'D. VISIBILITY EST 15 MILES
+I. CLOUD COVER NONE
+F. THUNDERSTORMS NONE
+8. NONE
+9. NONE KNOW 35 TH AIR DIVISION WAS ADVISION WAS ADVISED OF SIGHTING

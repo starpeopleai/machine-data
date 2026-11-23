@@ -1,0 +1,41 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T16:47:53Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8765087, "source_ctime_ns": 1793382245364879508, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28982642/1331.jpg", "source_mtime_ns": 1785701041000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28982642/1331.jpg", "source_sha256": "8dc2a7593063c869dedab7503147eced74c914774eb20aac6e03e21b8f2a4f20"}
+
+===== PAGE 1 =====
+{"alpha_words": 71, "chars": 499, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Page twelve
+47.
+Please give the folloving Meation Sout yourself:
+NAME
+Last Name
+ADDRESS
+Street
+TELEPHONE MOMBER
+What is your present job?
+Age
+First Name
+unicipal Ai:
+City
+Middle Name
+Zone
+innesots
+State
+Cert
+Pilot Ilth FIS
+Sex
+Male
+Please indicate any special educational training that you have had.
+a. Grade School
+- 0.
+Technical School
+b. High School
+c. College
+d. Post graduate
+1 vear
+(Type)
+f. Flying School
+g. Other special training
+48. Date you completed this questionaire?:
+18
+Day
+Month
+Ховт

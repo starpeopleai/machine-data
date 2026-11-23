@@ -1,0 +1,56 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T16:22:53Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3976552, "source_ctime_ns": 1793385143113793308, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28991984/0092.jpg", "source_mtime_ns": 1785747855000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28991984/0092.jpg", "source_sha256": "667946445ce2787d9dd8d6c92cb62dd38756dfc276c1b7f64e3c7f61756b126e"}
+
+===== PAGE 1 =====
+{"alpha_words": 124, "chars": 994, "method": "ocr", "page": 1, "variant": "plain-vision"}
+NAVAL MESSAGE
+PPERATIONAL IMMEDIATE
+OPERATIONAL IMMEDATE
+RELEA
+AF
+-0 2914242
+IN : 3201 (29 MARCH 61)
+FM 32 NORAD REGION DOBBINS AB GH
+TO CINCNORAD
+COMEASTSEAFRON
+COF SUSAF
+CANAIRDEF ST HUBERT CANADA
+-CANFLAGLANT HALIFAX CANADA
+26 NORAD REGION HANCOCK FLD NY
+UNDE
+NSIFIED
+NAVY DEPARTMENT
+DRAFTED B
+EXT. NO
+R/READDRESSED 29 MAR 61
+FM ADMINO COMEASTSEAFRON
+INFO CNO
+CINCLANTFLT
+COMASDEF ORLANT
+UNCLAS FROM 320IN 3407 (1). CIRVIS (2) VAN 3443
+B-25 MIAMI TO SAN JUAN PR (3) BRIGHT OBJECT, 34 ONE,
+3B UNKNOWN (4) 2336N, 57543W (5) 29/0856 GMT (6) HIS
+(7) SOUTHWEST TO NORTHEAST (8) VERY HIGH SPEED (9) NONE.
+AF DIST:.
+NOTE:
+COP-2, OOP-CP-1, CIN-14, SAFS-3
+(21)
+Advance copies delivered to CIN and 00P-CP at 291919Z
+33/92/ COG
+SECNAV UNSECNAV 00 09 09B 03
+31 34 35 05 06 60 07 001 94(4CC)
+IP OSD(1CC) CIA MRCC COGARD DIANSA
+NAVAIDE FLA PLOT BFR JCS (J2)
+NIC
+OSAF
+CONTROL NOT
+226/JH/VN/3 /
+CIRCUIT NO
+PAGE
+264 -
+1
+PAGES I TIME OF RECEIPT
+16302/29 MARęŚ
+UNCLASSIFIEO
+DATE TIME GROUP
+291424Z MAR 61
+320/

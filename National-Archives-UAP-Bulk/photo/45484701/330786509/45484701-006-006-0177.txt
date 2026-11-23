@@ -1,0 +1,47 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T16:53:14Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 11681096, "source_ctime_ns": 1793364148129249210, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330786509/45484701-006-006-0177.jpg", "source_mtime_ns": 1785684589000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330786509/45484701-006-006-0177.jpg", "source_sha256": "c65606492bbea31121795111a4b8aeda3894f9e2d6ee7e6e326f826118518edb"}
+
+===== PAGE 1 =====
+{"alpha_words": 180, "chars": 1283, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. Direction of flight:
+From horizon to an angular eleva-
+tion of 45°.
+Traveled at an angle
+of 45° from the earth in a straight
+line with a heading of 10° from true
+north.
+J. Tactics or maneuvers: Climbed in a straight line. No
+maxe uver s•
+k. Evidence of exhaust; None
+1. Although there was an overcast in the western part of
+the sky, the object was sighted
+in a clear section with no clouds
+present.
+m. Lights: Object itself appeared to be a very bright light,
+and as the sun arose occasionally
+reflected the light of the sun from
+the lower half of the object.
+n. Support: None visible.
+0. Propulsion: Undeterminable.
+p. Control and stabilitys Appeared to have good control.
+q» Air ducts: Undeterminable.
+I. Speeds Undeterminable.
+#. Sound: None
+t. Manner of disappearance:
+Object diminished in size to
+such a degree that observers
+ceased looking at it.
+U. Notes relative to observer:
+(1) Name: Major WILLIAL d. HAYNOR, A0-341535
+(2) Adoress:
+3024th Air Police Squadron, Holloman APB
+Occupation: Air Provost Marshal, Holloman APB
+(4)
+Place of business: Holloman Air Force Base, New Mexico
+(5)
+Pertinent hobbies: Fishing and hunting
+(6)
+Ability to determine: Above average
+(7)
+Reliability of observer: Very reliable
+(8) Porner sightings: None
+Declassification Authority: NND 923007

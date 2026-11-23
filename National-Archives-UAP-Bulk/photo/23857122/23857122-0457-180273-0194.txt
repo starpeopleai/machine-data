@@ -1,0 +1,16 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T16:55:29Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 17788892, "source_ctime_ns": 1793356579206934413, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0194.tif", "source_mtime_ns": 1785564725000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0194.tif", "source_sha256": "e7cd6267b8744ba53870f1dd67cb46a4703eeb6def46594a76e9d36a29d0c134"}
+
+===== PAGE 1 =====
+{"alpha_words": 83, "chars": 564, "method": "ocr", "page": 1, "variant": "plain-vision"}
+ICT
+*noident #44
+- near Milwaukee, Wisconsin - 28 June 1947
+Information given here is insufficient to indicate what was
+seen•
+If this were a totally independent observation and not one that
+was presumably incited by current radio reports of flying saucers, more
+weight could be given to it. As it is, with flying saucer talk rampant,
+almost anything from meteors to balloons or aircraft would be reported
+as saucers by an uncritical observer. It is unlikely, however, that
+there was anything astronomical about this incident.
+Declassification Authority: NND 57565

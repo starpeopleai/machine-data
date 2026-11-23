@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T16:31:15Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6821879, "source_ctime_ns": 1793387181961354740, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28998319/0368.jpg", "source_mtime_ns": 1785748190000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28998319/0368.jpg", "source_sha256": "855ff6f253a524c65b1f9ffe741f0a856a204d4e7e711ce9e08bd3427cfbc0c1"}
+
+===== PAGE 1 =====
+{"alpha_words": 64, "chars": 480, "method": "ocr", "page": 1, "variant": "plain-vision"}
+HEADQUARTERS
+1611 AIR TRANSPORT WING (H), (MATS)
+UNITED STATES AIR FORCE
+McGuire Air Farce Base, Naw Jersey
+REPLY TO
+ATTN OF:
+SUBJECT:
+WO IO
+Unidentified Flying Objects
+10 August 1962
+TO:
+Air Technical Intelligence Center
+Wright-Patterson Air Force Base, Onio
+The attached correspondence is forvarded in accordance with AFR 200-2.
+ames & Bouchard
+JAMES B. BOUCHARD
+Major, USAF
+Information Officer
+3 Atch
+1.
+Ltr from Mr.
+2.
+Ltr, 1611 AM (InTo Office)
+3 -
+Questionnaire
+• ONI
+HOUST

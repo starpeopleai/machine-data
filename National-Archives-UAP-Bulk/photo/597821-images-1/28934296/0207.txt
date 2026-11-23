@@ -1,0 +1,40 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T16:30:19Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6213317, "source_ctime_ns": 1793370321058373586, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28934296/0207.jpg", "source_mtime_ns": 1785689016000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28934296/0207.jpg", "source_sha256": "7cf6bb6c70639f4de98cbd3679380aa1f1ac5812419608689e840560f7a7cc9c"}
+
+===== PAGE 1 =====
+{"alpha_words": 51, "chars": 392, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UNITED STATES AIR FORCE
+THE INSPECTOR GENERAL
+OFFICE OF SPECIAL INVESTIGATIONS
+REPORT OF INVESTIGATION
+Alleged
+Whi se
+dased 30 Auguat
+CHARACTER
+S..
+Director
+Aerospace Studies Inst
+ATTN: Archives Branch
+Maxwell AFB, Alabama
+RETURN TO:
+20-30 AprT
+K243.
+6012-1
+SYNOPSI
+Cap
+repor
+She L'
+cerni.
+the
+CLETE
+Provin
+3 C
+ELon ol
+cerned one
+DISTRIBUTION
+03, AT0,
+00 117
+2
+NO FORM
+5 JAN 49
+O
+7-3712 - 18

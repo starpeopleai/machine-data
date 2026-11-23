@@ -1,0 +1,10 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T16:59:35Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 17452938, "source_ctime_ns": 1793367036117994552, "source_file": "National-Archives-UAP-Bulk/photo/542184/341-PBB-690-0012.jpg", "source_mtime_ns": 1785565645000000000, "source_rel": "National-Archives-UAP-Bulk/photo/542184/341-PBB-690-0012.jpg", "source_sha256": "1841444ef6d192ad4e3d8f0fc82590b009563b18e24be7fdbd21257d8f5fa58f"}
+
+===== PAGE 1 =====
+{"alpha_words": 6, "chars": 33, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 1, "variant": "plain-vision"}
+opulanda
+Handigh
+JOZ
+OZZ
+8ZZ
+OFE

@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:05:25Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5766672, "source_ctime_ns": 1793378165031526526, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28967017/0137.jpg", "source_mtime_ns": 1785696570000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28967017/0137.jpg", "source_sha256": "9f386c74b069485935bb9b185fe1bb76ec35031cefc1abba63f4b1e8d2c54aad"}
+
+===== PAGE 1 =====
+{"alpha_words": 77, "chars": 547, "method": "ocr", "page": 1, "variant": "plain-vision"}
+SECURITY CLASSIFICATION (If any)
+DISPOSITION FORM
+FILE NO.
+SUBJECT
+(U) Request for UFO Report Analysis
+TO :
+AFOIN-EL
+ATTN: Mr. James
+FROM
+AFOIN HEL
+DATE 21 Aug 56 COMMENT NO. 1
+HE4/Capt Gregory/1c/69216
+1. In accordance with established ATIC policies for the analysis of UPO reports,
+request your review and comments regarding the attached report of a radar Ufo.
+2. Subject sighting will be tentatively placed in an "unknown" category, pending
+your written opinions or conclusions.
+1 Inel
+TT MSG #76H11-2
+ata 18 Aug 56
+ін у. тил
+ONRY AC
+AFOIN-LES

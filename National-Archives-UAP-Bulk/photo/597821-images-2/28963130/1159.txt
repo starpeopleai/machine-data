@@ -1,0 +1,37 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T16:29:11Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5933191, "source_ctime_ns": 1793377274216056182, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28963130/1159.jpg", "source_mtime_ns": 1785696561000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28963130/1159.jpg", "source_sha256": "efea755fc9163fb4e82fdf0793f17c4e7160bb9509a6ded22e7b20a77528afd5"}
+
+===== PAGE 1 =====
+{"alpha_words": 149, "chars": 1178, "method": "ocr", "page": 1, "variant": "plain-vision"}
+IN
+• | Witures
+03961
+26 A001056 07 61"
+1510655 23 34
+NPG264 TYD122
+R RJEDWP
+JOIN-NEH
+ХЗMХІНЕР8 XDD289DMB062
+R RJEDEN RJEPWP RJEPHO
+E RJWPDM 21A
+I COMDR 635TH ACRON MCCHORD AFE WASH
+CO RJUDEN/CONDR ADC ENT AFB COLORADO SPRINGS COLO
+JEPWP/COMDR AIR TECHNICIAL INTELLIGENCE CENTER WRIGHT PATTERSON AFB
+OHIO
+PJEPHO/DIRECTOR OF INTELLIGNECE HQ USAF WASHINGTON 25 D C
+EN/CONDR 25TH ADIV MRRHORD AFB WN
+ST
+/UNCLASSIFIED/635ACW 3239 FOLLOWING UFOB RELORT SUBMITTED IN ACCORDANCED D
+ITH AFR 202-2 PARAGRAPH -. 1. A. OVAL B. QUARTER C. REDON ONE SIDE AND
+PREEN ON THEOTHER D. ONE E. N/A D. LENGHT OF TIME VISIBLE G. NA
+•N/A I. N/A 2. A. FIREWATCH AND AIRCRAFT LOOKOUT B. 232DEG C. N/A
+DO LEFT AND RIGHT STOP AND GO E. STILL THERE F. STILL THERE 3. GROUND
+TO AIR B. FIRE SIGHTING EQUIPMENT C. N/A 4.
+07552, 11 AUG 1955
+• NIGHT 5. ABBOTS BUTTE, ACKER ROCK, PICKET BUTTE, COFFIN BUTTE
+122,4
+CORUELLIS OREGON7. A. GOOD B.
+ONE C. UNLIMITED D. GOOD E. ONE 8. N/A 9. N/A 10. N/A 11. POSSIBILITY
+T AIR TRAFFIC IN AREA HOWEVER IT WOULD NOT REINA IN AREA 12. OBSERVERS LUE
+ELIABLE- FIRE WATCHERS BEING TRAINED FOR JOB. PSSIBLILITY OF A STAR
+3. AF FORM 112 WILL NOT BE USBMITTED
+15/22292 AUG WJRPDM

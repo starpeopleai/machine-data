@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T16:24:35Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4720847, "source_ctime_ns": 1793375852696684740, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28958012/1032.jpg", "source_mtime_ns": 1785696681000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28958012/1032.jpg", "source_sha256": "5935731c583aec986dab60c5560d054ee59c2596984358db920b976236a1e2ab"}
+
+===== PAGE 1 =====
+{"alpha_words": 56, "chars": 393, "method": "ocr", "page": 1, "variant": "plain-vision"}
+(20
+LON•
+SRG
+DIC
+ANGE
+)1 A82
+Fnued Atic Duty 07tiLie 53114
+ADVD ROUTE ZhRU REGULAR GHANNELE -
+21
+Nitress
+11.512
+2/0185E, KAUSASe.TY
+12 ArR 54 06 122
+VM
+WPEC 15
+YDAZ04
+XYAD3E
+XDADO5
+INFORMATION
+JUPLU 06
+OO JEDEN JEDWP JEPH? JEPFF JEPRS 555
+DE JWPLW 22
+0 1224592
+FM LOWRY FLT SVC CNTR
+TO JEDEN/COMDR ADC ENT AFE COLORADO SPRINGS COLORADO
+JEDWP/COMDR AIR TECH INTEL CEN WRIGHT¿PATTERSON AFB OHIO

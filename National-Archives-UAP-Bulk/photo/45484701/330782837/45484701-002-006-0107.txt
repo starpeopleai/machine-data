@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:07:03Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6720983, "source_ctime_ns": 1793362437245645500, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330782837/45484701-002-006-0107.jpg", "source_mtime_ns": 1785684699000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330782837/45484701-002-006-0107.jpg", "source_sha256": "a0dbc5e0932ffa332adf0528205baa8dde71715c06e4c78ac3c810d33bbd6353"}
+
+===== PAGE 1 =====
+{"alpha_words": 108, "chars": 885, "method": "ocr", "page": 1, "variant": "plain-vision"}
+13. Support:
+a. Wings:
+Total plane
+b. Lerodynamic lift of fuselage:
+c. Vertical jet:
+d. Rotating cylinder or cone:
+No change in color
+e. Aerostatic lift (balloon or dirigible):
+14. Propulsion:
+a. Propeller or jet:
+None visible
+b. Rotor :
+c. Aerodynamic vanes (flapping or oscillating) (Matz¿Mayer effect):
+15. Control and stability: None
+a. Fins:
+b. Stabilizers (Horizontal or Vertical):
+(1) Size:
+(2) Shape:
+(3) Location:
+16. Air ducts: None
+a. Slots:
+b. Duct openings:
+17. Speed - MTH: Approximately 800 MPH
+18: Sound: None
+a. Continuous whine or buzz:
+b. Roar, whistle, whoosh:
+c. Intermittent:
+19. Was any radio antenna to be observed, i.e., (any projections or
+extensions that might presumably be construed as such): None
+20. Manner of disappearance: As though object turned on edge and faded
+rapidly.
+Explode:
+(1) Possibility of fragments:
+Declassification Authority: NND 923007

@@ -1,0 +1,16 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T16:25:20Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4848771, "source_ctime_ns": 1793355885536409959, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989284-001-0031.jpg", "source_mtime_ns": 1785564551000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989284-001-0031.jpg", "source_sha256": "4d3bccdfdcd3abaf3097dd80dfd1218cadeb294c53f4261d0bb749ca9788e317"}
+
+===== PAGE 1 =====
+{"alpha_words": 24, "chars": 194, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Engineering Division
+Kemorandum Heport No. ICREXD-595-66M
+18 September 1950
+Automatic Opening
+Back. Pack
+Oxygen
+Oxygen in
+Pad
+AF Photo
+305845
+PIGURE 10
+Parachute Assembly for Free Fall Bailouts

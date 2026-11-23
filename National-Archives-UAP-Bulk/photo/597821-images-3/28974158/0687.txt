@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T16:31:22Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6850081, "source_ctime_ns": 1793379998202754585, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28974158/0687.jpg", "source_mtime_ns": 1785701089000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28974158/0687.jpg", "source_sha256": "2c729c52793066297a2f15982e6c42357e6f50abd2d194ebcbc0aec82b1716de"}
+
+===== PAGE 1 =====
+{"alpha_words": 71, "chars": 494, "method": "ocr", "page": 1, "variant": "plain-vision"}
+7/2303₴
+Multi
+INSUFF INFO
+Koy 0
+02 42 '57
+- та
+WPBC25 YDE003 TYD217 TMB01:NBA005NBM004
+P? REDEN FJEDWP EJEPHO RJEPNY
+DE
+RJENB
+0723157
+FM COMDR 7 SED ACURON
+TO REDEN/COMDE ADC ENT AFB
+FJEDP/COMDE ATIC WRIGHT PATERSON AFB
+ROEPHQ/DIR INTEL HO USAF
+FJEPNY/COMDE 2 STH ADIV
+INFO RJEPNS/COMDR DET 3 4602 AISS STEWART AFB
+FJEPNB/COMDE CADF STEWART AFB
+/UNCLASSIFIED/ S2OPS 11033 SUBJ: UFOB
+(!) 'DISCRIPTION:
+FrAPZERUIT
+RED & WHITE
+(D) ONE
+(E) NA
+(F) NONE
+(G) NONE
+(H) NONE
+_ the color of agft lights.

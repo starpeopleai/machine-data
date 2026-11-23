@@ -1,0 +1,51 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T16:39:27Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9082015, "source_ctime_ns": 1793364388158336832, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330786876/45484701-006-007-0202.jpg", "source_mtime_ns": 1785685117000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330786876/45484701-006-007-0202.jpg", "source_sha256": "615a2e17ae8377db491f1ef59f784966186c985d6e92c6e00cc3650341443732"}
+
+===== PAGE 1 =====
+{"alpha_words": 221, "chars": 1644, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AIR FORCE
+HEADQUARTERS UNITED STATES AIR FORCE
+HE WASHINGTON
+UNCLASSIFIED
+CLASSIFICATION CANCELLED NO BO
+BY AUTHORITY OF THE DIRECTOR OF SPEC INV
+BY
+KURT K. KUNZE, Capt, USAF
+Historian
+| 1 DEC 19/0
+OCO/JCM/PMJ :W1
+DATE
+11D 24-0
+_THE INSPECTOR GENERAL USAF
+11TH DISTRICT OFFICE OF SPECIAL INVESTIGATIONS
+TINKER AIR FORCE BASE, OKLAHOMA CITY, OKLAHOMA
+1 0 FEB 1953
+SUBJECT:
+UNKNOWN SUBJECTS) Unidentified Aerial Object Sighted
+Over Muskogee, Oklahoma, on / about 7 August 1952.
+SPECIAL INQUIRY - UNIDENTIFIED AERIAL PHENOMENA
+TO :
+Director of Special Investigations
+Headquarters, USAF
+Washington 25, D. C.
+1. Reference is made to letter DO #l7 File 24-8-47, subject as
+above, dated 60 January 19bs, directed to this district, with information
+copy for DSI.
+Copy of an undated letter which is herewith as an inclosure,
+reflects that Captain Loren B. Heath, USAF, reported the incident through
+his commanding officer to Air Technical Intelligence, Wright-Patterson
+Air Force Base, Ohio, which partly complies with Air Force Letter 200-5.
+3. Paragraph 46(2), AFCSI Letter No. 85, Subject: Reporting Informa-
+tion on Unidentified Flying Objects, requires that an information copy oi
+"Spot Intelligence Report" submitted by an OSI activity be furnished that
+operation. Referenced letter from DO #l7 directed to this district reflects
+that Directorate, OSI, has been notified as required by the AFCSI Letter.
+4. No further action is contemplated by this district.
+1 Incl
+Undated ltr, fr Capt.
+Loren B. Heath
+cc: DO #17 (24-8-47)
+JOHN C. McLENDON
+It Colonel, USAF
+District Commander
+UNCLASSIFIED
+Declassification Authority: NND 923007

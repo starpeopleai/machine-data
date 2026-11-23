@@ -1,0 +1,47 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:10:48Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8348033, "source_ctime_ns": 1793379535176158456, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28972556/00716.jpg", "source_mtime_ns": 1785700755000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28972556/00716.jpg", "source_sha256": "2d7517b36b0c42d5c3247e8ce649236787494620e4e22b998a1ccadcd464be89"}
+
+===== PAGE 1 =====
+{"alpha_words": 192, "chars": 1478, "method": "ocr", "page": 1, "variant": "plain-vision"}
+FM COMDR. 35TH CADD DOBBINS AFB GA
+TO RJEDDN/COMDR ADC ENT AFB COLO
+RJEDWP/COMDR ATIC WRIGHT PATTERSON AFB OHIO
+RJEPHQ/ACS INTELLIGENCE HQ USAF WASHINGTON DC
+INFO RJEPNB/COMDR EADF STEWART AFB NY
+BT
+size
+GIven
+OR REDDISH ORANGED. ONE E. N/A E.
+_NONE G. NONE
+/UNCLASSIFIED/INT 6734.
+ATTN:
+1.A• (ROUND
+H•
+NONE/ I
+NONE 2.AE BRILLIANCE OF OBJECT B. UNKNGWN_C. UNKNOWNE
+Ba!
+(UNKNOWN C. ORANG
+D•
+APPROACHED FROM WEST, STOPPED MOMENTARILY, AND RETURNED TO WEST
+E. FADED FROM SIGHT F. APPROXIMATELY ONE MINUTE 3.A. GROUND VISUAL
+B. BINOCULARS. C. N/A 4.A. 29/2327Z OCTOBER 1957 B. DUSK 5. GJFA3947
+G.A.
+18, ATTAPULGUS, GA., GOC OBSERVER
+34, ATTAPULGUS, GA., GOC POST SUPERVISOR
+B. NONE 7.A. FAIR B. SURFACE-992/3; 6099-250/15; 10000-280/153
+16099-282/25; 20009-290/30; 30999-290/523 50909-299/98; 88999-UNKNOWN
+Orob. aft.
+No ezimuth, elevation or size given, novener, the
+maneuvers and course describedis Mat of an A/C.
+he suns setting rays refleching off the sade a
+an ages. world often y
+we a hornd appearame a
+PAGE TWO BJESKB 89 has teen
+sun by pria report.
+C. HIGH THIN SCATTERED D. UNRSTRICTED E. TWO TO THREE TENTHS F. NONE
+8. NEGATIVE 9. NONE 10. 678TH ACRON REPORTED NO AIR TRAFFIC
+11. DIRECTOR OF INTELLIGENCE, 35TH AIR DIVISION: BRILLIANCE OF
+OBJECT PROBABLY CAUSED BY REFLECTION OF SUN WHICH SET AT 2245Z
+FLIGHT PATH OF OBJECT AS RELATED TO WINDS ALOFT PROCTICALLY RULES
+OUT POSSIBILITY OF BALLOON, MEAGER INFORMATION MAKES EVALUATION
+DIFFICULY. 12. NONE
+31/1853Z OCT RJESKB

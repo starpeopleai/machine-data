@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T16:43:37Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 14707072, "source_ctime_ns": 1793361375568657257, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-005-0067.tif", "source_mtime_ns": 1785565326000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-005-0067.tif", "source_sha256": "ef9bb6ea5f6d46ad7abc2da8b501421dcafdf44662b7295d65b5504b47e98989"}
+
+===== PAGE 1 =====
+{"alpha_words": 100, "chars": 721, "method": "ocr", "page": 1, "variant": "plain-vision"}
+OMIOINATINO AULNCT
+ATIC DETACHMENT #4
+(SECURITY INFORMATION W
+SUPPLEMENT TO AF FORM 112
+REPORT NO.
+1264350
+PAGE
+4
+•PAGES
+(g) No
+(h) No
+(i) Approx 250 Degrees
+WARNING: This document contains information affecting the national defense of the United States
+Espionage Laws, Title 18, U.S. C.. Sections 793 and 794. Its transmission or the revelation of its contents in any manner
+unauthorized person is prohibited by law.
+It may not be reproduced in whole or in part, by other than United states Ar Force
+Agencies, except by permission of the Director of Intelligence, USAF
+FORM
+AF 1 OCT. 52 112a
+REPLACES AF FORM 112-PART I1. 1 JUN 45.
+WHICH MAY BE USED.
+CLASSIFICATION
+low when niled in.
+DECLASSIFIED
+Authority NND 9237007

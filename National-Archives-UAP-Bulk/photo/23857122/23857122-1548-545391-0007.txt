@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:17:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 15317008, "source_ctime_ns": 1793357687069840162, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1548-545391-0007.tif", "source_mtime_ns": 1785564954000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1548-545391-0007.tif", "source_sha256": "a2f8e4b60227c224dce4373b7529a518218bccee07bf70cfcb2be86cdc252918"}
+
+===== PAGE 1 =====
+{"alpha_words": 142, "chars": 908, "method": "ocr", "page": 1, "variant": "plain-vision"}
+RESTRICTED
+7 of 7
+Statement of Mrs O.W. Vannoy, 419 Finfrock, Pasadena, Texas
+On 23 March 1953 at approximately 0400Z I sighted an object
+in the sky over Pasadena.
+The object was yellow or amber in color
+very similar to star in appearance except that it was much
+brighter. I observed the object circling over Pasadena at various
+speeds at an undetermined height. It seemed to speed up and
+and slow down at varying intervals of time in between each one.
+It continued to circle the town for about 20 minutes then dis-
+appeared in a nn a northwest direction. There was no sound
+and it would be very hard to determine the altitude. It also
+appeared to come closer to the ground and then rise again.
+appeared to be a grayish behind the object although it could
+have been an optical illusion.
+Mo. D. W. Vannay
+Mrs O.W. Vannoy
+419 Finfrock
+Pasadena, Texas
+Housewife
+RESTRICTED
+Declassification Authority: NND 57565

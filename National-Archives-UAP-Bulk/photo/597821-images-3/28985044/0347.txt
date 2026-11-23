@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:06:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6632265, "source_ctime_ns": 1793382678649462000, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28985044/0347.jpg", "source_mtime_ns": 1785700929000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28985044/0347.jpg", "source_sha256": "3ac6f09aba917c98a344ec0d1c57b80d19e9aff5d8d78c7eb31157f107072e3e"}
+
+===== PAGE 1 =====
+{"alpha_words": 183, "chars": 1225, "method": "ocr", "page": 1, "variant": "plain-vision"}
+: 25 Narch 1960
+MEMORANDUM FOR CHISE,
+TEAM "C", BAFLL
+ATTENTIOR: MaJor Allen F. Wi11
+SUBJECT: Reply to Congressmen Hardy's UFO Inquiries
+The following will serve as a basis for reply to Congressman
+• Hardy's UFO inquiries:
+Dear Nr. Bardy:
+I refer to your recent inguiries concerning unidentified flying
+objects in behalf of Mr.
+of Norfolk, Virginia.
+The 7 February 1960 UFO sighting in the mid-vest vas not reported
+to the United States Air Force and, tharefore, the Air Force did not
+analyse or evaluste this sighting.
+The 1948 top secret report officially concluding Urts vere real
+is pon-existent. By 'real" ve sasure Mr.
+means they were
+objects from another planet sa he montione elsewhere in his letter of
+22 February 1900, Captain Kuppelt evidently referred to lettera or
+memoranda of individuals whose personal opinions ray have reflected
+these views. There never has been an officisl Air Force report with
+this conclusion.
+The Poquoson, Virginia sighting on 19 October 1959 was not
+reported to Langley Air Force Base or the Aerospace Technical Intelligence
+Center.
+The statement that the Air Force queried a civilian UPO
+researcher is erroneous. This indirect form of interrogation is con-
+trary to Air Force policy.

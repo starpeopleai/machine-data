@@ -1,0 +1,22 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:18:14Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 16009242, "source_ctime_ns": 1793355014853269098, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989257-001-0016.jpg", "source_mtime_ns": 1785564378000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989257-001-0016.jpg", "source_sha256": "f2cebddc0ef365e83286231301eb5ddd35cdd1fc71970cff9339ad802719d597"}
+
+===== PAGE 1 =====
+{"alpha_words": 34, "chars": 251, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+ee
+
+ait
+US AIRFORCE °
+Sek 6080
+
+ram creek we oY
+
+‘ aap
+mas!
+
+EF BH 54320-80175 73
+
+52 K 6080 FS 9320-83585 20 Pn
+
+24 ton 6X6 cargo truck equipped with UHF and
+Motorola transmitters and receivers. Used as
+large instrument and gondola recovery vehicle

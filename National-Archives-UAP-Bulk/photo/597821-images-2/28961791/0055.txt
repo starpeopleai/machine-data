@@ -1,0 +1,21 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T16:36:05Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7300605, "source_ctime_ns": 1793376701678475930, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28961791/0055.jpg", "source_mtime_ns": 1785696994000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28961791/0055.jpg", "source_sha256": "749e5944c70b14521cd0c2a61d34b68b22ab7b1de9f4d726ada9b433fa07e8b2"}
+
+===== PAGE 1 =====
+{"alpha_words": 39, "chars": 275, "method": "ocr", "page": 1, "variant": "clean-vision"}
+AGA TEO JEDLE 133
+ZA LIGHT IN THE SKY
+/07
+VLY CIOOD STILL FOR & SECONDS AND THEN ROSE VERY SLON OBEREERVED
+T AROUT EDS FT.
+VE/ WAS JUCT LIKE TURNING OFF LIGHT
+/F/ THREE MINUTES
+73/
+/A/ GROUND-VISUAL
+/01
+/ 4/
+/A/ 23/2210 Z
+/=/ NIGHT
+/2!
+45•
+13 JERSY SHORE PA.
+JERLY SHORE PA.

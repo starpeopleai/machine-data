@@ -1,0 +1,21 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T16:50:07Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9952246, "source_ctime_ns": 1793383667967860799, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28987545/1184.jpg", "source_mtime_ns": 1785747820000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28987545/1184.jpg", "source_sha256": "f181a73c815501e79aa72ba8538e4fee9338a11b22b8c6ce354122b272e00f13"}
+
+===== PAGE 1 =====
+{"alpha_words": 59, "chars": 444, "method": "ocr", "page": 1, "variant": "plain-vision"}
+e. Location of Observer:
+On Chanute Air Force Base, Illinois
+f. Identifying Information of Observer:
+(1) Mrs.
+Civilian, Age 35,
+Chanute Air Force Base, Illinois.
+Secretary to Base WX Officer. Reliability:
+Very good.
+(2) Not applicable
+g. Weather and Winds Aloft - Condition at the time and place of sighting:
+(1) Clear
+(2) thru (7) See attachment #12
+h. None
+i. None
+j. Information not readily available
+k. See findings of Basic Report
+1. Hone

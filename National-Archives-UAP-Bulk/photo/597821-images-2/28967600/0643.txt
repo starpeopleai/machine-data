@@ -1,0 +1,43 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T16:39:03Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8904955, "source_ctime_ns": 1793378321796540174, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28967600/0643.jpg", "source_mtime_ns": 1785696553000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28967600/0643.jpg", "source_sha256": "f0b52b5f9967b0873fac0c4c902a23660b4525f19d6590302dd3edf03adab379"}
+
+===== PAGE 1 =====
+{"alpha_words": 118, "chars": 876, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PP RJEDEN RJEDUP RJEPHO RJEPNY RJEPNB
+DE RJEPDG 2F
+P 190955ęîŘŚ
+FM COMDR 762D ACURON NORTH TRURO AFS MASS
+TO RJEDEN/COMDR ADC ENT AFB COLORADO
+RJEDWP/COMDR AIR TECHICAL INTELLIGENCE WRIGHT PATTERSON AFB OHIO
+RJEPHQ/DIRECTOR INTELLIGENCE HEADQUARTERS WASHINGTON 25 D. C.
+RJEPNY/COMDR 26TH AIR DIVISION ROSLYN AFS ROSLYN NY
+INFO RJEPNB/COMDR DET 3 4602 AIR INTELLIGENCE SERVICE SQ STEWART AFE
+RJEPNB/COMDR EADF STEWART AFB NY
+BT
+/UNCLASSIFIED SQINT 09107 PD ATTN CIC : SUBJECT UFOB PD
+1. A. CIRCULAR
+B. PENNY UNKNOWN DISTANCE
+C. WHITE
+D. FOUR
+E.
+STRAIGHT LINE SQUARE
+NONE
+H•
+NONE
+NONE
+NONE
+• : 8
+PAGE TWO RJEPDG 2F
+2. A. HAPPENED TO BE LOOKING OUT WINDOW
+B. 49 DEGREES
+C. 45 DEGREES
+D. STRAIGHT LINE THEN FORMED A SQUARE
+FADED OUT THEN ONE MORE APPEARED AND FADED
+45 SECONDS
+3. A.
+GROUND VISUAL
+NONE
+C. N/A
+4. A. 19/29162
+B. DAWN
+5. EAST ROCHESTER NEW HAMPSHIRE DP 5918
+CONCORD

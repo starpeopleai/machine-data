@@ -1,0 +1,34 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T16:23:35Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4125557, "source_ctime_ns": 1793382511041746581, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28984275/1090.jpg", "source_mtime_ns": 1785701108000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28984275/1090.jpg", "source_sha256": "c301cd69ecbde7b3a566feac2c09c15166e34352e670da9f734fdaf4fd3f6af5"}
+
+===== PAGE 1 =====
+{"alpha_words": 88, "chars": 657, "method": "ocr", "page": 1, "variant": "plain-vision"}
+NNNNZCZCSQP#31CZCS0A#35ZCSJA787
+00 RJEDSO
+DE RJEDSJ 22
+0 2615257
+FM 2500TH AB WING
+TO RJWFAL/ADC
+RJEZSN/2STH AIR DIV SAGE
+RJEDSQ/AIR TECH INTEL CTR L
+RJEZHQ /ACS
+RJEZHQ/OIS
+26 Auc 59 10 00
+1959
+elec
+3- 4x22
+UFO UNCLASSIFIED FROM BASE OPS SS-0 263-98. FOLLOWING INFORMATIONS
+FURNISHED IN ACCORDANCE WITH AFR 202-2 5 FEB 58 ON UFOB RECEIVED.
+A. (1) LIKE A WHITE SPARKLING STAR
+(2) HALF DOLLAR
+(3) WHITE
+(4) ONE
+(5) NONE
+(6) MOVING IN AN UPWARD DIDECTION
+(7) DOUBLE
+WHAUST WITH IMEDIATE SPURTS
+(8) NONE
+PAGE TWO RJEDSJ 22
+(9) .0..;
+B. (1) FLASHING OBJECT THAT LOOK LIKE A BRIGHT STAR VERY CLOSE
+FORN COS-S PRINTED DY THE STANDAND REGISTER CO.. DAVICH
+STANLOCK

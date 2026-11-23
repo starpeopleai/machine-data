@@ -1,0 +1,48 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T16:23:46Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4226093, "source_ctime_ns": 1793375146917847701, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28954885/0907.jpg", "source_mtime_ns": 1785696580000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28954885/0907.jpg", "source_sha256": "5f62e685eb9579bcafd20504d34e57982aae2c3bbf385d00611228c6a08c11d9"}
+
+===== PAGE 1 =====
+{"alpha_words": 97, "chars": 661, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE • TIME GROUP
+g June 53 14452
+3. SOURCE
+Talitary
+4. NUMBER OF OBJECTS
+One
+5. LENGTH OF OBSERVATION
+4 Ainutes
+2. LOCATION
+Horth Korea
+10. CONCLUSION
+bject seen near fron lines in Korea.
+ds
+PAP Comments:
+Bed to t
+Have
+-r balloons.
+15,000
+nyx sin
+in
+s si
+hiting probably of
+11. BRIEF SUMMARY AND ANALYSIS
+:)
+Pormrd artillery observers # Jited a spinning gray spheric
+object noving enstorly in an erratie 'course, circlin
+ares of sighting.
+the
+it when it disa
+Scope
+(range finder)
+ras used to vi
+cared to ti
+Ground-Visual
+7. COURSE
+8. PHOTOS
+• Yos
+EXNO
+9. PHYSICAL EVIDENCE
+• Yos
+EXN.
+FORM
+FTD SEP 63 0-329 (TDE)
+Provious oditions of this fores may bo usad.

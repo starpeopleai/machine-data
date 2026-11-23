@@ -1,0 +1,83 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T16:55:32Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 19705628, "source_ctime_ns": 1793360427705195284, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-001-0011.tiff", "source_mtime_ns": 1785565021000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-001-0011.tiff", "source_sha256": "a23a01777ee257e1499ac49e2aac0d7f298783b371ba46d6a04dcd9a4beaff7d"}
+
+===== PAGE 1 =====
+{"alpha_words": 217, "chars": 1687, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DECLASSIFIED
+Authority NND 9237007
+AF FORM 112-PART II
+APPROVED + JUNE 1948
+FROM (Agency)
+FLT. 2-A, 4602d AISS
+ludas
+AIR INTELLIGENCE INFORMATION REPORT
+REPORT NO.
+FLYOBRPT -3
+PAGE
+PAGES
+INCLOSURE #1
+RELATIONSHIP of DISTANCE and ELEVATION to ALTITUDE
+of SIGHTED OBJECT
+ELEVATION -- 15 DEGREES
+DISTANCE ( in miles and feet )
+2 miles (10560 ft.)
+3 miles (15840 ft
+5 miles 26400 et
+10 miles
+(52800 ft.)
+ALTITUDE ( in feet )
+ELEVATION -- 18 DEGREES
+2 miles (10560 it
+3 miles 15840 ft
+5 miles (26400 ft
+10 miles (52800 ft)
+ELEVATION -- 20 DEGREES
+2 miles (10560 ft
+3 miles (15840 f
+5 miles (26400 ft
+10 miles (52800 ft
+ELEVATION -- 25 DEGREES
+2 miles (10560 ft.
+3 miles (15840 ft.
+5 miles (26400 ft.
+10 miles
+(22400 ft:)
+ELEVATION -- 30 DEGREES
+2 miles
+3 miles
+(10560 ft.)
+(15840 ft.
+5 miles
+126400 It.
+10 miles
+(52800 ft.)
+2829 It.
+4243 ft.
+7072 It.
+14145 ft.
+3431 ft.
+5145 ft.
+8582 ft.
+17155 ft.
+3844 It.
+5766 ft.
+9610 ft.
+19219 ft.
+4924 ft.
+7386 It.
+12310 ft.
+24620 ft.
+6097 It.
+9146 ft.
+15243 ft.
+30487 It.
+NOTE
+THE FIGURES FOR DISTANCE AND ELEVATION ARE APPROXIMATE,
+BASED ON STATEMENTS GIVEN BY THE OBSERVERS OF THE UFO.
+FROM THESE DISTANCE AND ELEVATION FIGURES, THE ALTITUDES
+WERE WORKED OUT BY THE PREPARING OFFICER.
+NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S. C.-
+31 AND 32, AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW.
+IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF
+INTELLIGENCE, USAF.
+16-55570-1
+NT PRINTING OFFICE

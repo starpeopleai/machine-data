@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:09:07Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7298354, "source_ctime_ns": 1793383611742907321, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28987413/1063.jpg", "source_mtime_ns": 1785748256000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28987413/1063.jpg", "source_sha256": "9190fe307fb43fe5aabd178cf931d484c40cc788a977e8612ed886febd8101bd"}
+
+===== PAGE 1 =====
+{"alpha_words": 134, "chars": 935, "method": "ocr", "page": 1, "variant": "plain-vision"}
+HEADQUARTERS
+DETROIT AIR DEFENSE SECTOR (ADC)
+UNITED STATES AIR FORCE
+CUSTER AIR FORCE STATION
+BATTLE CREEK, MICHIGAN
+REPLY TO
+ATTN OF:
+SUBJECT:
+TO:
+1 9 JUL 1960
+DAOIO
+Evidence of UFOB Report
+Air Technical Intelligence Center (AFCIN-4E4g)
+Wright-Patterson AFB, Ohio
+INFO: 30 Air Division (OIN)
+Truax Field, Wisconsin
+1. Attached hereto is photographic evidence to accompany DAOIO
+message 2343, this headquarters dated 18 July 1960 concerning
+Unidentified Flying Object Report of observers
+nd
+2. Photographic aid used by observer was an 8mm Revere eye-
+matic movie camera with 32. 5mm, Fl.8 telescopic lens of
+Wollensak manufacture. There were no filters or tripods in
+use. Type of film was Kodakchrome Type A daylight film. Pan-
+ning was employed and camera was pointed easterly at approxi-
+mately 50 degrees elevation from the earth.
+FOR THE COMMANDER:
+1 Atch
+35mm slide mount (1 cy)
+major, USAF
+Asst, Dir. of Administrative Services

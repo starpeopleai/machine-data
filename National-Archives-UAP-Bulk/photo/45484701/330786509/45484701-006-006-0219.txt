@@ -1,0 +1,83 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:13:54Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10066014, "source_ctime_ns": 1793364174685065774, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330786509/45484701-006-006-0219.jpg", "source_mtime_ns": 1785684592000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330786509/45484701-006-006-0219.jpg", "source_sha256": "9a0732ee9bb9ffc305d02482cb4687d9392199b50ca44d6c3ce927346e8ac2d4"}
+
+===== PAGE 1 =====
+{"alpha_words": 192, "chars": 1495, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UNITED STATES AIR FORCE
+THE INSPECTOR GENERAL
+OFFICE OF SPECIAL INVESTIGATIONS
+REPORT OF INVESTIGATION
+TITLE
+UNKNOWN AERIAL PHENOMENA
+Sighted by Pfe JOHN M. GUSICH
+AF-57501418, Holloman AFB
+at 0605 hours, 18 January 1950
+CHARACTER
+SPECTAL INCUTRY
+ntional Aireraft
+REFERENCE
+AUST Letter No, 85, dated 12 Auguet 1040.
+SYNOPSIS
+FILE NO.
+DATE
+(24-8)-16
+REPORT MADE BY
+S/A RUSSELL O. NOMACK, JR.
+REPORT MADE AT
+PERIOD
+17%h DO, Kirtland APB
+13 January 1950
+13 January 1950
+OFFICE OF ORIGIN
+STATUS DO, Kirtland AFB
+CLOSED
+This investigatior is submitted in compliance with APCSI Letter
+No. 85, dated 12 August 1949, to report all sightings of unidentified
+flying objects. Pfc. JOHN M. GUSICH, AF 57601418, File Clerk, Air
+Provost Marshal's Office, Holloman Air Force Base, observed an unusual
+serial phenomenon, at 0605 hours 18 January 1950.
+GUSICH was inter-
+viewed and all pertinent information was obtained.
+UNCLASSIFIED
+CLASSIFICATION CANCELLED
+BY AUTHORITY OF THE DIRLO
+BY
+KURT. A. KUNZE, Capt, USAF
+Historian
+DATE
+| 4 DEC 1975ł
+8200 INV
+10
+ACTION COPY FORWARDED TO
+Com
+¡ng General
+HEr Mopeniel Command
+Might Fatterson AF Base
+rayton, Chio
+EASTH:
+I MOZAKO S
+FILE STAMP
+94/ 185-17-23ł
+T
+APPROVED
+DISTRIBUTION
+CO, ANC
+01P 65/5546
+(Action copy)
+SE
+4Q OSI
+oal
+CI DI/a
+CO, AF CRARIDGE
+RESEARCLOPAB
+FILE
+02/00 10 11 85
+AFHQ FORM
+15 JAN 49
+0-208
+Replaces AFCSI Form 4
+les
+DOYAR REES
+It Co1, USAFFER 13 1056 352Ś
+District Commander.
+U.S. GOVERNMENT PRINTING OFFICE
+Declassification Authority: NND 923007

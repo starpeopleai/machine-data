@@ -1,0 +1,54 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:13:31Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9736033, "source_ctime_ns": 1793364546764866896, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787368/45484701-007-002-0005.jpg", "source_mtime_ns": 1785685191000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787368/45484701-007-002-0005.jpg", "source_sha256": "17935cc86da1c3a32308e7f84a759dfc5fb2417913e34ea4f72e5708e3b0823b"}
+
+===== PAGE 1 =====
+{"alpha_words": 152, "chars": 1155, "method": "ocr", "page": 1, "variant": "plain-vision"}
+XXXX
+FROM:
+Capt Brown/fjm/wrtn
+Det 52
+UNCLASSIFIED
+24-185
+(Confidential - Security Information) TOWNSEND BROWN FOUNDATION, Los Angeles,
+California - SPECIAL INQUIRY
+Topical Intelligence Division, Deputy Director of
+89 OCT 1808
+Estinates, Dir. of Intelligence, DCS/O, ATTN: Maj Pournet
+The Office of The Inspector General, USAF
+Morton AFB, Califomia
+Capt Brown/£jm/AFCSI-6
+Code 192/X-140
+IN TURN
+Counter Intelligence Division
+Directorate of Special Investigations, IG
+1. Reference is made to M&R, this office, dated 7 October 1952, conceming
+the above subject.
+20
+Forwarded herewith for your information is a Dun & Bradstreet credit
+report dated 22 August 1952 which is a supplement to the Dun & Bradstreet credit
+rating forwarded to your office as an inclosure to referenced R&R.
+1 Ine l
+Dun & Brad Credit Rating (quad)
+GILMER L. SNIPES
+Major, USAF
+Actg Chief, Sabotage & Espionage Br.
+AFCSI FILE COPY
+AFCSI -6
+Brawn
+Aripes
+29
+MANAGI
+EN
+CLASSIFICATION CANCELLED W0 OARd
+BY AUTHORITY OF THE DIRECTOR OF SPEC INV
+BY
+KURT.K. KUNZE, Capt, USAF
+Historian
+& DEC 1975
+DATE
+UNCLASSIFIED
+18518-18
+FORGE
+OFFICE OF
+INFOR A
+1/2
+Declassification Authority: NND 923007

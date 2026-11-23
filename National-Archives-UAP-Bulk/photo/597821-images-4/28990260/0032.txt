@@ -1,0 +1,49 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:09:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7874907, "source_ctime_ns": 1793384400383755010, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28990260/0032.jpg", "source_mtime_ns": 1785748122000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28990260/0032.jpg", "source_sha256": "953703598e8df1ce96b2fcac6d5c9f25d2d778793a7f4bf9525341b8cf487b42"}
+
+===== PAGE 1 =====
+{"alpha_words": 123, "chars": 908, "method": "ocr", "page": 1, "variant": "plain-vision"}
+SUPPLEMENT TO AF FORM 112
+Intelligence Division
+PAGE 3
+PAGES
+AGE:
+53
+Mass chusette.
+ouct of South Berkshire.
+(AlSO
+fense for
+tow of Great Barring-
+Was clear except for light broken
+(2) Mind Direction/Velocity at the folloving altitudes:
+SURFACS--30/5-10 KTS
+6,000-2/300 ktšęšś
+20,000---50/270 KTS
+30,000--45/280 KTS
+60,000---45/280 KTS
+(3) CEILING: 8500 Pet, Broken
+(4)
+VISIBILITY: 5 Miles, Hazy
+(5) CLOUD COVER: Tight
+(6) 11013
+NONE
+NONE
+3-
+No sir traffic reported in the area by any airfield, Civilian or military
+stated th
+t he could not make an estinate as to the objects'
+lest and consi
+eltitude.
+ho saw.
+Peter R. Negonida
+USAP
+Intelligence Officer
+AF
+WARNING: This docun
+nt contains information affecting the !
+Espionage Laws, Title 18, U. S. C.
+. Sections 195 and 794. Its transn:
+It inay not be reprodu
+les, except by permission of the Director of Intelligence, USA!
+112a
+(SECURITY INFO
+n filled in)

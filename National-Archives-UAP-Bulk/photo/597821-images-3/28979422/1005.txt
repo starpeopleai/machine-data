@@ -1,0 +1,69 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:12:39Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9123940, "source_ctime_ns": 1793381149164519779, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28979422/1005.jpg", "source_mtime_ns": 1785700874000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28979422/1005.jpg", "source_sha256": "e03195933347b801064b46969c05e77a82b205245c15d7f652451d970f48c37f"}
+
+===== PAGE 1 =====
+{"alpha_words": 177, "chars": 1278, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD CARD
+1. DATE
+2. .LOCATION
+12 August 1958
+3. DATE-TIME GROUP
+Local
+GM T.
+13/0730Z
+S. 'PHOTOS
+12 WOF OBERA DAS VegaS, NeV.
+B Ground- Visual
+• Ground-Rodar
+• Air Visual
+• Air-Intercept Radar
+S. SOURCE
+• Yes
+*KN°
+7% LENGTH OF.OBSERVATION
+Civilian
+8. NUMBER OF OBJECTS | 9. COURSE
+CONCLUSIONS
+Was Balloon
+Probably Balleon
+ossibly Balloon
+Was Aireraft
+Probably Aireratt
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+•
+Possibly Astronomieal
+a: Inbuffieient Dete for Evelvation
+Unknown
+4-5 mins
+10. BRIEF SUMMARY OF SIGHTING
+one
+ind, light orange obj, size oi grape-
+fruit. diffused light
+in area where
+no lights of any type have been seen
+before. Light moved down & to left to
+tree top level, then went back to orig
+positon. Obj moved second time in
+same manner, slowly descending until it
+disappeared.
+Descending
+11.
+COMMENTS
+Probably conventional light of
+some sort.
+ATIC FORM 329 (REV 26 SEP 52)
+10Auc52 00 00
+3 / 4E4
+44хга
+PP RJEDS
+ZFD
+CZCERD#08ZCRYA515
+PP LJEZHQ
+DE RJWZJB 6V
+P 1516102 ZEX
+FM COMDR S65TH ACWRON LAS VEGAS AFSTA NEVADA
+TO AJESHO/ASSISTANT CHIEF OF STAFF INTELLIGENCE HQ USAF WASH D C
+IZH/CFFICE OF INFORMATION SEVICES HO USAF WASH D C
+REDDIV/COMDR ADC ENT AFB COLORADA
+EJEDIO/COMDR AIR TECHNICAL INTELLIGENCE CENTER MRICHT DAT CUTA

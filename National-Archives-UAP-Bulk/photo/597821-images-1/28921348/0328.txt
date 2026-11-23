@@ -1,0 +1,149 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:04:40Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5520479, "source_ctime_ns": 1793368599801806316, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28921348/0328.jpg", "source_mtime_ns": 1785688706000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28921348/0328.jpg", "source_sha256": "0ac4d05c6151c041d6814c3e2a15431586e628ebb122b1f90ccc2e9c261d7cc6"}
+
+===== PAGE 1 =====
+{"alpha_words": 233, "chars": 2149, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DATE
+90801
+9086-2
+9087-3
+9088-3-4
+19089 DR4
+912/14
+9090-4
+1909/14
+9092
+9093-5
+9094-5
+9095
+9096-5
+190976
+9098-6
+909+6
+19100-6
+901N
+19102-8
+1903-9
+9104-10
+9105-11
+19106~12
+19107-12
+9108-23
+9/09-14-15
+19//0-2ął
+9III 21
+191/2-21
+19113-22źŚ
+9114-22
+9115-22-24
+9114
+9118
+DA TE
+Sep
+SEPTEMBER 1964 SIGHTINGS
+LOCATION
+OBSERVER
+EVALUATION
+Guam
+Webster, Massachusetts
+Sparta, Tennessee
+Clovis, New Mexico
+Roswell, New Mexico
+Glasboro, New Jersey (Seperate
+Folder)
+Cleveland, Ohio
+Layton, Chio
+Brookfield, Massachusetts
+Secto Area, California
+West End, New Jersey
+Brenham, Texas
+Momenca, Illinois
+Dayton, Ohio.
+Westiield, Massachusetts
+36.4N 176.1W (Pacific)
+Macon, Georgia
+Whiteman AFB, Missouri
+Jackson County, Missouri
+Kansas City, Missouri
+Boston, Massachusetts
+Military Air
+Military
+Astro (METEOR)
+Astro (SUN DOG)
+Satellite
+Balloon
+Satellites
+Other (HOAX)
+•PhysicaL *
+Spec.
+Insufficient Data
+Astro (ARCTURUS)
+Insufficient Data
+(PHYSICAL SPEC NOther (PSYCHOLOGICAL)
+Civilian, Multiple
+Insufficient Data
+Insufficient Data
+Astro (VENUS)
+Satellite
+Other (UNRELIABLE REPORT)
+Military Air
+Satellite
+1. Astro (METEOR)
+2. Astro (STAR)
+Military
+Insufficient Data
+Civilian, Multiple
+Astro (METEOR)
+Civilian, Multiple
+Cedar Grove, New Jersey
+Ulysses, Kansas
+Kent, Lagland
+Kansas City, Missouri
+Centerville, Ohio
+Houma, New Orleans, Baton Rouge,
+Louisiana
+Coldvater, Ohio
+Berea, Ohio
+rapid city, south batota
+Califomia, Nevada, Oregon
+Red Blurt, California
+Reno, Nevada/Stead AFB, Nevada
+Civilian
+Civilian (PHOTOS)
+1. Aircraft (w/banner)
+2. Other (SEARCHLIGHTS)
+UNIDENTIF TED
+Other (DEBRIS IN WIND)
+Insufficient Data
+Astro (METEOR)
+Astro (VENUS)
+Astro (STARS)
+Civilian & Military
+Civilian, Multiple
+Civilian, Multiple
+San Jose, California
+Florence, Oregon
+Springfield, Ohio
+Soudan, Minnesota
+Aircraft
+Aircraft
+Astro (METEOR)
+Other (MISSILE)
+Insufficient Data
+1. Astro (METEOR)
+2. Astro (JUPITER)
+3. Insufficient Data
+Other (UNRELIABLE REPORT)
+Insufficient Data
+Insufficient Data
+Aircraft
+LOCATION
+Universe
+Black Hills, South Dakota
+N. Olmsted, Ohio
+Separate folder
+ADDITIOMAL REFORTED SIGHTINGS (NOT CASES)
+SOURCE
+Science News Itr
+Newsclipping
+Newsclipping
+EVALUATION

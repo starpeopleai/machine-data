@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T16:58:16Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 13527477, "source_ctime_ns": 1793355545522105927, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0130.jpg", "source_mtime_ns": 1785564474000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989267-001-0130.jpg", "source_sha256": "4e83194d2dbafee3beee6bb074ba16a7827eca8150e351c308025187806c903f"}
+
+===== PAGE 1 =====
+{"alpha_words": 232, "chars": 1518, "method": "ocr", "page": 1, "variant": "plain-vision"}
+251
+1. TEMPERATURE
+In measuring the temperature of the ambient air, in order to hold the radiation
+error below the desirable accuracy level it is necessary to minimize the radiative
+heat exchange between the probe and the atmospheric radiation field. Table 1,
+column 6 shows the maximum radiation errors for four thermistors and two tung-
+sten wire sensors when they are suspended in air at 2 mb pressure and -50°C in the
+daytime. The correlation between sensor size and the radiation error is obvious.
+But the power limit for the sensing devices also decreases with size (columns 4 and
+5), and sensors with the highest accuracy can tolerate only very small measuring
+currents. The choice of proper sensor type must be governed by the value of the
+measuring current from the recording instrument. The rod thermistor can carry a
+large sensing current but because of its large radiation error it should only be used
+at a pressure level higher than 50 mb and with sufficient ventilation. The wire sen-
+sors have the smallest radiation error, but their small transfer coefficient, 0.4%,
+(column 3), requires the measuring equipment to have a much higher sensitivity then
+is needed when thermistors are being used.
+The heat exchange between the balloon skin and the ambient air produces a
+layer of air around the balloon with a temperature quite different from the ambient
+air, Figure 1. In the nighttime this air layer is colder and drains downward, causing
+(Author's manuscript received for publication 31 December 1963)

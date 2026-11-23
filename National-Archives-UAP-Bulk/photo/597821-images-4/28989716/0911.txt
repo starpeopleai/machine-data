@@ -1,0 +1,67 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T16:21:26Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3274863, "source_ctime_ns": 1793384258976831736, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28989716/0911.jpg", "source_mtime_ns": 1785748489000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28989716/0911.jpg", "source_sha256": "fa7d639a4169f51ff34eb76c938e33dbe5a89b3d591df356aba6bb6de8a14cc1"}
+
+===== PAGE 1 =====
+{"alpha_words": 221, "chars": 1486, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 RECORD CARD
+DATE
+LOCATION
+15 Oct 60
+DATE•TIME GROUP
+Local
+GM T
+PHOTOS
+O Yes
+2 No
+7. LENGTH OF OBSERVATION
+Worland, Wyoming
+TYPE OF OBSERVATION
+El Ground-Visual
+• Air Visual
+SOURCE
+Civilian
+8. HUNBER OF OBJECTS | 9. COURSE
+D Ground-Redar
+D Air-Intercept Radar
+12. CONCLUSIONS
+D
+D
+Was Bolloon
+Probably Balloon
+Possibly Belleon
+Was Aircraft
+Probably Aircraft
+Possibly Aireraft
+Was Astronomical
+Probably Astronomical
+Possibly Astranamical
+Other.
+Insufficient Data for Evaluati:
+Unknown
+4-6 min
+one
+descending to S
+BRIEF SUMMARY OF SICHTING
+11. COMMENTS
+Shaped like the head of an arrow with the tip
+Winds present were southerly, ruling out
+pointed earthvard. Size of dine; color varied
+possibility of balloon, as the object
+from translucent red at the lower tip to pale
+was moving W. Witnesses stated that ther
+yellow at the upper edges. At times there
+was some evening twilight in the western
+appeared to be a slight trail or exhaust ex-
+sky, and a check indicates this to be
+tending upvard from the object that voula
+true. Any object seen in the western sly
+appear like part of the shaft of an arrow, but
+at a distence of several miles would
+was not persistant. Appeared 15-20° elev,
+aprox reflect the suns rays, if it were a light
+260° azimuth. Disappeared 10-0° elev, 260°
+colored object. Since no records are kept
+azimuth, Disappeared instantly.
+of a/c flying VR, it is possible that
+object observed was an a/c reflecting the
+suns reys. jor
+ATIC FORM 329 (REV 26 SEP 52)

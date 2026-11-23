@@ -1,0 +1,42 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:11:03Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8360287, "source_ctime_ns": 1793379756207796462, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28973330/01436.jpg", "source_mtime_ns": 1785700819000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28973330/01436.jpg", "source_sha256": "5fabc8f42ed14be017d626f5beddcb0f9e00f2ea3b39dabb2072c98a22bc1409"}
+
+===== PAGE 1 =====
+{"alpha_words": 46, "chars": 448, "method": "ocr", "page": 1, "variant": "plain-vision"}
+3. MANNER OF OBSERVATION
+A. VISUAL
+B. NONE
+C. NONE
+4. TIME AND DATE OF SIGHTING
+A. 06/11:02
+1110-5=0610
+DAWN
+5. LOCATION OF OBSERVATION
+A. 42 DEGREES 10 MINUTES N 83 30W
+B. WILLOW BUN AF STA, BELLEVILLE, MICH
+6. A/3C
+PAGE THREE RJEDBW 46
+7..QEATHER AND WIND CONDITIONS
+AS CLEAR
+B. SURFACE
+шли
+389
+6.590
+3 48
+NAN
+10,890
+20,990
+30,090
+50,800
+29KNOTS
+25 KNOTS
+25 KNOTS
+46 KNOTS
+69 KNOTS
+40 KNOTS
+C. CLEAR
+D. 15
+L. NONE
+F• NONE
+8. NONE
+9. NONE
+Spalace

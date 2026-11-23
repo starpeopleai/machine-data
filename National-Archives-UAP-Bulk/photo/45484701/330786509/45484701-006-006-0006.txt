@@ -1,0 +1,44 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T16:38:43Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8678036, "source_ctime_ns": 1793364044317788001, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330786509/45484701-006-006-0006.jpg", "source_mtime_ns": 1785684576000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330786509/45484701-006-006-0006.jpg", "source_sha256": "11a7973334102412ffbf923120b87f2fa5c4a2def898220a0903a56bdf730dbb"}
+
+===== PAGE 1 =====
+{"alpha_words": 281, "chars": 1901, "method": "ocr", "page": 1, "variant": "plain-vision"}
+THE UNIVERSITY OF NEW MEXICO
+ALBUQUERQUE
+INSTITUTE OF METEORITICS
+May 23, 1950
+To: Lt. Colonel Doyle Rees, Commanding Officer
+17th District, O. S. I.
+From: Lincoln LaPaz, Director
+Institute of Meteoritics
+Subject: Anomalous Luminous Phenomena (Seventh Report)
+Writer listed and enter treet, dated i the
+tally-moving fireballs observed in the interval 1948, December 5-20, and
+typical meteors. These differences were the following:
+(1) The horizontal nature of the paths of most of the December
+fireballs is most unusual. Genuine meteors are rarely observed to move
+in horizontal paths.
+(2) Again the very low height of the December fireball discussed
+in section 2 above sets it off in sharp contrast from the genuine
+meteors for which heights of the order of 40 or more miles are nor-
+mally observed.
+(3) The velocity determined for the fireball of December 12 is
+much less than the velocities determined from typical meteors (and
+yet is considerably greater than the speeds of the V-2 Rockets or
+jet planes or of conventional flares).
+(4) In the case of meteorites that penetrate to as low levels
+as that determined for the fireball of December 12, the observed lu-
+minous phenomena are always accompanied by very violent noises. No
+noises whatever have been observed in connection with the various
+December fireballs so far investigated. (Note added on 1950, May 23:
+Possible exceptions to the noiselessness of green fireballs are the
+incidents of 1949, January 30, and 1949, December 4.)
+(5) Genuine meteors normally show remarkable variations in
+brightness, beginning as fine thin hair lines, which are scarcely
+visible to
+the observer, and then brightening up to flash out near
+the end of their paths.
+In the case of the December fireballs most
+of the observers have reported that the green balls appeared almost
+instantly at their full brightness.
+ONFIDEN
+Declassification Authority: NND 923007

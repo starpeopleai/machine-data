@@ -1,0 +1,96 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T16:26:17Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5073704, "source_ctime_ns": 1793368581158698663, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28921348/0270.jpg", "source_mtime_ns": 1785688705000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28921348/0270.jpg", "source_sha256": "f2dbace934f14aa148f703e2ddc642f2139dfb6e0e3c3353401379915b536e70"}
+
+===== PAGE 1 =====
+{"alpha_words": 121, "chars": 1332, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DATE
+7249 - 3
+1750 4
+7751-6
+7752 12
+7753-13
+7954-13
+0955 13
+7956 14
+7757~14
+7758 15
+4759 16
+7760¿47
+7761-20
+7762 20
+7763-21
+7760426
+7:765 29
+77106-29
+7767-30
+77608-31
+DATE
+De c
+7.7109
+1 - 31 DECEMBER 1961 SIGHTINGS
+LOCATION
+Vandenberg AFB, California
+40.32N 166.59% (Pacific)
+St. Thomas, Virgin Islands
+20 Mi W of Junction, Texas
+Goshen, Indiana
+Washington, D. C.
+Chicago, Illinois
+50.31N 17.30W (Atlantic)
+Amityville, New York
+40N 174W (Pacific)
+61.15N 06.45W (Atlantic)
+64.40N 29.30W (Atlantic)
+40.07.5N 173.05% (Facific)
+21N 163E 21.50N 160.40E (Facific)
+Tyndall AFB, Florida
+Chicago, Illinois
+Goodletsville, Tennessee
+Bartlett, Illinois
+21.30N 158.03w (Pacific)
+Dayton, Ohio
+OBSERVER
+Military
+Militery
+Military
+American Airlines
+Military
+Multiple
+Military
+Military
+Military
+Military
+Military
+Military
+EVALUATICN
+Astro (METEOR)
+SATELI ITE
+Other MISSIE)
+Other (SATEILITE DECAY)
+Astro (METEOR)
+UNIDENTIFIED
+Astro (METEOR)
+INSUFFICIENT DATA
+INSUFFICIENT DATA
+INSUFFICIENT DATA
+INSUFFICIENT DATA
+SATELLITE
+SATELLITE
+Astro (METEOR)
+Astro (BETELGEUX)
+Astro (REFRACTION OF
+MOON)
+AIRCRAFT
+Other (CONTRAIIS)
+Astro (SIRIUS)
+Astro (SIRIUS)
+LOCATICN
+Universe
+Springfield, Ohio
+Sacramento, California
+Southwestern United States
+Danvers, Massachusetts
+ADDITIONAL REFORTED SIGHTINGS (NOT CASES)
+SCURCE
+Science News Itr
+News Clipping
+EVALUATION

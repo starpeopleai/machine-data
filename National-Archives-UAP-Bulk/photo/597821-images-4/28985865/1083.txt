@@ -1,0 +1,61 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T16:25:01Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4816128, "source_ctime_ns": 1793382917465872001, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28985865/1083.jpg", "source_mtime_ns": 1785748281000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28985865/1083.jpg", "source_sha256": "4f082b53a2b5040d78fad34174d7c41d633bfbeac560fd3a3ddaba061c7b320b"}
+
+===== PAGE 1 =====
+{"alpha_words": 161, "chars": 1216, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DATE
+14 Pebruary, 1960
+3. DATE-TIME GROUP
+Local.
+0400-1700 (?)
+GMT 570305-03552
+PHOTOS
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Nome - Unalakleet, Alaska
+4. TYPE OF OBSERVATION
+- Ground-Visual
+6 Air Vi suol
+• Ground-Roder
+D Air-Intercept Radar
+•. SOURCE
+• Yes
+Ø No
+7. LENGTH OF OBSERVATION
+7-3 seconds
+Civilian
+8. NUMBER OF OBJECTS
+one
+BRIEF SUMMARY OF SIGHTING
+Long blue flame with intermittant treil of
+sparks. Appeared to explode and disappear.
+Additional reports from varied sources. Thi
+sighting received a good amount of news
+coverage and a congressional inquiry from
+WALSH through his congressman.
+| 9. COURSE
+12. CONCLUSIONS
+Was Balioon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical
+Meteor
+Probably Astronomical
+Possibly Astronomical
+Other.
+Insufficient Data for Evaluation
+Unknown
+West to Bast
+11. Code 55
+description ot this object fits
+that of a meteor, and in view of it's
+extreme height and lack of evidence
+to indicate that it was a satellite or
+missile, it is concluded that this was
+a meteor. Evaluated as a meteor also
+by Dr Christian 1. Elvey, director of
+Ceophysics at Alaska University during
+investigation by AAC.
+ATIC FORM 329 (RAV 25 SEP 32)

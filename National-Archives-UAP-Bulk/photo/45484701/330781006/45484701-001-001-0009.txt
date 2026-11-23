@@ -1,0 +1,22 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:08:46Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7202579, "source_ctime_ns": 1793361610513436489, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330781006/45484701-001-001-0009.jpg", "source_mtime_ns": 1785684838000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330781006/45484701-001-001-0009.jpg", "source_sha256": "6fe3fc7fac2e6a803f3ab6f49a3d20b5299a30256b5a8e88dc9b178c063e8957"}
+
+===== PAGE 1 =====
+{"alpha_words": 89, "chars": 628, "method": "ocr", "page": 1, "variant": "plain-vision"}
+FIDENTIAL
+19D OST 24-88
+DETAILS (contIa)
+Inclosures (cont'd)
+The original signed statement (and 5 copies) of Mr.
+ROY OLIVER NEBLY dated, at San Frencisco, California, 29
+September 1949.
+The original signed statement (and 5 copies) of Reverend
+CURTIS DANIELS deted, at Cakland, California, 89 September 1949,
+The original copy of sketches of objecta by Mr, ROY
+OLIVER NEELY.
+The original copy of sketches of objects by Reverend
+CURPIS DANIELS
+TOR CO, ANG AND OBT FEADGUARTERS
+Two (B) copies of sketch drawn by Reverend CURTIS
+DANIELS•
+Two (2) copies of sketch drawn by Mr. ROY OLIVER NEELY
+Declassification Authority: NND 923007

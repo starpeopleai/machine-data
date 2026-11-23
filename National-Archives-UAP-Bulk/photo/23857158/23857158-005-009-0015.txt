@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T16:56:50Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10831386, "source_ctime_ns": 1793359020746757791, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-005-009-0015.tif", "source_mtime_ns": 1785681294000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-005-009-0015.tif", "source_sha256": "9ac50660896c535f2f52e0157e29eb87c86512d1c83285871fe067152540e8a2"}
+
+===== PAGE 1 =====
+{"alpha_words": 113, "chars": 804, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+AE FORM TIZ PARTIE
+PPROVED 1 JUNE 1948%
+UNCLASSIFIED
+(GLASSIFICATI
+AIR INTELLIGENCE INFORMATION REPORT
+REPORT NO.
+30 0F08-łŚ
+211 SCC 56028 A39
+PAROS PAPON.
+PAGE 1335
+Taci #2c Rept 30-UPOB-1. PART THRDE
+Sketch of appearance and Location of object (Re-Touchad)
++ PoiNT B
+• PAGES
+POINT. B
+160° SE
+- BuT A
+POINT A 1135° SE
+PoINT 1
+ELEVATION
+POINT 3
+ARKS
+FIaST APPEARANCE
+OF OBJECT 4 MorT
+OF THE OBSERVED
+POINT Y SHAPE OF OBJECT
+AT TIME OF DISAPPEARANCE
+AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S.C..
+ION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW
+TOR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OE
+UNCLASSIFIED

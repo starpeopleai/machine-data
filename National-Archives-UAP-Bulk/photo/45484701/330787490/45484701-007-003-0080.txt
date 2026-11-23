@@ -1,0 +1,84 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T16:36:12Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7307563, "source_ctime_ns": 1793364661933230910, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787490/45484701-007-003-0080.jpg", "source_mtime_ns": 1785684887000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787490/45484701-007-003-0080.jpg", "source_sha256": "90b0954cc189e04f62dc6b5561ce6f55d097ead1539db93937d89b69f14c11cb"}
+
+===== PAGE 1 =====
+{"alpha_words": 247, "chars": 1801, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AF1S1IC/C pt Henley/av/6
+160/5 Oct 65
+TRANSMITTAL OF REPORTS AND/OR REQUESTS FOR INFORMATION
+SUBJECT
+Raymond Spears
+General Delivery
+Pleasanton, California
+UNCLE
+ASSIFIED
+PATE 11 OCT 1965
+FROM
+AFISITC
+FILE NO. 24-185-19-46
+TO:
+SAF-OI
+ITEMS CHECKED ARE APPLICABLE TO ABOVE SUBJECT
+REFERENCE OUR CORRESPONDENCE DATED
+ATTACHED REPORT (S) IS/ ARE FORWARDED PURSUANT TO THE TELEPHONE REQUEST OF
+ATTACHED ERONKS IS/ARE FOR YOUR INFORMATION AND ANY ACTION DEEMED APPROPRIATE.
+XX
+AGENCY CHECKS INDICATED DEVELOPED NO UNFAVORABLE INFORMATION AS OF
+FBI-ID
+CIA
+FBI-HQ
+OSI
+STATE (S)
+ACSI-DA
+STATE (P)
+ONI
+MC UA
+CSC
+INVESTIGATION IS CONTINUING AND COFIE
+OF ALL SUBSEQUENT REPORTS WILL BE FURNISHED.
+JORDERIN VEST
+ION IS NOT CONTE
+• BAT AUTHORITY
+RETURN ATTACHMENT (S) AFTER
+CLASSIFICATION CANCELLED S
+XX
+COPIES
+HIS/THESE REPORT (S) ARE
+APYSERVED YOUR PURPOSELE DIRECTOR OF SPEO
+BEING FURNISHED TOt, GO
+THIS DIRECTORATE HAS
+(SEE REMARKS.)
+EEN ADVISED THAT COMMAND ACTIONWAS TAKEN AS A RESULT OF
+INSTANT INVESTIGATION
+ATTENTION IS INVITED TO
+DOCUMENT (S).
+THE RESTRICTIVE LEGEND(S) WHICH APPEAR(S) ON T
+HE FRONT OF THE
+ACHED REPORT (S) OR
+WHEN ATTACHMENT (S)
+CORRESPONDENCE WILL BE [ RETAINED [ DOWNGRADED TO
+IS/ ARE REMOVED, THE CLASSIFTCATION ON THIS
+- CANCELLED, [ MARKED "FOR OFFICIAL USE ONLY."
+REMARKS
+Directorate OSI files do not reflect any information identifiable with subject.
+110CT 1965
+OHX 1 STAHL, JF
+Flats 86ct65
+1 Atch
+Ltr from subject w/envelope.
+Directorate of Special Investigations (8C)
+AFISIIC
+50ct65
+UNCLASSIFIED Read cy - Capt Henley w/o Atch
+Got 6s
+LCoord Cy - INV 24-185-19-46 w/o Atch
+Maj Morton
+Radar
+24-185-79-76x.
+0800/07/18/65
+OFFICE
+SPECIAL INVE
+AFHQ FORM
+A UG 82 0-411
+PREVIOUS EDITION OF THIS FORM WILL BE USED UNTIL STOCK IS EXHAUSTED.
+B-9823
+Declassification Authority: NND 923007

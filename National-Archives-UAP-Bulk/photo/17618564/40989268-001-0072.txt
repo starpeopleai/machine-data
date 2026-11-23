@@ -1,0 +1,56 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:01:38Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 17093869, "source_ctime_ns": 1793355633894771122, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0072.jpg", "source_mtime_ns": 1785564493000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0072.jpg", "source_sha256": "7857d30bff08d9c160d1073d7e593d9fe2f0a6713c51c5c3677e8c06ce73960f"}
+
+===== PAGE 1 =====
+{"alpha_words": 599, "chars": 3972, "method": "ocr", "page": 1, "variant": "plain-vision"}
+131
+Because of the size potential now made practical by the giant Airmat loom, it
+is feasible to consider the extension of this tail construction concept to lifting sur-
+faces beyond the tail alone. Applied to a tethered balloon in a wind or to a powered
+free balloon such as an airship, the increased lift possible by the application of high-
+lift surfaces will permit operations at altitudes not possible using the static lift of
+the gas alone. The effect of a lifting surface or increase in aspect ratio is readily
+illustrated by the large difference in dynamic lift shown by the Vee-Balloon when
+compared to a conventional single hull shape.
+Studies have been made of ways to increase the payload or endurance of air-
+ships by means of the multilobe concept, and 40% improvement is readily possible.
+This same lift increase can be employed to drive an airship to heights greater than
+that attainable by static lift alone. With increase in span and aspect ratio, the re-
+sulting aerodynamic performance improvement again yields even higher altitude
+capabilities. In Figure 10, a plot of altitude vs velocity is used to illustrate quali-
+tatively the increases possible as more and more of the required lift is handled
+dynamically by wing-type surfaces. In the past, vehicles for achieving these heights
+had to be of multilobed construction (see Figure 11) since great-depth Airmat was
+not yet feasible. Now, however, machinery large enough to fabricate giant wings is
+available and it needs only to be employed. The configuration, size, power source,
+range, and so forth, obviously are mission determined. But now new tools are
+available for vehicle design and construction.
+Figure 9. Streamlined Tail Replacing Lobed Tail
+This approach will readily permit an increase in rate-of-rise of 4 to 1 for the
+same amount of excess lift, because of the reduction in drag of the new shape com-
+pared to a spherical pressure vessel. Obviously, the specific speeds and vehicle
+contours would depend upon the mission configuration. However, preliminary es-
+timates of typical applications do not show 10 and 15 percent gains, but 350 and 450
+percent increases, thus warranting further investigation regardless of the accuracy
+of detail features.
+As mentioned earlier, the replacement of the multilobe control surface or
+stabilizer of tethered balloon tails by a new lightweight Airmat construction would
+permit better streamlining. This would not only result in improved aerodynamic
+performance from increased lift and reduced drag values, but it would also improve
+the structural integrity of the component, minimizing the regions of high stress, by
+distributing the load-carrying ability more effectively.
+4. NEW MATERIAL POSSIBILITIES
+Using the simplified formulas of Figure 12 it is possible to readily determine
+the magnitude of the forces and material weights required for any specific applica-
+tion. Although these do not take into account secondary loadings, which might be
+critical in a particular instance, at least an indication of the feasibility of utilizing
+the Airmat structural technique is presented. In the actual construction of a vehicle
+or component, such additional factors as deflection, gas permeability, environmental
+effects (humidity, temperature, ultraviolet exposure, and so on), scuff resistance,
+flexibility, and surface contour itself will be considered.
+However, in order to obtain some idea of the strength and weight potentialities of
+lightweight Airmat, perhaps a sample calculation will illustrate the area for considera-
+tion. Assume, for instance, that an Airmat material is to be woven with top and bot-
+tom surfaces made of Dacron and weighing 1 oz/square yard each. Material of this
+weight has a tensile strength of approximately 30 to 40 pounds per inch. Being con-
+servative, and using 30 in the equation given in Figure 12, and considering a section
+of a tail surface on a balloon with a wing loading of 1 pound per square foot, and a

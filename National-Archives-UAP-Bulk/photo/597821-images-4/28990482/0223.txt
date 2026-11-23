@@ -1,0 +1,43 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:09:29Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7574086, "source_ctime_ns": 1793384507724315066, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28990482/0223.jpg", "source_mtime_ns": 1785747942000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28990482/0223.jpg", "source_sha256": "73b692ec9c2f2e0ad2c4c538304f0e64c7c073ba1e13110759e3055154873708"}
+
+===== PAGE 1 =====
+{"alpha_words": 113, "chars": 889, "method": "ocr", "page": 1, "variant": "plain-vision"}
+J. UNDETERMINED.
+K. PREPARING OFFICER CHRELE W2 CO CGRADSTA KETCHIKAN COSIDERS
+POSSIBLE CAUSE ON CELESTIAL BODY DUE ALMOST STATIONARY POSITION
+DUEING OBSERVATION.
+L. NONE
+SECOND UFO.
+A. DESCRIPTION.
+1. SHAPE UNDETERMINED.
+2. PEA SIZE.
+3. DULL RED AND SECOND OF TWO OBJECTS DULL WHITE.
+R. TWO IN NUMBER
+5. SAME ELEVATION APPROX 120 YES APRT.
+6. NONE
+7. NONE
+8. NONE
+9. NONE
+B. 1. LOOKING FOR FIRST UFO.
+2. VERY CLOSE TO HORIZON AND NW.
+3. SAME AS 2.
+4. DULL RED LIGHT ROSE VERTICALLY APPROX 100 YARDS THEN BACK TO
+HORIZON ONCE DURING FOUR MINUTE OBSERVATION. OTHERWISE BOTH
+OBJECTS STATIONARY.
+5. NOT OBSERVED
+S. FOUR MINUTES.
+AM 1. GROUND VISUAL.
+2. NONE
+3. NONE
+D. TIME
+1. 1424307
+2. NIGHT
+E. CGRADSTA KETCHIKAN AND GUARD ISLANDS ITSTA.
+F. 1. NONE KNOWN
+TCHIKAN. RELIABILITY VERY
+GOOD.
+G. 1. CALM PARTLY' CLOUEY
+2. NOT AVAILABLE
+3. UNLIMITED.
+4. UNLIMITED.
+5. 25 PERCENT SCATTERED CLOUDS

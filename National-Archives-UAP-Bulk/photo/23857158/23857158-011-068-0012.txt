@@ -1,0 +1,21 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:06:42Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6563722, "source_ctime_ns": 1793359981445491121, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-011-068-0012.tif", "source_mtime_ns": 1785681589000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-011-068-0012.tif", "source_sha256": "93d91779ada04b5f77d2e9d782de09bb4e1886ea594ba0b3e8a5b8b047351d69"}
+
+===== PAGE 1 =====
+{"alpha_words": 69, "chars": 469, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
++82244 ₴
+ops
+ENO 05 ENA232XFA072
+RR RJEDEN
+DE RJEDKF 41
+• R 081730Z
+Some, o
+FM DET 2, 4602D AISS GRANDVIEW AFB MO
+TO COMDR 4602D AISS ENT AFB COLO
+Вт
+/UNCLAS/ AISD2 94 PD ATTN: LT MACHYOWSKY CMM AISOC PD REFERENCE DET
+TWO UFOB REPORT D2 DASH1 DASH 56 AND OUR FONECON 7 NOVEMBER 56 PD
+OTHER SOURCES RECONTACTED AND THEY COULD NOT SUPPLY ANY ADDITIONAL
+INFORMATION TO THAT REPORTED BY ME IN OUR FONECON PD END
+BT
+08/2Ø42Z NOV RJEDKF

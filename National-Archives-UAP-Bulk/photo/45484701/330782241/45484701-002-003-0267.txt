@@ -1,0 +1,53 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:13:36Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9755886, "source_ctime_ns": 1793362222038830415, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330782241/45484701-002-003-0267.jpg", "source_mtime_ns": 1785684728000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330782241/45484701-002-003-0267.jpg", "source_sha256": "d8e1ee1c1303e506892eabddcba73be5fd03ec4b37e9fed27e5a33cc8b54a2df"}
+
+===== PAGE 1 =====
+{"alpha_words": 210, "chars": 1594, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DETAILS :
+AT DENVER, COLORADO
+Information appearing in this report does not reflect investigation
+conducted by DO #14, OSI, Lowry AF Base, but is taken verbatim from an Air
+Intelligence Information Report, No. LAFB, 000.9-3, Hg 3415th Tech Ing Wing,
+Lowry AF Base, Denver, Colorado, dated 26 August 1949 *Captain, USAF, Wing
+This report indicates
+that the investigation was conducted by E. I. MURTHA,
+Intelligence Officer and covers period from 20¿26 August 1949.
+2. The report is as follows:
+1]•
+Date of sightings Saturday, 20 August 1949
+Time of sighting: 23802
+Where sighted (observer's position), 2801 W. Dartmouth Street,
+Denver, Colo.
+Ground
+City, cow:
+¡ Denver, Golorado
+(г)
+Distance and direction from sity or town, road, inter-
+section, eto.: Heading West, 260 degrees
+From building (story), yard, ote.1 Yard,
+Map coordinates (if feasible) showing latitude and
+longitude: Not determined.
+Airs
+Not applicable.
+o. Sea: Not applicable.
+Number of objects: One. appeared oval because of fumes.
+5.
+Observable celestial phenomena or planets that may account
+Bright sunny day.
+6. Distance of object from observer.
+Laterally ¿¿approximately 10 miles.
+De
+Angle of elevation from horizon:
+85 degrees
+Altitudes 40,000 feet
+7. Time in sight: 20 seconds.
+8. Appearance of object:
+Color: Aluminum
+Shape:
+Apparent construction: Possibly aluminum
+Size: 85 feet aerose
+Estimated size: 85 feet across
+(2) Size as it appeared from obeerver's views
+Size of B-26
+9. Direction of flight: Test - 260 degrees
+10. Tactics or maneuvers: Straight line of flight, horizontal
+Declassification Authority: NND 923007

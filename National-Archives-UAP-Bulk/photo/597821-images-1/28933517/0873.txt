@@ -1,0 +1,56 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T16:25:44Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4943352, "source_ctime_ns": 1793370012363976413, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28933517/0873.jpg", "source_mtime_ns": 1785688726000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28933517/0873.jpg", "source_sha256": "a3ab9c914fe277ae5f81e31a21289a0ad4b10c25e18ceb34a6433f8545a8e8ca"}
+
+===== PAGE 1 =====
+{"alpha_words": 161, "chars": 1244, "method": "ocr", "page": 1, "variant": "plain-vision"}
+• > -47
+20-1760
+Basic Itr to AC fr Hq Fourth Army, dtd 15 Var 49,ạẠạUnconventional
+AircraftồỊạiị
+Ist ind
+CTAX0-3/ANS/rm
+liq A G, Wright-Patterson Air Force Lase, Dayton, Onio MAR 25 1949
+TO: Commanding General, Headquarters Fourth Army, Fort Sam Houston,
+Texas
+l. It is requested that source of report in basic communication
+be contacted for further information.
+2. In this and future reports concerning unidentified flying
+objects, as much of the information outlined in inclosed Guide to
+Investigation as is available, should be included.
+FOR THE COMMANDING GENERAL:
+LT. C01-US19F
+1 Incl
+"Guide to
+Investigation"
+(dup)
+R. CLINGE
+Colonel
+USAF
+Acting Chief
+Intelligence Department
+452.1 AKADB
+2nd ind
+Headquarters Fourth Army, Fort Sam Houston, Texas, 2 Lay 1919
+TO :
+Cormanding Geceral, Air Lateriel Command, Wright-Patterson Air Force
+Bese, Dayton, Chio, ATTN:
+M.C.I.
+Guide to Investigation is formarded as requested.
+FOR THE COMANDING GENERAL:
+2 Incls
+1-S/I, subj, "Unidentified
+Flying Light Phenomena,"
+9 Mar 49
+2-Guide to Investigetion re
+observation 8 Mar 49, Los
+Alamos, H.l., w/3 incls
+CUSTIS L. POLAND
+Suites & Poland
+Colonel, CSC
+AC 01 S, 0-2
+DOWNGRADED AT 3 Y
+VTERVALS
+DECLASSIFIED AFTER 12 YEARS
+DOD DIR 5200.10
+UNCLASSIFIED
+2
+1/51

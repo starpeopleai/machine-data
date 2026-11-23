@@ -1,0 +1,83 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T16:55:47Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 22188708, "source_ctime_ns": 1793357734675086869, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1624-558201-0001.tif", "source_mtime_ns": 1785564963000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1624-558201-0001.tif", "source_sha256": "e2a01732576819cc155daf6aeea5f9007ecac532b8e50eee89b792c9810fbb1d"}
+
+===== PAGE 1 =====
+{"alpha_words": 454, "chars": 3187, "method": "ocr", "page": 1, "variant": "plain-vision"}
+RESTRICTED
+AF FORM 112-PART I
+CEASSINCARONATHON
+APPROVED 1 JUNE 1948
+DOCU
+COUNIRT
+USA
+BRANCH
+REPORT NO.
+AF558201
+CLEAVE AF 55820|
+AIR INTELLIGENCE INFORMATION REPORT
+SUBJECT
+FLBOBRPT
+AREA REPORTED ON
+East St. Louis, Illinois
+DATE OF REPORT
+DATE OF INFORMATION
+ARED BY TORCHY 53
+17 May 1953
+FROM (Agency) Wing Intelligence Officer
+Scott Air Force Base, Illinois
+EVALUATION
+F-6
+SOURCE
+Mrs. Ted Randall
+ous report, etc., as applicable)
+SUMMARY: (Inter concise summary of report.
+GC 308E, Hq 3310th Tech Ing Wg, Scott AFB, Illinois,
+19 May 1953
+Give significance in final one-sentence paragraph. List inclosures at lower left.
+Begin text of report on AF Form 112-Part II.)
+A single unidentified, unconventional flying object was sighted and observed
+by Dennis Gwaltney, Age l, Bill Gwaltney, Age 12, John Barrett, Age 12 and Ted
+Randall, Age 13.
+The object was described, by the boys, to Mrs.
+Ted Randall, 1725
+N. 43rd Street, East St. Louis, Illinois, who notified this office of the sighting.
+The object was described as being aluminum colored and disk shaped with a
+slightly raised dome on the top side.
+It appeared to have a dark almost black edge
+with silent exhausts on the underside both emitting smoke.
+The object appeared from
+the north approaching observers, hovered a few seconds, dipped toward observers and
+disappeared with great speed to the NE.
+Object appeared larger than conventional
+A/C frequently observed in this area.
+Although sky was cloudy object appeared in
+a clear space between cloud formation.
+Severe thunder storms were recorded in area of sighting preceeding and following
+sighting.
+Scattered clouds at 3000' and 8000' with winds from S.W. at twenty knots
+and WSW at 45 knots respectively.
+Intelligence and operations of the 85th Fighter Interceptor Squadron, Scott Air
+Force Base received no reports of unidentified A/C or unconventional objects and
+took no identification action during reported period.
+A negative report has been received from the 798th AC&W Squadron in reference
+to unidentified A/C or unconventional flying objects.
+The age and experience of the observers reporting this sighting has been
+considered although no definite conclusions can be arrived at by this office.
+USAF MEmO 7/31/78
+BY NG, LEWiS MATS, DY2 7/19/79
+_ INCLS.
+JAMES H. WEBB
+Major, USAF
+Wing Intelligence Officer
+DISTRIBUTION BY ORIGINATOR
+Director of Intelligence, Headquarters USAF, Washington 25, D.C.
+Chief Air Technical Intelligence Center, ATTN: ATIAA-2c, Wright Patterson AFB, Ohio
+Commanding General, Technical Training Air Force, Gulfport, Mississippi
+Commanding General, Air Training Command, Scott Air Force Base, Illinois
+NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL JEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S.C.-
+31 AND 32, AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW.
+IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF
+INTELLIGENCE, USAF.
+RESTRICTED
+SECURTY INPURWATION
+Auth: 48238, AFCAG-54, USAF, 20 Jul 50
+Declassification Authority: NND 57565

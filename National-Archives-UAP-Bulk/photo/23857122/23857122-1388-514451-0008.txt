@@ -1,0 +1,18 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T16:46:35Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 60029160, "source_ctime_ns": 1793357311760650756, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1388-514451-0008.tif", "source_mtime_ns": 1785564874000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1388-514451-0008.tif", "source_sha256": "0ff57e73cb47d89218589941f077936b9c828c096738949419adceb72bbae2db"}
+
+===== PAGE 1 =====
+{"alpha_words": 75, "chars": 507, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Himmelhoch jauchzend -
+zu Tode betrübt..
+• Anaesteilten. die das Pech
+d die Or Lu
+- Das lasen wir schon oft in der Tageszeitung. Wichtig ist
+bei, nicht nur die Überschrift zu lesen, sondern sich auch über das ‚Wie dieres große
+schen Wettbewerbes zu orientieren. Hierbei fällt uns auf, daß im Vorderarund did
+Ischaftliche Hilfe für die Zurückgebliebenen als eines der Hauptmerkmale des sozia
+innen wir aus dem Walzwerker-Wett-
+Ster im nächsten SW-Spiegel,
+O D
+SA FE
+F I
+Declassification Authority: NND 57565

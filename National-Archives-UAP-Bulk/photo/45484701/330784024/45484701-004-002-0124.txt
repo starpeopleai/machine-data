@@ -1,0 +1,63 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:09:20Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7560136, "source_ctime_ns": 1793362932348433077, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330784024/45484701-004-002-0124.jpg", "source_mtime_ns": 1785685045000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330784024/45484701-004-002-0124.jpg", "source_sha256": "93144fe423f5dc04b7df17c2394e455b6fd701f22b9c46e5e3ad24a7f48f9b0c"}
+
+===== PAGE 1 =====
+{"alpha_words": 146, "chars": 1127, "method": "ocr", "page": 1, "variant": "plain-vision"}
+5D 24-21
+SUBJECT:
+TO:
+INFORMATION COPY
+From 5th District OSI
+Wright-Patterson Alr Farce Base
+Chin
+Unidentifie
+Iving Object
+Dignted ab
+a champton Baach
+New Xork, 15
+January
+SPECIAL INQUIRY
+BY SIFICATION CANCELAND
+AUTHORITY OF
+BY
+KURT K. KUNZE, Capt, USAF
+Historial DEC 1975
+Commanding General
+DATE
+Air Technical Intelligence
+Center
+Wright-Patterson Air Force Base
+Ohio
+ATTN: ATIAA¿C
+TOCK
+13 February 1953
+INV
+021
+Attached for your information 18 ong co 50 LEB 1823
+vestigation by Special Agent CHARLES I, STECHER, 2nd offport
+or/in-
+Distriat,
+dated 6 February 1953, file 2l-319, subject as above.
+2. No further investigative action is contemplated, and the
+files of the Office of Special Investigations are considered closed
+in this matter.
+Attention is invited to par 7, AFR 205-1, which prohibits
+disclosure of classified information to unauthorized personnel.
+CLASSIFICATION CANCELLED
+BY AUTHORITY
+1 Incl
+R/I, DO #2, dtd 6 Peb 53
+BY
+D. G. NORTH
+It Colonel, USAF
+District Commander
+Copy
+to:
+DATE
+11g OSI w/o abv incl
+E DIRECTOR OF SPEC IN
+04165-2-19
+0 3°53
+HON
+*85 FEB 1958
+UNCLASSIFIEL
+Declassification Authority: NND 923007

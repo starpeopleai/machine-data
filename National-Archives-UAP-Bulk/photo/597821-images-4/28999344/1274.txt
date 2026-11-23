@@ -1,0 +1,42 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T16:37:24Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8002603, "source_ctime_ns": 1793387872915179209, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28999344/1274.jpg", "source_mtime_ns": 1785748584000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28999344/1274.jpg", "source_sha256": "b154051e3380c69bff2446255a42809703b33f045401d54a5ae68db4a3a5e92b"}
+
+===== PAGE 1 =====
+{"alpha_words": 114, "chars": 825, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1: DATE • TIME GROUP
+2. LOCATION
+27 Sept 62
+3. SOURCE
+28/02302
+No Civilian
+4. NUMBER OF OBJECTS
+Two
+5. LENGTH OF OBSERVATION
+1 Minute
+6. TYPE OF OBSERVATION
+Ground-Visual (TX)
+7. COURSE
+Stationary
+8. PHOTOS
+• Y•s
+EXNO
+9. PHYSICAL EVIDENCE
+• Y•s
+XXNO
+FORM
+FTD SEP 63 0-329 (TDE)
+Prorious oditic
+• used,
+Silver Springs, Maryland
+10. CONCLUSION
+AFTER IMAGE
+Witness was 12 yr old youth. Double image leads to analysis as
+possible after image effects of telescope observation.
+Fading
+and stationary aspect in accord with this analysis.
+11. BRIEF SUMMARY AND ANALYSIS
+Two identical objects observed at 30 deg elevation in the East,
+Appeared to be stationary. Did not move. Disappeared by fading
+White color like cotton.
+Observed during observation of
+celestial bodies with TX. Telescope was stuck and would not
+move. Moon was out.

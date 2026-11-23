@@ -1,0 +1,58 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T16:45:56Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 26767624, "source_ctime_ns": 1793359036677682765, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-005-018-0006.tif", "source_mtime_ns": 1785681299000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-005-018-0006.tif", "source_sha256": "d954257ff39617a712e07fde9f17b07581c5ee53f0b4e9f646b19843a4cae21d"}
+
+===== PAGE 1 =====
+{"alpha_words": 164, "chars": 1170, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+ARTI
+USA
+31-09002-52
+AIR INTELLIGENCE INFORMATION REPORT
+UROB
+BATHORE, MARY AND
+2 NARCE 1955
+ЗАСК ТЕВО,
+2od. Intay
+HO ARDS IT MSG ROLO
+PATE OF CIE
+28 FEBRUARY 1955
+Sce Contents Below
+lated 28/1200Z DEBRUARY 1955
+CONBENTS:
+PART ONCE
+PART THO2
+BATTH ORD, LART AND neuspaper artICIe
+SOURCE:
+IT COLOND WIRETA TA SEDE
+PART TERES
+SOURCE
+PART FOURE
+SOURMOE
+PART PINES
+SOURCES: Actual sightings of UP03
+PART SIC
+Heather and ballioon data
+PART SayENE Investigator'S summary
+SUMARTS Two unidentified flying objects were sighted, at BALMORE
+MARYLAND (GORE GUER 2319) at approximately, 28/17257 FEBRUARY 1955.
+Informa
+tion contained in this report was obtained from the
+persons oiserving the
+object, meteoriogical data, and officials in the BAW MORE area.
+JACK УРВО
+2nd. LE, USAP
+Asst OiL, Fit 3-H
+APPROVING OFEIGERE
+(Submitted separately to AFIC)
+TE Colone
+Соннат
+CY L46028 ASS: D/T USA: Comdr, ATIC D/1 26th ADIT: 010, FIt 3-7, 46024 ATSS
+Couch ARDCE
+3T AND 322
+SAMENDED ITS TRA
+IT MAY NOT BE REPRODUCED. IN
+INTELLIGENCE: USAF
+AL DEFENSE OF THE UNITED STATES WITHIN TE
+PIS CONTENTS CAN MANH
+UNITED STATES AIR FOR
+UNCLASSIE 150
+(CLASSIFICATIO

@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:07:18Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6809007, "source_ctime_ns": 1793382067215324479, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28982579/0995.jpg", "source_mtime_ns": 1785700660000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28982579/0995.jpg", "source_sha256": "76a85ffa7835d4fa4f228fcc91c796408f13f7c1fe04235cf92175e70e0026d2"}
+
+===== PAGE 1 =====
+{"alpha_words": 65, "chars": 458, "method": "ocr", "page": 1, "variant": "plain-vision"}
+ZCZCSQP234CZC90C263ZCUYA135
+RR RJEDSO
+DE RUEPEL 20
+R 3/18282
+FM COMDR 10OSTH AISS (ADV) FT BELVOIR VA
+TO COMDR ATIC WRIGHT PATTERSON AFB OHIO
+AF GRNC
+BT
+049
+(ACTION INFOR
+AM 7:28
+UNCLAS
+FROM AIHOP
+REF IS MADE TO YOUR REQUEST TO DETACHMENT & 1006TH AISS FOR
+UFOB INVESTICATION ON 28 MAR 59 PD INVESTIGATION BEING CONDUCTED $V*
+DETACHMENT 5 105STH AISS CMM GEIGER FIELD CMM WASHINGTON PD END
+BT
+CFN 040 8 1006TH 28 59 5 1006TH
+30/19802
+NINTEN
+90 60 69800
+211~

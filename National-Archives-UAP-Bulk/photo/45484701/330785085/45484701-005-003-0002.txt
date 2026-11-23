@@ -1,0 +1,46 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:13:25Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9648537, "source_ctime_ns": 1793363318343582341, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785085/45484701-005-003-0002.jpg", "source_mtime_ns": 1785684905000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785085/45484701-005-003-0002.jpg", "source_sha256": "745f217855dc4d3fd9db969cac5d505906e8d84278756d3b71fa77d345265106"}
+
+===== PAGE 1 =====
+{"alpha_words": 171, "chars": 1212, "method": "ocr", "page": 1, "variant": "plain-vision"}
+JCB/ml
+FILE NO:
+SUBJECT:
+TO:
+24,-40
+SIGHT: NO OF UNIDENTIFIED FLYING OBJECT
+On 21 August 1948 at Montgomery, Alabama
+by Mr, WILLIAM H. PERRY, Jr.
+CLASSIFICATION CANCELLED
+Detsohment Command BY AUTHORITY OF Y
+Narietta OST Detachmant
+Marietta AFB, Georgia
+KURT K. KUNZE, Capt, USAF,
+Historian
+DATE # DEC 1975
+Reference is made to
+report, subject as above, file 24-185
+(file has been changed to 24-40), dated 2 November 1949, by Special
+Agent CORSON,
+PENDING, ret, no undeveloped leads were cited.
+It was noted that the status of this auxiliary case was
+It was also noted that copies of this report were not marked
+for distribution to the 00, Air Materiel Command, in accordance with
+the provisions of paragraph 3 e (1), APCSI Letter 85, dated 12 August
+1949•
+For your information, necessary corrective action has been
+taken by this office. It is requested that due care be taken by your
+detachment in the future to preclude recurrence of errors of this
+na ture.
+24 40/2
+24-185-8-40
+EUGENE C. "CROPPER"
+It Colonel, USAF
+District Conmender
+FORCE
+THE D
+GENERAL
+UNCLASSIFIED
+JOHN P. McCONNELL, Maj, USAP
+Chief, Investigative Support Section
+Directorate of Special Investigafions
+Declassification Authority: NND 923007

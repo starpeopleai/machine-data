@@ -1,0 +1,16 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T16:55:38Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 21403540, "source_ctime_ns": 1793357234364552606, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1315-497716-0007.tif", "source_mtime_ns": 1785564858000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1315-497716-0007.tif", "source_sha256": "8993d0242baaab42fce73effaf79515b72186502cadd726fb99d5c3bf3732a55"}
+
+===== PAGE 1 =====
+{"alpha_words": 64, "chars": 432, "method": "ocr", "page": 1, "variant": "plain-vision"}
+3. It had a rather lavender color at times, then at times
+crystal white, like the North Star, only much brighter and sometimes
+closer.
+4. It had no sound or any visible trail.
+A/2C Vierra left the scene around 2315 hours. A/1C Smith and
+I sat there about 45 minutes to an hour longer but saw no more.
+I had not been drinking that night.
+FrankleiN Stein
+FRANKLIN D. STEINBERG
+A/2C
+AF 1936230šęŚ
+Declassification Authority: NND 57565

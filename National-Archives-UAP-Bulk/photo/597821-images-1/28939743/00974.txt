@@ -1,0 +1,68 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T16:22:24Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3830130, "source_ctime_ns": 1793371794615291360, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28939743/00974.jpg", "source_mtime_ns": 1785688771000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28939743/00974.jpg", "source_sha256": "5f85528f533167a6320b5b3643783f9789d467f3657f0914a81350164252a835"}
+
+===== PAGE 1 =====
+{"alpha_words": 157, "chars": 997, "method": "ocr", "page": 1, "variant": "plain-vision"}
+MC Form No. 10-:
+(Rov.
+• Ap
+48j
+INSERT
+OFFICE SYMBOL AND
+FULL SIGNATURE IN
+APPROPRIATE BLOCK
+CG, CO OR DEPUTY
+HARI
+ATIAA 2c/EJR/vS
+AIR INSPECTOR
+IN REPLY REFOR TO:
+AFOIE-ATTAA 20
+2 1. MAR 1952
+PUBLIC INF. OFFICE
+COMPTROLLER
+PERSO
+NEL & ADM.
+Labbook, Texas
+Dear He.
+care fil.
+Inolosed are four (4) 35 mn negatives of an unidentified serial
+object that you so graciously loaned to the Air Force for analysis.
+I would like to take this opportunity to thank you for the
+use of the negatives and the cooperation you have given to Air Force
+personnel.
+You have show the utmost interest in the welfare of
+our nation.
+Sincerely yours,
+RESEARCH & DEViỊi
+1 Inol
+35 ma negatives (4)
+IL, KIRKLAND, JR.
+COLOneL, USAF
+Chief, Technical Analysis Divisior
+INTELLIGENCE
+- L ATIAH
+MY MagATI!
+SUP
+PROC. &
+MOB
+•ORGANIZATION AL
+oU
+NOT
+APPLICABLE
+WHEN
+ADDITIONAL
+SPON BLOCK
+NEEDED
+IN
+COORDINA.
+1-20 APR 48
+ORIG. FILE COPIES TO
+RECORDS SEC. AGD
+HQ. BR
+LAB. BR
+INITIALS
+EXTRA
+COPY
+RETAINED
+OFF. SYMBOL
+INITIALS
+FILES COPY

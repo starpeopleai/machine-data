@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:10:31Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8151407, "source_ctime_ns": 1793385082728032840, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28991778/1385.jpg", "source_mtime_ns": 1785748280000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28991778/1385.jpg", "source_sha256": "7f44e73db3b8f7b5d080b21c196958b6e038f8c18ff5e71d434bd9d04175cf52"}
+
+===== PAGE 1 =====
+{"alpha_words": 114, "chars": 900, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AF IN : 41193 (9 Mar 61)
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE DIVISION
+UNCLASSIFIED MESSAG
+INCOMING
+Page 2 of 3
+A(1) PENCIL
+(2) THAT OF STANDARD SIZE CIGARETTE (POSSIBLY SMALLER)
+(3) WHITE - BRIGHTER THAN THE STARE
+(4) 1 (ONE)
+(5) N/A
+(6) NONE
+(7) TRAILING DEBRES - 4 TO 5 SMALL PIECES - THEN OBJECT
+SEPERATED INTO 4 PIECES THEN COMPLETELY DISINTEGRATED
+(8) NONE
+(9) NONE
+B(1) IF LOOKING OUT OF COCKPIT IT COULDN'T BE MISSED
+(2) APPEARED TO BE SLIGHTLY HIGHER THAN OUR ACFT (8,000 FT)
+DEAD A HEAD
+(3) ANGLE OR ELEVATION APPEARED TO BE SAME AS AT TIME OF
+SIGHTING - TRAVELED 15 DEGREES IN AZIMUTH WHEN BURN OUT
+OCCURRED
+(4) OBJECT APPEARED TO BE IN LEVEL FLIGHT
+(5) APPEARED TO DISINTERGRATE
+(6) 5 - 8 SECONFS
+C(1) VISUAL
+(2) NONE
+(3) ETHAN 42; 8,000'; 310 DEGREE MAG; 170 KIND; MCCLELLAN
+D(1) 08/1252Z
+(2) NIGHT
+E(1) 3920N X 13320W
+F(1) PUREZO, JACK S. 1/LT 963RD AEW/C SQ PILOT MATURE 1500 HRS

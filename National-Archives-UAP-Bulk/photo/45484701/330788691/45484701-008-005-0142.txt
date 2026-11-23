@@ -1,0 +1,44 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:09:00Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7244139, "source_ctime_ns": 1793365365634181672, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330788691/45484701-008-005-0142.jpg", "source_mtime_ns": 1785684615000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330788691/45484701-008-005-0142.jpg", "source_sha256": "79ceed0d1f7271739f95da582147de78eb47b67619f7d3e59f7ec4aa09a83db6"}
+
+===== PAGE 1 =====
+{"alpha_words": 312, "chars": 1872, "method": "ocr", "page": 1, "variant": "plain-vision"}
+I Sleek and smooth
+"Mrs. Elizabeth Baker of 3558 Woodlaw drive
+said lit was
+predominantly blue and made no sound.!
+She called the light 'sleek
+and smooth!.
+"Another person, who described the light s 'green or blue',
+added another comment: 'There seemed to be a red, winking light with
+it.'
+"Yellow and blue
+mSgt. I. C. Corn said today he was sitting at the gate to the Kap-
+iolani drive in theater Wednesday night when the flying flame was
+sighted,
+"'It looked like a moon, yellow, then as it cane over, it turned
+a diamond blue with a bit of red in it',
+"At the end of its flight of about five seconds, he said, it
+disintegreted slowly, then went out suddenly. Large chunks broke
+off. He said it was the most tremendous thing he had even seen
+and positively identified it as a meteor.
+ạClarence P. Horimoto, 36, an accountant, said he saw the light
+about 11:05 or 11:10 as he was driving home along Ala Moans.
+"'I was just passing the stoplight at Ft. Amstrong, going toward
+Waikiki, when I happened to see this greenish light. I kept it in
+sight until it reached Kewalo.
+like a rocket. The speed
+of it was too fast for an airplane,
+iThen it just seemed to fizzle of fravalled in a straight line,
+horizontally. It didn't burst at the end, it just went out'.
+"Another police re ort
+iCapt, Andrew Miller, captain of the Hawaiian ordnance depot
+civilian police, reported Friaay night that three of his officers got
+him out of bed Wednesday night to tell him they saw a strange light
+in the sky*
+ẠTheir descriptions were about the same as those reported by the
+Honolulu police and firemen', Capt. Miller said.
+ạHe said the officers saw the light about 11:20 p.m. Wednesday,
+"The calls to the Star-Bulletin were made to corroborate the earlier
+report that three firemen and two policemen had seen a flying flame in
+the sky at that time.
+Declassification Authority: NND 923007

@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T16:21:33Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3406874, "source_ctime_ns": 1793371982267209383, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28940702/0369.jpg", "source_mtime_ns": 1785688714000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28940702/0369.jpg", "source_sha256": "24d1b73b8638e4cc758d3848516bb367874df48d313a2a98d698fae6c7e5195d"}
+
+===== PAGE 1 =====
+{"alpha_words": 192, "chars": 1261, "method": "ocr", "page": 1, "variant": "plain-vision"}
+« T/sItiCavagano
+At aporoximately 1920 hours on 20 January 1952 I was walking from my
+quarters with M/Sgt Aluridus C. Holm and S/Sgt Robert T. Barnes. My attention
+was called by Sergeant Holm to an unidentified object travelling below the
+clouds at approxinately 500 feet.
+The object was moving silently at a terrific rate of speed as compared
+to any jet aircraft I have ever seen.
+It appeared circular in shape and was
+brilliant blue-white in color. I estimate that the object was approximately
+3/4 to 1 mile away, and at the distance from where I stood it appeared to be
+slightly larger than an orange.
+The object left a blue trail which was broken.
+The trail appeared to
+be coming from the object in sourts.
+Height of the clouds was estinated by a beacon light on Fairchild Air
+Force Base. The beacon was projected vertically in a stationary position, the
+flying object travelling parallel to the earth.
+Sergeant Barnes was behind Sergeant Holm and me and did not see the object.
+COMENTS of Preparing Officer:
+Since the NCO making this report is a very reliable individual who holds
+a responsible position within the Wing Intelligence Section, and since the
+sighting was witnessed by another person, this report appears well-founded.
+ATIC # 42749
+1F 404 333

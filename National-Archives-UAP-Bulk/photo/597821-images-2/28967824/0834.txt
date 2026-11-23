@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:04:45Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5543020, "source_ctime_ns": 1793378390523685370, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28967824/0834.jpg", "source_mtime_ns": 1785696809000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28967824/0834.jpg", "source_sha256": "e8c01bc225fb579f28a79f98aea11967f7031ae289d80cba4f87660920fa7e9d"}
+
+===== PAGE 1 =====
+{"alpha_words": 116, "chars": 832, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Muti
+JEDWP H289 WPC251 YMB155 YYC12ENA186
+RR RJEDWP RJEPHQ RJWFHW
+INFOR
+DE RJEDEN 16
+R 041639Z
+FM COMDR 4602ND AISS ENT AFB COLO
+TO RJWFHW/COMDR 34TH AIR DEV DEF KIRTLAND AFB NMEX
+RJEDUP/COMDR AIR TECH INTEL CEN WPAFB OHIO
+07:40
+RJEPHQ/DIR OF INTELLIGENCE HEADQUARTERS USAF WASH DC
+BT
+/UNCLAS/AISOC 2893. THIS IS A UFOB MESSAGE PD
+(1) (A) ROUND (B) PEA (C) RED (D) ONE (E) N/A (F) SEEMED TO HAVE
+TAIL"(G› SAME "ÁS PARA (1› (F› PD (H› NÖNE (I› SAME AS PARA (1)
+A(F) PD (2) (A) LIGHT IN THE SKY (B) WEST OF OBSERVATION POINT AT
+ABOUT TEN THOUSAND FEET (C) DROPPED SLIGHTLY FROM ORIGNAL
+ALTITUDE (D) N TO S --- NO MANEUVERS (E) DISAPPERARED BEHIND HILL
+--- JUCTION OF HIGHWAYS 72 AND 92 PD (F) TWENTY SECONDS PD
+(3) (A) GROUND/VISUAL PD (B) NONE PD (C) N/A PD
+(4) (A) 04/38062 SEP 56 AND 04/0830Z SEP 56 (TWO SIGHTING) PD
+(B) NIGHT PD

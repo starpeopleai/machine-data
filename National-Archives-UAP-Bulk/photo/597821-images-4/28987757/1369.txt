@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T16:48:49Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9071724, "source_ctime_ns": 1793383744956304691, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28987757/1369.jpg", "source_mtime_ns": 1785748068000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28987757/1369.jpg", "source_sha256": "1602acaae928c3142552488af35053d7fa771676d41d57de5bfd93dc67ba00d1"}
+
+===== PAGE 1 =====
+{"alpha_words": 76, "chars": 650, "method": "ocr", "page": 1, "variant": "plain-vision"}
+(2) 6,900
+OSWOD, 10,PPP A QIPK
+PIN WIPE A WWIN
+20,0801 - 220/25, 36,000° - 220/40, 50,202° - 212/25,
+62,0001 - 200/15.
+(3) N/A
+(4) 5Ø MILES
+(5) NONE
+Ho
+(6) NONE
+(7) SURFACE PLUS 25 DEGREES C 10,000 PLUS 5 DEGREES C, 20M - 12
+DEGREES, 30M - 39 DEGREES, 40M -56 DEGREES, 50M -56 DEGREES,
+60M - 57 DEGREES
+BLOWING DANDELION SEEDS APEEAR, AI A DISTANCE, AS LARGE ROUND
+SPHERES AND REFLECT A LARGE AMOUNT OF LIGHT.
+I•
+NO NE
+HEAVY LOW AND HIGH ALTITUDE TRAFFIC AT THE TIME OF SIGHTING,
+HOWEVER, THIS WAS NOT BELIEVED TO BE AN A/C. NO KNOWN BALLOON
+TRAFFIC •
+Ko
+E. G. SMITH, CAPTAIN USAF, ASST OPS OFFICER 337TH FIR GP.
+L. NONE.
+BT
+15/203Z JUL RJWZKPH
+NANN

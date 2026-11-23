@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T16:46:25Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 29393044, "source_ctime_ns": 1793357017921456631, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1213-481193-0005.tif", "source_mtime_ns": 1785564811000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1213-481193-0005.tif", "source_sha256": "0b7c81f4fcd42e0e29fd16887083a11a3b7d0bb81b76382529e0f6a3af69e92e"}
+
+===== PAGE 1 =====
+{"alpha_words": 25, "chars": 187, "method": "ocr", "page": 1, "variant": "clean-vision"}
+1Я ИОТАМЯО:
+sni
+tori
+ofos ni
+cit otai
+solicfs
+Be legio
+1081 131/48
+ISn OH
+INI/HIC
+ESCL97OT
+(6008
+-oe 00.
+WAJ Ya GOTISI
+ЧО ЯОТОЗЯ С ЗНЕ:
+GNY S M
+1821
+sado
+emaa
+reite
++о00s
+SE OVA T6
+ДЕТИІ

@@ -1,0 +1,19 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T16:27:42Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5576898, "source_ctime_ns": 1793381418398790334, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28980180/00274.jpg", "source_mtime_ns": 1785700894000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28980180/00274.jpg", "source_sha256": "74437647f657d8e78f7dd05aa0f97f46eb6e7176950a5b43e8f217a0d1d68a4c"}
+
+===== PAGE 1 =====
+{"alpha_words": 35, "chars": 241, "method": "ocr", "page": 1, "variant": "contrast-vision"}
+REPORT (TELEPHONE)
+NIARTINSTURG
+- WEST. VA
+SIEHTING 29 SErT ASE
+0432
+TWO BRICHT LIGHTS - CERS ED
+AIRPORT
+SE TO NW
+NO. NOISE.
+OBJECT SPLIT INTO I GIANTE
+ANO DISAPPEMRED .
+OBJECT WAS
+- MOVINE PIORICONTAL
+AT APPROX 500'
+SAME AS DC. E PITTSBURG

@@ -1,0 +1,44 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T16:49:42Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9551838, "source_ctime_ns": 1793362140783613220, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330782241/45484701-002-003-0105.jpg", "source_mtime_ns": 1785684716000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330782241/45484701-002-003-0105.jpg", "source_sha256": "efe38740d4d504b1ae61b8a32eff276244b7ada316cccbc29333dc60326f873e"}
+
+===== PAGE 1 =====
+{"alpha_words": 159, "chars": 1104, "method": "ocr", "page": 1, "variant": "plain-vision"}
+19D OSI 24-28
+DETAILS (cont'd)
+4. (cont'd)
+fishing boat for eight (8) years.
+Records of his boat log
+showed that on 1 August 1949, the following list of people
+had made a fishing trip outside the Golden Gate:
+Captain ROY OLIVER NEELY
+EDWARD W. GURBAND
+Reverend CURTIS DANIELS, 825 - 35th Avenue,
+Oakland, California
+Mr. HYNES
+Mr. MARTIN
+There were no addresses given for HYNES or MARTIN, and these
+names were unfamiliar to Mr. VEST, Captain NELl and Mr.
+GURBAND. Mr. VEST described GURBAND as being rather excit-
+able and as having a tendency to exaggerate.
+Nothing deroga-
+tory was known of Mr. GURBAND and he was also described as
+being esther easy going
+Captain NEELY was described
+with no tendency to exaggerate
+or to become excited.
+On 6 September 1949, the Winds Aloft Report from
+the Oakland Air Port, on 1 August 1949, at 1300 hours, PST,
+was as follows:
+Altitude
+Direction
+Speed
+10 knots
+4000 ft
+6000 "
+8000
+10000
+12000
+14000ẠỊi
+16000 #
+Weather report from Alcatraz Island, on 1 August 1949, at
+1630 hours, PST, showed a visibility of 10 miles, clear sky,
+Declassification Authority: NND 923007

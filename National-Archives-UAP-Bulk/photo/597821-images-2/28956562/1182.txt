@@ -1,0 +1,47 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T16:23:25Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4103433, "source_ctime_ns": 1793375502427986480, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28956562/1182.jpg", "source_mtime_ns": 1785696801000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28956562/1182.jpg", "source_sha256": "3b48246c35d8c233bdccf70c3040c791d58e0d64e03985bb6b0ce92666c1c6f4"}
+
+===== PAGE 1 =====
+{"alpha_words": 416, "chars": 2551, "method": "ocr", "page": 1, "variant": "plain-vision"}
+October 21, 1953
+Report to: Air Intelligence Service Squadron, Flight 2A
+SIGHTING OF UNIDENTIFIED OBJECT
+The sighting described below took place during the theodolite tracking of a
+79 ft. balloon floating at approximately 80,000 ft. on Project 85021 -
+Grab Bag. Observation was made from the roof at 2003 East Hennapin Avenua.
+The time was between 1010 and 1015 CST on 15 Oct. 53. No sound was detected
+at any tine during the observation.
+The object was first observed as it passed below the sun at an elevation of
+approximately 25° heading southward in horizontal flight. It wes detectable
+by a smoke or vapor trail which extended some distance behind it, but which
+did not persist, or form a cloud. The object itself was not visible even
+During the horizontal part of its trajectory, the object moved across the
+sky at a rate of 10 degrees in 9 seconds. With an estimated altitude of
+40,000 ft., this represents 15 niles per minute or 900 miles per hour.
+After about 10 seconds of horizontal flight, the object appeared to go into
+a vertical dive. The possibility that the appearance of a dive was producad
+by the object merely receding into the distance seems unlikely since the
+speed normal to the line of sight was undiminished in the dive. The dive
+lasted for from 10 to 15 seconds at the end of which time the object was
+visible two or three times as it appeared to glow or reflect the light of
+the sun for perhaps a second at a time. Just at this time the vapor trail
+ceased, and for a second or two thereafter the object, its outlines still
+unrecognizable, was seen through the theodolite, not as a glare of (rorlected!)
+light, but as a grey mass in the act of levelling off. Its size in the
+theodolite field was of the same magnitude as the 79 ft. balloon, which means
+that, since it was nearer, it would not be that large.
+The observers believe that the object was most likely a jet aircraft, but
+several features were unusual.
+1. The speed was higher than normally observed.
+2.
+The vertical dive was a highly dangerous if not suicidal maneuver.
+A jet aircraft in such a dive would be heard for miles, and would
+certainly cause a noticeable shock wave detectable in the area
+baneath it.
+Vapor trails do not ordinarily occur during vertical notion (per
+Col. Shono), though smoke trails could, of course.
+It was thought that the Air Defense Command would be interested in what was
+seen, if
+b.
+They had no aircraft in the vicinity which could account for it, or if
+They had an aircraft accident which might be partly explained by
+this report.

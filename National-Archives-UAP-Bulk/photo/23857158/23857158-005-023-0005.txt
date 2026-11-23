@@ -1,0 +1,17 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T16:22:36Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3876978, "source_ctime_ns": 1793359063505075457, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-005-023-0005.tif", "source_mtime_ns": 1785681307000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-005-023-0005.tif", "source_sha256": "7fb7b17795b501f0504ad35d50840ffaf7158943071264950b81eb7eea7c6dba"}
+
+===== PAGE 1 =====
+{"alpha_words": 52, "chars": 351, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+DE RJEDEN 001P
+po. 23/0500 Z
+FR
+COMDR 4602D AISS ENT AFB COLO
+TO
+HEDUSAF WASHINGTON 25 D C
+/UNCLASSIFIED/ AISOP 560 PD ATTN AFOIN PD REF UR MSG AFOIN 43782 CMM
+DTO 23/0341 Z CMM SOURCE WIM
+OM PD REQ THAT YOU FURNISH
+ADDRESS OF SOURCE CMM AND OTHER INFO REQUIRED BY PAR 7 CMM AFR
+220-2 PD END
+23/0512 Z JUN RJEDEN

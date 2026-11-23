@@ -1,0 +1,53 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T16:48:00Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8774791, "source_ctime_ns": 1793385906371277021, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28994365/0790.jpg", "source_mtime_ns": 1785747966000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28994365/0790.jpg", "source_sha256": "54bbea3914c2310ad95bf94ce01341f3180d92dd3a309921fb23c46f0610c699"}
+
+===== PAGE 1 =====
+{"alpha_words": 182, "chars": 1358, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AERONAUTICAL SYSTEMS DIVISION
+WRIGHT-PATTE
+ERSON AIR FORCE BASE, OHIO
+ASRCP 62-4
+6771
+PHYSICS
+EVALUATION REPORT
+Operatfon Midwing
+DATE: 7 February 1962
+TYPE EVALUATION:
+SPEC NR:
+• ITEM SERIAL NR:
+LABORATORY
+FTD- E
+• ASYIM
+Capt:
+I.
+PURPOSE
+To determine the composition of the sample submitted for analysis
+and its origin if possible.
+II. FACTUAL DATA
+1. 'The sample submitted for analysis was assigned Materials Physics
+serial number 9237.
+2. Microscopic examination showed the presence of finely divided
+metal-like particles.
+3. Analysis of different portions of the sample by emission spectroscopic
+methods showed the presence of the following elements:
+a. Principal
+5. Мілогз.
+aluminu
+magnesium, caleium, silicon..
+c. Traces
+manganese,
+lead, copper, and titanim.
+Analysis by I-ray methods showed the presence of Al203*3E20.
+: This
+material has a bayerite crystalline structure,
+5.
+Analysis by mass spectronetric methods using a double focus Mattauoh
+Herzog mass spectrometer showed that the netal-like particles were
+high purity alumimm.
+6.
+Analysis of different portions of the sample by infrared spectro-
+photometric methods showed that the organic material was composed
+of polyisobutyl nethacrylate.
+THIS REPORT IS NOT TO BE USED IN WHOLE OR IN PART FOR ADVERTISING OR SALES PROMOTION PURPOSES
+ASD FORM
+JUN 61 64
+REPLACES WADD FORM 64 WHICH IS OBSOLETE

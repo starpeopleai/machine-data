@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T16:22:35Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3852706, "source_ctime_ns": 1793373570350930982, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28947604/1376.jpg", "source_mtime_ns": 1785688626000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28947604/1376.jpg", "source_sha256": "d14c0fc909c4029b5050c063027dca797b36a4e8701803593a81a1b8a2276e22"}
+
+===== PAGE 1 =====
+{"alpha_words": 134, "chars": 820, "method": "ocr", "page": 1, "variant": "plain-vision"}
+ACTION
+A7194
+ATIA
+C. Felo
+11 41 .
+· ,
+3.
+UNCLASSIFIED
+ACTIONIN
+FOR INFOR.
+JEDKF C1
+105002 200
+CO 35TH AgIV DEF DO
+INS AFE MARIETTA GA
+TEPHQ/DIR OF INTEL HO USAF WASH D C
+MP/AIR TECH INTEL CENT WRIGHT PATTERSON AFG OHIO ATTN:LTIAAF2C
+EN/CG ADC CHT WASB C
+FLYOERPI / 0&TT 1046 MR
+N.Z.
+ATLANTA CA
+CALLED TO REPORT OF AN UNUSAL
+G OBJECT PD MR HARSHORN CMA A MECHANICAL ENGINEER AT LOCKHEED.
+GRAFT CORP REPORTED THE FOLLOWING CLN NOTICED TWO LIGHTS CHA A
+D LEADING LIGHT AND A TRAILING WHITE LIGHT PD THE WHITE LIGHT
+AS VERY BRIGHT AND WAS 300 TO 400 FEET BEHIND THE RED LIGHT PD
+TITUDE 1522 TO 2002 FEET PD OBSERVER CLAIMS THAT ENGINES WERE
+ARD DASH SOUNDED LIKE A BLIMP DASH BUT LENGTH VERY UNUSUAL PD
+SERVED FOR FIVE MINUTES PD THE RED LEADING LICHT NEVER WAS
+LOTTED OUT BY THE TRAILING WHITE LIGHT DURING FIVE MINUTES OF

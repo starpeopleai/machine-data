@@ -1,0 +1,24 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T16:20:48Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1774568, "source_ctime_ns": 1793389342166774393, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302539405/01338.jp2", "source_mtime_ns": 1785808338000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302539405/01338.jp2", "source_sha256": "e7675b1a729a48f164cedbb4872a3b8bab421fa93c6043e73c35eb205ea5b77b"}
+
+===== PAGE 1 =====
+{"alpha_words": 88, "chars": 556, "method": "ocr", "page": 1, "variant": "plain-vision"}
+EMBASSY OF THE UNITED STATES OF AMERICA
+OFFICE OF THE NAVAL ATTACHÉ
+PRETORIA
+IN REPLY REFER TO
+30 July 1965
+From: CDR LEWEY
+To:
+COL LACKENS
+Subj: Unidentified Object, report of
+Encl: (1) Copy of signed statement of m.v. "R.S.A."
+1.
+Enclosure (1) was given to me as a copy of a signed
+statement of the Captain and First Officers of the R. S. A.
+I don't know if you have a use for these but at one time the
+Air Force did have a program on them so I'm forwarding
+enclosure (1) for you to determine its usefulness.
+Very respectfully,
+waklanny
+W. E. DEWEY
+AtL!

@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:04:52Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5634247, "source_ctime_ns": 1793363392383722407, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785085/45484701-005-003-0169.jpg", "source_mtime_ns": 1785684919000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785085/45484701-005-003-0169.jpg", "source_sha256": "5b590a2e3a30d27eb0acff6efe316c69939afaf9da73496759dcf7054c8a9d53"}
+
+===== PAGE 1 =====
+{"alpha_words": 79, "chars": 594, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Date : Mar. 9, 1950 (thursday)
+Place: Near Garley, Ala, Approx, 20 mi, from Huntsuitle
+Time: Approximately 5 P.M.
+Camera aimed toward east and tilted about 30°
+upward toward sley and top of Mountans.
+Object travelled distance Shown
+picture in approximatel
+Three -
+minutes. Seemed to climb verTaull
+approximatel le or 2 mountes - Disufferrel
+after about 3 minutes, into the distance (Northwes
+4XS BEJ PRESS CAMERA
+Super Xx film
+Optar $ 4.7 - 135 MM
+100
+1aer : 32
+(No filter)
+TRAVELED
+FROM
+without going all the way to
+Horizo
+85802
+Proto
+927
+Vashvil
+Gerald
+Declassification Authority: NND 923007

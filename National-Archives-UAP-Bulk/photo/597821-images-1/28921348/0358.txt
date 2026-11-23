@@ -1,0 +1,53 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T16:26:38Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5185958, "source_ctime_ns": 1793368608591292783, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28921348/0358.jpg", "source_mtime_ns": 1785688707000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28921348/0358.jpg", "source_sha256": "e1f2d14f25a2140c28996a9d7a4b7e23662f207cd0c21cab1056f0f6b77c007a"}
+
+===== PAGE 1 =====
+{"alpha_words": 86, "chars": 747, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DATE
+Aug
+98356
+18-27
+18
+19
+19
+19
+LOCATION
+Portsmouth, Virginia
+Littleover, England
+Koker, England
+Lawton, England
+SE Ohio
+Mexico City, Mexico
+Belleville, Pennsylvania
+Mt Airy, North Carolina
+England
+Mexico City, Mexico
+Portsmouth, Virginia
+Farmingham, Massachusetts
+Ireland
+Johannesburg, South Africa
+Barrow-in-Furness, England
+South Africa
+17 - 24 AUGUST 1965 SIGHTINGS
+ADDITIONAL REPORTED SIGHTINGS (NOT CASES)
+SOURCE
+Saucer News
+Flying Saucer Review
+Flying Saucer Review
+Cochran (Itr)
+Newsclipping
+Newsclipping
+Newsclipping
+Newsclipping & Saucer News
+Flying Saucer Review
+Saucer News
+Saucer News
+UFO International
+Flying Saucer Review
+Newsclipping
+Flying Saucer Review
+Newsclipping
+EVALUATION
+19
+MARShALL Ce., S.D. (PhOTos)
+DURLANO
+DuST DeviLs

@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T16:23:12Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4032091, "source_ctime_ns": 1793370908333844623, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28935766/0138.jpg", "source_mtime_ns": 1785688660000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28935766/0138.jpg", "source_sha256": "269f7434f84b250392e048ff75bb8a4cf6f156b51e31e9028963d654cf5d1ea8"}
+
+===== PAGE 1 =====
+{"alpha_words": 98, "chars": 675, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DA
+HE GROUP
+5 312 49 06/02. 2
+2. soURCE
+Civilian
+%. NUNDER OF OOJECTS
+2. LOCATION
+10. CONCLUSION
+PROJECT 10073 RECORD
+Joise, -ano
+BATICON
+# OSSERVATION
+25 23
+0. TYPE OF ODSERVATION
+020 und-Visual
+7. COURSE
+Southrost
+O. PHOTOS
+• Yea
+No
+PHYSICAL EVIDENCE
+• Yoa
+- No
+FORM
+FTD SEP 6S 0-327 (TDE) Prorious aditione
+of thi
+11. BRIEF SUMMARY AND ANALYSIS
+object was a brilliant silver color, round, traveling at
+Great speeds, appeared to be quite high, monuevered in
+steauy loops and tums and at times appecred to emitt
+occasional puffs of smoke or vapor of a greyish color.
+Sun had just set.
+Could have been an upper air research
+balloon still in the sun's light.
+ora may be used.

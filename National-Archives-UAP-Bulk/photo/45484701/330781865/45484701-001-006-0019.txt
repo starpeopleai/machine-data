@@ -1,0 +1,37 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T16:30:50Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6514745, "source_ctime_ns": 1793361937547133651, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330781865/45484701-001-006-0019.jpg", "source_mtime_ns": 1785685161000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330781865/45484701-001-006-0019.jpg", "source_sha256": "bcfcb0f37c2cc71cd900eb8a620a9e6b080926911a58dd54804d2030655db558"}
+
+===== PAGE 1 =====
+{"alpha_words": 93, "chars": 689, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Page 2
+Resential Alements of Info
+9 CONFIDENTIAL O
+Projoes "$1gn"
+De Tooties or mansuvers:
+Be Very little movement if any noticed
+10, lividence of exhaust:
+So evidence of exhaust noticed
+11e Effect of cloude:
+Do clouds
+18e Lighter
+Sighted in Daylight
+186 Support:
+de Rotating cylinder
+16e Propulaion:
+Not determined
+15e Air ducter
+Not deterained
+160 Control and stability:
+not determined
+AVe Spood - NePalla
+Be
+Stationary at bine sighted
+18s Sounds
+No sound determined at time of sighting.
+19% Manner of disapponrance:
+Be Still in view when I left
+Relativ
+1e As Ruble ANGIER
+2. 2020 Proctor Street, Hago, Texas
+8, Neon Sigh manufacturer
+Own employer
+Declassification Authority: NND 923007

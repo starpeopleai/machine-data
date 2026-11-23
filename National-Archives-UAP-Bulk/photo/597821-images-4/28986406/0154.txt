@@ -1,0 +1,55 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T16:38:54Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8784405, "source_ctime_ns": 1793383141880836028, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28986406/0154.jpg", "source_mtime_ns": 1785748406000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28986406/0154.jpg", "source_sha256": "2ae35def579c2456074b4fcd5b47d64645cdf80f4e5db85bc146e755f1e8b0bb"}
+
+===== PAGE 1 =====
+{"alpha_words": 133, "chars": 1001, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+- April, 1960
+3. DATE-TIME CROUP
+Local _
+GMT 06/0130-0200
+5. PHOTOS
+• Yes
+DiNo
+7. LENGTH OF OBSERVATION
+10-15 seconds
+10. BRIEF SUMMARY OF SIGHTING
+fellow-red light, approximately a foot in
+lameter and two feet long passed in front
+of auto, coming fron behind a group of
+trees and disappearing behind a hill. The
+object seemed to be about 300 ft above the
+ground and traveled at a slow rate of speed,
+PROJECT 10073 kECORD CARD
+2. LOCATION
+2 mi W of Loogootee, Indiana
+4. TYPE OF OBSERVATION
+C Ground-Visual
+D Ground-Roder
+• Air Visual
+D Air-Intercept Roder
+%. SOURCE
+Civilian
+8. NUMBER OF OBJECTS
+9. COURSE
+une
+12. CONCLUSIONS
+Wes Balloon
+Prabably Balloon
+Possibly Balioon
+D
+Was Aiscraft
+Probobly Aircroft
+Possibly Aircroit
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other
+Insufficient Data for Evaluati
+Unknown
+South
+11. COMMENTS
+Due to lack of aduitional witnesses
+and the incompleteness of the data
+this case is listed as insufricient
+data e
+ATIC PORN 329 (REV 26 SEP 52)

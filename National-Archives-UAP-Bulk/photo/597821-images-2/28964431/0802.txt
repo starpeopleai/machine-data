@@ -1,0 +1,19 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T16:21:13Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 2021536, "source_ctime_ns": 1793377583468570107, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28964431/0802.jpg", "source_mtime_ns": 1785696638000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28964431/0802.jpg", "source_sha256": "92ad8f27c4b25e0c6aee96d6eaa38713dd515e3b6402b6d1cc9244f59f8891f6"}
+
+===== PAGE 1 =====
+{"alpha_words": 84, "chars": 531, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PAGE FOUR RJEPSN 35
+i1. A. UNK PD
+12. A. OIC CMM FLT 3-D 462D AISS PD MR
+SERVED AS A STEWARD IN
+MERCHANT MARINES IN 1943-44 CMM FLD ARTY AND MEDICS IN ARMY
+1945-47 AND HOLDS A PRIVATE STUDENT FLYING LICENCE PD MR
+ATTENDED SYRACUSE UNIV AND MRS
+• IS A COLLAGE GRADUATE PD
+MISS
+S
+IS EMPLOYED AS A DIETICIAN AT V A HOSPITAL PD DUE
+TO LUMINOUS COLOR AND COLOR CHANGE TO RED CMM OBJECT COULD HAVE
+EEEN A METEOR SIGHTED FOR UNUSUAL LGTH OF TIME OR FIREBALL PD
+SIGHTING GENERALLY FOLLOWS DESCRIKPTION OF METEOR PD END
+28/2203Z DEC RJEPSN

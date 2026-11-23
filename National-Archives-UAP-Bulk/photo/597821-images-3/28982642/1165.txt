@@ -1,0 +1,55 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T16:36:51Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7478929, "source_ctime_ns": 1793382159397493203, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28982642/1165.jpg", "source_mtime_ns": 1785701027000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28982642/1165.jpg", "source_sha256": "89d711bcd200ae62c3054fe09c3fb4dc8c72aafb082305bce85232e507ea6212"}
+
+===== PAGE 1 =====
+{"alpha_words": 188, "chars": 1128, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Page six
+30. Do you think you con estimete the speed of the object?
+PAA
+of TiniE
+QB75075
+(Circle one)
+Yes
+NOAPPSARED NEAR MINE (96 MASH)
+If you answered YIs, then what speed would you estinate?
+MPH.
+HER
+Timis
+SESmER MUCH FASTER
+31. Do you think you can estimate how far away fron you the object was?
+(Circle one)
+No
+If you answered YES, then how far asay would you say it was?
+feet.
+32. Try to estinate the nunber of degrees the object was from true North (Azimith).
+32.1 When it first appeared: .
+340
+degrees.
+32.2 When it disappeared:
+0D 10
+232
+DISADDEAR
+_degrees.
+OSTL
+ABORTED
+THE CHASE.
+33. If there wes more than one object, then how many were there?
+Draw a picture of how they were arranged, and put an arrow to show the
+direction that they were traveling.
+340
+How large did the object or objects appear as compared with one of the
+following objects held in the hand and at arm's length?
+(Circle one)
+Head of a pin
+Pea
+Dime
+d. Nickel
+1. Grapefruit
+Basketball
+h.
+Baseball
+35. Circle one of the following to indicate how certain you are of your answer
+to Question 34.
+Certain
+b. Fairly certain
+c. Not very sure
+d. Uncertain

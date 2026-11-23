@@ -1,0 +1,18 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T16:32:09Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7183522, "source_ctime_ns": 1793363080056573365, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330784412/45484701-004-004-0112.jpg", "source_mtime_ns": 1785684806000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330784412/45484701-004-004-0112.jpg", "source_sha256": "d101d868017b87a93e64827539601512b3341d9cf15528ceb13900bd3da2f773"}
+
+===== PAGE 1 =====
+{"alpha_words": 84, "chars": 628, "method": "ocr", "page": 1, "variant": "plain-vision"}
+- SECURITY INFORMATION
+No. 4 conduct a personal interview of Mr. Stewart and possibly Tyler and
+others who might have been determined as having witnessed the alleged
+object, Colonel Collins was also requested to conduct a local agency check
+of Mr. Stewart and obtain sufficient background information to enable an
+evaluation of Stewart's credibility.
+6. Colonel Collins advised that a complete report reflecting
+DO 4's inquiry would be hand carried to the undersigned by mid-afternoon
+12 May 1952.
+LUCIUS L. FREE
+Lt. Colonel, U.S, Air Force
+Sabotage and Espionage Br.
+SECURITY INFORMATION
+Declassification Authority: NND 923007

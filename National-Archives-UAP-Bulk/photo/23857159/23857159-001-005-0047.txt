@@ -1,0 +1,58 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T16:45:01Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 19936992, "source_ctime_ns": 1793361358470293078, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-005-0047.tif", "source_mtime_ns": 1785565323000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-005-0047.tif", "source_sha256": "dbd1abd8ebd117a78fe9e2045159332f893e6b5303e5f07a3463034323c14361"}
+
+===== PAGE 1 =====
+{"alpha_words": 254, "chars": 1964, "method": "ocr", "page": 1, "variant": "plain-vision"}
+CLASSIFICATION
+UNCLASSIFIED
+(SECURITY INFORMATION when filled in)
+ORIGINATING AGENCY
+DCS/1, Hq 13th AF
+SUPPLEMENT TO AF FORM 112
+REPORT NO.
+1264502
+PAGE 3
+OF
+PAGES
+d. Time and Date of Sighting:
+(1) 04/1325Z.
+(2) Night.
+e. Location of Observer (s):
+Naval Radio Relay Facilities Transmitter Station, Bago Bontay, Quezon
+City, P.I.
+f. Identifying Information on Observer (s):
+(1) N/A.
+(2) Lt Charles H. Pogson, 402025, USN.
+CPO Kirby J. Moore, 3566319, USN.
+g. Weather and Winds - Aloft Conditions at Time and Place of Sightings:
+(1) Clear sky, stars visable.
+(2) Cubi winds aloft at 1200Z 1,000 ft 160/24 2,000 ft 150/7.
+(3) Sangley Point 1300Z 800 ft scattered, 200 ft broken, 4,500 ft over-
+cast, 8 mile visability with rainshowers. Winds south at 2 kts.
+Sangley Point 1350Z 2,000 ft scattered, 4,500 ft scattered, 8,000
+ft overcast, 8 mile visability. Winds south at 4 kts.
+(4) 8 miles.
+(5) 800 ft scattered, 2,000 ft broken, 4,500 ft overcast (1300Z).
+(6) No thundershowers or lightning in area and no temperature inversion.
+h. Other Unusual Activity or Condition:
+None .
+i. Interception or Identification Action Taken:
+None.
+j. Location of any Air Traffic in Area:
+There were no aircraft reported in the vicinity of the sighting during the
+period when the object was in view.
+WARNING: This document contains information affecting the national defense of the United States within the meaning of the
+Espionage Laws, Title 18, U.S. C., Sections 793 and 794.
+Its transmission or the revelation of its contents in any manner to an
+unauthorized person is prohibited by law. It may not be reproduced in whole or in part, by other than United States Air Force
+Agencies, except by permission of the Director of Intelligence, USAF
+FORM
+АГ І ост 52 112а
+DECLASSIFIED
+Authority NND 9237007
+REPLACES AF FORM 112-PART II, 1 JUN 48,
+CLASSIFICATION
+WHICH MAY BE USED.
+UNCLASSIFIED
+(SECURITY INFORMATION when filled in)
+. S. GOVERNMENT PRINTING OFFICE: 1956-0-387562
+16-68470-1

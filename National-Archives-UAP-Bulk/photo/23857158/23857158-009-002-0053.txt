@@ -1,0 +1,19 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T16:21:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1834346, "source_ctime_ns": 1793359534662285672, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-009-002-0053.tif", "source_mtime_ns": 1785681443000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-009-002-0053.tif", "source_sha256": "b5cb8ff5bb1851ccf5791033bfff6564583194ca29b4d78701c65ffa2bc9008f"}
+
+===== PAGE 1 =====
+{"alpha_words": 81, "chars": 597, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+At 7:55 this morning Colonel McLann called Major Jones and inquired
+about the Pueblo UFOBs. Major Jones said you would call back and pass
+info:
+Our score for last night was 2 meteors, 2 birds & 2 bats.
+Preliminary evaluations are as follows:
+1 May sighting - probably meteor
+2 May sighting - possibly birds
+3 May sighting - possibly meteors
+5 May sighting - possibly aircraft
+6 May sighting - no evaluation, more reports forthcoming
+8 May sighting - probably meteor
+A sighting on 9 May in Colorado Springs has been evaluated - was
+astronomical.
+Lt. Alexander

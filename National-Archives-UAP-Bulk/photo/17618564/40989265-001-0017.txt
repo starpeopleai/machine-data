@@ -1,0 +1,120 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:16:15Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 12385540, "source_ctime_ns": 1793355317540502201, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989265-001-0017.jpg", "source_mtime_ns": 1785564434000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989265-001-0017.jpg", "source_sha256": "e03e682c32f06a114321fc284277fbdbfd13749aa4bd08adcecb65777b2ae042"}
+
+===== PAGE 1 =====
+{"alpha_words": 662, "chars": 4669, "method": "ocr", "page": 1, "variant": "plain-vision"}
+and Thomas Haig of the Air Force Cam-
+bridge Research Laboratories (AFCRL) pro-
+posed the GHOST concept based on new de-
+velopments in electronics and materials
+technology. By 1961 NCAR had become the
+institution for the development of GHOST
+under Lally's direction. (In 1962, AFCRL
+set a flight duration record using a Mylar
+super-pressure sphere which stayed aloft for
+30 days.)
+The GHOST plan was to float several
+thousand super-pressure balloons in the at-
+mosphere at any one time; grouping them at
+constant density levels. Dropouts would be
+continuously replaced. Eighty-eight bal-
+loons were sent up the first year starting in
+March 1966. Each super-pressure balloon
+was provided with a sensing device and
+transmitting system for gathering infor-
+mation on its position and other data. Bal-
+loon transmissions were transmitted to a
+NASA Nimbus-4 meteorological satellite,
+which in turn relayed them to ground sta-
+tions. About this time Winzen Research was
+making great strides to keep up with the de-
+mands for higher float altitudes, by develop-
+ing 30-47-million-cubic-foot polyethylene
+balloons. Also, Raven Industries was manu-
+facturing large Mylar super-pressure
+spheres having higher load-carrying capabi-
+lities. One of these spheres launched by the
+NSBF carried 150 pounds twice around the
+world over a period of 36 days, at an altitude
+of 80,000 feet, in the southern hemisphere,
+during March 1973. Payloads of up to 5,000
+pounds have since become part of routine
+launchings. (By
+1974, an international
+balloon network of super-pressures circling
+the globe was commonplace.)
+During the first 8 years of the GHOST
+program some 60 super-pressure balloons
+were produced, with diameters ranging from
+30 to 71 feet, lifting 230 pounds, reaching al-
+titudes of as high as 108,000 feet and stay-
+ing aloft as long as 261 days.
+The planned profile of the first, earth-
+circling super-pressure
+balloon
+launched
+with a scientific payload looked like this.
+GODDARD
+SPACE FLIGHT
+CENTER
+NASA and NCAR were conducting experiments in 1970 to get the location, pressure and temperature measurements at high
+altitudes using high-flying balloons by way of NASA's Nimbus-4 meteorological satellite. The balloons floated around the world
+at altitudes between 68.000 and 79.000 feet transmitting to Nimbus-4. Each balloon carried instruments called the Balloon
+Interrogation Package (BIP) while Nimbus-4 had a counterpart package called the Interrogation Recording and Location Sys-
+tem (IRLS) which passed the data to earth.
+(NASA Photo)
+• 64-foot diameter sphere
+• 137,300-cubic-foot volume
+• Weight: 200 pounds
+• Bilaminated polyester (0.002 inches)
+• Designed to float 150 pounds of pay-
+load at 78,000 feet with a minimum
+altitude of 60,000 feet
+• Launched at Oakey Air Field, Queens-
+land, Australia
+• Balloon floated at a constant-density
+altitude, moving in an east-to-west
+directional path... Australia-
+Southern Africa-South America-
+Australia... with an 18-day orbit
+running from January 24 to March
+1, 1973
+This balloon was launched just as
+described earlier, by utilizing a tow balloon
+to support the ballast. It made two orbits of
+the earth instead of one and on its way it
+conducted experiments studying cosmic
+rays and the effect of radiation on corn
+seedlings and other vegetatation; it also col-
+lected micrometeorites.
+Future plans call for a non-laminated
+130,000 feet, using a 300-foot diameter
+balloon.
+In between May 27th and July 8th of
+1970, 13 balloons were launched from the
+Ascension Islands to float around the world
+at altitudes from 68,999 to 79,000 feet. Each
+of these GHOST series balloons carried 10
+pounds of instruments known as a BIP, or
+Crews at NCAR's National Scientific Balloon Facility
+launched about 50 of these giant balloons each year for
+research scientists from around the world. This stratospheric
+research balloon was being launched from NCAR's National
+Scientific Balloon Facility (NSBF) at Palestine, Texas.
+(NSBF Photo)
+Balloon Interrogation Package.
+High above, aboard the Nimbus-4 satel-
+lite, was a counterpart package called the
+Interrogation Recording and Location Sys-
+tem (IRLS) which kept track of all the bal-
+loons. Programmed to activate every time it
+was in the transmitting area of one of the
+Payload includes large sheets of photographic emulsion to be
+exposed by passage of cosmic-ray particles; a ballast hopper;
+telemetry; radio controls; and impact-absorbing crash pads
+(four boxes).
+(National Scientific Balloon Facility)
+31
+Payload is supported by a crane. Loadline, parachute and
+uninflated portion extend behind. A small "bubble" is in-
+flated with helium which expands during ascent.
+(NSBA Photo)

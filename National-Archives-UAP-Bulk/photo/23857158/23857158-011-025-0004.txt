@@ -1,0 +1,45 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T16:38:45Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8752094, "source_ctime_ns": 1793359896979935504, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-011-025-0004.tif", "source_mtime_ns": 1785681558000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-011-025-0004.tif", "source_sha256": "04050f604e9bf61e3d69a99045a812872438ae5810f1c97b399eca14650d4402"}
+
+===== PAGE 1 =====
+{"alpha_words": 121, "chars": 811, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+ADM
+111647=
+JN1 10 1850
+CB
+EN0004 ENA018FJA014
+RR RUDDEN
+DE RJEDF J 121C
+R 102230Z
+FM OIC FLT 3C 46Ø2D AISS SELFRIDGE AFB MICH
+TO
+COMDR 46Ø2D AISS ENT AFB COLORADO
+ВТ.
+/UN CLASS IF I E D/ AIS3C 204 PD REURMSG AISOP 0010 PD GENERAL
+MILLS INC IS LOCATED IN MINNEAPOLIS CMM MINNESOTA CMM NOT BATTLE CREEK
+CMM MICHIGAN PD OIC THIS UNIT CALLED GENERAL MILLS IN MINNEAPOLIS PD
+INFO RECEIVED CANNOT BE CORRELATED WITH BLN HYPOTHESIS PD OTHER ORGANI
+ZATIONS RELEASING BLNS ARE UNIV OF MINN AND WINDS AND RESEARCH CORP, CM
+BOTH OF MINNEAPOLIS PD. SUGGEST FLI 2A CONTACT THESE ORGANIZATIONS
+FOR POSSIBLE CORRELATION PD END.
+Вт
+10/2345Z JAN RJEDFJ
+AISCR
+AISDC
+AISAJ
+AISAD
+AISPR 1
+AISDO!
+AISOP
+AISOC
+AISFO
+AISIR
+AISCM
+AISOU
+AISMS
+AISUP
+1/SGT
+O • CLK
+DEiS
+FUTS.
+ROGER FOR YOUR NUMBER 4

@@ -1,0 +1,77 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:12:08Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8822503, "source_ctime_ns": 1793363594573649271, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785674/45484701-005-006-0018.jpg", "source_mtime_ns": 1785684933000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785674/45484701-005-006-0018.jpg", "source_sha256": "137969023f4f4b89daed8c2236fdaa341dcf74440eafc3f79de71e32f4072ee1"}
+
+===== PAGE 1 =====
+{"alpha_words": 337, "chars": 2332, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Dir OSI
+LIAL
+28.9
+CLASSIFICATION CANCELLED 22
+BY AUTHORITY OF THE DIRECFOR OF SPEC INV
+BY
+KURT K. KUNZE, Capt, USAF
+Historian
+DATE
+4 DEC 1975
+The Inpector General USAF
+11th District Office of Special Investigations
+Tinker Air Force Base,
+Oklahoma City, Oklahoma
+21-0
+SUBJECT:
+UNKNOWN SUBJECTS): Balloon of Unidentified
+17 OCT 195ęŚ
+Origin Landing on Property of J. Wy
+COPELAND,
+Temple, Oklahoma
+Slas
+TO:
+District Commander
+on
+23d OSI District (IG) USAF
+Carswell Air Force Base, Texas
+1. On this date, the following Summary of Information was fur-
+nished this District Office by the Comnander, Region VII, 112th CIC
+Group, Oklahoma City, oklahona:
+"VI. (U) Niscell
+eous Counterintelligence Information:
+1.
+On 13 October 1958, the following information was
+received from Joseph H, Gason, Major, Arty, Liaison Officer, Office of
+the ACof S, G-2, Fort S1ll, Oklahoma.
+Cason advised that it had been reported to the Office
+of the AC of S, G-2, by a John Bolan, 2162 Lincoln Avenue, Lawton, Okla-
+homa, that on 10 October 1950, an unidentified balcon had landed on the
+property of a Mr. and Mrs. J.W. Copeland, at Temple, Oklahoma,
+The bal-
+loon was described as being approximately seven (?) feet square (deflated),
+and constructed of a thin plastic material, The balloon carried no instru-
+ments of any kind,
+However, either a note was attached to the balboon or
+inscribed on the balloon was the following phrase, written in the Russian
+Language:
+"I do not understand Russian, How are you?", According to
+Bolan, the balloon is still in possession of the Copelands. (B-6)
+The phrase which had been written in the Russian Lan-
+guage was translated by a Marshall R, Hurley, Captain, 02014704, Btry WA",
+2d How Bn, 37th Arty, Fort Si1l, Oklahoma.
+Hurely opined that the phrase
+appeared to be one that would have normally appeared in small pamphlet-
+type foreign language dictionary issued to the American soldier during the
+war for conversational purposes, (B=2)
+2.
+Request the foregoing be furnished the Comnander, Sheppard APB,
+Texas, as the Air Force installation nearest Temple, Oklahoma,
+(Para-
+graph 903, OSIB Nr 51)
+Classification cancelled,
+changed to
+USE ONLY, effective on
+_, under the authos
+of S
+AFISIIC.
+cial Investigation:
+UNCLASSIFIED
+apt. Puliagorato
+(Grade)
+AIR FORCE -OC- 20M-8-1-58
+Declassification Authority: NND 923007

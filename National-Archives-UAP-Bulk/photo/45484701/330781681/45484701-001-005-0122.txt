@@ -1,0 +1,81 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T16:53:30Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 13502739, "source_ctime_ns": 1793361909103598319, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330781681/45484701-001-005-0122.jpg", "source_mtime_ns": 1785684793000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330781681/45484701-001-005-0122.jpg", "source_sha256": "91ef950410bbff39a97527712ee62a2a5da7945b6e387beca50ca7edfa5e2e80"}
+
+===== PAGE 1 =====
+{"alpha_words": 104, "chars": 844, "method": "ocr", "page": 1, "variant": "plain-vision"}
+NO. 4
+GO E
+LO. ELEV 4° T.O. ELEV
+7 MAR
+LENGTH OF RAY LINES DOES NOT INDICATE DISTANCE FROM
+OBSERVATION POINT TO OBJECT. DISTANCE FROM OBSERVATION
+POINT TO OBJECT IS
+UNKNOWN.
+7 MAR
+MAR
+865
+1.O. AZ
+N 56° W
+ELEV
+NO. 6 L.O.
+AZ
+NO. 6
+VEMA
+N 74°W
+N 81° W
+ELEV
+ELEV
+8 MAR
+NO. 3
+1.O.
+AZ S 81°W
+ELEV 21°
+15°
+6 MAR
+S 64° W ELEV
+NO. 4 T.O. AZ
+ELEV 6° 30°
+T.O. AZ S 60° W
+NO.3
+0° W ELEV 26
+7 MAR
+850000 YDS
+TANK
+DESTROYER CENTER
+CAMP HOOD, TEXAS
+SCALE
+I: 62, 500
+FIRST EDITION
+1943
+LINES AS SHOWN ON OVERLAY HAVE BEEN CONVERTED FROM
+MAGNETIC
+GRID AZIMUTH.
+540808_
+6 MAR
+66°
+ELEV
+40° E
+AZ N 40° E
+N 50° E
+ELEV
+NO. K
+NO.I
+SIGHTED
+MARCH
+1949
+7 MARCH
+1949
+8 MARCH 1949
+FIXED FLASH
+FIRE BALL
+FIRE
+BODY
+WITH TRAIL
+OBLONG FIRE BODY
+WITHOUT TRAIL
+L.O.- INITIAL OBSERVATION
+T.O.-
+- TERMINAL OBSERVATION
+240808
+& MAR
+EXHIBIT I
+Declassification Authority: NND 923007

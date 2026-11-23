@@ -1,0 +1,53 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T16:44:17Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 15036968, "source_ctime_ns": 1793358840055610086, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-050-0012.tif", "source_mtime_ns": 1785681228000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-004-050-0012.tif", "source_sha256": "8a667fe0eab624da772d67efd302ada1dca7aa995051861df393d793b09dbcfc"}
+
+===== PAGE 1 =====
+{"alpha_words": 393, "chars": 2667, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+AF FORM 112-PART II
+APPROVED 1 JUNE 1948
+UNCHFSSIFIED
+(CLASSIFICATION)
+AIR INTELLIGENCE INFORMATION REPORT
+REPORT NO2C-UFOB-6-55
+PART FIGHT
+PAGE
+FROM (Agency)
+Flight 2-C, 4602d AISS
+OF 10
+PAGES
+SUPPLEMENTARY INVESTIGATIVE EFFORTS:
+L= A check with the Atlanta Filter Center ( COC ), Atlanta, Georgia revegled
+that only the one call was received on the sighting. The Tilter Senter was not in
+operation at the time of sighting.
+2. Flight Service Center, Maxwell ATB, Alabama reported that only one C-45
+type aircraft was in the general area et the time of the sighting,
+3. Base Operations, DAJB, Georgia stated that no local aircraft was in the
+general area at time of the sighting.
+4. Operations Officer, Naval Air Station, Chamblee, Georgia stated that no
+local aircraft were in the general area.
+A chack with the Municipal Airport, Atlanta, Georgia revealad that radar
+scannara were inoperative due to modification and that no unusual activity had been
+reported
+6. Information received from Bradley Observatoryy Atlanta, Georgia revealed
+that Observatory was not in operation at the time and no unusual observations were
+reported.
+A check with the 35th Air Division (Def) Weather Station revealed the
+following information: Cloud coverage ten-tenths at 25,000ft., Partly cloudy moon
+visible, 180/20 at 6,000ft., 200/5 at 10,000ft., 240/10 at 16,000ft., 190/20 at
+20,000ft., 230/56 at 30,000ft., 180/05 at 50,000ft., Ceiling 25000ft. and Visibility
+seven miles.
+A call to Det 4 12th Radar Bomb Squadron, Atlanta Airport, Atlanta, Georgia
+revealed that eight RB-36's were in the area at the time of the sighting, They were
+making simulated bombing runs on the city of Atlanta, Georgia and flying the same
+course as that of the object reported, Det.4 stated that they had no reports of lights
+or signaling devices used. Det 4 advised that if additional information was desired
+on aircraft, to contact Commander, 77th Stat Recon Wg, Ramey AFB, Puerto Rico.
+9. TT MSG was sent to Commander, 77th Stat Recon W&, Ramey ATB, Puerto Rico
+requesting information on the RB-36's reported in the area of the sighting. The
+following TT MSG dtd 122335Z Sept 1955 was received from COMSTRATRECONWG 72 RAMEY AFB
+/UNCLASSIFIED/DOCO 282. ATTN IN FLIGHT 2-C 4602D AISS.
+REFERENCE YOUR MESSAGE AIS2C 11 DATED 9 SEP 55, AT TIME INDICATED YOUR MESSAGE
+APPROXIMATELY EIGHT 72SRW RB-36'S WERE IN ATLANTA VICINITY ON ROUTINE TRAINING
+MISSION. UFOB MAY HAVE BEUN A SCANNER CHECK BY ONE OF THESE AIRCRAFT.O
+10. A description of the sighting was not obtained from MR H M MORSE due to
+fact that he was out of town and wasn't expected back until 16 Sept 1955«

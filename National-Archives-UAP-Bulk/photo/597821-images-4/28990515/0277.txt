@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:10:13Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7927040, "source_ctime_ns": 1793384537177091442, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28990515/0277.jpg", "source_mtime_ns": 1785748426000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28990515/0277.jpg", "source_sha256": "0f74f00ddc26e7fa3297ae677e8ba09a5d763e07d0cdbbf887ba9b37b4637ca9"}
+
+===== PAGE 1 =====
+{"alpha_words": 91, "chars": 699, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PACE TVO ROXIAG 37
+EXHAUST
+B. NO SOUNE ACART.
+S. TISEMBLEL PLANET MOVING FAPIDLY THEOUCH SIY.
+B. 1. WIFE OF OIC SICATED ORRECT THIL LOOKING OUT MINTON.
+2. FARST OSS TVED AT APEX 8S DEGFER FIRVATION
+3. DISAPPEAREL AÏ APIX 45 DEGREE ELEVATION.
+WE BITECT, SIFAICHE FLICHE PACH WITH NO MANHVETS.
+3. DISAPPEAPED OVER MOUNTAINS TO SST.
+6. OBJECT NAS VISIBLE FOR APEX 4 MINUTES.
+OF OBERVATION WAS CHOUNE-VISUAL.
+7/58
+BINOCULARS USEL.
+D. 1, SIGHTED AT 13.041Z DEC S7.
+2. HICH CONDITIONS, NICHT.
+- 3 LOCATION
+PETETSBURC ALASTA 526-4SN 132-57N.
+DO PETERS BUG ALASKA, HOUS IRA. RELIABIR.
+6, PETEPSBURG ALASYA,
+, RELIABLE.
+PETRES BUE C ALASKA,
+HOUSEHITE AND PRESS
+G. 1. CLEAR AND CALM WEATHER NOTEL DY OBSEIVEI

@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:01:43Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 17444716, "source_ctime_ns": 1793365890371228294, "source_file": "National-Archives-UAP-Bulk/photo/542184/341-PBB-528-Roll1-0221.jpg", "source_mtime_ns": 1785565445000000000, "source_rel": "National-Archives-UAP-Bulk/photo/542184/341-PBB-528-Roll1-0221.jpg", "source_sha256": "4aa7d00ecf21a442de1e120d6f7a266aa21709b697f4f15f2f62e401a8e5a55a"}
+
+===== PAGE 1 =====
+{"alpha_words": 41, "chars": 218, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+a
+
+per
+
+ae
+
+Seok Mi Doe
+
+Boe SU HES eaten
+
+ek Ate
+
+potas: tame acne di tate waantcentbbatinv,
+
+mune fteigtiine
+
+$e cancels 23
+
+Bok: Fp sion VAR oba "ae Nes Sods aca Wy Ree
+
+nN ate ac Teo Manan PLES OTE eke
+
+ait
+
+Nemes

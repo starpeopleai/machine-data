@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T16:38:26Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8448861, "source_ctime_ns": 1793385897495414402, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28994324/0773.jpg", "source_mtime_ns": 1785747933000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28994324/0773.jpg", "source_sha256": "8d11440232222e59d55443a2b5c450b192f76269130b07c1352ad4c138efacda"}
+
+===== PAGE 1 =====
+{"alpha_words": 145, "chars": 995, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Civilian U. F. O. Research
+CHICAGO 18. ILLINOIS
+KEYSTONE 9.6238
+11 September 1961
+Major William T. Coleman
+UFO Project Officer
+Public Information Division, USAF
+Pentagon Building
+Washington 25, D.C.
+Dear Major Coleman:
+At about 2100 hrs. on 30 Aug 61, a reddish object was seen over
+Cincinnati, Ohio, as it traveled very slowly across the sky until it
+suddenly exploded in a flash of white light. At the same time on the
+night of 5 Sep 61, the performance was repeated.
+I would like to know the results of the official investigation into
+these sightings and the facts on which these results were based.
+- On 7 Aug 61 I requested information regarding to Chicago area
+sightings of a few years ago. If possible, would you please inform
+as to the action being taken on this request?
+If a Department of Defense news release regarding UFO's has been
+issued since January, 1961, I would like to have a copy.
+You help in these matters would be greatly appreciated.
+Sincerely;
+Civilian UFO Research
+3/1

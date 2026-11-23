@@ -1,0 +1,60 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T16:41:17Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10847255, "source_ctime_ns": 1793363861358991584, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330786161/45484701-006-002-0063.jpg", "source_mtime_ns": 1785685029000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330786161/45484701-006-002-0063.jpg", "source_sha256": "c4c4d6b0a15ab8ced01d32fc76836705f2d897ca25ef3c12b3cac7f0e6fab62e"}
+
+===== PAGE 1 =====
+{"alpha_words": 143, "chars": 1078, "method": "ocr", "page": 1, "variant": "plain-vision"}
+CONFIDENTIALO
+INFORMATOT
+From 5ih Dictrict OS
+Wright-Patterson Air Force Bast
+Ohio
+50 24/21-156
+SUBORCE:
+NE
+UNIDENTIFY FINING 053ECA
+Sighted at Lowry Air Force Base,
+Denver s
+Colorado, on 9 July 1954
+SPECIAL
+INQUIRY
+TO :
+Commander
+Air Technical Intelligence Center
+Wright-Patterson Air Force Base,
+Ohio
+ATTN: ATIAA-20
+27 August 1954
+UNCLASSIFED
+1. Transmitted herevith for your information are two (2) coples
+or a Letter, dated 9 July 1954, from the 14th 051 District, Lowry
+Air Forco Base, Denver, Colorado, concerning subject matter.
+2. Your attention is invited to the provisions of AFR 124-1,
+which prohibit the release of investigative information to unauthor-
+ized persons.
+1 Inel (in dup)
+Cy 1tr, ded 9 Jul 54
+ec : Dir OSI v/o Inel.
+ROBERTS P. JOHNSON, JR.
+Colonel,
+USAF
+District Commander
+CLASSIFIC
+V CANCELLED STRA 26N
+BY AUTE
+I DIRECTOR OF SPEC AN
+KURT K. KUNZE, Capt, USAF
+Historian
+DAT!
+* 4 DEC 1975
+24-V85-141=
+UNITED C
+THE IN SOO
+ES AIR FORCE
+COR GEMERA!
+SFP 1 10
+OFFICE OF
+LESTOATIONS
+5D-F-13018
+UNCLASSIFIED
+AL
+TO DEP 1055
+Declassification Authority: NND 923007

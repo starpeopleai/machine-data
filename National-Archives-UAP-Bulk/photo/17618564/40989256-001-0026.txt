@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:11:15Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8368436, "source_ctime_ns": 1793354978505140333, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989256-001-0026.jpg", "source_mtime_ns": 1785564373000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989256-001-0026.jpg", "source_sha256": "02fde38960d48b918576847cd36d1685c5ededeaa7a526aace3007c2a0a8c5a9"}
+
+===== PAGE 1 =====
+{"alpha_words": 37, "chars": 357, "method": "ocr", "page": 1, "variant": "contrast-vision"}
+WINZEN RESEARCH ING
+BALLOON
+1ATIT0D A58
+BALLOON MODEL SF-108 98-150-NS
+BALLOON DESIGN VOLUME: 516MM CUFT
+ISSUE A NOMINAL
+PRECOMMENDED:!
+HERECOMMENDED
+BALLOON WT MAXIMUM PAYLOAD MINIMUM PAYLOAD
+326 L89.
+1200
+Pies A
+400LBS
+326 LBS
+PRESSURE ALTITUDE - FTX10-3
+78
+800
+900
+| 1000..
+2100
+- 1200
+GROSS AIRBORNE WT 1BS
+(INCLUDES BALLOON WD
+1300
+11400:
+1500
+100956F

@@ -1,0 +1,65 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:05:51Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5987496, "source_ctime_ns": 1793378160612973829, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28966997/0124.jpg", "source_mtime_ns": 1785696458000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28966997/0124.jpg", "source_sha256": "b064e2234804db7cc517a3f3e42c49bc4166cb12af29306c0e3ebf96eb2a4e0e"}
+
+===== PAGE 1 =====
+{"alpha_words": 196, "chars": 1495, "method": "ocr", "page": 1, "variant": "plain-vision"}
+ROUTING
+JOINT MESSAGEFORM
+CATIONS CENTER NO
+SPACE ABOVE FOR COMMUNICATIONS CENTER ONLY
+FROM: (Originator)
+COMDE ATIC
+DATE TIME GROUP
+270930
+AUG 56
+PRECERENCE | ACTION
+ROUT INE
+CURITY CLASSIFICATI
+NCLASSITE
+INFORMATION
+TO:
+GENERAL MILLS, INC.
+1620 CENTRAL AVENUE
+MINNEAPOLIS, MINNESOTA
+BOOK MESSAGE
+- MULTIPLE ADDRESS
+IDENTIFICATION
+- ORIGINAL MESSAGE
+CRYPTOPRECAUTION
+L YES
+• NO
+REFERS TO MESSAGE:
+| CLASSIFICATION
+INFO:
+(UNCLASSIFIED) FROM: APOIN 124 -/-//27 -
+Request information regarding any launchings or trackings which could
+account for a balloon being in vicinity of UrO sighting location, coordinates
+31 degrees 50 minutes North, 73 degrees, 55 minutes West at O1452 night 17 Aug S6.
+Brier backgzound info, from TT mag RC 091 in PSC Olmsted APB, ata 17 Aug 56:
+Reported by A/C Ondr, Fastern Airlines, Flight 49, course 195 degrees, flying
+6000 It altitude. Object described as round, orange and white bobbing light.
+Observed 270 degrees to course of aircraft and at same altitude. Remained in
+sight 20-25 minutes. Wind directions up to 50,000 feet at tine and piece of
+sighting generally from 270 degrees. In ansver to seme query to 1l10th Air
+Support Group this unit states that General Mills headlaunched balloon in
+Fiorida
+Expeditious reply would b
+appreciated.
+COORDINATION
+AFOIN- 484
+RAFTER'S NAM
+en required)
+Capt G. T. Gregory
+AFOIN-4E4
+DATE -
+77. 2
+TELEPHO 69216
+FORM
+DD 1 OCT 49 173
+REPLACES NME FORM 173, 1 MAY 49.
+WHICH MAY BE USED
+ATION
+UNCLASSI
+FIED
+PAGE
+OFFICIAL
+AOG 1956

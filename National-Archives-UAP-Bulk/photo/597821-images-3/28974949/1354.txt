@@ -1,0 +1,59 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T16:40:13Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9855288, "source_ctime_ns": 1793380225357685363, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28974949/1354.jpg", "source_mtime_ns": 1785701014000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28974949/1354.jpg", "source_sha256": "ad2e559a8dc96faf86b394ca8e9360728c76af15b502dce343a5a1b2503f414b"}
+
+===== PAGE 1 =====
+{"alpha_words": 89, "chars": 693, "method": "ocr", "page": 1, "variant": "plain-vision"}
+.... .
+2. NIGHT
+V
+1. 45.30N TO 122.42W BUS DEPOT, OREGON CITY, OREGON
+PAGE THREE RJWPDM 98A
+VI
+1. MR. AND MRS.
+BUS DRIVER MR.
+MR •
+OREGAN CITY, OREGON
+DE
+R
+FM
+TO
+R.J.
+RJ.
+ZZ!
+, ORE.•
+& WEST LINN, ORE.
+(EGON- RADIO STATION OREGON CITY, ORE PHONE NO. OLIVE
+SPORTLAND, ORE. KGON RADIO STATION
+RADIO STATION KEX
+NOTIFIED BY INITIAL OBSERVERS
+VIL
+1. GENERALLY BROKEN W/SCID RAIN SHOWERE IN AREA, MOSTLY ALONG MINS
+2. 6,000 - 290DEGREES 20KTS
+10,20₴šŚš
+- 290DEGREES
+40KTS
+- 6,00
+- 29GDEGREES
+75 KTS
+-W/NDS BLOWING
+7 WORD CAT
+i Na
+20,00źęŘŚš
+- 290DEGREES
+90KTS
+32, 22₴îŚ
+- 310DEGREES
+190KTS
+40,000
+-
+31ØDEGREES
+100KTS
+50,020
+-
+31 ODEGREES
+65 KTS
+3 .
+35 20BR KN
+12PLUS
+6/12 PLUS
+UNT
+ATIC Con clascos:

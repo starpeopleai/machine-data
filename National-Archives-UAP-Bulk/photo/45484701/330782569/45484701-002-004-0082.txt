@@ -1,0 +1,7 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T16:35:34Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7265749, "source_ctime_ns": 1793362295544982829, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330782569/45484701-002-004-0082.jpg", "source_mtime_ns": 1785685174000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330782569/45484701-002-004-0082.jpg", "source_sha256": "5d98f683cc56726c8b3169dc8e6e17d4ce81bfd7e656a5c695991b0f4e7eda8a"}
+
+===== PAGE 1 =====
+{"alpha_words": 5, "chars": 57, "method": "ocr", "note": "low-confidence/possibly image-only page; retried at 250 DPI after 600 DPI timeout", "page": 1, "variant": "plain-vision"}
+JUL 1949
+SECURITY
+Declassification Authority: NND 923007

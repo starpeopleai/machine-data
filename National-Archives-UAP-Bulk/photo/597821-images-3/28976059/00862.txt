@@ -1,0 +1,53 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T16:25:30Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4864549, "source_ctime_ns": 1793380459868717395, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28976059/00862.jpg", "source_mtime_ns": 1785700669000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28976059/00862.jpg", "source_sha256": "04636c9d7f67c131217f61c877b2e3ae0d37075bec71ec790649d3554dec3f74"}
+
+===== PAGE 1 =====
+{"alpha_words": 105, "chars": 749, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Fil 26ADIV.
+TO RJEDDN/COMDR ADC ENT
+RJEDSQ/CONDR ATIC
+RJEPHQ/AC S INTEL HQ USAF
+INFO RJEPNB/COMDR EADF
+BT
+The
+but saace gro mon,
+durectum.
+con
+/UNCLAS/FROM OIN EQPTM SUBJ: UFOB
+1. DESCRIPTION:
+Van timen
+SNOWS 7027
+A. SQUARE
+•BOX
+BASKETBALL
+YELLOW
+D. ONE
+E. N/A
+F •
+TENTACLES COMING OUT OF OBJECT
+G
+SMOKE
+Note: Sanang
+HUMMING SOUND
+NOTe: ChArACTerIsTic oF COMbUSTiON
+eNgINe
+I. NONE
+2. DESCRIPTION OF COURSE:
+A. JUST LOOKED UP
+B. 1 1/2 MILES UP
+C. N/A
+7928FT.
+IN WhAT dIrecTION?
+AZIMUTIA? ALTITUDE?
+BEARIE OE OBSCE (
+D. STATIONARY, THEN SHOT ACROSS SKY, COME BACK, WENT STRAIGHT
+UP
+E. JUST LEFT SIGHT WENT STRAIGHT UP
+Traiter
+F
+3. MANNER OF OBSERVATION:
+A. GROUND - VISUAL
+B. N/A
+C. N/A
+4. TIME & DATE OF SIGHTING:
+A. 12/1600 EST
+B. DAY, TOWARD DUSK.

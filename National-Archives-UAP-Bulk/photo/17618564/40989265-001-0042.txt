@@ -1,0 +1,104 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:01:15Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 11474645, "source_ctime_ns": 1793355337784350017, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989265-001-0042.jpg", "source_mtime_ns": 1785564437000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989265-001-0042.jpg", "source_sha256": "53058c0ad957060e3376f778ab10c16c731079eea8de4e82a0f6d2bb799a7f54"}
+
+===== PAGE 1 =====
+{"alpha_words": 584, "chars": 3991, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Stratospheric research balloons like these are used to measure cosmic rays from distant galaxies, man-made contaminants in
+the upper atmosphere and a host of other scientific experiments.
+(NCAR/NSF Photo)
+trained observers aboard can facilitate the
+collection of atmospheric data to include
+ozone, NOx, SO2, temperature gradients,
+turbulence, among others.
+The balloon system is a low-cost, recov-
+erable vehicle that neither contaminates the
+air by any propellant fumes, nor agitates it
+by propeller wash. It does gather accurate
+data in a new dimension of today's air pollution
+control effort. The proposed Roving Ball
+Planetary Explorer does offer a new function
+for the ATMOSAT system.
+78
+The potential of expandable space struc-
+tures promises much: they are lightweight
+and can be folded into high-density pack-
+ages requiring relatively little lift to be plac-
+ed in orbit. When in space they can be rapid-
+ly inflated and by injecting quicksetting
+foam between inner and outer layers, can be
+made rigid; can be fabricated from plastic and
+fiber to tolerances as strong as steel; and they
+can be designed to adopt almost any shape and
+to serve many different functions. They could
+function to reflect electronic signals, gather
+solar energy, provide safe shelter or become
+orbital stations; they might serve as simple
+storage facilities for gases or fuels or become
+complex platforms for powerful telescopes; the
+list is really limited
+only by one's re-
+sourcefulness.
+The United States space program is
+dedicated to increasing the knowledge of the
+universe through aeronautical and space
+technology. From our decade-long odyssey
+to reach the Moon, a technical foundation
+has been created that will provide the base
+from which shall rise a virtually new age of
+exploration. Already the shuttle effort has
+considerably reduced operating costs while
+increasing launch capability. We can now
+enter and exit space with much greater ease.
+The commercialization of space are con-
+cepts born form our present abilities.
+The
+goods and services produced in space will
+have a maior economic benefit here on earth.
+The boon of manufacturing in a weightless
+environment is one with many specific ap-
+plications, for example, electric power genera-
+tion; the development of new processes for the
+creation of new materials, chemicals and
+medicines. a newlv founded communications
+IV
+A LOOK AT THE
+'80s & BEYOND
+industry; a more comprehensive weather ser-
+vices and earth resource management; all will
+find reality through the exploration of space.
+Ultimately we will industrialize the Moon
+and more.
+By 1984, the U.S. Air Force was operat-
+ing a tethered aerostat antenna as an alter-
+nate to the operation of VLF (very low fre-
+quency) transmitting facilities, in the event
+of emergencies and in maintaining secured
+communications. The ground-based VLF
+facilitv lacked survivability in combat or
+against terrorism. Thus, the rapidly deploy-
+able aerostat became the likely candidate for
+reestablishing communications.
+Then, there is the Westinghouse Tether-
+ed Communications, a 25,000-cubic-foot
+STARS (Small Transportable Aerostat Re-
+locatable System) balloon which operates at
+a 3.000-foot altitude and using a special
+Kevlar tether line as an antenna. Westing.
+house has packaged its services, from design
+to operations, of its aerostat system. The
+STARS design has been used in oil surveil-
+lance, overseas communications,
+cold-
+weather survival testing by the U.S. Air
+Force, and working with the U.S. Custom
+Service, to interdict drug traffic in the
+Caribbean area with electronically-equipped
+aerostats.
+A remote-controlled airborne labora-
+tory, perched in the stratosphere at 133,000
+feet, had its day in scientific accomplish-
+ments. It was September 15, 1982, over the
+NSBF near Palestine, Texas, where scientist
+James Anderson launched his 700-foot tall
+balloon, lifting a 1½-ton scientific test plat-
+form which included a special 130-pound
+chemistry lab attached to a motor-driven

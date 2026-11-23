@@ -1,0 +1,13 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:02:17Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 18066500, "source_ctime_ns": 1793356543293518399, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0156.tif", "source_mtime_ns": 1785564720000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0156.tif", "source_sha256": "05fdf535a901217e2cc9806c3c67e8092a6ba38fdda563b36a9835e3abf60bbb"}
+
+===== PAGE 1 =====
+{"alpha_words": 85, "chars": 548, "method": "ocr", "page": 1, "variant": "plain-vision"}
+-neident #63 -- NE of Helena, Lontana -- 29 July 1947
+hith the exception of the color ("like polished nickel")
+and the lack of statement concerning a trail, the object reported
+in this incident might very well have been a daylight meteor.
+Bright meteors have been observed to nove in wavy paths. The manner
+of disappearance ("melted into thin air") further supports this view.
+fine in sight and speed also oheck. In short, it is more likely that
+this object was a bright meteor than that it was anything else.
+Declassification Authority: NND 57565

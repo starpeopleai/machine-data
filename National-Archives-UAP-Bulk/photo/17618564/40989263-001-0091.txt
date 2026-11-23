@@ -1,0 +1,35 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:06:41Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6491458, "source_ctime_ns": 1793355142521733447, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989263-001-0091.jpg", "source_mtime_ns": 1785564400000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989263-001-0091.jpg", "source_sha256": "6d3b30e0aeebf738e37783fd0ba6f10f56b194a198b7fcc6d8c3088880d06eee"}
+
+===== PAGE 1 =====
+{"alpha_words": 128, "chars": 889, "method": "ocr", "page": 1, "variant": "plain-vision"}
+EXPLAIN IN DETAIL THE FAILURE UNDER THE APPROPRIATE NEADING
+DESCRIPTION OF MALFUNCTION
+PLY DATE
+H75-26/H-60X|
+24 April 1975
+Signal faded very shortly after launch on radiosonde. No GMD track
+obtained.
+CAUSE OF MALFUNCTION AND ANALYSIS
+Recheck of radiosonde after flight
+defective (no signal).
+nade.
+The radiosonde was
+RECOM
+MENDATIONS AND REMARKS
+No correction possible at present due to design of radiosonde for one-time
+use. The purchaser of these radiosondes indicate that while there has been
+some problems with quality control on these items, cost considerations
+preclude tightening proceedures to prevent failure on an item by item
+basis. The specifications for these items are sufficient for the primary
+use intended.
+CORRECTIVE MEASURES TAX EN
+None, see above.
+E, POSITION AND SECTION
+иня!
+Flight metorologist GS-11
+129 Ap.
+- 7>
+PREVIOUS EDITION'OF THIS
+IRPOSE V
+SIGNATUR
+Amen Kee

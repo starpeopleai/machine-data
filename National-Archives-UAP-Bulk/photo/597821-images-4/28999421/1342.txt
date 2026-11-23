@@ -1,0 +1,45 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:12:46Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9199404, "source_ctime_ns": 1793387910166590017, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28999421/1342.jpg", "source_mtime_ns": 1785748519000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28999421/1342.jpg", "source_sha256": "7a54ed909dd66fee34e504888bcca0e363eaf6ff7cd98b77dd1ce5d96257aa5f"}
+
+===== PAGE 1 =====
+{"alpha_words": 142, "chars": 981, "method": "ocr", "page": 1, "variant": "plain-vision"}
+RTMENT OF THE AIR FORCE
+STAFF MEGEAGE BRANCH
+UNCLASSEMRO MESSAGE
+AF IN:
+28886 (3 Oct 62) 4/NeC 0 MIN G
+PE 1 of 2
+INFO:
+CIN-17 bIA-10,
+• OVC-8,
+CF-1,
+ANY, bIA-dTIC-9, 23-9
+0SD-7117N5A-7, CIA-11, 00F-2.
+SMB A 225
+LKA43ØKKD572
+••••• 00 RUWSPO RUEFW RUKAC RUEAHQ RUWGALB RUCSBR
+DE RUKLKH 6
+ZNR
+0 031710Z
+FM 326 AIR DIV KUNIA FACILITY HAWAII
+TO RUHLKM/PACAF HICKAM AFB HAWAII
+RUKAC/COMALSEAFRON KODIAK ALASKA
+RUWSPG/COMWESTSEAFRON SAN FRANCISCO CALIF
+RUHPQ/COMHAWSEAFRON PEARL HARBOR HAWAII
+INFO RUEAHQ/COFS USAF WASHINGTON DC
+NOTE:
+ADVANCE COPY TO:
+RUWGALB/CINCNORAD ENT AFB COLO
+RUHPA/CINCPAC CAMP H M SMITH HAWAII:
+RUHAFS/CINCUSARPAC FT SHAFTER HAWAII
+RUMPB/CINCPACFLT PEARL HARBOR HAWAII
+RUAUAZ/COMUSDAPAF FUCHU AS JAPAN
+RUAMCR/COMUSKOREA SEOUL KOREA
+RUAGFL/COMUSTDC TAIPEI TAIWAF
+RUHPD/COMASWFORPAC FORD ISLAFD HAWAII
+RUCSBR/CINCSAC OFFUTT AFB NEBR
+UECW/CNO WASHINGTON DC
+RQECW/ SECNAV WASHINGTON DC
+AF GRNC
+CP, DIA,
+CIN.
+UNCLAS CIRVIS/UFOB/QF530AT FL370 NOTES OBJECT IN SIGHTHFOR

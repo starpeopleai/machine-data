@@ -1,0 +1,62 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:07:45Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7063036, "source_ctime_ns": 1793377214515277216, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28962979/1035.jpg", "source_mtime_ns": 1785696562000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28962979/1035.jpg", "source_sha256": "15edec33bba9e4a1ab93d5e2890c4d107c457783a75d815bb4e21cd4bc809e5f"}
+
+===== PAGE 1 =====
+{"alpha_words": 165, "chars": 1197, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+30 July 1955:
+3. DATE-TIME GROUP
+Local
+GMT_
+30/06002 July 1955
+5. PHOTOS
+ENO RO IMAGE
+7. LENGTH OF OBSERVATION
+STILL IN SIGHT,
+AT least 2s hours
+10. BRIEF SUMMARY OF SIGHTING
+One (1) object, the size of a quarter penny at
+arns length, appeared to be red, white, green,
+and flashing. The object seemed to remain
+stationary throughout the duration of sighting.
+Photographs taken. Pilot over the area stated
+he could see no object.
+UFOB INDEX CARD AISS-UFOB-2117-55
+2. LOCATION
+12. CONCLUSIONS
+Was Balloon
+Shelby, IOWA
+4. TYPE OF OBSERVATION
+* Ground-Visual
+• Air Visual
+6. SOURCE
+Probably Balloon
+Possibly Bolloon
+• Ground-Radar
+•
+Was Aircraft
+Probably Aircraft
+• Air-Intercept Radar
+Possibly Aircroft
+10'
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Civilian
+8. NUMBER OF OBJECTS
+9. COURSE
+Other
+Insufficient Data for Evaluation
+•
+Unknown
+One (1)
+Stationary
+11. COMMENTS
+Due to the duration of the sighting and
+the description of the sighting, and the
+fact that pictures were taken an inves-
+tigation was authorized to Detachment
+iỊi2, 4602d AISS: The results of inves-
+tigation to be recoreed on this card
+upon receipt of AF Form 112 on this
+case.
+AISOP Form 5 (15 Oct 54)

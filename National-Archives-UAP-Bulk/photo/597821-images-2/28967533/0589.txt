@@ -1,0 +1,12 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T17:06:20Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6299326, "source_ctime_ns": 1793378304408132512, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28967533/0589.jpg", "source_mtime_ns": 1785696760000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28967533/0589.jpg", "source_sha256": "0381ee24048688af082142418ee27208d10db6a0ebaa715fb19c8ffe429faa3b"}
+
+===== PAGE 1 =====
+{"alpha_words": 42, "chars": 300, "method": "ocr", "page": 1, "variant": "plain-vision"}
+No Case (Information Only)
+5 September 1956
+Stormont, North Ireland
+1956,Sept 5-Stormont, North Ireland-Evening Irregularly-shaped UFÕ ob-
+severed over Parent buildings for hot an to
+first see it went outside to escape persistent
+barking of
+his dog! (Said to be a cloud by Meteorological Officials).
