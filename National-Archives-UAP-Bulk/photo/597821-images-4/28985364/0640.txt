@@ -1,0 +1,41 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T12:49:20Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4706785, "source_ctime_ns": 1793382758163607086, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28985364/0640.jpg", "source_mtime_ns": 1785748198000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28985364/0640.jpg", "source_sha256": "b02cee1ad308b20f16d38c42181462eb96dbed90e2807460300ea263aabd67de"}
+
+===== PAGE 1 =====
+{"alpha_words": 190, "chars": 1195, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AEROSPACE TECHNICAL INTELLIGENCE CENTER
+UNITED STATES AIR FORCE
+WRIGHT-PATTERSON AIR FORCE BASE
+OHIO
+REPLY TO
+ATTH OF:
+SUBJECT:
+AFCIN-ЦE2
+Unidentified Flying Objects
+2 6 APR 1960
+ro: SAFO¿¿d (Maj Tacker)
+1. The attached letter was sent to ATIC by
+Kensington Road South, Garden City South, N.
+2. Mr
+appears to be one of those persons who feels it his duty
+to make certain suggestions to the Air Force.
+3. Suggest that Mr
+be informed that as yet the Air Force has
+no material evidence to indicate that there is anyone: or anything to
+contact. Further, that scientists all over the world are constantly
+sending signals into space to further our knowledge. If there were
+sia dread rave freen intere plead some detonate made to contact
+earth.
+It should be pointed out to Mr
+that our investigators are
+equipped to collect as much scientitic information as possible when
+investigating reports of unidentified aerial phenomena. No data
+resulting from investigation pas to date revealed any evidence of an
+increase of radiation of any type or any unusual electrical or mag-
+netic disturbance.
+FOR THE COMMANDER:
+-
+PHILIP G. EVANS
+Colonel, USAF
+Deputy for Sciences and Components
+1 Atch:
+Itr, no date, fr

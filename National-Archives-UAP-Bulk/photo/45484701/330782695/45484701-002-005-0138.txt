@@ -1,0 +1,44 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T13:00:11Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9144831, "source_ctime_ns": 1793362381429539659, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330782695/45484701-002-005-0138.jpg", "source_mtime_ns": 1785684776000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330782695/45484701-002-005-0138.jpg", "source_sha256": "da6ac2962160796c5c7339af5d26be4c40688ff542c9ed27fbe6e4e24a58a033"}
+
+===== PAGE 1 =====
+{"alpha_words": 135, "chars": 1027, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Page 2
+Guide to Investigation
+17. Trail (color, length, width, persistance, etc.)
+Incident Nc.
+18.
+Luminosity (visible by reflection, incandescent, other - degree of
+brilliance):
+Self¿uninous
+19.
+Projections (fins, wings; rods, antennae, canopies, etc.):
+20.
+Maneuvers (turns, climbs, dives, otc! - sketch of flight path):
+Ben
+21. Manner of disappearance:
+Vard
+ed as
+h extinguisheeśę
+Effect on clouds:
+22.
+23.
+Additional information concerning object:
+Stabad nob
+to be movane
+1600
+TaSt
+24.
+Weather conditions and light at time of sighting:
+Name and address of observer: Inspecter samseye, AsS, Les Alamon, Mall,
+Occupation and hobbies:
+Seemity Inspectar
+Comments of Interrogator relative to intelligence and character of observer
+(Check neighbors, police dept.,
+FBi records, employer, etc.):
+aeng ound
+invest
+gation rem
+¡ired for emolo
+Did observer wear glasses, especially polaroid glasses at time of sighting,
+or was object viewed through canopy, window, or other transparent material?
+Declassification Authority: NND 923007

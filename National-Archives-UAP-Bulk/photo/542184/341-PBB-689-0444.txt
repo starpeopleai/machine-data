@@ -1,0 +1,21 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T13:12:15Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 14060022, "source_ctime_ns": 1793366974850310938, "source_file": "National-Archives-UAP-Bulk/photo/542184/341-PBB-689-0444.jpg", "source_mtime_ns": 1785565630000000000, "source_rel": "National-Archives-UAP-Bulk/photo/542184/341-PBB-689-0444.jpg", "source_sha256": "1cac9c250e57b80ba1b4df2e1b5dff569969f8d2b52a9965f4a1a06c7d801f01"}
+
+===== PAGE 1 =====
+{"alpha_words": 12, "chars": 92, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+.
+
+Bs >, | ;
+
+%
+
+">
+
+sonaseerio
+I Nh cn: te NNR. AA IIA
+tactee ‘ os
+
+| \\\\
+“UML \
+
+<A
+Aba

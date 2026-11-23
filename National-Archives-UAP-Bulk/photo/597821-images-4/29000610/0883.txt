@@ -1,0 +1,17 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T12:50:47Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5245817, "source_ctime_ns": 1793388257349486375, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/29000610/0883.jpg", "source_mtime_ns": 1785748414000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/29000610/0883.jpg", "source_sha256": "c77b56f027f28fc2b857fabc83a99357803ffe033036590d1e444fc2cdd0b907"}
+
+===== PAGE 1 =====
+{"alpha_words": 45, "chars": 302, "method": "ocr", "page": 1, "variant": "plain-vision"}
+19 June 1963
+Dear !
+Your sighting has been evaluated as
+Echo. This satellite was over Wyoming at
+7:38 PM on the night of 13 April and was
+heading southeast.
+Your interest in Air Force matters is
+appreciated.
+Sincerely,
+WILLIAM J. LOOKADOO
+It. Colonel, USAP
+Public Information Div
+Office of Information

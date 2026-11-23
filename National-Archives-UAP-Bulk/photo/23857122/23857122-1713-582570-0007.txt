@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T13:14:31Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 19220564, "source_ctime_ns": 1793357882335326849, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1713-582570-0007.tif", "source_mtime_ns": 1785564988000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1713-582570-0007.tif", "source_sha256": "c850e177b437f5b81644e385ccb3dc22e210788f5855d339daef9d21dacdb416"}
+
+===== PAGE 1 =====
+{"alpha_words": 156, "chars": 1048, "method": "ocr", "page": 1, "variant": "plain-vision"}
+RESTRICTED
+5825703
+At 2126 hours, 12 August, I was standing beside the Mobile Control
+Tower on the east end of Runway 26. While watching Captain Keane land
+in F-940 #554l, 1 observed a light of undetermined origin cross slightly
+in front of and above the airplane's line of flight. I estimate the
+light was travelling on a heading of 170° as its flight path was
+perpendicular to Runway 26.
+By comparing the speed of the airplane (approximately 350 knots),
+I estimate the speed of the light to be about 500 knots, or possibly in
+excess of that figure.
+It is impossible to judge the altitude of the light since I did not
+know its size, nor did I have any other object to aid me in judging its
+size, shape or altitude.
+I observed this light for approximately five (5) to eight (8) seconds.
+The light was a yellowish-white in color and appeared to be main-
+taining a horizontal flight path.
+Mack tutor
+MACK HUNTER
+Captain, USAF
+A02038715ł
+DECLASSIFIED
+USAF
+BY LN € LeRAS, Dale 4/72/29
+7/31/28
+Inel # z
+RESTRICTED_
+Declassification Authority: NND 57565

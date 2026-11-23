@@ -1,0 +1,288 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T12:50:28Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4992112, "source_ctime_ns": 1793386656389025659, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28996910/0547.jpg", "source_mtime_ns": 1785747841000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28996910/0547.jpg", "source_sha256": "e576e200526e917648af49116d2dd71468d153a6437812e0793bddc9fb63ded7"}
+
+===== PAGE 1 =====
+{"alpha_words": 1032, "chars": 6871, "method": "ocr", "page": 1, "variant": "plain-vision"}
+MANAGEMENT
+Second AF Symposium On Bionics
+To Be Held in Dayton Next Year
+A second Air Force-sponsored sym-
+posium on bionics will be held in Day-
+ton, Ohio, Mar. 19-21, 1963.
+Sponsored jointly by AFSC's Aero-
+nautical
+Systems
+Division
+and
+the
+Aerospace Medical Division, the three-
+day meeting is expected to attract more
+than 1,500 scientists and engineers
+from
+government, industry, research
+foundations
+and
+universities
+from
+throughout the United States and
+Western Europe.
+More than 50 researchers will discuss
+advancements in the new science since
+the first ASD sponsored symposium,
+held in Dayton in September, 1960.
+A new area of interdisciplinary re-
+search, bionics is the science of applying
+knowledge of biological functions and
+systems to the solution of engineering
+problems. This knowledge derived from
+living organisms is translated into
+mathematical transfer functions for use
+by engineers in modeling functions of
+living systems.
+Understanding of these biological
+functions is expected to hasten tech-
+AFSCers Give Talks
+At Aerospace Science.
+Institute Meeting
+Five members of the Aeronautical
+Systems Division and three from the
+Aeronautical Research Laboratories pre-
+sented papers at the national meeting of
+the Institute of the Aerospace Sciences
+held in Los Angeles, Calif., recently.
+Those from ASD included Donald F.
+Kalkis,ẠỊTechnical Problems Associated
+With Design of Rotating Spacecraftiại
+A. M. Paulson,ẠTrends in the Ground
+Support of Aerospace Systems Using
+Cryogeniồi; Ralph C. Lenz Jr.,
+*Tech-
+nological ForecastingạỊồi and
+Theodore
+L.. Senecal and Raymond M.
+Sadow,
+'PERT in Dyna-Soar."
+Dr. G. K
+Guderley, Mrs. E. M.
+Valentine, and Maj. John V. Armitage
+of ART presented a paper onẠỊNose
+and Inlet Shapes of Minimum Drag in
+Supersonic FlowiẠạỊ
+Guest speakers for the meeting were
+Ernest K. Lindley, special assistant sec-
+retary of state (guest of honor); L
+Eugene Root, president of IAS
+and
+Lockheed Missiles and Space Co.; Lt.
+Gen. Laurence C. Craigie, USAF (Re-
+tired) vice president and deputy group
+executive,
+American
+Machine
+and
+Foundry Co.; and William Littlewood,
+vice president, American Airlines, Inc.
+The program for the first day in-
+cluded a panel discussion on the "Role
+of Government Laboratories and Non-
+Profit Corporations and Their Effect on
+the Aerospace Industryiại
+Panel mem-
+bers were Hugh L. Dryden, deputy ad-
+ministrator, NASA; Najeeb Halaby, ad-
+ministrator, FAA; Allan F. Donovan,
+5r., vice president. Technical Aerospace
+Corp.: Maj. Gen. Marvin C. Demler,
+director of advanced technology. USAF:
+Brig. Gen. Chester W. Clark,, RAND
+D Division: and Rear Admiral L. D.
+Coates, USN, chief of naval research.
+classified field trip
+to Point
+Arguello
+and
+Vandenberg
+AFB
+climaxed the meeting.
+The tour was
+sponsored by the scientific and technical
+liaison office of AFSC
+nological advancements-both for mili-
+tary defense and the welfare of man in
+general. Major emphasis, at present, is
+on information handling, such as ac-
+quisition, processing, storage and utili-
+zation of data.
+The Air Force called the first sym-
+posium
+to determine where
+the
+scientific community stood in regard to
+bionics programs. The upcoming meet-
+ing will deal with more specific topics.
+Theme of the symposium will be
+ẠInformation
+Processing
+by
+Living
+Organisms and Machines."
+The meet-
+ing will feature concepts and the struc-
+ture of
+self-organizing systems, the
+various levels of information processing
+in living systems, and physical analogs
+of such systems, biological and physical
+sensors,
+and
+applications of
+these
+principles and mechanisms to man's
+meeds.
+Invited papers will be presented at
+four technical sessions.
+Topics for
+technical sessions will be "Signal Recep-
+tion of Living Organisms;" "Informa-
+tion Processing by Living Organismsạ
+*Physical Principles of Bionics;" and
+*Application of Bionic Concepts." Con-
+tributed papers also will be presented
+in the general area of bionics.
+Dr. John E. Keto, chief scientists for
+ASD, will be symposium director. Col.
+Andres I. Karstens, Aerospace Medical
+Research Laboratories commander, will
+be chairman and Lt. Col. Leonard M.
+Butsch, Jr., chief of Electronic Tech-
+nology Laboratory's bionics and com-
+puter branch will act as his deputy.
+Dr.
+Hans Oestreicher, Aerospace
+Medical Research Laboratories,
+and
+Colonel Butsch are co-chairmen of the
+technical committee.
+Registration at the Biltmore Hotel in
+Dayton is scheduled for Monday after-
+noon, March 18.
+Persons interested in attending the
+symposium may contact Commander,
+Aeronautical Systems Division, Attn:
+ASRNEB-3, Lt. Col. L. M. Butsch, Jr.,
+Wright-Patterson Air Force Base, Ohio.
+APGC Closes An Era
+With Last QF-80 Flight
+An era ended at Air Proving Ground
+Center recently with the last QF-80
+*nullo mission being flown over the
+Eglin Gulf Test Range, according to
+Lt. Col. Anslum M. Blackwell, 3205th
+Drone Sq. commander.
+The 32ist and final QF-80 drone
+mission was flown with Capt. Ralph W.
+Haymaker piloting the 1-33 control air-
+craft and Capt. Owen C.
+controlling the QF-80 from the front
+The drone was retrieved and returned
+to Eglin by the team of Captains Hay-
+maker and Davis, while a second T-33
+flew, as usual, in reserve.
+The QF-80 era began April 8, 1951
+when a QT-33 flew in Operation Green-
+house, an atomic test in the Pacific.
+(The T-33 is a trainer version of the
+F-80 Shooting Star.)
+During the last decade, QF-80's have
+been flown by three squadrons und
+Eglin's onetime 3205th Drone Group.
+New AFSC deputy chief of staff for
+plans, Maj. Gen. W. B. Keese was
+formerly director of development plan-
+ning at Hq USAF. He was assigned to
+his new position effective July 1. He
+replaces Maj. Gen. James F. Whisenand
+who has been assigned as assistant
+deputy chief for research and tech-
+nology at Hq USAF.
+Brigadier General Allman T. Culbert-
+son, Aeronautical Systems Division vice
+commander, is being reassigned to Air
+Proving Ground Center where he will
+assume duty as deputy commander on
+August 18. Going to APGC with Gen-
+eral Culbertson will be his wife, the
+former Annie Stallcup of Frierson, La.,
+and their two sons Eugene and Robert.
+New commander of Aeronautical Sys-
+tens Division, Maj. Gen.
+Robert G.
+Ruegg is not new to Wright-Patterson
+AFB. He has had two previous assign-
+ments to that installation and was on a
+third assignment there
+as Air Force
+Command's director of pro-
+curement and production when he was
+named to head ASD.
+Dire
+Color
+assumec
+Contrac
+Brig. G
+Keeling
+procure
+effective
+Gene
+commat
+formed
+assignm
+represer
+Aviatio:
+Colo:
+Atlas p.
+Systems
+commar
+responsi
+biltion
+fifth of
+WCN
+tracts v
+western
+WCMR
+the mis
+tion pr
+gardless
+Dr.
+Ch
+pointed
+Technic
+nouncin
+O. Vani
+Bernier:
+years as
+and the
+technica
+six mon
+importa
+an era c
+NC
+Three
+nautical
+cash aw
+MSgt. L
+J. Wolf
+Serge
+award c
+mote ca
+handle
+gestion
+to any
+the
+obj
+reactor
+An a
+Sergeant
+ts of
+adoptio
+Serge
+$5 for

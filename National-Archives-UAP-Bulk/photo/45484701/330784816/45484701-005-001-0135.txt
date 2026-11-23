@@ -1,0 +1,54 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T13:00:17Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9161663, "source_ctime_ns": 1793363254859156518, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330784816/45484701-005-001-0135.jpg", "source_mtime_ns": 1785684644000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330784816/45484701-005-001-0135.jpg", "source_sha256": "f82310d3376a00f6b923edf7d64995a8ec2a6eca77694ba3d650a6f62cb54b8f"}
+
+===== PAGE 1 =====
+{"alpha_words": 176, "chars": 1309, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AMATION
+DEPARTMENT OF THE AIR FORCE
+HEADQUARTERS UNITED STATES AIR FORCE
+WASHINGTON
+CLASSIFICATION CANCELLED WEN
+BY AUTHORITY OF THE DIRECTO
+EC INV
+Historian
+DATE
+KURT.K. KUNZE, Capt, USAF
+L 4 DEC 1975
+CO THE INSPECTOR GENERAL USAF
+6TH DISTRICT OFFICE OF SPECIAL INVESTIGATIONS
+ROBINS AIR FORCE BASE, ROBINS FIELD, GEORGIA
+NOV 2 01952
+24-0
+SPOR INTELLIGENCI
+SUBJECT: Unidentified Aerial Object Sighted over Brinson, Georgia
+TO :
+Director of Special Investigations
+Headquarters USAF
+Washington 25, D. C,
+SYNOPSIS:
+An unidentified aerial object was sighted near
+Brinson, Georgia, on 8 November 1952.
+DETAILS: On 8 November 1952, a strange aerial object was
+spotted hovering over the woods approximately two (2) miles north of
+Brinson, Georgia, by a farm worker, When the object was first ob-
+served, it was hovering above the trees making a peculiar noise,
+immediately after which is went straight up and out of seeing dis-
+tance. The object was described as being shaped like a lamp shade.
+3. ACTION: No action was taken by this office.
+ec:
+Commanding General
+© Air Materiel Command
+Wright-Patterson AFE, Ohio/
+ATTN:
+MOIS
+LHO H. JOHNSON
+It Colonel, USAF
+Dietrics Commander
+S
+UNCLASSIFIED
+CONFIDENTIAL
+SECURITY INFORMATION
+14-185-6-14
+Nor 24 10
+Saur
+RAFB 28 APR 50-50,000
+Declassification Authority: NND 923007

@@ -1,0 +1,83 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T12:51:21Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5692382, "source_ctime_ns": 1793382045962387871, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28982518/0937.jpg", "source_mtime_ns": 1785701068000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28982518/0937.jpg", "source_sha256": "050c215ea331fc8f28a7b4c1f7b9cab8a191fe392365f52caa41775c81430679"}
+
+===== PAGE 1 =====
+{"alpha_words": 207, "chars": 1323, "method": "ocr", "page": 1, "variant": "plain-vision"}
+'ER SHEET
+SUSPENSÉ
+ORIGIN OF BASIC
+ASSIGNED BY
+NUMBER
+DATE
+SUBJECT
+Sighting by M
+POUTING
+Initial "IN" column to denote review prior to action.
+(X for action; for coordination. )
+"OUT"
+column to denote review of completed actio
+IN
+OFFICE
+OIN- 1
+OIN- IX
+OUT
+IN
+OFFICE
+OIN- 2
+OIN-2X
+OUT
+IN
+OFFICE
+OIN- 3
+OUT
+IN
+OFFICE
+AFOIN
+AFOIN
+AFOIN-X
+AFOIN•X
+OIN- X1
+OIN-X2
+OIN-X3
+OIN-X4
+OIN- X5
+CABLES
+FILE
+DISPATCH
+OU T
+TO:
+DATE
+SAFIS-3, ATTN: Maj. 1. J. Tacker
+| FROM:
+29 April 1959
+COMMENT NUMBER
+COMMENTS(Use reverse,
+AFCIN-LE
+it nec
+(ary )
+1
+4E4g/Maj Frdend/ac/69216/B1dg 263
+1. The possibility of Mr.
+seeing one of the satellites and its
+carrier was considered. Upon
+checking, it was determined no known satellites were
+in the area at time of sighting.
+2.
+Assuming the figure of two degrees per second and 50,000 feet altitude,
+the speed would be around 600 knots, which is within the speed range of jet air-
+craft. It is quite possible the objects were at a lower altitude than 50,000 feet;
+however, a small error in the witnesses' estimete of time would have a large effect
+upon the resultant speed.
+3. The ATIC conclusion is that in all probability the witnesses saw aircraft
+lights.
+1 Inel:
+Cy ltr dtd
+12
+59
+fr
+Tendalon Pat
+Colonel, USAF
+AFCIN-LE
+FORN
+AFHO 15 JUL 54 0-86
+PERVIOUS EDITIONS OF THIS FORM MAY BE USED.
+GPO 878 528

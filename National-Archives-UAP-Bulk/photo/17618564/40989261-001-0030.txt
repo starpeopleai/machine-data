@@ -1,0 +1,74 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T12:51:38Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5707752, "source_ctime_ns": 1793355088351710520, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989261-001-0030.jpg", "source_mtime_ns": 1785564391000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989261-001-0030.jpg", "source_sha256": "b37cb73477bd3022982657b99221a1575b895ac0561ea60661cf4ff307e767e8"}
+
+===== PAGE 1 =====
+{"alpha_words": 124, "chars": 902, "method": "ocr", "page": 1, "variant": "plain-vision"}
+January
+February
+August
+September
+October
+November
+December
+Surface
+Winds
+Clouds
+At
+X-Time
+Climb
+Out
+Distance
+Integrated
+Rating
+5
+7
+9
+10
+6
+8
+11
+12
+1
+2
+3
+4
+10
+9
+11
+2
+12
+6
+1
+4
+5
+8
+12
+10
+11
+4
+2
+11
+9
+12
+8
+4
+3
+10-
+6
+1
+2
+5
+7
+The most anomalous statistic here is July, which often sees about
+one dry week in the middle of the month.
+(More see Part B)
+3.5. Hovering Flights
+This terminology is related to fights in excess of 24 hours,
+which are purposely flown at the altitude of minimum winds, They may
+even be varied in altitude, in order to pursue this minimum flow level
+as the latter varies, or to take advantage of wind direction reversals
+between different levels.
+Standard wind data in the stratosphere is in 5000 foot increments.
+However, computer processed radiosondes for WSMR, in 1000 foot increments,
+indicate lesser speeds within these standard layers. The monthly
+distribution is as follows:
+23

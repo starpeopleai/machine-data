@@ -1,0 +1,56 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T13:00:26Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9182302, "source_ctime_ns": 1793379252213936601, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28971779/00038.jpg", "source_mtime_ns": 1785700937000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28971779/00038.jpg", "source_sha256": "a54f4ee5f3787380f3ee4e90faa67e0f367b066e55b94c47cc67e68a2d5820c2"}
+
+===== PAGE 1 =====
+{"alpha_words": 113, "chars": 869, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+24 Sentember 1957
+3. DATE-TIME GROUP
+Local.
+GMT.
+5.
+PHOTOS
+24/01302
+• Yes
+LENGTH OF. OBSERVATION
+PROJECT 10073 RECORD CARD
+2. LOCATIOH
+Dayton,
+Ohio
+4. TYPE OF OBSERVATION
+*D- Ground-Visual
+• Air Visual
+SOURCE
+• Ground-Rudar
+• Air-Intercept Rodor
+Civilian
+8. NUMBER OF OBJECTS
+fifteen minutes
+one
+0. BRIEF SUMMARY OF SIGHTING
+One cylinder-wide top tapered down,
+silver object the size of a dime at
+arm's length. Object was seen moving
+into sun & was in sight for fifteen
+minutes.
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aireraft
+•
+Probably Aircraft
+Possibly Aireraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other.
+Insufficient Data for Evaluatior
+Unknown
+9. COURSE
+unknown
+11. COMMENTS
+Concur with rpting officer that
+this sighting was probably caused
+by a balloon.
+No report in file.
+ATIC FORM 329 (REV 25 SEP 52)

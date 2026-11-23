@@ -1,0 +1,51 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T12:47:43Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4117579, "source_ctime_ns": 1793376448477112110, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28960726/0626.jpg", "source_mtime_ns": 1785696600000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28960726/0626.jpg", "source_sha256": "b994d0e49371b54cb7c2570915b8045334206e4bb68fdf66a89c119862ab8951"}
+
+===== PAGE 1 =====
+{"alpha_words": 333, "chars": 2217, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AF FORM 112-PART 11
+APPROVED 1 JUNE 1948
+AIR INTELLIGENCE INFORMATION REPORTUNCLASSI
+REPORT NO.
+ROM (Agency)
+IM
+3OH AIR DIVISION (DEFENSE)
+PAGE
+PAGES
+-22
+RADAR OBSERVATTONS DATA SHENT
+I. QUESTIONS REGARDING DETECTING RADAR EQUIPMEN
+That type redar equipment is involved? 3-4
+Has there been any recent maintenance diffieulties? If so, describe,
+Tito-ap 23 Des 54 (day)
+Steering dot information incorreet, wrong altibade
+correction, contacta 7-3 mi, or bolo
+3. that type noblator (1.0, spark gap, hard tube, eto) is used in the radar equipmen
+sort mexi tuba
+4. Vas the AFC (autonatie frequency control) circuit of the receiver operating
+properly? Yea
+5. las interference from another radar set been observed recantly, and are parsonnel
+familiar with the effects caused by an interfering signal?
+5, That type indicators, "A scope", "3 scope) eto, vere used to follow the targat?
+7. What was the radar scan rate? 20/ain,
+What was the approximate frequency of the transmitter? 9375
+II. QUISTIONS GENERAL
+1. What were the general weather conditions at the time unidentified target was
+observed? CAW
+2, What weather data from nearby 13 weather stations is available on temparature
+ve altitado, humidity va altitude, and vind relocity ya altitada?
+3. Was the target observed by any other nearby radar equipments? If so, give details.
+Are the operator and the supervisor fandliar with the effects of ancalous (dict-
+arfect) propagation as they pertain to this type radar?.
+Nas ancmalous propagation been observed to extend the range of ground elatter
+by this radar at this aite, and did this condition exist during or near the
+Sine that unknown target was observed?
+What effects of rain storms and Lightning have been observed on this radar?
+A TRUE COPY
+ed It, USAF
+UNCLASSIFIED
+NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S. C.-
+31 AND 32, AS AMENDED. ITS TRANSMISSION OR THE. REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW
+IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF
+INTELLIGENCE, USAF.
+JF
+55 0088

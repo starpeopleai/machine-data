@@ -1,0 +1,57 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T13:17:23Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8101419, "source_ctime_ns": 1793376888170838655, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28962199/0407.jpg", "source_mtime_ns": 1785696705000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28962199/0407.jpg", "source_sha256": "4b1452d3e68b73319525937c7d47faa29dad450f483bb5a5ed8a73b05ab69fe4"}
+
+===== PAGE 1 =====
+{"alpha_words": 120, "chars": 945, "method": "ocr", "page": 1, "variant": "plain-vision"}
+UFOB INDEX CARD
+1. DATE
+23 May 1955
+3. DATE-TIME GROUP
+Local
+GMT_
+5. PHOTOS
+23/23252 1a7 1955
+• Yes
+31 No
+7. LENGTH OF OBSERVATION
+Torge (3) Seconda
+10. BRIEF SUMMARY OF SIGHTING
+One (1) black, cigar shaped object, the size of
+a 3-47 type a/c was seen
+for three (3) seconds
+having a very high altitude.
+2. LOCATION
+myria, Ohio
+TYPE OF OBSERVATION
+2 Ground-Visual
+• Air- Visual
+6. SOURCE
+• Ground-Radar
+• Air-Intercept Radar
+Civilian (COC)
+8. NUMBER OF OBJECTS
+9. COURSE
+12.
+CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircreft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+Other_
+Insufficient Data for Evaluation
+Unknown
+One (1)
+Don East
+11. COMMENTS
+Much a/c activity in the area at time
+of sighting.
+Due to the short duration
+of sighting and the probability or
+further investigation being useless,
+no investigation was authorized this
+headquarters.
+AISOP Form 5 (15 Oet 54)

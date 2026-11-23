@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T13:00:40Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9416922, "source_ctime_ns": 1793380255459153351, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28975027/1423.jpg", "source_mtime_ns": 1785701111000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28975027/1423.jpg", "source_sha256": "01a44b8c7b1f52fc4fe521b24c769b8dd1522a407f34050d233c84a0c4dd9865"}
+
+===== PAGE 1 =====
+{"alpha_words": 88, "chars": 611, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Michess 21/0S50 7
+NOV 21 23 20 5ZŚ
+SQ5287 YMB126 YYD@98FLA072
+ER RJEDDN RJEDSO RJEPHO
+DE RJEFFL SP
+R21222SZ
+FM COMDR 782ND ACWRON
+TO RJEDDN/COMDR AIR DEFENSE COMMAND ENT AFD
+INFO RJEDFL/COMDR 58TH AIR DIV WPAFE
+RJEDSQ/COMOR AIR TECHNICAL INTELLIGENCE CENTER WPAFE
+RJEPHQ/DIRECTOR INTELLIGENCE HEADQUATER USAF
+ET
+/UNCLAS/INTEL 231 PD SUEJECT CIN UNIDENTIFIED FLYING OBJECT REPORT PD
+IN ACCORDANCE WITH AIR FORCE RECULATION 200-2 DATED 12 AUGUST 1954
+THE FOLLOWING IS SURMITTED PD
+ITEM I
+ROUND
+RASKETFALL
+seeM Through BiNoculars
+ERIGHT ORANGE
+CNE (1)
+E. NONE
+INSUFF INFO
+F. NORE
+PAGE TWO RJEDFL SP
+G. NONE
+• NONT

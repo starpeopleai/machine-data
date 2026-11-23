@@ -1,0 +1,41 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T12:50:18Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4945810, "source_ctime_ns": 1793382581082515898, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28984672/0009.jpg", "source_mtime_ns": 1785701089000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28984672/0009.jpg", "source_sha256": "992ca1cf0fbd6cc7ff312e7138639d769dfa8d564a01abb1c31ca71079b180ff"}
+
+===== PAGE 1 =====
+{"alpha_words": 146, "chars": 1264, "method": "ocr", "page": 1, "variant": "plain-vision"}
+d. Time and Date of Sighting:
+(1) 0700Z, 26 September 1959.
+(2) Night.
+e. Location of Observer: Adna, Washington, 460 38' N, 123° 031 W.
+I. Identifying Information:
+•, Jr.
+Adna, Washington, Telephone
+Railroad Section Hand. Unreliable.
+g. Weather and Winds:
+(1) Scattered to broken.
+(2) Surface:
+South 3 Knots, 6,000' 270°/20 Knots, 10,0001
+290°/30 Knots, 16,0001 2900/40 Knots, 20,000' 2900/50 Knots, 30,000'
+290/100 Knots, 50,000' 300/60 Knots, 80,000' unknown.
+(3) Toledo, Washington Report, 08004: 800 broken, 2000'
+overcast 2 miles with very light rain and fog.
+(4) 2g nautical miles.
+(5) Over 5/10 at 800'.
+(6) None.
+(7) Seattle report for 0000%: 11°C per 1000' to 30,000'; 4°C
+per 1000' to 50000'.
+h. None known.
+i. None.
+j. Three airline flights are known to have passed approximately
+15 miles Fast of the observer's position and are lown to have been
+in this area between 0700Z and 0730Z.
+Report prepared by Captain Eugene G. Smith, 414,04A, Assistant
+Operations Officer, 337th Fighter Group.
+(1) The report of the unidentified objects did not reach this
+office until four days after the alleged sighting. The report was first
+received from a Mr.
+Who was informed of the occurance by
+Mr -
+Captain Smith contacted Mr.
+• by telephone to verify
+the report.
+2

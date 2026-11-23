@@ -1,0 +1,10 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T12:38:48Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 17391896, "source_ctime_ns": 1793356603491411095, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0220.tif", "source_mtime_ns": 1785564729000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0220.tif", "source_sha256": "836460264a4ff30e77e1d51ebc42bbe69666322b48bf4f2dd50273879622f0fb"}
+
+===== PAGE 1 =====
+{"alpha_words": 51, "chars": 341, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Incident #25 -- West trenton, New Jersey -- 4 July 1947
+The object sighted here could easily have been a bright
+meteor, out in view of the date of the observation, it seens even
+more likely that the young lady saw part of a late Fourth of duly
+celebration -- a rocket from some amusement park, perhaps.
+Declassification Authority: NND 57565

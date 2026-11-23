@@ -1,0 +1,63 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T12:56:21Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7466158, "source_ctime_ns": 1793382086195928162, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28982620/1033.jpg", "source_mtime_ns": 1785701114000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28982620/1033.jpg", "source_sha256": "8c7e96255819695c7aad454bf872bdd257a994ca28ecb91b80a941dc3d7dbbaa"}
+
+===== PAGE 1 =====
+{"alpha_words": 220, "chars": 1397, "method": "ocr", "page": 1, "variant": "plain-vision"}
+OFFICIAL U.S. AIR
+Page 1
+U.S. AIR FORCE TECHNICAL INFORMATION
+This questionnaire has been prepared so that you can give the U.S. Air Force as much
+information os possible concerning the unidentified gerial phenomenon thot you have observed.
+Piease try to answer as mony questions as you possibly can. The information that you give will
+be used for research purposes. Your name will not be used in connection with ony statements,
+conclusions, or publications without your permission. We request this personol informotion so
+that if it is deemed necessary, we moy contact you for further details.
+1. When did you see the object?
+spring Moh
+1952
+3. Time Zane:
+(Circle One): 9
+Eastern
+b. Centra
+Mountain
+d. Pacifie
+e. Other
+4. Where were you when you saw the object?
+2. Time of day: ciround mecinete
+Hours
+Minutes
+(Circle One):
+A.M. or P.M)
+(Circle One): 0. Stand Saving
+Standard
+alutama
+State or County
+ur mentamire
+earest Postal Addres
+5. How long was object in sight? (Total Duration)
+5.1 How
+5.2 Was
+6. What was the condition of the sky?
+DAY
+Bright
+b. Cloudy
+Juburn
+City or Town
+223
+Hours
+di. lost equeure
+ud
+No.
+NIGHT
+a Brigh
+b. Cloudy
+7. IF you saw the object during DAYLIGHT, where was the SUN located os you looked at the object?
+d. To your left
+(Circle One): a. In front of you
+b. In back or you
+c. To your right
+Overhead
+1. Don't remember
+FORM
+FTD OCT 62 164
+tich is obsolete.
+This form sup

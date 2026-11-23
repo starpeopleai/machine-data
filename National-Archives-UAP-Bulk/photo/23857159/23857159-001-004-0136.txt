@@ -1,0 +1,57 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T13:07:05Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 21360980, "source_ctime_ns": 1793361125682492264, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-004-0136.tif", "source_mtime_ns": 1785565238000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-004-0136.tif", "source_sha256": "4db1652e3ee3b3504e4a685a4431f52fc9a4f93c54fc2022efe1f3dd3cdb28a6"}
+
+===== PAGE 1 =====
+{"alpha_words": 207, "chars": 1576, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AF FORM 112-PART I|
+APPROVED 1 JUNE 1948
+AIR INTELLIGENCE INFORMATION REPORT
+REPORT NO.
+5004TH AIR INTEL SVC SQ
+APO 942:
+SEATTLE, WASHINGION
+IR-5004-3-58
+PAGE
+OF
+I. DATA RECEIVED IN THE ORIGINAL REPORT:
+Following information was received by TWX from COMALSEAFRON 190702Z Jan 58 and
+is recorded in accordance with the format prescribed (Paragraph 7d, AFR 200-2):
+1. Description of the Object:
+a. Unidentified
+b. Unknown
+c. Unknown
+d. Three
+e. Triangular formation. Remained unchanged.
+f•
+None
+None
+ho
+None
+i. None
+2. Description of Course of Object:
+a. Radar contact 45 miles
+b. Above aircraft. Altitude unknown. 180 degrees magnetic heading.
+C• Same as b above,
+do
+Straight course. 198 degrees true heading. No maneuvers. Speed
+evaluated 320 knots.
+e. Lost on radar scope.
+f. No information
+3. Manner of Observation:
+a. Air electronic APS 20E radar. Vapor trail reported by one crewman.
+b. None
+ing 328 degrees; 175 knoteş Naval Station odiak.
+Identification Number 131458: altitude 9,000 feet: True head-
+4. Time and Date of Sighting:
+142034Z
+b•
+Day
+NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S. C.-
+31 AND 32, AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW.
+IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF
+INTELLIGENCE, USAF.
+(CLASSIFICATION)
+16-55570-1
+I PRINTING OFFICI
+58-2601
+DECLASSIFIED
+Authority NND 9237007

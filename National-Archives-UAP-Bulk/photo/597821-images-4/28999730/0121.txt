@@ -1,0 +1,18 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T12:49:48Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4792265, "source_ctime_ns": 1793388029226730611, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28999730/0121.jpg", "source_mtime_ns": 1785747873000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28999730/0121.jpg", "source_sha256": "0b805fb1361e548fa82d8d44f92e063cd523e2024aaa15edb0af7344faaedcca"}
+
+===== PAGE 1 =====
+{"alpha_words": 69, "chars": 486, "method": "ocr", "page": 1, "variant": "plain-vision"}
+STAFF MESSAGE BRANCH
+UNCLASSIFIED MESSAGE
+AF IN : 10880 (3 Nov 62) IN COMING
+PAGE 2 of 2
+UNCLAS/C I V I S/FROM V143213. SINGLE SATELLITE WITH BRIGHTNESS OF
+SECOND MAGNITUDE STAR. POSITION 34 DEG NORTH, 176 DEG 25MIN
+WEST AT 03/0847Z. ROSE FROM 5 DEG ABOVE WEST HORIZON. HELD FOR
+13 MINUTES. ROSE TO 30 DEG ABOVE THE
+HORIZON COURSE SE. NO
+EVALUATION AT THIS TIME.
+ADDITIONAL INFORMATION HAS BEEN REQUESTED FROM THE SIGHTING
+AIRCRAFT•
+NOTE: ADV CY TO CIN, DIA, OOP-CE
+03/1029Z NOV RUHLKH

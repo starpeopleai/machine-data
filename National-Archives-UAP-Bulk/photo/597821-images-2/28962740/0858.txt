@@ -1,0 +1,41 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T13:18:03Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8301418, "source_ctime_ns": 1793377119007386943, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28962740/0858.jpg", "source_mtime_ns": 1785696732000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28962740/0858.jpg", "source_sha256": "ad1205b7349447a25a3d0bafc7cee1a25f8b4f39e89619cef1976c924b4455dc"}
+
+===== PAGE 1 =====
+{"alpha_words": 196, "chars": 1268, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AF FORM 112-PART II
+APPROVED 1 JUNE 1948
+UNCLASSIFIED
+AIR INTELLIGENCE INFORMATION REPORT
+FROM (aLgency)
+Flight 1-C, 4602d AISS
+16-UPOB-11-55
+PART TWO
+OF 20ął
+Inel #l PART TO, Rept 10-UFOB-11-55
+Statement of AC2 Richard F. Lundy
+S-T-A-T-B-M-E-W-T
+When this object was sighted it was moving rapidly to the east. This
+object wold appear and disappear.
+It faded as we lost it.
+It appearad to
+move easterly when we saw it.
+It was spotted with a theodolite on a bearing of
+277 degrees when it disappeared.
+I vould say that it was not a star because
+of the one radical move. We had this in sight approximately 23 to 25 minutes.
+We noticed this because Edgards Air Force Base requested we look for an object
+north or south of our field.
+PAGES
+/s/ Richard F. Lundy
+AC2
+USN
+S-T-A-T-E-V-E-N-T
+A TRUE COPY:
+Captain
+USAF
+NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S. C. -
+31 AND 32, AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW
+IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF
+INTELLIGENCE, USAF.
+UNCLASSIFIED
+101000701

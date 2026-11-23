@@ -1,0 +1,54 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T12:55:57Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7294048, "source_ctime_ns": 1793354656852453498, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989218-001-0070.jpg", "source_mtime_ns": 1785564320000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989218-001-0070.jpg", "source_sha256": "6cdc1fb5c9db4dbfbcbb57ccdbc22eba4b83591c409236f2548665ca14f853d5"}
+
+===== PAGE 1 =====
+{"alpha_words": 348, "chars": 1939, "method": "ocr", "page": 1, "variant": "plain-vision"}
+& Would you tell us where you went - approximately 16 December?
+A.
+We left around 3:30 in the afternoon and we went to the club for about
+30 minutes and then we started enroute to Walker Air Force Base.
+We drove
+that afternoon and part of the evening and we stopped at a motel in Vicksburg,
+Mississippi.
+In a motel.
+A. Yes, sir.
+I want you to think now; did you register at the motel?
+I register in my own...
+Q. Do you know if the accused registered at the motel?
+A.
+Yes, sir.
+¿. Do you know how you registered?
+I registered in my own name.
+And the accused?
+A.
+Yes.
+In other words, you had separate rooms, is that correct?
+A. Adjoining rooms.
+Q. Adjoining rooms; now did you and the accused have a discussion about ob-
+taining rooms prior to the time you arrived at Vicksburg?
+A. We did.
+. What...what was the conversation?
+I told him I was going to register and get a room and he said that it'd
+cost too much, it was senseless to pay out that much money and...but I told
+him anyway I was feeling bad about making the trip - whether it was wrong or
+right.
+Now, when you got to your room, approximately what time was it when you
+got to your room?
+A. Around 9:30 or quarter of ten.
+Q. Will you tell me what you did when you got to your room?
+A.
+I went in my room, sat down fully dressed, and didn't move; he went to
+his room, took a shower...
+TC: Would you try to speak up, please? Can you hear her, the last member at
+the end?
+(Last court member at end nods head in the affirmative.)
+TC: Proceed.
+Response continued by the witness:
+A.
+And he came in with his pajamas on; I was still fully dressed at the time
+and...after that we started talking and he laid down across the bed and I was
+sitting on the chair and...I was telling him to go back to his room, that I
+didn't feel good and...didn't feel like talking or anything,
+so he said why
+not have a drink to make me feel better, to cheer me up - which we did; started
+drinking bourbon.
+58

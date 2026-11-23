@@ -1,0 +1,30 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T12:56:46Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8081724, "source_ctime_ns": 1793364432541246379, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330787145/45484701-007-001-0006.jpg", "source_mtime_ns": 1785684559000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330787145/45484701-007-001-0006.jpg", "source_sha256": "57b560c569df02aaab0e1f32a1a65b863d37ddf46b99aa7426e7c3baa6ab3706"}
+
+===== PAGE 1 =====
+{"alpha_words": 82, "chars": 620, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Il.(CONTINUED - If additional space is necessary continue on plain sheet of paper)
+TYPED NAME OF SPECIAL AGENT
+SIGNATURE
+DETACHMENT COMMANDER'S COMMENTS ANO REÇOMMENDATIONS
+Investigation is being conducted to comply with para 15 AFR 200-2.
+TYPED NAME OF DETACHMENT COMMANDER
+LEE D. STEGER, Captain, USAF
+IV.
+SUPERVISOR'S COMMENTS AND RECOMMENDATIONS
+Leanend open 2xśę
+SUPERVISOR
+TYPED NAME AND GRAL ACLAIRIC
+OPEN NEW FILE
+OTHER ACTION
+LevI
+sand Celand
+DISTRICT COMMANDER'S ACTION
+18
+Diego
+F. P. DUNNINGTON, JR.
+Colone
+USAF
+TYPED NAME AN CEMEnISTRICT COMMANDER
+SIGNATURE
+GPO 886615
+Declassification Authority: NND 923007

@@ -1,0 +1,26 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T12:47:39Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4060672, "source_ctime_ns": 1793386752836976287, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28997259/0858.jpg", "source_mtime_ns": 1785748193000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28997259/0858.jpg", "source_sha256": "ed0271d65eba34580d8913cf6b5478da76e35b5fafc9a874b4b2d5e6e2479761"}
+
+===== PAGE 1 =====
+{"alpha_words": 49, "chars": 355, "method": "ocr", "page": 1, "variant": "plain-vision"}
+MEMO ROUTING SLIP
+і то
+SAPOT
+CONCURFENOE OR SHADE ACTIONALS.
+FTP -1647
+NOTE AN
+PER
+VERSATIO
+SEE ME
+REMARKS
+The attached letter from
+of Millaap,
+Texas is forwarded as a matter pertaining to your
+office.
+A. OISON, It Col, USAT
+Asst for Inquiries & Complainte, TIG
+DD 507 60 95
+Replaces DD
+a 50 which will De d a exte g
+1 Jun 62
+7658L
+* GPO: 1960-0---568294

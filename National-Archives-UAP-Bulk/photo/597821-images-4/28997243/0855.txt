@@ -1,0 +1,25 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T12:46:35Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3874956, "source_ctime_ns": 1793386751768501020, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28997243/0855.jpg", "source_mtime_ns": 1785748550000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28997243/0855.jpg", "source_sha256": "011f0772e53783c1610b6a7d315809f50b8ac8bc896710e3f0782b0d60bfcbaf"}
+
+===== PAGE 1 =====
+{"alpha_words": 102, "chars": 635, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+7a :
+3)
+
+Page 9
+
+U.S, AIR FORCE TECHNICAL INFORMATION SHEET
+(SUMMARY DATA)
+
+In order that your information: may be filed and coded.as accurately as possible, please.use
+the following :space .to write outa short description of the event that you observed, You may re-
+peat information ‘that you :have already given'in the questionnaire, and odd any further.comments,
+statements, or skatches:that you: believe are important. Try to present the details of the observe-
+viormin the order in. which they occurred. Additional pages of the:same size paper may be attached
+
+if thay are needed,
+
+{Do Not Write in This Space)
+
+CODE:
+
+et ans Es

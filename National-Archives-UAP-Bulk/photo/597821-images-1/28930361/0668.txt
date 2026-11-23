@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T12:51:31Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5696649, "source_ctime_ns": 1793369035080213902, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28930361/0668.jpg", "source_mtime_ns": 1785688540000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28930361/0668.jpg", "source_sha256": "2894935b7bc1fac040f00f64d26b80388dd5dff8c65c3e2c1d049d117888d678"}
+
+===== PAGE 1 =====
+{"alpha_words": 173, "chars": 1190, "method": "ocr", "page": 1, "variant": "plain-vision"}
+кК 16769
+N12- 16312
+122 2~93-48
+Aviation in Denmark
+1 Incl
+27 Feb 48
+Dateof Info: 20-26 Feb 48
+It Col Franklin A, Tomlinson
+Inclosed is a summary of aviation reports contained in
+Danish newsmers and J4S News for the period 20 Peo
+to 26 Fed inclusive. Topics discussed are:
+1. Bia plane enroute from LONDON to LISBON struck by "fire ball
+2. Flying miesiles from direction of PruEMUNDE reported over
+Sweden, Norway and Defackr.
+3. On 25 feb 48, Danish Financial Board granted 22,155,000 Daniar
+Kroner for improvement of Danish aimports.
+firer ft he been bermanently baeed at Conningen.
+Routine technical inspections and overhauling of AS IC-4
+.....
+A British Durobeen Airways Plane, flying from Lorden to
+Lisbon, was hit in the air by "fire ball" which hit the nose
+of the aircraft, shook it violently, and made a hole in the
+elavator (further detaila not available.)
+2. Flying missiles, emitting a green flame but leaving no trace. in
+the sky, have been reported recently over Sweden, Norway, and
+Denmark, coming from the direction of PINEMUNIE, generally at
+2130 hours, at altitudes rongice from tree-ton level to 20,000
+feet, at an estimated speed of one to two miles per second.
+Sme / 33

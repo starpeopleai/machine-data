@@ -1,0 +1,55 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T13:17:54Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8262980, "source_ctime_ns": 1793387023052926432, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28998032/0106.jpg", "source_mtime_ns": 1785748201000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28998032/0106.jpg", "source_sha256": "6c1779baf18286564f2e4163910206b89431cd4668cfd1127f9503de5fe6c716"}
+
+===== PAGE 1 =====
+{"alpha_words": 415, "chars": 2637, "method": "ocr", "page": 1, "variant": "plain-vision"}
+OFFICIAL FILE COPY
+OFFICIAL FILE COPY
+TD-E/Lt Col Friend
+Unidentified Flying Objects Sighted in the
+Antaretie
+3 August 1962
+Eg USAF
+SAFOI-3b (Major Hart)
+Wash 25 DC
+1. On 7 June 1962 at 01052 witnesses at Hallett Station, 72-20 S and
+170-00 E observed an object which they described as brighter than a
+Pirst magnitude star. This object was sighted on a true bearing
+approximating 250° from Hallett Station. The elevation was reported
+to be approximately 30° and the object was observed for more than five
+minutes.
+This sighting probably rerulted from the misidentification
+of the planet Jupiter due to distortion of that body by inconsisteacies
+in the atmosphere.
+The reported azimith of the object and that of the
+planct at the time of the sighting are very nearly the same.
+The wit-
+nesses reported the object moved slowly in a southerly direction which
+1s the same as the apparont motion of Jupiter when Vieved from Fallett
+Station at this time and date. At the time of the sighting Jupiter was
+the brightest astronomical object, -2.0 mgnitude, which could be scen
+from Fallett Station. Jupiter's elevation at the tins of the sighting
+vos less than five degrees, for from the thirity degrees reported by
+the witnesses. It is the FTD opinion that the witnesses estimate of
+the elevation was in error for they indicated that the object passed
+bebiad a nountain peak and as for as can be determined the nearest
+mountain peaks have alevations of less than five degroes when measured
+fron Fallett Station.
+It 1s probable that a strong inversion was
+present in the area at the time of the sighting and that nirage effects
+associated with this condition contributed to the sighting.
+2.
+On 22 June 1962 at 0303 Z an object leaving a smoke or vapor trail
+was observed from Detachment Alpha, Antarcticia.
+to bo brigater than a first magnitude star, white in color and to have
+moved frea a bearing of 340° to 345° at an elevation of 7°.
+of this sighting was approximately two seconds. This object was probably
+a very bright moteor Iom as a fireball. Fireballs are a rare class
+or meteor, brighter than -3.0 mognitude, usually hulticolored, often
+leaving a very evident trail and are of relatively long duration.
+trails left by these meteors appear as smoke during daylight hours and
+during dariness display mony colors. Trails left by fircballs have
+beca used to study winds in the upper atmosphere, firty mile zone, by
+such eminent astronomers as Dr. Fred Whipple, Harvard and In. Charles ?.
+oliver, University of Pennsylvania.
+Since these trails may persist for half
+an hour or more, it is not unusual for them to be distorted by these winds.

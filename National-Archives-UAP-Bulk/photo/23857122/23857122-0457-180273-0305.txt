@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T13:07:01Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 19979648, "source_ctime_ns": 1793356683255496342, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0305.tif", "source_mtime_ns": 1785564741000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-0457-180273-0305.tif", "source_sha256": "2477f7ca9f289bdf21494546b062b4731ba45f372c21aa363f67849bf4593813"}
+
+===== PAGE 1 =====
+{"alpha_words": 171, "chars": 1153, "method": "ocr", "page": 1, "variant": "plain-vision"}
+RESTRICTED
+Incident $176, a -- Castro's Ranch, California -- 23 September 1948
+The two observers of this incident make, in several
+respects, directly contradictory statements: diffuse object versus
+definite box-shaped object, easterly line of flight versus north-
+westerly, etc. They agree on speed (very fast).
+It does not seem likely that the incident can be explained
+The only possible astronomical hypothesis would be
+that
+the object observed was the smoke mass from an exploded fire-
+ball, which would probably have an amoeba-like shape, agreoing with
+the description of one witness. at noon a meteor outward-bound fron
+Che
+region of the sun could approach the sarth head-ony explode, and
+not leave any long trail.
+However,
+in view of the conflicting descriptions, very
+little weight can be given to the whole incident. Perhaps thé ob-
+servers were looking at different things. There was a west-bound
+United Airlines plane in the vicinity at approximately that time;
+one observer may have seen that. The description of one observer
+suggests a box kite, such as those once used by weather observers.
+RESTRICTED
+Declassification Authority: NND 57565

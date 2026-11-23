@@ -1,0 +1,56 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T12:58:08Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8291074, "source_ctime_ns": 1793363820268785943, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330785831/45484701-006-001-0318.jpg", "source_mtime_ns": 1785684878000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330785831/45484701-006-001-0318.jpg", "source_sha256": "84e635ced15de4dee4c992ebcca689c2b3d48c18f7ba74bc015eed5be268e04e"}
+
+===== PAGE 1 =====
+{"alpha_words": 147, "chars": 1128, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Check Sheet - Unconventional Aircraft (Cont)
+16. Control and stability:
+a. Fine
+_Object appeared to maintain straight course and more or less
+level fli ht.
+b. Stabilizers (horizontal or vertical)
+None noted
+17. kir ducts:
+a. Slots_
+None noted
+b. Duct openings
+None noted
+18. Speed - M.P.H.
+400 - 500 MPH
+19. Sound:
+a. Continuous whine or buzz
+NA
+b. Rar, whistle, whoosh
+c. Intermittent
+N/A
+NA
+20. Manner of disappearance:
+a. Explode
+N/A
+b. Faded from view
+N/A
+c. Disappeared behind obstacle
+disappeared from view behind a line
+of high hills.
+Relative to the Observer
+Name of observer
+Dr.
+H•
+G• LAUBACH
+2. Address
+Mitchell, Nebraska
+3. Occunation.
+Physician and surgeon
+4. Place of business Mitcholl, Nebraska
+5. Pertinent hobbies_
+None
+6. Ability to determine_
+Average
+7. Reliability of observer
+Excellent
+8. Notes relative to observer on:
+a. Sightings in general
+How attention was drawn to ohject (s) Was driving south on outer edge
+of town.
+Attention was drawn by a bright light flashing in his eyes. Closer
+examination revealed object which appeared to be whirling and dipping slightly
+Declassification Authority: NND 923007

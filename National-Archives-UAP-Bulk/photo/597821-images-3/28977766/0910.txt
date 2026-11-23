@@ -1,0 +1,52 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T12:47:50Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4131201, "source_ctime_ns": 1793380685679969232, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28977766/0910.jpg", "source_mtime_ns": 1785701086000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28977766/0910.jpg", "source_sha256": "512792e958387067c8a1bb923983d89056272b1ff0cdf1b91b59879bc964e5fc"}
+
+===== PAGE 1 =====
+{"alpha_words": 241, "chars": 1551, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Civi Air Pairal
+Auxiliary of the United States Air Force
+MANITOWOC SQUADRON
+Room 311 - City Hall
+MANITOWOC, WISCONSIN
+Phone
+Murrary 4-8434
+4-6881
+12 April 1958
+To: 4110
+Wright Pat Field
+Dayton Ohio.
+From: Commander Manitowoo Sgdn C.A.P.
+Subject: Vital IntelligenceạẠeport.
+1.. At 12:45 A.M. 12 April 1958, 1 was called by the Manitowoo
+County Sheriff's
+Dep't and the County Director of Civil Jefense to
+assist in the investigation of reported UFO's.
+a..At 11;30 Saturday night, a Nun fron the Holy Family Convent
+on the outskirts of Manitovoc reported two blue lights flying around
+the convent and reported that one had landed and was then visible
+in a nearby field.
+b...The Sheriff ofạanitows County took two patrol cars to the
+scene and personally saw the one light on the ground from an observation
+point within the Convent. Upon searching the field, however, the object
+had dissapeared. The second object had previously flom off
+on a heading
+of 360 deg, at high rate of speed.
+c.••A search that lasted until nbout 3 AeM.. in which
+personally
+took part failed to turn up any new information.
+2..At 10 AM. Sunday, I took my Executive Officer out to the convent
+and interviewed tha two Nuns who made the sightings.
+3.. Enclosed with this letter is a CIRVIS report and a transcript of
+a tape rocording we made. We are holding the original tape at our Iq
+should your Command desire to make use of it.
+Enol. ,Transcript of tape
+Cirvis report
+Dist:
+ADO
+ATIO
+DOL Hq USAF
+Sgdn file
+Singerely,
+Bassett
+Venet
+Fajor Civil Air Patrol
+Commander Manitomos Sada.

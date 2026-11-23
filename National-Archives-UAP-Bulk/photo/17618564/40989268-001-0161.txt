@@ -1,0 +1,29 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T13:13:40Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 15773685, "source_ctime_ns": 1793355722767062081, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0161.jpg", "source_mtime_ns": 1785564510000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0161.jpg", "source_sha256": "e15dd0fc2f92e4f153bbda46f48873815619101e46fb2226e70e2230f9903f3e"}
+
+===== PAGE 1 =====
+{"alpha_words": 34, "chars": 246, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+UOTIeTSIIOD yUeA OTuosesjU. “ST
+
+sdo o¢
+
+(sanoy) AWILL
+
+@ “ON HOLOXLAG T “ON HOLOALAG
+
+suoT}oejeq WeLoIIy Jer PUB UOISTG “TT eansTy
+
+(sanoy) AWIL
+
+OS'Ifd YaMO'T:
+
+2 RT eR BRT aT 4
+
+* oes:
+
+we
+
+(sdo) AONANOAUA
+
+2 gaNostnd uadan
+
+(s¢c~) AONANOAYA

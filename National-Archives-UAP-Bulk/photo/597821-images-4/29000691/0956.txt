@@ -1,0 +1,24 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T12:48:46Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4523691, "source_ctime_ns": 1793388278999553383, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/29000691/0956.jpg", "source_mtime_ns": 1785748276000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/29000691/0956.jpg", "source_sha256": "df57c48586d7618b5ad2a3bd4f89ab2c038f2e070c03e24549d7a9d64c59bb19"}
+
+===== PAGE 1 =====
+{"alpha_words": 85, "chars": 522, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+UNCLASSIFIED MESSAGE
+INCOMING
+AF IN : 49289 (25 Apr 63)
+Page 2 of 2
+NNNN
+RUECH/CNO VASHINGTON DC
+RUECH/SECNAV WASHINGTON DON
+AF GRNC
+UNCLAS/CIRVIS MR.
+A NON-MILITARY RES-
+VIDENT OF PORT ALLEN, KAUAI, HAWAII SIGHTED A HIGH BRIGHT OB-
+JECT, STAR LIKE, MOVING SLOW FROM WEST SOUTHWEST TO EAST
+SOUTHEAST AT 25/06252.
+NO EVALUATION AT THIS TIME.
+OF NOTE JET AIRCRAFT ON HIGH SPEED TEST RUNS IN THE
+AREA AT THIS TIME.
+NOTE: ADV CYS DEL TO XOPX. NIN, AND DIA.
+25/0645Z APR RUHLKH

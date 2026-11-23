@@ -1,0 +1,50 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T12:53:11Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6322246, "source_ctime_ns": 1793377006737371605, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28962454/0616.jpg", "source_mtime_ns": 1785696651000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28962454/0616.jpg", "source_sha256": "d92ee699ae3d984b8a095036769728ea9212cd9b519191db27bf04aba6944ecb"}
+
+===== PAGE 1 =====
+{"alpha_words": 101, "chars": 839, "method": "ocr", "page": 1, "variant": "plain-vision"}
+• DATE
+21 June 1955
+3. DATE-TIME GROUP
+Local
+GMT 241120% June 1955
+5. PHOTOS
+• Yes
+# No
+7. LENGTH OF OBSERVATION
+Fifteen (15) Minutes
+10. BRIEF SUMMARY OF SIGHTING
+UFOB INDEX CARD A733-1708 185-55
+2. LOCATION
+12. CURE, LUSIONS
+. Was Balloon
+Glenavon, California
+4. TYPE OF OBSERVATION
+* Ground-Vi sual
+• Air- Visual
+6. SOURCE
+Probably Balloon
+Possibly Balloon
+• Ground-Radar
+D Air-Intercept Radar
+Was Aircraft
+Probably Aircraft
+•
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+117127
+8. NUMBER OF OBJECTS
+9. COURSE
+Other.
+Insufficient Data for Evoluation
+Unk no wn
+One (1)
+Chroling
+11. COMMENTS
+One (1) oigar shaped, reddish object the size
+of a dine held at arms length. Binooulars
+used, visibility, five (5) miles.
+Radio oontact was ostablished with the
+UFOS. Was definitely a/o.
+AISOP Form 5 (15 Oct 54)

@@ -1,0 +1,16 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T12:48:32Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4476199, "source_ctime_ns": 1793378692005774450, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28968872/0340.jpg", "source_mtime_ns": 1785696487000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28968872/0340.jpg", "source_sha256": "a6d1307574127cc3a8c9996bf0f1aa82c66ee6939e58ae2ee56c4c28a032d6d5"}
+
+===== PAGE 1 =====
+{"alpha_words": 66, "chars": 493, "method": "ocr", "page": 1, "variant": "plain-vision"}
+No Case (Information Only)
+1 January 1957
+Brooklyn, New York
+*van 1-Brooklyn, MI-10:12pm-Uro charted by 2 Amateur Astronomers. The
+- 1957
+bright, orange light was first observed near Gamma Orionis, was of
+Star Magnitude, & moved SSW, then to WW, finally dwindling to Mag-
+nitude 7
+slightly above Theta fridini, at 10:19.lit had passed
+from 173° to 210° bearing, from Observation-Point Lat,40°35'54N.,
+Long:74°00'00 W. It was not a Meteor
+body, said witnesses. (Thanx NUTOG) 1180d deArt. dical

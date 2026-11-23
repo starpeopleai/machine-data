@@ -1,0 +1,19 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T13:01:16Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 10021219, "source_ctime_ns": 1793383122895950271, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28986367/0126.jpg", "source_mtime_ns": 1785748275000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28986367/0126.jpg", "source_sha256": "0a79749d9eeb4d729d7e9ab826a3e980c01513b332e7d282cb54ce200d191c32"}
+
+===== PAGE 1 =====
+{"alpha_words": 57, "chars": 364, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AVC IN-452
+UFO Sighting
+20 MAY 1000
+SAPOI¿d (Naj Tacker)
+It is suggested that three questionnaires be forwarded to Arad
+requesting that she complete them for three different sightings of
+the object described in attached copy of letter from OST.
+FOR THE COMMANDER:
+MICHOLAS POST
+Asst Deputy for
+Sciences and Components
+1 Abch:
+Cy 1tr,
+13 May 60 fr
+Sth District OSI

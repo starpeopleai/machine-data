@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T12:59:39Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8758721, "source_ctime_ns": 1793387679155152570, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28998991/0960.jpg", "source_mtime_ns": 1785748328000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28998991/0960.jpg", "source_sha256": "4e8f78a7b056b82edf674d22d13881f9a7a7e9d3f057f309df875c23f1d508cb"}
+
+===== PAGE 1 =====
+{"alpha_words": 108, "chars": 1142, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DEPARTMENT OF THE AIR FORCE
+STAFF MESSAGE BRANCH
+UNCLASSIFIED MESSAGE
+INCOMING
+AF IN : 50825 (7 Sep 62)
+Pg 2 of 4
+PAGE TWO RUWHHL 7H
+KNOTS. PILOT BELIEVED OBJECT WAS PLANET. 14A (1)
+UNDETERMINED, 14A (2) UNDERTERMINED, 14A
+(3) UNDETERMINED, 14A (4) ONE, 14A (5) NONE,
+14A(6) UNDERTERMINED, 14A(7) UNDETERMINED, 14A(8) NONE,
+14A(9) UNDETERMINED, 143(1) UNDETERMINED, 14B(2)
+UNDETERMINED, 143(3) UNDETERMINED, 14B(4) FLYING
+PARALLEL TO AIRCRAFT AT 75,000 TO 80,020 FEET, 14B(5)
+UNDETERMINED, 143(6) UNDETERMINED. 14C(1) AIR-VISUAL
+14C(2) UNDETERMINED, 14C(3) CONVAIR 830, 31,220 FEET,
+SOUTHWEST CHICAGO (O'HARE FIELD). 14D(1) ZULU TIME
+FROM DENVER TO MECTOR, CALIF. INDETERMINED. SIGHTING
+NEAR HANKSVILLE AT 2113Z 6 SEP 62, 14D(2) DAY. 14E
+(1) OVERHANKSVILLE, UTAH (38 25N, 11% 42W). 14F(1)
+A SCHMIDT, TRANS WORLD AIRLINES, AIRLINEPILOT, NO
+ESTIMATE OF RELIABILITY, PART II. PILOT
+OF
+TWA FLIGHT 148 FROM LOS ANGELES TO CHICAGO (O'HARE)
+AT 33,202 FEET OVER HANKSVILLE, UTAH (38 25N, 110 42W)
+REPORTED OBSERVING SAME 03JECT AT 2132Z. 14A(1)
+UNDETERMINED, 14A(2) UNDETERMINED, 14A(3) SHINY SILVER
+14A(4) ONE, 14A(5) NONE, 14A(6) UNDETERMINED, 144

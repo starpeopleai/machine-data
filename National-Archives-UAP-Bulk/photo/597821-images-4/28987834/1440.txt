@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T12:55:24Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7001920, "source_ctime_ns": 1793383775968295569, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28987834/1440.jpg", "source_mtime_ns": 1785748033000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28987834/1440.jpg", "source_sha256": "f4dbcf56d1225b60180d9e521956daa20d60bd0fdeca681303b3a20ea410ffe1"}
+
+===== PAGE 1 =====
+{"alpha_words": 126, "chars": 872, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Air Proving Ground Center, Eglin AFB, Fla., 15 August 1960,
+Subj: UFO Sighting
+1st Ind (DO)
+19 August 1960
+Hq 2500 AB Wg, Mitchel AFB, NY
+TO: ATIC, Wright-Patterson AFB, Ohio
+1. Attached letter forwarded for action you may deem appropriate.
+2. Mr.
+has been advised that his letter has been
+forwarded to your organization.
+FOR THE COMMANDER:
+Miser
+ROBERT W. MYERS
+Lt Colonel, USAF
+Director of Operations
+2d Ind (AFCIN-LE2x)
+1 Atch
+nc
+ANG ME.
+Aerospace Technical Intelligence Center, Wright-Patterson AFB, Ohio
+TO: Ho 2500th AB Wing (DO), Mitchel AFB, N. Y.
+Request the attached UFO report from Mr
+investi-
+gated in accordance with AFR 200-2, dated 14 September 1959. Also
+request the other witnesses mentioned in the report be contacted and
+all information forwarded to ATIC.
+FOR THE COMMANDER:
+PHILIP
+1. EVANS
+COLOneL, USA:
+Deputy for Science and Components
+1 Atch:
+n/c
+2

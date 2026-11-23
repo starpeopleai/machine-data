@@ -1,0 +1,45 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T12:34:46Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 16832432, "source_ctime_ns": 1793361237102924487, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-004-0242.tif", "source_mtime_ns": 1785565265000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-004-0242.tif", "source_sha256": "9b00bea6c842429c8730defe51bf384d17c2cc3943a44b06c2011aba37a6efa4"}
+
+===== PAGE 1 =====
+{"alpha_words": 328, "chars": 1873, "method": "ocr", "page": 1, "variant": "plain-vision"}
+CO-PILOT'S STATEMENT
+I am It Dehner.
+I was flying in the right seat scanning
+the overhead instrument panel at the time that the light was
+observed. Capt Faurot and I were talking to each other
+because sometime before he had observed a blip on the radar
+screen he observed a light on the left side of the aircraft
+and I wasn't paying any particular notice of it because it was
+not unusual as far as I was concerned since primarily our
+mission takes us over water and it isn't unusual for us to see
+any aircraft over water either flying the same direction we
+are at lower or higher altitude or coming toward us.
+wasn't particularly noticing at all and while we were talking
+all of a sudden this bright flash occurred. It lit up the
+cockpit to a great degree and startled us because of the
+brightness of it. And Bill first turned to me and said,
+What the hell was that?"
+and about that time why the engneer came up and reported that
+he had seen a green flare go off. We immediately surmised
+that someone was in distress and decided to orbit so while
+Capt Faurot started turning to the right why I started
+scanning the ocean and the sky around us to see if I could
+see anything.
+After the first orbit during which the radio
+operator made his report to Wake ISland of the sighting of
+the flare and the navigator fixed position.
+The navigator
+and the radio compartment lights were on and after the first
+orbit we requested turn them off so that we could see better.
+At that time we had a little bit of light in the front cockpit
+from these compartments so we completed the final two orbits
+with the compartment lights from the navigator and radio
+compartments out and throughout the orbit -- the other two
+orbit patterns -- why, I could see nothing either on the
+surface of the ocean or in the air, neither one.
+That completes
+it.
+1180923
+Aula
+DECLASSIFIED
+Authority NND 9237007

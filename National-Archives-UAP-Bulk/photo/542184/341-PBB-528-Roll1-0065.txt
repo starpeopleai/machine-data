@@ -1,0 +1,9 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T12:37:20Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 17372543, "source_ctime_ns": 1793365742796953468, "source_file": "National-Archives-UAP-Bulk/photo/542184/341-PBB-528-Roll1-0065.jpg", "source_mtime_ns": 1785565422000000000, "source_rel": "National-Archives-UAP-Bulk/photo/542184/341-PBB-528-Roll1-0065.jpg", "source_sha256": "7e44b53c6c8e417a5018a7c2f31268d02e655a1522fd390c8ee5eb0368c5c23e"}
+
+===== PAGE 1 =====
+{"alpha_words": 6, "chars": 27, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 1, "variant": "plain-psm3"}
+He a tat Sing
+
+etal gy
+
+dp

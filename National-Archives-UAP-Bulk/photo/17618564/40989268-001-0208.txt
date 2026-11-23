@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T13:04:18Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 17463183, "source_ctime_ns": 1793355765484129915, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0208.jpg", "source_mtime_ns": 1785564519000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0208.jpg", "source_sha256": "fa097ca63c3f00a0bf4e1e81687b90472bc374e07b9e18537912e62022a3884d"}
+
+===== PAGE 1 =====
+{"alpha_words": 243, "chars": 1668, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Figure 2. Chain of Balloons for Flights with Heavy Payloads
+configurations of the cable when passing through a sharp layer of discontinuity
+of wind velocities. Figures 5 and 6 are selected photographs taken from films
+recorded in flight by the camera located in the gondola. Time intervals and
+differences of height (in meters) between each frame and the first one are reported.
+From these illustrations one can deduce the successive configurations of the
+cable. These data are compared with the vertical shapes computed for different
+relative-wind velocities between two lavers. Different thicknesses for the inter-
+mediate layer and the resulting vertical wind-velocity gradients in that layer are
+also investigated.
+The films often disclosed very sharp discontinuities in wind velocities. The
+intermediate layer was often found to be very thin, the increase of wind velocities
+being localized in less than 40 meters only.
+Figure 3. Chain of Balloons for Flights with Heavy Payloads
+Resulting gradients as high as 0.2 or 0.4 meters per second for each meter of
+difference inheight are indicated. These figures are larger than those resulting
+from the conventional technique of study of wind shears by accurate radar tracking
+of single sounding balloons. The layers of discontinuities are sharper than
+expected
+3. STUDIES OF SCINTILLATION OF STARS AND DISTURBANCES IN TELESCOPIC OBSERVATIONS
+The wind-shear discontinuities are responsible for optical inhomogeneities in
+the earth's atmosphere. The turbulent lavers venerate disturbances in the propoga-
+tion of beams of light; as a result, telescopic observations of stars and planets are
+blurred, and stars twinkle.

@@ -1,0 +1,55 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T12:44:00Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3552803, "source_ctime_ns": 1793386283231602108, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28995532/0748.jpg", "source_mtime_ns": 1785748152000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28995532/0748.jpg", "source_sha256": "a6e50b3fe8cd6110e694b9e7ed5da045bd12db4fd9cbfe69eac8f7cf820bc85c"}
+
+===== PAGE 1 =====
+{"alpha_words": 133, "chars": 1011, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+12 Nov 61
+3. DATE-TIME GROUP
+Local__1900
+1224002
+GM T
+PHOTOS
+• Y•з
+XD No
+7. LENGTH OF OBSERVATION
+10-12 min
+10. BRIEF SUMMARY OF SIGHTINGBright starlike objt
+luctuating in sky W-E-NE dimming overneac
+disappearing at
+60° elev.
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Dayton, Ohio
+4. TYPE OF OBSERVATION
+"B Ground Visual
+D Air Visual
+SOURCE
+• Ground-Radar
+D Air-Intercept Radar
+Civilian
+8. NUMBER OF OBJECTS
+9. COURSE
+12. CONCLUSIONS
+a
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+#x Orher Echo I
+Insufficient Data for Evaluation
+Unk no wa
+NE
+I. cOMMENTS The objt responsible for sight-
+ing was satellite Echo I. Description and
+characteristics of objt as reported by
+witness parallel those for Echo I. Satellite
+could be seen fm location of witness in
+directions coincident with those reported
+for UFO and time of passage of satellite
+conform to those of sighting.
+ATIC FORM 329 (REY 26 SEP 52)

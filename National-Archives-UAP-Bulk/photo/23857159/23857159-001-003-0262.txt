@@ -1,0 +1,52 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T13:13:43Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 16232624, "source_ctime_ns": 1793360951238311781, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-003-0262.tif", "source_mtime_ns": 1785565160000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-003-0262.tif", "source_sha256": "d16acbdeb90fc82378bd1f45f4d4426941be9f4caba0daf286bcc677ceffaf7b"}
+
+===== PAGE 1 =====
+{"alpha_words": 131, "chars": 973, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Office of the Deputy or
+Cari,
+Intelligence
+UNCLASSIFIED
+WOEDI
+8 August 1957
+SUBJECT: Air Intelligence Information Reports
+TO :
+Commander
+Air Defense Command
+ATTN: Director of Intelligence
+Ent Air Force Base
+Colorado Springs, Colorado
+Forvarded for your information and necessary action, Air
+Intelligence Information Reports and attached inclosures from
+552nd Airborne Early Warning and Control Wing, McClellan Air
+Force Base, California.
+2
+Incls
+1.
+Air Intel Info Rpt
+w/ 3 incls.
+20
+Air Intel Info Ept
+w/ 1 inel.
+ROBERT B. SULLIVAN
+Colonel, USAF
+Deputy Chief of Staff, Intelligence
+ADODI¿¿B
+let Ind
+Headquarters, Air Defense Command, Ent Air Force Base, Colorado
+TO:
+Assistant Chief of Staff/Intelligence, Headquarters, USAF,
+Washington 25, D.C.
+2 Inels
+n/e
+COPY FURNISHED:
+Condy, ATIC
+When Inel (5) are w/d or not
+atchd,
+the classification of
+Jdev •in this correspondenc
+nay to demigraded tolNc/ASS tec
+IAW par SC
+AFR 805-1
+UNCLASSIFIED
+DECLASSIFIED
+Authority NND 9237007

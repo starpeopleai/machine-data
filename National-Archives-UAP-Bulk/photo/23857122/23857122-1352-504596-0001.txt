@@ -1,0 +1,56 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T12:35:17Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 27095476, "source_ctime_ns": 1793357249946515831, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1352-504596-0001.tif", "source_mtime_ns": 1785564861000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1352-504596-0001.tif", "source_sha256": "3b4f23942c3b0ad50f6fd2f5aae1e890a3cf78ef14fd087d610958c32a02f267"}
+
+===== PAGE 1 =====
+{"alpha_words": 198, "chars": 1458, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AF FORM 112- PART I
+APPROVED 1 JUNE 1948
+COUNTRY
+United States
+BRANCH
+STRICTED
+SEGURITY INFORMATION
+52-4
+.. 504.596
+AIR INTELLIGENCE INFORMATION REPORT
+SUBJECT
+Report of Unidentified Flying Object
+AREA REPORTED ON
+Washington,D.C.
+DATE OF REPORT
+8 Sept 1952
+DATE OF INFORMATION
+5 Sept 1952
+PREPARED BY (Officer)
+BENJAMIN L. BERKOW
+Capt.,
+USAF
+REFERENCES (Control number, directive, previous report, etc., as applicable)
+None
+FROM (Agency)
+Director of Intelligence, He Cond, USAF
+SOURCE
+Unknown
+Mr John Boehmer
+SUMMARY: (Enter concise summary of report. Give significance in final one-sentence paragraph. List inclosures at lower left. Begin text of report on AF Form 119-Part II.)
+The following information is submitted in accordance with AF Ltr 200-5 dtd
+29 April 1952.
+Dengan
+BENJAMIN L. BERKOW
+Capt., USAF
+Director of Intelligence
+Headquarters Command, USAF
+Berkau
+IR
+. INCLS.
+DISTRIBUTION BY ORIGINATOR
+DECLASSIFIED
+тето
+EBULANAS, DO. / 28/28
+NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S.C.-
+31 AND 32, AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW.
+IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF
+INTELLIGENCE, USAF.
+RESTRICTED
+(CLASSIFICATION)
+ING OFFICE
+Declassification Authority: NND 57565

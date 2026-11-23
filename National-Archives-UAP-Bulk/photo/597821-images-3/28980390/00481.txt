@@ -1,0 +1,49 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T12:50:40Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5117478, "source_ctime_ns": 1793381490758176257, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28980390/00481.jpg", "source_mtime_ns": 1785701052000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28980390/00481.jpg", "source_sha256": "989f6287edafaf17fafea6e62e81469bba989b13df9e8f2445aa97f0e7877a36"}
+
+===== PAGE 1 =====
+{"alpha_words": 311, "chars": 2255, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+AMS £733
+First Ecition-AMS Scale 1
+Prepared by the Army Map (AM), Corps of Eng U.S. Army, Washington, 0, C. in 1950 by 3 2 >
+photog d from USHO Chart Nos. 2380, 2652, 1923 (corrected to 1950), wth Tage pee
+reference to Barahona. 1:5.000. Mensura Catastral: Dominican Republic, 1:21.120. U. S. Marine Corps. 710-110, Fc 0 ut
+1922; Dominican Republic, 1:63,360, U. S. Marine Corps, 660.80, 660-120, 720-120. 1922: Dominican Repudtic,
+100,000, Instituto Geogrético y Geolégco. 1944; Dominican Republic, 1:300,000, Servicio Co ta oe o 1000
+penteicn Dominicana, 1922: Hispaniola, 1:400,000, Ingeniero Casimiro Gémez, 1938. Aerial Photography =
+CONTOUR INTERVAL 20 METEF
+AT 10 METE
+
+VERTICAL DATUM BASED ON SEA L
+DETERMINED BY PHOTOGRAW
+
+TRANSVERSE MER:
+HORIZONTAL DATUM IS BASED (
+VALUES: FORT ISLET LIGHT
+SANTO DOMINGO LIGHTHOUSE LA
+CAPE DAME MARIE ASTRO U
+EXTENSIONS OF CONTROL FROM ASTRONOMIC POST
+
+LEGEND
+HYDROGRAPHIC OAT
+Hard surtoce, aff weather reed, Dksnes sLenee a oer BLACK NUMBERED LINES INDICATE THE 1.000 METER UNIVERSAL
+two lanes wide ees Loose surface, éry weather, or Cut weed. wancececce “ on
+Hard surtace, all weather road, less than
+two lanes wide Track or trad OFVICER. ARMY NAP SERVICE. wasmINGTON. BC mars ts
+RAILROADS UNDER CONSTRUCTION ABANDONED ow
+Standard gouge ays | oT] ae GRID TORE DESIGNATION:
+Cte 13m) Single track Double track Sengle track pace track pameieeee Donte watt ans wens
+1. Lecoe
+SZ 7st potet
+Jr axa e 4
+Horizontal control point__a _intermattent lake K.---+. Suntien rocks: Foreshore fats |, end” BL 2 tee
+Spot elevation in meters___. 136 Canal, aqueduct, condust Rocks awash at low tide, Reet “ey ( | bal
+Located odject © — woods or brusmavod LJ timt Ganger ine. Sudmerged ree . banana toneiwcrnetenine oes
+Church; School & & Vineyro j Wrech Sunken Exposed — = PP SLO papers ait triad IGNORE the SWALLER figures of any | SAMPLE
+ia ebtom aumericol volves. aur ber hagag
+Mine 7 = (Nips. a Wharf per Seaeatt — Te determme mognott north ime, connect the Kyi ee bees
+Teen? aa Sates evel peat P” on the sovth edge of the mop LARCER hquies of the grid number Ateiee
+Cemetery OS Manton Sesnp. Falls, Rapds . 7 te. = cone be ower between GRO ccomote 20' Weep
+. Ld ",
+ae ree AL : NORTH ond MAGNETIC NO eersictet sv alae
+
+tial

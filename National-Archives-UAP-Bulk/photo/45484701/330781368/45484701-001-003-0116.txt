@@ -1,0 +1,32 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T12:54:26Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6792498, "source_ctime_ns": 1793361790502531951, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330781368/45484701-001-003-0116.jpg", "source_mtime_ns": 1785685141000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330781368/45484701-001-003-0116.jpg", "source_sha256": "f4d35796d55ea7ae73d08af271f901933d4fc3c2937f45f0f8f9a1587fd80694"}
+
+===== PAGE 1 =====
+{"alpha_words": 29, "chars": 228, "method": "ocr", "page": 1, "variant": "contrast-vision"}
+26 JAN 1949
+SECURITY
+DIV.
+OsI
+RA
+BA VOLI
+crvaelE
+SAN
+1949
+GEN. INVEST.
+18 719
+SAN 19 1949
+GEN. INVEST.
+DIN•
+50/20 co 20 k) a2
+13 14 15
+OÙT
+JAN 11
+GEN. INVEST.
+Taợg
+DIV.
+EO 20 10
+JAN 10 19401
+GEN. INVEST.
+:DIV.
+ńû¡tr
+BL 41
+OL S1

@@ -1,0 +1,42 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T12:52:12Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5911761, "source_ctime_ns": 1793354280531582623, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989189-001-0024.jpg", "source_mtime_ns": 1785564257000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989189-001-0024.jpg", "source_sha256": "2a0a4f1131b78415eaa059266fcf0bf26a4f40cc2c2eee28dee42dc30fbd4bf9"}
+
+===== PAGE 1 =====
+{"alpha_words": 66, "chars": 427, "method": "ocr", "page": 1, "variant": "plain-vision"}
+MORNING REPORT
+2101 Asst
+Of fi
+(AC). 0L,2391łł
+fran asg
+rfd to the
+15 th BomboS
+SO 145 19 this Sta Race (a)
+DY 2136
+GEORGE A (AC) 032115
+o Jays,
+Eff 22
+July 4i
+COBRECTION (M/R 22
+W-2:18681
+CHO
+Dy to departed (30 Days)
+2210
+delay enroute,
+COMF FOR AL INS
+12
+344
+orps
+MORNING REPOR
+Par 16 SO
+Training
+AAR ORD
+Hg this Sta
+eted Par 45 SO 116 Hq
+this Sta
+055
+Private First Class Par 33
+5170
+_Prt
+521
+Sv Sq this Sta
+Sta Dy, On vo?
+1

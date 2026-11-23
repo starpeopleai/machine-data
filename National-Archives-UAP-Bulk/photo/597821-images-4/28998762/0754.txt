@@ -1,0 +1,50 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T13:18:50Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8346451, "source_ctime_ns": 1793387494350747181, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28998762/0754.jpg", "source_mtime_ns": 1785748489000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28998762/0754.jpg", "source_sha256": "0234086617e30a011de5f910e1907068ad5345fe5b2aab52f006f40ac256512e"}
+
+===== PAGE 1 =====
+{"alpha_words": 91, "chars": 720, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+PROJECT 10073 RECORD CARD
+2. LOCATION
+1962
+3. DATE-TIME GROUP
+Local ..
+23/0611Z
+GMT.
+5. PHOTOS
+• Yes
+7. LENGTH OF OBSERVATION
+8. NUMBER OF OBJECTS
+ns
+one
+10. BRIEF SUMMARY OF SIGHTING
+Obj appearing like 2nd mag star obsvd
+at
+220dgr azimuth 20dgz
+alt moving to
+165dgr azimuth 56dgr elev in 6 mins.
+Obsvation w/BX.
+•39W (Pacific
+TYPE OF OBSERVATION
+2a Ground-Visual
+D Air Visual O
+• Ground-Radar
+• Air-Intercept Radar
+8. SOURCE
+9. COURSE
+11.
+Southerl
+COMMENTS
+12. CONCLUSIONS
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircraft
+Probably Aircratt
+Possibly Aircraft
+Was Astronomical
+Probably Astronomical
+Possibly Astronomical
+DX Other
+Insufficient Data for Evaluatior
+Unk no wn
+ATIC FORM 329 (REV 26 SEP 52)

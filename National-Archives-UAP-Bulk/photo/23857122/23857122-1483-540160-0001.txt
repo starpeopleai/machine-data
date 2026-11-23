@@ -1,0 +1,73 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T13:14:52Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 27559476, "source_ctime_ns": 1793357595240291631, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1483-540160-0001.tif", "source_mtime_ns": 1785564934000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1483-540160-0001.tif", "source_sha256": "22cc2ae90b3b951d36daf2715676e502519334629e70b4e816d19922dbfdc412"}
+
+===== PAGE 1 =====
+{"alpha_words": 252, "chars": 1801, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AF FORM 112-PART I
+APPROVED 1 JUNE 1948
+COUNTRY
+Alask
+RESTRICTED
+(CLASSIFICATION)
+REPORT NO
+(LE
+10AD-4-53
+AIR INTELLIGENCE INFORMATION REPORT
+540160
+SUBJECT
+Thidentified Flying Object
+AREA REPORTED ON
+Alaska
+DATE OF REPORT
+21 Feb 53
+DATE OF INFORMATION
+18 Feb 53
+FROM (Agency)
+10th Air Division (Defense)
+EVALUATION
+- F-6
+PREPARED BY (Officer)
+SOURCE
+Major John S. Masterson
+39th Air Police Squadron
+REFERENCES (Control number, directive, previous report, etc., as applicable)
+Mag DTG 18/0630Z Msg No. 020121
+SUMMARY: (Enter concise summary of report. Give significance in final one-sentence paragraph. List inclosures at tower left. Begin text of report on AF Form 119- Part 11)
+A large red light, approximately thirty-six (36) inches in diameter, was reported
+by six Air Policemen at 18/0455Z Feb 53 as crossing Elmendorf AFB and the city of
+Anchorage, and then disappearing in a vertical climb. No identification has been
+established.
+DECLASSIFIED
+USAF memo
+2/31/78
+BY WGL
+1/RS. DOO. 4/11/29
++10h9
+- INCLS.
+Overlay AMS Q-712
+sheet 3243 III
+APPROVED:
+John S. Masterson
+JOHNS. MASTERSON
+Major,
+US AF
+Director of Intelligence
+DISTRIBUTION BY ORIGINATOR
+GINGAL
+ATIC
+500lst Composite Wing
+- 39th Air Depot Wing
+AAC
+NE AC
+5004th AISS
+USARAL FEAF
+5010th Composite Wing
+ADC
+COMALSEAFRON
+10th Air Rescue Gp
+NOTE THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S.C.-
+31 AND 32, AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW.
+IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF
+INTELLIGENCE, USAF.
+RESTRICTED
+(CLASSIFICATION)
+Declassification Authority: NND 57565

@@ -1,0 +1,44 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T12:45:31Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3843839, "source_ctime_ns": 1793374764628734761, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28953117/0718.jpg", "source_mtime_ns": 1785696740000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28953117/0718.jpg", "source_sha256": "695d2ef607d80a9c3a13b4ba064fdf88c31b2df42489795ea7e4536f94cec833"}
+
+===== PAGE 1 =====
+{"alpha_words": 127, "chars": 885, "method": "ocr", "page": 1, "variant": "plain-vision"}
+JOINT MESSAGEFORM
+COMMUNICATIONS CENTER NO.
+JUNCLASSIFIED
+SPACE ABOVE FOR COM
+A TIONS CENTER ONLY
+FROM: (Originator)
+TO: 00
+CO CAS11O AVA CAL27
+PRESENCE THIS
+FOR:
+L BOOK MESSAGE
+- MULTIPLE ADORESS
+IDENTIFICATION
+• ORIGINAL MESSAGE
+CAMPTOPRECAUTION
+• YES
+• NO
+REFERS TO MESSAGE:
+CLASSIFICATION
+INFO:
+FOR
+ENCH OF-ICER
+Reference your AF For 112 (IN 953) in which you report an unidentified serial
+objees alahted by 3 50 type airerait. Too atate that two aerial guners shot the
+objeet with d.3.4.?. cameres and that the resulting fils has been forearded to
+Caled, Asic, To date, AnG as not received subject film and therefore requeate
+you initiate fallon up to deteraine where it 18.
+In reply oite Project Hue duck.
+COORATHA TI ONE
+DOWNGRADED AT & YEAR INTERV
+DECLASSIFIED AFTER 12
+DOD DIR
+200.10
+UNCLASSIEIED
+65305
+DD
+FORM
+1 ОСт 49 173
+REPLACES NME FORM 173, 1 MAY 49,
+WHICH MAY BE USED.

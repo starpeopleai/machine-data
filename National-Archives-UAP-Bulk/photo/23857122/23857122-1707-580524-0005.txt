@@ -1,0 +1,27 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T13:07:48Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 23070836, "source_ctime_ns": 1793357839688577665, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1707-580524-0005.tif", "source_mtime_ns": 1785564981000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1707-580524-0005.tif", "source_sha256": "994f1b33ea158ba97a8e69d98c770d96f0d9c689f70f596b4690223912f00038"}
+
+===== PAGE 1 =====
+{"alpha_words": 160, "chars": 1056, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Statement (continued)
+RESTRICTED
+A few minutes later I sighted for the fourth time, an object of
+color and description similar to those I had seen previously. This
+time, however, the object moved from 10 o'clock to 7 o'clock where it
+stopped, then suddenly split up into two vertical formations after
+which they gradually faded away in that position. I cannot estimate
+the time that elapsed during this sighting. I called the object to
+the attention of three AFHOTC cadets who were on the plane, but they
+could not locate the object.
+The weather during the time of sightings was clear over a layer
+or haze.
+The fourth sighting is described by the following sketch.
+The above is an accurate summary of the information I gave
+Captain Ko S. Sameshima during the course of an interview held on
+28 August 1953 in the Navigation Room of the 4th Radar Calibration
+Squaaron, Hamiiton Air Force Base, California.
+I'/Sgt Lørenzo Humphrey
+AF 15337775
+Left scanner, TB-29 4076(20 Aug 53)
+4th Kadar Calibration Squadron
+RESTRICTED
+Declassification Authority: NND 57565

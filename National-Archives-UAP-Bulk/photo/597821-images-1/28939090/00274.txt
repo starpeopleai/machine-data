@@ -1,0 +1,48 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T12:44:32Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3596862, "source_ctime_ns": 1793371607109826849, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28939090/00274.jpg", "source_mtime_ns": 1785688480000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28939090/00274.jpg", "source_sha256": "5c5c0ff4535693f369332dc4a38e358b1a19581c431927291f550d011e05ec85"}
+
+===== PAGE 1 =====
+{"alpha_words": 91, "chars": 743, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1. DATE
+21 - 22 Feb 51
+3. DATE-TINE GROUP
+Local_Night
+GM T
+S. PHOYOS
+O Yes
+7. LENGTH OF OBSERVATION
+PROJECT 10073 RECORD CARD
+2. LOCATION
+Sakhalin, Japan
+TYPE OF OBSERVATION
+• Ground-Vi sual
+• Air- Visuai
+6. SOURCE
+Cr. Ground-Rodar
+• Air-Intercept Radar
+Military
+B. NUMBER OF OBJECTS
+1 or 2 each track
+10. BRIEF SUMMARY OF SIGHTING
+10 Tracks of unidentified A/C picked upp on
+Ground Radar. Speeds varied from 150-500
+mph.
+12. CONCLUSIONS
+000
+00
+Was Balloon
+Probably Balloon
+Possibly Balloon
+Was Aircreft
+Probably Aircraft
+Possibly Aircraft
+Was Astronomical
+Prabably Astronomical
+Possibly Astronomicai
+Otner.
+Insufficient Date for Evaluation
+Unknown
+9. COURSE
+Varied
+11. COMMENTS
+Identified as USSR Tracks by ADC.
+ATIC FORM 329 (REV 26 SEP 52)

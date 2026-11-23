@@ -1,0 +1,39 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T13:01:04Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 9638644, "source_ctime_ns": 1793365023958671943, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330788129/45484701-007-008-0070.jpg", "source_mtime_ns": 1785685184000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330788129/45484701-007-008-0070.jpg", "source_sha256": "5fd7e6e495f2ad1734223f88a6dcc67212e35eaec3448c53b15096ede8769e22"}
+
+===== PAGE 1 =====
+{"alpha_words": 282, "chars": 1770, "method": "ocr", "page": 1, "variant": "plain-vision"}
+DO #23 24-84
+SECURITY INFORMATION
+At 1745 hours, 2 December 1951, the statement was obtained from CARI. HART,
+Sh., which is set forth verbatim:
+"On Aug 50, 1951 at about 11:30 PM took pictures of strange
+objects passing overhead from North to South. I saw three separate
+groups of objects.
+Two pictures are of the second group.
+Three are
+of the third group.
+The last negative has not been found and is not
+in my possession.
+/s/ Carl Hart Jr."
+8. On 30 November 1951, WILLIAM "BILL" HAMS, Photographer for the Avalanche-
+Journal Newspaper, Lubbock, Texas, was interviewed as to his knowledge of the type
+of work, the authenticity of the pictures turned in by CARL HART, JR., during a
+period covering approximately one (1) year. Mr. HAMS stated that he believed HART
+to be the best amateur photographer in Lubbock and vicinity and that HART had
+never given them any occasion to doubt his work. In referring to the pictures taken
+by HART on 30 August 1951, HAM stated that the newspaper had also been doubtful as
+to the authenticity of the negatives and had run exhaustive tests on the negatives
+before they were published in the newspaper.
+HAM further stated that these tests
+were very thorough and that they had used the technical knowledge of other photog-r
+grapher in the city and none could find any evidence of the negatives having been
+tampered with in any way. HAM did not believe that HART would attempt to-perpetrate
+a hoax as the young man had turned in several times very remarkable pictures
+which work had been authentic.
+9. All investigation as requested having been completed and there being no
+further undeveloped leads, this case is closed.
+INCLOSURE
+FOR DO #23 FILES
+Original statement made by CARL HART, JR.
+CLOSED
+Declassification Authority: NND 923007

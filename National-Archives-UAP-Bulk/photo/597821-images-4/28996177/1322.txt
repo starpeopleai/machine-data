@@ -1,0 +1,58 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T12:44:37Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3618972, "source_ctime_ns": 1793386448293445221, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28996177/1322.jpg", "source_mtime_ns": 1785748091000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28996177/1322.jpg", "source_sha256": "d8736ec62118577ccb0dd9d61e92754873df839d5f6238c05354ed88205c6b98"}
+
+===== PAGE 1 =====
+{"alpha_words": 135, "chars": 974, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Mr & Mir s
+PROJECT 10073 RECORD CARD
+1. DATE
+2. LOCATION
+30 Jan 62
+3. DATE-TIME GROUP
+Local
+1640
+30/2240z
+GM T
+5. PHOTOS
+St. Paul, Minnesota
+4. TYPE OF OBSERVATION
+4 Ground- Visual
+• Air Visual
+6. SOURCE
+• Ground-Radar
+• Air-Intercept Radar
+robably Baficor
+Possibly Balloon
+Was Airc
+Probobly
+Possibly Aireraft
+• Yes
+• No
+7. LENGTH OF OBSERVATION
+aprox 1/2 sec
+Civilian
+Nos Aster
+Probably
+Possibly
+8. NUMBER OF OBJECTS
+one
+9. COURSE
+descending
+Other...
+Insuffici
+Unlinow
+10. BRIEF SUMMARY OF SIGHTING
+The witnesses observed an object in the NW sky
+descending at a very high speed at an angle of
+aprox 45°, glowing a dull red and leaving a
+trail. Exploded and disappeared. Duration was
+aprox 1/2 sec. This event was witnessed and
+reported by many individuals having either air-
+borne or ground vantage points.
+11. COMMENTS
+This object possesses
+of the classic bolid
+no evidence availabl
+that this object was anything
+a threat to our nationa
+secu
+ATIC FORM 329 (REV 26 SEP 52)

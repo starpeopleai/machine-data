@@ -1,0 +1,55 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T12:56:07Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7375709, "source_ctime_ns": 1793363135232944635, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330784594/45484701-004-005-0073.jpg", "source_mtime_ns": 1785684740000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330784594/45484701-004-005-0073.jpg", "source_sha256": "2a5776fac11dd5439a1be7c2beb2110ba13c3f6fe59058d16595c65a2ddf41d9"}
+
+===== PAGE 1 =====
+{"alpha_words": 266, "chars": 1714, "method": "ocr", "page": 1, "variant": "plain-vision"}
+INFORMATION COPY
+From 5th District OSI
+Wright-Patterson Air Force Base
+ОНІО
+Mojolen
+13 May 1960
+SD 24-21-
+ма .
+(U) Unidentified Flying Object
+Richfield, Ohio, 9 Yay 1960
+Sighted by Mary J
+Kramer
+ATIC (AFCIN-4E2)
+1. The following information received from the Cleveland, Ohio Field
+Office of the Federal Bureau of Investigation on 11 May 1960 is fur-
+nished for your information and any action deemed appropriate.
+On 5 May 1960 Mrs. Mary J. Kramer, Route 303, Richfield,
+Ohio, telephone OLiver 9-5681, telephonically advised Special
+Agent John L. Stanley of the Cleveland Office that on four or
+five occasions during the past month between the hours of one
+and four AM she had observed a moon shaped luminous object
+which seemed to change colors to green, yellow, and chartreuse,
+and move slowly across the sky, being in view for twenty minutes
+or a half hour. She stated she could not tell how large or how
+far avay the object was.
+Mrs. Kramer, who is writing a book and often stays up until
+early in the morning to do her writing, stated she last saw the
+object about two weeks ago and that on this occasion the object
+appeared to send down rays of light similar to the beam of a
+flashlight. She added that she woke two of her daughters, ages
+17 and 19, and that they observed the object.
+Mrs. Kramer stated that she had not reported seeing the flying
+object to any authorities prior to calling the FBI inasmuch as
+they would think she was "a screwball."
+2.
+Investigation is not being conducted by the FBI in this matter.
+I DOYLE REES
+Colonel, USAF
+Commander
+1 9 1960
+copy to:
+DIR OSI (AFCSIO)
+24- 185-5
+AIR FORC
+ÔR BENERA
+45
+UNCLASSIFIED
+OFFICE OF
+/ PECIAL INVESTIGA
+TIONS
+Declassification Authority: NND 923007

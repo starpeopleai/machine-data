@@ -1,0 +1,45 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T12:54:48Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6921835, "source_ctime_ns": 1793361811866432643, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330781368/45484701-001-003-0169.jpg", "source_mtime_ns": 1785685144000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330781368/45484701-001-003-0169.jpg", "source_sha256": "405a4bcb853e04b0bcfe80286573102119f2637d2be80776b66cd0390aae1341"}
+
+===== PAGE 1 =====
+{"alpha_words": 147, "chars": 1159, "method": "ocr", "page": 1, "variant": "plain-vision"}
+COM
+PROJECT SIGN"
+ESSENTIAL ELEMENTS OF INFORMATION
+1. Date of sighting:
+16 January 1949.
+2. Time of Sighting: 1630 hours.
+3. here sighted:
+Ground:
+(2)
+Town: Paris, Ky.
+2
+Sighted from
+Paris Airport, two (2) mbles north of Paris, Ky.
+Sighted from ground.
+Map coordinates not ascertained.
+4. Number of objects: One (1).
+5. Distance from observer:
+Horizontal distance: Not estimated.
+be
+Angle of elevation from horizon:
+Fifty (50) degrees.
+Ce
+Altitude: 25,000 to 30,000 feet.
+6. Time in sight: Three (3) to five (5) minutes, fron horizon to horizon.
+7. Appearance of object: "Vaper trail", source not determined.
+8. Direction of flight: Southeast.
+9. Tactics or maneuvers: Flight steady.
+10. Evidence of exhaust: None observed.
+11. Effect on alouds: None.
+12. Lights: Reflected light of sun.
+13. Support: None observed.
+14.. Propulsion: None observed. Believed jet due to speed in trversing
+horizon to horizon.
+15. Control and Stability: Not observed.
+16. Air ducts: None observed.
+17. Speed: Not estimated.
+18. Radio antenna: None observed.
+20. Manner of disappearance: Faded from view beyond horizon.
+5D 24-4
+EXHIBIT "D"
+Declassification Authority: NND 923007

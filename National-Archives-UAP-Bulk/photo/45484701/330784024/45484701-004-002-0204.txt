@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T12:53:39Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6691156, "source_ctime_ns": 1793362964790276628, "source_file": "National-Archives-UAP-Bulk/photo/45484701/330784024/45484701-004-002-0204.jpg", "source_mtime_ns": 1785685051000000000, "source_rel": "National-Archives-UAP-Bulk/photo/45484701/330784024/45484701-004-002-0204.jpg", "source_sha256": "8c6debedfbd84981d7741c58966ca616b4c13863288d58b80ca42b8cf2a753d1"}
+
+===== PAGE 1 =====
+{"alpha_words": 56, "chars": 448, "method": "ocr", "page": 1, "variant": "plain-vision"}
+SSIFICATION CANCELLED
+TY OF THE
+AUPERT K. KUNZE, Capt, USAF
+Historian
+4 DEC 1975
+REPORT OF TELEPHONE CONVERSATIONTE
+TIME 2105
+A telephone call was
+-40-386871
+received from
+nade ta
+DATE
+30 September 19560DE NO.
+It. COL. NATHAN ROBERT ROSENGARTEN,
+(Name )
+references;
+mouth and.
+CUBEY
+4273
+20 0_1
+DIST
+OCT
+1951
+SRCH
+Wichal O Tellee
+(Signature)
+MICHAEL O. PETTEE
+Duty Agent
+INDEX
+FILE
+hutckel HB
+cy
+UNCLASSIFIED
+Declassification Authority: NND 923007

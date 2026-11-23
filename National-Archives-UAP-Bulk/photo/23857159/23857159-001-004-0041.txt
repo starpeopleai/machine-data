@@ -1,0 +1,24 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T12:40:03Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 24333728, "source_ctime_ns": 1793361026373052247, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-004-0041.tif", "source_mtime_ns": 1785565209000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-004-0041.tif", "source_sha256": "afe84889db0cc2af243c70bdf5b2d2bfe73495ee4f29287dff98008b377ed262"}
+
+===== PAGE 1 =====
+{"alpha_words": 46, "chars": 353, "method": "ocr", "page": 1, "variant": "plain-vision"}
+POOR ORIGINAL
+DO 7101
+•en what.
+han how
+col loving
+- Соков то
+TELEPHONE NEE 22222
+What 1s your bresent tob? 0220
+Sex MALE
+Please indicate any special educational braining that you have had.
+grade school.
+Technical school 14(
+c. Collere
+d,
+Post pratuate
+f. other special training
+ate you complet
+ed this questionnaire:
+DECLASSIFIED
+Authority NND 9237007

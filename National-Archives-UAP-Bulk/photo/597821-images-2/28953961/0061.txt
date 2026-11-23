@@ -1,0 +1,36 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T12:51:54Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 5839692, "source_ctime_ns": 1793374928756195802, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28953961/0061.jpg", "source_mtime_ns": 1785696414000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28953961/0061.jpg", "source_sha256": "2b9084990b444541279cbc04ccbba92e7fba93ad7a2add03bea25c2dda0e0d67"}
+
+===== PAGE 1 =====
+{"alpha_words": 77, "chars": 570, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1713
+AERONAUTICAL CHART INDEX
+Scale of Series 1:1,000,000
+Charts published
+Charts not publish
+AERONAUTICAL SYMBOLS
+RADIO FACILITIES
+printed in blue with the exception of certain LF/MF facilities s
+waya, which are printed in magenta.
+Lise of the word "Radio" within
+BALTIMORE
+Radio Communication Station
+(With voice)
+Radio Communication Station
+(Without voice)
+Radio Broadcasting Station
+SWER RADIO
+Metropolitan Areas
+Large Cities
+Cities
+Small Cities
+Large Towns
+Towns & Villages
+TOPOG
+CITIES AND TOWNS
+-NEW YOR
+RICHMON
+_ARLINGI
+Radar Beacon (Racon).
+RACON
+- 3256
+2•1 2)

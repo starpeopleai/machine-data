@@ -1,0 +1,43 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T12:40:58Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 29191728, "source_ctime_ns": 1793358474582136012, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-003-001-0001.tif", "source_mtime_ns": 1785681103000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-003-001-0001.tif", "source_sha256": "83f3e32ec9ca64c6cf38de4cbb82762144fb527837520c01720c02173588866c"}
+
+===== PAGE 1 =====
+{"alpha_words": 99, "chars": 694, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+ORM 612
+TUNE 1940
+USA
+ONCEASSTETEED
+(CLASSIFICATION
+2602-0508-72-35
+MAYS BLANK
+AIR INTELLIGENCE INFORMATION REPORT
+UFOS
+California
+18 January 1955
+1e (Opicar)
+DATE OF INFO
+FROM (AgenCy)
+S20th DOL, March ArB: Californt:
+EVALUATION
+11955
+SOURCE
+B-47 Crew
+uneL
+RiE Care
+1. CONTENTS: Report 4602-UFOB-75-55
+780.
+prey
+TUCKREY
+Sonin white p
+Co Lon
+Commande
+Sion
+27th ID Del
+COMER
+I THIS DOCUMENT CONTAINS IN
+31 AND 32, AS AMENDED.
+IT MAY NOT BE REPRODUCED
+GOLIDE
+AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING O
+SION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHOR
+OLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGE

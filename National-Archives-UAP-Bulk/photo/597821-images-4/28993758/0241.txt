@@ -1,0 +1,16 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T13:17:43Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8236395, "source_ctime_ns": 1793385616669528883, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-4/28993758/0241.jpg", "source_mtime_ns": 1785748082000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-4/28993758/0241.jpg", "source_sha256": "178be3ec8020c76f8c2d4f2365c06d94336ea227ffeefc49916728ff57d513df"}
+
+===== PAGE 1 =====
+{"alpha_words": 43, "chars": 313, "method": "ocr", "page": 1, "variant": "plain-vision"}
+No Case (Information Only)
+31 July 1961
+Prescott, Arizona
+July 31, Prescott, Ariz. Lee Ganger,
+former airline pilot, observed a fast-
+moving unknown device through binocu-
+lars.
+Seen by four other witnesses, the
+object dimined, brightened, appeared to
+radiate heat.
+Ganger, a pilot 27 years,
+said he was baffled.

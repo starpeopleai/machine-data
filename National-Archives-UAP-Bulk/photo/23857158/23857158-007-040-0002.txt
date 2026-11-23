@@ -1,0 +1,48 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T12:34:34Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 15553554, "source_ctime_ns": 1793359345375442871, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-007-040-0002.tif", "source_mtime_ns": 1785681384000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-007-040-0002.tif", "source_sha256": "6bdbf18e79c9f50cb7813a6b831ff00250032c6b6a54aae06d30f71753ccdfe6"}
+
+===== PAGE 1 =====
+{"alpha_words": 165, "chars": 1139, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+ISRE YOU TOMORROW
+GO AHEAD COM CEN
+RGR OM ZUJ ONE
+DATE-TIME GROUP HI
+10 s206 21
+10/03157 Aug s3
+Probably Balock
+Winds + release
+of pilald substuntiate
+PE
+OPS
+0045₴
+EN0201
+ENC003 YMB152YYB187 WYD163 WMA176LBA051
+MM RJEDOK RJEDEN RJEPHO RJEDWP RJWFGO RJWFKD
+DE RJWFLB 12A
+M 101345Z
+FM COMDR REESE AFB TEX
+TO RJEDEN/COMDR ADC ENT AFB COLO SPRINGS COLO
+RJFKD/COMDR 34 DIV/EF/KIRTLAND AFB NMEX
+RJEDWP/COMDR ATIC WRIGHT PATTERSON AFB OHIO
+RJEPHQ/D/I HQ USAF WASH D C
+REDOK/COMDR ATC SCOTT AFB ILL
+RUWFGO/COMDR FTAF WACO TEX
+0176H. UFOB. IAW AFR 222-2 FOLG INFO SUB CLN
+1. /A/ ROUND CMM /B/ GRAPEFRUIT /C/ BRIGHT YELLOW AND LIMINOUS CMM
+ONE CMM /E/ N/A CMM /F/ LUMINOUS CMM /G/ NONE CMM /H/ NONE
+CYM /I/ LIGHTED CLOUD AS CAME
+THRONGH•
+2.
+/A/WALKING AND HAPPENED TO BE LOOKING IN DIRECTION OF WEST CMM
+/B/TEN MILES TO WEST 30 DEGREE ELEVATION 260 DEGREE AZ CMM
+/C/DISAPPEARED 10 DEGREE
+WEST 252 DEGREE AZ CYM /D/ SAME AS
+ABOVE CMM /F/ 12 TO 15 SECONDS.
+3.
+/A/ GROUND VISUAL CMM /B/
+NONE CMM /C/ N/A.
+4•
+/A/ 2115 HOURS.CMM /B/ NIGHT.
+09/21152STAugór :
+C LINE TWO GROUP THREE SHUD READ ROUND RPT ROUND
+10/03152

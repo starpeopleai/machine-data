@@ -1,0 +1,64 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T12:37:32Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 20377144, "source_ctime_ns": 1793361083989124874, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-004-0091.tif", "source_mtime_ns": 1785565225000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-004-0091.tif", "source_sha256": "31c0fb1d95c48a8488ec298d2e69beb7740bf1c8aefcf6b474ab1f812cb5a249"}
+
+===== PAGE 1 =====
+{"alpha_words": 357, "chars": 2309, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AF FORM 112-PART II
+APPROVED 1 JUNE 1948
+FROM (Agency)
+Det 4, 1006th AISS
+UNCLASSIFIEd
+AIR INTELLIGENCE INFORMATION REPORT
+REPORT NO.
+PARI TWO
+AISS
+PAGE
+OF
+PAGES
+S-T-A-T-E-M-E-N-T
+At approximately 1550 hours PST 5 November 1957 I
+witnessed certain phenomenon in the sky which I could not
+readily identify. It was while observing a Cumulô-nimbus
+type cloud for direction of movement, frequency of light-
+ning, and precipitation that there appeared in my field
+of vision certain objects.
+These objects appeared to have
+a regular shape, a mettalic lustre, and a uniform appearance.
+For the period of approximately 90 seconds these objects
+darted in and out of the base of the clouds to the northeast
+of my observing site at an estimated height of 7000 feet
+and at an approximate distance of ten miles. The angle
+of elevation from the ground was about 40 degrees.
+The
+movement of these objects appeared to be helter-skelter,
+i.e., they appeared in no definite formation.
+In this
+movement there was no time at which I may say that the objects
+appeared to collide, or merge, or even to cross the direct
+path of each other.
+Though the sky was darkened by the cloud it is not
+to say that these objects could not be seen with natural
+light. The forms did not have the appearance of light
+spots on the cloud base. From my observation I would say
+they were not balloons.
+That they were aircraft I would
+believe not due to the proximity of thecobjects to the cloud.
+They were not natural phenomenon of which I can say I
+had seen before. I do not say these objects could not have
+been natural phenomenon. I do not attempt to classify these
+objects.
+Joseph C. V. Abramavage
+A/2C AF 1328 0112
+S-T-A-T-E-M-E-N-T
+A CERTIFIED TRUE COPY
+Wichard A. Holm
+RICHARD A. HOIM
+WO, W-1, USAF
+NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S. C.—
+31 AND 32, AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW
+IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF
+INTELLIGENCE, USAF.
+UNCLassIfied
+(CLASSIFICATION)
+16-55570-1 * U.S. GOVERNMENT PRINTING OFFICE
+DECLASSIFIED
+Authority NND 9237007

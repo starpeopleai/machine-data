@@ -1,0 +1,67 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T12:57:51Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8237643, "source_ctime_ns": 1793380060520198343, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28974385/0876.jpg", "source_mtime_ns": 1785700720000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28974385/0876.jpg", "source_sha256": "38955ec12494ec7a71b17171506dedcfe4ecf71b7bae0d888bd0d3451d2be1cf"}
+
+===== PAGE 1 =====
+{"alpha_words": 206, "chars": 1618, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AF FORM 11?
+APPROVED 1 JUNE 194
+Winess i
+ICATION)
+U.B.à.
+AIR INTELLIGENCE INFORMATION REPORT
+UZOB
+Clinton, Pa.
+ITE OF REPORT
+25 Hovender 1957
+•ARED BY (Office)
+Captain Joan B. Sleemma
+FROM (Agency
+ATE OF INFORMATIO
+20 Novarbar
+1957
+SOURCE
+Mira.
+Ba S4ta Ptr Onu (A0), Ote Pia Aprt, Pa.
+23-2
+Es Control minher, directine, pretous report
+A7X 200-2, ADCR 200-7
+ARY: (Pinter concise summary of report.
+regraph
+7. Weathar and winds aloft coalitions at the tine of righting.
+m. Partly cloudy.
+Surtace:
+6,000'; 270/37, 10,0001; 290/39, 15,000'; 300/37,
+20,0001; 290/41, 30,0001; 270/72, 35,0001; 260/85, 40,000'; 250/80, other not avallabl
+c. 00532; 10,000' broken, 0153%; 20,000' seattered.
+d. 15 plus
+e. 5/10th minus
+f. negative
+6. None
+9. None
+10. Normal airport traffic
+11.
+Captain John B. Bleeman, 42d Pighter Intercaptor Squadron Intelligance
+orticar.
+No comment
+12. None
+iral
+AT Green
+lost gage
+INCLS.
+DISTRIBUTION BY ADO:
+Original to ACS/I,
+H250S.AF
+Copy to Conde, arIo
+Gepy to Coads, ADO
+40
+•Commandar, ADC, Int AFD,, C lorado Spriaga, Colorado.
+Comraader,
+RADY, Stevart APB,
+Heburgh,
+Haw York.
+Tomasiar, 3oth Air Division (De?), MAPS, Balleville, Michigan.
+NOTE THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNTED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, FOU. S C
+31 AND 32. AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAN
+IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF
+INTELLIGENCE, USAF.
+Unclassified
+(CLASSIFICATION

@@ -1,0 +1,33 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T12:55:39Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 7043710, "source_ctime_ns": 1793381278814631406, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28979713/1278.jpg", "source_mtime_ns": 1785700839000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28979713/1278.jpg", "source_sha256": "abc41a4011b18dab1670383711b36388c8ab445dd5dc8ff711efabfd2e740824"}
+
+===== PAGE 1 =====
+{"alpha_words": 138, "chars": 970, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AF FORM 112 PART 11
+APPROVED I JUNE 1940
+FROM AGO
+Det 4, 1006th AISS
+UNCLASSIFIE
+(ELENICATION)
+AIR INTELLIGENCE INFORMATION REPORT
+REFORT NO DA-UPOB-1-59 PART THREE
+" 12
+PAGES
+I. SOURCE
+Address: Cain Springo, California
+Occupation: Retired, Part time prospector
+A801 63
+Eduoation: High sohool
+II. RELIABILITY: SOURCE can be considered fairly roliable
+although he declined to make a statenent or complete ATIC fora.
+SOURCE
+confirmed statements made by Mr
+and was satisfied with his interpretation
+of the sighting.
+THIS DOCUMENT CONTAINS IN
+RMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S. C.-
+AND 32, AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW
+T MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF
+TELLIGENGE, USAF.
+UNCLASSIFIED
+(CLASSIFICATION)
+1566

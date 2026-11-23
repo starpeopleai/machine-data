@@ -1,0 +1,40 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T12:48:03Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4171069, "source_ctime_ns": 1793374042775011608, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28949921/0640.jpg", "source_mtime_ns": 1785696482000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28949921/0640.jpg", "source_sha256": "13bb1ad8e97fc58067098fde2c4e8c827bef8f756b079c4255570c70119d472c"}
+
+===== PAGE 1 =====
+{"alpha_words": 149, "chars": 904, "method": "ocr", "page": 1, "variant": "plain-vision"}
+ACTION
+GT 14 05 M
+RT
+• 1052
+VI.
+2. Atten
+3. C. filie
+MEDIA I
+FOR
+RAZ 120
+WPB235
+YMA22 SH
+ATIL
+JEDLS A229
+OPOP JEPHQ JEDWP JEDEN 333
+DE JEDLS 1B
+OP 1424002 EJ
+FLT OPS OLMSTED AFB MIDDLETOWN PENN
+TO JEPHQ/DIRINTEL HQ USAF WASHDC
+AJEDWP/AIR TECHINTELCEN WRIGHT¿PATTERSON AFB OHIO
+JEDWPWACG AMC WRIGHT-PATTERSON AFB OHIO
+JEDEN/CG ENT AFB COLORADO SPRINGS COLO
+FLYOBRPT. ATTN AT1AA-2. MBEFF-9-11 RE AFL
+202-S ON 14 SEP AT 0220Z MR
+PENN PHONE B
+SIGHTED A BLUE AND DULL YELLOW OBJECT
+WITH SIX RED LIGHTS ON IT TO THE EAST OF THE TOWN AND MOVING UP AND
+DOWN. THERE WAS NO SOUND. HE ALSO SAID THAT HE SPOTTED THE SAME
+OBJECT THE NIGHT BEFORE AND THAT ON THAT OCCASION THERE WAS A SOUND.
+AT THE TIME OF THE TELEPHONE CONVERSATION WHICH WAS 1403222. THE OBJECT
+WAS STILL IN SIGHT AND SEEMED TO BE FALLING SLOWLY. THE WEATHER AT
+WAS CLEAR AND UNRESTRICTE
+TY. SURFACE WINDS
+AT 40/50N AND 77/45W.
+14/ 24522 SEP
+JED LS

@@ -1,0 +1,81 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T12:35:05Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 16928296, "source_ctime_ns": 1793355618846826905, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0057.jpg", "source_mtime_ns": 1785564490000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0057.jpg", "source_sha256": "f7a6f558e7f8af17b5e8278eb74933e80647c3fa59139e3b345a32c70508f3b0"}
+
+===== PAGE 1 =====
+{"alpha_words": 759, "chars": 5114, "method": "ocr", "page": 1, "variant": "plain-vision"}
+100
+Assume the requirement of air launching a sixteen-pound
+payload at 5,000 feet to rise to 25,000 feet at 600-800 fpm
+rate of rise, and flotation at 25,000 feet for one hour
+minimum (no sunset requirement).
+Figure 15 analyses three units all designed to this requirement. Unit 1 is the
+most sophisticated, consisting of fiberglass or composite material special bottles.
+Unit 2 is a high-strength steel bottle, and Unit 3 is an economical mild steel bottle.
+As we scan the weights column we can see that bottle weight increases significantly
+and that there is an important effect on the parachute size and weight as well as on
+the weight of the fairing. Most other items are substantially unaffected. The gross
+weights of the three units vary; 90 pounds for the most sophisticated unit, 140 pounds
+for the high-strength steel bottle unit, and 266 pounds for the most economical unit.
+The remainder of the tabulation shows a variation in the cost per unit for these
+three units with quantities of 10, 100, and 1000. It can be seen that the cost is
+sensitive to bottle selection in all categories, although it is most important in low
+quantities, where the cost of $16,000 for the most sophisticated unit can be compared
+with $2,900 for the most economical, whereas at the quantity level of 1000 units the
+sophisticated unit costs $3,480 compared to $1,414 for the most economical unit.
+Figure 16 may be used to estimate balloon size and device weight for units built
+aroundhigh-strength steel bottles. An example of use of the chart is traced out on its
+face; a 50 pound payload to float at 65,000 feet, carried by a rugged balloon equiva-
+lent in weight to 1.5 mil polyethylene is indicated to require a 34-foot-diameter
+natural-shaped balloon. The overall device weight is indicated as 450 pounds.
+This, then, is the air-launched balloon. The purpose of the device is to place
+scientific or military payloads at a desired location at a preselected time with
+the maximum independence from wind, terrain, or enemy control. A satisfactory
+technique has been developed and substantial experience has been acquired. System
+elements such as timer, explosive valves, releases, fill lines, balloon- and payload-
+separation devices for application to any detailed requirement are available.
+Figure 17 shows a proposed design freeing the payload from involvement with balloon
+and parachute and thus facilitating payload checkout or alternate payload substitution.
+2. BALLOON LAUNCHING FROM HELICOPTERS
+If the distance of the most desirable launch point is less than 100 miles from a
+ground operating base and if larger payloads are required, or if the cost of the
+expended air-launching hardware is prohibitive, helicopter air launching may have
+advantages over both ground launch and launching from airplanes.
+101
+Under some circumstances it may be very desirable to be able to launch load-
+carrying balloons at a given place under wind conditions that make ground launching
+unreliable. In other instances it is desirable to launch with a minimum lapse of
+time between choice of launch point and launch.
+Relative to ground launching, the following advantages appear attainable by
+helicopter launching:
+1. Elimination of dependence on wind.
+2. Attainment of more reliable placement on course, or over range.
+3. Attainment of higher launching reliability due to reduction of wind force
+across balloon envelope.
+4. Reduction of size of launching crew.
+5. Elimination of dependence on terrain or surface roads.
+6. Selection of launch point based on current and short lead-time forecasts.
+7. Execution of over-water, rough terrain, or forest-area launches.
+8. Launches where ground launch would leave undesirable evidence.
+While these same desirable features accrue to airplane launching, helicopter
+launching has the further advantage that very little equipment is expended, so that
+for large loads it will prove more economical than launching from airplanes.
+A preliminary series of tests to evolve the technique and equipment for heli-
+copter balloon launching has been carried out under the sponsorship of AFCRL.
+The indications from these tests are positive in that a number of successful
+launchings were carried out.
+While we won't win an Oscar for the accompanying film, it affords an easy
+way of explaining the most successful of several experimental launching techniques
+tried. (Still photographs from the film appear in this paper as Figures 18 through
+24.)
+Film: Helicopter Launch Sequence:
+Launching sequence:
+1. Package consisting of the balloon and payload is lowered to the full
+extension of the fill line using a winch with a brake. Helicopter is
+flown with 3 to 5 knots of forward velocity.
+2. The balloon package cover is released and helium from the bottle
+complex in the helicopter is flowed through the fill line to inflate the
+balloon.
+3. Filling is nearly complete - helicopter still at 3 to 5 knots forward
+-fill line is still connected.
+4. Filling having been completed, balloon and payload are released from
+suspending and towing fill hose. Load swings under balloon and free-
+balloon flight begins.

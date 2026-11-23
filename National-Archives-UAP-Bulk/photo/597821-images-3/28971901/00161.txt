@@ -1,0 +1,15 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T13:18:41Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8304725, "source_ctime_ns": 1793379302608130681, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28971901/00161.jpg", "source_mtime_ns": 1785700751000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28971901/00161.jpg", "source_sha256": "d1dfb3903441f0fe2acb9559e7d7290622724418772204701d5327e965610cd8"}
+
+===== PAGE 1 =====
+{"alpha_words": 36, "chars": 259, "method": "ocr", "page": 1, "variant": "plain-psm3"}
+PAGE TWO RJESKB 93
+
+THE PLANET VENUS.) 12. NONE 43. COMMENTS OF DIRECTOR OF INTELLIGENCE C
+35TH CADDs CONCUR WITH THE EVALUATION OF THE COC CONTROLLER. ae,
+
+) i
+21/2046Z OCT RJESKB wl We
+
+“
+
+ REEEEGENBEROO CDSERVED THE OBJECT. HE BELIEVES THE OBJECT WAS 9 J

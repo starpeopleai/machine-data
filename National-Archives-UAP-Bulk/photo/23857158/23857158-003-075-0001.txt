@@ -1,0 +1,43 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T12:53:04Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6235024, "source_ctime_ns": 1793358592592563618, "source_file": "National-Archives-UAP-Bulk/photo/23857158/23857158-003-075-0001.tif", "source_mtime_ns": 1785681142000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857158/23857158-003-075-0001.tif", "source_sha256": "641ef2d1788277dbbdc1b7a32486092448fb2fc98010e4e1d9cec82553100ccf"}
+
+===== PAGE 1 =====
+{"alpha_words": 121, "chars": 846, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Declassification Authority NND 923007
+1 REPORT NO.
+AISS-0703-235-55
+I LOCATION OF SIGHTING
+4602D AISS UFOB LCG
+2 DATE/TIME OF SIGHTING
+22/2230Z July 1955
+S56I STAS SZ
+3 RECD HQ 4602D
+711
+Santa Maria, California
+5 MEANS RECD
+IT Mag
+7 INVES UNIT
+6 ACTION
+Le offa the pilga dy 770 7ORM 168 sen
+8 DATE INVES ASSIGNED
+19 ASSIGNING OFFICER
+25 Jaly 1955
+Ega
+10 DATE IR RECD HQ
+11 DATE IR APPROVED
+12 DATE IR TO ATIC
+1/A
+13 AISOP: FORM 5
+25 3al7 1955
+14 COMMENTS
+This headquarters is conduc
+ing a limited follow up investigation by
+means or ATIC Form lou and a request for negatives or prints of the
+coject taken by the observer.
+Upon receipt of the above form and
+the pictures this headqaarters will forward the pictures and its
+evaluation to ATIC.
+AIIC Fr 16% never returned
+11 TRuTC
+L5 CONCLUSTON
+Possibly Aircraft: Navy Blimp.
+AISOP FORM 7 (2AFM 55)

@@ -1,0 +1,75 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T12:37:36Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 21119324, "source_ctime_ns": 1793361132175814651, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-004-0143.tif", "source_mtime_ns": 1785565240000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-004-0143.tif", "source_sha256": "a0d0e28efbf661cd7df1ff2dd9b31aaf60420987958385d00144f383262fe783"}
+
+===== PAGE 1 =====
+{"alpha_words": 238, "chars": 1846, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AF FORM 112-PART II
+APPROVED 1 JUNE 1948
+FROM (Agency)
+22nd Fighter Day Squadron
+UNCLASSIFIED
+(CLASSIFICATION)
+AIR INTELLIGENCE INFORMATION REPORT
+REPORT ИFOВ42-58
+PAGE
+2
+OF
+PAGES
+Reference AFR 200-2, 12 Aug 54.
+1. Description:
+a. Shape - Unknown
+b. Size - dime
+e. Color - Red, greenish yellow, slight blue
+d. Number - One
+e. N/A
+f. Negative
+g. Negative
+h. Negative
+2. Description of Course of Object
+a. What first called the attention of the observer?
+Irregular flight path.
+b. Angle and Azimuth when first observed.
+45 degrees
+c. Angle and elevation upon disappearance of object;
+80 degrees to 90 degrees
+d. Description of flight path and maneuvers of object.
+Jagged flight path, generally moving to overhead position as it darted
+from side to side.
+e. Negative
+f. Length of time in sight.
+app. three (3) minutes.
+3. Manner of observation:
+a. Ground visual.
+b. Negative
+c. N/A
+4. Time and date of Sighting:
+30 JAN 06272
+5. Location of Observer:
+4957N 0633E, ZULU Hangar, Bitburg Air Base
+6. Identifying information of observers:
+b. Llewellyn Kenison, 1/Lt USAF, 22 Ftr Day Sqdn., Pilot, Excellent
+7. Weather and Winds
+a. Observers account:
+Clear and two miles visibility.
+b. Winds -
+surface
+240 deg.
+10kts.
+20,000
+230 30
+30,000
+50,000
+80,000
+not available
+c. Ceiling
+None
+d. Visibility
+2 miles
+NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S. C.-
+31 AND 32, AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW.
+IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF
+INTELLIGENCE, USAF.
+UNCLASSIFIED
+(CLASSIFICATION)
+* U.S. GOVERNMENT PRINTING OFFICE: 1951 O-918739
+DECLASSIFIED
+Authority NND 9237007

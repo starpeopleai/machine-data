@@ -1,0 +1,10 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T13:03:34Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 12498219, "source_ctime_ns": 1793366739187963781, "source_file": "National-Archives-UAP-Bulk/photo/542184/341-PBB-689-0154.jpg", "source_mtime_ns": 1785565584000000000, "source_rel": "National-Archives-UAP-Bulk/photo/542184/341-PBB-689-0154.jpg", "source_sha256": "6d8bfdb0b516e1f186e1c8ef71fb84a6b2b2a020fa4893ad1bfac2d49b01ed17"}
+
+===== PAGE 1 =====
+{"alpha_words": 3, "chars": 19, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 1, "variant": "plain-psm3"}
+‘ oe
+
+e
+f
+
+Po eas?

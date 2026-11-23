@@ -1,0 +1,47 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T12:42:47Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 1783163, "source_ctime_ns": 1793388692502172634, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-5/302531122/0905.jp2", "source_mtime_ns": 1785808464000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-5/302531122/0905.jp2", "source_sha256": "b70d07620bd36343d0c7fc7ea8ab34af865b4b67c622963ecf6b1d6ce08e6633"}
+
+===== PAGE 1 =====
+{"alpha_words": 212, "chars": 1351, "method": "ocr", "page": 1, "variant": "plain-vision"}
+HEADQUARTERS
+FOREIGN TECHNOLOGY DIVISION
+AIR FORCE SYSTEMS COMMAND
+UNITED STATES AIR FORCE
+WRIGHT-PATTERSON AIR FORCE BASE, OHIO
+TIN OF: TDEW
+SUBJECT: UPO Sighting
+13 DEC 1963
+To: HQ USAP SAP-OIPB (Mrs Gaiser)
+Wash 25 D C
+1. Reference the attached letter from 1
+dated 2 Dec 63,
+requesting information on a
+UTO sighting, 30 Nov 63, over Tennessee
+and Kentucky.
+The sighting is attributed to a meteor.
+The informa-
+tion which Mr
+has given Mr
+r is obviously in error.
+Meteors can and do travel horizontally and on occasion may even
+appear to rise.
+The book The World of Flying Saucers, authored by
+Doctors Boyd and Menzel, has an excellent chapter on meteors which
+indicates some of the appearances that meteors have taken.
+2. Satellite decay (or re-entry) is distinguished from meteors by:
+The re-entry always has an Easterly component.
+The colors tend toward reds and oranges on the color spectrum
+as the object breaks up or decays.
+The duration of satellite decay is much longer. Sputnik IV
+decay on 5 Sep 62 lasted in excess of two minutes and the Discoverer
+VIII decay on 7 Mar 60 lasted over four minutes, whereas meteors are
+rarely observed for over ten or fifteen seconds.
+The speed is much slower for satellite decay as compared to
+speeds of meteors.
+POR THE COMMANDER
+Colonel,
+USAF
+Deputy for Technology
+and Subsystems
+1. Atch
+Ltr
+Atd 2 Dec 63

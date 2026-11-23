@@ -1,0 +1,28 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T12:59:19Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8648204, "source_ctime_ns": 1793381006791385421, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28979059/0699.jpg", "source_mtime_ns": 1785701113000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28979059/0699.jpg", "source_sha256": "9775df385acd8f8e81eb18c9b7d1df837db240485298372e48719776f9e1d5ac"}
+
+===== PAGE 1 =====
+{"alpha_words": 73, "chars": 529, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Witners
+TCZCSQP001T SQF863 YMB244ZCZCBWA035
+PP RJEDDN RJEDSQ RJEPHQ RJEPNB
+DE RJEDBW 1E
+P 2112152
+FM COMDR 763D ACWRON LOCKPORT AFSTA
+TO RJEDDN/COMDR ADC ENT AFB
+RJEDBW/COMDR 30TH ADIV
+RJEDSQ/COMDR WPAFB
+RJEPHQ/HEDUSAF
+RJEPNB/COMDR EADF STEWART AFB
+ВТ
+/UNCLAS/ACROT-OT 070081 PD
+ATTN& TECHNICAL INTELLIGENCE CENTER, ATTN& DIRECTOR OF
+INTELLIGENCE ATTN: EADF-C/C. THE FOLLOWING IS SUBMITTED
+IN ACCORDANCE WITH AFR 280-2: UFOB PD
+1. AL ARROW
+B& UNKNOWN
+- YELLOW & ORANGE
+D.CTWO LARGE THREE SMALL
+E. UNKNOWN
+F. NO
+ЧЕН
+Definitels ut

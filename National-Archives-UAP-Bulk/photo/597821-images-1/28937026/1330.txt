@@ -1,0 +1,23 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T12:45:23Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3797737, "source_ctime_ns": 1793371189661528840, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28937026/1330.jpg", "source_mtime_ns": 1785688495000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28937026/1330.jpg", "source_sha256": "49bf498788c641ad46f11f92b2ca03f316dc67899fd02a75727cdac1b9428bb4"}
+
+===== PAGE 1 =====
+{"alpha_words": 66, "chars": 438, "method": "ocr", "page": 1, "variant": "plain-vision"}
+RECOMMENDATION:
+8. That Capt E. J. Ruppelt and a member of the Section Office be placed
+on seven days TDY to Los Alamos, New Mexico; Kirtland AFB, New Mexico; and
+Dobbins AFB, Georgia.
+COORDINATION:
+ATIAA-5 Capt Ruppelt, Ch, Aerial Phenomena Section
+ATIAA
+Maj Herman, Ch, A/C & Prop Branch
+ATIA
+Col Bower, Ch, Tech Analysis Div
+ATIM
+It Col McKenzie, Comptroller
+ATI
+Brig Gen Garland, CG, ATIC
+1 Dec 52
+1 Dec 52
+1 Dec 52
+1 Dec 52
+1 Dec 52

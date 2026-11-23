@@ -1,0 +1,67 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T13:14:45Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 26599364, "source_ctime_ns": 1793356382704776144, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-0261-64425-0001.tif", "source_mtime_ns": 1785564694000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-0261-64425-0001.tif", "source_sha256": "5db4ca7829123942c6845cc46303fd4abbd9cb0a741ff2402eaaa2c61d2967ad"}
+
+===== PAGE 1 =====
+{"alpha_words": 243, "chars": 1812, "method": "ocr", "page": 1, "variant": "plain-vision"}
+9 APR 1949
+AF FORM 112-PART I
+APPROVED 1 JUNE 1948
+(CLASSIFICATION)
+SUBJECT
+REPORT NO.
+IR-16-49
+LEAVE BEAN 6 YY25I
+AIR INTELLIGENCE INFORMATION REPORT
+Alase
+Sighting of Unidentified Flying Object
+AREA REPORTED ON
+Alaska
+FROM (Agency)
+Director of Intelligence,
+Air Comd
+DATE OF REPORT
+19 April 1949
+DATE OF INFORMATION
+4 April 1949
+B-7
+PREPARED BY (Officer)
+SOURCE
+It RE Smythe
+Ho 502lst Air Base Squadron
+9545
+REFERENCE Cient ardo re Pon "COmmancing General, Alaskan Air Command.
+AAOID-6-1681-
+SUMMARY: (Enter concise summary of report. Give significance in final one-sentence parogroph. List inclosures at lower left. Begin text of report on
+On 29 March 1949 crew members of B-29 344-62202, assigne
+Unidentified Object
+to the 375th
+Reconnaissance Squadron (VIR) Weather, sighted an unidentified flying object
+over
+Shemya, Alaska at approximately 2400 feet, speed estimated
+between 200
+APR g 9 1949
+APPROVED:
+GEORGE BUDWAY
+Major, USAF
+Director of Intelligence
+DECLASSIFIED
+Authorty Nu 20720
+By ST SHA Do 12/19/2001
+DEGLASSIFIED
+E.O. 11652, Sos. 3(6 and SD) or (B)
+USAF memo 7/31/28
+BY WhewiS 1HS, 010 9/8/78
+1. Statement (lst It J. S. Gist (Trip)
+2.
+Statement (lst It F. M. McAllister (Trip)
+Statement (lst It R. A. Dittmar (Trip)
+Statement (Sgt Brown, W. A. (Trip)
+DISTRIBUTION BY ORIGINATOR
+1. DI ALS COND
+THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S.C.-
+31 AND 32, AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW.
+IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF
+INTELLIGENCE, USAF.
+AAC- 1308
+CLASSIFICATION,
+16-55569-1
+Declassification Authority: NND 57565

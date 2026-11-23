@@ -1,0 +1,56 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T12:34:37Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 15767252, "source_ctime_ns": 1793361361997448575, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-005-0051.tif", "source_mtime_ns": 1785565324000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-005-0051.tif", "source_sha256": "62fa9a7824de886037ad2ca2b8d175929251415525886ca3a5d5ebe1c808de79"}
+
+===== PAGE 1 =====
+{"alpha_words": 47, "chars": 466, "method": "ocr", "page": 1, "variant": "plain-vision"}
+1
+10
+5
+(when filled in)
+MINICARD CODE SHEET
+No of
+Pages INCLOSURES
+ALL
+COVER
+TITLE PAGE
+_ TABLE OF CONTENTS
+FOLLOWING PARTS
+CF,
+TATS 917
+U PA102
+-iPV
+159010.0
+CFØØ5117
+UPHILIP
+V500100
+SYSTEM
+ACCESSION DATE
+Y
+ZAPHads
+WØ11001
+Y241259
+2APHỢØS
+NONE
+0/25.
+X1Ø1259
+43.940
+1603000
+00001
+EC
+$
+1 рок оно.
+S26458
+Z I
+010.01
+ZNG 10Ø1
+J.04.1059
+JØ41059
+S2645Ø2
+4
+Classification canc
+effective op
+sted (charged 19
+under the authority
+OFfINE
+ES
+DECLASSIFIED
+Authority NND 9237007

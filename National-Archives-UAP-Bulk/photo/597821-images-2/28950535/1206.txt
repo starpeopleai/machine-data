@@ -1,0 +1,89 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T12:46:40Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3904234, "source_ctime_ns": 1793374166841451801, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-2/28950535/1206.jpg", "source_mtime_ns": 1785696417000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-2/28950535/1206.jpg", "source_sha256": "9debd1b4ac73f8b227bc0c010be6e335831cf38b07431f85fc4a5a5d99af4819"}
+
+===== PAGE 1 =====
+{"alpha_words": 190, "chars": 1318, "method": "ocr", "page": 1, "variant": "plain-vision"}
+PROJECT 10073 WORKSHEET (
+I. GENERAL
+DATS
+LOCATION
+290ng 52
+slo. Spurnos,
+4. WAS OBJECT OBSERVED FROM THE GROUND?
+- Naked Eye
+_ Binoculars
+• Telescope
+Theodolite
+5. WAS OBJECT OBSURVED BY GROUND RADAR?
+Yes
+L. By One Set
+LI By Two Sota
+_I By Three Sets
+6. WAS OBJECT OBSERVED FROM THE AIR?
+• Y09
+_A/C Obeerved Objoct
+C.I Interception Attempted
+I No Intercept Attompted
+ERE AIRCRAFT SCRAMBLED TO INT
+CEPT?
+- Yes
+A/C Scrambled
+- Visual Contact Nada
+JA/I Contact Lade
+INo Contact Vado
+8. DID OBJECT CHANGE
+AT ANY TIME?
+les
+._J Normal
+.. Violent
+9. IF OBJECT WAS A LIGHTI, WAS IT:
+(Blinking
+[) Stoady
+10. LENGTH OF TIME IN SIGHT:
+Li 1-15 Seconds
+EY1-5 Minutes
+l1 Over 10 Minutes
+II. REPORTING AGENCY (Unit Number and Nailing Address)
+ADC, Ent AFB,
+II. ASTRONOMICAL DATA
+12. WHAT ASTRONOMICAL ACTIV
+ITT WAS NUTED?
+DID OBJECT APPEAR TO ARCH DOWNWARD?
+DID OBJECT HAVE A TAIL?
+DID OBJECT APPEAR TO DISINTEGRATE?
+TIME
+OF
+SIGHTING RELATIVE TO SUNRISE OR SUNSET
+17•
+WERE AIRCRAFT NOTED IN AREA?
+WAS ANY SOUND HEARD?
+INDICATIONS
+OF
+OBJECT VIENED ABOVE
+none
+L. 1 Yes
+.! Yes
+' 1 Yes
+(Data From Air Almanac)
+C Night
+C. Day
+I Sunrise
+I Sunset
+III. AIRCRAFT DATA
+TYes
+DOne Aircraft
+Nore Than One Aircraft
+BACKCHOCHL NOISE YOR
+LEVATION?
+IC Tast
+Form 33l (12
+Ano 521
+3. TIRE
+Local: 2%
+025
+Zebra: 221336
+C] No
+LET NO
+LET NO
+- NO
+¡..O
+пао.

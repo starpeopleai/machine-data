@@ -1,0 +1,73 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T12:47:32Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4056888, "source_ctime_ns": 1793372103988403924, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28941248/0924.jpg", "source_mtime_ns": 1785688603000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28941248/0924.jpg", "source_sha256": "278df489fc48ae07d43a3a048f70a46c5875430f4de66fa6dc336492087399aa"}
+
+===== PAGE 1 =====
+{"alpha_words": 96, "chars": 905, "method": "ocr", "page": 1, "variant": "plain-vision"}
+078°
+••Tokio
+TRIANGLE
+3550
+Brownfield
+3584
+HUMBLE 62
+33°
+Ashmore o
+RED 88
+258*
+FULLER RANCH
+2100
+HOGG
+2000
+Lenoran
+AND AIR PA
+2605
+H 64
+32°
+Joins 407/ um
+20
+30
+1:1,000.000
+12-50
+STANTON
+DESH
+10
+20
+30
+40
+50
+TO REFERENCE ON THE GEOREF (SHOWN IN BLUE)
+TO NEAREST MINUTE
+Sample Point: HATCH
+• EJ identifies basic 15° quadrangle
+2. NC identities 1° quadrangie
+3. 51 identifies Georef minute of longitude
+39 identifies Georef minute of latitude
+EJNC5139
+EC
+510l
+(Joins 470) 102° (Joins 469)
+530
+540
+5501
+Dale of magnetic informotion 1947
+Consult Coast and Geodetic Survey Radio Facility
+Charts and Civil Aeronautics Administration Airman's
+Guide for changes in aeronautical information on this
+chart after December 10, 1950
+Next scheduled edition, September 1951
+5601
+300!
+570]
+600
+3ťö]
+3201
+610
+- 350
+3601.
+ESTACADO PLAIN
+UNITED STATES
+U.S. AIR FORCE EDITION
+101%
+Kilometers
+Nautical Miles
+Statute Miles
+(406)

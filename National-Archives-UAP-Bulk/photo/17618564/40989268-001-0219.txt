@@ -1,0 +1,78 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T12:39:52Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 17708661, "source_ctime_ns": 1793355775553279556, "source_file": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0219.jpg", "source_mtime_ns": 1785564521000000000, "source_rel": "National-Archives-UAP-Bulk/photo/17618564/40989268-001-0219.jpg", "source_sha256": "d77b35501bdbe0441f37c09a5a4a4d5decb03db427646cc8f1b2f70648389d6c"}
+
+===== PAGE 1 =====
+{"alpha_words": 834, "chars": 5480, "method": "ocr", "page": 1, "variant": "plain-vision"}
+426
+To corroborate the wind-tunnel observations and be sure that there were no
+problems caused by the use of such a large model in the 20-foot tunnel, one of the
+model systems was free-dropped from a helicopter at about 2,000 feet.
+3:2 Results
+The performance of the wind-tunnel model system was considered in terms of
+deployment, inflation, system stability, and drag. However, due to the scaling
+limitations of the models, it was concluded that these results could only be extrapo-
+lated to larger systems in a qualitative rather than a quantitative manner.
+The deployment scheme chosen operated well in every test. The envelope
+streamed smoothly from the deployment bag and immediately began to ingest air
+through the throat. Actual time from release until the deployment bag cleared the
+streamed envelope was less than one second, and there did not appear to be any
+significant opening shock transmitted to the forebody. Most of these runs were
+made at event velocities from 30 to 35 fps, but two tests were run at 62 and 83 fps,
+respectivelv.
+In all the model variations tested, the envelope began to ingest air as soon as
+its throat was released. The drag immediately increased and quickly reached a
+value near that of the fully-inflated balloon. Thus, the inflation took place at a
+nearly constant velocity ranging from 8 to 18 fps with one heavy case at 27 fps.
+Although the motions of the envelope fabric appeared quite random with a continuous
+movement of the folds of material and some opening and closing of the throat area,
+the inflation time for a given configuration was surprisingly repeatable. Values
+ranged from 4 seconds with a rigid ring holding the throat open to over 40 seconds
+for the lightest configurations. During this period the system was completely
+stable. In general, inflation was found to be somewhat slow. However. when the
+rigid throat ring was used, the rapid inflation was so violent that it could not
+possibly be sustained in a large system. So while the desirability of a positive in-
+flation aid was revealed, the need for a controlled gradual inflation was also indi-
+The maior problem encountered in the wind-tunnel study was an instabilitv
+exhibited by the system during the cold-descent period after the balloon was fully
+inflated. This occurred in the form of an indentation on the windward side of the
+balloon which resulted in a quasi-steady coning rotation of the system or system
+oscillations of varying degrees of intensity. Analysis indicated that this instability
+was the result of having to operate the model envelopes in the laminar-to-turbulent
+transition flow regime. It was further shown that in this regime unsteady asvmmetric
+separation of the boundary layer from the balloon can exert large pitching moments.
+Since the full-scale test balloons operated at a much larger Reynolds number, well
+into the turbulent regime, the instability problem was not expected to occur with
+them. This conclusion was partially verified by a simple free drop of a 40-foot-
+diameter hot-gas balloon in the streamed configuration. Also, it was found that the
+instability of the six-foot model could be "fixed'' by the addition of a skirt-like fence
+around the balloon near its equator to provide a uniform flow-separation line.
+Due to the instability problem, it was not possible to obtain valid drag measure-
+ments for the model system in the fully-inflated configuration. However, drag
+measurements for the envelope in the streamed configuration were obtained.
+The free-flight drop of the model system from the helicopter with a deploy-
+ment-event velocity between 90 and 100 fps verified the observations and conclusions
+of the Vertical-Wind-Tunnel tests.
+In general, the wind-tunnel observations and associated studies indicated that
+the overall mechanization of the PARAVULCOON deployment and inflation was
+feasible. No problems or phenomena were encountered which tended to disprove
+the feasibility of the system concept or were expected to interfere with the orderly
+accomplishment of the full-scale flight tests.
+4. FULL SCALE FREE FLIGHT STUDIES
+The principal means of attaining the program objectives were the four free-
+flight cold-drop tests of a large PARAVULCOON System. Since it was desired to
+observe the performance of a larger balloon, the simulated recovery of a 1.000-
+pound-payload size was chosen as it required a fairly large balloon (50 to 60 feet)
+but still was not so heavy as to create test inconvenience. These flights were con-
+ducted at the U.S. Department of Defense, Joint Parachute Test Facility, El Centro,
+California, with the technical support of the U.S. Air Force, 6511th Test Group
+(Parachute).
+4.1 Equipment and Methods
+As noted above, the deployment-bag method was used to deploy the PARAVUL-
+COON envelope. It was decided that the simplest means of creating the desired-
+event conditions was to suspend the test system from a drogue parachute sized to
+provide the desired-event velocity in equilibrium vertical descent at the chosen
+altitude. Then the same parachute was used to extract the deployment bag and
+stream the envelope. This sequence is illustrated in Figure 3.
+In order to produce this situation, the flight-test vehicle was dropped on a
+wooden skid from a C-130 transport aircraft. As the skid fell away from the aircraft,
+static lines actuated cutters to release the vehicle from the skid and streamed the
+skid-recovery parachute. The streaming of this parachute deployed the vehicle

@@ -1,0 +1,43 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T12:37:24Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 18110288, "source_ctime_ns": 1793361082930443739, "source_file": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-004-0090.tif", "source_mtime_ns": 1785565225000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857159/23857159-001-004-0090.tif", "source_sha256": "3612cdbbbd7946cae0dd722956b3f72c9a21c674001c4591e4309c6d15cd1b3c"}
+
+===== PAGE 1 =====
+{"alpha_words": 161, "chars": 1117, "method": "ocr", "page": 1, "variant": "plain-vision"}
+AF FORM 112-PART II
+APPROVED 1 JUNE 1948
+FROM (Agency)
+Det 4, 1006th AISS
+UNCLASsiFied
+LASSIFICATION
+AIR INTELLIGENCE INFORMATION REPORT
+REPORT NO.
+PART TWO
+ÁISO
+84287+4
+PAGE
+S-T-A-T-E-M-E-N-T
+OF
+PAGES
+I was working in the weather station when I heard
+Major Baker and airman Abramavage call me out to observe
+something unusual.
+They pointed to a cloud to the NNE.
+In said cloud I observed several small, metal colored
+objects flitting in and out of the cloud in no apparent
+formation.
+William J. Nieland
+A/20 AF 2277 3447
+S-T-A-T-E-M-F-N-T
+A CERTIFIED TRUE COPY
+O ichard A.
+Holm
+RICHARD A. HOLM
+WO, W-1, USAF
+NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DEFENSE OF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT, 50 U.S. C.-
+31 AND 32, AS AMENDED. ITS TRANSMISSION OR THE REVELATION OF ITS CONTENTS IN ANY MANNER TO AN UNAUTHORIZED PERSON IS PROHIBITED BY LAW
+IT MAY NOT BE REPRODUCED IN WHOLE OR IN PART, BY OTHER THAN UNITED STATES AIR FORCE AGENCIES, EXCEPT BY PERMISSION OF THE DIRECTOR OF
+INTELLIGENCE, USAF.
+UNCLASSIFICQ
+CLASSIFICATIO
+16-55570-1
+DECLASSIFIED
+Authority NND 9237007

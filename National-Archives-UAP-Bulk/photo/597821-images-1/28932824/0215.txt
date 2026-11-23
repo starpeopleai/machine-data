@@ -1,0 +1,16 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T12:49:13Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 4691258, "source_ctime_ns": 1793369792263567435, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28932824/0215.jpg", "source_mtime_ns": 1785688555000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28932824/0215.jpg", "source_sha256": "077fc87899de81722f55ba419d7f0b6236436c0a32b6d4552bee8c7e1c2dcfae"}
+
+===== PAGE 1 =====
+{"alpha_words": 47, "chars": 343, "method": "ocr", "page": 1, "variant": "plain-vision"}
+SENT
+INCOMING MESSAGE
+UNCLASSIFIED
+DOWNGRADED AT 3 YEAR INTERYATS
+DECLASSIFIED AFTER 12 YEARS.
+DOD DIR 5200.10
+UNCLASSIFIED
+to repared or detection in actorance wit Saman i port Smplored, i we i time it wilt
+MCAG Form No. 228 be prepared for destruction in accordonce
+with Section IV, Hq. Office Instruction No. 11-2.
+(Rey 25 Oct 48)
+WF-L- 16

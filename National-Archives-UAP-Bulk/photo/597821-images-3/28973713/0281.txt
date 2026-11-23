@@ -1,0 +1,31 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T13:19:10Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 8401202, "source_ctime_ns": 1793379868995628575, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28973713/0281.jpg", "source_mtime_ns": 1785700956000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28973713/0281.jpg", "source_sha256": "74dc1873d6be14f297dbdc4b493f84cdc920c2e5db48fff4bf38f32d23b85fcc"}
+
+===== PAGE 1 =====
+{"alpha_words": 69, "chars": 489, "method": "ocr", "page": 1, "variant": "plain-vision"}
+30 s-č
+e [ui /)
+16 Hr:
+. ilect
+2)4E4 .
+3 4x2
+Prb
+JEDWP HØ29M WPF131 YDB084 TYC167 TMB142 TTB052NYA#41
+RR RJEPNB RJEPHQ RJEDDN RJEDWP
+DE RJEPNY 28
+R 0815302
+FM 26TH ADIV
+TO RJEDDN/COMDR ADC
+RJEDWP/COMDR ATIC
+RJEPHQ/ AC OF S INTEL HQ USAF WASH 25
+INFO RJEPNB/COMDR EADF STEWART AFBATTN CIC
+BT
+/UNCLASS/ SUBJ: UFOB
+(1) DESCRIPTION:
+(Ạ) ROUND
+(B) 3 TIMES SIZE OF HELICOPTER
+(C) 2 RED 1 WHITE
+(D) 3
+(E> NONE
+ÜF) GOING BACK & FORTH ACROSS THE SKY
+(G) TAIL LIKE RED LINE
+ÖH) HIGH PITCH WHISTLING

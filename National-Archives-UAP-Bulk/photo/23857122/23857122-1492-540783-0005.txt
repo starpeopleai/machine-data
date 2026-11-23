@@ -1,0 +1,53 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T13:07:36Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 22810520, "source_ctime_ns": 1793357640097189288, "source_file": "National-Archives-UAP-Bulk/photo/23857122/23857122-1492-540783-0005.tif", "source_mtime_ns": 1785564945000000000, "source_rel": "National-Archives-UAP-Bulk/photo/23857122/23857122-1492-540783-0005.tif", "source_sha256": "dfaa2e87365c18337a5ef444fa5973b8e9d9c457303a8671c73e7c3f6b1503cc"}
+
+===== PAGE 1 =====
+{"alpha_words": 52, "chars": 444, "method": "ocr", "page": 1, "variant": "plain-vision"}
+SECRET
+CLASSIFICATION: SECRET
+754TH ACEW SQUADRON
+AU TH :
+DATE:
+INITIAL:
+COMMANDING OFFICER
+28E121953
+WEM
+* *
+IDEN-
+TITY
+* * * EXTRACT OF RECORDERS! LOG *
+COURSE
+TIME
+TRACK
+NO.
+ALT
+EST
+SPEED ' ACFT
+*****
+REMARKS
+UNK
+6725
+GP
+GP 5157
+6567
+GP
+7067 00
+180
+03082
+0316Z
+ZEZEO
+W-10
+W-10
+W-10
+W-10
+55 kts 1
+****
+DECLASSIFIED
+USAF
+mEmO
+7/31/72
+BY W. BLENE ARE, DO 4/12/79
+9540783
+Onel # 2
+SECRET SECURITY INFO
+053!
+Declassification Authority: NND 57565

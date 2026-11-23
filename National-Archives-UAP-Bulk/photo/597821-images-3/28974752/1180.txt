@@ -1,0 +1,38 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T12:53:31Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 6570177, "source_ctime_ns": 1793380152312710837, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-3/28974752/1180.jpg", "source_mtime_ns": 1785700703000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-3/28974752/1180.jpg", "source_sha256": "e5c7c5134a6cc5b24bf6db1a59a17b222eadbf09bfd1e3070aa50d6598535e5f"}
+
+===== PAGE 1 =====
+{"alpha_words": 124, "chars": 873, "method": "ocr", "page": 1, "variant": "plain-vision"}
+Act Into
+Comdr
+Sal
+_ D/P&A
+PAGE TWO RJAPHC88
+(G) LONG THIN TAIL, LONGER AND THINNER THAN OBJECT, AN NOT
+AS BRIGHT. COMPARED CLOSELY WITH THAT OF A'SHOOTING STAR".
+(H) NONE
+(1) REPORTED ABLE TO HOVER AND CLIMBED OUT OF SIGHT IN 1Ø-13
+SECONDSiẠ
+(2) DESCRIPTION OF COURSE OF OBJECT:
+(A) BOTH OBSERVERS CASUALLY GLANCED UP AND SAW IT.
+(3) SIGHTED APPROXIMATELY(20 DEGREES ABOVE HORIZON
+JOHNSON AIR BASE.
+(C) DISAPPEARED APPROXIMATELY 6Ø DEGREES ABOVE HORIZON
+SE OF JOHNSON AIR BASE.
+(D) _OBJECT APPEARED AND CLIMED UP AND AWAY AT A VERY HIGHMRATE
+OF CLIMB, 6Ø DEGREES PITCH ANGLE IN A SOUTHERLY
+DIRECTION.
+(E) OBJECT BECAME SMALLER AS IT CLIMBED AND GRADUALLY
+WENT OUT OF SIGHT.
+(F) OBJECT WAS OBSERVED TO
+HOVER APPROXIMATELY TWO MINUTES,
+ABRUPTLY MOVED UP AND AWAY AND DISAPPEARED WITHIN
+15 SECONDS.
+CADJ
+D/I
+D/M
+ACSI
+ADY-COPY
+CADJ-TOR
+CADJ-NUMBER
+SUSPEN
+INCOMING MESSAGEFORM

@@ -1,0 +1,21 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-23T12:44:43Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 3674877, "source_ctime_ns": 1793371971951204098, "source_file": "National-Archives-UAP-Bulk/photo/597821-images-1/28940650/0319.jpg", "source_mtime_ns": 1785688819000000000, "source_rel": "National-Archives-UAP-Bulk/photo/597821-images-1/28940650/0319.jpg", "source_sha256": "aa71b7c6f6eec3acf9137aa35494001a0bdcd837625d1c0d08f10ac13e5d4933"}
+
+===== PAGE 1 =====
+{"alpha_words": 64, "chars": 485, "method": "ocr", "page": 1, "variant": "plain-vision"}
+ASTRO BIPY
+EXTRACT FROM STATUS REPORT # 6
+DATE: 8 Jan 52
+TIE (Local): 1652
+LOCATION: Palner, Alaska
+LENGTH OF THE OBSERVED: 30 18n.
+SOUND: Unknow
+SPEED: SLOW
+ALTITUDE: Unknown
+HEADING: Union
+SOURCE: Several civilians
+ACTION OR COMENTS: Possibly sons phononena incident to, setting,
+sun.
+DESCRIPTION OF INCIDENT: Sources observed long tabe-uke, bright blue object,
+near the setting sun. During the observation the
+object shifted from a horizontal to a vertical position.
+(Confidential)
