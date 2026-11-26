@@ -1,0 +1,36 @@
+{
+  "created_at": "2026-11-26T23:20:49Z",
+  "input_segments": 701,
+  "kept_segments": 701,
+  "removed_repeated_filler_segments": 0,
+  "long_gaps": [
+    {
+      "start": 506560,
+      "end": 532100,
+      "duration_ms": 25540
+    },
+    {
+      "start": 1243240,
+      "end": 1255000,
+      "duration_ms": 11760
+    },
+    {
+      "start": 1591400,
+      "end": 1611060,
+      "duration_ms": 19660
+    },
+    {
+      "start": 1720800,
+      "end": 1750360,
+      "duration_ms": 29560
+    },
+    {
+      "start": 3337400,
+      "end": 3356780,
+      "duration_ms": 19380
+    }
+  ],
+  "removed_repeated_filler": [],
+  "removed_empty_segments": 0,
+  "empty_segments": []
+}
