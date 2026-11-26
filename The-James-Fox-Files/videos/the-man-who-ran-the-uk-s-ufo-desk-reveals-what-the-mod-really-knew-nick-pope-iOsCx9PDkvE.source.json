@@ -1,0 +1,13 @@
+{
+  "backend": "mlx",
+  "created_at": "2026-11-26T22:20:03Z",
+  "model": "large-v3",
+  "schema": "ufo-files-archive-media-transcripts/v1",
+  "source_bytes": 405743080,
+  "source_ctime_ns": 1795731362590695824,
+  "source_file": "originals/The-James-Fox-Files/videos/the-man-who-ran-the-uk-s-ufo-desk-reveals-what-the-mod-really-knew-nick-pope-iOsCx9PDkvE.mp4",
+  "source_mtime": 1795731332,
+  "source_mtime_ns": 1795731332833328962,
+  "source_rel": "The-James-Fox-Files/videos/the-man-who-ran-the-uk-s-ufo-desk-reveals-what-the-mod-really-knew-nick-pope-iOsCx9PDkvE.mp4",
+  "transcript_path": "The-James-Fox-Files/videos/the-man-who-ran-the-uk-s-ufo-desk-reveals-what-the-mod-really-knew-nick-pope-iOsCx9PDkvE.tsv"
+}
