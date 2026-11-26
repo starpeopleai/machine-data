@@ -1,0 +1,72 @@
+{
+  "canonical_language": "pt-BR",
+  "detected_language": {
+    "code": "pt-BR",
+    "confidence": 0.99,
+    "method": "stopword-heuristic/v1"
+  },
+  "document_id": "doc-69946cf465cd97267009fd03",
+  "extraction": {
+    "engine": "tesseract-por+eng-psm3",
+    "generated_at": "2026-11-26T06:17:29Z",
+    "mode": "ocr",
+    "tools": {
+      "page_segmentation_mode": "3-auto",
+      "tesseract": "tesseract 5.5.3"
+    }
+  },
+  "medium": "image",
+  "pages": [
+    {
+      "language": {
+        "code": "pt-BR",
+        "confidence": 0.99,
+        "method": "stopword-heuristic/v1"
+      },
+      "page_id": "page-c0ebfc8ba417482deb01535f",
+      "page_index": 1,
+      "segments": [
+        {
+          "end_ms": null,
+          "language": {
+            "code": "pt-BR",
+            "confidence": 0.99,
+            "method": "stopword-heuristic/v1"
+          },
+          "ocr_confidence": 0.6785,
+          "page_id": "page-c0ebfc8ba417482deb01535f",
+          "segment_id": "seg-d5a84c9551fe7048b5d83e67",
+          "segment_index": 1,
+          "start_ms": null,
+          "text": "se vor TURISMO E\nVARGINHA Tx COMÉRCIO\nx",
+          "text_sha256": "9340fb6264417b9936f4fd17ea0927fdcc24ae3bcc6c8fade46d9a96462d9098"
+        }
+      ]
+    }
+  ],
+  "schema": "ufo-files-portuguese-canonical/v1",
+  "segments": [],
+  "source": {
+    "archived_original_path": "originals/Brazil-Government-UAP/Municipio-de-Varginha/CASO-ET-VARGINHA/CABECALHO2_s.png",
+    "bytes": 2555645,
+    "canonical_source_identifier": "BR:MUNICIPIO-DE-VARGINHA-FUNDACAO-CULTURAL:CASO-ET-VARGINHA:5ee0ddd8278520ce",
+    "collection_fonds": "Patrimônio cultural imaterial",
+    "country": "BR",
+    "direct_file_url": "https://turismo.varginha.mg.gov.br/wp-content/uploads/2026/11/CABECALHO2_s.png",
+    "document_date": "",
+    "institution": "Município de Varginha / Fundação Cultural",
+    "jurisdiction": "municipal",
+    "landing_page_url": "https://turismo.varginha.mg.gov.br/mapa-caso-et-de-varginha/",
+    "media_type": "image/png",
+    "official_identifier": "CASO-ET-VARGINHA",
+    "original_language": "pt-BR",
+    "original_title": "CABECALHO2_s.png",
+    "relative_path": "Municipio-de-Varginha/CASO-ET-VARGINHA/CABECALHO2_s.png",
+    "rights_access_note": "Acesso público em domínio oficial; sujeito aos termos do órgão.",
+    "sha256": "1b4e0c248474c0f8f0fa864874e021313d4bc1e7a067707d82446453e53f88a3",
+    "source_urls": [
+      "https://turismo.varginha.mg.gov.br/mapa-caso-et-de-varginha/",
+      "https://turismo.varginha.mg.gov.br/wp-content/uploads/2026/11/CABECALHO2_s.png"
+    ]
+  }
+}

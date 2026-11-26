@@ -1,0 +1,39 @@
+{
+  "canonical_text_sha256": "ec5046d192185e171776636815b19e3fe8145e658968ce895bae4eda532250e9",
+  "document_id": "doc-69946cf465cd97267009fd03",
+  "extraction": {
+    "engine": "tesseract-por+eng-psm3",
+    "generated_at": "2026-11-26T06:17:29Z",
+    "mode": "ocr",
+    "tools": {
+      "page_segmentation_mode": "3-auto",
+      "tesseract": "tesseract 5.5.3"
+    }
+  },
+  "generated_at": "2026-11-26T06:17:29Z",
+  "page_count": 1,
+  "pipeline_version": "ufo-files-portuguese-pipeline/1.0.11",
+  "qa_status": "pass",
+  "remaining_manual_review_count": 1,
+  "runtime": {
+    "machine": "arm64",
+    "platform": "macOS-27.0-arm64-arm-64bit-Mach-O",
+    "python": "3.13.15"
+  },
+  "schema": "ufo-files-portuguese-provenance/v1",
+  "segment_count": 1,
+  "source_bytes": 2555645,
+  "source_sha256": "1b4e0c248474c0f8f0fa864874e021313d4bc1e7a067707d82446453e53f88a3",
+  "status": "failed",
+  "translation": {
+    "generated_at": "2026-11-26T06:17:29Z",
+    "method": "local-mlx-lm",
+    "model": "mlx-community/aya-expanse-8b-4bit",
+    "model_revision": "3a7cee37dd4ab4ed76642f61f6253da4748e63ba",
+    "prompt_sha256": "b7f9c25c4fa7dea30d57478795d497d15449100792788277e886d680e5446463",
+    "review_status": "failed",
+    "runtime_version": "0.30.7",
+    "workflow_version": "pt-en-translation-prompt/v6"
+  },
+  "translation_text_sha256": "c4263ce4aba9e481b67ec1e6288b916f1b3e530d7c8ced5aa3068b8f9384c67e"
+}

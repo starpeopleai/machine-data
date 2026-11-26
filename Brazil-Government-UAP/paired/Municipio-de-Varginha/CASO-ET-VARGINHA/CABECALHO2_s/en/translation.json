@@ -1,0 +1,41 @@
+{
+  "document_id": "doc-69946cf465cd97267009fd03",
+  "pages": [
+    {
+      "page_id": "page-c0ebfc8ba417482deb01535f",
+      "page_index": 1,
+      "segments": [
+        {
+          "end_ms": null,
+          "error": "PermissionError: [Errno 13] Permission denied: '/Volumes/UFO-Work'",
+          "page_id": "page-c0ebfc8ba417482deb01535f",
+          "qa_findings": [],
+          "review_status": "failed",
+          "segment_id": "seg-d5a84c9551fe7048b5d83e67",
+          "segment_index": 1,
+          "source_segment_id": "seg-d5a84c9551fe7048b5d83e67",
+          "source_text_sha256": "9340fb6264417b9936f4fd17ea0927fdcc24ae3bcc6c8fade46d9a96462d9098",
+          "start_ms": null,
+          "status": "failed",
+          "text": "",
+          "translation_text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      ],
+      "source_page_id": "page-c0ebfc8ba417482deb01535f"
+    }
+  ],
+  "schema": "ufo-files-portuguese-translation/v1",
+  "segments": [],
+  "source_language": "pt-BR",
+  "target_language": "en",
+  "translation": {
+    "generated_at": "2026-11-26T06:17:29Z",
+    "method": "local-mlx-lm",
+    "model": "mlx-community/aya-expanse-8b-4bit",
+    "model_revision": "3a7cee37dd4ab4ed76642f61f6253da4748e63ba",
+    "prompt_sha256": "b7f9c25c4fa7dea30d57478795d497d15449100792788277e886d680e5446463",
+    "review_status": "failed",
+    "runtime_version": "0.30.7",
+    "workflow_version": "pt-en-translation-prompt/v6"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "entities": [
+    {
+      "aliases": [
+        "VARGINHA"
+      ],
+      "category": "location",
+      "counting_policy": "one occurrence per canonical source segment; translation is supplemental",
+      "entity_id": "ent-4dac4fdf3a7c3a9ef3b2d726",
+      "evidence_languages": [
+        "pt-BR"
+      ],
+      "mention_count": 1,
+      "name": "Varginha",
+      "source_segment_ids": [
+        "seg-d5a84c9551fe7048b5d83e67"
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "entity_id": "ent-4dac4fdf3a7c3a9ef3b2d726",
+      "languages": [
+        "pt-BR"
+      ],
+      "mentions": [
+        "VARGINHA"
+      ],
+      "source_segment_id": "seg-d5a84c9551fe7048b5d83e67"
+    }
+  ],
+  "schema": "ufo-files-cross-language-entities/v1"
+}
