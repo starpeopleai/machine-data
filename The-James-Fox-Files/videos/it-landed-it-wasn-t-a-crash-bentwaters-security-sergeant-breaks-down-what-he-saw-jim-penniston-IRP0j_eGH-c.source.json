@@ -1,0 +1,13 @@
+{
+  "backend": "mlx",
+  "created_at": "2026-11-26T22:30:51Z",
+  "model": "large-v3",
+  "schema": "ufo-files-archive-media-transcripts/v1",
+  "source_bytes": 741569333,
+  "source_ctime_ns": 1795731315258681126,
+  "source_file": "originals/The-James-Fox-Files/videos/it-landed-it-wasn-t-a-crash-bentwaters-security-sergeant-breaks-down-what-he-saw-jim-penniston-IRP0j_eGH-c.mp4",
+  "source_mtime": 1795731262,
+  "source_mtime_ns": 1795731262205454111,
+  "source_rel": "The-James-Fox-Files/videos/it-landed-it-wasn-t-a-crash-bentwaters-security-sergeant-breaks-down-what-he-saw-jim-penniston-IRP0j_eGH-c.mp4",
+  "transcript_path": "The-James-Fox-Files/videos/it-landed-it-wasn-t-a-crash-bentwaters-security-sergeant-breaks-down-what-he-saw-jim-penniston-IRP0j_eGH-c.tsv"
+}

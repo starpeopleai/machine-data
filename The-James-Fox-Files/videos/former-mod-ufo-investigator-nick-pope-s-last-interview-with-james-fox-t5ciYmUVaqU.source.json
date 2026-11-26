@@ -1,0 +1,13 @@
+{
+  "backend": "mlx",
+  "created_at": "2026-11-26T22:26:24Z",
+  "model": "large-v3",
+  "schema": "ufo-files-archive-media-transcripts/v1",
+  "source_bytes": 596838973,
+  "source_ctime_ns": 1795731432392949779,
+  "source_file": "originals/The-James-Fox-Files/videos/former-mod-ufo-investigator-nick-pope-s-last-interview-with-james-fox-t5ciYmUVaqU.mp4",
+  "source_mtime": 1795731387,
+  "source_mtime_ns": 1795731387473765373,
+  "source_rel": "The-James-Fox-Files/videos/former-mod-ufo-investigator-nick-pope-s-last-interview-with-james-fox-t5ciYmUVaqU.mp4",
+  "transcript_path": "The-James-Fox-Files/videos/former-mod-ufo-investigator-nick-pope-s-last-interview-with-james-fox-t5ciYmUVaqU.tsv"
+}

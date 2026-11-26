@@ -1,0 +1,13 @@
+{
+  "backend": "mlx",
+  "created_at": "2026-11-26T22:42:18Z",
+  "model": "large-v3",
+  "schema": "ufo-files-archive-media-transcripts/v1",
+  "source_bytes": 1637282903,
+  "source_ctime_ns": 1795564522077926668,
+  "source_file": "originals/American-Alchemy/videos/the-japanese-monk-that-stole-nasas-ufo-footage-banned-from-the-u-s-NO-z5BaM61U.mp4",
+  "source_mtime": 1795564413,
+  "source_mtime_ns": 1795564413163612604,
+  "source_rel": "American-Alchemy/videos/the-japanese-monk-that-stole-nasas-ufo-footage-banned-from-the-u-s-NO-z5BaM61U.mp4",
+  "transcript_path": "American-Alchemy/the-japanese-monk-that-stole-nasas-ufo-footage-banned-from-the-u-s-NO-z5BaM61U.tsv"
+}

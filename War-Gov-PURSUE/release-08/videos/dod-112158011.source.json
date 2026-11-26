@@ -1,0 +1,13 @@
+{
+  "backend": "mlx",
+  "created_at": "2026-11-26T22:32:22Z",
+  "model": "large-v3",
+  "schema": "ufo-files-archive-media-transcripts/v1",
+  "source_bytes": 17119653,
+  "source_ctime_ns": 1795213386415717639,
+  "source_file": "originals/War-Gov-PURSUE/release-08/videos/dod-112158011.mp4",
+  "source_mtime": 1795213385,
+  "source_mtime_ns": 1795213385511779883,
+  "source_rel": "War-Gov-PURSUE/release-08/videos/dod-112158011.mp4",
+  "transcript_path": "War-Gov-PURSUE/release-08/videos/dod-112158011.tsv"
+}
