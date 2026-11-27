@@ -12,9 +12,10 @@ from .common import SCHEMA, FEED_SCHEMA, EVENT, STATION, HASH, encode, digest, i
 # Reject unrecognized fields at every level; public exports cannot grow private
 # metadata accidentally when station schemas change.
 FIELDS = {
- 'record': 'schema id station_id capture_event_id status reason human_classification review_scope recordings annotations archive_bundles location ce5_playback recording_window_start_epoch recording_window_end_epoch original_prediction',
+ 'record': 'schema id station_id capture_event_id status reason human_classification review_scope recordings annotations archive_bundles location ce5_playback recording_window_start_epoch recording_window_end_epoch original_prediction camera_pointing',
  'recording': 'id source_family_id capture_kind started_epoch stopped_epoch video_fps',
  'annotation': 'id classification reviewed_epoch bounds_pixels crop_sha256 frame_references',
+ 'pointing': 'azimuth_deg elevation_deg settings_epoch detected_epoch',
  'reference': 'recording_id original_frame_index',
  'bundle': 'recording_id identifier url review_revision verified_epoch assets',
  'asset': 'name sha256 bytes url',
@@ -46,6 +47,9 @@ def validate(record, station):
             if not a.get('url','').startswith('https://archive.org/download/'+b['identifier']+'/'):raise ValueError('Invalid asset URL')
     for key,kind in [('location','location'),('ce5_playback','ce5'),('original_prediction','prediction')]:
         if key in record:fields(record[key],kind)
+    if 'camera_pointing' in record:
+        pose=record['camera_pointing'];fields(pose,'pointing')
+        if not all(type(pose.get(k)) in (int,float) for k in FIELDS['pointing'].split()) or not (0<=pose['azimuth_deg']<360 and -90<=pose['elevation_deg']<=90 and 0<pose['settings_epoch']<=pose['detected_epoch']):raise ValueError('Invalid capture pointing')
     if record.get('status')=='published':
         if record.get('human_classification')!='anomalous' or not record.get('annotations') or not record.get('archive_bundles'):raise ValueError('Missing reviewed evidence')
         if record.get('location',{}).get('precision')!='county':raise ValueError('Invalid location precision')

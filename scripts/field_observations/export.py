@@ -25,7 +25,7 @@ def source_file(root, relative):
         base=Path(root)/'uap-lab/email-reviews'
         if base.is_symlink():
             resolved=base.resolve()
-            if resolved!=Path('/Volumes/UFO-SWR/review-training') or not Path('/Volumes/UFO-SWR').is_mount():
+            if not ((resolved == Path(root)/'review-training-staging' and Path(root).is_mount()) or (resolved == Path('/Volumes/UFO-SWR/review-training') and Path('/Volumes/UFO-SWR').is_mount())):
                 raise ValueError('Expected review training SSD unavailable')
             return safe_file(resolved,relative[len(prefix):])
     return safe_file(root,relative)
@@ -192,6 +192,20 @@ def observation(root, station, event_id, entries, prior):
         return dict(base,status='pending_evidence',reason='current_review_bundle_not_verified',annotations=[{'id':a} for a in sorted(positive)]) if prior else None
     # Keep one canonical event even if multiple recordings contain its frames.
     out=dict(base,status='published',human_classification='anomalous',review_scope='human_reviewed_objects',recordings=sorted(recordings,key=lambda r:r['id']),annotations=sorted(annotations.values(),key=lambda a:a['id']),archive_bundles=sorted(bundles,key=lambda b:b['identifier']),location=locations[0] if locations and all(l==locations[0] for l in locations) else {'status':'unknown','precision':'county'},ce5_playback=contexts[0] if len(contexts)==1 else {'state':'unknown'},recording_window_start_epoch=min(starts) if starts else None,recording_window_end_epoch=max(ends) if ends else None)
+    # The station settings revision is valid from its edit timestamp until superseded.
+    # Preserve the first contemporaneous pointing attached to this capture.
+    pointing = (prior or {}).get('camera_pointing')
+    if pointing is None:
+        epoch = number(event.get('detected_epoch'), 1)
+        pose = source_json(root, f'notifications/outbox/{event_id}/camera-pointing.json', optional=True)
+        if not pose:
+            pose = source_json(root, 'air-traffic/settings.json', optional=True) or {}
+        updated = number(pose.get('updated_epoch'), 1)
+        az, el = pose.get('camera_azimuth_deg'), pose.get('camera_elevation_deg')
+        if epoch and updated and updated <= epoch and epoch <= time.time() and type(az) in (int,float) and 0 <= az < 360 and type(el) in (int,float) and -90 <= el <= 90:
+            pointing = {'azimuth_deg':az, 'elevation_deg':el, 'settings_epoch':updated, 'detected_epoch':epoch}
+    if pointing:
+        out['camera_pointing'] = pointing
     original=prediction(event) or (prior or {}).get('original_prediction')
     if original:out['original_prediction']=original
     return out
