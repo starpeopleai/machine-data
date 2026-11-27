@@ -40,6 +40,21 @@ class Observations(unittest.TestCase):
         self.assertNotIn('private_source',json.dumps(record))
         self.assertEqual(record['ce5_playback']['state'],'unknown')
         self.assertEqual(refresh(self.root,self.station,self.db),0)
+    def test_pointing_is_bound_to_capture_and_remains_stable(self):
+        self.write('notifications/outbox/'+self.event+'/event.json', {'detected_epoch': 1000})
+        pose = {'updated_epoch': 1001, 'camera_azimuth_deg': 0, 'camera_elevation_deg': -5}
+        self.write('air-traffic/settings.json', pose)
+        refresh(self.root, self.station, self.db)
+        first = feed(self.db, self.station)['records'][-1]['record']
+        self.assertNotIn('camera_pointing', first)
+        pose['updated_epoch'] = 999
+        self.write('notifications/outbox/'+self.event+'/camera-pointing.json', pose)
+        refresh(self.root, self.station, self.db)
+        record = feed(self.db, self.station)['records'][-1]['record']
+        validate(record, self.station)
+        self.assertEqual(record['camera_pointing'], {'azimuth_deg':0, 'elevation_deg':-5, 'settings_epoch':999, 'detected_epoch':1000})
+        self.assertEqual(refresh(self.root, self.station, self.db), 0)
+
     def test_negative_review_withdraws(self):
         refresh(self.root,self.station,self.db)
         self.review['label']='not_anomalous';self.write_review()
