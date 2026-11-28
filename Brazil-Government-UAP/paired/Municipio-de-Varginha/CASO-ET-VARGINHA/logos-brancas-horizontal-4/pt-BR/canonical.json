@@ -1,0 +1,72 @@
+{
+  "canonical_language": "pt-BR",
+  "detected_language": {
+    "code": "und",
+    "confidence": 0.0,
+    "method": "stopword-heuristic/v1"
+  },
+  "document_id": "doc-f454a4d48061147a418549db",
+  "extraction": {
+    "engine": "tesseract-por+eng-psm3",
+    "generated_at": "2026-11-28T05:44:00Z",
+    "mode": "ocr",
+    "tools": {
+      "page_segmentation_mode": "3-auto",
+      "tesseract": "tesseract 5.5.3"
+    }
+  },
+  "medium": "image",
+  "pages": [
+    {
+      "language": {
+        "code": "und",
+        "confidence": 0.0,
+        "method": "stopword-heuristic/v1"
+      },
+      "page_id": "page-2a4b57c44eb975b71bf9f7ce",
+      "page_index": 1,
+      "segments": [
+        {
+          "end_ms": null,
+          "language": {
+            "code": "und",
+            "confidence": 0.0,
+            "method": "stopword-heuristic/v1"
+          },
+          "ocr_confidence": null,
+          "page_id": "page-2a4b57c44eb975b71bf9f7ce",
+          "segment_id": "seg-54bcae1f030318efdf4ac2cc",
+          "segment_index": 1,
+          "start_ms": null,
+          "text": "",
+          "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      ]
+    }
+  ],
+  "schema": "ufo-files-portuguese-canonical/v1",
+  "segments": [],
+  "source": {
+    "archived_original_path": "originals/Brazil-Government-UAP/Municipio-de-Varginha/CASO-ET-VARGINHA/logos-brancas-horizontal-4.png",
+    "bytes": 35463,
+    "canonical_source_identifier": "BR:MUNICIPIO-DE-VARGINHA-FUNDACAO-CULTURAL:CASO-ET-VARGINHA:b0d535f30256dd5b",
+    "collection_fonds": "Patrimônio cultural imaterial",
+    "country": "BR",
+    "direct_file_url": "https://turismo.varginha.mg.gov.br/wp-content/uploads/2026/11/logos-brancas-horizontal-4.png",
+    "document_date": "",
+    "institution": "Município de Varginha / Fundação Cultural",
+    "jurisdiction": "municipal",
+    "landing_page_url": "https://turismo.varginha.mg.gov.br/mapa-caso-et-de-varginha/",
+    "media_type": "image/png",
+    "official_identifier": "CASO-ET-VARGINHA",
+    "original_language": "pt-BR",
+    "original_title": "logos-brancas-horizontal-4.png",
+    "relative_path": "Municipio-de-Varginha/CASO-ET-VARGINHA/logos-brancas-horizontal-4.png",
+    "rights_access_note": "Acesso público em domínio oficial; sujeito aos termos do órgão.",
+    "sha256": "51b44c3cef2c80c6f73d819907c93f7c7084cf6632437c8f3a2112f14431622e",
+    "source_urls": [
+      "https://turismo.varginha.mg.gov.br/mapa-caso-et-de-varginha/",
+      "https://turismo.varginha.mg.gov.br/wp-content/uploads/2026/11/logos-brancas-horizontal-4.png"
+    ]
+  }
+}
