@@ -1,0 +1,6 @@
+{"collection": "UFO Files Data Archive", "created_utc": "2026-11-28T06:12:15Z", "dpi": 600, "engine": "mac-m3-imagemagick-tesseract-vision-ocr", "engine_mode": "ocr", "lang": "eng", "pages": 1, "preprocessing": "imagemagick target 600dpi (oversized page boxes bounded to 40 megapixels and 9000 pixels per edge): plain gray/auto-orient plus deskew/normalize/contrast/threshold variants; scored Apple Vision OCR and tesseract psm candidates", "schema": "ufo-files-archive-ocr/v1", "source_bytes": 35463, "source_ctime_ns": 1795844565395149327, "source_file": "Brazil-Government-UAP/Municipio-de-Varginha/CASO-ET-VARGINHA/logos-brancas-horizontal-4.png", "source_mtime_ns": 1795844565381973599, "source_rel": "Brazil-Government-UAP/Municipio-de-Varginha/CASO-ET-VARGINHA/logos-brancas-horizontal-4.png", "source_sha256": "51b44c3cef2c80c6f73d819907c93f7c7084cf6632437c8f3a2112f14431622e"}
+
+===== PAGE 1 =====
+{"alpha_words": 4, "chars": 33, "method": "ocr", "note": "low-confidence/possibly image-only page", "page": 1, "variant": "plain-vision"}
+PREFEITURA MUNICIPAL DE
+VARGINHA
